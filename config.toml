@@ -70,6 +70,7 @@ show_reading_time = true
   twitter = 'https://twitter.com/omidfarhangen'
   github = 'https://github.com/omidfarhang'
   mastodon = 'https://floss.social/@omid'
+  instagram = 'https://instagram.com/omidfarhang'
   mainSections = ["posts"]
   [params.navigation]
     help = 'Help'

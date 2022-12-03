@@ -3,7 +3,7 @@ title: روش استاندارد تایپ اعداد فارسی در اکسل
 date: 2014-11-16T00:09:29+00:00
 layout: single
 author_profile: true
-permalink: '/fa/2014/11/16/%d8%b1%d9%88%d8%b4-%d8%a7%d8%b3%d8%aa%d8%a7%d9%86%d8%af%d8%a7%d8%b1%d8%af-%d8%aa%d8%a7%db%8c%d9%be-%d8%a7%d8%b9%d8%af%d8%a7%d8%af-%d9%81%d8%a7%d8%b1%d8%b3%db%8c-%d8%af%d8%b1-%d8%a7%da%a9%d8%b3%d9%84/'
+url: '2014/11/16/روش-استاندارد-تایپ-اعداد-فارسی-در-اکسل'
 shortlink: https://g.omid.dev/1n5BzAz
 lang: fa
 category: techblog

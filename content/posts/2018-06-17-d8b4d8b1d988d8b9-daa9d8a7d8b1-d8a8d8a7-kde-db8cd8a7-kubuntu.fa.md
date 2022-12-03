@@ -3,7 +3,7 @@ title: شروع کار با KDE یا Kubuntu
 date: 2018-06-17T19:55:51+00:00
 layout: single
 author_profile: true
-permalink: '/fa/2018/06/17/%d8%b4%d8%b1%d9%88%d8%b9-%da%a9%d8%a7%d8%b1-%d8%a8%d8%a7-kde-%db%8c%d8%a7-kubuntu/'
+url: '2018/06/17/شروع-کار-با-kde-یا-kubuntu'
 shortlink: https://g.omid.dev/2JJRN2F
 lang: fa
 category: techblog

@@ -3,7 +3,7 @@ title: محدودیت های توییتر
 date: 2014-04-06T04:01:28+00:00
 layout: single
 author_profile: true
-permalink: '/fa/2014/04/06/%d9%85%d8%ad%d8%af%d9%88%d8%af%db%8c%d8%aa-%d9%87%d8%a7%db%8c-%d8%aa%d9%88%db%8c%db%8c%d8%aa%d8%b1/'
+url: '2014/04/06/محدودیت-های-توییتر'
 shortlink: https://g.omid.dev/21qKz62
 image: /images/sites/3/2014/04/twitter-280.jpg
 lang: fa

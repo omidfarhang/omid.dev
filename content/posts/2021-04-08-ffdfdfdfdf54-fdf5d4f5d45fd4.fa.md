@@ -3,7 +3,7 @@ title: کرونا و فقط
 date: 2021-04-08T19:55:51+00:00
 layout: single
 author_profile: true
-permalink: '/fa/2021/04/08/%DA%A9%D8%B1%D9%88%D9%86%D8%A7-%D9%88-%D9%81%D9%82%D8%B7/'
+url: '2021/04/08/کرونا-و-فقط'
 shortlink: https://g.omid.dev/gDl9G
 lang: fa
 category: blog
