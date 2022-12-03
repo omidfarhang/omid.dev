@@ -2,7 +2,6 @@
 title: Remote Assistant
 layout: single
 author_profile: true
-url: services/remote-assistant/
 lang: en
 ---
 If you have a technical problem that you are unable to solve it yourself, I will try to solve it for you, not all problems can be solved via remote access since some of them need physical access or boot into special environments that remote connections wont work there, but usually problems like broken programs, malware infections and common maintenance can be done via remote connections.
@@ -22,4 +21,4 @@ By Requesting Remote Assistant you agree that you have read and understand this 
 Schedule
 --------
 
-To schedule a remote assistant session, please visit [Contact Me](/en/contact-me/) and tell me about the problem you have.
+To schedule a remote assistant session, please visit [Contact Me]({{< ref "/contact-me" >}}) and tell me about the problem you have.

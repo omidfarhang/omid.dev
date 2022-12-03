@@ -2,7 +2,6 @@
 title: درباره من
 layout: single
 author_profile: true
-url: about-me/
 lang: fa
 ---
 رزومه کامل من: [resume.omid.dev](https://resume.omid.dev/).

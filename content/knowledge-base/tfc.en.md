@@ -2,7 +2,6 @@
 title: TFC
 layout: single
 author_profile: true
-url: knowledge-base/tfc/
 lang: en
 ---
 TFC (Temp File Cleaner) will clear out all temp folders for all user accounts (temp, IE temp, java, FF, Opera, Chrome, Safari), including Administrator, All Users, LocalService, NetworkService, and any other accounts in the user folder. It also cleans out the %systemroot%\\temp folder and checks for .tmp files in the %systemdrive% root folder, %systemroot%, and the system32 folder (both 32bit and 64bit on 64bit OSs). It shows the amount removed for each location found (in bytes) and the total removed (in MB). Before running it will stop Explorer and all other running apps. When finished, if a reboot is required the user must reboot to finish clearing any in-use temp files.

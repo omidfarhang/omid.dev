@@ -2,7 +2,6 @@
 title: Donate
 layout: single
 author_profile: true
-url: contact-me/donate/
 lang: en
 ---
 If you have used any of the services I offer inside and outside of my website you have noticed that I offer them all for free without requiring you to pay anything for them.
@@ -11,7 +10,7 @@ Also as you know, everyone's life has its own costs, or even just maintenance a 
 
 Currently I've set the goal to $1000 to renew my technical equipment as it's most essential for now.
 
-You can send your donations via [Payment Options](/en/contact-me/payment-options/).
+You can send your donations via [Payment Options](payment-options).
 
 Thanks.
 

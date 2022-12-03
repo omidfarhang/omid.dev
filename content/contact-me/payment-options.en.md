@@ -2,7 +2,6 @@
 title: Payment Options
 layout: single
 author_profile: true
-url: contact-me/payment-options/
 lang: en
 ---
 You may use following options for payments

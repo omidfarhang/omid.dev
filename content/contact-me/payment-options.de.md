@@ -2,7 +2,6 @@
 title: Zahlungsmöglichkeiten
 layout: single
 author_profile: true
-url: contact-me/payment-options/
 lang: de
 ---
 Sie können folgende Zahlungsmöglichkeiten nutzen

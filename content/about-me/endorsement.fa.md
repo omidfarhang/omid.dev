@@ -2,7 +2,6 @@
 title: Endorsement
 layout: single
 author_profile: true
-url: about-me/endorsement/
 lang: fa
 ---
 Would you like to Recommend me too? If so, you may do it via my LinkedIn profile:

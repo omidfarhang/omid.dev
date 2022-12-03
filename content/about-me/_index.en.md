@@ -2,7 +2,6 @@
 title: About Me
 layout: single
 author_profile: true
-url: about-me/
 lang: en
 ---
 You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/).

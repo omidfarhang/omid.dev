@@ -2,7 +2,6 @@
 title: Über mich
 layout: single
 author_profile: true
-url: about-me/
 lang: de
 ---
 Meinen Lebenslauf finden Sie hier: [resume.omid.dev](https://resume.omid.dev/).

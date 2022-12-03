@@ -2,7 +2,6 @@
 title: نحوه پرداخت
 layout: single
 author_profile: true
-url: contact-me/payment-options/
 lang: fa
 ---
 برای پرداخت های ریالی خود می توانید هزینه ها را به صورت آنلاین، کارت به کارت و یا واریز به حساب انجام دهید:

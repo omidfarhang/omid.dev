@@ -2,7 +2,6 @@
 title: شبکه
 layout: single
 author_profile: true
-url: services/network/
 lang: fa
 ---
 * طراحی، اجرا و فعال سازی شبکه های کوچک و متوسط خانگی و اداری.
