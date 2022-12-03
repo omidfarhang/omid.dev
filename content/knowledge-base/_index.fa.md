@@ -1,7 +1,5 @@
 ---
-title: Knowledge Base
-layout: single
-author_profile: true
+title: مخزن دانش
 lang: fa
 ---
-KB
+

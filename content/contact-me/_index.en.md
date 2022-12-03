@@ -1,7 +1,6 @@
 ---
 title: Contact Me
 layout: single
-author_profile: true
 lang: en
 ---
 Most common options to contact me is listed in the left column of this page, if none of them works for you, use one of the following links.

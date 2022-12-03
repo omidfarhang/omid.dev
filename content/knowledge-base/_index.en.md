@@ -1,7 +1,4 @@
 ---
-title: Wissensbasis
-layout: single
-author_profile: true
+title: Knowledge Base
 lang: en
 ---
-KB

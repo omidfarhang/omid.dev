@@ -1,7 +1,6 @@
 ---
 title: Kontaktiere Mich
 layout: single
-author_profile: true
 lang: de
 ---
 Die gebräuchlichsten Kontaktmöglichkeiten sind in der linken Spalte dieser Seite aufgeführt. Wenn keine davon für Sie funktioniert, verwenden Sie einen der folgenden Links.

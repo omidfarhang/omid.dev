@@ -7,6 +7,8 @@ defaultContentLanguage = 'en'
 
 disqusShortname = 'omidnetwork'
 
+sectionPagesMenu = "main"
+
 [markup]
   [markup.highlight]
     anchorLineNos = false
