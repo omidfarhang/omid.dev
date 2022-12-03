@@ -7,7 +7,30 @@ defaultContentLanguage = 'en'
 
 disqusShortname = 'omidnetwork'
 
-sectionPagesMenu = "main"
+show_reading_time = true
+
+[menu]
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Posts'
+  url = '/posts'
+  weight = 1
+[[menu.main]]
+  identifier = 'aboutMe'
+  name = 'About me'
+  url = '/about-me'
+  weight = 1
+[[menu.main]]
+  identifier = 'contactMe'
+  name = 'Contact me'
+  url = '/contact-me'
+  weight = 1
+[[menu.main]]
+  identifier = 'services'
+  name = 'Services'
+  url = '/services'
+  weight = 1
+
 
 [markup]
   [markup.highlight]

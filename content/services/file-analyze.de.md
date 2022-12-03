@@ -1,12 +1,10 @@
 ---
-title: آنالیز تخصصی فایل ها
+title: Advanced File Analyze
 layout: single
-author_profile: true
 lang: de
 ---
-اگر فایلی ناشناس، مشکوک یا ویروسی و یا اگر به هر دلیل دیگر نیاز به بررسی تخصصی یک فایل دارید، فایل را برای من ارسال کرده و توضیح دهید اطلاعات مورد نظراتان چیست.
+If you have any unknown or suspect file in your computer and you want to know what they do, e.g. if they are malware or not or every other kind of analyze etc feel free to send them to me, I will check them as soon I've got free time and will send back the result to you.
 
-چگونه فایل ها را ارسال کنید؟
-----------------------------
+### How to send files?
 
-جهت ارسال فایل‌ها به صفحه [تماس با من]({{< ref "/contact-me" >}}) مراجعه کنید و مورد خودتون رو مطرح کنید و من دسترسی ارسال فایل رو برای شما میفرستم.
+Please visit [Contact Me]({{< ref "/contact-me" >}}) and tell me about the problem you have, I'll send you preferred method to share files.
