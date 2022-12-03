@@ -1,0 +1,23 @@
+baseURL = 'http://omid.dev/'
+title = 'Omid Farhang'
+theme = 'ananke'
+
+copyright = '© 2022 Omid Farhang.'
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    title = 'Omid Farhang'
+    weight = 1
+    languageCode = 'en-us'
+    [languages.en.params]
+      linkedin = 'https://linkedin.com/whoever'
+  [languages.fa]
+    title = 'امید فرهنگ'
+    weight = 2
+    languagedirection = 'rtl'
+  [languages.de]
+    title = 'Omid Farhang'
+    weight = 2
+[params]
+  [params.navigation]
+    help = 'Help'

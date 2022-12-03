@@ -1,0 +1,32 @@
+---
+title: Slayer star Jeff Hanneman died of alcohol-related liver scarring
+date: 2013-05-10T23:08:35+00:00
+layout: single
+author_profile: true
+url: 2013/05/10/slayer-star-jeff-hanneman-died-of-alcohol-related-liver-scarring/
+image: /images/sites/4/2013/05/hanneman2.jpg
+tags:
+  - Slayer
+  - Music
+lang: en
+category: entblog
+---
+<figure id="attachment_414" aria-describedby="caption-attachment-414" style="width: 189px" class="wp-caption alignright">[<img class="size-medium wp-image-414" alt="Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010." src="/images/2013/05/hanneman2-199x300.jpg" width="199" height="300" srcset="/images/sites/4/2013/05/hanneman2-199x300.jpg 199w, /images/sites/4/2013/05/hanneman2.jpg 346w" sizes="(max-width: 199px) 100vw, 199px" />](/images/2013/05/hanneman2.jpg)<figcaption id="caption-attachment-414" class="wp-caption-text">Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010.</figcaption></figure> 
+
+**(Reuters) &#8211; Guitarist Jeff Hanneman of the seminal heavy metal band Slayer died of alcohol-related cirrhosis of the liver, and not as a result of a flesh-eating bacteria, the remaining members of the U.S. band said.**
+
+Hanneman, a founder of the band, which was known for its fast tempo, dark themes and pounding drums, died last week at age 49 in Southern California after suffering liver failure.
+
+The band issued the statement on Thursday clarifying the cause of Hanneman's death following speculation that necrotizing fasciitis, a rare flesh-eating infection he believed he had contracted in 2011 through a spider bite, contributed to the &#8220;Raining Blood&#8221; guitarist's death.
+
+&#8220;While he had his health struggles over the years, including the recent necrotizing fasciitis infection that devastated his well-being, Jeff and those close to him were not aware of the true extent of his liver condition until the last days of his life,&#8221; the band said in a statement posted on its website.
+
+The band said Hanneman was never on a list waiting for a liver transplant and his health had appeared to be improving recently as the band readied to work on a new album.
+
+Slayer, which Hanneman founded with fellow guitarist Kerry King in the early 1980s, was known as one of the &#8220;big four&#8221; thrash metal groups of the decade, along with Anthrax, Megadeth and Metallica.
+
+Hanneman wrote many of the best known songs, including &#8220;Angel of Death&#8221; on Slayer's landmark 1986 album &#8220;Reign of Blood.&#8221;
+
+(Reporting by Eric Kelsey; Editing by Jill Serjeant and Bill Trott)
+
+[<img class="aligncenter size-full wp-image-413" alt="hanneman" src="/images/2013/05/hanneman.jpg" width="506" height="394" srcset="/images/sites/4/2013/05/hanneman.jpg 506w, /images/sites/4/2013/05/hanneman-300x233.jpg 300w" sizes="(max-width: 506px) 100vw, 506px" />](/images/2013/05/hanneman.jpg)

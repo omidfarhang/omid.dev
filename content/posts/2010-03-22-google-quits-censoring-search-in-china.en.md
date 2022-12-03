@@ -1,0 +1,84 @@
+---
+title: Google quits censoring search in China
+date: 2010-03-22T23:09:00+00:00
+layout: single
+author_profile: true
+url: 2010/03/22/google-quits-censoring-search-in-china/
+tags:
+  - Google
+  - news
+  - YouTube
+lang: en
+category: techblog
+---
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600-h/story.google.china.gi.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600/story.google.china.gi.jpg" /></a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <span>Google's decision to stop censoring search results <br />in China may lead the Chinese government to <br />block access to its sites.</span>
+    </td>
+  </tr>
+</table>
+
+Google on Monday announced it has stopped censoring search results in China.
+
+The announcement came amid speculation that the search giant would pull out of China entirely and sets up a showdown with the Communist leadership there.
+
+In a 3:03 p.m. ET post on its official blog, Google said it stopped running the censored Google.cn service on Monday and was routing its Chinese users to an uncensored version of Google based in Hong Kong.
+
+&#8220;We want as many people in the world as possible to have access to our services, including users in mainland China, yet the Chinese government has been crystal clear throughout our discussions that self-censorship is a non-negotiable legal requirement,&#8221; said Senior Vice President David Drummond, Google's chief legal officer, on the blog.
+
+Google hopes the move &#8220;will meaningfully increase access to information for people in China,&#8221; Drummond wrote.
+
+&#8220;We very much hope that the Chinese government respects our decision, though we are well aware that it could at any time block access to our services,&#8221; he added.
+
+Google said it would be carefully monitoring to see if access to the site is blocked in mainland China.
+
+Early reports from China on Monday suggested that the Chinese government was already restricting access to Google's Hong Kong-based site, said Eddan Katz, International Affairs Director of the Electronic Frontier Foundation.
+
+&#8220;We've already heard indications that visitors to Google.hk are getting &#8216;can't find page' errors,&#8221; he said.
+
+The company on Monday also launched a <a href="http://www.google.com/prc/report.html#hl=en" target="new">dashboard page</a>, which it promises to update regularly each day, that will show which Google services are available in China. According to the page, YouTube, Google Sites and Google's Blogger apps were blocked Monday afternoon.
+
+Observers said Google's actions amounts to a de facto withdrawal from China by putting the ball in the court of a Chinese regime that virtually everyone expects will begin censoring search results on the site.
+
+Ron Diebert, director of the <a href="http://citizenlab.org/" target="new">Citizen Lab</a> at the University of Toronto, which studies the intersection of digital policy and human rights, said Google's move didn't come as a surprise.
+
+&#8220;It's become unsustainable for Google to operate in this environment,&#8221; he said. &#8220;They've made a decision that the risks are too great for them, so they're going to pull out.&#8221;
+
+Google launched Google.cn, its China effort, in 2006 amid complaints that its devotion to Web freedom was being subverted by a willingness to comply with Chinese censorship in return for access to a huge potential customer base.
+
+The company, whose slogan is &#8220;don't be evil,&#8221; countered that by operating in limited form, it gave Chinese users more information than than they would have had otherwise. Google also hoped its presence would speed a move toward online freedom in China.
+
+In January, Google announced that the company and at least 20 others were victims of a &#8220;highly sophisticated and targeted attack&#8221; originating in China in mid-December, evidently to gain access to the e-mail accounts of Chinese human rights activists.
+
+The company said the attacker or attackers gained access to the header &#8212; or subject-line information &#8212; from the e-mails of two human rights activists through the Google network.
+
+As a result, the company said, it was no longer willing to abide by the filters that the Chinese government demanded on certain searches before allowing Google to operate in the country.
+
+For a brief time afterward, Google.cn was retrieving results for sensitive topics including the 1989 crackdown at Tiananmen Square, the Dalai Lama and the banned Falun Gong spiritual movement. But about a day later, search results appeared to return to normal.
+
+Advocates of Internet freedoms cheered Google's move Monday.
+
+&#8220;It demonstrates that a company like Google, with the business stakes in a market as large as China, can make the decision that free and open Internet is a better business alternative and a better ethical choice for its users,&#8221; said Katz of the Electronic Frontier Foundation, which promotes free speech online.
+
+Internet users naturally gravitate toward sites that offer unrestricted access to information, he said. &#8220;This is an example of how the genie can't be put back in the bottle.&#8221;
+
+Diebert, who co-founded the <a href="http://opennet.net/" target="new">OpenNet Initiative</a>, said China's next move may not be to just block access to Google but to go a step further: blocking all outside search engines from accessing Web information in China.
+
+&#8220;If such a radical measure happens, that would have major implications for cyberspace as a whole,&#8221; he said. &#8220;It would point to a more regionalized Internet&#8221; and perhaps embolden countries like Iran to follow suit, Diebert said.
+
+Google.cn is the preferred search tool for about 13 percent of Chinese Web users, according to a state-sponsored survey. Baidu.com, a government-friendly Chinese search engine, dominates the market in mainland China with about 77 percent of users, the survey said.
+
+Google's announcement had been widely anticipated. Internet companies operating in China face a March 31 deadline to renew licenses to operate in the country, according to the Beijing Communications Administration.
+
+The blog post by Drummond said Google plans to continue research and development work in China and to maintain a limited sales presence there.
+
+In an apparent attempt to deflect blame for the decision from Google employees still living in China, the post specified that the decision was made by Google's top brass in the United States.
+
+&#8220;Despite all the uncertainty and difficulties they have faced since we made our announcement in January, [Google's China employees] have continued to focus on serving our Chinese users and customers,&#8221; the blog said. &#8220;We are immensely proud of them.&#8221;

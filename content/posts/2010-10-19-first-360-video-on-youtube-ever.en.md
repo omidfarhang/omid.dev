@@ -1,0 +1,16 @@
+---
+title: First 360° video on Youtube, ever!!!
+date: 2010-10-19T18:51:00+00:00
+layout: single
+author_profile: true
+url: 2010/10/19/first-360-video-on-youtube-ever/
+tags:
+  - link
+  - Video
+  - YouTube
+lang: en
+category: techblog
+---
+Today Doritos Late Night presented the first 360 degree musicvideo on youtube. It’s the musicvideo of Professor Green with his latest hit: “Coming to get me”. [Go and check it out!!!!](http://www.youtube.com/doritosuk)
+
+<a href="http://www.youtube.com/doritosuk" target="_blank"><img title="youtube" border="0" alt="youtube" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TL3hoyhvIqI/AAAAAAAACws/uKAKAyYKsVY/youtube%5B4%5D.png?imgmax=800" width="304" height="156" /></a>
