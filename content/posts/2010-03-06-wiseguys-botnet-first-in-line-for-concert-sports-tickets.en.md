@@ -35,4 +35,4 @@ This affair is a perfect example of a targeted attack (here against the online t
 
 Check out this video for CNN’s coverage":
 
-{% include video id="ODnWfiv4G04" provider="youtube" %}
+{{< youtube ODnWfiv4G04 >}}

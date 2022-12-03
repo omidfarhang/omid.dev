@@ -16,13 +16,13 @@ Next day and time to connect that Holter Monitor (Not for Heart rhythm, for Bloo
 
 They got a lot of money (enough said!) and my ID Card until I return this device to them, now going back to home!
 
-[<img class="aligncenter size-full wp-image-227" alt="Image023" src="/images/2010/11/Image023.jpg" width="375" height="500" srcset="/images/sites/2/2010/11/Image023.jpg 375w, /images/sites/2/2010/11/Image023-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" />](/images/2010/11/Image023.jpg)
+![](/images/2010/11/Image023.jpg)
 
 Notice my left arm, it’s blowing air to that thing to take my Blood Pressure every 15 minutes, yeah I felt it \****ed my hand during this 24 hours!
 
 The guy who connected this to me, was not so bad!! Just I was afraid it ran out battery and I need to recharge!! LOL! Look at this to find story:
 
-http://www.youtube.com/watch?v=t2koYVqwzT4
+{{< youtube t2koYVqwzT4 >}}
 
 Why I was afraid!
 

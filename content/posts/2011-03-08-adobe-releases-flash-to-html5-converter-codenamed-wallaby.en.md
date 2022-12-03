@@ -27,4 +27,4 @@ In a release, a company rep stated, “With more than 3 million Flash developers
 
 Check out last fall’s demo of the app, and in the comments section, let us know what you think of Wallaby so far. And if you do decide to download Wallaby yourself, let us know how it worked out for you.
 
-{% include video id="ryZP00_KhYE" provider="youtube" %}
+{{< youtube ryZP00_KhYE >}}

@@ -19,7 +19,7 @@ The first thing you’ll notice upon booting Raring Ringtail is that Unity, and 
 
 Moving from the core and into userland, Ubuntu 13.04 features updated versions of Firefox, LibreOffice, and Python. The workspace switcher has been removed from the Unity launcher by default, and Ubuntu One (Canonical’s cloud storage service) can now be controlled from the system tray. If you add some social media accounts, such as Twitter or Facebook, there’s also a new “Friends” lens, which is a lot like the People app in Windows 8 — basically, you can browse your friends’ latest updates, like, retweet, and so on. Overall, though, not a whole lot has outwardly changed in Ubuntu 13.04 — it’s definitely more of a tweak-and-polish release. For a good overview of Ubuntu 13.04′s new features, watch the video below.
 
-{% include video id="fH2VHiIW_dE" provider="youtube" %}
+{{< youtube fH2VHiIW_dE >}}
 
 If you want to try out Ubuntu 13.04, your best bet is to [download the ISO](http://releases.ubuntu.com/raring/) and [install it in VirtualBox](http://www.extremetech.com/computing/96643-how-to-run-windows-8-in-virtualbox) — or, if you’re feeling daring, and perhaps a little [disillusioned with Windows 8](http://www.extremetech.com/computing/121015-windows-8-may-drive-me-to-linux), how about you try running Ubuntu 13.04 as your primary OS? You might be pleasantly surprised. If you’d rather just dangle a toe or two in the water, there’s [an excellent guided tour of 13.04](http://www.ubuntu.com/tour/en/) up on the Ubuntu website.<figure id="attachment_6551" aria-describedby="caption-attachment-6551" style="width: 809px" class="wp-caption alignnone">
 

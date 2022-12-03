@@ -13,7 +13,7 @@ category: entblog
 ---
 ARTISTdirect sits down with James &#8220;Munky&#8221; Shaffer, Brian &#8220;Head&#8221; Welch, Reggie &#8220;Fieldy&#8221; Arvizu, and Ray Luzier for Korn's very first interview together about their forthcoming eleventh studio album, the upcoming tour, and so much more&#8230;
 
-{% include video id="W-4K4M_Kdd4" provider="youtube" %}
+{{< youtube W-4K4M_Kdd4 >}}
 
 Read the interview: <a href="http://www.artistdirect.com/entertainment-news/article/exclusive-munky-head-fieldy-and-ray-talk-korn-s-best-album-reunion-tour-and-more/10543989#MSkaRhKOmY7RAEtI.99" target="_blank">http://www.artistdirect.com/entertainment-news/article/exclusive-munky-head-fieldy-and-ray-talk-korn-s-best-album-reunion-tour-and-more/10543989#MSkaRhKOmY7RAEtI.99</a>
 

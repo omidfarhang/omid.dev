@@ -15,14 +15,14 @@ category: entblog
 ---
 The &#8220;Victim Of Ritual&#8221; music video from the new album &#8220;[Colours In The Dark](/2013/05/09/tarja-turunens-new-album-colours-in-the-dark/ "Tarja Turunen’s new album “Colours In The Dark”")&#8221; by <a title="Tarja Turunen" href="/entertainment/artists/tarja-turunen/" target="_blank">Tarja Turunen</a> is now visible worldwide
 
-{% include video id="7PHr2NHfCjo" provider="youtube" %}
+{{< youtube 7PHr2NHfCjo >}}
 
 Download the single & video via iTunes: <a dir="ltr" title="http://smarturl.it/Tarja_VOR" href="http://smarturl.it/Tarja_VOR" target="_blank" rel="nofollow">http://smarturl.it/Tarja_VOR</a>  
 Click here to pre-order the new album &#8220;Colours In The Dark&#8221;: <a dir="ltr" title="http://www.tarja-coloursinthedark.com/#album" href="http://www.tarja-coloursinthedark.com/#album" target="_blank" rel="nofollow">http://www.tarja-coloursinthedark.com/</a>
 
 Watch the official Lyric Video for &#8220;Never Enough&#8221; from &#8220;Colours In The Dark&#8221;:
 
-{% include video id="-MLU25MQU9w" provider="youtube" %}
+{{< youtube -MLU25MQU9w >}}
 
 It all starts with a mystic woman dressed in black, slowly striding through long corridors: Tarja. Cut. Then, a painter, a dancer and an oboe player are shown in a dusty, old factory. All caged in their dull habits, their daily tasks, repeating their monotone movements over and over again &#8212; all victims of their rituals.  
 Tarja is coming to their rescue. With a hint of a smile and powerful colours, she is able to free them and brings out the best in each of them. It all could have ended here, wasn't it for the dark, suspicious figures. They have been following Tarja the whole time, watching her every move and then, chase her, try to get her down. Will they succeed or will Tarja win the epic final battle?

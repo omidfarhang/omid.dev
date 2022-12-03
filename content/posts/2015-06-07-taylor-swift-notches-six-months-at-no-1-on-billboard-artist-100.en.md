@@ -13,7 +13,7 @@ tags:
 lang: en
 category: entblog
 ---
-_from <a href="https://plus.google.com/112861411761704696473/posts/HE9kvAgD9tb" target="_blank">Taylor Swift Universe</a>_
+_from [Taylor Swift Universe](https://plus.google.com/112861411761704696473/posts/HE9kvAgD9tb)_
 
 Taylor Swift makes it an even six months at No. 1 on the Billboard Artist 100 (dated June 6), as she rules the list for a 26th week, bolstered by the coronation of her new single, &#8220;Bad Blood,&#8221; on the Billboard Hot 100.
 

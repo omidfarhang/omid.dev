@@ -10,6 +10,7 @@ lang: en
 category: blog
 ---
 I've been bored today and playing random videos and this one made me smile, so I want to share with you 🙂  
-http://www.youtube.com/watch?v=0BhMD_k35gE  
+
+{{< youtube 0BhMD_k35gE >}}
+
 Have a good times!  
--Omid

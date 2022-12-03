@@ -17,9 +17,9 @@ category: techblog
 ---
 Google has finally announced its new phone ‘Nexus S’ manufactured by Samsung and is the first phone powered by the latest Android 2.3 Gingerbread OS. Nexus S is a successor of Nexus One and looks an amazing Android phone with powerful hardware.
 
-[<img title="nexus_s_logo" border="0" alt="nexus_s_logo" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP1AsI2ZVsI/AAAAAAAADWg/_qRapB3yA_o/nexus_s_logo_thumb.png?imgmax=800" width="175" height="41" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TP1Aq0b1tFI/AAAAAAAADWc/WRW0ss7-iME/s1600-h/nexus_s_logo%5B2%5D.png)
+![](http://lh6.ggpht.com/_vaUVXcmC3OI/TP1Aq0b1tFI/AAAAAAAADWc/WRW0ss7-iME/s1600-h/nexus_s_logo%5B2%5D.png)
 
-[<img title="GoogleNexusS" border="0" alt="GoogleNexusS" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP1Av_xIRXI/AAAAAAAADWo/D2EzJIH5jxw/GoogleNexusS_thumb%5B2%5D.jpg?imgmax=800" width="400" height="363" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP1Atahc91I/AAAAAAAADWk/a112IZvmNaw/s1600-h/GoogleNexusS%5B4%5D.jpg)
+![](http://lh3.ggpht.com/_vaUVXcmC3OI/TP1Atahc91I/AAAAAAAADWk/a112IZvmNaw/s1600-h/GoogleNexusS%5B4%5D.jpg)
 
 **Nexus S Official Specifications:**
 
@@ -101,23 +101,10 @@ Google has finally announced its new phone ‘Nexus S’ manufactured by Samsung
 
 **Official Video – Introducing Nexus S**
 
-<div>
-  <div>
-    <div>
-      <a href="http://www.youtube.com/watch?v=lxUXulxE5o0" target="_new"><img src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP1AxicahlI/AAAAAAAADWs/l2bAh_XBmj8/video91c0d8a41976%5B5%5D.jpg?imgmax=800" galleryimg="no" onload="var downlevelDiv = document.getElementById('dd079690-df97-4ead-bc47-0b0eac84c000'); downlevelDiv.innerHTML = " 
-      
-      <div>
-        <object width=\"448\" height=\"252\"><param name=\"movie\" value=\"http://www.youtube.com/v/lxUXulxE5o0?hl=en&hd=1\"><\/param><embed src=\"http://www.youtube.com/v/lxUXulxE5o0?hl=en&hd=1\" type=\"application/x-shockwave-flash\" width=\"448\" height=\"252\"><\/embed><\/object><\/div>&#8220;;&#8221; alt=&#8221;&#8221;></a>
-      </div></div> </div> 
-      
-      <p>
-        <strong>Availability </strong>&#8211; After December 16, Nexus S will be sold unlocked and carrier-independent initially through Best Buy stores in the U.S. and after December 20 at Carphone Warehouse stores in the UK.
-      </p>
-      
-      <p>
-        <strong>Price </strong>&#8211; Customers can purchase Nexus S for $529 as an unlocked phone without a contract. Nexus S optimized for T-Mobile’s network is available for $199 with a two-year service agreement and qualifying voice and data plan.
-      </p>
-      
-      <p>
-        Check the official site of Nexus S @ <a href="http://www.google.com/nexus/">www.google.com/nexus</a>
-      </p>
+{{< youtube lxUXulxE5o0 >}}
+
+**Availability** – After December 16, Nexus S will be sold unlocked and carrier-independent initially through Best Buy stores in the U.S. and after December 20 at Carphone Warehouse stores in the UK.
+
+**Price** – Customers can purchase Nexus S for $529 as an unlocked phone without a contract. Nexus S optimized for T-Mobile’s network is available for $199 with a two-year service agreement and qualifying voice and data plan.
+
+Check the official site of Nexus S @ [www.google.com/nexus](http://www.google.com/nexus/)

@@ -28,4 +28,4 @@ _&#8216;It's gonna be better tomorrow'._
 _Falling away from me._  
 _Falling away from me._
 
-http://www.youtube.com/watch?v=2s3iGpDqQpQ
+{{< youtube 2s3iGpDqQpQ >}}

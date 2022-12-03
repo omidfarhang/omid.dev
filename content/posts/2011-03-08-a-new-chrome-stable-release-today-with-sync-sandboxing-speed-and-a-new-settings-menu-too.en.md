@@ -19,12 +19,12 @@ _cross-posted on the [Official Google Blog](http://googleblog.blogspot.com/2011/
 
 We realize that speed isn’t just about pure brawn in the browser—it’s also about saving time with simple interfaces. Chrome’s new settings interface will help you get to the right settings quickly so you don’t have to dig endlessly to find a way to [import your bookmarks](http://www.google.com/support/chrome/bin/answer.py?answer=95418) or [change your browser’s homepage](http://www.google.com/support/chrome/bin/answer.py?answer=95314). We’ve added a search box that shows you the settings you’re looking for, as you type. On top of that, you can also copy and paste a direct link into Chrome’s address bar to jump to a specific settings page. (No more long, frustrating phone conversations with your dad on where to find that specific setting in the browser!) Here’s the [new settings interface](http://www.google.com/support/chrome/bin/answer.py?answer=1183665) in action:
 
-{% include video id="jOxGL29-t_4" provider="youtube" %}
+{{< youtube jOxGL29-t_4 >}}
 
 For those of you who save your passwords in the browser, you can now quickly log on to the websites you frequent even when you switch computers, bsimply [synchronizing](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=165139) those passwords across your computersYou can also encrypt those passwords with your own secret passphraseenable sync on each of your computers, visithe “Personal Stuff” section in Chrome’s settings (or just type “sync” in the settings search box). You can also choose to sync [bookmarks](http://wwgoogle.com/support/chrome/bin/answer.py?answer=95739), [extensions](http://www.google.com/support/chrome/bin/answer.panswer=154007), preferences, [themes](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=1053371) anmore.
 
 Finally, you’ll be even safer as you speed around the web, as we’ve extended Chrome’s [sandboxing technology](http://www.20thingsilearned.com/browser-protectio3) to the [integrated Flash Playera> in Chrome. So if you’re using Windows Vista or newer versions, you’ll benefit from the additional layer of protection against](http://chrome.blogspot.com/2010/06/adobe-flash-player-support-now-enabled.html) [malicious webpages](http://ww20thingsilearned.com/malware/1). To learn more about sandboxing, check out this animated video:
 
-{% include video id="29e0CtgXZSI" provider="youtube" %}
+{{< youtube 29e0CtgXZSI >}}
 
 We hope that Chrome’s speed, simplicity and security will continue to make your daily life on the web more enjoyable. You can downloadbrowser at [google.com/chrome](http://www.google.com/chrome?brand=CHMP), or if you’re already using Chrome, you’ll be automaticupdated to this new version soon!

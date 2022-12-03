@@ -28,6 +28,6 @@ Buzz Life documents Buzz Aldrin’s life and appearances. You’ll find informat
 
 The app is available now for $1.99. It works on the iPad and iPod touch as well. 
 
-[<img title="buzzaldrin1" border="0" alt="buzzaldrin1" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8hmjZaj_0I/AAAAAAAAB_E/1Nu0Zf-Su8k/buzzaldrin1_thumb%5B2%5D.jpg?imgmax=800" width="504" height="379" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8hmgcHoFYI/AAAAAAAAB_A/hohmN0F8uwQ/s1600-h/buzzaldrin1%5B4%5D.jpg) 
+![](http://lh6.ggpht.com/_vaUVXcmC3OI/S8hmgcHoFYI/AAAAAAAAB_A/hohmN0F8uwQ/s1600-h/buzzaldrin1%5B4%5D.jpg) 
 
-[<img title="buzzaldrin2" border="0" alt="buzzaldrin2" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8hmpKbMtcI/AAAAAAAAB_M/2xulzrJLaaQ/buzzaldrin2_thumb%5B2%5D.jpg?imgmax=800" width="504" height="379" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8hml4vIqYI/AAAAAAAAB_I/MBAV4AySdc8/s1600-h/buzzaldrin2%5B4%5D.jpg)
+![](http://lh4.ggpht.com/_vaUVXcmC3OI/S8hml4vIqYI/AAAAAAAAB_I/MBAV4AySdc8/s1600-h/buzzaldrin2%5B4%5D.jpg)

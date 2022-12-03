@@ -17,11 +17,11 @@ _**Act 1**_ is the first Live concert released by <a title="Tarja Turunen" href=
 
 Watch the full concert here:
 
-http://www.youtube.com/watch?v=6ylUmIitDC8
+{{< youtube 6ylUmIitDC8 >}}
 
 On the 10th of July Earmusic released the very first Official Teaser for &#8220;Act 1&#8221;.
 
-[<img class="alignnone size-medium wp-image-405" alt="tarja-act-1" src="/images/2013/05/tarja-act-1-224x300.jpg" width="224" height="300" srcset="/images/sites/4/2013/05/tarja-act-1-224x300.jpg 224w, /images/sites/4/2013/05/tarja-act-1-765x1024.jpg 765w, /images/sites/4/2013/05/tarja-act-1.jpg 897w" sizes="(max-width: 224px) 100vw, 224px" />](/images/2013/05/tarja-act-1.jpg)
+![](/images/2013/05/tarja-act-1.jpg)
 
 ## Double DVD track listing
 

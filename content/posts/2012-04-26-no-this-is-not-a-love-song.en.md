@@ -25,4 +25,4 @@ When I’m alone I feel fine, I’m stay away from troubles and many pressures, 
 
 Well, I will finish this post here because I don’t know if I continue it where it will go.
 
-http://www.youtube.com/watch?v=Ryfwfc_946w
+{{< youtube Ryfwfc_946w >}}

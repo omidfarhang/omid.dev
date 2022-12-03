@@ -11,7 +11,7 @@ category: blog
 ---
 This is how I go to bed, dreaming before I sleep.
 
-{% include video id="L2lpQUQrOU8" provider="youtube" %}
+{{< youtube L2lpQUQrOU8 >}}
 
 <p align="center">
   This sunny Sunday<br /> Is a good day to go<br /> Guess you want me to stay<br /> Well then let me know<br /> And I hate to say<br /> It's been a waste of time<br /> I hate to interrupt the flow

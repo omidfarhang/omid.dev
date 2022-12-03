@@ -1,5 +1,5 @@
 ---
-title: "Avril Lavigne released &#8220;Goodbye Lullaby&#8221;"
+title: "Avril Lavigne released `Goodbye Lullaby`"
 date: 2011-03-02T14:46:49+00:00
 layout: single
 author_profile: true

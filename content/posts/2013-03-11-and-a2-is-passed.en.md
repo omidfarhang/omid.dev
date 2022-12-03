@@ -30,4 +30,4 @@ And I'm gonna start **B1 (Independent User)**:
 
 > _Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken. Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans._
 
-{% include video id="SsKyxkfj8ak" provider="youtube" %}
+{{< youtube SsKyxkfj8ak >}}

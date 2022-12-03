@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-{% include video id="waEeJJVZ5P8" provider="youtube" %}
+{{< youtube waEeJJVZ5P8 >}}
 
 A couple days ago, NBC News ran a report pegged to the Sochi Olympics about Russian hacking. In it, correspondent Richard Engel uses a &#8220;brand new&#8221; smartphone to test out the Russian internet while hanging out in a Moscow cafe. &#8220;Almost immediately,&#8221; he says in the segment, &#8220;we were hacked.&#8221; Naturally, as the security consultant NBC hired for the segment explained today, it's not true.
 

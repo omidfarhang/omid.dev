@@ -21,4 +21,4 @@ People try to help me, but it hurts me when I see how they show love and I disap
 
 And when you want the best and you get the worst, when you want to be an idealist and your ideal get lower and lower, and when you imagine a bright future for yourself and you end up in… What’s that? Life? pfffff……………..
 
-http://www.youtube.com/watch?v=DOj3wDlr_BM
+{{< youtube DOj3wDlr_BM >}}

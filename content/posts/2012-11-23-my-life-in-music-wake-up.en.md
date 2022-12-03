@@ -12,7 +12,7 @@ category: blog
 ---
 This is how I start my day, everyday:
 
-{% include video id="WLJY-N9QSD8" provider="youtube" %}
+{{< youtube WLJY-N9QSD8 >}}
 
 <p align="center">
   We got a fucked up reason to live<br /> who really gives a fuck?<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up<br /> You gotta get it straight<br /> we're gonna give it up<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up

@@ -11,4 +11,4 @@ category: blog
 ---
 No comment, The video and its feeling say it all
 
-http://www.youtube.com/watch?v=ZyBbaAOYUpI
+{{< youtube ZyBbaAOYUpI >}}

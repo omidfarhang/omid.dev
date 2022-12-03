@@ -1,5 +1,5 @@
 ---
-title: "ATB Released &#8220;Distant Earth&#8221;"
+title: "ATB Released `Distant Earth`"
 date: 2011-04-29T14:33:57+00:00
 layout: single
 author_profile: true

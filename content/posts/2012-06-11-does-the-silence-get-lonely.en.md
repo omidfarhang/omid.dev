@@ -68,5 +68,6 @@ Never Can
 Never Can  
 Never Can
 
-_Korn &#8211; Tearjerker_  
-http://www.youtube.com/watch?v=NQxg5SX0UeI
+_Korn &#8211; Tearjerker_
+
+{{< youtube NQxg5SX0UeI >}}

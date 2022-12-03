@@ -31,7 +31,7 @@ I'm almost 23 years old and I'm not that old that to say much about life and tea
 
 **Religion, politic, waste of time:** Yeah, both of them are waste of time, so let me make it easy for you, religion is &#8220;Don't Lie, Don't Steal, Be Kind, Respect Humanity, Don't be Lazy in your Life&#8221; and Politic is something you never can change and inspecting that until will give you reason to become sad, so if you dislike politic of where you live, move!.
 
-http://www.youtube.com/watch?v=96Zc-jYYRxU
+{{< youtube 96Zc-jYYRxU >}}
 
 There is much more to say, but I think its enough for now.  
 What Do you think? share it in the comments.

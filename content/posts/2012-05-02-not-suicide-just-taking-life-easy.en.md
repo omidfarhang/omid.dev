@@ -37,4 +37,4 @@ These are part of the stuff that comes into my mind and go, some come back and s
 
 Anyway whatever I said here is just some stuff around my head, not an announcement.
 
-http://www.youtube.com/watch?v=SmVAWKfJ4Go
+{{< youtube SmVAWKfJ4Go >}}

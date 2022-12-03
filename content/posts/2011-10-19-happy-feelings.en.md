@@ -16,7 +16,7 @@ Finally my German language class is going to begin next month, long time waiting
 
 And here is music video that I could not and cannot stop listening (and watching) last 2 weeks!
 
-http://www.youtube.com/watch?v=DBOuqyqmtJk
+{{< youtube DBOuqyqmtJk >}}
 
 Have a good times everyone  
 -Omid

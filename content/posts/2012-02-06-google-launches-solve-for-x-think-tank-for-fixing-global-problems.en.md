@@ -14,57 +14,28 @@ tags:
 lang: en
 category: techblog
 ---
-**[<img title="SolveForX" border="0" alt="SolveForX" align="right" src="http://lh5.ggpht.com/-jtaTsj-E8Qk/TzAAIlUilDI/AAAAAAAAEf4/XAi7ev1RFPI/SolveForX_thumb%25255B1%25255D.png?imgmax=800" width="218" height="35" />](http://lh3.ggpht.com/-533skO5YOQg/Ty__s6HITnI/AAAAAAAAEfw/doeqbILpb68/s1600-h/SolveForX%25255B3%25255D.png)Mashable:** Google just debuted a project dedicated to attacking some of the biggest problems facing civilization, such as global warming, and proposing “radical” ideas for solving them. 
+![](http://lh3.ggpht.com/-533skO5YOQg/Ty__s6HITnI/AAAAAAAAEfw/doeqbILpb68/s1600-h/SolveForX%25255B3%25255D.png)
 
- 
+**Mashable:** Google just debuted a project dedicated to attacking some of the biggest problems facing civilization, such as global warming, and proposing “radical” ideas for solving them.
 
-<div>
-  <div>
-    <div>
-      <a href="http://www.youtube.com/watch?v=uDDy7QSdt6A" target="_new"><img src="http://lh4.ggpht.com/-GSXby9DumWc/TzAARWSyZqI/AAAAAAAAEgA/LjK2RnYRH0A/videobedde7855bf6%25255B8%25255D.jpg?imgmax=800" galleryimg="no" onload="var downlevelDiv = document.getElementById('9c89cefb-2809-46da-b009-ed08ed4faf59'); downlevelDiv.innerHTML = " 
-      
-      <div>
-        <object width=\"448\" height=\"252\"><param name=\"movie\" value=\"http://www.youtube.com/v/uDDy7QSdt6A?hl=en&hd=1\"><\/param><embed src=\"http://www.youtube.com/v/uDDy7QSdt6A?hl=en&hd=1\" type=\"application/x-shockwave-flash\" width=\"448\" height=\"252\"><\/embed><\/object><\/div>&#8220;;&#8221; alt=&#8221;&#8221;></a>
-      </div></div> 
-      
-      <div>
-        Solve for X
-      </div></div> 
-      
-      <p>
-        Called “Solve for X,” the idea resembles TED (Technology Entertainment and Design), the series of conferences that feature industry leaders exploring big-picture ideas and how they can improve society. Solve for X, however, appears to be more focused on global problems, using them as opportunities to encourage “moonshot” thinking.
-      </p>
-      
-      <p>
-        The project puts a big emphasis on out-of-the-box proposals — the more audacious, the better. Still, even though Google encourages ideas that “sound like science fiction,” they should still be based on some technological breakthrough that’s realistically attainable.
-      </p>
-      
-      <p>
-        From the <a href="http://www.wesolveforx.com/">Solve for X website</a>:
-      </p>
-      
-      <blockquote>
-        <p>
-          <em>This combination of things — a huge problem to solve, a radical solution for solving it and the breakthrough technology to make it happen — is the essence of a moonshot.</em>
-        </p>
-        
-        <p>
-          <em>Solve for X is intended to be a forum to encourage and amplify technology-based moonshot thinking and teamwork.</em>
-        </p>
-      </blockquote>
-      
-      <p>
-        Although Google hasn’t provided any more details other than what’s on the site, a person claiming to be involved in the project posted some <a href="http://www.flickr.com/photos/jurvetson/6807981721/">more details on Flickr</a>. Steve Jurveston, managing director of Draper Fisher Jurveston, said that on Feb. 2 he was at a Solve for X retreat and that he and each of the other attendees had to come up with a “big hairy topic that needs addressing.”
-      </p>
-      
-      <p>
-        Jurveston says the first session was on water scarcity, and that in 18 years the world will have 40 percent less water than needed. One of the proposed solutions, as Jurveston describes, was “forward osmosis with recycled ammonium salts, the simple ones that are used in gingerbread cookies.”
-      </p>
-      
-      <p>
-        Jurveston also said there would be more details coming Tuesday.
-      </p>
-      
-      <p>
-        What problems would you like to see Google’s Solve for X project attack? Have your say in the comments.
-      </p>
+{{< youtube uDDy7QSdt6A >}}
+
+Solve for X
+
+Called “Solve for X,” the idea resembles TED (Technology Entertainment and Design), the series of conferences that feature industry leaders exploring big-picture ideas and how they can improve society. Solve for X, however, appears to be more focused on global problems, using them as opportunities to encourage “moonshot” thinking.
+
+The project puts a big emphasis on out-of-the-box proposals — the more audacious, the better. Still, even though Google encourages ideas that “sound like science fiction,” they should still be based on some technological breakthrough that’s realistically attainable.
+
+From the [Solve for X website](http://www.wesolveforx.com/):
+
+> This combination of things — a huge problem to solve, a radical solution for solving it and the breakthrough technology to make it happen — is the essence of a moonshot.
+> 
+> Solve for X is intended to be a forum to encourage and amplify technology-based moonshot thinking and teamwork.
+
+Although Google hasn’t provided any more details other than what’s on the site, a person claiming to be involved in the project posted some [more details on Flickr](http://www.flickr.com/photos/jurvetson/6807981721/). Steve Jurveston, managing director of Draper Fisher Jurveston, said that on Feb. 2 he was at a Solve for X retreat and that he and each of the other attendees had to come up with a “big hairy topic that needs addressing.”
+
+Jurveston says the first session was on water scarcity, and that in 18 years the world will have 40 percent less water than needed. One of the proposed solutions, as Jurveston describes, was “forward osmosis with recycled ammonium salts, the simple ones that are used in gingerbread cookies.”
+
+Jurveston also said there would be more details coming Tuesday.
+
+What problems would you like to see Google’s Solve for X project attack? Have your say in the comments.
