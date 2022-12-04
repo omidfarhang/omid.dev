@@ -31,5 +31,5 @@ ProtecPC's poses a serious security risk for all PC users. Symptoms of a ProtecP
   * Programs being shut down or unable to open
 
 <div>
-  <a href="http://sites.google.com/site/boelectronic/computer/security/virus-removing">Click Here</a> to learn how to remove these kind of malware.
+  <a href="/knowledge-base/malware-removal/">Click Here</a> to learn how to remove these kind of malware.
 </div>

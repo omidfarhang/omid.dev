@@ -41,5 +41,5 @@ Unfortunately if you fall for the Paladin Antivirus scam, you will quickly learn
 </div>
 
 <div>
-  If your computer is infected with this malware, you should remove it soon, see <a href="http://sites.google.com/site/boelectronic/computer/security/virus-removing">Virus Removing</a> to learn how to remove it.
+  If your computer is infected with this malware, you should remove it soon, see <a href="/knowledge-base/malware-removal/">Virus Removing</a> to learn how to remove it.
 </div>

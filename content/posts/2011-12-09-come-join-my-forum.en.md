@@ -9,23 +9,11 @@ tags:
 lang: en
 category: techblog
 ---
-<div dir="ltr" trbidi="on">
-  Hi Folks!</p> 
-  
-  <p>
-    I would like to invite you to join my forum, its a small forum for now but by the time it will get better, a link to my forum is available in in my <a href="/" target="_blank">TechBlog</a>, <a href="/" target="_blank">LifeBlog</a> or in <a href="/" target="_blank">my site</a>, feel free to join and express yourself in whatever you like, feel free to post whatever you like except advertisement, Thanks! 🙂
-  </p>
-  
-  <div>
-    <a href="https://forum.omid.dev/"><b><span>forum.omid.dev</span></b></a>
-  </div>
-  
-  <div>
-  </div>
-  
-  <p>
-    Thank you for joining in advance<br />-Omid
-  </p>
-  
-  <p>
-    <i>Also posted in <a href="/" target="_blank">Omid's LifeBlog</a></i> </div>
+Hi Folks!
+
+I would like to invite you to join my forum, its a small forum for now but by the time it will get better, feel free to join and express yourself in whatever you like, feel free to post whatever you like except advertisement, Thanks! 🙂
+
+[**forum.omid.dev**](https://forum.omid.dev/)
+
+Thank you for joining in advance  
+-Omid

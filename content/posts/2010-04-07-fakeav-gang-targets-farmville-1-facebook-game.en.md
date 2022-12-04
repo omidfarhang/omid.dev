@@ -81,4 +81,4 @@ We recommend users to do the following whenever you encounter the above infectio
 
   * Terminate the Web browser process (Mozilla Firefox, Internet Explorer, etc.).
   * Don’t execute the downloaded file from untrusted sites.
-  * Cleanup your computer from malwares [with this manual](http://sites.google.com/site/boelectronic/computer/security/virus-removing)
+  * Cleanup your computer from malwares [with this manual](/knowledge-base/malware-removal/)

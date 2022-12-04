@@ -19,41 +19,14 @@ Our friend M.N. Bharath drew our attention to this web site associated with the 
 It seems they also have recruited the entire management team from AVG anti-virus company as well. Right!
 
 Compare the names on the Smart Systems Technologies rogue page.
+[http://sysadscanner.com/about.php](http://sysadscanner.com/about.php)
 
-<div>
-  <a href="http://sysadscanner.com/about.php">http://sysadscanner.com/about.php</a>
-</div>
+![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SygZycMApQI/AAAAAAAAAXM/jFlZgk315U4/s1600-h/Smart_20Systems.png)
 
-<div>
-</div>
+with AVG’s:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SygZycMApQI/AAAAAAAAAXM/jFlZgk315U4/s1600-h/Smart_20Systems.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SygZycMApQI/AAAAAAAAAXM/jFlZgk315U4/s640/Smart_20Systems.png" /></a>
-</div>
-
-<div>
-</div>
-
-with AVG’s: <http://www.avg.com/us-en/management-team>
-
-<div>
-</div>
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SygZzb5-auI/AAAAAAAAAXU/VvZKUIsZSTA/s1600-h/AVG_20management_20team.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SygZzb5-auI/AAAAAAAAAXU/VvZKUIsZSTA/s640/AVG_20management_20team.png" /></a>
-</div>
-
-<div>
-</div>
+![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SygZzb5-auI/AAAAAAAAAXU/VvZKUIsZSTA/s1600-h/AVG_20management_20team.png)
 
 If that isn’t enough to raise your suspicions, check out the Engrish on this page: <http://sysadscanner.com/why.php>
 
-<div>
-</div>
-
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SygZ3qQgDXI/AAAAAAAAAXc/NL1BbmImmUs/s1600-h/SAS_20Engrish.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SygZ3qQgDXI/AAAAAAAAAXc/NL1BbmImmUs/s400/SAS_20Engrish.png" /></a>
-</div>
-
-<div>
-</div>
+![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SygZ3qQgDXI/AAAAAAAAAXc/NL1BbmImmUs/s1600-h/SAS_20Engrish.png)

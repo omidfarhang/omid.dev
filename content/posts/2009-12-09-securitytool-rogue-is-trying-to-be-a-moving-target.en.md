@@ -15,35 +15,14 @@ category: techblog
 ---
 The [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue security product, which first turned up early in October, is still active and trying to avoid countermeasures by setting up 12-24 download sites per day.
 
-<div>
-</div>
+![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjn2u-X-I/AAAAAAAAATI/kDTQZK3iNyY/s1600-h/SecurityTool_GUI.jpg)
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjn2u-X-I/AAAAAAAAATI/kDTQZK3iNyY/s1600-h/SecurityTool_GUI.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjn2u-X-I/AAAAAAAAATI/kDTQZK3iNyY/s640/SecurityTool_GUI.jpg" /></a>
-</div>
+It comes in two flavors online scanner scam:
 
-<a name="more"></a>
-
-It comes in two flavors
-
-online scanner scam:
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjqJ9BisI/AAAAAAAAATQ/rVpKTiDKNVI/s1600-h/SecurityTool_OnlineScannerScam.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjqJ9BisI/AAAAAAAAATQ/rVpKTiDKNVI/s640/SecurityTool_OnlineScannerScam.jpg" /></a>
-</div>
+![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjqJ9BisI/AAAAAAAAATQ/rVpKTiDKNVI/s1600-h/SecurityTool_OnlineScannerScam.jpg)
 
 and fake codec scam:
 
-<div>
-</div>
+![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyAjlsYl2qI/AAAAAAAAATA/p6kFit5Wyfw/s1600-h/SecurityTool_FakeCodecScams.jpg)
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyAjlsYl2qI/AAAAAAAAATA/p6kFit5Wyfw/s1600-h/SecurityTool_FakeCodecScams.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyAjlsYl2qI/AAAAAAAAATA/p6kFit5Wyfw/s640/SecurityTool_FakeCodecScams.jpg" /></a>
-</div>
-
-<div>
-</div>
-
-<div>
-  For more information <a href="http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool">Click Here</a>.
-</div>
+For more information [Click Here](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool).

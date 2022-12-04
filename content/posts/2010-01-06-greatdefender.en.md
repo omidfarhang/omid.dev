@@ -31,5 +31,5 @@ GreatDefender uses scare tactics to frighten people into buying this corrupt sof
   * GreatDefender will prevent other programs from opening, stating they are infected (The programs are not infected)
 
 <div>
-  If your windows is infected with this malware you should remove it as soon as possible, <a href="http://sites.google.com/site/boelectronic/computer/security/virus-removing">Click Here</a> to learn how to remove it.
+  If your windows is infected with this malware you should remove it as soon as possible, <a href="/knowledge-base/malware-removal/">Click Here</a> to learn how to remove it.
 </div>

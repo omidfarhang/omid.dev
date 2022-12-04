@@ -23,5 +23,5 @@ Total PC Defender is a rogue security software, a complete scam designed to rip 
 </div>
 
 <div>
-  if your windows is infected with these kind of malware <a href="http://sites.google.com/site/boelectronic/computer/security/virus-removing">Click Here</a> to learn how to remove it.
+  if your windows is infected with these kind of malware <a href="/knowledge-base/malware-removal/">Click Here</a> to learn how to remove it.
 </div>

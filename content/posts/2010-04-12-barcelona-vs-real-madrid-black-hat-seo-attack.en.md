@@ -28,4 +28,4 @@ The same campaign is targeting the [death of Lech Kaczynski, Polish president, t
 
 [<img title="Barcelona-BHSEO-Rogue" border="0" alt="Barcelona-BHSEO-Rogue" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8N7IZ_e0FI/AAAAAAAAB6w/AOv5DG0fOjk/Barcelona-BHSEO-Rogue_thumb%5B2%5D.jpg?imgmax=800" width="504" height="316" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8N7Cr4417I/AAAAAAAAB6s/CyM6BcIfK6Y/s1600-h/Barcelona-BHSEO-Rogue%5B4%5D.jpg) 
 
-If you click on “Remove all” the rogueware CleanUpAntivirus will be installed in your computer. If you got in trouble with this, go to <a href="http://sites.google.com/site/boelectronic/computer/security/virus-removing" target="_blank">virus removing</a> in my site and see how you can remove/solve it.
+If you click on “Remove all” the rogueware CleanUpAntivirus will be installed in your computer. If you got in trouble with this, go to <a href="/knowledge-base/malware-removal/" target="_blank">virus removing</a> in my site and see how you can remove/solve it.

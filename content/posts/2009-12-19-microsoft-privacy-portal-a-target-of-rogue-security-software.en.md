@@ -29,5 +29,5 @@ Reports of rogue security programs have been more prevalent as of late. These ar
 </div>
 
 <div>
-  To find out how to remove it, <a href="http://sites.google.com/site/boelectronic/computer/security/virus-removing">Click Here</a>.
+  To find out how to remove it, <a href="/knowledge-base/malware-removal/">Click Here</a>.
 </div>

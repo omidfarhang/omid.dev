@@ -21,56 +21,23 @@ The WiniGuard family began in September of 2008. Operators behind it have added 
 
 The first generation of WiniGuard used the site winiguard.com. It was created Sept. 17, 2008, by the same group who probably began circulating rogues using macguard.net, which has the same IP address. WiniGuard installed five files.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/Syf5fEKRUlI/AAAAAAAAAWk/Lnp55vpn_xI/s1600-h/WiniGuard_GUI_Files.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/Syf5fEKRUlI/AAAAAAAAAWk/Lnp55vpn_xI/s400/WiniGuard_GUI_Files.jpg" /></a>
-</div>
-
-<div>
-</div>
+![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Syf5fEKRUlI/AAAAAAAAAWk/Lnp55vpn_xI/s1600-h/WiniGuard_GUI_Files.jpg)
 
 **Second Generation**
 
 SaveKeep, first found August 17, marked the beginning of the second generation. This was distinguished by the use of two files instead of five.
 
-<div>
-</div>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5k06feDI/AAAAAAAAAW8/waacR1T5p2c/s1600-h/SaveKeep.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5k06feDI/AAAAAAAAAW8/waacR1T5p2c/s400/SaveKeep.jpg" /></a>
-</div>
-
-<div>
-</div>
+![](http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5k06feDI/AAAAAAAAAW8/waacR1T5p2c/s1600-h/SaveKeep.jpg)
 
 **Third Generation**
 
 On Oct 17 the TREAntivirus rogue opened the third generation with a new GUI interface.
 
-<div>
-</div>
+![](http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5hcVVVYI/AAAAAAAAAWs/PlK_BBcdzVc/s1600-h/TRE+AntiVirus.jpg)
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5hcVVVYI/AAAAAAAAAWs/PlK_BBcdzVc/s1600-h/TRE+AntiVirus.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5hcVVVYI/AAAAAAAAAWs/PlK_BBcdzVc/s400/TRE+AntiVirus.jpg" /></a>
-</div>
+Today’s IGuardPC makes a total of 50 clones — the largest family we’ve ever found:
 
-<div>
-</div>
-
-<div>
-  <span>Today’s IGuardPC makes a total of 50 clones &#8212; the largest family we’ve ever found:</span>
-</div>
-
-<div>
-  <span><br /></span>
-</div>
-
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/Syf5i5GMM7I/AAAAAAAAAW0/ZPzl0Wmpvmk/s1600-h/IGuardPC_GUI.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/Syf5i5GMM7I/AAAAAAAAAW0/ZPzl0Wmpvmk/s400/IGuardPC_GUI.jpg" /></a>
-</div>
-
-<div>
-  <span><br /></span>
-</div>
+![](http://1.bp.blogspot.com/_vaUVXcmC3OI/Syf5i5GMM7I/AAAAAAAAAW0/ZPzl0Wmpvmk/s1600-h/IGuardPC_GUI.jpg)
 
 **WiniGuard rogues by generations**
 

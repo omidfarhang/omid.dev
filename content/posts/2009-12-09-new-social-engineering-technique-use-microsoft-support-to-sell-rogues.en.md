@@ -12,28 +12,16 @@ tags:
 lang: en
 category: techblog
 ---
-Sunbelt analyst Adam Thomas came across this ugly new social engineering technique when he analyzed the DefenceLab rogue security product.
+Sunbelt analyst Adam Thomas came across this ugly new social engineering technique when he analyzed the DefenceLab rogue security product. It does the usual scare-ware stuff: a fake scan and fake “Windows Security Center” alert:
 
-It does the usual scare-ware stuff: a fake scan and fake “Windows Security Center” alert:
+![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oVxjauqI/AAAAAAAAAQw/sXfHGKyaXcI/s1600-h/DlabGUI.jpg)
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oVxjauqI/AAAAAAAAAQw/sXfHGKyaXcI/s1600-h/DlabGUI.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oVxjauqI/AAAAAAAAAQw/sXfHGKyaXcI/s320/DlabGUI.jpg" /></a>
-</div>
+![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7oZdqpduI/AAAAAAAAAQ4/n_zP2tXInt0/s1600-h/FakeAlert.jpg)
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7oZdqpduI/AAAAAAAAAQ4/n_zP2tXInt0/s1600-h/FakeAlert.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7oZdqpduI/AAAAAAAAAQ4/n_zP2tXInt0/s320/FakeAlert.jpg" /></a>
-</div>
+Then it directs the potential victim to a Microsoft Support page, but injects html code into the page in his or her browser to make it appear as though Microsoft is suggesting the purchase of the rogue. This is the real Microsoft page:
 
-Then it directs the potential victim to a Microsoft Support page, but injects html code into the page in his or her browser to make it appear as though Microsoft is suggesting the purchase of the rogue.
-
-This is the real Microsoft page:
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oecisneI/AAAAAAAAARA/9RrqUCpf04g/s1600-h/Modified_page.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oecisneI/AAAAAAAAARA/9RrqUCpf04g/s320/Modified_page.jpg" /></a>
-</div>
+![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oecisneI/AAAAAAAAARA/9RrqUCpf04g/s1600-h/Modified_page.jpg)
 
 This is what it looks after DefenseLab changes it:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7ogYwDj6I/AAAAAAAAARI/7oA30xFnInM/s1600-h/Real+MS+page.png" imageanchor="1"><img border="0" height="230" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7ogYwDj6I/AAAAAAAAARI/7oA30xFnInM/s320/Real+MS+page.png" width="320" /></a>
-</div>
+![](http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7ogYwDj6I/AAAAAAAAARI/7oA30xFnInM/s1600-h/Real+MS+page.png)

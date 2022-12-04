@@ -5,7 +5,7 @@ theme = 'ananke'
 copyright = 'All rights reserved.'
 defaultContentLanguage = 'en'
 
-disqusShortname = 'omidnetwork'
+# disqusShortname = 'omidnetwork'
 
 show_reading_time = true
 

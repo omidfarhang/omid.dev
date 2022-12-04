@@ -30,4 +30,4 @@ If SystemCleanerPRO has infected your computer, you may experience the following
   * Web browser redirecting to random websites (which are owned by the crooks who author this and other malicious software)
   * Other programs not opening or shutting down
 
-if your windows is infected with these kind of malware [Click Here](http://sites.google.com/site/boelectronic/computer/security/virus-removing) to learn how to remove it.
+if your windows is infected with these kind of malware [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.
