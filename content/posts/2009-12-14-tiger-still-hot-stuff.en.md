@@ -16,31 +16,12 @@ Despite talk of Tiger Woods’ sponsors “limiting his role” in their adverti
 
 We can see that Tiger Woods related searches are still being poisoned with malicious results using Search Engine Optimisation techiques:
 
-<div>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyV8zlJNafI/AAAAAAAAAVc/J2p9gFIZz0s/s400/search1.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyV8zlJNafI/AAAAAAAAAVc/J2p9gFIZz0s/s1600-h/search1.jpg)
 
-<div>
-  <div>
-    <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyV8zlJNafI/AAAAAAAAAVc/J2p9gFIZz0s/s1600-h/search1.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyV8zlJNafI/AAAAAAAAAVc/J2p9gFIZz0s/s400/search1.jpg" /></a>
-  </div>
-  
-  <p>
-    This leads to the familiar: </div> 
-    
-    <div>
-    </div>
-    
-    <div>
-      <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyV81QXE9LI/AAAAAAAAAVk/kyQV24e0KSs/s1600-h/online-scan.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyV81QXE9LI/AAAAAAAAAVk/kyQV24e0KSs/s400/online-scan.jpg" /></a>
-    </div>
-    
-    <div>
-    </div>
-    
-    <p>
-      Which when downloaded installs fake AV branded as “<a href="http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool">Security Tool</a>”.
-    </p>
-    
-    <div>
-      <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyV-ht3EMGI/AAAAAAAAAV0/9y8jSEMeiaI/s1600-h/sec-tool.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyV-ht3EMGI/AAAAAAAAAV0/9y8jSEMeiaI/s400/sec-tool.jpg" /></a>
-    </div>
+This leads to the familiar:
+
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyV81QXE9LI/AAAAAAAAAVk/kyQV24e0KSs/s400/online-scan.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyV81QXE9LI/AAAAAAAAAVk/kyQV24e0KSs/s1600-h/online-scan.jpg)
+
+Which when downloaded installs fake AV branded as “[Security Tool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool)”.
+
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyV-ht3EMGI/AAAAAAAAAV0/9y8jSEMeiaI/s400/sec-tool.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyV-ht3EMGI/AAAAAAAAAV0/9y8jSEMeiaI/s1600-h/sec-tool.jpg)

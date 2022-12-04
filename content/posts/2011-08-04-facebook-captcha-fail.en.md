@@ -11,20 +11,8 @@ tags:
 lang: en
 category: techblog
 ---
-<div dir="ltr" trbidi="on">
-  <b>SophosLabs:</b> Facebook has taken security to a whole new level.</p> 
-  
-  <p>
-    I think this speaks for itself.
-  </p>
-  
-  <div>
-  </div>
-  
-  <div>
-    <a href="http://3.bp.blogspot.com/-LxcuJ4rUX5M/TjrZ85Q8qMI/AAAAAAAAD8U/Whe4WJX4Bnk/s1600/facebook-captcha-fail.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/-LxcuJ4rUX5M/TjrZ85Q8qMI/AAAAAAAAD8U/Whe4WJX4Bnk/s1600/facebook-captcha-fail.jpg" /></a>
-  </div>
-  
-  <div>
-  </div>
-</div>
+**SophosLabs:** Facebook has taken security to a whole new level.
+
+I think this speaks for itself.
+
+[![](http://3.bp.blogspot.com/-LxcuJ4rUX5M/TjrZ85Q8qMI/AAAAAAAAD8U/Whe4WJX4Bnk/s1600/facebook-captcha-fail.jpg)](http://3.bp.blogspot.com/-LxcuJ4rUX5M/TjrZ85Q8qMI/AAAAAAAAD8U/Whe4WJX4Bnk/s1600/facebook-captcha-fail.jpg)

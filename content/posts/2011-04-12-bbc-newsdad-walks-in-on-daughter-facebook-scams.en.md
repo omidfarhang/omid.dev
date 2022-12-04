@@ -56,4 +56,4 @@ category: techblog
   </p>
   
   <p>
-    To stay up to date on the latest scams, spams and other security and privacy advice join my <a href="http://www.facebook.com/omidsblog">Facebook page</a>.</div>
+    To stay up to date on the latest scams, spams and other security and privacy advice join my <a href="https://www.facebook.com/omidsnetwork">Facebook page</a>.</div>

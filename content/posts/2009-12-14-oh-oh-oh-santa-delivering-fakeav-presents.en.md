@@ -17,25 +17,11 @@ Following on from the latest Captcha techniques used by the W32/Koobface worm, i
 
 It all begins with a post on a user’s Facebook Wall. If the user clicks on the link, they are presented with a fake video player with a Christmas greeting as shown below
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyYxMuUPA6I/AAAAAAAAAV8/OkWoCZUhW_k/s1600-h/koob1.gif" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyYxMuUPA6I/AAAAAAAAAV8/OkWoCZUhW_k/s640/koob1.gif" /></a>
-</div>
-
-<div>
-  <br /><a name="more"></a></p>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyYxMuUPA6I/AAAAAAAAAV8/OkWoCZUhW_k/s640/koob1.gif)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyYxMuUPA6I/AAAAAAAAAV8/OkWoCZUhW_k/s1600-h/koob1.gif)
 
 A fake message states that in order to view the video the user must download the latest version of Adobe Flash. If the user clicks on ‘install’, instead of the flash player being downloaded, it runs a variant of W32/Koobface on the user’s system. Furthermore to this, the user’s browser is redirected to more harmful sites harboring malicious files which are automatically installed and exceuted on the infected system.  
 Amongst the malicious files that are downloaded and executed includes FakeAlert trojans. Like its predecessors, a fake message is displayed stating that the system is infected with various viruses and that the user requires to buy a product to remove them.
 
-<div>
-</div>
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyYxZvE4haI/AAAAAAAAAWE/1D9ae2BboCI/s1600-h/koob3.gif" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyYxZvE4haI/AAAAAAAAAWE/1D9ae2BboCI/s640/koob3.gif" /></a>
-</div>
-
-<div>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyYxZvE4haI/AAAAAAAAAWE/1D9ae2BboCI/s640/koob3.gif)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyYxZvE4haI/AAAAAAAAAWE/1D9ae2BboCI/s1600-h/koob3.gif)
 
 Users are advised to avoid installing anything that results from clicking on video links relating to any Christmas greetings.

@@ -14,25 +14,10 @@ category: techblog
 ---
 [SafetyAntispyware](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware) is a new rogue anti-spyware application. However, the functionality follows the same pattern as other rogues.
 
-<div>
-</div>
-
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERP-eyvgI/AAAAAAAAATo/Wwp9Go83yJg/s1600-h/SafetyAntiSpyware_sm.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERP-eyvgI/AAAAAAAAATo/Wwp9Go83yJg/s400/SafetyAntiSpyware_sm.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERP-eyvgI/AAAAAAAAATo/Wwp9Go83yJg/s400/SafetyAntiSpyware_sm.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERP-eyvgI/AAAAAAAAATo/Wwp9Go83yJg/s1600-h/SafetyAntiSpyware_sm.jpg)
 
 First, it will detect some fake infections. Then it will ask the user to license the product to remove these &#8220;threats&#8221;. It will also keep reminding the user about these fake infections and will urge the user to activate the software.
 
-<div>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERRd2A0bI/AAAAAAAAATw/mjuFhw4W5UU/s400/alert_0.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERRd2A0bI/AAAAAAAAATw/mjuFhw4W5UU/s1600-h/alert_0.jpg)
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERRd2A0bI/AAAAAAAAATw/mjuFhw4W5UU/s1600-h/alert_0.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyERRd2A0bI/AAAAAAAAATw/mjuFhw4W5UU/s400/alert_0.jpg" /></a>
-</div>
-
-<div>
-  For more information <a href="http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware">Click Here</a>.
-</div>
+For more information [Click Here](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware).

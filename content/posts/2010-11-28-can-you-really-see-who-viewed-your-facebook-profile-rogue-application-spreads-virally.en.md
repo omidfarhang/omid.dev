@@ -47,4 +47,4 @@ Always think before you add an unknown application on Facebook, and ask yourself
 
 If you've been hit by a scam like this, remove references to it from your newsfeed, and revoke the right of rogue applications to access your profile via <tt>Account/ Privacy Settings/ Applications and Websites</tt>.
 
-And don't forget to warn your friends about scams like this and teach them not to trust every link that is placed in front of them. You can learn more about security threats by joining the thriving community on the <a href="http://www.facebook.com/omidsblog" target="_blank">Omid's Network Facebook page</a>.
+And don't forget to warn your friends about scams like this and teach them not to trust every link that is placed in front of them. You can learn more about security threats by joining the thriving community on the <a href="https://www.facebook.com/omidsnetwork" target="_blank">Omid's Network Facebook page</a>.

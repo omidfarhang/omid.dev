@@ -11,21 +11,8 @@ tags:
 lang: en
 category: techblog
 ---
-<div dir="ltr" trbidi="on">
-  <div dir="ltr" trbidi="on">
-    <div>
-      <a href="http://4.bp.blogspot.com/-q6dt7iBFeiM/TjgoUqLPCiI/AAAAAAAAD70/Yfr4YdkeVfU/s1600/new-chrome-logo.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/-q6dt7iBFeiM/TjgoUqLPCiI/AAAAAAAAD70/Yfr4YdkeVfU/s1600/new-chrome-logo.png" /></a>
-    </div>
-    
-    <p>
-      The Google Chrome team announced the arrival of Chrome 13.0.782.107 to the Stable Channel for Windows, Mac, Linux, and Chrome Frame. Spanning 5200+ revisions, Chrome 13, contains some exciting new features like <a href="http://chrome.blogspot.com/2011/06/faster-than-fast.html">Instant Page</a> rendering. To find out about other new features, check out the <a href="http://chrome.blogspot.com/2011/08/instant-pages-on-google-chrome.html">Official Chrome Blog</a>.
-    </p>
-    
-    <div>
-    </div>
-    
-    <div>
-      Change log is available here: <a href="http://googlechromereleases.blogspot.com/2011/08/stable-channel-update.html">Google Chrome Releases: Stable Channel Update</a>
-    </div>
-  </div>
-</div>
+[![](http://4.bp.blogspot.com/-q6dt7iBFeiM/TjgoUqLPCiI/AAAAAAAAD70/Yfr4YdkeVfU/s1600/new-chrome-logo.png)](http://4.bp.blogspot.com/-q6dt7iBFeiM/TjgoUqLPCiI/AAAAAAAAD70/Yfr4YdkeVfU/s1600/new-chrome-logo.png)
+
+The Google Chrome team announced the arrival of Chrome 13.0.782.107 to the Stable Channel for Windows, Mac, Linux, and Chrome Frame. Spanning 5200+ revisions, Chrome 13, contains some exciting new features like [Instant Page](http://chrome.blogspot.com/2011/06/faster-than-fast.html) rendering. To find out about other new features, check out the [Official Chrome Blog](http://chrome.blogspot.com/2011/08/instant-pages-on-google-chrome.html).
+
+Change log is available here: [Google Chrome Releases: Stable Channel Update](http://googlechromereleases.blogspot.com/2011/08/stable-channel-update.html)

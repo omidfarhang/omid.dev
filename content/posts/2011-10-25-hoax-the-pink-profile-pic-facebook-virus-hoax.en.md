@@ -34,4 +34,4 @@ Australian bank CUA raises funds every October for Breast Cancer Awareness Month
 
 Remember to always get your computer security advice from a computer security company. Friends may be well-intentioned in passing on warnings, but it's always good to check your facts before forwarding them any further.
 
-If you want to learn about the real threats on Facebook you should [join the Omid's Blog facebook page](http://www.facebook.com/omidsblog), where I'll keep you up-to-date on the latest rogue applications, scams and malware attacks threatening social network users.
+If you want to learn about the real threats on Facebook you should [join the Omid's Blog facebook page](https://www.facebook.com/omidsnetwork), where I'll keep you up-to-date on the latest rogue applications, scams and malware attacks threatening social network users.

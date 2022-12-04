@@ -40,4 +40,4 @@ Without further information it's hard to clarify whether Pink's Facebook account
 
 Last month, Facebook announced it was revamping its privacy settings, making it more obvious to users how their uploaded photos, status updates and personal information was being shared.
 
-If Pink is reading this, and wants to learn more about security and privacy issues on Facebook, she is most welcome to joining the “[Omid's Blog!](http://www.facebook.com/omidsblog)” Facebook page, where people regularly share information on threats and discuss the latest news.
+If Pink is reading this, and wants to learn more about security and privacy issues on Facebook, she is most welcome to joining the “[Omid's Blog!](https://www.facebook.com/omidsnetwork)” Facebook page, where people regularly share information on threats and discuss the latest news.

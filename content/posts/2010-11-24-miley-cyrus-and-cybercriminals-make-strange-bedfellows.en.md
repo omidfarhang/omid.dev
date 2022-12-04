@@ -48,6 +48,6 @@ The scammers' end game is to trick you into taking an online survey. You're tric
 
 If you've been hit by a scam like this, remove references to it from your newsfeed, and revoke the right of rogue applications to access your profile via <tt>Account/ Privacy Settings/ Applications and Websites</tt>.
 
-If you know young people who use Facebook, don't forget to warn them about scams like this and teach them not to trust every link that is placed in front of them. Furthermore, you can learn more about security threats by joining the thriving community on the <a href="http://www.facebook.com/omidsblog" target="_blank">Omid's Network Facebook page</a>.
+If you know young people who use Facebook, don't forget to warn them about scams like this and teach them not to trust every link that is placed in front of them. Furthermore, you can learn more about security threats by joining the thriving community on the <a href="https://www.facebook.com/omidsnetwork" target="_blank">Omid's Network Facebook page</a>.
 
 There's only one thing left to say. Happy birthday for tomorrow, Miley. Your dad is a legend.

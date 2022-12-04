@@ -56,6 +56,6 @@ If you've been hit by a scam like this, remove references to it from your newsfe
 
 Don't forget &#8211; if you know young people who use Facebook, you should warn them about scams like this and teach them not to trust every link that is placed in front of them.
 
-If you're a member of Facebook and want to learn more about security threats you should join the thriving community on the <a href="http://www.facebook.com/omidsblog" target="_blank">Omid's Network Facebook page</a>.
+If you're a member of Facebook and want to learn more about security threats you should join the thriving community on the <a href="https://www.facebook.com/omidsnetwork" target="_blank">Omid's Network Facebook page</a>.
 
 **Do you think Facebook is doing enough to stamp out survey scams like this, or is it the fault of the Facebook users themselves? Let us know what you think by leaving a comment below.**

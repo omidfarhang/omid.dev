@@ -17,40 +17,15 @@ Basically, the rogue antispy was directing the victim to a genuine Microsoft add
 
 It works like this… The victim attempts to reach Microsoft, or receives a link like <http://go.microsoft.com/?linkid=9480113> and if you go there on a normal computer, you see a page like this (click to enlarge)&#8230;
 
-<div>
-</div>
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV3J3zzwI/AAAAAAAAAT4/rXPoS1IhU4I/s1600-h/Image001.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV3J3zzwI/AAAAAAAAAT4/rXPoS1IhU4I/s640/Image001.png" /></a>
-</div>
-
-<div>
-  <br /><a name="more"></a></p>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV3J3zzwI/AAAAAAAAAT4/rXPoS1IhU4I/s640/Image001.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV3J3zzwI/AAAAAAAAAT4/rXPoS1IhU4I/s1600-h/Image001.png)
 
 But, if you go there (or any Microsoft address) on a hacked computer, you see this&#8230;
 
-<div>
-</div>
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV_cS-V8I/AAAAAAAAAUA/f1be1cXP-xs/s1600-h/Image003.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV_cS-V8I/AAAAAAAAAUA/f1be1cXP-xs/s640/Image003.png" /></a>
-</div>
-
-<div>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV_cS-V8I/AAAAAAAAAUA/f1be1cXP-xs/s640/Image003.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV_cS-V8I/AAAAAAAAAUA/f1be1cXP-xs/s1600-h/Image003.png)
 
 Instead of going to a Microsoft address, you are taken to 91.212.127.227, which is not owned by Microsoft, but by someone in the United Kingdom&#8230;
 
-<div>
-</div>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEWDePzQrI/AAAAAAAAAUI/NtRQb-8R6IM/s1600-h/Image005.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEWDePzQrI/AAAAAAAAAUI/NtRQb-8R6IM/s640/Image005.png" /></a>
-</div>
-
-<div>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEWDePzQrI/AAAAAAAAAUI/NtRQb-8R6IM/s640/Image005.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEWDePzQrI/AAAAAAAAAUI/NtRQb-8R6IM/s1600-h/Image005.png)
 
 The question is how are they doing it?
 

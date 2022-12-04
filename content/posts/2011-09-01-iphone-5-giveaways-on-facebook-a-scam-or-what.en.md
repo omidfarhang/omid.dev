@@ -42,4 +42,4 @@ It's widely anticipated that Apple will announce the iPhone 5 sometime this mont
 
 [Follow @OmidFarhangEn](https://twitter.com/OmidFarhangEn)
 
-By the way, if you're a Facebook user and want to keep up on the latest threats and security news I would recommend you join my [Facebook page](http://www.facebook.com/omidsblog).
+By the way, if you're a Facebook user and want to keep up on the latest threats and security news I would recommend you join my [Facebook page](https://www.facebook.com/omidsnetwork).

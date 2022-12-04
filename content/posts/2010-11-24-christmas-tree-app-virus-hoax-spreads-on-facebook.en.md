@@ -30,7 +30,7 @@ Ironically, the hoax is probably spreading much faster than any of the genuine c
 
 Please don't share virus warnings with your online friends until you have checked them with a credible source (such as an established computer security company). Malware can be killed off fairly easily, but misinformation like this can live on for months, if not years, because people believe they are &#8220;doing the right thing&#8221; by sharing the warning with their friends.
 
-If you're a regular user of Facebook, be sure to ****<a href="http://www.facebook.com/omidsblog" target="_blank"><strong>join the Omid's Network page on Facebook</strong></a> to be kept informed of the latest security threats.
+If you're a regular user of Facebook, be sure to ****<a href="https://www.facebook.com/omidsnetwork" target="_blank"><strong>join the Omid's Network page on Facebook</strong></a> to be kept informed of the latest security threats.
 
 **PS.** Those of you very long in beard may recall that in the late 1980s there was a real virus called &#8220;Christmas Tree&#8221; (also known as &#8220;CHRISTMA EXEC&#8221;). It displayed a crude picture of a Christmas Tree using the ASCII character set, and infected computers on IBM's internal network and other systems.
 
