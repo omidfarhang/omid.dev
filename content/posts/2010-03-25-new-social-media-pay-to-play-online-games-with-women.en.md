@@ -44,15 +44,11 @@ GameCrush might be on to something: <http://prdtest.gamecrush.com/>
 
 Yesterday afternoon:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6szcK_8nII/AAAAAAAABZs/D_vUd54gJ68/s1600-h/Game_crush.png" imageanchor="1"><img border="0" height="267" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6szcK_8nII/AAAAAAAABZs/D_vUd54gJ68/s400/Game_crush.png" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6szcK_8nII/AAAAAAAABZs/D_vUd54gJ68/s400/Game_crush.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6szcK_8nII/AAAAAAAABZs/D_vUd54gJ68/s1600-h/Game_crush.png)
 
 This morning:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6syWPbymJI/AAAAAAAABZo/5dM4lFrmOSw/s1600-h/Game_crush_202.png" imageanchor="1"><img border="0" height="227" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6syWPbymJI/AAAAAAAABZo/5dM4lFrmOSw/s400/Game_crush_202.png" width="400" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6syWPbymJI/AAAAAAAABZo/5dM4lFrmOSw/s400/Game_crush_202.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6syWPbymJI/AAAAAAAABZo/5dM4lFrmOSw/s1600-h/Game_crush_202.png)
 
 **I can't say I'm massively impressed with this one.**
 

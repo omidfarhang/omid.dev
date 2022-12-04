@@ -26,9 +26,7 @@ Consider it a kind of &#8220;anti-multithreading&#8221; that may very well be ne
 
 But by citing Mozilla as the leader in this effort, Google may effectively be ceding responsibility for solving some of the most critical Flash security issues to date, to Mozilla. Until then, Upson concedes that the first Chrome dev build to contain the Flash plug-in will not yet have resolved a potential security risk: the separation between the Chrome tab processes and the Flash runtime. Part of Google's (originally) innovative security model was its division of browser tabs into separate processes, so that when one tab crashes, the main browser remains stable.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J4QY_8TgI/AAAAAAAABa0/imNN5b7qOTM/s1600-h/4765.jpg" imageanchor="1"><img border="0" height="400" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J4QY_8TgI/AAAAAAAABa0/imNN5b7qOTM/s400/4765.jpg" width="390" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J4QY_8TgI/AAAAAAAABa0/imNN5b7qOTM/s400/4765.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J4QY_8TgI/AAAAAAAABa0/imNN5b7qOTM/s1600-h/4765.jpg)
 
 One of the unanticipated side-effects of this model deals with Chrome's approach to add-ons: They too are separate processes, all of which identify themselves to the operating system as Chrome. The screenshot above shows a list of active processes from Sysinternals' Process Explorer, with the latest Chrome dev build 360.4. There's only one tab running the Acrobat.com page, but note that Chrome appears twice in the list. That second instance appears to be the Chrome sandbox wrapped around the Flash add-on.
 
@@ -42,7 +40,7 @@ By default, each plug-in runs outside of the sandbox and with the user's full pr
 
 Users could try running Chromium (and later Chrome), the group suggested, using the command line switch `--safe-plugins`, which would place all plug-ins under the protection of the renderer's sandbox. But they'll likely crash, they warned.
 
-To address that problem, Adobe's senior director of Flash engineering, Paul Betlem, said <a href="http://blogs.adobe.com/flashplayer/2010/03/improved_flash_player_support.html" target="_blank">in a blog post today</a>that his team will work with both Google and Mozilla to replace and improve NPAPI. &#8220;While the current NPAPI has served the industry well, it lacks the flexibility and power to support the pace of innovation we see ahead,&#8221; Betlem wrote. &#8220;We expect that the new API specification will offer some distinct benefits over the current technology available.&#8221;
+To address that problem, Adobe's senior director of Flash engineering, Paul Betlem, said [in a blog post today](http://blogs.adobe.com/flashplayer/2010/03/improved_flash_player_support.html)that his team will work with both Google and Mozilla to replace and improve NPAPI. &#8220;While the current NPAPI has served the industry well, it lacks the flexibility and power to support the pace of innovation we see ahead,&#8221; Betlem wrote. &#8220;We expect that the new API specification will offer some distinct benefits over the current technology available.&#8221;
 
 One foreseeable outcome of this collaboration could very well be a community where at least some plug-ins are compatible with both Chrome and Firefox simultaneously. But another outcome that Adobe's Betlem points to is a certain kind of unification, not just of the security model but of how the browser presents itself to the world. Think of it as &#8220;the Flash browser.&#8221;
 
@@ -56,12 +54,8 @@ Support for the move centered around the notion that Flash is simply a fact of l
 
 There was also this from contributor **Troy**: &#8220;How is Flash not an open standard? The bytecode format of [_Shockwave_] SWFs is published. There are open-source tools for producing SWFs. The tool chain is open-source and free. The player is available on the three major desktop OSs, and now on many mobile devices, as well as several video game consoles. Its virtual machine is open-sourced. Sure, it's not standard-certified by some international organization, but neither is HTML 5 (yet) nor is CSS3 (yet). It is a _de facto_ standard, used by more Web sites and users than HTML 5, CSS3, Canvas, etc. Come on, folks, let's be _pragmatic_.&#8221;
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J53wMOJ_I/AAAAAAAABa4/f-HkK5gD4To/s1600-h/4766.jpg" imageanchor="1"><img border="0" height="400" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J53wMOJ_I/AAAAAAAABa4/f-HkK5gD4To/s400/4766.jpg" width="326" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J53wMOJ_I/AAAAAAAABa4/f-HkK5gD4To/s400/4766.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J53wMOJ_I/AAAAAAAABa4/f-HkK5gD4To/s1600-h/4766.jpg)
 
 The bundling of Flash with Chrome does not change the relationship between the component and the browser, as indicated by the `about:plugins` page above. Notice its format changed with this latest dev build; it now includes (highly requested) **Disable** links that let you turn off plug-ins without uninstalling them. However, bundling Flash did add 2.4 MB to Chrome 5's download size, plus a single new question to the startup procedure (shown below). In the dev build, to start using the Flash plug-in that's distributed with the browser, you run Chrome from the command line, adding the switch `--enable-internal-flash`.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7J6A6IABSI/AAAAAAAABa8/rpe5JQcmeAM/s1600-h/4767.jpg" imageanchor="1"><img border="0" height="323" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7J6A6IABSI/AAAAAAAABa8/rpe5JQcmeAM/s400/4767.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7J6A6IABSI/AAAAAAAABa8/rpe5JQcmeAM/s400/4767.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7J6A6IABSI/AAAAAAAABa8/rpe5JQcmeAM/s1600-h/4767.jpg)

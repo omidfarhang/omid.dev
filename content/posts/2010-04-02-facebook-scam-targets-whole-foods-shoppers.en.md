@@ -12,11 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600-h/whole-foods-facebook.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600/whole-foods-facebook.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600/whole-foods-facebook.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600-h/whole-foods-facebook.jpg)
 
-<span></span><span></span>Whole Foods, a popular health and organic grocery chain, is the subject of a new Facebook scam that phishes for users’ credit and other personal information.
+Whole Foods, a popular health and organic grocery chain, is the subject of a new Facebook scam that phishes for users’ credit and other personal information.
 
 A deluge of fraudulent Facebook Pages are popping up that promise a limited number of users Whole Foods gift cards. These Pages are accruing thousands of fans and siphoning off sensitive and lucrative data.
 
@@ -24,6 +22,6 @@ The groups offering Whole Foods gift cards are in no way affiliated with the sup
 
 Some of the Pages ask users to spam all of their friends to become fans as well, allegedly a required step for getting a gift card.
 
-The food store chain is trying to shut the scammers down as quickly as possible and is also trying to notify folks via Twitter that the hoax is precisely that. “It’s a scam, unaffiliated and unauthorized by us!” says <a href="http://twitter.com/WholeFoods/status/11485393345" target="_blank">one tweet</a>. “Please help us report these pages so Facebook can shut them down.”
+The food store chain is trying to shut the scammers down as quickly as possible and is also trying to notify folks via Twitter that the hoax is precisely that. “It’s a scam, unaffiliated and unauthorized by us!” says [one tweet](http://twitter.com/WholeFoods/status/11485393345). “Please help us report these pages so Facebook can shut them down.”
 
-Unfortunately, the scammers behind these Pages are creating more, even as Facebook, Whole Foods and vigilant users attempt to shut them down. To report these pages to Facebook, simply scroll to the bottom of the offending Page and click “Report Page.” To get real content from and about the supermarket, check out the official <a href="http://www.facebook.com/wholefoods" target="_blank">Whole Foods Facebook Page</a>.
+Unfortunately, the scammers behind these Pages are creating more, even as Facebook, Whole Foods and vigilant users attempt to shut them down. To report these pages to Facebook, simply scroll to the bottom of the offending Page and click “Report Page.” To get real content from and about the supermarket, check out the official [Whole Foods Facebook Page](http://www.facebook.com/wholefoods).

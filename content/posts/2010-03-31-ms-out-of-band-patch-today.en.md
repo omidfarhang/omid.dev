@@ -17,14 +17,8 @@ If you’re using Internet Explorer versions 6 or 7 it wouldn’t be a good idea
 
 There’s something in it for IE8 as well.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7M_BbjlU8I/AAAAAAAABbY/5ST9hwwca0U/s1600-h/MS_update_1.JPG" imageanchor="1"><img border="0" height="91" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7M_BbjlU8I/AAAAAAAABbY/5ST9hwwca0U/s400/MS_update_1.JPG" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7M_BbjlU8I/AAAAAAAABbY/5ST9hwwca0U/s400/MS_update_1.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7M_BbjlU8I/AAAAAAAABbY/5ST9hwwca0U/s1600-h/MS_update_1.JPG)
 
-
-
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7M_CUyjsFI/AAAAAAAABbc/Glq7Rp9d468/s1600-h/MS_update_2.JPG" imageanchor="1"><img border="0" height="93" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7M_CUyjsFI/AAAAAAAABbc/Glq7Rp9d468/s400/MS_update_2.JPG" width="400" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7M_CUyjsFI/AAAAAAAABbc/Glq7Rp9d468/s400/MS_update_2.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7M_CUyjsFI/AAAAAAAABbc/Glq7Rp9d468/s1600-h/MS_update_2.JPG)
 
 See our post yesterday: “[Microsoft out-of-band patch tomorrow](http://boelectronic.blogspot.com/2010/03/microsoft-out-of-band-patch-tomorrow.html)”

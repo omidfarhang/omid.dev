@@ -10,9 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7MwP9B0VVI/AAAAAAAABbA/gpcdZSZ1lzQ/s1600-h/igoogle-file-transfer.jpg" imageanchor="1"><img border="0" height="145" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7MwP9B0VVI/AAAAAAAABbA/gpcdZSZ1lzQ/s200/igoogle-file-transfer.jpg" width="200" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7MwP9B0VVI/AAAAAAAABbA/gpcdZSZ1lzQ/s200/igoogle-file-transfer.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7MwP9B0VVI/AAAAAAAABbA/gpcdZSZ1lzQ/s1600-h/igoogle-file-transfer.jpg)
 
 Google has revealed that users can now transfer files via chat in iGoogle and Orkut.
 
@@ -22,6 +20,4 @@ The iGoogle and Orkut file transfers will work for photos, documents and presuma
 
 We certainly look forward to the day when file transfers will be supported via chat in Gmail, and we’ll update you when we know more. Until then, let us know what you think about the new iGoogle and Orkut functionality in the comments.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7MwbDyfYJI/AAAAAAAABbE/bo8HAu1S308/s1600-h/QjlAL.png" imageanchor="1"><img border="0" height="187" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7MwbDyfYJI/AAAAAAAABbE/bo8HAu1S308/s400/QjlAL.png" width="400" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7MwbDyfYJI/AAAAAAAABbE/bo8HAu1S308/s400/QjlAL.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7MwbDyfYJI/AAAAAAAABbE/bo8HAu1S308/s1600-h/QjlAL.png)

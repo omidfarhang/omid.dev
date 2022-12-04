@@ -18,9 +18,7 @@ The e-mail didn't mention any company by name and took a shotgun, rather than ta
 
 Today, a security blogger forwarded us (and others) his version of the e-mail:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6v0ir-YACI/AAAAAAAABZ8/6IzzhceKM6s/s1600-h/MLC.png" imageanchor="1"><img border="0" height="357" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6v0ir-YACI/AAAAAAAABZ8/6IzzhceKM6s/s400/MLC.png" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6v0ir-YACI/AAAAAAAABZ8/6IzzhceKM6s/s400/MLC.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6v0ir-YACI/AAAAAAAABZ8/6IzzhceKM6s/s1600-h/MLC.png)
 
 At this point, it appears that the attachment has been replaced by hyperlink pointing to the Marcus Law Center.
 

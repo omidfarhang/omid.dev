@@ -18,9 +18,7 @@ Last week, a student filed suit in federal court after facing disciplinary actio
 
 The school had installed the webcam spyware on the 2,300 laptops issued to high school students in order to help find the machines if they were lost or stolen. Only two employees were authorized to activate the cameras.
 
-<div>
-  <b>. . .</b>
-</div>
+**. . .**
 
 Preserving privacy gets tougher and tougher as technology develops. Perfectly legitimate information systems are full of personal information or access to it &#8212; such as this case &#8212; and search technology it is getting better and better. It just makes it too easy for employees to snoop or officials to misuse the systems. Guarding privacy is a serious job involving licensing agreements, procedures for employees who access data, intrusion prevention and hopefully encryption.
 
