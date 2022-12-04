@@ -11,9 +11,7 @@ category: techblog
 ---
 Once again, we'd like to wish our readers Merry Christmas with a reference to the 1986 CHRISTMA EXEC worm
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SzPYmT4CftI/AAAAAAAAAgA/Ds2ClemcCfY/s1600-h/CHRISTMA+EXEC.gif" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SzPYmT4CftI/AAAAAAAAAgA/Ds2ClemcCfY/s640/CHRISTMA+EXEC.gif" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SzPYmT4CftI/AAAAAAAAAgA/Ds2ClemcCfY/s640/CHRISTMA+EXEC.gif)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SzPYmT4CftI/AAAAAAAAAgA/Ds2ClemcCfY/s1600-h/CHRISTMA+EXEC.gif)
 
 Here's a link to [January 1987 Risks Digest](http://catless.ncl.ac.uk/Risks/6.01.html), discussing the worm.
 

@@ -15,43 +15,29 @@ category: techblog
 A day after the disaster that struck the Caribbean nation of Haiti, Rogue perpetrators have once again been busy with their SEO poisoning schemes. Searching for terms related to this earthquake leads to a website that installs a Rogue into the system.
 
 It happens when an unsuspecting user searches for Haiti Earthquake details.
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1EFFMqE3rI/AAAAAAAAAp0/zH-lGMbFp-E/s640/hai-1.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1EFFMqE3rI/AAAAAAAAAp0/zH-lGMbFp-E/s1600-h/hai-1.JPG)
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S1EFFMqE3rI/AAAAAAAAAp0/zH-lGMbFp-E/s1600-h/hai-1.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S1EFFMqE3rI/AAAAAAAAAp0/zH-lGMbFp-E/s640/hai-1.JPG" /></a>
-</div>
-
-<a name="more"></a>  
  Happily clicking the link leads to this page:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFGFppfTI/AAAAAAAAAp8/sVmKiZG2ttk/s1600-h/hai-2.JPG" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFGFppfTI/AAAAAAAAAp8/sVmKiZG2ttk/s640/hai-2.JPG" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFGFppfTI/AAAAAAAAAp8/sVmKiZG2ttk/s640/hai-2.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFGFppfTI/AAAAAAAAAp8/sVmKiZG2ttk/s1600-h/hai-2.JPG)
 
 Then this…
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFHJTpxnI/AAAAAAAAAqE/wF9Lik5p1LM/s1600-h/hai-3.JPG" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFHJTpxnI/AAAAAAAAAqE/wF9Lik5p1LM/s640/hai-3.JPG" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFHJTpxnI/AAAAAAAAAqE/wF9Lik5p1LM/s640/hai-3.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EFHJTpxnI/AAAAAAAAAqE/wF9Lik5p1LM/s1600-h/hai-3.JPG)
 
 And this…
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFIrp5adI/AAAAAAAAAqM/W9wKhiA9VX8/s1600-h/hai-4.JPG" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFIrp5adI/AAAAAAAAAqM/W9wKhiA9VX8/s640/hai-4.JPG" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFIrp5adI/AAAAAAAAAqM/W9wKhiA9VX8/s640/hai-4.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFIrp5adI/AAAAAAAAAqM/W9wKhiA9VX8/s1600-h/hai-4.JPG)
 
 Wait! What's that? **F-Secure**?!? Nice try… They definitely don't support this malware.
 
 After dragging the F-Secure name to its wares… It finally downloads the rogue component.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFJc0KMDI/AAAAAAAAAqU/sOFVRdYyQ-A/s1600-h/hai-5.JPG" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFJc0KMDI/AAAAAAAAAqU/sOFVRdYyQ-A/s640/hai-5.JPG" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFJc0KMDI/AAAAAAAAAqU/sOFVRdYyQ-A/s640/hai-5.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFJc0KMDI/AAAAAAAAAqU/sOFVRdYyQ-A/s1600-h/hai-5.JPG)
 
 Installs itself, then scares the user.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFKXueQUI/AAAAAAAAAqc/_Du_dinfm64/s1600-h/hai-6.JPG" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFKXueQUI/AAAAAAAAAqc/_Du_dinfm64/s640/hai-6.JPG" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFKXueQUI/AAAAAAAAAqc/_Du_dinfm64/s640/hai-6.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EFKXueQUI/AAAAAAAAAqc/_Du_dinfm64/s1600-h/hai-6.JPG)
 
 Threats found? Don't believe it.
 

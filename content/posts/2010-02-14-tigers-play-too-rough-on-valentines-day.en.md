@@ -16,33 +16,19 @@ This year, Valentines Day coincides with the Chinese New Year as well as the sta
 
 The Chinese New Year of the Tiger is proving a popular target, especially as this ties in with any Tiger Woods related searches:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3hLnny95LI/AAAAAAAAA9I/nYcqyp3shxk/s1600-h/search1.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3hLnny95LI/AAAAAAAAA9I/nYcqyp3shxk/s640/search1.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3hLnny95LI/AAAAAAAAA9I/nYcqyp3shxk/s640/search1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3hLnny95LI/AAAAAAAAA9I/nYcqyp3shxk/s1600-h/search1.jpg)
 
 As we are seeing on a daily basis, topical issues that have spawned a large number of searches become the target of Fake AV authors:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hL2eqNuPI/AAAAAAAAA9Q/0MQeBwdyp4g/s1600-h/search2.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hL2eqNuPI/AAAAAAAAA9Q/0MQeBwdyp4g/s640/search2.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hL2eqNuPI/AAAAAAAAA9Q/0MQeBwdyp4g/s640/search2.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hL2eqNuPI/AAAAAAAAA9Q/0MQeBwdyp4g/s1600-h/search2.jpg)
 
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMFTSIuiI/AAAAAAAAA9Y/unOTyLJpd0U/s640/alert.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMFTSIuiI/AAAAAAAAA9Y/unOTyLJpd0U/s1600-h/alert.jpg)
 
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMFTSIuiI/AAAAAAAAA9Y/unOTyLJpd0U/s1600-h/alert.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMFTSIuiI/AAAAAAAAA9Y/unOTyLJpd0U/s640/alert.jpg" /></a>
-</div>
-
-
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMKmJHb9I/AAAAAAAAA9g/TCGCXOZUAQE/s1600-h/scan.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMKmJHb9I/AAAAAAAAA9g/TCGCXOZUAQE/s640/scan.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMKmJHb9I/AAAAAAAAA9g/TCGCXOZUAQE/s640/scan.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMKmJHb9I/AAAAAAAAA9g/TCGCXOZUAQE/s1600-h/scan.jpg)
 
 Tragic events are also fair game:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hMRN-SfdI/AAAAAAAAA9o/61uIp66qHto/s1600-h/search3.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hMRN-SfdI/AAAAAAAAA9o/61uIp66qHto/s640/search3.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hMRN-SfdI/AAAAAAAAA9o/61uIp66qHto/s640/search3.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hMRN-SfdI/AAAAAAAAA9o/61uIp66qHto/s1600-h/search3.jpg)
 
 As well as having up to date Anti Virus one way to avoid attacks such as these is to use a browser plugin such as NoScript that blocks the execution of JavaScript from untrusted sources.
 

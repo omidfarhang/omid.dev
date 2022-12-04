@@ -23,9 +23,7 @@ And that, this patch addresses several Internet Explorer vulnerabilities &#8211;
 
 Annnnd that, the Metasploit framework has released an update that can generate attacks based on this….. Which means that every script-kiddy / pentester / disgruntled-monkey-with-a-laptop can mount their own little mini operation Aurora-like attacks.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1mCfVOatwI/AAAAAAAAAuI/46OMc-OEuqg/s1600-h/metasploit.png" imageanchor="1"><img border="0" height="112" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1mCfVOatwI/AAAAAAAAAuI/46OMc-OEuqg/s400/metasploit.png" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1mCfVOatwI/AAAAAAAAAuI/46OMc-OEuqg/s400/metasploit.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1mCfVOatwI/AAAAAAAAAuI/46OMc-OEuqg/s1600-h/metasploit.png)
 
 Annnnnnd that, Microsoft has posted an advisory about an unpatched elevation of privilege attack that affects most Windows NT platforms ( from Windows NT 3.1 to, and including, Windows 7 ) &#8211; which there is proof-of-concept code now publicly available for…..
 

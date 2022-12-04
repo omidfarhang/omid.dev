@@ -12,15 +12,7 @@ category: techblog
 ---
 SystemCleanerPRO is a rogue antivirus program, or a complete scam. SystemCleanerPRO uses fake security alerts and fictitious system pop-ups that warn or infections to frighten users into buying the software. SystemCleanerPRO is a complete rip-off and should be removed form infected PC's immediately.
 
-<div>
-</div>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SzoU1QQqWoI/AAAAAAAAAhI/XLFAEbPHKuY/s1600-h/SystemCleanerPro_GUI.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SzoU1QQqWoI/AAAAAAAAAhI/XLFAEbPHKuY/s640/SystemCleanerPro_GUI.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SzoU1QQqWoI/AAAAAAAAAhI/XLFAEbPHKuY/s640/SystemCleanerPro_GUI.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SzoU1QQqWoI/AAAAAAAAAhI/XLFAEbPHKuY/s1600-h/SystemCleanerPro_GUI.jpg)
 
 If SystemCleanerPRO has infected your computer, you may experience the following symptoms:
 

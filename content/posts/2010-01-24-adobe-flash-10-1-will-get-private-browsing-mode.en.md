@@ -13,9 +13,7 @@ category: techblog
 ---
 Adobe Flash is a well well known plugin used today by most of the internet users. Its next upgrade i.e version 10.1 will get private browsing support. Flash player will now automatically clean all flash history of your computer once you end the session. It will use the same technique as used in browsers supporting private browsing.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zPCCyKVAI/AAAAAAAAAvY/wQlOjBdOMDs/s1600-h/FlashPlayerSetting.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zPCCyKVAI/AAAAAAAAAvY/wQlOjBdOMDs/s400/FlashPlayerSetting.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zPCCyKVAI/AAAAAAAAAvY/wQlOjBdOMDs/s400/FlashPlayerSetting.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zPCCyKVAI/AAAAAAAAAvY/wQlOjBdOMDs/s1600-h/FlashPlayerSetting.png)
 
 As you end the session the browsers in private mode automatically clears cookies, history and data, similarly flash will also remove any user password, login information or data stored that were associated while working in flash environment.
 

@@ -14,9 +14,7 @@ category: techblog
 ---
 I received an interesting IM from a friend via BlackBerry Messenger [BBM] this weekend. She was worried that it could do damage to her shiny new BlackBerry and, as she knew I work for _[a security company]_, she forwarded it to me for my opinion.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S02rk1k3ZoI/AAAAAAAAAoc/TSDtBb2fpxQ/s1600-h/120110ogd.JPG" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S02rk1k3ZoI/AAAAAAAAAoc/TSDtBb2fpxQ/s640/120110ogd.JPG" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02rk1k3ZoI/AAAAAAAAAoc/TSDtBb2fpxQ/s640/120110ogd.JPG)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02rk1k3ZoI/AAAAAAAAAoc/TSDtBb2fpxQ/s1600-h/120110ogd.JPG)
 
 As soon as I read it, I knew it was a hoax and told her just to delete it.
 

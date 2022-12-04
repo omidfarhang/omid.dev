@@ -12,19 +12,6 @@ category: techblog
 ---
 Security researchers examining the directories of the URLs of some of the latest Koobface runs may stumble upon a Christmas greeting:
 
-<div>
-  <div>
-    <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SznvlsUMBHI/AAAAAAAAAgg/_xyYuzxxCyQ/s1600-h/kf_mc_1.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SznvlsUMBHI/AAAAAAAAAgg/_xyYuzxxCyQ/s640/kf_mc_1.jpg" /></a>
-  </div>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SznvlsUMBHI/AAAAAAAAAgg/_xyYuzxxCyQ/s640/kf_mc_1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SznvlsUMBHI/AAAAAAAAAgg/_xyYuzxxCyQ/s1600-h/kf_mc_1.jpg)
 
-<div>
-  <a name="more"></a>
-</div>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SzSnZ9_WtnI/AAAAAAAAAgY/t6ye8Rk1tR4/s1600-h/kf_mc_2.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SzSnZ9_WtnI/AAAAAAAAAgY/t6ye8Rk1tR4/s640/kf_mc_2.png" /></a>
-</div>
-
-<div>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SzSnZ9_WtnI/AAAAAAAAAgY/t6ye8Rk1tR4/s640/kf_mc_2.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SzSnZ9_WtnI/AAAAAAAAAgY/t6ye8Rk1tR4/s1600-h/kf_mc_2.png)

@@ -13,15 +13,7 @@ category: techblog
 ---
 GreatDefender is a great big scam. GreatDefender is the latest rogue antispyware software, or phony security program that rips people off. If GreatDefender has infected your computer, do not buy the software, you should remove it immediately.
 
-<div>
-</div>
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S0SEbpV-wJI/AAAAAAAAAiQ/KcqY6F2siCM/s1600-h/GreatDefender_GUI.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S0SEbpV-wJI/AAAAAAAAAiQ/KcqY6F2siCM/s640/GreatDefender_GUI.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S0SEbpV-wJI/AAAAAAAAAiQ/KcqY6F2siCM/s640/GreatDefender_GUI.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S0SEbpV-wJI/AAAAAAAAAiQ/KcqY6F2siCM/s1600-h/GreatDefender_GUI.jpg)
 
 GreatDefender uses scare tactics to frighten people into buying this corrupt software. These scare tactics include:
 
@@ -30,6 +22,4 @@ GreatDefender uses scare tactics to frighten people into buying this corrupt sof
   * Web browser redirecting to random websites (these websites are owned by cyber thieves and will further infect your PC)
   * GreatDefender will prevent other programs from opening, stating they are infected (The programs are not infected)
 
-<div>
-  If your windows is infected with this malware you should remove it as soon as possible, <a href="/knowledge-base/malware-removal/">Click Here</a> to learn how to remove it.
-</div>
+If your windows is infected with this malware you should remove it as soon as possible, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.

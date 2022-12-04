@@ -14,43 +14,29 @@ Facebook recently rolled out new privacy settings that provides additional publi
 
 For example, Facebook users can now publish a photo to a selected list of friends.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIO4foLfI/AAAAAAAAAqk/ETR46i4MLBY/s1600-h/Facebook.Share.Photo.Anyone.01.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIO4foLfI/AAAAAAAAAqk/ETR46i4MLBY/s640/Facebook.Share.Photo.Anyone.01.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIO4foLfI/AAAAAAAAAqk/ETR46i4MLBY/s640/Facebook.Share.Photo.Anyone.01.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIO4foLfI/AAAAAAAAAqk/ETR46i4MLBY/s1600-h/Facebook.Share.Photo.Anyone.01.png)
 
-<a name="more"></a>
+Clicking the “lock” icon opens the Custom Privacy settings.
 
-Clicking the &#8220;lock&#8221; icon opens the Custom Privacy settings.
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EIPhJAZHI/AAAAAAAAAqs/gYdixTJ9jQs/s1600-h/Facebook.Share.Photo.Anyone.02.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EIPhJAZHI/AAAAAAAAAqs/gYdixTJ9jQs/s640/Facebook.Share.Photo.Anyone.02.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EIPhJAZHI/AAAAAAAAAqs/gYdixTJ9jQs/s640/Facebook.Share.Photo.Anyone.02.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EIPhJAZHI/AAAAAAAAAqs/gYdixTJ9jQs/s1600-h/Facebook.Share.Photo.Anyone.02.png)
 
 Once a photo is selected and the privacy options are set, the next step is to Share.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIQdMmX-I/AAAAAAAAAq0/pQ3bmvVj4_s/s1600-h/Facebook.Share.Photo.Anyone.03.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIQdMmX-I/AAAAAAAAAq0/pQ3bmvVj4_s/s640/Facebook.Share.Photo.Anyone.03.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIQdMmX-I/AAAAAAAAAq0/pQ3bmvVj4_s/s640/Facebook.Share.Photo.Anyone.03.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIQdMmX-I/AAAAAAAAAq0/pQ3bmvVj4_s/s1600-h/Facebook.Share.Photo.Anyone.03.png)
 
 As you can see, the default setting is set for Only Friends and this particular post is set for **Only Me**.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EIQ1FeVgI/AAAAAAAAAq8/Go31yaqOEcU/s1600-h/Facebook.Share.Photo.Anyone.04.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EIQ1FeVgI/AAAAAAAAAq8/Go31yaqOEcU/s640/Facebook.Share.Photo.Anyone.04.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EIQ1FeVgI/AAAAAAAAAq8/Go31yaqOEcU/s640/Facebook.Share.Photo.Anyone.04.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EIQ1FeVgI/AAAAAAAAAq8/Go31yaqOEcU/s1600-h/Facebook.Share.Photo.Anyone.04.png)
 
 So only Matti Meikäläinen can see this image, right?
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIRn4dYWI/AAAAAAAAArE/0bjtal7L22o/s1600-h/Facebook.Share.Photo.Anyone.05.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIRn4dYWI/AAAAAAAAArE/0bjtal7L22o/s640/Facebook.Share.Photo.Anyone.05.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIRn4dYWI/AAAAAAAAArE/0bjtal7L22o/s640/Facebook.Share.Photo.Anyone.05.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EIRn4dYWI/AAAAAAAAArE/0bjtal7L22o/s1600-h/Facebook.Share.Photo.Anyone.05.png)
 
 Well… almost, but no, not quite. There is one large loophole to all this.
 
 Do you see the link, highlighted in red?
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EITkqBpEI/AAAAAAAAArM/-0IN0Q16DT8/s1600-h/Facebook.Share.Photo.Anyone.06.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EITkqBpEI/AAAAAAAAArM/-0IN0Q16DT8/s640/Facebook.Share.Photo.Anyone.06.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EITkqBpEI/AAAAAAAAArM/-0IN0Q16DT8/s640/Facebook.Share.Photo.Anyone.06.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1EITkqBpEI/AAAAAAAAArM/-0IN0Q16DT8/s1600-h/Facebook.Share.Photo.Anyone.06.png)
 
 That's right! The photo can be shared [with anyone by sending them this public link](http://www.facebook.com/photo.php?pid=173686&l=231de72940&id=100000219964216).
 

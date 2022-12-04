@@ -83,4 +83,4 @@ category: techblog
   </p>
   
   <p>
-    Follow me on Twitter at <a href="http://twitter.com/boelectronic">@boelectronic</a> if you want to keep up-to-speed with the latest threats, and learn how to protect yourself.</div>
+    Follow me on Twitter at <a href="https://twitter.com/OmidFarhangEn">@boelectronic</a> if you want to keep up-to-speed with the latest threats, and learn how to protect yourself.</div>

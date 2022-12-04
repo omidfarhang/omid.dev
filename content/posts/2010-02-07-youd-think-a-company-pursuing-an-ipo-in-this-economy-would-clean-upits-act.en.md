@@ -16,27 +16,15 @@ For example, maybe they’d discourage them from hacking government web sites to
 
 The sites:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S28E2Moq6BI/AAAAAAAAA2A/M68t-dLlIIg/s1600-h/AFF_20search.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S28E2Moq6BI/AAAAAAAAA2A/M68t-dLlIIg/s640/AFF_20search.JPG" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28E2Moq6BI/AAAAAAAAA2A/M68t-dLlIIg/s640/AFF_20search.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28E2Moq6BI/AAAAAAAAA2A/M68t-dLlIIg/s1600-h/AFF_20search.JPG)
 
 The code:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S28Esf1NpCI/AAAAAAAAA14/BKLDo4GXFDc/s1600-h/AFF_20code3.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S28Esf1NpCI/AAAAAAAAA14/BKLDo4GXFDc/s640/AFF_20code3.JPG" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28Esf1NpCI/AAAAAAAAA14/BKLDo4GXFDc/s640/AFF_20code3.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28Esf1NpCI/AAAAAAAAA14/BKLDo4GXFDc/s1600-h/AFF_20code3.JPG)
 
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S28EnuF9ywI/AAAAAAAAA1w/F-tVRDt6oEU/s640/AFF_20code2.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S28EnuF9ywI/AAAAAAAAA1w/F-tVRDt6oEU/s1600-h/AFF_20code2.JPG)
 
-
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S28EnuF9ywI/AAAAAAAAA1w/F-tVRDt6oEU/s1600-h/AFF_20code2.JPG" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S28EnuF9ywI/AAAAAAAAA1w/F-tVRDt6oEU/s640/AFF_20code2.JPG" /></a>
-</div>
-
-
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S28EmnbobII/AAAAAAAAA1o/xPcFX8WqA_o/s1600-h/AFF_20code.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S28EmnbobII/AAAAAAAAA1o/xPcFX8WqA_o/s640/AFF_20code.JPG" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28EmnbobII/AAAAAAAAA1o/xPcFX8WqA_o/s640/AFF_20code.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28EmnbobII/AAAAAAAAA1o/xPcFX8WqA_o/s1600-h/AFF_20code.JPG)
 
 Remember Adult Friend Finder? Penthouse Media Group (which also owns Penthouse magazine) purchased the online adult… ah… dating service in 2007 for $500 million. Well now they’re called FriendFinder Networks, Inc. In December, 2008 they filed with the U.S. Security and Exchange Commission for permission to make an initial public offering $460 million of stock.
 

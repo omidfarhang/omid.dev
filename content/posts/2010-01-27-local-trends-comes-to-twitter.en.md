@@ -26,4 +26,4 @@ _Local Trends will allow you to learn more about the nuances in our world and di
   <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CH_u4rC-I/AAAAAAAAAwY/0N7zj4pPX_s/s1600-h/27012010192245.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CH_u4rC-I/AAAAAAAAAwY/0N7zj4pPX_s/s640/27012010192245.png" /></a>
 </div>
 
-Don't forget to follow me [@boelectronic](http://twitter.com/boelectronic) on Twitter.
+Don't forget to follow me [@boelectronic](https://twitter.com/OmidFarhangEn) on Twitter.

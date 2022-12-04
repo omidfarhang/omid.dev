@@ -13,8 +13,6 @@ category: techblog
 ---
 InSysSecure is a rogue security program, designed to rip people off. InSysSecure uses false security warnings, alerts and system scans to frighten people into thinking their computer systems are infected, all the while InSysSecure is the actual infection.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S00FylP-YZI/AAAAAAAAAm4/4Ed6AU8Qfho/s1600-h/InSysSecure_GUI.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S00FylP-YZI/AAAAAAAAAm4/4Ed6AU8Qfho/s640/InSysSecure_GUI.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S00FylP-YZI/AAAAAAAAAm4/4Ed6AU8Qfho/s640/InSysSecure_GUI.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S00FylP-YZI/AAAAAAAAAm4/4Ed6AU8Qfho/s1600-h/InSysSecure_GUI.jpg)
 
 if your system is infected with above malware, you should remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.

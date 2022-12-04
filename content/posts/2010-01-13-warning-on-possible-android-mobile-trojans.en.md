@@ -16,23 +16,15 @@ Google's Android mobile operating system has been out for a while and is generat
 
 Now there has been some buzz about fraudulent applications being posted on the Android Market. See these postings:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jXJb23CI/AAAAAAAAAnA/xEpUkZK-kaw/s1600-h/09droid1.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jXJb23CI/AAAAAAAAAnA/xEpUkZK-kaw/s640/09droid1.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jXJb23CI/AAAAAAAAAnA/xEpUkZK-kaw/s640/09droid1.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jXJb23CI/AAAAAAAAAnA/xEpUkZK-kaw/s1600-h/09droid1.png)
 
-<a name="more"></a>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S02jX7B1zXI/AAAAAAAAAnI/Q0WgX1ZwG20/s1600-h/09droid2.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S02jX7B1zXI/AAAAAAAAAnI/Q0WgX1ZwG20/s640/09droid2.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02jX7B1zXI/AAAAAAAAAnI/Q0WgX1ZwG20/s640/09droid2.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02jX7B1zXI/AAAAAAAAAnI/Q0WgX1ZwG20/s1600-h/09droid2.png)
 
 Both of these apps were written by an anonymous developer known as 09Droid.
 
 In fact, he had a whole collection of online banking applications for sale on the Market:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S02jZcQaptI/AAAAAAAAAnQ/7ZY8ebUjKgk/s1600-h/09droid3.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S02jZcQaptI/AAAAAAAAAnQ/7ZY8ebUjKgk/s640/09droid3.jpg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S02jZcQaptI/AAAAAAAAAnQ/7ZY8ebUjKgk/s640/09droid3.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S02jZcQaptI/AAAAAAAAAnQ/7ZY8ebUjKgk/s1600-h/09droid3.jpg)
 
 These applications were being sold, but it's still unclear what exactly they did. We haven't been able to secure a copy for ourselves yet, so we don't know either.
 
@@ -40,15 +32,11 @@ Since the applications were not developed or authorized by the banks themselves,
 
 We can't ask these questions from Mr. 09Droid himself either, as he is nowhere to be found. His applications have been removed from the market, and his contact information points to an empty Blogspot page.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jaDR2ZMI/AAAAAAAAAnY/K2y1-roHq2w/s1600-h/09droid4.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jaDR2ZMI/AAAAAAAAAnY/K2y1-roHq2w/s640/09droid4.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jaDR2ZMI/AAAAAAAAAnY/K2y1-roHq2w/s640/09droid4.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02jaDR2ZMI/AAAAAAAAAnY/K2y1-roHq2w/s1600-h/09droid4.png)
 
 In the meanwhile, many of the affected banks have been assuming the worst and have issued public warnings to their customers. Here's an example warning from Bayport Credit Union:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S02ja0iN6VI/AAAAAAAAAng/R3aB7gLNhjM/s1600-h/09droid5.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S02ja0iN6VI/AAAAAAAAAng/R3aB7gLNhjM/s640/09droid5.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02ja0iN6VI/AAAAAAAAAng/R3aB7gLNhjM/s640/09droid5.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02ja0iN6VI/AAAAAAAAAng/R3aB7gLNhjM/s1600-h/09droid5.png)
 
 In any case, we recommend users to remove applications from 09Droid from their Android devices.
 

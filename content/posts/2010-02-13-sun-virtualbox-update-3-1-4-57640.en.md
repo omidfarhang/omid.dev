@@ -10,9 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3cGuZPL9LI/AAAAAAAAA8g/paK4gz7GWxQ/s1600-h/virtualBox.gif" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3cGuZPL9LI/AAAAAAAAA8g/paK4gz7GWxQ/s640/virtualBox.gif" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3cGuZPL9LI/AAAAAAAAA8g/paK4gz7GWxQ/s640/virtualBox.gif)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3cGuZPL9LI/AAAAAAAAA8g/paK4gz7GWxQ/s1600-h/virtualBox.gif)
 
 VirtualBox is a general-purpose full virtualizer for x86 hardware. Targeted at server, desktop and embedded use, it is now the only professional-quality virtualization solution that is also Open Source Software.
 

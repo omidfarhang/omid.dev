@@ -18,9 +18,7 @@ When we analysed the malware trapped in our botnet, we found that this variant o
 
 Activities logged by the worm:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EAVBo2CoI/AAAAAAAAApc/CQsUkVKWfBw/s1600-h/log.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EAVBo2CoI/AAAAAAAAApc/CQsUkVKWfBw/s640/log.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EAVBo2CoI/AAAAAAAAApc/CQsUkVKWfBw/s640/log.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1EAVBo2CoI/AAAAAAAAApc/CQsUkVKWfBw/s1600-h/log.jpg)
 
 Before every entry in the log file, it queries the thread id and process id and adds it as prefix. The worm also logs the for iexplore.exe version. It then sends a query to www.google.com to ensure that there is active internet connection in the system , this process is also logged as “check inet” in the log file. Once the acknowledgement for the query is received it confirms that the internet connection is available and logs this in the log file as “inet ok”.
 
@@ -40,9 +38,7 @@ Koobface worm then requests for some more information from the compromised site 
 
 The screenshot clearly shows the request sent and response:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EAVyJizcI/AAAAAAAAApk/hCE3nSaqxCE/s1600-h/Sniffer.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EAVyJizcI/AAAAAAAAApk/hCE3nSaqxCE/s640/Sniffer.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EAVyJizcI/AAAAAAAAApk/hCE3nSaqxCE/s640/Sniffer.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1EAVyJizcI/AAAAAAAAApk/hCE3nSaqxCE/s1600-h/Sniffer.jpg)
 
 The worm saves the response received in another log file as below. It then tries to log on to the Facebook account using the logs. On successfull login it tries sending friend requests or scan friend lists. In case the credentials are not accepted, it terminates itself.
 

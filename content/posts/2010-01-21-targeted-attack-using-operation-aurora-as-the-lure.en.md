@@ -17,9 +17,7 @@ In the middle of all the attention to the &#8220;Operation Aurora&#8221; attacks
 
 Here's the email we saw:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S1i2Fg2DmzI/AAAAAAAAArs/BCP248WbOxQ/s1600-h/mail.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S1i2Fg2DmzI/AAAAAAAAArs/BCP248WbOxQ/s640/mail.JPG" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1i2Fg2DmzI/AAAAAAAAArs/BCP248WbOxQ/s640/mail.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1i2Fg2DmzI/AAAAAAAAArs/BCP248WbOxQ/s1600-h/mail.JPG)
 
 The attachment Chinese cyberattack.pdf (md5: 238ecf8c0aee8bfd216cf3cad5d82448) is a PDF file which exploits the CVE-2009-4324 vulnerability in Adobe Reader (again, this is the one which was patched last week).
 

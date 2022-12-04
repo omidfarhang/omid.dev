@@ -21,16 +21,12 @@ It was targetting the [CVE-2009-4324](http://cve.mitre.org/cgi-bin/cvename.cgi?n
 
 When opened, the PDF file (md5: c3079303562d4672d6c3810f91235d9b) looked like this:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ins0wpC0I/AAAAAAAAArc/1bMPhGLZdvY/s1600-h/ncsi1.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ins0wpC0I/AAAAAAAAArc/1bMPhGLZdvY/s640/ncsi1.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ins0wpC0I/AAAAAAAAArc/1bMPhGLZdvY/s640/ncsi1.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ins0wpC0I/AAAAAAAAArc/1bMPhGLZdvY/s1600-h/ncsi1.png)
 
 What really happens in the background? Just like last time, the exploit code drops a backdoor in a file called **Updater.exe** (md5: 02420bb8fd8258f8afd4e01029b7a2b0).
 
 Now, what is the document talking about? President's day? DNI Information Sharing Environment? We don't know, but a quick web search tells us that apparently there is going to be an Intelligence fair & expo in Germany next month.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ioarxiwZI/AAAAAAAAArk/vzo_k9wRpyg/s1600-h/ncsi2.png" imageanchor="1"><img border="0" height="500" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ioarxiwZI/AAAAAAAAArk/vzo_k9wRpyg/s640/ncsi2.png" width="640" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ioarxiwZI/AAAAAAAAArk/vzo_k9wRpyg/s640/ncsi2.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1ioarxiwZI/AAAAAAAAArk/vzo_k9wRpyg/s1600-h/ncsi2.png)
 
 Hmm. The Agenda looks awfully familiar.

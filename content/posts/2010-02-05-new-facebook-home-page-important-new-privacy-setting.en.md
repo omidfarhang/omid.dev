@@ -18,9 +18,7 @@ And whenever Facebook adds new features, in this case the **Applications and Gam
 
 This is what part of the new Applications dashboard looks like.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S2yfsRqXtlI/AAAAAAAAA04/CZDgj_046HE/s1600-h/Facebook_Privacy_Activity_04.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S2yfsRqXtlI/AAAAAAAAA04/CZDgj_046HE/s640/Facebook_Privacy_Activity_04.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S2yfsRqXtlI/AAAAAAAAA04/CZDgj_046HE/s640/Facebook_Privacy_Activity_04.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S2yfsRqXtlI/AAAAAAAAA04/CZDgj_046HE/s1600-h/Facebook_Privacy_Activity_04.png)
 
 All Facebook has raised some privacy concerns regarding the dashboard's output.
 
@@ -32,26 +30,16 @@ Then you'll want to take a look at the new control provided by Facebook.
 
 Here's the old Applications and Websites settings page.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S2yfoxzXu7I/AAAAAAAAA0g/Krs48fY38GE/s1600-h/Facebook_Privacy_Activity_01.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S2yfoxzXu7I/AAAAAAAAA0g/Krs48fY38GE/s640/Facebook_Privacy_Activity_01.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2yfoxzXu7I/AAAAAAAAA0g/Krs48fY38GE/s640/Facebook_Privacy_Activity_01.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2yfoxzXu7I/AAAAAAAAA0g/Krs48fY38GE/s1600-h/Facebook_Privacy_Activity_01.png)
 
 Here are the new settings.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s1600-h/Facebook_Privacy_Activity_02.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s640/Facebook_Privacy_Activity_02.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s640/Facebook_Privacy_Activity_02.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s1600-h/Facebook_Privacy_Activity_02.png)
 
 The new privacy option allows you to &#8220;Control who can see your activity in the Friends' Recent Activity, Friends' Applications and Friends' Games sections of these pages.&#8221;
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s1600-h/Facebook_Privacy_Activity_03.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s640/Facebook_Privacy_Activity_03.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s640/Facebook_Privacy_Activity_03.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s1600-h/Facebook_Privacy_Activity_03.png)
 
-The control options should be familiar enough at this point. Sharing can be set to Only Friends, Friends of Friends and Everyone.
+The control options should be familiar enough at this point. Sharing can be set to Only Friends, Friends of Friends and Everyone. Of course, utilizing Friends Lists can limit access in a more refined manner.
 
-Of course, utilizing Friends Lists can limit access in a more refined manner.
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yftKEfnpI/AAAAAAAAA1A/yyPm1p4oqjM/s1600-h/Facebook_Privacy_Activity_05.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yftKEfnpI/AAAAAAAAA1A/yyPm1p4oqjM/s640/Facebook_Privacy_Activity_05.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yftKEfnpI/AAAAAAAAA1A/yyPm1p4oqjM/s640/Facebook_Privacy_Activity_05.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yftKEfnpI/AAAAAAAAA1A/yyPm1p4oqjM/s1600-h/Facebook_Privacy_Activity_05.png)
