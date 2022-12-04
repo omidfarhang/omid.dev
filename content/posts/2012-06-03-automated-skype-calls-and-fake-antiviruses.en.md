@@ -29,5 +29,3 @@ To stop such calls in the future you can set your privacy options to only allow 
 Here is a video that show an example of these calls:
 
 {{< youtube Eq0nVvrvkPQ >}}
-
-<div>
