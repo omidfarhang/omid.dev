@@ -13,42 +13,56 @@ This is how I go to bed, dreaming before I sleep.
 
 {{< youtube L2lpQUQrOU8 >}}
 
-<p align="center">
-  This sunny Sunday<br /> Is a good day to go<br /> Guess you want me to stay<br /> Well then let me know<br /> And I hate to say<br /> It's been a waste of time<br /> I hate to interrupt the flow
-</p>
+This sunny Sunday\
+Is a good day to go\
+Guess you want me to stay\
+Well then let me know\
+And I hate to say\
+It's been a waste of time\
+I hate to interrupt the flow
 
-<p align="center">
-  Why, Why, Why<br /> Hushabye<br /> Hushabye, why aren't you ready to go?<br /> Why, Why, Why<br /> Hushabye<br /> Couldn't we fast forward all through this show?
-</p>
+Why, Why, Why\
+Hushabye\
+Hushabye, why aren't you ready to go?\
+Why, Why, Why\
+Hushabye\
+Couldn't we fast forward all through this show?
 
-<p align="center">
-  You say you'd love to<br /> But you've lots left to do<br /> Almost decided to stay 'cause of you<br /> And I hate to tell you to exchange your dreams<br /> For a one-way ticket, no return
-</p>
+You say you'd love to\
+But you've lots left to do\
+Almost decided to stay 'cause of you\
+And I hate to tell you to exchange your dreams\
+For a one-way ticket, no return
 
-<p align="center">
-  Why, Why, Why<br /> Hushabye<br /> Hushabye, why aren't you ready to go?<br /> Why, Why, Why<br /> Hushabye<br /> Couldn't we fast forward all through this show?
-</p>
+Why, Why, Why\
+Hushabye\
+Hushabye, why aren't you ready to go?\
+Why, Why, Why\
+Hushabye\
+Couldn't we fast forward all through this show?
 
-<p align="center">
-  Why, why<br /> What you hanging up for?<br /> What you doing that for?<br /> What you breaking up for?<br /> Why, hushabye
-</p>
+Why, why\
+What you hanging up for?\
+What you doing that for?\
+What you breaking up for?\
+Why, hushabye
 
-<p align="center">
-  I hate to interrupt the flow<br /> For a one way ticket, no return
-</p>
+I hate to interrupt the flow\
+For a one way ticket, no return
 
-<p align="center">
-  This sunny Sunday is a good day to go
-</p>
+This sunny Sunday is a good day to go
 
-<p align="center">
-  Why, Why, Why<br /> Hushabye<br /> Hushabye, why aren't you ready to go?<br /> Why, Why, Why<br /> Hushabye<br /> Couldn't we fast forward all through this show?
-</p>
+Why, Why, Why\
+Hushabye\
+Hushabye, why aren't you ready to go?\
+Why, Why, Why\
+Hushabye\
+Couldn't we fast forward all through this show?
 
-<p align="center">
-  Hushabye<br /> Why, why, why I<br /> What you breaking up for?<br /> Why<br /> Hushabye
-</p>
+Hushabye\
+Why, why, why I\
+What you breaking up for?\
+Why\
+Hushabye
 
-<p align="center">
-  We've wasted it, our time is up
-</p>
+We've wasted it, our time is up

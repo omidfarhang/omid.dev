@@ -15,7 +15,9 @@ tags:
 lang: en
 category: techblog
 ---
-[<img class="alignright size-thumbnail wp-image-6677" alt="logo-only" src="/images/2013/06/logo-only-150x150.png" width="150" height="150" srcset="/images/sites/3/2013/06/logo-only-150x150.png 150w, /images/sites/3/2013/06/logo-only-300x300.png 300w, /images/sites/3/2013/06/logo-only-1024x1024.png 1024w, /images/sites/3/2013/06/logo-only.png 1233w" sizes="(max-width: 150px) 100vw, 150px" />](/images/2013/06/logo-only.png)BetaNews: Mozilla has released <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox 22.0 FINAL</a> for Windows, Mac and Linux. The update includes some platform-specific improvements &#8212; Firefox following display scaling options in Windows, and providing download progress indicators in its dock application icon in OS X &#8212; plus a number of other tweaks and improvements.
+![](/images/2013/06/logo-only.png)
+
+BetaNews: Mozilla has released [Firefox 22.0 FINAL](https://www.mozilla.org/en-US/firefox/new/) for Windows, Mac and Linux. The update includes some platform-specific improvements — Firefox following display scaling options in Windows, and providing download progress indicators in its dock application icon in OS X — plus a number of other tweaks and improvements.
 
 Other new features include the ability for users to now manage their social API plug-ins via the Add-ons menu (select Services in the left-hand menu to do so), while users can now adjust the playback rate of HTML5 audio and video files (right-click the playback screen and choose Play Speed to do so).
 
@@ -25,8 +27,6 @@ Another new feature is the enabling of asm.js optimizations (codenamed OdinMonke
 
 Other changes include plain text files being displayed with word wrap within the Firefox window and support for using the Pointer Lock API outside of full-screen view. Developers gain access to a new built-in font inspector, plus CSS3 Flexbox as well as a new Web Notifications API have both been implemented. HTML5 support has also been extended to support the new <date> and <time> elements.
 
-<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox 22.0 FINAL</a> is available now as a free, open-source download for Windows, Mac and Linux.
+[Firefox 22.0 FINAL](https://www.mozilla.org/en-US/firefox/new/) is available now as a free, open-source download for Windows, Mac and Linux.
 
-<p style="text-align: center;">
-  <a href="/images/2013/06/firefox-22.jpg"><img class="size-full wp-image-6676 aligncenter" alt="firefox-22" src="/images/2013/06/firefox-22.jpg" width="830" height="612" srcset="/images/sites/3/2013/06/firefox-22.jpg 830w, /images/sites/3/2013/06/firefox-22-300x221.jpg 300w" sizes="(max-width: 830px) 100vw, 830px" /></a>
-</p>
+![](/images/2013/06/firefox-22.jpg)
