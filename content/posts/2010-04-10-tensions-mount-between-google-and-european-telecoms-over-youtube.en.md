@@ -18,7 +18,9 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="Google-big" border="0" alt="Google-big" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8BNM-Xt9lI/AAAAAAAAB5Y/JvEy9ugma9I/Google-big_thumb%5B3%5D.jpg?imgmax=800" width="244" height="103" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S8BNLKe-eEI/AAAAAAAAB5U/hc2O9r6cBm8/s1600-h/Google-big%5B5%5D.jpg) European telecommunication giants are preparing to fight Google over the data traffic and bandwidth that is consumed due to YouTube videos, according to a new report from the [Financial Times](http://www.ft.com/cms/s/2/8f5d6128-4400-11df-9235-00144feab49a.html). Their goal: to have Google pay them for the bandwidth YouTube and its other websites consume. 
+[![Google-big](http://lh5.ggpht.com/_vaUVXcmC3OI/S8BNM-Xt9lI/AAAAAAAAB5Y/JvEy9ugma9I/Google-big_thumb%5B3%5D.jpg?imgmax=800 "Google-big")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8BNLKe-eEI/AAAAAAAAB5U/hc2O9r6cBm8/s1600-h/Google-big%5B5%5D.jpg)
+
+European telecommunication giants are preparing to fight Google over the data traffic and bandwidth that is consumed due to YouTube videos, according to a new report from the [Financial Times](http://www.ft.com/cms/s/2/8f5d6128-4400-11df-9235-00144feab49a.html). Their goal: to have Google pay them for the bandwidth YouTube and its other websites consume. 
 
 Telefónica, S.A., France Telecom and Deutsche Telekom are all cited in the report as being part of a new coalition looking to change the current state of affairs, where users are charged for Internet access, rather than websites that provide the content they consume. These telecoms believe that Google should share its online ad revenue with network operators for carrying its content. YouTube is their biggest complaint: by far, it is the most data-intensive service that the search giant offers. 
 

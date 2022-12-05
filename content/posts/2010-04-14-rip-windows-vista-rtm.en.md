@@ -18,7 +18,7 @@ We'd like to say that we'll miss Vista RTM. We'd like to say thatâ€¦ but, wellâ€
 
 [Ctrl+Alt+Del](http://www.cad-comic.com/cad/20070331)
 
-[<img title="20070331" border="0" alt="20070331" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZIVrTJalI/AAAAAAAAB9k/RT52DwJ1280/20070331%5B6%5D.jpg?imgmax=800" width="504" height="636" />](http://www.cad-comic.com/cad/20070331) 
+[![20070331](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZIVrTJalI/AAAAAAAAB9k/RT52DwJ1280/20070331%5B6%5D.jpg?imgmax=800 "20070331")](http://www.cad-comic.com/cad/20070331) 
 
 On a related note, Windows XP Service Pack 2 (SP2) will reach its end of support this summer on July 13th. There are more positive memories of XP SP2, largely because of its emphasis on security.
 

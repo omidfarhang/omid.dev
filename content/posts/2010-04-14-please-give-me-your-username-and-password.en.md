@@ -15,7 +15,7 @@ Yesterday evening our spamtraps started receiving the email below in a mass mail
 
 If the user replies to the email, the return address is set to helpdesk_teams@live.com. 
 
-[<img title="helpdesk" border="0" alt="helpdesk" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8XLGumsHyI/AAAAAAAAB7Y/BwowjnoYK-Q/helpdesk_thumb%5B2%5D.png?imgmax=800" width="504" height="461" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S8XK9L2Br2I/AAAAAAAAB7U/r4YamFvOclY/s1600-h/helpdesk%5B4%5D.png) 
+[![helpdesk](http://lh4.ggpht.com/_vaUVXcmC3OI/S8XLGumsHyI/AAAAAAAAB7Y/BwowjnoYK-Q/helpdesk_thumb%5B2%5D.png?imgmax=800 "helpdesk")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8XK9L2Br2I/AAAAAAAAB7U/r4YamFvOclY/s1600-h/helpdesk%5B4%5D.png) 
 
 Nice try, but the email is just to generic to be actually taken seriously by anyone. I expect to see targeted emails in the next days (as we’ve already seen last year). 
 

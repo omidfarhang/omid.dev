@@ -13,20 +13,22 @@ tags:
 lang: en
 category: techblog
 ---
-[<img class="alignright size-medium wp-image-6503" alt="lulz" src="/images/2013/04/lulz-300x224.png" width="300" height="224" srcset="/images/sites/3/2013/04/lulz-300x224.png 300w, /images/sites/3/2013/04/lulz.png 437w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/04/lulz.png)A former LulzSec hacker has been jailed for a year for ransacking Sony Pictures Entertainment's computer systems.
+[![lulz](/images/2013/04/lulz-300x224.png)](/images/2013/04/lulz.png)
+
+A former LulzSec hacker has been jailed for a year for ransacking Sony Pictures Entertainment's computer systems.
 
 Cody Kretsinger, 25, from Decatur, Illinois – better known to his fellow LulzSec cohorts as “Recursion” – was also ordered to carry out 1,000 hours of community service, and a year of home detention, following his release from prison.
 
-He was sentenced by a Los Angeles court on Thursday, <a href="http://www.reuters.com/article/2013/04/18/us-usa-lulzsec-hacker-idUSBRE93H10K20130418" target="_blank">Reuters reports</a>.
+He was sentenced by a Los Angeles court on Thursday, [Reuters reports](http://www.reuters.com/article/2013/04/18/us-usa-lulzsec-hacker-idUSBRE93H10K20130418).
 
 Kretsinger had pleaded guilty to a single count of conspiracy and unauthorized impairment of a protected computer (i.e. computer hacking) in a plea-bargaining agreement. Kretsinger admitting breaking into the Sony Pictures website and extracting information which he passed on to other members of LulzSec, who leaked the data in order to embarrass Sony, a hated enemy of the hacktivist group.
 
-Sony claimed the hack left it $600,000 out of pocket. Kretsinger was ordered to somehow repay this amount in restitution to Sony, the _LA Times_ <a href="http://www.latimes.com/business/technology/la-fi-tn-lulzsec-hacker-year-sentence-20130418,0,4727623.story" target="_blank">adds</a>.
+Sony claimed the hack left it $600,000 out of pocket. Kretsinger was ordered to somehow repay this amount in restitution to Sony, the _LA Times_ [adds](http://www.latimes.com/business/technology/la-fi-tn-lulzsec-hacker-year-sentence-20130418,0,4727623.story).
 
 Earlier this month a 26-year-old British man also pleaded guilty to computer hacking as part of LulzSec, a splinter group of mischief-makers from the larger Anonymous collective. Ryan Ackroyd, from South Yorkshire, admitted taking part in attacks against numerous high-profile targets including Nintendo, News International, 20th Century Fox, Sony Group and the NHS. Ackroyd adopted the online persona of a 16-year-old girl named Kayla during much of his malfeasance.
 
-Ackroyd and other convicted LulzSec suspects – Jake Davis, 20, (“Topiary”) from the Shetland Islands, Scotland, 18-year-old Mustafa Al-Bassam (“Tflow”), from Peckham, south London and Ryan Cleary, 21, from Wickford, Essex – are all <a href="http://www.guardian.co.uk/technology/2013/apr/09/lulzec-hacktivists-plead-guilty-cyberattacks" target="_blank">due to be sentenced</a> on 14 May.
+Ackroyd and other convicted LulzSec suspects – Jake Davis, 20, (“Topiary”) from the Shetland Islands, Scotland, 18-year-old Mustafa Al-Bassam (“Tflow”), from Peckham, south London and Ryan Cleary, 21, from Wickford, Essex – are all [due to be sentenced](http://www.guardian.co.uk/technology/2013/apr/09/lulzec-hacktivists-plead-guilty-cyberattacks) on 14 May.
 
-Erstwhile LulzSec leader Hector Xavier “Sabu” Monsegur, was revealed in March 2012 as an FBI informer who had been grassing on his former cohorts for 10 months after his arrest in June 2011. Sabu's sentencing was <a href="http://rt.com/usa/lulzsec-snitch-sabu-sentencing-288/" target="_blank">delayed</a> by 6 months in February due to his “ongoing cooperation with the government”.
+Erstwhile LulzSec leader Hector Xavier “Sabu” Monsegur, was revealed in March 2012 as an FBI informer who had been grassing on his former cohorts for 10 months after his arrest in June 2011. Sabu's sentencing was [delayed](http://rt.com/usa/lulzsec-snitch-sabu-sentencing-288/) by 6 months in February due to his “ongoing cooperation with the government”.
 
 _Cross-posted from <a href="http://www.theregister.co.uk/2013/04/19/lulzsec_sony_hack_sentencing/" target="_blank">TheRegister</a>._

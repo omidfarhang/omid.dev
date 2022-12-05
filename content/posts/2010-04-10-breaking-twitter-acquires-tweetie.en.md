@@ -12,7 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="tweetie-2-logo" border="0" alt="tweetie-2-logo" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8BWNG4TopI/AAAAAAAAB5o/tEC0bxs3Igs/tweetie-2-logo_thumb%5B2%5D.jpg?imgmax=800" width="264" height="194" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8BWLLMDgtI/AAAAAAAAB5k/TuGli4P-Y0s/s1600-h/tweetie-2-logo%5B4%5D.jpg) Twitter has just announced that it has acquired Atebits, the company behind the popular Tweetie iPhone app and Mac desktop application. 
+[![tweetie-2-logo](http://lh4.ggpht.com/_vaUVXcmC3OI/S8BWNG4TopI/AAAAAAAAB5o/tEC0bxs3Igs/tweetie-2-logo_thumb%5B2%5D.jpg?imgmax=800 "tweetie-2-logo")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8BWLLMDgtI/AAAAAAAAB5k/TuGli4P-Y0s/s1600-h/tweetie-2-logo%5B4%5D.jpg)
+
+Twitter has just announced that it has acquired Atebits, the company behind the popular Tweetie iPhone app and Mac desktop application. 
 
 Tweetie’s creator, Loren Brichter, will be joining the Twitter team as well. The app will be renamed “Twitter for iPhone” and be made free in the next few weeks. Twitter CEO Evan Williams explained the move in a [blog post](http://blog.twitter.com/2010/04/twitter-for-iphone.html): 
 
