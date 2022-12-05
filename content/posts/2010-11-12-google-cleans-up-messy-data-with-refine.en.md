@@ -12,7 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-**[<img title="google-refine" border="0" alt="google-refine" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TN0-6TtudyI/AAAAAAAADI4/txCOtwgxJHk/google-refine_thumb%5B1%5D.jpg?imgmax=800" width="225" height="225" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TN0-5BsMOOI/AAAAAAAADI0/_bj6ntD3h14/s1600-h/google-refine%5B3%5D.jpg)Mashable:** If you live for data, slave over spreadsheets and constantly find yourself sifting through endless rows and columns of facts and figures, Google’s got a lovely new product just for you — and it’s free and open-source, too. 
+[![google-refine](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0-6TtudyI/AAAAAAAADI4/txCOtwgxJHk/google-refine_thumb%5B1%5D.jpg?imgmax=800 "google-refine")](http://lh6.ggpht.com/_vaUVXcmC3OI/TN0-5BsMOOI/AAAAAAAADI0/_bj6ntD3h14/s1600-h/google-refine%5B3%5D.jpg)
+
+**Mashable:** If you live for data, slave over spreadsheets and constantly find yourself sifting through endless rows and columns of facts and figures, Google’s got a lovely new product just for you — and it’s free and open-source, too.
 
 [Google Refine](http://code.google.com/p/google-refine/) is a project born of Freebase Gridworks, a data-cleaning tool Google acquired when it bought Metaweb during the summer. Google has since renamed Gridworks and relaunched it as Refine.
 
@@ -24,11 +26,6 @@ Google Refine builds on its Gridworks roots by helping its users correct inconsi
 
 Here’s the first of three demo videos showing off Refine’s new and improved data-cleaning capabilities:
 
-<p align="center">
-  <p>
-    We can imagine this tool will allow non-programmers who deal with lots of data, including students and journalists doing research, to manipulate and sort data much more quickly.
-  </p>
-  
-  <p>
-    What do you think of Google Refine so far?
-  </p>
+We can imagine this tool will allow non-programmers who deal with lots of data, including students and journalists doing research, to manipulate and sort data much more quickly.
+
+What do you think of Google Refine so far?

@@ -14,38 +14,94 @@ This is how I start my day, everyday:
 
 {{< youtube WLJY-N9QSD8 >}}
 
-<p align="center">
-  We got a fucked up reason to live<br /> who really gives a fuck?<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up<br /> You gotta get it straight<br /> we're gonna give it up<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up
-</p>
+  We got a fucked up reason to live\
+ who really gives a fuck?\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up\
+ You gotta get it straight\
+ we're gonna give it up\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up
 
-<p align="center">
-  I am the burden of my everything,<br /> an open scar<br /> I'll be reborn in hatred,<br /> feeling I can't love no more
-</p>
 
-<p align="center">
-  I've had to suffer<br /> I cannot wait for more.<br /> No loving and no praying<br /> All my hate is for the taking
-</p>
+I am the burden of my everything,\
+ an open scar\
+ I'll be reborn in hatred,\
+ feeling I can't love no more
 
-<p align="center">
-  We got a fucked up reason to live<br /> who really gives a fuck?<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up<br /> You gotta get it straight<br /> we're gonna give it up<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up
-</p>
+I've had to suffer\
+ I cannot wait for more.\
+ No loving and no praying\
+ All my hate is for the taking
 
-<p align="center">
-  I am the falling of my happiness<br /> it is no more<br /> Stop loving, I’m still hating<br /> till I can not hate no more
-</p>
 
-<p align="center">
-  I've had to suffer<br /> I cannot wait for more.<br /> No loving and no praying<br /> All my hate is for the taking
-</p>
+ We got a fucked up reason to live\
+ who really gives a fuck?\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up\
+ You gotta get it straight\
+ we're gonna give it up\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up
 
-<p align="center">
-  I'm, I am filthy<br /> wasted piece of shit
-</p>
 
-<p align="center">
-  I am disgusting<br /> take me, away
-</p>
+ I am the falling of my happiness\
+ it is no more\
+ Stop loving, I’m still hating\
+ till I can not hate no more
 
-<p align="center">
-  We got a fucked up reason to live<br /> who really gives a fuck?<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up<br /> You gotta get it straight<br /> we're gonna give it up<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up<br /> We got a fucked up reason to live<br /> who really gives a fuck?<br /> we're gonna wake up hate<br /> we're gonna fuck you up<br /> I wanna break everything<br /> I wanna make it sting<br /> we're gonna wake up hate<br /> we're gonna wake it up
-</p>
+
+  I've had to suffer\
+ I cannot wait for more.\
+ No loving and no praying\
+ All my hate is for the taking
+
+
+  I'm, I am filthy\
+ wasted piece of shit
+
+
+  I am disgusting\
+ take me, away
+
+
+  We got a fucked up reason to live\
+ who really gives a fuck?\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up\
+ You gotta get it straight\
+ we're gonna give it up\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up\
+ We got a fucked up reason to live\
+ who really gives a fuck?\
+ we're gonna wake up hate\
+ we're gonna fuck you up\
+ I wanna break everything\
+ I wanna make it sting\
+ we're gonna wake up hate\
+ we're gonna wake it up

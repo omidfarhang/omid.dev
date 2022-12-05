@@ -11,17 +11,17 @@ tags:
 lang: en
 category: techblog
 ---
-[<img class="alignright size-medium wp-image-6742" src="/images/2014/08/Symantec_logo_horizontal_2010-1-300x79.png" alt="Symantec_logo_horizontal_2010-1" width="300" height="79" srcset="/images/sites/3/2014/08/Symantec_logo_horizontal_2010-1-300x79.png 300w, /images/sites/3/2014/08/Symantec_logo_horizontal_2010-1-1024x269.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2014/08/Symantec_logo_horizontal_2010-1.png)Symantec is overhauling its Norton security software, going from nine products to just one as the company turns its attention to smartphones and connected devices.
+[![Symantec_logo_horizontal_2010-1](/images/2014/08/Symantec_logo_horizontal_2010-1-300x79.png)](/images/2014/08/Symantec_logo_horizontal_2010-1.png)Symantec is overhauling its Norton security software, going from nine products to just one as the company turns its attention to smartphones and connected devices.
 
 &nbsp;
 
-The new product, called Norton Security, doubles down on the company's renewed focus on subscription models. In its most recent quarter, when Symantec reported a $236 million profit on a 2% gain in revenue to $1.74 billion, <a href="http://online.wsj.com/articles/symantec-earnings-rise-on-lower-operating-costs-1407357006" target="_new">the company said it planned</a> to optimize the Norton business while streamlining product support.
+The new product, called Norton Security, doubles down on the company's renewed focus on subscription models. In its most recent quarter, when Symantec reported a $236 million profit on a 2% gain in revenue to $1.74 billion, [the company said it planned](http://online.wsj.com/articles/symantec-earnings-rise-on-lower-operating-costs-1407357006) to optimize the Norton business while streamlining product support.
 
 Norton Security, which goes on sale Sept. 23 and costs $80 a year, will combine all of the antivirus, spyware, spam-monitoring and other features scattered across various versions of Norton AntiVirus, Norton Internet Security and Norton 360. It most closely resembles the Norton 360 Multi-Device offering that previously had cost $100 a year but is now $70.
 
 The new product can be used across a family's Windows and Mac computers, as well as their smartphones running iOS and Android. It includes other services, such as a password keeper, and offers cloud-backup storage starting at an additional $10 a year for 25 gigabytes.
 
-[<img class="alignnone size-medium wp-image-6743" src="/images/2014/08/norton-2015-300x200.png" alt="norton-2015" width="300" height="200" srcset="/images/sites/3/2014/08/norton-2015-300x200.png 300w, /images/sites/3/2014/08/norton-2015.png 750w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2014/08/norton-2015.png)
+[![norton-2015](/images/2014/08/norton-2015-300x200.png)](/images/2014/08/norton-2015.png)
 
 &nbsp;
 
@@ -43,4 +43,4 @@ The other area Symantec is turning its attention to is the “Internet of Things
 
 Symantec isn't completely ruling out an Internet of Things product of its own in the future, Mr. Rosch said. It already prototyped a “home security system” device—complete with a camera—but isn't ready to release it at this time.
 
-[<img class="alignnone size-full wp-image-6741" src="/images/2014/08/symant_hq.jpg" alt="symant_hq" width="553" height="369" srcset="/images/sites/3/2014/08/symant_hq.jpg 553w, /images/sites/3/2014/08/symant_hq-300x200.jpg 300w" sizes="(max-width: 553px) 100vw, 553px" />](/images/2014/08/symant_hq.jpg)
+[![symant_hq](/images/2014/08/symant_hq.jpg)](/images/2014/08/symant_hq.jpg)

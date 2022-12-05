@@ -18,5 +18,3 @@ category: techblog
 EZ Grill, [a Bellevue-based disposable BBQ company](http://www.ezgrill.com/Contact-EZ-Grill), worked with Seattle-based social media agency [Banyan Branch](http://www.banyanbranch.com/) to pit a new HTC Surround, running the Microsoft operating system, against the Android G2 and iPhone 4 in a test of endurance on the grill. As you can see in the video above, Windows Phone won easily.
 
 No doubt this will soon be added to the list of official specs, right next to battery life.
-
-<p align="center">

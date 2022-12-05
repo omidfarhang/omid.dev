@@ -72,12 +72,7 @@ This policy was last modified on April 18, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<blockquote class="wp-embedded-content" data-secret="41rRIfrCh3">
-  <p>
-    <a href="/">Front Page</a>
-  </p>
-</blockquote>
-
+> [Front Page](/)
   
 hi@omid.dev  
 +1 (530) 797-6643

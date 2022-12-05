@@ -11,23 +11,12 @@ tags:
 lang: en
 category: techblog
 ---
-<p align="center">
-  <p>
-    Facebook continues its quest to revamp its popular Photos feature with the launch of the number one most requested feature of them all: drag-and-drop organizing.
-  </p>
-  
-  <p>
-    Demonstrated in the video above, drag-and-drop organizing is exactly as it sounds; users can now drag and drop albums and photos into any order they desire.
-  </p>
-  
-  <p>
-    Today’s launch follows last month’s upgrade of Facebook Photos, which brought high resolution photo uploads and an in-line photo viewer to the News Feed.
-  </p>
-  
-  <p>
-    Are you excited for drag-and-drop photos?
-  </p>
-  
-  <p>
-    <em>Taken from Mashable</em>
-  </p>
+Facebook continues its quest to revamp its popular Photos feature with the launch of the number one most requested feature of them all: drag-and-drop organizing.
+
+Demonstrated in the video above, drag-and-drop organizing is exactly as it sounds; users can now drag and drop albums and photos into any order they desire.
+
+Today’s launch follows last month’s upgrade of Facebook Photos, which brought high resolution photo uploads and an in-line photo viewer to the News Feed.
+
+Are you excited for drag-and-drop photos?
+
+_Taken from Mashable_

@@ -12,9 +12,7 @@ category: blog
 ---
 This is a picture that ‘The New York Times’ shared today:
 
-<p style="text-align: center;">
-  <a href="/images/2012/07/David-and-Arlan.jpg"><img class="aligncenter  wp-image-153" alt="David and Arlan" src="/images/2012/07/David-and-Arlan.jpg" width="614" height="410" srcset="/images/sites/2/2012/07/David-and-Arlan.jpg 1024w, /images/sites/2/2012/07/David-and-Arlan-300x200.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a>
-</p>
+[![David and Arlan](/images/2012/07/David-and-Arlan.jpg)](/images/2012/07/David-and-Arlan.jpg)
 
 > _David and Arlan Tackley inspect parched corn on a farm near El Dorado, Kan. The latest forecasts call for increasingly dry conditions over much of the nation’s breadbasket, which could lead to higher food prices. (Photo: Mashid Mohadjerin for The New York Times)_
 

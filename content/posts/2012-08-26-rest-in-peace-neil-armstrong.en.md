@@ -10,9 +10,7 @@ tags:
 lang: en
 category: blog
 ---
-<p style="text-align: center;">
-  <a href="/images/2012/08/Neil_Armstrong_pose.jpg"><img class="aligncenter  wp-image-150" alt="Neil_Armstrong_pose" src="/images/2012/08/Neil_Armstrong_pose-804x1024.jpg" width="563" height="717" srcset="/images/sites/2/2012/08/Neil_Armstrong_pose-804x1024.jpg 804w, /images/sites/2/2012/08/Neil_Armstrong_pose-235x300.jpg 235w, /images/sites/2/2012/08/Neil_Armstrong_pose.jpg 1257w" sizes="(max-width: 563px) 100vw, 563px" /></a>
-</p>
+[![Neil_Armstrong_pose](/images/2012/08/Neil_Armstrong_pose-804x1024.jpg)](/images/2012/08/Neil_Armstrong_pose.jpg)
 
 > _I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.  
 >_ Neil Armstrong  

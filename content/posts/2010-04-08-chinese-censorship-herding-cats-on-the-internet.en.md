@@ -10,32 +10,20 @@ tags:
 lang: en
 category: techblog
 ---
-<span><span>Search terms that are censored in China:</span><span></p> 
+Search terms that are censored in China:
 
-<p>
-  “Tibet”</span><span><br />“Tiananmen Square protests”</span><span><br />“Carrot” </span></span>
-</p>
+* “Tibet”  
+* “Tiananmen Square protests”  
+* “Carrot”
 
-<p>
-  Apaprently “carrot” has a Chinese character that is the same as the surname of President Hu Jintao.
-</p>
+Apaprently “carrot” has a Chinese character that is the same as the surname of President Hu Jintao.
 
-<p>
-  The New York Times has run a great story by Shiho Fukada about Internet censorship in China, where the effort to control the content seen by 384 million Internet users who have 181 million blogs is like “herding cats.”
-</p>
+The New York Times has run a great story by Shiho Fukada about Internet censorship in China, where the effort to control the content seen by 384 million Internet users who have 181 million blogs is like “herding cats.”
 
-<p>
-  <span>“This is China’s censorship machine, part George Orwell, part Rube Goldberg: an information sieve of staggering breadth and fineness, yet full of holes; run by banks of advanced computers, but also by thousands of Communist Party drudges; highly sophisticated in some ways, remarkably crude in others,”</span> Fukada wrote.
-</p>
+“This is China’s censorship machine, part George Orwell, part Rube Goldberg: an information sieve of staggering breadth and fineness, yet full of holes; run by banks of advanced computers, but also by thousands of Communist Party drudges; highly sophisticated in some ways, remarkably crude in others,” Fukada wrote.
 
-<p>
-  Apparently there is some push back by Chinese citizens.
-</p>
+Apparently there is some push back by Chinese citizens.
 
-<p>
-  Interesting read.
-</p>
+Interesting read.
 
-<p>
-  <a href="http://www.nytimes.com/2010/04/08/world/asia/08censor.html?hpw" target="_blank">“China’s Censors Tackle and Trip Over the Internet”</a>
-</p>
+[“China’s Censors Tackle and Trip Over the Internet”](http://www.nytimes.com/2010/04/08/world/asia/08censor.html?hpw)

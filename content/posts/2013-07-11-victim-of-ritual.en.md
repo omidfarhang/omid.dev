@@ -13,12 +13,12 @@ tags:
 lang: en
 category: entblog
 ---
-The “Victim Of Ritual” music video from the new album “[Colours In The Dark](/2013/05/09/tarja-turunens-new-album-colours-in-the-dark/ "Tarja Turunen’s new album “Colours In The Dark”")” by <a title="Tarja Turunen" href="/entertainment/artists/tarja-turunen/" target="_blank">Tarja Turunen</a> is now visible worldwide
+The “Victim Of Ritual” music video from the new album “[Colours In The Dark](/2013/05/09/tarja-turunens-new-album-colours-in-the-dark/ "Tarja Turunen’s new album “Colours In The Dark”")” by [Tarja Turunen](/entertainment/artists/tarja-turunen/ "Tarja Turunen") is now visible worldwide
 
 {{< youtube 7PHr2NHfCjo >}}
 
-Download the single & video via iTunes: <a dir="ltr" title="http://smarturl.it/Tarja_VOR" href="http://smarturl.it/Tarja_VOR" target="_blank" rel="nofollow">http://smarturl.it/Tarja_VOR</a>  
-Click here to pre-order the new album “Colours In The Dark”: <a dir="ltr" title="http://www.tarja-coloursinthedark.com/#album" href="http://www.tarja-coloursinthedark.com/#album" target="_blank" rel="nofollow">http://www.tarja-coloursinthedark.com/</a>
+Download the single & video via iTunes: [http://smarturl.it/Tarja_VOR](http://smarturl.it/Tarja_VOR "http://smarturl.it/Tarja_VOR")  
+Click here to pre-order the new album “Colours In The Dark”: [http://www.tarja-coloursinthedark.com/](http://www.tarja-coloursinthedark.com/#album "http://www.tarja-coloursinthedark.com/#album")
 
 Watch the official Lyric Video for “Never Enough” from “Colours In The Dark”:
 
@@ -29,7 +29,7 @@ Tarja is coming to their rescue. With a hint of a smile and powerful colours, sh
 
 Answers to this question can be found in the official video for Tarja's first single “Victim Of Ritual” from her forthcoming album “Colours In The Dark”. Shot in Berlin by Florian Kaltenbach for Hunger Film, the video resembles a short film with its running time of 6 minutes.
 
-It is exclusively available for preorder on iTunes: <a dir="ltr" title="http://bit.ly/16isUeN" href="http://bit.ly/16isUeN" target="_blank" rel="nofollow">http://bit.ly/16isUeN</a>.
+It is exclusively available for preorder on iTunes: [http://bit.ly/16isUeN](http://bit.ly/16isUeN "http://bit.ly/16isUeN").
 
 “Victim Of Ritual” will be released as download, CD single and 7&#8243; vinyl on July 12th, 2013 via earMUSIC. Both physical releases will surely become rare collector's items, being made available in strictly limited quantities. The 4-songs digipak CD-single is limited to 3.000 copies worldwide, whereas the 2-track 7&#8243; vinyl is limited to only 1.500 units worldwide.
 
@@ -57,6 +57,6 @@ Colours In The Road Tour 2014
 12.11. Mega Club — Katowice (PL)  
 13.11. Palladium — Warsaw (PL)
 
-[<img class="alignnone  wp-image-448" alt="Tarja_Cover_Victim-Of-Ritual_high-res" src="/images/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res.jpg" width="717" height="717" srcset="/images/sites/4/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res.jpg 1024w, /images/sites/4/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res-150x150.jpg 150w, /images/sites/4/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res-300x300.jpg 300w" sizes="(max-width: 717px) 100vw, 717px" />](/images/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res.jpg)
+[![Tarja_Cover_Victim-Of-Ritual_high-res](/images/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res.jpg)](/images/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res.jpg)
 
-<a href="http://www.tarja-coloursinthedark.com" target="_blank">www.tarja-coloursinthedark.com</a>
+[www.tarja-coloursinthedark.com](http://www.tarja-coloursinthedark.com)

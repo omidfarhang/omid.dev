@@ -15,7 +15,7 @@ category: techblog
 ---
 How not to manage your passwords…
 
-<p align="center">
-  <p>
-    John, and his <a href="http://www.youtube.com/watch?v=fB7X7QOzJ_k">unique approach to security</a> is part of an F-Secure Internet Security 2011 campaign. <br />You can find more at <a href="http://besmarterthanjohn.com/">besmarterthanjohn.com</a>.
-  </p>
+John, and his [unique approach to security](http://www.youtube.com/watch?v=fB7X7QOzJ_k) is part of an F-Secure Internet Security 2011 campaign.  
+You can find more at [besmarterthanjohn.com](http://besmarterthanjohn.com/).
+
+{{< youtube fB7X7QOzJ_k >}}

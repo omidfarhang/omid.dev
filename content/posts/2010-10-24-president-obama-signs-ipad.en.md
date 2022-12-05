@@ -23,11 +23,8 @@ Sylvester Caan dropped us a note to tell us (and show us!) his iPad being signed
 
 How well was he able to sign? Check out the results and the video after the break. And if you and your iPhone or iPad have had any brushes with power or celebrity, let us know in the comments!
 
-[<img title="President-Signature" border="0" alt="President-Signature" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMSpVpJG7bI/AAAAAAAAC5I/jaAKMAHfUMs/President-Signature_thumb%5B1%5D.jpg?imgmax=800" width="304" height="229" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMSpTd9VIEI/AAAAAAAAC5E/2jvH7htLNWI/s1600-h/President-Signature%5B4%5D.jpg)
+[![President-Signature](http://lh5.ggpht.com/_vaUVXcmC3OI/TMSpVpJG7bI/AAAAAAAAC5I/jaAKMAHfUMs/President-Signature_thumb%5B1%5D.jpg?imgmax=800 "President-Signature")](http://lh3.ggpht.com/_vaUVXcmC3OI/TMSpTd9VIEI/AAAAAAAAC5E/2jvH7htLNWI/s1600-h/President-Signature%5B4%5D.jpg)
 
  
 
-<p align="center">
-  <p>
-    <em>Taken from TiPb</em>
-  </p>
+_Taken from TiPb_

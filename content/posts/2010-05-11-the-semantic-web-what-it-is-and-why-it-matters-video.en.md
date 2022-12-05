@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="semantic-web" border="0" alt="semantic-web" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S-lcsKkjZWI/AAAAAAAACHg/7fAD9L4ZXx8/semantic-web_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lcpS-uPGI/AAAAAAAACHc/MTHrTPFBbvo/s1600-h/semantic-web%5B3%5D.jpg) If you’ve ever struggled to make sense of terms like “semantic web,” we’ve got a fascinating, entertaining and informative video for you. 
+[![semantic-web](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lcsKkjZWI/AAAAAAAACHg/7fAD9L4ZXx8/semantic-web_thumb%5B1%5D.jpg?imgmax=800 "semantic-web")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lcpS-uPGI/AAAAAAAACHc/MTHrTPFBbvo/s1600-h/semantic-web%5B3%5D.jpg) If you’ve ever struggled to make sense of terms like “semantic web,” we’ve got a fascinating, entertaining and informative video for you. 
 
 The Internet currently holds about as much information as 1,700 Libraries of Congress. Some of the leading minds on the web are exploring new ways to sort this data and how to understand not just what data is about, but also how data is linked. 
 
@@ -24,7 +24,4 @@ Student [Kate Ray](http://kateray.net/film/) interviewed a flock of researchers,
 
 Ray’s film is a brief but high-level discussion of semantic technologies, the tech that’s going to affect how we use the Internet and all its information for years to come. If you’ve ever wanted to know more about the semantic web, what it is and why it matters to all kinds of Internet users, we highly recommend checking out this documentary below. 
 
-<p align="center">
-  <p>
-    <a href="http://vimeo.com/11529540">Watch Web 3.0</a>
-  </p>
+[Watch Web 3.0](http://vimeo.com/11529540)

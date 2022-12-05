@@ -27,4 +27,4 @@ Here's how it works with Android.
   7. The vulnerability that the fix will eventually fix evolves so that the fix doesn't fix it any more.
   8. Google says “la la la can't hear you”.
 
-Read the whole story at: <a href="http://timesofindia.indiatimes.com/tech/tech-news/Google-has-lost-control-of-Android/articleshow/49284966.cms" target="_blank">The Times of India</a>
+Read the whole story at: [The Times of India](http://timesofindia.indiatimes.com/tech/tech-news/Google-has-lost-control-of-Android/articleshow/49284966.cms)

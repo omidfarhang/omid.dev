@@ -13,15 +13,12 @@ category: techblog
 ---
 Microsoft has put the PC-using world on notice that next Tuesday there will be 11 bulletins released addressing 25 vulnerabilities in Windows, Exchange and Office.
 
-Jerry Bryant, Group Manager of Microsoft’s Response Communications, said: <span>“I also want to point out to customers that we will be closing the following open Security Advisories with next week’s updates:</span><span></p> 
+Jerry Bryant, Group Manager of Microsoft’s Response Communications, said:
 
-<p>
-  — Microsoft Security Advisory 981169 &#8211; Vulnerability in VBScript could allow remote code execution.</span><span></p> 
-  
-  <p>
-    — Microsoft Security Advisory 977544 &#8211; Vulnerability in SMB could allow denial of service”</span>
-  </p>
-  
-  <p>
-    Advance notice <a href="http://blogs.technet.com/msrc/archive/2010/04/08/april-2010-bulletin-release-advance-notification.aspx" target="_blank">here</a>.
-  </p>
+> “I also want to point out to customers that we will be closing the following open Security Advisories with next week’s updates: 
+
+— Microsoft Security Advisory 981169 – Vulnerability in VBScript could allow remote code execution.
+
+— Microsoft Security Advisory 977544 – Vulnerability in SMB could allow denial of service”
+
+Advance notice [here](http://blogs.technet.com/msrc/archive/2010/04/08/april-2010-bulletin-release-advance-notification.aspx).

@@ -12,11 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-<a href="http://thehackernews.com/2012/05/google-iraq-defaced-by-anonymous.html" target="_blank">TheHackerNews</a>: Google got Pwned ? NO Few **Algerian Script Kiddies** try to spread fake rumors that they Hack and Deface the Giant Search engine “**Google Iranian**” domain <http://www.google.co.ir/> . As the screenshot shown a Algerian flag on it and Page Titles : **“****H4Ck3D By vaga-hacker dz and DR.KIM”.**
+[TheHackerNews](http://thehackernews.com/2012/05/google-iraq-defaced-by-anonymous.html): Google got Pwned ? NO Few **Algerian Script Kiddies** try to spread fake rumors that they Hack and Deface the Giant Search engine “**Google Iranian**” domain <http://www.google.co.ir/> . As the screenshot shown a Algerian flag on it and Page Titles : **“****H4Ck3D By vaga-hacker dz and DR.KIM”.**
 
-<p style="text-align: center;">
-  <a href="/images/2012/05/Google-IRAN-hacked_thumb1.jpg"><img class="size-full wp-image-6415 aligncenter" alt="Google IRAN hacked_thumb[1]" src="/images/2012/05/Google-IRAN-hacked_thumb1.jpg" width="500" height="304" srcset="/images/sites/3/2012/05/Google-IRAN-hacked_thumb1.jpg 500w, /images/sites/3/2012/05/Google-IRAN-hacked_thumb1-300x182.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-</p>
+[![Google IRAN hacked_thumb[1]](/images/2012/05/Google-IRAN-hacked_thumb1.jpg)](/images/2012/05/Google-IRAN-hacked_thumb1.jpg)
 
 As mentioned by hacker, the team include hackers named : “**V4Ga-Dz,Dz0ne,DR-KIM King-Dz,BroX0 aghilass elite jrojan password kha&mix wasim -dz**” . It is not confirmed that, either these are member from some Anonymous Hackers but they try to use Anonymous Hackers Tag line : We Dont Forget , We Dont Forgive, **Expect Us!** to get some publicity.
 
