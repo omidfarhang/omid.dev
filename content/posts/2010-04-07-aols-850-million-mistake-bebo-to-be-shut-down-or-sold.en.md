@@ -13,7 +13,8 @@ category: techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70EhmU3vyI/AAAAAAAAB0Y/Mp-QB3NQQZE/s1600/aol-logos2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70EhmU3vyI/AAAAAAAAB0Y/Mp-QB3NQQZE/s1600-h/aol-logos2.jpg)
 
-Just two years after [acquiring social network Bebo for $850 million](http://mashable.com/2008/03/12/aol-acquires-bebo/), the newly-independent AOL has decided to abandon its social networking investment, either by selling it or simply shutting it down.  
+Just two years after [acquiring social network Bebo for $850 million](http://mashable.com/2008/03/12/aol-acquires-bebo/), the newly-independent AOL has decided to abandon its social networking investment, either by selling it or simply shutting it down.
+
 According to [PaidContent](http://paidcontent.org/article/419-aol-admits-bebo-could-be-sold-or-shut-down-may-target-for-decision/), AOL sent a message to employees earlier today stating that it “is not in a position” to support Bebo:
 
 > “The strategy we set in May 2009 leverages our core strengths and scale in quality content, premium advertising and consumer applications, positioning us for the next phase of growth of the Internet. As we evaluate our portfolio of brands against our strategy, it is clear that social networking is a space with heavy competition, and where scale defines success. Bebo, unfortunately, is a business that has been declining and, as a result, would require significant investment in order to compete in the competitive social networking space. AOL is not in a position at this time to further fund and support Bebo in pursuing a turnaround in social networking.”  
