@@ -15,7 +15,7 @@ Very soon, the first build of Opera 11 will be released, and with it will come t
 
 Yesterday at [Up North Web](http://www.opera.com/portal/unw/), Opera Software's global press day in Oslo, Norway, it was confirmed that Opera 11 will support browser extensions, the plug-ins that users can incrementally add to their browser to customize the experience. All of Opera's competitors: Internet Explorer, Firefox, Chrome, and now Safari, each offer their own extension architecture already.
 
-Opera's extension platform will be based on the [W3C Widget specification](http://www.w3.org/TR/widgets/) and developers will be able to build them in Web standards such as HTML5, CSS, and JavaScript. The W3C's spec uses PKWare's Zip specification as the archive format, XML as a configuration document format, and &#8220;a series of steps that runtimes follow when processing and verifying various aspects of a package.&#8221; The most recent draft of this standard was completed on October 5.
+Opera's extension platform will be based on the [W3C Widget specification](http://www.w3.org/TR/widgets/) and developers will be able to build them in Web standards such as HTML5, CSS, and JavaScript. The W3C's spec uses PKWare's Zip specification as the archive format, XML as a configuration document format, and “a series of steps that runtimes follow when processing and verifying various aspects of a package.” The most recent draft of this standard was completed on October 5.
 
 Extensions will not be available until [Opera 11](http://www.opera.com/browser/next/) is released, but it will be available in the earliest alphas of the browser. It is unclear when the first build will be released, but it is certain to be quite soon.
 

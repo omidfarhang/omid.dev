@@ -21,8 +21,8 @@ The stable channel has been updated to 4.0.249.78 for Windows, and includes the 
   * Skia performance improvements
   * Full ACID3 pass, due to re-enabled remote font support (with added defense against bugs in operating system font libraries)
   * HTTP byte range support
-  * New security feature: &#8220;Strict Transport Security&#8221; support
-  * Experimental new anti-reflected-XSS feature called &#8220;XSS Auditor&#8221;
+  * New security feature: “Strict Transport Security” support
+  * Experimental new anti-reflected-XSS feature called “XSS Auditor”
 
 **Security Fixes:**
 

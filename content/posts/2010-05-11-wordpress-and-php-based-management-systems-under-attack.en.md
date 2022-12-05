@@ -19,6 +19,6 @@ A variety of sources are reporting that blog hosting sites with WordPress-create
 Websites hosted by ISP DreamHost, GoDaddy, Bluehost and Media Temple have been found with the malcode, according to H-Online.com.
 
 The malicious scripts download malcode and block Google’s Safe Browsing API from alerting users.  
-Story here: [&#8220;Large-scale attack on WordPress&#8221;](http://www.h-online.com/security/news/item/Large-scale-attack-on-WordPress-996628.html)
+Story here: [“Large-scale attack on WordPress”](http://www.h-online.com/security/news/item/Large-scale-attack-on-WordPress-996628.html)
 
 The Sucuri Security blog has offered clean-up instructions for those with infected pages [here.](http://blog.sucuri.net/2010/05/simple-cleanup-solution-for-latest.html)

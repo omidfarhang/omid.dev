@@ -23,7 +23,7 @@ Personal details recorded on the laptop included full names, dates of birth, pos
 
 It is understood that an unsuccessful attempt was made to access the data on the hard drive shortly after the computer was stolen. Quite rightly, A4e reported the incident to the ICO, and subsequently notified the people whose data could have been accessed.
 
-The ICO have now fined A4e a total of £60,000, saying that the data loss could have caused individuals &#8220;substantial distress&#8221;, and admonished them for not putting encryption in place despite knowing the amount and type of sensitive data being held on the laptop.
+The ICO have now fined A4e a total of £60,000, saying that the data loss could have caused individuals “substantial distress”, and admonished them for not putting encryption in place despite knowing the amount and type of sensitive data being held on the laptop.
 
 And that's the point, of course. The entire problem and the subsequent fine was entirely avoidable &#8211; if the laptop had been properly encrypted, as Information Commissioner Christopher Graham noted:
 

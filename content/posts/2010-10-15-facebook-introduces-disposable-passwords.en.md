@@ -19,11 +19,11 @@ category: techblog
 
 Moving to enhance online security, Facebook on Tuesday said that it will soon offer users the ability to receive one-time passwords on their mobile phones and that it has already enabled the ability to sign out of Facebook remotely. 
 
-> _&#8220;We're launching one-time passwords to make it safer to use public computers in places like hotels, cafes or airports,&#8221; said Facebook product manager Jake Brill in_ [_a blog post_](http://blog.facebook.com/blog.php?post=436800707130)_. &#8220;If you have any concerns about security of the computer you're using while accessing Facebook, we can text you a one-time password to use instead of your regular password.&#8221;_
+> _“We're launching one-time passwords to make it safer to use public computers in places like hotels, cafes or airports,” said Facebook product manager Jake Brill in_ [_a blog post_](http://blog.facebook.com/blog.php?post=436800707130)_. “If you have any concerns about security of the computer you're using while accessing Facebook, we can text you a one-time password to use instead of your regular password.”_
 
 Passwords have long been considered the weak link in computer security, due to widespread disinterest in trying to remember passwords that are long enough and complicated enough to defy brute force attacks. Passwords that are too short or are based on words in dictionaries can generally be defeated by automated guessing attacks.
 
-Facebook's decision to offer disposable passwords at least provides stronger security for those who want to make the effort. In a few weeks, as part of a gradual roll-out, Facebook users will be able to text &#8220;otp&#8221; to 32665 on a mobile phone and immediately receive a password that will work one time and will expire in 20 minutes.
+Facebook's decision to offer disposable passwords at least provides stronger security for those who want to make the effort. In a few weeks, as part of a gradual roll-out, Facebook users will be able to text “otp” to 32665 on a mobile phone and immediately receive a password that will work one time and will expire in 20 minutes.
 
 This should help ensure that anyone shoulder-surfing while you log in to your Facebook account from a cafe won't be able spy your regular password and later hijack your account.
 

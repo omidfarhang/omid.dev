@@ -14,7 +14,7 @@ Hewlett-Packard has announced it has expanded the May 14, 2009, recall of its la
 
 The notice on the HP site said “HP and the battery manufacturers believe that certain battery packs shipped in HP notebook PC products manufactured between August 2007 and May 2008 may pose a potential safety hazard to customers. The batteries can overheat, posing a fire and burn hazard.
 
-“The affected battery packs were distributed worldwide in certain notebook PCs within the following models:&#8221;
+“The affected battery packs were distributed worldwide in certain notebook PCs within the following models:”
 
 HP Pavilion  
 dv2000, dv2500, dv2700  

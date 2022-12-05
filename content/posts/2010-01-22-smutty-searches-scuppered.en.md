@@ -13,7 +13,7 @@ category: techblog
 ---
 Symantec Security Response has repeatedly warned that looking for free movies and videos online often results in malware infection, and here we go again with yet another example. We recently became aware of a campaign, centered around the YouTube Web site, to trick users into following malicious links.
 
-YouTube is one of the most popular video sharing sites and therefore is often picked by online criminals hoping for an easy catch. Performing a search using a (generally female) celebrity’s name followed by &#8220;sex tape&#8221; or a recent movie name yields results such as the following:
+YouTube is one of the most popular video sharing sites and therefore is often picked by online criminals hoping for an easy catch. Performing a search using a (generally female) celebrity’s name followed by “sex tape” or a recent movie name yields results such as the following:
 
 ![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1nkuLiRtbI/AAAAAAAAAu4/_CEg2wTRuio/s640/searchres.jpg)
 

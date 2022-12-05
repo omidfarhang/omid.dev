@@ -23,4 +23,4 @@ Win32/Rimecud uses a variety of obfuscators to hinder detection. These are writt
 
 Other similarities to Win32/Hamweq's behavior include using the Recycle Bin as the target drop folder for copies of itself, injecting code into the explorer.exe process and the capability to spread via removable drives.
 
-By looking at the similarities between the two threats we could speculate that they were created by the same author(s). Like they say: &#8220;Birds of a feather&#8221;.
+By looking at the similarities between the two threats we could speculate that they were created by the same author(s). Like they say: “Birds of a feather”.

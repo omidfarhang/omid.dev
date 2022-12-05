@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-<span><span>&#8220;Dirty&#8221; or &#8220;Flirty&#8221;</span></span>
+<span><span>“Dirty” or “Flirty”</span></span>
 
 Ok.
 

@@ -26,7 +26,7 @@ Turning on full-time Twitter HTTPS keeps your session cookie encrypted throughou
 
 [<img title="twitter-settings-170" border="0" alt="twitter-settings-170" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TYKEK45OswI/AAAAAAAADu8/07hR9_4d4Nc/twitter-settings-170_thumb%5B2%5D.png?imgmax=800" width="164" height="220" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TYKEFtlMAJI/AAAAAAAADu4/QSHC4DUQQK4/s1600-h/twitter-settings-170%5B4%5D.png)Don't forget that it's not just experienced hackers who can sniff Twitter cookies and use them to impersonate you.
 
-The infamous Firesheep plugin to Firefox automates this cookie-stealing process &#8211; known as &#8220;sidejacking&#8221; &#8211; so that anyone who can use a browser can do it.
+The infamous Firesheep plugin to Firefox automates this cookie-stealing process &#8211; known as “sidejacking” &#8211; so that anyone who can use a browser can do it.
 
 To enable this new Twitter option, go to your **Settings** page.
 

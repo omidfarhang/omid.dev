@@ -22,7 +22,7 @@ The service has been developed with extensive participation by [Chris Messina](h
 
 With Circles, I believe that Google will attempt to accomplish something critics from the blogosphere,[academia](http://www.readwriteweb.com/archives/a_closer_look_at_facebooks_new_privacy_options.php), [SXSW 2010 keynoter danah boyd](http://www.readwriteweb.com/archives/danah_boyd_talks_about_privacy_at_sxsw.php), privacy watchdogs and others have all called on the social networking world to do: to allow our online communication to respect the same boundaries that our offline social lives do.
 
-School and work, friends and family, the sacred and the profane; we've always been able to communicate different things to different people in different circumstances. Facebook, Twitter and other online social networks have collapsed all those contexts into one big bucket. We speak to our &#8220;friends&#8221; all at once, no matter what we might want to say to one group of people or another. And thus we often feel less comfortable than we might saying anything at all.
+School and work, friends and family, the sacred and the profane; we've always been able to communicate different things to different people in different circumstances. Facebook, Twitter and other online social networks have collapsed all those contexts into one big bucket. We speak to our “friends” all at once, no matter what we might want to say to one group of people or another. And thus we often feel less comfortable than we might saying anything at all.
 
 This fundamental discomfort has been, many people argue, a limiting factor in the growth, reach and depth of online social interactions. If that problem could be solved, there are big new ways that the online world could grow and evolve. This has been a more sophisticated understanding of privacy, not just as a public/private dichotomy but as a matter of contextual integrity of communication, that we and others have been calling on Facebook to adopt [for almost two years](http://www.readwriteweb.com/archives/a_closer_look_at_facebooks_new_privacy_options.php).
 
@@ -48,7 +48,7 @@ Google Buzz felt overbearing and bolted on. It also got privacy terribly, terrib
 
 Reports emerged last June that Google has been working on a secret social project called Google Me.
 
-In December a screenshot was [leaked to TechCrunch](http://techcrunch.com/2010/12/07/google-plus-one-pic) showing a new toolbar item on Google.com called &#8220;Loop.&#8221; (Loop seems similar to Circles &#8211; I think Circles is better.) I believe that Circles will be a toolbar level service as well.
+In December a screenshot was [leaked to TechCrunch](http://techcrunch.com/2010/12/07/google-plus-one-pic) showing a new toolbar item on Google.com called “Loop.” (Loop seems similar to Circles &#8211; I think Circles is better.) I believe that Circles will be a toolbar level service as well.
 
 It's hard to think of a stronger angle to take than support for contextual integrity of communication and conversation, of personas in social networking.
 

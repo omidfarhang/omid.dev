@@ -14,7 +14,7 @@ category: techblog
 ---
 [<img class="alignright size-medium wp-image-6489" alt="tax[6]" src="/images/2013/03/tax6-300x300.jpg" width="300" height="300" srcset="/images/sites/3/2013/03/tax6-300x300.jpg 300w, /images/sites/3/2013/03/tax6-150x150.jpg 150w, /images/sites/3/2013/03/tax6.jpg 347w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/tax6.jpg)The Internal Revenue Service today reminded taxpayers that there are plenty of scam artists and cybercriminals that want your money.
 
-The tax collection agency issued its &#8220;Dirty Dozen&#8221; list of tax scams that it says peak at this time of year and include:
+The tax collection agency issued its “Dirty Dozen” list of tax scams that it says peak at this time of year and include:
 
 ##### Identity theft
 
@@ -38,7 +38,7 @@ Phishing is a scam typically carried out with the help of unsolicited email or a
 
 The IRS reminds all taxpayers that they should use only preparers who sign the returns they prepare and enter their IRS Preparer Tax Identification Numbers (PTINs). IRS.gov has general information on reporting tax fraud. More specifically, you report abusive tax preparers to the IRS on Form 14157, Complaint: Tax Return Preparer. Download Form 14157 and fill it out or order by mail at 800-TAX FORM (800-829-3676).
 
-##### &#8220;Free money&#8221;
+##### “Free money”
 
 Fliers and advertisements for free money from the IRS, suggesting that the taxpayer can file a tax return with little or no documentation, have been appearing in community churches around the country. These schemes promise refunds to people who have little or no income and normally don't have a tax filing requirement &#8212; and are also often spread by word of mouth as unsuspecting and well-intentioned people tell their friends and relatives.
 
@@ -64,7 +64,7 @@ Promoters of frivolous schemes encourage taxpayers to make unreasonable and outl
 
 ##### Falsely claiming zero wages
 
-Filing a phony information return is an illegal way to lower the amount of taxes an individual owes. Typically, a Form 4852 (Substitute Form W-2) or a &#8220;corrected&#8221; Form 1099 is used as a way to improperly reduce taxable income to zero. The taxpayer may also submit a statement rebutting wages and taxes reported by a payer to the IRS. Sometimes, fraudsters even include an explanation on their Form 4852 that cites statutory language on the definition of wages or may include some reference to a paying company that refuses to issue a corrected Form W-2 for fear of IRS retaliation.
+Filing a phony information return is an illegal way to lower the amount of taxes an individual owes. Typically, a Form 4852 (Substitute Form W-2) or a “corrected” Form 1099 is used as a way to improperly reduce taxable income to zero. The taxpayer may also submit a statement rebutting wages and taxes reported by a payer to the IRS. Sometimes, fraudsters even include an explanation on their Form 4852 that cites statutory language on the definition of wages or may include some reference to a paying company that refuses to issue a corrected Form W-2 for fear of IRS retaliation.
 
 ##### Disguised corporate ownership
 

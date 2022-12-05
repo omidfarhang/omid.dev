@@ -13,7 +13,7 @@ category: techblog
 ---
 Now here's an interesting turn of events.
 
-In the middle of all the attention to the &#8220;Operation Aurora&#8221; attacks, we're now seeing new targeted attacks that are using this very event as the lure to get the targets to open a malicious attachment!
+In the middle of all the attention to the “Operation Aurora” attacks, we're now seeing new targeted attacks that are using this very event as the lure to get the targets to open a malicious attachment!
 
 Here's the email we saw:
 

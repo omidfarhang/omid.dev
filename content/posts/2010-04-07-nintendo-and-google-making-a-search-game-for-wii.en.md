@@ -13,11 +13,9 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s1600-h/ando-kensaku-640.jpg" imageanchor="1"><img border="0" height="237" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s400/ando-kensaku-640.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s400/ando-kensaku-640.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s1600-h/ando-kensaku-640.jpg)
 
-This just in from the “Strange Bedfellows” department: apparently <a href="http://www.engadget.com/2010/04/07/nintendo-teams-with-google-for-glorified-google-fight-gameplay/" target="_blank">Nintendo has enlisted the help of Google</a> to create a Wii game where players compete to guess the most popular search terms.
+This just in from the “Strange Bedfellows” department: apparently [Nintendo has enlisted the help of Google](http://www.engadget.com/2010/04/07/nintendo-teams-with-google-for-glorified-google-fight-gameplay/) to create a Wii game where players compete to guess the most popular search terms.
 
 The game, entitled _Ando Kensaku_, will be out in Japan on April 29 and won’t likely see much of a release elsewhere given its quirkiness. The screenshot above gives you an idea of the cutesy avatar style of the title, featuring 14 mini-games where several players can choose from a multiple choice search term spread.
 

@@ -21,7 +21,7 @@ Something such as [Apple's Preview](http://support.apple.com/kb/ht2506) would be
 
 [<img title="apple_pview" border="0" alt="apple_pview" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S99bvJnsdvI/AAAAAAAACEI/GkkweWmJRc0/apple_pview_thumb%5B3%5D.png?imgmax=800" width="415" height="480" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S99brD6XGNI/AAAAAAAACEA/S_Bf38LjNXY/s1600-h/apple_pview%5B5%5D.png) 
 
-&#8220;To view a PDF file, just double-click it to open it in Preview.&#8221;
+“To view a PDF file, just double-click it to open it in Preview.”
 
 Mac doesn't require a third-party application to view PDFs, so why does Windows?
 

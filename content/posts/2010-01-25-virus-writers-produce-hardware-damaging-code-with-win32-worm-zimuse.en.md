@@ -20,7 +20,7 @@ Win32.Worm.Zimuse.A is an extremely dangerous piece of malware. Unlike average w
 
 In order to execute on each Windows boot-up, the worm sets the following registry entry:
 
-[HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]&#8221;Dump&#8221;=&#8221;%programfiles%\Dump\Dump.exe
+[HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]”Dump”=”%programfiles%\Dump\Dump.exe
 
 It also creates two driver files, namely:
 

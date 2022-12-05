@@ -20,7 +20,7 @@ Karen Miller, spokesperson for Brazzers' parent company Manwin Holding, reported
 
 Ms. Miller also explained Manwin and Brazzers were contacting everyone who was potentially affected by the breach but underlined that no credit card information was stolen. 
 
-The [Associated Press](http://www.usatoday.com/news/nation/story/2012-02-11/hackers-anonymous-brazzers-porn/53048096/1) writes that this is a &#8220;potential embarrassment for Luxembourg-based Manwin, which runs some of the world's best-known pornography websites.&#8221; 
+The [Associated Press](http://www.usatoday.com/news/nation/story/2012-02-11/hackers-anonymous-brazzers-porn/53048096/1) writes that this is a “potential embarrassment for Luxembourg-based Manwin, which runs some of the world's best-known pornography websites.” 
 
 It is all very well to worry about the porn company's reputation, but what about the customers?! How do they feel knowing that their info, including names and emails, are either available for anyone to see, or risk being posted at the hacker's whim? 
 

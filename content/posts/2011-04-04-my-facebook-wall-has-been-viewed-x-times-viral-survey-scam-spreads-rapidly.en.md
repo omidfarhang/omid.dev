@@ -55,13 +55,13 @@ The scammers have created a variety of different rogue applications that they ar
 
 Of course, you want to know how many boys or girls are checking out your Facebook &#8211; so you're likely just to grant the rogue application permission to your Facebook page.
 
-Big mistake. You should have clicked on &#8220;Don't allow&#8221; instead.
+Big mistake. You should have clicked on “Don't allow” instead.
 
 The next thing you know, you are taken to a page which looks like it has _lots_ of information about who has been viewing your Facebook wall.
 
 [<img title="facebook-wall-3" border="0" alt="facebook-wall-3" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TZok0mwpA0I/AAAAAAAADz4/O5qYmSfFsbA/facebook-wall-3_thumb%5B2%5D.jpg?imgmax=800" width="498" height="434" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TZokwEpB3TI/AAAAAAAADz0/ifV7A9wTTkA/s1600-h/facebook-wall-3%5B4%5D.jpg)
 
-But do you notice that all the information about who has been stalking you on Facebook is &#8220;locked&#8221; away? The page is asking you to complete a &#8220;30 second&#8221; security check to &#8220;prove you are human&#8221; in the form of an online survey. The implication is that you'll find out who has been viewing your Facebook profile, once you have completed the online test.
+But do you notice that all the information about who has been stalking you on Facebook is “locked” away? The page is asking you to complete a “30 second” security check to “prove you are human” in the form of an online survey. The implication is that you'll find out who has been viewing your Facebook profile, once you have completed the online test.
 
 What the scammers don't tell you is that they earn commission for each survey completed. Furthermore, they have _already_ exploited your own Facebook page to post out a message to your friends, inviting them to also find out how many times _their_ Facebook wall has been viewed. In this way the revenue-generating survey scam spreads virally.
 

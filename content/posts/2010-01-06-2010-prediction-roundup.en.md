@@ -21,7 +21,7 @@ It’s going to be controversial and difficult legally and technically. It’s g
 
 At this point, 90 percent of email is spam, organized crime groups commonly siphon cash from the bank accounts of individuals and businesses on other continents, search engines are regularly harnessed to lure those browsing the web into purchasing fake security products and malicious applications are being created faster than legitimate software.
 
-China has made two huge, stumbling attempts. One, Green Dam-Youth Escort, unfortunately was mixed up with state censorship and sullied by a sleazy company whose idea of software development was &#8220;borrowing&#8221; a U.S. company's code. The other, China’s attempt to require “on-paper” domain registration and limiting them to registered businesses, possibly could make it harder to set up malicious sites, but, it too is drastically flawed.
+China has made two huge, stumbling attempts. One, Green Dam-Youth Escort, unfortunately was mixed up with state censorship and sullied by a sleazy company whose idea of software development was “borrowing” a U.S. company's code. The other, China’s attempt to require “on-paper” domain registration and limiting them to registered businesses, possibly could make it harder to set up malicious sites, but, it too is drastically flawed.
 
 The U.S. Federal Trade Commission has had some noteworthy successes against spammers. European governments are seriously going after digital pirates and Nigeria has arrested a few dozen 419 scammers and promises a lot more.
 

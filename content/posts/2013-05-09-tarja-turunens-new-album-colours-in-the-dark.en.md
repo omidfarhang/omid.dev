@@ -11,7 +11,7 @@ tags:
 lang: en
 category: entblog
 ---
-We have been waiting for it, Tarja will be releasing a new album August 2013, the new album is called &#8220;Colours In The Dark&#8221;, She explain the album title:
+We have been waiting for it, Tarja will be releasing a new album August 2013, the new album is called “Colours In The Dark”, She explain the album title:
 
 > As the title already clearly points out, you can expect a dark album, but filled with colours.
 

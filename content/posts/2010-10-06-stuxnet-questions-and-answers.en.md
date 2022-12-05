@@ -93,18 +93,18 @@ Privilege escalation via Task Scheduler
 **A:** We don't know. 
 
 **Q:** Is it true that there's are biblical references inside Stuxnet?  
-**A:** There is a reference to &#8220;Myrtus&#8221; (which is a myrtle plant). However, this is not &#8220;hidden&#8221; in the code. It's an artifact left inside the program when it was compiled. Basically this tells us where the author stored the source code in his system. The specific path in Stuxnet is: **\myrtus\src\objfre\_w2k\_x86\i386\guava.pdb**. The authors probably did not want us to know they called their project &#8220;Myrtus&#8221;, but thanks to this artifact we do. We have seen such artifacts in other malware as well. The Operation Aurora attack against Google was named Aurora after this path was found inside one of the binaries:**\Aurora_Src\AuroraVNC\Avc\Release\AVC.pdb**. 
+**A:** There is a reference to “Myrtus” (which is a myrtle plant). However, this is not “hidden” in the code. It's an artifact left inside the program when it was compiled. Basically this tells us where the author stored the source code in his system. The specific path in Stuxnet is: **\myrtus\src\objfre\_w2k\_x86\i386\guava.pdb**. The authors probably did not want us to know they called their project “Myrtus”, but thanks to this artifact we do. We have seen such artifacts in other malware as well. The Operation Aurora attack against Google was named Aurora after this path was found inside one of the binaries:**\Aurora_Src\AuroraVNC\Avc\Release\AVC.pdb**. 
 
-**Q:** So how exactly is &#8220;Myrtus&#8221; a biblical reference?  
+**Q:** So how exactly is “Myrtus” a biblical reference?  
 **A:** Uhh… we don't know, really. 
 
 **Q:** Could it mean something else?  
-**A:** Yeah: it could mean &#8220;My RTUs&#8221;, not &#8220;Myrtus&#8221;. RTU is an abbreviation for [Remote Terminal Units](http://en.wikipedia.org/wiki/SCADA#Remote_Terminal_Unit_.28RTU.29), used in factory systems. 
+**A:** Yeah: it could mean “My RTUs”, not “Myrtus”. RTU is an abbreviation for [Remote Terminal Units](http://en.wikipedia.org/wiki/SCADA#Remote_Terminal_Unit_.28RTU.29), used in factory systems. 
 
 **Q:** How does Stuxnet know it has already infected a machine?  
-**A:** It sets a Registry key with a value &#8220;19790509&#8221; as an infection marker. 
+**A:** It sets a Registry key with a value “19790509” as an infection marker. 
 
-**Q:** What's the significance of &#8220;19790509&#8221;?  
+**Q:** What's the significance of “19790509”?  
 **A:** It's a date. 9th of May, 1979. 
 
 **Q:** What happened on 9th of May, 1979?  
@@ -123,7 +123,7 @@ Privilege escalation via Task Scheduler
 **A:** Wrong. There are several other spreading mechanisms USB worms use. The LNK vulnerability used by Stuxnet would infect you even if AutoRun and AutoPlay were disabled. 
 
 **Q:** Will Stuxnet spread forever?  
-**A:** The current versions have a &#8220;kill date&#8221; of June 24, 2012. It will stop spreading on this date. 
+**A:** The current versions have a “kill date” of June 24, 2012. It will stop spreading on this date. 
 
 **Q:** How many computers did it infect?  
 **A:** Hundreds of thousands. 

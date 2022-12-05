@@ -17,7 +17,7 @@ category: techblog
 
 The new service is a feature that is borrowed from Microsoft Outlook that allows adding accounts from other email services.
 
-Dick Craddock, Group Program Manager at Windows Live Hotmail, said in a blog post: &#8220;We understand. You already have at least one email address and you probably don't need another. You may also use your existing address for things other than just email, such as signing in to online shopping sites, which makes changing even more challenging. Also, you might have an address that you really like, but a similar name might not be available on another email service. &#8220;
+Dick Craddock, Group Program Manager at Windows Live Hotmail, said in a blog post: “We understand. You already have at least one email address and you probably don't need another. You may also use your existing address for things other than just email, such as signing in to online shopping sites, which makes changing even more challenging. Also, you might have an address that you really like, but a similar name might not be available on another email service. “
 
 The new feature requires users to validate external email addresses and allows the management of the mails through POP. To use the new feature users need a Windows Live ID, which can be availed by registering with any email id.
 

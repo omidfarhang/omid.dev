@@ -137,7 +137,7 @@ Sabrina, the Teenage Witch
 |
 Herself
 |
-Television episode (Bada-Ping!) Guest-star; performed &#8220;Sk8er Boi&#8221;
+Television episode (Bada-Ping!) Guest-star; performed “Sk8er Boi”
 |
 |
 2004
@@ -146,7 +146,7 @@ Going the Distance
 |
 Herself
 |
-Cameo; performed &#8220;Losing Grip&#8221;
+Cameo; performed “Losing Grip”
 |
 |
 2004

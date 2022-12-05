@@ -15,7 +15,7 @@ category: techblog
   <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600-h/tax-fraud.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600/tax-fraud.png" /></a>
 </div>
 
-Benjamin Franklin once wrote, &#8220;&#8216;In this world nothing can be said to be certain, except death and taxes.&#8221; These days we can add to the certainty of those two inevitable events with the addition of the annual scams that accompany tax time.
+Benjamin Franklin once wrote, “&#8216;In this world nothing can be said to be certain, except death and taxes.” These days we can add to the certainty of those two inevitable events with the addition of the annual scams that accompany tax time.
 
 For those of you who haven't heard of this type of scam, it's basically another way to separate a man from his money, or if you want to look at the bigger picture, a way to defraud the federal government. Either way, your wallet suffers. The financial website money-zine has a good article on the [latest tax scams](http://www.money-zine.com/Financial-Planning/Tax-Shelter/How-to-Avoid-Tax-Scams/) you may encounter on the Web.
 

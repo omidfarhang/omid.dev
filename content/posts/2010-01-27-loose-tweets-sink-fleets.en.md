@@ -29,4 +29,4 @@ Here's [Sky News'](http://news.sky.com/skynews/Home/UK-News/Ministry-of-Defence-
 
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s640/foia.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s1600-h/foia.png)
 
-&#8220;Loose Tweets Sink Fleets&#8221; Poster image credit: [Brian Lane Winfield Moore](http://www.flickr.com/photos/doctabu/sets/72157620497679512)
+“Loose Tweets Sink Fleets” Poster image credit: [Brian Lane Winfield Moore](http://www.flickr.com/photos/doctabu/sets/72157620497679512)

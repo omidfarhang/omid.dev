@@ -10,7 +10,7 @@ category: techblog
 ---
 چند روز بود که با شبکه اوبونتوم مشکل داشتم، هربار که میخواستم یک سایتی رو با کرومیوم باز کنم میگفت که تغییری در شبکه م به وجود اومده و باید چندبار صفحه رو ریلود میکردم تا باز شه و گاهی کلا باز نمیشد.
 
-یه مقداری که گشتم، فهمیدم که مشکل با [&#8220;avahi-daemon&#8221;](https://askubuntu.com/questions/905866/new-ubuntu-17-04-problem-your-connection-was-interrupted) در ارتباطه.
+یه مقداری که گشتم، فهمیدم که مشکل با [“avahi-daemon”](https://askubuntu.com/questions/905866/new-ubuntu-17-04-problem-your-connection-was-interrupted) در ارتباطه.
 
 ### راه حل
 

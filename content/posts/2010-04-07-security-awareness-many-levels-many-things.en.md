@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-Rob VandenBrink has written a piece on the SANS web site Diary (<a href="http://isc.sans.org/diary.html?storyid=8581" target="_blank">&#8220;The Many Paths to Security Awareness&#8221;</a>) with an interesting take on the very large topic of computer security awareness.
+Rob VandenBrink has written a piece on the SANS web site Diary (<a href="http://isc.sans.org/diary.html?storyid=8581" target="_blank">“The Many Paths to Security Awareness”</a>) with an interesting take on the very large topic of computer security awareness.
 
 <span>“Security Awareness does not mean the same thing to everyone in a company,” </span>sums up his point.
 

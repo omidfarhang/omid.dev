@@ -41,7 +41,7 @@ Part of the message read:
 
 The message went on to claim that Panda Security had assisted the authorities in identifying LulzSec hackers, and that the hacking group had planted backdoors into Panda's anti-virus software. 
 
-The hackers appeared to single out yesterday's blog post (currently offline) by Luis Corrons, technical director at PandaLabs, who asked &#8220;Where is the lulz now?&#8221; which welcomed the action against Sabu and other alleged LulzSec hacktivists. 
+The hackers appeared to single out yesterday's blog post (currently offline) by Luis Corrons, technical director at PandaLabs, who asked “Where is the lulz now?” which welcomed the action against Sabu and other alleged LulzSec hacktivists. 
 
 As Luis pointed out on Twitter, clearly whoever defaced the Panda Security websites has something of a problem with free speech: 
 

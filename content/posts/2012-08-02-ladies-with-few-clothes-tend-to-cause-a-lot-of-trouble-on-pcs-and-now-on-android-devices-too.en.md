@@ -65,13 +65,13 @@ If you google ‘72908’ (the premium rate number from Vidro) you can find a Po
 
 Rough translation: 
 
-_&#8220;How to remove &#8216;carmunity' from 72908 number? Help me.&#8221;_ 
+_“How to remove &#8216;carmunity' from 72908 number? Help me.”_ 
 
  __
 
-&#8220;It's probably some kind of virus, this SMS goes out from the phone, it’s better to disable it with your GSM provider, both outgoing and incoming.&#8221; </p> 
+“It's probably some kind of virus, this SMS goes out from the phone, it’s better to disable it with your GSM provider, both outgoing and incoming.” </p> 
 
-_&#8220;I want to disable.&#8221;_ 
+_“I want to disable.”_ 
 
 Let’s take a deeper look at the malicious **vid4droid.com** domain. According to Robtex this domain is controlled by two name servers at **carmunity.de**; and the vid4droid.com mail server is handled at tecmedia.eu. 
 
@@ -89,11 +89,11 @@ _Main page of Carmunity web site_
 
 Contact information contains the physical address of this company. According to this, Carmunity is located in Bremen, Mary-Astell-Str. 2. If you google this address you can find that another German company called **Displayboy** has the same physical address. What do we know about this organization? Well, here are some quotes from their web site displayboy.com (no German version, only English): 
 
-_&#8220;Welcome to DisplayBoy &#8211; the leading provider for adult affiliate marketing in the mobile Internet.&#8221;_ 
+_“Welcome to DisplayBoy &#8211; the leading provider for adult affiliate marketing in the mobile Internet.”_ 
 
 __ 
 
-_&#8220;Right now, between 5%-10% adult website users are surfing sites with mobile phones. With Displayboy you can convert your existing mobile traffic in a snap. It's easy, simple and reliable.&#8221;_ 
+_“Right now, between 5%-10% adult website users are surfing sites with mobile phones. With Displayboy you can convert your existing mobile traffic in a snap. It's easy, simple and reliable.”_ 
 
 <a href="http://lh5.ggpht.com/-FQTyANQE_-U/UBqFcM8G8cI/AAAAAAAAGvc/NkQQjsZaEp8/s1600-h/208193740%25255B3%25255D.png" target="_blank"><img title="208193740" border="0" alt="208193740" src="http://lh6.ggpht.com/-68TnGswXUIo/UBqFfbsOieI/AAAAAAAAGvk/kLtHurrQXGw/208193740_thumb%25255B1%25255D.png?imgmax=800" width="438" height="356" /></a> 
 

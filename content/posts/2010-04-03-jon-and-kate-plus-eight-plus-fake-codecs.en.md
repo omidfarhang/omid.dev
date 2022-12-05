@@ -18,9 +18,9 @@ One our researchers was reading the comments about Dancing With The Stars, and K
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkRd6M0SI/AAAAAAAABdk/fH2HpZbZp0I/s400/6a00e5539a104188340133ec5884e7970b-800wi.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkRd6M0SI/AAAAAAAABdk/fH2HpZbZp0I/s1600-h/6a00e5539a104188340133ec5884e7970b-800wi.jpg)
 
-Note the dialog that says &#8220;ActiveX Object Error&#8221;, and &#8220;Click OK to download&#8221;. If you're a poker player, this is what's known as a &#8220;tell&#8221;. And if you are not a poker player, this is your sign that you should run for the hills, or in computer terms, start Task Manager and kill the browser.
+Note the dialog that says “ActiveX Object Error”, and “Click OK to download”. If you're a poker player, this is what's known as a “tell”. And if you are not a poker player, this is your sign that you should run for the hills, or in computer terms, start Task Manager and kill the browser.
 
-If you \_ever\_ have to download a codec or anything to watch a video &#8230;. DON&#8221;T!
+If you \_ever\_ have to download a codec or anything to watch a video &#8230;. DON”T!
 
 If, however, you are determined to walk a little on the wild side, and try to view Ms Gosselin, you are confronted with a File Download diloag, and when you run that, you see this screen &#8230;
 

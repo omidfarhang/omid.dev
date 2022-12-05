@@ -19,6 +19,6 @@ Two years ago, Facebook came forward with some staggering figures about the phot
 
 Since that time, Facebook has gone from approximately 35 million users to more than 500 million, and more than 3 billion photos are now being [added to Facebook every month](http://www.insidefacebook.com/2010/02/15/new-facebook-statistics-show-big-increase-in-content-sharing-local-business-pages/).
 
-Facebook's new profile design adds photographs that the user has been recently tagged in to the main page, and information about location, age, job, relationship status, and more have been moved to a space immediately beneath the user's display name, turning it all into something of a caption for the pictures. &#8220;Likes&#8221; and interests are now represented by a row of images, and friends can now be categorized into user-defined lists (e.g. &#8220;co-workers,&#8221; &#8220;school friends,&#8221; etc.)
+Facebook's new profile design adds photographs that the user has been recently tagged in to the main page, and information about location, age, job, relationship status, and more have been moved to a space immediately beneath the user's display name, turning it all into something of a caption for the pictures. “Likes” and interests are now represented by a row of images, and friends can now be categorized into user-defined lists (e.g. “co-workers,” “school friends,” etc.)
 
 Ultimately, the new profiles don't represent a major shift in functionality for Facebook, but instead reflect the visual nature in which its users consume information posted there.

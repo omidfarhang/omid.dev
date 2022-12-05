@@ -24,4 +24,4 @@ One of the change done by apple is the fix they had done in iPhone 3GS bootroom,
 
 To check whether your iPhone has a newer or older bootroom, boot up your iPhone and go to Settings >> About 
 
-Check your model number – if it begins with &#8220;MC&#8221; then you have the new bootroom if it is not &#8220;MC&#8221; then you have an older bootroom also check the 4th and 5th number in you serial number if it is lower then 40 then you have an old bootroom.
+Check your model number – if it begins with “MC” then you have the new bootroom if it is not “MC” then you have an older bootroom also check the 4th and 5th number in you serial number if it is lower then 40 then you have an old bootroom.

@@ -22,7 +22,7 @@ Today, a security blogger forwarded us (and others) his version of the e-mail:
 
 At this point, it appears that the attachment has been replaced by hyperlink pointing to the Marcus Law Center.
 
-It is difficult to determine whether or not the MLC site is compromised or just completely bogus. Their Our Firm page text borrows heavily from a New York lawyer's site, but that could just be a case of &#8220;honest&#8221; plagiarism.
+It is difficult to determine whether or not the MLC site is compromised or just completely bogus. Their Our Firm page text borrows heavily from a New York lawyer's site, but that could just be a case of “honest” plagiarism.
 
 In any case, our browsing protection feature is now blocking the sub-directory hosting the malicious file as unsafe.
 

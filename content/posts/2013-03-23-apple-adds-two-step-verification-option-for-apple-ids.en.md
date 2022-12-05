@@ -24,7 +24,7 @@ Users with an Apple ID can now sign up for two-step verification of their passwo
 
 The move comes a little less than a year after Apple required users to set up security questions for their online accounts, a common security measure that was notably absent. Once two-step verification is enabled, there are no longer security questions to remember.
 
-&#8220;Apple takes customer privacy very seriously, and two-step verification is an even more robust process to ensure our user's data remains protected,&#8221; an Apple spokesperson told CNET. &#8220;We are now offering our users the choice to take advantage of this additional layer of security.&#8221;
+“Apple takes customer privacy very seriously, and two-step verification is an even more robust process to ensure our user's data remains protected,” an Apple spokesperson told CNET. “We are now offering our users the choice to take advantage of this additional layer of security.”
 
 Of note, the feature is currently available only in the U.S., U.K, Ireland, Australia and New Zealand.
 
@@ -34,4 +34,4 @@ The need for that extra layer of security was highlighted in the woes of journal
 
 More recently, Apple itself was the target of a coordinated attack that used a vulnerability in the Java plug-in to gain access to corporate systems as well as employee computers. In a statement last month, the company said there was no evidence any data was taken. Apple was just one of several companies involved in a series of attacks that also targeted Facebook, The New York Times, The Wall Street Journal, and The Washington Post.
 
-Apple's user base at its various stores and other online stores continues to grow. Its last official number, released in January, put it at &#8220;over 500 million active accounts.&#8221;
+Apple's user base at its various stores and other online stores continues to grow. Its last official number, released in January, put it at “over 500 million active accounts.”

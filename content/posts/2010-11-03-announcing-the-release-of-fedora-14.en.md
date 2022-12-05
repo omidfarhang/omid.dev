@@ -53,7 +53,7 @@ For developers there are all sorts of additional goodies:
   * D: Fedora 14 introduces support for D, a systems programming language combining the power and high performance of C and C++ with the programmer productivity of modern languages such as Ruby and Python. 
   * Python 2 upgrade: The system python 2 stack has been upgraded to 2.7. 
   * GNUStep: A GUI framework based of the Objective-C programming language which is part of the gcc. 
-  * Memory Debugging Tools: The new &#8220;gdb-heap&#8221; package adds a new &#8220;heap&#8221; command to /usr/bin/gdb which allows you to get a breakdown of how a process is using dynamic memory. 
+  * Memory Debugging Tools: The new “gdb-heap” package adds a new “heap” command to /usr/bin/gdb which allows you to get a breakdown of how a process is using dynamic memory. 
   * Rakudo Star: An implementation of Perl version 6, based on the Parrot VM. 
   * Support for Milkymist: Developers can enjoy developing for Milkymist, an open hardware embedded board, on Fedora 14. Thanks to the Fedora Electronic Lab for their work in this regard. 
 

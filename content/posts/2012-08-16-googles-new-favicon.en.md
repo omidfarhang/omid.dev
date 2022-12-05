@@ -23,7 +23,7 @@ Here's the new favicon:
 
 [<img class="alignnone size-full wp-image-6611" alt="favicon-address-bar[2]" src="/images/2012/08/favicon-address-bar2.png" width="508" height="136" srcset="/images/sites/3/2012/08/favicon-address-bar2.png 508w, /images/sites/3/2012/08/favicon-address-bar2-300x80.png 300w" sizes="(max-width: 508px) 100vw, 508px" />](/images/2012/08/favicon-address-bar2.png)
 
-This screenshot shows the first three Google favicons. As you can see, the new favicon has a lot in common with [the second favicon used by Google](http://googlesystem.blogspot.com/2008/05/new-google-favicon.html). &#8220;We felt the small &#8216;g' had many of the characteristics that best represent our brand: it's simple, playful, and unique. We will be looking to improve and enhance this icon as we move forward,&#8221; said Google back in 2008, when it changed the favicon for the first time.
+This screenshot shows the first three Google favicons. As you can see, the new favicon has a lot in common with [the second favicon used by Google](http://googlesystem.blogspot.com/2008/05/new-google-favicon.html). “We felt the small &#8216;g' had many of the characteristics that best represent our brand: it's simple, playful, and unique. We will be looking to improve and enhance this icon as we move forward,” said Google back in 2008, when it changed the favicon for the first time.
 
 [<img class="alignnone size-full wp-image-6612" alt="google-favicon-jan-2009[2]" src="/images/2012/08/google-favicon-jan-20092.png" width="572" height="292" srcset="/images/sites/3/2012/08/google-favicon-jan-20092.png 572w, /images/sites/3/2012/08/google-favicon-jan-20092-300x153.png 300w" sizes="(max-width: 572px) 100vw, 572px" />](/images/2012/08/google-favicon-jan-20092.png)
 

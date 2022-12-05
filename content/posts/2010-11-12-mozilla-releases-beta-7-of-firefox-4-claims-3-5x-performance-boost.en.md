@@ -20,7 +20,7 @@ Additionally, the latest beta includes a stable add-ons API, so developers can f
 
 Of course, the first thing Mozilla is touting about this version of the browser is the performance boost it gets from the new JägerMonkey JavaScript compiler.
 
-&#8220;The Firefox SpiderMonkey JavaScript engine now incorporates the new JägerMonkey JIT compiler, which, along with enhancements to the existing TraceMonkey JIT and SpiderMonkey's interpreter, add up to speeds that really show off today's rich Web apps. You'll notice this in faster start-up time, improved page-load speed and the performance of Web apps and games,&#8221; Jay Sullivan [wrote in the Mozilla Blog today](http://blog.mozilla.com/blog/2010/11/10/fasten-your-seatbelts-latest-firefox-4-beta-boosts-speed-in-the-browser/).
+“The Firefox SpiderMonkey JavaScript engine now incorporates the new JägerMonkey JIT compiler, which, along with enhancements to the existing TraceMonkey JIT and SpiderMonkey's interpreter, add up to speeds that really show off today's rich Web apps. You'll notice this in faster start-up time, improved page-load speed and the performance of Web apps and games,” Jay Sullivan [wrote in the Mozilla Blog today](http://blog.mozilla.com/blog/2010/11/10/fasten-your-seatbelts-latest-firefox-4-beta-boosts-speed-in-the-browser/).
 
 In Scott Fulton's Browser Performance tests in October, he ranked Firefox 4 Beta 8 behind both Opera and Chrome, but well ahead of Safari and Internet Explorer. At the time, however, the feature-complete version of Beta 7 was not available for testing.
 

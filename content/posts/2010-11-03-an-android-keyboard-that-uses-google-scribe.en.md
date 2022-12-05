@@ -18,6 +18,6 @@ category: techblog
 
 Scrybe needs to fix many issues to become really useful. If you delete some letters from word, Scrybe is not able to detect that you're not writing a new word. Another problem is that you can't type very fast because Scrybe tries to fetch the suggestions.
 
-[Reddit users](http://www.reddit.com/r/Android/comments/dyclw/google_scribe_comes_to_the_android_keyboard/) think that [SwiftKey](http://www.swiftkey.net/) has a better approach: it preloads the data, so there's no lag. &#8220;So this is basically the same thing as SwiftKey, but offloaded to Google's servers? Seems to work well, but no better (and slower) than SwiftKey,&#8221; [says Podspi](http://www.reddit.com/r/Android/comments/dyclw/google_scribe_comes_to_the_android_keyboard/c13unek). SwiftKey is $3.99 and there's a two-week trial.
+[Reddit users](http://www.reddit.com/r/Android/comments/dyclw/google_scribe_comes_to_the_android_keyboard/) think that [SwiftKey](http://www.swiftkey.net/) has a better approach: it preloads the data, so there's no lag. “So this is basically the same thing as SwiftKey, but offloaded to Google's servers? Seems to work well, but no better (and slower) than SwiftKey,” [says Podspi](http://www.reddit.com/r/Android/comments/dyclw/google_scribe_comes_to_the_android_keyboard/c13unek). SwiftKey is $3.99 and there's a two-week trial.
 
 _Taken from Google Operation System_

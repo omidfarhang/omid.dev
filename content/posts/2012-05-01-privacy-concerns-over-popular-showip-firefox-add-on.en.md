@@ -17,7 +17,7 @@ category: techblog
 
 Naked Security reader Rob Sanders alerted us to the activities of the recently updated [ShowIP add-on](https://addons.mozilla.org/en-US/firefox/addon/showip/) for the Firefox browser. 
 
-According to the description on the Mozilla add-ons website, ShowIP is designed to &#8220;show the IP address(es) of the current page in the status bar. It also allows querying custom information services by IP (right click) and hostname (left click), like whois, netcraft, etc. Additionally you can copy the IP address to the clipboard.&#8221; 
+According to the description on the Mozilla add-ons website, ShowIP is designed to “show the IP address(es) of the current page in the status bar. It also allows querying custom information services by IP (right click) and hostname (left click), like whois, netcraft, etc. Additionally you can copy the IP address to the clipboard.” 
 
 Currently over 170,000 people are said to be using ShowIP. 
 
@@ -25,7 +25,7 @@ What the add-on's description doesn't say is that since version 1.3 (released on
 
 The user never realises that the data has been shared with a third-party, unless they use special tools to monitor what data is being sent from their computer. 
 
-SophosLabs researcher Xiaochuan Zhang examined the add-on, and observed the potential privacy breach in action. In the following example, he used Wireshark to view the network packets being sent and observed his request to visit a non-existent website &#8220;www.thisisapparentlyafakeservice.me&#8221; being shared with ip2info.org. 
+SophosLabs researcher Xiaochuan Zhang examined the add-on, and observed the potential privacy breach in action. In the following example, he used Wireshark to view the network packets being sent and observed his request to visit a non-existent website “www.thisisapparentlyafakeservice.me” being shared with ip2info.org. 
 
 [<img title="ip2info-wireshark" border="0" alt="ip2info-wireshark" src="http://lh5.ggpht.com/-mAYzpfX8SE4/T6AAyeJXeEI/AAAAAAAAFzI/oycp__D4iG4/ip2info-wireshark_thumb.jpg?imgmax=800" width="498" height="186" />](http://lh6.ggpht.com/-9aV28v7QKeE/T6AAwYJocTI/AAAAAAAAFzA/QhCB90oXQAw/s1600-h/ip2info-wireshark%25255B3%25255D.jpg) 
 

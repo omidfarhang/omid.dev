@@ -13,9 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S79Zn7E6fUI/AAAAAAAAB2o/_jxsg6lKSiE/s1600/iphone-os-40-top.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S79Zn7E6fUI/AAAAAAAAB2o/_jxsg6lKSiE/s1600/iphone-os-40-top.jpg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79Zn7E6fUI/AAAAAAAAB2o/_jxsg6lKSiE/s1600/iphone-os-40-top.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79Zn7E6fUI/AAAAAAAAB2o/_jxsg6lKSiE/s1600/iphone-os-40-top.jpg)
 
 One of the finer points Steve Jobs let loose at the end of the iPhone OS 4.0 announcement today is that only the iPhone 3GS and iPod touch third generation (the most recent iteration from fall 2009) will have the capacity to support the iPhone OS 4.0’s new multitasking features.
 

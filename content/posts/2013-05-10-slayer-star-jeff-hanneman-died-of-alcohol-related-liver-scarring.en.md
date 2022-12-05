@@ -17,15 +17,15 @@ category: entblog
 
 Hanneman, a founder of the band, which was known for its fast tempo, dark themes and pounding drums, died last week at age 49 in Southern California after suffering liver failure.
 
-The band issued the statement on Thursday clarifying the cause of Hanneman's death following speculation that necrotizing fasciitis, a rare flesh-eating infection he believed he had contracted in 2011 through a spider bite, contributed to the &#8220;Raining Blood&#8221; guitarist's death.
+The band issued the statement on Thursday clarifying the cause of Hanneman's death following speculation that necrotizing fasciitis, a rare flesh-eating infection he believed he had contracted in 2011 through a spider bite, contributed to the “Raining Blood” guitarist's death.
 
-&#8220;While he had his health struggles over the years, including the recent necrotizing fasciitis infection that devastated his well-being, Jeff and those close to him were not aware of the true extent of his liver condition until the last days of his life,&#8221; the band said in a statement posted on its website.
+“While he had his health struggles over the years, including the recent necrotizing fasciitis infection that devastated his well-being, Jeff and those close to him were not aware of the true extent of his liver condition until the last days of his life,” the band said in a statement posted on its website.
 
 The band said Hanneman was never on a list waiting for a liver transplant and his health had appeared to be improving recently as the band readied to work on a new album.
 
-Slayer, which Hanneman founded with fellow guitarist Kerry King in the early 1980s, was known as one of the &#8220;big four&#8221; thrash metal groups of the decade, along with Anthrax, Megadeth and Metallica.
+Slayer, which Hanneman founded with fellow guitarist Kerry King in the early 1980s, was known as one of the “big four” thrash metal groups of the decade, along with Anthrax, Megadeth and Metallica.
 
-Hanneman wrote many of the best known songs, including &#8220;Angel of Death&#8221; on Slayer's landmark 1986 album &#8220;Reign of Blood.&#8221;
+Hanneman wrote many of the best known songs, including “Angel of Death” on Slayer's landmark 1986 album “Reign of Blood.”
 
 (Reporting by Eric Kelsey; Editing by Jill Serjeant and Bill Trott)
 

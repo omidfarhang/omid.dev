@@ -14,13 +14,13 @@ category: techblog
 ---
 [<img title="main-google-sydney" border="0" alt="main-google-sydney" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TOlsvLbnKFI/AAAAAAAADL8/3s_GLpxljXI/main-google-sydney_thumb.jpg?imgmax=800" width="292" height="196" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TOlssb5-h2I/AAAAAAAADL4/C-bNBJDF4to/s1600-h/main-google-sydney%5B2%5D.jpg)**Reuters**: Google Inc plans to hire more than 2,000 people around the globe, bumping up its workforce as it expands into new markets and battles for talent with faster-growing rivals.
 
-The world's largest Internet search engine, whose finance chief told investors in September that the Internet industry was waging a &#8220;war for talent,&#8221; has job openings listed for 2,076 positions on its website, according to a Reuters tally on Thursday.
+The world's largest Internet search engine, whose finance chief told investors in September that the Internet industry was waging a “war for talent,” has job openings listed for 2,076 positions on its website, according to a Reuters tally on Thursday.
 
 The number of job openings is up nearly six-fold from a similar tally of job listings page conducted in March 2009.
 
 The hiring spree is taking place alongside a string of more than 20 acquisitions this year that have already helped swell Google's ranks to more than 23,300 employees at the end of September, up nearly 18 percent since the beginning of the year.
 
-&#8220;We've been ramping up our hiring and the number of open jobs over the course of the last year,&#8221; Google spokesman Jordan Newman said.
+“We've been ramping up our hiring and the number of open jobs over the course of the last year,” Google spokesman Jordan Newman said.
 
 He would not comment on the exact number of openings, but said the jobs listings Web page was completely up to date and is monitored very carefully.
 
@@ -36,6 +36,6 @@ The job listings provide a window into the breadth of its vast operations across
 
 The company, which has also faced increasing regulatory scrutiny in recent years, has more than 50 legal job openings around the globe.
 
-And it lists more than 50 open positions in China, including an Events Manager tasked with raising &#8220;awareness and usage&#8221; of Google products in the country, as well as a half-dozen recruiters.
+And it lists more than 50 open positions in China, including an Events Manager tasked with raising “awareness and usage” of Google products in the country, as well as a half-dozen recruiters.
 
 That expansion comes about a year after Google relocated its Web search engine to Hong Kong, following a very public spat with the Chinese government over its refusal to bow to Beijing's Web censorship requirements.

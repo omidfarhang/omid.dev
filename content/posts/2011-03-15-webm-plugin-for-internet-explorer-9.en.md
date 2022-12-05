@@ -15,7 +15,7 @@ category: techblog
 ---
 Google Operation System: [Internet Explorer 9](http://windows.microsoft.com/en-US/internet-explorer/products/ie-9/home) will be released later today and one of the many new features is the native support for videos. Unfortunately for Google, Microsoft decided to only support H.264 videos by default, so you can't watch WebM videos without installing additional software.
 
-To solve this problem, Google developed a [WebM plugin for IE9](http://tools.google.com/dlpage/webmmf). &#8220;They said elephants couldn't ride flying dolphins. They said that one of the world's most popular browsers couldn't play WebM video in HTML5. They were wrong,&#8221; mentions Google half-jokingly.
+To solve this problem, Google developed a [WebM plugin for IE9](http://tools.google.com/dlpage/webmmf). “They said elephants couldn't ride flying dolphins. They said that one of the world's most popular browsers couldn't play WebM video in HTML5. They were wrong,” mentions Google half-jokingly.
 
 The plugin only works on Windows 7 and Windows Vista, the two operating systems supported by IE9. Google suggests to [search for WebM videos on YouTube](http://www.webmproject.org/users/#playing_on_youtube), but I'm not sure if the plugin was really necessary since YouTube's HTML5 player also works with H.264 videos.
 

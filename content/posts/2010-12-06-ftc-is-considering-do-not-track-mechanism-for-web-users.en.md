@@ -22,7 +22,7 @@ The report also said industry efforts to guard users’ privacy through self-reg
 
 _“Although many companies use privacy policies to explain their information practices, the policies have become long, legalistic disclosures that consumers usually don’t read and don’t understand if they do. Current privacy policies force consumers to bear too much burden in protecting their privacy.”  
 _  
-The FTC report recommended that companies should have a &#8220;privacy by design&#8221; approach and build privacy protections into everyday business practices including:
+The FTC report recommended that companies should have a “privacy by design” approach and build privacy protections into everyday business practices including:
 
 &#8212; reasonable security for consumer data  
 &#8212; limited data collection and retention  

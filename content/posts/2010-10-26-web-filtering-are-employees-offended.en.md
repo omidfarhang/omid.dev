@@ -15,7 +15,7 @@ Paul Mah, on the ITBusiness Edge blog, reported on GFI’s September survey of w
 
 Web filtering is put in place primarily to improve network security, but another big reason is to stop the loss of productivity, he said. Employees however can be offended by the implied lack of trust.
 
-One of Mah’s readers said he dutifully “practices self-censorship to enhance personal productivity.” Another, however, asked: &#8220;What makes you think your employees are productive now? A slacker will always find a way to slack around.&#8221;
+One of Mah’s readers said he dutifully “practices self-censorship to enhance personal productivity.” Another, however, asked: “What makes you think your employees are productive now? A slacker will always find a way to slack around.”
 
 GFI’s survey last year found that 47 percent of U.S. SMEs had the means to monitor or filter HTTP traffic. The GFI survey released in September (631 respondents), showed an increase in the number monitoring or filtering HTTP traffic (69.9 percent).
 

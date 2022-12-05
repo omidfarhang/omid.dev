@@ -20,19 +20,19 @@ Files included copies of income tax returns, health information gathered in a la
 
 While some documents are harder to retrieve than others — and require a full forensics search of the hard drives — others can be called up quickly and easily, Juntunen said.
 
-&#8220;Sometimes it's as easy as walking up to a machine, pushing a couple of buttons and pulling up documents that were stored on the hard drive,&#8221; he said.
+“Sometimes it's as easy as walking up to a machine, pushing a couple of buttons and pulling up documents that were stored on the hard drive,” he said.
 
 He also noted there appeared to be no attempt to clear the drives before they were sold.
 
-&#8220;The job logs were still intact, the IP addresses were still intact, so we saw no effort of cleaning the machine at all,&#8221; Juntunen said.
+“The job logs were still intact, the IP addresses were still intact, so we saw no effort of cleaning the machine at all,” Juntunen said.
 
 The only way to definitively protect against a security breach would be to destroy the hard drives, he said.
 
-&#8220;You can't run a program that will clear a hard drive to 100 per cent,&#8221; he said. &#8220;There's still magnetic residue on the hard drive that is recoverable, although it would take a lot of time and a lot of money to be able to recover that information.&#8221;
+“You can't run a program that will clear a hard drive to 100 per cent,” he said. “There's still magnetic residue on the hard drive that is recoverable, although it would take a lot of time and a lot of money to be able to recover that information.”
 
 Mail Boxes Etc. Canada, the franchiser of UPS stores in Canada, says its franchises were instructed in April to scrutinize photocopier security. Franchises that are leasing copy machines have been instructed to wipe the hard drives before returning them, said Steve Moorman, the company's executive vice president of operations.
 
-&#8220;The security and privacy of our customers’ information is a top priority for us,&#8221; Moorman said. &#8220;We focus on this because it’s important to us not only as franchise owners or individual franchisees.&#8221;
+“The security and privacy of our customers’ information is a top priority for us,” Moorman said. “We focus on this because it’s important to us not only as franchise owners or individual franchisees.”
 
 He also said in the company hasn't had security breach in its 22-year company history.
 
@@ -42,6 +42,6 @@ The scope of the potential security problem in Canada is largely unknown. The of
 
 Brian Bowman, a business lawyer specializing in privacy and technology matters in Winnipeg, says many companies have yet to understand the security risk that photocopiers pose.
 
-&#8220;If it's your organization that's affected, and it's confidential corporate information, or it's information that's supposed to be regulated by privacy legislation, you've got issues,&#8221; Bowman said. &#8220;I do think it's a prolific problem, and it's something that many, many organizations are just totally unaware, and need to pay attention to this.&#8221;
+“If it's your organization that's affected, and it's confidential corporate information, or it's information that's supposed to be regulated by privacy legislation, you've got issues,” Bowman said. “I do think it's a prolific problem, and it's something that many, many organizations are just totally unaware, and need to pay attention to this.”
 
 Identity theft in Canada continues to increase. In 2009, the Canadian Anti-Fraud Centre said it fielded identity fraud reports from 11,095 Canadian victims. Losses totaled more than $10 million, representing an increase of more than $1 million from the previous year.

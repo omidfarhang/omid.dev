@@ -26,11 +26,11 @@ Messages like the following are being seen:
 
 Probably not the type of message you would typically click on from your office computer, but maybe a young teenybopping music fan in your household would find the subject matter irresistible to investigate further.
 
-And if they do click on the link they are taken to a Facebook page with the message &#8220;Justin Bieber gets a boner in Public !!!&#8221;, and an invitation to &#8220;Click to watch&#8221; a video.
+And if they do click on the link they are taken to a Facebook page with the message “Justin Bieber gets a boner in Public !!!”, and an invitation to “Click to watch” a video.
 
 [<img title="bieber-2" border="0" alt="bieber-2" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO01Vv81lXI/AAAAAAAADN0/B6GiXaPMFWM/bieber-2_thumb.jpg?imgmax=800" width="498" height="373" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TO01Tn6RXmI/AAAAAAAADNw/QsD1SHUR_XY/s1600-h/bieber-2%5B2%5D.jpg)
 
-The page contains a graphic claiming that the application is a &#8220;Facebook verified app&#8221; (which seems unlikely given the subject matter).
+The page contains a graphic claiming that the application is a “Facebook verified app” (which seems unlikely given the subject matter).
 
 Would young female fans of Justin Bieber be likely to go further &#8211; I suspect so..
 
@@ -38,7 +38,7 @@ Would young female fans of Justin Bieber be likely to go further &#8211; I suspe
 
 As is normal in scams like this on Facebook, you are then presented with a message from Facebook asking you to confirm that you are happy for the third party application to have all sorts of access to your Facebook account &#8211; including the ability to post messages to your wall.
 
-This is your last chance to be sensible, and not put your account at risk. Unfortunately far too many people are tricked by social engineering to give suspicious third party apps like this full reign to mess around with their Facebook accounts. If they're not using the modern day equivalent of David Cassidy to lure users into granting permission, they're pretending to be new Facebook functionality like &#8220;Dislike&#8221; buttons, or pretending to be free tickets with an airline.
+This is your last chance to be sensible, and not put your account at risk. Unfortunately far too many people are tricked by social engineering to give suspicious third party apps like this full reign to mess around with their Facebook accounts. If they're not using the modern day equivalent of David Cassidy to lure users into granting permission, they're pretending to be new Facebook functionality like “Dislike” buttons, or pretending to be free tickets with an airline.
 
 But if you do make the mistake of clicking further, then you will find that you are not watching a video of Bieber having trouser trouble, but instead being asked to take a survey.
 

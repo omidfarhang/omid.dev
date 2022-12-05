@@ -19,12 +19,12 @@ This update has an size of round about 7.6 MB and needs a system restart after t
 
 The SP1 brings you the following improvements beside others:
 
-  * New scanner profile &#8220;Scan for active rootkits and malware&#8221;
+  * New scanner profile “Scan for active rootkits and malware”
   * No avgntflt timeouts because of activated / deactivated ProActive anymore
   * No ProActive warnings anymore because of several actions
   * Outgoing emails are not discarded anymore under certain circumstances and T-Online
   * Firewall application rules are not lost under Windows 2000 anymore
-  * Fixed crash in AntiVir Scanner &#8220;Luke Filewalker&#8221;
+  * Fixed crash in AntiVir Scanner “Luke Filewalker”
   * Correction of resource consumption in Firewall application
   * Correction of MailGuard connected to IMAP
   * Correction of MailGuard for use with Thunderbird 3.1

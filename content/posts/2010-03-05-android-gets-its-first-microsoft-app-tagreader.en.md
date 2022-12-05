@@ -19,7 +19,7 @@ category: techblog
 
 Barcode and [QR code](http://en.wikipedia.org/wiki/QR_Code) reader applications are now standard fare for smartphones and can be commonly found for free in any of the major app stores. But far less common are comprehensive services that let users make their own QR codes for free.
 
-This is why Microsoft's TagReader, which was released in the Android Market today, is worth checking out. It's similar to any number of barcode scanners available on the Android platform, except that it is designed to read Microsoft's unique &#8220;Tags.&#8221;
+This is why Microsoft's TagReader, which was released in the Android Market today, is worth checking out. It's similar to any number of barcode scanners available on the Android platform, except that it is designed to read Microsoft's unique “Tags.”
 
 [Microsoft Tag](http://tag.microsoft.com/) is currently in beta, and lets Windows Live users create unique optical codes that Microsoft calls HCCBs (High Capacity Color Barcodes) &#8212; such as the one pictured above &#8212; which link to Web-based content when scanned by a mobile phone's camera.
 

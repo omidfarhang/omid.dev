@@ -13,10 +13,10 @@ category: techblog
 
 All of the sites were reportedly outside the country and more will be clamped down this month, [XBIZ newswire reported Wednesday](http://newswire.xbiz.com/view.php?id=151402). However, this does not mean that such sites will be allowed to operate during the rest of the year, Indonesia's communication and information minister, Tifatul Sembiring said. 
 
-This measure is also in line Indonesia's electronic information and transaction law, and telecommunications law, which targets &#8220;negative content&#8221;&#8211;defined as porn, defamatory speech and malicious viruses&#8211;within the country, Sembiring noted. 
+This measure is also in line Indonesia's electronic information and transaction law, and telecommunications law, which targets “negative content”&#8211;defined as porn, defamatory speech and malicious viruses&#8211;within the country, Sembiring noted. 
 
 He also called on the public's assistance to block the Internet's two billion porn sites, many of which can still be accessed despite the blockage. 
 
-&#8220;Online pornography is an industry and the producers always seem to find new ways of escaping detection,&#8221; the minister said. “We cannot check one by one, so we hope people will actively report to the Communication and Information minister if they find a link to a negative website.” 
+“Online pornography is an industry and the producers always seem to find new ways of escaping detection,” the minister said. “We cannot check one by one, so we hope people will actively report to the Communication and Information minister if they find a link to a negative website.” 
 
 The move is the latest in a series of of measures taken against porn in the country. Last February, the minister had [blocked another one million sites to weed out adult content](http://newswire.xbiz.com/view.php?id=143972), a separate report on XBIZ newswire said. Early last year, Research in Motion told ZDNet Asia that it was working with local carriers and the Indonesian government in efforts to [implement porn blockers on its BlackBerry services](http://www.zdnet.com/rim-promises-to-set-up-filters-in-indonesia-2062205540/).

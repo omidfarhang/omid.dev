@@ -18,7 +18,7 @@ category: techblog
 ---
 In the Pwn2Own hacking contest at the CanSecWest security conference in Vancouver, Canada, security researchers and hackers quickly hacked three of the major browsers to take control of the underline operating systems.
 
-&#8212; A German hacker who goes by the handle &#8220;Nils&#8221; used a previously unknown vulnerability in Mozilla’s Firefox to gain control of a 64-bit Windows 7 machine.
+&#8212; A German hacker who goes by the handle “Nils” used a previously unknown vulnerability in Mozilla’s Firefox to gain control of a 64-bit Windows 7 machine.
 
 &#8212; Peter Vreugdenhil an independent researcher from the Netherlands, used several vulnerabilities in Internet Explorer to take control of a machine running a patched 64-bit Windows 7 implementation.
 
@@ -36,6 +36,6 @@ More details in Computerworld story [here](http://www.computerworld.com/s/articl
 
 This is a very high-profile event that helps focus the world’s attention on security vulnerabilities without anyone losing their banking logins, credit card numbers or account balance. The big lesson this year is that all browsers have vulnerabilities that can be exploited by malicious web sites and are often the way in to an operating system. Web users would be well advised to keep alert for updates no matter which one they use.
 
-Various commentators are foaming at the mouth about Windows 7 weaknesses (&#8220;a FULLY PATCHED 64 bit Windows 7 installation!&#8221;), a Mac being hacked (&#8220;see, enterprises shouldn't rely on the security of OS X!&#8221;) and the fact that Ubuntu Linux was NOT hacked (&#8220;aw, they just didn't give them enough time!&#8221;)
+Various commentators are foaming at the mouth about Windows 7 weaknesses (“a FULLY PATCHED 64 bit Windows 7 installation!”), a Mac being hacked (“see, enterprises shouldn't rely on the security of OS X!”) and the fact that Ubuntu Linux was NOT hacked (“aw, they just didn't give them enough time!”)
 
 It's a passion thing: love me, love my OS.

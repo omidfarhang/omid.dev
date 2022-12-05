@@ -14,11 +14,11 @@ category: techblog
 ---
 Facebook CEO, Mark Zuckerberg, has announced on their blog that the site [will soon be offering new features and controls](http://blog.facebook.com/blog.php?post=434691727130). The features include New Facebook Groups, a Dashboard for Applications, and the ability to Download Your Information.
 
-#1 — Why the &#8220;new&#8221; Groups? According to Zuckerberg, people frequently tell them:
+#1 — Why the “new” Groups? According to Zuckerberg, people frequently tell them:
 
-&#8220;I'd share this thing, but I don't want to bother 250 people. Or my grandmother. Or my boss.&#8221;
+“I'd share this thing, but I don't want to bother 250 people. Or my grandmother. Or my boss.”
 
-Now we thought that's what Friends Lists are for… but then, even Zuckerberg has admitted that Friends Lists are too difficult for most people to effectively manage. So this &#8220;completely overhauled, brand new version of Groups&#8221; is really mostly the same old Groups that we've been using since early 2009, with some PR spin.
+Now we thought that's what Friends Lists are for… but then, even Zuckerberg has admitted that Friends Lists are too difficult for most people to effectively manage. So this “completely overhauled, brand new version of Groups” is really mostly the same old Groups that we've been using since early 2009, with some PR spin.
 
 While we kind of like the idea of simplified Groups, we don't expect they'll be any easier to manage.
 

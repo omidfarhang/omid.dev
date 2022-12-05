@@ -18,7 +18,7 @@ category: entblog
   </p>
   
   <p>
-    Known for blending traditional Jewish themes with Reggae, rock and hip hop sounds, Matisyahu is most recognizable for his single &#8220;King Without a Crown&#8221;, which was a surprise Top 40 hit, and for being an orthodox Jew. Since 2004, he has released two studio albums as well as one live album, two remix CDs and one DVD featuring a live concert, and a number of interviews. Through his short career, Matisyahu has teamed up with some of the biggest names in reggae production including Bill Laswell and duo Sly & Robbie.
+    Known for blending traditional Jewish themes with Reggae, rock and hip hop sounds, Matisyahu is most recognizable for his single “King Without a Crown”, which was a surprise Top 40 hit, and for being an orthodox Jew. Since 2004, he has released two studio albums as well as one live album, two remix CDs and one DVD featuring a live concert, and a number of interviews. Through his short career, Matisyahu has teamed up with some of the biggest names in reggae production including Bill Laswell and duo Sly & Robbie.
   </p>
   
   <p>
@@ -34,7 +34,7 @@ category: entblog
   </h5>
   
   <p>
-    <a href="/images/2010/09/matisyahu1235b35d.jpg" rel="WLPP"><img style="float: right; margin-left: 0; display: inline; margin-right: 0; border-width: 0;" title="matisyahu123" src="/images/2010/09/matisyahu1235b35d.jpg?w=300" alt="matisyahu123" width="244" height="197" align="right" border="0" /></a> Matisyahu was born in West Chester, Pennsylvania; his family eventually settled in White Plains, New York. He was brought up a Reconstructionist Jew and sometimes performed under the alias MC Truth for MC Mystic's Soulfari band. He spent some time as a young man as a self-professed &#8220;deadhead,&#8221; taking hallucinogens and following the rock band Phish on tour.
+    <a href="/images/2010/09/matisyahu1235b35d.jpg" rel="WLPP"><img style="float: right; margin-left: 0; display: inline; margin-right: 0; border-width: 0;" title="matisyahu123" src="/images/2010/09/matisyahu1235b35d.jpg?w=300" alt="matisyahu123" width="244" height="197" align="right" border="0" /></a> Matisyahu was born in West Chester, Pennsylvania; his family eventually settled in White Plains, New York. He was brought up a Reconstructionist Jew and sometimes performed under the alias MC Truth for MC Mystic's Soulfari band. He spent some time as a young man as a self-professed “deadhead,” taking hallucinogens and following the rock band Phish on tour.
   </p>
   
   <p>
@@ -42,7 +42,7 @@ category: entblog
   </p>
   
   <p>
-    From 2001 through most of his early career until July 2007, Matisyahu was a member of the Chabad-Lubavitch Hasidic community in Crown Heights, Brooklyn, New York. However, as of 17 July 2007, he told the <i>Miami New Times</i> in an interview that he no longer &#8220;necessarily&#8221; identifies with the Lubavitch movement. In the interview, he stated that &#8220;&#8230;the more I'm learning about other types of Jews, I don't want to exclude myself. I felt boxed in.&#8221; Additionally in the autumn of 2007 while on a family vacation spent primarily in Jerusalem's Nachlaot neighborhood he has expressed interest in another Hasidic sect, that of Karlin. As of November 2007 he has confirmed a preference to pray at the Karliner synagogue in Boro Park where the custom is to ecstatically scream prayers; however he continues to reside in Crown Heights because of his wife's affinity for the community.
+    From 2001 through most of his early career until July 2007, Matisyahu was a member of the Chabad-Lubavitch Hasidic community in Crown Heights, Brooklyn, New York. However, as of 17 July 2007, he told the <i>Miami New Times</i> in an interview that he no longer “necessarily” identifies with the Lubavitch movement. In the interview, he stated that “&#8230;the more I'm learning about other types of Jews, I don't want to exclude myself. I felt boxed in.” Additionally in the autumn of 2007 while on a family vacation spent primarily in Jerusalem's Nachlaot neighborhood he has expressed interest in another Hasidic sect, that of Karlin. As of November 2007 he has confirmed a preference to pray at the Karliner synagogue in Boro Park where the custom is to ecstatically scream prayers; however he continues to reside in Crown Heights because of his wife's affinity for the community.
   </p>
   
   <p>
@@ -66,7 +66,7 @@ category: entblog
   </p>
   
   <p>
-    Throughout 2005 and 2006, Matisyahu toured extensively in the United States, Canada and Europe; and made a number of stops in Israel, including a performance as the supporting act for Sting in June 2006. In late 2006, Matisyahu released <i>No Place to Be</i>, a remix album featuring re-recordings and remixes of songs from all three of his earlier albums, as well as a cover of &#8220;Message in a Bottle&#8221; by The Police.
+    Throughout 2005 and 2006, Matisyahu toured extensively in the United States, Canada and Europe; and made a number of stops in Israel, including a performance as the supporting act for Sting in June 2006. In late 2006, Matisyahu released <i>No Place to Be</i>, a remix album featuring re-recordings and remixes of songs from all three of his earlier albums, as well as a cover of “Message in a Bottle” by The Police.
   </p>
   
   <p>
@@ -78,7 +78,7 @@ category: entblog
   </p>
   
   <p>
-    In January 2007, Matisyahu performed in an impromptu concert at the Park City Film Music Festival in Park City, Utah, while in Park City for the Slamdance Film Festival. Matisyahu's music is part of the winning documentary film &#8220;Unsettled&#8221; which won at the 2007 Slamdance Film Festival.
+    In January 2007, Matisyahu performed in an impromptu concert at the Park City Film Music Festival in Park City, Utah, while in Park City for the Slamdance Film Festival. Matisyahu's music is part of the winning documentary film “Unsettled” which won at the 2007 Slamdance Film Festival.
   </p>
   
   <p>
@@ -94,11 +94,11 @@ category: entblog
   </p>
   
   <p>
-    In a 2008 rockumentary, Call+Response, headed by Justin Dillon, Matisyahu performed &#8220;Indestructible&#8221; and &#8220;Redemption Song&#8221; in support of the film's cause: a movement against current slavery and human trafficking.
+    In a 2008 rockumentary, Call+Response, headed by Justin Dillon, Matisyahu performed “Indestructible” and “Redemption Song” in support of the film's cause: a movement against current slavery and human trafficking.
   </p>
   
   <p>
-    Matisyahu has planns to release his new album, &#8220;LIGHT&#8221; April, 21 2009.
+    Matisyahu has planns to release his new album, “LIGHT” April, 21 2009.
   </p>
   
   <h4>
@@ -114,11 +114,11 @@ category: entblog
   </p>
   
   <p>
-    However, he mixes in contemporary stylings of rap and beatboxing, similar to Sublime, as well as the traditional Hazzan style of Jewish cantors and Hasidic nigunim. The generally critical <i>New York Times</i>&#8216; Kelefa Sanneh notes that &#8220;His sound owes a lot to early dancehall reggae stars like Barrington Levy and Eek-a-Mouse.&#8221; The <i>Chicago Tribune'</i>s Kevin Pang has described a Matisyahu performance as &#8220;soul-shaking brand of dancehall reggae, a show that captures both the jam band vibe of Phish and the ska-punk of Sublime.&#8221; Reviewers generally agree that Matisyahu may disappoint reggae purists, but acknowledge the unique blend of musical traditions that Matisyahu harnesses generally please the people who see his performances. Matisyahu's style has been compared to <i>Jew da Maccabi</i>, an Orthodox Jew from Florida who includes religious lyrics within a musical style derived from hip-hop. Matisyahu's style has also been compared to Jordan Chaviv, an Orthodox Jew from Canada whose lyrics are also inspired by Jewish teachings.
+    However, he mixes in contemporary stylings of rap and beatboxing, similar to Sublime, as well as the traditional Hazzan style of Jewish cantors and Hasidic nigunim. The generally critical <i>New York Times</i>&#8216; Kelefa Sanneh notes that “His sound owes a lot to early dancehall reggae stars like Barrington Levy and Eek-a-Mouse.” The <i>Chicago Tribune'</i>s Kevin Pang has described a Matisyahu performance as “soul-shaking brand of dancehall reggae, a show that captures both the jam band vibe of Phish and the ska-punk of Sublime.” Reviewers generally agree that Matisyahu may disappoint reggae purists, but acknowledge the unique blend of musical traditions that Matisyahu harnesses generally please the people who see his performances. Matisyahu's style has been compared to <i>Jew da Maccabi</i>, an Orthodox Jew from Florida who includes religious lyrics within a musical style derived from hip-hop. Matisyahu's style has also been compared to Jordan Chaviv, an Orthodox Jew from Canada whose lyrics are also inspired by Jewish teachings.
   </p>
   
   <p>
-    Matisyahu has stated that &#8220;All of my songs are influenced and inspired by the teachings that inspire me. I want my music to have meaning, to be able to touch people and make them think. Chasidism teaches that music is &#8216;the quill of the soul.' Music taps into a very deep place and speaks to us in a way that regular words can't.&#8221;
+    Matisyahu has stated that “All of my songs are influenced and inspired by the teachings that inspire me. I want my music to have meaning, to be able to touch people and make them think. Chasidism teaches that music is &#8216;the quill of the soul.' Music taps into a very deep place and speaks to us in a way that regular words can't.”
   </p>
   
   <h4>
@@ -130,7 +130,7 @@ category: entblog
   </p>
   
   <p>
-    Matisyahu Miller explained the origin of his personal use of the name in an interview in <i>Kosher Spirit Magazine</i> (a publication by OK Kosher Certification) as follows: His full secular name is Matthew Paul Miller, and the legal Hebrew name he received at his brit milah (circumcision ceremony) at eight days of age was forgotten. In Hebrew school it was assumed to be Matisyahu because of the connection between Matthew and Matisyahu. The original certificate from the brit was later located and he discovered that the actual name given at the brit was the Yiddish name &#8220;Feivish Hershel&#8221;. He was advised by his rabbis to continue using the Hebrew name that he had grown up with.
+    Matisyahu Miller explained the origin of his personal use of the name in an interview in <i>Kosher Spirit Magazine</i> (a publication by OK Kosher Certification) as follows: His full secular name is Matthew Paul Miller, and the legal Hebrew name he received at his brit milah (circumcision ceremony) at eight days of age was forgotten. In Hebrew school it was assumed to be Matisyahu because of the connection between Matthew and Matisyahu. The original certificate from the brit was later located and he discovered that the actual name given at the brit was the Yiddish name “Feivish Hershel”. He was advised by his rabbis to continue using the Hebrew name that he had grown up with.
   </p>
   
   <h4>
@@ -421,7 +421,7 @@ category: entblog
       </td>
       
       <td valign="top" width="196">
-        &#8220;King without a Crown&#8221;
+        “King without a Crown”
       </td>
       
       <td valign="top" width="196">
@@ -435,7 +435,7 @@ category: entblog
       </td>
       
       <td valign="top" width="196">
-        &#8220;Youth&#8221;
+        “Youth”
       </td>
       
       <td valign="top" width="196">
@@ -449,7 +449,7 @@ category: entblog
       </td>
       
       <td valign="top" width="196">
-        &#8220;Jerusalem (Out of the Darkness Comes Light)&#8221;<br /> (new version with Sly & Robbie)
+        “Jerusalem (Out of the Darkness Comes Light)”<br /> (new version with Sly & Robbie)
       </td>
       
       <td valign="top" width="196">
@@ -524,16 +524,16 @@ category: entblog
   
   <ul>
     <li>
-      Performed &#8220;Love Song&#8221; with 311 on many tour dates during 311's summer tour entitled the &#8220;Unity Tour&#8221; adding a verse of reggae based on the song &#8220;Jerusalem&#8221;,&#8221;Aish Tamid&#8221; or &#8220;Heights&#8221;.
+      Performed “Love Song” with 311 on many tour dates during 311's summer tour entitled the “Unity Tour” adding a verse of reggae based on the song “Jerusalem”,”Aish Tamid” or “Heights”.
     </li>
     <li>
-      Co-Wrote the song &#8220;Away with This&#8221; with Joseph Israel and performed it live on both 2/19/2005 in Austin, Texas at Stubb's and again on 12/8/2007 in Brooklyn, New York at the Warsaw Theater.
+      Co-Wrote the song “Away with This” with Joseph Israel and performed it live on both 2/19/2005 in Austin, Texas at Stubb's and again on 12/8/2007 in Brooklyn, New York at the Warsaw Theater.
     </li>
     <li>
       Performed live with Infected Mushroom at Virgin Music Festival 2007 &#8211; Baltimore USA YouTube Video of event
     </li>
     <li>
-      Performed &#8220;Indestructible,&#8221; &#8220;Time of Your Song,&#8221; &#8220;Dispatch the Troops,&#8221; and others live with Minnesota-based jam band group Wookiefoot at the &#8220;Ripple Effect&#8221; free concert on September 02, 2008 on the State Capitol lawn outside of the Republican National Convention in St. Paul, MN
+      Performed “Indestructible,” “Time of Your Song,” “Dispatch the Troops,” and others live with Minnesota-based jam band group Wookiefoot at the “Ripple Effect” free concert on September 02, 2008 on the State Capitol lawn outside of the Republican National Convention in St. Paul, MN
     </li>
   </ul>
   
@@ -543,22 +543,22 @@ category: entblog
   
   <ul>
     <li>
-      &#8220;Message in a Bottle&#8221; (The Police) &#8211; Album cover &#8211; Appears on his <i>No Place to Be</i> CD/DVD set
+      “Message in a Bottle” (The Police) &#8211; Album cover &#8211; Appears on his <i>No Place to Be</i> CD/DVD set
     </li>
     <li>
-      &#8220;Rastaman Chant&#8221; (Bob Marley) &#8211; Live cover
+      “Rastaman Chant” (Bob Marley) &#8211; Live cover
     </li>
     <li>
-      &#8220;Soul Rebel&#8221; (The Wailers) &#8211; Live a capella cover
+      “Soul Rebel” (The Wailers) &#8211; Live a capella cover
     </li>
     <li>
-      &#8220;Watching the Wheels&#8221; (John Lennon) &#8211; Album cover &#8211; Appears on <i>Instant Karma: The Amnesty International Campaign to Save Darfur</i>
+      “Watching the Wheels” (John Lennon) &#8211; Album cover &#8211; Appears on <i>Instant Karma: The Amnesty International Campaign to Save Darfur</i>
     </li>
     <li>
-      &#8220;Zion Train&#8221; (Bob Marley) &#8211; Live cover
+      “Zion Train” (Bob Marley) &#8211; Live cover
     </li>
     <li>
-      &#8220;Morning Dew&#8221; (Bonnie Dobson) &#8211; Live Cover
+      “Morning Dew” (Bonnie Dobson) &#8211; Live Cover
     </li>
   </ul>
   
@@ -659,7 +659,7 @@ category: entblog
   
   <ul>
     <li>
-      2006 <i>Esquire's</i> Esky Music Awards &#8211; Most Lovable Oddball in The magazine called him &#8220;the most intriguing reggae artist in the world.&#8221;
+      2006 <i>Esquire's</i> Esky Music Awards &#8211; Most Lovable Oddball in The magazine called him “the most intriguing reggae artist in the world.”
     </li>
   </ul>
   
@@ -687,10 +687,10 @@ category: entblog
   
   <ol>
     <li>
-      <a href="http://today.reuters.com/news/articlenews.aspx?type=musicNews&storyID=2006-12-27T122224Z_01_N27320024_RTRIDST_0_MUSIC-REGGAE-DC.XML&WTmodLoc=EntNewsMusic_C1_[Feed]-2"><i>&#8220;Sean Paul, Matisyahu reggae's top acts in '06&#8221;</i></a> Todd Martens for Reuters.
+      <a href="http://today.reuters.com/news/articlenews.aspx?type=musicNews&storyID=2006-12-27T122224Z_01_N27320024_RTRIDST_0_MUSIC-REGGAE-DC.XML&WTmodLoc=EntNewsMusic_C1_[Feed]-2"><i>“Sean Paul, Matisyahu reggae's top acts in '06”</i></a> Todd Martens for Reuters.
     </li>
     <li>
-      <a href="http://www.thejewishweek.com/viewArticle/c41_a13239/News/Short_Takes.html">[1]</a><i>&#8220;Matisyahu: Clothes Horse, Diversity Poster Boy&#8221;</i> by Carolyn Slutsky for Jewish Week New York.
+      <a href="http://www.thejewishweek.com/viewArticle/c41_a13239/News/Short_Takes.html">[1]</a><i>“Matisyahu: Clothes Horse, Diversity Poster Boy”</i> by Carolyn Slutsky for Jewish Week New York.
     </li>
     <li>
       <a href="http://www.askmen.com/men/celeb_profiles_entertainment/32_matisyahu_.html">AskMen.com &#8211; Matisyahu Picture</a>
@@ -738,7 +738,7 @@ category: entblog
       <a href="http://travel2.nytimes.com/2006/03/08/arts/music/08mati.html">Matisyahu &#8211; Reggae Review &#8211; New York Times</a>
     </li>
     <li>
-      <a href="http://www.somethingjewish.co.uk/articles/1680_jew_da_maccabi.htm">Jew Da Maccabi</a>, Leslie Bunder. &#8220;Something Jewish&#8221; Dec. 19, 2005.
+      <a href="http://www.somethingjewish.co.uk/articles/1680_jew_da_maccabi.htm">Jew Da Maccabi</a>, Leslie Bunder. “Something Jewish” Dec. 19, 2005.
     </li>
     <li>
       <a href="http://www.jordanchaviv.com">Jordan Chaviv &#8211; Biography &#8211; Jordan Chaviv &#8211; Biography &#8211; Jewish RAP, Jewish Hip Hop, Jewish Soul, Jewish RnB &#8211; Baal Teshuva &#8211; Blue Fringe &#8211; Gad Elbaz &#8211; Matisyahu &#8211; Palestinian rap &#8211; Palestinian music &#8211; Israeli &#8211; Jerusalem &#8211; Israel</a>
@@ -828,7 +828,7 @@ category: entblog
       <a href="http://www.ynetnews.com/articles/0,7340,L-3328019,00.html">DVD: Matisyahu rocks the Holy Land</a>
     </li>
     <li>
-      <a href="http://www.printculture.com/item-1193.html">Matisyahu: &#8220;Youth&#8221;</a>, a review-essay by Said Shirazi
+      <a href="http://www.printculture.com/item-1193.html">Matisyahu: “Youth”</a>, a review-essay by Said Shirazi
     </li>
     <li>
       <a href="http://moshiach.ru/view/profile/689">Article about Matisyahu in Russian</a>

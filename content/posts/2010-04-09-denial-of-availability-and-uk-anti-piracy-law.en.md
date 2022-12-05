@@ -14,7 +14,7 @@ There could be a denial-of-availability risk to the enterprise in the new anti-p
 
 The law is aimed at repeat offenders, however, employee misuse of company resources or botnet takeovers of machines for use as file-trading servers are a significant threat. At minimum, unintentionally offenders will have some paperwork to deal with when their ISP lets them know they’re in violation.
 
-Recent measures to cut down on piracy have been horrendously controversial – to the point that a Pirate Party has begun a (disorganized) organizing effort in several countries. Somehow the argument that “all information wants to be free” doesn’t answer the question: “who’s going to pay for the creation of all that music, video and software?” And &#8220;oh, they charge too much anyway,” isn’t really a recognized legal concept.
+Recent measures to cut down on piracy have been horrendously controversial – to the point that a Pirate Party has begun a (disorganized) organizing effort in several countries. Somehow the argument that “all information wants to be free” doesn’t answer the question: “who’s going to pay for the creation of all that music, video and software?” And “oh, they charge too much anyway,” isn’t really a recognized legal concept.
 
 The Indian film industry, usually known as Bollywood, has been making a lot more films than its U.S. counterpart for decades but only makes a tiny fraction of the profit in large part because of world-wide piracy that began in the VCR days (You know, those pirated DVDs in every flea market and ethnic convenience store everywhere on Earth.)
 

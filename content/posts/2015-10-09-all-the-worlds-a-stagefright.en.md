@@ -19,12 +19,12 @@ category: techblog
 Here's how it works with Android.
 
   1. A researcher discovers a vulnerability.
-  2. Google says &#8220;la la la can't hear you&#8221; for a year or so.
+  2. Google says “la la la can't hear you” for a year or so.
   3. After lots of media coverage Google says it'll fix the hole.
   4. Google creates a fix and promises to bring it to the Nexus range in two or three months.
   5. Google gives the fix to manufacturers who say they'll roll it out at some point, maybe, when they get round to it.
   6. The manufacturers get round to it and submit their version to the phone networks, who say they'll totally bring it out at some point, oh yes siree!
   7. The vulnerability that the fix will eventually fix evolves so that the fix doesn't fix it any more.
-  8. Google says &#8220;la la la can't hear you&#8221;.
+  8. Google says “la la la can't hear you”.
 
 Read the whole story at: <a href="http://timesofindia.indiatimes.com/tech/tech-news/Google-has-lost-control-of-Android/articleshow/49284966.cms" target="_blank">The Times of India</a>

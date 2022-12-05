@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-**How does one say in French: &#8220;We're gonna make an example out of you, boy&#8221;**
+**How does one say in French: “We're gonna make an example out of you, boy”**
 
 The [Toronto Sun is reporting](http://www.torontosun.com/news/canada/2010/10/05/15595181.html) that convicted spammer Adam Guerbuez of Montreal has been ordered to pay $1 billion to Facebook by Quebec Superior Court. The court was upholding a U.S. Federal court fine that resulted from a wave of four million spam ads sent to Facebook users in 2008.
 

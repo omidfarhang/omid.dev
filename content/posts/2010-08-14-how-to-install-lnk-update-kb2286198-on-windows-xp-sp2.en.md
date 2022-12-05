@@ -23,7 +23,7 @@ But if you try to install the update on an SP2 system, you'll get this error mes
 
 [<img title="KB2286198_Setup_Error" border="0" alt="KB2286198_Setup_Error" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TGb4mUoEzKI/AAAAAAAACXM/p4WRvu3Z_UI/KB2286198_Setup_Error_thumb%5B3%5D.png?imgmax=800" width="445" height="143" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TGb4j609W2I/AAAAAAAACXI/h5WdK0AZM70/s1600-h/KB2286198_Setup_Error%5B5%5D.png) 
 
-&#8220;Setup has detected that the version of the Service Pack installed on your system is lower than what is necessary to apply this hotfix. At minimum, you must have Service Pack 2 installed.&#8221; 
+“Setup has detected that the version of the Service Pack installed on your system is lower than what is necessary to apply this hotfix. At minimum, you must have Service Pack 2 installed.” 
 
 This minimum requirement reminded us of some other software that required SP3… Grand Theft Auto IV. 
 

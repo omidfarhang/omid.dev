@@ -14,9 +14,9 @@ category: techblog
 ---
 [<img title="chrome_8" border="0" alt="chrome_8" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TLYSrZdGqlI/AAAAAAAACpg/mPMejgIaJwI/chrome_8_thumb%5B1%5D.png?imgmax=800" width="304" height="225" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TLYSpenSmWI/AAAAAAAACpc/r1qWMpYTEfk/s1600-h/chrome_8%5B3%5D.png)Windows/Mac/Linux: Chrome has hit version 8 in its Dev builds, adding more solid graphics acceleration to the web using your video hardware, along with a few new Labs features that herald the coming of Chrome OS.
 
-If you're using the Dev channel, open up a tab and type in `about:labs`. You'll notice features there to turn off outdated plug-ins, enable &#8220;Remoting&#8221; support for Chrome, turn on the very useful Google Instant in the Chrome Omnibar, and enable a few other useful features, including GPU acceleration of the HTML5 Canvas feature.
+If you're using the Dev channel, open up a tab and type in `about:labs`. You'll notice features there to turn off outdated plug-ins, enable “Remoting” support for Chrome, turn on the very useful Google Instant in the Chrome Omnibar, and enable a few other useful features, including GPU acceleration of the HTML5 Canvas feature.
 
-In the settings, you'll find a spot to sign in and manage your &#8220;Cloud Print&#8221; settings. It's the print-from-anywhere feature that Google has claimed as its solution to the Chrome OS &#8220;printing problem,&#8221; and it looks intriguing—even if you can't actually do anything from your web settings panel yet:
+In the settings, you'll find a spot to sign in and manage your “Cloud Print” settings. It's the print-from-anywhere feature that Google has claimed as its solution to the Chrome OS “printing problem,” and it looks intriguing—even if you can't actually do anything from your web settings panel yet:
 
 [<img title="google_print" border="0" alt="google_print" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TLYSuCM5TuI/AAAAAAAACpo/zWJpQjAcVTo/google_print_thumb%5B1%5D.png?imgmax=800" width="304" height="249" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TLYSshU9oxI/AAAAAAAACpk/EJbwgOU4pPg/s1600-h/google_print%5B3%5D.png)
 

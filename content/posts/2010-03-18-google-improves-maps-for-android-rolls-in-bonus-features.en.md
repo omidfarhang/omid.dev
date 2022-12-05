@@ -20,7 +20,7 @@ Google has rolled out a significant update to the Google Maps application for An
 
 Previously, when you performed a search in Maps, you would have to choose a result from a list of markers on the map. When you clicked the marker, it would open a page with three tabs: Address, Details, and Reviews. Under the Address tab, there were options to Show the result on the map, get directions to it, call it, look at it in Street View, or add it as a contact. The other two tabs contain exactly what you'd expect, details and reviews. If you wanted to pick a different listing, you'd have to go back to the map view and pick a different marker.
 
-Now, Google has completely eliminated the tabs, turned all the actions from the &#8220;Address&#8221; tab into buttons, included digested versions of the other tabs on the first page, and included the ability to &#8220;Buzz&#8221; about the location you have picked.
+Now, Google has completely eliminated the tabs, turned all the actions from the “Address” tab into buttons, included digested versions of the other tabs on the first page, and included the ability to “Buzz” about the location you have picked.
 
 Additionally, you no longer have to navigate back to the map to check out other nearby results. You can simply swipe across the page to leaf through all the results.
 

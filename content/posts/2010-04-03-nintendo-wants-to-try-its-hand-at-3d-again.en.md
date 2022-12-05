@@ -13,9 +13,9 @@ tags:
 lang: en
 category: techblog
 ---
-A very dodgy looking PDF file appeared on Nintendo's Japanese investor relations site with the title &#8220;Launch of New Portable Game Machine&#8221; ([PDF available here](http://www.nintendo.co.jp/ir/pdf/2010/100323e.pdf)).
+A very dodgy looking PDF file appeared on Nintendo's Japanese investor relations site with the title “Launch of New Portable Game Machine” ([PDF available here](http://www.nintendo.co.jp/ir/pdf/2010/100323e.pdf)).
 
-In the document, Nintendo quietly announced that it will be launching &#8220;Nintendo 3Ds&#8221; during the fiscal year ending in March 2011. The new handheld gaming console will support 3D effects without the need for special viewing glasses, and Nintendo will talk more about it at the E3 conference in June.
+In the document, Nintendo quietly announced that it will be launching “Nintendo 3Ds” during the fiscal year ending in March 2011. The new handheld gaming console will support 3D effects without the need for special viewing glasses, and Nintendo will talk more about it at the E3 conference in June.
 
 This comes as a rather big surprise today, as Nintendo only just recently launched the super-sized DSi LL (a.k.a., DSi XL) in Japan, and that device hasn't even been released in the United States yet.
 

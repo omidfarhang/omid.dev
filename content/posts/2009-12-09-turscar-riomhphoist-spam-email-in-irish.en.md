@@ -18,7 +18,7 @@ While the Irish translation is generally pretty good in this example, there are 
 
 **“le do thoil bain na scriosaidh nuair a thugann tú cuairt ar ár láithreán gréasáin.”**
 
-When translated by a fluent Irish speaker into English, it translates as &#8220;Please remove destroyers when you come on a visit to our website.&#8221; “Greasain” can also mean coverage—as in the case of a cell phone—but the structure of the sentence is incorrect, which indicates that it is a literal translation from English.
+When translated by a fluent Irish speaker into English, it translates as “Please remove destroyers when you come on a visit to our website.” “Greasain” can also mean coverage—as in the case of a cell phone—but the structure of the sentence is incorrect, which indicates that it is a literal translation from English.
 
 Coincidentally, this message translates perfectly using a popular online translator. These messages were also sent from free Web accounts. This is another example of how spammers are turning to free online tools, such as online translators, in order to target certain demographics—albeit a small group of people in this instance. This is also an example of how spam email (which currently accounts for over 80 percent of all email) is now truly a global problem. Another example is included below:
 

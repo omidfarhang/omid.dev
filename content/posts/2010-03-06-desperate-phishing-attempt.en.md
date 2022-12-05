@@ -17,4 +17,4 @@ Somebody is trying to pose as F-Secure. If you see an email like the one below, 
   <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5LaM09RpII/AAAAAAAABME/5wcORdkDdfY/s1600-h/f-secure.JPG" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5LaM09RpII/AAAAAAAABME/5wcORdkDdfY/s640/f-secure.JPG" /></a>
 </div>
 
-Before you ask: No, we've never heard of &#8220;F-Secure HTK4S anti-virus&#8221; either.
+Before you ask: No, we've never heard of “F-Secure HTK4S anti-virus” either.

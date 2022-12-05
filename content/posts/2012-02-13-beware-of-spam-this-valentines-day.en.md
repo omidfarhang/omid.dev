@@ -16,7 +16,7 @@ category: techblog
 ---
 **SophosLabs:** It's Valentine's Day tomorrow and the spammers are out in force to make the most of unwitting shoppers on the international day of love. 
 
-Looking to buy a present for someone this Valentine's Day? Ooh look what popped into my inbox, an email inviting me to buy my Valentine an \*ahem\* &#8220;romantic&#8221; gift. 
+Looking to buy a present for someone this Valentine's Day? Ooh look what popped into my inbox, an email inviting me to buy my Valentine an \*ahem\* “romantic” gift. 
 
 [<img title="valentine1" border="0" alt="valentine1" src="http://lh6.ggpht.com/-wW5KK8Di61A/TzlAu-pxRRI/AAAAAAAAEwg/9SezOevORXU/valentine1_thumb%25255B1%25255D.jpg?imgmax=800" width="504" height="460" />](http://lh5.ggpht.com/-VtmKQAPo44w/TzlAaMIHhbI/AAAAAAAAEwY/swJSyWA_Kqg/s1600-h/valentine1%25255B3%25255D.jpg) 
 

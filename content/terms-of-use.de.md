@@ -27,7 +27,7 @@ By accessing this web site, you are agreeing to be bound by these web site Terms
         remove any copyright or other proprietary notations from the materials; or
       </li>
       <li>
-        transfer the materials to another person or &#8220;mirror&#8221; the materials on any other server.
+        transfer the materials to another person or “mirror” the materials on any other server.
       </li>
     </ol>
   </li>
@@ -41,7 +41,7 @@ By accessing this web site, you are agreeing to be bound by these web site Terms
 
 <ol type="a">
   <li>
-    The materials on omid.dev's web site are provided &#8220;as is&#8221;. omid.dev makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, omid.dev does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+    The materials on omid.dev's web site are provided “as is”. omid.dev makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, omid.dev does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
   </li>
 </ol>
 

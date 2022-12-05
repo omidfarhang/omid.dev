@@ -23,7 +23,7 @@ However, these testaments to &#8216;Moore's law' will also broaden the technolog
 
 It is fortuitous then that, on the opening day, the trade body host &#8211; the GSM Association (GSMA) &#8211; released their [privacy enhancing standards](http://www.gsma.com/documents/privacy-design-guidelines-for-mobile-application-development/20008) for mobile application developers. 
 
-One of the main principles behind the guidelines is to ensure that new apps embody the concept of &#8220;Privacy by Design&#8221; (PbD). This seeks to ensure privacy-protective measures are a core part of the design process. 
+One of the main principles behind the guidelines is to ensure that new apps embody the concept of “Privacy by Design” (PbD). This seeks to ensure privacy-protective measures are a core part of the design process. 
 
 The GSMA states: 
 
@@ -46,7 +46,7 @@ Good ideas developed in the policy include suggestions like:
   1. Ensuring default settings are privacy-protective 
   2. Capture appropriate consent for targeted advertising and using location data 
   3. Give users control over repeat prompting about the use of their personal data (not just &#8216;one time consent') 
-  4. Ensure the user agrees to updates; don't do &#8220;silent/secret updates&#8221; in the background.
+  4. Ensure the user agrees to updates; don't do “silent/secret updates” in the background.
 
 This self-regulation strategy has gained some high profile supporters with<a>approval</a> from big mobile telcos including Vodafone, Orange and Deutsche Telekom at MWC12. 
 
@@ -56,9 +56,9 @@ However, it is clear there is a need for these guidelines. A few app privacy con
 
 At the start of the month social media iPhone apps Path and Hipster were [found](http://nakedsecurity.sophos.com/2012/02/08/apple-mobile-apps-path-and-hipster-and-leak-sensitive-data-without-notification/) to be uploading user address book information without permission. 
 
-Then it was Twitter who came under [fire](http://nakedsecurity.sophos.com/2012/02/16/twitter-tarnished-by-iphone-contact-scandal/) because language in their privacy policy was not explicit enough about their iPhone app's access of users' smartphone address books for their &#8220;Find Friends&#8221; service. 
+Then it was Twitter who came under [fire](http://nakedsecurity.sophos.com/2012/02/16/twitter-tarnished-by-iphone-contact-scandal/) because language in their privacy policy was not explicit enough about their iPhone app's access of users' smartphone address books for their “Find Friends” service. 
 
-Most recently, last week's Sunday Times alleged that Facebook's Android app has been reading SMS messages on smartphones. However, Facebook [disagreed](http://www.zdnet.com/blog/facebook/facebook-denies-it-is-reading-your-text-messages/9522) with the report, noting SMS read/write access has only been used for &#8220;very limited testing&#8221; and that the permission is covered in the Terms and Conditions. 
+Most recently, last week's Sunday Times alleged that Facebook's Android app has been reading SMS messages on smartphones. However, Facebook [disagreed](http://www.zdnet.com/blog/facebook/facebook-denies-it-is-reading-your-text-messages/9522) with the report, noting SMS read/write access has only been used for “very limited testing” and that the permission is covered in the Terms and Conditions. 
 
 This attempt by the GSMA to increase trust and transparency between users and app companies is to be welcomed. 
 

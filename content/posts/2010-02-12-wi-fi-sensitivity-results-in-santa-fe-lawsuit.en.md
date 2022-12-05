@@ -14,7 +14,7 @@ When you spend your day scouring the Internet (and my blog **😉** ) for news a
 
 Yahoo’s tech blog is carrying a story about a man in Santa Fe, New Mexico, who is suing because he has “electromagnetic sensitivity” and can’t live in his own home because of the radiation from his neighbor’s wi-fi network.
 
-He says in his suit that her cell phone, fluorescent lights and dimmer switches also cause &#8220;life-threatening reactions, which include heart arrhythmia.&#8221;
+He says in his suit that her cell phone, fluorescent lights and dimmer switches also cause “life-threatening reactions, which include heart arrhythmia.”
 
 I hope nobody tells him that people use Wi-fii to log onto to the Internet and everybody knows that’s full of viruses and bots. And there’s no frost in Santa Fe to kill the bots either.
 

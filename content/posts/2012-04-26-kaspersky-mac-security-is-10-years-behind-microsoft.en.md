@@ -19,9 +19,9 @@ Now Eugene Kaspersky, the CEO of security firm Kaspersky Lab, says Apple is head
 
 Speaking to Computer Business Review at Info Security 2012 show in London this week, Kaspersky said that when it comes to computer security, [Apple's Mac platform was a decade behind Microsoft](http://malware.cbronline.com/news/apple-10-years-behind-microsoft-on-security-kaspersky-250412)&#8216;s, and that it's got some things to learn from its rival. 
 
-&#8220;They will understand very soon that they have the same problems Microsoft had 10 or 12 years ago,&#8221; Kaspersky said in an interview. &#8220;They will have to make changes in terms of the cycle of updates and so on and will be forced to invest more into their security audits for the software.&#8221; 
+“They will understand very soon that they have the same problems Microsoft had 10 or 12 years ago,” Kaspersky said in an interview. “They will have to make changes in terms of the cycle of updates and so on and will be forced to invest more into their security audits for the software.” 
 
-&#8220;That's what Microsoft did in the past after so many incidents like Blaster and the more complicated worms that infected millions of computers in a short time,&#8221; he added. &#8220;They had to do a lot of work to check the code to find mistakes and vulnerabilities. Now it's time for Apple [to do the same].&#8221; 
+“That's what Microsoft did in the past after so many incidents like Blaster and the more complicated worms that infected millions of computers in a short time,” he added. “They had to do a lot of work to check the code to find mistakes and vulnerabilities. Now it's time for Apple [to do the same].” 
 
 The statements come on the heels of Flashback, a high-profile piece of Mac malware that is estimated to have infected more than 600,000 Macs at its peak. More recent figures put its current infection somewhere [at less than 185,000 machines](http://www.symantec.com/connect/blogs/flashback-cleanup-still-underway-approximately-140000-infections) worldwide. 
 
@@ -33,6 +33,6 @@ Apple's also announced Gatekeeper, a technology that will be built into the upco
 
 Even with those things on tap, Kaspersky argues that Apple's success will continue to make the Mac a bigger target. 
 
-&#8220;Cyber criminals have now recognized that Mac is an interesting area. Now we have more [malware], it's not just Flashback or Flashfake,&#8221; Kaspersky told CBR. &#8220;Welcome to Microsoft's world, Mac. It's full of malware&#8221; 
+“Cyber criminals have now recognized that Mac is an interesting area. Now we have more [malware], it's not just Flashback or Flashfake,” Kaspersky told CBR. “Welcome to Microsoft's world, Mac. It's full of malware” 
 
 An Apple spokesman declined to comment on Kaspersky's remarks.

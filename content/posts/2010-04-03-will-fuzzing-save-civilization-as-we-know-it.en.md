@@ -18,7 +18,7 @@ Tom Gallagher, senior security test lead with Microsoft's Trustworthy Computing 
 
 According to ComputerWorld, _“Microsoft was able to find such a large number of bugs in Office 2010 by using not only machines in the company's labs, but also under-utilitized or idle PCs throughout the company. The concept isn't new: The Search for Extraterrestrial Intelligence (SETI@home) project may have been the first to popularize the practice, and remains the largest, but it's also been used to crunch numbers in medical research and to find the world's largest prime number._
 
-_&#8220;’We call it a botnet for fuzzing,’ said Gallagher, referring to what Microsoft has formally dubbed Distributed Fuzzing Framework (DFF). The fuzzing network originated with work by David Conger, a software design engineer on the Access team.”_
+_“’We call it a botnet for fuzzing,’ said Gallagher, referring to what Microsoft has formally dubbed Distributed Fuzzing Framework (DFF). The fuzzing network originated with work by David Conger, a software design engineer on the Access team.”_
 
 “Fuzzing” was in the computer security news headlines last week after Baltimore, Md., researcher Charlie Miller won the CanSecWest security conference Pwn2Own hacking contest for the third time. Miller said he’d used fuzzing to find 20 security vulnerabilities in Adobe Reader, the Apple Safari browser, Mac OS X and PowerPoint. He declined to tell the companies about the flaws but demonstrated his fuzzing technique told them to use it themselves.
 
@@ -26,6 +26,6 @@ If fuzzing, which obviously can find 1,800 software bugs at a crack, becomes ext
 
 Note to the darkside: don’t worry, there’s still social engineering.
 
-ComputerWorld story: <a href="http://www.computerworld.com/s/article/9174539/Microsoft_runs_fuzzing_botnet_finds_1_800_Office_bugs?taxonomyId=17&#038;pageNumber=2" target="_blank">&#8220;Microsoft runs fuzzing botnet, finds 1,800 Office bugs&#8221;</a>
+ComputerWorld story: <a href="http://www.computerworld.com/s/article/9174539/Microsoft_runs_fuzzing_botnet_finds_1_800_Office_bugs?taxonomyId=17&#038;pageNumber=2" target="_blank">“Microsoft runs fuzzing botnet, finds 1,800 Office bugs”</a>
 
-Omid's Blog!: <a href="http://boelectronic.blogspot.com/2010/03/firefox-ie8-and-safari-hacked-at.html" target="_blank">&#8220;Firefox, IE8 and Safari hacked at CanSecWest</a>&#8220;
+Omid's Blog!: <a href="http://boelectronic.blogspot.com/2010/03/firefox-ie8-and-safari-hacked-at.html" target="_blank">“Firefox, IE8 and Safari hacked at CanSecWest</a>“

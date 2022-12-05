@@ -17,7 +17,7 @@ category: techblog
 ---
 Recently I had problem with my Ubuntu, Whenever I tried to open a website my Chromium told me that a Network Change has been detected and after 1-2 reload that sites would load and sometimes failed to load fully.
 
-After looking up for that problem, I found out many other people had same problem and it has something to do with [&#8220;avahi-daemon&#8221;](https://askubuntu.com/questions/905866/new-ubuntu-17-04-problem-your-connection-was-interrupted).
+After looking up for that problem, I found out many other people had same problem and it has something to do with [“avahi-daemon”](https://askubuntu.com/questions/905866/new-ubuntu-17-04-problem-your-connection-was-interrupted).
 
 ### Solution
 

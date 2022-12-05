@@ -23,7 +23,7 @@ The Mecklenburg-Western Pomeranian arm of the CDU had a similar experience, disc
 
 The hackers left a message asking: “Where is the money for integration? Where is the money for mosques?” and “Where is the tolerance? Where is the freedom of religion?“
 
-The cyber-attacks appear to have been sparked by anti-immigrant statements from conservatives such as Bavarian premier Horst Seehofer, who said last week that Germany should halt immigration from Turkey and Arabic countries. Over the weekend he also said that multiculturalism was dead in Germany. Chancellor Merkel agreed the concept had “completely failed” and demanded immigrants accept &#8220;Christian values&#8221; when they come to Germany.
+The cyber-attacks appear to have been sparked by anti-immigrant statements from conservatives such as Bavarian premier Horst Seehofer, who said last week that Germany should halt immigration from Turkey and Arabic countries. Over the weekend he also said that multiculturalism was dead in Germany. Chancellor Merkel agreed the concept had “completely failed” and demanded immigrants accept “Christian values” when they come to Germany.
 
 At the end of the hacker missive they wrote, “Mrs. Merkel, we await you in Hamburg,” – a possible reference to Merkel’s plans to visit integration projects in the city in early November.
 

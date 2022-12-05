@@ -25,8 +25,8 @@ They appear to have been compromised by “R.N.S. – Romanian National Security
 
 Both pages play some music – “The Lonely Shepard”, from a .ru domain (you'll also notice a rather bizarre link to a Top Gear: Romania clip hosted on Youtube). I put the text into Google Translate and (of course) it isn’t perfect, but you’ll get the gist of it:
 
-_“We tried to see how some &#8220;garbage&#8221; as you try to mock his country.  
-Let us create a completely different picture from the real one, and calling us &#8220;Romanian Gypsies&#8221; disseminating gender issues still_
+_“We tried to see how some “garbage” as you try to mock his country.  
+Let us create a completely different picture from the real one, and calling us “Romanian Gypsies” disseminating gender issues still_
 
 _If you had the nerve to angry an entire country, know that we will not stop here! Romania_
 

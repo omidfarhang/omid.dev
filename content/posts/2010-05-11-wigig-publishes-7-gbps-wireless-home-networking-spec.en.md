@@ -17,4 +17,4 @@ In addition to publishing the first WiGig spec today, the group announced the pa
 
 The Wi-Fi Alliance and the WiGig Alliance today said they will share technology specs for the development of a new Wi-Fi certification program that includes the 60 GHz WiGig band. This will eventually mean tri-band routers which offer faster speeds, but backward compatibility. 
 
-&#8220;Now that our specification is complete and published, it's time to set our sights on driving a great user experience through interoperability and certification,&#8221; said Dr. Ali Sadri, President and Chairman of the WiGig Alliance today. &#8220;We are happy to work with the Wi-Fi Alliance to extend multi-gigabit capabilities to the Wi-Fi technology portfolio.&#8221;
+“Now that our specification is complete and published, it's time to set our sights on driving a great user experience through interoperability and certification,” said Dr. Ali Sadri, President and Chairman of the WiGig Alliance today. “We are happy to work with the Wi-Fi Alliance to extend multi-gigabit capabilities to the Wi-Fi technology portfolio.”

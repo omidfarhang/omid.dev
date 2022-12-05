@@ -16,7 +16,7 @@ category: techblog
 ---
 You might avoid looking for photos of Miss USA Rima Fakih for a while. There is a controversy about a certain pole-dancing incident in her past that is stirring up the talk show circuits and the adolescent inside every male on the planet. It also has stirred up a massive number of SEO poisoned links to photos.
 
-In 2007, Fakih won a &#8220;Stripper 101&#8221; contest sponsored by a Detroit radio show “Mojo in the Morning.” And, of course, she was no sooner crowned Miss USA than somebody resurrected the “Stripper 101” video. And, of course, everybody is searching for “Rima Fakih pole dancing.”
+In 2007, Fakih won a “Stripper 101” contest sponsored by a Detroit radio show “Mojo in the Morning.” And, of course, she was no sooner crowned Miss USA than somebody resurrected the “Stripper 101” video. And, of course, everybody is searching for “Rima Fakih pole dancing.”
 
 Almost none of these Google Image hits are safe:
 

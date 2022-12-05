@@ -15,7 +15,7 @@ category: techblog
 ---
 Yesterday there was a [volcanic eruption in Iceland](http://news.bbc.co.uk/2/hi/europe/8578576.stm), near the Eyjafjallajoekull glacier, that has led the Icelandic authorities to declare a state of emergency in southern Iceland. People living nearby have been evacuated in case of glacial melt water flooding and the airspace near the now active volcano is effectively closed off.  As you have probably already guessed, any event which commands a high level of public interest will be pounced on quickly by the makers of fake antivirus software in order to make a quick buck. This incident is no exception.
 
-Web searches for subjects relating to this eruption, such as &#8220;Iceland Volcanic Eruption&#8221; or &#8220;Iceland Volcano&#8221;, will return results that may include dozens of hacked Web sites. It is not that difficult to spot the hacked sites with the fake antivirus redirection in the search results. Generally you should look for a pattern like this:
+Web searches for subjects relating to this eruption, such as “Iceland Volcanic Eruption” or “Iceland Volcano”, will return results that may include dozens of hacked Web sites. It is not that difficult to spot the hacked sites with the fake antivirus redirection in the search results. Generally you should look for a pattern like this:
 
 [LEGITIMATE DOMAIN]/[RANDOM STRING].php?[RANDOM PARAMETERS]
 

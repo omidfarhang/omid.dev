@@ -29,7 +29,7 @@ Chen and Gawker basically presented the prosecution with a prima facie case. The
 
 If you find something and keep it, that falls under laws with names like “theft of property lost or mislaid.”
 
-And if you buy something you know was stolen, well, that's &#8220;receiving stolen property.&#8221;
+And if you buy something you know was stolen, well, that's “receiving stolen property.”
 
 Gawker and Chen really should have known that something as valuable as a prototype next-gen iPhone was high profile enough that there was going to be some legal action. And along with a conviction will be restitution for damage to Apple that could be in the range of millions of dollars.
 

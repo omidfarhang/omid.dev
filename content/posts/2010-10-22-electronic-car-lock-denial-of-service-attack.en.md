@@ -14,9 +14,9 @@ category: techblog
 
 > _Inspector Richard Haycock told local newspapers that the possible use of the car lock jammers would help explain a recent spate of thefts from vehicles that have occurred without leaving any signs of forced entry._ 
 > 
-> _&#8220;We do get quite a lot of car crime in the borough where there's no sign of a break-in and items have been taken from an owner's car,&#8221; Inspector Haycock said. &#8220;It's difficult to get in to a modern car without causing damage and we get a reasonable amount of people who do not report any._
+> _“We do get quite a lot of car crime in the borough where there's no sign of a break-in and items have been taken from an owner's car,” Inspector Haycock said. “It's difficult to get in to a modern car without causing damage and we get a reasonable amount of people who do not report any._
 > 
-> _&#8220;It is a possibility that central locking jamming is being used,&#8221; he added._
+> _“It is a possibility that central locking jamming is being used,” he added._
 > 
 > _Devices that block the frequency used by a car owner's key fob might be used to thwart an owner's attempts to lock a car, leaving it open for waiting thieves. A quick search of the internet shows that devices offering to jam car locks are easily available for around $100. Effectiveness at up to 100m is claimed._
 

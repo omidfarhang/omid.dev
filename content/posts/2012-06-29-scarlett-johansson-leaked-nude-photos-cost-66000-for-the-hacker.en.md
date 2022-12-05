@@ -23,7 +23,7 @@ Christopher Chaney, 35, of Jacksonville, Fla., who pleaded guilty in Los Angeles
 
 Prosecutors in a sentencing memorandum say Chaney took naked images of Christina Aguilera from her stylist's email account, actress Renee Olstead's from her email stream and Johansson's from emails she sent to her then husband Ryan Reynolds. Chaney forwarded them to another hacker and two celebrity websites, who made them public. They remain in wide circulation. Some of the photos showed a nude Johansson. 
 
-Prosecutors want Chaney to compensate some of his victims. In addition to Johansson, they are asking a judge to order him to pay $7,500 to Aguilera; $76,767.35 to Olstead, an actress best known for the TV show &#8220;The Secret Life of American Teenager,&#8221; and $10,374.59 to Aftra Health Fund. 
+Prosecutors want Chaney to compensate some of his victims. In addition to Johansson, they are asking a judge to order him to pay $7,500 to Aguilera; $76,767.35 to Olstead, an actress best known for the TV show “The Secret Life of American Teenager,” and $10,374.59 to Aftra Health Fund. 
 
 Assistant U.S. attorneys Lisa Feldman and Wesley Hsu, in seeking the sentencing and compensation, wrote Chaney did not stop even after being caught. 
 
@@ -31,7 +31,7 @@ Assistant U.S. attorneys Lisa Feldman and Wesley Hsu, in seeking the sentencing 
 
 “Indeed, it was apparently such a rush that he continued to do it after the FBI had come and searched his home and seized his computer,” Feldman  wrote, arguing for the 71-month sentence. “At least once, on an occasion after defendant’s residence had already been searched by the FBI, the recipient of the email, a secondary victim, complied.” 
 
-Federal prosecutors attached a copy of a GQ magazine article in which Chaney recounts the &#8220;rush&#8221; of his obsession and how he read celebrity emails exchanges and would eventually hand over images to a fellow hacker. 
+Federal prosecutors attached a copy of a GQ magazine article in which Chaney recounts the “rush” of his obsession and how he read celebrity emails exchanges and would eventually hand over images to a fellow hacker. 
 
 Chaney has admitted that from at least November 2010 to October 2011, he hacked into the email accounts of Johansson, Mila Kunis and others by taking their email addresses, clicking on the “Forgot your password” feature and then resetting the passwords by correctly answering their security questions using publicly available information he found by searching the Internet. Prosecutors said that once Chaney gained exclusive control of the victims' email accounts, he was able to access all of their email boxes. While in the accounts, Chaney also went through their contact lists to find email addresses of potential new hacking targets. 
 

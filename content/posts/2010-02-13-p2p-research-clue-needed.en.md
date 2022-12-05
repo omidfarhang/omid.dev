@@ -29,7 +29,7 @@ In their presentation, “Information disclosure via P2P networks: Why stealing 
 
 The two have started The Cactus Project to help security specialists do similar research to help organizations tighten up the information they share over P2P. They list best-of-breed tools for conducting the research, including Mutella and the Gnutella Protocol on their site <a href="http://pauldotcom.com/cactusproject.html" target="_blank">http://pauldotcom.com/cactusproject.html</a>.
 
-The Network World story quotes Douglas: “&#8221;We have to keep trying to educate people, but through this kind of research [security practitioners] can take steps to better protect their own organizations going forward.
+The Network World story quotes Douglas: “”We have to keep trying to educate people, but through this kind of research [security practitioners] can take steps to better protect their own organizations going forward.
 
 Network World story <a href="http://www.networkworld.com/news/2010/020710-shmoocon-p2p-snoopers-know-whats.html" target="_blank">here.</a>
 

@@ -31,7 +31,7 @@ Well, firstly, be careful what information you share on social networks &#8211; 
 
 Secondly, choose a sensible, unique, hard-to-crack password for your different accounts. Not sure how to select a password? <a href="/en/knowledge-base/security/passwords" target="_blank">Read my advice</a> on the subject.
 
-Thirdly, don't make your &#8220;secret questions&#8221; easy to answer. Those are the questions that some websites ask you in case you forget your password. For instance, &#8220;What's the name of your pet dog?&#8221; or &#8220;What's your mother's maiden name?&#8221; is something that many people could work out. As Sarah Palin and Paris Hilton have discovered to her cost.
+Thirdly, don't make your “secret questions” easy to answer. Those are the questions that some websites ask you in case you forget your password. For instance, “What's the name of your pet dog?” or “What's your mother's maiden name?” is something that many people could work out. As Sarah Palin and Paris Hilton have discovered to her cost.
 
 Lastly, don't take nude photographs of yourself and email them to your lover in the hope that they'll stay private. That never _ever_ works out how you'd hope..
 

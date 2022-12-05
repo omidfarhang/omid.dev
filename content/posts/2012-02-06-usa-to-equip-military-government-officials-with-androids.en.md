@@ -42,7 +42,7 @@ Well, good luck with that shift. Apple's never had a cozy relationship with deve
 
 A recent example: In February 2011, Apple made a tentative step toward opening up. It [offered a copy](http://www.computerworld.com/s/article/9211599/Apple_invites_bug_researchers_to_scrutinize_Lion_OS) of the developer preview of Mac OS X 10.7, aka Lion, to security researchers and asked for their feedback &#8211; by invitation only, and only under a non-disclosure agreement regarding whatever researchers found. 
 
-That door wasn't ajar long. Nine months later, it slammed shut on Charlie Miller &#8211; aka &#8220;that Apple 0-day guy&#8221; &#8211; when the Accuvant Labs security researcher had the audacity to uncover a potentially dangerous bug he found in Apple’s iOS operating system that allowed unapproved code to be run on iPads and iPhones. 
+That door wasn't ajar long. Nine months later, it slammed shut on Charlie Miller &#8211; aka “that Apple 0-day guy” &#8211; when the Accuvant Labs security researcher had the audacity to uncover a potentially dangerous bug he found in Apple’s iOS operating system that allowed unapproved code to be run on iPads and iPhones. 
 
 Miller packed a proof-of-concept bug into a fake stock ticker program for distribution in Apple's App Store. 
 

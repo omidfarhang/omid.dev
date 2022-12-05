@@ -28,13 +28,13 @@ That's good.
 
 On the bad side, those 600,000 downloads of Firesheep are 599,999 more than were strictly needed for the software to prove its point.
 
-The author of Firesheep, Eric Butler, is unrepentant about releasing the tool. He's publicly commented that, &#8220;like any tool, Firesheep can be used for many things. In addition to raising awareness, it has already proven very useful for people who want to test their own security as well as the security of their (consenting) friends.&#8221;
+The author of Firesheep, Eric Butler, is unrepentant about releasing the tool. He's publicly commented that, “like any tool, Firesheep can be used for many things. In addition to raising awareness, it has already proven very useful for people who want to test their own security as well as the security of their (consenting) friends.”
 
-He's also [aghast](http://codebutler.com/firesheep-a-week-later-ethics-and-legality) that Microsoft has started [detecting](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=HackTool%3AJS%2FFiresheep) his software as a potential threat, ranting that &#8220;by installing anti-virus, you grant a third party the ability to remove files from your system trusting that only malicious code will be targeted. Microsoft and other anti-virus vendors abuse this trust and assert what they think you should or should not be doing with your computer.&#8221;
+He's also [aghast](http://codebutler.com/firesheep-a-week-later-ethics-and-legality) that Microsoft has started [detecting](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=HackTool%3AJS%2FFiresheep) his software as a potential threat, ranting that “by installing anti-virus, you grant a third party the ability to remove files from your system trusting that only malicious code will be targeted. Microsoft and other anti-virus vendors abuse this trust and assert what they think you should or should not be doing with your computer.”
 
 Butler wants to have his cake and eat it.
 
-He's suggesting that anyone who consents to install his tool &#8211; even though its primary function is to hijack other people's accounts &#8211; should be free to do so. Indeed, in his own blog, he offers the viewpoint that &#8220;code is a form of speech, and the freedom of speech must remain protected.&#8221; (As it happens, I don't disagree.)
+He's suggesting that anyone who consents to install his tool &#8211; even though its primary function is to hijack other people's accounts &#8211; should be free to do so. Indeed, in his own blog, he offers the viewpoint that “code is a form of speech, and the freedom of speech must remain protected.” (As it happens, I don't disagree.)
 
 But he vigorously denies the right to Microsoft &#8211; and all other security companies &#8211; to [express an opinion](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=HackTool%3AJS%2FFiresheep) about his software when they come across it. That, opines Butler, is tantamount to censorship.
 

@@ -15,7 +15,7 @@ category: techblog
 ---
 [<img class="alignright size-medium wp-image-6503" alt="lulz" src="/images/2013/04/lulz-300x224.png" width="300" height="224" srcset="/images/sites/3/2013/04/lulz-300x224.png 300w, /images/sites/3/2013/04/lulz.png 437w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/04/lulz.png)A former LulzSec hacker has been jailed for a year for ransacking Sony Pictures Entertainment's computer systems.
 
-Cody Kretsinger, 25, from Decatur, Illinois &#8211; better known to his fellow LulzSec cohorts as &#8220;Recursion&#8221; &#8211; was also ordered to carry out 1,000 hours of community service, and a year of home detention, following his release from prison.
+Cody Kretsinger, 25, from Decatur, Illinois &#8211; better known to his fellow LulzSec cohorts as “Recursion” &#8211; was also ordered to carry out 1,000 hours of community service, and a year of home detention, following his release from prison.
 
 He was sentenced by a Los Angeles court on Thursday, <a href="http://www.reuters.com/article/2013/04/18/us-usa-lulzsec-hacker-idUSBRE93H10K20130418" target="_blank">Reuters reports</a>.
 
@@ -25,8 +25,8 @@ Sony claimed the hack left it $600,000 out of pocket. Kretsinger was ordered to 
 
 Earlier this month a 26-year-old British man also pleaded guilty to computer hacking as part of LulzSec, a splinter group of mischief-makers from the larger Anonymous collective. Ryan Ackroyd, from South Yorkshire, admitted taking part in attacks against numerous high-profile targets including Nintendo, News International, 20th Century Fox, Sony Group and the NHS. Ackroyd adopted the online persona of a 16-year-old girl named Kayla during much of his malfeasance.
 
-Ackroyd and other convicted LulzSec suspects &#8211; Jake Davis, 20, (&#8220;Topiary&#8221;) from the Shetland Islands, Scotland, 18-year-old Mustafa Al-Bassam (&#8220;Tflow&#8221;), from Peckham, south London and Ryan Cleary, 21, from Wickford, Essex &#8211; are all <a href="http://www.guardian.co.uk/technology/2013/apr/09/lulzec-hacktivists-plead-guilty-cyberattacks" target="_blank">due to be sentenced</a> on 14 May.
+Ackroyd and other convicted LulzSec suspects &#8211; Jake Davis, 20, (“Topiary”) from the Shetland Islands, Scotland, 18-year-old Mustafa Al-Bassam (“Tflow”), from Peckham, south London and Ryan Cleary, 21, from Wickford, Essex &#8211; are all <a href="http://www.guardian.co.uk/technology/2013/apr/09/lulzec-hacktivists-plead-guilty-cyberattacks" target="_blank">due to be sentenced</a> on 14 May.
 
-Erstwhile LulzSec leader Hector Xavier &#8220;Sabu&#8221; Monsegur, was revealed in March 2012 as an FBI informer who had been grassing on his former cohorts for 10 months after his arrest in June 2011. Sabu's sentencing was <a href="http://rt.com/usa/lulzsec-snitch-sabu-sentencing-288/" target="_blank">delayed</a> by 6 months in February due to his &#8220;ongoing cooperation with the government&#8221;.
+Erstwhile LulzSec leader Hector Xavier “Sabu” Monsegur, was revealed in March 2012 as an FBI informer who had been grassing on his former cohorts for 10 months after his arrest in June 2011. Sabu's sentencing was <a href="http://rt.com/usa/lulzsec-snitch-sabu-sentencing-288/" target="_blank">delayed</a> by 6 months in February due to his “ongoing cooperation with the government”.
 
 _Cross-posted from <a href="http://www.theregister.co.uk/2013/04/19/lulzsec_sony_hack_sentencing/" target="_blank">TheRegister</a>._

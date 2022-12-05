@@ -14,7 +14,7 @@ category: techblog
 
 The movement is proud of saying that an idea can't be arrested or killed, but it seems like the Boston Police Department has thought of one way of fighting back: sarcasm. 
 
-A week ago, the BPDNews.com website which provides news about the Boston police and crime in the area was hacked by Anonymous. The hackers replaced the home page of the site with a message and a video of American rapper KRS-One performing his song &#8220;Sound of Da Police&#8221;. 
+A week ago, the BPDNews.com website which provides news about the Boston police and crime in the area was hacked by Anonymous. The hackers replaced the home page of the site with a message and a video of American rapper KRS-One performing his song “Sound of Da Police”. 
 
 ![](http://lh6.ggpht.com/-pf6fj9322Us/TzUNjJw0OhI/AAAAAAAAEpE/CXGZRLu1MkY/s1600-h/hacked-police%25255B4%25255D.jpg)
 
@@ -26,4 +26,4 @@ With straight faces, police officers explain how they were in Dunkin' Donuts whe
 
 BPDNews.com &#8211; The Boston Police Virtual Community
 
-As one officer explains, &#8220;My reaction was, &#8216;Why would anybody want to destroy a perfectly good KRS-One song?'&#8221;
+As one officer explains, “My reaction was, &#8216;Why would anybody want to destroy a perfectly good KRS-One song?'”

@@ -13,11 +13,11 @@ tags:
 lang: en
 category: techblog
 ---
-I had a look at my twitter page early this morning and read &#8220;Twitter is a rich source of insanity&#8221;, and thought &#8220;Wow, the twitter marketroids are really bold, but it's a good line.&#8221;  
+I had a look at my twitter page early this morning and read “Twitter is a rich source of insanity”, and thought “Wow, the twitter marketroids are really bold, but it's a good line.”  
 
 Upon re-reading, however, I realized that what it really said was  
 
-#### &#8220;Twitter is a rich source of instantly updated information.&#8221;
+#### “Twitter is a rich source of instantly updated information.”
 
 It might, however, have been a Freudian slip, because twitter got hacked yesterday, and bunches of celebs found they had been forced to follow the hacker. Even worse, as it struggled to right the ship, twitter temporarily removed their followers, and celebs found themselves in the traumatic position of being unpopular, at least for a while. 
 

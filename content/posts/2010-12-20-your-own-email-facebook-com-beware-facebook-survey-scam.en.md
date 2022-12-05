@@ -32,4 +32,4 @@ You won't realize it's doing that, of course, until it's too late &#8211; as you
 
 [<img title="own-email-4" border="0" alt="own-email-4" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TQ-tQL2h3KI/AAAAAAAADhc/WqQc9v0dLXY/own-email-4_thumb%5B2%5D.jpg?imgmax=800" width="498" height="409" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TQ-tNjNe3wI/AAAAAAAADhY/xSmCzNEtqRE/s1600-h/own-email-4%5B4%5D.jpg)
 
-Note, these scam messages are not connected with Facebook's genuine plans to give everyone a @facebook.com public email address. Facebook expects to roll out that service more widely in the coming months, and will use your &#8220;publicusername&#8221; when live.
+Note, these scam messages are not connected with Facebook's genuine plans to give everyone a @facebook.com public email address. Facebook expects to roll out that service more widely in the coming months, and will use your “publicusername” when live.

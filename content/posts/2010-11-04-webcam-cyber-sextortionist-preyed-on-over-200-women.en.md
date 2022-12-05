@@ -17,7 +17,7 @@ A perverted hacker who spied upon more than 200 women via their webcams and micr
 
 The 31-year-old man broke into victims' personal computers, and stole personal information. Threatening to share the private information with their parents and email contacts, the man pressured the young women (some of them still young teenagers) into providing him with risqué pictures and videos.
 
-The FBI's Los Angeles cyber division, who investigated the case, described the case as a chilling example of &#8220;sextortion&#8221;.
+The FBI's Los Angeles cyber division, who investigated the case, described the case as a chilling example of “sextortion”.
 
 According to a [report on the FBI's website](http://www.fbi.gov/news/stories/2010/november/web-of-victims/web-of-victims), the attacks were spread by the hacker who posed as a young woman on a social networking website:
 

@@ -17,7 +17,7 @@ category: techblog
 ---
 Multitasking, the feature that has been the absolute top of every iPhone user's want list &#8211;which, by proxy became a major marketing point for both Android and webOS &#8212; has made its way to iPhone OS 4.
 
-&#8220;We figured out how to implement multitasking for third party apps and avoid those things [battery life and lag]. So that's what took so long,&#8221; said Apple CEO Steve Jobs this morning.
+“We figured out how to implement multitasking for third party apps and avoid those things [battery life and lag]. So that's what took so long,” said Apple CEO Steve Jobs this morning.
 
 While it's not actually full background processing, Apple has devised a way to reproduce the feeling. The company provided 7 APIs to developers which constitute the always-on services that apps can communicate with. These include: background audio, VoIP, Background Location, push notifications, local notifications, task completion, and fast app switching.
 

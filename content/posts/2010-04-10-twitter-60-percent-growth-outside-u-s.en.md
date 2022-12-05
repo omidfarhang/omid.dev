@@ -21,5 +21,5 @@ The service was thought to have 75 million users at the end of January ([“New 
 
 Several sources have estimated that at the end of 2009 1.7 billion people ere using the Internet.
 
-Twitter Blog: [&#8220;Growing around the world&#8221;](http://blog.twitter.com/2010/04/growing-around-world.html) [  
+Twitter Blog: [“Growing around the world”](http://blog.twitter.com/2010/04/growing-around-world.html) [  
 ](http://www.blogger.com/6374134313571426262%20http://blog.twitter.com/2010/04/growing-around-world.html)

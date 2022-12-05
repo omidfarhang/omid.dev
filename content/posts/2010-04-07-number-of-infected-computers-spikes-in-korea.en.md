@@ -17,4 +17,4 @@ Network Box includes phishing in its calculations of monthly malware statistics.
 
 The US was second on the list at 9.34 percent.
 
-See InfoSecurity story here: <a href="http://www.infosecurity-us.com/view/8547/korea-reigns-as-king-of-malware-threats-/" target="_blank">&#8220;Korea reigns as king of malware threats&#8221;</a>
+See InfoSecurity story here: <a href="http://www.infosecurity-us.com/view/8547/korea-reigns-as-king-of-malware-threats-/" target="_blank">“Korea reigns as king of malware threats”</a>

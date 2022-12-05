@@ -12,11 +12,11 @@ category: techblog
 ---
 [<img title="miley-cyrus" border="0" alt="miley-cyrus" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TO0yjIfBZaI/AAAAAAAADNM/tpXjfuKA4_A/miley-cyrus_thumb.jpg?imgmax=800" width="174" height="225" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0yhmgqINI/AAAAAAAADNI/RpiH8nHRt3Y/s1600-h/miley-cyrus%5B2%5D.jpg)Miley Cyrus is eighteen years old since yesterday.
 
-I don't know if her father, legendary &#8220;Achy Breaky Heart&#8221; singer Billy Ray Cyrus, will be joining in her birthday celebrations, but I imagine he'll be quietly wiping away a tear as his daughter finally becomes officially an adult (at least as far as the age of consent in her home state of Tennessee is concerned).
+I don't know if her father, legendary “Achy Breaky Heart” singer Billy Ray Cyrus, will be joining in her birthday celebrations, but I imagine he'll be quietly wiping away a tear as his daughter finally becomes officially an adult (at least as far as the age of consent in her home state of Tennessee is concerned).
 
 The pop singer and Hannah Montana star has had her fair share of encounters with the world of cybercrime during her short life.
 
-For instance, a couple of years ago, a hacker called &#8220;Trainreq&#8221; took advantage of the fact that Miley Cyrus was using the same password on multiple websites, and broke into her Gmail account, stealing candid photographs of her &#8220;posing provactively&#8221; in her underwear and swimsuit.
+For instance, a couple of years ago, a hacker called “Trainreq” took advantage of the fact that Miley Cyrus was using the same password on multiple websites, and broke into her Gmail account, stealing candid photographs of her “posing provactively” in her underwear and swimsuit.
 
 I found it astonishing that parts of the media felt comfortable reproducing the stolen photographs &#8211; did no-one at the time care that the poor girl was only fifteen years old?
 
@@ -36,7 +36,7 @@ A message spreading across Facebook claims to link to video footage of Miley Cyr
 > <tt>With hot boyfriend she went too far!</tt>  
 > <tt>Fun Video</tt>
 
-If you were an admirer of Miley, you might well be tempted to click on the link and ask questions later. Such an action would take you to a webpage which tricks you into believing that you are about to see scandalous video footage of the star going &#8220;too far&#8221; with her boyfriend.
+If you were an admirer of Miley, you might well be tempted to click on the link and ask questions later. Such an action would take you to a webpage which tricks you into believing that you are about to see scandalous video footage of the star going “too far” with her boyfriend.
 
 [<img title="miley-cyrus-scam" border="0" alt="miley-cyrus-scam" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TO0ytGmathI/AAAAAAAADNk/zOb-3FwfD6g/miley-cyrus-scam_thumb%5B2%5D.jpg?imgmax=800" width="498" height="311" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TO0yreDaTII/AAAAAAAADNg/Z5puTH-2d6U/s1600-h/miley-cyrus-scam%5B4%5D.jpg)
 

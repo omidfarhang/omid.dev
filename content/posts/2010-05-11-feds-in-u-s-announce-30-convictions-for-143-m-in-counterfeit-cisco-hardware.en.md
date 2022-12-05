@@ -17,6 +17,6 @@ Customs and Border Protections said they’ve seen a 75 percent decrease in seiz
 
 International investigations have resulted in five convictions &#8212; one in Canada and four in China &#8212; and $17 million in counterfeit networking equipment being seized in France, China and Canada. The U.S. agencies are continuing to work with China’s Ministry of Public Security to fight the manufacture and export of counterfeit network hardware from there.
 
-John Morton, Assistant Secretary of Homeland Security for ICE said: _&#8220;These cases involve greedy businessmen hocking counterfeit and substandard hardware to any buyer—whether it could affect the health and safety of others in a hospital setting or the security of our troops on the battlefield. They pose a triple threat to our nation by stealing from our economy, threatening U.S. jobs and potentially putting the safety of our citizens at risk.”_
+John Morton, Assistant Secretary of Homeland Security for ICE said: _“These cases involve greedy businessmen hocking counterfeit and substandard hardware to any buyer—whether it could affect the health and safety of others in a hospital setting or the security of our troops on the battlefield. They pose a triple threat to our nation by stealing from our economy, threatening U.S. jobs and potentially putting the safety of our citizens at risk.”_
 
 News release [here.](http://www.fbi.gov/pressrel/pressrel10/convictions_050610.htm)

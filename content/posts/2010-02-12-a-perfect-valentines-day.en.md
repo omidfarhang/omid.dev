@@ -17,7 +17,7 @@ Here are some common header lines that Symantec has tracked relating to Valentin
 ``` md
 From: ValentineGiftXXXXXXXXXXXXXXXXXXXXXXXXX  
 From: Valentine's Day-GiftXXXXXXXXXXXXXXXXXXXXXXXX  
-From: &#8220;Valentines&#8221;XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+From: “Valentines”XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Subject: Valentines for Couples.  
 Subject: A Valentines gift for Two  
 Subject: Act fast, Valentines is near.  
@@ -55,7 +55,7 @@ The appeal of Valentine’s Day is universal, and if you thought that Valentine�
 
 ```
 Header:  
-From:  &#8220;[Removed] Wine&#8221; [Removed] Wine@[Details Removed]  
+From:  “[Removed] Wine” [Removed] Wine@[Details Removed]  
 Subject: Stand out this Valentine's Day with [Removed] Wine
 ```
 
@@ -65,7 +65,7 @@ Subject: Stand out this Valentine's Day with [Removed] Wine
 
 ```
 Header:  
-From: &#8220;[Details Removed]&#8221; admin@[Details Removed]  
+From: “[Details Removed]” admin@[Details Removed]  
 Subject: 情人节还要一个人过吗？来这里找个朋友吧
 ```
 

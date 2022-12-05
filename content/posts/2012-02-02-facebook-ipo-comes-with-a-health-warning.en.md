@@ -40,7 +40,7 @@ Last year, the Financial Industry Regulatory Authority (FINRA) <a href="http://w
 
 FINRA warned the public to be wary of unsolicited approaches that purported to offer access to shares of Facebook and other popular, well known private companies. 
 
-&#8220;Investors might think they are getting in on the ground floor of innovative social media companies, but instead find that they may have handed over real money for non-existent shares,&#8221; said John Gannon, FINRA's senior vice president for investor education. 
+“Investors might think they are getting in on the ground floor of innovative social media companies, but instead find that they may have handed over real money for non-existent shares,” said John Gannon, FINRA's senior vice president for investor education. 
 
 The opportunity for scams around Facebook's IPO still remain today. I wouldn't be at all surprised to see Facebook users duped into clicking on links and joining pages that offer them the gift of free Facebook stock for instance, as many people have still not learnt that there's no such thing as a free lunch. 
 

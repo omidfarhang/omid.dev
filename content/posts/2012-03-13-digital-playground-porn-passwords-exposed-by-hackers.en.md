@@ -13,7 +13,7 @@ category: techblog
 ---
 [<img title="dp" border="0" alt="dp" align="right" src="http://lh5.ggpht.com/-TOpL1bQL89w/T19U23PucgI/AAAAAAAAFKE/t8BVVOivJUk/dp_thumb.jpg?imgmax=800" width="216" height="122" />](http://lh3.ggpht.com/-3gl3VxJsCR4/T19UrRiKtNI/AAAAAAAAFJ8/CzG5C7IZmU4/s1600-h/dp%25255B2%25255D.jpg)SophosLabs: A group of hackers are claiming to have stolen the details of more than 70,000 users of the Digital Playground porn website. 
 
-The group, calling itself &#8220;The Consortium&#8221;, appears to have scooped up some 40,000 financial details (including credit card numbers, names, CCV numbers, and expiration dates) as well as the email addresses and passwords of 72,000 users. 
+The group, calling itself “The Consortium”, appears to have scooped up some 40,000 financial details (including credit card numbers, names, CCV numbers, and expiration dates) as well as the email addresses and passwords of 72,000 users. 
 
 According to the hackers, who appear to be affiliated with the Anonymous movement, the sensitive information was not encrypted. 
 
@@ -30,7 +30,7 @@ A message posted by the hackers read in part:
 > 
 > <tt>These credit cards are all plaintext but we will not be releasing or using as we do this for the love of the game not for profit and these peoples only crime was wanting some porn. We cannot justify releasing these peoples credit card info, but remember it is DP that allowed this to happen, this could have been a different group. And perhaps they may have done far worse when given this information. </tt>
 
-In addition to releasing usernames, passwords and credit card details, The Consortium also made freely available some 52 pornographic movies with names such as &#8220;Babysitters 2&#8221;, &#8220;Like Sister Like Slut&#8221; and &#8220;Sex and Corruption&#8221;. 
+In addition to releasing usernames, passwords and credit card details, The Consortium also made freely available some 52 pornographic movies with names such as “Babysitters 2”, “Like Sister Like Slut” and “Sex and Corruption”. 
 
 The Digital Playground website is, at the time of writing, still online &#8211; but is refusing sign-ups of new members. 
 

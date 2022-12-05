@@ -16,6 +16,6 @@ category: techblog
 
 The blog says that various users were affected as a result, for example because they used their Hotmail accounts to access services such as PayPal. Allegedly, the vulnerability was also exploited to change the ownership of particularly attractive, short account names such as ab@hotmail.com and xxx@hotmail.com. 
 
-Benjamin Kunz Mejri, a security expert who discovered the hole at around the same time as the incidents described above, has released details about the vulnerability in [an advisory](http://www.vulnerability-lab.com/get_content.php?id=529). According to the expert, the hole was contained in the &#8220;password reset&#8221; functionality – during one step, the Hotmail server apparently checked the existence of a token but not its value. 
+Benjamin Kunz Mejri, a security expert who discovered the hole at around the same time as the incidents described above, has released details about the vulnerability in [an advisory](http://www.vulnerability-lab.com/get_content.php?id=529). According to the expert, the hole was contained in the “password reset” functionality – during one step, the Hotmail server apparently checked the existence of a token but not its value. 
 
-The advisory says that by injecting a token such as &#8220;+++)-&#8221; into certain requests, attackers were able to take control of any account. Kunz Mejri added that he notified Microsoft on 6 April, and that the company fixed the problem on 21 April.
+The advisory says that by injecting a token such as “+++)-” into certain requests, attackers were able to take control of any account. Kunz Mejri added that he notified Microsoft on 6 April, and that the company fixed the problem on 21 April.

@@ -21,7 +21,7 @@ The good news for the company is that Adobe’s products are so popular that the
 
 Brad Arkin, Adobe’s director of product security and privacy, apparently has been available to anyone with a blog who wants to talk about Adobe’s security ramp up, including this very detailed interview on [Kaspersky’s Threatpost blog](http://threatpost.com/en_us/blogs/despite-danger-adobe-says-javascript-support-important-010410).
 
-The real takeaway for the average computer user is that Adobe is making major changes in their security practices. Releasing patches on Microsoft's &#8220;Patch Tuesday&#8221; each month &#8212; something they began in 2009 &#8212; being a significant one. Arkin has said, the company will launch a beta trial of an updater this month and it should find its way into default installs of Adobe Reader and Acrobat shortly.
+The real takeaway for the average computer user is that Adobe is making major changes in their security practices. Releasing patches on Microsoft's “Patch Tuesday” each month &#8212; something they began in 2009 &#8212; being a significant one. Arkin has said, the company will launch a beta trial of an updater this month and it should find its way into default installs of Adobe Reader and Acrobat shortly.
 
 Users will be able to opt out of the automatic updates. That feature will be handy for the information technology staff which is responsible for updates enterprise-wide.
 

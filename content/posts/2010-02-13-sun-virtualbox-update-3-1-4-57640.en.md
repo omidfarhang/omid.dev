@@ -31,13 +31,13 @@ Virtual machine descriptions in XML. The configuration settings of virtual machi
 &#8211; VMM: fixed incompatibility with 2.6.32 Linux kernels (software virtualization only; bug #6100)  
 &#8211; VMM: turn on nested paging by default for new VMs (if available; VT-x and AMD-V only)  
 &#8211; VMM: turn on VPID by default for new VMs (if available; VT-x only)  
-&#8211; VMM: perform strict CPUID compatibility checks when teleporting; to get the old behavior set &#8220;VBoxInternal/CPUM/StrictCpuIdChecks&#8221; to 0  
+&#8211; VMM: perform strict CPUID compatibility checks when teleporting; to get the old behavior set “VBoxInternal/CPUM/StrictCpuIdChecks” to 0  
 &#8211; VMM: fixed VM crash with certain 16 bits Windows applications (software virtualization only; bug #5399)  
 &#8211; Snapshots: fixed a 3.1 regression that broke deletion of snapshots when a machine had immutable or writethrough storage attached (bug #5727)  
 &#8211; Saved state: fixed VERR\_SSM\_LOADED\_TOO\_MUCH error when loading DisplayScreenshot(bug #6162)  
 &#8211; VBoxManage: add restorecurrent operation to snapshots command  
 &#8211; VBoxManage: fixed broken snapshot lookup by name (bug #6070  
-&#8211; GUI: fixed the broken &#8220;Reload&#8221; button that reloads the machine XML when a machine is inaccessible  
+&#8211; GUI: fixed the broken “Reload” button that reloads the machine XML when a machine is inaccessible  
 &#8211; GUI: fixed guest fullscreen mode after reboot (bug #5372)  
 &#8211; GUI: handle Ctrl+Break properly on X11 hosts (bug #6122)  
 &#8211; GUI: fixed status LEDs for storage devices  
@@ -56,7 +56,7 @@ Virtual machine descriptions in XML. The configuration settings of virtual machi
 &#8211; ATA: fix for guru meditation when installing Solaris 8 guests (bug #5972)  
 &#8211; VHD: fixed an incompatibility with Virtual PC (bug #5990)  
 &#8211; VHD: update the footer backup after setting a new UUID (bug #5004)  
-&#8211; Host DVD: really fixed loading &#8220;passthrough&#8221; setting from config file (bug #5681)  
+&#8211; Host DVD: really fixed loading “passthrough” setting from config file (bug #5681)  
 &#8211; Shared folders: fixed resolving of symlink target on Linux (3.1.2 regression)  
 &#8211; VRDP: fixed VERR\_NET\_ADDRESS\_IN\_USE error when restarting a VM (3.1 regression; bug #5902)  
 &#8211; VRDP: fixed crash on Mac OS X when 3D is enabled (3.1 regression)  

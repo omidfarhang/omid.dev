@@ -68,4 +68,4 @@ Find out latest Computer news in the [TechBlog](/de/blog/)
   </tr>
 </table>
 
-[child-pages depth=&#8221;3&#8243;]
+[child-pages depth=”3&#8243;]

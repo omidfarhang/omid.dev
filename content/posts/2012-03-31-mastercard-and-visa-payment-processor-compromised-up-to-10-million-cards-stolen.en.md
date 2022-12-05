@@ -24,7 +24,7 @@ There is much speculation about the source of the breach as many are reporting t
 
 What is a payment processor? Payment processors provide merchants (stores) with access to payment brokering networks like MasterCard, Visa, American Express and Discover. The terminal that processes your card sends the details of the transaction to the payment processor to facilitate the purchase. 
 
-It is being reported that the attackers got &#8220;full Track 1 and Track 2 data&#8221;. This is very bad as it would allow for the attackers to fully produce cards including the CVV/CCV code you often need to enter for online transactions. 
+It is being reported that the attackers got “full Track 1 and Track 2 data”. This is very bad as it would allow for the attackers to fully produce cards including the CVV/CCV code you often need to enter for online transactions. 
 
 Strangely, law enforcement contacts told Krebs they believe the breach is related to a Dominican gang in New York and primarily targeted corporate credit and debit cards. 
 

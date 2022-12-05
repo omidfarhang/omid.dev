@@ -33,7 +33,7 @@ So, are rapists really luring victims by using young children who appear to be l
 
 Snopes further reports that despite scouring media reports, they managed to find no confirmed cases of such a technique being used by attackers. 
 
-It therefore feels right to file this warning under the title of &#8220;baseless scare&#8221;, and ask Facebook users to stop sharing it with their friends. 
+It therefore feels right to file this warning under the title of “baseless scare”, and ask Facebook users to stop sharing it with their friends. 
 
 You can <a href="http://www.snopes.com/crime/warnings/childlure.asp" target="_blank">read more about the hoax on the Snopes website</a>. 
 

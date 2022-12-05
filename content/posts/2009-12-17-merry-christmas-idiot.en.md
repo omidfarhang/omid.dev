@@ -16,7 +16,7 @@ It's not a huge surprise that we are seeing some malware spam runs where the mal
 
 Here's an example from today (md5: C670165AE6DFA8318F0EA795B1D3AD55). This one is actually a Zapchast (IRC bot variant).
 
-The &#8220;Christmas Card&#8221; requires it's own &#8220;special version&#8221; of Flash to be installed — flashplayer2009.exe — which is the malware itself.
+The “Christmas Card” requires it's own “special version” of Flash to be installed — flashplayer2009.exe — which is the malware itself.
 
 Once ready, it will display this friendly message written in Universal Gibberish.
 

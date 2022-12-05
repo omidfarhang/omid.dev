@@ -20,9 +20,9 @@ The attackers like the uniform IT infrastructure that large chains deploy at ind
 
 When one location is compromised, attackers then have a set of tools and information which can be used to infiltrate any number of additional shops within the chain, he added. 
 
-&#8220;They know what that brand name restaurant looks like, they know what ingredients and systems are being shipped,&#8221; Percoco said. 
+“They know what that brand name restaurant looks like, they know what ingredients and systems are being shipped,” Percoco said. 
 
-&#8220;When you plug your store into the internet those systems look a certain way, there are certain ports open, so they know what those look like and when they find one location they can build tools to find other locations.&#8221; 
+“When you plug your store into the internet those systems look a certain way, there are certain ports open, so they know what those look like and when they find one location they can build tools to find other locations.” 
 
 Percoco noted that the trend is less prevalent in Europe than in other regions, in part because European attackers seem to prefer targeting poorly-maintained e-commerce sites rather than more secure retail locations. 
 
@@ -38,6 +38,6 @@ Trustwave found that one of the most commonly-used passwords was &#8216;Password
 
 Rather than rely on secure password settings, Percoco recommends that administrators consider the use of two-factor authentication. 
 
-&#8220;When we look at our investigations, greater than 60 per cent of attacks were remote access and a high per cent of that was insecure passwords,&#8221; he explained. 
+“When we look at our investigations, greater than 60 per cent of attacks were remote access and a high per cent of that was insecure passwords,” he explained. 
 
-&#8220;If you have systems that are sitting on the internet, having a static user name and password is a bad idea.&#8221;
+“If you have systems that are sitting on the internet, having a static user name and password is a bad idea.”

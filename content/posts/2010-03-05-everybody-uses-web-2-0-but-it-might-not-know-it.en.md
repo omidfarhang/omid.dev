@@ -23,7 +23,7 @@ Web 2.0 and social media prevalence:
 
 The survey also found widespread use of Skype, file sharing, web conferencing and IPTV.
 
-Fifty three percent of the end users surveyed said that newer Web 2.0 tools were &#8220;better than those provided by my employer.&#8221;
+Fifty three percent of the end users surveyed said that newer Web 2.0 tools were “better than those provided by my employer.”
 
 FaceTime said 69 percent of the organizations they surveyed reported at least one Web 2.0-related attack,
 

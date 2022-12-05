@@ -22,7 +22,7 @@ This is what part of the new Applications dashboard looks like.
 
 All Facebook has raised some privacy concerns regarding the dashboard's output.
 
-Do you really want all of your &#8220;friends&#8221; to know what applications you've been running?
+Do you really want all of your “friends” to know what applications you've been running?
 
 You don't?
 
@@ -36,7 +36,7 @@ Here are the new settings.
 
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s640/Facebook_Privacy_Activity_02.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s1600-h/Facebook_Privacy_Activity_02.png)
 
-The new privacy option allows you to &#8220;Control who can see your activity in the Friends' Recent Activity, Friends' Applications and Friends' Games sections of these pages.&#8221;
+The new privacy option allows you to “Control who can see your activity in the Friends' Recent Activity, Friends' Applications and Friends' Games sections of these pages.”
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s640/Facebook_Privacy_Activity_03.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s1600-h/Facebook_Privacy_Activity_03.png)
 

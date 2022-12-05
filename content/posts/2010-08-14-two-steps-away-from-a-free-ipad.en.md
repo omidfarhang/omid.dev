@@ -16,11 +16,11 @@ category: techblog
 ---
 Honestly, how many times have you won free stuff by clicking on links? And no… those spam, trojan, and spyware do not count as free stuff. 
 
-We recently found a scam that promises a free iPad to application testers. Apparently, the site lures the person into joining an iPad application testing program while the site owner makes profit from SMS fee charges and affiliation programs. To enroll in the program, &#8220;testers&#8221; are required to complete two steps. 
+We recently found a scam that promises a free iPad to application testers. Apparently, the site lures the person into joining an iPad application testing program while the site owner makes profit from SMS fee charges and affiliation programs. To enroll in the program, “testers” are required to complete two steps. 
 
 [<img title="ipadscam_website" border="0" alt="ipadscam_website" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TGb1V6D9FYI/AAAAAAAACV8/IjQrpluFJa8/ipadscam_website_thumb%5B2%5D.jpg?imgmax=800" width="504" height="380" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TGb1UFHrO5I/AAAAAAAACV0/LW3UZeqJRKI/s1600-h/ipadscam_website%5B4%5D.jpg) 
 
-**Step one**: Twitter connect, where &#8220;testers&#8221; are required to log into their Twitter account, and allow an application called &#8220;Keep it to hend&#8221; to access their information.
+**Step one**: Twitter connect, where “testers” are required to log into their Twitter account, and allow an application called “Keep it to hend” to access their information.
 
 [<img title="ipadscam_twitter" border="0" alt="ipadscam_twitter" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TGb1bBnSWOI/AAAAAAAACWM/V6MlvCqk6oY/ipadscam_twitter_thumb%5B2%5D.jpg?imgmax=800" width="504" height="247" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TGb1YkjSSjI/AAAAAAAACWA/Y2wbxvegMiM/s1600-h/ipadscam_twitter%5B4%5D.jpg) 
 

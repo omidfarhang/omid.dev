@@ -34,4 +34,4 @@ So, a technique pioneered by Alureon is now being used by Bamital – does this 
 
 I hope not.
 
-Bamital is a virus family which infects the system files &#8220;explorer.exe&#8221; and &#8220;winlogon.exe&#8221;. If you experience slow system response, or find unexpected files such as &#8220;hlp.dat&#8221; under <system folder>, we suggest that you scan your system for malware using a credible scanner such as <a href="/computer/recommended-programs/windows/avira-premium-security-suite" target="_blank">Avira AntiVir</a>.
+Bamital is a virus family which infects the system files “explorer.exe” and “winlogon.exe”. If you experience slow system response, or find unexpected files such as “hlp.dat” under <system folder>, we suggest that you scan your system for malware using a credible scanner such as <a href="/computer/recommended-programs/windows/avira-premium-security-suite" target="_blank">Avira AntiVir</a>.

@@ -32,7 +32,7 @@ However, before you start wailing and gnashing your teeth, I suggest you read th
 
 The link being shared points to the website of the Weekly World News. Facebook users in America may be all too aware that stories published in the Weekly World News (WWN) often only have the very loosest relationship with the truth. 
 
-[<img title="megan-fox-170" border="0" alt="megan-fox-170" align="right" src="http://lh3.ggpht.com/-yi4mx6u8rx8/Tzkzf0AKAII/AAAAAAAAEvA/lyn5QCvtwMo/megan-fox-170_thumb%25255B1%25255D.jpg?imgmax=800" width="174" height="231" />](http://lh6.ggpht.com/-y1p0Hc0nEME/TzkzbWkrl9I/AAAAAAAAEu4/dD5b0FAyHxk/s1600-h/megan-fox-170%25255B5%25255D.jpg)For instance, other popular stories on its website right now include &#8220;MEGAN FOX IS A MAN!&#8221;, &#8220;ALIEN SPACESHIPS TO ATTACK EARTH IN NOVEMBER 2012&#8221;, and &#8211; a favorite of mine &#8211; &#8220;CONFIRMED: WORLD WILL END OCTOBER 21, 2011&#8221;. 
+[<img title="megan-fox-170" border="0" alt="megan-fox-170" align="right" src="http://lh3.ggpht.com/-yi4mx6u8rx8/Tzkzf0AKAII/AAAAAAAAEvA/lyn5QCvtwMo/megan-fox-170_thumb%25255B1%25255D.jpg?imgmax=800" width="174" height="231" />](http://lh6.ggpht.com/-y1p0Hc0nEME/TzkzbWkrl9I/AAAAAAAAEu4/dD5b0FAyHxk/s1600-h/megan-fox-170%25255B5%25255D.jpg)For instance, other popular stories on its website right now include “MEGAN FOX IS A MAN!”, “ALIEN SPACESHIPS TO ATTACK EARTH IN NOVEMBER 2012”, and &#8211; a favorite of mine &#8211; “CONFIRMED: WORLD WILL END OCTOBER 21, 2011”. 
 
 So, maybe you shouldn't believe them when they say that Facebook is going to shut down its business. 
 

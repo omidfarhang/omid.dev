@@ -18,7 +18,7 @@ In Additional to my last post: <http://boelectronic.blogspot.com/2010/03/twitte
 
 We've received some questions regarding <a href="http://twitter.com/safety/status/9594038576" target="_blank">recent phishing attacks</a> conducted against Twitter.com.
 
-Tweets and Direct Messages (<a href="http://help.twitter.com/forums/10711-getting-started/entries/14606-what-is-a-direct-message-dm" target="_blank">DM</a>) containing phases such as &#8220;This you??&#8221; or &#8220;LOL is this you&#8221; are linking victims towards a Twitter login phishing page. If the bait is taken and victim enters their password, Twitter's infamous &#8220;<a href="http://failwhale.com/" target="_blank">fail whale</a>&#8221; is displayed and the user is returned to their account. They might not even realize that their account details have been compromised.
+Tweets and Direct Messages (<a href="http://help.twitter.com/forums/10711-getting-started/entries/14606-what-is-a-direct-message-dm" target="_blank">DM</a>) containing phases such as “This you??” or “LOL is this you” are linking victims towards a Twitter login phishing page. If the bait is taken and victim enters their password, Twitter's infamous “<a href="http://failwhale.com/" target="_blank">fail whale</a>” is displayed and the user is returned to their account. They might not even realize that their account details have been compromised.
 
 Phishing attacks directed against Twitter are not new. But what's the point?
 
@@ -40,7 +40,7 @@ Lets take a current <a href="http://www.google.com/trends" target="_blank">hot 
   <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s1600-h/lastest.google.results.seaworld.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s640/lastest.google.results.seaworld.png" /></a>
 </div>
 
-Note: Always be careful when searching for hot topics. This &#8220;sea world trainer killed&#8221; example is currently being used in SEO attacks and many results will lead directly to scamware.
+Note: Always be careful when searching for hot topics. This “sea world trainer killed” example is currently being used in SEO attacks and many results will lead directly to scamware.
 
 There's also a Facebook result in the example above. We expect to see fresh phishing attacks against Facebook before too long.
 
@@ -50,6 +50,6 @@ There is a silver lining to all of this…
 
 While social networking trust can be abused, social networks themselves are incredibly responsive to emerging threats.
 
-Check out the latest search results for &#8220;<a href="http://www.google.com/search?hl=en&#038;tbo=1&#038;gl=us&#038;tbs=rltm%3A1&#038;q=%22This+you%3F%3F%22&#038;btnG=Search&#038;aq=f&#038;aqi=g-c3g1&#038;aql=&#038;oq=" target="_blank">This you??</a>&#8220;. Twitter users are already spreading information to counter the dis-information pushed by the bad guys.
+Check out the latest search results for “<a href="http://www.google.com/search?hl=en&#038;tbo=1&#038;gl=us&#038;tbs=rltm%3A1&#038;q=%22This+you%3F%3F%22&#038;btnG=Search&#038;aq=f&#038;aqi=g-c3g1&#038;aql=&#038;oq=" target="_blank">This you??</a>“. Twitter users are already spreading information to counter the dis-information pushed by the bad guys.
 
 It used to take weeks to stamp out e-mail hoaxes. Now, the issue almost corrects itself as quickly as it is abused.

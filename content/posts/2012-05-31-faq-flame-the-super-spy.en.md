@@ -14,7 +14,7 @@ category: techblog
 ---
 Copied from H-Online: <a href="http://www.h-online.com/security/features/FAQ-Flame-the-super-spy-1587063.html" target="_blank">Source</a>
 
-**[<img title="FAQ_flame_kicker" border="0" alt="FAQ_flame_kicker" align="right" src="http://lh6.ggpht.com/-iSvtBbZ6D7E/T8diC1WvPAI/AAAAAAAAGKU/ztNk_M_At_I/FAQ_flame_kicker_thumb.png?imgmax=800" width="220" height="80" />](http://lh3.ggpht.com/-QpyIQWVm1c0/T8diAgxhefI/AAAAAAAAGKM/9IpyOe4KSgU/s1600-h/FAQ_flame_kicker%25255B2%25255D.png)The spyware worm Flame is being billed as a &#8220;deadly cyber weapon&#8221;, but a calmer analysis reveals it to be a tool by professionals for professionals that doesn't actually have that many new features compared to, say, the widespread online-banking trojan Zeus.** 
+**[<img title="FAQ_flame_kicker" border="0" alt="FAQ_flame_kicker" align="right" src="http://lh6.ggpht.com/-iSvtBbZ6D7E/T8diC1WvPAI/AAAAAAAAGKU/ztNk_M_At_I/FAQ_flame_kicker_thumb.png?imgmax=800" width="220" height="80" />](http://lh3.ggpht.com/-QpyIQWVm1c0/T8diAgxhefI/AAAAAAAAGKM/9IpyOe4KSgU/s1600-h/FAQ_flame_kicker%25255B2%25255D.png)The spyware worm Flame is being billed as a “deadly cyber weapon”, but a calmer analysis reveals it to be a tool by professionals for professionals that doesn't actually have that many new features compared to, say, the widespread online-banking trojan Zeus.** 
 
 **What is Flame?**
 
@@ -36,7 +36,7 @@ Another unique feature is the LUA interpreter that is included, which can be use
 
 **And how did Flame get onto the infected computers in the first place?**
 
-We do not know that yet, but we assume that the typical method for targeted attacks was used. In these cases, the perpetrators identify a group of people who have access to interesting information or can at least provide such access. These targets are then infected with the spyware, via specially crafted emails or USB sticks that someone has purposefully &#8220;lost&#8221; – or even by breaking into the victim's apartment, where the software is manually installed on the targeted computer. 
+We do not know that yet, but we assume that the typical method for targeted attacks was used. In these cases, the perpetrators identify a group of people who have access to interesting information or can at least provide such access. These targets are then infected with the spyware, via specially crafted emails or USB sticks that someone has purposefully “lost” – or even by breaking into the victim's apartment, where the software is manually installed on the targeted computer. 
 
 **Who's responsible for Flame? Israeli intelligence?**
 
@@ -46,9 +46,9 @@ We don't know – and we doubt we ever will. We do know that the software was de
 
 Both programs were used in a way that tends to suggest intelligence involvement, but technically they have very little in common. Stuxnet was a sabotage program that was very targeted and minimal, despite its wide range of functions; Flame, on the other hand, is a spyware program that is very powerful, universal and, at 20MB, somewhat bloated. The virus experts who analyzed the spyware could not find any significant similarities in the code, and there are many potential explanations for why the two programs were spread in part using similar vulnerabilities. 
 
-**Is Flame a prototype for a modern &#8220;cyber weapon&#8221;?**
+**Is Flame a prototype for a modern “cyber weapon”?**
 
-Flame's assignment has more to do with spying than with destruction. The spyware should therefore be labeled a &#8220;cyber wiretap&#8221; rather than a weapon. 
+Flame's assignment has more to do with spying than with destruction. The spyware should therefore be labeled a “cyber wiretap” rather than a weapon. 
 
 **What is actually special about Flame?**
 

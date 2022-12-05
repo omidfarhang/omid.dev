@@ -29,6 +29,6 @@ And, naturally, the usual prompt for registration:
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s640/image3.jpeg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s1600-h/image3.jpeg)
 
-Uh-oh: &#8220;25 critical system objects&#8221;! But I just installed the OS!
+Uh-oh: “25 critical system objects”! But I just installed the OS!
 
 Symantec products detect the downloaded misleading application as AntiVirus2010. Do always be sure, however, to confirm with your ISP or IT team before following such “directions” to run a particular file and certainly before running any unknown executables hosted on external domains.

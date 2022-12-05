@@ -18,40 +18,40 @@ category: techblog
 
 Facebook, with more than 500 million users, relies on email services such as Google's Gmail to help new users find friends already on the network. When a person joins, they are asked to import their Gmail contact list into the social network service. Facebook then tells the user which email contacts are also on the social network.
 
-In a statement, Google said websites such as Facebook &#8220;leave users in a data dead end.&#8221; Facebook did not immediately provide a comment on Friday.
+In a statement, Google said websites such as Facebook “leave users in a data dead end.” Facebook did not immediately provide a comment on Friday.
 
 While Google framed the move as an attempt to protect its users' ability to retain control of their personal data on the Internet, analysts said the move underscored the battle between Google, the world's largest search engine, and Facebook, the dominant Internet social network.
 
-&#8220;The fundamental power dynamic on the Web today is this emerging conflict between Facebook and Google,&#8221; said Gartner analyst Ray Valdes. &#8220;Google needs to evolve to become a big player in the social Web and it hasn't been able to do that.&#8221;
+“The fundamental power dynamic on the Web today is this emerging conflict between Facebook and Google,” said Gartner analyst Ray Valdes. “Google needs to evolve to become a big player in the social Web and it hasn't been able to do that.”
 
-&#8220;If people do search within Facebook, if they do email within Facebook, if they do instant messaging within Facebook, all of these will chip away at Google's properties.&#8221;
+“If people do search within Facebook, if they do email within Facebook, if they do instant messaging within Facebook, all of these will chip away at Google's properties.”
 
 RECIPROCITY
 
 Google said that while it makes it easy for other Web services to automatically import a user's contact data, Facebook was not reciprocating.
 
-&#8220;We have decided to change our approach slightly to reflect the fact that users often aren't aware that once they have imported their contacts into sites like Facebook, they are effectively trapped,&#8221; Google said in an emailed statement.
+“We have decided to change our approach slightly to reflect the fact that users often aren't aware that once they have imported their contacts into sites like Facebook, they are effectively trapped,” Google said in an emailed statement.
 
-&#8220;We will no longer allow websites to automate the import of users' Google Contacts (via our API) unless they allow similar export to other sites,&#8221; Google said.
+“We will no longer allow websites to automate the import of users' Google Contacts (via our API) unless they allow similar export to other sites,” Google said.
 
 Some technology blogs were reporting that Facebook still appeared to be allowing users to import their Google Gmail contacts into Facebook as of mid-day Friday.
 
-A Google spokesman told Reuters that the company had begun enforcing the new rules &#8220;gradually.&#8221;
+A Google spokesman told Reuters that the company had begun enforcing the new rules “gradually.”
 
-Google also stressed that users will still be able to manually download their contacts to their computers in &#8220;an open, machine-readable format&#8221; which can then be imported into any Web service.
+Google also stressed that users will still be able to manually download their contacts to their computers in “an open, machine-readable format” which can then be imported into any Web service.
 
 Google has coveted the wealth of information that Facebook's half-billion users generate and amass. Having access to that data could be especially valuable to Google, whose business model is based on allowing its users to find any information anywhere on the Web.
 
-&#8220;Google is trying to use the leverage that it has to get as much access to the Facebook social graph (network of friends and interests) that it can, so it can provide the best search function that it can,&#8221; said Wedbush Securities analyst Lou Kerner. &#8220;The more data Google has access to the better its search results are going to be.&#8221;
+“Google is trying to use the leverage that it has to get as much access to the Facebook social graph (network of friends and interests) that it can, so it can provide the best search function that it can,” said Wedbush Securities analyst Lou Kerner. “The more data Google has access to the better its search results are going to be.”
 
-Last month, Facebook announced a deal with Microsoft Corp allowing Facebook information &#8212; such as Web pages that Facebook users have endorsed by clicking on &#8220;like&#8221; buttons &#8212; to appear within Microsoft search results.
+Last month, Facebook announced a deal with Microsoft Corp allowing Facebook information &#8212; such as Web pages that Facebook users have endorsed by clicking on “like” buttons &#8212; to appear within Microsoft search results.
 
-Google Chief Executive Officer Eric Schmidt said in September the company would add social &#8220;layers&#8221; to many of its existing Web products in the coming months, following its less-than-stellar track record of developing stand-alone social networking products like Orkut and the recently shuttered Wave service.
+Google Chief Executive Officer Eric Schmidt said in September the company would add social “layers” to many of its existing Web products in the coming months, following its less-than-stellar track record of developing stand-alone social networking products like Orkut and the recently shuttered Wave service.
 
 Google also has acquired a slew of small social networking companies in recent months, including Slide and social payment company Jambool.
 
 Gartner's Valdes said access to the explosion of new types of data generated by Web services, such as location-based services, would provide further flashpoints between Google and Facebook.
 
-&#8220;It's one skirmish among many to come,&#8221; said Valdes.
+“It's one skirmish among many to come,” said Valdes.
 
 Google's shares closed Friday's regular session down 81 cents at $625.08.

@@ -13,15 +13,15 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="download" border="0" alt="download" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMIEEk-FFAI/AAAAAAAAC4Y/T6HU2dBeekQ/download_thumb%5B2%5D.jpg?imgmax=800" width="304" height="185" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMIEDN8O7cI/AAAAAAAAC4U/fwg0vMegi1I/s1600-h/download%5B4%5D.jpg)(Reuters) &#8211; Google Inc said its &#8220;Street View&#8221; cars around the world accidentally collected more personal data than previously disclosed, and that it was changing its privacy practices.
+[<img title="download" border="0" alt="download" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMIEEk-FFAI/AAAAAAAAC4Y/T6HU2dBeekQ/download_thumb%5B2%5D.jpg?imgmax=800" width="304" height="185" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMIEDN8O7cI/AAAAAAAAC4U/fwg0vMegi1I/s1600-h/download%5B4%5D.jpg)(Reuters) &#8211; Google Inc said its “Street View” cars around the world accidentally collected more personal data than previously disclosed, and that it was changing its privacy practices.
 
 Regulators in some of the more than 30 countries where the cars operated are looking into the issue.
 
 Google's Street View cars, which are well known for crisscrossing the globe and taking panoramic pictures of the city's streets, collected the data. The company displays the pictures in its online street maps.
 
-Google said it wants to delete the data as soon as possible. It disclosed the snafu in May, but said at the time that the information it collected was typically limited to &#8220;fragments&#8221; of data because the cars were always moving.
+Google said it wants to delete the data as soon as possible. It disclosed the snafu in May, but said at the time that the information it collected was typically limited to “fragments” of data because the cars were always moving.
 
-&#8220;It's clear from those inspections that while most of the data is fragmentary, in some instances entire emails and URLs were captured, as well as passwords,&#8221; Google Vice President of Engineering and Research Alan Eustace said in a post on Google's blog on Friday.
+“It's clear from those inspections that while most of the data is fragmentary, in some instances entire emails and URLs were captured, as well as passwords,” Google Vice President of Engineering and Research Alan Eustace said in a post on Google's blog on Friday.
 
 Google had deleted the data in countries where regulators had given it permission to do so, a Google representative said. The representative said there were investigations in other countries and that Google could not delete the data until the investigations were closed.
 

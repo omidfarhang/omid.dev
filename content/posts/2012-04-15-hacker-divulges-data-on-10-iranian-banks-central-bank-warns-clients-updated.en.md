@@ -15,15 +15,15 @@ category: techblog
 ---
 [<img title="Debit-Cards" border="0" alt="Debit-Cards" align="right" src="http://lh5.ggpht.com/-GTbYusJv5-U/T4r8jpEAexI/AAAAAAAAFg0/kES1PdOjj2U/Debit-Cards_thumb.jpg?imgmax=800" width="244" height="155" />](http://lh4.ggpht.com/-mzKHTEr5WLY/T4r8gZu4CwI/AAAAAAAAFgs/QVPgxb3AmmQ/s1600-h/Debit-Cards%25255B2%25255D.jpg)An Iranian hacker published the information about some 3 million debit cards of 10 Iranian banks, including codes and passwords. 
 
-The information has been published by someone named &#8220;Khosrow Zare Farid&#8221; who was the manager of a company which operates SHETAB payment network in Iran and produces and installs POS devices. 
+The information has been published by someone named “Khosrow Zare Farid” who was the manager of a company which operates SHETAB payment network in Iran and produces and installs POS devices. 
 
-&#8220;Around one year ago I found a critical bug in the system. Then I wrote and sent a formal report to all the CEO of banks in Iran but none of them replied to me. Now I decided to publish the information. Governments tried to catch me by Iran Cyber Army but they failed,&#8221; he said, according to Kabir News website 
+“Around one year ago I found a critical bug in the system. Then I wrote and sent a formal report to all the CEO of banks in Iran but none of them replied to me. Now I decided to publish the information. Governments tried to catch me by Iran Cyber Army but they failed,” he said, according to Kabir News website 
 
 Today 3 of Iranian banks including Saderat, Eghtesad Novin and Saman sent SMS to their clients to update the password of their debit cards. 
 
 The Central Bank of Iran has strictly recommended clients of the banking system to change passwords of their debit cards due to probable risks of illegal access. 
 
-&#8220;We ask people to change the password of their debit cards if they have not changed the main password in the previous months. It will maximize the security of your accounts and improve the restrictions of illegal usage of debit cards,&#8221; the central bank announced in a formal declaration, Mehr news agency reported. 
+“We ask people to change the password of their debit cards if they have not changed the main password in the previous months. It will maximize the security of your accounts and improve the restrictions of illegal usage of debit cards,” the central bank announced in a formal declaration, Mehr news agency reported. 
 
 **Update:** 
 

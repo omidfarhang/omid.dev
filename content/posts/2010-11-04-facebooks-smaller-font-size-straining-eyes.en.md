@@ -17,15 +17,15 @@ The font size on much of the site appears to have shrunk &#8212; a tweak that ha
 
 By Wednesday morning, users had taken to Twitter to sound off on the change, mostly for the negative.
 
-&#8220;Eye doctors everywhere must love the smaller default font on [Facebook](http://topics.edition.cnn.com/topics/facebook_inc) this morning. Eyes squinting everywhere!&#8221; wrote Twitter user esilverstein.
+“Eye doctors everywhere must love the smaller default font on [Facebook](http://topics.edition.cnn.com/topics/facebook_inc) this morning. Eyes squinting everywhere!” wrote Twitter user esilverstein.
 
 Other comments took a sillier tone.
 
-&#8220;What kind of bionic carrot-flavored crack rock are the facebook developers smoking to make the font this small? I call ageism!&#8221; said a user with the screen name &#8220;thembithembi.&#8221;
+“What kind of bionic carrot-flavored crack rock are the facebook developers smoking to make the font this small? I call ageism!” said a user with the screen name “thembithembi.”
 
 The responses were predominantly negative, but not unanimously.
 
-&#8220;I'm apparently the odd man out but I've always liked small fonts in [design](http://topics.edition.cnn.com/topics/design), so i give two tiny thumbs up to new Facebook font,&#8221; wrote user kenromano.
+“I'm apparently the odd man out but I've always liked small fonts in [design](http://topics.edition.cnn.com/topics/design), so i give two tiny thumbs up to new Facebook font,” wrote user kenromano.
 
 A couple of Facebook groups have sprung up to complain about the change, but none had picked up many members as of early Wednesday.
 

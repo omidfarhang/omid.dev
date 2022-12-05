@@ -19,11 +19,11 @@ For a short while last month, before releasing a patch, Symantec advised custome
 
 In addition, the firm says that in January someone claiming to be the hacker responsible for the data theft tried to extort $50,000 from the firm in exchange for not releasing Symantec's stolen source code. 
 
-Yama Tough, of the Anonymous-affiliated Lords of Dharmaraja hacking gang, posted what he claims was a chain of emails sent between himself and Symantec employee &#8220;Sam Thomas&#8221; negotiating the payment. 
+Yama Tough, of the Anonymous-affiliated Lords of Dharmaraja hacking gang, posted what he claims was a chain of emails sent between himself and Symantec employee “Sam Thomas” negotiating the payment. 
 
 [<img title="email-exchange" border="0" alt="email-exchange" src="http://lh4.ggpht.com/-_2xR7zwkRkI/TzKchEBVQ3I/AAAAAAAAEj0/7V_sG9gwsu4/email-exchange_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="263" />](http://lh5.ggpht.com/-LdPZ256RIZw/TzKcaMNWlfI/AAAAAAAAEjs/kziFv02KA_Y/s1600-h/email-exchange%25255B4%25255D.jpg) 
 
-Symantec [says](http://www.forbes.com/sites/andygreenberg/2012/02/07/as-hackers-leak-symantecs-source-code-firm-says-cops-set-up-extortion-sting/) that it never made any offers to meet the hackers' extortion demands and worked with law enforcement agencies. It seems quite possible (if not downright likely) that &#8220;Sam Thomas&#8221; wasn't a Symantec employee at all, but instead working for the FBI. 
+Symantec [says](http://www.forbes.com/sites/andygreenberg/2012/02/07/as-hackers-leak-symantecs-source-code-firm-says-cops-set-up-extortion-sting/) that it never made any offers to meet the hackers' extortion demands and worked with law enforcement agencies. It seems quite possible (if not downright likely) that “Sam Thomas” wasn't a Symantec employee at all, but instead working for the FBI. 
 
 Eventually, Yama Tough lost patience and published the pcAnywhere source code. 
 

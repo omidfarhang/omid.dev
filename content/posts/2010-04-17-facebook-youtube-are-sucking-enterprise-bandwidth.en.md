@@ -24,7 +24,7 @@ The study also analyzed the number of hits:
   * 2.4 percent to Yahoo
   * 1.7 percent to DoubleClick 
 
-Simon Heron, a Network Box internet security analyst said: &#8220;The figures show that IT managers are right to be concerned about the amount of social network use at work. There are two real concerns here: firstly that employees will be downloading applications from social networks and putting security at risk; and secondly the amount of corporate bandwidth that appears to be being used for non-corporate activity.&#8221;
+Simon Heron, a Network Box internet security analyst said: “The figures show that IT managers are right to be concerned about the amount of social network use at work. There are two real concerns here: firstly that employees will be downloading applications from social networks and putting security at risk; and secondly the amount of corporate bandwidth that appears to be being used for non-corporate activity.”
 
 Network Box release here: [“Business internet traffic increases to Facebook and YouTube”](http://www.network-box.com/node/533)  
 The assumption here is that all this traffic is personal browsing and not work-related. That actually might be a more complicated issue than a first glance indicates. Certainly people use Google for work. I look things up a dozen times a day.

@@ -19,7 +19,7 @@ category: techblog
 > 
 > The certificates would have allowed the attacker to craft fake pages that would have been accepted by browsers as the legitimate websites. The certificates would have been most useful as part of an attack that redirected traffic intended for Skype, Google and Yahoo to a machine under the attacker's control. Such an attack can range from small-scale Wi-Fi spoofing at a coffee shop all the way to [global hijacking of internet routes](http://www.wired.com/threatlevel/2008/08/revealed-the-in/).
 > 
-> At a minimum, the attacker would then be able to steal login credentials from anyone who entered a username and password into the fake page, or perform a &#8220;man in the middle&#8221; attack to eavesdrop on the user's session.
+> At a minimum, the attacker would then be able to steal login credentials from anyone who entered a username and password into the fake page, or perform a “man in the middle” attack to eavesdrop on the user's session.
 
 [More](http://threatpost.com/en_us/blogs/phony-web-certificates-issued-google-yahoo-skype-others-032311#) [news](http://www.bbc.co.uk/news/technology-12847072) [articles](http://www.zdnet.com/blog/security/microsoft-warns-fraudulent-digital-certificates-issued-for-high-value-websites/8488http://www.zdnet.com/blog/security/microsoft-warns-fraudulent-digital-certificates-issued-for-high-value-websites/8488). Comodo [announcement](https://www.comodo.com/Comodo-Fraud-Incident-2011-03-23.html).
 

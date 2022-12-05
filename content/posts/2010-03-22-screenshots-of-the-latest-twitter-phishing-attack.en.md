@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-Today there's a phishing run underway in Twitter, using Direct Messages (&#8220;DMs&#8221;). These are private one-to-one Tweets inside Twitter.
+Today there's a phishing run underway in Twitter, using Direct Messages (“DMs”). These are private one-to-one Tweets inside Twitter.
 
 The messages look like these:
 

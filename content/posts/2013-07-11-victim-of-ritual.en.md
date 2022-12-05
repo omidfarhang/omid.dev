@@ -13,29 +13,29 @@ tags:
 lang: en
 category: entblog
 ---
-The &#8220;Victim Of Ritual&#8221; music video from the new album &#8220;[Colours In The Dark](/2013/05/09/tarja-turunens-new-album-colours-in-the-dark/ "Tarja Turunen’s new album “Colours In The Dark”")&#8221; by <a title="Tarja Turunen" href="/entertainment/artists/tarja-turunen/" target="_blank">Tarja Turunen</a> is now visible worldwide
+The “Victim Of Ritual” music video from the new album “[Colours In The Dark](/2013/05/09/tarja-turunens-new-album-colours-in-the-dark/ "Tarja Turunen’s new album “Colours In The Dark”")” by <a title="Tarja Turunen" href="/entertainment/artists/tarja-turunen/" target="_blank">Tarja Turunen</a> is now visible worldwide
 
 {{< youtube 7PHr2NHfCjo >}}
 
 Download the single & video via iTunes: <a dir="ltr" title="http://smarturl.it/Tarja_VOR" href="http://smarturl.it/Tarja_VOR" target="_blank" rel="nofollow">http://smarturl.it/Tarja_VOR</a>  
-Click here to pre-order the new album &#8220;Colours In The Dark&#8221;: <a dir="ltr" title="http://www.tarja-coloursinthedark.com/#album" href="http://www.tarja-coloursinthedark.com/#album" target="_blank" rel="nofollow">http://www.tarja-coloursinthedark.com/</a>
+Click here to pre-order the new album “Colours In The Dark”: <a dir="ltr" title="http://www.tarja-coloursinthedark.com/#album" href="http://www.tarja-coloursinthedark.com/#album" target="_blank" rel="nofollow">http://www.tarja-coloursinthedark.com/</a>
 
-Watch the official Lyric Video for &#8220;Never Enough&#8221; from &#8220;Colours In The Dark&#8221;:
+Watch the official Lyric Video for “Never Enough” from “Colours In The Dark”:
 
 {{< youtube -MLU25MQU9w >}}
 
 It all starts with a mystic woman dressed in black, slowly striding through long corridors: Tarja. Cut. Then, a painter, a dancer and an oboe player are shown in a dusty, old factory. All caged in their dull habits, their daily tasks, repeating their monotone movements over and over again &#8212; all victims of their rituals.  
 Tarja is coming to their rescue. With a hint of a smile and powerful colours, she is able to free them and brings out the best in each of them. It all could have ended here, wasn't it for the dark, suspicious figures. They have been following Tarja the whole time, watching her every move and then, chase her, try to get her down. Will they succeed or will Tarja win the epic final battle?
 
-Answers to this question can be found in the official video for Tarja's first single &#8220;Victim Of Ritual&#8221; from her forthcoming album &#8220;Colours In The Dark&#8221;. Shot in Berlin by Florian Kaltenbach for Hunger Film, the video resembles a short film with its running time of 6 minutes.
+Answers to this question can be found in the official video for Tarja's first single “Victim Of Ritual” from her forthcoming album “Colours In The Dark”. Shot in Berlin by Florian Kaltenbach for Hunger Film, the video resembles a short film with its running time of 6 minutes.
 
 It is exclusively available for preorder on iTunes: <a dir="ltr" title="http://bit.ly/16isUeN" href="http://bit.ly/16isUeN" target="_blank" rel="nofollow">http://bit.ly/16isUeN</a>.
 
-&#8220;Victim Of Ritual&#8221; will be released as download, CD single and 7&#8243; vinyl on July 12th, 2013 via earMUSIC. Both physical releases will surely become rare collector's items, being made available in strictly limited quantities. The 4-songs digipak CD-single is limited to 3.000 copies worldwide, whereas the 2-track 7&#8243; vinyl is limited to only 1.500 units worldwide.
+“Victim Of Ritual” will be released as download, CD single and 7&#8243; vinyl on July 12th, 2013 via earMUSIC. Both physical releases will surely become rare collector's items, being made available in strictly limited quantities. The 4-songs digipak CD-single is limited to 3.000 copies worldwide, whereas the 2-track 7&#8243; vinyl is limited to only 1.500 units worldwide.
 
-Tarja's forthcoming new album &#8220;Colours In The Dark&#8221; will be released on August 30th, 2013 via earMUSIC. Mixed by Tim Palmer (Pearl Jam, U2) in Austin, Texas, the album is definitely going to be one of the brightest moments for rock in 2013.
+Tarja's forthcoming new album “Colours In The Dark” will be released on August 30th, 2013 via earMUSIC. Mixed by Tim Palmer (Pearl Jam, U2) in Austin, Texas, the album is definitely going to be one of the brightest moments for rock in 2013.
 
-Tarja will perform the songs from &#8220;Colours In The Road Tour&#8221; starting with her forthcoming tour.
+Tarja will perform the songs from “Colours In The Road Tour” starting with her forthcoming tour.
 
 Colours In The Road Tour 2013  
 17.10. Olomouc &#8211; Hala University Palackeho (CZ)  

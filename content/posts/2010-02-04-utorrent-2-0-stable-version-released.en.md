@@ -18,7 +18,7 @@ After lots of Beta and RC releases, uTorrent, the most popular and lightweight B
 Release Notes:
 
   * Added UDP tracker support!
-  * uTP has been improved significantly 1.8.5, with many bugs fixed and performance improvements. It can be found in the preferences as &#8220;Enable bandwidth management&#8221; (but don’t worry, you can still control caps!).
+  * uTP has been improved significantly 1.8.5, with many bugs fixed and performance improvements. It can be found in the preferences as “Enable bandwidth management” (but don’t worry, you can still control caps!).
   * The setup dialog has been overhauled to make it much easier to use and with a built-in speed test. More presets were added and it automatically scales settings for high-upload connections.
   * A new transfer cap feature has been added to track bandwidth usage, along with graphs to show your usage.
 

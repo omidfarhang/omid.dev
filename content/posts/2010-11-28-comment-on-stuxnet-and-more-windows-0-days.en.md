@@ -16,7 +16,7 @@ Over the last few days, some news organizations have been saying that Stuxnet so
 
 This is patently silly, on a number of levels, but silly none-the-less.
 
-First thing is that I flat-out don't believe Stuxnet source is available for sale on the black market or anywhere. Remember how often I say that if something sounds too good to be true, it's not true? Well, the opposite applies too. If something sounds too bad to be true, it's not true either. We really don't know who built Stuxnet, or who the intended target was, be we may rest assured that whoever put that much work into it, isn't selling it, at any price. It's actually more probable that some no-honor-among-thieves bad guy is scamming fellow bad guys. &#8220;Sure, this is Stuxnet source code. Prove otherwise.&#8221;
+First thing is that I flat-out don't believe Stuxnet source is available for sale on the black market or anywhere. Remember how often I say that if something sounds too good to be true, it's not true? Well, the opposite applies too. If something sounds too bad to be true, it's not true either. We really don't know who built Stuxnet, or who the intended target was, be we may rest assured that whoever put that much work into it, isn't selling it, at any price. It's actually more probable that some no-honor-among-thieves bad guy is scamming fellow bad guys. “Sure, this is Stuxnet source code. Prove otherwise.”
 
 Second thing is that even if it was for sale, it would require a huge amount of expertise to make it work on something other than the original target. We can be comfortable that all process controllers work differently enough that one bit of malicious code simply won't work on all systems.
 

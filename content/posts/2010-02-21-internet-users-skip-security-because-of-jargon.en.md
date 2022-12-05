@@ -18,11 +18,11 @@ The group met to figure out how to protect computer users from massive abuse, fr
 
 The New York Times story carried the following quotes from those at the meeting:
 
-_&#8220;The malicious and criminal use of cyberspace today is stunning in its scope and innovation,&#8221; _&#8212; Dell Services President Peter Altabef.
+_“The malicious and criminal use of cyberspace today is stunning in its scope and innovation,” _&#8212; Dell Services President Peter Altabef.
 
-_&#8220;If you don't demystify security, people become anxious about it and don't want to do it…. There are some people in the profession who to some degree enjoy the mystification of what they do, that it's not penetrable. It's almost a sense of superiority,&#8221; _&#8212; former U.S. Homeland Security Secretary Michael Chertoff
+_“If you don't demystify security, people become anxious about it and don't want to do it…. There are some people in the profession who to some degree enjoy the mystification of what they do, that it's not penetrable. It's almost a sense of superiority,” _&#8212; former U.S. Homeland Security Secretary Michael Chertoff
 
-_&#8220;We use a lot of complex terminology where it's not needed. We don't encourage people to think enough,&#8221;_ &#8212; Steve Purser, head of Technical Competence at the EU’s European Network and Information Security Agency.
+_“We use a lot of complex terminology where it's not needed. We don't encourage people to think enough,”_ &#8212; Steve Purser, head of Technical Competence at the EU’s European Network and Information Security Agency.
 
 The ugly reality is that computers are not simple and computer security is very technical and ever-changing.
 

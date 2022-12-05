@@ -22,7 +22,7 @@ category: techblog
 ---
 **[<img title="cansecwest-175" border="0" alt="cansecwest-175" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TX4LojAPK9I/AAAAAAAADsM/LIhu4ATfeaE/cansecwest-175_thumb%5B2%5D.png?imgmax=800" width="175" height="189" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TX4LmF8ULRI/AAAAAAAADsI/QIKCdwDWQ9Y/s1600-h/cansecwest-175%5B4%5D.png)Sophos Labs Blog:** If you're interested in computer security, you've probably heard of PWN2OWN. It's a competition which has become an annual fixture at the annual [CanSecWest conference](http://cansecwest.com/) in Vancouver, British Columbia.
 
-The competition gets its name because, as the CanSecWest organizers explain, &#8220;If you can execute arbitrary code (PWN) on these [laptops or mobile phones] through a previously undisclosed browser (Firefox, IE, Safari) exploit, you can go home with one (OWN).&#8221;
+The competition gets its name because, as the CanSecWest organizers explain, “If you can execute arbitrary code (PWN) on these [laptops or mobile phones] through a previously undisclosed browser (Firefox, IE, Safari) exploit, you can go home with one (OWN).”
 
 The browsers under fire this year were: Microsoft Internet Explorer, Apple Safari, Mozilla Firefox and Google Chrome.
 
@@ -32,7 +32,7 @@ Whether you think the buying of vulnerabilities and exploits (through cash payme
 
 Indeed, the pwn2own competition is run by none other than HP, owners of the TippingPoint Zero Day Initiative (ZDI) brand. ZDI is a programme which pays for vulnerabilities, thus rewarding bug-hunters for results which are fed back into the security community rather than sold to cybercrooks. Pwn2own adds some overt competitiveness into the business of bug-finding!
 
-HP promised to publish the names of the winners &#8220;[as they (presumably) succeed](http://dvlabs.tippingpoint.com/blog/2011/02/02/pwn2own-2011)&#8220;, but though the contest ended on Friday last week, no official announcement has yet been made.
+HP promised to publish the names of the winners “[as they (presumably) succeed](http://dvlabs.tippingpoint.com/blog/2011/02/02/pwn2own-2011)“, but though the contest ended on Friday last week, no official announcement has yet been made.
 
 But that doesn't matter &#8211; thanks to social networks, the results hit the internet in near-real time, so we already know that the following were pwned:
 

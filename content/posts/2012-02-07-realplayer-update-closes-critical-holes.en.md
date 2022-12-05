@@ -16,6 +16,6 @@ category: techblog
 
 These include errors when processing RMFF Flags, VIDOBJ\_START\_CODE and RealAudio coded\_frame\_size, as well as RV10 Encoded Height/Width, RV20 Frame Size Array and RV40 content. A remote code execution problem in Atrac Sample Decoding has also been fixed but is not found in the 15.x.x branch of the media player; this issue affects Mac RealPlayer 12.0.0.1701 but is reportedly not found in version 12.0.0.1703. 
 
-The company notes that it has &#8220;received no reports of any machines actually being compromised as a result of the now-remedied vulnerabilities&#8221;. Further details about these security bugs are not provided. 
+The company notes that it has “received no reports of any machines actually being compromised as a result of the now-remedied vulnerabilities”. Further details about these security bugs are not provided. 
 
 Versions 11.0 to 11.1, 14.0.0 to 14.0.7 and 15.0.0 to 15.0.1.13, as well as RealPlayer SP 1.0 to 1.1.5 are affected. The company advises all users to upgrade to the current version. RealPlayer 15.02.71 is available to download for Windows XP, Vista and Windows 7 from the company's web site.

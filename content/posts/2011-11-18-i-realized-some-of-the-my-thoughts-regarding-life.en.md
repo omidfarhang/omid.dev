@@ -13,7 +13,7 @@ I'm almost 23 years old and I'm not that old that to say much about life and tea
 
 **Asking for help is not a good solution:** Nobody care about more than yourself, nobody think same way as you, asking for help only will give some info to other people to be able bother you, The reason is that I've experienced that situation many many times.
 
-**Never relay on anyone in your life:** No one, even closest friend or family or partner or parents, They will leave you alone at least once in the worst time you need them, so build your life based on the thinking that &#8220;I'm all alone, now how I should deal with this?&#8221;, in that situation if someone help you, life will be beautiful, if not, you would not get in trouble because you have been expecting this.
+**Never relay on anyone in your life:** No one, even closest friend or family or partner or parents, They will leave you alone at least once in the worst time you need them, so build your life based on the thinking that “I'm all alone, now how I should deal with this?”, in that situation if someone help you, life will be beautiful, if not, you would not get in trouble because you have been expecting this.
 
 **The thing majority do, is not always right:** Even if 99% of people do something, its not mean that is a good thing or its correct, use your brain before doing anything.
 
@@ -29,7 +29,7 @@ I'm almost 23 years old and I'm not that old that to say much about life and tea
 
 **Don't waste your time, Some people will never understand:** You cannot change some people, so don't get mad at them if they don't understand, It can be even a physical problem or&#8230;
 
-**Religion, politic, waste of time:** Yeah, both of them are waste of time, so let me make it easy for you, religion is &#8220;Don't Lie, Don't Steal, Be Kind, Respect Humanity, Don't be Lazy in your Life&#8221; and Politic is something you never can change and inspecting that until will give you reason to become sad, so if you dislike politic of where you live, move!.
+**Religion, politic, waste of time:** Yeah, both of them are waste of time, so let me make it easy for you, religion is “Don't Lie, Don't Steal, Be Kind, Respect Humanity, Don't be Lazy in your Life” and Politic is something you never can change and inspecting that until will give you reason to become sad, so if you dislike politic of where you live, move!.
 
 {{< youtube 96Zc-jYYRxU >}}
 

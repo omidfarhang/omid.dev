@@ -15,7 +15,7 @@ For the second time recently, a security researcher has pointed out that running
 
 Mikko Hypponen, the head of research at Finnish AV company F-Secure in an interview with The Inquirer, said a great way to stop a lot of malware would be to take administrative rights away from online users.
 
-&#8220;Most wouldn't notice (although those who did would be incandescent with annoyance) and most malware would be stopped from functioning. It should have been done already,” he said.
+“Most wouldn't notice (although those who did would be incandescent with annoyance) and most malware would be stopped from functioning. It should have been done already,” he said.
 
 The only drawback might be that the next generation of computer professionals would have a harder time learning how their machines, networks and the Internet work.
 

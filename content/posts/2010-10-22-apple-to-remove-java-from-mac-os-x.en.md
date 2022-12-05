@@ -15,7 +15,7 @@ category: techblog
 
 The wording is a tiny little bit ambiguous, but it would seem like Apple is preparing to ditch Java as a standard part of Mac OS X. In the &#8216;new and noteworthy' section of the release notes for Mac OS X 10.6 Update 3, they note the deprecation of Java.
 
-&#8220;As of the release of Java for Mac OS X 10.6 Update 3, the version of Java that is ported by Apple, and that ships with Mac OS X, is deprecated,&#8221; Apple notes, &#8220;This means that the Apple-produced runtime will not be maintained at the same level, and may be removed from future versions of Mac OS X. The Java runtime shipping in Mac OS X 10.6 Snow Leopard, and Mac OS X 10.5 Leopard, will continue to be supported and maintained through the standard support cycles of those products.&#8221;
+“As of the release of Java for Mac OS X 10.6 Update 3, the version of Java that is ported by Apple, and that ships with Mac OS X, is deprecated,” Apple notes, “This means that the Apple-produced runtime will not be maintained at the same level, and may be removed from future versions of Mac OS X. The Java runtime shipping in Mac OS X 10.6 Snow Leopard, and Mac OS X 10.5 Leopard, will continue to be supported and maintained through the standard support cycles of those products.”
 
 The devil is in the details here. Apple produces its own Java runtime, and it's that one that's facing the chopping board, but as you can see, it _may_ be removed from future releases. The Cocoa bindings were removed some time ago.
 

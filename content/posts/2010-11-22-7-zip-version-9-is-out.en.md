@@ -41,7 +41,7 @@ What's new after 7-Zip 4.65 (2009-02-03):
   * Speed optimizations in CRC calculation code for Intel's Atom CPUs.
   * New -scc{WIN|DOS|UTF-8} switch to specify charset for console input/output (default = DOS).
   * New -scrc switch to calculate total CRC-32 during extracting / testing.
-  * New additional &#8220;Open archive >&#8221; item in context menu allows to select archive type for some files.
+  * New additional “Open archive >” item in context menu allows to select archive type for some files.
   * It's possible to specify Diff program in options (7-Zip File Manager).
   * 7-Zip now can open/copy/compress disk images (like \\.\c:) from \\.\ folder.
   * 7-Zip File Manager now doesn't use temp files to open nested archives stored without compression.

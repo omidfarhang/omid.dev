@@ -14,11 +14,11 @@ category: techblog
 ---
 [<img title="eric-schmidt-hands-togetherjpg" border="0" alt="eric-schmidt-hands-togetherjpg" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNqRhuJXtwI/AAAAAAAADHM/4Qt1jRhFsxI/eric-schmidt-hands-togetherjpg_thumb.jpg?imgmax=800" width="304" height="229" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNqRekQt1wI/AAAAAAAADHI/afzaAMGj90w/s1600-h/eric-schmidt-hands-togetherjpg%5B2%5D.jpg)
 
-Google has given all of its employees $1,000 cash &#8220;holiday bonuses&#8221; and 2011 salary increases of at least 10%, a loyal reader tells us.
+Google has given all of its employees $1,000 cash “holiday bonuses” and 2011 salary increases of at least 10%, a loyal reader tells us.
 
 The 10% company-wide raise will take effect on January 1, 2011.
 
-In addition, Google will also give each employee an additional raise equivalent to 1X the employee's target bonus for the year.  And employees will be eligible for additional &#8220;merit increases&#8221; based on their individual performance.
+In addition, Google will also give each employee an additional raise equivalent to 1X the employee's target bonus for the year.  And employees will be eligible for additional “merit increases” based on their individual performance.
 
 In another nice gesture, Google will pay the taxes on the $1,000 holiday cash bonuses, thus allowing employees to keep the whole thing.
 

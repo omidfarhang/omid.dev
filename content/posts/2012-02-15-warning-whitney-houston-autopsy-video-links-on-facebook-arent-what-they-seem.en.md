@@ -16,7 +16,7 @@ category: techblog
 
 For instance, messages have been seen shared on Facebook claiming to link to a video of Whitney Houston's autopsy. 
 
-According to the messages, the video of Whitney Houston's autopsy &#8220;reveals a shocking secret that explains her death&#8221;. 
+According to the messages, the video of Whitney Houston's autopsy “reveals a shocking secret that explains her death”. 
 
 Here's what a typical message looks like: 
 

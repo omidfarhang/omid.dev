@@ -12,9 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s1600/4793.jpg" imageanchor="1"><img border="0" height="420" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s640/4793.jpg" width="141" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s640/4793.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s1600/4793.jpg)
 
 Windows Mobile was never just a consumer product; it was also a significant player in handheld terminals, in-vehicle systems, and ruggedized consoles for business and industry.
 
@@ -24,6 +22,6 @@ Yesterday, David Wurster, senior product manager for Windows Embedded, announced
 
 This means that consumer mobile products is finally its own division.
 
-&#8220;We decided to make this move for a variety of reasons,&#8221; Wurster said. &#8220;First, Windows Embedded's strength and experience in building software for specialized devices make WEB the ideal group to lead the handheld terminal and ruggedized device space. Second, with the transition of support to WEB, Microsoft gives the handheld terminal and ruggedized device products a holistic roadmap across both platforms and into the future. MCB will continue to focus on the mobile phone needs of customers with Windows Phones.&#8221;
+“We decided to make this move for a variety of reasons,” Wurster said. “First, Windows Embedded's strength and experience in building software for specialized devices make WEB the ideal group to lead the handheld terminal and ruggedized device space. Second, with the transition of support to WEB, Microsoft gives the handheld terminal and ruggedized device products a holistic roadmap across both platforms and into the future. MCB will continue to focus on the mobile phone needs of customers with Windows Phones.”
 
 Windows Embedded is expecting a new release based on Windows Mobile 6.5 optimized for handheld terminals and ruggedized devices, as well as a full roadmap with technologies from Windows Phone 7 and Windows Embedded Compact 7 for this market.

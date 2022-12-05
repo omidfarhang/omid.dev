@@ -14,7 +14,7 @@ category: techblog
 ---
 An interesting and unknown feature used by sysadmins around the world in some large corporate networks is the use of proxy-auto config (pac) files. This benign feature is accepted by all modern browsers and is described in detail [here](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/web-browser-auto-proxy-configuration.html). It contains a function to redirect your connection to a specific proxy server.
 
-Unfortunately this simple and smart proxy technique are being largely used by brazilian malware writers to redirect infected users to malicious hosts serving phishing pages of financial institutions. A .pac script URL is configured in the browser, in the field &#8220;Use automatic configuration script&#8221;:
+Unfortunately this simple and smart proxy technique are being largely used by brazilian malware writers to redirect infected users to malicious hosts serving phishing pages of financial institutions. A .pac script URL is configured in the browser, in the field “Use automatic configuration script”:
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79WNab_kBI/AAAAAAAAB2c/yXpEkmyW0Rk/s400/2107.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79WNab_kBI/AAAAAAAAB2c/yXpEkmyW0Rk/s1600/2107.JPG)
 

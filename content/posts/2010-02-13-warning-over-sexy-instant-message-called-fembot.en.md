@@ -21,11 +21,11 @@ However, there are signs she may be back on the scene in time for Valentine's Da
 
 She may also be sporting a new, more sophisticated look, according to Richard Clooke from PC Tools.
 
-&#8220;These types of attacks have moved on significantly in this time,&#8221; he said. &#8220;The intelligence has improved such that they can tailor their discussion based on the information they are getting and then change their questions or answers to reflect the responses.&#8221;
+“These types of attacks have moved on significantly in this time,” he said. “The intelligence has improved such that they can tailor their discussion based on the information they are getting and then change their questions or answers to reflect the responses.”
 
 Researchers say Flirtbot-type software typically directs an instant messaging user to click through to a website which may request credit card details or force a virus on to their computer.
 
-&#8220;There is a certain part of the population who are willing to engage in these kinds of conversations,&#8221; added Richard Clooke.
+“There is a certain part of the population who are willing to engage in these kinds of conversations,” added Richard Clooke.
 
 In 2007, a Russian company called CyberLover.ru claimed it had developed software that could successfully pass itself off as a member of the opposite sex.
 

@@ -15,7 +15,7 @@ category: techblog
 
 Global Payments confirmed the attackers had access to details of 1.5 million cards, but it said the attack had now been contained. 
 
-Global Payments also revealed the attacks had gained access to servers containing personal information &#8220;from a subset of US merchant applications&#8221;. While it could not ascertain whether the data had been copied, it would be notifying affected customers in the coming days. 
+Global Payments also revealed the attacks had gained access to servers containing personal information “from a subset of US merchant applications”. While it could not ascertain whether the data had been copied, it would be notifying affected customers in the coming days. 
 
 It also said that it would provide those affected with credit monitoring and identity protection insurance. 
 

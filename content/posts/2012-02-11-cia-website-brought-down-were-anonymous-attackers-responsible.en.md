@@ -15,7 +15,7 @@ category: techblog
 
 [<img title="cia-down" border="0" alt="cia-down" src="http://lh5.ggpht.com/-SgwkBv_vBow/TzZN5_Wj5NI/AAAAAAAAErc/LWOysDWNwOA/cia-down_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="161" />](http://lh6.ggpht.com/-OYhRpfQoh4Q/TzZN2MT3jdI/AAAAAAAAErU/u_j4c7HWskE/s1600-h/cia-down%25255B4%25255D.jpg) 
 
-A post made from an Anonymous-affiliated Twitter account announced that the site was doing using the phrase &#8220;CIA Tango Down&#8221;, although a later tweet left ambiguity as to whether the hacktivists were claiming responsibility for the attack. 
+A post made from an Anonymous-affiliated Twitter account announced that the site was doing using the phrase “CIA Tango Down”, although a later tweet left ambiguity as to whether the hacktivists were claiming responsibility for the attack. 
 
 [<img title="anon-cia-tweet" border="0" alt="anon-cia-tweet" src="http://lh3.ggpht.com/-2o8AftVcUCQ/TzZOlBwkJ2I/AAAAAAAAErs/XGf4owiwRgk/anon-cia-tweet_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="199" />](http://lh5.ggpht.com/-HeFIj8mW0w0/TzZOhhaUg5I/AAAAAAAAErk/FB18GXY8DfU/s1600-h/anon-cia-tweet%25255B4%25255D.jpg) 
 

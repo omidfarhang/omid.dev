@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-Microsoft has said it will issue an out-of-band patch today for critical vulnerabilities in Internet Explorer that allow remote execution of code. The company said yesterday it would not wait until the February &#8220;Patch Tuesday&#8221; to fix the vulnerabilities.
+Microsoft has said it will issue an out-of-band patch today for critical vulnerabilities in Internet Explorer that allow remote execution of code. The company said yesterday it would not wait until the February “Patch Tuesday” to fix the vulnerabilities.
 
 The much discussed “Aurora” vulnerabilities in IE have been held at least partially responsible for cyber attacks on Google and more then two dozen other major companies. The attacks on Google were aimed at Gmail accounts of dissidents and Google’s source code. The attacks on the other companies were aimed at stealing intellectual property.
 

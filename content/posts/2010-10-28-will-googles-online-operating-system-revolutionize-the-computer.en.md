@@ -22,7 +22,7 @@ You won't be able to put it on your current PC. But Google wants it to power you
 
 And because it's based almost entirely on the Internet, Chrome is smart and superfast. No more “Where did I save that file?” No more computer slowdowns. No more crashes?
 
-“Today’s operating systems were designed in an era where there was no web,” Google spokesman Eitan Bencuya told FoxNews.com. “Google Chrome OS is designed for people who spend most of their time on the web. It’s our attempt to re-think what operating systems should be.&#8221;
+“Today’s operating systems were designed in an era where there was no web,” Google spokesman Eitan Bencuya told FoxNews.com. “Google Chrome OS is designed for people who spend most of their time on the web. It’s our attempt to re-think what operating systems should be.”
 
 What does that entail? Speed, simplicity and security, Bencuya said. For example, there's one key change that's completely invisible &#8212; but you'll spot it almost instantly. The Windows and Macintosh operating systems load everything first, which hogs precious memory, even if a browser is all you use. Bencuya calls this approach “decades old.” 
 
@@ -32,9 +32,9 @@ Google underscored the point in a [recent promotional video](http://www.youtube.
 
 If Apple or Microsoft are concerned by these stats, they aren't talking. Neither Microsoft nor Apple were immediately available for comment when contacted by FoxNews.com. Maybe with good reason. Clay Wood, chief technology officer at [Fogo Data Center](http://www.google.com/url?q=http%3A%2F%2Ffogodc.com&sa=D&sntz=1&usg=AFQjCNGj9kg6gL_1IvitL5ZCvXKXBFqeiw) (a company that sells computing power through the Internet, much as a power company sells electricity) argued that Google's lightweight system &#8212; actually a return to computing paradigms from the 1960s &#8212; may be the wave of the future. 
 
-“In a way, Chrome OS comes full circle in how we used to access computer files in the '50s and '60s, logging into a centralized mainframe computer (i.e. the Internet) with a dumbed-down computer to do your work,” said Clay Wood, chief technology officer at [Fogo Data Center](http://www.google.com/url?q=http%3A%2F%2Ffogodc.com&sa=D&sntz=1&usg=AFQjCNGj9kg6gL_1IvitL5ZCvXKXBFqeiw), which sells &#8220;cloud&#8221; computing as a service.
+“In a way, Chrome OS comes full circle in how we used to access computer files in the '50s and '60s, logging into a centralized mainframe computer (i.e. the Internet) with a dumbed-down computer to do your work,” said Clay Wood, chief technology officer at [Fogo Data Center](http://www.google.com/url?q=http%3A%2F%2Ffogodc.com&sa=D&sntz=1&usg=AFQjCNGj9kg6gL_1IvitL5ZCvXKXBFqeiw), which sells “cloud” computing as a service.
 
-Google says that the &#8220;back to the future&#8221; approach provides a significant security advantage. Instead of worrying about what kind of scary viruses might overrun your local computer, Chrome OS leaves security to the people hosting websites and the online applications the operating system uses. 
+Google says that the “back to the future” approach provides a significant security advantage. Instead of worrying about what kind of scary viruses might overrun your local computer, Chrome OS leaves security to the people hosting websites and the online applications the operating system uses. 
 
 Google itself hosts several apps, such as g-mail and docs, and the company runs anti-virus programs on its server before letting you view any hosted files. Furthermore, since there’s really no local files to corrupt, your computer stays safe; it’s merely a window to the Internet, after all. 
 
@@ -48,7 +48,7 @@ Even that won’t put Chrome OS entirely in the clear, though. Support for odd g
 
 Perhaps the company won’t have to. In a very un-Google like move, Google announced that Chrome OS will be available only on newly sold machines &#8212; that means no free downloads from the Internet. So how can you get it &#8212; and how much will it cost? 
 
-&#8220;We’ll have more to share before the end of the year,&#8221; Bencuya told FoxNews.com. But Bencuya refused to say exactly when this year the OS would arrive.
+“We’ll have more to share before the end of the year,” Bencuya told FoxNews.com. But Bencuya refused to say exactly when this year the OS would arrive.
 
 Whenever it does arrive, the real effect of the lightweight Chrome operating system will be felt in how well it catches on with users &#8212; but the concept of a browser-only operating system is eye-opening.
 

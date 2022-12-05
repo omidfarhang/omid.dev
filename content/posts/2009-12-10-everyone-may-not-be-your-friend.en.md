@@ -14,7 +14,7 @@ category: techblog
 ---
 There were two news stories recently that seemed to coincide. In the first, Cisco issued an annual security report which said the two current targets of the Internet criminal underground are banks and social networks. Banks because, well, we all know what they keep there. Social networks are targets because that’s where weakly protected password databases are kept and the passwords they contain probably are used on a lot of other sites as well.
 
-&#8220;Criminals have been taking note of the large crowds in social-networking sites,&#8221; a Cisco researcher said.
+“Criminals have been taking note of the large crowds in social-networking sites,” a Cisco researcher said.
 
 The Koobface worm, which targets Facebook, has infected more than three million machines since 2008. It steals networking credentials, logs in to the sites and sends messages to friends to lure them to malicious Web sites that download more copies of the worm.
 

@@ -20,8 +20,8 @@ The ministry had bought the rights to the Green Dam application for one year thr
 
 Cybersitter said last June that code from its software was used extensively in Green Dam-Youth Escort and sent cease-and-desist letters to the U.S. PC manufacturers who were expecting to install it for the Chinese market. Cybersitter is now suing China and those companies.
 
-Greg Fayer, Cybersitter's attorney said in a news release today: &#8220;This lawsuit aims to strike a blow against the all-too-common practices of foreign software manufacturers and distributors who believe that they can violate the intellectual property rights of small American companies with impunity without being brought to justice in U.S. courts. American innovation is the lifeblood of the software industry, and it is vital that the fruits of those labors be protected at home and abroad.&#8221;
+Greg Fayer, Cybersitter's attorney said in a news release today: “This lawsuit aims to strike a blow against the all-too-common practices of foreign software manufacturers and distributors who believe that they can violate the intellectual property rights of small American companies with impunity without being brought to justice in U.S. courts. American innovation is the lifeblood of the software industry, and it is vital that the fruits of those labors be protected at home and abroad.”
 
 Cybersitter news release [here](http://www.earthtimes.org/articles/show/us-company-cybersitter-llc-files,1107398.shtml).
 
-Bloomberg news story here: &#8220;[China Faces U.S. Piracy Suit for Web-Filter Software](http://www.bloomberg.com/apps/news?pid=20601089&sid=aNIdesOuVmfg) &#8220;
+Bloomberg news story here: “[China Faces U.S. Piracy Suit for Web-Filter Software](http://www.bloomberg.com/apps/news?pid=20601089&sid=aNIdesOuVmfg) “

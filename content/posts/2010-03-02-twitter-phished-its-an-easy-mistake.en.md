@@ -12,10 +12,10 @@ tags:
 lang: en
 category: techblog
 ---
-<span><span><b>London, England (<a href="http://www.cnn.com/">CNN</a>)</b> &#8212; Twitter this week endured a number of &#8220;phishing&#8221; attacks, in which some users unwittingly gave out their passwords to malicious sites. Haven't we all learned to keep our passwords to ourselves, you ask<i>?</i> Perhaps. But the truth is we're all vulnerable to social engineering, and two major Web trends are creating further confusion for new Internet users.</p> 
+<span><span><b>London, England (<a href="http://www.cnn.com/">CNN</a>)</b> &#8212; Twitter this week endured a number of “phishing” attacks, in which some users unwittingly gave out their passwords to malicious sites. Haven't we all learned to keep our passwords to ourselves, you ask<i>?</i> Perhaps. But the truth is we're all vulnerable to social engineering, and two major Web trends are creating further confusion for new Internet users.</p> 
 
 <p>
-  The anatomy of these attacks is simple: You receive a message, seemingly from a friend on a social network. The message contains a link and some strong incentive to click it &#8212; in the case of the most recent Twitter attack, the note simply asks &#8220;This You????.&#8221; When you click the link, you're prompted to log in again to view the page.
+  The anatomy of these attacks is simple: You receive a message, seemingly from a friend on a social network. The message contains a link and some strong incentive to click it &#8212; in the case of the most recent Twitter attack, the note simply asks “This You????.” When you click the link, you're prompted to log in again to view the page.
 </p>
 
 <p>
@@ -35,15 +35,15 @@ category: techblog
 </p>
 
 <p>
-  The length limitations of SMS messages mean that Twitter updates are limited to a mere 140 characters. This restriction gave birth to the &#8220;URL shortener&#8221; craze: long links converted to a short string of letters and numbers to save space. Except that these links obscure the destination site. The casual Web user has no idea whether the short link goes to Facebook or a phishing site. Market leader <a href="http://bit.ly/" target="new">bit.ly</a> has systems in place to deactivate malicious links as soon as they're found, but the short URL trend has trained us to unthinkingly click all manner of short links, often without knowing where they lead. Browser extensions are available to expand these links before clicking, but do we really expect the majority of Web users to go to such lengths?
+  The length limitations of SMS messages mean that Twitter updates are limited to a mere 140 characters. This restriction gave birth to the “URL shortener” craze: long links converted to a short string of letters and numbers to save space. Except that these links obscure the destination site. The casual Web user has no idea whether the short link goes to Facebook or a phishing site. Market leader <a href="http://bit.ly/" target="new">bit.ly</a> has systems in place to deactivate malicious links as soon as they're found, but the short URL trend has trained us to unthinkingly click all manner of short links, often without knowing where they lead. Browser extensions are available to expand these links before clicking, but do we really expect the majority of Web users to go to such lengths?
 </p>
 
 <p>
-  A second Web trend adds further confusion. Facebook, Twitter, Google and others are pushing users to log in to third party services using their existing accounts. Facebook Connect lets you log in to thousands of sites &#8212; from the Wall Street Journal to social news site Digg &#8212; by clicking a button that passes along your profile information. Likewise, &#8220;Sign in with Twitter&#8221; buttons let you skip the sign-up process for Twitter-related applications. Google's Friend Connect achieves much the same thing.
+  A second Web trend adds further confusion. Facebook, Twitter, Google and others are pushing users to log in to third party services using their existing accounts. Facebook Connect lets you log in to thousands of sites &#8212; from the Wall Street Journal to social news site Digg &#8212; by clicking a button that passes along your profile information. Likewise, “Sign in with Twitter” buttons let you skip the sign-up process for Twitter-related applications. Google's Friend Connect achieves much the same thing.
 </p>
 
 <p>
-  There's one big difference with federated logins: You don't have to enter your password to access a third-party site. A click of a button is all that's required to use Facebook Connect and its ilk &#8212; but to the untrained eye, is there really much difference between a &#8220;Sign In with Twitter&#8221; button and a &#8220;Sign In with Twitter&#8221; form? Clearly there's room for confusion.
+  There's one big difference with federated logins: You don't have to enter your password to access a third-party site. A click of a button is all that's required to use Facebook Connect and its ilk &#8212; but to the untrained eye, is there really much difference between a “Sign In with Twitter” button and a “Sign In with Twitter” form? Clearly there's room for confusion.
 </p>
 
 <p>

@@ -37,7 +37,7 @@ The situation is arguably more complicated if you're not even a member of Facebo
 
 [<img title="facebook-camera-170" border="0" alt="facebook-camera-170" align="right" src="http://lh5.ggpht.com/-qfI6bnUf2zY/Tz2L2MXfwII/AAAAAAAAE1M/DTdeLtohouQ/facebook-camera-170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/-4w6GgupbCJ0/Tz2LzAxc5QI/AAAAAAAAE1E/BNeQhio-VS8/s1600-h/facebook-camera-170%25255B3%25255D.jpg)Facebook users have time and time again contacted Naked Security, requesting that the social network implements a system whereby photos and videos can only be tagged with a name \*after\* the subject has given their permission. 
 
-Presently, Facebook fosters a &#8220;publish first, apologize later&#8221; culture, rather than something which over 90% of the site's users would seemingly prefer. And there's no sign that Facebook is planning to change in this regard. 
+Presently, Facebook fosters a “publish first, apologize later” culture, rather than something which over 90% of the site's users would seemingly prefer. And there's no sign that Facebook is planning to change in this regard. 
 
 A few who commented on the poll agreed that we all need to stipulate to the photographer or videographer that we want our images to be kept offline. 
 

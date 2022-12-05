@@ -18,15 +18,15 @@ category: entblog
   </p>
   
   <p>
-    Cash was known for his deep, distinctive bass-baritone voice, the &#8220;freight train&#8221; sound of his Tennessee Three backing band, his demeanor, and his dark clothing, which earned him the nickname &#8220;The Man in Black&#8221;. He traditionally started his concerts with the introduction &#8220;Hello, I'm Johnny Cash&#8221;.
+    Cash was known for his deep, distinctive bass-baritone voice, the “freight train” sound of his Tennessee Three backing band, his demeanor, and his dark clothing, which earned him the nickname “The Man in Black”. He traditionally started his concerts with the introduction “Hello, I'm Johnny Cash”.
   </p>
   
   <p>
-    Much of Cash's music, especially that of his later career, echoed themes of sorrow, moral tribulation, and redemption. His signature songs include &#8220;I Walk the Line&#8221;, &#8220;Folsom Prison Blues&#8221;, &#8220;Ring of Fire&#8221;, &#8220;Get Rhythm&#8221;, and &#8220;Man in Black&#8221;. He also recorded humorous songs, such as &#8220;One Piece at a Time&#8221; and &#8220;A Boy Named Sue&#8221;, a duet with June Carter called &#8220;Jackson&#8221;, as well as railroad songs such as &#8220;Rock Island Line.&#8221;
+    Much of Cash's music, especially that of his later career, echoed themes of sorrow, moral tribulation, and redemption. His signature songs include “I Walk the Line”, “Folsom Prison Blues”, “Ring of Fire”, “Get Rhythm”, and “Man in Black”. He also recorded humorous songs, such as “One Piece at a Time” and “A Boy Named Sue”, a duet with June Carter called “Jackson”, as well as railroad songs such as “Rock Island Line.”
   </p>
   
   <p>
-    He sold over 90 million albums in his nearly fifty-year career and came to occupy a &#8220;commanding position in music history&#8221;.
+    He sold over 90 million albums in his nearly fifty-year career and came to occupy a “commanding position in music history”.
   </p>
   
   <h4>
@@ -42,7 +42,7 @@ category: entblog
   </p>
   
   <p>
-    He had believed in his younger days that he was mainly Irish and partially Native American (he had been told he was one-quarter Cherokee). Even after learning he had no Native American ancestry, Cash's empathy and compassion for Native Americans was unabated. These feelings were expressed in several of his songs, including &#8220;Apache Tears&#8221; and &#8220;The Ballad of Ira Hayes&#8221;, and on his album, <i>Bitter Tears</i>.
+    He had believed in his younger days that he was mainly Irish and partially Native American (he had been told he was one-quarter Cherokee). Even after learning he had no Native American ancestry, Cash's empathy and compassion for Native Americans was unabated. These feelings were expressed in several of his songs, including “Apache Tears” and “The Ballad of Ira Hayes”, and on his album, <i>Bitter Tears</i>.
   </p>
   
   <h5>
@@ -54,7 +54,7 @@ category: entblog
   </p>
   
   <p>
-    Cash was reportedly given the name &#8220;J.R.&#8221; because his parents could not agree on a name, only on initials. When he enlisted in the United States Air Force, the military would not accept initials as his name, so he adopted John R. Cash as his legal name. In 1955, when signing with Sun Records, he took Johnny Cash as his stage name. His friends and in-laws generally called him John, while his blood relatives usually continued to call him J.R.
+    Cash was reportedly given the name “J.R.” because his parents could not agree on a name, only on initials. When he enlisted in the United States Air Force, the military would not accept initials as his name, so he adopted John R. Cash as his legal name. In 1955, when signing with Sun Records, he took Johnny Cash as his stage name. His friends and in-laws generally called him John, while his blood relatives usually continued to call him J.R.
   </p>
   
   <p>
@@ -62,7 +62,7 @@ category: entblog
   </p>
   
   <p>
-    By the age of five, J.R. was working in the cotton fields, singing along with his family as they worked. The family farm was flooded on at least one occasion, which later inspired him to write the song &#8220;Five Feet High and Rising&#8221;. His family's economic and personal struggles during the Depression inspired many of his songs, especially those about other people facing similar difficulties.
+    By the age of five, J.R. was working in the cotton fields, singing along with his family as they worked. The family farm was flooded on at least one occasion, which later inspired him to write the song “Five Feet High and Rising”. His family's economic and personal struggles during the Depression inspired many of his songs, especially those about other people facing similar difficulties.
   </p>
   
   <p>
@@ -82,7 +82,7 @@ category: entblog
   </h5>
   
   <p>
-    While in Air Force training, Cash met Vivian Liberto on July 18, 1951 at a roller skating rink in San Antonio, Texas. A month after his discharge, on August 7, 1954, they were married at St. Anne's Catholic Church in San Antonio. They had four daughters together: Rosanne (born May 24, 1955), Kathleen &#8220;Kathy&#8221; (born April 16, 1956), Cynthia &#8220;Cindy&#8221; (born July 29, 1958), and Tara Joan (born August 24, 1961).
+    While in Air Force training, Cash met Vivian Liberto on July 18, 1951 at a roller skating rink in San Antonio, Texas. A month after his discharge, on August 7, 1954, they were married at St. Anne's Catholic Church in San Antonio. They had four daughters together: Rosanne (born May 24, 1955), Kathleen “Kathy” (born April 16, 1956), Cynthia “Cindy” (born July 29, 1958), and Tara Joan (born August 24, 1961).
   </p>
   
   <h4>
@@ -94,11 +94,11 @@ category: entblog
   </h5>
   
   <p>
-    <a href="/images/2013/03/johnny-cash.jpg"><img class="alignright size-full wp-image-49" alt="johnny-cash" src="/images/2013/03/johnny-cash.jpg" width="299" height="300" /></a>In 1954, the couple moved to Memphis, Tennessee, where he sold appliances while studying to be a radio announcer. At night he played with guitarist Luther Perkins and bassist Marshall Grant. Perkins and Grant were known as the Tennessee Two. Cash worked up the courage to visit the Sun Records studio, hoping to get a recording contract. After auditioning for Sam Phillips, singing mostly gospel songs, Phillips told him to &#8220;go home and sin, then come back with a song I can sell.&#8221; Cash eventually won over Phillips with new songs delivered in his early frenetic style. His first recordings at Sun, &#8220;Hey Porter&#8221; and &#8220;Cry Cry Cry&#8221;, were released in 1955 and met with reasonable success on the country hit parade.
+    <a href="/images/2013/03/johnny-cash.jpg"><img class="alignright size-full wp-image-49" alt="johnny-cash" src="/images/2013/03/johnny-cash.jpg" width="299" height="300" /></a>In 1954, the couple moved to Memphis, Tennessee, where he sold appliances while studying to be a radio announcer. At night he played with guitarist Luther Perkins and bassist Marshall Grant. Perkins and Grant were known as the Tennessee Two. Cash worked up the courage to visit the Sun Records studio, hoping to get a recording contract. After auditioning for Sam Phillips, singing mostly gospel songs, Phillips told him to “go home and sin, then come back with a song I can sell.” Cash eventually won over Phillips with new songs delivered in his early frenetic style. His first recordings at Sun, “Hey Porter” and “Cry Cry Cry”, were released in 1955 and met with reasonable success on the country hit parade.
   </p>
   
   <p>
-    Cash's next record, <i>Folsom Prison Blues</i>, made the country Top 5, and &#8220;I Walk the Line&#8221; became No. 1 on the country charts and entered the pop charts Top 20. Following &#8220;I Walk the Line&#8221; was &#8220;Home of the Blues&#8221;, recorded in July 1957. That same year Cash became the first Sun artist to release a long-playing album. Although he was Sun's most consistently best-selling and prolific artist at that time, Cash felt constrained by his contract with the small label. Elvis Presley had already left Sun, and Phillips was focusing most of his attention and promotion on Jerry Lee Lewis. The following year Cash left the label to sign a lucrative offer with Columbia Records, where his single &#8220;Don't Take Your Guns to Town&#8221; became one of his biggest hits.
+    Cash's next record, <i>Folsom Prison Blues</i>, made the country Top 5, and “I Walk the Line” became No. 1 on the country charts and entered the pop charts Top 20. Following “I Walk the Line” was “Home of the Blues”, recorded in July 1957. That same year Cash became the first Sun artist to release a long-playing album. Although he was Sun's most consistently best-selling and prolific artist at that time, Cash felt constrained by his contract with the small label. Elvis Presley had already left Sun, and Phillips was focusing most of his attention and promotion on Jerry Lee Lewis. The following year Cash left the label to sign a lucrative offer with Columbia Records, where his single “Don't Take Your Guns to Town” became one of his biggest hits.
   </p>
   
   <p>
@@ -110,15 +110,15 @@ category: entblog
   </h5>
   
   <p>
-    As his career was taking off in the early 1960s, Cash started drinking heavily and became addicted to amphetamines and barbiturates. For a brief time, he shared an apartment in Nashville with Waylon Jennings, who was heavily addicted to amphetamines. Cash used the uppers to stay awake during tours. Friends joked about his &#8220;nervousness&#8221; and erratic behavior, many ignoring the warning signs of his worsening drug addiction. In a behind the scenes look at <i>The Johnny Cash Show</i>, Cash claims to have &#8220;tried every drug there was to try.&#8221;
+    As his career was taking off in the early 1960s, Cash started drinking heavily and became addicted to amphetamines and barbiturates. For a brief time, he shared an apartment in Nashville with Waylon Jennings, who was heavily addicted to amphetamines. Cash used the uppers to stay awake during tours. Friends joked about his “nervousness” and erratic behavior, many ignoring the warning signs of his worsening drug addiction. In a behind the scenes look at <i>The Johnny Cash Show</i>, Cash claims to have “tried every drug there was to try.”
   </p>
   
   <p>
-    <a href="/images/2013/03/cash-and-june_250.jpg"><img class="alignleft size-medium wp-image-50" alt="cash-and-june_250" src="/images/2013/03/cash-and-june_250.jpg?w=218" width="218" height="300" /></a>Although in many ways spiraling out of control, Cash's frenetic creativity was still delivering hits. His rendition of &#8220;Ring of Fire&#8221; was a crossover hit, reaching No. 1 on the country charts and entering the Top 20 on the pop charts. The song was written by June Carter and Merle Kilgore. The song was originally performed by Carter's sister, but the signature mariachi-style horn arrangement was provided by Cash, who said that it had come to him in a dream.
+    <a href="/images/2013/03/cash-and-june_250.jpg"><img class="alignleft size-medium wp-image-50" alt="cash-and-june_250" src="/images/2013/03/cash-and-june_250.jpg?w=218" width="218" height="300" /></a>Although in many ways spiraling out of control, Cash's frenetic creativity was still delivering hits. His rendition of “Ring of Fire” was a crossover hit, reaching No. 1 on the country charts and entering the Top 20 on the pop charts. The song was written by June Carter and Merle Kilgore. The song was originally performed by Carter's sister, but the signature mariachi-style horn arrangement was provided by Cash, who said that it had come to him in a dream.
   </p>
   
   <p>
-    In June 1965, his truck caught fire due to an overheated wheel bearing, triggering a forest fire that burnt several hundred acres in Los Padres National Forest in California. When the judge asked Cash why he did it, Cash said, &#8220;I didn't do it, my truck did, and it's dead, so you can't question it.&#8221; The fire destroyed 508 acres (2.06 km<sup>2</sup>), burning the foliage off three mountains and killing 49 of the refuge's 53 endangered condors. Cash was unrepentant: &#8220;I don't care about your damn yellow buzzards.&#8221; The federal government sued him and was awarded $125,127. Johnny eventually settled the case and paid $82,001. Cash said he was the only person ever sued by the government for starting a forest fire.
+    In June 1965, his truck caught fire due to an overheated wheel bearing, triggering a forest fire that burnt several hundred acres in Los Padres National Forest in California. When the judge asked Cash why he did it, Cash said, “I didn't do it, my truck did, and it's dead, so you can't question it.” The fire destroyed 508 acres (2.06 km<sup>2</sup>), burning the foliage off three mountains and killing 49 of the refuge's 53 endangered condors. Cash was unrepentant: “I don't care about your damn yellow buzzards.” The federal government sued him and was awarded $125,127. Johnny eventually settled the case and paid $82,001. Cash said he was the only person ever sued by the government for starting a forest fire.
   </p>
   
   <p>
@@ -126,7 +126,7 @@ category: entblog
   </p>
   
   <p>
-    Cash was also arrested on May 11, 1965, in Starkville, Mississippi, for trespassing late at night onto private property to pick flowers. (This incident gave the spark for the song &#8220;Starkville City Jail&#8221;, which he spoke about on his live <i>At San Quentin</i> prison album.)
+    Cash was also arrested on May 11, 1965, in Starkville, Mississippi, for trespassing late at night onto private property to pick flowers. (This incident gave the spark for the song “Starkville City Jail”, which he spoke about on his live <i>At San Quentin</i> prison album.)
   </p>
   
   <p>
@@ -134,11 +134,11 @@ category: entblog
   </p>
   
   <p>
-    In 1967, Cash's duet with Carter, &#8220;Jackson&#8221;, won a Grammy Award.
+    In 1967, Cash's duet with Carter, “Jackson”, won a Grammy Award.
   </p>
   
   <p>
-    Cash quit using drugs in 1968, after a spiritual epiphany in the Nickajack Cave. June, Maybelle, and Ezra Carter moved into Cash's mansion for a month to help him defeat his addiction. Cash proposed onstage to Carter at a concert at the London Gardens in London, Ontario on February 22, 1968; the couple married a week later (on March 1) in Franklin, Kentucky. June had agreed to marry Cash after he had &#8216;cleaned up'. Rediscovering his Christian faith, taking an &#8220;altar call&#8221; in Evangel Temple, a small church in the Nashville area, Cash chose this church over many larger celebrity churches in the Nashville area because he said that there he was treated like just another parishioner and not a celebrity.
+    Cash quit using drugs in 1968, after a spiritual epiphany in the Nickajack Cave. June, Maybelle, and Ezra Carter moved into Cash's mansion for a month to help him defeat his addiction. Cash proposed onstage to Carter at a concert at the London Gardens in London, Ontario on February 22, 1968; the couple married a week later (on March 1) in Franklin, Kentucky. June had agreed to marry Cash after he had &#8216;cleaned up'. Rediscovering his Christian faith, taking an “altar call” in Evangel Temple, a small church in the Nashville area, Cash chose this church over many larger celebrity churches in the Nashville area because he said that there he was treated like just another parishioner and not a celebrity.
   </p>
   
   <h5>
@@ -150,15 +150,15 @@ category: entblog
   </p>
   
   <p>
-    The Folsom Prison record was introduced by a rendition of his classic &#8220;Folsom Prison Blues&#8221;, while the San Quentin record included the crossover hit single &#8220;A Boy Named Sue&#8221;, a Shel Silverstein-penned novelty song that reached No. 1 on the country charts and No. 2 on the U.S. Top Ten pop charts. The AM versions of the latter contained a couple of profanities which were edited out. The modern CD versions are unedited and uncensored and thus also longer than the original vinyl albums, though they still retain the audience reaction overdubs of the originals.
+    The Folsom Prison record was introduced by a rendition of his classic “Folsom Prison Blues”, while the San Quentin record included the crossover hit single “A Boy Named Sue”, a Shel Silverstein-penned novelty song that reached No. 1 on the country charts and No. 2 on the U.S. Top Ten pop charts. The AM versions of the latter contained a couple of profanities which were edited out. The modern CD versions are unedited and uncensored and thus also longer than the original vinyl albums, though they still retain the audience reaction overdubs of the originals.
   </p>
   
   <p>
-    In addition to his performances at U.S. prisons, Cash also performed at the Österåker Prison in Sweden in 1972. The live album <i>På Österåker</i> (&#8220;At Österåker&#8221;) was released in 1973. Between the songs, Cash can be heard speaking Swedish, which was greatly appreciated by the inmates.
+    In addition to his performances at U.S. prisons, Cash also performed at the Österåker Prison in Sweden in 1972. The live album <i>På Österåker</i> (“At Österåker”) was released in 1973. Between the songs, Cash can be heard speaking Swedish, which was greatly appreciated by the inmates.
   </p>
   
   <h5>
-    &#8220;The Man in Black&#8221;
+    “The Man in Black”
   </h5>
   
   <p>
@@ -170,15 +170,15 @@ category: entblog
   </p>
   
   <p>
-    Another artist who received a major career boost from <i>The Johnny Cash Show</i> was songwriter Kris Kristofferson, who was beginning to make a name for himself as a singer/songwriter. During a live performance of Kristofferson's &#8220;Sunday Mornin' Comin' Down&#8221;, Cash refused to change the lyrics to suit network executives, singing the song with its references to marijuana intact: &#8220;On a Sunday morning sidewalk / I'm wishin', Lord, that I was stoned.&#8221;
+    Another artist who received a major career boost from <i>The Johnny Cash Show</i> was songwriter Kris Kristofferson, who was beginning to make a name for himself as a singer/songwriter. During a live performance of Kristofferson's “Sunday Mornin' Comin' Down”, Cash refused to change the lyrics to suit network executives, singing the song with its references to marijuana intact: “On a Sunday morning sidewalk / I'm wishin', Lord, that I was stoned.”
   </p>
   
   <p>
-    By the early 1970s, he had crystallized his public image as &#8220;The Man in Black&#8221;. He regularly performed dressed all in black, wearing a long black knee-length coat. This outfit stood in contrast to the costumes worn by most of the major country acts in his day: rhinestone suit and cowboy boots. In 1971, Cash wrote the song &#8220;Man in Black&#8221; to help explain his dress code: &#8220;We're doing mighty fine I do suppose/In our streak of lightning cars and fancy clothes/But just so we're reminded of the ones who are held back/Up front there ought to be a man in black.&#8221;
+    By the early 1970s, he had crystallized his public image as “The Man in Black”. He regularly performed dressed all in black, wearing a long black knee-length coat. This outfit stood in contrast to the costumes worn by most of the major country acts in his day: rhinestone suit and cowboy boots. In 1971, Cash wrote the song “Man in Black” to help explain his dress code: “We're doing mighty fine I do suppose/In our streak of lightning cars and fancy clothes/But just so we're reminded of the ones who are held back/Up front there ought to be a man in black.”
   </p>
   
   <p>
-    He and his band had initially worn black shirts because that was the only matching color they had among their various outfits. He wore other colors on stage early in his career, but he claimed to like wearing black both on and off stage. He stated that, political reasons aside, he simply liked black as his on-stage color. To this day, the United States Navy's winter blue service uniform is referred to by sailors as &#8220;Johnny Cashes,&#8221; as the uniform's shirt, tie, and trousers are solid black.
+    He and his band had initially worn black shirts because that was the only matching color they had among their various outfits. He wore other colors on stage early in his career, but he claimed to like wearing black both on and off stage. He stated that, political reasons aside, he simply liked black as his on-stage color. To this day, the United States Navy's winter blue service uniform is referred to by sailors as “Johnny Cashes,” as the uniform's shirt, tie, and trousers are solid black.
   </p>
   
   <p>
@@ -186,7 +186,7 @@ category: entblog
   </p>
   
   <p>
-    He also continued to appear on television, hosting an annual Christmas special on CBS throughout the 1970s. Later television appearances included a role in an episode of <i>Columbo</i>. He also appeared with his wife on an episode of <i>Little House on the Prairie</i> entitled &#8220;The Collection&#8221; and gave a performance as John Brown in the 1985 Civil War television mini-series <i>North and South</i>.
+    He also continued to appear on television, hosting an annual Christmas special on CBS throughout the 1970s. Later television appearances included a role in an episode of <i>Columbo</i>. He also appeared with his wife on an episode of <i>Little House on the Prairie</i> entitled “The Collection” and gave a performance as John Brown in the 1985 Civil War television mini-series <i>North and South</i>.
   </p>
   
   <p>
@@ -194,7 +194,7 @@ category: entblog
   </p>
   
   <p>
-    When invited to perform at the White House for the first time in 1972, President Richard Nixon's office requested that he play &#8220;Okie from Muskogee&#8221; (a satirical Merle Haggard song about people who despised youthful drug users and war protesters) and &#8220;Welfare Cadillac&#8221; (a Guy Drake song that derides the integrity of welfare recipients). Cash declined to play either song and instead played a series of more left-leaning, politically charged songs, including &#8220;The Ballad of Ira Hayes&#8221; (about a brave Native-American World War II veteran who was mistreated upon his return to Arizona), and his own compositions, &#8220;What is Truth?&#8221; and &#8220;Man in Black&#8221;. Cash claimed that the reasons for denying Nixon's song choices were not knowing them and having fairly short notice to rehearse them, rather than any political reason.
+    When invited to perform at the White House for the first time in 1972, President Richard Nixon's office requested that he play “Okie from Muskogee” (a satirical Merle Haggard song about people who despised youthful drug users and war protesters) and “Welfare Cadillac” (a Guy Drake song that derides the integrity of welfare recipients). Cash declined to play either song and instead played a series of more left-leaning, politically charged songs, including “The Ballad of Ira Hayes” (about a brave Native-American World War II veteran who was mistreated upon his return to Arizona), and his own compositions, “What is Truth?” and “Man in Black”. Cash claimed that the reasons for denying Nixon's song choices were not knowing them and having fairly short notice to rehearse them, rather than any political reason.
   </p>
   
   <h5>
@@ -214,15 +214,15 @@ category: entblog
   </p>
   
   <p>
-    At a hospital visit in 1988, this time to watch over Waylon Jennings (who was recovering from a heart attack), Jennings suggested that Cash have himself checked into the hospital for his own heart condition. Doctors recommended preventive heart surgery, and Cash underwent double bypass surgery in the same hospital. Both recovered, although Cash refused to use any prescription painkillers, fearing a relapse into dependency. Cash later claimed that during his operation, he had what is called a &#8220;near death experience&#8221;. He said he had visions of Heaven that were so beautiful that he was angry when he woke up alive.
+    At a hospital visit in 1988, this time to watch over Waylon Jennings (who was recovering from a heart attack), Jennings suggested that Cash have himself checked into the hospital for his own heart condition. Doctors recommended preventive heart surgery, and Cash underwent double bypass surgery in the same hospital. Both recovered, although Cash refused to use any prescription painkillers, fearing a relapse into dependency. Cash later claimed that during his operation, he had what is called a “near death experience”. He said he had visions of Heaven that were so beautiful that he was angry when he woke up alive.
   </p>
   
   <p>
-    Cash's recording career and his general relationship with the Nashville establishment were at an all-time low in the 1980s. He realized that his record label of nearly 30 years, Columbia, was growing indifferent to him and wasn't properly marketing him (he was &#8220;invisible&#8221; during that time, as he said in his autobiography). Cash recorded an intentionally awful song to protest, a self-parody. &#8220;Chicken in Black&#8221; was about Johnny's brain being transplanted into a chicken. Ironically, the song turned out to be a larger commercial success than any of his other recent material. Nevertheless, he was hoping to kill the relationship with the label before they did, and it was not long after &#8220;Chicken in Black&#8221; that Columbia and Cash parted ways.
+    Cash's recording career and his general relationship with the Nashville establishment were at an all-time low in the 1980s. He realized that his record label of nearly 30 years, Columbia, was growing indifferent to him and wasn't properly marketing him (he was “invisible” during that time, as he said in his autobiography). Cash recorded an intentionally awful song to protest, a self-parody. “Chicken in Black” was about Johnny's brain being transplanted into a chicken. Ironically, the song turned out to be a larger commercial success than any of his other recent material. Nevertheless, he was hoping to kill the relationship with the label before they did, and it was not long after “Chicken in Black” that Columbia and Cash parted ways.
   </p>
   
   <p>
-    <a href="/images/2013/03/johnnycash-elvis.jpg"><img class="alignright size-medium wp-image-53" alt="JohnnyCash elvis" src="/images/2013/03/johnnycash-elvis.jpg?w=229" width="229" height="300" /></a>In 1986, Cash returned to Sun Studios in Memphis to team up with Roy Orbison, Jerry Lee Lewis, and Carl Perkins to create the album <i>Class of '55</i>. This was not the first time he had teamed up with Lewis and Perkins at Sun Studios. On December 4, 1956, Elvis Presley dropped in on Phillips to pay a social visit while Perkins was in the studio cutting new tracks, with Lewis backing him on piano. Cash was also in the studio and the four started an impromptu jam session. Phillips left the tapes running and the recordings, almost half of which were gospel songs, survived and have been released on CD under the title <i>Million Dollar Quartet</i>. Tracks also include Chuck Berry's &#8220;Brown Eyed Handsome Man&#8221;, Pat Boone's &#8220;Don't Forbid Me&#8221;, and Elvis doing an impersonation of Jackie Wilson (who was then with Billy Ward and the Dominoes) singing &#8220;Don't Be Cruel&#8221;.
+    <a href="/images/2013/03/johnnycash-elvis.jpg"><img class="alignright size-medium wp-image-53" alt="JohnnyCash elvis" src="/images/2013/03/johnnycash-elvis.jpg?w=229" width="229" height="300" /></a>In 1986, Cash returned to Sun Studios in Memphis to team up with Roy Orbison, Jerry Lee Lewis, and Carl Perkins to create the album <i>Class of '55</i>. This was not the first time he had teamed up with Lewis and Perkins at Sun Studios. On December 4, 1956, Elvis Presley dropped in on Phillips to pay a social visit while Perkins was in the studio cutting new tracks, with Lewis backing him on piano. Cash was also in the studio and the four started an impromptu jam session. Phillips left the tapes running and the recordings, almost half of which were gospel songs, survived and have been released on CD under the title <i>Million Dollar Quartet</i>. Tracks also include Chuck Berry's “Brown Eyed Handsome Man”, Pat Boone's “Don't Forbid Me”, and Elvis doing an impersonation of Jackie Wilson (who was then with Billy Ward and the Dominoes) singing “Don't Be Cruel”.
   </p>
   
   <p>
@@ -238,11 +238,11 @@ category: entblog
   </p>
   
   <p>
-    In 1991, Cash sang lead vocals on a cover version of &#8220;Man in Black&#8221; for the Christian punk band One Bad Pig's album <i>I Scream Sunday</i>.
+    In 1991, Cash sang lead vocals on a cover version of “Man in Black” for the Christian punk band One Bad Pig's album <i>I Scream Sunday</i>.
   </p>
   
   <p>
-    His career was rejuvenated in the 1990s, leading to popularity among a younger audience not traditionally interested in country music. In 1993, he sang the vocal on U2's &#8220;The Wanderer&#8221; for their album <i>Zooropa</i>. Although he was no longer sought after by major labels, Cash was approached by producer Rick Rubin and offered a contract with Rubin's American Recordings label, better known for rap and hard rock.
+    His career was rejuvenated in the 1990s, leading to popularity among a younger audience not traditionally interested in country music. In 1993, he sang the vocal on U2's “The Wanderer” for their album <i>Zooropa</i>. Although he was no longer sought after by major labels, Cash was approached by producer Rick Rubin and offered a contract with Rubin's American Recordings label, better known for rap and hard rock.
   </p>
   
   <p>
@@ -258,11 +258,11 @@ category: entblog
   </h4>
   
   <p>
-    <a href="/images/2013/03/music_johnny_cash_1_400.jpg"><img class="alignleft size-medium wp-image-54" alt="music_johnny_cash_1_400" src="/images/2013/03/music_johnny_cash_1_400.jpg?w=225" width="225" height="300" /></a>In 1997, Cash was diagnosed with the neurodegenerative disease Shy-Drager syndrome. The diagnosis was later altered to autonomic neuropathy associated with diabetes. This illness forced Cash to curtail his touring. He was hospitalized in 1998 with severe pneumonia, which damaged his lungs. The albums <i>American III: Solitary Man</i> (2000) and <i>American IV: The Man Comes Around</i> (2002) contained Cash's response to his illness in the form of songs of a slightly more somber tone than the first two American albums. The video that was released for &#8220;Hurt&#8221;, a song by Trent Reznor of Nine Inch Nails, fit Cash's view of his past and feelings of regret. The video for the song is now generally recognized as &#8220;his epitaph,&#8221; from <i>American IV</i>; and received particular critical and popular acclaim.
+    <a href="/images/2013/03/music_johnny_cash_1_400.jpg"><img class="alignleft size-medium wp-image-54" alt="music_johnny_cash_1_400" src="/images/2013/03/music_johnny_cash_1_400.jpg?w=225" width="225" height="300" /></a>In 1997, Cash was diagnosed with the neurodegenerative disease Shy-Drager syndrome. The diagnosis was later altered to autonomic neuropathy associated with diabetes. This illness forced Cash to curtail his touring. He was hospitalized in 1998 with severe pneumonia, which damaged his lungs. The albums <i>American III: Solitary Man</i> (2000) and <i>American IV: The Man Comes Around</i> (2002) contained Cash's response to his illness in the form of songs of a slightly more somber tone than the first two American albums. The video that was released for “Hurt”, a song by Trent Reznor of Nine Inch Nails, fit Cash's view of his past and feelings of regret. The video for the song is now generally recognized as “his epitaph,” from <i>American IV</i>; and received particular critical and popular acclaim.
   </p>
   
   <p>
-    June Carter Cash died on May 15, 2003, at the age of seventy-three. June had told Cash to keep working, so he continued to record and even performed a couple of surprise shows at the Carter Family Fold outside Bristol, Virginia. (The July 5, 2003 concert was his final public appearance.) At the June 21, 2003 concert, before singing &#8220;Ring of Fire&#8221;, Cash read a statement about his late wife that he had written shortly before taking the stage. He spoke of how June's spirit was watching over him and how she had come to visit him before going on stage. He barely made it through the song. Despite his poor health, he spoke of looking forward to the day when he could walk again and toss his wheelchair into the river near his home.
+    June Carter Cash died on May 15, 2003, at the age of seventy-three. June had told Cash to keep working, so he continued to record and even performed a couple of surprise shows at the Carter Family Fold outside Bristol, Virginia. (The July 5, 2003 concert was his final public appearance.) At the June 21, 2003 concert, before singing “Ring of Fire”, Cash read a statement about his late wife that he had written shortly before taking the stage. He spoke of how June's spirit was watching over him and how she had come to visit him before going on stage. He barely made it through the song. Despite his poor health, he spoke of looking forward to the day when he could walk again and toss his wheelchair into the river near his home.
   </p>
   
   <p>
@@ -314,15 +314,15 @@ category: entblog
   </p>
   
   <p>
-    In a tribute to Cash after his death, country music singer Gary Allan included the song &#8220;Nickajack Cave (Johnny Cash's Redemption)&#8221; on his 2005 album entitled <i>Tough All Over</i>. The song chronicles Cash hitting rock bottom and subsequently resurrecting his life and career.
+    In a tribute to Cash after his death, country music singer Gary Allan included the song “Nickajack Cave (Johnny Cash's Redemption)” on his 2005 album entitled <i>Tough All Over</i>. The song chronicles Cash hitting rock bottom and subsequently resurrecting his life and career.
   </p>
   
   <p>
-    The main street in Hendersonville, Tennessee, Highway 31E, is known as &#8220;Johnny Cash Parkway&#8221;.
+    The main street in Hendersonville, Tennessee, Highway 31E, is known as “Johnny Cash Parkway”.
   </p>
   
   <p>
-    On November 2 – November 4, 2007 the Johnny Cash Flower Pickin' Festival was held in Starkville, Mississippi. Starkville, where Cash was arrested over 40 years earlier and held overnight at the city jail on May 11, 1965, inspired Cash to write the song &#8220;Starkville City Jail&#8221;. The festival, where he was offered a symbolic posthumous pardon, honored Cash's life and music, and was expected to become an annual event.
+    On November 2 – November 4, 2007 the Johnny Cash Flower Pickin' Festival was held in Starkville, Mississippi. Starkville, where Cash was arrested over 40 years earlier and held overnight at the city jail on May 11, 1965, inspired Cash to write the song “Starkville City Jail”. The festival, where he was offered a symbolic posthumous pardon, honored Cash's life and music, and was expected to become an annual event.
   </p>
   
   <h5>
@@ -330,7 +330,7 @@ category: entblog
   </h5>
   
   <p>
-    <a href="/images/2013/03/johnnycash-unearthed.jpg"><img class="alignright size-medium wp-image-57" alt="JohnnyCash-Unearthed" src="/images/2013/03/johnnycash-unearthed.jpg?w=300" width="300" height="300" /></a>In 1998, country singer Mark Collie portrayed Cash for the first time in a short film, &#8220;I Still Miss Someone&#8221;. Shot mostly in black and white, it attempts to capture a moment in time for Cash during his darkest years, the mid 1960s.
+    <a href="/images/2013/03/johnnycash-unearthed.jpg"><img class="alignright size-medium wp-image-57" alt="JohnnyCash-Unearthed" src="/images/2013/03/johnnycash-unearthed.jpg?w=300" width="300" height="300" /></a>In 1998, country singer Mark Collie portrayed Cash for the first time in a short film, “I Still Miss Someone”. Shot mostly in black and white, it attempts to capture a moment in time for Cash during his darkest years, the mid 1960s.
   </p>
   
   <p>
@@ -1960,7 +1960,7 @@ category: entblog
   </h5>
   
   <p>
-    The American Recordings series is produced by Rick Rubin and contains the only newly-recorded material released after 1990. These albums are known for their relaxed, laidback feel and for featuring many covers and collaborations with other well-known artists. One song from these sessions, &#8220;A Satisfied Mind,&#8221; was used in the Tarantino movie <i>Kill Bill Volume 2</i> and has only been released on the soundtrack.
+    The American Recordings series is produced by Rick Rubin and contains the only newly-recorded material released after 1990. These albums are known for their relaxed, laidback feel and for featuring many covers and collaborations with other well-known artists. One song from these sessions, “A Satisfied Mind,” was used in the Tarantino movie <i>Kill Bill Volume 2</i> and has only been released on the soundtrack.
   </p>
   
   <table style="width: 590px;" width="599" border="1" cellspacing="0" cellpadding="2">
@@ -2178,7 +2178,7 @@ category: entblog
   </p>
   
   <p>
-    <a href="/images/2013/03/san-diego-johnny-cash.jpg"><img class="alignright size-medium wp-image-59" alt="san-diego-johnny-cash" src="/images/2013/03/san-diego-johnny-cash.jpg?w=300" width="300" height="225" /></a>In a career that spanned almost five decades, Cash was the personification of country music to many people around the world. Cash was a musician who was not tied to a single genre. He recorded songs that could be considered rock and roll, blues, rockabilly, folk, and gospel, and exerted an influence on each of those genres. Moreover, he had the unique distinction among country artists of having &#8220;crossed over&#8221; late in his career to become popular with an unexpected demographic, young indie and alternative rock fans. His diversity was evidenced by his presence in three major music halls of fame: the Nashville Songwriters Hall of Fame (1977), the Country Music Hall of Fame (1980), and the Rock and Roll Hall of Fame (1992). Only thirteen performers are in both of the last two, and only Hank Williams Sr., Jimmie Rodgers, and Bill Monroe share the honor with Cash of being in all three. However, only Cash was inducted into the Rock and Roll Hall of Fame in the regular manner, unlike the other country members, who were inducted as &#8220;early influences.&#8221; His pioneering contribution to the genre has also been recognized by the Rockabilly Hall of Fame. He received the Kennedy Center Honors in 1996. Cash stated that his induction into the Country Music Hall of Fame, in 1980, was his greatest professional achievement.
+    <a href="/images/2013/03/san-diego-johnny-cash.jpg"><img class="alignright size-medium wp-image-59" alt="san-diego-johnny-cash" src="/images/2013/03/san-diego-johnny-cash.jpg?w=300" width="300" height="225" /></a>In a career that spanned almost five decades, Cash was the personification of country music to many people around the world. Cash was a musician who was not tied to a single genre. He recorded songs that could be considered rock and roll, blues, rockabilly, folk, and gospel, and exerted an influence on each of those genres. Moreover, he had the unique distinction among country artists of having “crossed over” late in his career to become popular with an unexpected demographic, young indie and alternative rock fans. His diversity was evidenced by his presence in three major music halls of fame: the Nashville Songwriters Hall of Fame (1977), the Country Music Hall of Fame (1980), and the Rock and Roll Hall of Fame (1992). Only thirteen performers are in both of the last two, and only Hank Williams Sr., Jimmie Rodgers, and Bill Monroe share the honor with Cash of being in all three. However, only Cash was inducted into the Rock and Roll Hall of Fame in the regular manner, unlike the other country members, who were inducted as “early influences.” His pioneering contribution to the genre has also been recognized by the Rockabilly Hall of Fame. He received the Kennedy Center Honors in 1996. Cash stated that his induction into the Country Music Hall of Fame, in 1980, was his greatest professional achievement.
   </p>
   
   <p>
@@ -2216,7 +2216,7 @@ category: entblog
       1969 – Male Vocalist of the Year
     </li>
     <li>
-      1969 – Single of the Year, &#8220;A Boy Named Sue&#8221;
+      1969 – Single of the Year, “A Boy Named Sue”
     </li>
     <li>
       1969 – Album of the Year, <i>At San Quentin</i>
@@ -2225,10 +2225,10 @@ category: entblog
       1969 – Entertainer of the Year
     </li>
     <li>
-      2003 – Music Video of the Year, &#8220;Hurt&#8221;
+      2003 – Music Video of the Year, “Hurt”
     </li>
     <li>
-      2003 – Single of the Year, &#8220;Hurt&#8221;
+      2003 – Single of the Year, “Hurt”
     </li>
     <li>
       2003 – Album of the Year, <i>American IV: The Man Comes Around</i>
@@ -2241,25 +2241,25 @@ category: entblog
   
   <ul>
     <li>
-      1968 – Best Country & Western Performance, Duet, Trio Or Group, &#8220;Jackson&#8221; (with June Carter Cash)
+      1968 – Best Country & Western Performance, Duet, Trio Or Group, “Jackson” (with June Carter Cash)
     </li>
     <li>
-      1969 – Best Male Country Vocal, &#8220;Folsom Prison Blues&#8221;
+      1969 – Best Male Country Vocal, “Folsom Prison Blues”
     </li>
     <li>
       1969 – Best Album Notes, <i>At Folsom Prison</i>
     </li>
     <li>
-      1970 – Best Male Country Vocal, &#8220;A Boy Named Sue&#8221;
+      1970 – Best Male Country Vocal, “A Boy Named Sue”
     </li>
     <li>
-      1970 – Best Country Song, &#8220;A Boy Named Sue&#8221; by Shel Silverstein
+      1970 – Best Country Song, “A Boy Named Sue” by Shel Silverstein
     </li>
     <li>
       1970 – Best Album Notes (written by Cash) for Bob Dylan's <i>Nashville Skyline</i>
     </li>
     <li>
-      1971 – Best Country Performance by a Duo or Group with Vocal, &#8220;If I Were A Carpenter&#8221;, with June Carter Cash
+      1971 – Best Country Performance by a Duo or Group with Vocal, “If I Were A Carpenter”, with June Carter Cash
     </li>
     <li>
       1987 – Best Spoken Word or Non-musical Album, <i>Interviews From the Class of '55 Recording Sessions</i>, with Carl Perkins, Chips Moman, Jerry Lee Lewis, Johnny Cash, Ricky Nelson, Roy Orbison and Sam Phillips
@@ -2274,22 +2274,22 @@ category: entblog
       1999 – Lifetime Achievement
     </li>
     <li>
-      2001 – Best Country Male Vocal, &#8220;Solitary Man&#8221;
+      2001 – Best Country Male Vocal, “Solitary Man”
     </li>
     <li>
-      2002 – Best Country Album, <i>Timeless: Hank Williams Tribute</i> (Cash contributed a cover of &#8220;I Dreamed About Mama Last Night&#8221;)
+      2002 – Best Country Album, <i>Timeless: Hank Williams Tribute</i> (Cash contributed a cover of “I Dreamed About Mama Last Night”)
     </li>
     <li>
-      2003 – Best Country Male Vocal, &#8220;Give My Love To Rose&#8221;
+      2003 – Best Country Male Vocal, “Give My Love To Rose”
     </li>
     <li>
-      2004 – Best Short Form Video, &#8220;Hurt&#8221;, directed by Mark Romanek
+      2004 – Best Short Form Video, “Hurt”, directed by Mark Romanek
     </li>
     <li>
-      2006 – Best Boxed or Special Limited Edition Package, &#8220;The Legend&#8221;
+      2006 – Best Boxed or Special Limited Edition Package, “The Legend”
     </li>
     <li>
-      2008 – Best Short Form Video, &#8220;God's Gonna Cut You Down&#8221;
+      2008 – Best Short Form Video, “God's Gonna Cut You Down”
     </li>
   </ul>
   
@@ -2299,10 +2299,10 @@ category: entblog
   
   <ul>
     <li>
-      2002 &#8211; First Amendment Center &#8220;Spirit of Americana&#8221; Free Speech Award
+      2002 &#8211; First Amendment Center “Spirit of Americana” Free Speech Award
     </li>
     <li>
-      2003 &#8211; Song of the Year (Artist), &#8220;Hurt&#8221;
+      2003 &#8211; Song of the Year (Artist), “Hurt”
     </li>
     <li>
       2003 &#8211; Album of the Year, <i>American IV: The Man Comes Around</i> (Lost Highway)
@@ -2323,7 +2323,7 @@ category: entblog
   
   <ul>
     <li>
-      1985 – Single of the Year, &#8220;Highwayman&#8221; (with The Highwaymen) – Academy Of Country Music
+      1985 – Single of the Year, “Highwayman” (with The Highwaymen) – Academy Of Country Music
     </li>
     <li>
       1989 – Living Legend – Music City News
@@ -2342,10 +2342,10 @@ category: entblog
   
   <ol>
     <li>
-      <a href="http://www.countrymusichalloffame.com/site/inductees.aspx?cid=107#">&#8220;Johnny Cash's Story,&#8221;</a> Country Music Hall of Fame
+      <a href="http://www.countrymusichalloffame.com/site/inductees.aspx?cid=107#">“Johnny Cash's Story,”</a> Country Music Hall of Fame
     </li>
     <li>
-      Dalton, Stephanie. 15 Jan 2006. <a href="http://heritage.scotsman.com/people.cfm?id=66542006">&#8220;Walking the line back in time.&#8221;</a> <i>Scotsman.com</i>. Retrieved 28 June 2007.
+      Dalton, Stephanie. 15 Jan 2006. <a href="http://heritage.scotsman.com/people.cfm?id=66542006">“Walking the line back in time.”</a> <i>Scotsman.com</i>. Retrieved 28 June 2007.
     </li>
     <li>
       Cash, John R. with Patrick Carr. (1997) <i>Johnny Cash, the Autobiography</i>. Harper Collins. p.3.
@@ -2375,13 +2375,13 @@ category: entblog
       Rolling Stone Magazine, The Rolling Stone Encyclopedia of Rock & Roll, 2004 (bibliographic information is needed for this reference)
     </li>
     <li>
-      &#8220;<a href="http://www.youtube.com/watch?v=vJ2IBYNmX6U">Johnny Cash Final Performances Part 2</a>&#8220;. YouTube. Retrieved on 2008-07-06.
+      “<a href="http://www.youtube.com/watch?v=vJ2IBYNmX6U">Johnny Cash Final Performances Part 2</a>“. YouTube. Retrieved on 2008-07-06.
     </li>
     <li>
-      &#8220;<a href="http://www.youtube.com/watch?v=I1ymGK-0ahw">Johnny Cash Final Performances Part 3</a>&#8220;. YouTube. Retrieved on 2008-07-06.
+      “<a href="http://www.youtube.com/watch?v=I1ymGK-0ahw">Johnny Cash Final Performances Part 3</a>“. YouTube. Retrieved on 2008-07-06.
     </li>
     <li>
-      &#8220;<a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/04/10/entertainment/e130053D58.DTL">Fire Reported at Johnny Cash Tenn. Home</a>&#8220;. San Francisco Chronicle. Retrieved on 2007-12-31.
+      “<a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/04/10/entertainment/e130053D58.DTL">Fire Reported at Johnny Cash Tenn. Home</a>“. San Francisco Chronicle. Retrieved on 2007-12-31.
     </li>
     <li>
       <a href="http://www.sos-childrensvillages.org/Get-involved/Celebrities-as-partners/Pages/Johnny-Cash.aspx">Johnny Cash profile</a> at SOS Children's Villages
@@ -2390,19 +2390,19 @@ category: entblog
       <a href="http://www.sos-usa.org/About-SOS/what-is-sos/sos-supporters/johnny-cash/Pages/default.aspx">Johnny Cash profile</a> at SOS Children's Villages &#8211; USA
     </li>
     <li>
-      Kristofferson, Kris. &#8220;<a href="http://www.rollingstone.com/news/story/5940054/31_johnny_cash">31) Johnny Cash</a>&#8220;. <i>Issue 946</i>. Rolling Stone. Retrieved on 2007-12-31.
+      Kristofferson, Kris. “<a href="http://www.rollingstone.com/news/story/5940054/31_johnny_cash">31) Johnny Cash</a>“. <i>Issue 946</i>. Rolling Stone. Retrieved on 2007-12-31.
     </li>
     <li>
-      &#8220;<a href="http://www.rollingstone.com/news/story/5939214/the_immortals_the_first_fifty">The Immortals: The First Fifty</a>&#8220;. <i>Issue 946</i>. Rolling Stone. Retrieved on 2007-12-31.
+      “<a href="http://www.rollingstone.com/news/story/5939214/the_immortals_the_first_fifty">The Immortals: The First Fifty</a>“. <i>Issue 946</i>. Rolling Stone. Retrieved on 2007-12-31.
     </li>
     <li>
-      &#8220;<a href="http://www.msnbc.msn.com/id/20611738/">Mississippi town to honor the ‘Man in Black’</a>&#8220;. MSNBC. Retrieved on 2007-12-31.
+      “<a href="http://www.msnbc.msn.com/id/20611738/">Mississippi town to honor the ‘Man in Black’</a>“. MSNBC. Retrieved on 2007-12-31.
     </li>
     <li>
-      &#8220;<a href="http://www.rockabillyhall.com/Certificates.html">RHOF Inductees with Certificates</a>&#8220;. Rockabilly Hall of Fame. Retrieved on 2007-12-31.
+      “<a href="http://www.rockabillyhall.com/Certificates.html">RHOF Inductees with Certificates</a>“. Rockabilly Hall of Fame. Retrieved on 2007-12-31.
     </li>
     <li>
-      &#8220;<a href="http://www.hitparadehalloffame.org/xhtml_heads/Candidates/Inductee_johnny_cash.html">Johnny Cash</a>&#8220;. Hit Parade Hall of Fame. Retrieved on 2007-12-31.
+      “<a href="http://www.hitparadehalloffame.org/xhtml_heads/Candidates/Inductee_johnny_cash.html">Johnny Cash</a>“. Hit Parade Hall of Fame. Retrieved on 2007-12-31.
     </li>
     <li>
       <cite>Gross, Terry (2006). <i>All I Did Was Ask: Conversations with Writers, Actors, Musicians, and Artists</i>. Hyperion. ISBN 1-4013-0010-3.</cite>

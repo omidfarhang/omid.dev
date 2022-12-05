@@ -19,6 +19,6 @@ CAPTCHAS is an acronym for “completely automated public Turing test to tell co
 
 Macduff Hughes, an engineering director at Google said “It can’t be helped that paid human solvers will be able to solve CAPTCHAS. Our goal is to make mass account creation less attractive to spammers, and the fact that spammers have to pay people to solve CAPTCHAS proves that the tool is working.”
 
-Story here: &#8220;[Spammers Pay Others to Answer Security Tests](http://www.nytimes.com/2010/04/26/technology/26captcha.html?hpw)&#8220;
+Story here: “[Spammers Pay Others to Answer Security Tests](http://www.nytimes.com/2010/04/26/technology/26captcha.html?hpw)“
 
 Well, it’s at least good to know that all that irritating spam is providing spending money for adolescents in third world countries. But that’s a little bit like saying that the upside to the Irish potato famine was that it made work for businesses that sold coffin hinges.

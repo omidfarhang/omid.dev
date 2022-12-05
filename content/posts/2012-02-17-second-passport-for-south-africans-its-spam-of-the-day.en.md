@@ -16,7 +16,7 @@ category: techblog
 
 <tt>Hi GCLULEY,</tt>
 
-Hi. Why the caps? And just &#8220;Graham&#8221; would be fine. 
+Hi. Why the caps? And just “Graham” would be fine. 
 
 <tt>Do you find ONLY having a South African passport limiting?</tt>
 

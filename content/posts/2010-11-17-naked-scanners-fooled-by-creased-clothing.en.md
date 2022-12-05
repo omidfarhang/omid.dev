@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-**Controversial &#8220;naked&#8221; body scanners currently being tested at Hamburg's airport are constantly malfunctioning due to folds in passengers' clothing, broadcaster NDR reported on Tuesday.**
+**Controversial “naked” body scanners currently being tested at Hamburg's airport are constantly malfunctioning due to folds in passengers' clothing, broadcaster NDR reported on Tuesday.**
 
 [<img title="naked scanner" border="0" alt="naked scanner" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TORDP6ivlnI/AAAAAAAADKs/zxbeXOdqFgw/naked%20scanner_thumb%5B2%5D.jpg?imgmax=800" width="304" height="187" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TORDKY31tGI/AAAAAAAADKo/gkaYx2GCSpw/s1600-h/naked%20scanner%5B5%5D.jpg)The public radio station said the trial of the body imaging security scanners has been plagued by serious problems. The units, which have been in use since September, are apparently unable to tell the difference between foreign objects and such things like pleated clothing.
 

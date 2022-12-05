@@ -18,11 +18,11 @@ A spokesman for MySpace who refused to be named told CNN that it shares informat
 
 MySpace users have been at risk of having any public information they post on their profiles released to outside advertisers. When users click on advertisements on the site, their user IDs are released to third-party vendors who have been able to use the public information displayed on a user's personal page and release it to other companies.
 
-The company told CNN in a statement that the site shares &#8220;non-personally identifiable information with advertising companies as part of our ad serving process.&#8221;
+The company told CNN in a statement that the site shares “non-personally identifiable information with advertising companies as part of our ad serving process.”
 
-&#8220;It has come to our attention that several third-party app developers may have violated these terms and we are taking appropriate action against those developers,&#8221; the spokesman said. He said the company prohibits third-party developers from sharing any user data, including a user ID, with other entities.
+“It has come to our attention that several third-party app developers may have violated these terms and we are taking appropriate action against those developers,” the spokesman said. He said the company prohibits third-party developers from sharing any user data, including a user ID, with other entities.
 
-One of the apps that was in violation of MySpace's user privacy policy was the &#8220;Tag Me,&#8221; application. Upon notification of this violation, the application was briefly suspended from the site, according to MySpace.
+One of the apps that was in violation of MySpace's user privacy policy was the “Tag Me,” application. Upon notification of this violation, the application was briefly suspended from the site, according to MySpace.
 
 MySpace maintains that it collects user information for metrics and analytics purposes and only reveals information that is made public by users on their personal profiles.
 

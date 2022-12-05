@@ -24,7 +24,7 @@ I've asked Microsoft officials if there's anything else worth noting that is par
 
 I just checked to see what version of MSE I was running on my Windows 7 PC and it was a 2.X release. I'm wondering whether that means Microsoft doesn't push updates of this service to users via Windows Update or whether the most recent release before this one was 2.X. 
 
-The aforementioned spokesperson did say, when I asked, that &#8220;this version of Microsoft Security Essentials will be made available to existing customers automatically through the Microsoft Update service.&#8221; 
+The aforementioned spokesperson did say, when I asked, that “this version of Microsoft Security Essentials will be made available to existing customers automatically through the Microsoft Update service.” 
 
 Just a reminder about MSE's origins: MSE was aimed first and foremost at users who either can't or won't pay for antivirus/anti-malware software, with the idea being that more secure Windows PCs mean less security risks for all Windows users. With MSE, there is no registration required, no trials with an expiration date or required renewals. But Microsoft does restrict the MSE download (both the beta and final) to PCs running Genuine Windows (which has been authenticated as non-pirated). 
 

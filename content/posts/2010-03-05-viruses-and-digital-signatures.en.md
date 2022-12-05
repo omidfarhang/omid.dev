@@ -16,9 +16,9 @@ Recently, We received some malicious files which appeared to be signed by “Ado
 
 Although the files are signed, they are signed using an unauthenticated CA (Certificate Authority) which is masquerading as Verisign. A CA is a trusted third party that issues and signs the certificate and vouches for the authenticity of the file. Each CA should be registered and therefore recognized globally as a trusted signer. The signature on the certificate is verified by the signer’s public key.
 
-What the malware authors have tried here is to create their own CA and attempt to use it to sign these malicious files. They chose a misleading name for their CA, namely &#8220;Verisign&#8221;, but their private key used for signing will obviously be different from the authentic Verisign CA key. Therefore this renders their CA untrustworthy so that, while the file still has a valid signature, it is not from the real Verisign CA.
+What the malware authors have tried here is to create their own CA and attempt to use it to sign these malicious files. They chose a misleading name for their CA, namely “Verisign”, but their private key used for signing will obviously be different from the authentic Verisign CA key. Therefore this renders their CA untrustworthy so that, while the file still has a valid signature, it is not from the real Verisign CA.
 
-Also, although the file is correctly signed by a company called &#8220;Adobe Systems Incorporated,&#8221; that company has been certified by their fake Verisign CA and therefore has no meaning or relation to the real &#8220;Adobe Systems Incorporated.&#8221;
+Also, although the file is correctly signed by a company called “Adobe Systems Incorporated,” that company has been certified by their fake Verisign CA and therefore has no meaning or relation to the real “Adobe Systems Incorporated.”
 
 Shown below are the real and fake Verisign CA signed files. On the left you can see that the certificate chain is not trusted all the way to the root where as on the right side (a real Adobe file) the certification chain is trusted up to the root.
 

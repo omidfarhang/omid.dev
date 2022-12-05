@@ -32,8 +32,8 @@ It is not easy to move from one to another platform without losing contents to w
 
 That's not all, recently I've started developing 2 new Windows based applications, one of them is a new download manager that works different than common Download Managers that download files directly from source (This is something totally new), the other program is a tool that's going to help me with offer a better customer service, it's a tool that run in the customers PC and collect the information I need, extract logs, read the user settings, take screenshots and save all of them into a single file prepared for sending me, and give user 2 options if they want to send the file to me themselves or let the program upload it Support Center and Open a New Ticket for them. Developments of both of these programs are in progress and I'm in middle of both of them, first program (Download Manager) needs lots of coding in server side too.
 
-* Developing &#8220;Download Manager&#8221;. <span style="color: #ff9900;">[In Progress &#8211; ~50% done]</span>
-* Developing &#8220;Support Collector&#8221;. <span style="color: #ff9900;">[In Progress &#8211; ~10% done]</span>
+* Developing “Download Manager”. <span style="color: #ff9900;">[In Progress &#8211; ~50% done]</span>
+* Developing “Support Collector”. <span style="color: #ff9900;">[In Progress &#8211; ~10% done]</span>
 
 So what I'm trying to do is split my time between all of these projects and my own personal life, while I've other stuff to do, like my language class, meeting friends, my customers, sleeping, eating, bath, Shopping, spending time with family, reading, social networks and forums and&#8230;
 

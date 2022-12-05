@@ -29,18 +29,18 @@ The one-size-fits-all approach to PCs makes sense for Symantec at a time when se
 
 People who want a premium version of Norton Security and Antivirus on an Android phone today have a choice: pay $30 for an in-app purchase, or buy the larger subscription and log in as a premium user. (People using iOS can't buy the premium version through the app.)
 
-The free version of the Android app scans downloads for malware, while the full version includes antitheft controls, backup, call blocking and an app monitor that looks for suspicious or &#8220;unnecessary&#8221; activity, such as personal data getting uploaded to the cloud.
+The free version of the Android app scans downloads for malware, while the full version includes antitheft controls, backup, call blocking and an app monitor that looks for suspicious or “unnecessary” activity, such as personal data getting uploaded to the cloud.
 
 While Symantec is putting all of its Norton products under one PC roof, it will continue to have separate smartphone apps that perform specific tasks.
 
-Norton apps are available for iOS, but Mr. Rosch said Symantec isn't focusing on iPhones and iPads. The way Apple controls its mobile OS and app distribution makes the platform less of a security challenge, he said. There is more opportunity on Android, which is considered a more &#8220;open&#8221; OS.
+Norton apps are available for iOS, but Mr. Rosch said Symantec isn't focusing on iPhones and iPads. The way Apple controls its mobile OS and app distribution makes the platform less of a security challenge, he said. There is more opportunity on Android, which is considered a more “open” OS.
 
-Perhaps the best news for consumers: As part of the transition, Symantec is easing back on preinstalled promotional software that many PC buyers have come to label &#8220;junkware.&#8221; Mr. Rosch says the placement isn't worth the cost. To make the same profit as it does on one direct-subscription sale, he said, Symantec needs to convert about five of the trial software users. The company declined to say how much it pays to place trial versions of its software on PCs.
+Perhaps the best news for consumers: As part of the transition, Symantec is easing back on preinstalled promotional software that many PC buyers have come to label “junkware.” Mr. Rosch says the placement isn't worth the cost. To make the same profit as it does on one direct-subscription sale, he said, Symantec needs to convert about five of the trial software users. The company declined to say how much it pays to place trial versions of its software on PCs.
 
 That doesn't mean Symantec is walking away from its core PC audience. It is working on a touch-friendly Windows 8 app, which could give Norton more visibility in Microsoft's Windows App Store. Thirty percent of Norton's users are running the software on Windows 8—but only in the classic desktop version, not the touch-friendly version, the company said.
 
-The other area Symantec is turning its attention to is the &#8220;Internet of Things,&#8221; Mr. Rosch said. Symantec is working with manufacturers to lock down the connected devices they build. Tiny gadgets built for specific purposes usually don't have the horsepower or battery juice to scan for viruses, Mr. Rosch said, but Symantec has software that can help &#8220;white list&#8221; appropriate programs to safeguard them from malware.
+The other area Symantec is turning its attention to is the “Internet of Things,” Mr. Rosch said. Symantec is working with manufacturers to lock down the connected devices they build. Tiny gadgets built for specific purposes usually don't have the horsepower or battery juice to scan for viruses, Mr. Rosch said, but Symantec has software that can help “white list” appropriate programs to safeguard them from malware.
 
-Symantec isn't completely ruling out an Internet of Things product of its own in the future, Mr. Rosch said. It already prototyped a &#8220;home security system&#8221; device—complete with a camera—but isn't ready to release it at this time.
+Symantec isn't completely ruling out an Internet of Things product of its own in the future, Mr. Rosch said. It already prototyped a “home security system” device—complete with a camera—but isn't ready to release it at this time.
 
 [<img class="alignnone size-full wp-image-6741" src="/images/2014/08/symant_hq.jpg" alt="symant_hq" width="553" height="369" srcset="/images/sites/3/2014/08/symant_hq.jpg 553w, /images/sites/3/2014/08/symant_hq-300x200.jpg 300w" sizes="(max-width: 553px) 100vw, 553px" />](/images/2014/08/symant_hq.jpg)

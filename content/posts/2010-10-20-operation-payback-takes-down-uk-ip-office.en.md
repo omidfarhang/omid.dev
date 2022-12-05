@@ -19,10 +19,10 @@ According to a blog post on the [Panda security blog](http://pandalabs.pandasecu
 
 For example, we see that after the MPAA they went after Gene SImmons, the lead singer of Kiss, before moving on to attack the IPO.
 
-The hackers, who have adopted the banner [Operation Payback](http://tieve.tk/about.php) and the name Anonymous, have penned an open letter &#8220;to whom it concerns&#8221;, in which they spelled out their intentions and their problem with current freedom quashing copyright enforcement.
+The hackers, who have adopted the banner [Operation Payback](http://tieve.tk/about.php) and the name Anonymous, have penned an open letter “to whom it concerns”, in which they spelled out their intentions and their problem with current freedom quashing copyright enforcement.
 
-In its open letter the group warned, &#8220;You are forcing our hand by ignoring the voice of the people. In doing so, you bring the destruction of your iron grip of information ever closer. You have ignored the people, attacked the people and lied to the people. For this, you will be held accountable before the people, and you will be punished by them. We will not stop. We will not forget. We will prevail. We are anonymous.&#8221;
+In its open letter the group warned, “You are forcing our hand by ignoring the voice of the people. In doing so, you bring the destruction of your iron grip of information ever closer. You have ignored the people, attacked the people and lied to the people. For this, you will be held accountable before the people, and you will be punished by them. We will not stop. We will not forget. We will prevail. We are anonymous.”
 
-A note on the [UK IPO website](http://www.ipo.gov.uk/) reads, &#8220;We are currently running a limited service on our website. We are working to resume a full service as soon as possible.&#8221;
+A note on the [UK IPO website](http://www.ipo.gov.uk/) reads, “We are currently running a limited service on our website. We are working to resume a full service as soon as possible.”
 
 Good luck with that, at least until the hackers of Anonymous get bored.

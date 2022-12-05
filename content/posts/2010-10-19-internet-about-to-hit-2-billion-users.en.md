@@ -27,6 +27,6 @@ The report also focuses on the growing availability of, and demand for, faster b
 
 The ITU, an agency of the United Nations that monitors communication technology issues, said these high-speed internet connections, which are increasingly needed to view modern Web content efficiently, are the key to continued growth.
 
-&#8220;Broadband is the next tipping point, the next truly transformational technology,&#8221; Secretary-General Hamadoun Toure said in a written statement. &#8220;It can generate jobs, drive growth and productivity, and underpin long-term economic competitiveness.&#8221;
+“Broadband is the next tipping point, the next truly transformational technology,” Secretary-General Hamadoun Toure said in a written statement. “It can generate jobs, drive growth and productivity, and underpin long-term economic competitiveness.”
 
 Only about 8 percent of the world will have broadband access this year, according to the report.

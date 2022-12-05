@@ -28,4 +28,4 @@ Thank you Alice.
 
 Blog piece [here](http://www.danwei.org/censorship/dirty_jokes_on_mobile_phones.php).
 
-New York Times story &#8220;China to Scan Text Messages to Spot ‘Unhealthy Content’&#8221; [here](http://www.nytimes.com/2010/01/20/world/20text.html?emc=tnt&tntemail1=y).
+New York Times story “China to Scan Text Messages to Spot ‘Unhealthy Content’” [here](http://www.nytimes.com/2010/01/20/world/20text.html?emc=tnt&tntemail1=y).

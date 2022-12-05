@@ -41,4 +41,4 @@ The same November 3, 2008 memo outlines another BC attack that actively infiltra
 
 Microsoft provided the following comment:
 
-&#8220;Microsoft's Government Security Program (GSP) is a global initiative that enables governments to increase their assurance in system security by providing a managed review of Microsoft source code, as well as offering prescriptive security guidance and technical training. Review of source code by participants in the Government Security Program is provided in a managed and audited environment requiring authentication and security measures.&#8221;
+“Microsoft's Government Security Program (GSP) is a global initiative that enables governments to increase their assurance in system security by providing a managed review of Microsoft source code, as well as offering prescriptive security guidance and technical training. Review of source code by participants in the Government Security Program is provided in a managed and audited environment requiring authentication and security measures.”

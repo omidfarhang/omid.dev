@@ -1,5 +1,5 @@
 ---
-title: "Tarja Turunen Performed &#8220;Act 1&#8221; Live in Rosario"
+title: "Tarja Turunen Performed “Act 1” Live in Rosario"
 date: 2012-08-24T14:56:25+00:00
 layout: single
 author_profile: true
@@ -13,13 +13,13 @@ category: entblog
 ---
 _**Act 1**_ is the first Live concert released by <a title="Tarja Turunen" href="/entertainment/artists/tarja-turunen/" target="_blank">Tarja</a>. It was released on CD, DVD and Blu-ray on the 24th of August, 2012.
 
-&#8220;Act 1&#8221; is the first live album from the Finnish former Nightwish soprano, Tarja Turunen. The two concerts were recorded and filmed with 10 HD cameras at the El Círculo Theatre in Rosario, Argentina, in March 2012. The track listing consists in a mix of her three solo albums, Nightwish's classic Nemo and covers of Andrew Lloyd Webber, Gary Moore and Whitesnake plus a variety of extras.
+“Act 1” is the first live album from the Finnish former Nightwish soprano, Tarja Turunen. The two concerts were recorded and filmed with 10 HD cameras at the El Círculo Theatre in Rosario, Argentina, in March 2012. The track listing consists in a mix of her three solo albums, Nightwish's classic Nemo and covers of Andrew Lloyd Webber, Gary Moore and Whitesnake plus a variety of extras.
 
 Watch the full concert here:
 
 {{< youtube 6ylUmIitDC8 >}}
 
-On the 10th of July Earmusic released the very first Official Teaser for &#8220;Act 1&#8221;.
+On the 10th of July Earmusic released the very first Official Teaser for “Act 1”.
 
 ![](/images/2013/05/tarja-act-1.jpg)
 
@@ -58,7 +58,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;If You Believe (Intro)&#8221;
+      “If You Believe (Intro)”
     </td>
     
     <td>
@@ -72,7 +72,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Anteroom Of Death&#8221;
+      “Anteroom Of Death”
     </td>
     
     <td>
@@ -86,7 +86,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;My Little Phoenix&#8221;
+      “My Little Phoenix”
     </td>
     
     <td>
@@ -100,7 +100,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Dark Star&#8221;
+      “Dark Star”
     </td>
     
     <td>
@@ -114,7 +114,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Naiad&#8221;
+      “Naiad”
     </td>
     
     <td>
@@ -128,7 +128,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Falling Awake&#8221;
+      “Falling Awake”
     </td>
     
     <td>
@@ -142,7 +142,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;I Walk Alone&#8221;
+      “I Walk Alone”
     </td>
     
     <td>
@@ -156,7 +156,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Orpheus Hallucination / Orpheus In The Underworld&#8221;
+      “Orpheus Hallucination / Orpheus In The Underworld”
     </td>
     
     <td>
@@ -170,7 +170,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Little Lies (Band Instrumental)&#8221;
+      “Little Lies (Band Instrumental)”
     </td>
     
     <td>
@@ -184,7 +184,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Little Lies&#8221;
+      “Little Lies”
     </td>
     
     <td>
@@ -198,7 +198,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Into The Sun&#8221;
+      “Into The Sun”
     </td>
     
     <td>
@@ -212,7 +212,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Nemo (Nightwish)&#8221;
+      “Nemo (Nightwish)”
     </td>
     
     <td>
@@ -226,7 +226,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Acoustic Set:</p> 
+      “Acoustic Set:</p> 
       
       <ul>
         <li>
@@ -242,7 +242,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
           Sing For Me
         </li>
         <li>
-          I Feel Immortal&#8221;
+          I Feel Immortal”
         </li>
       </ul>
     </td>
@@ -258,7 +258,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Never Enough&#8221;
+      “Never Enough”
     </td>
     
     <td>
@@ -272,7 +272,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;In For A Kill&#8221;
+      “In For A Kill”
     </td>
     
     <td>
@@ -286,7 +286,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Toccata And Fugue D-minor (BWV 565) (Johann Sebastian Bach) / The Phantom of the Opera (Andrew Lloyd Webber)&#8221;
+      “Toccata And Fugue D-minor (BWV 565) (Johann Sebastian Bach) / The Phantom of the Opera (Andrew Lloyd Webber)”
     </td>
     
     <td>
@@ -300,7 +300,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Die Alive&#8221;
+      “Die Alive”
     </td>
     
     <td>
@@ -314,7 +314,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Until My Last Breath&#8221;
+      “Until My Last Breath”
     </td>
     
     <td>
@@ -328,7 +328,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Over The Hills And Far Away (Gary Moore)&#8221;
+      “Over The Hills And Far Away (Gary Moore)”
     </td>
     
     <td>
@@ -370,7 +370,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Boy And The Ghost&#8221;
+      “Boy And The Ghost”
     </td>
     
     <td>
@@ -384,7 +384,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Lost Northern Star&#8221;
+      “Lost Northern Star”
     </td>
     
     <td>
@@ -398,7 +398,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Ciarán's Well&#8221;
+      “Ciarán's Well”
     </td>
     
     <td>
@@ -412,7 +412,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Tired of Being Alone&#8221;
+      “Tired of Being Alone”
     </td>
     
     <td>
@@ -426,7 +426,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Where Were You Last Night / Heaven Is A Place On Earth / Livin' On A Prayer (Medley)&#8221;
+      “Where Were You Last Night / Heaven Is A Place On Earth / Livin' On A Prayer (Medley)”
     </td>
     
     <td>
@@ -440,7 +440,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Underneath&#8221;
+      “Underneath”
     </td>
     
     <td>
@@ -454,7 +454,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;The Reign&#8221;
+      “The Reign”
     </td>
     
     <td>
@@ -468,7 +468,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Oasis / The Archive Of Lost Dream&#8221;
+      “Oasis / The Archive Of Lost Dream”
     </td>
     
     <td>
@@ -482,7 +482,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Still Of The Night (Whitesnake)&#8221;
+      “Still Of The Night (Whitesnake)”
     </td>
     
     <td>
@@ -496,7 +496,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Crimson Deep&#8221;
+      “Crimson Deep”
     </td>
     
     <td>
@@ -547,7 +547,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Anteroom Of Death&#8221;
+      “Anteroom Of Death”
     </td>
     
     <td>
@@ -561,7 +561,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;My Little Phoenix&#8221;
+      “My Little Phoenix”
     </td>
     
     <td>
@@ -575,7 +575,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Dark Star&#8221;
+      “Dark Star”
     </td>
     
     <td>
@@ -589,7 +589,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Naiad&#8221;
+      “Naiad”
     </td>
     
     <td>
@@ -603,7 +603,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Falling Awake&#8221;
+      “Falling Awake”
     </td>
     
     <td>
@@ -617,7 +617,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;I Walk Alone&#8221;
+      “I Walk Alone”
     </td>
     
     <td>
@@ -631,7 +631,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Little Lies&#8221;
+      “Little Lies”
     </td>
     
     <td>
@@ -645,7 +645,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Into The Sun&#8221;
+      “Into The Sun”
     </td>
     
     <td>
@@ -659,7 +659,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Nemo (Nightwish)&#8221;
+      “Nemo (Nightwish)”
     </td>
     
     <td>
@@ -673,7 +673,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Never Enough&#8221;
+      “Never Enough”
     </td>
     
     <td>
@@ -687,7 +687,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Still of the Night (Whitesnake)&#8221;
+      “Still of the Night (Whitesnake)”
     </td>
     
     <td>
@@ -701,7 +701,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;In For A Kill&#8221;
+      “In For A Kill”
     </td>
     
     <td>
@@ -743,7 +743,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Boy And The Ghost&#8221;
+      “Boy And The Ghost”
     </td>
     
     <td>
@@ -757,7 +757,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Lost Northern Star&#8221;
+      “Lost Northern Star”
     </td>
     
     <td>
@@ -771,7 +771,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Ciarán's Well&#8221;
+      “Ciarán's Well”
     </td>
     
     <td>
@@ -785,7 +785,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Tired Of Being Alone&#8221;
+      “Tired Of Being Alone”
     </td>
     
     <td>
@@ -799,7 +799,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Where Were You Last Night / Heaven Is a Place on Earth / Livin' On A Prayer (Medley)&#8221;
+      “Where Were You Last Night / Heaven Is a Place on Earth / Livin' On A Prayer (Medley)”
     </td>
     
     <td>
@@ -813,7 +813,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Underneath&#8221;
+      “Underneath”
     </td>
     
     <td>
@@ -827,7 +827,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Oasis / The Archive Of Lost Dream&#8221;
+      “Oasis / The Archive Of Lost Dream”
     </td>
     
     <td>
@@ -841,7 +841,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Crimson Deep&#8221;
+      “Crimson Deep”
     </td>
     
     <td>
@@ -855,7 +855,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;The Phantom of the Opera (Andrew Lloyd Webber)&#8221;
+      “The Phantom of the Opera (Andrew Lloyd Webber)”
     </td>
     
     <td>
@@ -869,7 +869,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Die Alive&#8221;
+      “Die Alive”
     </td>
     
     <td>
@@ -883,7 +883,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Until My Last Breath&#8221;
+      “Until My Last Breath”
     </td>
     
     <td>
@@ -897,7 +897,7 @@ On the 10th of July Earmusic released the very first Official Teaser for &#8220;
     </td>
     
     <td>
-      &#8220;Over The Hills And Far Away (Gary Moore)&#8221;
+      “Over The Hills And Far Away (Gary Moore)”
     </td>
   </tr>
 </table>

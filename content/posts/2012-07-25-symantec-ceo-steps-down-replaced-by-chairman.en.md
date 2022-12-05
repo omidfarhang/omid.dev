@@ -14,4 +14,4 @@ category: techblog
 
 Symantec said its board of directors has appointed <a href="http://www.symantec.com/about/profile/management/directors/bio.jsp?bioid=steve_bennett" target="_blank">Steve Bennett</a>, the current chairman of the board, to also hold the posts of president and chief executive officer. 
 
-The board's decision to make a leadership change was not based on any particular event or impropriety but was instead made after ongoing consideration and a deliberative process, said Dan Schulman, Symantec's newly-appointed lead director, in a statement. Bennett however said that in his view &#8220;Symantec's assets are strong and yet the company is underperforming against the opportunity.&#8221;
+The board's decision to make a leadership change was not based on any particular event or impropriety but was instead made after ongoing consideration and a deliberative process, said Dan Schulman, Symantec's newly-appointed lead director, in a statement. Bennett however said that in his view “Symantec's assets are strong and yet the company is underperforming against the opportunity.”

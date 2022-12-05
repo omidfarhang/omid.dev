@@ -27,7 +27,7 @@ http://www.youtube.com/watch?v=f4K6ZxDwi34
 _English translation lyric:_
 
 _I want &#8211; Rammstein_  
-_&#8220;Ich will&#8221; (German for I want)_  
+_“Ich will” (German for I want)_  
 _  
 _  
 _With the english lyrics_  

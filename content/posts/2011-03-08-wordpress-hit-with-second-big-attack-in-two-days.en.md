@@ -17,9 +17,9 @@ category: techblog
 
 **CNET wrote:** The popular blogging-site hoster [WordPress](http://status.automattic.com/) was hit with another distributed denial-of-service attack this morning, the second in two days.
 
-&#8220;Unfortunately, the DDoS attack from yesterday returned in a different form this morning and affected sitewide performance,&#8221; the company said in a notice on its [Automattic site](http://status.automattic.com/), which serves as a dashboard for the service. &#8220;The good news is that we were able to mitigate it quickly and performance returned to normal around 11:15 [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time). We are continuing to monitor the situation closely.&#8221;
+“Unfortunately, the DDoS attack from yesterday returned in a different form this morning and affected sitewide performance,” the company said in a notice on its [Automattic site](http://status.automattic.com/), which serves as a dashboard for the service. “The good news is that we were able to mitigate it quickly and performance returned to normal around 11:15 [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time). We are continuing to monitor the situation closely.”
 
-Stats on Automattic.com show that the site was affected for about an hour or so starting around 3:15 a.m. PST.One day earlier, WordPress was hit with an attack that reached &#8220;multiple Gigabits per second and tens of millions of packets per second,&#8221; hampering the company's three data centers and disrupting nearly 18 million hosted blogs and members of its VIP service, including the Financial Post and TechCrunch.
+Stats on Automattic.com show that the site was affected for about an hour or so starting around 3:15 a.m. PST.One day earlier, WordPress was hit with an attack that reached “multiple Gigabits per second and tens of millions of packets per second,” hampering the company's three data centers and disrupting nearly 18 million hosted blogs and members of its VIP service, including the Financial Post and TechCrunch.
 
 Typically, DDoS attacks are accomplished using botnets of thousands of compromised computers that are directed to a target Web site with the motivation of overwhelming the site and taking it offline.
 

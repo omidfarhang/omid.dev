@@ -16,10 +16,10 @@ category: techblog
 
 The solo hacker claims to have found a flaw in the subscriber segment of Intel's web site, according to [The Hacker News](http://thehackernews.com/2012/02/hackers-claims-to-compromise-intels.html). He said that he has access to sensitive data that includes credit card numbers, email addresses and passwords. 
 
-Weedgrower said, &#8220;I've got to give some applause to all these pseudo-security technicians out there. I cut Intel a break, I have access to a database and another vulnerability which enables the right to read user data. I'll be gracious here and NOT spill the data, but I will provide screenshots to prove that I have access to Credit Card data and such.&#8221; 
+Weedgrower said, “I've got to give some applause to all these pseudo-security technicians out there. I cut Intel a break, I have access to a database and another vulnerability which enables the right to read user data. I'll be gracious here and NOT spill the data, but I will provide screenshots to prove that I have access to Credit Card data and such.” 
 
 The screen shot, which has been expertly edited, supposedly proves that he has the data, but it's unclear whether this is true or not. His previous successful hacks apparently included AOL, NASA, Hotmail, Myspace, Xbox, Yahoo and Visa, from which he claims to have leaked sensitive data. 
 
 A vulnerability that he is threatening to reveal purportedly can be used to expose sensitive data. We are waiting for a response from Intel on the alleged hack. 
 
-Intel has come back to us with the following short and sweet statement, &#8220;We are aware of these claims, and we are investigating them.&#8221;
+Intel has come back to us with the following short and sweet statement, “We are aware of these claims, and we are investigating them.”

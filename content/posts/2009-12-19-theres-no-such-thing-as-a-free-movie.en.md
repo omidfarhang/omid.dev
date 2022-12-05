@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-Those looking to see the latest 3D blockbuster movie, The Avatar, on the cheap will have to take great care in what they search for. We have become aware of at least one site that has been rigged to redirect users to a page that presents the now-familiar &#8220;play video/need codec&#8221; screen. In an unusual twist, this time it is offering a new ActiveX update rather than the usual codec or Flash player updates.
+Those looking to see the latest 3D blockbuster movie, The Avatar, on the cheap will have to take great care in what they search for. We have become aware of at least one site that has been rigged to redirect users to a page that presents the now-familiar “play video/need codec” screen. In an unusual twist, this time it is offering a new ActiveX update rather than the usual codec or Flash player updates.
 
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyzXoSOSF5I/AAAAAAAAAbk/AiiFrU0sVlA/s640/FreeAvatarMovie_2.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyzXoSOSF5I/AAAAAAAAAbk/AiiFrU0sVlA/s1600-h/FreeAvatarMovie_2.png)
 

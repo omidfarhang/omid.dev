@@ -34,6 +34,6 @@ The malware could become potentially more dangerous in the future if it is able 
 
 While it does not appear that this virus takes advantage of any unique flaws in Apple's version of Java, some security experts say that Apple's Java player may have more vulnerabilities than Window's.  That's because Apple makes its own Java player, which according to [an e-mail](http://www.flickr.com/photos/frasers/5104179782/) reportedly attributed to Apple Chief Executive Steve Jobs, is always a version behind the official Linux/Windows builds from Sun and Oracle.
 
-Apple is reportedly considering ditching its Java player in future versions of OS X, such as OS X 10.7 &#8220;Lion&#8221;.  Similarly it's considering rejecting Flash, another multimedia web technology.  Ultimately these efforts may eliminate some routes of attack, but now that Apple is being targeted it must realize &#8212; there is _always_ a back door.
+Apple is reportedly considering ditching its Java player in future versions of OS X, such as OS X 10.7 “Lion”.  Similarly it's considering rejecting Flash, another multimedia web technology.  Ultimately these efforts may eliminate some routes of attack, but now that Apple is being targeted it must realize &#8212; there is _always_ a back door.
 
 Taken from DailyTech.com

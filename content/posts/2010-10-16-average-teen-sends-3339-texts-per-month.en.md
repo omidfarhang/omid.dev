@@ -20,7 +20,7 @@ The number of texts being sent is on the rise, especially among teenagers age 13
 
 There's more, though: teen females send an incredible 4,050 text per month, while teen males send an average of 2,539 texts. Teens are sending 8 percent more texts than they were this time last year.
 
-Other age groups don't even come close, either; the average 18 to 24-year-old sends &#8220;only&#8221; 1,630 texts per month. The average only drops with other age groups. However, in every age bracket, the number of texts sent has increased when compared to last year. Texting is a more important means of communication than ever.
+Other age groups don't even come close, either; the average 18 to 24-year-old sends “only” 1,630 texts per month. The average only drops with other age groups. However, in every age bracket, the number of texts sent has increased when compared to last year. Texting is a more important means of communication than ever.
 
 In 2008, the main reason anybody got a phone was for safety, even among teenagers. That's not true anymore. 43 percent of teenagers now say texting is the #1 reason they get a cell phone. Safety is #2 with 35 percent, while 34 percent of teenagers say they get cell phones to keep in touch with friends.
 

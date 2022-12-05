@@ -21,4 +21,4 @@ A new extension, called **Facebook Disconnect**, blocks contact between your bro
   Before (Left) – After (Right)
 </p>
 
-While there are other ways to do this manually, they usually amount to a full block on \*.facebook.com/\* traffic, whereas this extension still allows normal use of your Facebook account and leaves &#8220;like&#8221; buttons on websites completely intact for you to continue sharing.
+While there are other ways to do this manually, they usually amount to a full block on \*.facebook.com/\* traffic, whereas this extension still allows normal use of your Facebook account and leaves “like” buttons on websites completely intact for you to continue sharing.

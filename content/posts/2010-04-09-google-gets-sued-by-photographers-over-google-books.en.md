@@ -11,9 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S79hoq66B5I/AAAAAAAAB2w/KdZhynmxASA/s1600/library-books.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S79hoq66B5I/AAAAAAAAB2w/KdZhynmxASA/s1600/library-books.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79hoq66B5I/AAAAAAAAB2w/KdZhynmxASA/s1600/library-books.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79hoq66B5I/AAAAAAAAB2w/KdZhynmxASA/s1600/library-books.jpg)
 
 .[Google Books](http://books.google.com/), although an admittedly noble project as Google has framed it, is also a beleaguered one. Attacked first by writers and publishers, the immense online library is now the subject of a lawsuit brought by several professional photographers’ organizations.
 

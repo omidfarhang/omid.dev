@@ -14,9 +14,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S70br9BfmPI/AAAAAAAAB1Y/U6e2Db_f9fs/s1600-h/iTunes.png" imageanchor="1"><img border="0" height="142" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S70br9BfmPI/AAAAAAAAB1Y/U6e2Db_f9fs/s200/iTunes.png" width="200" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70br9BfmPI/AAAAAAAAB1Y/U6e2Db_f9fs/s200/iTunes.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70br9BfmPI/AAAAAAAAB1Y/U6e2Db_f9fs/s1600-h/iTunes.png)
 
 If you’ve updated iTunes to the latest version, 9.1, you may have noticed that iPad and iPhone apps are now separated by a tab at the top of the page. Switch tabs and you will pull up device-specific views of the App Store, which renders the entire experience a bit more elegant and better-organized than before.
 

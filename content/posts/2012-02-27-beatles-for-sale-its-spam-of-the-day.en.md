@@ -16,7 +16,7 @@ category: techblog
 
 For instance, I'm a <a href="http://www.last.fm/user/omidfarhang" target="_blank">music lover</a> and I'm very partial to board games (even during a denial-of-service attack). 
 
-Today I can also share that I like The Beatles. In particular, anything from &#8220;Rubber Soul&#8221; and later when the &#8220;Yeah yeah yeah&#8221; turned into something rather more &#8220;Yeah man. Dig it&#8221;. 
+Today I can also share that I like The Beatles. In particular, anything from “Rubber Soul” and later when the “Yeah yeah yeah” turned into something rather more “Yeah man. Dig it”. 
 
 I've simply never come across a more talented combination of musicianship and songwriting abilities &#8211; for me, you can kick The Stones, The Who, Cream and.. yes.. even MeatLoaf to the kerb, as Lennon, McCartney, Harrison and Starr are the guv'nors. 
 
@@ -24,9 +24,9 @@ So, perhaps I was the right person to receive the following spam message about a
 
 [<img title="beatles-email" border="0" alt="beatles-email" src="http://lh5.ggpht.com/-KqdIRMHds60/T0uR9KPN2qI/AAAAAAAAE-4/iKNhQNZxThc/beatles-email_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="371" />](http://lh4.ggpht.com/-tHjnOmSm6xs/T0uR3RGz8yI/AAAAAAAAE-w/6xzoYepUwKQ/s1600-h/beatles-email%25255B4%25255D.jpg) 
 
-If you click further on the email, which has clearly been written with a Spanish-speaking audience in mind, you discover &#8211; ¡Ay, caramba! &#8211; that whoever is touting this &#8220;box set&#8221; has actually shoved every Beatles track onto one DVD. 
+If you click further on the email, which has clearly been written with a Spanish-speaking audience in mind, you discover &#8211; ¡Ay, caramba! &#8211; that whoever is touting this “box set” has actually shoved every Beatles track onto one DVD. 
 
-They've even gone to the effort of adding a mini-documentary for each official album from &#8220;Please Please Me&#8221; to &#8220;Abbey Road&#8221;. 
+They've even gone to the effort of adding a mini-documentary for each official album from “Please Please Me” to “Abbey Road”. 
 
 [<img title="beatles-web" border="0" alt="beatles-web" src="http://lh5.ggpht.com/-8D96iBRdQX0/T0uSEcF8slI/AAAAAAAAE_I/Pckde8ao7r0/beatles-web_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="356" />](http://lh4.ggpht.com/-ZdibHHQvZAg/T0uSBGjc-xI/AAAAAAAAE_A/1omNpNx3i1A/s1600-h/beatles-web%25255B4%25255D.jpg) 
 

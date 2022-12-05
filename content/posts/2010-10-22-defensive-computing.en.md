@@ -19,7 +19,7 @@ Adobe have published a [security advisory](http://www.adobe.com/support/security
 
 The ubiquitous Adobe Reader has also had its fair share of problems, judging by the fairly [long list](http://www.adobe.com/support/security/#readerwin) of security advisories and updates.
 
-In an effort to contain malicious PDFs, Adobe have previewed [Adobe Reader X](http://blogs.adobe.com/adobereader/2010/10/announcing-adobe-reader-x.html). I'm looking forward to checking out the [protected mode](http://blogs.adobe.com/asset/2010/07/introducing-adobe-reader-protected-mode.html) where Adobe Reader is fenced off from the operating system so that even if a malicious PDF is launched, its unable to &#8220;reach&#8221; the operating system to make changes to it.
+In an effort to contain malicious PDFs, Adobe have previewed [Adobe Reader X](http://blogs.adobe.com/adobereader/2010/10/announcing-adobe-reader-x.html). I'm looking forward to checking out the [protected mode](http://blogs.adobe.com/asset/2010/07/introducing-adobe-reader-protected-mode.html) where Adobe Reader is fenced off from the operating system so that even if a malicious PDF is launched, its unable to “reach” the operating system to make changes to it.
 
 This is a fairly realistic and pragmatic approach from Adobe to addressing the problem of malware that exploits vulnerabilities within Reader. Adobe accept their applications will continue to be a target for malware writers and are doing something interesting and, from the user's perspective, innovative about it.
 

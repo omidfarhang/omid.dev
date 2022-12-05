@@ -18,4 +18,4 @@ Two of Gene Simmons' official sites were [shut down](http://www.nme.com/news/kis
 
 Both SimmonsRecords.com and GeneSimmons.com were taken offline briefly due to the attacks.
 
-> Simmons had made the comment, _&#8220;The music industry was asleep at the wheel, and didn't have the balls to sue every fresh-faced, freckle-faced college kid who downloaded material. And so now we're left with hundreds of thousands of people without jobs. There's no industry.&#8221;_
+> Simmons had made the comment, _“The music industry was asleep at the wheel, and didn't have the balls to sue every fresh-faced, freckle-faced college kid who downloaded material. And so now we're left with hundreds of thousands of people without jobs. There's no industry.”_

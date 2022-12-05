@@ -18,7 +18,7 @@ Of course not. So don't believe spammed-out emails like the following:
 
 [<img title="google-pharmacy-spam" border="0" alt="google-pharmacy-spam" src="http://lh6.ggpht.com/-1JZf4-XLHbU/T1iVAUYEr9I/AAAAAAAAFFI/SfejI4Spfaw/google-pharmacy-spam_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="488" />](http://lh4.ggpht.com/-jHE3KlgernQ/T1iUyBzHoRI/AAAAAAAAFFA/wjDZT7I6E7Q/s1600-h/google-pharmacy-spam%25255B4%25255D.jpg) 
 
-Do you notice how the spammers have changed the &#8220;o&#8221;s in Google to Cialis and Viagra tablets? Very creative. 
+Do you notice how the spammers have changed the “o”s in Google to Cialis and Viagra tablets? Very creative. 
 
 Part of the spam message reads as follows: 
 

@@ -14,7 +14,7 @@ category: techblog
 
 The CS6 beta is one of the most successful in the company's history, with one million downloads over [the past month of availability](http://betanews.com/2012/03/22/adobe-releases-photoshop-cs6-beta-get-it-now/) alone, a record for Adobe. The move was slightly unusual considering the company typically does not offer large-scale betas of its products. 
 
-Photoshop gets notable upgrades including content-aware editing tools and video-editing capability, as well as performance enhancements that should speed the image-editing process. Photoshop Extended includes several new 3D image and new 2D design tools and an overall &#8220;darker&#8221; look: the user interface now uses blacks and greys versus the white UI of previous versions. 
+Photoshop gets notable upgrades including content-aware editing tools and video-editing capability, as well as performance enhancements that should speed the image-editing process. Photoshop Extended includes several new 3D image and new 2D design tools and an overall “darker” look: the user interface now uses blacks and greys versus the white UI of previous versions. 
 
 While Flash continues to be a part of the Creative Suite, Adobe seriously begins the transition to HTML5 in this release. Two new development applications take center stage, dubbed Muse and Edge. Muse will automate the process of developing HTML5 websites, while Adobe Edge assists in the creation of animated web content. 
 

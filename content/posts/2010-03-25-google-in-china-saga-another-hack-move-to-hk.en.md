@@ -63,7 +63,7 @@ Wines and the reporters in Shanghai Beijing who contributed to the analysis also
 _“The cost, at least with some influential sectors of its own society, could be steep. In the technology sector, Google is viewed as an innovator that has spurred rapid development of the Chinese Web. Its departure will leave some Chinese companies with greater influence, but could also stifle competition, some fear._  
 _  
 _  
-_&#8220;&#8216;Google is good at innovation, and when it leaves, the rest of the companies in China will lack motivation. Without its countervailing power, the industry won’t be as healthy,' said Zhang Yunquan, a professor at the Institute of Software at the Chinese Academy of Sciences._  
+_“&#8216;Google is good at innovation, and when it leaves, the rest of the companies in China will lack motivation. Without its countervailing power, the industry won’t be as healthy,' said Zhang Yunquan, a professor at the Institute of Software at the Chinese Academy of Sciences._  
 _  
 _  
 _“Fang Xingdong, chief executive of Chinalabs.com, said the vast majority of Chinese Internet companies invested little in research and ‘simply copy each other’s technology.’ With Google’s departure, their profits may rise, but China’s Web space will begin to stagnate, he predicted.”_

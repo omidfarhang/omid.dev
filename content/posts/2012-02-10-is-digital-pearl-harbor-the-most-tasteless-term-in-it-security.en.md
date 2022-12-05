@@ -19,11 +19,11 @@ Heaven only knows. Maybe they can. The lack of security around Supervisory Contr
 
 And unsecured SCADA systems are everywhere. They control nuclear and chemical plants, gas pipelines, dams, railroad switches, water treatment plants, air traffic control, metropolitan transportation networks, and the cash flow via financial transaction systems. 
 
-At any rate, the lack of security around infrastructure has been the cause of hand-wringing in the 12 years since former counter-terrorism czar Richard A. Clarke coined the term &#8220;digital Pearl Harbor.&#8221; 
+At any rate, the lack of security around infrastructure has been the cause of hand-wringing in the 12 years since former counter-terrorism czar Richard A. Clarke coined the term “digital Pearl Harbor.” 
 
 The term has been trotted out most recently in the wake of [a report](http://www.bloomberg.com/news/2012-01-31/cybersecurity-disaster-seen-in-u-s-survey-citing-spending-gaps.html) from Bloomberg Government and the Ponemon Institute. 
 
-Bloomberg Television has been [comparing](http://www.youtube.com/watch?v=h-Uum_EOTc0) an electronic attack with a surprise strike that slaughtered thousands, and assuring us that spending by government and industry on cybersecurity has to increase by a factor of almost nine to prevent digital Pearl Harbor from &#8220;plunging millions into darkness, paralyzing the financial system or cutting communications.&#8221;
+Bloomberg Television has been [comparing](http://www.youtube.com/watch?v=h-Uum_EOTc0) an electronic attack with a surprise strike that slaughtered thousands, and assuring us that spending by government and industry on cybersecurity has to increase by a factor of almost nine to prevent digital Pearl Harbor from “plunging millions into darkness, paralyzing the financial system or cutting communications.”
 
 {{< youtube h-Uum_EOTc0 >}}
 
@@ -31,7 +31,7 @@ Bloomberg Video–Preventing a Digital Pearl Harbor
 
 Cybersecurity spending must increase by a factor of nine?! Bonus!! Upgrade your champagne stock for RSA, security peeps, cuz the good times are here again!
 
-That estimate is based on Bloomberg/Ponemon interviews with technology managers from 172 U.S. organizations in six industries and the government. Survey respondents were granted anonymity, Bloomberg said, owing to &#8220;the sensitivity of discussing cybersecurity weaknesses.&#8221;
+That estimate is based on Bloomberg/Ponemon interviews with technology managers from 172 U.S. organizations in six industries and the government. Survey respondents were granted anonymity, Bloomberg said, owing to “the sensitivity of discussing cybersecurity weaknesses.”
 
 In other words, one assumes that we'll have to take that mind-boggling figure on faith.
 
@@ -56,8 +56,8 @@ Gosh, that sounds so, let's see, what's the word?
 
 Rational.
 
-Why do security experts choose to terrorize people with a culture of fear in which terms such as &#8220;Armageddon&#8221; and &#8220;digital Pearl Harbor&#8221; get tossed about and blazoned across headlines? Why do we instead not substitute a reasoned discussion of the threat and how to secure the systems in question?
+Why do security experts choose to terrorize people with a culture of fear in which terms such as “Armageddon” and “digital Pearl Harbor” get tossed about and blazoned across headlines? Why do we instead not substitute a reasoned discussion of the threat and how to secure the systems in question?
 
-SCADA threats are real. They could, indeed, result in a body count. But let's keep the rhetoric sane. Let's be mindful of the fact that there has been no &#8220;digital Pearl Harbor&#8221; in the 12 years since we first heard of it.
+SCADA threats are real. They could, indeed, result in a body count. But let's keep the rhetoric sane. Let's be mindful of the fact that there has been no “digital Pearl Harbor” in the 12 years since we first heard of it.
 
 Let's concentrate on making improvements instead of cooking up apocalyptic metaphors.

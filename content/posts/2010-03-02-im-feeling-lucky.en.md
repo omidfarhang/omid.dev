@@ -59,7 +59,7 @@ Minnesota's appliance rebate program has 5m dollars to give its citizens for buy
 
 The program launched on Monday and its [web site was quickly overwhelmed](http://minnesota.publicradio.org/display/web/2010/03/01/appliance-rebate-program-overwhelmed/); the event generated many searches.
 
-Here's the Bing search for &#8220;mn appliance rebate&#8221;:
+Here's the Bing search for “mn appliance rebate”:
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42WY7eUrrI/AAAAAAAABF0/yLYkZDUpwtk/s640/feeling-lucky-06.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42WY7eUrrI/AAAAAAAABF0/yLYkZDUpwtk/s1600-h/feeling-lucky-06.png)
 

@@ -17,10 +17,10 @@ category: techblog
 
 Facebook's security flaw works something like this: when a Facebook user loads a particular kind of application (one that uses iframes) and authorizes the application to access their profile, the URL of the iframe then carries the user's UID, a number that can link the account to actions on other websites.
 
-Usually the UID is responsible for webpage personalization, as when a box informs you which of your other friends have &#8220;liked&#8221; something on a page outside of Facebook. If an ad network or similarly nefarious Web presence is able to mine the iframes for UIDs, it could open users up to a new level of targeting.
+Usually the UID is responsible for webpage personalization, as when a box informs you which of your other friends have “liked” something on a page outside of Facebook. If an ad network or similarly nefarious Web presence is able to mine the iframes for UIDs, it could open users up to a new level of targeting.
 
 To make iframe-based applications handle UIDs more responsibly, Facebook's Mike Vernal has proposed that developers begin encrypting the parameters passed to these applications. Facebook has posted the technical details of the proposal, followed by a comment thread for developers to give feedback.
 
-[InformationWeek](http://www.informationweek.com/news/security/vulnerabilities/showArticle.jhtml?articleID=227900537&cid=RSSfeed_IWK_ALL) notes that while this would prevent the accidental sharing of UIDs, it will not make HTTP referrer headers less prone to carrying information about the use of other websites. Data sharing via HTTP headers is a &#8220;Web-wide problem&#8221; that Facebook wants to address as a whole in the coming months.
+[InformationWeek](http://www.informationweek.com/news/security/vulnerabilities/showArticle.jhtml?articleID=227900537&cid=RSSfeed_IWK_ALL) notes that while this would prevent the accidental sharing of UIDs, it will not make HTTP referrer headers less prone to carrying information about the use of other websites. Data sharing via HTTP headers is a “Web-wide problem” that Facebook wants to address as a whole in the coming months.
 
 _Taken from ‘<a href="http://arstechnica.com/" target="_blank">Ars Technica</a>’_

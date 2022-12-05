@@ -18,13 +18,13 @@ _New Scientist_ is [reporting](http://www.newscientist.com/article/dn18721-data-
 
 Pete Warden, a former Apple engineer, reluctantly deleted the data after Facebook threatened legal action, saying he could not afford to fight a lawsuit. He said Facebook was not aware that such information was available and that the flaw is being patched.
 
-His handiwork included a &#8220;social graph&#8221; and a colorful &#8220;visualization&#8221; that revealed connections among all FB users, which _New Scientist_ writes &#8220;would have been a powerful research tool for social scientists and others interested in how people interact.&#8221; That raised [privacy concerns](http://www.privacydigest.com/2010/02/13/why%20pete%20warden%20should%20not%20release%20profile%20data%20215%20million%20facebook%20users).
+His handiwork included a “social graph” and a colorful “visualization” that revealed connections among all FB users, which _New Scientist_ writes “would have been a powerful research tool for social scientists and others interested in how people interact.” That raised [privacy concerns](http://www.privacydigest.com/2010/02/13/why%20pete%20warden%20should%20not%20release%20profile%20data%20215%20million%20facebook%20users).
 
-His [map](http://www.newscientist.com/data/images/ns/cms/dn18721/dn18721-3_300.jpg) divides the Facebook nation into regions with such fanciful names as &#8220;Stayathomia,&#8221; &#8220;Greater Texas,&#8221; &#8220;Socialstan,&#8221; &#8220;Mormonia,&#8221; &#8220;Nomadic West,&#8221; &#8220;Pacifica&#8221; and &#8220;Dixie.&#8221; Read about [the characteristics of each region](http://petewarden.typepad.com/searchbrowser/2010/02/how-to-split-up-the-us.html).
+His [map](http://www.newscientist.com/data/images/ns/cms/dn18721/dn18721-3_300.jpg) divides the Facebook nation into regions with such fanciful names as “Stayathomia,” “Greater Texas,” “Socialstan,” “Mormonia,” “Nomadic West,” “Pacifica” and “Dixie.” Read about [the characteristics of each region](http://petewarden.typepad.com/searchbrowser/2010/02/how-to-split-up-the-us.html).
 
 Here's some of [what he wrote](http://petewarden.typepad.com/searchbrowser/2010/03/facebook-data-destruction.html) in explaining his decision to wipe the database:
 
 > Despite the bad taste left in my mouth by the legal pressure, I actually have some sympathy for Facebook. I put them on the spot by planning to release data they weren't aware was available&#8230;  
 > So what's the good news? From my conversations with technical folks at Facebook, there seems to be a real commitment to figuring out safeguards around the widespread availability of this data. They have a lot of interest in helping researchers find ways of doing worthwhile work without exposing private information.
 
-Separately, Warden writes about &#8220;[the unknown marketing databases that know everything about you](http://petewarden.typepad.com/searchbrowser/2010/03/the-unknown-marketing-databases-that-know-everything-about-you.html)&#8221; — and that are for sale to anyone.
+Separately, Warden writes about “[the unknown marketing databases that know everything about you](http://petewarden.typepad.com/searchbrowser/2010/03/the-unknown-marketing-databases-that-know-everything-about-you.html)” — and that are for sale to anyone.

@@ -11,9 +11,9 @@ tags:
 lang: en
 category: entblog
 ---
-**&#8220;Distant Earth&#8221;** is ATB's 9th studio album, which was released on the 29th of April 2011, by Kontor Records. It features 2 CDs in the standard edition, 3 CDs in the limited edition, and 3 CDs + 5 ATB signed postcards + ATB bracelet in the FanBox Limited Edition (which can be ordered on Amazon and it is limited to 2000 copies). Also, there is another 2 CD digipack version that comes with an ATB sticker and it's available only in Germany.
+**“Distant Earth”** is ATB's 9th studio album, which was released on the 29th of April 2011, by Kontor Records. It features 2 CDs in the standard edition, 3 CDs in the limited edition, and 3 CDs + 5 ATB signed postcards + ATB bracelet in the FanBox Limited Edition (which can be ordered on Amazon and it is limited to 2000 copies). Also, there is another 2 CD digipack version that comes with an ATB sticker and it's available only in Germany.
 
-The first CD is an ATB-standard tracks CD, which contains tracks featuring artists like Josh Gallahan, Amurai, Dash Berlin, Sean Ryan, Rea Garvey, Melissa Loretta or JanSoon. The second CD is an ambient / lounge CD which brings us a surprising collaboration with Armin van Buuren for the track called &#8220;Vice Versa&#8221;, and, finally, the third CD contains the club versions of the tracks found on the first CD.
+The first CD is an ATB-standard tracks CD, which contains tracks featuring artists like Josh Gallahan, Amurai, Dash Berlin, Sean Ryan, Rea Garvey, Melissa Loretta or JanSoon. The second CD is an ambient / lounge CD which brings us a surprising collaboration with Armin van Buuren for the track called “Vice Versa”, and, finally, the third CD contains the club versions of the tracks found on the first CD.
 
 [<img class="alignnone size-medium wp-image-396" alt="Distant_Earth_official_cover" src="/images/2011/04/Distant_Earth_official_cover-300x268.jpg" width="300" height="268" srcset="/images/sites/4/2011/04/Distant_Earth_official_cover-300x268.jpg 300w, /images/sites/4/2011/04/Distant_Earth_official_cover.jpg 423w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2011/04/Distant_Earth_official_cover.jpg)
 
