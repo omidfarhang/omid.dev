@@ -25,6 +25,6 @@ CERT notes that the Trojan contains Chinese language text.
 
 Sunbelt detects it as Trojan.Arugizer.
 
-CERT Vulnerability Note VU#154421 <a href="http://www.kb.cert.org/vuls/id/154421" target="_blank">here.</a>
+CERT Vulnerability Note VU#154421 [here](http://www.kb.cert.org/vuls/id/154421).
 
-PCWorld news story <a href="http://www.computerworld.com/s/article/9166978/Energizer_Bunny_s_software_infects_PCs" target="_blank">here. </a>
+PCWorld news story [here](http://www.computerworld.com/s/article/9166978/Energizer_Bunny_s_software_infects_PCs).

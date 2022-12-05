@@ -15,7 +15,7 @@ Hello and welcome to this month’s blog on the Microsoft patch releases. This i
 
 All of the issues are rated “Important” this month: seven affecting Office/Excel and one affecting Movie Maker and Producer. All of the issues are file-based remote code-execution vulnerabilities in the context of the currently logged-in user.
 
-Microsoft also released a security advisory (<a href="http://www.microsoft.com/technet/security/advisory/981374.mspx" target="_blank">981374</a>) today regarding a publicly disclosed vulnerability affecting Internet Explorer 6 and 7. Limited, targeted attacks exploiting this issue have been detected in the wild.
+Microsoft also released a security advisory ([981374](http://www.microsoft.com/technet/security/advisory/981374.mspx)) today regarding a publicly disclosed vulnerability affecting Internet Explorer 6 and 7. Limited, targeted attacks exploiting this issue have been detected in the wild.
 
 As always, customers are advised to follow these security best practices:
 
@@ -26,12 +26,12 @@ As always, customers are advised to follow these security best practices:
   * Block external access at the network perimeter to all key systems unless specific access is required.
 
 Microsoft’s summary of the March releases can be found here:  
- <a href="http://www.microsoft.com/technet/security/bulletin/ms10-mar.mspx" target="_blank">http://www.microsoft.com/technet/security/bulletin/ms10-mar.mspx</a>
+ [http://www.microsoft.com/technet/security/bulletin/ms10-mar.mspx](http://www.microsoft.com/technet/security/bulletin/ms10-mar.mspx)
 
 The following is a breakdown of the issues being addressed this month:  
 **  
 **  
-**1. <a href="http://www.microsoft.com/technet/security/Bulletin/MS10-016.mspx" target="_blank">MS10-016</a> Vulnerabilities in Microsoft Office Excel Could Allow Remote Code Execution (980150)**  
+**1. [MS10-016](http://www.microsoft.com/technet/security/Bulletin/MS10-016.mspx) Vulnerabilities in Microsoft Office Excel Could Allow Remote Code Execution (980150)**  
 **  
 **  
 **CVE-2010-0257** Microsoft Excel Document Parsing (**CVE-2010-0257**) Remote Code Execution Vulnerability (MS Rating: Important)
@@ -76,7 +76,7 @@ A remote-code execution vulnerability affects Excel when parsing records in a sp
 
 _Affects: Microsoft Office Excel 2002 SP3, Microsoft Office 2004 for Mac, Microsoft Office 2008 for Mac, and Open XML File Format Converter for Mac_
 
-**2. <a href="http://www.microsoft.com/technet/security/Bulletin/MS10-017.mspx" target="_blank">MS10-017</a> Vulnerability in Microsoft Movie Maker Could Allow Remote Code Execution (975561)**  
+**2. [MS10-017](http://www.microsoft.com/technet/security/Bulletin/MS10-017.mspx) Vulnerability in Microsoft Movie Maker Could Allow Remote Code Execution (975561)**  
 **  
 **  
 **CVE-2010-0265**  Microsoft Windows Movie Maker and Producer &#8216;.mswmm' Buffer Overflow Vulnerability (MS Rating: Important)

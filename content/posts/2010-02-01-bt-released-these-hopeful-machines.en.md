@@ -15,7 +15,7 @@ BT Released “These Hopeful Machines” in 2 Discs.
 
 _**These Hopeful Machines**_ is the Grammy-nominated sixth studio album by American electronic musician BT. Released on February 1, 2010, the album sees collaborations with the likes of JES, Rob Dickinson, Christian Burns and Kirsty Hawkshaw, also featuring a cover of “The Ghost in You” by The Psychedelic Furs. While some of the songs go beyond 10 minutes in length, the album spans two discs with six tracks on each. In an effort to make the album more accessible to casual listeners, the record was eventually re-issued as a single-disc version with shorter tracks, titled _These Humble Machines_. In addition, the album would later spawn a double disc remix edition titled _These Re-Imagined Machines_, also featured as a “Limited Collector’s Edition Box Set”. With great reception from the critics, the album was nominated for the 2011 Grammy Awards under Best Electronic/Dance Album.
 
-[<img class="size-full wp-image-382 alignnone" alt="these-front" src="/images/2013/05/these-front.jpg" width="200" height="202" />](/images/2013/05/these-front.jpg)
+[![these-front](/images/2013/05/these-front.jpg)](/images/2013/05/these-front.jpg)
 
 Track listing  
 Disc one  

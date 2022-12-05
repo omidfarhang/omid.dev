@@ -13,7 +13,9 @@ tags:
 lang: en
 category: techblog
 ---
-<img class="alignright wp-image-6593 size-thumbnail" src="/images/2013/05/Facebook-150x150.png" alt="Facebook" width="150" height="150" srcset="/images/sites/3/2013/05/Facebook-150x150.png 150w, /images/sites/3/2013/05/Facebook.png 300w" sizes="(max-width: 150px) 100vw, 150px" />Facebook has set the date: on September 30, the ancient and creaking SHA-1 hashing algorithm will make its tumbril trip and get the chop.
+![Facebook](/images/2013/05/Facebook-150x150.png)
+
+Facebook has set the date: on September 30, the ancient and creaking SHA-1 hashing algorithm will make its tumbril trip and get the chop.
 
 SHA-1, designed by the NSA in 1995, is a one-way algorithm: a block of data is turned into a message digest. The digest can't be turned back into the original message, but serves as a digital signature confirming the authenticity of (for example) the software you've downloaded.
 

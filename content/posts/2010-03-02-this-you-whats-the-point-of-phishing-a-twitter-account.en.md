@@ -16,9 +16,9 @@ category: techblog
 ---
 In Additional to my last post: <http://boelectronic.blogspot.com/2010/03/twitter-phished-its-easy-mistake.html>
 
-We've received some questions regarding <a href="http://twitter.com/safety/status/9594038576" target="_blank">recent phishing attacks</a> conducted against Twitter.com.
+We've received some questions regarding [recent phishing attacks](http://twitter.com/safety/status/9594038576) conducted against Twitter.com.
 
-Tweets and Direct Messages (<a href="http://help.twitter.com/forums/10711-getting-started/entries/14606-what-is-a-direct-message-dm" target="_blank">DM</a>) containing phases such as “This you??” or “LOL is this you” are linking victims towards a Twitter login phishing page. If the bait is taken and victim enters their password, Twitter's infamous “<a href="http://failwhale.com/" target="_blank">fail whale</a>” is displayed and the user is returned to their account. They might not even realize that their account details have been compromised.
+Tweets and Direct Messages ([DM](http://help.twitter.com/forums/10711-getting-started/entries/14606-what-is-a-direct-message-dm)) containing phases such as “This you??” or “LOL is this you” are linking victims towards a Twitter login phishing page. If the bait is taken and victim enters their password, Twitter's infamous “[fail whale](http://failwhale.com/)” is displayed and the user is returned to their account. They might not even realize that their account details have been compromised.
 
 Phishing attacks directed against Twitter are not new. But what's the point?
 

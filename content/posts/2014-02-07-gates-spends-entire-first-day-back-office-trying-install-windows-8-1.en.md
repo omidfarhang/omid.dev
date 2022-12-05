@@ -15,7 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img class="alignnone size-full wp-image-6707" alt="gates" src="/images/2014/02/gates.jpg" width="580" height="359" srcset="/images/sites/3/2014/02/gates.jpg 580w, /images/sites/3/2014/02/gates-300x185.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />](/images/2014/02/gates.jpg)
+[![gates](/images/2014/02/gates.jpg)](/images/2014/02/gates.jpg)
 
 REDMOND, WASHINGTON ([The Borowitz Report](http://www.newyorker.com/online/blogs/borowitzreport/))—Bill Gates’s first day at work in the newly created role of technology adviser got off to a rocky start yesterday as the Microsoft founder struggled for hours to install the Windows 8.1 upgrade.
 

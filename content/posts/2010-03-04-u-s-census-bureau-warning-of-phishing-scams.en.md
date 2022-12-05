@@ -36,4 +36,4 @@ _</p>
 
 </i>
 
-More Census Bureau info on scams <a href="http://2010.census.gov/2010census/privacy/fraudulent-activity-and-scams.php" target="_blank">here</a>.
+More Census Bureau info on scams [here](http://2010.census.gov/2010census/privacy/fraudulent-activity-and-scams.php).

@@ -11,19 +11,9 @@ tags:
 lang: en
 category: techblog
 ---
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600-h/story.google.china.gi.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600/story.google.china.gi.jpg" /></a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <span>Google's decision to stop censoring search results <br />in China may lead the Chinese government to <br />block access to its sites.</span>
-    </td>
-  </tr>
-</table>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600/story.google.china.gi.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600-h/story.google.china.gi.jpg)
+
+Google's decision to stop censoring search results in China may lead the Chinese government to block access to its sites.
 
 Google on Monday announced it has stopped censoring search results in China.
 
@@ -43,11 +33,11 @@ Early reports from China on Monday suggested that the Chinese government was alr
 
 “We've already heard indications that visitors to Google.hk are getting &#8216;can't find page' errors,” he said.
 
-The company on Monday also launched a <a href="http://www.google.com/prc/report.html#hl=en" target="new">dashboard page</a>, which it promises to update regularly each day, that will show which Google services are available in China. According to the page, YouTube, Google Sites and Google's Blogger apps were blocked Monday afternoon.
+The company on Monday also launched a [dashboard page](http://www.google.com/prc/report.html#hl=en), which it promises to update regularly each day, that will show which Google services are available in China. According to the page, YouTube, Google Sites and Google's Blogger apps were blocked Monday afternoon.
 
 Observers said Google's actions amounts to a de facto withdrawal from China by putting the ball in the court of a Chinese regime that virtually everyone expects will begin censoring search results on the site.
 
-Ron Diebert, director of the <a href="http://citizenlab.org/" target="new">Citizen Lab</a> at the University of Toronto, which studies the intersection of digital policy and human rights, said Google's move didn't come as a surprise.
+Ron Diebert, director of the [Citizen Lab](http://citizenlab.org/) at the University of Toronto, which studies the intersection of digital policy and human rights, said Google's move didn't come as a surprise.
 
 “It's become unsustainable for Google to operate in this environment,” he said. “They've made a decision that the risks are too great for them, so they're going to pull out.”
 
@@ -69,7 +59,7 @@ Advocates of Internet freedoms cheered Google's move Monday.
 
 Internet users naturally gravitate toward sites that offer unrestricted access to information, he said. “This is an example of how the genie can't be put back in the bottle.”
 
-Diebert, who co-founded the <a href="http://opennet.net/" target="new">OpenNet Initiative</a>, said China's next move may not be to just block access to Google but to go a step further: blocking all outside search engines from accessing Web information in China.
+Diebert, who co-founded the [OpenNet Initiative](http://opennet.net/), said China's next move may not be to just block access to Google but to go a step further: blocking all outside search engines from accessing Web information in China.
 
 “If such a radical measure happens, that would have major implications for cyberspace as a whole,” he said. “It would point to a more regionalized Internet” and perhaps embolden countries like Iran to follow suit, Diebert said.
 

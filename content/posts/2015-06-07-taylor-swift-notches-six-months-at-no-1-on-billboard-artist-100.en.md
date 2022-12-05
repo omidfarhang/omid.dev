@@ -29,4 +29,4 @@ Rounding out the Artist 100's top five, alt outfit Twenty One Pilots flies in at
 
 In other notable Artist 100 action, after being crowned champion of the eighth season of NBC's The Voice (May 19), Sawyer Fredericks vaults 40-8, with 82 percent of his points from digital song sales; Luke Bryan bounds 25-9 as his new single “Kick the Dust Up” rockets 49-2 on Hot Country Songs, fueled most heavily by its No. 1 launch on the Country Digital Songs chart (127,000 sold); and Zedd re-enters at No. 17, as his True Colors enters Top Album Sales at No. 4 with 39,000 sold. The DJ had previously ranked as high as No. 42 on the Artist 100.
 
-[<img class="aligncenter size-full wp-image-473" src="/images/2015/06/ts-125448.png" alt="ts-125448" width="800" height="851" srcset="/images/sites/4/2015/06/ts-125448.png 800w, /images/sites/4/2015/06/ts-125448-282x300.png 282w" sizes="(max-width: 800px) 100vw, 800px" />](/images/2015/06/ts-125448.png)
+[![ts-125448](/images/2015/06/ts-125448.png)](/images/2015/06/ts-125448.png)

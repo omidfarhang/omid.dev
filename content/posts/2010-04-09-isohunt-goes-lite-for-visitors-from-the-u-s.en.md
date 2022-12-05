@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="isohunt" border="0" alt="isohunt" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S7-2GP3j2FI/AAAAAAAAB5A/owg8LzVhfjc/isohunt_thumb%5B2%5D.jpg?imgmax=800" width="204" height="152" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-2ELODGNI/AAAAAAAAB48/fx1y7YSQU28/s1600-h/isohunt%5B4%5D.jpg) One week ago, we heard that popular BitTorrent search engine Isohunt had been ordered by a U.S. judge to remove copyright-infringing content from their website. 
+[![isohunt](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-2GP3j2FI/AAAAAAAAB5A/owg8LzVhfjc/isohunt_thumb%5B2%5D.jpg?imgmax=800 "isohunt")](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-2ELODGNI/AAAAAAAAB48/fx1y7YSQU28/s1600-h/isohunt%5B4%5D.jpg) One week ago, we heard that popular BitTorrent search engine Isohunt had been ordered by a U.S. judge to remove copyright-infringing content from their website. 
 
 Following the court decision, Isohunt owner Gary Fung announced his resolution to replace Isohunt with a lite version that would turn the site into a very simple search engine, intentionally similar to Google, but specializing in torrents. This is now the case for visitors from the US, who are redirected to the new, [lite version](http://isohunt.hk/lite/) of the site. Fung explains the move to the site’s visitors: 
 

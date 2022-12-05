@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="ipad-colorware-200" border="0" alt="ipad-colorware-200" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S7-tWOOa0_I/AAAAAAAAB34/1N_SpD1o318/ipad-colorware-260_thumb%5B2%5D.jpg?imgmax=800" width="204" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-tUBUxjHI/AAAAAAAAB30/l1HsiTiXjzQ/s1600-h/ipad-colorware-260%5B4%5D.jpg) Sure, that Apple-flavored brushed aluminum finish might work for most [iPad](http://mashable.com/2010/01/27/ipad/) owners, but what if you’re a _unique snowflake_ whose extremely non-conformist identity must be reflected in every item of consumer electronics you own? 
+[![ipad-colorware-200](http://lh6.ggpht.com/_vaUVXcmC3OI/S7-tWOOa0_I/AAAAAAAAB34/1N_SpD1o318/ipad-colorware-260_thumb%5B2%5D.jpg?imgmax=800 "ipad-colorware-200")](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-tUBUxjHI/AAAAAAAAB30/l1HsiTiXjzQ/s1600-h/ipad-colorware-260%5B4%5D.jpg) Sure, that Apple-flavored brushed aluminum finish might work for most [iPad](http://mashable.com/2010/01/27/ipad/) owners, but what if you’re a _unique snowflake_ whose extremely non-conformist identity must be reflected in every item of consumer electronics you own? 
 
 Enter the folks at [ColorWare](http://www.colorwarepc.com/p-228-ipad.aspx), who want to help add some serious Technicolor flair to your shiny new Apple tablet. You can customize your own look and feel by picking your a color scheme for the back, logo and home button separately using the company’s web-based Design Studio. 
 

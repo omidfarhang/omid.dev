@@ -14,7 +14,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="apple-adobe-200" border="0" alt="apple-adobe-200" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S7-pQ6cWqWI/AAAAAAAAB3w/VRa2l_Xo0Ac/apple-adobe-260_thumb%5B2%5D.jpg?imgmax=800" width="204" height="150" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S7-pPKLsR4I/AAAAAAAAB3s/phCh1atyhOw/s1600-h/apple-adobe-260%5B4%5D.jpg) Adobe has fired back against Apple’s recent ban on building iPhone apps via Flash. And this time, Adobe’s not pulling any of punches. 
+[![apple-adobe-200](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-pQ6cWqWI/AAAAAAAAB3w/VRa2l_Xo0Ac/apple-adobe-260_thumb%5B2%5D.jpg?imgmax=800 "apple-adobe-200")](http://lh4.ggpht.com/_vaUVXcmC3OI/S7-pPKLsR4I/AAAAAAAAB3s/phCh1atyhOw/s1600-h/apple-adobe-260%5B4%5D.jpg) Adobe has fired back against Apple’s recent ban on building iPhone apps via Flash. And this time, Adobe’s not pulling any of punches. 
 
 In a recent blog post on [The Flash Blog](http://theflashblog.com/?p=1888), Adobe Platform Evangelist Lee Brimelow goes on the offensive for seven paragraphs, ripping into Apple’s recent change to its iPhone Developer Program License Agreement that only allows for applications to be written in Objective-C, C, C++ or Javascript and executed by the iPhone OS WebKit engine. In fact, the post was so strong that Adobe asked Brimelow to delete a segment. 
 

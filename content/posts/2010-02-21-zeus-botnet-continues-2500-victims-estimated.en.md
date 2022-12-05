@@ -22,4 +22,4 @@ Researchers said the group behind Zeus also had machines infected with Waledac a
 
 The botnet controllers, using servers in Germany and the Netherlands, had breached networks in 196 countries including Egypt, Mexico, Saudi Arabia, Turkey, and the U.S.
 
-Story <a href="http://www.theregister.co.uk/2010/02/18/massive_hack_attack/" target="_blank">here</a>.
+Story [here](http://www.theregister.co.uk/2010/02/18/massive_hack_attack/).

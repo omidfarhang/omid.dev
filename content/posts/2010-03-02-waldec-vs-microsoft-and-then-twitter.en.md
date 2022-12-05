@@ -9,7 +9,7 @@ tags:
 lang: en
 category: techblog
 ---
-There were a couple of news items that I thought were interesting enough, albeit unrelated, to comment on. The first (story here:  <a href="http://news.bbc.co.uk/1/hi/technology/8537771.stm" target="_blank">http://news.bbc.co.uk/1/hi/technology/8537771.stm</a>)
+There were a couple of news items that I thought were interesting enough, albeit unrelated, to comment on. The first (story here:  [http://news.bbc.co.uk/1/hi/technology/8537771.stm](http://news.bbc.co.uk/1/hi/technology/8537771.stm))
 
 is that Microsoft has taken legal action to shut down the Waldec botnet, and folks are divided about whether there was any point to it.
 
@@ -21,7 +21,7 @@ You see, all the Rogue avs are associated with a Rogue merchant, who processes t
 
 Easy really.
 
-The second story (<a href="http://news.bbc.co.uk/1/hi/uk_politics/8536684.stm" target="_blank">http://news.bbc.co.uk/1/hi/uk_politics/8536684.stm</a>) involved a British politician who had her Twitter account hacked (or more likely phished), and then had bogus and embarrassing tweets sent on her behalf.
+The second story ([http://news.bbc.co.uk/1/hi/uk_politics/8536684.stm](http://news.bbc.co.uk/1/hi/uk_politics/8536684.stm)) involved a British politician who had her Twitter account hacked (or more likely phished), and then had bogus and embarrassing tweets sent on her behalf.
 
 Well…. Yep. This is the minimum that happens when you get any of your passwords phished. It’s the exact reason why you should use multiple passwords, rather than just one. Have a different password for each online property, and either store them in a password manager, or use the low-tech solution of writing them down and keeping them in your wallet. At least if you lose your wallet, you know you have to cancel all your credit cards, and change your passwords.
 

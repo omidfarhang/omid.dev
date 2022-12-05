@@ -13,19 +13,9 @@ category: techblog
 ---
 _This is an article taken from_ [_CNN_](http://www.cnn.com/) _and I don't agree or disagree it._
 
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5odt6T84MI/AAAAAAAABQA/AWa7HPE5ebE/s1600-h/story.cloud.jpg" imageanchor="1"><img border="0" height="112" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5odt6T84MI/AAAAAAAABQA/AWa7HPE5ebE/s200/story.cloud.jpg" width="200" /></a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <span>What security concerns are </span><br /><span>hidden in the murk of cloud computing?</span>
-    </td>
-  </tr>
-</table>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5odt6T84MI/AAAAAAAABQA/AWa7HPE5ebE/s200/story.cloud.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5odt6T84MI/AAAAAAAABQA/AWa7HPE5ebE/s1600-h/story.cloud.jpg)
+
+What security concerns are hidden in the murk of cloud computing?
 
 ([CNN](http://www.cnn.com/)) — Stormy weather could be on the horizon for cloud computing as security experts warn not enough is being done to make sure one of the hottest IT trends is safe.
 

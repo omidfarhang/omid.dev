@@ -39,7 +39,7 @@ Google began operating in China in 2006, agreeing to limited censorship of what 
 
 A dashboard page posted by Google after it made its announcement shows that YouTube, one of the Internet's most popular sites, has been blocked in mainland China for the past four days.
 
-<a href="http://www.google.com/prc/report.html#hl=en" target="new">View the page</a>
+[View the page](http://www.google.com/prc/report.html#hl=en)
 
 Google Sites and Blogger also have been blocked, while other Google properties like photo site Picasa and Google Docs have been partially blocked, according to the page.
 

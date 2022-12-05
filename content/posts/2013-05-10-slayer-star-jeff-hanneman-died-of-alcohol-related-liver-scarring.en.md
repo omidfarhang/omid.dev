@@ -11,7 +11,9 @@ tags:
 lang: en
 category: entblog
 ---
-<figure id="attachment_414" aria-describedby="caption-attachment-414" style="width: 189px" class="wp-caption alignright">[<img class="size-medium wp-image-414" alt="Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010." src="/images/2013/05/hanneman2-199x300.jpg" width="199" height="300" srcset="/images/sites/4/2013/05/hanneman2-199x300.jpg 199w, /images/sites/4/2013/05/hanneman2.jpg 346w" sizes="(max-width: 199px) 100vw, 199px" />](/images/2013/05/hanneman2.jpg)<figcaption id="caption-attachment-414" class="wp-caption-text">Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010.</figcaption></figure> 
+\[![Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010.](/images/2013/05/hanneman2-199x300.jpg)\](/images/2013/05/hanneman2.jpg)
+
+Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010. 
 
 **(Reuters) – Guitarist Jeff Hanneman of the seminal heavy metal band Slayer died of alcohol-related cirrhosis of the liver, and not as a result of a flesh-eating bacteria, the remaining members of the U.S. band said.**
 
@@ -29,4 +31,4 @@ Hanneman wrote many of the best known songs, including “Angel of Death” on S
 
 (Reporting by Eric Kelsey; Editing by Jill Serjeant and Bill Trott)
 
-[<img class="aligncenter size-full wp-image-413" alt="hanneman" src="/images/2013/05/hanneman.jpg" width="506" height="394" srcset="/images/sites/4/2013/05/hanneman.jpg 506w, /images/sites/4/2013/05/hanneman-300x233.jpg 300w" sizes="(max-width: 506px) 100vw, 506px" />](/images/2013/05/hanneman.jpg)
+[![hanneman](/images/2013/05/hanneman.jpg)](/images/2013/05/hanneman.jpg)

@@ -28,8 +28,9 @@ I wonder what the other three “Awakenings” were. Sounds Chinese.
 
 The Register’s head on the story:
 
-<a href="http://www.theregister.co.uk/2010/02/26/latvian_hacker_whistleblower/" target="_blank"><span><span><b> “Latvian hacker tweets hard on banking whistle”<br />“Fat cat pay leaked all over the Baltics”</b></span></span></a>
+[**“Latvian hacker tweets hard on banking whistle”  
+“Fat cat pay leaked all over the Baltics”**](http://www.theregister.co.uk/2010/02/26/latvian_hacker_whistleblower/)
 
 Love it!
 
-BBC story <a href="http://news.bbc.co.uk/2/hi/technology/8533641.stm" target="_blank">here</a>.
+BBC story [here](http://news.bbc.co.uk/2/hi/technology/8533641.stm).

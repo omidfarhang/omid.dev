@@ -14,7 +14,9 @@ tags:
 lang: en
 category: techblog
 ---
-<img class="alignright size-thumbnail wp-image-7233" src="/images/2015/10/stagefright-android-150x150.jpg" alt="stagefright-android" width="150" height="150" srcset="/images/sites/3/2015/10/stagefright-android-150x150.jpg 150w, /images/sites/3/2015/10/stagefright-android-300x300.jpg 300w, /images/sites/3/2015/10/stagefright-android.jpg 768w" sizes="(max-width: 150px) 100vw, 150px" />Here's how security vulnerabilities are supposed to be handled. One, a researcher discovers an issue. Two, the people who make the software find a solution. And three, the solution is then made available, ideally by automatic update. That's what Windows does, and what Apple does. It isn't always as fast as it should be, but at least once the fix exists it's available almost instantly.
+![stagefright-android](/images/2015/10/stagefright-android-150x150.jpg)
+
+Here's how security vulnerabilities are supposed to be handled. One, a researcher discovers an issue. Two, the people who make the software find a solution. And three, the solution is then made available, ideally by automatic update. That's what Windows does, and what Apple does. It isn't always as fast as it should be, but at least once the fix exists it's available almost instantly.
 
 Here's how it works with Android.
 

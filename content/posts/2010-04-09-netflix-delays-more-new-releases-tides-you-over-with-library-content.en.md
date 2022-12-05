@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="Netflix-dvd-200" border="0" alt="Netflix-dvd-200" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S7-e47Y9e1I/AAAAAAAAB3o/7mPVHuSJ5yE/Netflix-dvd-1_thumb%5B2%5D.jpg?imgmax=800" width="204" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-e20SOkqI/AAAAAAAAB3k/RLtNQGEIU8c/s1600-h/Netflix-dvd-1%5B4%5D.jpg) The new release rental is officially dead. As expected, Netflix has signed new deals with [Twentieth Century Fox](http://netflix.mediaroom.com/index.php?s=43&item=353) and [Universal Studios Home Entertainment](http://netflix.mediaroom.com/index.php?s=43&item=352) — similar to its deal with Warner Bros. — that delay new release rentals by 28 days and add new titles to its streaming collection. 
+[![Netflix-dvd-200](http://lh4.ggpht.com/_vaUVXcmC3OI/S7-e47Y9e1I/AAAAAAAAB3o/7mPVHuSJ5yE/Netflix-dvd-1_thumb%5B2%5D.jpg?imgmax=800 "Netflix-dvd-200")](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-e20SOkqI/AAAAAAAAB3k/RLtNQGEIU8c/s1600-h/Netflix-dvd-1%5B4%5D.jpg) The new release rental is officially dead. As expected, Netflix has signed new deals with [Twentieth Century Fox](http://netflix.mediaroom.com/index.php?s=43&item=353) and [Universal Studios Home Entertainment](http://netflix.mediaroom.com/index.php?s=43&item=352) — similar to its deal with Warner Bros. — that delay new release rentals by 28 days and add new titles to its streaming collection. 
 
 Both deals go into effect later this month; Netflix will start the 28-day hold for Fox titles with _Avatar’s_ release and Universal flicks with _It’s Complicated_. 
 
