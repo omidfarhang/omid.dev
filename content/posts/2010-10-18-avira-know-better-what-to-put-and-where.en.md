@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-Sometimes we encounter childish <a href="/2010/10/02/messages-from-malware-authors-in-malware/" target="_blank">messages</a> from the authors in the body of malware. A variant of the TDSS family we got recently is even going a step further by offering a convenient location for a malware signature. The samples include the message “Put your signature here”, which is shown when run inside a debugger.
+Sometimes we encounter childish [messages](/2010/10/02/messages-from-malware-authors-in-malware/) from the authors in the body of malware. A variant of the TDSS family we got recently is even going a step further by offering a convenient location for a malware signature. The samples include the message “Put your signature here”, which is shown when run inside a debugger.
 
 [](http://lh6.ggpht.com/_vaUVXcmC3OI/TLzFxckQDJI/AAAAAAAACt4/QjnASLqGS30/s1600-h/disass_screenshot%5B4%5D.png)
 

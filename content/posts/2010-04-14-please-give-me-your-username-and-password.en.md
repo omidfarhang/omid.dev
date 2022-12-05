@@ -19,4 +19,4 @@ If the user replies to the email, the return address is set to helpdesk_teams@li
 
 Nice try, but the email is just to generic to be actually taken seriously by anyone. I expect to see targeted emails in the next days (as we’ve already seen last year). 
 
-Of course, we advise to never respond to such emails. if you did, <a href="http://sites.google.com/site/boelectronic/computer/security/phishing/after-phishing" target="_blank">What to do if you've responded to a phishing scam</a>.
+Of course, we advise to never respond to such emails. if you did, [What to do if you've responded to a phishing scam](http://sites.google.com/site/boelectronic/computer/security/phishing/after-phishing).

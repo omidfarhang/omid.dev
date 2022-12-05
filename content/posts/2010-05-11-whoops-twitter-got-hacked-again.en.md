@@ -27,7 +27,7 @@ I've not yet seen the details of how the attack/ bug worked, and I'll update thi
 
 (2) Social networks are inherently viral… they spread stuff all by themselves. Just last week, we discovered some Facebook apps that were spreading via Friend lists to install adware (this has now diminished… shout-outs to FB for disabling the apps as soon as we pointed them out), and  
 
-(3) The Web is the current attack surface of choice. Install and use a <a href="http://sites.google.com/site/boelectronic/computer/security/site-advisor" target="_blank">Site Advisor</a>.  
+(3) The Web is the current attack surface of choice. Install and use a [Site Advisor](http://sites.google.com/site/boelectronic/computer/security/site-advisor).  
 
 Today, however, the ether is no longer perturbed, and all is well again with the possible exception of those celebs who were traumatized.  
 

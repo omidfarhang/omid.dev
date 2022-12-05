@@ -21,4 +21,4 @@ Last month FBI Director Robert Mueller said in a speech at the RSA conference th
 
 The auction fraud included phony sales of electronics equipment, luxury cars, airplanes, motorcycles and laptop computers as well as fake gold and platinum Rolex watches.
 
-Gary Warner’s blog <a href="http://garwarner.blogspot.com/2010/04/70-romanian-phishers-fraudsters.html" target="_blank">“CyberCrime and Doing Time”</a> has great coverage including links to videos and Romanian-language sites.
+Gary Warner’s blog [“CyberCrime and Doing Time”](http://garwarner.blogspot.com/2010/04/70-romanian-phishers-fraudsters.html) has great coverage including links to videos and Romanian-language sites.

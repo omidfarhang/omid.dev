@@ -19,7 +19,7 @@ Mikko Hypponen, the head of research at Finnish AV company F-Secure in an interv
 
 The only drawback might be that the next generation of computer professionals would have a harder time learning how their machines, networks and the Internet work.
 
-Last month we <a href="http://boelectronic.blogspot.com/2010/04/eliminate-two-thirds-of-comp-security.html" target="_blank">blogged about the story</a> when a security firm made a similar call:
+Last month we [blogged about the story](http://boelectronic.blogspot.com/2010/04/eliminate-two-thirds-of-comp-security.html) when a security firm made a similar call:
 
 “Los Angeles security firm BeyondTrust has released an analysis of Microsoft’s 75 security bulletins last year. They came to the startling conclusion that if users had operated their computers without administrative rights they would have eliminated 64 percent of their risk from Microsoft vulnerabilities!”
 

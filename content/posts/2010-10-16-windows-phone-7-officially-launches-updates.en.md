@@ -12,9 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-<a href="http://www.windowsphone7.com/" target="_blank"><img title="windowsphone_logo" border="0" alt="windowsphone_logo" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TLoCBMRojwI/AAAAAAAACqw/1heUsofqf9o/windowsphone_logo%5B5%5D.png?imgmax=800" width="177" height="62" /></a>Windows Phone 7 officially launched 11Oct at a press event in NYC Monday morning.  You can check out more here – <a href="http://www.windowsphone7.com/" target="_blank">http://www.windowsphone7.com</a>
+[![windowsphone_logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TLoCBMRojwI/AAAAAAAACqw/1heUsofqf9o/windowsphone_logo%5B5%5D.png?imgmax=800 "windowsphone_logo")](http://www.windowsphone7.com/)Windows Phone 7 officially launched 11Oct at a press event in NYC Monday morning.  You can check out more here – [http://www.windowsphone7.com](http://www.windowsphone7.com/)
 
-By the way, if you have any doubts about the platform or it’s responsiveness, you should really watch this video here – <a href="http://www.microsoft.com/presspass/presskits/windowsphone/videoGallery.aspx?contentID=wp7_unveil03&#038;WT.z_convert=Share" target="_blank">http://www.microsoft.com/presspass/presskits/windowsphone/videoGallery.aspx?contentID=wp7_unveil03&WT.z_convert=Share</a>
+By the way, if you have any doubts about the platform or it’s responsiveness, you should really watch this video here – [http://www.microsoft.com/presspass/presskits/windowsphone/videoGallery.aspx?contentID=wp7\_unveil03&WT.z\_convert=Share](http://www.microsoft.com/presspass/presskits/windowsphone/videoGallery.aspx?contentID=wp7_unveil03&WT.z_convert=Share)
 
 Seriously, watch the video.  The responsiveness of the device is just flat out amazing.  No lag whatsoever.  If you’ve been a Windows Mobile user, this is a VERY, VERY good thing to see.  I currently have a HTC Touch Pro 2 and the delay is soooo irritating.  It’s even faster than my ZuneHD.  Wait until you see the Bing Maps responsiveness, or the Bing Search (using Voice) feature.
 

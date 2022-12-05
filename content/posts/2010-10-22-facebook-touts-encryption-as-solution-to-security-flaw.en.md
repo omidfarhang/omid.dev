@@ -23,4 +23,4 @@ To make iframe-based applications handle UIDs more responsibly, Facebook's Mike 
 
 [InformationWeek](http://www.informationweek.com/news/security/vulnerabilities/showArticle.jhtml?articleID=227900537&cid=RSSfeed_IWK_ALL) notes that while this would prevent the accidental sharing of UIDs, it will not make HTTP referrer headers less prone to carrying information about the use of other websites. Data sharing via HTTP headers is a “Web-wide problem” that Facebook wants to address as a whole in the coming months.
 
-_Taken from ‘<a href="http://arstechnica.com/" target="_blank">Ars Technica</a>’_
+_Taken from ‘[Ars Technica](http://arstechnica.com/)’_

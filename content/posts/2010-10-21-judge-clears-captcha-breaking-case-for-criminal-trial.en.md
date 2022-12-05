@@ -66,4 +66,4 @@ The perpetrators took orders from ticket brokers, who were required to provide c
 
 The bot would seize a block of prize seats, from which Wiseguy employees would cull the best for clients, then release unwanted seats back to the system. A legitimate ticket buyer who tried to purchase the same seats during this time might find them unavailable one minute, then available the next minute.
 
-Credit to <a href="http://www.wired.com/threatlevel/2010/10/hacking-captcha/#ixzz1303oAE4l" target="_blank">Wired</a> / Photo: Photo: [ladybugbkt](http://www.flickr.com/photos/branditressler/2417898682/)
+Credit to [Wired](http://www.wired.com/threatlevel/2010/10/hacking-captcha/#ixzz1303oAE4l) / Photo: Photo: [ladybugbkt](http://www.flickr.com/photos/branditressler/2417898682/)

@@ -22,10 +22,10 @@ Anyway I don’t like football at all, it’s too boring fo me. But, at least in
 
 Yes, my friends, be careful when looking for any info on search engines, as they can lead to malware. In this case we’ve found that results in Google are leading to rogueware: 
 
-[<img title="Barcelona-BHSEO" border="0" alt="Barcelona-BHSEO" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8N6_eomE5I/AAAAAAAAB6o/SxlXXq8MtMg/Barcelona-BHSEO_thumb%5B2%5D.jpg?imgmax=800" width="444" height="484" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8N67pS21kI/AAAAAAAAB6k/_MWf4EHvFKo/s1600-h/Barcelona-BHSEO%5B4%5D.jpg) 
+[![Barcelona-BHSEO](http://lh3.ggpht.com/_vaUVXcmC3OI/S8N6_eomE5I/AAAAAAAAB6o/SxlXXq8MtMg/Barcelona-BHSEO_thumb%5B2%5D.jpg?imgmax=800 "Barcelona-BHSEO")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8N67pS21kI/AAAAAAAAB6k/_MWf4EHvFKo/s1600-h/Barcelona-BHSEO%5B4%5D.jpg) 
 
 The same campaign is targeting the [death of Lech Kaczynski, Polish president, this weekend in a plane crash](http://www.nytimes.com/2010/04/11/world/europe/11poland.html). When clicking on any of the malicious results, you are redirected here:
 
-[<img title="Barcelona-BHSEO-Rogue" border="0" alt="Barcelona-BHSEO-Rogue" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8N7IZ_e0FI/AAAAAAAAB6w/AOv5DG0fOjk/Barcelona-BHSEO-Rogue_thumb%5B2%5D.jpg?imgmax=800" width="504" height="316" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8N7Cr4417I/AAAAAAAAB6s/CyM6BcIfK6Y/s1600-h/Barcelona-BHSEO-Rogue%5B4%5D.jpg) 
+[![Barcelona-BHSEO-Rogue](http://lh3.ggpht.com/_vaUVXcmC3OI/S8N7IZ_e0FI/AAAAAAAAB6w/AOv5DG0fOjk/Barcelona-BHSEO-Rogue_thumb%5B2%5D.jpg?imgmax=800 "Barcelona-BHSEO-Rogue")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8N7Cr4417I/AAAAAAAAB6s/CyM6BcIfK6Y/s1600-h/Barcelona-BHSEO-Rogue%5B4%5D.jpg) 
 
-If you click on “Remove all” the rogueware CleanUpAntivirus will be installed in your computer. If you got in trouble with this, go to <a href="/knowledge-base/malware-removal/" target="_blank">virus removing</a> in my site and see how you can remove/solve it.
+If you click on “Remove all” the rogueware CleanUpAntivirus will be installed in your computer. If you got in trouble with this, go to [virus removing](/knowledge-base/malware-removal/) in my site and see how you can remove/solve it.

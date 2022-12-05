@@ -13,9 +13,9 @@ tags:
 lang: en
 category: techblog
 ---
-Many Ubuntu users will undoubtedly have strong opinions on Canonical’s recent proposal to replace the GNOME desktop with Unity in the Ubuntu 11.04 release.  But for the programmers behind GNOME, one of the open-source community’s most important projects, the announcement might prove to be even more upsetting.  <a href="http://blogs.gnome.org/mccann" target="_blank">Jon McCann</a>, lead designer for GNOME Shell, recently shared his thoughts on this topic with us–and he was none too charitable in his comments on Canonical.  Read on for details.
+Many Ubuntu users will undoubtedly have strong opinions on Canonical’s recent proposal to replace the GNOME desktop with Unity in the Ubuntu 11.04 release.  But for the programmers behind GNOME, one of the open-source community’s most important projects, the announcement might prove to be even more upsetting.  [Jon McCann](http://blogs.gnome.org/mccann), lead designer for GNOME Shell, recently shared his thoughts on this topic with us–and he was none too charitable in his comments on Canonical.  Read on for details.
 
-<a href="http://live.gnome.org/GnomeShell" target="_blank">GNOME Shell</a>, of course, is the new desktop interface on which GNOME developers are currently hard at work as the next big step for one of the Linux world’s most popular desktop environments.  GNOME Shell introduces a number of innovative interface concepts that, if successful, could truly redefine the way users interact with their operating system.
+[GNOME Shell](http://live.gnome.org/GnomeShell), of course, is the new desktop interface on which GNOME developers are currently hard at work as the next big step for one of the Linux world’s most popular desktop environments.  GNOME Shell introduces a number of innovative interface concepts that, if successful, could truly redefine the way users interact with their operating system.
 
 Unity, meanwhile, is an interface developed by Canonical that borrows many of its ideas from GNOME Shell.  Canonical began work on Unity last spring, and introduced it as the default interface for Ubuntu Netbook Edition in the Ubuntu 10.10 release, which debuted a few weeks ago.
 
@@ -23,7 +23,7 @@ But the big news came last Monday at the Ubuntu Developer Summit in Florida, whe
 
 ##### Canonical’s Leap Off?
 
-Ubuntu developer Jono Bacon was <a href="http://www.jonobacon.org/2010/10/25/ubuntu-11-04-to-ship-unity/" target="_blank">quick to point out</a> that Unity will still depend heavily on GNOME’s software stack, even if the interface itself break away from GNOME.  That may be true, but GNOME developer Jon McCann nonetheless views this move as a fundamental break between Ubuntu and GNOME.
+Ubuntu developer Jono Bacon was [quick to point out](http://www.jonobacon.org/2010/10/25/ubuntu-11-04-to-ship-unity/) that Unity will still depend heavily on GNOME’s software stack, even if the interface itself break away from GNOME.  That may be true, but GNOME developer Jon McCann nonetheless views this move as a fundamental break between Ubuntu and GNOME.
 
 Not that McCann was surprised.  “Canonical has been pulling away from the GNOME project for about two years,” he declared.  “So, this was inevitable.  I suspect that the timing probably has a lot to do with Mark’s jealousy of the recent OS X Tiger announcement.”
 

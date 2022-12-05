@@ -20,4 +20,4 @@ The Indian film industry, usually known as Bollywood, has been making a lot more
 
 In light of the new UK law, it might be a good idea for those in the jurisdiction to revisit company acceptable use policy, maintain good anti-malware and check logs of outbound traffic for uncharacteristically high volumes.
 
-Details of the legislation and its passage here: <a href="http://www.nytimes.com/2010/04/09/technology/09piracy.html?hpw" target="_blank">“U.K. Approves Crackdown on Internet Pirates”</a>
+Details of the legislation and its passage here: [“U.K. Approves Crackdown on Internet Pirates”](http://www.nytimes.com/2010/04/09/technology/09piracy.html?hpw)

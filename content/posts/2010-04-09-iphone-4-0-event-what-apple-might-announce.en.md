@@ -40,7 +40,7 @@ While we’re not sure how Apple will implement this feature, we have a strong f
 
 * * *Yesterday, 
 
-<a href="http://www.appleinsider.com/articles/10/04/06/apple_ipad_iphone_os_4_may_gain_direct_printing_support.html" target="_blank">AppleInsider reported</a> that direct printing support might be coming to iPhone 4.0 OS. If this is true, it will likely work like Bonjour currently works on Mac OS X systems (or on Windows computers that have Bonjour installed).</p> 
+[AppleInsider reported](http://www.appleinsider.com/articles/10/04/06/apple_ipad_iphone_os_4_may_gain_direct_printing_support.html) that direct printing support might be coming to iPhone 4.0 OS. If this is true, it will likely work like Bonjour currently works on Mac OS X systems (or on Windows computers that have Bonjour installed).</p> 
 
 While printing isn’t an activity I ever feel the need to do on my iPhone, the larger screen of the iPad might make it more compelling.
 

@@ -19,6 +19,6 @@ On the Adobe blog, Steve Gottwals wrote: “…we have been testing a new update
 
 Users can set an “Automatically install updates” control or not, as they wish.
 
-Blog entry <a href="http://blogs.adobe.com/adobereader/2010/04/upcoming_adobe_reader_and_acro.html" target="_blank">Here</a>.
+Blog entry [Here](http://blogs.adobe.com/adobereader/2010/04/upcoming_adobe_reader_and_acro.html).
 
 Given the attention that malcode creators have lavished on Adobe products recently, an updater to go along with regular “patch Tuesday” updates will certainly help us all have a good “end-user experience.”

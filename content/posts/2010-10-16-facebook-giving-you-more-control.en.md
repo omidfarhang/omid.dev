@@ -29,19 +29,19 @@ But there is one significant concern in our minds… the verification process.
 
 Step 1 is to request the download from your Account Settings:
 
-[<img title="Facebook_Download_01" border="0" alt="Facebook_Download_01" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TLobK8FZy4I/AAAAAAAACrM/N1GBEAKpkB4/Facebook_Download_01_thumb%5B1%5D.png?imgmax=800" width="304" height="192" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TLobIQYdtuI/AAAAAAAACrI/DBw4GNua_cs/s1600-h/Facebook_Download_01%5B3%5D.png)
+[![Facebook_Download_01](http://lh3.ggpht.com/_vaUVXcmC3OI/TLobK8FZy4I/AAAAAAAACrM/N1GBEAKpkB4/Facebook_Download_01_thumb%5B1%5D.png?imgmax=800 "Facebook_Download_01")](http://lh5.ggpht.com/_vaUVXcmC3OI/TLobIQYdtuI/AAAAAAAACrI/DBw4GNua_cs/s1600-h/Facebook_Download_01%5B3%5D.png)
 
 You'll get an e-mail when the information has been collected:
 
-[<img title="Facebook_Download_02" border="0" alt="Facebook_Download_02" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TLobQ3l-QOI/AAAAAAAACrU/xo6qSV65y2g/Facebook_Download_02_thumb%5B1%5D.png?imgmax=800" width="304" height="192" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TLobOVXN2sI/AAAAAAAACrQ/aLao0cZcSzc/s1600-h/Facebook_Download_02%5B3%5D.png)
+[![Facebook_Download_02](http://lh4.ggpht.com/_vaUVXcmC3OI/TLobQ3l-QOI/AAAAAAAACrU/xo6qSV65y2g/Facebook_Download_02_thumb%5B1%5D.png?imgmax=800 "Facebook_Download_02")](http://lh5.ggpht.com/_vaUVXcmC3OI/TLobOVXN2sI/AAAAAAAACrQ/aLao0cZcSzc/s1600-h/Facebook_Download_02%5B3%5D.png)
 
 There will be a link in the e-mail notification:
 
-[<img title="Facebook_Download_03" border="0" alt="Facebook_Download_03" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TLobZeCeinI/AAAAAAAACrc/Sh2cSp8kJts/Facebook_Download_03_thumb%5B1%5D.png?imgmax=800" width="304" height="192" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TLobVEPjBpI/AAAAAAAACrY/EJqUG9TqNQM/s1600-h/Facebook_Download_03%5B3%5D.png)
+[![Facebook_Download_03](http://lh6.ggpht.com/_vaUVXcmC3OI/TLobZeCeinI/AAAAAAAACrc/Sh2cSp8kJts/Facebook_Download_03_thumb%5B1%5D.png?imgmax=800 "Facebook_Download_03")](http://lh6.ggpht.com/_vaUVXcmC3OI/TLobVEPjBpI/AAAAAAAACrY/EJqUG9TqNQM/s1600-h/Facebook_Download_03%5B3%5D.png)
 
 And the link opens a page that prompts for your Facebook password
 
-[<img title="Facebook_Download_04" border="0" alt="Facebook_Download_04" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TLobgUHEfWI/AAAAAAAACrk/4ll_D3weufs/Facebook_Download_04_thumb%5B1%5D.png?imgmax=800" width="304" height="192" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TLobec6YWQI/AAAAAAAACrg/W1Hu_2y_tww/s1600-h/Facebook_Download_04%5B3%5D.png)
+[![Facebook_Download_04](http://lh4.ggpht.com/_vaUVXcmC3OI/TLobgUHEfWI/AAAAAAAACrk/4ll_D3weufs/Facebook_Download_04_thumb%5B1%5D.png?imgmax=800 "Facebook_Download_04")](http://lh4.ggpht.com/_vaUVXcmC3OI/TLobec6YWQI/AAAAAAAACrg/W1Hu_2y_tww/s1600-h/Facebook_Download_04%5B3%5D.png)
 
 So, what's our concern?
 
@@ -65,4 +65,4 @@ Only the Facebook account password is required and there's no additional e-mail 
 
 Facebook's [Help Center](https://register.facebook.com/help/?topic=download) provides no details on the zip file's length of availability or how often the file is recompiled.
 
-_Credit to_ <a href="http://www.f-secure.com/weblog/" target="_blank"><em>Sean</em></a>
+_Credit to_ [_Sean_](http://www.f-secure.com/weblog/)

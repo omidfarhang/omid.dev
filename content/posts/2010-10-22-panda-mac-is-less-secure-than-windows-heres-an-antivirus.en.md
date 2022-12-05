@@ -14,9 +14,9 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="Panda-AVP-MAC-2011-BoxDetails" border="0" alt="Panda-AVP-MAC-2011-BoxDetails" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMHyE0RrVZI/AAAAAAAAC3c/j9eKk054seo/Panda-AVP-MAC-2011-BoxDetails_thumb%5B5%5D.gif?imgmax=800" width="127" height="143" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMHyDYmfWhI/AAAAAAAAC3Y/1N4WiS2Xn2k/s1600-h/Panda-AVP-MAC-2011-BoxDetails%5B4%5D.gif)
+[![Panda-AVP-MAC-2011-BoxDetails](http://lh4.ggpht.com/_vaUVXcmC3OI/TMHyE0RrVZI/AAAAAAAAC3c/j9eKk054seo/Panda-AVP-MAC-2011-BoxDetails_thumb%5B5%5D.gif?imgmax=800 "Panda-AVP-MAC-2011-BoxDetails")](http://lh6.ggpht.com/_vaUVXcmC3OI/TMHyDYmfWhI/AAAAAAAAC3Y/1N4WiS2Xn2k/s1600-h/Panda-AVP-MAC-2011-BoxDetails%5B4%5D.gif)
 
-Follow up from: <a href="http://boelectronic.blogspot.com/2010/10/panda-security-launches-panda-antivirus.html" target="_blank">Panda security launches Panda Antivirus</a>
+Follow up from: [Panda security launches Panda Antivirus](http://boelectronic.blogspot.com/2010/10/panda-security-launches-panda-antivirus.html)
 
 The number of Mac OS vulnerabilities has quintupled in less than a year. In 2009, 34 vulnerabilities were detected for Mac OS. So far in 2010, this number has risen to 175 vulnerabilities. Furthermore, the platform can also be affected by 170,000 macro viruses for Windows and there are 5,000 classified strains of malware that specifically target Apple systems, according to [Panda Security](http://press.pandasecurity.com/news/panda-security-launches-panda-antivirus-for-mac/). 
 
@@ -26,4 +26,4 @@ The increased focus of hackers on the Cupertino's products has led the security 
 
 “Mac security was something Panda had to address,” Fermon said. “We believe this is the right time to launch a product like this, given that Apple is becoming globally more popular for various reasons (among others, due to the success of other devices, such as iPad) and could now start to be targeted by hackers.”
 
-_Taken from ‘_<a href="http://www.techspot.com/" target="_blank"><em>TechSpot</em></a>_’_
+_Taken from ‘_[_TechSpot_](http://www.techspot.com/)_’_

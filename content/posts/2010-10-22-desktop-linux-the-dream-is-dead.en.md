@@ -25,4 +25,4 @@ On the business end, ever since the SOHO fiasco where they were threatening to s
 
 On the other hand, the new Apple products are Linux based and are very successful, so with the right backing, the money to support and write applications, Linux could everything their supporters want it to be and I wish them luck.
 
-<a href="http://www.pcworld.com/businesscenter/article/207999/desktop_linux_the_dream_is_dead.html" target="_blank">Read The Article in PCWolrd</a>
+[Read The Article in PCWolrd](http://www.pcworld.com/businesscenter/article/207999/desktop_linux_the_dream_is_dead.html)
