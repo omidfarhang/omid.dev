@@ -13,9 +13,7 @@ category: techblog
 ---
 Today we received some job hiring emails that looked like this:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S276eNXMQLI/AAAAAAAAA1Y/q9E9cQ0aetY/s1600-h/careerbuilder_scam.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S276eNXMQLI/AAAAAAAAA1Y/q9E9cQ0aetY/s640/careerbuilder_scam.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S276eNXMQLI/AAAAAAAAA1Y/q9E9cQ0aetY/s640/careerbuilder_scam.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S276eNXMQLI/AAAAAAAAA1Y/q9E9cQ0aetY/s1600-h/careerbuilder_scam.png)
 
 It has been formatted nicely and appears to have come from a large job search website.
 
@@ -59,9 +57,7 @@ The message reads as follows:
 
 You might be tempted to try out your luck with such a generous offer, but before doing that, the lack of your name and absence of the hiring company’s name should arouse suspicion about this mail.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S276esdupKI/AAAAAAAAA1g/w0xLszCZg_Y/s1600-h/replyto.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S276esdupKI/AAAAAAAAA1g/w0xLszCZg_Y/s640/replyto.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S276esdupKI/AAAAAAAAA1g/w0xLszCZg_Y/s640/replyto.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S276esdupKI/AAAAAAAAA1g/w0xLszCZg_Y/s1600-h/replyto.png)
 
 The Reply-To field in the mail header tells another story, that the sender is probably not from a well set-up business. Otherwise why would they send the email a main website address, but have you reply to an AOL account?
 

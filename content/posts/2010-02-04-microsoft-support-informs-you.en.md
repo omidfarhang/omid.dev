@@ -16,9 +16,7 @@ Since yesterday, our lab has detected a flood of email messages that seem to con
 
 The message is like the following:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S2oMaLrsWII/AAAAAAAAAxw/lHErWDLLbNo/s1600-h/Outlook_update_en1.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S2oMaLrsWII/AAAAAAAAAxw/lHErWDLLbNo/s640/Outlook_update_en1.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2oMaLrsWII/AAAAAAAAAxw/lHErWDLLbNo/s640/Outlook_update_en1.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2oMaLrsWII/AAAAAAAAAxw/lHErWDLLbNo/s1600-h/Outlook_update_en1.jpg)
 
 This email, which seems to have been sent by the Microsoft Support team, informs you that a new security update for Outlook/Outlook Express has been released. It’s a critical update, so it’s better to install it as soon as possible.
 

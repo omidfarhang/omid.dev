@@ -13,9 +13,7 @@ category: techblog
 ---
 LiveEnterpriseSuite is a clone of InternetAntivirusPRO. Actually, the only thing that the authors of this rogue have changed is the name in the GUI.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2CUZ6EkMSI/AAAAAAAAAw4/ElJfQCw_DU4/s1600-h/liveenterprisesuite.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2CUZ6EkMSI/AAAAAAAAAw4/ElJfQCw_DU4/s640/liveenterprisesuite.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2CUZ6EkMSI/AAAAAAAAAw4/ElJfQCw_DU4/s640/liveenterprisesuite.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2CUZ6EkMSI/AAAAAAAAAw4/ElJfQCw_DU4/s1600-h/liveenterprisesuite.jpg)
 
 LiveEnterpriseSuite will detect false infections and require a license to remove them.
 

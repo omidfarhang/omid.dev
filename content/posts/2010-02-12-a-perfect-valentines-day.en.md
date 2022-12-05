@@ -12,11 +12,12 @@ lang: en
 category: techblog
 ---
 Planning a romantic Valentine’s Day for your loved one? Is there is no end to all that you can do to add even more sparkle this dreamy day? Perhaps a bottle of wine, flowers, or a lovely gift to impress him/her—and if you aren’t with anyone, there are even dating services available that provide you with options to meet a date.  
-As Dermot Harnett mentioned in <a href="http://www.symantec.com/connect/blogs/brilliant-proposal-stay-away-valentine-s-day-spam" target="_blank">A Brilliant Proposal: Stay Away from Valentine’s Day Spam!</a>, for spammers, Valentine’s Day is a great target. We’ve observed several spam email message styles related to this upcoming event. Gift options, flower delivery, dating service, med spam to spice up your relationship, and much more.  
+As Dermot Harnett mentioned in [A Brilliant Proposal: Stay Away from Valentine’s Day Spam!](http://www.symantec.com/connect/blogs/brilliant-proposal-stay-away-valentine-s-day-spam), for spammers, Valentine’s Day is a great target. We’ve observed several spam email message styles related to this upcoming event. Gift options, flower delivery, dating service, med spam to spice up your relationship, and much more.  
 Here are some common header lines that Symantec has tracked relating to Valentine’s Day:  
-_From: ValentineGift<contact details="" removed="">  
-From: Valentine's Day-Gift<contact details="" removed="">  
-From: &#8220;Valentines&#8221;<valentines details="" removed=""></valentines>@></contact>@></contact>@>_  
+``` md
+From: ValentineGiftXXXXXXXXXXXXXXXXXXXXXXXXX  
+From: Valentine's Day-GiftXXXXXXXXXXXXXXXXXXXXXXXX  
+From: &#8220;Valentines&#8221;XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Subject: Valentines for Couples.  
 Subject: A Valentines gift for Two  
 Subject: Act fast, Valentines is near.  
@@ -44,35 +45,33 @@ Subject: Valentines Day Special
 Subject: [FREE-Vase with your-Valentine's-Flowers, only $19.99]  
 Subject: , Get your gifts in time for Valentines!  
 Subject: Valentine's Gifts 72% Off
+```
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S3WBzQUSh0I/AAAAAAAAA44/op0AxigBr80/s1600-h/Screen+shot+2010-02-12+at+2.02.19+PM.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S3WBzQUSh0I/AAAAAAAAA44/op0AxigBr80/s640/Screen+shot+2010-02-12+at+2.02.19+PM.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3WBzQUSh0I/AAAAAAAAA44/op0AxigBr80/s640/Screen+shot+2010-02-12+at+2.02.19+PM.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3WBzQUSh0I/AAAAAAAAA44/op0AxigBr80/s1600-h/Screen+shot+2010-02-12+at+2.02.19+PM.png)
 
 The appeal of Valentine’s Day is universal, and if you thought that Valentine’s Day is only a boom day for English language spam, think otherwise. Symantec has found samples in various languages:
 
 ### Sample 1: Product spam
 
+```
 Header:  
 From:  &#8220;[Removed] Wine&#8221; [Removed] Wine@[Details Removed]  
 Subject: Stand out this Valentine's Day with [Removed] Wine
+```
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WtbrLUj5I/AAAAAAAAA5Y/NE0arHiM2BY/s1600-h/Screen+shot+2010-02-12+at+2.02.36+PM.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WtbrLUj5I/AAAAAAAAA5Y/NE0arHiM2BY/s640/Screen+shot+2010-02-12+at+2.02.36+PM.jpg" /></a>
-</div>
-
-
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WtbrLUj5I/AAAAAAAAA5Y/NE0arHiM2BY/s640/Screen+shot+2010-02-12+at+2.02.36+PM.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WtbrLUj5I/AAAAAAAAA5Y/NE0arHiM2BY/s1600-h/Screen+shot+2010-02-12+at+2.02.36+PM.jpg)
 
 ### Sample 2: Chinese dating spam
 
+```
 Header:  
 From: &#8220;[Details Removed]&#8221; admin@[Details Removed]  
 Subject: 情人节还要一个人过吗？来这里找个朋友吧
+```
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WCg5wPbFI/AAAAAAAAA5I/rh9dm3xKII4/s1600-h/Screen+shot+2010-02-12+at+2.09.34+PM.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WCg5wPbFI/AAAAAAAAA5I/rh9dm3xKII4/s640/Screen+shot+2010-02-12+at+2.09.34+PM.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WCg5wPbFI/AAAAAAAAA5I/rh9dm3xKII4/s640/Screen+shot+2010-02-12+at+2.09.34+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WCg5wPbFI/AAAAAAAAA5I/rh9dm3xKII4/s1600-h/Screen+shot+2010-02-12+at+2.09.34+PM.png)
 
+```md
 _Translation:_  
 Subject: Still alone for Valentine's day? Come here and find a date.
 
@@ -81,17 +80,19 @@ Please come here and gather with us if you are a lonely single man or woman who 
 We provide solutions if you feel lonely.  
 Leave your contact details! Maybe he (she) is waiting for you! ! !  
 http://www.[Details Removed]/
+```
 
 ### Sample 3: Russian product spam (Randomization in subject line)
 
+```
 Header:  
 From:  [Details Removed]  
 Subject: Oтличный пoдaрок нa день влюблeнных
+```
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3WCjcvXLXI/AAAAAAAAA5Q/nr7SBpQzK3g/s1600-h/Screen+shot+2010-02-12+at+2.09.48+PM.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3WCjcvXLXI/AAAAAAAAA5Q/nr7SBpQzK3g/s640/Screen+shot+2010-02-12+at+2.09.48+PM.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3WCjcvXLXI/AAAAAAAAA5Q/nr7SBpQzK3g/s640/Screen+shot+2010-02-12+at+2.09.48+PM.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3WCjcvXLXI/AAAAAAAAA5Q/nr7SBpQzK3g/s1600-h/Screen+shot+2010-02-12+at+2.09.48+PM.png)
 
+```md
 _Translation:_  
 Otlichny podarok nA day vlyublennyh  
 _Body Translation:_  
@@ -103,3 +104,4 @@ By buying any goods in our shop you paying only 500 hrivnas!
 Free delivery all over Ukraine  
 List of Perfumes:  
 =====================================
+```

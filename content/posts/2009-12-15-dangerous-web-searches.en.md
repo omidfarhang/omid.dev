@@ -15,11 +15,6 @@ category: techblog
 ---
 Don’t go there. There are a lot of rogue downloaders hiding in those links.
 
-<div>
-</div>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SygB5sSTcZI/AAAAAAAAAXE/2eWlKRcKN_U/s1600-h/TigerWoods.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SygB5sSTcZI/AAAAAAAAAXE/2eWlKRcKN_U/s400/TigerWoods.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SygB5sSTcZI/AAAAAAAAAXE/2eWlKRcKN_U/s400/TigerWoods.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SygB5sSTcZI/AAAAAAAAAXE/2eWlKRcKN_U/s1600-h/TigerWoods.jpg)
 
 Yahoo CEO Carol Bartz, speaking at the UBS Media and Communications Conference in New York, said the Tiger Woods sex scandal was a better traffic generator than the death of Michael Jackson, according to the [ZDNet blog](http://blogs.zdnet.com/BTL/?p=28556&tag=content;col1).

@@ -14,9 +14,7 @@ February 9th will bring numerous Microsoft Updates, 13 bulletins addressing 26 v
 
 All versions of Windows are affected.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S28x9LsIFgI/AAAAAAAAA2Y/HGPHEksHvIA/s1600-h/Microsoft_February_2010.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S28x9LsIFgI/AAAAAAAAA2Y/HGPHEksHvIA/s640/Microsoft_February_2010.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S28x9LsIFgI/AAAAAAAAA2Y/HGPHEksHvIA/s640/Microsoft_February_2010.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S28x9LsIFgI/AAAAAAAAA2Y/HGPHEksHvIA/s1600-h/Microsoft_February_2010.png)
 
 Looks like a busy Tuesday is ahead.
 

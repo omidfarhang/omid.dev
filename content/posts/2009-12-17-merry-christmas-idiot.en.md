@@ -20,14 +20,6 @@ The &#8220;Christmas Card&#8221; requires it's own &#8220;special version&#8221;
 
 Once ready, it will display this friendly message written in Universal Gibberish.
 
-<div>
-</div>
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqnawqK2MI/AAAAAAAAAXs/bUtfe6TVzXQ/s1600-h/Idiot.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqnawqK2MI/AAAAAAAAAXs/bUtfe6TVzXQ/s640/Idiot.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqnawqK2MI/AAAAAAAAAXs/bUtfe6TVzXQ/s640/Idiot.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqnawqK2MI/AAAAAAAAAXs/bUtfe6TVzXQ/s1600-h/Idiot.jpg)
 
 Pay attention to the cheerful filename used for this message — idiot.jpg.

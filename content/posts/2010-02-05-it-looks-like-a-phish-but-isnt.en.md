@@ -12,8 +12,6 @@ category: techblog
 ---
 This is really bad for so many reasons.  It certainly doesn’t help their security.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yZxSWC83I/AAAAAAAAAzo/QowM1v7CVYs/s1600-h/fidelity123123888.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yZxSWC83I/AAAAAAAAAzo/QowM1v7CVYs/s640/fidelity123123888.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yZxSWC83I/AAAAAAAAAzo/QowM1v7CVYs/s640/fidelity123123888.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yZxSWC83I/AAAAAAAAAzo/QowM1v7CVYs/s1600-h/fidelity123123888.png)
 
 And yes, it’s completely legitimate.

@@ -16,14 +16,6 @@ Nice idea, but unfortunately in this case it comes bundled with malware. We dete
 
 I wonder if Microsoft considered this for VISTA.
 
-<div>
-</div>
-
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7xLtDilqI/AAAAAAAAASQ/yfbJEeoiwkw/s1600-h/X3codec.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7xLtDilqI/AAAAAAAAASQ/yfbJEeoiwkw/s400/X3codec.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7xLtDilqI/AAAAAAAAASQ/yfbJEeoiwkw/s400/X3codec.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7xLtDilqI/AAAAAAAAASQ/yfbJEeoiwkw/s1600-h/X3codec.jpg)
 
 C4DL Media might have a marketing problem with the dollar bribe though. In places where a dollar is worth enough to make this worth the effort there probably isn’t any Internet connectivity.

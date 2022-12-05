@@ -11,9 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s1600-h/tweet_sink_fleets.png" imageanchor="1"><img border="0" height="200" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s200/tweet_sink_fleets.png" width="155" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s200/tweet_sink_fleets.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s1600-h/tweet_sink_fleets.png)
 
 Information leakage is a real problem.
 
@@ -29,8 +27,6 @@ People might think they are confiding in friends or family when they go on Faceb
 
 Here's [Sky News'](http://news.sky.com/skynews/Home/UK-News/Ministry-of-Defence-Staff-Have-Leaked-Secret-Information-16-Times-Onto-Social-Networking-Sites/Article/201001415535304) take on this.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s1600-h/foia.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s640/foia.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s640/foia.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s1600-h/foia.png)
 
 &#8220;Loose Tweets Sink Fleets&#8221; Poster image credit: [Brian Lane Winfield Moore](http://www.flickr.com/photos/doctabu/sets/72157620497679512)

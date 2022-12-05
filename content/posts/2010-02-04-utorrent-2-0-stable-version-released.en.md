@@ -9,15 +9,11 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s1600-h/utorrent.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s320/utorrent.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s320/utorrent.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s1600-h/utorrent.png)
 
 After lots of Beta and RC releases, uTorrent, the most popular and lightweight BitTorrent client has now been updated to ver. 2.0 which is the final stable release. The user interface has also improved with a set of new icons.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oRw-5YDMI/AAAAAAAAAx4/W3B9Fj5mixs/s1600-h/03022010221247.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oRw-5YDMI/AAAAAAAAAx4/W3B9Fj5mixs/s640/03022010221247.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oRw-5YDMI/AAAAAAAAAx4/W3B9Fj5mixs/s640/03022010221247.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oRw-5YDMI/AAAAAAAAAx4/W3B9Fj5mixs/s1600-h/03022010221247.jpg)
 
 Release Notes:
 

@@ -20,11 +20,6 @@ Fraudulent operators behind the rogues seem to be doing two things to confuse In
   * “Borrowing” content from legitimate anti-virus company web sites, such as certifications and management team pages, for their own web pages.
   * Distributing their rogues with different names and with redesigned graphic interfaces. They usually have web sites associated with the new name. They look like authentic security products, but, as the song said they “take the money and run.”
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SylCI5mWzSI/AAAAAAAAAXk/YdRzFd3GKc0/s1600-h/TheDefend+FakeSmoke_GUI.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SylCI5mWzSI/AAAAAAAAAXk/YdRzFd3GKc0/s400/TheDefend+FakeSmoke_GUI.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SylCI5mWzSI/AAAAAAAAAXk/YdRzFd3GKc0/s400/TheDefend+FakeSmoke_GUI.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SylCI5mWzSI/AAAAAAAAAXk/YdRzFd3GKc0/s1600-h/TheDefend+FakeSmoke_GUI.jpg)
 
 See our earlier blog entry about the [WiniGuard family of rogues](http://boelectronic.blogspot.com/2009/12/biggest-rogue-family.html).

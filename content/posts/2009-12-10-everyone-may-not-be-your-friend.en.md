@@ -20,16 +20,10 @@ The Koobface worm, which targets Facebook, has infected more than three million 
 
 The second story, in PC World, detailed a significant change in access control that Facebook has rolled out. The 350 million Facebook users now have more control over who can see their information. These changes actually have been in a beta stage since last spring. In addition to “everyone” (the default setting) they can limit their information to “friends,” “friends of friends” and now fine tune the process with a “customize” options which can limit access to one person for a post, picture or other item.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyEOfIQGFHI/AAAAAAAAATY/qvGWI7GIbOU/s1600-h/Facebook+1.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/SyEOfIQGFHI/AAAAAAAAATY/qvGWI7GIbOU/s640/Facebook+1.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyEOfIQGFHI/AAAAAAAAATY/qvGWI7GIbOU/s640/Facebook+1.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyEOfIQGFHI/AAAAAAAAATY/qvGWI7GIbOU/s1600-h/Facebook+1.png)
 
-There will be a new icon of a lock next to the “share” button that users hit to send their updates to their friends. Clicking on that enables users to select the security level for their posts.
+There will be a new icon of a lock next to the “share” button that users hit to send their updates to their friends. Clicking on that enables users to select the security level for their posts. Facebook users might avoid sharing with “everyone” since that makes their pages available to anyone on the Internet, including non-Facebook users. Sharing with “everyone” also makes the material available to search engines.
 
-Facebook users might avoid sharing with “everyone” since that makes their pages available to anyone on the Internet, including non-Facebook users. Sharing with “everyone” also makes the material available to search engines.
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEOpJbcUfI/AAAAAAAAATg/BADxHl9R3KM/s1600-h/Facebook+2.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEOpJbcUfI/AAAAAAAAATg/BADxHl9R3KM/s640/Facebook+2.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEOpJbcUfI/AAAAAAAAATg/BADxHl9R3KM/s640/Facebook+2.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEOpJbcUfI/AAAAAAAAATg/BADxHl9R3KM/s1600-h/Facebook+2.png)
 
 They also can lock down their profile settings by clicking on “settings” (top of page, right) then “privacy settings” in the drop-down menu.

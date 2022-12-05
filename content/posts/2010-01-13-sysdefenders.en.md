@@ -13,8 +13,6 @@ category: techblog
 ---
 SysDefenders is the latest addition to the clones of the WiniGuard rogue anti-spyware family.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S02vS-552iI/AAAAAAAAAo8/utLomjG2U7c/s1600-h/sysdefenders.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S02vS-552iI/AAAAAAAAAo8/utLomjG2U7c/s640/sysdefenders.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02vS-552iI/AAAAAAAAAo8/utLomjG2U7c/s640/sysdefenders.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02vS-552iI/AAAAAAAAAo8/utLomjG2U7c/s1600-h/sysdefenders.jpg)
 
 if your computer is infected above malware, you should remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it soon.

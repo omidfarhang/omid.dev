@@ -12,12 +12,7 @@ category: techblog
 ---
 According to the 2002 Census of the Population, 42% of the population of Ireland has the ability to speak Irish. Irish has also had official and working language status at the EU level since January 1, 2007. Recently, some examples of spam messages in Irish—the official language of the Republic of Ireland—have been observed.
 
-<div>
-</div>
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7u-M6SH7I/AAAAAAAAASA/b4DOUSDLKjU/s1600-h/Irishspam1.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7u-M6SH7I/AAAAAAAAASA/b4DOUSDLKjU/s400/Irishspam1.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7u-M6SH7I/AAAAAAAAASA/b4DOUSDLKjU/s400/Irishspam1.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7u-M6SH7I/AAAAAAAAASA/b4DOUSDLKjU/s1600-h/Irishspam1.png)
 
 While the Irish translation is generally pretty good in this example, there are some anomalies between how certain phrases have been constructed. For example:
 
@@ -27,9 +22,4 @@ When translated by a fluent Irish speaker into English, it translates as &#8220;
 
 Coincidentally, this message translates perfectly using a popular online translator. These messages were also sent from free Web accounts. This is another example of how spammers are turning to free online tools, such as online translators, in order to target certain demographics—albeit a small group of people in this instance. This is also an example of how spam email (which currently accounts for over 80 percent of all email) is now truly a global problem. Another example is included below:
 
-<div>
-</div>
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7vAWFBZ8I/AAAAAAAAASI/FJeg-PyXkQQ/s1600-h/Irishspam2.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7vAWFBZ8I/AAAAAAAAASI/FJeg-PyXkQQ/s400/Irishspam2.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7vAWFBZ8I/AAAAAAAAASI/FJeg-PyXkQQ/s400/Irishspam2.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7vAWFBZ8I/AAAAAAAAASI/FJeg-PyXkQQ/s1600-h/Irishspam2.png)

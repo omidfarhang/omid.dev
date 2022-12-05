@@ -21,6 +21,4 @@ There also is an Option called ‘Explore right here’, this reveals the import
 
 This feature is currently available in the United States of America only. As for the Indians we still stay deprived of the pleasure of using this feature with no prospects of it releasing in the near future.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S04WlULEcsI/AAAAAAAAApU/pA8edjyMVfo/s1600-h/Untitled-2.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S04WlULEcsI/AAAAAAAAApU/pA8edjyMVfo/s640/Untitled-2.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S04WlULEcsI/AAAAAAAAApU/pA8edjyMVfo/s640/Untitled-2.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S04WlULEcsI/AAAAAAAAApU/pA8edjyMVfo/s1600-h/Untitled-2.jpg)

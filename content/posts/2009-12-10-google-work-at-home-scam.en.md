@@ -16,19 +16,11 @@ Lately, a Google work at home scam has been plastering its way throughout the In
 
 **Example of the scam wall post on Facebook from a hacked account:**
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEgT6IwLEI/AAAAAAAAAUQ/BWF-E3sF-Kc/s1600-h/4158230751_9fd8f67bd8_o.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEgT6IwLEI/AAAAAAAAAUQ/BWF-E3sF-Kc/s400/4158230751_9fd8f67bd8_o.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEgT6IwLEI/AAAAAAAAAUQ/BWF-E3sF-Kc/s400/4158230751_9fd8f67bd8_o.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEgT6IwLEI/AAAAAAAAAUQ/BWF-E3sF-Kc/s1600-h/4158230751_9fd8f67bd8_o.png)
 
 **The scam site:**
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyEgku13TGI/AAAAAAAAAUY/BGWJJwoQJCI/s1600-h/4158993840_91cb70750a_o_d.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/SyEgku13TGI/AAAAAAAAAUY/BGWJJwoQJCI/s320/4158993840_91cb70750a_o_d.png" /></a>
-</div>
-
-<div>
-  <b><br /></b>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyEgku13TGI/AAAAAAAAAUY/BGWJJwoQJCI/s320/4158993840_91cb70750a_o_d.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyEgku13TGI/AAAAAAAAAUY/BGWJJwoQJCI/s1600-h/4158993840_91cb70750a_o_d.png)
 
 To &#8220;cash in on the opportunity” all you have to do is fork up a measly $1.95 for the “Easy Google Profit” kit. Unfortunately, if you fall for the scam, you’re going to be taken for more than what you bargained for. [Ripoff Report](http://www.ripoffreport.com/advertising-deceptive/income-easy-street/income-easy-street-incomemembe-4deaf.htm) shows one victims struggle with these scam artists. Aparently they automatically started charging the victim $39.98 per month on top of an additional $129.95 fee. On top of that, they enrolled him in a 14 day trial for another site, which charges $29.95 a month if not canceled in time.
 

@@ -20,12 +20,7 @@ Investigating advanced security notifications is important for us in SophosLabs.
 
 Following the first message from Microsoft there are two emails from Apple Product Security team announcing availability of [security updates for Java for Mac](http://support.apple.com/kb/HT3970) and after them another message coming directly from Steve Lipner, Microsoft’s Director of Security Assurance. What an honour I thought, but then the content seemed to ring a bell.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7yu_bbirI/AAAAAAAAASY/NQ3RLlZRZf8/s1600-h/malencpkee.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7yu_bbirI/AAAAAAAAASY/NQ3RLlZRZf8/s640/malencpkee.jpg" /></a>
-</div>
-
-<div>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7yu_bbirI/AAAAAAAAASY/NQ3RLlZRZf8/s640/malencpkee.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7yu_bbirI/AAAAAAAAASY/NQ3RLlZRZf8/s1600-h/malencpkee.jpg)
 
 The email contains a direct link to an alleged update executable file Windows-KBxxxxx-ENU.exe which immediately set the malware alarm off, since original Microsoft emails never directly link to an executable file or have an executable attached. I remembered that [Graham has written](http://www.sophos.com/blogs/gc/g/2008/10/13/malicious-microsoft-security-patch-spammed-out-before-patch-tuesday/) about a similar campaign more than a year ago.
 

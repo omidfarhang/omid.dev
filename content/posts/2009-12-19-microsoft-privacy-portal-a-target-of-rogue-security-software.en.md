@@ -16,18 +16,8 @@ Earlier in 2009, the [Microsoft privacy homepage](http://www.microsoft.com/priva
 
 We have received reports that this trojan has been distributed via poisoned search results, where users are redirected to sites that display fake scanners. These pages mistakenly report that the user's system is infected in order to convince users to download Trojan:Win32/PrivacyCenter. We have also received reports that this trojan has been distributed masquerading as a fake video codec. The pages and files utilized in this form of attack are highly variable, and change according to the user's location, browser and operating system. Below is a screenshot of the rogue program:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyzLyiyXeoI/AAAAAAAAAZ0/yHJNenYWTY8/s1600-h/Win32-PrivacyCenter%5B1%5D_2.png" imageanchor="1"><img border="0" height="290" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/SyzLyiyXeoI/AAAAAAAAAZ0/yHJNenYWTY8/s400/Win32-PrivacyCenter%5B1%5D_2.png" width="400" /></a>
-</div>
-
-<div>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyzLyiyXeoI/AAAAAAAAAZ0/yHJNenYWTY8/s400/Win32-PrivacyCenter%5B1%5D_2.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyzLyiyXeoI/AAAAAAAAAZ0/yHJNenYWTY8/s1600-h/Win32-PrivacyCenter%5B1%5D_2.png)
 
 Reports of rogue security programs have been more prevalent as of late. These are programs that generate misleading alerts and false detections in order to convince users to purchase illegitimate security software. Some of these programs may display product names or logos in an apparent and unlawful attempt to impersonate Microsoft products.
 
-<div>
-</div>
-
-<div>
-  To find out how to remove it, <a href="/knowledge-base/malware-removal/">Click Here</a>.
-</div>
+To find out how to remove it, [Click Here](/knowledge-base/malware-removal/).

@@ -25,9 +25,7 @@ http://freesoftwaredl.com/
 
 The PPN setup wizard says that the distribution of Firefox is “sponsored” by Hotbar. We’re wondering what that means. In reality, they’re taking a distribution of Firefox and infecting it with adware.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S29KnbKtB5I/AAAAAAAAA2g/yqlkgp-L3bc/s1600-h/ppn-firefox.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S29KnbKtB5I/AAAAAAAAA2g/yqlkgp-L3bc/s640/ppn-firefox.JPG" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S29KnbKtB5I/AAAAAAAAA2g/yqlkgp-L3bc/s640/ppn-firefox.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S29KnbKtB5I/AAAAAAAAA2g/yqlkgp-L3bc/s1600-h/ppn-firefox.JPG)
 
 eSoft blog piece [here](http://threatcenter.blogspot.com/2010/02/fake-firefox-update-pages-push-adware.html).
 

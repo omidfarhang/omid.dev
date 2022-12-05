@@ -15,9 +15,7 @@ category: techblog
 ---
 New, shiny products always tend to catch people’s attention, and spammers are continually looking for ways to do exactly that. So it’s not surprising to see spam tempting people with the promise of a new iPad, and a FREE one at that:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S28rD-KweoI/AAAAAAAAA2Q/cJ42pokSAW0/s1600-h/ipad.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S28rD-KweoI/AAAAAAAAA2Q/cJ42pokSAW0/s640/ipad.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S28rD-KweoI/AAAAAAAAA2Q/cJ42pokSAW0/s640/ipad.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S28rD-KweoI/AAAAAAAAA2Q/cJ42pokSAW0/s1600-h/ipad.jpg)
 
 The image they’ve used is very sketchy too, patched together from other existing Apple products and bearing little resemblance to the pictures released so far.
 

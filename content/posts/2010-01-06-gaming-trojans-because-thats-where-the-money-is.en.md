@@ -26,6 +26,4 @@ Perhaps it’s time to start thinking a lot more seriously about the value of vi
 
 Heeks’ 2008 paper on the university web site:
 
-<div>
-  <a href="http://www.sed.manchester.ac.uk/idpm/research/publications/wp/di/di_wp32.htm">Current Analysis and Future Research Agenda on &#8220;Gold Farming&#8221;: Real-World Production in Developing Countries for the Virtual Economies of Online Games</a>
-</div>
+[Current Analysis and Future Research Agenda on “Gold Farming”: Real-World Production in Developing Countries for the Virtual Economies of Online Games](http://www.sed.manchester.ac.uk/idpm/research/publications/wp/di/di_wp32.htm)

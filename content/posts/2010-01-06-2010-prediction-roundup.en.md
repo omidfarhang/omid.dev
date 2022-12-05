@@ -27,11 +27,7 @@ The U.S. Federal Trade Commission has had some noteworthy successes against spam
 
 So, there is motion.
 
-
-
-<div>
-  . . .
-</div>
+. . .
 
 There is no shortage of predictions this month.
 

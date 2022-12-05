@@ -16,9 +16,7 @@ With the latest release of their browser, v.4.0, Google has published a long exp
 
 But, being able to compete with the others better doesn’t mean that they have solved all problems. Actually, their problems just start to appear – because adding extensions in the browser is just the same as opening Pandora’s box.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CRL1eG1VI/AAAAAAAAAww/LiW8CjlGJvQ/s1600-h/chrome-ext.png" imageanchor="1"><img border="0" height="290" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CRL1eG1VI/AAAAAAAAAww/LiW8CjlGJvQ/s640/chrome-ext.png" width="640" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CRL1eG1VI/AAAAAAAAAww/LiW8CjlGJvQ/s640/chrome-ext.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CRL1eG1VI/AAAAAAAAAww/LiW8CjlGJvQ/s1600-h/chrome-ext.png)
 
 Anyone can write extensions and upload them in the Google Extension Gallery. Google doesn’t check in any way that the extensions are behaving correctly and do only “good” things.
 

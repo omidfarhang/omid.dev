@@ -22,15 +22,11 @@ On other days, asking me to lose my weight results in instant chances of winning
 
 But before I can get my lucky email address, they first need to verify my hotmail account.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zV1hbwGlI/AAAAAAAAAvg/tYOlIlQmyxE/s1600-h/hotmail1.jpg" imageanchor="1"><img border="0" height="515" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zV1hbwGlI/AAAAAAAAAvg/tYOlIlQmyxE/s640/hotmail1.jpg" width="476" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zV1hbwGlI/AAAAAAAAAvg/tYOlIlQmyxE/s640/hotmail1.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zV1hbwGlI/AAAAAAAAAvg/tYOlIlQmyxE/s1600-h/hotmail1.jpg)
 
 Not a problem, right?
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S1zWMtqvphI/AAAAAAAAAvo/T5vh5ZBSs9k/s1600-h/hotmail2.jpg" imageanchor="1"><img border="0" height="410" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S1zWMtqvphI/AAAAAAAAAvo/T5vh5ZBSs9k/s640/hotmail2.jpg" width="546" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1zWMtqvphI/AAAAAAAAAvo/T5vh5ZBSs9k/s640/hotmail2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1zWMtqvphI/AAAAAAAAAvo/T5vh5ZBSs9k/s1600-h/hotmail2.jpg)
 
 Not so fast, Speedy Gonzales. A quick observation by moving my mouse over the displayed link shows that the real link is in fact different from that which is being shown.
 

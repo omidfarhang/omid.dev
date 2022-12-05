@@ -19,8 +19,6 @@ It seems the attackers [renewed their attempt last week](http://www.lefigaro.fr/
 
 Using these credentials, hackers–instead of manufacturers, governments, and brokers–would in theory be able to sell and buy quotas. During the past 18 months, fraud on the CO₂ market has caused [a tax loss of €5 billion](http://www.thegwpf.org/international-news/254-carbon-trading-fraudsters-in-europe-pocket-5bn.html). Such access would also be useful for the biggest emitters of carbon dioxide; those countries could manipulate the international quotas to reduce their penalties. The following graphic, from Europol (the European Law Enforcement Agency), explains how such fraud can occur.
 
-<div>
-  <a href="http://www.europol.europa.eu/images/pressreleases/carbon_credit_carousel.pdf"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S2iYpSiL-aI/AAAAAAAAAxo/ecPEIJyzzTc/s640/FP_BLOG_100202_2.jpg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S2iYpSiL-aI/AAAAAAAAAxo/ecPEIJyzzTc/s640/FP_BLOG_100202_2.jpg)](http://www.europol.europa.eu/images/pressreleases/carbon_credit_carousel.pdf)
 
 One thing is sure, the people behind these attacks cannot be simple hackers. They are likely in the pay of rogue states that reject rules-based international trade.

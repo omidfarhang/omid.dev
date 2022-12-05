@@ -17,9 +17,7 @@ Hmmm. If this company has been providing “20 Years of Total Protection” how 
 
 **The fake:**
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S3RO6u522nI/AAAAAAAAA4A/CY08zAmyPps/s1600-h/fake_avira.png" imageanchor="1"><img border="0" height="640" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S3RO6u522nI/AAAAAAAAA4A/CY08zAmyPps/s640/fake_avira.png" width="624" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3RO6u522nI/AAAAAAAAA4A/CY08zAmyPps/s640/fake_avira.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3RO6u522nI/AAAAAAAAA4A/CY08zAmyPps/s1600-h/fake_avira.png)
 
 Site registered last year to a proxy service.
 
@@ -37,14 +35,13 @@ Registrant:
 
 **The real one:**
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RO-V35iSI/AAAAAAAAA4I/iBYTfMugujI/s1600-h/Avira.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RO-V35iSI/AAAAAAAAA4I/iBYTfMugujI/s640/Avira.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RO-V35iSI/AAAAAAAAA4I/iBYTfMugujI/s640/Avira.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RO-V35iSI/AAAAAAAAA4I/iBYTfMugujI/s1600-h/Avira.png)
 
 Site registered in 1999, full identifying data in Whois record.
 
 **Whois Record**
 
+```
 Registrant:  
 Avira GmbH  
    Lindauer Str. 21  
@@ -68,5 +65,6 @@ Avira GmbH
 
    Record expires on 26-Mar-2012.  
    Record created on 26-Mar-1999.
+```
 
 Nice work Jerome.
