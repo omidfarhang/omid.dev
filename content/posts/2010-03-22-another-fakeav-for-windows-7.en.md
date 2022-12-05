@@ -15,34 +15,21 @@ With Windows 7 becoming increasingly popular, more and more software companies h
 
 Today, I saw a Fake Antivirus program with a newer, more jazzed up interface, which we detect as Troj/FakeAle-RK.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6czX0dUPyI/AAAAAAAABUY/yTi_elvPwGY/s1600-h/bfakeale1.jpg" imageanchor="1"><img border="0" height="300" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6czX0dUPyI/AAAAAAAABUY/yTi_elvPwGY/s400/bfakeale1.jpg" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6czX0dUPyI/AAAAAAAABUY/yTi_elvPwGY/s400/bfakeale1.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6czX0dUPyI/AAAAAAAABUY/yTi_elvPwGY/s1600-h/bfakeale1.jpg)
 
 This malware specifically targets users of Windows 7 and appears in the form of a pop-up dialogue box, which attempts to tell you that your Windows 7 PC has many serious threats. When a user clicks “Remove all Threats immediately”, another pop-up will be generated asking them to download a file called win\_protection\_update.exe.
 
 This file is malicious and is yet another Fake Antivirus program, which we proactively detect as Mal/FakeAV-AA.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6czjxCFI9I/AAAAAAAABUc/lXu0-HSqNsk/s1600-h/bfakeale2.jpg" imageanchor="1"><img border="0" height="300" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6czjxCFI9I/AAAAAAAABUc/lXu0-HSqNsk/s400/bfakeale2.jpg" width="400" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6czjxCFI9I/AAAAAAAABUc/lXu0-HSqNsk/s400/bfakeale2.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6czjxCFI9I/AAAAAAAABUc/lXu0-HSqNsk/s1600-h/bfakeale2.jpg)
 
 Needless to say, the user will be offered the option of paying money to update the expired license, which in turn would fix all their computer’s ‘problems’. Those problems were never there in the first place.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6czzVh2T4I/AAAAAAAABUg/r00FOrdvBpY/s1600-h/bfakeale3.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6czzVh2T4I/AAAAAAAABUg/r00FOrdvBpY/s400/bfakeale3.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6czzVh2T4I/AAAAAAAABUg/r00FOrdvBpY/s400/bfakeale3.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6czzVh2T4I/AAAAAAAABUg/r00FOrdvBpY/s1600-h/bfakeale3.jpg)
 
-
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6czzfD0-6I/AAAAAAAABUk/qNtREdZlPqE/s1600-h/bfakeale4.jpg" imageanchor="1"><img border="0" height="300" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6czzfD0-6I/AAAAAAAABUk/qNtREdZlPqE/s400/bfakeale4.jpg" width="400" /></a>
-</div>
-
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6czzfD0-6I/AAAAAAAABUk/qNtREdZlPqE/s400/bfakeale4.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6czzfD0-6I/AAAAAAAABUk/qNtREdZlPqE/s1600-h/bfakeale4.jpg)
 The interesting thing is that the malware’s author makes a careless spelling mistake (see the red circle).
 
 Obviously, I won’t enter my credit card details at all. Neither should you.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6c0OX_fb4I/AAAAAAAABUo/NuzsbtsU6X4/s1600-h/bfakeale6.jpg" imageanchor="1"><img border="0" height="282" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6c0OX_fb4I/AAAAAAAABUo/NuzsbtsU6X4/s400/bfakeale6.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6c0OX_fb4I/AAAAAAAABUo/NuzsbtsU6X4/s400/bfakeale6.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6c0OX_fb4I/AAAAAAAABUo/NuzsbtsU6X4/s1600-h/bfakeale6.jpg)

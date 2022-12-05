@@ -14,9 +14,7 @@ Symantec has observed a new trend in phishing in which the phishing Web page con
 
 The attackers use several offers of pornography as bait. Some of the offers are adult chat, social networking with adult personals for sexual favors, blogs with free pornography, and so on. The screenshot below is an example of a phishing website using a leading information services brand. The site states that they provide email alerts for sex parties:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S29NAUZdJUI/AAAAAAAAA2o/aRO9iXsP34w/s1600-h/Screen+shot+2010-02-03+at+9.33.52+PM.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S29NAUZdJUI/AAAAAAAAA2o/aRO9iXsP34w/s640/Screen+shot+2010-02-03+at+9.33.52+PM.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S29NAUZdJUI/AAAAAAAAA2o/aRO9iXsP34w/s640/Screen+shot+2010-02-03+at+9.33.52+PM.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S29NAUZdJUI/AAAAAAAAA2o/aRO9iXsP34w/s1600-h/Screen+shot+2010-02-03+at+9.33.52+PM.png)
 
 In January, new phishing attacks such as the above example continued to be observed abusing legitimate brands. The phishing pages were created using free Web hosting sites. Upon entering login credentials, the site redirects to a pornographic website that then leads to a fake antivirus website containing malicious code.
 

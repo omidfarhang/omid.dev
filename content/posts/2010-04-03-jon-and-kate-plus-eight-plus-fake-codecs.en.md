@@ -16,9 +16,7 @@ category: techblog
 ---
 One our researchers was reading the comments about Dancing With The Stars, and Kate Gosselin's performance (He's a huge fan &#8230; don't ask), when he noticed a link to a URL shortening service. Given that it was advertising a video of Kate Gosselin topless, he astutely realised that was a bit suspicious, and checked it out inside a nice, safe virtual pc. Indeed, the shortening service immediately transferred to a website showing a picture of Kate at the beach&#8230;
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkRd6M0SI/AAAAAAAABdk/fH2HpZbZp0I/s1600-h/6a00e5539a104188340133ec5884e7970b-800wi.jpg" imageanchor="1"><img border="0" height="290" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkRd6M0SI/AAAAAAAABdk/fH2HpZbZp0I/s400/6a00e5539a104188340133ec5884e7970b-800wi.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkRd6M0SI/AAAAAAAABdk/fH2HpZbZp0I/s400/6a00e5539a104188340133ec5884e7970b-800wi.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkRd6M0SI/AAAAAAAABdk/fH2HpZbZp0I/s1600-h/6a00e5539a104188340133ec5884e7970b-800wi.jpg)
 
 Note the dialog that says &#8220;ActiveX Object Error&#8221;, and &#8220;Click OK to download&#8221;. If you're a poker player, this is what's known as a &#8220;tell&#8221;. And if you are not a poker player, this is your sign that you should run for the hills, or in computer terms, start Task Manager and kill the browser.
 
@@ -26,9 +24,7 @@ If you \_ever\_ have to download a codec or anything to watch a video &#8230;. D
 
 If, however, you are determined to walk a little on the wild side, and try to view Ms Gosselin, you are confronted with a File Download diloag, and when you run that, you see this screen &#8230;
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkPKZvNaI/AAAAAAAABdg/84NEilVfFI0/s1600-h/6a00e5539a104188340133ec588b0d970b-800wi.jpg" imageanchor="1"><img border="0" height="290" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkPKZvNaI/AAAAAAAABdg/84NEilVfFI0/s400/6a00e5539a104188340133ec588b0d970b-800wi.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkPKZvNaI/AAAAAAAABdg/84NEilVfFI0/s400/6a00e5539a104188340133ec588b0d970b-800wi.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7dkPKZvNaI/AAAAAAAABdg/84NEilVfFI0/s1600-h/6a00e5539a104188340133ec588b0d970b-800wi.jpg)
 
 Wait &#8230; an anti virus? I thought I was getting a movie viewer!?
 

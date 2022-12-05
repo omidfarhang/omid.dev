@@ -15,16 +15,11 @@ category: techblog
 ---
 A friend of mine forwarded a suspicious email message recently. I’ve replaced the domain, order number, etc. below:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7eDuKtdJHI/AAAAAAAABd0/vccSfqkBTDM/s1600-h/s1.JPG" imageanchor="1"><img border="0" height="227" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S7eDuKtdJHI/AAAAAAAABd0/vccSfqkBTDM/s400/s1.JPG" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7eDuKtdJHI/AAAAAAAABd0/vccSfqkBTDM/s400/s1.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7eDuKtdJHI/AAAAAAAABd0/vccSfqkBTDM/s1600-h/s1.JPG)
 
-I validated for my friend that the email was bogus. The domain was not held by Domain Registry of America (DROA), and never had been. The domain was not expiring in the next 90 days.  
-Later he received a follow-up email:
+I validated for my friend that the email was bogus. The domain was not held by Domain Registry of America (DROA), and never had been. The domain was not expiring in the next 90 days. Later he received a follow-up email:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7eDwLSXAnI/AAAAAAAABd4/kHcJGKSDLyY/s1600-h/s2.JPG" imageanchor="1"><img border="0" height="335" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7eDwLSXAnI/AAAAAAAABd4/kHcJGKSDLyY/s400/s2.JPG" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7eDwLSXAnI/AAAAAAAABd4/kHcJGKSDLyY/s400/s2.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7eDwLSXAnI/AAAAAAAABd4/kHcJGKSDLyY/s1600-h/s2.JPG)
 
-The scam attempts to get domain holders to transfer service and pay accordingly. It seems this scam has been around for at least eight years, though it has morphed over time. Apparently the DROA has chosen to test the 2003 judgment by the Federal Trade Commission (<a href="http://www.ftc.gov/opa/2003/12/domainreg.shtm" target="_blank">http://www.ftc.gov/opa/2003/12/domainreg.shtm</a>).  
+The scam attempts to get domain holders to transfer service and pay accordingly. It seems this scam has been around for at least eight years, though it has morphed over time. Apparently the DROA has chosen to test the 2003 judgment by the Federal Trade Commission ([http://www.ftc.gov/opa/2003/12/domainreg.shtm](http://www.ftc.gov/opa/2003/12/domainreg.shtm)).  
 One thing of interest here is the two-staged approach: The first message requires no action by the recipient, but the second message tells the user to obtain and hand over the keys to the castle.

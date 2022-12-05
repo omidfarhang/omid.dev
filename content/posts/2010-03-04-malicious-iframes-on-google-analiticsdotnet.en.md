@@ -16,9 +16,7 @@ Right! A site registered in the state of “Taliban.”
 
 You’re really going to go to a site with this registration:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4_7paXxyHI/AAAAAAAABIU/ihyMHoFziiU/s1600-h/Taliban_20state.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4_7paXxyHI/AAAAAAAABIU/ihyMHoFziiU/s640/Taliban_20state.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4_7paXxyHI/AAAAAAAABIU/ihyMHoFziiU/s640/Taliban_20state.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4_7paXxyHI/AAAAAAAABIU/ihyMHoFziiU/s1600-h/Taliban_20state.png)
 
 Nice work SANS.
 

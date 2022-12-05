@@ -13,9 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600-h/squareipad.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600/squareipad.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600/squareipad.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600-h/squareipad.jpg)
 
 The iPad already has an app for credit card transactions thanks to Twitter creator Jack Dorsey’s Square project.
 
@@ -27,12 +25,6 @@ In some cases, this application will be easier than using a regular credit card 
 
 After the sale is completed, you can send receipts to customers via e-mail or SMS. Here are some pics.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hwugbsfSI/AAAAAAAABfk/sljT7ps8EcA/s1600-h/ipadsquare1.jpg" imageanchor="1"><img border="0" height="260" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hwugbsfSI/AAAAAAAABfk/sljT7ps8EcA/s400/ipadsquare1.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hwugbsfSI/AAAAAAAABfk/sljT7ps8EcA/s400/ipadsquare1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hwugbsfSI/AAAAAAAABfk/sljT7ps8EcA/s1600-h/ipadsquare1.jpg)
 
-
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hww6u3HwI/AAAAAAAABfo/rjL1wSheb_0/s1600-h/ipadsquare2.jpg" imageanchor="1"><img border="0" height="260" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hww6u3HwI/AAAAAAAABfo/rjL1wSheb_0/s400/ipadsquare2.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hww6u3HwI/AAAAAAAABfo/rjL1wSheb_0/s400/ipadsquare2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hww6u3HwI/AAAAAAAABfo/rjL1wSheb_0/s1600-h/ipadsquare2.jpg)

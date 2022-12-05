@@ -15,28 +15,22 @@ We regularly learn of cases where criminals have gained access to credit card nu
 
 Once they have the credit card numbers, they basically have three ways to turn them into cash:
 
-  * Sell them
-  * Make fraudulent purchases on them
-  * Create real-world cards out of them
+* Sell them
+* Make fraudulent purchases on them
+* Create real-world cards out of them
 
-To create real-world cards, you need blank cards to start with. These are known in the underground as &#8220;**blank plastic**&#8220;.
+To create real-world cards, you need blank cards to start with. These are known in the underground as “**blank plastic**“.
 
 And there are online stores for blank plastic. Here are some pictures from one:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFIO0fdfI/AAAAAAAABTE/N6MX7PK9BwM/s1600-h/imagine_cards_1.jpg" imageanchor="1"><img border="0" height="320" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFIO0fdfI/AAAAAAAABTE/N6MX7PK9BwM/s400/imagine_cards_1.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFIO0fdfI/AAAAAAAABTE/N6MX7PK9BwM/s400/imagine_cards_1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFIO0fdfI/AAAAAAAABTE/N6MX7PK9BwM/s1600-h/imagine_cards_1.jpg)
 
-Above: Collection of &#8220;blank&#8221; Visa and Master Card cards.
+Above: Collection of “blank” Visa and Master Card cards.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFINuilvI/AAAAAAAABTI/3lrwkNurD8w/s1600-h/imagine_cards_2.jpg" imageanchor="1"><img border="0" height="235" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFINuilvI/AAAAAAAABTI/3lrwkNurD8w/s400/imagine_cards_2.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFINuilvI/AAAAAAAABTI/3lrwkNurD8w/s400/imagine_cards_2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NFINuilvI/AAAAAAAABTI/3lrwkNurD8w/s1600-h/imagine_cards_2.jpg)
 
 Above: Gold embossing demo. Still missing the hologram sticker.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6NFIQtKe-I/AAAAAAAABTM/5HteiPalU9Q/s1600-h/imagine_cards_3.jpg" imageanchor="1"><img border="0" height="330" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6NFIQtKe-I/AAAAAAAABTM/5HteiPalU9Q/s400/imagine_cards_3.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6NFIQtKe-I/AAAAAAAABTM/5HteiPalU9Q/s400/imagine_cards_3.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6NFIQtKe-I/AAAAAAAABTM/5HteiPalU9Q/s1600-h/imagine_cards_3.jpg)
 
-Above: Finished product. Notice the card holder's name&#8230;
+Above: Finished product. Notice the card holder's name…

@@ -15,9 +15,7 @@ category: techblog
 ---
 A Windows Update is available to users who are located in member countries of the European Union allowing for choosing a different standard browser for the system. The update is available for download through Windows Update.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5V2a-ByH0I/AAAAAAAABO8/oxMz4txy9eg/s1600-h/browser-choice.png" imageanchor="1"><img border="0" height="201" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5V2a-ByH0I/AAAAAAAABO8/oxMz4txy9eg/s400/browser-choice.png" width="400" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5V2a-ByH0I/AAAAAAAABO8/oxMz4txy9eg/s400/browser-choice.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5V2a-ByH0I/AAAAAAAABO8/oxMz4txy9eg/s1600-h/browser-choice.png)
 
 The Update creates a shortcut on your desktop. This shortcut leads to a [Web page](http://www.browserchoice.eu/) in which it is possible to select which Web browser to install. Additionally, the first time the users logs in to the computer after installing the update, Windows Internet Explorer starts automatically and displays the Browser Choice Web page.
 
@@ -29,72 +27,15 @@ With this “choice” Microsoft conforms to the policies of the EU Parliament t
 
 But does this solve all the problems which IE created?Surely not, because these browsers are also software, and software has bugs from time to time. A search for advisories on [secunia.com](http://www.secunia.com/) returns :
 
-<div>
-  <table border="1" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <strong>Browser</strong>
-      </td>
-      
-      <td>
-        <strong>Advisories</strong>
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        <a href="http://secunia.com/advisories/search/?search=firefox" target="_blank"> Firefox</a>
-      </td>
-      
-      <td>
-        412
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        <a href="http://secunia.com/advisories/search/?search=opera" target="_blank"> Opera</a>
-      </td>
-      
-      <td>
-        411
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        <a href="http://secunia.com/advisories/search/?search=chrome" target="_blank"> Chrome</a>
-      </td>
-      
-      <td>
-        66
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        <a href="http://secunia.com/advisories/search/?search=safari" target="_blank"> Safari</a>
-      </td>
-      
-      <td>
-        86
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        <a href="http://secunia.com/advisories/search/?search=Internet+Explorer" target="_blank">Internet Explorer</a>
-      </td>
-      
-      <td>
-        374
-      </td>
-    </tr>
-  </table>
+|          Browser                  |          Advisories        |
+|-----------------------------------|----------------------------|
+|            [Firefox](http://secunia.com/advisories/search/?search=firefox)                 |          412               |
+|           [Opera](http://secunia.com/advisories/search/?search=opera)                   |          411               |
+|           [Chrome](http://secunia.com/advisories/search/?search=chrome)                  |          66                |
+|           [Safari](http://secunia.com/advisories/search/?search=safari)                  |          86                |
+|          [Internet Explorer](http://secunia.com/advisories/search/?search=internet+explorer)        |          374               |
   
-  <p>
-    Of course, there is more consider than simply sorting after advisories and selecting the Browser with the least reported issues. There are things like supported platforms, features, extendability, stability, etc.<br />Not an easy choice. What to do?
-  </p>
-  
-  <p>
-    For the beginning, just choose one Browser from the list above in order to replace Internet Explorer. The best would be to test all of them, one at a time and then stick to the one which satisfies the personal needs most. My suggestion is to start with <a href="http://www.google.com/chrome" target="_blank">Google Chrome</a> .</div>
+Of course, there is more consider than simply sorting after advisories and selecting the Browser with the least reported issues. There are things like supported platforms, features, extendability, stability, etc.  
+Not an easy choice. What to do?
+
+For the beginning, just choose one Browser from the list above in order to replace Internet Explorer. The best would be to test all of them, one at a time and then stick to the one which satisfies the personal needs most. My suggestion is to start with [Google Chrome](http://www.google.com/chrome).

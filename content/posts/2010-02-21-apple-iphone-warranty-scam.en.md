@@ -27,16 +27,9 @@ A device with a blacklisted IMEI is unusable in that country. There is no restri
 
 Scammers have been creating phishing sites that make the claim that a free one-year warranty extension for a certain mobile device or devices is available. To obtain the (fake) offer, users are asked to provide their device information, including serial number, IMEI number, type of phone, and so on. Below is an example of such a phishing scam: 
 
-<div>
-  <a href="http://lh5.ggpht.com/_vaUVXcmC3OI/TQyR-DN8oyI/AAAAAAAADgo/Ww3mCR9uOCY/s1600-h/iphone%201%5B4%5D.jpg"><img title="iphone 1" border="0" alt="iphone 1" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TQySAKLWJqI/AAAAAAAADgs/pGL0h14fEdE/iphone%201_thumb%5B2%5D.jpg?imgmax=800" width="500" height="323" /></a>
-</div>
+[![iphone 1](http://lh3.ggpht.com/_vaUVXcmC3OI/TQySAKLWJqI/AAAAAAAADgs/pGL0h14fEdE/iphone%201_thumb%5B2%5D.jpg?imgmax=800 "iphone 1")](http://lh5.ggpht.com/_vaUVXcmC3OI/TQyR-DN8oyI/AAAAAAAADgo/Ww3mCR9uOCY/s1600-h/iphone%201%5B4%5D.jpg)
 
-<div>
-</div>
-
-<div>
-  <a href="http://lh6.ggpht.com/_vaUVXcmC3OI/TQySBtaP9vI/AAAAAAAADgw/1XkzMHxSFGs/s1600-h/iphone%202%5B4%5D.jpg"><img title="iphone 2" border="0" alt="iphone 2" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQySDMkp_qI/AAAAAAAADg0/yuWiSKIQbDs/iphone%202_thumb%5B2%5D.jpg?imgmax=800" width="500" height="252" /></a>
-</div>
+[![iphone 2](http://lh6.ggpht.com/_vaUVXcmC3OI/TQySDMkp_qI/AAAAAAAADg0/yuWiSKIQbDs/iphone%202_thumb%5B2%5D.jpg?imgmax=800 "iphone 2")](http://lh6.ggpht.com/_vaUVXcmC3OI/TQySBtaP9vI/AAAAAAAADgw/1XkzMHxSFGs/s1600-h/iphone%202%5B4%5D.jpg)
 
 Once the scammers gather the iPhone information for valid devices, they replicate it to the stolen devices. The process of changing the device IMEI isn’t difficult to perform. It can be done by installing some drivers onto a system that is connected to the mobile device through a USB cable, without the use of any external devices. This way they can convert the device information to any set of data that they choose. 
 

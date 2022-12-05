@@ -19,21 +19,15 @@ Today we observed an increase in spam messages containing links to a particular 
 
 The received messages state that mailbox &#8216;settings were changed' and urge users to &#8216;apply the new set of settings' by clicking a link to an executable, which unsurprisingly turns out to be malicious:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s1600-h/image1.jpeg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s640/image1.jpeg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s640/image1.jpeg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s1600-h/image1.jpeg)
 
 Clicking the link leads to a download of the following misleading application, which we see here with the usual UI misspellings and fake scan results:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4f1RZCWfHI/AAAAAAAABBE/HyE9hxB25KY/s1600-h/image2.jpeg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4f1RZCWfHI/AAAAAAAABBE/HyE9hxB25KY/s640/image2.jpeg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4f1RZCWfHI/AAAAAAAABBE/HyE9hxB25KY/s640/image2.jpeg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4f1RZCWfHI/AAAAAAAABBE/HyE9hxB25KY/s1600-h/image2.jpeg)
 
 And, naturally, the usual prompt for registration:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s1600-h/image3.jpeg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s640/image3.jpeg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s640/image3.jpeg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s1600-h/image3.jpeg)
 
 Uh-oh: &#8220;25 critical system objects&#8221;! But I just installed the OS!
 

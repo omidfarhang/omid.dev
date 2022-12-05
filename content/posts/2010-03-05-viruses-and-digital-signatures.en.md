@@ -22,21 +22,13 @@ Also, although the file is correctly signed by a company called &#8220;Adobe Sys
 
 Shown below are the real and fake Verisign CA signed files. On the left you can see that the certificate chain is not trusted all the way to the root where as on the right side (a real Adobe file) the certification chain is trusted up to the root.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FaZzBZVNI/AAAAAAAABLk/SmxBK-b65MM/s1600-h/certificates.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FaZzBZVNI/AAAAAAAABLk/SmxBK-b65MM/s640/certificates.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FaZzBZVNI/AAAAAAAABLk/SmxBK-b65MM/s640/certificates.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FaZzBZVNI/AAAAAAAABLk/SmxBK-b65MM/s1600-h/certificates.jpg)
 
-
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5Faa4XUeRI/AAAAAAAABLs/KwcIY8kmpu0/s1600-h/path.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5Faa4XUeRI/AAAAAAAABLs/KwcIY8kmpu0/s640/path.jpg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5Faa4XUeRI/AAAAAAAABLs/KwcIY8kmpu0/s640/path.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5Faa4XUeRI/AAAAAAAABLs/KwcIY8kmpu0/s1600-h/path.jpg)
 
 On Windows machines with User Access Control enabled, a warning similar to the one shown below will be displayed (warning that the publisher is unknown).
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5Faeuwf9fI/AAAAAAAABL0/c5MABrvIyi0/s1600-h/warning_1a.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5Faeuwf9fI/AAAAAAAABL0/c5MABrvIyi0/s640/warning_1a.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5Faeuwf9fI/AAAAAAAABL0/c5MABrvIyi0/s640/warning_1a.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5Faeuwf9fI/AAAAAAAABL0/c5MABrvIyi0/s1600-h/warning_1a.jpg)
 
 So, in a nutshell, creating “authentic-looking” certificates to make malicious files look legitimate is a trick which virus writers are employing to challenge today’s sophisticated security mechanisms.
 

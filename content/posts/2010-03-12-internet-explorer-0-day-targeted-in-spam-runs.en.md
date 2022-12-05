@@ -23,15 +23,9 @@ Whilst checking through some URLs supposedly serving up malicious code to exploi
 
 Example messages are shown below.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5pCf9vlmOI/AAAAAAAABQs/CC_l-sSHy5w/s1600-h/0806-spam1.jpg" imageanchor="1"><img border="0" height="382" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5pCf9vlmOI/AAAAAAAABQs/CC_l-sSHy5w/s400/0806-spam1.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5pCf9vlmOI/AAAAAAAABQs/CC_l-sSHy5w/s400/0806-spam1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5pCf9vlmOI/AAAAAAAABQs/CC_l-sSHy5w/s1600-h/0806-spam1.jpg)
 
-
-
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5pCgJmE_FI/AAAAAAAABQw/zDVy1bcyhqk/s1600-h/0806-spam2.jpg" imageanchor="1"><img border="0" height="400" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5pCgJmE_FI/AAAAAAAABQw/zDVy1bcyhqk/s400/0806-spam2.jpg" width="311" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5pCgJmE_FI/AAAAAAAABQw/zDVy1bcyhqk/s400/0806-spam2.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5pCgJmE_FI/AAAAAAAABQw/zDVy1bcyhqk/s1600-h/0806-spam2.jpg)
 
 In either case, clicking on the link takes the victim to a web page which kickstarts the infection process.
 

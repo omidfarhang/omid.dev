@@ -17,16 +17,6 @@ category: techblog
 
 Symantec has observed phishing attacks—against social networking websites—claiming to have Web applications that will provide live feeds of the show that are available for viewing. Users are asked to enter their credentials and add the application in order to watch the show live. The sheer amount of interest in the show will lure some people into entering their credentials. The Big Brother Brazil social networking application comprised 4% of all targeted applications in January 2010. To learn more about other targeted applications in social networking, please refer to The Phishing of Applications on Social Networking Websites.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S475lAbUfBI/AAAAAAAABHc/nvcLgNfjkho/s1600-h/bigbrother.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S475lAbUfBI/AAAAAAAABHc/nvcLgNfjkho/s640/bigbrother.png" /></a>
-</div>
-
-
-
-<div>
-</div>
-
-<div>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S475lAbUfBI/AAAAAAAABHc/nvcLgNfjkho/s640/bigbrother.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S475lAbUfBI/AAAAAAAABHc/nvcLgNfjkho/s1600-h/bigbrother.png)
 
 Internet users are advised to follow best practices to avoid phishing attacks. For more information about Phishing and how to prevent it or what to do if you got in trouble with that please refer to [Phishing](http://sites.google.com/site/boelectronic/computer/security/phishing) section in my site.

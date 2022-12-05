@@ -15,24 +15,18 @@ Sources on a number of forums tell me that a certain application is going to be 
 
 What is it? I believe the following screenshot can answer that question:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LohNGuHjI/AAAAAAAABNM/7p8_XihYmJs/s1600-h/fbscan1.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LohNGuHjI/AAAAAAAABNM/7p8_XihYmJs/s640/fbscan1.jpg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LohNGuHjI/AAAAAAAABNM/7p8_XihYmJs/s640/fbscan1.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LohNGuHjI/AAAAAAAABNM/7p8_XihYmJs/s1600-h/fbscan1.jpg)
 
 Yes, anyone with a hankering for CSI: Spyware will be able to get their fill when the so-called “FBI Fingerprints Scanner” goes live. As you’ve probably guessed, it’s a fake program designed to be tied up with whatever horrible infection file(s) the creator desires. It relies on hooking you with “stolen” FBI login credentials to access the (entirely fictitious) database. The supposedly stolen login details come bundled with the application, in case you were wondering.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LoiwBXEtI/AAAAAAAABNU/hkhp-EAF3ww/s1600-h/fbscan2.jpg" imageanchor="1"><img border="0" height="236" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LoiwBXEtI/AAAAAAAABNU/hkhp-EAF3ww/s400/fbscan2.jpg" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LoiwBXEtI/AAAAAAAABNU/hkhp-EAF3ww/s400/fbscan2.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LoiwBXEtI/AAAAAAAABNU/hkhp-EAF3ww/s1600-h/fbscan2.jpg)
 
 As fake applications go, it’s not too shabby – the wannabe FBI impersonator enters the login details, and is then asked to upload an image of a fingerprint scan into the system to see if there’s a match. In reality, you can use an image of just about anything:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LokjEEInI/AAAAAAAABNc/kO29Hy-2dAM/s1600-h/fbscan3.jpg" imageanchor="1"><img border="0" height="233" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LokjEEInI/AAAAAAAABNc/kO29Hy-2dAM/s400/fbscan3.jpg" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LokjEEInI/AAAAAAAABNc/kO29Hy-2dAM/s400/fbscan3.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5LokjEEInI/AAAAAAAABNc/kO29Hy-2dAM/s1600-h/fbscan3.jpg)
 
 I don’t know about you, but I start to question the legitimacy of any fingerprint scanner that accepts pictures of dancing bananas.
 
 The program has a collection of FBI Most Wanted profiles built in, and it’s likely that more profiles will be added as time goes by.
 
-I think we’ve sufficiently warned you about dabbling with this application – ensure any family members with a fondness for “secret FBI tools” are warned to steer well clear when it finally arrives sometime in the near future&#8230;
+I think we’ve sufficiently warned you about dabbling with this application – ensure any family members with a fondness for “secret FBI tools” are warned to steer well clear when it finally arrives sometime in the near future…

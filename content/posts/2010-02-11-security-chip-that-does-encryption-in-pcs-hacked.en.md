@@ -10,9 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://www.ap.org/termsandconditions/" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RE-O4-foI/AAAAAAAAA34/OT600xKo0jw/s640/ap_logo_106.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RE-O4-foI/AAAAAAAAA34/OT600xKo0jw/s640/ap_logo_106.png)](http://www.ap.org/termsandconditions/)
 
 SAN FRANCISCO – Deep inside millions of computers is a digital Fort Knox, a special chip with the locks to highly guarded secrets, including classified government reports and confidential business plans. Now a former U.S. Army computer-security specialist has devised a way to break those locks.  
 The attack can force heavily secured computers to spill documents that likely were presumed to be safe. This discovery shows one way that spies and other richly financed attackers can acquire military and trade secrets, and comes as worries about state-sponsored computer espionage intensify, underscored by recent hacking attacks on Google Inc.  

@@ -39,15 +39,11 @@ The link in the forum message would bring an unsuspecting user to a page which s
 
 This page will then redirect to page /scanning/ at the same website which generates the following popup:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xAQEQ7Y6I/AAAAAAAABDk/puEOHeU9A70/s1600-h/virustotalfakeav1.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xAQEQ7Y6I/AAAAAAAABDk/puEOHeU9A70/s640/virustotalfakeav1.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xAQEQ7Y6I/AAAAAAAABDk/puEOHeU9A70/s640/virustotalfakeav1.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xAQEQ7Y6I/AAAAAAAABDk/puEOHeU9A70/s1600-h/virustotalfakeav1.png)
 
 The above popup would follow by the loading of a fake scanning page inside the browser:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xATUQcSKI/AAAAAAAABDs/IQM-0x_zcvQ/s1600-h/virustotalfakeav2.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xATUQcSKI/AAAAAAAABDs/IQM-0x_zcvQ/s640/virustotalfakeav2.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xATUQcSKI/AAAAAAAABDs/IQM-0x_zcvQ/s640/virustotalfakeav2.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xATUQcSKI/AAAAAAAABDs/IQM-0x_zcvQ/s1600-h/virustotalfakeav2.png)
 
 One of the interesting parts of this fake page is that the “Windows Security Alert” pop-up is actually a time-delayed object inside the page. Even though the box looks like a window box from Windows XP, it is not moveable at all.
 

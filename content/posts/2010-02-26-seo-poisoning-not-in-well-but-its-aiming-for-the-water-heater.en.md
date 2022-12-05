@@ -18,16 +18,12 @@ Our (environmentally conscious) researcher Adam Thomas heard about a “green”
 
 What he found wasn’t Earth or anything else-friendly! SEO poisoning galore:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4g6XH78fjI/AAAAAAAABB0/R8EOFFL7CeQ/s1600-h/Geo_20Spring_20water_20heater.PNG" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4g6XH78fjI/AAAAAAAABB0/R8EOFFL7CeQ/s640/Geo_20Spring_20water_20heater.PNG" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4g6XH78fjI/AAAAAAAABB0/R8EOFFL7CeQ/s640/Geo_20Spring_20water_20heater.PNG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4g6XH78fjI/AAAAAAAABB0/R8EOFFL7CeQ/s1600-h/Geo_20Spring_20water_20heater.PNG)
 
 Here’s what the malicious pages deliver:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4g6Y3LfG_I/AAAAAAAABB8/JnGHrrGwS9E/s1600-h/SecurityTool_GUI.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4g6Y3LfG_I/AAAAAAAABB8/JnGHrrGwS9E/s640/SecurityTool_GUI.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4g6Y3LfG_I/AAAAAAAABB8/JnGHrrGwS9E/s640/SecurityTool_GUI.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4g6Y3LfG_I/AAAAAAAABB8/JnGHrrGwS9E/s1600-h/SecurityTool_GUI.jpg)
 
-It’s the [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue that has been making the rounds since October (Read More <a href="http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool" target="_blank">here</a>.)
+It’s the [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue that has been making the rounds since October (Read More [here](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool).)
 
-Here's the link to the U.S. Department of Energy program that gives rebates for Energy Star appliances <a href="http://www.energysavers.gov/financial/70020.html" target="_blank">http://www.energysavers.gov/financial/70020.html</a> .
+Here's the link to the U.S. Department of Energy program that gives rebates for Energy Star appliances [http://www.energysavers.gov/financial/70020.html](http://www.energysavers.gov/financial/70020.html) .

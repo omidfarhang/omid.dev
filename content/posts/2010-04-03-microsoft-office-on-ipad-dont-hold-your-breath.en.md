@@ -15,13 +15,11 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600-h/microsoftoffice2010beta-300x167.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600/microsoftoffice2010beta-300x167.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600/microsoftoffice2010beta-300x167.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600-h/microsoftoffice2010beta-300x167.jpg)
 
-<span></span><span></span>There’s at least one company that isn’t scrambling to get an iPad app ready for launch day, and that company is Microsoft.
+There’s at least one company that isn’t scrambling to get an iPad app ready for launch day, and that company is Microsoft.
 
-Stephen Elop, president of Microsoft’s business division, said in an interview with <a href="http://www.bloomberg.com/apps/news?pid=newsarchive&#038;sid=auKD3w1mOXrs" target="_blank">Bloomberg</a> that the company will “wait and see” how iPad sales perform before adapting Microsoft Office 2010 for the device. “We never say never, but we have no current plans [to develop a version of Office for the iPad],” Elop claimed.
+Stephen Elop, president of Microsoft’s business division, said in an interview with [Bloomberg](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=auKD3w1mOXrs) that the company will “wait and see” how iPad sales perform before adapting Microsoft Office 2010 for the device. “We never say never, but we have no current plans [to develop a version of Office for the iPad],” Elop claimed.
 
 Microsoft Office is a suite of business-related software programs that includes, most popularly, Word, PowerPoint and Excel. The business version goes on sale on May 12, while a consumer edition is anticipated for late June.
 

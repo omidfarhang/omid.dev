@@ -12,9 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <b><span>Scum on the run</span></b>
-</div>
+**Scum on the run**
 
 Security blogger Brian Krebs is reporting some good numbers that show spammers are no longer registering their domains in China (.cn) since that country started requiring actual on-paper registrations and business licenses, which precludes anonymous registration.
 
@@ -22,12 +20,10 @@ AND their new top-level domain of choice, Russia (.ru), is going to make life fo
 
 Krebs had statistics from researchers at the University of Alabama at Birmingham which he cross checked with data from computer forensics investigator Andy Fried of the Internet Systems Consortium, in Redwood City, Calif. Fried found the same radical shift from .cn to .ru registrations.
 
-<div>
-  <b><span>So, where next?</span></b>
-</div>
+**So, where next?**
 
 The big question hovering over all of this is: “where are they going to go next? What rogue state is going to smell money and let them in for a price?”
 
 That might not be entirely a bad thing. Spam exists because it’s an incredibly cheap way to advertise. Raising the cost of doing business just might reverse its explosive growth. Funny how markets operate.
 
-Krebs blog here: <a href="http://www.krebsonsecurity.com/2010/03/spam-site-registrations-flee-china-for-russia/#more-2167" target="_blank">“Spam Site Registrations Flee China for Russia”</a>
+Krebs blog here: [“Spam Site Registrations Flee China for Russia”](http://www.krebsonsecurity.com/2010/03/spam-site-registrations-flee-china-for-russia/#more-2167)

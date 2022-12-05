@@ -30,23 +30,17 @@ One should never reply to such messages. A few observations which show why:
 
 Seeing the details of the user, the reason gets clear:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4uOc6v79ZI/AAAAAAAABCM/c0oXMTE3nyM/s1600-h/icqdetails.png" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4uOc6v79ZI/AAAAAAAABCM/c0oXMTE3nyM/s640/icqdetails.png" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4uOc6v79ZI/AAAAAAAABCM/c0oXMTE3nyM/s640/icqdetails.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4uOc6v79ZI/AAAAAAAABCM/c0oXMTE3nyM/s1600-h/icqdetails.png)
 
 
 
-<div>
-  No comments&#8230;
-</div>
+No comments…
 
 2.   1.1.2010 is already in the past. So did the spammer send the message too late?
 
 There are only two things to do with this kind of messages:  
 1. Block the user by clicking Deny
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uOf_TEJdI/AAAAAAAABCU/TdLI86snwao/s1600-h/icq-block.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uOf_TEJdI/AAAAAAAABCU/TdLI86snwao/s640/icq-block.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uOf_TEJdI/AAAAAAAABCU/TdLI86snwao/s640/icq-block.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uOf_TEJdI/AAAAAAAABCU/TdLI86snwao/s1600-h/icq-block.png)
 
 2. Forget about it.

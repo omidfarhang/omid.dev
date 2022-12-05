@@ -11,11 +11,9 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600-h/Google-Buzz.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600/Google-Buzz.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600/Google-Buzz.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600-h/Google-Buzz.jpg)
 
-Google has released a new video <a href="http://news.cnet.com/8301-19518_3-10472824-238.html?part=rss&#038;subj=news&#038;tag=2547-1_3-0-20" target="_blank">aimed at teens</a> about making Google Buzz a safer experience.
+Google has released a new video [aimed at teens](http://news.cnet.com/8301-19518_3-10472824-238.html?part=rss&subj=news&tag=2547-1_3-0-20) about making Google Buzz a safer experience.
 
 The video was released in conjunction with the new Buzz privacy reset issued yesterday. This new focus on privacy and privacy options comes amidst class-action lawsuits and a request for FTC investigation regarding the service’s launch and explanation to consumers.
 

@@ -19,9 +19,7 @@ While 419 spam (a.k.a., the Nigerian scam) has been around for a long time, the 
 
 In an effort to make such 419 spam more credible, spammers have started using various current events and other types of social engineering to trick email recipients. As we highlighted previously, spammers have used the tragic Haitian and Chile earthquakes as bylines to ask users to donate money. Any donation, of course, would go to these scammers and not to those in legitimate need. These attacks can also compromise credit card or bank information for broader financial exposure. In another example below, spammers used President Obama’s name to get users’ attention:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S45EJg8najI/AAAAAAAABHE/8qotjrgPMP4/s1600-h/Screen+shot+2010-03-02+at+10.34.36+PM.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S45EJg8najI/AAAAAAAABHE/8qotjrgPMP4/s640/Screen+shot+2010-03-02+at+10.34.36+PM.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S45EJg8najI/AAAAAAAABHE/8qotjrgPMP4/s640/Screen+shot+2010-03-02+at+10.34.36+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S45EJg8najI/AAAAAAAABHE/8qotjrgPMP4/s1600-h/Screen+shot+2010-03-02+at+10.34.36+PM.png)
 
 Phishing messages are even more dangerous than 419 scams. While users lose money when they fall victim to 419 scams, they can lose even more if they fall victim to a phishing message: their identities. These phishing messages have also grown to be more sophisticated and targeted over time.
 
