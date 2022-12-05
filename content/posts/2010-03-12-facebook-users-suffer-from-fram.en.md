@@ -80,6 +80,4 @@ So there’s your example. Facebook spam is somewhat complicated and mostly init
 
 Here are my tips for avoiding wall spam. Befriend only people you know and trust. Hide all the daft apps your friends use. Hide all the friends who think the world wants to know every time they visit the bathroom. Think very very hard before granting an app permission. And please, please, please report spam on the bottom left of the wall page.
 
-The tragedy is that the spammer didn’t lie because behind that advert on the blogspot site there really is a [funny video](http://www.youtube.com/watch?v=td0aV2Yg_7Y;hd=1), but to the average user friend it’s impossible to see.
-
-{{< youtube td0aV2Yg_7Y >}}
+The tragedy is that the spammer didn’t lie because behind that advert on the blogspot site there really is a [funny video](http://www.youtube.com/watch?v=td0aV2Yg_7Y), but to the average user friend it’s impossible to see.

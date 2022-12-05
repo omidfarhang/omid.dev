@@ -31,4 +31,4 @@ Ackroyd and other convicted LulzSec suspects – Jake Davis, 20, (“Topiary”)
 
 Erstwhile LulzSec leader Hector Xavier “Sabu” Monsegur, was revealed in March 2012 as an FBI informer who had been grassing on his former cohorts for 10 months after his arrest in June 2011. Sabu's sentencing was [delayed](http://rt.com/usa/lulzsec-snitch-sabu-sentencing-288/) by 6 months in February due to his “ongoing cooperation with the government”.
 
-_Cross-posted from <a href="http://www.theregister.co.uk/2013/04/19/lulzsec_sony_hack_sentencing/" target="_blank">TheRegister</a>._
+_Cross-posted from [TheRegister](http://www.theregister.co.uk/2013/04/19/lulzsec_sony_hack_sentencing/)._

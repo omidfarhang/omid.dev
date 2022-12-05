@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img class="size-medium wp-image-6464 alignright" alt="aafndjka2[6]" src="/images/2013/03/aafndjka26-300x300.jpg" width="300" height="300" srcset="/images/sites/3/2013/03/aafndjka26-300x300.jpg 300w, /images/sites/3/2013/03/aafndjka26-150x150.jpg 150w, /images/sites/3/2013/03/aafndjka26.jpg 570w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/aafndjka26.jpg)3/22/2013: Emma Stone revealed that she was not behind the ambiguous tweets concerning boyfriend Andrew Garfield and co-star Shailene Woodley that sparked cheating rumors.
+[![aafndjka2[6]](/images/2013/03/aafndjka26-300x300.jpg)](/images/2013/03/aafndjka26.jpg)3/22/2013: Emma Stone revealed that she was not behind the ambiguous tweets concerning boyfriend Andrew Garfield and co-star Shailene Woodley that sparked cheating rumors.
 
 Speculation surrounded Stone’s mysterious “tweet and delete” spree over the past few months.
 

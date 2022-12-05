@@ -28,7 +28,7 @@ The move comes a little less than a year after Apple required users to set up se
 
 Of note, the feature is currently available only in the U.S., U.K, Ireland, Australia and New Zealand.
 
-Apple is the latest tech company to employ the security feature, which was discovered earlier by <a href="http://9to5mac.com/2013/03/21/apple-beefs-up-icloud-apple-id-security-with-two-step-verification/" target="_blank">9to5mac</a>, as an option. Google, which has quite a few more online services than Apple, added it as an option in early 2011. Others, including Facebook, Yahoo, PayPal, and Dropbox already had the option.
+Apple is the latest tech company to employ the security feature, which was discovered earlier by [9to5mac](http://9to5mac.com/2013/03/21/apple-beefs-up-icloud-apple-id-security-with-two-step-verification/), as an option. Google, which has quite a few more online services than Apple, added it as an option in early 2011. Others, including Facebook, Yahoo, PayPal, and Dropbox already had the option.
 
 The need for that extra layer of security was highlighted in the woes of journalist Mat Honan, who was targeted in a cascade of account hacking last year. That all kicked off with Honan's iCloud account and eventually led to access of his personal e-mail and Twitter accounts. That ultimately led to Apple reviewing its security processes for resetting account passwords. Evernote also said it plans to add it later this year, following a cyberattack earlier this month.
 

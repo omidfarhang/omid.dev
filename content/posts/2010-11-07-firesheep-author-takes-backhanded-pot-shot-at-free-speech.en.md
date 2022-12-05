@@ -14,9 +14,9 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="sheep-on-fire" border="0" alt="sheep-on-fire" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNa9d4EShQI/AAAAAAAADG0/Ahzie2qZpno/sheep-on-fire_thumb%5B1%5D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNa9baB2g5I/AAAAAAAADGw/brAF7wJeFT4/s1600-h/sheep-on-fire%5B3%5D.jpg)**Sophos Labs**: Two weeks ago, an automatic session-hijacking plugin was released for Firefox. It was named <a href="http://boelectronic.blogspot.com/2010/10/firesheep-who-is-eating-my-cookies.html" target="_blank">Firesheep</a>, and it's been downloaded over 600,000 times so far.
+[![sheep-on-fire](http://lh4.ggpht.com/_vaUVXcmC3OI/TNa9d4EShQI/AAAAAAAADG0/Ahzie2qZpno/sheep-on-fire_thumb%5B1%5D.jpg?imgmax=800 "sheep-on-fire")](http://lh6.ggpht.com/_vaUVXcmC3OI/TNa9baB2g5I/AAAAAAAADGw/brAF7wJeFT4/s1600-h/sheep-on-fire%5B3%5D.jpg)**Sophos Labs**: Two weeks ago, an automatic session-hijacking plugin was released for Firefox. It was named [Firesheep](/2010/10/26/firesheep-who-is-eating-my-cookies/), and it's been downloaded over 600,000 times so far.
 
-The decision to release Firesheep publicly is a <a href="http://news.ycombinator.com/item?id=1827928" target="_blank">controversial</a> one. On the good side, it's reminded people that some of their common web surfing habits are dangerously insecure.
+The decision to release Firesheep publicly is a [controversial](http://news.ycombinator.com/item?id=1827928) one. On the good side, it's reminded people that some of their common web surfing habits are dangerously insecure.
 
 Many websites use HTTPS (secure HTTP) for login, which protects your password. But they revert to insecure HTTP for the rest of the session. After you have logged in, security relies on the browser sending a session cookie – a secret authentication token – in every request.
 
@@ -45,7 +45,5 @@ Seems that Butler has a rather one-sided view of free speech.
 Moral of the story:
 
 * Just because you can write code to prove a point doesn't mean you have to release it.
-
 * If you do release it, you don't have to package it with a one-click install and a use-it-without-understanding-it GUI.
-
 * If you download code which makes anti-social (and probably also illegal) online behavior easy, don't be anti-social with it.

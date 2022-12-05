@@ -13,21 +13,21 @@ In continue from: [Part 1 of &#8216;Life is going on But how?'](/2010/11/28/days
 
 Next day, I went to hospital again, I went for ‘Heart’, This damned doctor is not here again, so I went upper floor again asking for doctor for the ‘Thyroid’, Oh, That Doctor is in the room next to the doctor I met yesterday, again same secretary!
 
-  * Me: Hi again!
-  * He: Hi dear Kamran!
-  * Me: I’m not Kamran!!
-  * He: I Know!
-  * Me: So?
-  * He: What do you need?
-  * Me: I’m here for another problem, this time Thyroid
-  * He: Doctor will come 6:00PM
-  * Me: Oh, It’s just.. let me see… 1:00PM
-  * He: Well…
-  * Me: Ok, write my name in the list, at least to be first one meet him.
-  * He: Ok! try to come back sooner than 6:00
-  * Me: <a href="http://www.youtube.com/watch?v=5-5mGwyhruo" target="_blank">I will be here!</a>
-  * He: I Love You!!
-  * Me: (In my mind: sh*t!)![Be right back](http://lh3.ggpht.com/_vaUVXcmC3OI/TPLeRtXO3FI/AAAAAAAADQY/qnKTp_lxX30/wlEmoticon-berightback%5B2%5D.png?imgmax=800) 
+* Me: Hi again!
+* He: Hi dear Kamran!
+* Me: I’m not Kamran!!
+* He: I Know!
+* Me: So?
+* He: What do you need?
+* Me: I’m here for another problem, this time Thyroid
+* He: Doctor will come 6:00PM
+* Me: Oh, It’s just.. let me see… 1:00PM
+* He: Well…
+* Me: Ok, write my name in the list, at least to be first one meet him.
+* He: Ok! try to come back sooner than 6:00
+* Me: [I will be here!](http://www.youtube.com/watch?v=5-5mGwyhruo)
+* He: I Love You!!
+* Me: (In my mind: sh*t!)![Be right back](http://lh3.ggpht.com/_vaUVXcmC3OI/TPLeRtXO3FI/AAAAAAAADQY/qnKTp_lxX30/wlEmoticon-berightback%5B2%5D.png?imgmax=800) 
 
 I went out of Hospital, call my friend and told him I’m walking around the hospital until afternoon, he said he will come here, ummm it’s good, at least It will not be boring with him, he came and we went to the computer store near there to see what’s new in the market, it was about 4:00PM we back to Hospital, I saw secretary of doctor I needed for ‘heart’, I asked him about Doctor, he said hurry up, come on! Doctor came here for a few minutes, I ran to lower floor, Damn!, secretary sent me to pay, WTF!, This one is more than what I paid for Liver!! No problem..!!
 
@@ -41,24 +41,24 @@ I said I will come back tomorrow for that Sh*t! (I said last part in my own mind
 
 I went up for Thyroid!, Grrr, that Secretary again:
 
-  * Me: Hi!
-  * He: Hi, Haamed!
-  * Me: I’m Omid
-  * He: Yet Doctor is not here, he is symbol of being late!
-  * Me: Hope he come tonight?!
-  * He: I’m not sure!
-  * Me: Ok, I wait
-  * He: go pay this!
-  * Me: Damn!
-  * He: yes, it’s like this here!
+* Me: Hi!
+* He: Hi, Haamed!
+* Me: I’m Omid
+* He: Yet Doctor is not here, he is symbol of being late!
+* Me: Hope he come tonight?!
+* He: I’m not sure!
+* Me: Ok, I wait
+* He: go pay this!
+* Me: Damn!
+* He: yes, it’s like this here!
 
 I want paid that and come back
 
-  * Me: take it
-  * He: Thank you, You have been Haamed?!
-  * Me: Omid
-  * He: Ok, sit until your life get boiling one day!!!!
-  * Me: huh? pffff![Be right back](http://lh3.ggpht.com/_vaUVXcmC3OI/TPLeRtXO3FI/AAAAAAAADQY/qnKTp_lxX30/wlEmoticon-berightback%5B2%5D.png?imgmax=800) 
+* Me: take it
+* He: Thank you, You have been Haamed?!
+* Me: Omid
+* He: Ok, sit until your life get boiling one day!!!!
+* Me: huh? pffff![Be right back](http://lh3.ggpht.com/_vaUVXcmC3OI/TPLeRtXO3FI/AAAAAAAADQY/qnKTp_lxX30/wlEmoticon-berightback%5B2%5D.png?imgmax=800) 
 
 Ok, At least after a few hours doctor came, during this time I’ve been wondering my I did not take my laptop with myself, at least I could play some game or do something else![Annoyed](http://lh6.ggpht.com/_vaUVXcmC3OI/TPLeW77Uh9I/AAAAAAAADQk/QgxJoDCi1qo/wlEmoticon-annoyed%5B2%5D.png?imgmax=800) , I visited doctor, I showed him all the test result I had in past 4 years for my Thyroid, He said NO!, asked for a newer one, I had not so asked me to take a new one and come next week with that (Ok, good or bad news, next week has been Holiday, so it would mean next 2 week!).
 

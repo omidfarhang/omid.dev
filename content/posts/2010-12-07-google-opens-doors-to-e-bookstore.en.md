@@ -16,19 +16,10 @@ category: techblog
 ---
 **The New York Time:** The Google e-bookstore is finally open.
 
-<table border="0" cellspacing="0" cellpadding="0" width="250" align="right">
-  <tr>
-    <td valign="top" width="250">
-      <a href="http://lh6.ggpht.com/_vaUVXcmC3OI/TP4gG84EFdI/AAAAAAAADZY/3luVpsHSEF8/s1600-h/ebooksstorejp-popup%5B5%5D.jpg"><img title="Tom Turvey, head of strategic partnerships at Google, said he thought the book business should have diversity of retail points" border="0" alt="Tom Turvey" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP4gIJuKCGI/AAAAAAAADZc/kRqYUPJSzSk/ebooksstorejp-popup_thumb%5B3%5D.jpg?imgmax=800" width="250" height="167" /></a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td valign="top" width="250">
-      <em>Tom Turvey, head of strategic partnerships at Google, said he thought the book business should have diversity of retail points</em>
-    </td>
-  </tr>
-</table>
+[![Tom Turvey](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4gIJuKCGI/AAAAAAAADZc/kRqYUPJSzSk/ebooksstorejp-popup_thumb%5B3%5D.jpg?imgmax=800 "Tom Turvey, head of strategic partnerships at Google, said he thought the book business should have diversity of retail points")](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4gG84EFdI/AAAAAAAADZY/3luVpsHSEF8/s1600-h/ebooksstorejp-popup%5B5%5D.jpg)
+
+Tom Turvey, head of strategic partnerships at Google, said he thought the book business should have diversity of retail points
+
 
 After years of planning and months of delays, the search giant Google started its e-book venture on Monday, creating a potentially robust competitor in the digital book market to Amazon, Barnes & Noble and Apple.
 
