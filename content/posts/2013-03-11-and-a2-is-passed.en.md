@@ -10,7 +10,7 @@ tags:
 lang: en
 category: blog
 ---
-[<img class="alignright  wp-image-127" alt="passfail-small[10]" src="/images/2013/03/passfail-small10.jpg" width="184" height="151" srcset="/images/sites/2/2013/03/passfail-small10.jpg 307w, /images/sites/2/2013/03/passfail-small10-300x245.jpg 300w" sizes="(max-width: 184px) 100vw, 184px" />](/images/2013/03/passfail-small10.jpg)Talking of German class, A2 is passed too and I will be heading to B1 in next 2 weeks.
+[![passfail-small[10]](/images/2013/03/passfail-small10.jpg)](/images/2013/03/passfail-small10.jpg)Talking of German class, A2 is passed too and I will be heading to B1 in next 2 weeks.
 
 These 2 classes in A2 (A2.1 and A2.2) had lots of memories for me, meeting good people, getting to know a really good man as teacher and…
 

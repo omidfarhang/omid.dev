@@ -21,7 +21,7 @@ You want a good, solid, free antivirus program? Microsoft Security Essentials fi
 
 All that’s about to change, as Microsoft has now begun delivering Microsoft Security Essentials via Microsoft Update to customers in the United States (a pilot program in the UK started earlier this year). If Windows detects that you’re currently running without up-to-date antivirus protection, this is what you’ll see in the Optional Updates section _[see update following figure below]_:
 
-[<img title="mse_via_ms_update" border="0" alt="mse_via_ms_update" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNP61-DLAfI/AAAAAAAADCo/NyOLGQyrolU/mse_via_ms_update_thumb%5B2%5D.png?imgmax=800" width="304" height="263" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNP6zONwnlI/AAAAAAAADCk/BC0yDaA9NUk/s1600-h/mse_via_ms_update%5B4%5D.png)
+[![mse_via_ms_update](http://lh6.ggpht.com/_vaUVXcmC3OI/TNP61-DLAfI/AAAAAAAADCo/NyOLGQyrolU/mse_via_ms_update_thumb%5B2%5D.png?imgmax=800 "mse_via_ms_update")](http://lh4.ggpht.com/_vaUVXcmC3OI/TNP6zONwnlI/AAAAAAAADCk/BC0yDaA9NUk/s1600-h/mse_via_ms_update%5B4%5D.png)
 
 _A few clarifying notes on the above description. Two caveats are worth noting that affect whether this Optional update is offered. First, the Action Center in Windows (Vista or 7) has to detect that no antivirus solution is currently available. That will certainly be true on a clean installation of Windows from retail media (OEM installations often include trial versions of security software), and it might also be true in the unlikely case you are using an antivirus program that doesn’t communicate its status to Windows. If you have security software installed but have out-of-date definitions, it’s up to that security software to prompt you to update. In addition, the Microsoft Security Essentials Optional update is only available on PCs that are running what Microsoft calls Genuine Windows. Properly activated systems or those that are still within the initial grace period after installation meet this criterion and should see this update if Windows can’t detect an installed antivirus program. A copy of Windows that has not been properly activated after the grace period (including pirated copies of Windows that fail activation) will not be offered the MSE update._
 
@@ -55,4 +55,4 @@ _A McAfee spokesperson sends the following comment:_
 
 _I will have a more detailed look at the current state of security software in a follow-up post_.
 
-_Main Article on_ <a href="http://www.zdnet.com/blog/bott/microsoft-tempts-antitrust-lawyers-with-expanded-antivirus-offering/2552" target="_blank"><em>ZDNet</em></a>
+_Main Article on_ [_ZDNet_](http://www.zdnet.com/blog/bott/microsoft-tempts-antitrust-lawyers-with-expanded-antivirus-offering/2552)

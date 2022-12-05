@@ -10,7 +10,9 @@ tags:
 lang: en
 category: blog
 ---
-[![googol](/images/2013/03/googol-150x150.jpg)](/images/2013/03/googol.jpg)Tonight I’ve been talking to my friend about some [bad news](http://techcrunch.com/2013/03/17/god-damn-it-google/) about Google company and he said “Did you know Googol is a number?”, Well, I did not! so I searched for it and found some stuff I did not know before, and I thought it might be useful for you too, so, What is the largest number that you know name of? here is the list:
+[![googol](/images/2013/03/googol-150x150.jpg)](/images/2013/03/googol.jpg)
+
+Tonight I’ve been talking to my friend about some [bad news](http://techcrunch.com/2013/03/17/god-damn-it-google/) about Google company and he said “Did you know Googol is a number?”, Well, I did not! so I searched for it and found some stuff I did not know before, and I thought it might be useful for you too, so, What is the largest number that you know name of? here is the list:
 
 _Following information comes from Wikipedia: [http://en.wikipedia.org/wiki/Names\_of\_large_numbers](http://en.wikipedia.org/wiki/Names_of_large_numbers "http://en.wikipedia.org/wiki/Names_of_large_numbers")_
 
