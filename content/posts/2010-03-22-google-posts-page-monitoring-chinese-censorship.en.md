@@ -12,8 +12,6 @@ category: techblog
 ---
 Google has put up a page that shows what Web services are currently being blocked by the Chinese government.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6fuxT6crNI/AAAAAAAABXM/6MtrfJHJ_6w/s1600-h/google.png" imageanchor="1"><img border="0" height="215" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S6fuxT6crNI/AAAAAAAABXM/6MtrfJHJ_6w/s400/google.png" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6fuxT6crNI/AAAAAAAABXM/6MtrfJHJ_6w/s400/google.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6fuxT6crNI/AAAAAAAABXM/6MtrfJHJ_6w/s1600-h/google.png)
 
 <http://www.google.com/prc/report.html#hl=en>

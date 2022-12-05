@@ -50,7 +50,7 @@ ComputerWorld is running a Q&A piece with LifeLock Inc. CEO Todd Davis that allo
 
 Two interesting facts:
 
-1. Davis’s take on the $12 million FTC fine: “I am passionate about what we do. [The FTC] didn't like our choice of words &#8230; so they wanted more clarity.”  
+1. Davis’s take on the $12 million FTC fine: “I am passionate about what we do. [The FTC] didn't like our choice of words … so they wanted more clarity.”  
 2. He says LifeLock actually has 1.7 million customers.
 
 Story here: [“LifeLock identity theft service a game changer, insists embattled CEO”](http://www.computerworld.com/s/article/9177003/LifeLock_identity_theft_service_a_game_changer_insists_embattled_CEO?taxonomyId=82&pageNumber=3)

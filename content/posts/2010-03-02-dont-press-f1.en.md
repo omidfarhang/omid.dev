@@ -13,9 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s1600-h/careful_20with_20F1.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s640/careful_20with_20F1.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s640/careful_20with_20F1.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s1600-h/careful_20with_20F1.png)
 
 Here’s a new vector: exploiting a Windows vulnerability through an Internet Explorer help menu Visual Basic script: “get ‘em to hit F1 and you own ‘em.”
 

@@ -29,7 +29,7 @@ The SP1 brings you the following improvements beside others:
   * Correction of MailGuard connected to IMAP
   * Correction of MailGuard for use with Thunderbird 3.1
 
-To check whether the SP1is already installed or not please check the version number. The version number can be viewed over AntiVir Control Center :: Menu Help :: About&#8230; :: Register Version information. SP1 has the following number:
+To check whether the SP1is already installed or not please check the version number. The version number can be viewed over AntiVir Control Center :: Menu Help :: About… :: Register Version information. SP1 has the following number:
 
   * Avira Premium Security Suite: 10.0.0.565
   * Avira AntiVir Premium: 10.0.0.624

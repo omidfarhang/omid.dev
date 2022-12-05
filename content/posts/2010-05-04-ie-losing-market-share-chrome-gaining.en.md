@@ -23,11 +23,11 @@ For the first time, Microsoft’s share of the browser marked has slipped below 
 
 **Browser market share:**
 
-  * Microsoft &#8212; 59.95 percent 
-  * Mozilla’s Firefox &#8212; 24.59 percent 
-  * Google Chrome &#8212; 6.73 percent 
-  * Apple’s Safari &#8212; 4.72 percent 
-  * Opera &#8212; 2.30 percent.
+  * Microsoft — 59.95 percent 
+  * Mozilla’s Firefox — 24.59 percent 
+  * Google Chrome — 6.73 percent 
+  * Apple’s Safari — 4.72 percent 
+  * Opera — 2.30 percent.
 
  
 

@@ -1,5 +1,5 @@
 ---
-title: "Introducing Google Drive&#8230; yes, really"
+title: "Introducing Google Drive… yes, really"
 date: 2012-04-24T17:33:00+00:00
 layout: single
 author_profile: true
@@ -21,7 +21,7 @@ Today, we’re introducing Google Drive—a place where you can create, share, c
 With Google Drive, you can:
 
 * **Create and collaborate.** Google Docs is built right into Google Drive, so you can work with others in real time on documents, spreadsheets and presentations. Once you choose to share content with others, you can add and reply to comments on _anything_ (PDF, image, video file, etc.) and receive notifications when other people comment on shared items.
-* **Store everything safely and access it anywhere (especially while on the go).** All your stuff is just&#8230; _there_. You can access your stuff from anywhere—on the web, in your home, at the office, while running errands and from all of your devices. You can install Drive on your Mac or PC and can download the [Drive app](http://goo.gl/yqx1r) to your Android phone or tablet. We’re also working hard on a Drive app for your iOS devices. And regardless of platform, blind users can access Drive with a screen reader. 
+* **Store everything safely and access it anywhere (especially while on the go).** All your stuff is just… _there_. You can access your stuff from anywhere—on the web, in your home, at the office, while running errands and from all of your devices. You can install Drive on your Mac or PC and can download the [Drive app](http://goo.gl/yqx1r) to your Android phone or tablet. We’re also working hard on a Drive app for your iOS devices. And regardless of platform, blind users can access Drive with a screen reader. 
 * **Search everything.** Search by keyword and filter by file type, owner and more. Drive can even recognize text in scanned documents using [Optical Character Recognition](http://support.google.com/docs/bin/answer.py?hl=en&answer=176692) (OCR) technology. Let’s say you upload a scanned image of an old newspaper clipping. You can search for a word from the text of the actual article. We also use image recognition so that if you drag and drop photos from your Grand Canyon trip into Drive, you can later search for [grand canyon] and photos of its gorges should pop up. This [technology](http://www.youtube.com/watch?v=Hhgfz0zPmH4&feature=player_embedded) is still in its early stages, and we expect it to get better over time.
 
 You can get started with 5GB of storage for free—that’s enough to store the high-res photos of your trip to the Mt. Everest, scanned copies of your grandparents’ love letters or a career’s worth of business proposals, and still have space for the novel you’re working on. You can choose to upgrade to 25GB for $2.49/month, 100GB for $4.99/month or even 1TB for $49.99/month. When you upgrade to a paid account, your Gmail account storage will also expand to 25GB.

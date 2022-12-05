@@ -1,5 +1,5 @@
 ---
-title: "Google: Oops&#8230;our Street View cars also saw websites you were visiting"
+title: "Google: Oops…our Street View cars also saw websites you were visiting"
 date: 2010-05-19T20:31:00+00:00
 layout: single
 author_profile: true

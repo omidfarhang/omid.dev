@@ -17,13 +17,13 @@ RockYou creates and distributes entertainment widgets that work with social netw
 What they found wasn’t good, according to their [report](http://www.imperva.com/docs/WP_Consumer_Password_Worst_Practices.pdf).
 
 _“Key findings:_  
-_&#8212; About 30% of users chose passwords whose length is equal or below six characters._  
+_— About 30% of users chose passwords whose length is equal or below six characters._  
 _  
 _  
-_&#8212; Moreover, almost 60% of users chose their passwords from a limited set of alpha-numeric characters._  
+_— Moreover, almost 60% of users chose their passwords from a limited set of alpha-numeric characters._  
 _  
 _  
-_&#8212; Nearly 50% of users used names, slang words, dictionary words or trivial passwords (consecutive digits, adjacent keyboard keys, and so on). _  
+_— Nearly 50% of users used names, slang words, dictionary words or trivial passwords (consecutive digits, adjacent keyboard keys, and so on). _  
 _  
 _  
 _The most common password among Rockyou.com account owners is “123456”._

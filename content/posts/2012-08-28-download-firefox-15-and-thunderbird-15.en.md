@@ -24,11 +24,11 @@ Mozilla has quietly placed major new versions of its open-source, cross-platform
 
 Firefox 15 FINAL’s most notable changes are performance-based. There’s faster startup on Windows PCs, plus incremental garbage collection and better management of plugins to prevent memory leaks. Other performance improvements surround WebGL enhancements. 
 
-Version 15 also introduces a new Maintenance Service for Windows users that’s installed by default, and which ensures all future Firefox updates are delivered promptly. This feature can be toggled on and off via the Options dialog &#8212; select Advanced and switch to the Updates tab. 
+Version 15 also introduces a new Maintenance Service for Windows users that’s installed by default, and which ensures all future Firefox updates are delivered promptly. This feature can be toggled on and off via the Options dialog — select Advanced and switch to the Updates tab. 
 
 Developers get a new JavaScript debugger and new Responsive Design View option that allows them to toggle between mobile and desktop views of websites. An additional layout view providing details about the size and shape of an element is now accessible from the Inspector; click the Style button to see the dimensions of the currently selected element, then click the up arrow to reveal more details. 
 
-One feature that didn’t make it through to the final release is the inline PDF browser &#8212; although present in Firefox 15 Beta, it appears its appearance has slipped back to version 16. Neither can we confirm the existence of Mac accessibility improvements &#8212; one thing is certain, however, VoiceOver support is not yet available outside of the Nightly builds. 
+One feature that didn’t make it through to the final release is the inline PDF browser — although present in Firefox 15 Beta, it appears its appearance has slipped back to version 16. Neither can we confirm the existence of Mac accessibility improvements — one thing is certain, however, VoiceOver support is not yet available outside of the Nightly builds. 
 
 Those users willing to delve into the about:config portion of Firefox will find they can now toggle between showing Firefox’s options in a separate dialog box (the default) and in its own tab in the main Firefox window. Search for browser.preferences.inContent and double-click it to set it to true to enable the feature. 
 

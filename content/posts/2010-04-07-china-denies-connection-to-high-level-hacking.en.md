@@ -22,7 +22,7 @@ The Information Warfare Monitor and the Shadowserver Foundation extensively docu
 
 They wrote in the report: <span>“We have no evidence in this report of the involvement of the People's Republic of China (PRC) or any other government in the Shadow network. But an important question to be entertained is whether the PRC will take action to shut the Shadow Network down. Doing so will help to address long-standing concerns that the malware ecosystems are actively cultivated, or at least tolerated, by governments like the PRC who stand to benefit from their exploits through the black and grey markets for information and data.”</span>
 
-The Chinese government denied any involvement and tried to minimize the investigation. In a story on the Peoples’ Daily online – the news outlet of the Chinese Communist Party – Jiang Yu, a spokesperson for the Chinese Foreign Ministry, said <span>“Some reports have, from time to time, been heard of insinuating or criticizing the Chinese government&#8230;I have no idea what evidence they have or what motives lie behind.”</span>
+The Chinese government denied any involvement and tried to minimize the investigation. In a story on the Peoples’ Daily online – the news outlet of the Chinese Communist Party – Jiang Yu, a spokesperson for the Chinese Foreign Ministry, said <span>“Some reports have, from time to time, been heard of insinuating or criticizing the Chinese government…I have no idea what evidence they have or what motives lie behind.”</span>
 
 <span>“Hacking is an international issue and should be dealt with by joint efforts from around the world,”</span> she said.
 

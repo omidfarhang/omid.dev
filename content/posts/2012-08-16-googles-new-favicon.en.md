@@ -17,7 +17,7 @@ Here's the new favicon:
 
 [<img class="alignnone size-full wp-image-6613" alt="new-google-favicon2[4]" src="/images/2012/08/new-google-favicon24.png" width="105" height="104" />](/images/2012/08/new-google-favicon24.png)
 
-&#8230; and the old favicon, which was launched [back in 2009](http://googlesystem.blogspot.com/2009/01/new-google-favicon.html):
+… and the old favicon, which was launched [back in 2009](http://googlesystem.blogspot.com/2009/01/new-google-favicon.html):
 
 [<img class="alignnone size-full wp-image-6614" alt="old-google-favicon-2012[2]" src="/images/2012/08/old-google-favicon-20122.png" width="63" height="62" />](/images/2012/08/old-google-favicon-20122.png)
 

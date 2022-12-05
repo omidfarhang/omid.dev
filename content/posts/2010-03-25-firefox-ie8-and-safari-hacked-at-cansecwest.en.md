@@ -18,11 +18,11 @@ category: techblog
 ---
 In the Pwn2Own hacking contest at the CanSecWest security conference in Vancouver, Canada, security researchers and hackers quickly hacked three of the major browsers to take control of the underline operating systems.
 
-&#8212; A German hacker who goes by the handle “Nils” used a previously unknown vulnerability in Mozilla’s Firefox to gain control of a 64-bit Windows 7 machine.
+— A German hacker who goes by the handle “Nils” used a previously unknown vulnerability in Mozilla’s Firefox to gain control of a 64-bit Windows 7 machine.
 
-&#8212; Peter Vreugdenhil an independent researcher from the Netherlands, used several vulnerabilities in Internet Explorer to take control of a machine running a patched 64-bit Windows 7 implementation.
+— Peter Vreugdenhil an independent researcher from the Netherlands, used several vulnerabilities in Internet Explorer to take control of a machine running a patched 64-bit Windows 7 implementation.
 
-&#8212; Researcher Charlie Miller used a vulnerability in the Safari browser to take control of a Mac Book.
+— Researcher Charlie Miller used a vulnerability in the Safari browser to take control of a Mac Book.
 
 The winners of the contest get cash prizes and get to keep the machines they hack.
 

@@ -14,7 +14,7 @@ Charlie Miller, Principal Analyst at Baltimore, Md.-based security firm ISE, has
 
 However, Miller tweeted: “_To be clear, I'm not revealing 20 apple bugs at #cansec, I'm revealing how I found 20 apple bugs._”
 
-According to reports, Miller found the vulnerabities by flooding operating system and application inputs with massive amounts of corrupted data &#8212; a process called fuzzing.
+According to reports, Miller found the vulnerabities by flooding operating system and application inputs with massive amounts of corrupted data — a process called fuzzing.
 
 Apple has said they are not aware of the vulnerabilities.
 

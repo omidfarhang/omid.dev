@@ -16,7 +16,7 @@ Google's Knowledge Graph will display summaries of topics when your query is rel
 
 [<img title="Google_Knowledge-screen" border="0" alt="Google_Knowledge-screen" src="http://lh6.ggpht.com/-9h59z2Wzuq0/T7P1rMMWawI/AAAAAAAAF_o/TKWyYnY5QB4/Google_Knowledge-screen_thumb%25255B1%25255D.png?imgmax=800" width="500" height="403" />](http://lh3.ggpht.com/-KHzgPfNrsOs/T7P1mtNJh7I/AAAAAAAAF_g/V5LWrbiICBk/s1600-h/Google_Knowledge-screen%25255B3%25255D.png) 
 
-Google has long sought to index the world's information &#8212; and it's now taking things a step farther with an effort to create “a database of everything in the world.” And it's bringing this effort to your search results pages. 
+Google has long sought to index the world's information — and it's now taking things a step farther with an effort to create “a database of everything in the world.” And it's bringing this effort to your search results pages. 
 
 The new Knowledge Graph project, rolling out to English-language Google Search users over the next few days, provides more data snippets alongside its query results than the search engine currently provides. The results are based on Google's new database of 500 million people, places, and things, says Jack Manzel, Product Management Director of Search at Google. Manzel says there are 3.5 billion attributes and connections between these things in the database. 
 

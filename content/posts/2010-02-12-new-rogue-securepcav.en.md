@@ -14,9 +14,7 @@ category: techblog
 ---
 SecurePcAv is a phony antivirus program that has been infecting PC's across the interwebs in recent days.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XLWPBuTEI/AAAAAAAAA64/SaNngDhEJ9M/s1600-h/SecurePcAv.Fakesmoke_GUI.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XLWPBuTEI/AAAAAAAAA64/SaNngDhEJ9M/s640/SecurePcAv.Fakesmoke_GUI.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XLWPBuTEI/AAAAAAAAA64/SaNngDhEJ9M/s640/SecurePcAv.Fakesmoke_GUI.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XLWPBuTEI/AAAAAAAAA64/SaNngDhEJ9M/s1600-h/SecurePcAv.Fakesmoke_GUI.jpg)
 
 If your PC is infected with SecurePcAv you will most likely experience the following:
 

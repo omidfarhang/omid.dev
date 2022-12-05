@@ -13,9 +13,9 @@ tags:
 lang: en
 category: techblog
 ---
-Last month, Microsoft sent flowers to a mock funeral for Internet Explorer 6, in a show of support for the ideal that the old browser should be declared defunct worldwide. But for a few years yet, the company is still bound to support the product for those users (generally businesses) who refuse to upgrade it. That's why new exploits that continue to target old browsers, such as IE6 and IE7, continue to get attention even a full year after the proper security fix &#8212; IE8 &#8212; has been deployed.
+Last month, Microsoft sent flowers to a mock funeral for Internet Explorer 6, in a show of support for the ideal that the old browser should be declared defunct worldwide. But for a few years yet, the company is still bound to support the product for those users (generally businesses) who refuse to upgrade it. That's why new exploits that continue to target old browsers, such as IE6 and IE7, continue to get attention even a full year after the proper security fix — IE8 — has been deployed.
 
-One of the libraries that, among other functions, helps IE to print is the target of an exploit released to the wild earlier this month. The exploit creatively overloads the system with JavaScript variables, then places function calls to IEPEERS.DLL. Once the library is effectively crashed, its used memory isn't cleaned up, enabling binary code seeded into that memory to be executed &#8212; a classic use-after-free scenario.
+One of the libraries that, among other functions, helps IE to print is the target of an exploit released to the wild earlier this month. The exploit creatively overloads the system with JavaScript variables, then places function calls to IEPEERS.DLL. Once the library is effectively crashed, its used memory isn't cleaned up, enabling binary code seeded into that memory to be executed — a classic use-after-free scenario.
 
 Although various IE8 and Vista-era architectures protect Windows users from this scenario, Microsoft's security team said today it will take the unusual step of issuing an out-of-band update tomorrow, two weeks ahead of the usual Patch Tuesday. The update will also serve as a “cumulative roll-up,” adding nine other fixes that had been planned for April 13.
 

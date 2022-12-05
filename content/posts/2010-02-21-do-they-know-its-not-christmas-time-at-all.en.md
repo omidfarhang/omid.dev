@@ -14,9 +14,7 @@ category: techblog
 ---
 I saw something quite funny when checking out the spam feeds the other day. An attachment kept appearing, once in a while, with a name of _**Christmas Card.zip**_. It was making sporadic appearances in the feeds (and the number of spam email messages was quite low), but there were a couple of these odd messages at equally odd hours of the day:
 
-<div>
-  <a href="http://www.symantec.com/connect/imagebrowser/view/image/1205601/_original" imageanchor="1"><img border="0" src="http://www.symantec.com/connect/imagebrowser/view/image/1205601/_original" /></a>
-</div>
+[![](http://www.symantec.com/connect/imagebrowser/view/image/1205601/_original)](http://www.symantec.com/connect/imagebrowser/view/image/1205601/_original)
 
 The email message itself was a run-of-the-mill electronic greeting card with an HTML body containing a nice Flash animation—the Flash animation actually comes from a legitimate source (123greetings.com). The email body contains a message asking the user to open the attachment to see who sent the email. Of course, opening the attachment yields a malicious file. The name of the file inside is _**Christmas Card.htm[MANY SPACES].exe **_and it is already detected by Symantec as W32.Ackantta.G@mm.
 

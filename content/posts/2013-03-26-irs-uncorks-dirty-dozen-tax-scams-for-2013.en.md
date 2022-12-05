@@ -27,8 +27,8 @@ The IRS is trying to battle the rising tide of identity theft and in January com
   * The number of IRS criminal investigations into identity theft issues more than tripled in fiscal year 2012. The IRS started 276 investigations in fiscal year 2011, a number that jumped to 898 in fiscal year 2012. So far in fiscal year 2013, there have been more than 560 criminal identity theft investigations opened.
   * Total enforcement actions continue to rapidly increase against identity thieves. This category covers actions ranging from indictments and arrests to search warrants. In fiscal year 2012, enforcement actions totaled 2,400 against 1,310 suspects. After just four months in fiscal 2013, enforcement actions totaled 1,703 against 907 suspects.
   * Sentencing of convicted identity thieves continue to increase. There were 80 sentencings in fiscal year 2011, which increased to 223 in fiscal year 2012.
-  * Jail time is increasing for identity thieves. The average sentence in fiscal year 2012 was four years or 48 months &#8212; a four-month increase from the average in fiscal year 2011. So far this fiscal year, sentences have ranged from four to 300 months.
-  * By late 2012, the IRS assigned more than 3,000 IRS employees &#8212; more than double from 2011 &#8212; to work on identity theft-related issues and the IRS has trained 35,000 employees who work with taxpayers to recognize identity theft indicators and help people victimized by identity theft.
+  * Jail time is increasing for identity thieves. The average sentence in fiscal year 2012 was four years or 48 months — a four-month increase from the average in fiscal year 2011. So far this fiscal year, sentences have ranged from four to 300 months.
+  * By late 2012, the IRS assigned more than 3,000 IRS employees — more than double from 2011 — to work on identity theft-related issues and the IRS has trained 35,000 employees who work with taxpayers to recognize identity theft indicators and help people victimized by identity theft.
 
 ##### Phishing
 
@@ -40,7 +40,7 @@ The IRS reminds all taxpayers that they should use only preparers who sign the r
 
 ##### “Free money”
 
-Fliers and advertisements for free money from the IRS, suggesting that the taxpayer can file a tax return with little or no documentation, have been appearing in community churches around the country. These schemes promise refunds to people who have little or no income and normally don't have a tax filing requirement &#8212; and are also often spread by word of mouth as unsuspecting and well-intentioned people tell their friends and relatives.
+Fliers and advertisements for free money from the IRS, suggesting that the taxpayer can file a tax return with little or no documentation, have been appearing in community churches around the country. These schemes promise refunds to people who have little or no income and normally don't have a tax filing requirement — and are also often spread by word of mouth as unsuspecting and well-intentioned people tell their friends and relatives.
 
 Scammers prey on low income individuals and the elderly and members of church congregations with bogus promises of free money. They build false hopes and charge people good money for bad advice, including encouraging taxpayers to make fictitious claims for refunds or rebates based on false statements of entitlement to tax credits.
 

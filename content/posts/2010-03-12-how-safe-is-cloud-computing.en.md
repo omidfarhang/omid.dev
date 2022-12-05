@@ -27,7 +27,7 @@ _This is an article taken from_ [_CNN_](http://www.cnn.com/) _and I don't agree 
   </tr>
 </table>
 
-([CNN](http://www.cnn.com/)) &#8212; Stormy weather could be on the horizon for cloud computing as security experts warn not enough is being done to make sure one of the hottest IT trends is safe.
+([CNN](http://www.cnn.com/)) — Stormy weather could be on the horizon for cloud computing as security experts warn not enough is being done to make sure one of the hottest IT trends is safe.
 
 “There are many motivations for why an individual or a company would want to engage in cloud computing,” said Thomas Parenty, managing director of Parenty Consulting, a Hong Kong-based information security consulting firm. “None of them have to do with enhanced security.”
 

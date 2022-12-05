@@ -44,7 +44,7 @@ Google has coveted the wealth of information that Facebook's half-billion users 
 
 “Google is trying to use the leverage that it has to get as much access to the Facebook social graph (network of friends and interests) that it can, so it can provide the best search function that it can,” said Wedbush Securities analyst Lou Kerner. “The more data Google has access to the better its search results are going to be.”
 
-Last month, Facebook announced a deal with Microsoft Corp allowing Facebook information &#8212; such as Web pages that Facebook users have endorsed by clicking on “like” buttons &#8212; to appear within Microsoft search results.
+Last month, Facebook announced a deal with Microsoft Corp allowing Facebook information — such as Web pages that Facebook users have endorsed by clicking on “like” buttons — to appear within Microsoft search results.
 
 Google Chief Executive Officer Eric Schmidt said in September the company would add social “layers” to many of its existing Web products in the coming months, following its less-than-stellar track record of developing stand-alone social networking products like Orkut and the recently shuttered Wave service.
 

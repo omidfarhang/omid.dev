@@ -32,4 +32,4 @@ And, equally predictably, there are often cybercriminals waiting to exploit the 
 
 So, be on your guard. 
 
-Celebrity websites might be wise to take some advice too. Remember if you publish photographs that have been hacked from the phones or email accounts of celebrities you are, effectively, handling stolen goods&#8230; and committing a crime yourselves.
+Celebrity websites might be wise to take some advice too. Remember if you publish photographs that have been hacked from the phones or email accounts of celebrities you are, effectively, handling stolen goods… and committing a crime yourselves.

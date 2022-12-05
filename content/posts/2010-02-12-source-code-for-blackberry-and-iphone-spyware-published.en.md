@@ -12,11 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3Xj4L1AzQI/AAAAAAAAA7g/5GeLHQ5cM-M/s1600-h/bb9700.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S3Xj4L1AzQI/AAAAAAAAA7g/5GeLHQ5cM-M/s320/bb9700.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3Xj4L1AzQI/AAAAAAAAA7g/5GeLHQ5cM-M/s320/bb9700.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3Xj4L1AzQI/AAAAAAAAA7g/5GeLHQ5cM-M/s1600-h/bb9700.jpg)
 
-At the <a href="http://www.blackhat.com/html/bh-dc-10/bh-dc-10-home.html" target="_blank">BlackHat DC</a> conference and <a href="http://www.shmoocon.org/" target="_blank">SchmooCon</a>, Nicolas Seriot, an independent researcher and Tyler Shields of <a href="http://www.veracode.com/blog/" target="_blank">Veracode</a> have independently presented two very similar papers.
+At the [BlackHat DC](http://www.blackhat.com/html/bh-dc-10/bh-dc-10-home.html) conference and [SchmooCon](http://www.shmoocon.org/), Nicolas Seriot, an independent researcher and Tyler Shields of [Veracode](http://www.veracode.com/blog/) have independently presented two very similar papers.
 
 The papers analyse weaknesses in security and application delivery models for iPhone and Blackberry and provide interesting read, especially if you are looking to write the next spyware application or a bot for one of the platforms.
 

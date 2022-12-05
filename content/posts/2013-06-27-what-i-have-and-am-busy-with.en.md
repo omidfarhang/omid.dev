@@ -35,7 +35,7 @@ That's not all, recently I've started developing 2 new Windows based application
 * Developing “Download Manager”. <span style="color: #ff9900;">[In Progress &#8211; ~50% done]</span>
 * Developing “Support Collector”. <span style="color: #ff9900;">[In Progress &#8211; ~10% done]</span>
 
-So what I'm trying to do is split my time between all of these projects and my own personal life, while I've other stuff to do, like my language class, meeting friends, my customers, sleeping, eating, bath, Shopping, spending time with family, reading, social networks and forums and&#8230;
+So what I'm trying to do is split my time between all of these projects and my own personal life, while I've other stuff to do, like my language class, meeting friends, my customers, sleeping, eating, bath, Shopping, spending time with family, reading, social networks and forums and…
 
 http://vimeo.com/14896692
 

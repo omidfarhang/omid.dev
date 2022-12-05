@@ -41,4 +41,4 @@ Unsurprisingly, the webcam never loads – and the chat never gets beyond the fi
 
 Of course, everything above is purely academic by this point – end users are doomed the moment they fire up the executable, as it’ll have been wrapped up tightly with a random infection file. There seems to be a bit of a trend for fake webcam apps mashed up with infection files at the moment – in particular, programs that do something similar to the above but loop fake “webcam footage” (usually ripped from Youtube videos) are very popular on underground forums.
 
-Whatever you do, be wary of programs trying to cash in on the popularity of webcam chats with strangers – as you can see, fake a/s/l information is the least of your worries&#8230;
+Whatever you do, be wary of programs trying to cash in on the popularity of webcam chats with strangers – as you can see, fake a/s/l information is the least of your worries…

@@ -12,9 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s1600-h/calc.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s640/calc.png" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s640/calc.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s1600-h/calc.png)
 
 First, make a note: after Adobe updates, restart your machine immediately to remove the Adobe Download Manger – it can be a vector for malcode.
 
@@ -26,6 +24,6 @@ Raff demonstrated the flaw by using the download manager to download a copy of W
 
 He has notified Adobe of the problem but not publically disclosed the finer details vulnerability.
 
-Raff’s blog post <a href="http://aviv.raffon.net/2010/02/18/SkeletonsInAdobesSecurityCloset.aspx" target="_blank">here</a>.
+Raff’s blog post [here](http://aviv.raffon.net/2010/02/18/SkeletonsInAdobesSecurityCloset.aspx).
 
-News story <a href="http://www.ecommerce-journal.com/node/27022" target="_blank">here</a>.
+News story [here](http://www.ecommerce-journal.com/node/27022).

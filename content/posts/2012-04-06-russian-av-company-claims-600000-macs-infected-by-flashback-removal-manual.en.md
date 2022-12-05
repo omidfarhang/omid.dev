@@ -29,4 +29,4 @@ defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES<br />defaults read /Ap
 
 
 
-If all these commands respond with “The domain/default pair of &#8230; does not exist”, then there is no Flashback infection. Otherwise consult the F-Secure [advisory](http://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml) for manual removal instructions.
+If all these commands respond with “The domain/default pair of … does not exist”, then there is no Flashback infection. Otherwise consult the F-Secure [advisory](http://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml) for manual removal instructions.

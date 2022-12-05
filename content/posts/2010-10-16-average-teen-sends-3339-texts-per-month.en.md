@@ -24,7 +24,7 @@ Other age groups don't even come close, either; the average 18 to 24-year-old se
 
 In 2008, the main reason anybody got a phone was for safety, even among teenagers. That's not true anymore. 43 percent of teenagers now say texting is the #1 reason they get a cell phone. Safety is #2 with 35 percent, while 34 percent of teenagers say they get cell phones to keep in touch with friends.
 
-Texting is also supplanting voice calls &#8212; 22 percent say SMS is easier than a phone call and another 20 percent say it's faster. Voice usage has decreased by 14 percent among teens and is decreasing in all age groups under 55. 18 to 24 year olds use the most minutes, but every age group between 18 and 55 talks on the phone more than the average teenager.
+Texting is also supplanting voice calls — 22 percent say SMS is easier than a phone call and another 20 percent say it's faster. Voice usage has decreased by 14 percent among teens and is decreasing in all age groups under 55. 18 to 24 year olds use the most minutes, but every age group between 18 and 55 talks on the phone more than the average teenager.
 
 While voice may be on the decline, data and app usage is on the rise. According to Nielsen, data usage among teens has quadrupled, from 14 MB to 62 MB per month.
 

@@ -15,7 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-Multitasking, the feature that has been the absolute top of every iPhone user's want list &#8211;which, by proxy became a major marketing point for both Android and webOS &#8212; has made its way to iPhone OS 4.
+Multitasking, the feature that has been the absolute top of every iPhone user's want list &#8211;which, by proxy became a major marketing point for both Android and webOS — has made its way to iPhone OS 4.
 
 “We figured out how to implement multitasking for third party apps and avoid those things [battery life and lag]. So that's what took so long,” said Apple CEO Steve Jobs this morning.
 

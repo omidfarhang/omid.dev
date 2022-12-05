@@ -10,11 +10,11 @@ tags:
 lang: en
 category: techblog
 ---
-&#8212; 7.68 Terabits/s for growing Asian market  
-&#8212; $300 million cost (from consortium of six companies)  
-&#8212; 10,000 km length (Chikura in Japan to Los Angeles)  
-&#8212; Increases capacity across Pacific by 20 percent  
-&#8212; Dense Wavelength Division Multiplexing technology (960Gbps per fibre-optic pair with a maximum of eight fiber pairs)  
-&#8212; construction time: two years
+— 7.68 Terabits/s for growing Asian market  
+— $300 million cost (from consortium of six companies)  
+— 10,000 km length (Chikura in Japan to Los Angeles)  
+— Increases capacity across Pacific by 20 percent  
+— Dense Wavelength Division Multiplexing technology (960Gbps per fibre-optic pair with a maximum of eight fiber pairs)  
+— construction time: two years
 
 Story [here](http://www.v3.co.uk/v3/news/2259863/google-almost-ready-pacific).

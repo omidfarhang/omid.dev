@@ -12,7 +12,7 @@ category: techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHU01wz-I/AAAAAAAAA4Y/ALkLcwghA84/s640/partner.logo.gif)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHU01wz-I/AAAAAAAAA4Y/ALkLcwghA84/s1600-h/partner.logo.gif)
 
-🙂 [(Mashable)](http://www.mashable.com/) &#8212; We've just confirmed with Google that the company has signed an agreement to acquire social search engine Aardvark.  
+🙂 [(Mashable)](http://www.mashable.com/) — We've just confirmed with Google that the company has signed an agreement to acquire social search engine Aardvark.  
 Google isn't disclosing the terms, but news of the acquisition was first reported by TechCrunch, who put the figure at around $50 million. Google told us that it's “signed an agreement to acquire Aardvark but don't have any additional details to report at this time.”  
 Aardvark is a relatively new startup from former Googlers that uses social distribution channels to get immediate answers to your questions.
 

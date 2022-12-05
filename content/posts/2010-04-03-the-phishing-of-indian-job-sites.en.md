@@ -17,9 +17,7 @@ Despite the global economic slowdown, India witnessed a high number of new jobs 
 
 Below is a screenshot of a phishing website that takes advantage of the brand of a popular Indian job site:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eHxxepgCI/AAAAAAAABeA/C-eW7cFWYB4/s1600/india-job.jpg" imageanchor="1"><img border="0" height="232" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eHxxepgCI/AAAAAAAABeA/C-eW7cFWYB4/s400/india-job.jpg" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eHxxepgCI/AAAAAAAABeA/C-eW7cFWYB4/s400/india-job.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eHxxepgCI/AAAAAAAABeA/C-eW7cFWYB4/s1600/india-job.jpg)
 
 The increased number of candidates seeking jobs in India has led to the launch of phishing attacks on Indian job sites. The phishing page in the above example is asking for potential employers’ login credentials. The phishing website was created on servers located in the Netherlands. The credentials consist of a username and password as well as the employer’s email ID and password. After stealing these credentials, fraudsters send targeted spam messages to the employers. The spam message states that the employer is required to pay an amount to upgrade or continue his access of particular recruitment solutions. The link provided to make the payment leads to a phishing page that asks for confidential information such as credit card numbers, pin number, etc. Attackers also masquerade as the employer to send spam containing fake job opportunities to job seeking candidates—an action that means the attackers are always seeking financial gain.
 

@@ -15,9 +15,7 @@ We've long believed that personalization makes search more relevant and fun. For
 
 With stars, you can simply click the star marker on any search result or map and the next time you perform a search, that item will appear in a special list right at the top of your results when relevant. That means if you star the official websites for your favorite football teams, you might see those results right at the top of your next search for [nfl]. Here's what the new “Starred results” feature looks like:
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5jal9x0bgI/AAAAAAAABPs/yfWIh0h4PY4/s1600-h/st1.png" imageanchor="1"><img border="0" height="142" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5jal9x0bgI/AAAAAAAABPs/yfWIh0h4PY4/s400/st1.png" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5jal9x0bgI/AAAAAAAABPs/yfWIh0h4PY4/s400/st1.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5jal9x0bgI/AAAAAAAABPs/yfWIh0h4PY4/s1600-h/st1.png)
 
 The great thing about stars is that you don't have to keep track of them. You don't even have to remember whether or not you starred something. Simply perform a search and you'll rediscover your starred items right when you need them. Stars sync with your Google Bookmarks and the Google Toolbar, so you can always see your list of starred items in one place and easily organize them. Even beyond the results page, while browsing the web you can quickly click the star icon in Toolbar to create a bookmark, and those pages will start showing up in the new stars feature.
 

@@ -11,11 +11,11 @@ tags:
 lang: en
 category: techblog
 ---
-The time for rumors and speculations is drawing to a close—as far as AMD's upcoming Radeon HD 6850 and 6870 are concerned, at least. These two next-generation graphics cards are churning away in Damage Labs as we speak, and for the first time, we can bring you official, genuine pictures of them. Here's the 6870&#8230;
+The time for rumors and speculations is drawing to a close—as far as AMD's upcoming Radeon HD 6850 and 6870 are concerned, at least. These two next-generation graphics cards are churning away in Damage Labs as we speak, and for the first time, we can bring you official, genuine pictures of them. Here's the 6870…
 
 [<img title="6870-il" border="0" alt="6870-il" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL2BJoOLloI/AAAAAAAACu4/ShavaAS5qSI/6870-il_thumb%5B2%5D.jpg?imgmax=800" width="304" height="264" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL2BH1yYhBI/AAAAAAAACu0/8ypEAOu6tB0/s1600-h/6870-il%5B4%5D.jpg)
 
-&#8230;and its little brother, the Radeon HD 6850:
+…and its little brother, the Radeon HD 6850:
 
 [<img title="6850-il" border="0" alt="6850-il" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TL2BN4_Hr3I/AAAAAAAACvA/NwxgOsF45hY/6850-il_thumb%5B1%5D.jpg?imgmax=800" width="304" height="260" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL2BMFP_zbI/AAAAAAAACu8/YpSFl2MdaM8/s1600-h/6850-il%5B3%5D.jpg)
 

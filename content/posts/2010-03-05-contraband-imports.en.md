@@ -14,9 +14,7 @@ One of the issues malware writers deal with is having their programs load and ex
 
 There are several well known ways to accomplish this task. The problem here is these methods are well known and security software know where to look. Which brings us to the topic of this blog entry. We recently came across a hacked copy of imm32.dll which is Microsoft’s Input Method Manager library. The authors inserted an extra imported library into the file’s import directory. The extra library name starts with “net” and the imported function name is randomized.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BUwjgZPaI/AAAAAAAABKM/0lt5sBAKjOY/s1600-h/imports1.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BUwjgZPaI/AAAAAAAABKM/0lt5sBAKjOY/s640/imports1.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BUwjgZPaI/AAAAAAAABKM/0lt5sBAKjOY/s640/imports1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BUwjgZPaI/AAAAAAAABKM/0lt5sBAKjOY/s1600-h/imports1.jpg)
 
 Oh no, nothing suspicious here
 

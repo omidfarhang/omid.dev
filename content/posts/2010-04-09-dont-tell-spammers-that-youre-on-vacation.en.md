@@ -27,7 +27,7 @@ I'm surprised it's taken so long for this kind of problem to surface. For years 
 
 I'm amazed that so few people make the connection between out-of-office replies and spam, considering how much of the crap is anonymously sent. Your vacation reply reveals that the email address is valid, and that can open a torrent of additional spam. 
 
-Automatically loading images is another sure way to validate an email address. Spammers typically include clear gifs &#8212; meaning you can't see them &#8212; in HTML email. These images, also known as Web beacons, call back to a server, letting the spammer know the email address is valid. Outlook and most email applications or Web mail services turn off email image rendering by default. But, of course, people turn on the feature because the mail looks prettier. 
+Automatically loading images is another sure way to validate an email address. Spammers typically include clear gifs — meaning you can't see them — in HTML email. These images, also known as Web beacons, call back to a server, letting the spammer know the email address is valid. Outlook and most email applications or Web mail services turn off email image rendering by default. But, of course, people turn on the feature because the mail looks prettier. 
 
 Like many other people, my inbox collected porn spam during the late 1990s. Once I disabled automatic image rendering, the porn spam subsided over about six months. I rarely get this kind of spam anymore, and on the rare occasions I do images don't load anyway. Hey, I'm married and a one-woman guy. 
 

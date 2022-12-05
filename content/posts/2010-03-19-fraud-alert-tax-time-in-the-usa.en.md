@@ -11,9 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600-h/tax-fraud.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600/tax-fraud.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600/tax-fraud.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600-h/tax-fraud.png)
 
 Benjamin Franklin once wrote, “&#8216;In this world nothing can be said to be certain, except death and taxes.” These days we can add to the certainty of those two inevitable events with the addition of the annual scams that accompany tax time.
 

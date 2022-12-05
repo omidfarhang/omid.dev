@@ -16,7 +16,7 @@ That's possibly the most unlikely headline I've ever had to write in my computer
 
 My guess is that regular readers of the Naked Security site might not be ardent fans of Justin Bieber &#8211; but chances are that some of you have young daughters or nieces who can't get enough of the pint-sized pop hamster.
 
-If that's the case then they might be intrigued by a message that is spreading virally across the Facebook social network claiming to be footage of&#8230; and how can I put this delicately? I don't think I can.. Justin Bieber with an erection.
+If that's the case then they might be intrigued by a message that is spreading virally across the Facebook social network claiming to be footage of… and how can I put this delicately? I don't think I can.. Justin Bieber with an erection.
 
 Messages like the following are being seen:
 

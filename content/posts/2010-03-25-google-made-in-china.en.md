@@ -16,8 +16,6 @@ As I was about to open the package, something struck me:
 
 ‘Google… Made in China’
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6s631IhosI/AAAAAAAABZw/e24sb2Ci_N0/s1600-h/china.jpg" imageanchor="1"><img border="0" height="305" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6s631IhosI/AAAAAAAABZw/e24sb2Ci_N0/s320/china.jpg" width="320" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6s631IhosI/AAAAAAAABZw/e24sb2Ci_N0/s320/china.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6s631IhosI/AAAAAAAABZw/e24sb2Ci_N0/s1600-h/china.jpg)
 
 Oooops…….

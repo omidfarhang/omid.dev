@@ -25,7 +25,7 @@ I've not yet seen the details of how the attack/ bug worked, and I'll update thi
 
 (1) While this attack was relatively harmless, the attacker could have directed everyone to a page full of drive-by downloads and exploits, and  
 
-(2) Social networks are inherently viral&#8230; they spread stuff all by themselves. Just last week, we discovered some Facebook apps that were spreading via Friend lists to install adware (this has now diminished&#8230; shout-outs to FB for disabling the apps as soon as we pointed them out), and  
+(2) Social networks are inherently viral… they spread stuff all by themselves. Just last week, we discovered some Facebook apps that were spreading via Friend lists to install adware (this has now diminished… shout-outs to FB for disabling the apps as soon as we pointed them out), and  
 
 (3) The Web is the current attack surface of choice. Install and use a <a href="http://sites.google.com/site/boelectronic/computer/security/site-advisor" target="_blank">Site Advisor</a>.  
 

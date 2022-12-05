@@ -21,7 +21,7 @@ If you have any family members that like their PC games but perhaps aren’t clu
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S47-xhQUvlI/AAAAAAAABH8/bKxKPrjKc20/s640/bf23.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S47-xhQUvlI/AAAAAAAABH8/bKxKPrjKc20/s1600-h/bf23.jpg)
 
-There are a lot of these files being promoted on sites such as Youtube at the moment, and without fail all of them will give your PC a very bad hair day. It’s just not worth the risk&#8230;
+There are a lot of these files being promoted on sites such as Youtube at the moment, and without fail all of them will give your PC a very bad hair day. It’s just not worth the risk…
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S47-vT_-CmI/AAAAAAAABHs/WOzeQrk9LSY/s640/bf1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S47-vT_-CmI/AAAAAAAABHs/WOzeQrk9LSY/s1600-h/bf1.jpg)
 

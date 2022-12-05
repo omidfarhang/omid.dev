@@ -13,6 +13,6 @@ The Internet Corporation for Assigned Names and Numbers (ICANN) has finally begu
 
 The three new top-level domains are: [“Al-Saudiah,” “Emarat, and “Misr,”](http://blog.icann.org/2010/05/idn-cctlds/) and they allow site names to be written right-to-left. 
 
-ICANN began testing internationalized domain name (IDN) back in the Fall of 2006, and tested 11 languages &#8212; Arabic, Persian, Chinese (simplified and traditional), Russian, Hindi, Greek, Korean, Yiddish, Japanese and Tamil. 
+ICANN began testing internationalized domain name (IDN) back in the Fall of 2006, and tested 11 languages — Arabic, Persian, Chinese (simplified and traditional), Russian, Hindi, Greek, Korean, Yiddish, Japanese and Tamil. 
 
 “ICANN staff are still finishing the processing of these domain's delegations, but now that they are visible in the root zone it is fair to say these are mostly formalities. The remaining tasks include final technical verifications, updating the IANA WHOIS database and publishing the delegation reports,” the ICANN blog said yesterday. “Now the hard work happens in the countries which have their new IDN ccTLDs. They will now commence their own processes to launch the domains in a way that gives their communities access to put them to day-to-day use.”

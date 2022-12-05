@@ -11,9 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7dVcxbN8MI/AAAAAAAABdU/Ua9VwIOF34E/s1600-h/story.facebook.privacy.fb.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S7dVcxbN8MI/AAAAAAAABdU/Ua9VwIOF34E/s1600/story.facebook.privacy.fb.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7dVcxbN8MI/AAAAAAAABdU/Ua9VwIOF34E/s1600/story.facebook.privacy.fb.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7dVcxbN8MI/AAAAAAAABdU/Ua9VwIOF34E/s1600-h/story.facebook.privacy.fb.jpg)
 
 Facebook is, by its nature, a social experience.
 
@@ -38,7 +36,7 @@ To be sure, that represents millions of users. But Boyd said that can't possibly
 
 For Facebook, it's a balancing act. The site wants to give users the privacy they've come to expect, but at the same time make information available to create experiences that will compete with other emerging applications such as Foursquare and Twitter.
 
-Twitter, as well as photo sharing sites such as Picasa, default to open access, making them more accessible by outside applications and search engines. Facebook's material that is public can also be searched &#8212; for example, by Google's new social search feature &#8212; while private material cannot.
+Twitter, as well as photo sharing sites such as Picasa, default to open access, making them more accessible by outside applications and search engines. Facebook's material that is public can also be searched — for example, by Google's new social search feature — while private material cannot.
 
 “The experience that we're trying to provide through the Facebook platform is fundamentally a social one,” said Simon Axten, a manager on Facebook's public policy team. “There are some really interesting and useful applications that have come out of that development that really allow people to have a social experience that involves the people that they are friends with.”
 
@@ -46,11 +44,11 @@ Axten said the rules of the road for developers are pretty strict. Basically, de
 
 For example, an application that lets users send friends an electronic greeting card might need to know their birthday or anniversary. Games that require players to work together must know which other friends play the game so it can send them alerts when they need to act.
 
-Axten said Facebook can take “a spectrum of actions” when it discovers inappropriate use of people's information &#8212; from warning developers who may not realize they're misusing the data to disabling a developer's access to the site.
+Axten said Facebook can take “a spectrum of actions” when it discovers inappropriate use of people's information — from warning developers who may not realize they're misusing the data to disabling a developer's access to the site.
 
 No application can access a user's most sensitive data, such as contact information, according to Facebook. And the site announced late last year that they're working on a new approval process that will require an application to more specifically state what information it wants to access.
 
-Mike Rasmussen is president of <a href="http://www.repfun.com/" target="new">Republic of Fun</a>, a game company with a crowdsourcing app on Facebook that lets users give feedback and advice on current games and, in the near future, to suggest new ones. He said Facebook's list of rules for developers is a strict one.
+Mike Rasmussen is president of [Republic of Fun](http://www.repfun.com/), a game company with a crowdsourcing app on Facebook that lets users give feedback and advice on current games and, in the near future, to suggest new ones. He said Facebook's list of rules for developers is a strict one.
 
 “Developers, if they were creative, could certainly abuse it,” he said. “But with Facebook, it's almost not worth it. They make it so easy to get what you really need, unless you're being malicious.”
 
@@ -60,7 +58,7 @@ Evan Brown, a Chicago technology and intellectual-property attorney, said he's n
 
 He said Facebook's rules governing outside developers are designed so the site may legally expel a developer easily.
 
-“They have the sole discretion to determine what the crime is, and they have the sole discretion to determine the punishment,” said Brown, who <a href="http://blog.internetcases.com/" target="new">blogs</a> about Internet legal issues.
+“They have the sole discretion to determine what the crime is, and they have the sole discretion to determine the punishment,” said Brown, who [blogs](http://blog.internetcases.com/) about Internet legal issues.
 
 Facebook's Axten said a team monitors complaints, which users can file simply by clicking a link that's on every Facebook application. The team also regularly monitors popular and fast-growing applications and conducts random checks, he said.
 

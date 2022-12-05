@@ -31,4 +31,4 @@ Of course, this'll soon likely be everywhere, so Sun will need to issue an out o
 
 In the mean time, to stay safe, you can either follow the mitigation strategies outlined by Tavis, or install a <a href="http://sites.google.com/site/boelectronic/computer/security/site-advisor" target="_blank">Site Advisor</a>. 
 
-So far, it's not in any of the exploit kits, as far as we can see, but it's a given that it soon will be. Tick.. tick.. tick&#8230;
+So far, it's not in any of the exploit kits, as far as we can see, but it's a given that it soon will be. Tick.. tick.. tick…

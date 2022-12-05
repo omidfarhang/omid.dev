@@ -21,9 +21,7 @@ The link that is provided is titled “**Tax Refund Online Form**” and it lead
 
 Below is a screenshot of one such phishing site:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4GMSGvL85I/AAAAAAAAA-w/gqPZV6t0geE/s1600-h/tax+scam.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4GMSGvL85I/AAAAAAAAA-w/gqPZV6t0geE/s640/tax+scam.jpg" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4GMSGvL85I/AAAAAAAAA-w/gqPZV6t0geE/s640/tax+scam.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4GMSGvL85I/AAAAAAAAA-w/gqPZV6t0geE/s1600-h/tax+scam.jpg)
 
 After submitting the information the page redirects to the legitimate site of the Indian Tax Department. The domain name of the fraudulent site is hosted on U.S.-based servers.
 
@@ -31,7 +29,7 @@ Internet users are advised to follow best practices to avoid phishing attacks. H
 
 **Caution**:
 
-  * Please be very careful when handling suspicious emails and URLs that are seeking personal information.
-  * Do not visit any links in email messages of dubious origin or intent.
-  * Do not enter any of your details on these kinds of sites.
-  * Please use the legitimate site of <a href="http://www.incometaxindia.gov.in/" target="_blank" title="http://www.incometaxindia.gov.in/">http://www.incometaxindia.gov.in/</a> for any help regarding an income tax refund in India.
+* Please be very careful when handling suspicious emails and URLs that are seeking personal information.
+* Do not visit any links in email messages of dubious origin or intent.
+* Do not enter any of your details on these kinds of sites.
+* Please use the legitimate site of [http://www.incometaxindia.gov.in/](http://www.incometaxindia.gov.in/ "http://www.incometaxindia.gov.in/") for any help regarding an income tax refund in India.

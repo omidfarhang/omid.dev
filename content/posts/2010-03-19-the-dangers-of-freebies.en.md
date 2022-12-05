@@ -20,15 +20,11 @@ To make matters worse, some download websites don’t even bother to check and v
 
 Take a look at this piece of software that was touted as a web tool obtained from a download website.
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTRhryP0I/AAAAAAAABTc/G3kAIdhTSE8/s1600-h/bifrose1.jpg" imageanchor="1"><img border="0" height="217" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTRhryP0I/AAAAAAAABTc/G3kAIdhTSE8/s400/bifrose1.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTRhryP0I/AAAAAAAABTc/G3kAIdhTSE8/s400/bifrose1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTRhryP0I/AAAAAAAABTc/G3kAIdhTSE8/s1600-h/bifrose1.jpg)
 
 This tool was supposed to be a HTML editor but upon running, clearly something was wrong. No trace of the software was visible after running the application. This should signal a giant red flag that something is horribly amiss. To make matters worse, unless you happen to know what to look for, you’d be hard pressed to find what kind of activity or system changes has been made on your computer (click on the picture below to see a clearer image of the registry entry made by this Trojan).
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTR-Yl1VI/AAAAAAAABTg/Cws-JQv8Z2k/s1600-h/bifrose2.jpg" imageanchor="1"><img border="0" height="132" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTR-Yl1VI/AAAAAAAABTg/Cws-JQv8Z2k/s400/bifrose2.jpg" width="400" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTR-Yl1VI/AAAAAAAABTg/Cws-JQv8Z2k/s400/bifrose2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTR-Yl1VI/AAAAAAAABTg/Cws-JQv8Z2k/s1600-h/bifrose2.jpg)
 
 In this case, this backdoor Trojan (Troj/Bifrose-ZI) manifested itself as a file on your Windows System folder and created a registry entry to run itself upon the next startup (notice how notoriously difficult it is to know what and where to look for?). You now have a backdoor Trojan active on your computer which a remote intruder can use to gain access to your computer. The type of malicious activity that can then take place on your computer can range from using your computer to download more malware, to turning your computer into a botnet zombie to stealing confidential information etc. etc. &#8211; you get the idea.
 

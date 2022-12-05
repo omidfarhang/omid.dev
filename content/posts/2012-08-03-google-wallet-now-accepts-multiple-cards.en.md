@@ -13,7 +13,7 @@ category: techblog
 ---
 <a href="http://lh5.ggpht.com/-ksUPgy2ECpU/UBuS13_u1KI/AAAAAAAAG3s/ybwO195whCo/s1600-h/google-wallet.top%25255B2%25255D.jpg" target="_blank"><img title="google-wallet.top" border="0" alt="google-wallet.top" src="http://lh4.ggpht.com/-91p_yBSz4KU/UBuS36xRaFI/AAAAAAAAG30/LE5-Or5eBcc/google-wallet.top_thumb.jpg?imgmax=800" width="475" height="307" /></a> 
 
-NEW YORK (CNNMoney) &#8212; Google just took your phone a step closer to replacing your wallet in the mobile payment revolution. 
+NEW YORK (CNNMoney) — Google just took your phone a step closer to replacing your wallet in the mobile payment revolution. 
 
 The company expanded its mobile payments platform, Google Wallet, to accept multiple credit cards. Users can now connect their Visa , MasterCard, American Express, or Discover cards with the new version of Google Wallet. It's an update from the company's previous partnership with MasterCard, Citigroup and Sprint. 
 

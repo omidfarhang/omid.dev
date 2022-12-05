@@ -51,7 +51,7 @@ While the 11-inch Air with a 64GB memory will set you back £999, the 13-inch ve
 
 > The most remarkable feature, however, isn’t cosmetic, it’s these machine’s boot time. Bootup takes less than 15 seconds, according to my watch. That’s a good deal less than the roughly 50 seconds it takes my trusty Windows laptop to come to life.
 
-**Brooke Crothers from [CNet](http://news.cnet.com/8301-13924_3-20020349-64.html) says&#8230;**
+**Brooke Crothers from [CNet](http://news.cnet.com/8301-13924_3-20020349-64.html) says…**
 
 > The new MacBook Air offers an interesting paradox: a spanking-new, ultra-thin design that is wrapped around old Intel chips.
 

@@ -24,7 +24,7 @@ His [map](http://www.newscientist.com/data/images/ns/cms/dn18721/dn18721-3_300.j
 
 Here's some of [what he wrote](http://petewarden.typepad.com/searchbrowser/2010/03/facebook-data-destruction.html) in explaining his decision to wipe the database:
 
-> Despite the bad taste left in my mouth by the legal pressure, I actually have some sympathy for Facebook. I put them on the spot by planning to release data they weren't aware was available&#8230;  
+> Despite the bad taste left in my mouth by the legal pressure, I actually have some sympathy for Facebook. I put them on the spot by planning to release data they weren't aware was available…  
 > So what's the good news? From my conversations with technical folks at Facebook, there seems to be a real commitment to figuring out safeguards around the widespread availability of this data. They have a lot of interest in helping researchers find ways of doing worthwhile work without exposing private information.
 
 Separately, Warden writes about “[the unknown marketing databases that know everything about you](http://petewarden.typepad.com/searchbrowser/2010/03/the-unknown-marketing-databases-that-know-everything-about-you.html)” — and that are for sale to anyone.

@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-Disguised IQ test combines virus, rootkit and worm &#8212; malicious code for one fatal formula
+Disguised IQ test combines virus, rootkit and worm — malicious code for one fatal formula
 
 BitDefender today identified a new e-threat that combines the destructive behavior of a virus with the spreading mechanisms of a worm. There are two known variants of this virus, which enters the computer as a harmless IQ test.
 

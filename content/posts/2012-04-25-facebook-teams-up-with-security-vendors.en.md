@@ -28,7 +28,7 @@ Now Facebook and security aren't easy bedfellows. Facebook constantly needs to o
 
 Security specialists offer protection, and they often do that by closing doors to anything potentially harmful. The security industry is essentially made up of internet sentinels keeping watch all the time and jumping out to protect their charges when something nasty rears up. 
 
-But they do say opposites attract&#8230; 
+But they do say opposites attract… 
 
 So when Facebook came knocking, Security vendors opened their doors wide. And smiled. Teamed up, they are much better able to catch and annihilate scams before they impact huge numbers of users. 
 
@@ -42,7 +42,7 @@ Think about it this way: even the sexiest of cars provide many safety features l
 
 To better safeguard your account, make sure you choose a strong unique password for your Facebook account, and don't tell it to ANYONE. Look over the privacy settings regularly and carefully choose your configuration. Take care when downloading applications. Only befriend people you know. Report suspicious activity to Facebook. 
 
-And the Omid’s TechBlog will continue to do its part, alerting its community &#8212; via <a href="https://www.facebook.com/omidsnetwork/" target="_blank">its Facebook page</a> and its award &#8212; to bad stuff that sneaks up on Facebook. 
+And the Omid’s TechBlog will continue to do its part, alerting its community — via <a href="https://www.facebook.com/omidsnetwork/" target="_blank">its Facebook page</a> and its award — to bad stuff that sneaks up on Facebook. 
 
 Ultimately, both Facebook and security vendors want users safe and happy. And this partnership might mean that we are in a better place to achieve that aim, but only if we all do our part. 
 

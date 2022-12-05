@@ -14,9 +14,7 @@ We previously reported a phishing attack on the Indian Income Tax Department. Ph
 
 There are two types of tax payments in India; namely, TDS (Tax Deducted at Source) and TCS (Tax Collected at Source). Customers can pay their taxes using the e-payment facility that requires sensitive information, such as personal information and bank or credit card details. Below is a screenshot of the phishing page:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6gApI8RvUI/AAAAAAAABYU/L6_sGAOmR70/s1600-h/Screen%20shot%202010-03-15%20at%2011.52.31%20PM.jpg" imageanchor="1"><img border="0" height="233" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6gApI8RvUI/AAAAAAAABYU/L6_sGAOmR70/s400/Screen%20shot%202010-03-15%20at%2011.52.31%20PM.jpg" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6gApI8RvUI/AAAAAAAABYU/L6_sGAOmR70/s400/Screen%20shot%202010-03-15%20at%2011.52.31%20PM.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6gApI8RvUI/AAAAAAAABYU/L6_sGAOmR70/s1600-h/Screen%20shot%202010-03-15%20at%2011.52.31%20PM.jpg)
 
 The phishing website has mimicked the legitimate one in order to steal customers’ sensitive information. However, the phishing page is not SSL encrypted—the legitimate page is. The attack was driven from IP-based domains hosted on servers located in the United States.
 

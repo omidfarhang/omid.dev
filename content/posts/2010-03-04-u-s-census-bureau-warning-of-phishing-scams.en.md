@@ -14,7 +14,7 @@ category: techblog
 ---
 The U.S. Census Bureau is warning of phishing and other scams that are using the 2010 Census as bait. Here is the warning from the bureau’s web site:
 
- _If you are contacted for any of the following reasons &#8212; Do Not Participate. It is NOT the U.S. Census Bureau.</p> 
+ _If you are contacted for any of the following reasons — Do Not Participate. It is NOT the U.S. Census Bureau.</p> 
 
  **Phishing:**
 

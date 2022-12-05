@@ -18,16 +18,14 @@ During the latter half of this week we have seen a whole batch of compromised ad
 
 The injected malicious JavaScript can be seen at the top of the ads content:
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5FStI9jp4I/AAAAAAAABKs/yFHeh_sfYXo/s1600-h/comp_ads.jpg" imageanchor="1"><img border="0" height="156" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S5FStI9jp4I/AAAAAAAABKs/yFHeh_sfYXo/s640/comp_ads.jpg" width="640" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5FStI9jp4I/AAAAAAAABKs/yFHeh_sfYXo/s640/comp_ads.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5FStI9jp4I/AAAAAAAABKs/yFHeh_sfYXo/s1600-h/comp_ads.jpg)
 
 Readers may recognise the target domain, masquerading as a legitimate Google Analytics site. It was mentioned in the ISC handlers diary yesterday.
 
 So what happens when the compromised ads are loaded by the browser?
 
-  * 301 redirect from google-analitics dot net to a salefale dot com subdomain.
-  * malicious script which attempts to load further malicious Flash, Java and PDF content in order to deliver the payload.
-  * payloads seen thus far have been Zbot and Bredo.
+* 301 redirect from google-analitics dot net to a salefale dot com subdomain.
+* malicious script which attempts to load further malicious Flash, Java and PDF content in order to deliver the payload.
+* payloads seen thus far have been Zbot and Bredo.
 
 It would appear that salefale dot com is now inactive, though we can expect the attack to simply move to new sites.

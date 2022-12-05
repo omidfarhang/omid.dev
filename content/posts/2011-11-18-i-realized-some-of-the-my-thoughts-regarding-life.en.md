@@ -27,7 +27,7 @@ I'm almost 23 years old and I'm not that old that to say much about life and tea
 
 **Help people when you can, but not in a way they think its your job to do:** Yeah, be kind to people, always, but avoid to look humble or make people think if you are helping them its your job, Its NOT your job, Its you being kind!!!
 
-**Don't waste your time, Some people will never understand:** You cannot change some people, so don't get mad at them if they don't understand, It can be even a physical problem or&#8230;
+**Don't waste your time, Some people will never understand:** You cannot change some people, so don't get mad at them if they don't understand, It can be even a physical problem or…
 
 **Religion, politic, waste of time:** Yeah, both of them are waste of time, so let me make it easy for you, religion is “Don't Lie, Don't Steal, Be Kind, Respect Humanity, Don't be Lazy in your Life” and Politic is something you never can change and inspecting that until will give you reason to become sad, so if you dislike politic of where you live, move!.
 

@@ -13,9 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7Zt7esv_1I/AAAAAAAABcQ/S8xbYPXWAJ8/s1600-h/4775.jpg" imageanchor="1"><img border="0" height="400" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S7Zt7esv_1I/AAAAAAAABcQ/S8xbYPXWAJ8/s640/4775.jpg" width="300" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7Zt7esv_1I/AAAAAAAABcQ/S8xbYPXWAJ8/s640/4775.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7Zt7esv_1I/AAAAAAAABcQ/S8xbYPXWAJ8/s1600-h/4775.jpg)
 
 Google today announced its strategy for delivering services on the iPad, and unveiled a new mobile Gmail interface optimized for bigger touchscreens. Since the iPad lies somewhere between a notebook and a smartphone, the Mountain View search company is taking a hybrid approach, offering some services in their desktop format, some in their mobile format, and some as standalone apps.
 

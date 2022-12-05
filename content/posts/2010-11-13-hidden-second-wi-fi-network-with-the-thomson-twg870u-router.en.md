@@ -32,4 +32,4 @@ Needless to say is that with this information, you are open to the world. Not on
 
 Norman advises all users of the Thomson TWG870U router to disable the Wireless Access completely until the firmware that fixed this obvious security hole (or “new possibilities” feature) has been released.
 
-Hmmm&#8230; I wonder if “Multiple SSID: yes” on page 4 of the [technical specifications](http://medialibrary.thomson.net/CommunsImagesEnLigne/Download/2904315_333_1_277_0-57B8C733CC60F533C9754CE109312DAC-2/DS_Technicolor_TWG870_2329561.pdf.PDF) of this router would have given it away&#8230;
+Hmmm… I wonder if “Multiple SSID: yes” on page 4 of the [technical specifications](http://medialibrary.thomson.net/CommunsImagesEnLigne/Download/2904315_333_1_277_0-57B8C733CC60F533C9754CE109312DAC-2/DS_Technicolor_TWG870_2329561.pdf.PDF) of this router would have given it away…

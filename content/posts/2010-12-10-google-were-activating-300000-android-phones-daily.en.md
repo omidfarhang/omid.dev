@@ -16,7 +16,7 @@ category: techblog
 
 Back in October, Google CEO Eric Schmidt said the company was activating about 200,000 phones per day. The new number also comes from Google's engineering chief Andy Rubin, [who tweeted it](http://twitter.com/Arubin/status/12727540783251456) on Wednesday night. It is not out of the question to think that Android may become the top platform in the world early next year.
 
-Such a milestone shouldn't come as too much of a surprise: analysts have been expecting this to happen for quite awhile now. However, the speed at which it has happened &#8212; a fivefold increase in just the last year alone &#8212; likely gives its competitors some pause, if not cause for concern.
+Such a milestone shouldn't come as too much of a surprise: analysts have been expecting this to happen for quite awhile now. However, the speed at which it has happened — a fivefold increase in just the last year alone — likely gives its competitors some pause, if not cause for concern.
 
 Surveys show that Android is now comprising about half of all smartphone sales in the US in the third quarter, and comScore found that the OS had nearly 15 percent of the worldwide market in October.
 

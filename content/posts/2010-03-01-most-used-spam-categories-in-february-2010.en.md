@@ -14,8 +14,6 @@ Since January we publish monthly reports about the categories of the spam messag
 
 Between January and February 2010 there didn’t change much in the spam landscape. The top 3 is still occupied by Pharmacy, Other (spams which don’t fit any category) and watches. However, this month the Malware category made its way on the 4th with 4.9% after it was only 0.5% in January.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4whEpIx1HI/AAAAAAAABDE/rH5YJYsN00E/s1600-h/spamcat.png" imageanchor="1"><img border="0" height="480" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4whEpIx1HI/AAAAAAAABDE/rH5YJYsN00E/s640/spamcat.png" width="640" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4whEpIx1HI/AAAAAAAABDE/rH5YJYsN00E/s640/spamcat.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4whEpIx1HI/AAAAAAAABDE/rH5YJYsN00E/s1600-h/spamcat.png)
 
 People should really stop buying meds from online pharmacies which get advertised in spam messages. If the business model is no longer existing, they will stop spamming.

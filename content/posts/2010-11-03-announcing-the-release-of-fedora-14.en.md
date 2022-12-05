@@ -112,6 +112,6 @@ If you are a journalist or reporter, you can find additional information at:
 
 <https://fedoraproject.org/wiki/Press?anF14> 
 
-&#8212;  
+—  
 Jared Smith  
 Fedora Project Leader

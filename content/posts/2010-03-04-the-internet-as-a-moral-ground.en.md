@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-<span><i>“…in that space one can easily indulge in depravity, lies, vulgarity&#8230;”</i></span>
+<span><i>“…in that space one can easily indulge in depravity, lies, vulgarity…”</i></span>
 
 Here’s a sort of comment about the Internet that you don’t see much in the news.
 
@@ -23,4 +23,4 @@ Created 1991, RiaNovosti traces its history back through various Soviet/Russian 
 
 Its web site includes links to Pravda.ru’s space-aliens-land-in-Russia-type tabloid fare as well as pro-government news in eight languages. The “Strange but True” section is a scream (<a href="http://en.rian.ru/strange/" target="_blank">http://en.rian.ru/strange/</a>)
 
-Check out the piece: <a href="http://en.rian.ru/strange/20091230/157419582.html" target="_blank">“Two-headed calf born in Estonia”</a> A two-headed animal, once seen as a predictor of impending war, is now viewed as an omen foretelling an improving economy &#8212; at least according to the farmer who owns it. Maybe the U.S. Federal Reserve Board should get one.
+Check out the piece: <a href="http://en.rian.ru/strange/20091230/157419582.html" target="_blank">“Two-headed calf born in Estonia”</a> A two-headed animal, once seen as a predictor of impending war, is now viewed as an omen foretelling an improving economy — at least according to the farmer who owns it. Maybe the U.S. Federal Reserve Board should get one.

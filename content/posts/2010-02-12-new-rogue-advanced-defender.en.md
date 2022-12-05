@@ -13,9 +13,7 @@ category: techblog
 ---
 Advanced Defender is fake security software that tricks people into thinking it's legitimate antispyware software in hopes they will pay for the product.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3WyEepgEdI/AAAAAAAAA5g/SF-HKrvdHes/s1600-h/AdvancedDefender_GUI.jpg" imageanchor="1"><img border="0" height="428" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S3WyEepgEdI/AAAAAAAAA5g/SF-HKrvdHes/s640/AdvancedDefender_GUI.jpg" width="640" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3WyEepgEdI/AAAAAAAAA5g/SF-HKrvdHes/s640/AdvancedDefender_GUI.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3WyEepgEdI/AAAAAAAAA5g/SF-HKrvdHes/s1600-h/AdvancedDefender_GUI.jpg)
 
 Advanced Defender is a potentially dangerous and extremely frustrating PC infection that should be removed immediately. If Advanced Defender has infected your computer you may notice the following symptoms:
 

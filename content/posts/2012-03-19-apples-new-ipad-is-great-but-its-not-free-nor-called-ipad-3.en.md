@@ -26,7 +26,7 @@ Oddly, when you proceed to the next page you are offered a Best Buy gift card, g
 
 [<img title="ipad3winner-2-500" border="0" alt="ipad3winner-2-500" src="http://lh5.ggpht.com/-CTgwLe9cc24/T2bpLPNe3UI/AAAAAAAAFNY/Gv3JQXPugD0/ipad3winner-2-500_thumb%25255B1%25255D.png?imgmax=800" width="504" height="399" />](http://lh5.ggpht.com/-px-SCyhEgAM/T2bpEXIV1AI/AAAAAAAAFNQ/vyW_QgLJC48/s1600-h/ipad3winner-2-500%25255B3%25255D.png) 
 
-Perhaps the game Portal summed up these types of scams best&#8230; The cake is a lie. When you choose the iPad you are taken to another survey site promising any color of iPad 2 you wish. 
+Perhaps the game Portal summed up these types of scams best… The cake is a lie. When you choose the iPad you are taken to another survey site promising any color of iPad 2 you wish. 
 
 It's unclear where the free iPad 3 vanished to, but it is clear that you won't be getting one for free. Follow your instincts and steer clear of offers that are too good to be true. 
 

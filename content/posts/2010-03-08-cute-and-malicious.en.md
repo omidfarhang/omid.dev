@@ -46,7 +46,7 @@ Taken at face value, the above screenshots shows the victim sitting in an empty 
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5VysydVgLI/AAAAAAAABO0/5t503nZmXAs/s640/oast7.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5VysydVgLI/AAAAAAAABO0/5t503nZmXAs/s1600-h/oast7.jpg)
 
-&#8230;there they are, sitting beneath a pair of Admins in a #Music room.  You can set mIRC to accept and ignore certain types of files by default, and here the client is indeed set to disallow .exes, .dlls .bat and .scr files but allow normal files such as .wavs, .jpegs, .gifs and MP3s. The victim is placed into numerous #Music rooms like the one above on various IRC servers, so it’s a possibility the intention here is media sharing by way of compromised PCs.
+…there they are, sitting beneath a pair of Admins in a #Music room.  You can set mIRC to accept and ignore certain types of files by default, and here the client is indeed set to disallow .exes, .dlls .bat and .scr files but allow normal files such as .wavs, .jpegs, .gifs and MP3s. The victim is placed into numerous #Music rooms like the one above on various IRC servers, so it’s a possibility the intention here is media sharing by way of compromised PCs.
 
 Detections aren’t great at the moment (11/42 in VirusTotal)  
 <http://www.virustotal.com/analisis/9618c83546c16ae1dab70ca0d2e594c2dd41f622820d92e7bc9e22f2b3bc9f38-1267769547>

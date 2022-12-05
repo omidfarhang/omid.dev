@@ -11,10 +11,10 @@ lang: en
 category: techblog
 ---
 Apple has issued Security Update 2010-002 (Mac OS X v10.6.3) that fixes 100 enumerated vulnerabilities in:  
-&#8212; Mac OS X 10.5  
-&#8212; Mac OS X 10.6  
-&#8212; Mac OS X Server 10.5  
-&#8212; Mac OS X Server 10.6
+— Mac OS X 10.5  
+— Mac OS X 10.6  
+— Mac OS X Server 10.5  
+— Mac OS X Server 10.6
 
 The 400 MB+ download takes a while, so, be prepared.
 

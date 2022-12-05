@@ -16,8 +16,8 @@ You can now access **Google Buzz** from your Android mobiles easily using the of
 
 The widget lets you choose to tag your post with the location or place from which it was posted. To save time, your posts will upload in the background.
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6NBqcONnOI/AAAAAAAABSw/zcAXgL25E10/s1600-h/buzzwidget_homescreen.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S6NBqcONnOI/AAAAAAAABSw/zcAXgL25E10/s1600/buzzwidget_homescreen.jpg" /></a> <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NBqX2L7-I/AAAAAAAABS0/w1e8qQ-0uHQ/s1600-h/buzzwidget_compose.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NBqX2L7-I/AAAAAAAABS0/w1e8qQ-0uHQ/s1600/buzzwidget_compose.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6NBqcONnOI/AAAAAAAABSw/zcAXgL25E10/s1600/buzzwidget_homescreen.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6NBqcONnOI/AAAAAAAABSw/zcAXgL25E10/s1600-h/buzzwidget_homescreen.jpg)
+
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NBqX2L7-I/AAAAAAAABS0/w1e8qQ-0uHQ/s1600/buzzwidget_compose.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NBqX2L7-I/AAAAAAAABS0/w1e8qQ-0uHQ/s1600-h/buzzwidget_compose.jpg)
 
 It is initially available in English for Android phones running v1.6 and later. To **download** it, search for ‘Google Buzz’ in the Android Market. Once installed, you can add it to home screen: tap “Menu” while on the home screen and select “Add > Widgets > Google Buzz”.

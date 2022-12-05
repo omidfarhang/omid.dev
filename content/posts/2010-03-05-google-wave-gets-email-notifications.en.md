@@ -10,9 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BRwjIwNoI/AAAAAAAABJ8/rgi8HLtIYtY/s1600-h/wave-notifications.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BRwjIwNoI/AAAAAAAABJ8/rgi8HLtIYtY/s320/wave-notifications.jpg" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BRwjIwNoI/AAAAAAAABJ8/rgi8HLtIYtY/s320/wave-notifications.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BRwjIwNoI/AAAAAAAABJ8/rgi8HLtIYtY/s1600-h/wave-notifications.jpg)
 
 Google Wave has finally turned on email notifications as a feature for users who want to see immediate, hourly, or daily email notifications for new and updated waves.
 

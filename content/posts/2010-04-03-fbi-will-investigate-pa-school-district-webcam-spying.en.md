@@ -20,7 +20,7 @@ The school had installed the webcam spyware on the 2,300 laptops issued to high 
 
 **. . .**
 
-Preserving privacy gets tougher and tougher as technology develops. Perfectly legitimate information systems are full of personal information or access to it &#8212; such as this case &#8212; and search technology it is getting better and better. It just makes it too easy for employees to snoop or officials to misuse the systems. Guarding privacy is a serious job involving licensing agreements, procedures for employees who access data, intrusion prevention and hopefully encryption.
+Preserving privacy gets tougher and tougher as technology develops. Perfectly legitimate information systems are full of personal information or access to it — such as this case — and search technology it is getting better and better. It just makes it too easy for employees to snoop or officials to misuse the systems. Guarding privacy is a serious job involving licensing agreements, procedures for employees who access data, intrusion prevention and hopefully encryption.
 
 This story is about a serious insider threat. Only two people were supposed to have access to the technology to turn on the web cams and it was only to be used only to find lost or stolen machines. Instead, according to the suit, the system was used by someone for some kind of enforcement action that wasn't spelled out to the students and their families in advance.
 

@@ -24,10 +24,10 @@ This, of course, prevents a user from using an application like EULAlyzer that p
 
 **His conclusions about what Google should do:**
 
-_“When a user disables Google Toolbar, all Enhanced Features transmissions need to stop, immediately and without exception. This change must be deployed to all Google Toolbar users straightaway&#8230;.”_  
+_“When a user disables Google Toolbar, all Enhanced Features transmissions need to stop, immediately and without exception. This change must be deployed to all Google Toolbar users straightaway….”_  
 _  
 _  
-_“Google also needs to clean up the results of its nonconsensual data collection. In particular, Google has collected browsing data from users who specifically declined to allow such data to be collected&#8230;.” _  
+_“Google also needs to clean up the results of its nonconsensual data collection. In particular, Google has collected browsing data from users who specifically declined to allow such data to be collected….” _  
 _  
 _  
 _“But these records never should have been sent to Google in the first place. So Google should find a way to let concerned users request that Google fully and irreversibly delete their entire Toolbar histories._  

@@ -22,7 +22,7 @@ Several things stand out from Ballmer's comments:
 
   1. Mobile operators that want a search engine other than Bing can't have Windows Phone 7 Series.
   2. Microsoft almost certainly is stirring up trouble for Google in Europe through third parties.
-  3. Microsoft isn't interested &#8212; at least for now &#8212; in releasing a Bing application for Android phones.
+  3. Microsoft isn't interested — at least for now — in releasing a Bing application for Android phones.
   4. A Bing for iPhone search deal is still possible, simply because Ballmer deflected the question rather than denying it.
   5. Twitter is a great Microsoft partner, but the value of an acquisition is “not clear.”
 
@@ -31,11 +31,11 @@ My favorite quote from the Q&A: “I haven't found that when you're trying to se
 **Bing**  
 **  
 **  
-When asked if Microsoft could be No.1 in search, Ballmer answered: “There's no good answer to this question&#8230;If you say yes, you sound arrogant. If you say no, you sound like you have no faith. So the answer is, yes, someday.”
+When asked if Microsoft could be No.1 in search, Ballmer answered: “There's no good answer to this question…If you say yes, you sound arrogant. If you say no, you sound like you have no faith. So the answer is, yes, someday.”
 
 > The truth of the matter is the number one thing that Google benefits from in search is they did it right first. And put culture aside and blah, blah, blah, blah, blah, I love our culture, I think we've got great people, they're innovative, they're doing great things, but we started later.
 
-Ballmer's Binging family: “We have Bing evangelists, age 18, age 11, and age 15. We are definitely a religiously pro-Bing family&#8230;My dad worked at Ford for 30 years, I still drive a Lincoln. I hope my kids 30, 40, 50 years from now, they'll still be using Bing.”
+Ballmer's Binging family: “We have Bing evangelists, age 18, age 11, and age 15. We are definitely a religiously pro-Bing family…My dad worked at Ford for 30 years, I still drive a Lincoln. I hope my kids 30, 40, 50 years from now, they'll still be using Bing.”
 
 > I love to make the assertion about apartments in Paris. I have a buddy from Stanford who rents apartments in Paris and if she wasn't my buddy you wouldn't find her on page one of Bing, you would find her on page one of the other guy, and that is a quality. From the standpoint of the searcher if you're looking for an apartment in Paris it's not going to show US in the algorithmic results. So, it's really important for us to get scale in terms of value to the searcher themselves.
 
@@ -54,9 +54,9 @@ Google's book search deal: “The book deal essentially takes somebody who has a
 **Smartphones**  
 **  
 **  
-Regarding Bing replacing Google on iPhone: “I read that rumor&#8230;It was very funny, I was in Europe someplace, and I read it, after a journalist had asked me about it. Weird how rumors start.”
+Regarding Bing replacing Google on iPhone: “I read that rumor…It was very funny, I was in Europe someplace, and I read it, after a journalist had asked me about it. Weird how rumors start.”
 
-> Do I search when I'm out on the move? The answer is too much relative to what my wife thinks I should be doing when I'm driving. So, I'm trying to &#8212; I'm trying to tame my search behavior while I'm &#8212; I mean, literally I only have a phone when I'm in the car, because if I'm not in the car I'm in a meeting, and it's impolite, for me at least, to bring phones to most meetings.
+> Do I search when I'm out on the move? The answer is too much relative to what my wife thinks I should be doing when I'm driving. So, I'm trying to — I'm trying to tame my search behavior while I'm — I mean, literally I only have a phone when I'm in the car, because if I'm not in the car I'm in a meeting, and it's impolite, for me at least, to bring phones to most meetings.
 
 About Bing for Android phones: “It's not like our open religious principles can be questioned here, but it is a little bit tricky to understand exactly where the market opportunity might lie for us in the mix of Android kind of cacophonous implementations.”
 
@@ -67,7 +67,7 @@ Search-engine choice on Windows Phones: “My guess is we're not going to get a 
 **Xbox**  
 **  
 **  
-“How many hours of practice do you need on Xbox to catch your kids?&#8230;Ten thousand hours. Ten thousand hours of Xbox and you can be as good as your eight-year-old.”
+“How many hours of practice do you need on Xbox to catch your kids?…Ten thousand hours. Ten thousand hours of Xbox and you can be as good as your eight-year-old.”
 
 **Twitter**  
 **  

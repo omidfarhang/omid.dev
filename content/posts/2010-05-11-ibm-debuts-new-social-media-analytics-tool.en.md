@@ -27,6 +27,6 @@ Data from the social web can also be merged with internal data to create even mo
 
 Companies already using IBM’s application have used this data to improve CRM and make better-informed choices about products and marketing. 
 
-Rosetta Stone’s VP of Strategic Research and Analysis Nino Ninov said, “Predictive analytics allows us to leverage unsolicited and unbiased customer feedback and strategically improve our business. We now can also monitor competitor and industry websites[&#8230;] to maintain a current view and better understand how the public perceives our competition.” 
+Rosetta Stone’s VP of Strategic Research and Analysis Nino Ninov said, “Predictive analytics allows us to leverage unsolicited and unbiased customer feedback and strategically improve our business. We now can also monitor competitor and industry websites[…] to maintain a current view and better understand how the public perceives our competition.” 
 
 SPSS Modeler data mining and text analytics workbench is a high-grade product and might be both too sophisticated and too expensive for the average small business. The interface itself is hardly what we’d call intuitive or user-friendly. But for larger enterprises that need robust technologies and can’t risk entrusting data collection to a startup web app, IBM’s software might very well provide the features they need.

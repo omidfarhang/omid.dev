@@ -12,15 +12,15 @@ tags:
 lang: en
 category: blog
 ---
-> &#8230;Und der Haifisch, der hat Tränen  
+> …Und der Haifisch, der hat Tränen  
 > und die laufen vom Gesicht;  
 > doch der Haifisch lebt im Wasser &#8211;  
-> so die Tränen sieht man nicht&#8230;_  
+> so die Tränen sieht man nicht…_  
 > 
 > 
-> &#8230;And the shark, that has tears  
+> …And the shark, that has tears  
 > And they run from the face  
 > But the shark lives in water  
-> So no one can see the tears&#8230;_  
+> So no one can see the tears…_  
 
 {{< youtube GukNjYQZW8s >}}

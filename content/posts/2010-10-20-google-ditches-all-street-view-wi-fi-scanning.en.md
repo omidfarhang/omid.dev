@@ -28,7 +28,7 @@ Google's PC software takes a similar approach. A note in the [source code](http:
 
 Google discloses this behavior to its customers. Its [privacy policy](http://www.google.com/mobile/privacy.html) for mobile devices says: “If you use location-enabled products and services, such as Google Maps for mobile, you may be sending us location information.” On the other hand, if you opt out of data-sharing, don't count on being able to use Wi-Fi hot spots for triangulation.
 
-“With Android, location-sharing is opt-in,” Google spokeswoman Christine Chen said today. “Whether we're talking about location provider services or individual apps that use location, Android provides users with notice and control over collection of location, sharing of location and use of location to help provide a better mobile experience&#8230;We don't share individual location collected from user devices with any applications or services.”
+“With Android, location-sharing is opt-in,” Google spokeswoman Christine Chen said today. “Whether we're talking about location provider services or individual apps that use location, Android provides users with notice and control over collection of location, sharing of location and use of location to help provide a better mobile experience…We don't share individual location collected from user devices with any applications or services.”
 
 Google had said in a [blog post](http://google-latlong.blogspot.com/2010/07/street-view-driving-update.html) in July that it had halted Wi-Fi data collection through its Street View cars, but had not said whether it would be resumed or not.
 

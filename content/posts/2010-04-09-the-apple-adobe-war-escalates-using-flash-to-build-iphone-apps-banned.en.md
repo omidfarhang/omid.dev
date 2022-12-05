@@ -15,9 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s1600/apple-adobe-260.jpg" imageanchor="1"><img border="0" height="146" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s200/apple-adobe-260.jpg" width="200" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s200/apple-adobe-260.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s1600/apple-adobe-260.jpg)
 
 Today, Apple revised its iPhone Developer Program License Agreement to effectively ban the use of the Flash-to-iPhone converter.
 

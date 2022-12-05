@@ -12,9 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6HucvwkuUI/AAAAAAAABSc/jcb0QcolitI/s1600-h/4695.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S6HucvwkuUI/AAAAAAAABSc/jcb0QcolitI/s400/4695.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6HucvwkuUI/AAAAAAAABSc/jcb0QcolitI/s400/4695.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6HucvwkuUI/AAAAAAAABSc/jcb0QcolitI/s1600-h/4695.jpg)
 
 Google has rolled out a significant update to the Google Maps application for Android 1.6+ devices, which includes a new search results page, support for multiple accounts, a new Latitude homescreen widget, and a new Maps live wallpaper for 2.1 devices.
 

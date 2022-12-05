@@ -19,6 +19,6 @@ Google has announced the upcoming availability of the Chrome Web Store, an open 
 
 The store will deal in the [“installable Web apps,”](http://code.google.com/chrome/apps/) that are expected to populate both the Google Chrome browser and the forthcoming Chrome OS. They can be run currently, but require a Windows Dev channel release of Google Chrome with a special command line flag. 
 
-According to their Google Code listing, “An installed web app could be separated visually from other tabs, could integrate better with the OS, and could be granted increased permissions. This special handling of web apps is exactly what we're working on in Google Chrome&#8230;Installing a web app in Google Chrome is easy and quick, with no restart required. At its simplest, installing a web app is like creating a super-bookmark to it.” </p> 
+According to their Google Code listing, “An installed web app could be separated visually from other tabs, could integrate better with the OS, and could be granted increased permissions. This special handling of web apps is exactly what we're working on in Google Chrome…Installing a web app in Google Chrome is easy and quick, with no restart required. At its simplest, installing a web app is like creating a super-bookmark to it.” </p> 
 
 [<img title="5007" border="0" alt="5007" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S_RDKoiyXgI/AAAAAAAACP8/Tg14Fp02EEw/5007_thumb%5B2%5D.jpg?imgmax=800" width="398" height="213" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S_RDGWZUeQI/AAAAAAAACP4/5_GoQRgz63I/s1600-h/5007%5B4%5D.jpg)

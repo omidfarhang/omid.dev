@@ -21,7 +21,7 @@ GFI’s survey last year found that 47 percent of U.S. SMEs had the means to mon
 
 [<img title="SME_Web_filtering" border="0" alt="SME_Web_filtering" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMbo_QfNjVI/AAAAAAAAC6w/52izQbZT-cg/SME_Web_filtering_thumb%5B1%5D.png?imgmax=800" width="304" height="216" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbo910Qn9I/AAAAAAAAC6s/4dTjFc-kWQg/s1600-h/SME_Web_filtering%5B3%5D.png)
 
-(GFI graphic &#8212; click to enlarge)
+(GFI graphic — click to enlarge)
 
 From the report:  
 _“When asked why they had invested in a web filtering and web security solution, 9 in 10 SMEs said they did so to block inappropriate content, to prevent malware infections from downloaded files and to prevent malware attacks via drive-by downloads. More than half said they wanted to reduce cyber slacking, to control what sites employees can or cannot visit and to reduce bandwidth costs associated with unnecessary browsing/streaming.”_

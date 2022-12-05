@@ -30,26 +30,24 @@ And so why the recent attacks?
 
 We think it could have something to do with some of the recent search engine deals that have been made.
 
-Yahoo announced that <a href="http://ycorpblog.com/2010/02/23/yahootwitter/" target="_blank">they'll begin to include Twitter's real-time feed</a> into their search results and Facebook is<a href="http://www.allfacebook.com/2010/02/facebook-pages-now-part-of-googles-real-time-results/" target="_blank">now included in Google's search results</a>.
+Yahoo announced that [they'll begin to include Twitter's real-time feed](http://ycorpblog.com/2010/02/23/yahootwitter/) into their search results and Facebook is[now included in Google's search results](http://www.allfacebook.com/2010/02/facebook-pages-now-part-of-googles-real-time-results/).
 
 The bad guys can use social networking trust to enhance their SEO attacks.
 
-Lets take a current <a href="http://www.google.com/trends" target="_blank">hot topic</a> as an example. There are several Twitter results in the image below.
+Lets take a current [hot topic](http://www.google.com/trends) as an example. There are several Twitter results in the image below.
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s1600-h/lastest.google.results.seaworld.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s640/lastest.google.results.seaworld.png" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s640/lastest.google.results.seaworld.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s1600-h/lastest.google.results.seaworld.png)
 
 Note: Always be careful when searching for hot topics. This “sea world trainer killed” example is currently being used in SEO attacks and many results will lead directly to scamware.
 
 There's also a Facebook result in the example above. We expect to see fresh phishing attacks against Facebook before too long.
 
-Twitter's <a href="http://twitter.com/safety" target="_blank">Safety</a> and <a href="http://twitter.com/spam" target="_blank">Spam</a> feeds are useful to follow if you have a Twitter account. Twitter's working on the issue now by prompting those that received phishing messages to change their password.
+Twitter's [Safety](http://twitter.com/safety) and [Spam](http://twitter.com/spam) feeds are useful to follow if you have a Twitter account. Twitter's working on the issue now by prompting those that received phishing messages to change their password.
 
 There is a silver lining to all of this…
 
 While social networking trust can be abused, social networks themselves are incredibly responsive to emerging threats.
 
-Check out the latest search results for “<a href="http://www.google.com/search?hl=en&#038;tbo=1&#038;gl=us&#038;tbs=rltm%3A1&#038;q=%22This+you%3F%3F%22&#038;btnG=Search&#038;aq=f&#038;aqi=g-c3g1&#038;aql=&#038;oq=" target="_blank">This you??</a>“. Twitter users are already spreading information to counter the dis-information pushed by the bad guys.
+Check out the latest search results for “[This you??](http://www.google.com/search?hl=en&tbo=1&gl=us&tbs=rltm%3A1&q=%22This+you%3F%3F%22&btnG=Search&aq=f&aqi=g-c3g1&aql=&oq=)“. Twitter users are already spreading information to counter the dis-information pushed by the bad guys.
 
 It used to take weeks to stamp out e-mail hoaxes. Now, the issue almost corrects itself as quickly as it is abused.

@@ -19,7 +19,7 @@ category: techblog
   
 Morto attempts to compromise Remote Desktop connections in order to penetrate remote systems, by exploiting weak administrator passwords. Once a new system is compromised, it connects to a remote server in order to download additional information and update its components. It also terminates processes for locally running security applications in order to ensure its activity continues uninterrupted. Affected users should note that a reboot may be required in order to complete the cleaning process.
 
-This particular worm highlights the importance of setting strong system passwords. Using strong passwords can go a long way towards protecting your environment &#8212; and the ability of attackers to exploit weak passwords shouldn't be underestimated. For example, Morto tries the following passwords:
+This particular worm highlights the importance of setting strong system passwords. Using strong passwords can go a long way towards protecting your environment — and the ability of attackers to exploit weak passwords shouldn't be underestimated. For example, Morto tries the following passwords:
 
 *1234 \
 0 \

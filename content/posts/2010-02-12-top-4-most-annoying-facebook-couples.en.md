@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-**([CNN](http://www.cnn.com/))(<a href="http://www.thefrisky.com/relationships/" target="new">The Frisky</a>)** &#8212; For anyone who is remotely active on Facebook, you no doubt have been faced at some point with inane updates on one of your friend's kid's colds or how wedding-planning was coming along for one of your engaged buddies.
+**([CNN](http://www.cnn.com/))(<a href="http://www.thefrisky.com/relationships/" target="new">The Frisky</a>)** — For anyone who is remotely active on Facebook, you no doubt have been faced at some point with inane updates on one of your friend's kid's colds or how wedding-planning was coming along for one of your engaged buddies.
 
 That's why, when parenting Web site Babble published “Facebook's Most Annoying Parents,” I immediately thought, “But what about all the annoying couples?” So, without further ado, I present to you the top four most annoying couples on Facebook.  
 **  
@@ -40,7 +40,7 @@ If one gets invited to a function without the other, they use their Facebook upd
 
 It's clear that the Boring Couple, who does nothing but constantly hang out at home, has forgotten that other people actually have fun for fun. They update with: “Excited to stay in for &#8216;movie and pizza night' with the hubby!” or “Gonna cook a big dinner for wifey tonight!!”
 
-Well, hey, guess what, the rest of us are going to eat dinner at some point, too, and unless it's enjoyed with a mentor we've just been granted a meal with from the Make-A-Wish foundation, it probably doesn't warrant two exclamation points&#8230;or, you know, a status update on Facebook. These people would be more sad than annoying if they weren't so smug about their domestic bliss.
+Well, hey, guess what, the rest of us are going to eat dinner at some point, too, and unless it's enjoyed with a mentor we've just been granted a meal with from the Make-A-Wish foundation, it probably doesn't warrant two exclamation points…or, you know, a status update on Facebook. These people would be more sad than annoying if they weren't so smug about their domestic bliss.
 
  <a href="http://www.thefrisky.com/post/246-are-social-media-sites-like-twitter-and-facebook-making-us-ruder/" target="new">The Frisky: Are social media sites making us rude?</a>  
 **  

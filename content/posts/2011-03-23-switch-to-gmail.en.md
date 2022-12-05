@@ -36,4 +36,4 @@ We’ve also created a site, [gmail.com/switch](http://www.gmail.com/switch), wi
 
 [<img title="blog_graphic" border="0" alt="blog_graphic" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TYmya7zSyNI/AAAAAAAADyI/Oqa-s0nsIA0/blog_graphic_thumb%5B4%5D.png?imgmax=800" width="500" height="391" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYmyX2_eCmI/AAAAAAAADyE/flGNx7x6rMY/s1600-h/blog_graphic%5B6%5D.png)
 
-We’re always looking for ways to make Gmail more useful &#8212; both for existing users and new ones &#8212; so, as always, we’d love to [hear what you think](http://www.google.com/support/forum/p/gmail)!
+We’re always looking for ways to make Gmail more useful — both for existing users and new ones — so, as always, we’d love to [hear what you think](http://www.google.com/support/forum/p/gmail)!

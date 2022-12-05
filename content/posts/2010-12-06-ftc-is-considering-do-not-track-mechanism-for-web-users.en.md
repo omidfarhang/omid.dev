@@ -24,9 +24,9 @@ _“Although many companies use privacy policies to explain their information pr
 _  
 The FTC report recommended that companies should have a “privacy by design” approach and build privacy protections into everyday business practices including:
 
-&#8212; reasonable security for consumer data  
-&#8212; limited data collection and retention  
-&#8212; reasonable procedures to promote data accuracy
+— reasonable security for consumer data  
+— limited data collection and retention  
+— reasonable procedures to promote data accuracy
 
 _“Companies also should implement and enforce procedurally sound privacy practices throughout their organizations, including assigning personnel to oversee privacy issues, training employees, and conducting privacy reviews for new products and services,”_ they said.
 

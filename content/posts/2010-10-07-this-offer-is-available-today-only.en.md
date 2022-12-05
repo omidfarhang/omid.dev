@@ -35,11 +35,11 @@ We took the survey of trivial questions and selected our prize: an Apple iPad an
 
 But of course you then head into the old survey loop:
 
-**“Compete to win $50,000!” &#8212; $9.99 to $19.99 per month (billed to your cell phone)**
+**“Compete to win $50,000!” — $9.99 to $19.99 per month (billed to your cell phone)**
 
 [<img title="YouTubeSquat_Survey_3" border="0" alt="YouTubeSquat_Survey_3" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TK4KTy160zI/AAAAAAAACnE/aLJ5z5APd4A/YouTubeSquat_Survey_3_thumb%5B1%5D.png?imgmax=800" width="304" height="203" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TK4KStA_IsI/AAAAAAAACnA/6ttsnxnNAng/s1600-h/YouTubeSquat_Survey_3%5B3%5D.png)
 
-**“Connect with Singles Anytime Anywhere!” &#8212; $6.99 to $19.99 per month (billed to your cell phone)**
+**“Connect with Singles Anytime Anywhere!” — $6.99 to $19.99 per month (billed to your cell phone)**
 
 [<img title="YouTubeSquat_Survey_6" border="0" alt="YouTubeSquat_Survey_6" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TK4KYK9z6_I/AAAAAAAACnM/DVIIXcY1p0c/YouTubeSquat_Survey_6_thumb%5B1%5D.png?imgmax=800" width="304" height="171" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TK4KWRzlB9I/AAAAAAAACnI/FAvHCElbn5w/s1600-h/YouTubeSquat_Survey_6%5B3%5D.png)
 

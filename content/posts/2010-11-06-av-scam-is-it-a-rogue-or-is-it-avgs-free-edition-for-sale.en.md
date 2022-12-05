@@ -39,11 +39,11 @@ We noticed the logo on the page mimicked the colors of the AVG logo:
 [<img title="Antivirus2010_AVG_logo" border="0" alt="Antivirus2010_AVG_logo" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNUyDDgfgeI/AAAAAAAADDo/AvD7eNYoPAA/Antivirus2010_AVG_logo_thumb.png?imgmax=800" width="155" height="65" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNUyBLDYq_I/AAAAAAAADDk/dlauRdpGLA4/s1600-h/Antivirus2010_AVG_logo%5B2%5D.png)
 
 The prices:  
-&#8212; $2.49 per month.  
-&#8212; A two-year “Full Access & Support” choice for $17.49 per month  
-&#8212; Three year “VIP” access for $11.67 per year.  
-&#8212; (optional add on) Firewall for $14.88 – marked down from $39.95  
-&#8212; (optional) Antivirus Pro Version Updates for $8.95.
+— $2.49 per month.  
+— A two-year “Full Access & Support” choice for $17.49 per month  
+— Three year “VIP” access for $11.67 per year.  
+— (optional add on) Firewall for $14.88 – marked down from $39.95  
+— (optional) Antivirus Pro Version Updates for $8.95.
 
 [<img title="Antivirus2010_download_03" border="0" alt="Antivirus2010_download_03" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNUyIra-INI/AAAAAAAADDw/O1G_v9UAV2o/Antivirus2010_download_03_thumb.jpg?imgmax=800" width="304" height="205" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNUyGM8-o_I/AAAAAAAADDs/e1ctFU5IQcs/s1600-h/Antivirus2010_download_03%5B2%5D.jpg)
 
@@ -51,9 +51,9 @@ We didn’t make a purchase, so, we don’t really know what’s behind the “p
 
 We can pretty well conclude that the scam email is offering:
 
-&#8212; A rogue security product  
-&#8212; AVG’s Anti-Virus Free Edition, except they charge you before they redirect your browser to AVG’s site for download.  
-&#8212; Something else called “Antivirus 2010” that has no visible presence on the Web.
+— A rogue security product  
+— AVG’s Anti-Virus Free Edition, except they charge you before they redirect your browser to AVG’s site for download.  
+— Something else called “Antivirus 2010” that has no visible presence on the Web.
 
 AVG’s real page is here: <http://free.avg.com/us-en/homepage>
 

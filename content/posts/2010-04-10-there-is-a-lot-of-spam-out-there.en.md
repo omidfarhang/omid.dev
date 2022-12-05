@@ -1,5 +1,5 @@
 ---
-title: "There is a Lot of Spam Out There&#8230;"
+title: "There is a Lot of Spam Out There…"
 date: 2010-04-10T10:58:00+00:00
 layout: single
 author_profile: true
@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-&#8230;and some of it masquerades as “marketing” and “newsletter” emails. 
+…and some of it masquerades as “marketing” and “newsletter” emails. 
 
 In March 2010, spam continued to account for a high percentage of all email traffic, peaking at 93.6% of all messages. The majority of this spam email was sent using certain tactics that were deployed to hijack unsecured computers and hide the senders’ identity. Recently, however, there has been an uptick in spam “marketing” and “newsletter” emails. These spam marketing and newsletter emails share one significant commonality with “regular” spam emails, which is that they are **unwanted** email messages sent to individuals who have **no formal relationship** with the message sender. 
 

@@ -12,9 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S5jZIlRnazI/AAAAAAAABPk/9rTLE8bhpA0/s1600-h/opera-and-safari.gif" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S5jZIlRnazI/AAAAAAAABPk/9rTLE8bhpA0/s320/opera-and-safari.gif" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5jZIlRnazI/AAAAAAAABPk/9rTLE8bhpA0/s320/opera-and-safari.gif)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5jZIlRnazI/AAAAAAAABPk/9rTLE8bhpA0/s1600-h/opera-and-safari.gif)
 
 Opera and Safari [don’t currently allow browser extensions](http://www.opera.com/press/faq/#tech14) in the same way as Firefox, Internet Explorer and Google Chrome does, and therefore, providing WOT for these environments is not feasible. However, as a response to requests from our users, we have created a WOT bookmarklet that brings at least some of the functionality to the users of these two popular browsers.
 

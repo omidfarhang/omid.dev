@@ -29,7 +29,7 @@ If you execute it, you welcome a Rogue downloader onto the system…
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4xhGbWriTI/AAAAAAAABEc/uMuSq3ZYucE/s640/downloader.PNG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4xhGbWriTI/AAAAAAAABEc/uMuSq3ZYucE/s1600-h/downloader.PNG)
 
-And afterwards, the rogue itself&#8230;
+And afterwards, the rogue itself…
 
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4xhMbzl3tI/AAAAAAAABE0/6xzcwwvPFn4/s640/seo3.PNG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4xhMbzl3tI/AAAAAAAABE0/6xzcwwvPFn4/s1600-h/seo3.PNG)
 

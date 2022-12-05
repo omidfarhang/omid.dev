@@ -15,8 +15,8 @@ category: techblog
 The Darkreading.com site is reporting that researchers with communications security firm Neustar, of Sterling, Va., working with ISPs has taken over the command-and-control servers and shut down the Lethic botnet. The owners of the Lethic network specialized in diploma, pharmaceutical and replica spam. It is believed that Lethic was responsible for 10 percent of spam.
 
 Other recent botnet takedowns include:  
-&#8212; McColo (Nov. 08),  
-&#8212; Torpig (May 09),  
-&#8212; MegaD (Nov. 09)
+— McColo (Nov. 08),  
+— Torpig (May 09),  
+— MegaD (Nov. 09)
 
 Story [here](http://www.darkreading.com/insiderthreat/security/vulnerabilities/showArticle.jhtml?articleID=222300408).

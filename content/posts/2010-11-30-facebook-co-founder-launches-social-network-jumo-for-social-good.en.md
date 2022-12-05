@@ -25,11 +25,11 @@ Since the site first came on our radar, we here at Mashable have waited with int
 
 Would the site have its desired effect: Bringing together those interested in social change to expedite global do-gooding? And, more simply, what would it look like? Would it be easy to use?
 
-A couple of months ago, we got a little more insight into the project when Hughes spoke at the Mashable & 92Y Social Good Summit in New York City about the inspiration behind Jumo &#8212; how, after the January 12, 2010, Haiti earthquake, he saw people reaching out those in need and the incredible response of the online community.
+A couple of months ago, we got a little more insight into the project when Hughes spoke at the Mashable & 92Y Social Good Summit in New York City about the inspiration behind Jumo — how, after the January 12, 2010, Haiti earthquake, he saw people reaching out those in need and the incredible response of the online community.
 
 He also saw that reactions like this are not enough. Instead of having the doing-good-at-Thanksgiving-time mentality (i.e. being galvanized by big events and holidays), people need to be involved with their causes of choice year-round. And that's where Jumo comes in.
 
-[Jumo](http://www.jumo.com/) was designed to let users find, follow and support the causes important to them, and with 3,500 organizations on board at launch, would-be philanthropists should be able to find and follow something of interest upon joining. (For comparison's sake &#8212; Apple's Ping had 2,000 artists two months out of the gate.)
+[Jumo](http://www.jumo.com/) was designed to let users find, follow and support the causes important to them, and with 3,500 organizations on board at launch, would-be philanthropists should be able to find and follow something of interest upon joining. (For comparison's sake — Apple's Ping had 2,000 artists two months out of the gate.)
 
 We have yet to actually get our mitts on the site, but Hughes gave us a walkthrough that revealed how easy-to-use and intuitive the layout is.
 
@@ -53,11 +53,11 @@ That way, you can see what your friends are interested in and check out Issues a
 
 “It's all geared to answer the question: What does [insert name] care about?” Hughes says.
 
-In addition to joining as an individual, you can also add Projects to the site &#8212; so long as they pertain to social or environmental issues.
+In addition to joining as an individual, you can also add Projects to the site — so long as they pertain to social or environmental issues.
 
 “We're an open platform where anyone can create a profile or an organization page. You have to be vetted by the IRS to be able to receive any money from anyone on the Jumo platform [via a donation button], but anyone can create a page,” Hughes says.
 
-By joining Jumo, a Project can pull all its social streams into one place &#8212; Twitter, Facebook, Flickr, blogs, etc. That way, followers can check out a wealth of information on a single organization all in one framework.
+By joining Jumo, a Project can pull all its social streams into one place — Twitter, Facebook, Flickr, blogs, etc. That way, followers can check out a wealth of information on a single organization all in one framework.
 
 Again, Project pages are a lot like Fan Pages on Facebook, however the key difference here is that the focus seems to be less on the individual than on the organization.
 

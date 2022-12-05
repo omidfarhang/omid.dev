@@ -12,7 +12,7 @@ category: blog
 ---
 [<img class="alignright  wp-image-127" alt="passfail-small[10]" src="/images/2013/03/passfail-small10.jpg" width="184" height="151" srcset="/images/sites/2/2013/03/passfail-small10.jpg 307w, /images/sites/2/2013/03/passfail-small10-300x245.jpg 300w" sizes="(max-width: 184px) 100vw, 184px" />](/images/2013/03/passfail-small10.jpg)Talking of German class, A2 is passed too and I will be heading to B1 in next 2 weeks.
 
-These 2 classes in A2 (A2.1 and A2.2) had lots of memories for me, meeting good people, getting to know a really good man as teacher and&#8230;
+These 2 classes in A2 (A2.1 and A2.2) had lots of memories for me, meeting good people, getting to know a really good man as teacher and…
 
 I never had this much happiness, sadness, stress, changes etc. in any era of my life, I’ve had lots of good memories from my first class but I can say A2 were more “living” with all the surrounding stories it had. Stuff that changed many things for me, and these changes cannot be undone, and I don’t want them to be undone. I will play it, I will take it and deal with it. Let’s see what happens.
 

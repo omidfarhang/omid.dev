@@ -24,15 +24,15 @@ Notice that the graphic on the web page says “PDF Reader/Writer” and doesn�
 [<img title="AdobeUpdateScam_02" border="0" alt="AdobeUpdateScam_02" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP1RWnYgxoI/AAAAAAAADXk/8kOPY43Lf7A/AdobeUpdateScam_02_thumb%5B1%5D.png?imgmax=800" width="504" height="403" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP1RRm9HReI/AAAAAAAADXg/epnE1M89AWU/s1600-h/AdobeUpdateScam_02%5B3%5D.png)
 
 The default selections on the “choose your  plan” page includes  
-&#8212; three years of “unlimited VIP access and support” ($12.97)  
-&#8212; one year of “full protection against intrusion with ETD scanner” ($1.49 per month – payable up front, so that’s $17.88)  
-&#8212; “award-winning download accelerator” for $9.95.  
+— three years of “unlimited VIP access and support” ($12.97)  
+— one year of “full protection against intrusion with ETD scanner” ($1.49 per month – payable up front, so that’s $17.88)  
+— “award-winning download accelerator” for $9.95.  
 That’s a total of $40.80.
 
 [<img title="AdobeUpdateScam_04" border="0" alt="AdobeUpdateScam_04" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP1RcO3uBXI/AAAAAAAADXs/Ix21w38KjLE/AdobeUpdateScam_04_thumb%5B1%5D.png?imgmax=800" width="504" height="354" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP1RZL1lxbI/AAAAAAAADXo/W6PyqSPDf4w/s1600-h/AdobeUpdateScam_04%5B3%5D.png)
 
 A web search for “ETD scanner” is interesting too. Its [home page](http://etdscanner.com/) says it has been parked by GoDaddy.  
-In material that comes with it, it's described as: “&#8230; an anti-spyware/malware/trojan, privacy protector, system performance enhancer and popup blocker software all-in-one!” In its “system requirements” the latest version of Windows listed is 2003.  
+In material that comes with it, it's described as: “… an anti-spyware/malware/trojan, privacy protector, system performance enhancer and popup blocker software all-in-one!” In its “system requirements” the latest version of Windows listed is 2003.  
 The scanner is for sale on a site called “[BrotherSoft](http://www.brothersoft.com/etd-scanner-218261.html)”  for $29.95 although only 135 people have purchased it in a year and a half.
 
 [<img title="AdobeUpdateScam_06" border="0" alt="AdobeUpdateScam_06" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP1Rfb5whDI/AAAAAAAADX0/NMg3QeRAOq4/AdobeUpdateScam_06_thumb%5B1%5D.png?imgmax=800" width="370" height="285" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP1RdIeBPHI/AAAAAAAADXw/mLAD58je_T4/s1600-h/AdobeUpdateScam_06%5B3%5D.png)

@@ -14,11 +14,7 @@ category: techblog
 ---
 About a year or so ago one of the “McMarketeers” decided it would be fun to run a campaign against “fram”–spam that friends send you. As you might guess, we in the Labs have no friends, so it was no problem for us to ridicule the idea.
 
-
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qrqlurSvI/AAAAAAAABRA/naaBE_PHD58/s1600-h/Blog-FB.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qrqlurSvI/AAAAAAAABRA/naaBE_PHD58/s1600/Blog-FB.jpg" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qrqlurSvI/AAAAAAAABRA/naaBE_PHD58/s1600/Blog-FB.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qrqlurSvI/AAAAAAAABRA/naaBE_PHD58/s1600-h/Blog-FB.jpg)
 
 However, around the coffee machine the other day I got involved in a quick discussion about spam on Facebook. A long-term social networker genuinely thought that Facebook spam did not exist and that all the noise was from Facebookers playing games or using annoying apps. So I offered to write up an example.
 
@@ -27,8 +23,6 @@ One of the most subversive forms of advertising on Facebook is (though I hate to
 You receive a post like this from a friend:
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qrxszwUPI/AAAAAAAABRE/srvNHqlo15o/s400/Blog-FB-Screenshot-1.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qrxszwUPI/AAAAAAAABRE/srvNHqlo15o/s1600-h/Blog-FB-Screenshot-1.png)
-
-<a name="more"></a>
 
 This page uses the FBML application to render content in a tab, and that tab is the default you see.  
 Step one is become a fan, so that you can see the next step.

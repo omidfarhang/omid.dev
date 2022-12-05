@@ -9,13 +9,11 @@ tags:
 lang: en
 category: techblog
 ---
-In the month of January, we <a href="http://boelectronic.blogspot.com/2009/12/cnnic-changes-have-effect-on-spam.html" target="_blank">reported a drop in .cn spam</a>. This was due to changes in the domain registration process introduced by CNNIC. In the first week of February, the .cn spam volume fell further and fluctuated between 0 and 4 percent of total URL spam.
+In the month of January, we [reported a drop in .cn spam](http://boelectronic.blogspot.com/2009/12/cnnic-changes-have-effect-on-spam.html). This was due to changes in the domain registration process introduced by CNNIC. In the first week of February, the .cn spam volume fell further and fluctuated between 0 and 4 percent of total URL spam.
 
 Another interesting trend was observed during this period. On January 21 the volume of spam containing the .ru top-level domain (TLD) spiked up to 9 percent, and rose further up to close to 40 percent on February 8. Upon closer analysis, it was observed that the .cn domains used in the health spam attacks had been replaced with .ru domains.
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4FpmipBQ9I/AAAAAAAAA-A/TuLCCekOh30/s1600-h/Screen+shot+2010-02-19+at+10.38.25+PM.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S4FpmipBQ9I/AAAAAAAAA-A/TuLCCekOh30/s640/Screen+shot+2010-02-19+at+10.38.25+PM.png" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4FpmipBQ9I/AAAAAAAAA-A/TuLCCekOh30/s640/Screen+shot+2010-02-19+at+10.38.25+PM.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4FpmipBQ9I/AAAAAAAAA-A/TuLCCekOh30/s1600-h/Screen+shot+2010-02-19+at+10.38.25+PM.png)
 
 Various subject lines observed in the .ru version of health spam are as follows:
 

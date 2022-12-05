@@ -9,9 +9,9 @@ tags:
 lang: en
 category: blog
 ---
-I’m not going jump off from the tower, I’m not going to overdoes any drug, I’m not going to cut my Wrist, I’m not going to drive high speed against a wall without seatbelt (but I’ve to claim that’s fun if do it with a good music!), I’m not going to burn myself with gasoline, not drowning too, I’m not going to turn on my car in the garage with the doors closed, I’m not going to headshot myself (I don’t have a gun), I’m not going to lock myself in a very cold place, I’m not going to hug a high voltage wire, not hanging myself too, I’m not going to jump in front of metro, train or a car in highway&#8230;! no! I’m not going to suicide!
+I’m not going jump off from the tower, I’m not going to overdoes any drug, I’m not going to cut my Wrist, I’m not going to drive high speed against a wall without seatbelt (but I’ve to claim that’s fun if do it with a good music!), I’m not going to burn myself with gasoline, not drowning too, I’m not going to turn on my car in the garage with the doors closed, I’m not going to headshot myself (I don’t have a gun), I’m not going to lock myself in a very cold place, I’m not going to hug a high voltage wire, not hanging myself too, I’m not going to jump in front of metro, train or a car in highway…! no! I’m not going to suicide!
 
-From day to day lots of dreams comes to our minds, good and bad, happy and sad, some fantasy and some imagination, some questions and some ideas and lots of other&#8230; well&#8230;, I think I’m a human too so some stuff spin around my head too, they never end, they go unanswered and still new ones comes to the list.
+From day to day lots of dreams comes to our minds, good and bad, happy and sad, some fantasy and some imagination, some questions and some ideas and lots of other… well…, I think I’m a human too so some stuff spin around my head too, they never end, they go unanswered and still new ones comes to the list.
 
 So, let me share one of them with you, questions are related to each other, so don’t take just one and judge:
 
@@ -33,7 +33,7 @@ So what if I die? It has pros and cons!
 
 &#8211;Cons: I cannot think of any, maybe my family and some friends will miss me for a few days, but “Beneath the stains of time, The feelings disappear” so time will heal this one.
 
-These are part of the stuff that comes into my mind and go, some come back and some not, Some of them are always by me, when I’m walking alone and listening music, when I’m having shower, when I’m in class, when I’m in bed, when I’m doing homework, when I’m having dinner, when watching a movie&#8230; and they bother doing my everyday task, I try to get rid of them but they don’t want to go away, specially after every failure they get worse, but I will find a workaround for it.
+These are part of the stuff that comes into my mind and go, some come back and some not, Some of them are always by me, when I’m walking alone and listening music, when I’m having shower, when I’m in class, when I’m in bed, when I’m doing homework, when I’m having dinner, when watching a movie… and they bother doing my everyday task, I try to get rid of them but they don’t want to go away, specially after every failure they get worse, but I will find a workaround for it.
 
 Anyway whatever I said here is just some stuff around my head, not an announcement.
 

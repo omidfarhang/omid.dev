@@ -17,10 +17,10 @@ category: techblog
 ---
 The [New York Times is reporting](http://www.nytimes.com/2010/09/21/technology/21cookie.html?scp=1&sq=suit%20cookies&st=cse) a rising number of law suits against some major players because of their use of persistent web tracking:
 
-&#8212; Fox Entertainment Group  
-&#8212; NBC Universal  
-&#8212; Specific Media  
-&#8212; Quantcast
+— Fox Entertainment Group  
+— NBC Universal  
+— Specific Media  
+— Quantcast
 
 The Times said the suits are claiming that the companies used Flash cookies to collect data on browsing activities in spite of the fact that users had privacy settings on to block them.
 
@@ -35,11 +35,11 @@ On the New York Times site, someone who called him or herself “Blue Sun” fro
 
 Blue Sun recommends using Firefox because it has lots of add-ons and lists a number that are useful:
 
-&#8212; Ghostery, blocks invisible trackers such as web &#8216;bugs', pixels and beacons used by behavioral data providers and ad networks.  
-&#8212; BetterPrivacy, identifies and enables you to delete locally shared objects (described above).  
-&#8212; Click&Clean  
-&#8212; Eraser  
-&#8212; Privacy Plus
+— Ghostery, blocks invisible trackers such as web &#8216;bugs', pixels and beacons used by behavioral data providers and ad networks.  
+— BetterPrivacy, identifies and enables you to delete locally shared objects (described above).  
+— Click&Clean  
+— Eraser  
+— Privacy Plus
 
 Cookie removal  
 You can remove the advertising cookies (not the LSOs) on your machine whenever you want:

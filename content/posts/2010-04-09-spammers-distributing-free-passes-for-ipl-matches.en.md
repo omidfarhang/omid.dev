@@ -17,15 +17,9 @@ Symantec has now come across few spam samples that offer free tickets/passes to 
 
 Here are a few sample images of the spam messages:
 
-<div>
-  <a href="http://1.bp.blogspot.com/_vaUVXcmC3OI/S78vaIe5H7I/AAAAAAAAB10/-yWtWYyFyBo/s1600/Screen+shot+2010-04-09+at+9.05.54+AM.png" imageanchor="1"><img border="0" height="235" src="http://1.bp.blogspot.com/_vaUVXcmC3OI/S78vaIe5H7I/AAAAAAAAB10/-yWtWYyFyBo/s400/Screen+shot+2010-04-09+at+9.05.54+AM.png" width="400" /></a>
-</div>
+[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S78vaIe5H7I/AAAAAAAAB10/-yWtWYyFyBo/s400/Screen+shot+2010-04-09+at+9.05.54+AM.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S78vaIe5H7I/AAAAAAAAB10/-yWtWYyFyBo/s1600/Screen+shot+2010-04-09+at+9.05.54+AM.png)
 
-
-
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S78vcWYvM3I/AAAAAAAAB14/Me-vJkhmY2M/s1600/Screen+shot+2010-04-09+at+9.06.10+AM.png" imageanchor="1"><img border="0" height="168" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S78vcWYvM3I/AAAAAAAAB14/Me-vJkhmY2M/s400/Screen+shot+2010-04-09+at+9.06.10+AM.png" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S78vcWYvM3I/AAAAAAAAB14/Me-vJkhmY2M/s400/Screen+shot+2010-04-09+at+9.06.10+AM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S78vcWYvM3I/AAAAAAAAB14/Me-vJkhmY2M/s1600/Screen+shot+2010-04-09+at+9.06.10+AM.png)
 
 These types of messages use known tactics to gather personal information—usually email addresses that will most likely be sold to other spammers. Email addresses registered on websites may also become the targets of new spam campaigns. If users wish to register on a website, we advise that they should always check the website's reputation. Without verification, users may unknowingly opt themselves to all kinds of spamming campaigns.
 

@@ -21,7 +21,7 @@ BetaNews: Mozilla has released [Firefox 22.0 FINAL](https://www.mozilla.org/en-U
 
 Other new features include the ability for users to now manage their social API plug-ins via the Add-ons menu (select Services in the left-hand menu to do so), while users can now adjust the playback rate of HTML5 audio and video files (right-click the playback screen and choose Play Speed to do so).
 
-One major behind-the-scenes update is that WebRTC &#8212; the technology used for sharing audio/video streaming and data sharing between browser clients &#8212; is now fully enabled by default in Firefox. This is achieved by enabling the two remaining components, PeerConnection and DataChannels, the latter of which can be used to reduce latency in real-time gaming by allowing gaming apps to connect peer-to-peer between devices.
+One major behind-the-scenes update is that WebRTC — the technology used for sharing audio/video streaming and data sharing between browser clients — is now fully enabled by default in Firefox. This is achieved by enabling the two remaining components, PeerConnection and DataChannels, the latter of which can be used to reduce latency in real-time gaming by allowing gaming apps to connect peer-to-peer between devices.
 
 Another new feature is the enabling of asm.js optimizations (codenamed OdinMonkey), which Mozilla promises will see major performance improvements. Other performance tweaks include asynchronous canvas updates that will improve WebGL rendering, better memory usage and shorter display times when rendering images.
 

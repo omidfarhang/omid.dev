@@ -1,5 +1,5 @@
 ---
-title: "Seesmic Founder to Twitter Naysayers: “F&#8212; You” [VIDEO]"
+title: "Seesmic Founder to Twitter Naysayers: “F— You” [VIDEO]"
 date: 2010-04-17T19:53:00+00:00
 layout: single
 author_profile: true

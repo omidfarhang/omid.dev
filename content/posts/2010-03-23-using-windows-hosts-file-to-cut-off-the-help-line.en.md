@@ -18,6 +18,7 @@ The altered hosts file he found contained many lines beginning with ‘#’ foll
 
 Some of the sites were:
 
+```
 209.85.129.99 lexikon.ikarus.at  
 209.85.129.99 www.virusdoctor.jp  
 209.85.129.99 www.spybotupdates.com  
@@ -30,11 +31,10 @@ Some of the sites were:
 209.85.129.99 www.sunbeltsoftware.com  
 209.85.129.99 www.sunbeltsecurity.com  
 209.85.129.99 www.cwsandbox.org
+```
 
 The “hosts” file is in the Windows\system32\drivers\etc directory in Win XP, Win7 and Win08 Server – and probably all incarnations of Windows, since browsers are going to look there.
 
 Learn more about [Hosts Here](http://sites.google.com/site/boelectronic/computer/security/hosts-file).
 
-<div>
-  <a href="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kBWQ6aYqI/AAAAAAAABYw/hDyaLRPYpVM/s1600-h/hosts_20file.png" imageanchor="1"><img border="0" height="242" src="http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kBWQ6aYqI/AAAAAAAABYw/hDyaLRPYpVM/s400/hosts_20file.png" width="400" /></a>
-</div>
+[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kBWQ6aYqI/AAAAAAAABYw/hDyaLRPYpVM/s400/hosts_20file.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kBWQ6aYqI/AAAAAAAABYw/hDyaLRPYpVM/s1600-h/hosts_20file.png)

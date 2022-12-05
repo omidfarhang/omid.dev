@@ -12,7 +12,7 @@ category: techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s320/story.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s1600-h/story.jpg)
 
-(CNN) &#8212; This week, 100 charities are battling for votes on Facebook to win $1 million.  
+(CNN) — This week, 100 charities are battling for votes on Facebook to win $1 million.  
 The competition is a new approach to philanthropic giving and is led by JPMorgan Chase, which throughout the competition will donate a total of $5 million to 100 charities chosen by Facebook users.  
 Traditionally, organizations would go through a grant process, and Chase would choose who would get its money and how much. However, late last year, Chase decided to take a different approach and put the power of choosing charities into the hands of Americans.  
 Chase took a database filled with 500,000 nonprofit organizations and uploaded the information on to Facebook. The bank then allowed “crowdsourcing” to choose which charities should be recognized.  
@@ -31,7 +31,7 @@ Other companies are starting to pick up on crowdsourcing corporate philanthropy.
 
 Pepsi is donating $20 million in grants this year to applicants who submit “good ideas that move communities forward,” said Bonin Bough, the global director of digital and social media for Pepsico.  
 If someone wants to build a park in their neighborhood, that is an idea that can be submitted. “Big or small, this is about the power of ideas and the individual,” Bough said.  
-The voting will take place on a separate site that Pepsi created. But the beverage company is providing tools &#8212; widgets to post on Facebook pages, Twitter accounts, Tumblr blogs and other social networks &#8212; to make it easy for applicants to campaign for votes.  
+The voting will take place on a separate site that Pepsi created. But the beverage company is providing tools — widgets to post on Facebook pages, Twitter accounts, Tumblr blogs and other social networks — to make it easy for applicants to campaign for votes.  
 David Levy is the co-founder of Social Vibe, a 2-year-old company based in Los Angeles, California, that designs marketing campaigns around social good for companies such as Kraft Foods and Coffee-Mate.  
 “The new role of the [advertising] agency is to figure out for the brand what users want to share,” he said.  
 Although Levy's work may be philanthropic, he is in the marketing business. Levy does not doubt that what Chase and Pepsi are doing is partly for public relations purposes. He said, “We all have to own up to the fact that brands are in the business of making money.”  

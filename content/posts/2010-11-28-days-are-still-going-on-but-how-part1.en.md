@@ -31,4 +31,4 @@ I went there, I had 3 problem to check, ‘Liver’, ‘Heart / Blood Pressure�
 
 I went and pay that, when I come back, Doctor was there, so I went to his room, Doctor confirmed that I’ve some problem in my liver, got no problem to pass this mission!
 
-&#8212;To be continued in next post!! See you soon!
+—To be continued in next post!! See you soon!

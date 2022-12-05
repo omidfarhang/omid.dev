@@ -24,7 +24,7 @@ Creative Suite 6 packages range in price from $1,299 for Design Standard to $2,5
 
 Those that find CS6 too costly might consider Adobe's push towards the cloud as alternative. For $49.99 per month, subscribers gain access to all 14 applications in the suite plus some additional benefits. 
 
-The idea of subscriptions is nothing new to Adobe, but the cloud aspect of the service is. Adobe is integrating its tablet app suite into CS6, and using the cloud to sync workflows between the desktop and tablet versions of applications &#8212; 20GB of online storage is included in the monthly fee. The cloud will also deliver new functionality and updates before the general public has access, and assist in mobile app submission to the Apple App Store and Android marketplaces. 
+The idea of subscriptions is nothing new to Adobe, but the cloud aspect of the service is. Adobe is integrating its tablet app suite into CS6, and using the cloud to sync workflows between the desktop and tablet versions of applications — 20GB of online storage is included in the monthly fee. The cloud will also deliver new functionality and updates before the general public has access, and assist in mobile app submission to the Apple App Store and Android marketplaces. 
 
 All in all, the focus on the cloud will make Creative Suite much more affordable for a broader segment of Adobe's customer base. That is welcome news for a company that has struggled in recent years to produce stable financial results. 
 

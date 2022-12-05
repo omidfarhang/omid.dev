@@ -13,12 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-<div>
-</div>
-
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qA7yBZAZI/AAAAAAAABQ8/Z7FB10YpscQ/s1600-h/safari512px.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qA7yBZAZI/AAAAAAAABQ8/Z7FB10YpscQ/s640/safari512px.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qA7yBZAZI/AAAAAAAABQ8/Z7FB10YpscQ/s640/safari512px.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qA7yBZAZI/AAAAAAAABQ8/Z7FB10YpscQ/s1600-h/safari512px.jpg)
 
 Apple yesterday released a huge Safari update that fixes 16 vulnerabilities – six for Windows versions and ten for Mac OS X and Windows. The update, Safari 4.0.5, makes fixes in Tiger, Leopard, Snow Leopard and Windows versions.
 

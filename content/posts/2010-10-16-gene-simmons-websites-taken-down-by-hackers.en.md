@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-Some people didn't like his comments about downloading&#8230;
+Some people didn't like his comments about downloading…
 
 Two of Gene Simmons' official sites were [shut down](http://www.nme.com/news/kiss/53432) after hacker attacks by a group called Anonymous, associated with the 4chan.org forum. The attacks were in response to comments by Simmons about how the music industry should have been tougher with illegal downloaders.
 

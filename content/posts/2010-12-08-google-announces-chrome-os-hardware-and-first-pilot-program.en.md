@@ -30,6 +30,6 @@ It's got a 12.1&#8243; display, full sized keyboard, oversized touchpad, World M
 
  [<img title="5523" border="0" alt="5523" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP7Fn6uv3hI/AAAAAAAADcs/Sljn0DYYJh0/5523_thumb.jpg?imgmax=800" width="450" height="255" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7FlUxdYEI/AAAAAAAADco/aE-AYAlAW-s/s1600-h/5523%5B2%5D.jpg)<small>Sundar Pichai, Vice President of Google Chrome Product Management holds one of the notebooks used in the pilot program.</small>
 
-One of the most interesting parts of the Chrome OS notebook will be its focus on connectivity&#8230;FREE connectivity. Google has partnered with Verizon Wireless to offer Chrome notebook users special no-contract data plans. The Verizon Wireless Chrome OS data plan will have 100MB of free data per month per user. Daily unlimited data passes will go for $9.99 per day, and other plans will be sold 1GB at a time.
+One of the most interesting parts of the Chrome OS notebook will be its focus on connectivity…FREE connectivity. Google has partnered with Verizon Wireless to offer Chrome notebook users special no-contract data plans. The Verizon Wireless Chrome OS data plan will have 100MB of free data per month per user. Daily unlimited data passes will go for $9.99 per day, and other plans will be sold 1GB at a time.
 
 The pilot program will go for about half a year, at which point the first generally-available models will go up for sale. Other OEM partners are expected to be announced in the coming months.

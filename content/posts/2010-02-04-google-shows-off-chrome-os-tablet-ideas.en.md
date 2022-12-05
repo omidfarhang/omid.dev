@@ -17,7 +17,7 @@ category: techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oUENCPFwI/AAAAAAAAAyI/5vwgb6DXOZU/s640/story.google.tablet.chrome.courtesy.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oUENCPFwI/AAAAAAAAAyI/5vwgb6DXOZU/s1600-h/story.google.tablet.chrome.courtesy.jpg)
 
-([CNET](http://www.cnet.com/)) &#8212; Who could resist the months of hype that paved the way for Apple's iPad debut last week? Apparently not Google, which has shown its interest in tablet computing with its browser-based Chrome OS.  
+([CNET](http://www.cnet.com/)) — Who could resist the months of hype that paved the way for Apple's iPad debut last week? Apparently not Google, which has shown its interest in tablet computing with its browser-based Chrome OS.  
 On Monday, Glen Murphy, a user interface designer for Google's Chrome browser and the Chrome operating system based on it, pointed to image and video concepts of a Chrome OS-based tablet that went live two days before the iPad launch. Apparently nobody noticed initially, because only now did Murphy tweet, “Apparently our tablet mocks have been unearthed.”  
 The site also shows the array of devices Google envisions for Chrome OS.  
 “While its primary focus is Netbooks, Chrome OS could eventually scale to a wide variety of devices. Each would have vastly different input methods, available screen space, and processing power,” according to the Chromium form factors site. Chromium is the name of the open-source developer project that underlies the branded Chrome product.  

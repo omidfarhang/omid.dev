@@ -16,9 +16,7 @@ A few days ago, I blogged saying that [Old websites don’t die they just get in
 Working today, I went to check to see if the local police authority had cleaned up their old web page. So I [wgetted](http://www.gnu.org/software/wget/) the file and scanned it. It was no longer infected (hooray!) but the file was quite big. Opening the file in lynx (a simple web  
 browser) I saw:
 
-<div>
-  <a href="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4ubL5eHnqI/AAAAAAAABCc/3B5k38yMnm8/s1600-h/lynx.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_vaUVXcmC3OI/S4ubL5eHnqI/AAAAAAAABCc/3B5k38yMnm8/s640/lynx.jpg" /></a>
-</div>
+[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4ubL5eHnqI/AAAAAAAABCc/3B5k38yMnm8/s640/lynx.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4ubL5eHnqI/AAAAAAAABCc/3B5k38yMnm8/s1600-h/lynx.jpg)
 
 I saw that now instead of malware appended to the bottom of the web page we now see spam advertising Meds.
 

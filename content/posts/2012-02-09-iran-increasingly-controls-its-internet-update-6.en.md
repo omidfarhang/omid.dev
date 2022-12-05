@@ -23,7 +23,7 @@ _Many fear that the disabling of the software used to bypass the state-run firew
 
 _[SNIP]_ 
 
-_“They are stealing people’s information and following their own &#8230; goals,” said Reza Taghipour, the communication and information technology minister, when speaking about foreign governments and online companies in January. “We need [the National Internet] to protect the privacy of families.”_ 
+_“They are stealing people’s information and following their own … goals,” said Reza Taghipour, the communication and information technology minister, when speaking about foreign governments and online companies in January. “We need [the National Internet] to protect the privacy of families.”_ 
 
 _[SNIP]_ 
 

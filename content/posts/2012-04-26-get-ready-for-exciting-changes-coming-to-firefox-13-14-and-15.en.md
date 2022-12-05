@@ -58,14 +58,14 @@ After the excitement of features being developed in versions 13 and 14, Firefox 
 
 This latter feature, “in-content preferences”, will see Firefox’s Options dialogue box removed and the program’s preferences moved into a browser window, similar to how Chrome’s preferences currently work. This is currently accessible in [Firefox 15.0a1 UX](http://www.downloadcrew.com/article/25064-firefox_ux), the parallel nightly build of Firefox where interface improvements such as the panel-based downloads manager and New Tab pages first made their appearance. 
 
-When selecting Options, you’ll see the old pop-up window is replaced by a new tab with a series of buttons to choose from. Click one to access that section’s settings &#8212; at present this feels a little clunky, but we suspect it’ll evolve into something sleeker in time. 
+When selecting Options, you’ll see the old pop-up window is replaced by a new tab with a series of buttons to choose from. Click one to access that section’s settings — at present this feels a little clunky, but we suspect it’ll evolve into something sleeker in time. 
 
 Windows and Linux 64-bit users may be interested in trying [Firefox 15.0a1 Nightly 64-bit](http://www.downloadcrew.com/article/25739-firefox_nightly) and [Firefox 15.0a1 UX 64-bit](http://www.downloadcrew.com/article/25743-firefox_ux_64bit). We’d recommend all but developers and serious, knowledgeable enthusiasts avoid the Nightly builds of Firefox. 
 
-**So, to Summarize&#8230;** 
+**So, to Summarize…** 
 
 Which version of Firefox should you try? Stick to the most stable version you feel comfortable with, although the temptation to sneek a peek ahead is actually quite compelling with these latest developmental builds. 
 
-That said, it’s hard not to recommend people check out [Firefox 13 Beta](http://www.downloadcrew.com/article/25727-firefox_beta) &#8212; the new features will make a difference to the way you use your browser going forward, and it’s a shame one or other couldn’t have been made ready to provide version 12 with a little more pizzazz. 
+That said, it’s hard not to recommend people check out [Firefox 13 Beta](http://www.downloadcrew.com/article/25727-firefox_beta) — the new features will make a difference to the way you use your browser going forward, and it’s a shame one or other couldn’t have been made ready to provide version 12 with a little more pizzazz. 
 
 If you do plan to take a look into the future of Firefox, back up if you plan before installing [Beta](http://www.downloadcrew.com/article/25727-firefox_beta) or [Aurora](http://www.downloadcrew.com/article/21612-firefox_aurora) builds of Firefox. And If you do decide to give the [Nightly](http://www.downloadcrew.com/article/22815-firefox_nightly) or [UX](http://www.downloadcrew.com/article/25064-firefox_ux) builds a try, consider using a non-critical machine or virtual setup (try [VirtualBox](http://www.downloadcrew.com/article/17-virtualbox)) instead of your main computer, just in case…

@@ -25,21 +25,21 @@ _“Earlier this year, hackers in China launched a large, sophisticated attack o
 
 The bill would:
 
-&#8212; Establish an annual presidential report in which the President would assess the extent of cybercrime in each country as well as the country’s efforts to fight it and protect consumers and online commerce. It also would report on multilateral efforts against cybercrime.
+— Establish an annual presidential report in which the President would assess the extent of cybercrime in each country as well as the country’s efforts to fight it and protect consumers and online commerce. It also would report on multilateral efforts against cybercrime.
 
-&#8212; Prioritize programs designed to combat cybercrime to help countries with little information and communications technology in order to stop them from becoming cybercrime havens.
+— Prioritize programs designed to combat cybercrime to help countries with little information and communications technology in order to stop them from becoming cybercrime havens.
 
-&#8212; Provide assistance to improve finance or telecommunications infrastructure in countries that need it in order to combat cybercrime.
+— Provide assistance to improve finance or telecommunications infrastructure in countries that need it in order to combat cybercrime.
 
-&#8212; Identify countries of cyber concern: those with a pattern of cybercrime against the U.S.
+— Identify countries of cyber concern: those with a pattern of cybercrime against the U.S.
 
-&#8212; Identify the countries that don’t deal with cybercrime “through investigations, prosecutions, bilateral or international cooperation, or appropriate legislation.”.
+— Identify the countries that don’t deal with cybercrime “through investigations, prosecutions, bilateral or international cooperation, or appropriate legislation.”.
 
-&#8212; Establish an action plan to help governments of high cyber-crime countries fight it.
+— Establish an action plan to help governments of high cyber-crime countries fight it.
 
-&#8212; Penalize countries that fail to meet benchmarks in their action plans by cutting off financing, preferential trade programs, or new foreign assistance, as long as the penalties don’t limit projects to fight cybercrime.
+— Penalize countries that fail to meet benchmarks in their action plans by cutting off financing, preferential trade programs, or new foreign assistance, as long as the penalties don’t limit projects to fight cybercrime.
 
-&#8212; Have the Secretary of State designate a senior official to coordinate the international fight against cybercrime and appoint employees at key embassies to focus on cybercrime policy.
+— Have the Secretary of State designate a senior official to coordinate the international fight against cybercrime and appoint employees at key embassies to focus on cybercrime policy.
 
 We wish the Gentleman from Utah and the Lady from New York success.
 

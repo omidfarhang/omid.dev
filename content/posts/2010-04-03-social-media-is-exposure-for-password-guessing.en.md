@@ -22,10 +22,8 @@ The unemployed man, who went by the handle “Hacker Croll.” is not a genius, 
 
 So, if you have a web site with pictures of cat “Fluffy” all over it, and you Tweet about Fluffy until your friends start dropping hints about getting a life, it wouldn’t be unreasonable to think that the password you use on your MySpace page, Twitter account and bank web site is something like “fluffy1.”
 
-Story <a href="http://www.theinquirer.net/inquirer/news/1598221/obama-twitter-hacker-freed" target="_blank">here</a>.
+Story [here](http://www.theinquirer.net/inquirer/news/1598221/obama-twitter-hacker-freed).
 
-<div>
-  <a href="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7ePMvNRZPI/AAAAAAAABek/EHr7NVCQoy0/s1600-h/not_20fluffy.JPG" imageanchor="1"><img border="0" height="216" src="http://2.bp.blogspot.com/_vaUVXcmC3OI/S7ePMvNRZPI/AAAAAAAABek/EHr7NVCQoy0/s400/not_20fluffy.JPG" width="400" /></a>
-</div>
+[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7ePMvNRZPI/AAAAAAAABek/EHr7NVCQoy0/s400/not_20fluffy.JPG)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7ePMvNRZPI/AAAAAAAABek/EHr7NVCQoy0/s1600-h/not_20fluffy.JPG)
 
 **Not Fluffy**

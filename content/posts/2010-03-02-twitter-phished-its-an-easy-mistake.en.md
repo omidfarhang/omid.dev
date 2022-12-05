@@ -12,10 +12,10 @@ tags:
 lang: en
 category: techblog
 ---
-<span><span><b>London, England (<a href="http://www.cnn.com/">CNN</a>)</b> &#8212; Twitter this week endured a number of “phishing” attacks, in which some users unwittingly gave out their passwords to malicious sites. Haven't we all learned to keep our passwords to ourselves, you ask<i>?</i> Perhaps. But the truth is we're all vulnerable to social engineering, and two major Web trends are creating further confusion for new Internet users.</p> 
+<span><span><b>London, England (<a href="http://www.cnn.com/">CNN</a>)</b> — Twitter this week endured a number of “phishing” attacks, in which some users unwittingly gave out their passwords to malicious sites. Haven't we all learned to keep our passwords to ourselves, you ask<i>?</i> Perhaps. But the truth is we're all vulnerable to social engineering, and two major Web trends are creating further confusion for new Internet users.</p> 
 
 <p>
-  The anatomy of these attacks is simple: You receive a message, seemingly from a friend on a social network. The message contains a link and some strong incentive to click it &#8212; in the case of the most recent Twitter attack, the note simply asks “This You????.” When you click the link, you're prompted to log in again to view the page.
+  The anatomy of these attacks is simple: You receive a message, seemingly from a friend on a social network. The message contains a link and some strong incentive to click it — in the case of the most recent Twitter attack, the note simply asks “This You????.” When you click the link, you're prompted to log in again to view the page.
 </p>
 
 <p>
@@ -39,11 +39,11 @@ category: techblog
 </p>
 
 <p>
-  A second Web trend adds further confusion. Facebook, Twitter, Google and others are pushing users to log in to third party services using their existing accounts. Facebook Connect lets you log in to thousands of sites &#8212; from the Wall Street Journal to social news site Digg &#8212; by clicking a button that passes along your profile information. Likewise, “Sign in with Twitter” buttons let you skip the sign-up process for Twitter-related applications. Google's Friend Connect achieves much the same thing.
+  A second Web trend adds further confusion. Facebook, Twitter, Google and others are pushing users to log in to third party services using their existing accounts. Facebook Connect lets you log in to thousands of sites — from the Wall Street Journal to social news site Digg — by clicking a button that passes along your profile information. Likewise, “Sign in with Twitter” buttons let you skip the sign-up process for Twitter-related applications. Google's Friend Connect achieves much the same thing.
 </p>
 
 <p>
-  There's one big difference with federated logins: You don't have to enter your password to access a third-party site. A click of a button is all that's required to use Facebook Connect and its ilk &#8212; but to the untrained eye, is there really much difference between a “Sign In with Twitter” button and a “Sign In with Twitter” form? Clearly there's room for confusion.
+  There's one big difference with federated logins: You don't have to enter your password to access a third-party site. A click of a button is all that's required to use Facebook Connect and its ilk — but to the untrained eye, is there really much difference between a “Sign In with Twitter” button and a “Sign In with Twitter” form? Clearly there's room for confusion.
 </p>
 
 <p>

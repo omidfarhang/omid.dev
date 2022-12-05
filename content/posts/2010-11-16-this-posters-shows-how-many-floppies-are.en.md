@@ -1,5 +1,5 @@
 ---
-title: "This Posters shows, how many floppies are&#8230;"
+title: "This Posters shows, how many floppies are…"
 date: 2010-11-16T14:20:00+00:00
 layout: single
 author_profile: true

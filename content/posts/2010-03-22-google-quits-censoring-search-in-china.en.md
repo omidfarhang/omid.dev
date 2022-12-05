@@ -57,7 +57,7 @@ The company, whose slogan is “don't be evil,” countered that by operating in
 
 In January, Google announced that the company and at least 20 others were victims of a “highly sophisticated and targeted attack” originating in China in mid-December, evidently to gain access to the e-mail accounts of Chinese human rights activists.
 
-The company said the attacker or attackers gained access to the header &#8212; or subject-line information &#8212; from the e-mails of two human rights activists through the Google network.
+The company said the attacker or attackers gained access to the header — or subject-line information — from the e-mails of two human rights activists through the Google network.
 
 As a result, the company said, it was no longer willing to abide by the filters that the Chinese government demanded on certain searches before allowing Google to operate in the country.
 

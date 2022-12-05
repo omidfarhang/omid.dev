@@ -1,5 +1,5 @@
 ---
-title: "A new Chrome stable release today with sync, sandboxing, speed&#8230;and a new settings menu too!"
+title: "A new Chrome stable release today with sync, sandboxing, speed…and a new settings menu too!"
 date: 2011-03-08T20:14:00+00:00
 layout: single
 author_profile: true

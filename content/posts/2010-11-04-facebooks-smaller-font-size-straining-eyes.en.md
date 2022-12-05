@@ -11,9 +11,9 @@ tags:
 lang: en
 category: techblog
 ---
-**[<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNHz3S-KTUI/AAAAAAAADBw/49Wsn0z00tQ/facebook%28low%29_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNHzzV3LAdI/AAAAAAAADBs/RFvggSomiUA/s1600-h/facebook%28low%29%5B2%5D.jpg)(CNN)** &#8212; Facebook is the biggest name in social networking. But overnight, it got smaller.
+**[<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNHz3S-KTUI/AAAAAAAADBw/49Wsn0z00tQ/facebook%28low%29_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNHzzV3LAdI/AAAAAAAADBs/RFvggSomiUA/s1600-h/facebook%28low%29%5B2%5D.jpg)(CNN)** — Facebook is the biggest name in social networking. But overnight, it got smaller.
 
-The font size on much of the site appears to have shrunk &#8212; a tweak that has folks complaining about their poor, News Feed-browsing eyes.
+The font size on much of the site appears to have shrunk — a tweak that has folks complaining about their poor, News Feed-browsing eyes.
 
 By Wednesday morning, users had taken to Twitter to sound off on the change, mostly for the negative.
 

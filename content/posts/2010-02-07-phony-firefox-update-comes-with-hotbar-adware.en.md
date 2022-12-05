@@ -32,4 +32,4 @@ eSoft blog piece [here](http://threatcenter.blogspot.com/2010/02/fake-firefox-up
 The real site to download a legitimate copy of the Firefox browser is here:  
 <http://www.mozilla.com/en-US/firefox/>
 
-PPN made and signed the installer that both PPN directly and their affiliates indirectly are distributing. That's why PPN is responsible for what's going on at the affiliate site that eSoft found &#8212; the affiliates are only promoting a download created and hosted by PPN itself. PPN itself is running a web page that promotes the same bundleware install that the affiliate site is offering.
+PPN made and signed the installer that both PPN directly and their affiliates indirectly are distributing. That's why PPN is responsible for what's going on at the affiliate site that eSoft found — the affiliates are only promoting a download created and hosted by PPN itself. PPN itself is running a web page that promotes the same bundleware install that the affiliate site is offering.

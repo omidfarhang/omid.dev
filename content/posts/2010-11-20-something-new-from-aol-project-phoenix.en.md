@@ -20,11 +20,11 @@ Hi!
 
 There are hundreds of millions of people of all ages using email across the globe today. And because communication is often very personal, we realize a one-size-fits-all solution isn't always the right answer. So, while we're proud of the AOL Mail that you know and love today, earlier this week we launched a new email product, code named: Project Phoenix.
 
-One of the reasons we're so excited about Phoenix is because we think it's a great solution for people that want to do more than just email — like text, chat and sharing quick updates with their friends and family. BUT &#8212; for those of you that like your inbox the way it is — don't worry — nothing's changing, and we're happy to continue to support your current AOL Mail experience.
+One of the reasons we're so excited about Phoenix is because we think it's a great solution for people that want to do more than just email — like text, chat and sharing quick updates with their friends and family. BUT — for those of you that like your inbox the way it is — don't worry — nothing's changing, and we're happy to continue to support your current AOL Mail experience.
 
 However, we spent a lot of time talking with our users to understand what they might want in a new email experience, and I'm excited to share with you some of the new features of Phoenix: 
 
-  * It's faster&#8230; enough said! 
+  * It's faster… enough said! 
   * It has more personality — meaning — we've added dots and underscores, as well as new domains (wow.com, love.com, ygm.com and games.com) to help you get the email address you've always wanted (e.g. jane@wow.com or john.doe@love.com). 
   * It's easier to find and view the photos, maps and file attachments contained in your message — all in one place.
 

@@ -15,7 +15,7 @@ category: techblog
 
 [<img title="new-chrome-logo" border="0" alt="new-chrome-logo" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TYFJVxE2A3I/AAAAAAAADuM/uaWNvH9J6gY/new-chrome-logo_thumb%5B2%5D.png?imgmax=800" width="128" height="125" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYFJSBuxqsI/AAAAAAAADuI/oK8YVDsEZwc/s1600-h/new-chrome-logo%5B4%5D.png)
 
-&#8230; and the old Chrome icon: 
+… and the old Chrome icon: 
 
 [<img title="old-chrome-logo" border="0" alt="old-chrome-logo" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TYFJh10WZWI/AAAAAAAADuU/9l0GzGCVDnU/old-chrome-logo_thumb%5B2%5D.png?imgmax=800" width="128" height="128" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYFJcDYJp4I/AAAAAAAADuQ/wTlTrmWPcbw/s1600-h/old-chrome-logo%5B4%5D.png)
 
