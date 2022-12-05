@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-Jerome Segura, a Security Analyst at ParetoLogic of Victoria, B.C., Canada, just posted a nice piece on computer security practices with a different perspective in his <a href="http://blogs.paretologic.com/malwarediaries/index.php" target="_blank">“Malware Diaries” Blog.</a>
+Jerome Segura, a Security Analyst at ParetoLogic of Victoria, B.C., Canada, just posted a nice piece on computer security practices with a different perspective in his [“Malware Diaries” Blog.](http://blogs.paretologic.com/malwarediaries/index.php)
 
 He begins his list of security tips by considering four classes of users:
 
@@ -61,4 +61,4 @@ There’s always been a tendency among the technoroti to look down their noses a
 
 When it comes to computer security, we’re all in this together.
 
-The U.S. Computer Emergency Readiness Team (US-CERT) has a great page of security documents for all levels of users: <a href="http://www.us-cert.gov/cas/tips/" target="_blank">http://www.us-cert.gov/cas/tips/</a>
+The U.S. Computer Emergency Readiness Team (US-CERT) has a great page of security documents for all levels of users: [http://www.us-cert.gov/cas/tips/](http://www.us-cert.gov/cas/tips/)

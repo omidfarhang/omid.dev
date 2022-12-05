@@ -26,6 +26,6 @@ If fuzzing, which obviously can find 1,800 software bugs at a crack, becomes ext
 
 Note to the darkside: don’t worry, there’s still social engineering.
 
-ComputerWorld story: <a href="http://www.computerworld.com/s/article/9174539/Microsoft_runs_fuzzing_botnet_finds_1_800_Office_bugs?taxonomyId=17&#038;pageNumber=2" target="_blank">“Microsoft runs fuzzing botnet, finds 1,800 Office bugs”</a>
+ComputerWorld story: [“Microsoft runs fuzzing botnet, finds 1,800 Office bugs”](http://www.computerworld.com/s/article/9174539/Microsoft_runs_fuzzing_botnet_finds_1_800_Office_bugs?taxonomyId=17&pageNumber=2)
 
-Omid's Blog!: <a href="http://boelectronic.blogspot.com/2010/03/firefox-ie8-and-safari-hacked-at.html" target="_blank">“Firefox, IE8 and Safari hacked at CanSecWest</a>“
+Omid's Blog!: “[Firefox, IE8 and Safari hacked at CanSecWest](/2010/03/25/firefox-ie8-and-safari-hacked-at-cansecwest/)“

@@ -41,8 +41,8 @@ Companies, organizations and government agencies should hire professional commun
 
 That’s how I got here.
 
-Story <a href="http://www.nytimes.com/reuters/2010/02/19/technology/tech-us-security-cyberspace.html?_r=1&#038;scp=5&#038;sq=computer&#038;st=cse" target="_blank">here</a>.
+Story [here](http://www.nytimes.com/reuters/2010/02/19/technology/tech-us-security-cyberspace.html?_r=1&scp=5&sq=computer&st=cse).
 
-A great resource for “non-technical” people can be found at US-CERT’s site: <a href="http://www.us-cert.gov/nav/nt01/" target="_blank">http://www.us-cert.gov/nav/nt01/</a>
+A great resource for “non-technical” people can be found at US-CERT’s site: [http://www.us-cert.gov/nav/nt01/](http://www.us-cert.gov/nav/nt01/)
 
-And the National Cyber Security Alliance site StaySafeOnline.org: <a href="http://www.staysafeonline.org/" target="_blank">http://www.staysafeonline.org/</a>
+And the National Cyber Security Alliance site StaySafeOnline.org: [http://www.staysafeonline.org/](http://www.staysafeonline.org/)

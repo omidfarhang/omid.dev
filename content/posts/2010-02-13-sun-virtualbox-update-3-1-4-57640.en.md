@@ -21,7 +21,7 @@ Virtual machine descriptions in XML. The configuration settings of virtual machi
 
 **Download**: <http://www.virtualbox.org/wiki/Downloads>
 
-<a name="more"></a>**Change Log:**
+**Change Log:**
 
 &#8211; VMM: SMP stability fixes  
 &#8211; VMM: fixed guru meditation in certain rare cases (bug #5968)  

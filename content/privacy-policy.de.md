@@ -61,7 +61,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our <a title="Privacy Policy" href="/privacy-policy/" target="_blank" rel="noopener noreferrer">privacy policy</a>.
+By using our site, you consent to our [privacy policy](/privacy-policy/ "Privacy Policy").
 
 **Changes to our Privacy Policy**
 

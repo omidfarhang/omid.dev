@@ -23,5 +23,5 @@ Congratulations to Timothy D. Morgan on receiving a [Chromium Security Reward](
 * \[[31009](http://code.google.com/p/chromium/issues/detail?id=31009 "31009")\] **High** Integer overflows in the v8 engine. _Credit to Mark Dowd, under contract to Google Chrome Security Team._ 
 * \[[31692](http://code.google.com/p/chromium/issues/detail?id=31692 "31692")\] **High** Error processing ruby tag. _Credit to Google Chrome Security Team (SkyLined)._ 
 * \[[32309](http://code.google.com/p/chromium/issues/detail?id=32309 "32309")\] **Medium** Leak of redirection target via iframe href.
-* \[$500\] \[[32718](http://code.google.com/p/chromium/issues/detail?id=32718 "32718")\] **Medium** Domain confusion populating HTTP authentication dialog. _Credit to Timothy D. Morgan of VSR (<a href="http://www.vsecurity.com/" target="_blank" title="www.vsecurity.com">www.vsecurity.com</a>)._ 
+* \[$500\] \[[32718](http://code.google.com/p/chromium/issues/detail?id=32718 "32718")\] **Medium** Domain confusion populating HTTP authentication dialog. _Credit to Timothy D. Morgan of VSR ([www.vsecurity.com](http://www.vsecurity.com/ "www.vsecurity.com"))._ 
 * \[[32915](http://code.google.com/p/chromium/issues/detail?id=32915 "32915")\] **High** Integer overflow deserializing sandbox message. _Credit to Mark Dowd, under contract to Google Chrome Security Team._

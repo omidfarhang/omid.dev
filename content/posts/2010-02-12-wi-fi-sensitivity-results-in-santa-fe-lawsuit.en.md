@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-When you spend your day scouring the Internet (and my blog **😉** ) for news about computer security topics you cover a lot of territory. Once in a while you just have a weird day. You run into a lot of strange stuff. Today is one of those days.
+When you spend your day scouring the Internet (and my blog 😉) for news about computer security topics you cover a lot of territory. Once in a while you just have a weird day. You run into a lot of strange stuff. Today is one of those days.
 
 Yahoo’s tech blog is carrying a story about a man in Santa Fe, New Mexico, who is suing because he has “electromagnetic sensitivity” and can’t live in his own home because of the radiation from his neighbor’s wi-fi network.
 
@@ -20,8 +20,8 @@ I hope nobody tells him that people use Wi-fii to log onto to the Internet and e
 
 And don’t get me started about the deadly flux fields from those refrigerator magnets.
 
- <a href="http://tech.yahoo.com/blogs/null/158987;_ylt=AtQkZZgos0JvPV5PFWj_yBvPMZA5" target="_blank">“Wi-fi ‘sensitivity’ draws lawsuit from next-door neighbor”</a>
+ [“Wi-fi ‘sensitivity’ draws lawsuit from next-door neighbor”](http://tech.yahoo.com/blogs/null/158987;_ylt=AtQkZZgos0JvPV5PFWj_yBvPMZA5)
 
 Whoa boy! There some history there. Plaintiff Arthur Firstenberg has been at this for a while.
 
- <a href="http://en.wikipedia.org/wiki/Arthur_Firstenberg" target="_blank">http://en.wikipedia.org/wiki/Arthur_Firstenberg</a>
+ [http://en.wikipedia.org/wiki/Arthur_Firstenberg](http://en.wikipedia.org/wiki/Arthur_Firstenberg)

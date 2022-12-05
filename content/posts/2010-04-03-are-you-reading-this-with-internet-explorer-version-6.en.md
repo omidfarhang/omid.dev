@@ -24,7 +24,7 @@ VB said: _“The browser has come in for heavy criticism due to numerous securit
 They also wrote: _“In VB's poll, 15% of respondents said they were running the browser at work, indicating that, for many organizations, upgrading is not a priority &#8211; whether that is for reasons of compatibility with legacy applications or simply due to a lack of urgency in their IT departments.”_  
 Another story that is in the top of the news today has some numbers that show just how insecure IE6 is when it comes to drive-by downloads of malcode.
 
-Security blogger Brian Krebs, <a href="http://www.krebsonsecurity.com/2010/02/blade-hacking-away-at-drive-by-downloads/" target="_blank">writing about a new free tool that will stop drive-by downloads</a>, quoted SRI International researchers who have created the Block All Drive-By Download Exploits (BLADE) freeware.
+Security blogger Brian Krebs, [writing about a new free tool that will stop drive-by downloads](http://www.krebsonsecurity.com/2010/02/blade-hacking-away-at-drive-by-downloads/), quoted SRI International researchers who have created the Block All Drive-By Download Exploits (BLADE) freeware.
 
 SRI made public statistics from 5,154 drive-by download infections that were blocked by BLADE. _“…because the tool allows the exploit but blocks the installation of the malicious payload, the group has been able to collect a great deal of interesting stats about the attacks, such as which browsers were most often attacked, which browser plug-ins were most-targeted, and so on.”_  
 Exploits blocked were in:

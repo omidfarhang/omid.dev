@@ -32,8 +32,7 @@ I had hoped he was just being pessimistic. I’m not too sure any more.
 
 Oh yea, for the other 2,299 students in the Lower Marion School District: a piece of duct tape over the web cam in your school computer is a good lo-tech remediation.
 
-Story here: <a href="http://www.nytimes.com/2010/02/21/us/21spy.html?hpw" target="_blank">“F.B.I. Queries Webcam Use by Schools”</a>  
-<span><span></span></span>
+Story here: [“F.B.I. Queries Webcam Use by Schools”](http://www.nytimes.com/2010/02/21/us/21spy.html?hpw)
 
 Absolute Software of Vancouver, BC, Canada, the maker of the tracking software the school district used, has condemned the “vigilantism” that resulted in this brouhaha.
 
@@ -43,4 +42,4 @@ According to the Lower Merion school district, the IT staff has switched on the 
 
 The 16-year-old student whose parents brought the federal suit said he was accused of selling drugs and taking them by his principal after the webcam in his computer was turned on. He claimed the recorded images showed him eating candy.
 
-ComputerWorld story here: <a href="http://www.computerworld.com/s/article/9160278/Software_maker_blasts_vigilantism_in_Pa._school_spying_case?taxonomyId=84&#038;pageNumber=1" target="_blank">“Software maker blasts &#8216;vigilantism' in Pa. school spying case”</a>
+ComputerWorld story here: [“Software maker blasts ‘vigilantism' in Pa. school spying case”](http://www.computerworld.com/s/article/9160278/Software_maker_blasts_vigilantism_in_Pa._school_spying_case?taxonomyId=84&pageNumber=1)

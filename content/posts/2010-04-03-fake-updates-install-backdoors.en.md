@@ -18,4 +18,4 @@ Analyst Nguyen Cong Cuong wrote: “In addition, on being executed, they immedia
 
 As a countermeasure, it would be a good idea to ignore any email you receive with a link or attachment that claims to be an update. Use the “updater” or “check for updates” menu choice on the application or Windows implementation that’s installed on your machine.
 
-Bkis blog piece <a href="http://blog.bkis.com/en/malware-faking-adobe-update/" target="_blank">here</a>.
+Bkis blog piece [here](http://blog.bkis.com/en/malware-faking-adobe-update/).

@@ -13,7 +13,7 @@ category: techblog
 ---
 Peter Coogan at Symantec put up a very interesting blog post yesterday about a crimeware kit called SpyEye v1.0.7 (on sale now on Russian sites — $500) that has a module that will kill a Zeus bot infection on a victim’s computer so the bot created by SpyEye can take it over.
 
-In September, <a href="http://www.computerweekly.com/Articles/2009/08/04/237165/zeus-botnets-real-host-cut-off-from-the-internet.htm" target="_blank">Computer Weekly reported</a> the Swedish telco Telia Sonera shut down the Internet connections of Latvian company Real Host after it was linked to the Zeus botnet. At the time, researchers said they believed Real Host's servers had captured about 3.6 million PCs for the Zeus botnet.
+In September, [Computer Weekly reported](http://www.computerweekly.com/Articles/2009/08/04/237165/zeus-botnets-real-host-cut-off-from-the-internet.htm) the Swedish telco Telia Sonera shut down the Internet connections of Latvian company Real Host after it was linked to the Zeus botnet. At the time, researchers said they believed Real Host's servers had captured about 3.6 million PCs for the Zeus botnet.
 
 They linked Zeus to a Russian gang named Rock Phish which is believed responsible for a massive amount of the phishing attacks aimed at stealing credit card and banking information.
 
@@ -32,4 +32,4 @@ Coogan said the SpyEye kit can also create crimeware with:
 
 He credits Mario Ballano Barcena with the analysis.
 
-Symantec blog post “SpyEye Bot versus Zeus Bot” <a href="http://www.symantec.com/connect/blogs/spyeye-bot-versus-zeus-bot" target="_blank">here.</a>
+Symantec blog post “SpyEye Bot versus Zeus Bot” [here.](http://www.symantec.com/connect/blogs/spyeye-bot-versus-zeus-bot)
