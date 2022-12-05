@@ -18,7 +18,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="norway-ipad-260" border="0" alt="norway-ipad-260" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8odVtQutOI/AAAAAAAACA4/ktz5FOMNSjc/norway-ipad-260_thumb%5B2%5D.jpg?imgmax=800" width="264" height="194" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8odShX_ZpI/AAAAAAAACA0/tth1OkzkkdA/s1600-h/norway-ipad-260%5B4%5D.jpg) Thousands of travelers are stranded throughout Europe as ash continues to rain down from an erupting volcano in Iceland this week. Among them is Norwegian Prime Minister Jens Stoltenberg who, according to his press secretary, is “running the Norwegian government from the United States via his new iPad.” 
+[![norway-ipad-260](http://lh3.ggpht.com/_vaUVXcmC3OI/S8odVtQutOI/AAAAAAAACA4/ktz5FOMNSjc/norway-ipad-260_thumb%5B2%5D.jpg?imgmax=800 "norway-ipad-260")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8odShX_ZpI/AAAAAAAACA0/tth1OkzkkdA/s1600-h/norway-ipad-260%5B4%5D.jpg) Thousands of travelers are stranded throughout Europe as ash continues to rain down from an erupting volcano in Iceland this week. Among them is Norwegian Prime Minister Jens Stoltenberg who, according to his press secretary, is “running the Norwegian government from the United States via his new iPad.” 
 
 [CNN reports](http://www.cnn.com/2010/TRAVEL/04/15/iceland.flights/index.html?hpt=T2) that the Norwegian prime minister was in New York this week for President Obama’s nuclear summit and has been left stranded on American soil thanks to the widespread closure of most of European airspace. The volcanic eruption sent a cloud of ash toward mainland Europe that could take up to 48 hours to dissipate, resulting in over 6,000 canceled flights across the E.U. 
 

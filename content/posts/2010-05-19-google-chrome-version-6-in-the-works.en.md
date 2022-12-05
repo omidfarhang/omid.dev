@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="chrome-6-260" border="0" alt="chrome-6-260" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S_RKGGMIBGI/AAAAAAAACQ0/cG2lWFS3JW8/chrome-6-260_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S_RKDfvY5gI/AAAAAAAACQw/b7eLipqVPgw/s1600-h/chrome-6-260%5B3%5D.jpg) Not one to rest on its laurels, the Google Chrome team is [hard at work on Chrome 6](http://news.cnet.com/8301-30685_3-20005224-264.html?part=rss&subj=news&tag=2547-1_3-0-20). The official move to the 6.0 designation in the [Chromium developer builds](http://build.chromium.org/buildbot/snapshots/) officially started a few days ago. 
+[![chrome-6-260](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RKGGMIBGI/AAAAAAAACQ0/cG2lWFS3JW8/chrome-6-260_thumb%5B1%5D.jpg?imgmax=800 "chrome-6-260")](http://lh6.ggpht.com/_vaUVXcmC3OI/S_RKDfvY5gI/AAAAAAAACQw/b7eLipqVPgw/s1600-h/chrome-6-260%5B3%5D.jpg) Not one to rest on its laurels, the Google Chrome team is [hard at work on Chrome 6](http://news.cnet.com/8301-30685_3-20005224-264.html?part=rss&subj=news&tag=2547-1_3-0-20). The official move to the 6.0 designation in the [Chromium developer builds](http://build.chromium.org/buildbot/snapshots/) officially started a few days ago. 
 
 The move to a Chrome 6 branch for Chromium means that the final tweaks and polishes on Chrome 5 are almost complete. Chrome 5 is a big release — not only is it blazingly fast, it’s also going to be the first stable release for Mac and Linux users. 
 

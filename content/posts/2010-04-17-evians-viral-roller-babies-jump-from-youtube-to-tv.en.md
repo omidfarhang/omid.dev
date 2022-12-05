@@ -15,7 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="roller-babies-260" border="0" alt="roller-babies-260" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8obvd39RMI/AAAAAAAACAw/4ZdEB6utAnw/roller-babies-260_thumb%5B2%5D.png?imgmax=800" width="263" height="199" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S8obqtxoelI/AAAAAAAACAs/41JibzW0WuQ/s1600-h/roller-babies-260%5B4%5D.png) The lovable Evian Roller Babies, which broke the world record for the most viewed online advertisement in history last year, have made the leap from YouTube to your television. 
+[![roller-babies-260](http://lh5.ggpht.com/_vaUVXcmC3OI/S8obvd39RMI/AAAAAAAACAw/4ZdEB6utAnw/roller-babies-260_thumb%5B2%5D.png?imgmax=800 "roller-babies-260")](http://lh5.ggpht.com/_vaUVXcmC3OI/S8obqtxoelI/AAAAAAAACAs/41JibzW0WuQ/s1600-h/roller-babies-260%5B4%5D.png) The lovable Evian Roller Babies, which broke the world record for the most viewed online advertisement in history last year, have made the leap from YouTube to your television. 
 
 Evian’s wildly successful viral campaign has surpassed 100 million total views. It was one of the first YouTube-exclusive campaigns by a major brand. 
 

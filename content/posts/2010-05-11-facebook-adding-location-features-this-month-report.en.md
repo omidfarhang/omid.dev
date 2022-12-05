@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="FB-Header" border="0" alt="FB-Header" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-mHbm4-kZI/AAAAAAAACJ4/AohwIkJt8rA/FB-Header_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-mHZewyyqI/AAAAAAAACJ0/eQ0_xLIXRsU/s1600-h/FB-Header%5B3%5D.jpg) Information has leaked that Facebook is set to roll out location-based features for users and brands as soon as this month. According to [Advertising Age](http://adage.com/digital/article?article_id=143742), users could see location options any day now. 
+[![FB-Header](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mHbm4-kZI/AAAAAAAACJ4/AohwIkJt8rA/FB-Header_thumb%5B1%5D.jpg?imgmax=800 "FB-Header")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-mHZewyyqI/AAAAAAAACJ0/eQ0_xLIXRsU/s1600-h/FB-Header%5B3%5D.jpg) Information has leaked that Facebook is set to roll out location-based features for users and brands as soon as this month. According to [Advertising Age](http://adage.com/digital/article?article_id=143742), users could see location options any day now. 
 
 These features include the ability to check in at various locations, including retail spots and restaurants. We’re unclear as to whether users will be able to add or customize their own locations, but we are fairly positive that this move will put Foursquare, Brightkite, Gowalla and other location-based services in an uncomfortable position. 
 

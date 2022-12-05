@@ -17,7 +17,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="volcano-pic-big" border="0" alt="volcano-pic-big" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8oTPoOXaAI/AAAAAAAACAQ/lj8WTMpKbFs/volcano-pic-big_thumb%5B2%5D.jpg?imgmax=800" width="504" height="392" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oTLfncARI/AAAAAAAACAM/nyaYVOr9qtM/s1600-h/volcano-pic-big%5B4%5D.jpg) 
+[![volcano-pic-big](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oTPoOXaAI/AAAAAAAACAQ/lj8WTMpKbFs/volcano-pic-big_thumb%5B2%5D.jpg?imgmax=800 "volcano-pic-big")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oTLfncARI/AAAAAAAACAM/nyaYVOr9qtM/s1600-h/volcano-pic-big%5B4%5D.jpg) 
 
 A volcano in Iceland with probably the coolest and most formidable name ever, Eyjafjallajokull, erupted this Wednesday, April 14. As we wrote earlier, European travelers have since been stranded around the world — including the Norwegian prime minister, whose trusty iPad is thankfully keeping his country’s government afloat. 
 

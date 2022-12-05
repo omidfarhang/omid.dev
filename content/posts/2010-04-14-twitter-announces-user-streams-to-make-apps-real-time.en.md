@@ -11,7 +11,9 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="twitter-top" border="0" alt="twitter-top" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZAjMxrEVI/AAAAAAAAB9A/jra7SnMiZ4A/twitter-top_thumb%5B1%5D.png?imgmax=800" width="244" height="179" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZAgktZ3ZI/AAAAAAAAB88/fiuBcR3_YOc/s1600-h/twitter-top%5B3%5D.png) Twitter has just announced a new feature and API for desktop applications: users streams. The revelation was made by Twitter’s Director of Platform Ryan Sarver at the Chirp conference. 
+[![twitter-top](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZAjMxrEVI/AAAAAAAAB9A/jra7SnMiZ4A/twitter-top_thumb%5B1%5D.png?imgmax=800 "twitter-top")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZAgktZ3ZI/AAAAAAAAB88/fiuBcR3_YOc/s1600-h/twitter-top%5B3%5D.png)
+
+Twitter has just announced a new feature and API for desktop applications: users streams. The revelation was made by Twitter’s Director of Platform Ryan Sarver at the Chirp conference. 
 
 The new API is focused around pushing out data to desktop applications in real time. There will no longer be rate-limits for data on desktops — tweets, retweets and all other updates will be streamed directly to the desktop. 
 

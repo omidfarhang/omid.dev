@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="square_iphone" border="0" alt="square_iphone" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S-m8cp69kJI/AAAAAAAACLE/pTkMJVgk4qI/square_iphone_thumb%5B2%5D.jpg?imgmax=800" width="260" height="191" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S-m8Z9DZ9nI/AAAAAAAACLA/qvFazUAd20k/s1600-h/square_iphone%5B4%5D.jpg) Square is a mobile credit card transaction application founded by Jack Dorsey of Twitter fame. The app became available for the iPad about one month ago, and now it’s also available for the iPhone, iPod Touch and Android devices. 
+[![square_iphone](http://lh5.ggpht.com/_vaUVXcmC3OI/S-m8cp69kJI/AAAAAAAACLE/pTkMJVgk4qI/square_iphone_thumb%5B2%5D.jpg?imgmax=800 "square_iphone")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-m8Z9DZ9nI/AAAAAAAACLA/qvFazUAd20k/s1600-h/square_iphone%5B4%5D.jpg) Square is a mobile credit card transaction application founded by Jack Dorsey of Twitter fame. The app became available for the iPad about one month ago, and now it’s also available for the iPhone, iPod Touch and Android devices. 
 
 The app is free, but in order to work, you need a small credit card reader that connects to the iPhone via the 2.5mm headphone jack. The app looks beautiful and has lots of nifty features, such as SMS receipts, the ability to track of your sales online, as well as tip and tax calculation. However, in its current iteration it also has certain drawbacks; for example, you cannot delete or refund transactions. 
 

@@ -15,7 +15,7 @@ category: techblog
 ---
 Late last week, the wires were buzzing over news that the official site of PHP-Nuke _“**Professional Content Management System**“_ was serving malware. I am frankly amazed to see the site still infected 4 days later.
 
-<img title="crawler" border="0" alt="crawler" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-lYcegzZ6I/AAAAAAAACGw/IJbeSETNPi8/crawler%5B6%5D.jpg?imgmax=800" width="449" height="346" /> 
+![crawler](http://lh6.ggpht.com/_vaUVXcmC3OI/S-lYcegzZ6I/AAAAAAAACGw/IJbeSETNPi8/crawler%5B6%5D.jpg?imgmax=800 "crawler") 
 
 We see hacked sites everyday and the majority are running PHP-driven applications such as Content Management Systems (CMS). The PHP-Nuke site is currently running PHP v. 5.2.9. 
 
@@ -23,7 +23,7 @@ We see hacked sites everyday and the majority are running PHP-driven application
 
 The current version is 5.3.2. I wonder though has the web admin updated their own version of PHP-Nuke? 
 
-[<img title="nuke81" border="0" alt="nuke81" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S-lYgLUKhAI/AAAAAAAACG4/Np-xRWt8ZAs/nuke81_thumb%5B4%5D.jpg?imgmax=800" width="500" height="134" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lYeF7f80I/AAAAAAAACG0/cqYoG39g5Qs/s1600-h/nuke81%5B7%5D.jpg) 
+[![nuke81](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lYgLUKhAI/AAAAAAAACG4/Np-xRWt8ZAs/nuke81_thumb%5B4%5D.jpg?imgmax=800 "nuke81")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lYeF7f80I/AAAAAAAACG0/cqYoG39g5Qs/s1600-h/nuke81%5B7%5D.jpg) 
 
 We often tell web admins after an infection to: 
 

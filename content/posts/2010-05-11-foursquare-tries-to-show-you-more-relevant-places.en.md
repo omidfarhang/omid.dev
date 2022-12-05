@@ -9,7 +9,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="foursquare-logo1" border="0" alt="foursquare-logo1" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-m_gGgko1I/AAAAAAAACLw/S4Mzlj8bt2A/foursquare-logo1_thumb%5B2%5D.jpg?imgmax=800" width="260" height="190" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S-m_eJtVjNI/AAAAAAAACLo/ws_VLFtnNjA/s1600-h/foursquare-logo1%5B4%5D.jpg) Foursquare is moving to make the list of “Places” one sees when one loads one’s mobile app of choice more relevant. 
+[![foursquare-logo1](http://lh6.ggpht.com/_vaUVXcmC3OI/S-m_gGgko1I/AAAAAAAACLw/S4Mzlj8bt2A/foursquare-logo1_thumb%5B2%5D.jpg?imgmax=800 "foursquare-logo1")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-m_eJtVjNI/AAAAAAAACLo/ws_VLFtnNjA/s1600-h/foursquare-logo1%5B4%5D.jpg) Foursquare is moving to make the list of “Places” one sees when one loads one’s mobile app of choice more relevant. 
 
 The company [announced](http://blog.foursquare.com/post/589698188/weve-just-made-the-places-screen-smarter) this morning that it has recently made changes to improve its algorithms for serving up this data, taking into account things like time of day, proximity, and popularity of the venue in determining which places to show you. 
 

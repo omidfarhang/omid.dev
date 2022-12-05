@@ -21,7 +21,7 @@ The target of this attack are users from Chile. It takes advantage of the recent
 
 The message is the following: 
 
-[<img title="Emaill_Chile_img1" border="0" alt="Emaill_Chile_img1" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S978sbfmbNI/AAAAAAAACCU/N9iGDQsTt8U/Emaill_Chile_img1_thumb%5B2%5D.jpg?imgmax=800" width="337" height="484" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S978pcud1ZI/AAAAAAAACCQ/FBs-x1lD1T0/s1600-h/Emaill_Chile_img1%5B4%5D.jpg) 
+[![Emaill_Chile_img1](http://lh6.ggpht.com/_vaUVXcmC3OI/S978sbfmbNI/AAAAAAAACCU/N9iGDQsTt8U/Emaill_Chile_img1_thumb%5B2%5D.jpg?imgmax=800 "Emaill_Chile_img1")](http://lh5.ggpht.com/_vaUVXcmC3OI/S978pcud1ZI/AAAAAAAACCQ/FBs-x1lD1T0/s1600-h/Emaill_Chile_img1%5B4%5D.jpg) 
 
 It contains several links, and if you click any of them, you’ll access the website _http://www.chile-national_<blocked>_phic.com_ from which a file called _Alerta_TerremotoyTsunami.mpeg.exe_ is downloaded, which belongs to the Trojan detected as _Banker.MGB_. 
 
@@ -29,19 +29,19 @@ This Trojan modifies the file HOSTS so that when you access any of the affected 
 
 The first image belongs to the legitimate website and the second the fake one: 
 
-[<img title="Banco_Santander_real_falsa" border="0" alt="Banco_Santander_real_falsa" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S978wsg1IVI/AAAAAAAACCc/NwiOEdI1rQ0/Banco_Santander_real_falsa_thumb%5B2%5D.jpg?imgmax=800" width="504" height="235" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S978ua5dWiI/AAAAAAAACCY/Kj5i7C1L0G0/s1600-h/Banco_Santander_real_falsa%5B4%5D.jpg) 
+[![Banco_Santander_real_falsa](http://lh6.ggpht.com/_vaUVXcmC3OI/S978wsg1IVI/AAAAAAAACCc/NwiOEdI1rQ0/Banco_Santander_real_falsa_thumb%5B2%5D.jpg?imgmax=800 "Banco_Santander_real_falsa")](http://lh5.ggpht.com/_vaUVXcmC3OI/S978ua5dWiI/AAAAAAAACCY/Kj5i7C1L0G0/s1600-h/Banco_Santander_real_falsa%5B4%5D.jpg) 
 
 The second one could pass itself off as the original one. However, if you look at the address bar, you can see that it’s different from the usual one, as it belongs to an IP address:
 
-[<img title="Email_Chile_img2" border="0" alt="Email_Chile_img2" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S9780MWjC3I/AAAAAAAACCk/-VjOeMcjJS0/Email_Chile_img2_thumb%5B2%5D.jpg?imgmax=800" width="455" height="30" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S978yh3odFI/AAAAAAAACCg/30B_CunYm2E/s1600-h/Email_Chile_img2%5B4%5D.jpg) 
+[![Email_Chile_img2](http://lh6.ggpht.com/_vaUVXcmC3OI/S9780MWjC3I/AAAAAAAACCk/-VjOeMcjJS0/Email_Chile_img2_thumb%5B2%5D.jpg?imgmax=800 "Email_Chile_img2")](http://lh5.ggpht.com/_vaUVXcmC3OI/S978yh3odFI/AAAAAAAACCg/30B_CunYm2E/s1600-h/Email_Chile_img2%5B4%5D.jpg) 
 
 If you enter your login data to your online account, a message will be displayed informing you that for security reasons you have to enter the data of your coordinate card:
 
-[<img title="Banco_Santander_falsa_img2" border="0" alt="Banco_Santander_falsa_img2" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S97847soptI/AAAAAAAACCs/wC26ZfJOTrI/Banco_Santander_falsa_img2_thumb%5B2%5D.jpg?imgmax=800" width="504" height="372" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S9782lUV5-I/AAAAAAAACCo/8PypUqldJDc/s1600-h/Banco_Santander_falsa_img2%5B4%5D.jpg) 
+[![Banco_Santander_falsa_img2](http://lh6.ggpht.com/_vaUVXcmC3OI/S97847soptI/AAAAAAAACCs/wC26ZfJOTrI/Banco_Santander_falsa_img2_thumb%5B2%5D.jpg?imgmax=800 "Banco_Santander_falsa_img2")](http://lh6.ggpht.com/_vaUVXcmC3OI/S9782lUV5-I/AAAAAAAACCo/8PypUqldJDc/s1600-h/Banco_Santander_falsa_img2%5B4%5D.jpg) 
 
 Then, a screen simulating that the information is being processed is displayed and then a website is opened informing you that the process has failed and that you should try it again later:
 
-[<img title="Banco_Santander_falsa_img3" border="0" alt="Banco_Santander_falsa_img3" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S9789Rfh_EI/AAAAAAAACC0/vB8GdCMqqf4/Banco_Santander_falsa_img3_thumb%5B2%5D.jpg?imgmax=800" width="504" height="427" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S9786ytTHbI/AAAAAAAACCw/uToBxizTTtA/s1600-h/Banco_Santander_falsa_img3%5B4%5D.jpg) 
+[![Banco_Santander_falsa_img3](http://lh5.ggpht.com/_vaUVXcmC3OI/S9789Rfh_EI/AAAAAAAACC0/vB8GdCMqqf4/Banco_Santander_falsa_img3_thumb%5B2%5D.jpg?imgmax=800 "Banco_Santander_falsa_img3")](http://lh5.ggpht.com/_vaUVXcmC3OI/S9786ytTHbI/AAAAAAAACCw/uToBxizTTtA/s1600-h/Banco_Santander_falsa_img3%5B4%5D.jpg) 
 
 By then, the cybercrook will have obtained your login passwords and the data of your coordinate card. 
 

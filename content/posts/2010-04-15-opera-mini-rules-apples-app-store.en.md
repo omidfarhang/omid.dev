@@ -20,4 +20,4 @@ At one point, Opera Mini was the most popular free app in all regional App Store
 
 So yes, the iPhone’s Safari is a great mobile browser, but that doesn’t mean people aren’t interested in alternatives. Check out yesterday’s screenshot below. 
 
-[<img title="Apple-iTunes_" border="0" alt="Apple-iTunes_" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8bwcBSFZ2I/AAAAAAAAB98/FDLL2sDNveg/Apple-iTunes__thumb%5B3%5D.png?imgmax=800" width="504" height="1347" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8bwOxmKG0I/AAAAAAAAB94/zU2xN6CS4ZQ/s1600-h/Apple-iTunes_%5B5%5D.png)
+[![Apple-iTunes_](http://lh4.ggpht.com/_vaUVXcmC3OI/S8bwcBSFZ2I/AAAAAAAAB98/FDLL2sDNveg/Apple-iTunes__thumb%5B3%5D.png?imgmax=800 "Apple-iTunes_")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8bwOxmKG0I/AAAAAAAAB94/zU2xN6CS4ZQ/s1600-h/Apple-iTunes_%5B5%5D.png)

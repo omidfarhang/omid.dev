@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="loic" border="0" alt="loic" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8oKkgtXdFI/AAAAAAAACAE/adZuNwcrlNE/loic_thumb1.jpg?imgmax=800" width="244" height="179" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oKhSbDnCI/AAAAAAAACAA/tbWxPlwJYNc/s1600-h/loic3.jpg) Loic Le Meur, [Seesmic](http://seesmic.com/) founder and tech scene leader, was clearly bullish on the Twitter platform in this interview conducted yesterday at Chirp, the Twitter developer conference. 
+[![loic](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oKkgtXdFI/AAAAAAAACAE/adZuNwcrlNE/loic_thumb1.jpg?imgmax=800 "loic")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oKhSbDnCI/AAAAAAAACAA/tbWxPlwJYNc/s1600-h/loic3.jpg) Loic Le Meur, [Seesmic](http://seesmic.com/) founder and tech scene leader, was clearly bullish on the Twitter platform in this interview conducted yesterday at Chirp, the Twitter developer conference. 
 
 Le Meur, whose company is launching its own platform, is a big believer in the opportunities for those who develop Twitter apps. Innovative apps that add value and diversity will always find a place in the market, and Le Meur is confident about Seesmic’s current position. 
 

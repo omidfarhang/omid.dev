@@ -14,7 +14,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="facebook-lego" border="0" alt="facebook-lego" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8oWBE26phI/AAAAAAAACAY/LPPtQ9tem_I/facebook-lego_thumb%5B2%5D.jpg?imgmax=800" width="264" height="194" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oV_So43FI/AAAAAAAACAU/KE_tX9nEIx8/s1600-h/facebook-lego%5B4%5D.jpg) Business employees are visiting Facebook from the workplace more than any other internet site, including Google, Managed Security Services company [Network Box](http://www.network-box.com/node/533) discovered in a recent study. 
+[![facebook-lego](http://lh5.ggpht.com/_vaUVXcmC3OI/S8oWBE26phI/AAAAAAAACAY/LPPtQ9tem_I/facebook-lego_thumb%5B2%5D.jpg?imgmax=800 "facebook-lego")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oV_So43FI/AAAAAAAACAU/KE_tX9nEIx8/s1600-h/facebook-lego%5B4%5D.jpg) Business employees are visiting Facebook from the workplace more than any other internet site, including Google, Managed Security Services company [Network Box](http://www.network-box.com/node/533) discovered in a recent study. 
 
 The company looked at 13 billion URLs used by businesses in the first quarter of 2010 and found that 6.8% of all business Internet traffic goes to Facebook, which is double the amount of business traffic that goes to Google and nearly triple the amount that Yahoo gets. 
 

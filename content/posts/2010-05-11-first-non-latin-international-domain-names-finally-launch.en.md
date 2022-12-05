@@ -15,7 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="arabicidn" border="0" alt="arabicidn" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S-mNA7bC0XI/AAAAAAAACKg/uKR_AnHYsYU/arabicidn_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S-mM-lNreOI/AAAAAAAACKc/43Ha2b66AQ4/s1600-h/arabicidn%5B3%5D.jpg) The first significant change to Internet domain names in many years was made today when [ICANN](http://blog.icann.org/2010/05/idn-cctlds/) (Internet Corporation for Assigned Names and Numbers) approved and deployed three domain names using a non-Latin script: Arabic. 
+[![arabicidn](http://lh3.ggpht.com/_vaUVXcmC3OI/S-mNA7bC0XI/AAAAAAAACKg/uKR_AnHYsYU/arabicidn_thumb%5B1%5D.jpg?imgmax=800 "arabicidn")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-mM-lNreOI/AAAAAAAACKc/43Ha2b66AQ4/s1600-h/arabicidn%5B3%5D.jpg) The first significant change to Internet domain names in many years was made today when [ICANN](http://blog.icann.org/2010/05/idn-cctlds/) (Internet Corporation for Assigned Names and Numbers) approved and deployed three domain names using a non-Latin script: Arabic. 
 
 You can already visit [http://موقع.وزارة-الأتصالات.مصر/](http://%D9%85%D9%88%D9%82%D8%B9.%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA.%D9%85%D8%B5%D8%B1/) and two other Arabic script domain names, though they might not display correctly if your browser doesn’t have IDN (International Domain Name) support. 
 

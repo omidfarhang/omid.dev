@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="ipad-260-158" border="0" alt="ipad-260-158" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-l4oTLDM5I/AAAAAAAACJo/v1zbdzBAcI4/ipad-260-158_thumb%5B2%5D.jpg?imgmax=800" width="260" height="158" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l4mCXOYYI/AAAAAAAACJk/WTCHic2nzzo/s1600-h/ipad-260-158%5B4%5D.jpg) Lately, it’s not that hard to get a direct answer to your query from Steve Jobs himself; he responds to burning questions via e-mail quite often. 
+[![ipad-260-158](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l4oTLDM5I/AAAAAAAACJo/v1zbdzBAcI4/ipad-260-158_thumb%5B2%5D.jpg?imgmax=800 "ipad-260-158")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l4mCXOYYI/AAAAAAAACJk/WTCHic2nzzo/s1600-h/ipad-260-158%5B4%5D.jpg) Lately, it’s not that hard to get a direct answer to your query from Steve Jobs himself; he responds to burning questions via e-mail quite often. 
 
 Unfortunately, his answers rarely contain more than a few words. Macrumors reports that a reader asked Steve Jobs via e-mail [why the iPad cannot print documents](http://www.macrumors.com/2010/05/10/steve-jobs-says-printing-will-come-for-ipad/). Steve’s answer? “It will come.” 
 

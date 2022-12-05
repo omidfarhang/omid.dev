@@ -33,7 +33,7 @@ Thanks to custom post types, there are many new possibilities for how you use Wo
 
 #### 2. Menu Management
 
-[<img title="menus" border="0" alt="menus" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-laLQyTw5I/AAAAAAAACHA/JqwzsPi9tC4/menus_thumb%5B2%5D.jpg?imgmax=800" width="504" height="312" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-laJc4S_DI/AAAAAAAACG8/e2RMVXF6Few/s1600-h/menus%5B4%5D.jpg) 
+[![menus](http://lh6.ggpht.com/_vaUVXcmC3OI/S-laLQyTw5I/AAAAAAAACHA/JqwzsPi9tC4/menus_thumb%5B2%5D.jpg?imgmax=800 "menus")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-laJc4S_DI/AAAAAAAACG8/e2RMVXF6Few/s1600-h/menus%5B4%5D.jpg) 
 
 Menu management is one of the most exciting and talked about features in WordPress 3.0.  This feature gives you full control over your site’s navigation menus.  With an easy drag and drop interface, users can create menus that include any mixture of links to internal pages, external URLs, categories, you name it.  Then you can embed these custom menus as a widget wherever your theme allows. 
 

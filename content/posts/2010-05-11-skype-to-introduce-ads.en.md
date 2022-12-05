@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="skype-call" border="0" alt="skype-call" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S-ldYoTViEI/AAAAAAAACHo/MjXzMLpjaSg/skype-call_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S-ldWLpVV7I/AAAAAAAACHk/jyjArqfOM0s/s1600-h/skype-call%5B3%5D.jpg) As Skype prepares to roll out five-way video calling this week — an addition the company plans to charge for at a later date — it’s also thinking of monetizing the now free user-to-user web calling serving with advertisements. 
+[![skype-call](http://lh5.ggpht.com/_vaUVXcmC3OI/S-ldYoTViEI/AAAAAAAACHo/MjXzMLpjaSg/skype-call_thumb%5B1%5D.jpg?imgmax=800 "skype-call")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-ldWLpVV7I/AAAAAAAACHk/jyjArqfOM0s/s1600-h/skype-call%5B3%5D.jpg) As Skype prepares to roll out five-way video calling this week — an addition the company plans to charge for at a later date — it’s also thinking of monetizing the now free user-to-user web calling serving with advertisements. 
 
 In an interview with [The Telegraph](http://www.telegraph.co.uk/technology/news/7706171/Skype-to-offer-adverts-to-keep-service-free.html), CEO Josh Silverman explains that the company — once again its own entity — is challenged by its desire to keep Skype-to-Skype calls free and to maintain the quality of service. As a result, the Skype team is “seriously considering” including ads from third parties in order to continue to operate the service free of charge. 
 

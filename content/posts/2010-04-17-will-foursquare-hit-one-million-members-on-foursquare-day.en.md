@@ -9,7 +9,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="foursquare-day" border="0" alt="foursquare-day" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8oFFIPYFXI/AAAAAAAAB_8/B0kR1nmus9Q/foursquare-day_thumb%5B3%5D.jpg?imgmax=800" width="260" height="190" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oFA3FqtzI/AAAAAAAAB_4/hEyqZrSaiO4/s1600-h/foursquare-day%5B5%5D.jpg) It’s 4/16 and for fans of the social network application Foursquare, it’s cause for celebration. All across the world, Foursquare users are celebrating [Foursquare Day](http://4sqday.com/) by gathering in swarms and taking advantage of Foursquare deals offered by bars, restaurants and other venues. The big day could also potentially be the day Foursquare reaches one million members. 
+[![foursquare-day](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oFFIPYFXI/AAAAAAAAB_8/B0kR1nmus9Q/foursquare-day_thumb%5B3%5D.jpg?imgmax=800 "foursquare-day")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oFA3FqtzI/AAAAAAAAB_4/hEyqZrSaiO4/s1600-h/foursquare-day%5B5%5D.jpg) It’s 4/16 and for fans of the social network application Foursquare, it’s cause for celebration. All across the world, Foursquare users are celebrating [Foursquare Day](http://4sqday.com/) by gathering in swarms and taking advantage of Foursquare deals offered by bars, restaurants and other venues. The big day could also potentially be the day Foursquare reaches one million members. 
 
 According to Co-Founder Dennis Crowley, who joined me on NBC San Diego earlier this morning (see video below), the company had nothing to do with the day except the creation of a special badge — it was devised 100% by fans of the service. 
 

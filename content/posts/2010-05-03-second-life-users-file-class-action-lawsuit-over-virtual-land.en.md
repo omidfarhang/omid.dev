@@ -14,13 +14,13 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="second-life-lawsuit" border="0" alt="second-life-lawsuit" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S98apduRDdI/AAAAAAAACDE/M49kS5s72Cc/second-life-lawsuit_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S98anLHVQVI/AAAAAAAACDA/OzPhOeySkD8/s1600-h/second-life-lawsuit%5B3%5D.jpg) A group of [Second Life](http://secondlife.com/?v=1.1) users is [suing](http://www.virtuallanddispute.com/) Second Life’s creator over a virtual land dispute. They say their contractual property ownership rights have been changed and that this alteration of the terms of service constitutes fraud and violates California consumer protection laws. 
+[![second-life-lawsuit](http://lh6.ggpht.com/_vaUVXcmC3OI/S98apduRDdI/AAAAAAAACDE/M49kS5s72Cc/second-life-lawsuit_thumb%5B1%5D.jpg?imgmax=800 "second-life-lawsuit")](http://lh5.ggpht.com/_vaUVXcmC3OI/S98anLHVQVI/AAAAAAAACDA/OzPhOeySkD8/s1600-h/second-life-lawsuit%5B3%5D.jpg) A group of [Second Life](http://secondlife.com/?v=1.1) users is [suing](http://www.virtuallanddispute.com/) Second Life’s creator over a virtual land dispute. They say their contractual property ownership rights have been changed and that this alteration of the terms of service constitutes fraud and violates California consumer protection laws. 
 
 Before you scoff too much at this seemingly ludicrous lawsuit, remember that virtual worlds aren’t just “funny money” and avatars. They’re serious business, both for the owners and investors who profit from them and for the users who pump hundreds and even thousands of dollars each into creating characters and interacting online. 
 
 Second Life’s parent company, Linden Labs, was recently valued at $383 million. The virtual world’s economy was at an all-time high when [Q1 transactional data](http://blogs.secondlife.com/community/features/blog/2010/04/28/second-life-economy-hits-new-all-time-high-in-q1-2010) was reported last month. And although the economy is virtual, remember these transactions have a basis in very real funds. 
 
-[<img title="sl-economy" border="0" alt="sl-economy" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S98atdB-PiI/AAAAAAAACDM/-IPDVDXZjuE/sl-economy_thumb%5B3%5D.jpg?imgmax=800" width="500" height="290" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S98arGzqQ1I/AAAAAAAACDI/azqbYmPxGrc/s1600-h/sl-economy%5B5%5D.jpg) </p> 
+[![sl-economy](http://lh3.ggpht.com/_vaUVXcmC3OI/S98atdB-PiI/AAAAAAAACDM/-IPDVDXZjuE/sl-economy_thumb%5B3%5D.jpg?imgmax=800 "sl-economy")](http://lh6.ggpht.com/_vaUVXcmC3OI/S98arGzqQ1I/AAAAAAAACDI/azqbYmPxGrc/s1600-h/sl-economy%5B5%5D.jpg)
 
 The lawsuit gives rise to the question: Who owns virtual goods, the creators of the goods or the people who have paid virtual currency for them? 
 

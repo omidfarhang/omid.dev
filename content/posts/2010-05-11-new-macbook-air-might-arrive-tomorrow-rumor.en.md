@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="mbair-260x190" border="0" alt="mbair-260x190" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S-la7dSkWXI/AAAAAAAACHQ/Ud5PPrjzg8k/mbair-260x190_thumb%5B2%5D.jpg?imgmax=800" width="260" height="190" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S-la5eHrK3I/AAAAAAAACHM/0yfJfRHiVSQ/s1600-h/mbair-260x190%5B4%5D.jpg) According to Australian Macworld, a new version of the MacBook Air may show up in the Apple Online Store tomorrow morning. The same source who correctly predicted the MacBook Pro refresh last month alerted Australian Macworld of a new Apple product number in the Apple database.  
+[![mbair-260x190](http://lh3.ggpht.com/_vaUVXcmC3OI/S-la7dSkWXI/AAAAAAAACHQ/Ud5PPrjzg8k/mbair-260x190_thumb%5B2%5D.jpg?imgmax=800 "mbair-260x190")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-la5eHrK3I/AAAAAAAACHM/0yfJfRHiVSQ/s1600-h/mbair-260x190%5B4%5D.jpg) According to Australian Macworld, a new version of the MacBook Air may show up in the Apple Online Store tomorrow morning. The same source who correctly predicted the MacBook Pro refresh last month alerted Australian Macworld of a new Apple product number in the Apple database.  
 The product number, **MC516LL/A K87 BETTER BTR-USA**, suggests that it is a Mac product (the “BETTER” nomenclature is the big clue there, as it often refers to the different tiers of Mac products). As [AppleInsider](http://www.appleinsider.com/articles/10/05/10/update_for_apples_macbook_air_rumored_to_arrive_tuesday.html) also notes, it is possible that the number could refer to a new Apple Cinema Display, one that is 27″ and matches that of the 27″ iMac, but we’d place our bets on a new MacBook Air. 
 
 This is why: 
@@ -24,4 +24,4 @@ This is why:
 
 We’ll have to wait and see if this MacBook Air rumor is true or not. If it is, does a refreshed MacBook Air interest you, or are you content with a laptop and iPad/netbook combination? Let us know! 
 
-[<img title="macbook-air" border="0" alt="macbook-air" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S-la-6LnvmI/AAAAAAAACHY/AjL0D6rOSLs/macbook-air_thumb%5B3%5D.jpg?imgmax=800" width="500" height="208" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S-la9Ok6RwI/AAAAAAAACHU/P4Mcd9fdZOU/s1600-h/macbook-air%5B5%5D.jpg)
+[![macbook-air](http://lh4.ggpht.com/_vaUVXcmC3OI/S-la-6LnvmI/AAAAAAAACHY/AjL0D6rOSLs/macbook-air_thumb%5B3%5D.jpg?imgmax=800 "macbook-air")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-la9Ok6RwI/AAAAAAAACHU/P4Mcd9fdZOU/s1600-h/macbook-air%5B5%5D.jpg)

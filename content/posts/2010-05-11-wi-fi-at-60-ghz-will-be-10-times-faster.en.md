@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="wifi1" border="0" alt="wifi1" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S-l4KqylrsI/AAAAAAAACJg/36Dn7iE99tA/wifi1_thumb%5B2%5D.jpg?imgmax=800" width="260" height="195" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l4ITKHbcI/AAAAAAAACJc/-gQtRmwyuho/s1600-h/wifi1%5B4%5D.jpg) The Wi-Fi Alliance and the Wireless Gigabit Alliance have [reached an agreement](http://www.wired.com/gadgetlab/2010/05/new-frequency-set-to-turbocharge-wi-fi/) to set up standards for Wi-Fi to operate in the previously unclaimed 60 GHz frequency band, which would offer up to 10 times faster data transfer speeds. Currently, Wi-Fi operates in the 2.4 GHz an 5 GHz frequency bands. 
+[![wifi1](http://lh5.ggpht.com/_vaUVXcmC3OI/S-l4KqylrsI/AAAAAAAACJg/36Dn7iE99tA/wifi1_thumb%5B2%5D.jpg?imgmax=800 "wifi1")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l4ITKHbcI/AAAAAAAACJc/-gQtRmwyuho/s1600-h/wifi1%5B4%5D.jpg) The Wi-Fi Alliance and the Wireless Gigabit Alliance have [reached an agreement](http://www.wired.com/gadgetlab/2010/05/new-frequency-set-to-turbocharge-wi-fi/) to set up standards for Wi-Fi to operate in the previously unclaimed 60 GHz frequency band, which would offer up to 10 times faster data transfer speeds. Currently, Wi-Fi operates in the 2.4 GHz an 5 GHz frequency bands. 
 
 ”The 60-GHz band allows for significant boost in performance, so we are talking about speeds in the gigabits per second range,” says the executive director of the Wi-Fi Alliance, Edgar Figueroa. 
 

@@ -16,7 +16,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="showtimefyc2" border="0" alt="showtimefyc2" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-leAqNy0pI/AAAAAAAACHw/yXEOqV1VLjQ/showtimefyc2_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S-ld-rkCxVI/AAAAAAAACHs/B8QEeR8Pfpg/s1600-h/showtimefyc2%5B3%5D.jpg) Premium cable TV channel Showtime plans to launch a service that will stream episodes of original series like _Weeds_, _The Tudors_ and _Californication_ to subscribers, a source told [Bloomberg Businessweek](http://www.businessweek.com/news/2010-05-10/cbs-s-showtime-said-to-test-putting-shows-online-update1-.html). 
+[![showtimefyc2](http://lh6.ggpht.com/_vaUVXcmC3OI/S-leAqNy0pI/AAAAAAAACHw/yXEOqV1VLjQ/showtimefyc2_thumb%5B1%5D.jpg?imgmax=800 "showtimefyc2")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-ld-rkCxVI/AAAAAAAACHs/B8QEeR8Pfpg/s1600-h/showtimefyc2%5B3%5D.jpg) Premium cable TV channel Showtime plans to launch a service that will stream episodes of original series like _Weeds_, _The Tudors_ and _Californication_ to subscribers, a source told [Bloomberg Businessweek](http://www.businessweek.com/news/2010-05-10/cbs-s-showtime-said-to-test-putting-shows-online-update1-.html). 
 
 Details about the new service are scarce, but the network is reportedly discussing the plans with the cable operators that distribute its channels, who are undoubtedly concerned that an online service will cut into revenues for traditional cable TV distribution. 
 
@@ -28,4 +28,4 @@ Furthermore, it’s very unlikely that you’ll be able to subscribe to the onli
 
 The new service might resemble the slick “[For Your Consideration](http://www.sho.com/site/foryourconsideration/home.do)” site that Showtime operates for special viewers like execs and awards show voters (see below). Would access to something like this make you more likely to pay to add Showtime to your cable or satellite TV service? 
 
-[<img title="showtimefyc1" border="0" alt="showtimefyc1" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S-leFsC7W3I/AAAAAAAACH4/_OiOSXmlLBs/showtimefyc1_thumb%5B2%5D.jpg?imgmax=800" width="504" height="323" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-leCzdsVPI/AAAAAAAACH0/dcWey4IRC3Y/s1600-h/showtimefyc1%5B4%5D.jpg)
+[![showtimefyc1](http://lh3.ggpht.com/_vaUVXcmC3OI/S-leFsC7W3I/AAAAAAAACH4/_OiOSXmlLBs/showtimefyc1_thumb%5B2%5D.jpg?imgmax=800 "showtimefyc1")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-leCzdsVPI/AAAAAAAACH0/dcWey4IRC3Y/s1600-h/showtimefyc1%5B4%5D.jpg)

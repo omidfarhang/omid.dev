@@ -16,7 +16,7 @@ category: techblog
 ---
 Jailbreaking and Unlocking with iPhone is fun, but these days apple is trying to make people life harder by introducing new changes in iPhone hardware and software which could stop or prevent people from jailbreaking their devices.
 
-[<img title="iPhone 3G [S]" border="0" alt="iPhone 3G [S]" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-AjqI3R0TI/AAAAAAAACF8/ivymP2hyXZE/hero120090608_thumb%5B3%5D.jpg?imgmax=800" width="500" height="203" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S-AjnfWu1NI/AAAAAAAACF4/dmad707Lil4/s1600-h/hero120090608%5B5%5D.jpg) 
+[![iPhone 3G [S]](http://lh6.ggpht.com/_vaUVXcmC3OI/S-AjqI3R0TI/AAAAAAAACF8/ivymP2hyXZE/hero120090608_thumb%5B3%5D.jpg?imgmax=800 "iPhone 3G [S]")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-AjnfWu1NI/AAAAAAAACF4/dmad707Lil4/s1600-h/hero120090608%5B5%5D.jpg) 
 
 One of the change done by apple is the fix they had done in iPhone 3GS bootroom, they have fixed the potential bug found in old iPhone device which allows to unlock the iPhone to use a different carrier. There is no tool which can unlock an iPhone with new bootroom. Now the question arise here, how could one know whether his / her iPhone has a newer or old bootroom so that he /she gets to know whether their apple devices can be unlocked or not. 
 

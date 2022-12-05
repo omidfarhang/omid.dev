@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="3255" border="0" alt="3255" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8nrUmcLgBI/AAAAAAAAB_c/4K9tGvgWbcc/3255_thumb%5B3%5D.jpg?imgmax=800" width="190" height="120" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8nrTFYcPxI/AAAAAAAAB_Y/H9E6-BxEycE/s1600-h/3255%5B5%5D.jpg) The first volume licensing arrangements for Microsoft Office 2010 will be made through company partners on May 1, almost two weeks earlier than expected. This news today from the company's Office Engineering team, which released the final build of all versions of the company's principal applications suite today. 
+[![3255](http://lh3.ggpht.com/_vaUVXcmC3OI/S8nrUmcLgBI/AAAAAAAAB_c/4K9tGvgWbcc/3255_thumb%5B3%5D.jpg?imgmax=800 "3255")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8nrTFYcPxI/AAAAAAAAB_Y/H9E6-BxEycE/s1600-h/3255%5B5%5D.jpg) The first volume licensing arrangements for Microsoft Office 2010 will be made through company partners on May 1, almost two weeks earlier than expected. This news today from the company's Office Engineering team, which released the final build of all versions of the company's principal applications suite today. 
 
 “Since the start of our public beta in November 2009, we've had more than 7.5 million people download the beta version — that's more than 3 times the number of 2007 beta downloads!” reads [this afternoon's post by the Engineering team](http://blogs.technet.com/office2010/archive/2010/04/15/office-2010-reaches-rtm.aspx). “The feedback that we've received from all these programs has shaped the set of products we're excited about, and that I'm sure will delight our customers.” 
 

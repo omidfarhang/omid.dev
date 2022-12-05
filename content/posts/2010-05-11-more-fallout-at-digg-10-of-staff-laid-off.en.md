@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="digg-260" border="0" alt="digg-260" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S-l5JIuCLuI/AAAAAAAACJw/KhQT9w-1az8/digg-260_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-l5HYLCUuI/AAAAAAAACJs/tIwgJDN7Nrk/s1600-h/digg-260%5B3%5D.jpg) Social news site Digg has just laid off 10% of its staff according to a representative from the company. The move comes a month after Jay Adelson’s sudden departure as CEO, in which he was replaced by company founder Kevin Rose. 
+[![digg-260](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l5JIuCLuI/AAAAAAAACJw/KhQT9w-1az8/digg-260_thumb%5B1%5D.jpg?imgmax=800 "digg-260")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-l5HYLCUuI/AAAAAAAACJs/tIwgJDN7Nrk/s1600-h/digg-260%5B3%5D.jpg) Social news site Digg has just laid off 10% of its staff according to a representative from the company. The move comes a month after Jay Adelson’s sudden departure as CEO, in which he was replaced by company founder Kevin Rose. 
 
 Rose writes in an e-mail to employees: “This is one of the hardest decisions we’ve had to make recently but we strongly believe that it is the right decision for the long-term health of the company. In order to achieve our goals, we are putting more emphasis on the engineering and development efforts.” 
 

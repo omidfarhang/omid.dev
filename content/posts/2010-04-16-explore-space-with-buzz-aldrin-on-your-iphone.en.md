@@ -16,7 +16,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="buzzaldrin" border="0" alt="buzzaldrin" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S8hmdeZkCBI/AAAAAAAAB-8/G_JN-8Jh0Nk/buzzaldrin_thumb%5B2%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S8hmbfC7F6I/AAAAAAAAB-4/lwSrfBm9aI8/s1600-h/buzzaldrin%5B4%5D.jpg) Astronaut [Buzz Aldrin](http://itunes.apple.com/us/app/buzz-aldrin-portal-to-science/id361496196?mt=8) [iTunes link] has his own iPhone app, and it’s packed full of information, news, images and videos related to space exploration. It’s currently the one of the most popular apps in the Apple App Store’s Education category. 
+[![buzzaldrin](http://lh6.ggpht.com/_vaUVXcmC3OI/S8hmdeZkCBI/AAAAAAAAB-8/G_JN-8Jh0Nk/buzzaldrin_thumb%5B2%5D.jpg?imgmax=800 "buzzaldrin")](http://lh5.ggpht.com/_vaUVXcmC3OI/S8hmbfC7F6I/AAAAAAAAB-4/lwSrfBm9aI8/s1600-h/buzzaldrin%5B4%5D.jpg) Astronaut [Buzz Aldrin](http://itunes.apple.com/us/app/buzz-aldrin-portal-to-science/id361496196?mt=8) [iTunes link] has his own iPhone app, and it’s packed full of information, news, images and videos related to space exploration. It’s currently the one of the most popular apps in the Apple App Store’s Education category. 
 
 “Buzz Aldrin Portal to Science and Space Exploration” is divided into five sections: Space Buzz, News, Interactive, Buzz Life, and More. We’ve pictured most of them below. 
 

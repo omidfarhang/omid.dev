@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="natalie-morales" border="0" alt="natalie-morales" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S99eSB0r51I/AAAAAAAACEY/ul2gd_6F8b8/natalie-morales_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S99ePpFr7XI/AAAAAAAACEU/_yjkLjZBaYg/s1600-h/natalie-morales%5B3%5D.jpg) Another mainstream media outlet is dipping their toes into online. “TODAY in 2 Minutes” is a new online-only feature of _The Today Show_. 
+[![natalie-morales](http://lh3.ggpht.com/_vaUVXcmC3OI/S99eSB0r51I/AAAAAAAACEY/ul2gd_6F8b8/natalie-morales_thumb%5B1%5D.jpg?imgmax=800 "natalie-morales")](http://lh5.ggpht.com/_vaUVXcmC3OI/S99ePpFr7XI/AAAAAAAACEU/_yjkLjZBaYg/s1600-h/natalie-morales%5B3%5D.jpg) Another mainstream media outlet is dipping their toes into online. “TODAY in 2 Minutes” is a new online-only feature of _The Today Show_. 
 
 The show will feature host Natalie Morales and will include two minutes of _Today_ content, including weather, news headlines and other stories. Each segment will appear on [TODAYshow.com](http://todayshow.com/) and [MSN.com](http://msn.com/) at 6:30 a.m. ET every weekday. The spots will initially be sponsored by Buick. 
 

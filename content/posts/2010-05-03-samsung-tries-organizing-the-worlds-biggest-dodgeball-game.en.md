@@ -17,7 +17,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="dodgeball" border="0" alt="dodgeball" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S986681rPJI/AAAAAAAACD8/kw4-T1sTFnc/dodgeball_thumb%5B1%5D.jpg?imgmax=800" width="264" height="199" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S9865G4R46I/AAAAAAAACD4/tHj8wq760mI/s1600-h/dodgeball%5B3%5D.jpg) Ah, cellphones and dodgeball, they go together like… well… they don’t really go together at all, but that’s not stopping Samsung Mobile from organizing what will purportedly be the world’s largest dodgeball game on May 12. 
+[![dodgeball](http://lh6.ggpht.com/_vaUVXcmC3OI/S986681rPJI/AAAAAAAACD8/kw4-T1sTFnc/dodgeball_thumb%5B1%5D.jpg?imgmax=800 "dodgeball")](http://lh5.ggpht.com/_vaUVXcmC3OI/S9865G4R46I/AAAAAAAACD4/tHj8wq760mI/s1600-h/dodgeball%5B3%5D.jpg) Ah, cellphones and dodgeball, they go together like… well… they don’t really go together at all, but that’s not stopping Samsung Mobile from organizing what will purportedly be the world’s largest dodgeball game on May 12. 
 
 The practice of launching a stunt to herald the advent of a new product is nothing new — remember when the [Droid took over Times Square](http://www.businessinsider.com/verizon-taking-over-times-square-for-droid-launch-2009-11)? And Samsung is no stranger to the record realm; it attempted to make the World Record for collecting the largest donation of mobile phones in one location in April at the Samsung Mobile 500 at Texas Motor Speedway in Fort Worth, TX (the company failed). And managed to set the World Record for the [fastest text message](http://www.youtube.com/watch?v=33Mt2z-GoJk) sent using Swype technology on the Samsung Omnia II. 
 

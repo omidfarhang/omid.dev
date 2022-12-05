@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="youtube-cloud" border="0" alt="youtube-cloud" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S98bN2iNbCI/AAAAAAAACDU/Nphoo_u2i-s/youtube-cloud_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S98bL5OZJLI/AAAAAAAACDQ/BMUZhshABS4/s1600-h/youtube-cloud%5B3%5D.jpg) YouTube’s movie rental service is still in its infancy, and it still only offers a small selection of films, but that could change quickly. YouTube exec Hunter Walk told [MediaPost](http://www.mediapost.com/publications/?fa=Articles.showArticle&art_aid=127283&nid=113891) that the site will soon offer its users the ability to charge rental fees for their uploaded videos. 
+[![youtube-cloud](http://lh4.ggpht.com/_vaUVXcmC3OI/S98bN2iNbCI/AAAAAAAACDU/Nphoo_u2i-s/youtube-cloud_thumb%5B1%5D.jpg?imgmax=800 "youtube-cloud")](http://lh4.ggpht.com/_vaUVXcmC3OI/S98bL5OZJLI/AAAAAAAACDQ/BMUZhshABS4/s1600-h/youtube-cloud%5B3%5D.jpg) YouTube’s movie rental service is still in its infancy, and it still only offers a small selection of films, but that could change quickly. YouTube exec Hunter Walk told [MediaPost](http://www.mediapost.com/publications/?fa=Articles.showArticle&art_aid=127283&nid=113891) that the site will soon offer its users the ability to charge rental fees for their uploaded videos. 
 
 For the past couple of years YouTube has been focusing on ways for its users to monetize their videos should they become very popular. It launched the YouTube Partnership Program last year, which allows some folks with popular videos (YouTube staff decide which ones are eligible) to share advertising revenue with Google. 
 

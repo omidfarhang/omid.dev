@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="fbstat" border="0" alt="fbstat" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S98YCnfkU_I/AAAAAAAACC8/iDW6R4o5Wog/fbstat_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S98YAPImufI/AAAAAAAACC4/qKTspAKjlOQ/s1600-h/fbstat%5B3%5D.jpg) Self-proclaimed social media scientist Dan Zarrella has already applied linguistic methodologies to psychologically profile Twitter users. Now he’s using the same technology and approach to break down Facebook sharing behaviors. 
+[![fbstat](http://lh6.ggpht.com/_vaUVXcmC3OI/S98YCnfkU_I/AAAAAAAACC8/iDW6R4o5Wog/fbstat_thumb%5B1%5D.jpg?imgmax=800 "fbstat")](http://lh6.ggpht.com/_vaUVXcmC3OI/S98YAPImufI/AAAAAAAACC4/qKTspAKjlOQ/s1600-h/fbstat%5B3%5D.jpg) Self-proclaimed social media scientist Dan Zarrella has already applied linguistic methodologies to psychologically profile Twitter users. Now he’s using the same technology and approach to break down Facebook sharing behaviors. 
 
 Zarrella uses the Regressive Imagery Dictionary (RID) and Linguistic Inquiry and Word Count (LIWC) methods to arrive at the conclusion that, “Articles … that include sexual references in their titles are shared on Facebook far more than the average story.” 
 

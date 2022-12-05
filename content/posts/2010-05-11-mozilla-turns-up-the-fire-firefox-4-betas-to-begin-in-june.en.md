@@ -17,7 +17,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="4966" border="0" alt="4966" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-nDlLCUQdI/AAAAAAAACMU/RqxFo9Zweu4/4966_thumb%5B2%5D.jpg?imgmax=800" width="504" height="338" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S-nDh1XS84I/AAAAAAAACMQ/ux88RjzNjL8/s1600-h/4966%5B4%5D.jpg) 
+[![4966](http://lh6.ggpht.com/_vaUVXcmC3OI/S-nDlLCUQdI/AAAAAAAACMU/RqxFo9Zweu4/4966_thumb%5B2%5D.jpg?imgmax=800 "4966")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-nDh1XS84I/AAAAAAAACMQ/ux88RjzNjL8/s1600-h/4966%5B4%5D.jpg) 
 
 With competition in the Web browser field having transitioned from cold to boiling in less than a year's time, Mozilla suddenly finds itself playing catch-up against not only Apple and Google, but Microsoft as well. In March, the organization realized it needed to completely make over Firefox 4 if it wanted to remain feature competitive against a fast-rising Google Chrome. 
 
@@ -35,13 +35,13 @@ Mainstream user feedback was critical for Microsoft Office 2010, and an extended
 
 “We need to make sure that our beta this time is focused both on early adopters and mainstream users, so we're getting a good spread of data,” said Beltzner. From here, according to Beltzner's roadmap as of yesterday, the final Firefox 3.6.4 should be released “about the middle of next month,” which translates on the calendar into next week. Mozilla has planned a 2010 Summit for the first week of July, and Beltzner wants the first Firefox 4 beta at least one week before then. The beta phase will be expanded to last over three months, with frequent public updates every two to three weeks. An API freeze is slated for mid-August, which is necessary for developers of plug-ins and other tools that interoperate with Firefox, to enable them to make their own plans. Then the UI freeze will take place in early September, so that documentation teams can take screen shots and expect them to be valid come October. 
 
-[<img title="4965" border="0" alt="4965" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-nDxgJSqvI/AAAAAAAACMc/rrYo3pdfUbc/4965_thumb%5B2%5D.jpg?imgmax=800" width="504" height="300" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-nDnsqR6VI/AAAAAAAACMY/3fZ3JzHSf7M/s1600-h/4965%5B4%5D.jpg) 
+[![4965](http://lh6.ggpht.com/_vaUVXcmC3OI/S-nDxgJSqvI/AAAAAAAACMc/rrYo3pdfUbc/4965_thumb%5B2%5D.jpg?imgmax=800 "4965")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-nDnsqR6VI/AAAAAAAACMY/3fZ3JzHSf7M/s1600-h/4965%5B4%5D.jpg) 
 
 Beltzner needs differentiators that will help the new Firefox stand out solidly against Google Chrome, as well as a potentially resurgent Internet Explorer 9. He may have found some with respect to Firefox as a _platform_: With plug-ins already strong and with Web apps maturing into a self-sustaining industry, the browser can evolve to become more like a desktop. Chrome's architecture now enables plug-ins of a sort, but Google's penchant for minimalism at all costs makes each plug-in occupy a single icon in an address bar that quickly becomes crowded for space. 
 
 Firefox 4 will attempt to exploit that Chrome weakness by giving Web apps (ironically including Google Docs and Gmail) their own identity by way of its forthcoming “app-tabs” feature. There, online tasks can be elevated to permanent tabs in the tab bar, slimmed down to just icon size but still representing a common tool. This way CNET can be a bookmark, but Pandora can be a _tool_. 
 
-[<img title="4967" border="0" alt="4967" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S-nECZX5C8I/AAAAAAAACMk/4LxTUsdbhOo/4967_thumb%5B2%5D.jpg?imgmax=800" width="504" height="389" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S-nD2zExRaI/AAAAAAAACMg/UGkCs_vhdcs/s1600-h/4967%5B4%5D.jpg) 
+[![4967](http://lh4.ggpht.com/_vaUVXcmC3OI/S-nECZX5C8I/AAAAAAAACMk/4LxTUsdbhOo/4967_thumb%5B2%5D.jpg?imgmax=800 "4967")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-nD2zExRaI/AAAAAAAACMg/UGkCs_vhdcs/s1600-h/4967%5B4%5D.jpg) 
 
 With Facebook becoming a “sharing center” on a scale few had predicted, and with Adobe and soon Microsoft deploying Web apps from the browser, it no longer makes sense for privacy and security policies to be relegated to “Internet zones” and “non-Internet zones” like in IE. Sensing that opportunity for differentiation, Firefox 4 will offer what Beltzner currently calls a _Permissions Manager_, where users set the sharing permissions that pertain to specific Web sites. As of now, it's merely a concept, which means Mozilla developers will have to work fast, _now_, to get a working model for Firefox 4's first alphas. 
 

@@ -21,7 +21,7 @@ wine-and-dine(dot)telegraph.co.uk/site/index.php
 
 They appear to have been compromised by “R.N.S. – Romanian National Security”. Here’s a screenshot, both defacements are identical:
 
-[<img title="telegraphdefaced" border="0" alt="telegraphdefaced" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8byYUuBlvI/AAAAAAAAB-E/2njK58TJbkg/telegraphdefaced_thumb%5B3%5D.gif?imgmax=800" width="504" height="521" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8byVv6X9lI/AAAAAAAAB-A/k_9K9BLOf-E/s1600-h/telegraphdefaced%5B5%5D.gif) 
+[![telegraphdefaced](http://lh5.ggpht.com/_vaUVXcmC3OI/S8byYUuBlvI/AAAAAAAAB-E/2njK58TJbkg/telegraphdefaced_thumb%5B3%5D.gif?imgmax=800 "telegraphdefaced")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8byVv6X9lI/AAAAAAAAB-A/k_9K9BLOf-E/s1600-h/telegraphdefaced%5B5%5D.gif) 
 
 Both pages play some music – “The Lonely Shepard”, from a .ru domain (you'll also notice a rather bizarre link to a Top Gear: Romania clip hosted on Youtube). I put the text into Google Translate and (of course) it isn’t perfect, but you’ll get the gist of it:
 

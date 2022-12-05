@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="twitter-media" border="0" alt="twitter-media" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S9840xRiIpI/AAAAAAAACD0/aWeeGUxLpoU/twitter-media_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S984y2rXYnI/AAAAAAAACDw/us-vTfpM30I/s1600-h/twitter-media%5B3%5D.jpg) A new blog post from the [Twitter media team](http://media.twitter.com/392/tweets-quotes) suggests that the company will launch an embeddable tweets feature sometime tomorrow. 
+[![twitter-media](http://lh5.ggpht.com/_vaUVXcmC3OI/S9840xRiIpI/AAAAAAAACD0/aWeeGUxLpoU/twitter-media_thumb%5B1%5D.jpg?imgmax=800 "twitter-media")](http://lh6.ggpht.com/_vaUVXcmC3OI/S984y2rXYnI/AAAAAAAACDw/us-vTfpM30I/s1600-h/twitter-media%5B3%5D.jpg) A new blog post from the [Twitter media team](http://media.twitter.com/392/tweets-quotes) suggests that the company will launch an embeddable tweets feature sometime tomorrow. 
 
 Most of the time, when a blog or website wants to add specific tweets to its blog posts, it has to either quote the text or screenshot the tweets and put them in the post. Suffice it to say, the former doesn’t have have the same impact as the latter, but the latter is a time-intensive affair. 
 

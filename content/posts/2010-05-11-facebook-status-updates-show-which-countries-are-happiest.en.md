@@ -15,7 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="fb-love-top" border="0" alt="fb-love-top" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-mIvSoru3I/AAAAAAAACKA/kmOx2Rc03N8/fb-love-top_thumb%5B2%5D.jpg?imgmax=800" width="260" height="190" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mItSTP6MI/AAAAAAAACJ8/dPA9cHgQPzo/s1600-h/fb-love-top%5B4%5D.jpg) Facebook has extended its “Gross National Happiness” prototype app to 18 new countries. The app analyzes words in status updates like “awesome” or “tragic” to track changes in the collective emotional state of its users. 
+[![fb-love-top](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mIvSoru3I/AAAAAAAACKA/kmOx2Rc03N8/fb-love-top_thumb%5B2%5D.jpg?imgmax=800 "fb-love-top")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mItSTP6MI/AAAAAAAACJ8/dPA9cHgQPzo/s1600-h/fb-love-top%5B4%5D.jpg) Facebook has extended its “Gross National Happiness” prototype app to 18 new countries. The app analyzes words in status updates like “awesome” or “tragic” to track changes in the collective emotional state of its users. 
 
 When Facebook applied the methods to its U.S. userbase last year, it found that happiness went way up on holidays and way down when celebrities like Michael Jackson or Heath Ledger passed away. While the results of the study weren’t surprising, the idea of using status updates to measure national happiness was a novel one. 
 
@@ -27,4 +27,4 @@ We noticed that in some cases small increases of negativity accompanied big leap
 
 If you find this data interesting, you’ll also appreciate this: Facebook decided a couple of months ago to find out how relationship status affects happiness. Unsurprisingly, it found that folks in relationships tended to post happy updates more frequently. Singles were better off than users who didn’t list their relationship status or were in open relationships, however. 
 
-[<img title="facebookhappiness" border="0" alt="facebookhappiness" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S-mI1Yc2B9I/AAAAAAAACKI/v-8o4KdOz7E/facebookhappiness_thumb%5B4%5D.jpg?imgmax=800" width="500" height="544" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S-mIyWKZtEI/AAAAAAAACKE/OBthWepVQpM/s1600-h/facebookhappiness%5B6%5D.jpg)
+[![facebookhappiness](http://lh5.ggpht.com/_vaUVXcmC3OI/S-mI1Yc2B9I/AAAAAAAACKI/v-8o4KdOz7E/facebookhappiness_thumb%5B4%5D.jpg?imgmax=800 "facebookhappiness")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-mIyWKZtEI/AAAAAAAACKE/OBthWepVQpM/s1600-h/facebookhappiness%5B6%5D.jpg)

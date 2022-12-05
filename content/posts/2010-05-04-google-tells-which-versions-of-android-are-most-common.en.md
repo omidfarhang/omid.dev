@@ -12,7 +12,7 @@ tags:
 lang: en
 category: techblog
 ---
-<img title="4928" border="0" alt="4928" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S-AHt1rEouI/AAAAAAAACE8/zMq-W2lwOiA/4928%5B6%5D.jpg?imgmax=800" width="460" height="333" /> The Android Team today published a snapshot of the platform which shows the versions of Android most commonly in use. Though the platform is frequently criticized for being highly fragmented, there are three versions used far more than the rest. 
+![4928](http://lh4.ggpht.com/_vaUVXcmC3OI/S-AHt1rEouI/AAAAAAAACE8/zMq-W2lwOiA/4928%5B6%5D.jpg?imgmax=800 "4928") The Android Team today published a snapshot of the platform which shows the versions of Android most commonly in use. Though the platform is frequently criticized for being highly fragmented, there are three versions used far more than the rest. 
 
 Out of the six supported versions of Android, it is a close three-way split between 1.5 (37.2%), 1.6 (29.4%), and 2.1 (32.4%). Version 1.1, 2.0, and 2.0.1 combined only make up 1% of Android users. 
 
@@ -22,4 +22,4 @@ The Android team puts out this data to help app developers assess the Android la
 
 Last time we looked at this data back in December, Android 1.6 was the most common version by far, with nearly 86% of all devices running that version. 
 
-<img title="4212" border="0" alt="4212" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-AHvvuvpfI/AAAAAAAACFA/g7TdRn1uCWI/4212%5B6%5D.jpg?imgmax=800" width="400" height="333" />
+![4212](http://lh6.ggpht.com/_vaUVXcmC3OI/S-AHvvuvpfI/AAAAAAAACFA/g7TdRn1uCWI/4212%5B6%5D.jpg?imgmax=800 "4212")

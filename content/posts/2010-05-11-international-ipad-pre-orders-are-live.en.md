@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="ipad_international" border="0" alt="ipad_international" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-l3ntAyk4I/AAAAAAAACJY/SCXfKQfAaKY/ipad_international_thumb%5B4%5D.jpg?imgmax=800" width="260" height="216" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l3lrBgWII/AAAAAAAACJU/cwInbMawwdw/s1600-h/ipad_international%5B6%5D.jpg) Just as Apple promised last week, international iPad pre-orders are underway as of today. 
+[![ipad_international](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l3ntAyk4I/AAAAAAAACJY/SCXfKQfAaKY/ipad_international_thumb%5B4%5D.jpg?imgmax=800 "ipad_international")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l3lrBgWII/AAAAAAAACJU/cwInbMawwdw/s1600-h/ipad_international%5B6%5D.jpg) Just as Apple promised last week, international iPad pre-orders are underway as of today. 
 
 Customers from Australia, Canada, France, Germany, Italy, Japan, Spain, Switzerland and the UK can pre-order the iPad from their [respective Apple stores](http://store.apple.com/uk/browse/home/shop_ipad/family/ipad); the actual device is slated to ship on May 28. 
 

@@ -15,4 +15,4 @@ Gmail has a new feature for Firefox 3.6 and Google Chrome users: drag-and-drop f
 
 [Google promises](http://gmailblog.blogspot.com/2010/04/drag-and-drop-attachments-onto-messages.html) it will “enable this for other browsers as soon as they support this feature.” Why the wait? Drag-and-drop functionality is an HTML5 feature. Currently only the Gecko layout engine — the engine that powers Firefox — fully supports HTML5 drag-and-drop. WebKit, which powers both Safari and Chrome, has only partial support for drag-and-drop. 
 
-[<img title="drag-drop" border="0" alt="drag-drop" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8o0RaANFGI/AAAAAAAACBw/hYb_1pYTX-k/dragdrop_thumb2.png?imgmax=800" width="504" height="348" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8o0MNcvCXI/AAAAAAAACBs/wEAALYdVNfc/s1600-h/dragdrop4.png)
+[![drag-drop](http://lh5.ggpht.com/_vaUVXcmC3OI/S8o0RaANFGI/AAAAAAAACBw/hYb_1pYTX-k/dragdrop_thumb2.png?imgmax=800 "drag-drop")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8o0MNcvCXI/AAAAAAAACBs/wEAALYdVNfc/s1600-h/dragdrop4.png)

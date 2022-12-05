@@ -15,7 +15,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="voip-generic-260" border="0" alt="voip-generic-260" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S_RKtCf-SxI/AAAAAAAACQ8/CHC4Cjrbl6E/voip-generic-260_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RKo_bBDDI/AAAAAAAACQ4/MqfjuGdmvTs/s1600-h/voip-generic-260%5B3%5D.jpg) Google announced today that it has made a cash offer to acquire Global IP Solutions (GIPS). 
+[![voip-generic-260](http://lh3.ggpht.com/_vaUVXcmC3OI/S_RKtCf-SxI/AAAAAAAACQ8/CHC4Cjrbl6E/voip-generic-260_thumb%5B1%5D.jpg?imgmax=800 "voip-generic-260")](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RKo_bBDDI/AAAAAAAACQ4/MqfjuGdmvTs/s1600-h/voip-generic-260%5B3%5D.jpg) Google announced today that it has made a cash offer to acquire Global IP Solutions (GIPS). 
 
 A leader in the real-time VoIP processing space for both voice and video, GIPS doesn’t have any consumer-facing products; instead, it provides services that work on the backend for products like Yahoo! Messenger, Citrix and WebEx. 
 
