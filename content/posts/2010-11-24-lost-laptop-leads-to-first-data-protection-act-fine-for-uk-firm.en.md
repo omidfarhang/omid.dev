@@ -11,7 +11,7 @@ lang: en
 category: techblog
 ---
    
-[<img title="pounds" border="0" alt="pounds" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO0rUNgXikI/AAAAAAAADMs/FqysEOP11UE/pounds_thumb%5B1%5D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0rS-IVlxI/AAAAAAAADMo/pGrIonDBnvk/s1600-h/pounds%5B3%5D.jpg)The Information Commissioner's Office (ICO) has fined two organizations for serious breaches of the Data Protection Act &#8211; the first to be issued under new tougher guidelines in the UK.
+[<img title="pounds" border="0" alt="pounds" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO0rUNgXikI/AAAAAAAADMs/FqysEOP11UE/pounds_thumb%5B1%5D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0rS-IVlxI/AAAAAAAADMo/pGrIonDBnvk/s1600-h/pounds%5B3%5D.jpg)The Information Commissioner's Office (ICO) has fined two organizations for serious breaches of the Data Protection Act – the first to be issued under new tougher guidelines in the UK.
 
 The security breach at Sheffield-based firm A4e happened in June 2010, after the company issued an unencrypted laptop to an employee in order to do work from home. The laptop was subsequently stolen from the employee's house.
 
@@ -25,7 +25,7 @@ It is understood that an unsuccessful attempt was made to access the data on the
 
 The ICO have now fined A4e a total of £60,000, saying that the data loss could have caused individuals “substantial distress”, and admonished them for not putting encryption in place despite knowing the amount and type of sensitive data being held on the laptop.
 
-And that's the point, of course. The entire problem and the subsequent fine was entirely avoidable &#8211; if the laptop had been properly encrypted, as Information Commissioner Christopher Graham noted:
+And that's the point, of course. The entire problem and the subsequent fine was entirely avoidable – if the laptop had been properly encrypted, as Information Commissioner Christopher Graham noted:
 
 > <tt>"Thousands of people's privacy was potentially compromised by the company’s failure to take the simple step of encrypting the data".</tt>
 
@@ -39,4 +39,4 @@ More information about the ICO's powers can be found on the [ICO's website](http
 
 You can read more opinion on this case from Graeme Stewart, who [blogs about security in the public sector](http://publicsectorsecurity.wordpress.com/2010/11/24/at-last-a-county-council-gets-fined-for-serious-data-breach/) for Sophos.
 
-Clearly more organizations need to wake up to the danger of data loss &#8211; storing sensitive information on an unencrypted laptop is a time bomb waiting to happen. Not only could you put your customers, staff and partners at risk &#8211; you could also be putting your company at risk of a substantial fine.
+Clearly more organizations need to wake up to the danger of data loss – storing sensitive information on an unencrypted laptop is a time bomb waiting to happen. Not only could you put your customers, staff and partners at risk – you could also be putting your company at risk of a substantial fine.

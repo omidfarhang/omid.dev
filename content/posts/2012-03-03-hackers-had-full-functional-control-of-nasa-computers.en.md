@@ -32,7 +32,7 @@ Mr Martin outlined how the agency suffered “5,408 computer security incidents�
 
 He also noted that “between April 2009 and April 2011, Nasa reported the loss or theft of 48 Agency mobile computing devices”. 
 
-In one incident an unencrypted notebook computer was lost containing details of the algorithms &#8211; the mathematical models &#8211; used to control the International Space Station. 
+In one incident an unencrypted notebook computer was lost containing details of the algorithms – the mathematical models – used to control the International Space Station. 
 
 Nasa told the BBC that “at no point in time have operations of the International Space Station been in jeopardy due to a data breach”. 
 
@@ -46,4 +46,4 @@ But while Mr Martin criticised aspects of Nasa's cybersecurity he noted investig
 
 Nasa said it was working to implement the security improvements Mr Martin suggested in his testimony. 
 
-However the chairman of the congressional subcommittee, Rep Paul Broun, [quoted in an online report of proceedings,](http://science.house.gov/press-release/witnesses-highlight-unique-cybersecurity-challenges-nasa) said: “Despite this progress, the threat to Nasa's information security is persistent, and ever changing. Unless Nasa is able to constantly adapt &#8211; their data, systems, and operations will continue to be endangered.”
+However the chairman of the congressional subcommittee, Rep Paul Broun, [quoted in an online report of proceedings,](http://science.house.gov/press-release/witnesses-highlight-unique-cybersecurity-challenges-nasa) said: “Despite this progress, the threat to Nasa's information security is persistent, and ever changing. Unless Nasa is able to constantly adapt – their data, systems, and operations will continue to be endangered.”

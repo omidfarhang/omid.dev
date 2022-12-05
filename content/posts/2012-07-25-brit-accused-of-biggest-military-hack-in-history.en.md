@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-<a href="http://lh3.ggpht.com/-Nw5hTsm-SNA/UBBf0FKGSuI/AAAAAAAAGmQ/VdF0avOLTOg/s1600-h/hackskul%25255B2%25255D.jpg" target="_blank"><img title="hackskul" border="0" alt="hackskul" align="right" src="http://lh5.ggpht.com/-6uTUcKDtqxY/UBBf2tYSJCI/AAAAAAAAGmY/dAVBzAN100Q/hackskul_thumb.jpg?imgmax=800" width="300" height="225" /></a><a href="http://www.iol.co.za/scitech/technology/security/brit-accused-of-biggest-military-hack-in-history-1.1348854" target="_blank">iol scitech</a>: London &#8211; A British computer hacker accused by the United States of breaking into top secret military and space agency networks will learn the result of his six-year fight against extradition within three months, a court heard on Tuesday. 
+<a href="http://lh3.ggpht.com/-Nw5hTsm-SNA/UBBf0FKGSuI/AAAAAAAAGmQ/VdF0avOLTOg/s1600-h/hackskul%25255B2%25255D.jpg" target="_blank"><img title="hackskul" border="0" alt="hackskul" align="right" src="http://lh5.ggpht.com/-6uTUcKDtqxY/UBBf2tYSJCI/AAAAAAAAGmY/dAVBzAN100Q/hackskul_thumb.jpg?imgmax=800" width="300" height="225" /></a><a href="http://www.iol.co.za/scitech/technology/security/brit-accused-of-biggest-military-hack-in-history-1.1348854" target="_blank">iol scitech</a>: London – A British computer hacker accused by the United States of breaking into top secret military and space agency networks will learn the result of his six-year fight against extradition within three months, a court heard on Tuesday. 
 
 Gary McKinnon faces up to 60 years in jail if convicted in American courts for what one US prosecutor has described as the “biggest military computer hack of all time”. 
 
@@ -27,7 +27,7 @@ May has been studying medical reports before making up her mind and has been bus
 
 McKinnon's mother Janis Sharp said the further delay was unacceptable. 
 
-“If Theresa May had got an ounce of compassion she would make her decision now, before the Olympics, because she has any number of medical reports &#8211; these delays are destroying my son's life,” she told reporters outside court. 
+“If Theresa May had got an ounce of compassion she would make her decision now, before the Olympics, because she has any number of medical reports – these delays are destroying my son's life,” she told reporters outside court. 
 
 Campaigners have urged the British government to do more to help McKinnon, who was first arrested in 2005. Prime Minister David Cameron and President Barack Obama have discussed the case. 
 
@@ -35,4 +35,4 @@ McKinnon's supporters say his case shows that an extradition treaty signed by Wa
 
 A committee of British lawmakers came to the same conclusion, saying in March that the treaty was unbalanced and made it easier to extradite a British citizen to the United States than vice versa. 
 
-However, a judge-led review ordered by the British government concluded last October that the extradition treaty was fair, with “no practical difference” between the evidence each country needs to provide to seek a suspect's transfer. &#8211; Reuters
+However, a judge-led review ordered by the British government concluded last October that the extradition treaty was fair, with “no practical difference” between the evidence each country needs to provide to seek a suspect's transfer. – Reuters

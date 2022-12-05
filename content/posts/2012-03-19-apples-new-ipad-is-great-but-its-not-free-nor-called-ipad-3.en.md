@@ -14,7 +14,7 @@ category: techblog
 ---
 [<img title="newipad" border="0" alt="newipad" align="right" src="http://lh6.ggpht.com/-iWkViK73U-8/T2boy9IYrBI/AAAAAAAAFM4/fqnHcnxeor4/newipad_thumb.png?imgmax=800" width="204" height="150" />](http://lh6.ggpht.com/-OCerIHzzAAk/T2bovG67GDI/AAAAAAAAFMw/iFDhVV_IIgs/s1600-h/newipad%25255B2%25255D.png)SophosLabs: Only hours after the launch of Apple's newest iPad we are beginning to see spammers trying to use the excitement over its release to ensnare innocent people into their scams. 
 
-The scammers are sending out emails with the subject “Where do we send your Free iPad 3, just Test & Keep! See details”. The email contains an image with the text “TEST & KEEP an iPad 3 FREE &#8211; Click here”. 
+The scammers are sending out emails with the subject “Where do we send your Free iPad 3, just Test & Keep! See details”. The email contains an image with the text “TEST & KEEP an iPad 3 FREE – Click here”. 
 
 [<img title="ipad3-500" border="0" alt="ipad3-500" src="http://lh3.ggpht.com/-be2yCu4UT7s/T2bo9vx6UhI/AAAAAAAAFNI/hNQtkd95R_4/ipad3-500_thumb%25255B2%25255D.png?imgmax=800" width="504" height="450" />](http://lh4.ggpht.com/-4KQaZfTekAs/T2bo3zt6hPI/AAAAAAAAFNA/9VOSfMiiX_E/s1600-h/ipad3-500%25255B4%25255D.png) 
 

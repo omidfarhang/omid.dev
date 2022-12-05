@@ -22,9 +22,9 @@ Here's a typical message being shared widely on Facebook:
 
 > <tt>WARNING!!!!!!.....DO NOT USE THE Christmas tree app. on Facebookplease be advised it will crash your computer. Geek squad says its oneof the WORST trojan-viruses there is and it is spreading quickly.Re-post and let your friends know. THANKS PLEASE REPOST!</tt>
 
-Users believe they're doing the right thing when they share warnings like this &#8211; but unfortunately they haven't checked their facts. Although anyone could at any time create a rogue application with the name “Christmas Tree” of course, we're not aware of any malware which uses this disguise.
+Users believe they're doing the right thing when they share warnings like this – but unfortunately they haven't checked their facts. Although anyone could at any time create a rogue application with the name “Christmas Tree” of course, we're not aware of any malware which uses this disguise.
 
-Furthermore, since when was Geek Squad a reliable source for information about new malware? Wouldn't you be more sensible to check with an established anti-virus company? A legitimate warning would at the very least have included some links to further information &#8211; such as a statement on Geek Squad's website.
+Furthermore, since when was Geek Squad a reliable source for information about new malware? Wouldn't you be more sensible to check with an established anti-virus company? A legitimate warning would at the very least have included some links to further information – such as a statement on Geek Squad's website.
 
 Ironically, the hoax is probably spreading much faster than any of the genuine commonly encountered Facebook viruses at the moment.
 

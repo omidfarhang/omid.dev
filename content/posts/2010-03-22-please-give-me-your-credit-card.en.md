@@ -30,7 +30,7 @@ There are lots of links on the page, but unfortunately, a mouse-over of each lin
 
 That's not a good sign for a legitimate webpage. Moreover, a whois shows that it was registered just on 7th December 2009, and that the ownership is hidden behind a privacy protector service.
 
-If you click one of the links, you are actually taken to another website &#8211; internetprofitsuccesssystem.com. It was registered on 8th September 2009, and it's ownership is also hidden behind a privacy protector.
+If you click one of the links, you are actually taken to another website – internetprofitsuccesssystem.com. It was registered on 8th September 2009, and it's ownership is also hidden behind a privacy protector.
 
 It asks for your name, address, phone number and email, and eventually, for your credit card…
 

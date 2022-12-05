@@ -23,4 +23,4 @@ Also, when searching for names of people on Bing, the Facebook profiles of peopl
 
 According to Todd Schwartz, Director of Product Management at Bing, and Paul Yiu, Bing's Principal Program Manager, more than 4% of all searches done today are about individual people, so this type of search result is quite pertinent.
 
-Naturally, privacy will be a concern for users. When the integration of Bing and Facebook launches soon &#8211;a date was not specified in the announcement today&#8211; users will be given the optioin to disable the link between information on their profile and Bing search results. Furthermore, data from users under the age of 18 will not be integrated into any searches.
+Naturally, privacy will be a concern for users. When the integration of Bing and Facebook launches soon –a date was not specified in the announcement today– users will be given the optioin to disable the link between information on their profile and Bing search results. Furthermore, data from users under the age of 18 will not be integrated into any searches.

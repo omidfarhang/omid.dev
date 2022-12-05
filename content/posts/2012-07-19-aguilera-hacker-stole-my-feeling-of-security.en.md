@@ -25,7 +25,7 @@ Aguilera's victim impact statement does not suggest a specific punishment for Ch
 
 In a court order docketed today, Judge Otero [rejected a prosecution request](http://www.thesmokinggun.com/file/christina-aguilera-letter?page=1) to play at Chaney's sentencing a videotape statement recorded by one of his female victims. 
 
-Government lawyers reported that the victim&#8211;who a TSG source [identified as actress Scarlett Johansson](http://www.thesmokinggun.com/documents/celebrity/scarlett-johansson-video-testimony-684512)&#8211;would not be able to attend Chaney's July 23 sentencing since she is “scheduled to be in Europe for business meetings and personal matters.” 
+Government lawyers reported that the victim–who a TSG source [identified as actress Scarlett Johansson](http://www.thesmokinggun.com/documents/celebrity/scarlett-johansson-video-testimony-684512)–would not be able to attend Chaney's July 23 sentencing since she is “scheduled to be in Europe for business meetings and personal matters.” 
 
 Otero ruled that the victim “could provide a written statement and counsel for the government may read the statement into the record.” In the alternative, Otero said that prosecutors could make a motion seeking to postpone Chaney's sentencing date to accommodate the victim's schedule. 
 

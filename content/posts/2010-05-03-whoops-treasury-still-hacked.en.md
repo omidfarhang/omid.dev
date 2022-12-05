@@ -1,5 +1,5 @@
 ---
-title: "Whoops &#8211; Treasury still hacked."
+title: "Whoops – Treasury still hacked."
 date: 2010-05-03T20:49:00+00:00
 layout: single
 author_profile: true

@@ -18,11 +18,11 @@ Currently cyber criminals try to make fast money by spamming out emails in masse
 
 Some hints to detect that this is a scam and no real offer:
 
-&#8211; The address the mail was sent to is wrong; the real recipients address was BCC’ed.  
-&#8211; The recipient isn’t addressed via his/her real name and nowhere addressed directly.  
-&#8211; Sometimes Umlauts get used, sometimes they are replaced by “ae”, “oe”, “ue”, and sometimes even just the basis letter is used.  
-&#8211; An advocate would send something like this by old-school snail mail. Additionally, some sending-proof-system like registered letters gets used.  
-&#8211; An advocate wouldn’t use services like Ukash.
+– The address the mail was sent to is wrong; the real recipients address was BCC’ed.  
+– The recipient isn’t addressed via his/her real name and nowhere addressed directly.  
+– Sometimes Umlauts get used, sometimes they are replaced by “ae”, “oe”, “ue”, and sometimes even just the basis letter is used.  
+– An advocate would send something like this by old-school snail mail. Additionally, some sending-proof-system like registered letters gets used.  
+– An advocate wouldn’t use services like Ukash.
 
 So please, if you received that mail, just smile about it and delete it. Don’t pay in any case!
 

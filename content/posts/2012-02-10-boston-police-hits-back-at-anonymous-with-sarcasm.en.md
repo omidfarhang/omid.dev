@@ -18,12 +18,12 @@ A week ago, the BPDNews.com website which provides news about the Boston police 
 
 ![](http://lh6.ggpht.com/-pf6fj9322Us/TzUNjJw0OhI/AAAAAAAAEpE/CXGZRLu1MkY/s1600-h/hacked-police%25255B4%25255D.jpg)
 
-After almost a week of downtime, Boston Police have managed to bring their website back up &#8211; and have proven they have got a sense of humor by making a [video](http://www.youtube.com/watch?v=ILhiW76B3H8) about the hack.
+After almost a week of downtime, Boston Police have managed to bring their website back up – and have proven they have got a sense of humor by making a [video](http://www.youtube.com/watch?v=ILhiW76B3H8) about the hack.
 
 With straight faces, police officers explain how they were in Dunkin' Donuts when they first heard about the hack, and how they are struggling to make sense of a world without access to BPDNews.com:
 
 {{< youtube ILhiW76B3H8 >}}
 
-BPDNews.com &#8211; The Boston Police Virtual Community
+BPDNews.com – The Boston Police Virtual Community
 
 As one officer explains, “My reaction was, &#8216;Why would anybody want to destroy a perfectly good KRS-One song?'”

@@ -29,9 +29,9 @@ What if I take life easier and don’t afraid of death? Life will be happier, so
 
 So what if I die? It has pros and cons!
 
-&#8211;Pros: I would not have to take anymore s\*** in my life, I would not have anymore problem, my family and friends would not have to listen to my complains anymore, I would not live with the wishes that I never can accomplish, one less person wasting oxygen in the world, less food is being eaten in the world, my family can throw out my stuff and they will have more space!
+–Pros: I would not have to take anymore s\*** in my life, I would not have anymore problem, my family and friends would not have to listen to my complains anymore, I would not live with the wishes that I never can accomplish, one less person wasting oxygen in the world, less food is being eaten in the world, my family can throw out my stuff and they will have more space!
 
-&#8211;Cons: I cannot think of any, maybe my family and some friends will miss me for a few days, but “Beneath the stains of time, The feelings disappear” so time will heal this one.
+–Cons: I cannot think of any, maybe my family and some friends will miss me for a few days, but “Beneath the stains of time, The feelings disappear” so time will heal this one.
 
 These are part of the stuff that comes into my mind and go, some come back and some not, Some of them are always by me, when I’m walking alone and listening music, when I’m having shower, when I’m in class, when I’m in bed, when I’m doing homework, when I’m having dinner, when watching a movie… and they bother doing my everyday task, I try to get rid of them but they don’t want to go away, specially after every failure they get worse, but I will find a workaround for it.
 

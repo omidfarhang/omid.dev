@@ -1,5 +1,5 @@
 ---
-title: "Iran makes its own anti-virus software &#8211; would you buy it?"
+title: "Iran makes its own anti-virus software – would you buy it?"
 date: 2012-05-03T14:18:00+00:00
 layout: single
 author_profile: true
@@ -17,7 +17,7 @@ It is said that experts from Shiraz Computer Emergency Response Team of APA (Aca
 
 Of course, Iran is no stranger to malware. It found itself thrust into the spotlight in 2010 when the infamous Stuxnet worm was widely reported to have infected industrial plants (including nuclear plants) in the country with the seeming intention to target and sabotage SCADA systems. 
 
-This understandably led to some excitable &#8211; but not always accurate &#8211; headlines. 
+This understandably led to some excitable – but not always accurate – headlines. 
 
 [<img title="standard-stuxnet1" border="0" alt="standard-stuxnet1" src="http://lh4.ggpht.com/-RzFGtnmbr6c/T6KMmxXC1nI/AAAAAAAAF24/qNjZcnC2Dg8/standard-stuxnet1_thumb.jpg?imgmax=800" width="499" height="220" />](http://lh3.ggpht.com/-SemWoYYvFZk/T6KMk67ZTPI/AAAAAAAAF2w/rausV6dvXnM/s1600-h/standard-stuxnet1%25255B2%25255D.jpg) 
 
@@ -29,8 +29,8 @@ It's unclear how Iran will determine if their home-grown anti-virus has been a t
 
 Will they submit if for testing by independent tests by the likes of [AV-Test.org](http://www.av-test.org/en/home/)? Will they send it to the folks at [Virus Bulletin](http://www.virusbtn.com/) in the hope of winning a VB100 award for 100% detection of in-the-wild viruses with no false alarms? Will they test it on a wide variety of operating system versions and measure its impact on performance? 
 
-But the real question that springs to my mind is this &#8211; would you buy an anti-virus program officially written by your own country? How about a foreign country? 
+But the real question that springs to my mind is this – would you buy an anti-virus program officially written by your own country? How about a foreign country? 
 
-One thing's for sure &#8211; be careful if you are tempted to buy an anti-virus written by the Greek authorities. They do have a [history of trojan horses](http://nakedsecurity.sophos.com/2008/04/23/hello-world/) after all.. 
+One thing's for sure – be careful if you are tempted to buy an anti-virus written by the Greek authorities. They do have a [history of trojan horses](http://nakedsecurity.sophos.com/2008/04/23/hello-world/) after all.. 
 
 If Iran \*did\* make its anti-virus software available, wouldn't other governments test it? After all, if you know that a country's infrastructure is partly reliant on a particular anti-virus product wouldn't any attacker automatically test if its malware and/or vulnerability exploit could bypass it?

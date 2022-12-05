@@ -13,7 +13,7 @@ category: techblog
 
 All of the sites were reportedly outside the country and more will be clamped down this month, [XBIZ newswire reported Wednesday](http://newswire.xbiz.com/view.php?id=151402). However, this does not mean that such sites will be allowed to operate during the rest of the year, Indonesia's communication and information minister, Tifatul Sembiring said. 
 
-This measure is also in line Indonesia's electronic information and transaction law, and telecommunications law, which targets “negative content”&#8211;defined as porn, defamatory speech and malicious viruses&#8211;within the country, Sembiring noted. 
+This measure is also in line Indonesia's electronic information and transaction law, and telecommunications law, which targets “negative content”–defined as porn, defamatory speech and malicious viruses–within the country, Sembiring noted. 
 
 He also called on the public's assistance to block the Internet's two billion porn sites, many of which can still be accessed despite the blockage. 
 

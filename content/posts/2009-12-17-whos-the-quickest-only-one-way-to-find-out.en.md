@@ -22,7 +22,7 @@ You can see the META tag redirect that will instruct the browser to immediately 
 
 Curiosity got the better of me. Which payload ‘wins’ when the browser loads the page? The META redirect or the JavaScript? [Only one way to find out](http://en.wikipedia.org/wiki/Harry_Hill's_TV_Burp#Fights)…
 
-Ok, not quite [Harry Hill](http://www.itv.com/entertainment/comedy/harryhillstvburp/default.html), but I loaded the page with Internet Explorer on a test machine to find out. It appears that the malicious script has precedence over the META redirect, and the iframe payload was delivered. Unfortunately, not a happy ending &#8211; infection with rogue security software.
+Ok, not quite [Harry Hill](http://www.itv.com/entertainment/comedy/harryhillstvburp/default.html), but I loaded the page with Internet Explorer on a test machine to find out. It appears that the malicious script has precedence over the META redirect, and the iframe payload was delivered. Unfortunately, not a happy ending – infection with rogue security software.
 
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqtSnuHqiI/AAAAAAAAAYc/kN3jy-GQmIA/s640/infmed1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqtSnuHqiI/AAAAAAAAAYc/kN3jy-GQmIA/s1600-h/infmed1.jpg)
 

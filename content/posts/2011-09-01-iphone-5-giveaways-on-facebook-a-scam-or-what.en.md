@@ -1,5 +1,5 @@
 ---
-title: "iPhone 5 giveaways on Facebook &#8211; a scam or what?"
+title: "iPhone 5 giveaways on Facebook – a scam or what?"
 date: 2011-09-01T15:49:00+00:00
 layout: single
 author_profile: true

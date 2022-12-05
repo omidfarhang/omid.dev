@@ -18,9 +18,9 @@ category: techblog
 
 The decision to release Firesheep publicly is a <a href="http://news.ycombinator.com/item?id=1827928" target="_blank">controversial</a> one. On the good side, it's reminded people that some of their common web surfing habits are dangerously insecure.
 
-Many websites use HTTPS (secure HTTP) for login, which protects your password. But they revert to insecure HTTP for the rest of the session. After you have logged in, security relies on the browser sending a session cookie &#8211; a secret authentication token &#8211; in every request.
+Many websites use HTTPS (secure HTTP) for login, which protects your password. But they revert to insecure HTTP for the rest of the session. After you have logged in, security relies on the browser sending a session cookie – a secret authentication token – in every request.
 
-Websites which send session cookies in unencrypted HTTP requests are exposing your login credentials &#8211; albeit only for one session &#8211; to anyone else nearby on the network. If you're on an unencrypted WiFi connection, for example at a local coffee bar, then anyone within range of the WiFi access point can hijack your login.
+Websites which send session cookies in unencrypted HTTP requests are exposing your login credentials – albeit only for one session – to anyone else nearby on the network. If you're on an unencrypted WiFi connection, for example at a local coffee bar, then anyone within range of the WiFi access point can hijack your login.
 
 Since Firesheep proves just how dangerous it is to send session cookies in insecure network packets, it is likely to push businesses such as Facebook and Twitter to adopt HTTPS as an all-session default much sooner than they might otherwise have done.
 
@@ -34,9 +34,9 @@ He's also [aghast](http://codebutler.com/firesheep-a-week-later-ethics-and-legal
 
 Butler wants to have his cake and eat it.
 
-He's suggesting that anyone who consents to install his tool &#8211; even though its primary function is to hijack other people's accounts &#8211; should be free to do so. Indeed, in his own blog, he offers the viewpoint that “code is a form of speech, and the freedom of speech must remain protected.” (As it happens, I don't disagree.)
+He's suggesting that anyone who consents to install his tool – even though its primary function is to hijack other people's accounts – should be free to do so. Indeed, in his own blog, he offers the viewpoint that “code is a form of speech, and the freedom of speech must remain protected.” (As it happens, I don't disagree.)
 
-But he vigorously denies the right to Microsoft &#8211; and all other security companies &#8211; to [express an opinion](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=HackTool%3AJS%2FFiresheep) about his software when they come across it. That, opines Butler, is tantamount to censorship.
+But he vigorously denies the right to Microsoft – and all other security companies – to [express an opinion](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=HackTool%3AJS%2FFiresheep) about his software when they come across it. That, opines Butler, is tantamount to censorship.
 
 In Butler's world, a network administrator who decided to scan his network for potentially unwanted software, including tools that can be used for hacking purposes (the category in which Microsoft, rather reasonably, has placed Firesheep), would have to accept that his security tools could not report openly on what they find, because that would be censorship.
 

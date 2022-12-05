@@ -18,9 +18,9 @@ A couple of weeks ago, Digg (finally) launched its official iPhone application t
 
 The list of improvements and fixes is as follows:
 
-> &#8211; Closing the app on a Digg story page doesn’t result in a crash when reopening the app  
-> &#8211; A range of stability improvements allows the app to be used for longer periods without crashing  
-> &#8211; An “open in Safari” option for viewing websites from the story pages  
-> &#8211; The app opens on the last page viewed when it was last closed
+> – Closing the app on a Digg story page doesn’t result in a crash when reopening the app  
+> – A range of stability improvements allows the app to be used for longer periods without crashing  
+> – An “open in Safari” option for viewing websites from the story pages  
+> – The app opens on the last page viewed when it was last closed
 
 The ability to comment from the applications is, unfortunately, still missing, but the Digg dev team promises to include it in the app “very soon”. You can get the app <a href="itms://itunes.apple.com/us/app/digg/id362872995?mt=8" target="_blank">here</a> [iTunes link].

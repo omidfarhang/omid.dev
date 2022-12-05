@@ -16,7 +16,7 @@ BitDefender today identified a new e-threat that combines the destructive behavi
 
 Once executed, the worm creates between seven and eleven copies of itself (depending on the variant) in critical areas of the Windows system.
 
-Win32.Worm.Zimuse.A is an extremely dangerous piece of malware. Unlike average worms, Win32.Worm.Zimuse.A could lead to severe data loss as it overwrites the first 50 KB of the Master Boot Record &#8211; a key zone of the hard disk drive.
+Win32.Worm.Zimuse.A is an extremely dangerous piece of malware. Unlike average worms, Win32.Worm.Zimuse.A could lead to severe data loss as it overwrites the first 50 KB of the Master Boot Record – a key zone of the hard disk drive.
 
 In order to execute on each Windows boot-up, the worm sets the following registry entry:
 

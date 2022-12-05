@@ -1,5 +1,5 @@
 ---
-title: "Facebook Scam: OMG &#8211; I just hate RIHANNA after watching this video"
+title: "Facebook Scam: OMG – I just hate RIHANNA after watching this video"
 date: 2012-03-09T21:27:00+00:00
 layout: single
 author_profile: true
@@ -38,6 +38,6 @@ Because if you do share the link, you will next be duped into taking an online s
 
 It's people's natural curiosity and desire to read (and view!) a sleazy celebrity story that gives scams like this life. 
 
-If you were fooled into participating in this scam remove the message from your newsfeed, and delete any messages you may have inadvertently shared with your friends. That way at least you are no longer spreading it with your online chums. You can also report the link as spam &#8211; hopefully if enough people do it, Facebook will begin to stop the scam from spreading. 
+If you were fooled into participating in this scam remove the message from your newsfeed, and delete any messages you may have inadvertently shared with your friends. That way at least you are no longer spreading it with your online chums. You can also report the link as spam – hopefully if enough people do it, Facebook will begin to stop the scam from spreading. 
 
 Make sure that you keep informed about the latest scams spreading fast across Facebook and other internet attacks. Join the <a href="https://www.facebook.com/omidsnetwork/" target="_blank">Omid's Network page on Facebook</a>****, where we regularly share information on threats and discuss the latest security news.

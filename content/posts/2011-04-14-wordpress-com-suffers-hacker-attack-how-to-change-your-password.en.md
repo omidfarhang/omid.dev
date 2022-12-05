@@ -1,5 +1,5 @@
 ---
-title: "WordPress.com suffers hacker attack &#8211; how to change your password"
+title: "WordPress.com suffers hacker attack – how to change your password"
 date: 2011-04-14T07:32:00+00:00
 layout: single
 author_profile: true

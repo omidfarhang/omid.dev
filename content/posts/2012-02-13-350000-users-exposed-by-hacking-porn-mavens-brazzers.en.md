@@ -30,4 +30,4 @@ For instance, he could have called Brazzers, explained the situation and given t
 
 Another approach would have been to contact a single journalist and showed him/her the vulnerability in action. This would have protected the site's customers much better and alerted us all once again to the vulnerabilities that exist on the web. 
 
-But there is a take-away for us all here &#8211; individuals and companies alike: Good housekeeping matters. Make sure to close down accounts and websites you no longer use. Leaving them unpatched, vulnerable and connected is just trouble waiting to happen.
+But there is a take-away for us all here – individuals and companies alike: Good housekeeping matters. Make sure to close down accounts and websites you no longer use. Leaving them unpatched, vulnerable and connected is just trouble waiting to happen.

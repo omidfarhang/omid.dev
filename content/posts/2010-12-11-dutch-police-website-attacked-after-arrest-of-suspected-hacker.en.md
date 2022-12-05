@@ -22,6 +22,6 @@ Janus didn't confirm that the downtime of the websites was definitely connected 
 
 Members of the public, sympathetic with the actions of the controversial WikiLeaks whistle-blowing website, have been downloading a DDoS attack tool called LOIC, turning their home computers into an attack tool against websites in AnonOps' bad books.
 
-Remember folks &#8211; if you assist in a denial-of-service attack you could be looking at a lengthy jail sentence.
+Remember folks – if you assist in a denial-of-service attack you could be looking at a lengthy jail sentence.
 
 The unnamed teenager, who is said to have confessed to playing a part in the attacks against the PayPal and MasterCard websites, is due to appear in a court in Rotterdam today.

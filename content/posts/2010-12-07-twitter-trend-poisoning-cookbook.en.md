@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-**Symantec Connect:** We have become familiar enough with malware creators poisoning popular search engine terms through SEO techniques in order to deliver their malicious files to a greater pool of unsuspecting users. Other popular services such as Twitter have not escaped the watchful eyes of the miscreants. This attack involves pumping out many of the same tweets with different accounts to push them into the Twitter trending list. That way more people are likely to see them even if the individual user accounts being used to send the tweets don't have that many followers. Incidentally many of the accounts used in this attack don't have that many followers and are quite fresh &#8211; meaning they are probably fake accounts set up specifically for the purpose of spamming tweets.
+**Symantec Connect:** We have become familiar enough with malware creators poisoning popular search engine terms through SEO techniques in order to deliver their malicious files to a greater pool of unsuspecting users. Other popular services such as Twitter have not escaped the watchful eyes of the miscreants. This attack involves pumping out many of the same tweets with different accounts to push them into the Twitter trending list. That way more people are likely to see them even if the individual user accounts being used to send the tweets don't have that many followers. Incidentally many of the accounts used in this attack don't have that many followers and are quite fresh – meaning they are probably fake accounts set up specifically for the purpose of spamming tweets.
 
 To carry out this kind of attack, the miscreants are clearly following a tried-and-tested recipe, borrowed from [SEO-based attacks](http://www.symantec.com/connect/blogs/evolution-seo-poisoning) and tweaked for Twitter.
 
@@ -64,7 +64,7 @@ As far as we can tell, the shortened URLs were only created on December 1st.
 
 [<img title="tiny_url_isuny_stats" border="0" alt="tiny_url_isuny_stats" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP4v6f9o97I/AAAAAAAADak/Ckkdl3qL9TM/tiny_url_isuny_stats_thumb%5B2%5D.png?imgmax=800" width="429" height="772" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4v4oJIa7I/AAAAAAAADag/I9zEnyXB45g/s1600-h/tiny_url_isuny_stats%5B4%5D.png)
 
-At this time, we have noted that the masked URLs end up at either mybuger.info or ljivore.info (through several levels of redirection). Mybuger.info uses a social engineering trick, asking the user to download a file to view a video (activex.exe &#8211; detected as [Trojan.Bamital](http://www.symantec.com/security_response/writeup.jsp?docid=2010-070108-5941-99)). Note that the URL in the browser says bestvideo.has.it but the content is actually from mybuger.info.
+At this time, we have noted that the masked URLs end up at either mybuger.info or ljivore.info (through several levels of redirection). Mybuger.info uses a social engineering trick, asking the user to download a file to view a video (activex.exe – detected as [Trojan.Bamital](http://www.symantec.com/security_response/writeup.jsp?docid=2010-070108-5941-99)). Note that the URL in the browser says bestvideo.has.it but the content is actually from mybuger.info.
 
 [<img title="mybuger.article thumbnail" border="0" alt="mybuger.article thumbnail" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP4v-LY3vEI/AAAAAAAADas/S0wRR51PbK4/mybuger.article%20thumbnail_thumb%5B1%5D.jpg?imgmax=800" width="504" height="355" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4v8PGqeQI/AAAAAAAADao/pF9oyC0OGZc/s1600-h/mybuger.article%20thumbnail%5B3%5D.jpg)
 

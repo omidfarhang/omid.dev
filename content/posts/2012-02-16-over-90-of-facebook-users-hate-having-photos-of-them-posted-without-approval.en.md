@@ -17,11 +17,11 @@ category: techblog
 
 Sophos has polled over 800 Facebook users, asking whether people should seek permission before posting photographs or videos online of others. 
 
-Although a large majority &#8211; 83% &#8211; of polled Facebook users think it's just common courtesy to ask permission before posting a photo or video of someone else (and a further 8% felt it should be illegal not to have received approval), some respondents believed that Facebook's existing tagging controls allowed you to remove a picture that you didn't want published online. 
+Although a large majority – 83% – of polled Facebook users think it's just common courtesy to ask permission before posting a photo or video of someone else (and a further 8% felt it should be illegal not to have received approval), some respondents believed that Facebook's existing tagging controls allowed you to remove a picture that you didn't want published online. 
 
 Unfortunately, that's not correct. 
 
-Last August, Facebook revamped its privacy settings &#8211; introducing the option to review photos and posts that you have been tagged in before they appear on your own profile page. 
+Last August, Facebook revamped its privacy settings – introducing the option to review photos and posts that you have been tagged in before they appear on your own profile page. 
 
 (You may or may not be surprised to hear that Facebook has not enabled this option by default.) 
 
@@ -29,11 +29,11 @@ However, rejecting a photo tagged in your name from appearing on your profile pa
 
 [<img title="remove-tag" border="0" alt="remove-tag" src="http://lh5.ggpht.com/-GqxgK4DXXjA/Tz2LvdHSvII/AAAAAAAAE08/VRoN3il3R2c/remove-tag_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="467" />](http://lh6.ggpht.com/-2TIpEE9iAfY/Tz2LrvyyobI/AAAAAAAAE00/BrXhVx-7XiE/s1600-h/remove-tag%25255B4%25255D.jpg) 
 
-In short, you can't force a photo of you to be taken down &#8211; but you can remove your name from its tags after it has been published. You can't stop friends from sharing photos of you, but you can block it (after it is published) from appearing on your own profile. 
+In short, you can't force a photo of you to be taken down – but you can remove your name from its tags after it has been published. You can't stop friends from sharing photos of you, but you can block it (after it is published) from appearing on your own profile. 
 
 The best you can do is keep requesting that your Facebook friends untag you from unflattering photographs, or pictures that you would rather remain private, and ask that they request permission to include you in photos in future. 
 
-The situation is arguably more complicated if you're not even a member of Facebook. You can still be tagged in a Facebook photo, and your tagger can include your email address &#8211; meaning you are informed that you have been tagged and invited to visit a link to view the photo, but you won't be able to do anything else without signing up for the site. 
+The situation is arguably more complicated if you're not even a member of Facebook. You can still be tagged in a Facebook photo, and your tagger can include your email address – meaning you are informed that you have been tagged and invited to visit a link to view the photo, but you won't be able to do anything else without signing up for the site. 
 
 [<img title="facebook-camera-170" border="0" alt="facebook-camera-170" align="right" src="http://lh5.ggpht.com/-qfI6bnUf2zY/Tz2L2MXfwII/AAAAAAAAE1M/DTdeLtohouQ/facebook-camera-170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/-4w6GgupbCJ0/Tz2LzAxc5QI/AAAAAAAAE1E/BNeQhio-VS8/s1600-h/facebook-camera-170%25255B3%25255D.jpg)Facebook users have time and time again contacted Naked Security, requesting that the social network implements a system whereby photos and videos can only be tagged with a name \*after\* the subject has given their permission. 
 

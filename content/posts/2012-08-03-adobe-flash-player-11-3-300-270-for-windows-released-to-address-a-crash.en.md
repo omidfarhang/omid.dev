@@ -20,8 +20,8 @@ Please be aware that this release is not available from the Product Download Cen
 
 This release will be distributed using the following methods: 
 
-  * Silent auto update &#8211; If enabled and functional, the silent auto update service will automatically install this build within 24 hours. 
-  * Direct download &#8211; You can download the installers directly using the links below 
+  * Silent auto update – If enabled and functional, the silent auto update service will automatically install this build within 24 hours. 
+  * Direct download – You can download the installers directly using the links below 
       * [Flash Player for ActiveX (Internet Explorer)](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player_ax.exe) 
       * [Flash Player Plug-In (All other browsers)](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe)
   * Flash Player Distribution page for distribution license agreement holders 

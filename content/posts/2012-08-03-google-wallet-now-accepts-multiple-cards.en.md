@@ -17,6 +17,6 @@ NEW YORK (CNNMoney) — Google just took your phone a step closer to replacing y
 
 The company expanded its mobile payments platform, Google Wallet, to accept multiple credit cards. Users can now connect their Visa , MasterCard, American Express, or Discover cards with the new version of Google Wallet. It's an update from the company's previous partnership with MasterCard, Citigroup and Sprint. 
 
-Instead of swiping a card, users enter their card info into the service and are able to tap their phones at venues accepting Google Wallet payments. It's a step forward for the company looking to delve into the mobile payment realm &#8211; an increasingly crowded space. 
+Instead of swiping a card, users enter their card info into the service and are able to tap their phones at venues accepting Google Wallet payments. It's a step forward for the company looking to delve into the mobile payment realm – an increasingly crowded space. 
 
 Continue Reading in CNNMoney: <a href="http://money.cnn.com/2012/08/02/technology/google-wallet/" target="_blank">http://money.cnn.com/2012/08/02/technology/google-wallet/</a>

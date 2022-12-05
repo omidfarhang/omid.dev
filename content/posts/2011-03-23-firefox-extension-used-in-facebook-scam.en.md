@@ -20,7 +20,7 @@ category: techblog
 
 [<img title="fbspam1" border="0" alt="fbspam1" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYmllKJ48kI/AAAAAAAADxY/P78cMefkU2w/fbspam1_thumb%5B3%5D.jpg?imgmax=800" width="493" height="85" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TYmli2cbRGI/AAAAAAAADxU/9bdQKrS8k3M/s1600-h/fbspam1%5B5%5D.jpg)
 
-So far &#8211; nothing new. After the user grants the application the requested privileges, which of course will send out the above mentioned spam posts to all his or her friends, the user gets redirected to a download instruction site. There he or she is asked to download the Firefox browser and then install a popular Firefox extension which allegedly gets downloaded over 27,000 times per week. This simple tweak should generate a new menu entry in Facebook which would then show user statistics.
+So far – nothing new. After the user grants the application the requested privileges, which of course will send out the above mentioned spam posts to all his or her friends, the user gets redirected to a download instruction site. There he or she is asked to download the Firefox browser and then install a popular Firefox extension which allegedly gets downloaded over 27,000 times per week. This simple tweak should generate a new menu entry in Facebook which would then show user statistics.
 
 [<img title="fbspam2" border="0" alt="fbspam2" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYmlpUBPE5I/AAAAAAAADxg/2bQylVixNaI/fbspam2_thumb%5B1%5D.jpg?imgmax=800" width="504" height="267" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TYmlnBT6kNI/AAAAAAAADxc/qanQ1cEM8SQ/s1600-h/fbspam2%5B3%5D.jpg)
 

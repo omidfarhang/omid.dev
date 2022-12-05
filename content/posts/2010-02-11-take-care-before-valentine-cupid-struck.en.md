@@ -22,7 +22,7 @@ Note: It seems that the malware writers are using valid images from legitimate W
 
 Cute isn’t it? However, it does not just drop that Valentine related greeting, it also drops and executes the following file:
 
-82.exe &#8211; detected as Backdoor:Win32/Bifrose.AE
+82.exe – detected as Backdoor:Win32/Bifrose.AE
 
 Backdoor:Win32/Bifrose is a family of backdoor Trojans that allows a remote attacker to access a compromised computer. It usually drops a copy of the backdoor on the following folder:
 

@@ -38,7 +38,7 @@ Tarja's forthcoming new album “Colours In The Dark” will be released on Augu
 Tarja will perform the songs from “Colours In The Road Tour” starting with her forthcoming tour.
 
 Colours In The Road Tour 2013  
-17.10. Olomouc &#8211; Hala University Palackeho (CZ)  
+17.10. Olomouc – Hala University Palackeho (CZ)  
 19.10. Berlin — Huxley's (GER)  
 20.10. Wieze — Metal Female Voices Festival (BE)  
 22.10. Hamburg — Docks (GER)  

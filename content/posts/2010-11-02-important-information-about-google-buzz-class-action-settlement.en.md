@@ -21,7 +21,7 @@ The settlement acknowledges that we quickly changed the service to address users
 
 Just to be clear, this is not a settlement in which people who use Gmail can file to receive compensation. Everyone in the U.S. who uses Gmail is included in the settlement, unless you personally decide to opt out before December 6, 2010. The Court will consider final approval of the agreement on January 31, 2011. This email is a summary of the settlement, and more detailed information and instructions approved by the court, including instructions about how to opt out, object, or comment, are available at [http://www.BuzzClassAction.com](http://www.buzzclassaction.com/).
 
-——————————————————————&#8211;  
+——————————————————————–  
 This mandatory announcement was sent to all Gmail users in the United States as part of a legal settlement and was authorized by the United States District Court for the Northern District of California.
 
 Google Inc. | 1600 Amphitheatre Parkway | Mountain View, CA 94043

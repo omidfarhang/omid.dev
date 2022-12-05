@@ -22,7 +22,7 @@ If you follow the link, you end up to a page looking like this:
 
 [<img title="fbhole1" border="0" alt="fbhole1" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S_aVZbRNHQI/AAAAAAAACRc/Rw2OmZLh1O0/fbhole1_thumb%5B2%5D.png?imgmax=800" width="504" height="455" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S_aVT0bkB9I/AAAAAAAACRY/Q6QCsGrraO0/s1600-h/fbhole1%5B4%5D.png) 
 
-The page shows a fake error message. If you click **anywhere on the page**, you will trigger a script that will try to post the same message to **your** Facebook wall. This is done with an invisible iframe that follows your mouse around &#8211; causing you to click on an invisible “publish” button. In addition of the wall message post, nothing else happens.
+The page shows a fake error message. If you click **anywhere on the page**, you will trigger a script that will try to post the same message to **your** Facebook wall. This is done with an invisible iframe that follows your mouse around – causing you to click on an invisible “publish” button. In addition of the wall message post, nothing else happens.
 
 [<img title="fbhole2" border="0" alt="fbhole2" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S_aVcngenKI/AAAAAAAACRk/RnLYVRyD7Aw/fbhole2_thumb%5B1%5D.png?imgmax=800" width="171" height="292" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S_aVa4bOCWI/AAAAAAAACRg/cB93PJ67kEw/s1600-h/fbhole2%5B3%5D.png) 
 

@@ -1,5 +1,5 @@
 ---
-title: "My Facebook wall has been viewed X times &#8211; viral survey scam spreads rapidly"
+title: "My Facebook wall has been viewed X times – viral survey scam spreads rapidly"
 date: 2011-04-04T20:36:00+00:00
 layout: single
 author_profile: true
@@ -47,13 +47,13 @@ Different incarnations of the scam use slightly different wording, and dream up 
 
 When you see one of your Facebook friends post a message like the above, chances are that you might be tempted to try it out for yourself. So what does happen if you click on one of those links?
 
-Well, the first thing you see is a standard Facebook application request dialog &#8211; requesting your permission to grant a third-party app access to your Facebook profile. If you give it permission, then it will be able to peruse your Facebook page and post messages in your name.
+Well, the first thing you see is a standard Facebook application request dialog – requesting your permission to grant a third-party app access to your Facebook profile. If you give it permission, then it will be able to peruse your Facebook page and post messages in your name.
 
 [<img title="facebook-wall-2" border="0" alt="facebook-wall-2" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TZokrAMG0kI/AAAAAAAADzw/g1rhHaLliwI/facebook-wall-2_thumb%5B2%5D.jpg?imgmax=800" width="498" height="321" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TZokl5qxdHI/AAAAAAAADzs/BkqsDxk2t50/s1600-h/facebook-wall-2%5B4%5D.jpg)
 
 The scammers have created a variety of different rogue applications that they are using in this particular scam. Facebook, sadly, doesn't adequately verify the people who create apps so you're playing Russian Roulette when you allow a complete stranger this level of access to your Facebook page.
 
-Of course, you want to know how many boys or girls are checking out your Facebook &#8211; so you're likely just to grant the rogue application permission to your Facebook page.
+Of course, you want to know how many boys or girls are checking out your Facebook – so you're likely just to grant the rogue application permission to your Facebook page.
 
 Big mistake. You should have clicked on “Don't allow” instead.
 

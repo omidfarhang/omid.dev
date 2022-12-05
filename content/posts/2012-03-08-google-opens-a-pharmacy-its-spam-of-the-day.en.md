@@ -32,7 +32,7 @@ Part of the spam message reads as follows:
 
 <tt>Visit Google's Accredited Pharmacy</tt> </p> 
 
-There are plenty of websites claiming to offer to sell you medications and drugs for knock-down prices. If you're too embarrassed to go to the doctor, or money is tight, you might be tempted to make a purchase from one of these online sites &#8211; but I would recommend that you be very careful. 
+There are plenty of websites claiming to offer to sell you medications and drugs for knock-down prices. If you're too embarrassed to go to the doctor, or money is tight, you might be tempted to make a purchase from one of these online sites – but I would recommend that you be very careful. 
 
 The criminal gangs promoting and working behind the scenes at fake internet pharmacies are putting customers' health, personal information and credit card details at risk. They have no problem breaking the law to promote these websites, so you can be sure they'll have no qualms in exploiting your confidential data or selling you medications which may put your life in danger. 
 

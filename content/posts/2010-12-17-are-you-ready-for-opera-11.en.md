@@ -30,7 +30,7 @@ Extensions help you personalize your browser and enhance what Opera can do. More
 
   1. [NoAds](https://addons.opera.com/addons/extensions/details/noads/) authored by Lex1. The top ad-blocking extension for Opera. 
   2. [LastPass](https://addons.opera.com/addons/extensions/details/lastpass/) authored by lastpass. LastPass is a free password manager and form filler. 
-  3. [FastestTube](https://addons.opera.com/addons/extensions/details/fastesttube-youtube-video-downloader/) &#8211; YouTube Video Downloader authored by fastesttube. Download any video from YouTube. 
+  3. [FastestTube](https://addons.opera.com/addons/extensions/details/fastesttube-youtube-video-downloader/) – YouTube Video Downloader authored by fastesttube. Download any video from YouTube. 
   4. [Image preview](https://addons.opera.com/addons/extensions/details/image-preview-popup/) authored by whochan. Displays a pop-up preview of an image. 
   5. [Translate](https://addons.opera.com/addons/extensions/details/translate/) authored by neilj. Automagically translates foreign-language webpages.
 

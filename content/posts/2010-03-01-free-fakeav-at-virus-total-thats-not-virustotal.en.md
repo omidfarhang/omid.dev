@@ -32,7 +32,7 @@ Today we came across such a sample arriving at one of our spamtraps through a ca
 > Thank you. Yours truly, [Redacted].  
 > \***\***\***\***\***
 
-That’s right &#8211; the malware authors registered a domain called virus-total.TLD. (The suffix is purposely removed here so that the curious won’t get themselves in trouble). This is in contrast to the legitimate site which is at virustotal.com with no dashes in the name.  
+That’s right – the malware authors registered a domain called virus-total.TLD. (The suffix is purposely removed here so that the curious won’t get themselves in trouble). This is in contrast to the legitimate site which is at virustotal.com with no dashes in the name.  
 The link in the forum message would bring an unsuspecting user to a page which says:
 
 > “We detected viruses activity from your computer. If that is really so, we highly recommend you to install our security tool and keep your computer running at its best.. Please, wait for a moment. You’ll be redirected to perform scanning…”

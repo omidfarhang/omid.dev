@@ -17,8 +17,8 @@ category: techblog
 
 I read through almost all of the LibreOffice bugs relating to the website, the installer, and the java dependencies and I've filed new bugs where appropriate and added comments to existing bugs as well. If you'd like to follow along, here are the bug reports. 
 
-Bug 44585 &#8211; [“Download” button should auto-detect OS and language and initiate download of the latest release version](https://bugs.freedesktop.org/show_bug.cgi?id=44585)  
-Bug 46269 &#8211; [remove icons and older versions from download page, offer direct links for all OSes and languages](https://bugs.freedesktop.org/show_bug.cgi?id=46269)  
-Bug 46267 &#8211; [provide a lightweight stub installer with app selection](https://bugs.freedesktop.org/show_bug.cgi?id=46267)  
-Bug 46268 &#8211; [re-order LibreOffice Program Group on Windows](https://bugs.freedesktop.org/show_bug.cgi?id=46268)  
-Bug 31354 &#8211; [Message that JRE is missing and required pops up multiple times on first run](https://bugs.freedesktop.org/show_bug.cgi?id=31354)
+Bug 44585 – [“Download” button should auto-detect OS and language and initiate download of the latest release version](https://bugs.freedesktop.org/show_bug.cgi?id=44585)  
+Bug 46269 – [remove icons and older versions from download page, offer direct links for all OSes and languages](https://bugs.freedesktop.org/show_bug.cgi?id=46269)  
+Bug 46267 – [provide a lightweight stub installer with app selection](https://bugs.freedesktop.org/show_bug.cgi?id=46267)  
+Bug 46268 – [re-order LibreOffice Program Group on Windows](https://bugs.freedesktop.org/show_bug.cgi?id=46268)  
+Bug 31354 – [Message that JRE is missing and required pops up multiple times on first run](https://bugs.freedesktop.org/show_bug.cgi?id=31354)

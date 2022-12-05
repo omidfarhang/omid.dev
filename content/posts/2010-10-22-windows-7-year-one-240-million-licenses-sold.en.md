@@ -1,5 +1,5 @@
 ---
-title: "Windows 7 year one &#8211; 240 million licenses sold"
+title: "Windows 7 year one – 240 million licenses sold"
 date: 2010-10-22T21:13:00+00:00
 layout: single
 author_profile: true

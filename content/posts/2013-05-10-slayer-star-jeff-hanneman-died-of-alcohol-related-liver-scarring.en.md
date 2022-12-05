@@ -13,7 +13,7 @@ category: entblog
 ---
 <figure id="attachment_414" aria-describedby="caption-attachment-414" style="width: 189px" class="wp-caption alignright">[<img class="size-medium wp-image-414" alt="Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010." src="/images/2013/05/hanneman2-199x300.jpg" width="199" height="300" srcset="/images/sites/4/2013/05/hanneman2-199x300.jpg 199w, /images/sites/4/2013/05/hanneman2.jpg 346w" sizes="(max-width: 199px) 100vw, 199px" />](/images/2013/05/hanneman2.jpg)<figcaption id="caption-attachment-414" class="wp-caption-text">Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010.</figcaption></figure> 
 
-**(Reuters) &#8211; Guitarist Jeff Hanneman of the seminal heavy metal band Slayer died of alcohol-related cirrhosis of the liver, and not as a result of a flesh-eating bacteria, the remaining members of the U.S. band said.**
+**(Reuters) – Guitarist Jeff Hanneman of the seminal heavy metal band Slayer died of alcohol-related cirrhosis of the liver, and not as a result of a flesh-eating bacteria, the remaining members of the U.S. band said.**
 
 Hanneman, a founder of the band, which was known for its fast tempo, dark themes and pounding drums, died last week at age 49 in Southern California after suffering liver failure.
 

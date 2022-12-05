@@ -28,7 +28,7 @@ However, clicking on the links leads you to a webpage which tricks you into givi
 
 Don't, whatever you do, allow the app to have permission to access your profile. Because then it will start to spread the messages even further, starting with your online Facebook friends.
 
-You won't realize it's doing that, of course, until it's too late &#8211; as you're too distracted by the form asking you for your email details.. oh, and the revenue-generating online survey that the scammers have put up in the front of it..
+You won't realize it's doing that, of course, until it's too late – as you're too distracted by the form asking you for your email details.. oh, and the revenue-generating online survey that the scammers have put up in the front of it..
 
 [<img title="own-email-4" border="0" alt="own-email-4" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TQ-tQL2h3KI/AAAAAAAADhc/WqQc9v0dLXY/own-email-4_thumb%5B2%5D.jpg?imgmax=800" width="498" height="409" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TQ-tNjNe3wI/AAAAAAAADhY/xSmCzNEtqRE/s1600-h/own-email-4%5B4%5D.jpg)
 

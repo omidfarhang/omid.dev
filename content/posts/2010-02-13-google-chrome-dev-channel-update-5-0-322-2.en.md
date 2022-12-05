@@ -34,7 +34,7 @@ The Google Chrome dev channel has been updated to 5.0.322.2 for Windows, Mac and
 
 **Native Client**
 
-* Chrome for Linux and Mac OS 10.6 can now run [Native Client](http://code.google.com/p/nativeclient/) modules directly, no plugin required. To enable this features, run Chrome with the following command line flags _&#8211;internal-nacl &#8211;enable-gpu-plugin &#8211;no-sandbox_.
+* Chrome for Linux and Mac OS 10.6 can now run [Native Client](http://code.google.com/p/nativeclient/) modules directly, no plugin required. To enable this features, run Chrome with the following command line flags _–internal-nacl –enable-gpu-plugin –no-sandbox_.
 * [Platform-independent NPAPI](https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI) extensions for 2D, 3D, and mouse/keyboard events are now available.
 * We'd like to hear from you. Please send feedback to [native-client-discuss@googlegroups.com](mailto:native-client-discuss@googlegroups.com),
 

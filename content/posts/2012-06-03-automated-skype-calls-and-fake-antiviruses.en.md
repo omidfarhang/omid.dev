@@ -18,7 +18,7 @@ You may have received an automated call from a user who claim to be from Skype o
 
 > Attention: this is an automated computer system alert. Your computer protection service is not active. To activate computer protection, and repair your computer, go to [LINK]
 
-Indeed that’s a scam and visiting the link will lead to getting infected by Fake Antivirus (Scareware), the website claims that you are not properly protected &#8211; and it urges you to install its software (a steal at $19.95).
+Indeed that’s a scam and visiting the link will lead to getting infected by Fake Antivirus (Scareware), the website claims that you are not properly protected – and it urges you to install its software (a steal at $19.95).
 
 ![](http://lh5.ggpht.com/-WfDVruwZxq0/T8t_yEzZlpI/AAAAAAAAGMA/dcNqrQ0VIh4/s1600-h/sos-2%25255B4%25255D.jpg)
 

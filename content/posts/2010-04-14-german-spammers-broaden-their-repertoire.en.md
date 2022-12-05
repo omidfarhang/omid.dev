@@ -15,7 +15,7 @@ Last week we received a mass mailing that at first glance appeared no different 
 
 [<img title="199" border="0" alt="199" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S8Xuz0T1QLI/AAAAAAAAB7k/30gBjfuuyGw/199_thumb%5B2%5D.png?imgmax=800" width="504" height="292" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8XuwFNgKFI/AAAAAAAAB7g/ut9DBigtaW8/s1600-h/199%5B4%5D.png) 
 
-But after a closer inspection, these messages turned out to be of much more interest &#8211; all the links in the messages led to pages created on legitimate sites that had been compromised. The links looked like this: \****\*\\*\*.com/news_.php or \*\*\*****.com/1500.php. 
+But after a closer inspection, these messages turned out to be of much more interest – all the links in the messages led to pages created on legitimate sites that had been compromised. The links looked like this: \****\*\\*\*.com/news_.php or \*\*\*****.com/1500.php. 
 
 Of course, there’s nothing new in hacking a site and using it to host pages that advertise Viagra or fake designer goods. Spammers have been using this approach to bypass spam filters for quite some time now. 
 

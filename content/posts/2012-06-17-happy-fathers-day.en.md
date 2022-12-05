@@ -14,4 +14,4 @@ category: blog
 
 “Today, we celebrate men who have risen to the task, who raised us, and who do that most important work of parenting, day in and day out, with love, humility, and pride.”
 
-&#8211;<a href="http://www.whitehouse.gov/the-press-office/2012/06/15/presidential-proclamation-father-s-day-2012" target="_blank">President Obama</a>
+–<a href="http://www.whitehouse.gov/the-press-office/2012/06/15/presidential-proclamation-father-s-day-2012" target="_blank">President Obama</a>

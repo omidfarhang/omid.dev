@@ -21,7 +21,7 @@ According to the description on the Mozilla add-ons website, ShowIP is designed 
 
 Currently over 170,000 people are said to be using ShowIP. 
 
-What the add-on's description doesn't say is that since version 1.3 (released on April 19th 2012) it has also sent &#8211; unencrypted &#8211; the full URL of sites visited using HTTPS, and sites viewed in Private Browsing mode, to a site called ip2info.org. 
+What the add-on's description doesn't say is that since version 1.3 (released on April 19th 2012) it has also sent – unencrypted – the full URL of sites visited using HTTPS, and sites viewed in Private Browsing mode, to a site called ip2info.org. 
 
 The user never realises that the data has been shared with a third-party, unless they use special tools to monitor what data is being sent from their computer. 
 
@@ -35,7 +35,7 @@ In addition, the add-on has no warning that sites you visit might be disclosed, 
 
 [<img title="showip-settings" border="0" alt="showip-settings" src="http://lh3.ggpht.com/-j0QfnfDMLR8/T6AA3jiQnDI/AAAAAAAAFzY/lL7cPkhUkLQ/showip-settings_thumb.jpg?imgmax=800" width="498" height="428" />](http://lh5.ggpht.com/-yo-7vDbk-6Q/T6AA0rV6TYI/AAAAAAAAFzQ/_kBaCD3Pk7I/s1600-h/showip-settings%25255B3%25255D.jpg) 
 
-Sanders told Naked Security that the [issue was reported](https://code.google.com/p/firefox-showip/issues/detail?id=72) on the add-on's Google Code project page on 22nd April, but has received no response. Despite the alert, version 1.4 of the ShowIP add-on has since been released &#8211; and still exhibits the same behavior. 
+Sanders told Naked Security that the [issue was reported](https://code.google.com/p/firefox-showip/issues/detail?id=72) on the add-on's Google Code project page on 22nd April, but has received no response. Despite the alert, version 1.4 of the ShowIP add-on has since been released – and still exhibits the same behavior. 
 
 [<img title="showip-privacy" border="0" alt="showip-privacy" src="http://lh5.ggpht.com/-PaLN_Ui4Bdc/T6AA9ON00RI/AAAAAAAAFzo/gAC393Mex_A/showip-privacy_thumb.jpg?imgmax=800" width="498" height="319" />](http://lh4.ggpht.com/-G58W1FJqESE/T6AA6BkHhxI/AAAAAAAAFzg/kRrA5mZFRK0/s1600-h/showip-privacy%25255B3%25255D.jpg) 
 

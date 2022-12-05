@@ -27,8 +27,8 @@ The message reads as follows:
 
 > Job Type:
 
->   * Accounting &#8211; Finance
->   * Admin &#8211; Clerical
+>   * Accounting – Finance
+>   * Admin – Clerical
 >   * Customer Service
 
 > Requirements:

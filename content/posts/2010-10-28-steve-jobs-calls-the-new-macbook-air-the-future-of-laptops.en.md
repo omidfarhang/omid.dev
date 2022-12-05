@@ -17,7 +17,7 @@ category: techblog
 
 During a 90-minute presentation on Wednesday at Apple headquarters, Steve Jobs unveiled Apple’s latest thinner [MacBook Air](http://www.apple.com/macbookair/) 11-inch and 13-inch models, along with the new operating system. The redesigned Mac notebook combines features from the iPhone and iPad with those of a MacBook. The new MacBook Air features a multi-touch that offers you an iPad/iPhone-like experience. Instead of a hard drive, the new thinner, lighter and expensive Mac laptop uses flash storage. Jobs said that all notebooks will be like this someday and added that the Air is the future of the MacBook and all laptops.
 
-**Specs at a glance &#8211; MacBook Air (11-inch)**
+**Specs at a glance – MacBook Air (11-inch)**
 
 • Height: 0.11-0.68 inches
 

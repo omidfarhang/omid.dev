@@ -31,7 +31,7 @@ But be careful that your own children don’t read this.
 >   * Home Care Services
 >   * Other Elder Care Services
 
-> Beginning your search with <business name=""> is **easy** &#8211; click here to get started now!</business> 
+> Beginning your search with <business name=""> is **easy** – click here to get started now!</business> 
 
 > Warm regards,
 

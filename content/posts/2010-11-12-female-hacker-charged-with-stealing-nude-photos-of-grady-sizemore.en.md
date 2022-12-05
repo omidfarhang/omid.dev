@@ -15,9 +15,9 @@ category: techblog
 ---
 [<img title="grady-sizemore" border="0" alt="grady-sizemore" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cUw_UtgI/AAAAAAAADHs/zN2hx-5wyew/grady-sizemore_thumb.jpg?imgmax=800" width="304" height="208" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cS1d8BZI/AAAAAAAADHo/uQMx_sgi25g/s1600-h/grady-sizemore%5B2%5D.jpg)In 2009, naked photographs of American baseball star Grady Sizemore circulated on the internet after being stolen from the email account of his then girlfriend, Playboy Playmate Brittany Binger.
 
-A total of 15 photos were circulated &#8211; some showing Sizemore posing in his bathroom mirror wearing a suit, but others that showed him nude or only partially clothed. In one of the pictures, still easily available on the web, the Cleveland Indians' star is using a coffee mug to protect his err.. modesty.
+A total of 15 photos were circulated – some showing Sizemore posing in his bathroom mirror wearing a suit, but others that showed him nude or only partially clothed. In one of the pictures, still easily available on the web, the Cleveland Indians' star is using a coffee mug to protect his err.. modesty.
 
-Clearly Sizemore intended these photographs, taken on his cellphone's camera, to only be shared with his model girlfriend &#8211; but lax computer security meant they were seen by a much larger audience.
+Clearly Sizemore intended these photographs, taken on his cellphone's camera, to only be shared with his model girlfriend – but lax computer security meant they were seen by a much larger audience.
 
 According to <a href="http://www.startribune.com/local/south/107009288.html" target="_blank">media reports</a>, a 19-year-old woman has now been arrested in connection with the offence
 
@@ -27,7 +27,7 @@ Ayers is said to have accessed the model's Facebook, Twitter and MySpace account
 
 So, what can the rest of us who aren't baseball stars or Playboy Playmates learn from this?
 
-Well, firstly, be careful what information you share on social networks &#8211; and who can view it. You might be sharing more information than is sensible.
+Well, firstly, be careful what information you share on social networks – and who can view it. You might be sharing more information than is sensible.
 
 Secondly, choose a sensible, unique, hard-to-crack password for your different accounts. Not sure how to select a password? <a href="/en/knowledge-base/security/passwords" target="_blank">Read my advice</a> on the subject.
 

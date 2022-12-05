@@ -16,7 +16,7 @@ category: techblog
 
 Using a thumbnail which suggests a link to a sex video, messages posted on compromised Facebook users' walls attempt to lure their unsuspecting Facebook friends into clicking to see more. 
 
-And if the use of a saucy snapshot of a naked man and woman in an intimate pose wasn't enough, the messages also include a variety of names (obscured in the images below) &#8211; presumably these are the names of the afflicted users' Facebook friends. 
+And if the use of a saucy snapshot of a naked man and woman in an intimate pose wasn't enough, the messages also include a variety of names (obscured in the images below) – presumably these are the names of the afflicted users' Facebook friends. 
 
 [<img title="omg-girlfriend" border="0" alt="omg-girlfriend" src="http://lh6.ggpht.com/-yLwZm0HmGIw/T0O8GGv-ZuI/AAAAAAAAE54/wfSxucH6iek/omg-girlfriend_thumb%25255B2%25255D.jpg?imgmax=800" width="497" height="399" />](http://lh5.ggpht.com/-3NtnCavX2ic/T0O7K5z2hzI/AAAAAAAAE5w/59ehtjwBS74/s1600-h/omg-girlfriend%25255B4%25255D.jpg) 
 
@@ -40,6 +40,6 @@ Hopefully regular readers of Naked Security would know better than to click on t
 
 [<img title="divx1" border="0" alt="divx1" src="http://lh3.ggpht.com/-zg1TB7Et52o/T0O9pxDQoMI/AAAAAAAAE6o/lVNU3sX6VGU/divx1_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="191" />](http://lh4.ggpht.com/-K1_9aab4vUM/T0O9WJRArvI/AAAAAAAAE6g/3Yf3L30bfhg/s1600-h/divx1%25255B4%25255D.jpg) 
 
-This script subsequently takes your browser to an all-too-familiar survey webpage &#8211; and the more people who complete the survey (presumably the scammers hope that their victims have committed so much effort into viewing the video by now, that they're unlikely to give up now) the more commission is made. 
+This script subsequently takes your browser to an all-too-familiar survey webpage – and the more people who complete the survey (presumably the scammers hope that their victims have committed so much effort into viewing the video by now, that they're unlikely to give up now) the more commission is made. 
 
 If you use Facebook and want to receive early warnings about the latest attacks, you should <a href="https://www.facebook.com/omidsnetwork/" target="_blank">join the Omid's Network Facebook page</a>.

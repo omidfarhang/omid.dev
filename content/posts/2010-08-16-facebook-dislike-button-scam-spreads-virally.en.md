@@ -24,7 +24,7 @@ If so, don't click on the link.
 
 It's the latest survey scam spreading virally across Facebook, using the tried-and-tested formula used in the past by other viral scams including “Justin Bieber trying to flirt”, “Student attacked his teacher and nearly killed him”, “the biggest and scariest snake” and the “world's worst McDonald's customer”. 
 
-We've also seen slightly different wording &#8211; but pointing to the same scam. 
+We've also seen slightly different wording – but pointing to the same scam. 
 
 [<img title="dislike-get-button" border="0" alt="dislike-get-button" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TGlAO1vlHhI/AAAAAAAACYA/8u6b5Gf6RLk/dislike-get-button_thumb%5B3%5D.jpg?imgmax=800" width="500" height="140" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TGlAC_GgFsI/AAAAAAAACX8/czHSSkcFtmU/dislike-get-button%5B5%5D.jpg?imgmax=800) </p> 
 
@@ -42,8 +42,8 @@ If you do give the app permission to run, it silently updates your Facebook stat
 
 But you still haven't at this point been given a “Dislike” Facebook button, and the rogue application requires you to complete an online survey (which makes money for the scammers) before ultimately pointing you to a [Firefox browser add-on](https:/addons.mozilla.org/en-US/firefox/addon/13672/) for a Facebook dislike button developed by FaceMod. 
 
-As far as we can tell, FaceMod aren't connected with the scam &#8211; their browser add-on is simply being used as bait. 
+As far as we can tell, FaceMod aren't connected with the scam – their browser add-on is simply being used as bait. 
 
-So, if you really want to try out FaceMod's add-on (and note &#8211; we're not endorsing it, and haven't verified if it works or not), get it direct from the Firefox Add-ons webpage, not by giving a rogue application permission to access your Facebook profile. 
+So, if you really want to try out FaceMod's add-on (and note – we're not endorsing it, and haven't verified if it works or not), get it direct from the Firefox Add-ons webpage, not by giving a rogue application permission to access your Facebook profile. 
 
 If you're on Facebook, and want to learn more about security threats on the social network and elsewhere on the internet, <a href="http://www.facebook.com/pages/Omid/287498973549" target="_blank"><strong>join the Omid Facebook page</strong></a>.

@@ -25,7 +25,7 @@ This is a fairly realistic and pragmatic approach from Adobe to addressing the p
 
 However, if an application is on the malware writers' radar, there could be another way to handle the problem. Many computer users are aware of the volume of malware that affects Windows and have made the switch to alternative more secure, but also less popular operating systems to try to minimize the likelihood of being the victim of a malware attack. If the majority of malware attacks focus on Windows, for some, it's a no-brainer to make the switch to an alternative like Ubuntu or Mac OSX.
 
-The same approach can be applied to the applications on your Windows PC. There are alternative PDF viewers to Adobe Reader in the form of open source, non-ad supported and free applications &#8211; here's a [list](http://en.wikipedia.org/wiki/List_of_PDF_software#Microsoft_Windows).
+The same approach can be applied to the applications on your Windows PC. There are alternative PDF viewers to Adobe Reader in the form of open source, non-ad supported and free applications – here's a [list](http://en.wikipedia.org/wiki/List_of_PDF_software#Microsoft_Windows).
 
 A final word of advice: whatever PDF viewer you use, check its help file to see how to disable JavaScript
 

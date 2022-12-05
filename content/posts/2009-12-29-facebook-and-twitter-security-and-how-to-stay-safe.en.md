@@ -1,5 +1,5 @@
 ---
-title: "Facebook and Twitter Security &#8211; And How to Stay Safe!"
+title: "Facebook and Twitter Security – And How to Stay Safe!"
 date: 2009-12-29T13:17:00+00:00
 layout: single
 author_profile: true
@@ -23,4 +23,4 @@ But, there is a downside: popular networking sites continually take heat for pri
 
 The CNET News article, “Using Facebook and Twitter Safely”, goes on to give a thorough roundup of some of the most common security and privacy issues users are faced with. It not only takes you through what the specific threats are, but more importantly, it explains what you can do about them. [Take a look at the full article](http://news.cnet.com/8301-27080_3-10420861-245.html) to learn more about solutions you can put to use today to stay safe.
 
-And, I hope that you’re enjoying the holidays, and that you're staying safe and secure &#8211; both online and offline!
+And, I hope that you’re enjoying the holidays, and that you're staying safe and secure – both online and offline!

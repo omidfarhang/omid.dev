@@ -38,7 +38,7 @@ For the smallest customer, Office 365 will be available for $6 per user a month.
 
 “This is a big deal for Microsoft,” said Ina Fried from technology news site CNET.com.
 
-“They make most of their money from two products &#8211; Windows and Office. This is really changing the way they make money via a subscription service and represents a big change in the way they sell things.
+“They make most of their money from two products – Windows and Office. This is really changing the way they make money via a subscription service and represents a big change in the way they sell things.
 
 “They only get paid when people upgrade and this product allows them to get paid on a more consistent basis,” added Ms Fried.
 

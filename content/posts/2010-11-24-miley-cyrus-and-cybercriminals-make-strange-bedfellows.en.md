@@ -18,7 +18,7 @@ The pop singer and Hannah Montana star has had her fair share of encounters with
 
 For instance, a couple of years ago, a hacker called “Trainreq” took advantage of the fact that Miley Cyrus was using the same password on multiple websites, and broke into her Gmail account, stealing candid photographs of her “posing provactively” in her underwear and swimsuit.
 
-I found it astonishing that parts of the media felt comfortable reproducing the stolen photographs &#8211; did no-one at the time care that the poor girl was only fifteen years old?
+I found it astonishing that parts of the media felt comfortable reproducing the stolen photographs – did no-one at the time care that the poor girl was only fifteen years old?
 
 And last year, Miley Cyrus proved that she hadn't learnt many lessons about password security after her Twitter account was compromised by hackers who posted offensive messages in her name.
 
@@ -40,7 +40,7 @@ If you were an admirer of Miley, you might well be tempted to click on the link 
 
 [<img title="miley-cyrus-scam" border="0" alt="miley-cyrus-scam" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TO0ytGmathI/AAAAAAAADNk/zOb-3FwfD6g/miley-cyrus-scam_thumb%5B2%5D.jpg?imgmax=800" width="498" height="311" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TO0yreDaTII/AAAAAAAADNg/Z5puTH-2d6U/s1600-h/miley-cyrus-scam%5B4%5D.jpg)
 
-And what do you know? The perpetrators of this latest scheme are using a photo that Miley Cyrus apparently took herself, baring her midriff &#8211; I wouldn't be surprised if it's one of the pictures that was stolen from her Gmail account when she was fifteen years old.
+And what do you know? The perpetrators of this latest scheme are using a photo that Miley Cyrus apparently took herself, baring her midriff – I wouldn't be surprised if it's one of the pictures that was stolen from her Gmail account when she was fifteen years old.
 
 Clicking further will take you to a rogue Facebook application that asks you to grant it permission to access your Facebook profile, post to your wall and so forth. In this way it's very similar to many other scams we've seen spreading virally in the past (we saw a rather sordid example involving another teen pop sensation, Justin Bieber, this weekend of instance).
 

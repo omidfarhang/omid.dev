@@ -25,23 +25,23 @@ Google has just released ‘Google Books’ app for iOS. The Google Books app of
 
 > Great Reading Experience
 > 
-> &#8211; Change font, search within book, information about book  
-> &#8211; Night-reading mode  
-> &#8211; Offline reading mode
+> – Change font, search within book, information about book  
+> – Night-reading mode  
+> – Offline reading mode
 > 
 > Discover Millions of Titles
 > 
-> &#8211; Millions of books in every imaginable category, from the New York Times® bestsellers to favorite classics  
-> &#8211; Over 2 million free ebooks available instantly  
-> &#8211; Hundreds of thousands of books for sale  
-> &#8211; Free preview pages  
-> &#8211; Unlimited storage of books in the digital cloud  
-> &#8211; Worry-free archive
+> – Millions of books in every imaginable category, from the New York Times® bestsellers to favorite classics  
+> – Over 2 million free ebooks available instantly  
+> – Hundreds of thousands of books for sale  
+> – Free preview pages  
+> – Unlimited storage of books in the digital cloud  
+> – Worry-free archive
 > 
 > Syncs With Your Google Books Library
 > 
-> &#8211; Find books at http://books.google.com/ebooks and add them to the ‘My Google eBooks’ shelf to sync  
-> &#8211; Access all your ebooks wirelessly from the digital cloud; no dedicated e-reading device required  
-> &#8211; Automatic page position synching across devices — pick up reading where you left off
+> – Find books at http://books.google.com/ebooks and add them to the ‘My Google eBooks’ shelf to sync  
+> – Access all your ebooks wirelessly from the digital cloud; no dedicated e-reading device required  
+> – Automatic page position synching across devices — pick up reading where you left off
 
 [**Download Google Books**](http://itunes.apple.com/us/app/google-books/id400989007?mt=8)  [iTunes link]

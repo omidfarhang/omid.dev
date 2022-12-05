@@ -18,13 +18,13 @@ For instance, I'm a <a href="http://www.last.fm/user/omidfarhang" target="_blank
 
 Today I can also share that I like The Beatles. In particular, anything from “Rubber Soul” and later when the “Yeah yeah yeah” turned into something rather more “Yeah man. Dig it”. 
 
-I've simply never come across a more talented combination of musicianship and songwriting abilities &#8211; for me, you can kick The Stones, The Who, Cream and.. yes.. even MeatLoaf to the kerb, as Lennon, McCartney, Harrison and Starr are the guv'nors. 
+I've simply never come across a more talented combination of musicianship and songwriting abilities – for me, you can kick The Stones, The Who, Cream and.. yes.. even MeatLoaf to the kerb, as Lennon, McCartney, Harrison and Starr are the guv'nors. 
 
 So, perhaps I was the right person to receive the following spam message about a box set of remastered Beatles CDs and mini-documentaries. 
 
 [<img title="beatles-email" border="0" alt="beatles-email" src="http://lh5.ggpht.com/-KqdIRMHds60/T0uR9KPN2qI/AAAAAAAAE-4/iKNhQNZxThc/beatles-email_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="371" />](http://lh4.ggpht.com/-tHjnOmSm6xs/T0uR3RGz8yI/AAAAAAAAE-w/6xzoYepUwKQ/s1600-h/beatles-email%25255B4%25255D.jpg) 
 
-If you click further on the email, which has clearly been written with a Spanish-speaking audience in mind, you discover &#8211; ¡Ay, caramba! &#8211; that whoever is touting this “box set” has actually shoved every Beatles track onto one DVD. 
+If you click further on the email, which has clearly been written with a Spanish-speaking audience in mind, you discover – ¡Ay, caramba! – that whoever is touting this “box set” has actually shoved every Beatles track onto one DVD. 
 
 They've even gone to the effort of adding a mini-documentary for each official album from “Please Please Me” to “Abbey Road”. 
 
@@ -32,8 +32,8 @@ They've even gone to the effort of adding a mini-documentary for each official a
 
 It's beginning to sound suspiciously like these tracks and the video content might be somewhat similar to what Apple announced for its iTunes store to great fanfare late last year. 
 
-In short, if you purchase goods like this advertised to you via spam &#8211; you're not only encouraging the spammers to flood your inbox some more, but you're also preventing Messrs McCartney and Starr, and the families of Lennon and Harrison from receiving their rightful earnings for their musical genius. 
+In short, if you purchase goods like this advertised to you via spam – you're not only encouraging the spammers to flood your inbox some more, but you're also preventing Messrs McCartney and Starr, and the families of Lennon and Harrison from receiving their rightful earnings for their musical genius. 
 
-If you like music, buy it through official channels &#8211; and support the artists who created it. Don't feed the spammers. 
+If you like music, buy it through official channels – and support the artists who created it. Don't feed the spammers. 
 
 Source: SophosLabs

@@ -32,12 +32,12 @@ A message posted by the hackers read in part:
 
 In addition to releasing usernames, passwords and credit card details, The Consortium also made freely available some 52 pornographic movies with names such as “Babysitters 2”, “Like Sister Like Slut” and “Sex and Corruption”. 
 
-The Digital Playground website is, at the time of writing, still online &#8211; but is refusing sign-ups of new members. 
+The Digital Playground website is, at the time of writing, still online – but is refusing sign-ups of new members. 
 
 [<img title="digital-playground-2" border="0" alt="digital-playground-2" src="http://lh4.ggpht.com/-vsWi4dKISEM/T19VxF1Yj-I/AAAAAAAAFKk/VFJc8TGEsAI/digital-playground-2_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="204" />](http://lh6.ggpht.com/-Jx-KvETyHH4/T19VorqcNmI/AAAAAAAAFKc/hIVvKm7hesA/s1600-h/digital-playground-2%25255B4%25255D.jpg) 
 
-Last month, another hardcore porn website &#8211; Brazzers &#8211; had the details of some 350,000 of its users <a href="/2012/02/350000-users-exposed-by-hacking-porn.html" target="_blank">stolen by a hacker</a>. Digital Playground was recently acquired by Manwin, the same company which runs Brazzers. 
+Last month, another hardcore porn website – Brazzers – had the details of some 350,000 of its users <a href="/2012/02/350000-users-exposed-by-hacking-porn.html" target="_blank">stolen by a hacker</a>. Digital Playground was recently acquired by Manwin, the same company which runs Brazzers. 
 
-So, what are the lessons that consumers can learn from this? At the very least, you should use different passwords for different services. If you give a password to, say, a pornographic website make sure that you are not using the same password on other websites too &#8211; as malicious hackers might use it to unlock your other accounts. 
+So, what are the lessons that consumers can learn from this? At the very least, you should use different passwords for different services. If you give a password to, say, a pornographic website make sure that you are not using the same password on other websites too – as malicious hackers might use it to unlock your other accounts. 
 
 Unfortunately there's not much you can do about whether the website you are using is properly protected against vulnerabilities, and securely encrypting your personal information, other than explore whether they have had security issues in the past and vote with your feet if you feel they are doing a poor job.

@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="download" border="0" alt="download" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMIEEk-FFAI/AAAAAAAAC4Y/T6HU2dBeekQ/download_thumb%5B2%5D.jpg?imgmax=800" width="304" height="185" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMIEDN8O7cI/AAAAAAAAC4U/fwg0vMegi1I/s1600-h/download%5B4%5D.jpg)(Reuters) &#8211; Google Inc said its “Street View” cars around the world accidentally collected more personal data than previously disclosed, and that it was changing its privacy practices.
+[<img title="download" border="0" alt="download" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMIEEk-FFAI/AAAAAAAAC4Y/T6HU2dBeekQ/download_thumb%5B2%5D.jpg?imgmax=800" width="304" height="185" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMIEDN8O7cI/AAAAAAAAC4U/fwg0vMegi1I/s1600-h/download%5B4%5D.jpg)(Reuters) – Google Inc said its “Street View” cars around the world accidentally collected more personal data than previously disclosed, and that it was changing its privacy practices.
 
 Regulators in some of the more than 30 countries where the cars operated are looking into the issue.
 

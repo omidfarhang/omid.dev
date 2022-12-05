@@ -58,7 +58,7 @@ _The next generation of PDF Portfolios_
 
 __
 
-_Guided Actions_ &#8211; Guided Actions are scriptable batch processes that can easily be made and shared so that groups of users can benefit from improved compliance and best practices
+_Guided Actions_ – Guided Actions are scriptable batch processes that can easily be made and shared so that groups of users can benefit from improved compliance and best practices
 
   * Great for group efficiency 
   * Supports Java Script 

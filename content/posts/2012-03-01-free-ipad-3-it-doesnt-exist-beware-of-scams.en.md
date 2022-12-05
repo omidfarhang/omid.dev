@@ -33,4 +33,4 @@ As Apple hasn't even announced the existence of an iPad 3, these posts and pages
 
 Chances are that we will see Apple announce an iPad 3 very soon. But don't be duped into believing there's an easy way to get one for free. 
 
-By the way, if you're a Facebook user and want to keep up on the latest threats and security news I would recommend you join the <a href="https://www.facebook.com/omidsnetwork/" target="_blank">Omid's Network Facebook page</a>**** &#8211; where people regularly discuss the latest attacks.
+By the way, if you're a Facebook user and want to keep up on the latest threats and security news I would recommend you join the <a href="https://www.facebook.com/omidsnetwork/" target="_blank">Omid's Network Facebook page</a>**** – where people regularly discuss the latest attacks.

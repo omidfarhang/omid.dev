@@ -14,9 +14,9 @@ category: techblog
 
 A huge spam botnet responsible for an estimated 18 billion messages a day has been taken out by security researchers. 
 
-The four year old botnet &#8211; known as Grum &#8211; is believed to have been responsible for around 18% of the world's spam emails. 
+The four year old botnet – known as Grum – is believed to have been responsible for around 18% of the world's spam emails. 
 
-A botnet is a cluster of infected computers used by cybercriminals to send a variety of spam emails &#8211; often offering cheap Viagra, fake watches or unusual dating solutions. 
+A botnet is a cluster of infected computers used by cybercriminals to send a variety of spam emails – often offering cheap Viagra, fake watches or unusual dating solutions. 
 
 The cluster of computers are usually infected using malware. 
 
@@ -40,7 +40,7 @@ On Tuesday command and control servers based out of Panama were also shut.
 
 “With the shutdown of the Panamanian server, a complete segment was dead forever”, says Mushtaq. 
 
-However, the good news didn't last long as the bot herders &#8211; who scan networks to find weak or vulnerable systems to install their bot program &#8211; started pointing the command and control servers to secondary servers located in Ukraine. 
+However, the good news didn't last long as the bot herders – who scan networks to find weak or vulnerable systems to install their bot program – started pointing the command and control servers to secondary servers located in Ukraine. 
 
 Mushtaq says that in the past Ukraine had been something of a &#8216;safe haven' for bot herders and that shutting down servers there had “never been easy.” 
 

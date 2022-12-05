@@ -20,22 +20,22 @@ _**These Hopeful Machines**_ is the Grammy-nominated sixth studio album by Ameri
 Track listing  
 Disc one  
 No.     Title     Writer(s)     Length  
-1.     “Suddenly” &#8211; BT, Christian Burns &#8211; 8:06  
-2.     “The Emergency” &#8211; BT, Christian Burns, Andrew Bayer &#8211; 10:38  
-3.     “Every Other Way” &#8211; BT, JES &#8211; 9:40  
-4.     “The Light in Things” &#8211; BT, JES &#8211; 10:47  
-5.     “The Rose of Jericho” &#8211; BT &#8211; 7:43  
-6.     “Forget Me” &#8211; BT, Christian Burns &#8211; 9:33  
+1.     “Suddenly” – BT, Christian Burns – 8:06  
+2.     “The Emergency” – BT, Christian Burns, Andrew Bayer – 10:38  
+3.     “Every Other Way” – BT, JES – 9:40  
+4.     “The Light in Things” – BT, JES – 10:47  
+5.     “The Rose of Jericho” – BT – 7:43  
+6.     “Forget Me” – BT, Christian Burns – 9:33  
 Total length: 55:07
 
 Disc two  
 No.     Title     Writer(s)     Length  
-1.     “A Million Stars” &#8211; BT, Kirsty Hawkshaw, Ulrich Schnauss &#8211; 12:26  
-2.     “Love Can Kill You” &#8211; BT &#8211; 5:21  
-3.     “Always” &#8211; BT, Rob Dickinson &#8211; 6:12  
-4.     “Le Nocturne De Lumière” &#8211; BT &#8211; 11:38  
-5.     “The Unbreakable” &#8211; BT, Rob Dickinson &#8211; 10:25  
-6.     “The Ghost in You” &#8211; The Psychedelic Furs &#8211; 7:57  
+1.     “A Million Stars” – BT, Kirsty Hawkshaw, Ulrich Schnauss – 12:26  
+2.     “Love Can Kill You” – BT – 5:21  
+3.     “Always” – BT, Rob Dickinson – 6:12  
+4.     “Le Nocturne De Lumière” – BT – 11:38  
+5.     “The Unbreakable” – BT, Rob Dickinson – 10:25  
+6.     “The Ghost in You” – The Psychedelic Furs – 7:57  
 Total length: 53:19
 
 &nbsp;

@@ -19,9 +19,9 @@ Apple has issued the latest update to its Mac OS X operating system, bringing Sn
 
 Enhancements include improved Microsoft Exchange reliability, and a variety of performance and stability improvements. But what's probably most interesting to you is that the update also includes important security fixes.
 
-Well over 100 different vulnerabilities are reportedly patched by Mac OS X 10.6.5 &#8211; if you want to see the gory details (or at least, those details which Apple is prepared to make public) view their [knowledgebase article](http://support.apple.com/kb/HT4435).
+Well over 100 different vulnerabilities are reportedly patched by Mac OS X 10.6.5 – if you want to see the gory details (or at least, those details which Apple is prepared to make public) view their [knowledgebase article](http://support.apple.com/kb/HT4435).
 
-There seem to be fixes for almost everything &#8211; from Apache to the Flash Player plug-in, from Image Capture to MySQL..
+There seem to be fixes for almost everything – from Apache to the Flash Player plug-in, from Image Capture to MySQL..
 
 Many of the vulnerabilities could be exploited by malicious hackers to run unauthorized code on your Mac computer, opening you up to the potential of being spied upon, having information stolen, or cybercriminals commandeering your Mac into becoming part of a botnet.
 

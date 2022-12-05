@@ -26,7 +26,7 @@ http://www.youtube.com/watch?v=f4K6ZxDwi34
 
 _English translation lyric:_
 
-_I want &#8211; Rammstein_  
+_I want – Rammstein_  
 _“Ich will” (German for I want)_  
 _  
 _  
@@ -73,7 +73,7 @@ _
 _We want you to trust us_  
 _We want you to believe everything from us_  
 _We want to see your hands_  
-_We want to go down in applause &#8211; yeah_  
+_We want to go down in applause – yeah_  
 _  
 _  
 _Can you hear me?_  

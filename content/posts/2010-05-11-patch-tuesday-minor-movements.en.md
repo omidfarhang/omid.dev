@@ -1,5 +1,5 @@
 ---
-title: "Patch Tuesday &#8211; Minor movements…"
+title: "Patch Tuesday – Minor movements…"
 date: 2010-05-11T22:43:00+00:00
 layout: single
 author_profile: true
@@ -16,7 +16,7 @@ category: techblog
 ---
 Hey Admins…. It’s that time again. The second Tuesday is upon us and May so far hasn’t been demanding as far as patching goes. 
 
-So far …. this month Microsoft has only issued two security announcements. [MS10-030](http://www.sophos.com/support/knowledgebase/article/110936.html) and [MS10-031](http://www.sophos.com/support/knowledgebase/article/110937.html). Microsoft has rated both as critical &#8211; and both could result in remote code being executed. 
+So far …. this month Microsoft has only issued two security announcements. [MS10-030](http://www.sophos.com/support/knowledgebase/article/110936.html) and [MS10-031](http://www.sophos.com/support/knowledgebase/article/110937.html). Microsoft has rated both as critical – and both could result in remote code being executed. 
 
 [MS10-030](http://www.sophos.com/support/knowledgebase/article/110936.html) resolves an integer overflow in POP3 & IMAP mail responses to Outlook Express and Windows Mail…. [MS10-031](http://www.sophos.com/support/knowledgebase/article/110937.html) addresses a stack memory corruption related to the way that “Visual Basic for Applications” searches for ActiveX components, when host applications provide specially crafted files to the Visual Basic runtime. 
 

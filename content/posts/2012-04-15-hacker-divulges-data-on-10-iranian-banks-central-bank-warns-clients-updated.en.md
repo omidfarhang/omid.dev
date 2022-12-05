@@ -27,4 +27,4 @@ The Central Bank of Iran has strictly recommended clients of the banking system 
 
 **Update:** 
 
-Read the follow up information in my recent post: <a href="/2012/04/banking-system-vulnerability-3-million.html" target="_blank">Banking System Vulnerability &#8211; 3 million bank accounts hacked in Iran</a>
+Read the follow up information in my recent post: <a href="/2012/04/banking-system-vulnerability-3-million.html" target="_blank">Banking System Vulnerability – 3 million bank accounts hacked in Iran</a>

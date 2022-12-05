@@ -62,4 +62,4 @@ I want paid that and come back
 
 Ok, At least after a few hours doctor came, during this time I’ve been wondering my I did not take my laptop with myself, at least I could play some game or do something else![Annoyed](http://lh6.ggpht.com/_vaUVXcmC3OI/TPLeW77Uh9I/AAAAAAAADQk/QgxJoDCi1qo/wlEmoticon-annoyed%5B2%5D.png?imgmax=800) , I visited doctor, I showed him all the test result I had in past 4 years for my Thyroid, He said NO!, asked for a newer one, I had not so asked me to take a new one and come next week with that (Ok, good or bad news, next week has been Holiday, so it would mean next 2 week!).
 
-&#8211;To be continued in next post! see you soon!
+–To be continued in next post! see you soon!

@@ -23,8 +23,8 @@ The OFT statement quotes research carried out by the University of Portsmouth, c
   * 10,000 people a year fall victim to investments scams
   * 14,000 people a year fall victim to fake lotteries
 
-The report indicates that many people are reluctant to report fraud of this kind &#8211; because they're ashamed, embarrassed, angry or simply confused.
+The report indicates that many people are reluctant to report fraud of this kind – because they're ashamed, embarrassed, angry or simply confused.
 
 The first thing to remember is that you should be very, very wary of &#8216;get-rich-quick' schemes: if something looks too good to be true, it almost certainly is! Please don't hand over money to complete strangers and avoid disclosing any personal information unless you know eactly who you're dealing with. The NRA gives a helpful list of the &#8216;[12 scams of Christmas](http://sites.google.com/site/boelectronic/computer/news/bewarethe12scamsofchristmas)&#8216; so if you're in any doubt, check this list out.
 
-If you do fall victim to an Internet scam, please do report it &#8211; you can do that [here](http://www.attorneygeneral.gov.uk/nfsa/nfrc/Pages/default.aspx). Nobody's going to judge you &#8211; on the contrary, the more reports are made, the better we can quantify the threat! Remember, we can't begin to really manage the problem of Internet fraud and cybercrime unless we can measure it effectively.
+If you do fall victim to an Internet scam, please do report it – you can do that [here](http://www.attorneygeneral.gov.uk/nfsa/nfrc/Pages/default.aspx). Nobody's going to judge you – on the contrary, the more reports are made, the better we can quantify the threat! Remember, we can't begin to really manage the problem of Internet fraud and cybercrime unless we can measure it effectively.

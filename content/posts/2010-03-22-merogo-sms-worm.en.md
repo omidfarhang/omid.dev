@@ -15,7 +15,7 @@ category: techblog
 
 We're investigating a series of SMS Worms, found in the wild in China. Known as Trojan:SymbOS/MerogoSMS, these worms try to spread on Symbian Series 60 3rd Edition devices. Symbian continues to be by far the most common smartphone operating system in the world.
 
-These worms spread by sending text messages to other phones. These text messages contain variable messages (in Chinese), and a link to a website. If the link is followed, user is prompted to install an application &#8211; infecting the phone and restarting the SMS spreading.
+These worms spread by sending text messages to other phones. These text messages contain variable messages (in Chinese), and a link to a website. If the link is followed, user is prompted to install an application – infecting the phone and restarting the SMS spreading.
 
 In addition of spreading, these worms seem to have the capability of sending messages to expensive premium-rate numbers.
 

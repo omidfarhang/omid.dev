@@ -46,7 +46,7 @@ Virgin Media began preventing access to the file-sharing site following a High C
 
 Some time later the Virgin Media website suffered a hack attack that many thought was organized to protest against efforts to block access to TPB. 
 
-Twitter feeds associated with the Anonymous collective wrote: “Virgin Media &#8211; Tango Down #OpTPB”. 
+Twitter feeds associated with the Anonymous collective wrote: “Virgin Media – Tango Down #OpTPB”. 
 
 But TPB criticized Anonymous for the attack, writing on its Facebook page that it did not “encourage these actions”. 
 

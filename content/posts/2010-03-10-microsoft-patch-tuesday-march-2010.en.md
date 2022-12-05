@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Patch Tuesday &#8211; March 2010"
+title: "Microsoft Patch Tuesday – March 2010"
 date: 2010-03-10T10:19:00+00:00
 layout: single
 author_profile: true

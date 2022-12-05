@@ -21,7 +21,7 @@ The mobile industry trade show has [certainly not disappointed](http://reviews.c
 
 However, these testaments to &#8216;Moore's law' will also broaden the technological possibilities for new mobile applications. 
 
-It is fortuitous then that, on the opening day, the trade body host &#8211; the GSM Association (GSMA) &#8211; released their [privacy enhancing standards](http://www.gsma.com/documents/privacy-design-guidelines-for-mobile-application-development/20008) for mobile application developers. 
+It is fortuitous then that, on the opening day, the trade body host – the GSM Association (GSMA) – released their [privacy enhancing standards](http://www.gsma.com/documents/privacy-design-guidelines-for-mobile-application-development/20008) for mobile application developers. 
 
 One of the main principles behind the guidelines is to ensure that new apps embody the concept of “Privacy by Design” (PbD). This seeks to ensure privacy-protective measures are a core part of the design process. 
 

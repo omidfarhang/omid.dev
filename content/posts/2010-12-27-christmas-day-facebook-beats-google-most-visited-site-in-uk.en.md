@@ -17,7 +17,7 @@ For the first time ever since the evolution of the Internet, if you went that fa
 
 Google’s traffic share is constantly between 8-10% in U.K., while Facebook’s is well between 8-6%. Facebook accounted for 10.50% of the internet traffic in the U.K. on December 25th, marginally surpassing Google (9.77%). _So, why was Facebook your favorite website on that day? You tell us!_
 
-That apart, the Boxing Day (Dec. 26) has come to be the busiest shopping day of the year for online retailers – &#8211; 12% higher than on Dec. 5th (earlier peak), and 26% higher than on Christmas Day : according to a Hitwise Intelligence report.
+That apart, the Boxing Day (Dec. 26) has come to be the busiest shopping day of the year for online retailers – – 12% higher than on Dec. 5th (earlier peak), and 26% higher than on Christmas Day : according to a Hitwise Intelligence report.
 
  
 

@@ -45,7 +45,7 @@ I’m willing to bet that lawyers for the big security software vendors are look
 
 _I asked Symantec and McAfee for any comment on this new decision by Microsoft. A Symantec spokesperson provided the following statement:_
 
-> _It’s clear that today’s threat landscape requires more comprehensive protection than what Microsoft Security Essentials offers. From a security perspective, this Microsoft tool offers reduced defenses at a critical point in the battle against cybercrime. Unique malware and social engineering tricks fly under the radar of traditional signature-based technology alone &#8211; which is what is employed by free security tools such as Microsoft’s._
+> _It’s clear that today’s threat landscape requires more comprehensive protection than what Microsoft Security Essentials offers. From a security perspective, this Microsoft tool offers reduced defenses at a critical point in the battle against cybercrime. Unique malware and social engineering tricks fly under the radar of traditional signature-based technology alone – which is what is employed by free security tools such as Microsoft’s._
 > 
 > _Norton Internet Security and Norton 360 offer protection that is proactive, real-time and proven. Our Norton Insight technology automatically identifies new spyware, viruses and worms without relying on signatures alone and prevents threats from being installed on the system in the first place. In recent testing conducted by AV-Test.org, Norton 2011 led a pack of 12 competitive security offerings in both detection and remediation while Microsoft Security Essentials came in second to last. In addition, based on top results across a combination of protection and repair tests, AV-Comparatives awarded Symantec the “Best Product of 2009.”_
 

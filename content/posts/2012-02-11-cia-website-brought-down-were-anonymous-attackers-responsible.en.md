@@ -1,5 +1,5 @@
 ---
-title: "CIA website brought down &#8211; were Anonymous attackers responsible?"
+title: "CIA website brought down – were Anonymous attackers responsible?"
 date: 2012-02-11T11:50:00+00:00
 layout: single
 author_profile: true
@@ -27,14 +27,14 @@ It's more a case of individuals bandying together to launch attacks, some of whi
 
 [<img title="anonymous-170" border="0" alt="anonymous-170" align="right" src="http://lh6.ggpht.com/-G0NkoWgDufw/TzZPDBOzbXI/AAAAAAAAEr8/f3SDQ0Xprw4/anonymous-170_thumb.jpg?imgmax=800" width="174" height="212" />](http://lh5.ggpht.com/-Ff5_qz0irMc/TzZOpUgZNkI/AAAAAAAAEr0/xvdTjIpSJdo/s1600-h/anonymous-170%25255B2%25255D.jpg)So, it only actually needs one person to claim that the CIA attack was done by Anonymous and, well.. it's hard to prove that it wasn't. I often think that this must be frustrating for those who would closely associate themselves with Anonymous, and man their more popularly followed website outlets and Twitter accounts. 
 
-At the end of the day, it probably matters less whether the attack was by Anonymous or not &#8211; but rather, that the CIA's website was brought down and whether the authorities are able to identify those responsible. 
+At the end of the day, it probably matters less whether the attack was by Anonymous or not – but rather, that the CIA's website was brought down and whether the authorities are able to identify those responsible. 
 
 In the past, law enforcement agencies have arrested individuals who they believe have been responsible for similar DDoS attacks against the likes of Britain's Serious Organized Crime Agency and the CIA. 
 
 If innocent users want to avoid being associated with a criminal DDoS attack, they should take care over what links they click on, and what software they install. 
 
-At the time of writing, the CIA's website still appears to be receiving a large amount of traffic &#8211; making it impossible for some internet users to reach the site. 
+At the time of writing, the CIA's website still appears to be receiving a large amount of traffic – making it impossible for some internet users to reach the site. 
 
-Of course, a denial-of-service attack is very different from an actual hack of the CIA's computer servers. There is no suggestion at the moment that the CIA's own systems have been compromised &#8211; rather their webservers have been so bombarded with traffic that their site is no longer accessible from the outside world. 
+Of course, a denial-of-service attack is very different from an actual hack of the CIA's computer servers. There is no suggestion at the moment that the CIA's own systems have been compromised – rather their webservers have been so bombarded with traffic that their site is no longer accessible from the outside world. 
 
-It's rather like when a luxury department store sells products at ridiculously reduced sale prices &#8211; so many people try to get in at the same time, that nothing moves and a complete logjam is created.
+It's rather like when a luxury department store sells products at ridiculously reduced sale prices – so many people try to get in at the same time, that nothing moves and a complete logjam is created.

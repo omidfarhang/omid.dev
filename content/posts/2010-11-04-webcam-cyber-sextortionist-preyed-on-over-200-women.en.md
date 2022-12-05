@@ -71,7 +71,7 @@ There are some more details of this case on [Gary Warner's Cybercrime & Doing Ti
 Young people's PCs must be properly protected with the latest anti-virus software, security patches and firewalls. It is also essential that young people are taught how to behave safely online, to avoid being exploited by sick-minded hackers.
 
   * [Find out more about how to protect children from online threats at www.getsafeonline.org](http://www.getsafeonline.org/nqcontent.cfm?a_id=1123)
-  * [Find out about the Virtual Global Taskforce &#8211; a group of police forces working around the world to fight online child abuse](http://www.virtualglobaltaskforce.com/)
+  * [Find out about the Virtual Global Taskforce – a group of police forces working around the world to fight online child abuse](http://www.virtualglobaltaskforce.com/)
 
 Thanks for helping, and stay safe online.
 

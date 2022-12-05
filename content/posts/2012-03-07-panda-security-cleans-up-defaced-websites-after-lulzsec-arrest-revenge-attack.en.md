@@ -49,7 +49,7 @@ As Luis pointed out on Twitter, clearly whoever defaced the Panda Security websi
 
 Luis confirmed to me that there is no truth in the hackers' claim that their security software has been compromised with backdoors. 
 
-Furthermore, an official statement on [Panda's Facebook page](http://www.facebook.com/PandaUSA/posts/10150581593176701), makes clear that the compromised web server &#8211; that was used for marketing campaigns and blogs &#8211; was outside Panda's internal network, and that no customer data was accessed, and that source code and update servers were not compromised. 
+Furthermore, an official statement on [Panda's Facebook page](http://www.facebook.com/PandaUSA/posts/10150581593176701), makes clear that the compromised web server – that was used for marketing campaigns and blogs – was outside Panda's internal network, and that no customer data was accessed, and that source code and update servers were not compromised. 
 
 That's good news. 
 
@@ -63,8 +63,8 @@ At least the Luis Corrons has kept his sense of humor, as the following tweet pr
 
 [<img title="t2" border="0" alt="t2" src="http://lh5.ggpht.com/-u3dyDDbIEiE/T1dP-SJEn9I/AAAAAAAAFE4/5utBxml86EU/t2_thumb%25255B1%25255D.jpg?imgmax=800" width="523" height="171" />](http://lh4.ggpht.com/-bzsjKJn2TYM/T1dP25BBdnI/AAAAAAAAFEw/9P-K3J10EoU/s1600-h/t2%25255B3%25255D.jpg) 
 
-I suspect few companies would be brave enough (crazy enough?) to say that they are 100% invulnerable to hackers throughout their organization &#8211; and whenever you have external websites used by your marketing departments there is the risk that they may not be as well secured as your business critical systems at the heart of your organization. 
+I suspect few companies would be brave enough (crazy enough?) to say that they are 100% invulnerable to hackers throughout their organization – and whenever you have external websites used by your marketing departments there is the risk that they may not be as well secured as your business critical systems at the heart of your organization. 
 
 I have no doubt that Panda Security will be putting in place tighter guidelines to ensure that its marketing and blog activities are better protected in future. Fortunately, the defacement was not serious and no customers were adversely affected. It's more of a bee sting for Panda than a stab wound. 
 
-Many will feel sympathy with Panda Security today &#8211; all they did was comment on the news reports surrounding Sabu and LulzSec. They didn't deserve to be hacked like this. Thank goodness it wasn't that serious, and the company will be not be damaged long term by this incident.
+Many will feel sympathy with Panda Security today – all they did was comment on the news reports surrounding Sabu and LulzSec. They didn't deserve to be hacked like this. Thank goodness it wasn't that serious, and the company will be not be damaged long term by this incident.

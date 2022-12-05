@@ -11,7 +11,7 @@ tags:
 lang: en
 category: techblog
 ---
-Google Chrome has always supported multiple profiles, but you had to use a command-line flag (&#8211;user-data-dir=”c:\path\to\the\profile”) to associate a profile with a folder where the browser will save its state.  
+Google Chrome has always supported multiple profiles, but you had to use a command-line flag (–user-data-dir=”c:\path\to\the\profile”) to associate a profile with a folder where the browser will save its state.  
 At some point, Google added an option that allowed you to open a new window and use a separate profile, but it was quickly removed. According to [a design document from Chromium's site](http://www.chromium.org/user-experience/multi-profiles), this feature be available again.  
 “The multiple profiles feature will allow the user to associate a profile with a specific set of browser windows, rather than with an entire running instance of Chrome. Allowing different windows to run as different Chrome identities means that a user can have different open windows associated with different Google accounts, and correspondingly different sets of preferences, apps, bookmarks, and so on — all those elements which are bound to a specific user's identity.”
 

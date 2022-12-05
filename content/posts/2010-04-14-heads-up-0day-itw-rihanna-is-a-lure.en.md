@@ -1,5 +1,5 @@
 ---
-title: "Heads up &#8211; 0day ITW &#8211; Rihanna is a lure"
+title: "Heads up – 0day ITW – Rihanna is a lure"
 date: 2010-04-14T18:26:00+00:00
 layout: single
 author_profile: true

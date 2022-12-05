@@ -18,7 +18,7 @@ The Russian government news service RiaNovosti is reporting that Patriarch Kiril
 
 _“He also said the Internet has become ‘an examination on our authenticity, an enormous power challenge’ as in that space one can easily indulge in depravity, lies, vulgarity, and the desire to lash out with aggression and impunity,”_ the news service reported.
 
-Story here: <a href="http://en.rian.ru/russia/20100304/158092800.html" target="_blank">“Internet is examination for human race &#8211; Patriarch Kirill”<br /></a>  
+Story here: <a href="http://en.rian.ru/russia/20100304/158092800.html" target="_blank">“Internet is examination for human race – Patriarch Kirill”<br /></a>  
 Created 1991, RiaNovosti traces its history back through various Soviet/Russian government news agencies to the 1941 Soviet Information Bureau. That bureau, (Sovinformburo) was set up by the USSR Council of People’s Commissars and the Central Committee to provide international news and coverage of military events and domestic life.
 
 Its web site includes links to Pravda.ru’s space-aliens-land-in-Russia-type tabloid fare as well as pro-government news in eight languages. The “Strange but True” section is a scream (<a href="http://en.rian.ru/strange/" target="_blank">http://en.rian.ru/strange/</a>)

@@ -9,7 +9,7 @@ tags:
 lang: en
 category: techblog
 ---
-After months of negotiations, US President Barack Obama has finally chosen a Chief of CyberSecurity &#8211; Mr Howard A Schmidt. Confirmation of the appointment is expected shortly.
+After months of negotiations, US President Barack Obama has finally chosen a Chief of CyberSecurity – Mr Howard A Schmidt. Confirmation of the appointment is expected shortly.
 
 Mr Schmidt, who previously served with the Bush administration as a cyber security official, comes to the job with an impressively lengthy list of credentials.
 

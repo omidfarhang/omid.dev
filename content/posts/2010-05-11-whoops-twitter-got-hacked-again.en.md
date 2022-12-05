@@ -1,5 +1,5 @@
 ---
-title: "Whoops &#8211; Twitter got hacked again"
+title: "Whoops – Twitter got hacked again"
 date: 2010-05-11T13:36:00+00:00
 layout: single
 author_profile: true

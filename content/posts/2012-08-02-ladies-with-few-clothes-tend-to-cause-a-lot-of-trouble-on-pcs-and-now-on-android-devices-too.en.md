@@ -1,5 +1,5 @@
 ---
-title: "Ladies with few clothes tend to cause a lot of trouble on PCs &#8211; and now on Android devices too"
+title: "Ladies with few clothes tend to cause a lot of trouble on PCs – and now on Android devices too"
 date: 2012-08-02T14:21:00+00:00
 layout: single
 author_profile: true
@@ -89,7 +89,7 @@ _Main page of Carmunity web site_
 
 Contact information contains the physical address of this company. According to this, Carmunity is located in Bremen, Mary-Astell-Str. 2. If you google this address you can find that another German company called **Displayboy** has the same physical address. What do we know about this organization? Well, here are some quotes from their web site displayboy.com (no German version, only English): 
 
-_“Welcome to DisplayBoy &#8211; the leading provider for adult affiliate marketing in the mobile Internet.”_ 
+_“Welcome to DisplayBoy – the leading provider for adult affiliate marketing in the mobile Internet.”_ 
 
 __ 
 

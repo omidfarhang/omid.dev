@@ -46,5 +46,5 @@ While Play.com say that no credit card information has been stolen, but it is wi
 
 * To be on the safe side, you should consider changing your Play.com password and the associated email account password.  
 * Be sure to always use different passwords for your different online accounts. If one gets compromised, you can rest assured that the bad guys might go searching other popular online spots to see if they can break into your account with the same password.  
-* If you receive any emails from Play.com that you were not expecting, do not open it &#8211; simply delete it.  
+* If you receive any emails from Play.com that you were not expecting, do not open it – simply delete it.  
 * Companies need to make sure that any third parties they do business with have adequate security policies in place.

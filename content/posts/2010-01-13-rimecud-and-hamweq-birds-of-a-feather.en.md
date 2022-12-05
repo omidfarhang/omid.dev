@@ -1,5 +1,5 @@
 ---
-title: "Rimecud and Hamweq &#8211; birds of a feather"
+title: "Rimecud and Hamweq – birds of a feather"
 date: 2010-01-13T12:36:00+00:00
 layout: single
 author_profile: true

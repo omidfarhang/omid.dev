@@ -25,8 +25,8 @@ Typical social engineering used to lure the user into installing the malware:
 
 The common traits for the Koobface infection process are:
 
-&#8211; a malicious / redirect blogspot.com page  
-&#8211; an infected PC hosting the malware
+– a malicious / redirect blogspot.com page  
+– an infected PC hosting the malware
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgQbSgbPI/AAAAAAAAAlI/d-5W6spHm2Y/s640/blog1.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgQbSgbPI/AAAAAAAAAlI/d-5W6spHm2Y/s1600-h/blog1.png)
 

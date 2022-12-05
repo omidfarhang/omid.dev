@@ -37,6 +37,6 @@ According to Symantec, hackers have so far posted code for the 2006 versions of 
 
 [<img title="symantec-170" border="0" alt="symantec-170" align="right" src="http://lh3.ggpht.com/-K38da2lC7Uo/TzKdpSfLmhI/AAAAAAAAEkU/35FNhxjGRX4/symantec-170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="164" />](http://lh4.ggpht.com/-1yQRiW8T3L0/TzKdfE0RSaI/AAAAAAAAEkM/jt21y2AnZpI/s1600-h/symantec-170%25255B3%25255D.jpg)With customers reassured by Symantec that the illegal theft and distribution of the source code poses no increased risk, the company will be keen to put this episode behind it and move on. 
 
-Symantec seems to have done the right thing throughout this incident &#8211; investigating what occurred, and openly sharing with its users what it discovered about a security breach from years before. 
+Symantec seems to have done the right thing throughout this incident – investigating what occurred, and openly sharing with its users what it discovered about a security breach from years before. 
 
 Furthermore, they recognize that they have been victims of a criminal act and have called in the authorities to investigate and (one hopes) bring the culprits to justice.

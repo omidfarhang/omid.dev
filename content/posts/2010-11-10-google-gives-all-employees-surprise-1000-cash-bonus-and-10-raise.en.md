@@ -37,9 +37,9 @@ Here's what our reader says is the internal email from Eric Schmidt:
 **CONFIDENTIAL: INTERNAL ONLY  
 GOOGLERS ONLY (FULL TIME AND PART TIME EMPLOYEES)**
 
-I’m pleased to share some very, very good news with Googlers worldwide. But first let me say, on behalf of everyone on the management team, that we believe we have the best employees in the world. Period. The brightest, most capable group of this size ever assembled. It’s why I’m excited to come to work every day&#8211;and I’m sure you feel the same way. We want to make sure that you feel rewarded for your hard work, and we want to continue to attract the best people to Google.
+I’m pleased to share some very, very good news with Googlers worldwide. But first let me say, on behalf of everyone on the management team, that we believe we have the best employees in the world. Period. The brightest, most capable group of this size ever assembled. It’s why I’m excited to come to work every day–and I’m sure you feel the same way. We want to make sure that you feel rewarded for your hard work, and we want to continue to attract the best people to Google.
 
-So that is why we’ve decided…to give all of you a 10% raise, effective January 1st. This salary increase is global and across the board&#8211;everyone gets a raise, no matter their level, to recognize the contribution that each and every one of you makes to Google.
+So that is why we’ve decided…to give all of you a 10% raise, effective January 1st. This salary increase is global and across the board–everyone gets a raise, no matter their level, to recognize the contribution that each and every one of you makes to Google.
 
 There’s more. We’ve heard from your feedback on Googlegeist and other surveys that salary is more important to you than any other component of pay (i.e., bonus and equity). To address that, we’re moving a portion of your bonus into your base salary, so now it’s income you can count on, every time you get your paycheck. That’s also effective January 1st. You’ll be receiving an email shortly with further details about these changes to your compensation. And one last thing…today we’re announcing that everyone will get a [holiday cash bonus](https://goto.google.com/cashbonus), too.
 

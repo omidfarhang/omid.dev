@@ -10,7 +10,7 @@ tags:
 lang: en
 category: techblog
 ---
-The internet is rife with free tools from anything to everything (almost) &#8211; from free HTML web editors to free applications to free games and so on.
+The internet is rife with free tools from anything to everything (almost) – from free HTML web editors to free applications to free games and so on.
 
 We’ve been in this situation before. Sometimes out of curiosity or “affluenza” (also known as “I-GOTTA-HAVE-IT-NOW-NO-MATTER-WHAT”), we are tempted to install some of these free tools and applications from the web.
 
@@ -26,7 +26,7 @@ This tool was supposed to be a HTML editor but upon running, clearly something w
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTR-Yl1VI/AAAAAAAABTg/Cws-JQv8Z2k/s400/bifrose2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6NTR-Yl1VI/AAAAAAAABTg/Cws-JQv8Z2k/s1600-h/bifrose2.jpg)
 
-In this case, this backdoor Trojan (Troj/Bifrose-ZI) manifested itself as a file on your Windows System folder and created a registry entry to run itself upon the next startup (notice how notoriously difficult it is to know what and where to look for?). You now have a backdoor Trojan active on your computer which a remote intruder can use to gain access to your computer. The type of malicious activity that can then take place on your computer can range from using your computer to download more malware, to turning your computer into a botnet zombie to stealing confidential information etc. etc. &#8211; you get the idea.
+In this case, this backdoor Trojan (Troj/Bifrose-ZI) manifested itself as a file on your Windows System folder and created a registry entry to run itself upon the next startup (notice how notoriously difficult it is to know what and where to look for?). You now have a backdoor Trojan active on your computer which a remote intruder can use to gain access to your computer. The type of malicious activity that can then take place on your computer can range from using your computer to download more malware, to turning your computer into a botnet zombie to stealing confidential information etc. etc. – you get the idea.
 
 If you’re an avid internet user who loves downloading freebies, then this article should scare you and rightly so. Not everything that glitters is gold, as they say.
 

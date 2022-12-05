@@ -16,6 +16,6 @@ The study, based on Census Bureau work, found that 64 percent of households had 
 
 The NTIA researchers found that of those without connections, 38 percent said they didn’t need Internet and 26 percent said it was too expensive. In rural areas, 11 percent said they didn’t have any Internet access available. In urban areas, one percent said they couldn’t get it.
 
-Story <a href="http://www.broadcastingcable.com/article/449308-NTIA_Almost_a_Third_of_U_S_Does_Not_Use_Internet.php" target="_blank">here</a>.
+Story [here](http://www.broadcastingcable.com/article/449308-NTIA_Almost_a_Third_of_U_S_Does_Not_Use_Internet.php).
 
-Report <a href="http://www.broadcastingcable.com/common/jumplink.php?target=http%3A%2F%2Fwww.ntia.doc.gov%2Freports%2F2010%2FNTIA_internet_use_report_Feb2010.pdf" target="_blank">here</a>.
+Report [here](http://www.broadcastingcable.com/common/jumplink.php?target=http%3A%2F%2Fwww.ntia.doc.gov%2Freports%2F2010%2FNTIA_internet_use_report_Feb2010.pdf).

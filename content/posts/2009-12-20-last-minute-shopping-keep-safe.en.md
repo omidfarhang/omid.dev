@@ -1,5 +1,5 @@
 ---
-title: "Last minute shopping &#8211; keep safe!"
+title: "Last minute shopping – keep safe!"
 date: 2009-12-20T00:12:00+00:00
 layout: single
 author_profile: true
@@ -34,7 +34,7 @@ The address bar should have an ‘https’ string before the page address.
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy1kY47wjJI/AAAAAAAAAb4/PGWrPkuiGMI/s640/208187957.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy1kY47wjJI/AAAAAAAAAb4/PGWrPkuiGMI/s1600-h/208187957.png)
 
-Remember &#8211; NEVER shop on a page which doesn’t have ‘https’ in the address bar:
+Remember – NEVER shop on a page which doesn’t have ‘https’ in the address bar:
 
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy1kahqAV1I/AAAAAAAAAcI/fXFm5EdMdIo/s640/208187959.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy1kahqAV1I/AAAAAAAAAcI/fXFm5EdMdIo/s1600-h/208187959.png)
 

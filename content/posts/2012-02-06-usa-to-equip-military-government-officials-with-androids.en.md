@@ -30,7 +30,7 @@ While the massive Counterclank Android malware scare of last week turned out to 
 
 The modified version of Android will be authorised to store classified documents but will be incapable of transmitting them over a cellular network. 
 
-[<img title="smartphone-army_170" border="0" alt="smartphone-army_170" align="right" src="http://lh6.ggpht.com/-USVvqCQ4H8M/TzAJ3LO1yuI/AAAAAAAAEgg/R7dbcV_FZvA/smartphone-army_170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="227" />](http://lh6.ggpht.com/-TFoMRq3SZas/TzAJhiaLJRI/AAAAAAAAEgY/OefRCzQgpRU/s1600-h/smartphone-army_170%25255B4%25255D.jpg)Smartphones cleared for top-secret dispatches &#8211; those the government seeks to keep out of the hands of hackers, rogue apps, foreign governments or sites such as WikiLeaks &#8211; are due out in the next few months. 
+[<img title="smartphone-army_170" border="0" alt="smartphone-army_170" align="right" src="http://lh6.ggpht.com/-USVvqCQ4H8M/TzAJ3LO1yuI/AAAAAAAAEgg/R7dbcV_FZvA/smartphone-army_170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="227" />](http://lh6.ggpht.com/-TFoMRq3SZas/TzAJhiaLJRI/AAAAAAAAEgY/OefRCzQgpRU/s1600-h/smartphone-army_170%25255B4%25255D.jpg)Smartphones cleared for top-secret dispatches – those the government seeks to keep out of the hands of hackers, rogue apps, foreign governments or sites such as WikiLeaks – are due out in the next few months. 
 
 Sources involved in the U.S. smartphone program told CNN that their goal is to support any type of smartphone. Though why Android over Apple in the first instance? Google freely allows developers to fiddle with its code, that's why. 
 
@@ -40,9 +40,9 @@ CNN quoted Angelos Stavrou, an information-security director at George Mason Uni
 
 Well, good luck with that shift. Apple's never had a cozy relationship with developers or security researchers, and its attempts to be more open, a la rivals Google and Microsoft, have been a tad ginger. 
 
-A recent example: In February 2011, Apple made a tentative step toward opening up. It [offered a copy](http://www.computerworld.com/s/article/9211599/Apple_invites_bug_researchers_to_scrutinize_Lion_OS) of the developer preview of Mac OS X 10.7, aka Lion, to security researchers and asked for their feedback &#8211; by invitation only, and only under a non-disclosure agreement regarding whatever researchers found. 
+A recent example: In February 2011, Apple made a tentative step toward opening up. It [offered a copy](http://www.computerworld.com/s/article/9211599/Apple_invites_bug_researchers_to_scrutinize_Lion_OS) of the developer preview of Mac OS X 10.7, aka Lion, to security researchers and asked for their feedback – by invitation only, and only under a non-disclosure agreement regarding whatever researchers found. 
 
-That door wasn't ajar long. Nine months later, it slammed shut on Charlie Miller &#8211; aka “that Apple 0-day guy” &#8211; when the Accuvant Labs security researcher had the audacity to uncover a potentially dangerous bug he found in Apple’s iOS operating system that allowed unapproved code to be run on iPads and iPhones. 
+That door wasn't ajar long. Nine months later, it slammed shut on Charlie Miller – aka “that Apple 0-day guy” – when the Accuvant Labs security researcher had the audacity to uncover a potentially dangerous bug he found in Apple’s iOS operating system that allowed unapproved code to be run on iPads and iPhones. 
 
 Miller packed a proof-of-concept bug into a fake stock ticker program for distribution in Apple's App Store. 
 

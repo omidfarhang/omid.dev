@@ -1,5 +1,5 @@
 ---
-title: "Nude Heather Morris pictures &#8211; hacker blamed"
+title: "Nude Heather Morris pictures – hacker blamed"
 date: 2012-03-13T14:22:00+00:00
 layout: single
 author_profile: true
@@ -28,7 +28,7 @@ Last week, “Mad Men” star Christina Hendricks [denied](http://www.tmz.com/20
 
 Whenever one of these stories hits the social networks, there are inevitably thousands of hot-blooded men who turn to internet search engines, hoping to find the explicit photos. 
 
-And, equally predictably, there are often cybercriminals waiting to exploit the trending topic &#8211; disguising their malware to appear as if it is a sleazy picture or movie. Remember the Erin Andrews peephole video, for instance? 
+And, equally predictably, there are often cybercriminals waiting to exploit the trending topic – disguising their malware to appear as if it is a sleazy picture or movie. Remember the Erin Andrews peephole video, for instance? 
 
 So, be on your guard. 
 

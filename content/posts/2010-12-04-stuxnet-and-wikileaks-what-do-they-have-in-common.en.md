@@ -1,5 +1,5 @@
 ---
-title: "Stuxnet and WikiLeaks &#8211; What do they have in common?"
+title: "Stuxnet and WikiLeaks – What do they have in common?"
 date: 2010-12-04T21:41:00+00:00
 layout: single
 author_profile: true

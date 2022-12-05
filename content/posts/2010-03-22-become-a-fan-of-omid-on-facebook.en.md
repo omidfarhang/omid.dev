@@ -15,7 +15,7 @@ category: techblog
 
 You are invited to become a fan of [Omid's Network](https://www.facebook.com/omidsnetwork/) on Facebook.
 
-Those of you who already have a Facebook page; all you have to do is become a fan to view the **Omid** fan page in its entirety. But to participate fully you must join Facebook. If you do not already have a Facebook profile you will still be able to view photos and basic information (but c'mon, you know you have wanted to jump on the Facebook bandwagon &#8211; here's a good reason why.)
+Those of you who already have a Facebook page; all you have to do is become a fan to view the **Omid** fan page in its entirety. But to participate fully you must join Facebook. If you do not already have a Facebook profile you will still be able to view photos and basic information (but c'mon, you know you have wanted to jump on the Facebook bandwagon – here's a good reason why.)
 
 Lots of folks make great videos and have blog postings, articles and photos about **Omid**, web security or general computing tips & tricks, so here's a place to share them. We sure would like to put a face with a user name, so if you want to show us a picture of yourself with your beloved computer, add a photo too.
 

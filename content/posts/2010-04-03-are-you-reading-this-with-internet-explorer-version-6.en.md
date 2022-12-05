@@ -21,7 +21,7 @@ There are probably a number of reasons for this:
 — They are using IE6 at home and don’t know there is such a thing as computer security.
 
 VB said: _“The browser has come in for heavy criticism due to numerous security flaws and its use of outdated technology. Indeed, in January both the French government and the German government issued advisories to computer users recommending that they switch to a different web browser, after it was discovered that IE 6 contained a serious security flaw that could be exploited by hackers and cybercriminals.”_  
-They also wrote: _“In VB's poll, 15% of respondents said they were running the browser at work, indicating that, for many organizations, upgrading is not a priority &#8211; whether that is for reasons of compatibility with legacy applications or simply due to a lack of urgency in their IT departments.”_  
+They also wrote: _“In VB's poll, 15% of respondents said they were running the browser at work, indicating that, for many organizations, upgrading is not a priority – whether that is for reasons of compatibility with legacy applications or simply due to a lack of urgency in their IT departments.”_  
 Another story that is in the top of the news today has some numbers that show just how insecure IE6 is when it comes to drive-by downloads of malcode.
 
 Security blogger Brian Krebs, [writing about a new free tool that will stop drive-by downloads](http://www.krebsonsecurity.com/2010/02/blade-hacking-away-at-drive-by-downloads/), quoted SRI International researchers who have created the Block All Drive-By Download Exploits (BLADE) freeware.

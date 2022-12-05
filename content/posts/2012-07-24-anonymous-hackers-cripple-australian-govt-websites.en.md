@@ -22,7 +22,7 @@ Anonymous Australia told news.com.au the attacks were brought forward to coincid
 
 > &#8216;The Australian Government is attempting to strip away its citizens’ Internet rights.'
 
-&#8211; Anonymous statement 
+– Anonymous statement 
 
 Anonymous said the sites were specifically chosen because the group had “proof” that small to medium businesses, education departments, student and personal accounts had been tracked by the State Government. 
 

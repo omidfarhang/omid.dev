@@ -29,7 +29,7 @@ _Fax: (+44) 7011830323_
 
 Some things to notice:
 
-1. Fake e-mail addresses &#8211; Both the e-mail addresses mentioned in the message ( Intmonetaryfunds ‘at’ aol.com and Bernisecharityfoundationimf ‘at’ gmail.com ) are from common free e-mail service providers.
+1. Fake e-mail addresses – Both the e-mail addresses mentioned in the message ( Intmonetaryfunds ‘at’ aol.com and Bernisecharityfoundationimf ‘at’ gmail.com ) are from common free e-mail service providers.
 
 2. The letter is not addresed to anyone. Surely if the IMF wanted you to have their $10 Million, they would know your name?
 

@@ -19,7 +19,7 @@ In one spam campaign, we observed it sending out the email seen below to only Ru
 
 Email translation (Rough translation) 
 
-_This year Rospres celebrates another birthday &#8211; we are now 5 years old._ 
+_This year Rospres celebrates another birthday – we are now 5 years old._ 
 
 _All these years we were trying our best to bring to you the latest available information in its full integrity. In the nearest future we intend to work even harder for our readers, so they come back to our web portal again and again. We will be very happy to work for all visitors to <http://www.rospres.com/> !_ 
 
