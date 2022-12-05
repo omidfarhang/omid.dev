@@ -11,14 +11,8 @@ tags:
 lang: en
 category: techblog
 ---
-<div dir="ltr" trbidi="on">
-  <div>
-    <a href="http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg" /></a>
-  </div>
-  
-  <p>
-    Adobe Flash Player 10.2.159.1 is now available!
-  </p>
-  
-  <p>
-    Download it from here: <a href="http://get.adobe.com/flashplayer/">http://get.adobe.com/flashplayer/</a> </div>
+[![](http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg)](http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg)
+
+Adobe Flash Player 10.2.159.1 is now available!
+
+Download it from here: [http://get.adobe.com/flashplayer/](http://get.adobe.com/flashplayer/)

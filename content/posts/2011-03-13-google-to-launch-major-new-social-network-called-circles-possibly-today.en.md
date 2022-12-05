@@ -14,11 +14,9 @@ category: techblog
 ---
 Today I’ve read a nice article in readwriteweb.com so I wanted share it with you:
 
-[<img title="Google" border="0" alt="Google" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TX0zDq75J9I/AAAAAAAADr0/hrSkqc4OceY/Google_thumb%5B1%5D.png?imgmax=800" width="150" height="54" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TX0zBsF9JyI/AAAAAAAADrw/-o2k1g1Tfqk/s1600-h/Google%5B3%5D.png)We believe that Google will preview a major new social service called _Google Circles_ at [South by Southwest Interactive](http://sxsw.com/) today. **Update:** _Google has now officially denied that Circles will launch here, but not that it exists. Others, including Tim O'Reilly, have also now confirmed that they've seen it and that it's awesome._ If what we've heard is correct, the service will offer photo, video and status message sharing. Everything users share on Circles will be shared only with the most appropriate circle of social contacts in their lives, not with all your contacts in bulk. Circles may be shown off at [an event co-hosted tonight by the ACLU](http://dotrights.org/partylikeits1986), an organization focused on privacy and the liberties it affords. It may not be a big public launch yet, but it's clear that this is a major product in the works at the very least.
+[![Google](http://lh5.ggpht.com/_vaUVXcmC3OI/TX0zDq75J9I/AAAAAAAADr0/hrSkqc4OceY/Google_thumb%5B1%5D.png?imgmax=800 "Google")](http://lh5.ggpht.com/_vaUVXcmC3OI/TX0zBsF9JyI/AAAAAAAADrw/-o2k1g1Tfqk/s1600-h/Google%5B3%5D.png)We believe that Google will preview a major new social service called _Google Circles_ at [South by Southwest Interactive](http://sxsw.com/) today. **Update:** _Google has now officially denied that Circles will launch here, but not that it exists. Others, including Tim O'Reilly, have also now confirmed that they've seen it and that it's awesome._ If what we've heard is correct, the service will offer photo, video and status message sharing. Everything users share on Circles will be shared only with the most appropriate circle of social contacts in their lives, not with all your contacts in bulk. Circles may be shown off at [an event co-hosted tonight by the ACLU](http://dotrights.org/partylikeits1986), an organization focused on privacy and the liberties it affords. It may not be a big public launch yet, but it's clear that this is a major product in the works at the very least.
 
 The service has been developed with extensive participation by [Chris Messina](http://factoryjoe.com/), the co-creator of numerous successful social and software phenomena online, from BarCamp to Hashtags and much more. Messina declined to comment for this story. Jonathan Sposato, CEO of the photo editing service Piknik that Google acquired last year, is working on Circles as well. Sposato may be the only entrepreneur to have sold not one but two startups to Google &#8211; having founded Phatbits, a service that was acquired by Google in 2005 and became Google Gadgets. These are heavy hitting tech leaders and the service should be very interesting.
-
- 
 
 #### A Matter of Personas
 
@@ -30,25 +28,17 @@ This fundamental discomfort has been, many people argue, a limiting factor in th
 
 The development of Circles is likely heavily influenced by the work of ex-Google social technology researcher Paul Adams. Adams has written a book called [Social Circles](http://www.amazon.com/Social-Circles-relationships-influence-marketing/dp/0321719646), which will be released this Summer and he published a widely read slide deck about what is wrong with social networking: specifically the lack of respect for context and personas. ([The Real Life Social Network](http://www.slideshare.net/padday/the-real-life-social-network-v2)) Adams worked on User Experience at Google for four years, but just months after publishing his influencial presentation he [left Google for Facebook](http://networkeffect.allthingsd.com/20101220/google-social-researcher-jumps-ship-for-facebook/).
 
- 
-
-<div>
-  <strong><a href="http://www.slideshare.net/padday/the-real-life-social-network-v2" title="The Real Life Social Network v2">The Real Life Social Network v2</a></strong>
-</div>
-
- 
+**[The Real Life Social Network v2](http://www.slideshare.net/padday/the-real-life-social-network-v2 "The Real Life Social Network v2")**
 
 #### Courting Developers
 
 Given who is working on it, I expect that Google Circles will be as developer friendly as other Google social products, but with a much greater emphasis on design and usability.
 
-[<img title="googlehackers" border="0" alt="googlehackers" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TX0zKJfXNtI/AAAAAAAADr8/Oop-fvf24pg/googlehackers_thumb%5B2%5D.jpg?imgmax=800" width="308" height="411" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TX0zG1IrN_I/AAAAAAAADr4/S4_wXLoensY/s1600-h/googlehackers%5B4%5D.jpg)Messina and Sposato both have strong backgrounds in working with developers and APIs. Messina was trained as a visual designer and created the full page ad in the New York Times announcing the launch of Firefox, then went on to become a leader in the open web community. His work has included co-creating the international unconference phenomenon called [Barcamp](http://barcamp.org/), helping build OpenID federated identity system, leading the Activity Streams movement for an interoperable social network user activity data system and initiating the use of #hashtags on Twitter. When he joined Google in January 2010, we [wrote extensively](http://www.readwriteweb.com/archives/how_chris_messina_got_a_job_at_google.php) about his life and career.
+[![googlehackers](http://lh5.ggpht.com/_vaUVXcmC3OI/TX0zKJfXNtI/AAAAAAAADr8/Oop-fvf24pg/googlehackers_thumb%5B2%5D.jpg?imgmax=800 "googlehackers")](http://lh4.ggpht.com/_vaUVXcmC3OI/TX0zG1IrN_I/AAAAAAAADr4/S4_wXLoensY/s1600-h/googlehackers%5B4%5D.jpg)Messina and Sposato both have strong backgrounds in working with developers and APIs. Messina was trained as a visual designer and created the full page ad in the New York Times announcing the launch of Firefox, then went on to become a leader in the open web community. His work has included co-creating the international unconference phenomenon called [Barcamp](http://barcamp.org/), helping build OpenID federated identity system, leading the Activity Streams movement for an interoperable social network user activity data system and initiating the use of #hashtags on Twitter. When he joined Google in January 2010, we [wrote extensively](http://www.readwriteweb.com/archives/how_chris_messina_got_a_job_at_google.php) about his life and career.
 
 _Right: Messina posted this photo on Foursquare today of posters promoting Google's hacker event at SXSW._
 
 It is nearly inconceivable that Messina would be involved and the effort wouldn't be a standards-based platform play. If Circles is unveiled at SXSW, the timing couldn't be better from a developer relations perspective. Google can position itself as going exactly the opposite direction Twitter is. Twitter saw its biggest outpouring of criticism yet when it [told developers on Friday](http://www.readwriteweb.com/archives/twitter_tells_developers_to_stop_building_twitter.php) that they should not build any more basic interfaces, clients, for using Twitter. It remains to be seen how that will play out, but if a major social network wanted to try to lure developers to build on their platform, this could be a good time to start talking about it.
-
- 
 
 #### Google Tries Again
 
