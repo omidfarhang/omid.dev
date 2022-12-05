@@ -1,11 +1,12 @@
 baseURL = 'https://omid.dev/'
 title = 'Omid Farhang'
-theme = 'ananke'
+theme = 'PaperMod'
 
 copyright = 'All rights reserved.'
 defaultContentLanguage = 'en'
 
 # disqusShortname = 'omidnetwork'
+googleAnalytics = 'G-EFXLS4ZNG6'
 
 show_reading_time = true
 
@@ -74,6 +75,26 @@ show_reading_time = true
   github = 'https://github.com/omidfarhang'
   mastodon = 'https://floss.social/@omid'
   instagram = 'https://instagram.com/omidfarhang'
+  telegram = 'https://t.me/omidfarhang'
   mainSections = ["posts"]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableScrollToTop = false
+  showtoc = true
+  tocopen = false
   [params.navigation]
-    help = 'Help'
+  help = 'Help'
+  [params.assets]
+  favicon = "/logo/favicon.ico"
+  favicon16x16 = "/logo/favicon-16x16.png"
+  favicon32x32 = "/logo/favicon-32x32.png"
+  apple_touch_icon = "/logo/apple-touch-icon.png"
+  safari_pinned_tab = "/logo/safari-pinned-tab.svg"
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
