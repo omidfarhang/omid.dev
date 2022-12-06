@@ -13,13 +13,13 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="grady-sizemore" border="0" alt="grady-sizemore" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cUw_UtgI/AAAAAAAADHs/zN2hx-5wyew/grady-sizemore_thumb.jpg?imgmax=800" width="304" height="208" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cS1d8BZI/AAAAAAAADHo/uQMx_sgi25g/s1600-h/grady-sizemore%5B2%5D.jpg)In 2009, naked photographs of American baseball star Grady Sizemore circulated on the internet after being stolen from the email account of his then girlfriend, Playboy Playmate Brittany Binger.
+[![grady-sizemore](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cUw_UtgI/AAAAAAAADHs/zN2hx-5wyew/grady-sizemore_thumb.jpg?imgmax=800 "grady-sizemore")](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cS1d8BZI/AAAAAAAADHo/uQMx_sgi25g/s1600-h/grady-sizemore%5B2%5D.jpg)In 2009, naked photographs of American baseball star Grady Sizemore circulated on the internet after being stolen from the email account of his then girlfriend, Playboy Playmate Brittany Binger.
 
 A total of 15 photos were circulated – some showing Sizemore posing in his bathroom mirror wearing a suit, but others that showed him nude or only partially clothed. In one of the pictures, still easily available on the web, the Cleveland Indians' star is using a coffee mug to protect his err.. modesty.
 
 Clearly Sizemore intended these photographs, taken on his cellphone's camera, to only be shared with his model girlfriend – but lax computer security meant they were seen by a much larger audience.
 
-According to <a href="http://www.startribune.com/local/south/107009288.html" target="_blank">media reports</a>, a 19-year-old woman has now been arrested in connection with the offence
+According to [media reports](http://www.startribune.com/local/south/107009288.html), a 19-year-old woman has now been arrested in connection with the offence
 
 Leah M Ayers, of Apple Valley, California, has been charged with two counts of unauthorized computer access. According to the authorities, Brittany Binger's email account was accessed four times in August 2009 without authorization.
 
@@ -29,7 +29,7 @@ So, what can the rest of us who aren't baseball stars or Playboy Playmates learn
 
 Well, firstly, be careful what information you share on social networks – and who can view it. You might be sharing more information than is sensible.
 
-Secondly, choose a sensible, unique, hard-to-crack password for your different accounts. Not sure how to select a password? <a href="/en/knowledge-base/security/passwords" target="_blank">Read my advice</a> on the subject.
+Secondly, choose a sensible, unique, hard-to-crack password for your different accounts. Not sure how to select a password? [Read my advice](/en/knowledge-base/security/passwords) on the subject.
 
 Thirdly, don't make your “secret questions” easy to answer. Those are the questions that some websites ask you in case you forget your password. For instance, “What's the name of your pet dog?” or “What's your mother's maiden name?” is something that many people could work out. As Sarah Palin and Paris Hilton have discovered to her cost.
 

@@ -33,8 +33,6 @@ Customers can set up an account for buying books, store them in a central online
 
 A typical user could begin reading an e-book on an iPad at home, continue reading the same book on an Android phone on the subway and then pick it up again on a Web browser at the office, with the book opening each time to the place where the user left off.
 
-<a name="more"></a> 
-
 The Google eBookstore could be a significant benefit to independent bookstores like Powell’s Books in Portland, Ore., that have signed on to sell Google e-books on their Web sites through Google — the first significant entry for independents into the e-book business.
 
 “This levels the playing field,” said Oren Teicher, the chief executive of the American Booksellers Association. “If you want to buy e-books, you don’t just have to buy them from the big national outlets.”

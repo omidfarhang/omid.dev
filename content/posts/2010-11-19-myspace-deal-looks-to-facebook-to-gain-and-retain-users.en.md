@@ -13,7 +13,9 @@ tags:
 lang: en
 category: techblog
 ---
-**[<img title="_50044356_mashup-facebook" border="0" alt="_50044356_mashup-facebook" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TOaHXQlmc8I/AAAAAAAADK4/ksNkPtiDAcI/_50044356_mashup-facebook_thumb%5B1%5D.gif?imgmax=800" width="304" height="173" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TOaHVBukP7I/AAAAAAAADK0/R__aVcdPM6U/s1600-h/_50044356_mashup-facebook%5B3%5D.gif)BBC:** The once dominant MySpace has turned to the company that stole its crown, Facebook, for help to drive users to its ailing site.
+[![_50044356_mashup-facebook](http://lh6.ggpht.com/_vaUVXcmC3OI/TOaHXQlmc8I/AAAAAAAADK4/ksNkPtiDAcI/_50044356_mashup-facebook_thumb%5B1%5D.gif?imgmax=800 "_50044356_mashup-facebook")](http://lh3.ggpht.com/_vaUVXcmC3OI/TOaHVBukP7I/AAAAAAAADK0/R__aVcdPM6U/s1600-h/_50044356_mashup-facebook%5B3%5D.gif)
+
+**BBC:** The once dominant MySpace has turned to the company that stole its crown, Facebook, for help to drive users to its ailing site.
 
 The two launched Mashup with Facebook, to let MySpace users log in to their Facebook accounts through their MySpace page.
 

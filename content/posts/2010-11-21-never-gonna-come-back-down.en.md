@@ -10,8 +10,8 @@ tags:
 lang: en
 category: blog
 ---
-http://www.youtube.com/watch?v=nt52SoAeP48
+{{< youtube nt52SoAeP48 >}}
 
-Don’t he rock?! If you like to know more about him, <a href="/entertainment/artists/bt" target="_blank">take a look in my site!</a>
+Don’t he rock?!
 
 This video is made years ago, but just recently is published in iTune.

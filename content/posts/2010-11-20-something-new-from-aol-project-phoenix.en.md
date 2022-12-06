@@ -29,7 +29,7 @@ However, we spent a lot of time talking with our users to understand what they m
   * It's easier to find and view the photos, maps and file attachments contained in your message — all in one place.
 
 We'll be rolling Phoenix out to everyone early next year, but in appreciation of our loyal email users — that's you! — we wanted to let you know that this new product is coming.  
-If you're interested in being one of the first to try Phoenix, you can go to <a href="http://invite.aol.com/invite/mail/request_invite?campaign=mail_beta&#038;site=www.phoenix.aol.com&#038;next=http://phoenix.aol.com/login" target="_blank">phoenix.aol.com</a> 
+If you're interested in being one of the first to try Phoenix, you can go to [phoenix.aol.com](http://invite.aol.com/invite/mail/request_invite?campaign=mail_beta&site=www.phoenix.aol.com&next=http://phoenix.aol.com/login) 
 
 and put yourself on the invite list.
 
@@ -41,4 +41,4 @@ Mike Maser
 SVP, Marketing  
 AOL, Inc.
 
-P.S. Need help? Visit AOL Mail's <a href="http://help.aol.com/help/product/aol_webmail/" target="_blank">help pages and community support forum</a> And to keep up with AOL Mail happenings, follow us on <a href="http://twitter.com/aolmail" target="_blank">Twitter</a> or <a href="http://www.facebook.com/aolmail" target="_blank">Facebook</a>.
+P.S. Need help? Visit AOL Mail's [help pages and community support forum](http://help.aol.com/help/product/aol_webmail/) And to keep up with AOL Mail happenings, follow us on [Twitter](http://twitter.com/aolmail) or [Facebook](http://www.facebook.com/aolmail).
