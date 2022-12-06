@@ -43,7 +43,7 @@ markup:
     hl_inline: false
     lineAnchors: ''
     lineNoStart: 1
-    lineNos: false
+    lineNos: true
     lineNumbersInTable: true
     noClasses: false
     noHl: false
@@ -58,7 +58,7 @@ languages:
   # English
   en:
     title: Omid Farhang
-    languageName: English
+    languageName: ':us:'
     languageCode: en-US
     weight: 1
     params:
@@ -84,7 +84,7 @@ languages:
   # Persian
   fa:
     title: امید فرهنگ
-    languageName: فارسی
+    languageName: ':iran:'
     languageCode: fa-IR
     weight: 2
     languagedirection: rtl
@@ -111,7 +111,7 @@ languages:
   # Deutsch
   de:
     title: Omid Farhang
-    languageName: Deutsch
+    languageName: ':de:'
     languageCode: de-DE
     weight: 2
     params:
@@ -166,6 +166,8 @@ params:
     url: 'https://facebook.com/omidfarhang'
   - name: telegram
     url: 'https://t.me/omidfarhang'
+  - name: Rss
+    url: "index.xml"
     linkedin: 'https://linkedin.com/in/omidfarhang'
     twitter: 'https://twitter.com/omidfarhangen'
     github: 'https://github.com/omidfarhang'
