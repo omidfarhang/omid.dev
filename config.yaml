@@ -1,0 +1,126 @@
+baseURL: 'https://omid.dev/'
+title: Omid Farhang
+theme: PaperMod
+copyright: '© 2022 Omid Farhang | All rights reserved.'
+defaultContentLanguage: en
+googleAnalytics: G-EFXLS4ZNG6
+show_reading_time: true
+menu:
+  main:
+    - identifier: blog
+      name: Posts
+      url: /posts
+      weight: 1
+    - identifier: aboutMe
+      name: About me
+      url: /about-me
+      weight: 3
+    - identifier: contactMe
+      name: Contact me
+      url: /contact-me
+      weight: 4
+    - identifier: services
+      name: Services
+      url: /services
+      weight: 2
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ''
+    hl_inline: false
+    lineAnchors: ''
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: false
+    noHl: false
+    style: monokai
+    tabWidth: 4
+languages:
+  en:
+    title: Omid Farhang
+    languageName: English
+    languageCode: en-US
+    weight: 1
+    params:
+      profileMode:
+        enabled: true
+        imageUrl: "/images/bio-photo.jpg"
+        subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+  fa:
+    title: امید فرهنگ
+    languageName: فارسی
+    languageCode: fa-IR
+    weight: 2
+    languagedirection: rtl
+    params:
+      profileMode:
+        enabled: true
+        imageUrl: "/images/bio-photo.jpg"
+        subtitle: "من یک برنامه‌نویس وب و مدیر شبکه هستم، به طور آزاد کار میکنم و به سیستم های لینوکسی علاقه دارم"
+  de:
+    title: Omid Farhang
+    languageName: Deutsch
+    languageCode: de-DE
+    weight: 2
+    params:
+      profileMode:
+        enabled: true
+        imageUrl: "/images/bio-photo.jpg"
+        subtitle: "Ich bin Senior Developer und Netzwerkadministrator, arbeite freiberuflich und suche nach Linux-Sachen"
+params:
+  profileMode:
+      enabled: true
+      subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+      imageUrl: "/images/bio-photo.jpg"
+  assets:
+    favicon: /logo/favicon.ico
+    favicon16x16: /logo/favicon-16x16.png
+    favicon32x32: /logo/favicon-32x32.png
+    apple_touch_icon: /logo/apple-touch-icon.png
+    safari_pinned_tab: /logo/safari-pinned-tab.svg
+  socialIcons:
+  - name: linkedin
+    url: 'https://linkedin.com/in/omidfarhang'
+  - name: twitter
+    url: 'https://twitter.com/omidfarhangen'
+  - name: github
+    url: 'https://github.com/omidfarhang'
+  - name: mastodon
+    url: 'https://floss.social/@omid'
+  - name: instagram
+    url: 'https://instagram.com/omidfarhang'
+  - name: facebook
+    url: 'https://facebook.com/omidfarhang'
+  - name: telegram
+    url: 'https://t.me/omidfarhang'
+    linkedin: 'https://linkedin.com/in/omidfarhang'
+    twitter: 'https://twitter.com/omidfarhangen'
+    github: 'https://github.com/omidfarhang'
+    mastodon: 'https://floss.social/@omid'
+    instagram: 'https://instagram.com/omidfarhang'
+    telegram: 'https://t.me/omidfarhang'
+    mainSections:
+      - posts
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowWordCount: true
+    ShowRssButtonInSectionTermList: true
+    UseHugoToc: true
+    disableScrollToTop: false
+    showtoc: true
+    tocopen: false
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON 
