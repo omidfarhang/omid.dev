@@ -13,7 +13,7 @@ tags:
 lang: en
 category: techblog
 ---
-[<img title="Debit-Cards" border="0" alt="Debit-Cards" align="right" src="http://lh5.ggpht.com/-GTbYusJv5-U/T4r8jpEAexI/AAAAAAAAFg0/kES1PdOjj2U/Debit-Cards_thumb.jpg?imgmax=800" width="244" height="155" />](http://lh4.ggpht.com/-mzKHTEr5WLY/T4r8gZu4CwI/AAAAAAAAFgs/QVPgxb3AmmQ/s1600-h/Debit-Cards%25255B2%25255D.jpg)An Iranian hacker published the information about some 3 million debit cards of 10 Iranian banks, including codes and passwords. 
+[![Debit-Cards](http://lh5.ggpht.com/-GTbYusJv5-U/T4r8jpEAexI/AAAAAAAAFg0/kES1PdOjj2U/Debit-Cards_thumb.jpg?imgmax=800 "Debit-Cards")](http://lh4.ggpht.com/-mzKHTEr5WLY/T4r8gZu4CwI/AAAAAAAAFgs/QVPgxb3AmmQ/s1600-h/Debit-Cards%25255B2%25255D.jpg)An Iranian hacker published the information about some 3 million debit cards of 10 Iranian banks, including codes and passwords. 
 
 The information has been published by someone named “Khosrow Zare Farid” who was the manager of a company which operates SHETAB payment network in Iran and produces and installs POS devices. 
 
@@ -27,4 +27,4 @@ The Central Bank of Iran has strictly recommended clients of the banking system 
 
 **Update:** 
 
-Read the follow up information in my recent post: <a href="/2012/04/banking-system-vulnerability-3-million.html" target="_blank">Banking System Vulnerability – 3 million bank accounts hacked in Iran</a>
+Read the follow up information in my recent post: [Banking System Vulnerability – 3 million bank accounts hacked in Iran](/2012/04/17/banking-system-vulnerability-3-million-bank-accounts-hacked-in-iran-updated/)
