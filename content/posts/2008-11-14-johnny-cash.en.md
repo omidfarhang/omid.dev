@@ -12,9 +12,9 @@ tags:
 lang: en
 category: entblog
 ---
- [![metro_Johnny_Cash_narrowweb__300x455,0](/images/2013/03/metro_johnny_cash_narrowweb__300x4550.jpg?w=197)](/images/2013/03/metro_johnny_cash_narrowweb__300x4550.jpg)
- 
- **Johnny Cash** (born **J. R. Cash**; February 26, 1932 – September 12, 2003) was a Grammy Award-winning American country singer-songwriter. Cash is widely considered to be one of the most influential American musicians of the 20th century.
+[![metro_Johnny_Cash_narrowweb__300x455,0](/images/2013/03/metro_johnny_cash_narrowweb__300x4550.jpg?w=197)](/images/2013/03/metro_johnny_cash_narrowweb__300x4550.jpg)
+
+**Johnny Cash** (born **J. R. Cash**; February 26, 1932 – September 12, 2003) was a Grammy Award-winning American country singer-songwriter. Cash is widely considered to be one of the most influential American musicians of the 20th century.
 
 Cash was known for his deep, distinctive bass-baritone voice, the “freight train” sound of his Tennessee Three backing band, his demeanor, and his dark clothing, which earned him the nickname “The Man in Black”. He traditionally started his concerts with the introduction “Hello, I'm Johnny Cash”.
 

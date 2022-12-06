@@ -12,7 +12,9 @@ tags:
 lang: en
 category: entblog
 ---
-  **[![carlos-santana](/images/2008/05/carlos-santana.jpg)](/images/2008/05/carlos-santana.jpg) Carlos Augusto Alves Santana** (born July 20, 1947) is a Grammy Award-winning Mexican-American Latin rock musician and guitarist. He became famous in the late 1960s and early 1970s with his band, Santana, which created a highly successful blend of salsa, rock, blues, and jazz fusion. Their sound featured his melodic, blues based guitar lines set against Latin percussion such as timbales and congas. Santana continued to work in these forms over the following decades, and experienced a sudden resurgence of popularity and critical acclaim in the late 1990s. _Rolling Stone_ also named Santana number 15 on their list of the 100 Greatest Guitarists of All Time in 2003.
+[![carlos-santana](/images/2008/05/carlos-santana.jpg)](/images/2008/05/carlos-santana.jpg) 
+
+**Carlos Augusto Alves Santana** (born July 20, 1947) is a Grammy Award-winning Mexican-American Latin rock musician and guitarist. He became famous in the late 1960s and early 1970s with his band, Santana, which created a highly successful blend of salsa, rock, blues, and jazz fusion. Their sound featured his melodic, blues based guitar lines set against Latin percussion such as timbales and congas. Santana continued to work in these forms over the following decades, and experienced a sudden resurgence of popularity and critical acclaim in the late 1990s. _Rolling Stone_ also named Santana number 15 on their list of the 100 Greatest Guitarists of All Time in 2003.
 
 #### Biography
 

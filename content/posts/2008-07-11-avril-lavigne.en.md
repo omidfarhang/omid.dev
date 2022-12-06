@@ -14,6 +14,7 @@ category: entblog
 ---
 
 [![avril_lavigne](/images/2008/07/avril_lavigne.jpg)](/images/2008/07/avril_lavigne.jpg)
+
 **Avril Lavigne Whibley** (born September 27, 1984), better known by her birth name of **Avril Lavigne** (pronounced /ˈævrɨl ləˈviːn/), is a Canadian Grammy award-nominated rock singer, musician, fashion designer and actress. In 2006, _Canadian Business Magazine_ ranked her the seventh most powerful Canadian in Hollywood.
 
 Lavigne's debut album, _Let Go_, was released in 2002. Over 16 million copies were sold worldwide and it was certified six times platinum in the United States. Her second and third albums, _Under My Skin_ (2004) sold 8 million copies and _The Best Damn Thing_ (2007) currently over 5 million copies sold respectively, reached number one on the U.S. _Billboard_ 200\. Lavigne has scored six number one songs worldwide to date and a total of eleven top ten hits, including “Complicated”, “Sk8er Boi”, “I'm With You”, “My Happy Ending”, and “Girlfriend” which became #1 hits in the ARC Top 40. In December 2007, Lavigne was ranked at #7 in the Forbes “Top 20 Earners Under 25”, with an annual earnings of $12 million. Currently, Avril Lavigne has sold about 30 million albums worldwide.

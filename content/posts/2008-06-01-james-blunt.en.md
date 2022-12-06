@@ -13,6 +13,7 @@ lang: en
 category: entblog
 ---
 [![james_blunt1](/images/2008/06/james_blunt1.jpg)](/images/2008/06/james_blunt1.jpg)
+
 **James Blunt** (born **James Hillier Blount**, February 22, 1974) is a British singer-songwriter whose debut album, _Back to Bedlam_, and single releases — especially the number one hit “You're Beautiful” — brought him to fame in 2005. His style is a mix of pop, rock and folk. Along with vocals, James Blunt performs a variety of instruments, including piano and guitar. He is signed to Linda Perry's independent American label Custard Records. Blunt won two BRIT Awards and two Ivor Novello Awards, and was nominated for five Grammy Awards in 2006. Blunt subsequently released his second album, _All The Lost Souls_, in 2007; this album was certified gold within its first week of release. The first single from his second album, “1973”, was Blunt's first Global Number 1 in October 2007, beating “You're Beautiful” which peaked at Number 2 in the United World Chart.
 
 Prior to embarking on a career in music, Blunt was an officer in the Life Guards, a reconnaissance regiment of the British Army, and served under NATO in Kosovo during the conflict in 1999. While posted to Kosovo, Blunt was introduced to the work of Médecins sans Frontières (MSF) (Doctors Without Borders), a humanitarian aid group best known for its emergency medical care in conflict-torn regions. Since then, Blunt has supported MSF by holding meet-and-greet auctions at many of his concerts.
