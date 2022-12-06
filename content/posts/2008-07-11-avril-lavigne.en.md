@@ -121,79 +121,20 @@ It was reported by the British publication The London Paper that she recently la
 
 ##### Filmography
 
-|
-Year
-|
-Title
-|
-Role
-|
-Notes
-|
-|---|---|---|---|
-|
-2002
-|
-Sabrina, the Teenage Witch
-|
-Herself
-|
-Television episode (Bada-Ping!) Guest-star; performed “Sk8er Boi”
-|
-|
-2004
-|
-Going the Distance
-|
-Herself
-|
-Cameo; performed “Losing Grip”
-|
-|
-2004
-|
-Madtv
-|
-Herself
-|
-Cameo; performed
-|
-|
-2006
-|
-Fast Food Nation
-|
-Alice
-|
-College activist
-|
-|
-2006
-|
-Over the Hedge
-|
-Heather
-|
-Voice
-|
-|
-2007
-|
-The Flock
-|
-Beatrice Bell
-|
-Suspect's Girlfriend
-|
-|
-2009
-|
-TBA
-|
-TBA
-|
-Lead role
-|
+|Year|Title|Role|Notes|
+|:----|:----|:----|:----|
+|2002|Sabrina the Teenage Witch|Herself|Cameo appearance; 1 episode|
+|2003|Saturday Night Live|Herself|Season 28, episode 9|
+|2004|Going the Distance|Herself|Cameo appearance; performed "Losing Grip"|
+|2004|Saturday Night Live|Herself|Season 29, episode 19|
+|2006|Over the Hedge|Heather|Voice|
+|2006|Fast Food Nation|Alice| |
+|2007|The Flock|Beatrice Bell| |
+|2010|American Idol|Herself|Guest judge (Los Angeles auditions)|
+|2011|Majors & Minors|Herself|Guest mentor|
+|2018|Charming|Snow White|Voice|
+|2022|Good Mourning|Herself| |
+
 
 #### Media image
 
@@ -249,96 +190,13 @@ Soon after departing Lavigne's band, Taubenfeld formed The Black List Club, late
 
 #### Albums
 
-|
-Year
-|
-Album
-|
-|---|---|
-|
-2002
-|
-Let Go&lt;/p&gt;
-
-            1st studio album
-
-
-            Released: June 4, 2002
-
-
-       |
-
-|
-2004
-|
-Under My Skin&lt;/p&gt;
-
-            2nd studio album
-
-
-            Released: May 25, 2004
-
-
-       |
-
-|
-2007
-|
-The Best Damn Thing&lt;/p&gt;
-
-            3rd studio album
-
-
-            Released: April 17, 2007
-
-
-       |
-
-#### Singles
-
-Single
-
-Year
-
-Album
-
-2002
-
-“Complicated”
-
-_Let Go_
-
-“Sk8er Boi”
-
-“I'm with You” 2
-
-2004
-
-“Don't Tell Me”
-
-_Under My Skin_
-
-“My Happy Ending”
-
-“Nobody's Home”
-
-2005
-
-“He Wasn't” 7
-
-2007
-
-“Girlfriend”
-
-_The Best Damn Thing_
-
-“When You're Gone”
-
-“Hot”
-
-2008
-
-“The Best Damn Thing”
+- Let Go (2002)
+- Under My Skin (2004)
+- The Best Damn Thing (2007)
+- Goodbye Lullaby (2011)
+- Avril Lavigne (2013)
+- Head Above Water (2019)
+- Love Sux (2022)
 
 #### Awards
 
