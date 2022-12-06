@@ -3,8 +3,12 @@ title: تماس با من
 layout: single
 lang: fa
 ---
-راه‌های اصلی تماس با من در ستون سمت چپ صفحه لیست شده. در صورتی که مورد مد نظر شما در لیست نبود، از لینک‌های زیر استفاده کنید:
+* [WhatsApp](https://wa.me/989195038545)
+* [Telegram](https://telegram.me/omidfarhang)
+* [Signal](https://signal.me/#p/+989195038545)
+* [Skype](skype:omid.farhang.en?chat)
+* [Call](call:+989195038545)
+* [Email](mailto:hi@omid.dev)
+* [Forum](https://forum.omid.dev)
 
-* [انجمن](https://forum.omid.dev)
-* [پروفایل‌های من در سایر سایت‌ها و شبکه‌ها](links)
-* [روش‌های پرداخت](payment-options)
+[روش‌های پرداخت](payment-options)

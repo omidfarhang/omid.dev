@@ -3,8 +3,12 @@ title: Kontaktiere Mich
 layout: single
 lang: de
 ---
-Die gebräuchlichsten Kontaktmöglichkeiten sind in der linken Spalte dieser Seite aufgeführt. Wenn keine davon für Sie funktioniert, verwenden Sie einen der folgenden Links.
+* [WhatsApp](https://wa.me/989195038545)
+* [Telegram](https://telegram.me/omidfarhang)
+* [Signal](https://signal.me/#p/+989195038545)
+* [Skype](skype:omid.farhang.en?chat)
+* [Call](call:+989195038545)
+* [Email](mailto:hi@omid.dev)
+* [Forum](https://forum.omid.dev)
 
-* Join our [Forum](https://forum.omid.dev)
-* Find me in the [other sites, forums or social networks](links)
-* If you are looking to pay or donate for any service, look at [Payment Options](payment-options)
+If you are looking to pay or donate for any service, look at [Payment Options](payment-options)
