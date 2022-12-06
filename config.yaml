@@ -5,6 +5,9 @@ copyright: '© 2022 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
 show_reading_time: true
+
+
+
 menu:
   main:
     - identifier: blog
@@ -23,6 +26,10 @@ menu:
       name: Services
       url: /services
       weight: 2
+
+
+
+
 markup:
   goldmark:
     renderer:
@@ -41,7 +48,13 @@ markup:
     noHl: false
     style: monokai
     tabWidth: 4
+
+
+
+
+
 languages:
+  # English
   en:
     title: Omid Farhang
     languageName: English
@@ -52,6 +65,22 @@ languages:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
         subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+    # English Menu
+    menu:
+      main:
+        - name: Posts
+          url: /posts
+          weight: 1
+        - name: About me
+          url: /about-me
+          weight: 3
+        - name: Contact me
+          url: /contact-me
+          weight: 4
+        - name: Services
+          url: /services
+          weight: 2
+  # Persian
   fa:
     title: امید فرهنگ
     languageName: فارسی
@@ -63,6 +92,22 @@ languages:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
         subtitle: "من یک برنامه‌نویس وب و مدیر شبکه هستم، به طور آزاد کار میکنم و به سیستم های لینوکسی علاقه دارم"
+    # Persian Menu
+    menu:
+      main:
+        - name: بلاگ
+          url: /posts
+          weight: 1
+        - name: درباره من
+          url: /about-me
+          weight: 3
+        - name: تماس با من
+          url: /contact-me
+          weight: 4
+        - name: خدمات
+          url: /services
+          weight: 2
+  # Deutsch
   de:
     title: Omid Farhang
     languageName: Deutsch
@@ -73,17 +118,38 @@ languages:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
         subtitle: "Ich bin Senior Developer und Netzwerkadministrator, arbeite freiberuflich und suche nach Linux-Sachen"
+    # Deutsch Menu
+    menu:
+      main:
+        - name: Posts
+          url: /posts
+          weight: 1
+        - name: Über mich
+          url: /about-me
+          weight: 3
+        - name: Kontaktiere mich
+          url: /contact-me
+          weight: 4
+        - name: Dienstleistungen
+          url: /services
+          weight: 2
+
+
 params:
   profileMode:
       enabled: true
       subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
       imageUrl: "/images/bio-photo.jpg"
+
   assets:
+  # Favicons
     favicon: /logo/favicon.ico
     favicon16x16: /logo/favicon-16x16.png
     favicon32x32: /logo/favicon-32x32.png
     apple_touch_icon: /logo/apple-touch-icon.png
     safari_pinned_tab: /logo/safari-pinned-tab.svg
+
+  # Social Icons
   socialIcons:
   - name: linkedin
     url: 'https://linkedin.com/in/omidfarhang'
@@ -105,8 +171,10 @@ params:
     mastodon: 'https://floss.social/@omid'
     instagram: 'https://instagram.com/omidfarhang'
     telegram: 'https://t.me/omidfarhang'
+
     mainSections:
       - posts
+
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
