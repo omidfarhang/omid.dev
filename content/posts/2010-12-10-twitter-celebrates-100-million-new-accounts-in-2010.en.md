@@ -25,6 +25,6 @@ What quickly realized is that Twitter, by releasing a slew of official mobile ap
 
 Who were your favorite new Twitter account holders from the past year? In the comments, tell us how you have seen Twitter’s membership grow or change in 2010.
 
-<a href="http://yearinreview.twitter.com/whosnew/" target="_blank">Click here to see full infographic</a>
+[Click here to see full infographic](http://yearinreview.twitter.com/whosnew/)
 
-[<img title="twitter-new-users" border="0" alt="twitter-new-users" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TQKmvJiZ4HI/AAAAAAAADeU/KWJwxWz3axg/twitter-new-users_thumb%5B1%5D.png?imgmax=800" width="504" height="481" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKmln821oI/AAAAAAAADeQ/s-0cMuBoLkc/s1600-h/twitter-new-users%5B3%5D.png)
+[![twitter-new-users](http://lh4.ggpht.com/_vaUVXcmC3OI/TQKmvJiZ4HI/AAAAAAAADeU/KWJwxWz3axg/twitter-new-users_thumb%5B1%5D.png?imgmax=800 "twitter-new-users")](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKmln821oI/AAAAAAAADeQ/s-0cMuBoLkc/s1600-h/twitter-new-users%5B3%5D.png)

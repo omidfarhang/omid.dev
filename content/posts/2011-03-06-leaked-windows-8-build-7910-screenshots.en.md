@@ -13,11 +13,11 @@ tags:
 lang: en
 category: techblog
 ---
-<a href="http://www.techspot.com/" target="_blank">TechSpot</a> Wrote: A few new Windows 8 user interface screenshots have leaked. Windows 8 build 7910 is part of the Milestone 2 branch, so we're not seeing the latest, but it is rather interesting that it took just eight minutes to install, approximately 2.5 times faster than Windows 7. You have to thank the Chinese website [Win7China](http://www.win7china.com/html/12933.html) for offering a glimpse into the future even though the leaks did include several wallpapers with a “ssh…let's not leak our hard work” message. 
+[TechSpot](http://www.techspot.com/) Wrote: A few new Windows 8 user interface screenshots have leaked. Windows 8 build 7910 is part of the Milestone 2 branch, so we're not seeing the latest, but it is rather interesting that it took just eight minutes to install, approximately 2.5 times faster than Windows 7. You have to thank the Chinese website [Win7China](http://www.win7china.com/html/12933.html) for offering a glimpse into the future even though the leaks did include several wallpapers with a “ssh…let's not leak our hard work” message. 
 
 The first and second screenshots show that users can choose an image that “will appear on your taskbar and represent you throughout Windows.” In fact, this appears to be linked with your Windows Live ID, though it's not yet clear to what extent. The third screenshot shows a progress bar on the taskbar when installing a mouse driver, which only further builds on Windows 7's various progress bars in the taskbar (such as the one for IE8 downloads).
 
-[<img title="windows_8_7910" border="0" alt="windows_8_7910" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TXQYKKE_l6I/AAAAAAAADl0/Vrp0GK39Ag8/windows_8_7910_thumb%5B1%5D.jpg?imgmax=800" width="504" height="381" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TXQYGVHPReI/AAAAAAAADlw/k4NMyp7IZig/s1600-h/windows_8_7910%5B3%5D.jpg)
+[![windows_8_7910](http://lh4.ggpht.com/_vaUVXcmC3OI/TXQYKKE_l6I/AAAAAAAADl0/Vrp0GK39Ag8/windows_8_7910_thumb%5B1%5D.jpg?imgmax=800 "windows_8_7910")](http://lh5.ggpht.com/_vaUVXcmC3OI/TXQYGVHPReI/AAAAAAAADlw/k4NMyp7IZig/s1600-h/windows_8_7910%5B3%5D.jpg)
 
 The website also claims that Windows 8 will have a new restore feature that will return the computer to its factory state in under two minutes. The factory restore feature will not require an installation disc and the required hard disk space is said to be minimal.
 

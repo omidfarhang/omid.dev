@@ -12,9 +12,9 @@ tags:
 lang: en
 category: techblog
 ---
-[isc.sans.edu](http://isc.sans.edu/): Microsoft released version 9 of its Internet Explorer web browser. You can <a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie" target="_blank">download IE 9 from windows.microsoft.com</a>.
+[isc.sans.edu](http://isc.sans.edu/): Microsoft released version 9 of its Internet Explorer web browser. You can [download IE 9 from windows.microsoft.com](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie).
 
-<a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie" target="_blank"><img title="Downloads for Internet Explorer - Microsoft Windows" border="0" alt="Downloads for Internet Explorer - Microsoft Windows" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TX86QEp6jbI/AAAAAAAADtQ/Lg0Zr278_tc/Downloads%20for%20Internet%20Explorer%20-%20Microsoft%20Windows%5B6%5D.png?imgmax=800" width="519" height="329" /></a>
+[![Downloads for Internet Explorer - Microsoft Windows](http://lh6.ggpht.com/_vaUVXcmC3OI/TX86QEp6jbI/AAAAAAAADtQ/Lg0Zr278_tc/Downloads%20for%20Internet%20Explorer%20-%20Microsoft%20Windows%5B6%5D.png?imgmax=800 "Downloads for Internet Explorer - Microsoft Windows")](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie)
 
 Microsoft also set up a domain dedicated to the new browser: [www.beautyoftheweb.com](http://www.beautyoftheweb.com/). Unfortunately, that site isn't hosted under the microsoft.com domain, nor does it have an SSL certificate to confirm that it belongs to Microsoft. Using this site to distribute the browser goes against the advice of downloading software only from known vendor websites. Copycat malicious sites claiming to distribute IE 9 will probably appear shortly, if they aren't around yet.
 

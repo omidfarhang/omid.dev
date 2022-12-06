@@ -28,13 +28,11 @@ The recipe goes something like this:
 **1. See what's in fashion**  
 The miscreants are a pretty smart bunch when it comes to Web marketing. They do the research to know what people are interested in. They typically watch for latest newsworthy events or occasions and then zero in on them as the hook for their campaign. Attackers can watch the latest trending topics on Twitter to see what people are currently most interested in.
 
-[<img title="twitter_trending.article thumbnail" border="0" alt="twitter_trending.article thumbnail" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP4vyRDYcQI/AAAAAAAADaU/cPi0eZrIO6s/twitter_trending.article%20thumbnail_thumb%5B1%5D.png?imgmax=800" width="504" height="107" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4vv5ozQ6I/AAAAAAAADaQ/RfvQsA5OeOs/s1600-h/twitter_trending.article%20thumbnail%5B3%5D.png)
+[![twitter_trending.article thumbnail](http://lh4.ggpht.com/_vaUVXcmC3OI/TP4vyRDYcQI/AAAAAAAADaU/cPi0eZrIO6s/twitter_trending.article%20thumbnail_thumb%5B1%5D.png?imgmax=800 "twitter_trending.article thumbnail")](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4vv5ozQ6I/AAAAAAAADaQ/RfvQsA5OeOs/s1600-h/twitter_trending.article%20thumbnail%5B3%5D.png)
 
 On December 2nd, one of the hooks used was the Jewish holiday, Hanukkah. As you can imagine, this step is quite fluid and most likely to change daily, making it hard to recognize and defend against. Once they know what hooks to use, they can then set about creating messages that use social engineering techniques to trick users into clicking on them.
 
 Here are some example messages (note the trending Twitter terms planted randomly into the message):
-
-<a name="more"></a> 
 
   * Nobody cares about 🙂 **Hanukkah** 
   * Get me sex, woman, por fa vor! (((((( **Advent Calendar** 
@@ -43,7 +41,7 @@ Here are some example messages (note the trending Twitter terms planted randomly
   * What's in this trend OMG **World AIDS** 
   * Damned, I didn't know THAT about 🙁 Morgan Freeman
 
-[<img title="kalypa" border="0" alt="kalypa" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP4v3NXMdBI/AAAAAAAADac/mB7TV6iQtr0/kalypa_thumb%5B1%5D.png?imgmax=800" width="504" height="465" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4v0u-Z_SI/AAAAAAAADaY/9tPDnclYnNQ/s1600-h/kalypa%5B3%5D.png)
+[![kalypa](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4v3NXMdBI/AAAAAAAADac/mB7TV6iQtr0/kalypa_thumb%5B1%5D.png?imgmax=800 "kalypa")](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4v0u-Z_SI/AAAAAAAADaY/9tPDnclYnNQ/s1600-h/kalypa%5B3%5D.png)
 
 **2. Find a suitable host**  
 Like any good parasite, the miscreants need to find a suitable host for their attack. Attackers these days typically choose a number of ways to host malware. They can use their own hosting, with a bullet hosting service. Alternatively they could use a bot under their control, rent a bot, or hack into a third party website. The latter choice is a low cost and quite effective option, especially when you consider the shelf life of these attacks—there little point in investing money in something that will be terminated in a few days.
@@ -62,11 +60,11 @@ Based on the click stats of the shortened URLs (tiny.cc) used in this attack, we
 
 As far as we can tell, the shortened URLs were only created on December 1st.
 
-[<img title="tiny_url_isuny_stats" border="0" alt="tiny_url_isuny_stats" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP4v6f9o97I/AAAAAAAADak/Ckkdl3qL9TM/tiny_url_isuny_stats_thumb%5B2%5D.png?imgmax=800" width="429" height="772" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4v4oJIa7I/AAAAAAAADag/I9zEnyXB45g/s1600-h/tiny_url_isuny_stats%5B4%5D.png)
+[![tiny_url_isuny_stats](http://lh4.ggpht.com/_vaUVXcmC3OI/TP4v6f9o97I/AAAAAAAADak/Ckkdl3qL9TM/tiny_url_isuny_stats_thumb%5B2%5D.png?imgmax=800 "tiny_url_isuny_stats")](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4v4oJIa7I/AAAAAAAADag/I9zEnyXB45g/s1600-h/tiny_url_isuny_stats%5B4%5D.png)
 
 At this time, we have noted that the masked URLs end up at either mybuger.info or ljivore.info (through several levels of redirection). Mybuger.info uses a social engineering trick, asking the user to download a file to view a video (activex.exe – detected as [Trojan.Bamital](http://www.symantec.com/security_response/writeup.jsp?docid=2010-070108-5941-99)). Note that the URL in the browser says bestvideo.has.it but the content is actually from mybuger.info.
 
-[<img title="mybuger.article thumbnail" border="0" alt="mybuger.article thumbnail" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP4v-LY3vEI/AAAAAAAADas/S0wRR51PbK4/mybuger.article%20thumbnail_thumb%5B1%5D.jpg?imgmax=800" width="504" height="355" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4v8PGqeQI/AAAAAAAADao/pF9oyC0OGZc/s1600-h/mybuger.article%20thumbnail%5B3%5D.jpg)
+[![mybuger.article thumbnail](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4v-LY3vEI/AAAAAAAADas/S0wRR51PbK4/mybuger.article%20thumbnail_thumb%5B1%5D.jpg?imgmax=800 "mybuger.article thumbnail")](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4v8PGqeQI/AAAAAAAADao/pF9oyC0OGZc/s1600-h/mybuger.article%20thumbnail%5B3%5D.jpg)
 
 The ljivore.info site hosts several exploits including:
 

@@ -17,6 +17,6 @@ The group of celebrities had asked fans to donate to Keys’s [Keep a Child Aliv
 
 So the celebs convinced Stewart Rahr, a Brooklyn-based billionaire pharmaceutical exec, to donate the remaining $500,000. The donation brought the celebs back from their “digital deaths,” and they wasted no time getting back to their millions of fans and followers.
 
-**New York Post:** <a href="http://www.nypost.com/p/pagesix/frustrated_celebs_get_back_stewart_I2xWuZNQF3XLXVWMXcRxTM" target="_blank">Frustrated celebs get back on Twitter thanks to donation from Stewart Rahr</a>
+**New York Post:** [Frustrated celebs get back on Twitter thanks to donation from Stewart Rahr](http://www.nypost.com/p/pagesix/frustrated_celebs_get_back_stewart_I2xWuZNQF3XLXVWMXcRxTM)
 
-[<img title="Alicia-Keys-Twitter-640" border="0" alt="Alicia-Keys-Twitter-640" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP7G2zneEMI/AAAAAAAADc0/zckWpniqBuI/Alicia-Keys-Twitter-640_thumb%5B1%5D.jpg?imgmax=800" width="504" height="245" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TP7G0ZngNLI/AAAAAAAADcw/emFhy-vOz5Q/s1600-h/Alicia-Keys-Twitter-640%5B3%5D.jpg)
+[![Alicia-Keys-Twitter-640](http://lh4.ggpht.com/_vaUVXcmC3OI/TP7G2zneEMI/AAAAAAAADc0/zckWpniqBuI/Alicia-Keys-Twitter-640_thumb%5B1%5D.jpg?imgmax=800 "Alicia-Keys-Twitter-640")](http://lh4.ggpht.com/_vaUVXcmC3OI/TP7G0ZngNLI/AAAAAAAADcw/emFhy-vOz5Q/s1600-h/Alicia-Keys-Twitter-640%5B3%5D.jpg)
