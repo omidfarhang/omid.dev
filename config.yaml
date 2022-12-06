@@ -6,6 +6,7 @@ defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
 show_reading_time: true
 
+disqusShortname: omidnetwork
 
 
 menu:
@@ -172,20 +173,22 @@ params:
     instagram: 'https://instagram.com/omidfarhang'
     telegram: 'https://t.me/omidfarhang'
 
-    mainSections:
-      - posts
+  mainSections:
+    - posts
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowWordCount: true
-    ShowRssButtonInSectionTermList: true
-    UseHugoToc: true
-    disableScrollToTop: false
-    showtoc: true
-    tocopen: false
+  displayFullLangName: true
+  comments: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableScrollToTop: false
+  showtoc: true
+  tocopen: false
 
 outputs:
     home:
