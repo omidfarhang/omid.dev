@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2015/10/09/all-the-worlds-a-stagefright/
 shortlink: https://g.omid.dev/21qAHcD
-image: /images/sites/3/2015/10/stagefright-android.jpg
+image: /images/sites/3/2015/10/stagefright_bug_logo.png
 tags:
   - Android
   - Stagefright
@@ -14,7 +14,7 @@ tags:
 lang: en
 category: techblog
 ---
-![stagefright-android](/images/2015/10/stagefright-android-150x150.jpg)
+![stagefright-android](/images/2015/10/stagefright_bug_logo.png)
 
 Here's how security vulnerabilities are supposed to be handled. One, a researcher discovers an issue. Two, the people who make the software find a solution. And three, the solution is then made available, ideally by automatic update. That's what Windows does, and what Apple does. It isn't always as fast as it should be, but at least once the fix exists it's available almost instantly.
 
