@@ -4,7 +4,8 @@ layout: single
 author_profile: true
 lang: de
 ---
-After launch of your website I will be always available to update, maintain and develop new features for your website.
+Nach dem Start Ihrer Website stehe ich Ihnen jederzeit zur Verfügung, um neue Funktionen für Ihre Website zu aktualisieren, zu warten und zu entwickeln.
 
-What happens when you need to add a new feature to your website? Maybe you want a new landing page with creative layers or maybe a new contact form which automatically add new contacts into your mailing lists. These are stuff which you may learn how to do by spending sometime, but it's a better and wise idea to let a web developer do them for you.  
-I've years of experience in this field and dealing with different problems and challenges with many websites so you can trust me for your small and medium projects. For general and periodical maintenance of your website, it will cost you $10 per hour or set a flat price for whole project. You can contact me to set a time and talk about your needs via [Contact Me]({{< ref "/contact-me" >}}) page.
+Was passiert, wenn Sie Ihrer Website eine neue Funktion hinzufügen müssen? Vielleicht möchten Sie eine neue Zielseite mit kreativen Ebenen oder vielleicht ein neues Kontaktformular, das automatisch neue Kontakte zu Ihren Mailinglisten hinzufügt. Dies sind Dinge, die Sie vielleicht lernen, wenn Sie etwas Zeit investieren, aber es ist eine bessere und klügere Idee, sie von einem Webentwickler für Sie erledigen zu lassen.
+
+Ich habe jahrelange Erfahrung auf diesem Gebiet und den Umgang mit verschiedenen Problemen und Herausforderungen bei vielen Websites, sodass Sie mir für Ihre kleinen und mittleren Projekte vertrauen können. Die allgemeine und regelmäßige Wartung Ihrer Website kostet Sie 10 USD pro Stunde oder einen Pauschalpreis für das gesamte Projekt. Sie können mich kontaktieren, um einen Termin zu vereinbaren und über Ihre Bedürfnisse über die Seite [Kontaktiere mich]({{< ref "/contact-me" >}}) zu sprechen.
