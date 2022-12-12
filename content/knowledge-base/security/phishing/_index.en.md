@@ -1,0 +1,44 @@
+---
+title: Phishing
+author_profile: true
+lang: en
+---
+### What is phishing?
+
+Phishing (pronounced "fishing") is a type of online identity theft. It uses e-mail and fraudulent Web sites that are designed to steal your personal data or information such as credit card numbers, passwords, account data, or other information.
+
+Con artists might send millions of fraudulent e-mail messages with links to fraudulent Web sites that appear to come from Web sites you trust, like your bank or credit card company, and request that you provide personal information. Criminals can use this information for many different types of fraud, such as to steal money from your account, to open new accounts in your name, or to obtain official documents using your identity.
+
+For more information about phishing scams, see Recognize phishing scams and fraudulent e-mails.Phishing (pronounced "fishing") is a type of online identity theft. It uses e-mail and fraudulent Web sites that are designed to steal your personal data or information such as credit card numbers, passwords, account data, or other information.
+
+Con artists might send millions of fraudulent e-mail messages with links to fraudulent Web sites that appear to come from Web sites you trust, like your bank or credit card company, and request that you provide personal information. Criminals can use this information for many different types of fraud, such as to steal money from your account, to open new accounts in your name, or to obtain official documents using your identity.
+
+For more information about phishing scams, see [Recognize phishing scams and fraudulent e-mails](/knowledge-base/security/phishing/How-to-recognize-phishing-e-mails-or-links).
+
+### What should I do if I receive an e-mail phishing scam?
+
+If you think you've received a phishing scam, delete the e-mail message. Do not click any links in the message.  
+For more information, see [How to handle suspicious e-mail](/knowledge-base/security/spam/how-to-handle-suspicious-e-mail).  
+
+### How do I report a site that I think might be phishing?
+
+To report a phishing Web site using Internet Explorer 8, on the Safety menu, point to SmartScreen Filter, and then click Report unsafe Website.  
+To report a phishing e-mail message using Windows Live Hotmail, click Junk.  
+
+### What should I do if I receive an e-mail phishing scam that appears to come from Microsoft?
+
+Report the phishing attempt to Microsoft, using the address [abuse@msn.com](mailto:abuse@msn.com).  
+
+### What should I do if I think I've responded to a phishing scam?
+
+Take these steps to minimize any damage if you suspect that you've responded to a phishing scam with personal or financial information or entered this information into a fake Web site.  
+
+* Report the incident to your credit card company if you've given credit card information.
+* Change the passwords on all your online accounts.
+* Review your credit card and bank statements weekly.
+
+For more information, see [What to do if you've responded to a phishing scam](/knowledge-base/security/phishing/after-phishing).  
+
+### How do scammers get my e-mail address or know which bank I use?
+
+Criminals who send out phishing scams (often called "phishers") send out millions of messages to randomly generated e-mail addresses. They fake or "spoof" popular companies in order to fool the largest number of people.
