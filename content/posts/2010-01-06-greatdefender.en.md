@@ -22,4 +22,4 @@ GreatDefender uses scare tactics to frighten people into buying this corrupt sof
   * Web browser redirecting to random websites (these websites are owned by cyber thieves and will further infect your PC)
   * GreatDefender will prevent other programs from opening, stating they are infected (The programs are not infected)
 
-If your windows is infected with this malware you should remove it as soon as possible, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.
+If your windows is infected with this malware you should remove it as soon as possible, [Click Here](/knowledge-base/malware/removal/) to learn how to remove it.

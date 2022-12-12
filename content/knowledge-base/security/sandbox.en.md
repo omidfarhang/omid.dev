@@ -1,0 +1,22 @@
+---
+title: Sandbox
+layout: single
+author_profile: true
+lang: en
+---
+In computer security, a sandbox is a security mechanism for separating running programs. It is often used to execute untested code, or untrusted programs from unverified third-parties, suppliers and untrusted users.
+
+I Recommend [Sandboxie](/knowledge-base/programs/sandboxie) for Daily use.  
+  
+The sandbox typically provides a tightly-controlled set of resources for guest programs to run in, such as scratch space on disk and memory. Network access, the ability to inspect the host system or read from input devices are usually disallowed or heavily restricted. In this sense, sandboxes are a specific example of virtualization.  
+  
+Some examples of sandboxes are:  
+
+* Applets are self-contained programs that run in a virtual machine or scripting language interpreter that does the sandboxing. In application streaming schemes, the applet is downloaded onto a remote client and may begin executing before it arrives in its entirety. Applets are common in web browsers, which use the mechanism to safely execute untrusted code embedded in web pages. Three common applet implementations—Adobe Flash, Java applets and Silverlight—provide (at minimum) a rectangular window with which to interact with the user and some persistent storage (at the user's permission).
+* A jail is a set of resource limits imposed on programs by the operating system kernel. It can include I/O bandwidth caps, disk quotas, network access restrictions and a restricted filesystem namespace. Jails are most commonly used in virtual hosting.
+* Rule-based Execution gives users full control over what processes are started, spawned (by other applications), or allowed to inject code into other apps and have access to the net. It also can control file/registry security (What programs can read and write to the file system/registry) As such, viruses and trojans will have a less likely chance of infecting your PC. The SELinux and Apparmor security frameworks are two such implementations for Linux.
+* Virtual machines emulate a complete host computer, on which a conventional operating system may boot and run as on actual hardware. The guest operating system is sandboxed in the sense that it does not run natively on the host and can only access host resources through the emulator.
+* Sandboxing on native hosts: Security researchers rely heavily on sandboxing technologies to analyse malware behaviour. By creating an environment that mimics or replicates the targeted desktops, researchers can evaluate how malware infects and compromises a target host.
+* Capability systems can be thought of as a fine-grained sandboxing mechanism, in which programs are given opaque tokens when spawned and have the ability to do specific things based on what tokens they hold. Capability based implementations can work at various levels, from kernel to user-space. An example of capability-based user-level sandboxing would be HTML rendering in Google Chrome.
+* Online judge systems to test programs in programming contests.
+* New generation pastebins allowing users to execute pasted code snippets.

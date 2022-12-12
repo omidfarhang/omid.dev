@@ -15,4 +15,4 @@ InSysSecure is a rogue security program, designed to rip people off. InSysSecure
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S00FylP-YZI/AAAAAAAAAm4/4Ed6AU8Qfho/s640/InSysSecure_GUI.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S00FylP-YZI/AAAAAAAAAm4/4Ed6AU8Qfho/s1600-h/InSysSecure_GUI.jpg)
 
-if your system is infected with above malware, you should remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.
+if your system is infected with above malware, you should remove it soon, [Click Here](/knowledge-base/malware/removal/) to learn how to remove it.

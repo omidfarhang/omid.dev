@@ -22,4 +22,4 @@ ProtecPC's poses a serious security risk for all PC users. Symptoms of a ProtecP
   * Pop-Ups and system alerts stating the PC is infected
   * Programs being shut down or unable to open
 
-[Click Here](/knowledge-base/malware-removal/) to learn how to remove these kind of malware.
+[Click Here](/knowledge-base/malware/removal/) to learn how to remove these kind of malware.

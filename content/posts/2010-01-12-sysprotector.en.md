@@ -22,4 +22,4 @@ SysProtector and APCDefender are potentially very dangerous PC infections. These
 
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0zxBK1NLdI/AAAAAAAAAmQ/dMybEAMMuW4/s320/apcdefender-FakeSmoke_BrowserHijackingEnglish.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0zxBK1NLdI/AAAAAAAAAmQ/dMybEAMMuW4/s1600-h/apcdefender-FakeSmoke_BrowserHijackingEnglish.jpg)
 
-if your computer is infected with one of the above malware, you should remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove them.
+if your computer is infected with one of the above malware, you should remove it soon, [Click Here](/knowledge-base/malware/removal/) to learn how to remove them.

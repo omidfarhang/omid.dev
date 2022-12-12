@@ -18,4 +18,4 @@ The creators behind the rogue antispyware appliaction [WiniGuard](http://sites.g
 
 SafePcAV spreads by showing fake online scanners. Once installed it will show hundreds of false infections. To remove these infections it requires the user to pay and license the software.
 
-If your computer is infected with this you must remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.
+If your computer is infected with this you must remove it soon, [Click Here](/knowledge-base/malware/removal/) to learn how to remove it.

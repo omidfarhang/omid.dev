@@ -27,4 +27,4 @@ Paladin Antivirus will also use pop-up system warnings and alerts stating the PC
 
 Unfortunately if you fall for the Paladin Antivirus scam, you will quickly learn you have been ripped off. Paladin Antivirus will not prevent infections nor will it remove existing infections. Paladin Antivirus is an infection in itself.
 
-If your computer is infected with this malware, you should remove it soon, see [Virus Removing](/knowledge-base/malware-removal/) to learn how to remove it.
+If your computer is infected with this malware, you should remove it soon, see [Virus Removing](/knowledge-base/malware/removal/) to learn how to remove it.

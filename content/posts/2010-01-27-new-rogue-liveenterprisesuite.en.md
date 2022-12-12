@@ -17,4 +17,4 @@ LiveEnterpriseSuite is a clone of InternetAntivirusPRO. Actually, the only thing
 
 LiveEnterpriseSuite will detect false infections and require a license to remove them.
 
-If your computer is infected with this malware, you should remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove such malwares.
+If your computer is infected with this malware, you should remove it soon, [Click Here](/knowledge-base/malware/removal/) to learn how to remove such malwares.

@@ -14,4 +14,4 @@ Antispyware Shield Pro is a phony security software, also known as a rogue. Anti
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Szn4t-Co3BI/AAAAAAAAAgw/sqyXv8i_PLg/s640/AntiSpywareShieldPro_GUI.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Szn4t-Co3BI/AAAAAAAAAgw/sqyXv8i_PLg/s1600-h/AntiSpywareShieldPro_GUI.jpg)
 
-if your windows is infected with these kind of malware [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.
+if your windows is infected with these kind of malware [Click Here](/knowledge-base/malware/removal/) to learn how to remove it.

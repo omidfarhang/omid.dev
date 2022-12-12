@@ -15,4 +15,4 @@ APCProtect is a phony security program, designed to rip people off. APCProtect u
 
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SzPa9T6jQkI/AAAAAAAAAgI/lc2S1cCYzVk/s400/APCProtect_GUI.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SzPa9T6jQkI/AAAAAAAAAgI/lc2S1cCYzVk/s1600-h/APCProtect_GUI.jpg)
 
-if your computer is infected with this malware, you must remove it soon, [Click Here](/knowledge-base/malware-removal/) to learn how to remove it.
+if your computer is infected with this malware, you must remove it soon, [Click Here](/knowledge-base/malware/removal/) to learn how to remove it.

@@ -17,4 +17,4 @@ PCProtectar is the latest rogue security software infecting PC's across the inte
 
 If your PC has been infected with PCProtectar, don't fall for the scam. Do not buy this software, it is completely useless and an infection in itself. PCProtectar is a potentially dangerous infection that may cause programs to stop working, web browsers to not open, making it impossible to access the internet. PCProtectar should be removed from infected computer systems immediately.
 
-To remove PCProtectar from your PC now, [click here](/knowledge-base/malware-removal/) to learn how to do it.
+To remove PCProtectar from your PC now, [click here](/knowledge-base/malware/removal/) to learn how to do it.
