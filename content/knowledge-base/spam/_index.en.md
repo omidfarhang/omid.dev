@@ -1,6 +1,5 @@
 ---
 title: Spam
-layout: single
 author_profile: true
 lang: en
 ---
