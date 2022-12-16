@@ -172,7 +172,7 @@ params:
   - name: github
     url: 'https://github.com/omidfarhang'
   - name: mastodon
-    url: 'https://floss.social/@omid'
+    url: 'https://noc.social/@omid'
   - name: instagram
     url: 'https://instagram.com/omidfarhang'
   - name: facebook
@@ -184,7 +184,7 @@ params:
     linkedin: 'https://linkedin.com/in/omidfarhang'
     twitter: 'https://twitter.com/omidfarhangen'
     github: 'https://github.com/omidfarhang'
-    mastodon: 'https://floss.social/@omid'
+    mastodon: 'https://noc.social/@omid'
     instagram: 'https://instagram.com/omidfarhang'
     telegram: 'https://t.me/omidfarhang'
 
