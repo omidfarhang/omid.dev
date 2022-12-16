@@ -4,21 +4,21 @@ layout: single
 author_profile: true
 lang: en
 ---
-من علاقه مند هستم که مراحل ساخت سایت ها را ساده کنم. هر زمان که پروژه ی یک سایت را شروع می کنم، از شما می خواهم که وب سایت جدیدتان را بدون هیچ محدودیتی تصور کنید.  در مرحله ی طراحی بهتر همه آنچه را که می خواهید تصور کنید در حالی که من کمک می کنم که خواسته ی شما به یک سری ویژگی های معقولانه تبدیل بشود.
+I would like to make web development routine as simple as possible. Once I start developing a web project I want to imagine the best you want and I will try to make the closest one to it.
 
-هنگامی که ما بر روی هدف نهایی توافق کردیم، من ترجیح میدهم که مراحل طراحی را بر روی یک سایت آنلاین آزمایشی انجام بدهم و مرحله به مرحله تغییرات به طور آنلاین قابل مشاهده باشند، این باعث می شود که فاز طراحی و ساخت تبدیل به یک کار مشترک و گروهی بشود.
+When we agree on the final design, I prefer to start a testing environment so we can see the progress step by step and change it whenever needed. So it will prevent wasting time and make it a team work.
 
-وقتی وبسایت شما آماده ارائه شد، من آن را به دامنه ی شما انتقال می دهم. من توانایی پیش بینی تمام رخداد های احتمالی دومین/دامنه ها را دارم، چیز هایی مانند این که مثلاً هنگام جا به جایی سایت اخلالی در سرور های ایمیل شما پیش نیاد و یا اگر ایمیل مخصوص به خودتون ندارین، من ایمیل با نام دامنه ی خودتون درست کنم.
+Once we are done, I will move it all from testing environment to your domain. I know what happens during this movement so I can prevent possible issues during this change, like common problems that happens with email inboxes or broken internal links. I can make your own mail server on your domain too, if needed.
 
-تمام اینها نتیجه ی سالها تجربه ی من در این زمینه است. من تجربه و تخصص این را دارم که ایده های شما را زنده کنم و تمام جزئیات را برای حضور آنلاین شما فراهم کنم.
+It's years of experience, so we can start project with more confidence!
 
-ویژگی ها:
+### Features
 
-* قبول کلیه مراحل از طراحی، خرید دامین (آدرس) و میزبانی تا تحویل نهایی.
-* استفاده از جدید ترین متد های برنامه نویسی.
-* وب سایت های طراحی شده قابل بازدید با موبایل هستند.
-* وب سایت های طراحی شده متناسب با انواع سرعت اینترنت برای بازدید سریع تر و راحت تر همه کاربران و رتبه بالا تر در نتایج جستجو.
-* طراحی صفحات برای بهترین حالت SEO (بهینه ‌سازی موتور جستجو).
-* [پشتیبانی مستمر وب سایت پس از طراحی]({{< ref "/services/ongoing-website-support" >}})
+* Accepting whole project, from ordering Domain, to develop and setting up hosting
+* Using best practices with newest frameworks
+* Mobile responsive designs
+* Optimized for various network and region targeted visitors
+* Search Engine Optimized (A+)
+* [Ongoing Website Support]({{< ref "/services/ongoing-website-support" >}})
 
-برای سفارش از طریق صفحه “[تماس با من]({{< ref "/contact-me" >}})” با من تماس بگیرید.
+If you have more questions or if you want to start a new project, [contact me now]({{< ref "/contact-me" >}}).

@@ -22,4 +22,4 @@ Microsoft researchers found a cross-platform botnet that originates from malicio
 
 Continue Reading at [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2022/12/15/mccrash-cross-platform-ddos-botnet-targets-private-minecraft-servers/)
 
-Thanks to [@VirusBulletin](https://infosec.exchange/@VirusBulletin) for sharing.
+Thanks to [@VirusBulletin](https://infosec.exchange/@VirusBulletin/109522733488299964) for sharing.
