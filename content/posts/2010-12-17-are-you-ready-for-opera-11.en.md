@@ -28,11 +28,11 @@ Tab stacking is a better way to organize your open tabs. Simply drag one tab on 
 
 Extensions help you personalize your browser and enhance what Opera can do. More than two million extensions have already been downloaded from <https://addons.opera.com/>. Try the top five most-downloaded extensions for yourself:
 
-  1. [NoAds](https://addons.opera.com/addons/extensions/details/noads/) authored by Lex1. The top ad-blocking extension for Opera. 
-  2. [LastPass](https://addons.opera.com/addons/extensions/details/lastpass/) authored by lastpass. LastPass is a free password manager and form filler. 
-  3. [FastestTube](https://addons.opera.com/addons/extensions/details/fastesttube-youtube-video-downloader/) – YouTube Video Downloader authored by fastesttube. Download any video from YouTube. 
-  4. [Image preview](https://addons.opera.com/addons/extensions/details/image-preview-popup/) authored by whochan. Displays a pop-up preview of an image. 
-  5. [Translate](https://addons.opera.com/addons/extensions/details/translate/) authored by neilj. Automagically translates foreign-language webpages.
+  1. [uBlock](https://addons.opera.com/en/extensions/details/ublock/) An efficient blocker: easy on memory and CPU footprint, and yet can load and enforce thousands more filters than other popular blockers out there. 
+  2. [Bitwarden](hhttps://addons.opera.com/en/extensions/details/bitwarden-free-password-manager/) Bitwarden - Free Password Manager. 
+  3. [FastestTube](https://addons.opera.com/en/extensions/details/fastesttube-youtube-video-downloader/) – YouTube Video Downloader authored by fastesttube. Download any video from YouTube. 
+  4. [Image preview](https://addons.opera.com/en/extensions/details/image-preview-popup/) authored by whochan. Displays a pop-up preview of an image. 
+  5. [Translate](https://addons.opera.com/en/extensions/details/translate/) authored by neilj. Automagically translates foreign-language webpages.
 
 ###### Visual mouse gestures
 

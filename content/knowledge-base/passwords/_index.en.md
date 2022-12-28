@@ -33,11 +33,11 @@ A password checker evaluates your password's strength automatically. [Try Mircr
 ### Protect your passwords from prying eyes
 
 * **The easiest way to "remember" passwords is to write them down.**
-  It is okay to write passwords down, but keep them secure. See [5 tips to keep your passwords secret](https://omid.dev/computer/safety-tips/keep-your-passwords-secret).
+  It is okay to write passwords down, but keep them secure. See [5 tips to keep your passwords secret](tips-to-help-keep-your-passwords-secret).
 
 ### Common password pitfalls to avoid
 
-Cyber criminals use sophisticated tools that can rapidly decipher passwords. for example here is [Passwords used by the confiker worm](https://omid.dev/computer/security/passwords/passwords-used-by-the-conficker-worm).
+Cyber criminals use sophisticated tools that can rapidly decipher passwords. for example here is [Passwords used by the confiker worm](passwords-used-by-the-conficker-worm).
 
 ### Avoid creating passwords using
 
