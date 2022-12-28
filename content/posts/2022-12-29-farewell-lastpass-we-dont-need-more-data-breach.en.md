@@ -18,8 +18,16 @@ You've heard it again and again: [You need to use a password manager to generate
 
 The details LastPass provided about the situation last Thursday were worrying enough that security professionals quickly started calling for users to switch to other services. Now, nearly a week since the disclosure, the company has not provided additional information to confused and worried customers. LastPass has not returned WIRED's multiple requests for comment about how many password vaults were compromised in the breach and how many users overall were affected.
 
-So LastPass users should go through their vaults and take extra steps to protect themselves—including changing all of their passwords.
+### Actions to be taken
+
+LastPass users should go through their vaults and take extra steps to protect themselves—including [changing all of their passwords]({{< ref "/knowledge-base/passwords/" >}}).
 
 Start by turning on two-factor authentication for as many of your accounts as possible, particularly high-value accounts like your email, financial services, and highly used social media accounts. This way, even if attackers compromise the passwords for the accounts, they can't actually log in without the one-time code or hardware authentication key you've added as the “second factor.” Next, change the passwords for all of those sensitive and high-value accounts. And then change all the remaining passwords stored in your LastPass vault.
+
+### LastPass Replacement
+
+Personally I suggest Bitwarden, it's free and it has a great integration with all browsers and devices: [bitwarden.com](https://bitwarden.com/)
+
+### Continue Reading Original Article
 
 [Continue Reading at wired.com](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
