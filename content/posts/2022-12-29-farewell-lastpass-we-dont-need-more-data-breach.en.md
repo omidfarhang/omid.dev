@@ -28,6 +28,10 @@ Start by turning on two-factor authentication for as many of your accounts as po
 
 Personally I suggest Bitwarden, it's free and it has a great integration with all browsers and devices: [bitwarden.com](https://bitwarden.com/)
 
+After Installing BitWarden, head over to [LastPass Delete Account](https://lastpass.com/delete_account.php) Page and choose delete account, before deleting your account it will let you export current passwords, export your accounts, save them in a safe place and follow delete process.
+
+Once you are done, get back to Bitwarden Vault, [there you have option to import the passwords you exported from LastPass](https://bitwarden.com/help/import-from-lastpass/). Once you import them, it will sync it with all your devices.
+
 ### Continue Reading Original Article
 
 [Continue Reading at wired.com](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
