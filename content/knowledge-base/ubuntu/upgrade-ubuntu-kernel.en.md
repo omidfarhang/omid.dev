@@ -2,6 +2,7 @@
 title: How to Upgrade Ubuntu Kernel
 layout: single
 author_profile: true
+shortlink: https://g.omid.dev/KaQylFt
 lang: en
 ---
 Ubuntu by default uses LTS Kernels:

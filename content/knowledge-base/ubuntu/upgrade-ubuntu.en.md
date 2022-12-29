@@ -2,6 +2,7 @@
 title: How to Upgrade Ubuntu
 layout: single
 author_profile: true
+shortlink: https://g.omid.dev/r0QrWud
 lang: en
 ---
 ## Update Release Name in Sources
