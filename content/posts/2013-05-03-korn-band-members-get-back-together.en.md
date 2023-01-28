@@ -22,4 +22,6 @@ Watch the album trailer on RollingStone.com:
 
 Here's what Brian “Head” Welch has to say:
 
-{{< tweet user="brianheadwelch" id="330056895878529024" >}}
+> I AM VERY PROUD to announce that I AM BACK IN KORN - [http://t.co/WqjnKnUMnH](http://t.co/WqjnKnUMnH)
+>
+> — Brian Welch ([@brianheadwelch](https://twitter.com/brianheadwelch)) [May 2, 2013](https://twitter.com/brianheadwelch/status/330056895878529024)
