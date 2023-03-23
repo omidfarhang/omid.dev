@@ -1,7 +1,7 @@
 baseURL: 'https://omid.dev/'
 title: Omid Farhang
 theme: PaperMod
-copyright: '© 2022 Omid Farhang | All rights reserved.'
+copyright: '© 2023 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
 show_reading_time: true
@@ -14,22 +14,26 @@ menu:
       name: Posts
       url: /posts
       weight: 1
+    - identifier: knowledgeBase
+      name: Knowledge Base
+      url: /knowledge-base
+      weight: 2
     - identifier: aboutMe
       name: About me
       url: /about-me
-      weight: 3
+      weight: 4
     - identifier: contactMe
       name: Contact me
       url: /contact-me
-      weight: 4
+      weight: 5
     - identifier: services
       name: Services
       url: /services
-      weight: 2
+      weight: 3
     - identifier: search
       name: Search
       url: /search
-      weight: 5
+      weight: 6
 
 
 
@@ -75,18 +79,21 @@ languages:
         - name: Posts
           url: /posts
           weight: 1
+        - name: Knowledge Base
+          url: /knowledge-base
+          weight: 2
         - name: About me
           url: /about-me
-          weight: 3
+          weight: 4
         - name: Contact me
           url: /contact-me
-          weight: 4
+          weight: 5
         - name: Services
           url: /services
-          weight: 2
+          weight: 3
         - name: Search
           url: /search
-          weight: 5
+          weight: 6
   # Persian
   fa:
     title: امید فرهنگ
@@ -105,18 +112,21 @@ languages:
         - name: بلاگ
           url: /posts
           weight: 1
+        - name: مخزن دانش
+          url: /knowledge-base
+          weight: 2
         - name: درباره من
           url: /about-me
-          weight: 3
+          weight: 4
         - name: تماس با من
           url: /contact-me
-          weight: 4
+          weight: 5
         - name: خدمات
           url: /services
-          weight: 2
+          weight: 3
         - name: جستجو
           url: /search
-          weight: 5
+          weight: 6
   # Deutsch
   de:
     title: Omid Farhang
@@ -134,18 +144,21 @@ languages:
         - name: Posts
           url: /posts
           weight: 1
+        - name: Wissensbasis
+          url: /knowledge-base
+          weight: 2
         - name: Über mich
           url: /about-me
-          weight: 3
+          weight: 4
         - name: Kontaktiere mich
           url: /contact-me
-          weight: 4
+          weight: 5
         - name: Dienstleistungen
           url: /services
-          weight: 2
+          weight: 3
         - name: Suche
           url: /search
-          weight: 5
+          weight: 6
 
 
 params:
