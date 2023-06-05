@@ -1,8 +1,19 @@
 ---
-title: Cleanup Hard Disk
+title: Cleanup Windows Hard Disk
+date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/13/cleanup-windows-hard-disk/
+tags:
+  - microsoft
+  - windows
+  - how to
+  - cleanup
+  - maintenance
+  - Guide
 lang: en
+categories: 
+  - techblog
 ---
 The Disk Cleanup tool helps you free up space on your hard disk to improve the performance of your computer. The tool identifies files that you can safely delete, and then enables you to choose whether you want to delete some or all of the identified files.  
 

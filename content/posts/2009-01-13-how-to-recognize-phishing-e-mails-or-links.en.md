@@ -1,8 +1,19 @@
 ---
 title: How to recognize phishing e-mails or links
+date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/13/phishing-emails/
+tags:
+  - phishing
+  - mail
+  - emails
+  - how to
+  - Security
+  - Guide
 lang: en
+categories: 
+  - techblog
 ---
 A few clues can help you spot fraudulent e-mail messages or links within them.
 

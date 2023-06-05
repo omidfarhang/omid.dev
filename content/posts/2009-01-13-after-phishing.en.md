@@ -1,7 +1,17 @@
 ---
 title: What to do if you've responded to a phishing scam
+date: 2009-01-13T23:50:43+03:30
+layout: single
 author_profile: true
+url: 2009/01/13/what-to-do-if-youve-responded-to-a-phishing-scam/
+tags:
+  - Safety Tips
+  - phishing
+  - Security
+  - Guide
 lang: en
+categories: 
+  - techblog
 ---
 If you suspect that you've responded to a phishing scam with personal or financial information, take these steps to minimize any damage.
 
@@ -22,7 +32,7 @@ Contact the following authorities:
 
 ### Step 2: Change all your passwords
 
-* Read [How to create and use strong password](/knowledge-base/passwords).
+* Read [How to create and use strong password](/2009/01/13/passwords/).
 * Start with passwords that are related to financial institutions or information.
 
 ### Step 3: Routinely review your statements

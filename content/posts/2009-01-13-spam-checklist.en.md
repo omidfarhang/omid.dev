@@ -1,8 +1,16 @@
 ---
 title: 'Checklist: Protecting your business, your employees and your customers'
+date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/13/spam-checklist/
+tags:
+  - spam
+  - Security
+  - Guide
 lang: en
+categories: 
+  - techblog
 ---
 ### Checklist: Protecting your business, your employees and your customers
 

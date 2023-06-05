@@ -1,7 +1,16 @@
 ---
 title: How to Choose a Firewall
+date: 2009-01-13T23:51:43+03:30
+layout: single
 author_profile: true
+url: 2009/01/13/how-to-choose-a-firewall/
+tags:
+  - Guide
+  - Firewall
+  - Security
 lang: en
+categories: 
+  - techblog
 ---
 Three basic types of firewalls are available for you to choose from:  
 

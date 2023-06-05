@@ -1,8 +1,19 @@
 ---
 title: How to handle suspicious e-mail
+date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/13/handle-suspicious-email/
+tags:
+  - phishing
+  - mail
+  - emails
+  - how to
+  - Security
+  - Guide
 lang: en
+categories: 
+  - techblog
 ---
 There are good reasons to be suspicious of e-mail.
 
@@ -70,4 +81,4 @@ Follow these guidelines to help protect yourself when suspicious mail shows up i
 
 10. ### Update your computer software
 
-    At Microsoft, we continue to make improvements to our software to help protect your computer. Visit [Microsoft Update](http://go.microsoft.com/?linkid=3646728) to scan your Windows and install any high-priority updates that are offered to you and [Click Here](http://www.omidfarhang.com/computer/programs/filehippo-update-checker) to scan your computer for program updates from other vendors.
+    At Microsoft, we continue to make improvements to our software to help protect your computer. Visit [Microsoft Update](http://go.microsoft.com/?linkid=3646728) to scan your Windows and install any high-priority updates that are offered to you and [Click Here](/knowlodge-base/programs/filehippo-update-checker) to scan your computer for program updates from other vendors.

@@ -14,10 +14,6 @@ menu:
       name: Posts
       url: /posts
       weight: 1
-    - identifier: knowledgeBase
-      name: Knowledge Base
-      url: /knowledge-base
-      weight: 2
     - identifier: aboutMe
       name: About me
       url: /about-me
@@ -79,9 +75,6 @@ languages:
         - name: Posts
           url: /posts
           weight: 1
-        - name: Knowledge Base
-          url: /knowledge-base
-          weight: 2
         - name: About me
           url: /about-me
           weight: 4
@@ -112,9 +105,6 @@ languages:
         - name: بلاگ
           url: /posts
           weight: 1
-        - name: مخزن دانش
-          url: /knowledge-base
-          weight: 2
         - name: درباره من
           url: /about-me
           weight: 4
@@ -144,9 +134,6 @@ languages:
         - name: Posts
           url: /posts
           weight: 1
-        - name: Wissensbasis
-          url: /knowledge-base
-          weight: 2
         - name: Über mich
           url: /about-me
           weight: 4

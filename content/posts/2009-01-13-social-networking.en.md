@@ -1,8 +1,15 @@
 ---
 title: 11 tips for social networking safety
+date: 2009-01-13T23:56:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/13/11-tips-for-social-networking-safety/
+tags:
+  - Safety Tips
+  - social networks
 lang: en
+categories: 
+  - techblog
 ---
 Social networking Web sites like MySpace, Facebook, Twitter, and Windows Live Spaces are services people can use to connect with others to share information like photos, videos, and personal messages.
 
