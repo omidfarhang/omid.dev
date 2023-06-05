@@ -12,7 +12,7 @@ tags:
   - Kernel
 lang: en
 categories: 
-  - kb
+  - techblog
 ---
 Ubuntu by default uses LTS Kernels:
 
