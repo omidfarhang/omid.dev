@@ -1,8 +1,16 @@
 ---
 title: 5 tips to help keep your passwords secret
+date: 2009-01-14T23:55:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/15/5-tips-to-help-keep-your-passwords-secret/
+shortlink: https://g.omid.dev/2PJadh8
+tags:
+  - Safety Tips
+  - Password
 lang: en
+categories: 
+  - techblog
 ---
 Treat your passwords with as much care as you treat the information that they protect.
 

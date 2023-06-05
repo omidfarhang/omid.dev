@@ -1,7 +1,16 @@
 ---
 title: Passwords
+date: 2009-01-13T23:55:43+03:30
+layout: single
 author_profile: true
+url: 2009/01/13/passwords/
+shortlink: https://g.omid.dev/2PJadh8
+tags:
+  - Safety Tips
+  - Password
 lang: en
+categories: 
+  - techblog
 ---
 Strong passwords are important protections to help you have safer online transactions.
 

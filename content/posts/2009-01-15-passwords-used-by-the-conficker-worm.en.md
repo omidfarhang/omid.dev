@@ -1,8 +1,18 @@
 ---
 title: Passwords used by the Conficker worm
+date: 2009-01-15T23:55:43+03:30
 layout: single
 author_profile: true
+url: 2009/01/15/passwords-used-by-the-conficker-worm/
+shortlink: https://g.omid.dev/2PJadh8
+tags:
+  - Safety Tips
+  - Password
+  - Malware
+  - conficker
 lang: en
+categories: 
+  - techblog
 ---
 It's not possible to emphasise enough the importance of using sensible passwords on your network.
 
