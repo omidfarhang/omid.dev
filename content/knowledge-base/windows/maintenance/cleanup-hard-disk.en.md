@@ -36,7 +36,7 @@ There are many ways to cleanup disk space, here I will list my preferred:
     Go to Advanced Tools, Under Disk Maintenance click on 'Cleanup'
 3. In the Opened window choose which area you want to it cleanup and Click Scan Now and finally after scan check files for what you want to keep or remove.  
 
-    ![](/images/rsrc/1293366661674/computer/how-to/maintenance/cleanup-hard-disk/disk-cleaner.gif
+    ![](/images/rsrc/1293366661674/computer/how-to/maintenance/cleanup-hard-disk/disk-cleaner.gif)
 
 ### To use CCleaner
 
