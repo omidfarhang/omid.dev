@@ -6,7 +6,7 @@ author_profile: true
 url: 2022/12/30/how-to-upgrade-ubuntu/
 shortlink: https://g.omid.dev/r0QrWud
 tags:
-  - How-To
+  - How to
   - linux
   - Ubuntu
 lang: en
