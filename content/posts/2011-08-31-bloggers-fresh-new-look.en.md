@@ -11,7 +11,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/-H5Dnf5JJBVs/Tl53HtvJu4I/AAAAAAAAEAU/NqxL_ZT8ae4/s200/blogger_logo.png)](http://2.bp.blogspot.com/-H5Dnf5JJBVs/Tl53HtvJu4I/AAAAAAAAEAU/NqxL_ZT8ae4/s1600/blogger_logo.png)

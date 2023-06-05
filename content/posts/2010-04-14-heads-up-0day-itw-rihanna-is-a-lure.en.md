@@ -11,7 +11,7 @@ tags:
   - malware
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 On April 9th, Tavis Ormandy published a proof of concept about how to use the latest version of Java to compromise a pc. You can read about it [here.](http://seclists.org/fulldisclosure/2010/Apr/119) He notified Sun, but they weren't concerned enough to break their patch cycle, so he published the code.  

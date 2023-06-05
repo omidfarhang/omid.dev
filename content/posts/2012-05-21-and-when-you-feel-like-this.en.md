@@ -7,7 +7,7 @@ url: 2012/05/21/and-when-you-feel-like-this/
 tags:
   - video
 lang: en
-category: 
+categories: 
   - blog
 ---
 No comment, The video and its feeling say it all

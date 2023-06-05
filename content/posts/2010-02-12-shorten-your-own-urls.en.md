@@ -8,7 +8,7 @@ tags:
   - advice
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _“YOURLS is a small set of PHP scripts that will allow you to run your own URL shortening service (a la TinyURL). You can make it private or public, you can pick custom keyword URL. It comes with its own API.”_  

@@ -9,7 +9,7 @@ tags:
   - Mail
   - survey
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ##### A new study shows that Gmail users are more likely to be young, thin, career-minded men, while Yahoo! is more typically home to overweight, older women

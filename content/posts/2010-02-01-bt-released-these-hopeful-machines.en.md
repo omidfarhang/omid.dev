@@ -9,7 +9,7 @@ tags:
   - bt
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 BT Released “These Hopeful Machines” in 2 Discs.

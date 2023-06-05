@@ -7,7 +7,7 @@ url: 2012/10/25/a-day-in-my-life/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 Ding diding diding ding… Mobile phone's alarm wake me up, It’s 8 AM again and it’s not either Thursday or Friday otherwise he would let me sleep a bit more, with closed eyes I look for the mobile beside my bed to find it and stop the alarm, I pick it up and drag that red button to stop the alarm, let’s take a look what happened in the last 4-5 hours that I’ve been sleeping, any text message or email? Hmmm, nothing important as expected just some social networks notifications and promotional email and no text message, what do I expect this early when during the day I get nothing? 

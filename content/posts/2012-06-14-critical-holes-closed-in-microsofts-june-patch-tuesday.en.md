@@ -11,7 +11,7 @@ tags:
   - Updates
   - Windows
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![windows update](http://lh5.ggpht.com/-zXJ_UM1aHHU/T9mTArtZl8I/AAAAAAAAGPY/BnkdZZWXK_Q/windows%252520update_thumb%25255B4%25255D.jpg?imgmax=800 "windows update")](http://lh6.ggpht.com/-MoakJsM8f4k/T9mS-bqfopI/AAAAAAAAGPQ/7FWpN6XWKSw/s1600-h/windows%252520update%25255B3%25255D.jpg)

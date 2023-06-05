@@ -9,7 +9,7 @@ tags:
   - privacy
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s200/tweet_sink_fleets.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s1600-h/tweet_sink_fleets.png)

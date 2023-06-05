@@ -9,7 +9,7 @@ tags:
   - review
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Symantec Connect:** Recently there have been several [reports](http://blogs.technet.com/b/microsoft_blog/archive/2012/02/03/update-on-kelihos-botnet-and-new-related-malware.aspx) about the re-emergence of a botnet variant (Kelihos), which Symantec detects as [W32.Waledac.C](http://www.symantec.com/security_response/writeup.jsp?docid=2012-020814-3639-99&om_rssid=sr-latestthreats30days). The [Waledac](http://www.symantec.com/security_response/writeup.jsp?docid=2008-122308-1429-99&tabid=2) family is a threat that has been monitored by Symantec for many years and was featured in numerous [blogs](http://www.symantec.com/connect/blog-tags/w32waledac) as well as a [white paper](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/W32_Waledac.pdf). In the past, Waledac gained its infamy as a spamming botnet that utilized compromised systems to send out spam.  The purpose of these spamming campaigns had usually been for self-propagation of the threat through spam emails containing a link, often (but not always) pointing to a Waledac binary file hosted on a malicious website.  The variant W32.Waledac.C is also sending out spam emails, but with a twist. 

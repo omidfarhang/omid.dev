@@ -11,7 +11,7 @@ tags:
   - profits
   - Sony Ericsson
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![xperia_x10](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oC7qZPLyI/AAAAAAAAB_0/l-YeWWlO194/xperia_x10_thumb%5B2%5D.jpg?imgmax=800 "xperia_x10")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oC5lTO13I/AAAAAAAAB_w/lfX5yghH6iE/s1600-h/xperia_x10%5B4%5D.jpg) It’s no secret that Sony Ericsson has been struggling for the last couple of years. It hasn’t reported a profitable quarter since 2008 and 2009 has been especially tough for the company, which ended Q1 with a 293 million euro ($397 million) net income loss. 

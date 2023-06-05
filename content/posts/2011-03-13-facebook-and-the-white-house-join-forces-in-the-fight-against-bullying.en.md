@@ -9,7 +9,7 @@ tags:
   - news
   - The White House
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="US-WhiteHouse-Logo" border="0" alt="US-WhiteHouse-Logo" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TXzSWIqBYjI/AAAAAAAADrs/ZBrGE4P2IYM/US-WhiteHouse-Logo_thumb%5B2%5D.png?imgmax=800" width="250" height="170" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TXzST43HTcI/AAAAAAAADro/iicybIrjnhw/s1600-h/US-WhiteHouse-Logo%5B4%5D.png)Examiner.com wrote: As many people are aware, bullying today is not like it used to be.  Back in the day, all one had to do to turn his bully in was give the name of the person who bothered him to a trusted adult.  Today, it is not that easy.  Bullying doesn't end at the school bell.  It follows students from the blacktop to their cell phones to their computer screens. Many times, these “cyber bullies” create fake online profiles which allow them to bully anonymously.  Kids in turn learn to fear school instead of perceiving it as a place of safety.  Consider these staggering statistics- One third of middle school and high school students report being bullied during the school year.  Almost 3 million students have said they were pushed, shoved, tripped and even spit on.  Those are only the _reported_ incidents of bullying. It does not include the day to day bullying that goes unreported.  Bullying has also shown to lead to absences and poor performance in the classroom.

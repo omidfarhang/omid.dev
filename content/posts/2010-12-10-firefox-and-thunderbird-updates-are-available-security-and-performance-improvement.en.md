@@ -11,7 +11,7 @@ tags:
   - Thunderbird
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ### Firefox

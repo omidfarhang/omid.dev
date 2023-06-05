@@ -11,7 +11,7 @@ tags:
   - lightdm
   - ubuntu
   - gnome
-category: 
+categories: 
   - techblog
 ---
 ## How it started

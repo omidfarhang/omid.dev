@@ -6,7 +6,7 @@ author_profile: true
 url: 2017/07/06/google-chrome-in-ubuntu-keeps-detecting-network-change/
 shortlink: https://g.omid.dev/2suTpAT
 lang: fa
-category: 
+categories: 
   - techblog
 ---
 چند روز بود که با شبکه اوبونتوم مشکل داشتم، هربار که میخواستم یک سایتی رو با کرومیوم باز کنم میگفت که تغییری در شبکه م به وجود اومده و باید چندبار صفحه رو ریلود میکردم تا باز شه و گاهی کلا باز نمیشد.

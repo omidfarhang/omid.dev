@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![](http://1.bp.blogspot.com/-XpllBUvjElA/TuzhGgTYqOI/AAAAAAAAEWQ/6-eeLKvIM40/s1600/adobe+reader.jpg)

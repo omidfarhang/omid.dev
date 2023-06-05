@@ -13,7 +13,7 @@ tags:
   - symantec
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Ed Bott's Microsoft Report posted something interesting in ZDNet:

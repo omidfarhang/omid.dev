@@ -10,7 +10,7 @@ tags:
   - Mozilla
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="moztrio" border="0" alt="moztrio" align="right" src="http://lh3.ggpht.com/-KDXkokrGjUo/T2JQajrSXMI/AAAAAAAAFLU/nJLE5x1hkQM/moztrio_thumb%25255B1%25255D.png?imgmax=800" width="170" height="80" />](http://lh3.ggpht.com/-bzyNXz6GZ9A/T2JQWqrukkI/AAAAAAAAFLM/0LTzTutUM5c/s1600-h/moztrio%25255B3%25255D.png)The H-Online: In the latest round of updates of its suite of internet applications, [Mozilla](http://www.mozilla.org/) has detailed the security fixes in the [Firefox 11](http://www.getfirefox.com/) browser, Thunderbird 11 email and news client and SeaMonkey 2.8 “all-in-one internet application suite”. There are also fixes for the “enterprise” and legacy versions of Firefox and Thunderbird. These fixes include a correction to a memory error in Array.join() which had been fixed last month, but was exploited during the Pwn2Own contest by Vincenzo Iozzo. 

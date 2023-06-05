@@ -7,7 +7,7 @@ permalink: '/2010/02/04/utorrent-2-0-stable-version-released/'
 tags:
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s320/utorrent.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s1600-h/utorrent.png)

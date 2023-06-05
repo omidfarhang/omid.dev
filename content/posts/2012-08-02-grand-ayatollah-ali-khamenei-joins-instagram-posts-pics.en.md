@@ -10,7 +10,7 @@ tags:
   - news
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh5.ggpht.com/-dtiAoEukghg/UBp0sry4YII/AAAAAAAAGq8/5bRr5cT3vFg/s1600-h/Ayatollah%25255B4%25255D.jpg" target="_blank"><img title="Ayatollah" border="0" alt="Ayatollah" src="http://lh3.ggpht.com/-uibzAXOLE2o/UBp0u_H10lI/AAAAAAAAGrE/zFBHHnm8gyc/Ayatollah_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="429" /></a> 

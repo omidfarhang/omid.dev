@@ -7,7 +7,7 @@ url: 2011/01/28/ill-be-back/
 tags:
   - This Blog Update
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Sorry about not updating my blog, I'll be back! (soon perhaps!)

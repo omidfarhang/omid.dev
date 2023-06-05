@@ -10,7 +10,7 @@ tags:
   - Windows
   - worlds news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The Russian government is no longer comfortable being dependent on the Windows operating system, and has thus decided to create its own flavor of Linux for internal use. 150 million rubles (€3.55 million or nearly $4.89 million) has been put aside for the project. That's a huge amount of money to invest into something that isn't certain (what if Russia gives up and goes back to using Windows 7?). 

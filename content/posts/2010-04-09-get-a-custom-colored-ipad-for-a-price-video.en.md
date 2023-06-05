@@ -11,7 +11,7 @@ tags:
   - ipad
   - tablets
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![ipad-colorware-200](http://lh6.ggpht.com/_vaUVXcmC3OI/S7-tWOOa0_I/AAAAAAAAB34/1N_SpD1o318/ipad-colorware-260_thumb%5B2%5D.jpg?imgmax=800 "ipad-colorware-200")](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-tUBUxjHI/AAAAAAAAB30/l1HsiTiXjzQ/s1600-h/ipad-colorware-260%5B4%5D.jpg) Sure, that Apple-flavored brushed aluminum finish might work for most [iPad](http://mashable.com/2010/01/27/ipad/) owners, but what if you’re a _unique snowflake_ whose extremely non-conformist identity must be reflected in every item of consumer electronics you own? 

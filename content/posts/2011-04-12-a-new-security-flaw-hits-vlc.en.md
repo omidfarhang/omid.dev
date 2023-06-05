@@ -9,7 +9,7 @@ tags:
   - VLC
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/-Ajp97NsmkSM/TaQPA351xpI/AAAAAAAAD00/uBfQceRk_BE/s200/largeVLC.png)](http://3.bp.blogspot.com/-Ajp97NsmkSM/TaQPA351xpI/AAAAAAAAD00/uBfQceRk_BE/s1600/largeVLC.png)

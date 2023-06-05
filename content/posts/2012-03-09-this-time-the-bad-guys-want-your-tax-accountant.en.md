@@ -10,7 +10,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **avast:** While taxpayers are the regular target of springtime malware schemes, this year the bad guys are aiming for the accountants. 

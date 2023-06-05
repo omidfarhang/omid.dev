@@ -10,7 +10,7 @@ tags:
   - Linux
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Pinguy OS an out-of-the-box working operating system for everyone, not just geeks.This OS is for people that have never used Linux before or for people that just want an out-of-the-box working OS without doing all the tweaks and enhancements that everyone seems to do when installing a fresh copy of Ubuntu or other Linux based Distro's.

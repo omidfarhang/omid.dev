@@ -8,7 +8,7 @@ tags:
   - malware
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The one subset of malware which does not immediately seem motivated by financial incentives is the autorun worm. In fact the raison d’etre for this class of malware seems lodged in the annals of yesteryear; summarised in three words it could be “naive script-kiddy kudos”.

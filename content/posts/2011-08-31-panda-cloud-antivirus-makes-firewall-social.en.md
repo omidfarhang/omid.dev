@@ -10,7 +10,7 @@ tags:
   - panda
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/-KbU-00cXq-8/Tl6XfQIs27I/AAAAAAAAEAY/jQ1larkzlhg/s1600/Panda-Cloud-Antivirus-300x206.png)](http://1.bp.blogspot.com/-KbU-00cXq-8/Tl6XfQIs27I/AAAAAAAAEAY/jQ1larkzlhg/s1600/Panda-Cloud-Antivirus-300x206.png)

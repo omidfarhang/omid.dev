@@ -11,7 +11,7 @@ tags:
   - politics
   - US
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I just read this and I decided to share with you: 

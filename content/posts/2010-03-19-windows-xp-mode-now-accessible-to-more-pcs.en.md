@@ -10,7 +10,7 @@ tags:
   - news
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6M_UfNldEI/AAAAAAAABSs/PrDi9spi0OI/s200/virtual-pc.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6M_UfNldEI/AAAAAAAABSs/PrDi9spi0OI/s1600-h/virtual-pc.JPG)

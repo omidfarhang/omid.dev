@@ -11,7 +11,7 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4fnQFOABrI/AAAAAAAAA_c/8hUU8X15yOc/s640/story.facebook.courtesy.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4fnQFOABrI/AAAAAAAAA_c/8hUU8X15yOc/s1600-h/story.facebook.courtesy.jpg)

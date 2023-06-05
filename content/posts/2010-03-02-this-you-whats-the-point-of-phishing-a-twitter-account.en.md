@@ -12,7 +12,7 @@ tags:
   - Twitter
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 In Additional to my last post: <http://boelectronic.blogspot.com/2010/03/twitter-phished-its-easy-mistake.html>

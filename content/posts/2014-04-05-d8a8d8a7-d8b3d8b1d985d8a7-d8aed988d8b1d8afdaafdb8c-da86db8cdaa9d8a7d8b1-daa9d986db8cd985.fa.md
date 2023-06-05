@@ -6,7 +6,7 @@ author_profile: true
 url: '2014/04/05/با-سرما-خوردگی-چیکار-کنیم'
 shortlink: https://g.omid.dev/1KWiHQ7
 lang: fa
-category: 
+categories: 
   - blog
 ---
 امروز شنیدم یکی از دوستام سرما خورده و سرما خوردگیش خیلی شدیده.

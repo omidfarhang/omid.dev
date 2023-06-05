@@ -10,7 +10,7 @@ tags:
   - review
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 …and some of it masquerades as “marketing” and “newsletter” emails. 

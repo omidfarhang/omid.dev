@@ -10,7 +10,7 @@ tags:
   - iphone
   - Ubisoft
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![prince_of_persia](http://lh6.ggpht.com/_vaUVXcmC3OI/S_RJdd90LFI/AAAAAAAACQs/IxLhyPk_5Ls/prince_of_persia_thumb%5B1%5D.jpg?imgmax=800 "prince_of_persia")](http://lh6.ggpht.com/_vaUVXcmC3OI/S_RJbGftUjI/AAAAAAAACQo/QPf0MiMO4-o/s1600-h/prince_of_persia%5B3%5D.jpg) Right now, the words “Prince of Persia” probably make you think of muscular [Jake Gyllenhaal](http://www.imdb.com/title/tt0473075/) jumping from building to building. The video game the movie is based on, however, is a remake of an ancient platform-style [game with the same name](http://en.wikipedia.org/wiki/Prince_of_Persia_%281989_video_game%29), released for Apple II and later ported to PC and other platforms. 

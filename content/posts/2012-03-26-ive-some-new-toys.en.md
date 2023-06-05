@@ -8,7 +8,7 @@ image: /images/sites/2/2012/03/HTC_Wildfire_S_Viewpoints-C.jpg
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 [<img class="alignright size-medium wp-image-178" alt="HTC_Wildfire_S_Viewpoints-C" src="/images/2012/03/HTC_Wildfire_S_Viewpoints-C-300x205.jpg" width="300" height="205" srcset="/images/sites/2/2012/03/HTC_Wildfire_S_Viewpoints-C-300x205.jpg 300w, /images/sites/2/2012/03/HTC_Wildfire_S_Viewpoints-C-1024x702.jpg 1024w, /images/sites/2/2012/03/HTC_Wildfire_S_Viewpoints-C.jpg 1218w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2012/03/HTC_Wildfire_S_Viewpoints-C.jpg)Hey Guys!

@@ -10,7 +10,7 @@ tags:
   - security
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/-sesfTOPXLsg/TlYgLtdj4nI/AAAAAAAAD_I/ATInAlXLwqU/s200/Java.jpg)](http://1.bp.blogspot.com/-sesfTOPXLsg/TlYgLtdj4nI/AAAAAAAAD_I/ATInAlXLwqU/s1600/Java.jpg)

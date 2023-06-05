@@ -7,7 +7,7 @@ url: 2012/04/26/no-this-is-not-a-love-song/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 Did you ever try hard to reach someone and when you did you find your mouth shut? I did several times and it drive me crazy!

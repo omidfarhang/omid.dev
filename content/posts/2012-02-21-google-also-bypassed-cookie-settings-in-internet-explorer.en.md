@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - privacy
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="mgcookies" border="0" alt="mgcookies" align="right" src="http://lh5.ggpht.com/-V3ZV3KV4htA/T0O2E2DuUGI/AAAAAAAAE5I/GnyDNE9ASnE/mgcookies_thumb%25255B1%25255D.png?imgmax=800" width="100" height="100" />](http://lh6.ggpht.com/-IF6fIjMotxg/T0O2BbEN-hI/AAAAAAAAE5A/-J80BnZLvS4/s1600-h/mgcookies%25255B3%25255D.png)H-Online.com:** Following the [revelation](/2012/02/google-found-evading-safari-privacy.html) that Google and other online marketing companies have been bypassing the mechanism for blocking third-party cookies in Safari, the Internet Explorer development team asked themselves whether Google might be doing the same thing in IE. As they [detail](http://blogs.msdn.com/b/ie/archive/2012/02/20/google-bypassing-user-privacy-settings.aspx) on IEBlog, they discovered that this was the case – Google circumvents Internet Explorer's cookie policy by subverting the browser's P3P-based privacy protection mechanism. 

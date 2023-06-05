@@ -8,7 +8,7 @@ tags:
   - hack
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/-b0lc6wid4Eg/Tl9Fvkh33YI/AAAAAAAAEAo/Z2znkCpjGA0/s1600/late-night-webcam-170.jpg)](http://1.bp.blogspot.com/-b0lc6wid4Eg/Tl9Fvkh33YI/AAAAAAAAEAo/Z2znkCpjGA0/s1600/late-night-webcam-170.jpg)

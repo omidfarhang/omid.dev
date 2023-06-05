@@ -11,7 +11,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 “In memory of Steve, a company is giving out 50 ipads tonight…” is another Facebook scam you want to avoid.

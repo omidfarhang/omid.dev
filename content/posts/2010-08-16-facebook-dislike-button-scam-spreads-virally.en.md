@@ -12,7 +12,7 @@ tags:
   - social networking
   - warning
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Have you seen a message like this on Facebook?

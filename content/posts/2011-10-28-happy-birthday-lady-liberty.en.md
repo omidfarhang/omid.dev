@@ -8,7 +8,7 @@ image: /images/sites/2/2011/10/new-york-statue-of-liberty.jpg
 tags:
   - events
 lang: en
-category: 
+categories: 
   - blog
 ---
 I wish Lady Liberty a Happy 125th Birthday today!

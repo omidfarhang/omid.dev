@@ -9,7 +9,7 @@ tags:
   - review
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Today we are going to take a closer look at bots and botnets. On the black market, selling bots and botnets is quite profitable, which makes creating them a popular activity for criminals. It helps that bot sources and creation kits are available on the Internet, allowing even script kiddies to create their own botnets. Another reason bots get created is that some people who get bored in their daily lives tend to do things that in their opinion might earn them respect or admiration in front of their peers or in various Internet chat rooms.

@@ -9,7 +9,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 PCProtectar is the latest rogue security software infecting PC's across the interwebs. PCProtecter uses false security warnings and system scan results to trick people into buying the software.

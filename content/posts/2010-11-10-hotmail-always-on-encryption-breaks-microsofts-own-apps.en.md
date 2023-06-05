@@ -11,7 +11,7 @@ tags:
   - security
   - Windows Live
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![img-33742-microsoft-windows-live-logo-450x360](http://lh4.ggpht.com/_vaUVXcmC3OI/TNq1JAkRARI/AAAAAAAADHU/qcudHe_83rk/img-33742-microsoft-windows-live-logo-450x360_thumb%5B6%5D.jpg?imgmax=800 "img-33742-microsoft-windows-live-logo-450x360")](http://lh5.ggpht.com/_vaUVXcmC3OI/TNq1GrG0FwI/AAAAAAAADHQ/fYUXs2hv6mw/s1600-h/img-33742-microsoft-windows-live-logo-450x360%5B4%5D.jpg)Oh look, Microsoft is late to the party again? They are finally launching full-session SSL encryption to Hotmail a mere 2 years after Google did the [same thing for Gmail](http://gmailblog.blogspot.com/2008/07/making-security-easier.html).

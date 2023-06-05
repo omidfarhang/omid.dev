@@ -11,7 +11,7 @@ tags:
   - review
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Thirty-two days ago, I purchased Apple's iPad, after proclaiming that I wouldn't. A gadget like this one should be tested if repeatedly blogged about. I would have used a for-reviews loaner, but I'm on the same fraked list as [Gizmodo](http://www.gizmodo.com/). I bought my own. A month-or-so usage later, I agree with [Tumblr](http://tumblr.com/) and [Instapaper](http://www.instapaper.com/) developer Marco Arment, [who asked about iPad yesterday](http://www.marco.org/608396721): “What's it for, really? Logically, it doesn't make a lot of sense for most computer owners…most people will have trouble justifying the $500 entry price.” 

@@ -9,7 +9,7 @@ tags:
   - Password
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="dp" border="0" alt="dp" align="right" src="http://lh5.ggpht.com/-TOpL1bQL89w/T19U23PucgI/AAAAAAAAFKE/t8BVVOivJUk/dp_thumb.jpg?imgmax=800" width="216" height="122" />](http://lh3.ggpht.com/-3gl3VxJsCR4/T19UrRiKtNI/AAAAAAAAFJ8/CzG5C7IZmU4/s1600-h/dp%25255B2%25255D.jpg)SophosLabs: A group of hackers are claiming to have stolen the details of more than 70,000 users of the Digital Playground porn website. 

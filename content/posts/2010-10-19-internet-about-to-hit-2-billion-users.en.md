@@ -9,7 +9,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="story.cyber.crime.courtesy" border="0" alt="story.cyber.crime.courtesy" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL30ybNW--I/AAAAAAAACxE/WPFm5z0TbYc/story.cyber.crime.courtesy_thumb%5B1%5D.jpg?imgmax=800" width="304" height="173" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TL30w8ZSPgI/AAAAAAAACxA/3LtxFDpZZVE/s1600-h/story.cyber.crime.courtesy%5B3%5D.jpg)If the internet is feeling a little more crowded these days, there's good reason.

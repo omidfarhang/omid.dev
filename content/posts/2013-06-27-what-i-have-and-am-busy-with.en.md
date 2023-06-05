@@ -9,7 +9,7 @@ image: /images/sites/2/2013/06/download-life.jpg
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 Hey Folks

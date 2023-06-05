@@ -10,7 +10,7 @@ tags:
   - iphone
   - Square
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![square_iphone](http://lh5.ggpht.com/_vaUVXcmC3OI/S-m8cp69kJI/AAAAAAAACLE/pTkMJVgk4qI/square_iphone_thumb%5B2%5D.jpg?imgmax=800 "square_iphone")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-m8Z9DZ9nI/AAAAAAAACLA/qvFazUAd20k/s1600-h/square_iphone%5B4%5D.jpg) Square is a mobile credit card transaction application founded by Jack Dorsey of Twitter fame. The app became available for the iPad about one month ago, and now it’s also available for the iPhone, iPod Touch and Android devices. 

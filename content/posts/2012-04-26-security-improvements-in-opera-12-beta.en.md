@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Opera-logo-new200" border="0" alt="Opera-logo-new200" align="right" src="http://lh5.ggpht.com/-6EgW5wDrBbQ/T5lan-N0FwI/AAAAAAAAFs0/OPlbgalNfKQ/Opera-logo-new200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="80" />](http://lh3.ggpht.com/-tU7UCFSAfzA/T5lal7r-8BI/AAAAAAAAFss/7FP6rXSB0SU/s1600-h/Opera-logo-new200%25255B3%25255D.png)The H-Online: A beta of version 12 of the [Opera](http://www.opera.com/) web browser [has been released](http://my.opera.com/desktopteam/blog/2012/04/26/opera-12-beta) with privacy and security-focused improvements. Code-named “Wahoo”, the Opera 12.00 beta now runs plugins out-of-process and includes optimizations for better SSL handling. Running plugins in their own process not only improves the smoothness and stability of the browser but can limit the damage some plugin exploits can do. Privacy is enhanced with support for the “Do Not Track” (DNT) header, which is used to tell web sites that the browser user wishes to opt-out of online behavioral tracking. 

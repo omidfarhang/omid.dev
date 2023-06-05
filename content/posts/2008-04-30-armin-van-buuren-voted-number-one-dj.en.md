@@ -10,7 +10,7 @@ tags:
   - Armin Van Buuren
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
  ![Armin van Buuren](/images/2008/04/pic-201x300.jpg)

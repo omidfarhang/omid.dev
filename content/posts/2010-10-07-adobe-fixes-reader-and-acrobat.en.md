@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <img title="acrobat_logo" border="0" alt="acrobat_logo" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TK3LazWjdnI/AAAAAAAACmA/2BnShiDLkP0/acrobat_logo%5B4%5D.png?imgmax=800" width="31" height="33" />Adobe just released Reader and Acrobat [version 9.4](http://www.adobe.com/support/security/bulletins/apsb10-21.html). The new release fixes some critical vulnerabilities which allow attackers to infect PCs – for example, just by browsing the net. Overall the update lists 23(!) entries in the CVE database as being solved with version 9.4.

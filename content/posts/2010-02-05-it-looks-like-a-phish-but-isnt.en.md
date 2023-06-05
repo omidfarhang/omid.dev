@@ -8,7 +8,7 @@ tags:
   - phishing
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 This is really bad for so many reasons.  It certainly doesn’t help their security.

@@ -8,7 +8,7 @@ image: /images/sites/3/2013/05/Name.com_.png
 tags:
   - News
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![Name.com](/images/2013/05/Name.com_.png)](/images/2013/05/Name.com_.png)US domain registrar and web hosting service [Name.com](http://www.name.com/) has fallen victim to a hacker attack. In a recent email, the company informed its customers of an incident that potentially enabled unknown attackers to gain access to “email addresses, encrypted passwords and encrypted credit card details”. The registrar says that the private crypto keys that are required to decrypt the stolen credit card details are stored on a separate system that wasn't compromised.

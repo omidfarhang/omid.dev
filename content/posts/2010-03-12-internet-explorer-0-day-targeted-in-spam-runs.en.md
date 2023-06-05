@@ -12,7 +12,7 @@ tags:
   - spam
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Hot on the heels of the Patch Tuesday announcements yesterday, came the [announcement](http://www.microsoft.com/technet/security/advisory/981374.mspx) of a new zero-day in Internet Explorer ([CVE-2010-0806](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-0806)).

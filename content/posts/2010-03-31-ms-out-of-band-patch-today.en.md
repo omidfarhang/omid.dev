@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **MS10–018**

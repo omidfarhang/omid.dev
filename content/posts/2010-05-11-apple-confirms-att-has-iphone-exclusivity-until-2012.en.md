@@ -13,7 +13,7 @@ tags:
   - verizon
   - Verizon iPhone
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![iphone-goog-maps-260](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lhgrM0O7I/AAAAAAAACIQ/f0Yn0W17HJg/iphone-goog-maps-260_thumb%5B2%5D.jpg?imgmax=800 "iphone-goog-maps-260")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-lheuHnplI/AAAAAAAACIM/XbkX4EfmIzs/s1600-h/iphone-goog-maps-260%5B4%5D.jpg) It was speculative before given the lack of independent confirmation, but now apparently Apple has gone on record to confirm that the original deal signed with AT&T for iPhone exclusivity back in 2007 was a five-year deal. That means at least some legal hoops would need jumping through if we’re ever going to see that oft-rumored Verizon iPhone before 2012. 

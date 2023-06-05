@@ -11,7 +11,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Firefox_Logo_200" border="0" alt="Firefox_Logo_200" align="right" src="http://lh3.ggpht.com/-h3bLSxOOPWU/T57FuxLRwhI/AAAAAAAAFxg/JK128be_k6M/Firefox_Logo_200_thumb.png?imgmax=800" width="200" height="63" />](http://lh6.ggpht.com/-9Tg-vaq_gBU/T57FsRsK6SI/AAAAAAAAFxc/NvRULfftH4I/s1600-h/Firefox_Logo_200%25255B2%25255D.png)H-Online: Soon, users running Firefox 3.6.x will start being automatically upgraded to the current <a href="/2012/04/firefox-and-thunderbird-12-are-out.html" target="_blank">version 12.0 release</a> of the open source web browser. The plan to auto-update these users has been being discussed since the end of March, when Mozilla Release Manager Alex Keybl proposed the move on a Mozilla [planning discussion thread](https://groups.google.com/group/mozilla.dev.planning/browse_thread/thread/1fb8dda6f4f735b7/fd3284b0919a272b?q=%22firefox+3.6%22&lnk=ol&&pli=1#). 

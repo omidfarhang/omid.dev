@@ -12,7 +12,7 @@ tags:
   - Opera
   - WebKit
 lang: en
-category: 
+categories: 
   - techblog
 ---
 After many years of dealing with site compatibility issues, Opera found [the solution](http://my.opera.com/haavard/blog/2013/02/13/webkit): it will switch from its proprietary rendering engine (Presto) to WebKit and [will be powered by Chrome's open source version, Chromium](http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit).

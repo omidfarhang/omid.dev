@@ -9,7 +9,7 @@ tags:
   - report
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The Indian Premier League 2010 is a huge attraction for the cricket-crazy population in India. These matches are packed with all the ingredients to entertain, and are capable of satisfying viewers’ hunger for more and more cricket matches. People are ready to buy tickets in all possible ways just to watch their local and international cricket stars play. Symantec was anticipating a spamming campaign against ticket sales during the initial period of the sporting extravaganza; however, it is just halfway through the event and still not too late to lure email users with offers related to IPL tickets.

@@ -10,7 +10,7 @@ tags:
   - Mozilla
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/--iUgHInhmNQ/TklyipenvII/AAAAAAAAD-A/1tQlEQXYcNo/s320/logo-wordmark-vertical.png)](http://3.bp.blogspot.com/--iUgHInhmNQ/TklyipenvII/AAAAAAAAD-A/1tQlEQXYcNo/s1600/logo-wordmark-vertical.png)

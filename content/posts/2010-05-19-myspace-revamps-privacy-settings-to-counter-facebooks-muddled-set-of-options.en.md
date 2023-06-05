@@ -9,7 +9,7 @@ tags:
   - MySpace
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Facebook grew more popular than Myspace just about two years ago, and has been been enjoying steady growth while MySpace flounders trying to reinvent itself. 

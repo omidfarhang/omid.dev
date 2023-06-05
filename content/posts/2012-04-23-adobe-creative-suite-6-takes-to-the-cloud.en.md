@@ -8,7 +8,7 @@ tags:
   - Adobe
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="hand-cloud-frame-300x229" border="0" alt="hand-cloud-frame-300x229" align="right" src="http://lh3.ggpht.com/-iNPy6kWuucY/T5WksfZo0HI/AAAAAAAAFnw/p7mviOUoawE/hand-cloud-frame-300x229_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="183" />](http://lh4.ggpht.com/-lsw8U_nxjUY/T5WkqBqKddI/AAAAAAAAFno/hiVl5JK3-eE/s1600-h/hand-cloud-frame-300x229%25255B3%25255D.jpg)Cross-posted from BetaNews.com: Adobe took the wraps off Creative Suite 6 on Monday, introducing the largest release to date of the content-creation platform. CS6 now includes up to 12 programs and two companion applications, Bridge and Encore, and is available in four editions: Design Standard, Design and Web Premium, Production Premium, and Master Collection.

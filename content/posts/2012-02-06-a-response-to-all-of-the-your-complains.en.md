@@ -7,7 +7,7 @@ url: 2012/02/06/a-response-to-all-of-the-your-complains/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 Hey People!

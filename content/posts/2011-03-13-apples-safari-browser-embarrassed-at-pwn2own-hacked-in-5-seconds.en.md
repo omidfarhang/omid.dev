@@ -11,7 +11,7 @@ tags:
   - Safari
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![safari-screenshot](http://lh4.ggpht.com/_vaUVXcmC3OI/TXxldE3futI/AAAAAAAADrU/1-2mB4Irj6k/safari-screenshot_thumb%5B2%5D.jpg?imgmax=800 "safari-screenshot")](http://lh3.ggpht.com/_vaUVXcmC3OI/TXxlZR9ZR8I/AAAAAAAADrQ/IhGwvU4TD5A/s1600-h/safari-screenshot%5B5%5D.jpg)

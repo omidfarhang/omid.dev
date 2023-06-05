@@ -11,7 +11,7 @@ tags:
   - hack
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![aafndjka2[6]](/images/2013/03/aafndjka26-300x300.jpg)](/images/2013/03/aafndjka26.jpg)3/22/2013: Emma Stone revealed that she was not behind the ambiguous tweets concerning boyfriend Andrew Garfield and co-star Shailene Woodley that sparked cheating rumors.

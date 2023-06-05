@@ -8,7 +8,7 @@ tags:
   - Apple
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Apple has issued Security Update 2010-002 (Mac OS X v10.6.3) that fixes 100 enumerated vulnerabilities in:  

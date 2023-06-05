@@ -8,7 +8,7 @@ tags:
   - advice
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _Posted by [the Stop. Think. Connect. Campaign](http://www.dhs.gov/stopthinkconnect) on **Homeland Security**_

@@ -11,7 +11,7 @@ tags:
   - Mobile
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BcnbzN5uI/AAAAAAAABKc/5pcDdDQZWIo/s640/4622.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BcnbzN5uI/AAAAAAAABKc/5pcDdDQZWIo/s1600-h/4622.jpg)

@@ -13,7 +13,7 @@ tags:
   - security
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ### Accessing Facebook from a public computer or Internet cafe can now be done more securely.

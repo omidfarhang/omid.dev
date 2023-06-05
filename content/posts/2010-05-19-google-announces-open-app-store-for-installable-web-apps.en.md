@@ -9,7 +9,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![5006](http://lh4.ggpht.com/_vaUVXcmC3OI/S_RC_6oAfqI/AAAAAAAACPs/nUrSlB1vW64/5006_thumb%5B2%5D.jpg?imgmax=800 "5006")](http://lh3.ggpht.com/_vaUVXcmC3OI/S_RC9FF6NDI/AAAAAAAACPo/F8p8WLVanXg/s1600-h/5006%5B4%5D.jpg) 

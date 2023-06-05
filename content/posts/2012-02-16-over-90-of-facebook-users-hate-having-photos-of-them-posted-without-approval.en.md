@@ -9,7 +9,7 @@ tags:
   - Facebook Privacy
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **SophosLabs:** Facebook users overwhelmingly agree that it's rude to post photos or videos of them without asking permission first. Some even think it should be illegal. 

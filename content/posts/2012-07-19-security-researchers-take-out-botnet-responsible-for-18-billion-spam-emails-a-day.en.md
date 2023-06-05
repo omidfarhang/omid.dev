@@ -8,7 +8,7 @@ tags:
   - news
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh5.ggpht.com/-N9STBulhiHw/UAiKWOJglHI/AAAAAAAAGhI/hPNE0ZwAHoc/s1600-h/mail-spam%25255B3%25255D.jpg" target="_blank"><img title="mail-spam" border="0" alt="mail-spam" align="right" src="http://lh3.ggpht.com/-KT4_JnQSS5Y/UAiKcAICXpI/AAAAAAAAGhQ/sN_9LB8mjyw/mail-spam_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="180" /></a><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/security-researchers-take-out-botnet-responsible-for-18-billion-spam-emails-a-day-7959463.html" target="_blank">Independent</a>: If you're a fan of fake Rolex watches and cheap Viagra look away now. 

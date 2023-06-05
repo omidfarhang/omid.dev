@@ -8,7 +8,7 @@ tags:
   - malware
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 We found this interesting and malicious little mechanism.

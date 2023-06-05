@@ -11,7 +11,7 @@ tags:
   - report
   - survey
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/-wBCBh8e1hzI/TbQCHQQZfSI/AAAAAAAAD2o/Ig2u9aL3nMY/s1600/mac-v-pc-2011-04-22.jpg)](http://2.bp.blogspot.com/-wBCBh8e1hzI/TbQCHQQZfSI/AAAAAAAAD2o/Ig2u9aL3nMY/s1600/mac-v-pc-2011-04-22.jpg)

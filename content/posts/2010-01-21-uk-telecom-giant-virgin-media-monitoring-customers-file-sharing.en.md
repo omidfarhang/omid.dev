@@ -8,7 +8,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Virgin Media, the UK telecommunications giant that supplies TV, phone and Internet services, has begun to use deep packet inspection determine if its Internet customers are sharing music or films.

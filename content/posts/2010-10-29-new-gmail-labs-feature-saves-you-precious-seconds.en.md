@@ -9,7 +9,7 @@ tags:
   - gmail labs
   - Google
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Gmail_logo" border="0" alt="Gmail_logo" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMq202CFqqI/AAAAAAAAC-U/qO5s2aj4r_w/Gmail_logo_thumb%5B4%5D.png?imgmax=800" width="143" height="59" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMq2zam_k6I/AAAAAAAAC-Q/9lps4YQ8nos/s1600-h/Gmail_logo%5B6%5D.png)Gmail has just added a new “Labs” feature that should save you some time if you’re the type of person that tends to plow through your e-mail inbox in bunches. 

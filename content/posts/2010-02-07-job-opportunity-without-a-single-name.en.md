@@ -9,7 +9,7 @@ tags:
   - phishing
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Today we received some job hiring emails that looked like this:

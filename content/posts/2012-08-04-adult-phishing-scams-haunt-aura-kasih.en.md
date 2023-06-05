@@ -8,7 +8,7 @@ tags:
   - alert
   - phishing
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img class="aligncenter size-full wp-image-6422" alt="aura-kasih-video-3[6]" src="/images/2012/08/aura-kasih-video-36.jpg" width="458" height="340" srcset="/images/sites/3/2012/08/aura-kasih-video-36.jpg 458w, /images/sites/3/2012/08/aura-kasih-video-36-300x222.jpg 300w" sizes="(max-width: 458px) 100vw, 458px" />](/images/2012/08/aura-kasih-video-36.jpg)

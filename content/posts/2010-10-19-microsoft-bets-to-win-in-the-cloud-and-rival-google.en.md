@@ -12,7 +12,7 @@ tags:
   - Microsoft Office
   - Microsoft Office 365
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="_49573585_img_7021" border="0" alt="_49573585_img_7021" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TL30eyvFUXI/AAAAAAAACw8/ekvoJCPQX4I/_49573585_img_7021_thumb%5B3%5D.jpg?imgmax=800" width="308" height="175" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TL30dUGxfqI/AAAAAAAACw4/UnV6wKicWRk/s1600-h/_49573585_img_7021%5B5%5D.jpg)Microsoft has ramped up its battle with Google in wooing business customers with its next generation cloud-based product.

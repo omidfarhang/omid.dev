@@ -8,7 +8,7 @@ image: /images/sites/2/2012/07/american-independence-day.jpg
 tags:
   - events
 lang: en
-category: 
+categories: 
   - blog
 ---
 [<img class="aligncenter size-full wp-image-155" alt="american independence day" src="/images/2012/07/american-independence-day.jpg" width="500" height="313" srcset="/images/sites/2/2012/07/american-independence-day.jpg 500w, /images/sites/2/2012/07/american-independence-day-300x187.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/images/2012/07/american-independence-day.jpg)

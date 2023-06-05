@@ -11,7 +11,7 @@ tags:
   - report
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="facebook-logo(High)" border="0" alt="facebook-logo(High)" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TLyvG5t1Q-I/AAAAAAAACtE/a2DigGtmxaU/facebook-logo%28High%29_thumb.jpg?imgmax=800" width="154" height="60" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TLyvFYtbYEI/AAAAAAAACtA/bra5KIIZB_0/s1600-h/facebook-logo%28High%29%5B3%5D.jpg)NEW YORK — The Wall Street Journal is reporting that 10 popular Facebook applications have been transmitting users' personal identifying information to dozens of advertising and Internet tracking companies.

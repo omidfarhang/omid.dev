@@ -10,7 +10,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft [said today it will issue an out-of-band patch tomorrow](http://www.microsoft.com/technet/security/bulletin/ms10-mar.mspx) for a vulnerability in Internet Explorer 6 and 7 that is being actively exploited.

@@ -9,7 +9,7 @@ tags:
   - Firefox
   - Mozilla
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/-RM2IJZjla-c/TrPI7AIPzNI/AAAAAAAAEOI/3FuYNo19rFc/s200/logo-only.png)](http://1.bp.blogspot.com/-RM2IJZjla-c/TrPI7AIPzNI/AAAAAAAAEOI/3FuYNo19rFc/s1600/logo-only.png)

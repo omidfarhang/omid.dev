@@ -7,7 +7,7 @@ url: 2010/04/17/volcanoes-and-disaster-recovery/
 tags:
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Dr. Johannes Ullrich at SANS brought up a good point in his morning podcast ([Stormcast 296](http://isc.sans.org/podcast.html) ) about widespread transportation shutdowns and disaster recovery planning.

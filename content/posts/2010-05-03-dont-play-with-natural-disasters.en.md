@@ -9,7 +9,7 @@ tags:
   - review
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 We want to warn you of an email message in Spanish we’ve received with the subject **( Urgente ) Posible Terremoto y Tsunami con un 89 % de efectividad** and that is of course false. 

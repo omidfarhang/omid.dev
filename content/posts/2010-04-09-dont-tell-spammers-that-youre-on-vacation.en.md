@@ -12,7 +12,7 @@ tags:
   - Microsoft
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft has made the right decision to temporarily turn off Hotmail's vacation (e.g., out-of-office) reply feature. Flip the switch off permanently, I say. 

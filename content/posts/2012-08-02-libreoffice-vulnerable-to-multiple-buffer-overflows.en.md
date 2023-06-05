@@ -10,7 +10,7 @@ tags:
   - security
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh3.ggpht.com/-lwgP4mg1MOI/UBrSFrn6MCI/AAAAAAAAGxg/iOJIdr37MZ0/s1600-h/LibreOffice%25255B2%25255D.png" target="_blank"><img title="LibreOffice" border="0" alt="LibreOffice" align="right" src="http://lh3.ggpht.com/-e6Po0aP7wP4/UBrSHVjjxHI/AAAAAAAAGxo/lFPq4TUx1LQ/LibreOffice_thumb.png?imgmax=800" width="218" height="45" /></a>h-online: Three weeks after [releasing LibreOffice 3.5.5](http://www.h-online.com/news/item/LibreOffice-3-5-5-update-improves-stability-1636972.html), [The Document Foundation](http://www.documentfoundation.org/) has confirmed that security holes in earlier versions of the open source [LibreOffice](http://www.libreoffice.org/) productivity suite can be exploited by attackers to compromise a victim's system. According to the project's [security advisory](http://www.libreoffice.org/advisories/CVE-2012-2665/), these include multiple heap-based buffer overflow vulnerabilities in the XML manifest encryption tag parsing code. 

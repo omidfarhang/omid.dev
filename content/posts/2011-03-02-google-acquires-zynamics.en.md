@@ -10,7 +10,7 @@ tags:
   - security
   - Zynamics
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _Internet giant buys into security._

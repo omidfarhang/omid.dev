@@ -11,7 +11,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Here is yet another example of a company distributing malware to its userbase. Unfortunately it probably won’t be the last.

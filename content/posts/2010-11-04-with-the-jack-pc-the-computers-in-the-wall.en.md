@@ -10,7 +10,7 @@ tags:
   - link
   - technology
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="jackpc" border="0" alt="jackpc" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TNLoxFrUBPI/AAAAAAAADCI/IXmU_YeZugo/jackpc_thumb.jpg?imgmax=800" width="304" height="173" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNLovl7c74I/AAAAAAAADCE/qJt6eRjhznM/s1600-h/jackpc%5B2%5D.jpg)

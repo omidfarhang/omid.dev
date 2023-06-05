@@ -12,7 +12,7 @@ tags:
   - Video
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S79ru1wM2UI/AAAAAAAAB3A/FAKiGjK9x9Y/s1600/youtube-logo.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S79ru1wM2UI/AAAAAAAAB3A/FAKiGjK9x9Y/s1600/youtube-logo.jpg)

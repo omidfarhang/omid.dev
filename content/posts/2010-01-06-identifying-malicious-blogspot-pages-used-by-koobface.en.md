@@ -9,7 +9,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Koobface is still going strong despite not making the headlines so much anymore. Well, the Koobface gang took the time to send a Christmas card and wish security researchers a happy new year. Very nice of them…

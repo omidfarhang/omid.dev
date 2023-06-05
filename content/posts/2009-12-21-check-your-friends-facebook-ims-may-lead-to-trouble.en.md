@@ -9,7 +9,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I ran into a few strange IMs over the weekend. When I was not shoveling out my driveway from the 15 inches of snow that covered it I was logged into Facebook telling people about it…. It was then that I started receiving some VERY interesting IMs from a friend extolling the virtues of a clean colon (yep – you read that right):

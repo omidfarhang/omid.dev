@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="avira_logo_red_rgb (2)" border="0" alt="avira_logo_red_rgb (2)" align="right" src="http://lh5.ggpht.com/-gcP63jJ_vTE/T7URF1NsIKI/AAAAAAAAGBA/oIwLEIgnmNU/avira_logo_red_rgb%252520%2525282%252529_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="58" />](http://lh5.ggpht.com/-EjEJ2cUIVf0/T7URDsDF6tI/AAAAAAAAGA4/8EHIgvUirW4/s1600-h/avira_logo_red_rgb%252520%2525282%252529%25255B3%25255D.jpg)The H-Online: [Avira says](http://www.avira.com/en/proactiv-application-blocking) that it has resolved the [problems caused](/2012/05/avira-av-update-hangs-systems.html) by a Service Pack that was released for its Windows products earlier this week. Users are advised to trigger a manual update to download the fix. Once installed, the update should prevent the program from blocking legitimate Windows applications on systems running Avira. 

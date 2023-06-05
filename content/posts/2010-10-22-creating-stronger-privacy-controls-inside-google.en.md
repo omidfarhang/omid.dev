@@ -10,7 +10,7 @@ tags:
   - news
   - privacy
 lang: en
-category: 
+categories: 
   - techblog
 ---
 #### Google Official Blog:

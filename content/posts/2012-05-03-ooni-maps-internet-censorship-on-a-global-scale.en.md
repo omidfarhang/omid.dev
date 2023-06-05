@@ -9,7 +9,7 @@ tags:
   - report
   - Tor Project
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Tor" border="0" alt="Tor" align="right" src="http://lh5.ggpht.com/-KRvUmO1cxZM/T6JjmxyfP0I/AAAAAAAAF2M/TJWhCdYMedU/Tor_thumb.png?imgmax=800" width="150" height="90" />](http://lh3.ggpht.com/-U_Zc82XqoDU/T6JjlBcISmI/AAAAAAAAF2E/Y7tVcLjB94I/s1600-h/Tor%25255B2%25255D.png)The H-Online: Tor developers Arturo Filasto and Jacob Appelbaum [have been working on a new tool](http://www.forbes.com/sites/andygreenberg/2012/04/30/the-tor-projects-new-tool-aims-to-map-out-internet-censorship/) they call the OONI-probe. [OONI](http://ooni.nu/) stands for Open Observatory of Network Interference and is designed to help map internet censorship across the global network. The open source tool gives users the ability to check their internet connection for censorship, selective bandwidth throttling, surveillance and other interferences. This data can then be shared freely with other users, creating a global overview of the state of censorship of the network. 

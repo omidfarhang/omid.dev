@@ -13,7 +13,7 @@ tags:
   - WordPress 3.0
   - WordPress Theme
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _Brian Casel is a web designer and owner of [ThemeJam WordPress Themes](http://themejam.com/) and [CasJam Media](http://casjam.com/).  You can follow Brian on his blog at [briancasel.com](http://www.briancasel.com/) or on Twitter [@CasJam](http://twitter.com/CasJam)._ 

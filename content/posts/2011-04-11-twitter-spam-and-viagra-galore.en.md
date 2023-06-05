@@ -9,7 +9,7 @@ tags:
   - spam
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Spam mails claiming to be from Twitter that send you to pharmacy sites are a [popular wheeze](http://www.hoax-slayer.com/pharmacy-spam-twitter-messages.shtml) for spammers, and here we go again.

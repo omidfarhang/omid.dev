@@ -14,7 +14,7 @@ tags:
   - Smartphone
   - trending
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Smartphones carrying Google’s Android operating system outsold the iPhone in the first quarter of 2010, according to [new research](http://www.marketwatch.com/story/android-shakes-up-us-smartphone-market-2010-05-10?reflink=MW_news_stmp) out today from NPD. 

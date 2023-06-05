@@ -11,7 +11,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Late last week, the wires were buzzing over news that the official site of PHP-Nuke _“**Professional Content Management System**“_ was serving malware. I am frankly amazed to see the site still infected 4 days later.

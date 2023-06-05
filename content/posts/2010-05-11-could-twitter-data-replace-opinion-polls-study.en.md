@@ -9,7 +9,7 @@ tags:
   - study
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![twitter-poll](http://lh4.ggpht.com/_vaUVXcmC3OI/S-nCZNo-jTI/AAAAAAAACMM/zHkWi9clLj4/twitter-poll_thumb%5B1%5D.jpg?imgmax=800 "twitter-poll")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-nCUfUZDsI/AAAAAAAACMI/VjWD-MDv0Z4/s1600-h/twitter-poll%5B3%5D.jpg) A new study from Carnegie Mellon University shows that analyzing data from Twitter yields the same results as conducting a public opinion poll. 

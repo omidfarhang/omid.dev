@@ -12,7 +12,7 @@ tags:
   - Static-X
   - Wayne Static
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![All These Years – Static-X](/images/2020/05/Wayne-Static-1024x683.jpg)

@@ -10,7 +10,7 @@ tags:
   - review
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Resident Evil. Man, those films are terrible.

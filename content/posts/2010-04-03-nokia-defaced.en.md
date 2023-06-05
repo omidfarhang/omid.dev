@@ -9,7 +9,7 @@ tags:
   - alert
   - hack
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I’m almost certain this shouldn’t be on the Nokia.de webspace, lurking under the “online.nokia.de” subdomain:

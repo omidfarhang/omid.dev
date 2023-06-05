@@ -10,7 +10,7 @@ tags:
   - Yahoo
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 A study of web traffic from enterprises in the first quarter of this year has shown that YouTube videos used 10 percent of bandwidth – more than any other site. Facebook traffic used 4.5 percent, Windows update 3.3, Yahoo!’s image server Yimg 2.7 and Google searches 2.5 percent.

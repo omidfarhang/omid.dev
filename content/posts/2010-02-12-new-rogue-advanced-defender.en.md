@@ -9,7 +9,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Advanced Defender is fake security software that tricks people into thinking it's legitimate antispyware software in hopes they will pay for the product.

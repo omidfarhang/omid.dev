@@ -12,7 +12,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh4.ggpht.com/-jf_RJKSlvmw/ULfDIl4eitI/AAAAAAAAHoY/ok_C5icwWyQ/s1600-h/new-chrome-logo%25255B2%25255D.png" target="_blank"><img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh6.ggpht.com/-JukPshaZbqU/ULfDLTK54XI/AAAAAAAAHog/ZK1LjYQppaQ/new-chrome-logo_thumb.png?imgmax=800" width="128" height="125" /></a>h-online: Google has updated the Stable, Beta and Developer Channels of the desktop version of its Chrome browser with a number of bug fixes and improvements. The Stable Channel update closes seven security vulnerabilities, three of them rated High, and includes bug fixes. New stable Chrome versions for iOS and Android have also been released and include minor improvements. The iOS version of the browser now supports Apple's Passbook application. 

@@ -10,7 +10,7 @@ tags:
   - Hardware
   - Logitech
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="google-tv_0" border="0" alt="google-tv_0" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TRi7aqZyfTI/AAAAAAAADiY/7EZ9K_Y-_9c/google-tv_0_thumb%5B2%5D.jpg?imgmax=800" width="254" height="144" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TRi7ZaQYjBI/AAAAAAAADiU/unufIcxHSaQ/s1600-h/google-tv_0%5B4%5D.jpg)Google really isn't happy with its TV operating system. In addition to telling companies not to mention their Google TV products at CES next month, now it looks like the search company is actively stopping production on a device that's already been released.

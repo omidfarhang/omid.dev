@@ -10,7 +10,7 @@ tags:
   - report
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 That's possibly the most unlikely headline I've ever had to write in my computer security career, but never mind..

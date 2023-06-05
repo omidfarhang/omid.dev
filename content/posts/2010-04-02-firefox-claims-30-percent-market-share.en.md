@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Mozilla.org has made public a report that says its Firefox browser has 30 percent market share worldwide. Assuming it’s true, that is a six percent increase since a [news story last November.](http://news.zdnet.co.uk/security/0,1000000189,39897339,00.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+zdnetuk%2Ftoolkits%2Fsme+%28ZDNet+UK+SME+Toolkit%29)  

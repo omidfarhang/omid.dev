@@ -7,7 +7,7 @@ url: 2012/11/24/my-life-in-music-hushabye/
 tags:
   - Music Life
 lang: en
-category: 
+categories: 
   - blog
 ---
 This is how I go to bed, dreaming before I sleep.

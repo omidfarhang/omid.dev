@@ -11,7 +11,7 @@ tags:
   - Nintendo
   - Wii
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s400/ando-kensaku-640.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s1600-h/ando-kensaku-640.jpg)

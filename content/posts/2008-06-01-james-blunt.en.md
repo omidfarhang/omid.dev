@@ -10,7 +10,7 @@ tags:
   - James Blunt
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 [![james_blunt1](/images/2008/06/james_blunt1.jpg)](/images/2008/06/james_blunt1.jpg)

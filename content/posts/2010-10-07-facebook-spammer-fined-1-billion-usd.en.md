@@ -11,7 +11,7 @@ tags:
   - report
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **How does one say in French: “We're gonna make an example out of you, boy”**

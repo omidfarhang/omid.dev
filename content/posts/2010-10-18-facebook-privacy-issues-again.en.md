@@ -12,7 +12,7 @@ tags:
   - social networking
   - solution
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="facebook(low)" border="0" alt="facebook(low)" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TLzIDUwCb1I/AAAAAAAACuc/mVUA_l9tg6o/facebook%28low%29_thumb.jpg?imgmax=800" width="154" height="47" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TLzIBWRPOUI/AAAAAAAACuY/Vk1RXCCWGfE/s1600-h/facebook%28low%29%5B2%5D.jpg)Media report about a new privacy leak on Facebook which has been found just recently. It is possible to find out with which persons someone is in contact with – therefore one just has to create a fake account using a known email address of the person to spy upon. Facebook doesn’t verify whether the address is real so the new account can already be used. Up to 20 contacts are visible according to the reports.

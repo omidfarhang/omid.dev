@@ -10,7 +10,7 @@ tags:
   - Infected Mushroom
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![infected07_03](/images/2008/04/infected07_03-300x225.jpg)

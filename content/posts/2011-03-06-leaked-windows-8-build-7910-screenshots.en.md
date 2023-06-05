@@ -11,7 +11,7 @@ tags:
   - Windows
   - Windows 8
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [TechSpot](http://www.techspot.com/) Wrote: A few new Windows 8 user interface screenshots have leaked. Windows 8 build 7910 is part of the Milestone 2 branch, so we're not seeing the latest, but it is rather interesting that it took just eight minutes to install, approximately 2.5 times faster than Windows 7. You have to thank the Chinese website [Win7China](http://www.win7china.com/html/12933.html) for offering a glimpse into the future even though the leaks did include several wallpapers with a “ssh…let's not leak our hard work” message. 

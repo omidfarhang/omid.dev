@@ -9,7 +9,7 @@ tags:
   - Mobile
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6eZdvJHcpI/AAAAAAAABWg/hte24M_i8pI/s400/merogo1.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6eZdvJHcpI/AAAAAAAABWg/hte24M_i8pI/s1600-h/merogo1.png)

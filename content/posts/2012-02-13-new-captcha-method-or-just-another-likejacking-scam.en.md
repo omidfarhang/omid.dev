@@ -12,7 +12,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Sorin Mustaca wrote at Avira TechBlog: 

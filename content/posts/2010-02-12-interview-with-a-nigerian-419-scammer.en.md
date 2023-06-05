@@ -11,7 +11,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Bruce Schneier, in his blog Schneier on Security[ http://www.schneier.com/](http://www.schneier.com/) drew attention to this great interview with an ex-Nigerian-419 scammer on the [Scam-Detective site.](http://www.scam-detectives.co.uk/blog/2010/01/22/interview-with-a-scammer-part-one/)

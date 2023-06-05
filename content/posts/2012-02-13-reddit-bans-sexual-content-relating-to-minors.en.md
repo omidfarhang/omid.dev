@@ -9,7 +9,7 @@ tags:
   - Reddit
   - Sex
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="Reddit-Image1-275x204" border="0" alt="Reddit-Image1-275x204" align="right" src="http://lh5.ggpht.com/-Nwam7e-WsoQ/Tzk3GGTXCeI/AAAAAAAAEvg/KK_ZAiDnvu4/Reddit-Image1-275x204_thumb.jpg?imgmax=800" width="244" height="182" />](http://lh4.ggpht.com/-Y-ovaw-WtAI/Tzk3C5z3FdI/AAAAAAAAEvY/cz4MEDKeTXA/s1600-h/Reddit-Image1-275x204%25255B2%25255D.jpg)Mashable:** Reddit, known for its freewheeling approach to content management, instituted a new rule over the weekend that banned suggestive or sexual content featuring minors. 

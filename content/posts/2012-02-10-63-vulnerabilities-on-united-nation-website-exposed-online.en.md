@@ -9,7 +9,7 @@ tags:
   - report
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="united-nations-flag" border="0" alt="united-nations-flag" align="right" src="http://lh6.ggpht.com/-KS_DVysLDzA/TzUJcv5CgEI/AAAAAAAAEoc/IwtU3GuStLg/united-nations-flag_thumb%25255B1%25255D.gif?imgmax=800" width="240" height="163" />](http://lh3.ggpht.com/-KDug39EvVkE/TzUJaeA0udI/AAAAAAAAEoU/02JfpGZQtwc/s1600-h/united-nations-flag%25255B3%25255D.gif)The Hacker News:** Latest Notification in **The Hacker News** Vault by a Hacker named “**Xenu (Casi)**” from **r00tw0rm** Team that There are **63 Blind SQL injection Vulnerabilities** exist on United Nation's Website (www.un.org). Blind SQL injection is identical to normal SQL Injection except that when an attacker attempts to exploit an application rather then getting a useful error message they get a generic page specified by the developer instead. This makes exploiting a potential SQL Injection attack more difficult but not impossible. An attacker can still steal data by asking a series of True and False questions through sql statements. 

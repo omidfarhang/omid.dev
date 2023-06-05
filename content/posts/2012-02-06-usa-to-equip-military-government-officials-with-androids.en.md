@@ -12,7 +12,7 @@ tags:
   - news
   - Smartphone
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="android_logo_military_170" border="0" alt="android_logo_military_170" align="right" src="http://lh6.ggpht.com/-YvT5fx0MdPs/TzAJTdJ4YoI/AAAAAAAAEgQ/b2HJPJf78BY/android_logo_military_170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="170" />](http://lh3.ggpht.com/-mhH0MyW3Q1s/TzAIzd6VqEI/AAAAAAAAEgI/LrMDfZubthA/s1600-h/android_logo_military_170%25255B3%25255D.jpg)SophosLabs:** The United States, which currently forbids government workers or soldiers to use smartphones to send classified messages, is preparing a modified version of Google's Android operating system that will meet its security certifications. 

@@ -9,7 +9,7 @@ tags:
   - review
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Sources on a number of forums tell me that a certain application is going to be released into the wild in a few days, promoted heavily via sites such as Youtube to attract as many potential victims as possible. I thought it might be beneficial to get a head start on the bad guys and get word out before they hit their big green “Go” switch.

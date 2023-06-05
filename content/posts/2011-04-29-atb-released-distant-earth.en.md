@@ -9,7 +9,7 @@ tags:
   - atb
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 **“Distant Earth”** is ATB's 9th studio album, which was released on the 29th of April 2011, by Kontor Records. It features 2 CDs in the standard edition, 3 CDs in the limited edition, and 3 CDs + 5 ATB signed postcards + ATB bracelet in the FanBox Limited Edition (which can be ordered on Amazon and it is limited to 2000 copies). Also, there is another 2 CD digipack version that comes with an ATB sticker and it's available only in Germany.

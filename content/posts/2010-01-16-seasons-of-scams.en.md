@@ -8,7 +8,7 @@ tags:
   - alert
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 With the holiday season behind us, cyber scammers and spammers will now be looking towards the upcoming events and worldwide happenings that they can leverage to form the next waves of online trickery. The noteworthy ones on the horizon include Valentine’s Day, tax-filing season, and the FIFA World Cup – all of which will, in all likelihood, produce their own variety of social engineering techniques, online fraud, malware, fake websites, phishing, and spam.

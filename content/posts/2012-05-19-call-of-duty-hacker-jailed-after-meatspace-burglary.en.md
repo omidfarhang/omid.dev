@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://www.theregister.co.uk/" target="_blank">theregister.co.uk</a> wrote: 

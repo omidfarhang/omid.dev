@@ -8,7 +8,7 @@ tags:
   - alert
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Tanya has just [posted](http://www.securelist.com/ru/weblog/32362/Molchanie_zoloto) over on [Kaspersky Russian site](http://www.securelist.ru/) about losses caused by Internet fraudsters in England and Wales. If you want to practice your Russian, hop over there, and take a look!

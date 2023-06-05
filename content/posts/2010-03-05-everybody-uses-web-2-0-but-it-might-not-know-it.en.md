@@ -9,7 +9,7 @@ tags:
   - report
   - Skype
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Communications security firm FaceTime of Belmont, Calif., has released the results of a survey (of 1654 people) that strongly indicates we are all using a lot of Web 2.0 applications at work and a third of our IT staffs aren’t aware of it. It was FaceTime’s fifth annual survey.  

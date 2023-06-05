@@ -7,7 +7,7 @@ url: 2012/05/24/sometimes-hate-is-not-enough/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 I don’t know where to begin, Let’s get help from my friends and start by answering them.

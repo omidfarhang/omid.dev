@@ -9,7 +9,7 @@ tags:
   - Updates
   - WordPress
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh3.ggpht.com/-SDHCMFQmafQ/T-4BsKNoSGI/AAAAAAAAGZI/4xH0Efd3_OA/s1600-h/WordPress%25255B2%25255D.png" target="_blank"><img title="WordPress" border="0" alt="WordPress" align="right" src="http://lh6.ggpht.com/-_t-FoAklhV4/T-4Bt9lQFTI/AAAAAAAAGZQ/X6oc-CyVH8Q/WordPress_thumb.png?imgmax=800" width="200" height="45" /></a>The [WordPress](http://wordpress.org/) developers have [released](http://wordpress.org/news/2012/06/wordpress-3-4-1/) version 3.4.1 of their popular open source publishing platform, fixing a number of bugs and closing security holes, one of which is rated as important. WordPress 3.4, which has already been downloaded 3 million times since being released two weeks ago, contains a important privilege escalation flaw that accidentally allowed all administrators and editors on multi-site installations to use [unfiltered_html](http://codex.wordpress.org/Roles_and_Capabilities#unfiltered_html). This could have been exploited by users for cross-site scripting (XSS) attacks by, for example, publishing posts containing malicious code. 

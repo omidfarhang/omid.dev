@@ -10,7 +10,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="realplayer" border="0" alt="realplayer" align="right" src="http://lh6.ggpht.com/-cMrKB5jN4jY/TzEp37P1-8I/AAAAAAAAEiA/JWUTCNdG9j4/realplayer_thumb%25255B1%25255D.png?imgmax=800" width="240" height="240" />](http://lh3.ggpht.com/-AacTz9ZEpxg/TzEpymDb0fI/AAAAAAAAEh4/BEZHmoN5uL8/s1600-h/realplayer%25255B3%25255D.png)The H-Online:** [RealNetworks](http://www.realnetworks.com/) has [released](http://service.real.com/realplayer/security/02062012_player/en/) an update to [RealPlayer](http://www.real.com/realplayer) to close a number of holes in its media player application. Version 15.02.71 of RealPlayer addresses a total of seven remote code execution vulnerabilities, rated as [highly critical](http://secunia.com/advisories/47896/) by Secunia, which could be exploited by an attacker to compromise a victim's system. 

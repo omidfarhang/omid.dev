@@ -6,7 +6,7 @@ author_profile: true
 url: '2012/08/20/بلاگ-amd-هک-شد،-اطلاعات-کاربران-در-اینترن'
 shortlink: https://g.omid.dev/1QocMQv
 lang: fa
-category: 
+categories: 
   - techblog
 ---
 ![](/images/2012/08/ver1_600w4.jpg)

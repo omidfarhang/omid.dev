@@ -9,7 +9,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Gmail_logo" border="0" alt="Gmail_logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP35r8SA4dI/AAAAAAAADY0/f7YpJv13L9M/Gmail_logo_thumb.png?imgmax=800" width="143" height="59" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP35p9gO02I/AAAAAAAADYw/FUJAjVVAncU/s1600-h/Gmail_logo%5B2%5D.png)Google has upgraded its Priority Inbox, a recently launched Gmail feature that automatically places important mail on top of your inbox, with a couple of improvements based on user feedback.

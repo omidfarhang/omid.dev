@@ -10,7 +10,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Ben Edelman, Harvard privacy researcher and guru has revisited the features of Google Toolbar and was appalled to discover that disabling it doesn’t really disable it. He is recommending that all users uninstall it.

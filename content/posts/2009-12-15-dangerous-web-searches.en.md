@@ -11,7 +11,7 @@ tags:
   - phishing
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Don’t go there. There are a lot of rogue downloaders hiding in those links.

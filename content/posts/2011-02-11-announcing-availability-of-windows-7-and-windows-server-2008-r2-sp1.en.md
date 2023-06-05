@@ -11,7 +11,7 @@ tags:
   - Windows 7
   - windows Server
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [http://windowsteamblog.com](http://windowsteamblog.com/): Today we officially handed off the final release (RTM) of Windows 7 and Windows Server 2008 R2 Service Pack 1 (SP1) to our OEM partners. On February 16th Windows 7 and Windows Server 2008 R2 SP1 will be available for MSDN and TechNet Subscribers as well as Volume License customers. On February 22nd, Windows 7 and Windows Server 2008 R2 SP1 will become generally available for folks to download via the Microsoft Download Center and available on Windows Update.

@@ -10,7 +10,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **The number for the rest of the world might be 26 percent**

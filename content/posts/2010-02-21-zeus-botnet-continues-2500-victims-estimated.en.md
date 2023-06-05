@@ -10,7 +10,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Herndon, Va., forensics firm NetWitness has said that the Zeus botnet has breached the networks of nearly 2,500 organizations in nearly 200 countries, including 10 U.S. federal agencies. NetWitness researchers said many victims are Fortune 500 companies in energy, finance and high tech sectors.

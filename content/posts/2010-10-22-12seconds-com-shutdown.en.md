@@ -8,7 +8,7 @@ tags:
   - alert
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Last mail I got from 12Seconds.com:

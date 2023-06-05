@@ -11,7 +11,7 @@ tags:
   - Windows
   - windows Mobile
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="windows-phone-71" border="0" alt="windows-phone-71" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP7HYCYv3WI/AAAAAAAADc8/hiBdUEAvazo/windows-phone-71_thumb%5B1%5D.jpg?imgmax=800" width="150" height="150" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TP7HWOb35fI/AAAAAAAADc4/Z84DUUClHEY/s1600-h/windows-phone-71%5B3%5D.jpg)Mashable:** Windows Phone 7 has been on the market for a little more than a month, but the company still isn’t disclosing how many devices featuring its revamped mobile OS have been sold. 

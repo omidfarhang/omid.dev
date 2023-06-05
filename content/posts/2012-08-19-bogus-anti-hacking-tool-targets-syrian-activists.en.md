@@ -10,7 +10,7 @@ tags:
   - malware
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh3.ggpht.com/--Ib-1XvHins/UDCkRRX5xpI/AAAAAAAAG_0/tqI4jgZbpD8/s1600-h/Facebook_Anti-Hacker_screenshot%25255B10%25255D.png" target="_blank"><img title="At one point, the AntiHacker malware even had its own Facebook group - now offline" border="0" alt="At one point, the AntiHacker malware even had its own Facebook group - now offline" align="right" src="http://lh6.ggpht.com/-fUWhv-ikqPc/UDCkT6sueiI/AAAAAAAAG_8/XTy7ihrtcmA/Facebook_Anti-Hacker_screenshot_thumb%25255B8%25255D.png?imgmax=800" width="244" height="219" /></a>h-online: Syrian activists, journalists and opposition group members are [reportedly](https://www.eff.org/deeplinks/2012/08/syrian-malware-post) under attack by malware claiming to be a security tool that will help protect them against hackers. The fake “AntiHacker” tool is being spread through targeted phishing emails and via sites such as Facebook, and claims to provide “Auto-Protect & Auto-Detect & Security & Quick scan and analyzing” functionality. 

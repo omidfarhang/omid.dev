@@ -11,7 +11,7 @@ tags:
   - iphone
   - Netflix
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![Netflix-dvd-200](http://lh4.ggpht.com/_vaUVXcmC3OI/S7-e47Y9e1I/AAAAAAAAB3o/7mPVHuSJ5yE/Netflix-dvd-1_thumb%5B2%5D.jpg?imgmax=800 "Netflix-dvd-200")](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-e20SOkqI/AAAAAAAAB3k/RLtNQGEIU8c/s1600-h/Netflix-dvd-1%5B4%5D.jpg) The new release rental is officially dead. As expected, Netflix has signed new deals with [Twentieth Century Fox](http://netflix.mediaroom.com/index.php?s=43&item=353) and [Universal Studios Home Entertainment](http://netflix.mediaroom.com/index.php?s=43&item=352) — similar to its deal with Warner Bros. — that delay new release rentals by 28 days and add new titles to its streaming collection. 

@@ -11,7 +11,7 @@ tags:
   - facebook phishing
   - phishing
 lang: en
-category: 
+categories: 
   - techblog
 ---
 One of the most common scenarios we observe on a daily basis are users coaxed into phishing campaigns and malicious applications on Facebook.  As we interact with our friends and family on social networks, we tend to trust of any and all of the information that appears to be from our “trusted network.”  However, Facebook is one of the most trolled social networks by cyber criminals.  They are waiting for you to make a mistake and once you make it, they will be sure to hack you and exploit your friends trust through your newly hacked account.

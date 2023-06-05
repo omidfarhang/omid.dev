@@ -9,7 +9,7 @@ tags:
   - report
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="predator" border="0" alt="predator" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMBAdpaXS8I/AAAAAAAAC0A/Ku9cLQDIkpE/predator%5B4%5D.jpg?imgmax=800" width="304" height="192" />This](http://www.fastcompany.com/1695219/cia-predator-drones-facing-ip-lawsuit) isn't good:

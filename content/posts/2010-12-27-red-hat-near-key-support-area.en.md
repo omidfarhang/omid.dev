@@ -8,7 +8,7 @@ tags:
   - business
   - RedHat
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Red-Hat" border="0" alt="Red-Hat" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TRjEN6M7SvI/AAAAAAAADio/JhU8bw8Cfjs/Red-Hat_thumb%5B2%5D.jpg?imgmax=800" width="148" height="162" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TRjEMKQ4rbI/AAAAAAAADik/9_n-CCIxk8M/s1600-h/Red-Hat%5B4%5D.jpg)New York, December 27th (TradersHuddle.com) – Shares of Red Hat, Inc. (NYSE:RHT) are trading very close to calculated support at $45.27 with current price action closing at just $46.51 places the stock price near levels where traders will start paying attention.

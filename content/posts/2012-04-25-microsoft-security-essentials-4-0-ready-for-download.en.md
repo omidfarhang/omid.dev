@@ -10,7 +10,7 @@ tags:
   - security essnetials
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://news.cnet.com/8301-10805_3-57420512-75/microsoft-security-essentials-4.0-ready-for-download/" target="_blank"><img title="Microsoft_Security_Essentials_icon" border="0" alt="Microsoft_Security_Essentials_icon" align="right" src="http://lh4.ggpht.com/-JPviJ_Oj89E/T5e78q266FI/AAAAAAAAFqA/8fn_RNydudk/Microsoft_Security_Essentials_icon%25255B3%25255D.png?imgmax=800" width="240" height="240" />Cnet</a>: Microsoft today made available for download a new release of its free anti-virus/anti-malware program for Windows PCs, Microsoft Security Essentials (MSE). 

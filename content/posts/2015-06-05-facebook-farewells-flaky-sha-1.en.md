@@ -11,7 +11,7 @@ tags:
   - SSL
   - Update
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![Facebook](/images/2013/05/Facebook-150x150.png)

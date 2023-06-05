@@ -11,7 +11,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh4.ggpht.com/-DYC2GnWOiLA/T7UPhTnZ6ZI/AAAAAAAAGAQ/fODRobza5MQ/new-chrome-logo_thumb.png?imgmax=800" width="128" height="125" />](http://lh5.ggpht.com/-P3oogfN-m3Q/T7UPfHlj5HI/AAAAAAAAGAI/0-nd-5EAC5E/s1600-h/new-chrome-logo%25255B2%25255D.png)The H-Online: Google has [announced](http://chrome.blogspot.co.uk/2012/05/keeping-tabs-on-your-tabs.html) that Chrome 19 is the new stable version of its open source based web browser. As usual, the browser sees a number of [security fixes](http://googlechromereleases.blogspot.co.uk/2012/05/stable-channel-update.html): this time there are seven high-severity fixes specifically for Chrome including various use-after-free and out-of-bounds errors. Two fixes with a wider impact than Chrome are also mentioned – a workaround for a Linux NVIDIA driver bug and an “off-by-one out-of-bounds” write in libxml. In all, $7500 was paid out in rewards to security researchers, and Google notes it has also paid out $9000 to researchers to stamp out bugs before they reached its stable channel. 

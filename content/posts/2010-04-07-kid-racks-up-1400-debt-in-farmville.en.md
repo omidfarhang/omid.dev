@@ -17,7 +17,7 @@ tags:
   - virtual goods
   - Zynga
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70NUpPjbvI/AAAAAAAAB1A/KexGRVOyY9c/s1600/farmville260.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70NUpPjbvI/AAAAAAAAB1A/KexGRVOyY9c/s1600-h/farmville260.jpg)

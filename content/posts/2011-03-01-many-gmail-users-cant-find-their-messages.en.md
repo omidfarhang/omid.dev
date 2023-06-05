@@ -9,7 +9,7 @@ tags:
   - Google
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Imagine loading Gmail and noticing that all your messages have been deleted. This is [a real problem for many Gmail users](http://www.google.com/support/forum/p/gmail/thread?tid=3064c61f77cd0f46&hl=en) who thought that they lost all of their messages. Here's one of the many reports from [Gmail's forum](http://www.google.com/support/forum/p/gmail/thread?tid=3064c61f77cd0f46&hl=en):

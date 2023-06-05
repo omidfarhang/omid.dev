@@ -12,7 +12,7 @@ tags:
   - linux
   - botnet
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft researchers found a cross-platform botnet that originates from malicious software downloads on Windows devices & succeeds in propagating to a variety of Linux-based devices by enumerating default credentials on internet-exposed SSH-enabled devices.

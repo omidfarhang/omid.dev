@@ -8,7 +8,7 @@ image: /images/sites/2/2012/08/Neil_Armstrong_pose.jpg
 tags:
   - events
 lang: en
-category: 
+categories: 
   - blog
 ---
 [![Neil_Armstrong_pose](/images/2012/08/Neil_Armstrong_pose-804x1024.jpg)](/images/2012/08/Neil_Armstrong_pose.jpg)

@@ -9,7 +9,7 @@ tags:
   - Updates
   - Valentine
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Valentines Day is coming and people are getting ready with preparation and plans to gift some thing different to their loved ones. In this race how can Windows stay behind? So it has released an **official Valentine theme** to change you desktop to a festive mood. Here is a screen shot of this theme.

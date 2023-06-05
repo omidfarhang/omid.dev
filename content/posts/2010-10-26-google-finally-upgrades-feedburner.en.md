@@ -9,7 +9,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="rss" border="0" alt="rss" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMbvlGqG9JI/AAAAAAAAC7A/pnnEAR-jNHk/rss_thumb%5B1%5D.jpg?imgmax=800" width="260" height="190" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMbvjBoam5I/AAAAAAAAC68/Gi9tnNxsmyE/s1600-h/rss%5B4%5D.jpg)Believe it or not, Google hasn’t forgotten about Feedburner. The RSS feed service has received an experimental new interface that better matches Google Analytics and looks like it might actually integrate into other Google AdSense and Webmaster tools. 

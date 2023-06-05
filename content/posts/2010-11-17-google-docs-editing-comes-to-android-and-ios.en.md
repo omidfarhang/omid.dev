@@ -11,7 +11,7 @@ tags:
   - iOS
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Native Google Docs support has finally arrived for Android and iOS (the mobile version of Google Docs has been available for over three years). Edits show up in near real-time (so they aren't completely seamless) and Android even lets you insert text using voice recognition.  

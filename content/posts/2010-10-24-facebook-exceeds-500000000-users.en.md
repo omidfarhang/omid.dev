@@ -10,7 +10,7 @@ tags:
   - report
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMSvDpO7fgI/AAAAAAAAC5Y/_oEPajPOLxY/facebook%28low%29_thumb.jpg?imgmax=800" width="154" height="47" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMSvAfFhnNI/AAAAAAAAC5U/7_d99t8LCdU/s1600-h/facebook%28low%29%5B2%5D.jpg)Last night Facebook announced that it had over 500 000 000 users.

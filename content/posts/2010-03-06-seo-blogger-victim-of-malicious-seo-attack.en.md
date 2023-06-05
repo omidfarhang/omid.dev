@@ -9,7 +9,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 On Friday evening I was talking to a North American customer who had been fighting with infections caused by SEO poisoning. They mentioned a particular search term that could generate new samples of FakeAVs. The funny thing was that the website hacked by the SEO poisoner was a blog of someone trying to promote legitimate business use of SEO technologies..

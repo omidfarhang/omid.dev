@@ -10,7 +10,7 @@ tags:
   - awards
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/-qbqTu8XbLI0/Ta7HGt9fl5I/AAAAAAAAD2g/E2vTQHwbqPk/s1600/2011-04-VB-100-scaled.jpg)](http://3.bp.blogspot.com/-qbqTu8XbLI0/Ta7HGt9fl5I/AAAAAAAAD2g/E2vTQHwbqPk/s1600/2011-04-VB-100-scaled.jpg)

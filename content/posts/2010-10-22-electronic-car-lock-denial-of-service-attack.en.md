@@ -8,7 +8,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [Clever](http://www.theregister.co.uk/2010/09/21/car_jammer_vehicle_theft_scam/):

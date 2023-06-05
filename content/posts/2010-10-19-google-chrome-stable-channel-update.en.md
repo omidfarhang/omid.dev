@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![google-chrome-logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TL4QuQEHAfI/AAAAAAAACxo/0_gQOE3QG_g/google-chrome-logo_thumb%5B1%5D.png?imgmax=800 "google-chrome-logo")](http://lh4.ggpht.com/_vaUVXcmC3OI/TL4QqQdg2rI/AAAAAAAACxk/AT65YzgFLqY/s1600-h/google-chrome-logo%5B3%5D.png)Google Chrome 7.0.517.41 has been released to the stable and beta channels for Windows, Mac, and Linux.  Updates from the previous stable release include:

@@ -12,7 +12,7 @@ tags:
   - trojan
   - VirusTotal
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="ISSNIP-2cc2f9030a6a5034" border="0" alt="ISSNIP-2cc2f9030a6a5034" align="right" src="http://lh6.ggpht.com/-9qBDYBZmsdA/Tyvj61rvRJI/AAAAAAAAEdo/Q27nI3-TZeU/ISSNIP-2cc2f9030a6a5034_thumb.png?imgmax=800" width="175" height="244" />](http://lh6.ggpht.com/-Fs3dVEQ-l8Y/TyvjLvSM_GI/AAAAAAAAEdg/RNQKL1AtxLk/s1600-h/ISSNIP-2cc2f9030a6a50342.png)The H-Security:** Unknown attackers have tried to use an invitation to a prestigious conference to inject a Trojan into companies in the defense sector. The security firms [Seculert and Zscaler](http://blog.seculert.com/2012/01/msupdater-trojan-and-conference-invite.html) report that opening an attached PDF flyer caused recipients' computers to be infected with spyware via a previously undisclosed hole in Acrobat Reader. 

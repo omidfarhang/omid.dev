@@ -10,7 +10,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Representatives of computer companies and governments meeting at the EastWest Institute security meeting in Brussels said that an industry culture of obscure jargon is preventing the world’s two billion Internet users from putting security measures in place to protect themselves.

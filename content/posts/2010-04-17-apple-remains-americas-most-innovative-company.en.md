@@ -12,7 +12,7 @@ tags:
   - ipad
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![apple-campus-cw](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oRpF6ZAoI/AAAAAAAACAI/nFJag_D2hV0/apple-campus-cw%5B3%5D.jpg?imgmax=800 "apple-campus-cw") BusinessWeek](http://www.businessweek.com/magazine/content/10_17/b4175034779697.htm) and [Fortune](http://money.cnn.com/magazines/fortune/fortune500/2010/full_list/) have both released their annual rankings — the 50 Most Innovative Companies and the Fortune 500, respectively — and Apple has strong showings in both publications. 

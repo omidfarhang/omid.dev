@@ -9,7 +9,7 @@ tags:
   - report
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Twitter has seen a phenomenal amount of growth in the past year. In fact, the company claims more than 100 million new accounts were opened in 2010. 

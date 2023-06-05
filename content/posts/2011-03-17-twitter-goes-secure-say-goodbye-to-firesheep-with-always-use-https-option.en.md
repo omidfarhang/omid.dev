@@ -8,7 +8,7 @@ tags:
   - security
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="twitter_logo_header" border="0" alt="twitter_logo_header" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TYKEBEiuLmI/AAAAAAAADu0/GNZg8TLRttY/twitter_logo_header_thumb%5B2%5D.png?imgmax=800" width="155" height="36" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYKD8UdLAnI/AAAAAAAADuw/oKZ76FR9okY/s1600-h/twitter_logo_header%5B4%5D.png)Sophos Labs:** Good news on the social networking security front is that Twitter has finally got its act together to offer an **Always use HTTPS** option.

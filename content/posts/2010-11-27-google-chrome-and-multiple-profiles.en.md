@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - Tricks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Google Chrome has always supported multiple profiles, but you had to use a command-line flag (–user-data-dir=”c:\path\to\the\profile”) to associate a profile with a folder where the browser will save its state.  

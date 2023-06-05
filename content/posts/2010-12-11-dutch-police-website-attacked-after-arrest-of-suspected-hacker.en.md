@@ -10,7 +10,7 @@ tags:
   - report
   - WikiLeaks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="dutch-policeman" border="0" alt="dutch-policeman" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQK4XxGMOKI/AAAAAAAADfM/t_3A0lSrUAo/dutch-policeman_thumb%5B1%5D.jpg?imgmax=800" width="174" height="174" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TQK4U72sFbI/AAAAAAAADfI/hRXo8GFu1Gg/s1600-h/dutch-policeman%5B3%5D.jpg)Just a day after Dutch police arrested a 16-year-old boy in connection with WikiLeaks-related denial-of-service attacks, websites belonging to the Netherlands computer crime cops and prosecutors have been struck with a similar assault.

@@ -11,7 +11,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 A friend of mine forwarded a suspicious email message recently. I’ve replaced the domain, order number, etc. below:

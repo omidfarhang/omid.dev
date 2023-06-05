@@ -9,7 +9,7 @@ tags:
   - news
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Google Inc., owner of YouTube, said an outage of the popular video-sharing site Thursday was technical and not caused by outside tampering.

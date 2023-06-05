@@ -9,7 +9,7 @@ tags:
   - flash player
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg)](http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg)

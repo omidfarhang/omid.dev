@@ -9,7 +9,7 @@ tags:
   - report
   - SME
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Paul Mah, on the ITBusiness Edge blog, reported on GFI’s September survey of web filtering practices in small and medium businesses and got some interesting feedback from readers.

@@ -11,7 +11,7 @@ tags:
   - Music
   - Tarja Turunen
 lang: en
-category: 
+categories: 
   - entblog
 ---
 The “Victim Of Ritual” music video from the new album “[Colours In The Dark](/2013/05/09/tarja-turunens-new-album-colours-in-the-dark/ "Tarja Turunen’s new album “Colours In The Dark”")” by [Tarja Turunen](/entertainment/artists/tarja-turunen/ "Tarja Turunen") is now visible worldwide

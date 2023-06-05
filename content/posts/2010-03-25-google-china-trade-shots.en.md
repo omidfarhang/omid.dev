@@ -8,7 +8,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Google and the Chinese government are continuing to trade shots in the PR battle over net censorship. Earlier in the week, Google moved its Chinese search facility to Hong Kong where it claims it is legal under Chinese law to provide searches without censoring results.

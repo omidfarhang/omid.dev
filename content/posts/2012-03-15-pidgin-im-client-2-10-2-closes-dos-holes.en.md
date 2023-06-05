@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="pidgin_logo200" border="0" alt="pidgin_logo200" align="right" src="http://lh3.ggpht.com/-5c4OwKVk6VM/T2JPFLrUE_I/AAAAAAAAFLE/oj96farkQS4/pidgin_logo200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="92" />](http://lh4.ggpht.com/-icxB_nzfGWo/T2JPAe00III/AAAAAAAAFK8/J2efVwuok8Q/s1600-h/pidgin_logo200%25255B3%25255D.png)The H-Online: Version 2.10.2 of the open source [Pidgin](http://pidgin.im/) instant messaging program has been released. According to its developers, the maintenance and security update brings a number of changes and addresses two denial-of-service (DoS) vulnerabilities that could be exploited by an attacker to cause the application to be terminated. 

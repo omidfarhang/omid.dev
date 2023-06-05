@@ -10,7 +10,7 @@ tags:
   - report
   - Xmarks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="xmarks-alive-225" border="0" alt="xmarks-alive-225" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNVx_kbyrKI/AAAAAAAADFE/AICyULt0XJg/xmarks-alive-225_thumb%5B1%5D.jpg?imgmax=800" width="225" height="225" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TNVx7kXn29I/AAAAAAAADE8/Q-R2EygAgXk/s1600-h/xmarks-alive-225%5B3%5D.jpg)**Mashable**: It looks like cross-browser, bookmark syncing service Xmarks won’t be going out of business after all. 

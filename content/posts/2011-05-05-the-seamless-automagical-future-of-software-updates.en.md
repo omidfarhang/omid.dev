@@ -12,7 +12,7 @@ tags:
   - rumor
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/-VSjPNaJp-0M/TcL2bexdLrI/AAAAAAAAD3Q/5pZ-sxDwQfs/s400/apple-update.jpg)](http://2.bp.blogspot.com/-VSjPNaJp-0M/TcL2bexdLrI/AAAAAAAAD3Q/5pZ-sxDwQfs/s1600/apple-update.jpg)

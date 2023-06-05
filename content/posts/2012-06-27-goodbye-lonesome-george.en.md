@@ -8,7 +8,7 @@ image: /images/sites/2/2012/06/Lonesome-George.jpg
 tags:
   - events
 lang: en
-category: 
+categories: 
   - blog
 ---
 R.I.P. Lonesome George. He was the last of his species.

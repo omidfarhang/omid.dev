@@ -10,7 +10,7 @@ tags:
   - privacy
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Facebook started [rolling out a new home page and navigation menus](http://blog.facebook.com/blog.php?post=287459122130) earlier today.

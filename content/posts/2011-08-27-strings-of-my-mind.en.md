@@ -7,7 +7,7 @@ url: 2011/08/27/strings-of-my-mind/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 _I posted this without spell-check or grammar check, without review etc, just think and write and post:_

@@ -11,7 +11,7 @@ tags:
   - news
   - Web App
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="kindle-web" border="0" alt="kindle-web" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP5MKfqK0gI/AAAAAAAADbE/ZMWXiSkkkIs/kindle-web_thumb%5B1%5D.jpg?imgmax=800" width="229" height="229" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TP5MIIyBnQI/AAAAAAAADbA/-SrgzuY5tNo/s1600-h/kindle-web%5B3%5D.jpg)Mashable:** After launching its own incredibly successful, single-purpose hardware and a slew of free apps for mobile and PC devices, Amazon is getting ready to launch a new web app version of Kindle. 

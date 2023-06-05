@@ -9,7 +9,7 @@ tags:
   - Slayer
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![Jeff Hanneman of Slayer performing at Sonisphere Festival, Knebworth in August 2010.](/images/2013/05/hanneman2.jpg)

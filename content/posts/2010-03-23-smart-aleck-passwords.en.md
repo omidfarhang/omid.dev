@@ -9,7 +9,7 @@ tags:
   - hack
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [Älypää](http://alypaa.com/), a popular Finnish game and quiz site, announced a database breach late last night.

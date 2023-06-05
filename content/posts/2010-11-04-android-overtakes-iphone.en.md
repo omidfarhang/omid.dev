@@ -13,7 +13,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Wall Street Journal**: It looks like Steve Jobs may have something to be nervous about after all.

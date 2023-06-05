@@ -11,7 +11,7 @@ tags:
   - scam
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Do you know what the latest version of Adobe’s Flash Player is? If you don’t, you may very well fall for this:

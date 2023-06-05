@@ -12,7 +12,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh5.ggpht.com/-vYl4yEWgrfI/T__rRbCEeDI/AAAAAAAAGbs/tR0q8JAKK-s/s1600-h/Google_Chrome_Logo%25255B2%25255D.png" target="_blank"><img title="Google_Chrome_Logo" border="0" alt="Google_Chrome_Logo" align="right" src="http://lh6.ggpht.com/-frHagxHHT18/T__rTSxh84I/AAAAAAAAGb0/mwdAifniPHM/Google_Chrome_Logo_thumb.png?imgmax=800" width="120" height="120" /></a>Google has [published a new update](http://googlechromereleases.blogspot.com/2012/07/stable-channel-update.html) to the stable 20.x branch of Chrome to close a number of security holes in the WebKit-based web browser. Version 20.0.1132.57 of Chrome addresses a total of three vulnerabilities, all of which are rated as “high severity” by the company. 

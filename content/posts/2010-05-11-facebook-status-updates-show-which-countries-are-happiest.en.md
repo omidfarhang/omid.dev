@@ -13,7 +13,7 @@ tags:
   - study
   - trending
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![fb-love-top](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mIvSoru3I/AAAAAAAACKA/kmOx2Rc03N8/fb-love-top_thumb%5B2%5D.jpg?imgmax=800 "fb-love-top")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mItSTP6MI/AAAAAAAACJ8/dPA9cHgQPzo/s1600-h/fb-love-top%5B4%5D.jpg) Facebook has extended its “Gross National Happiness” prototype app to 18 new countries. The app analyzes words in status updates like “awesome” or “tragic” to track changes in the collective emotional state of its users. 

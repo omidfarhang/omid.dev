@@ -8,7 +8,7 @@ tags:
   - malware
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 It's just a few more days before Valentine's Day. As most people now are already preparing their celebration, malware authors are also getting ready to use this popular event to target users with their malicious intent.

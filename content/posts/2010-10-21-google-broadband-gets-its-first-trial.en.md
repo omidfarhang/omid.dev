@@ -10,7 +10,7 @@ tags:
   - ISP
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="google-fiber" border="0" alt="google-fiber" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMClqjSOUEI/AAAAAAAAC1Q/XRuy04d3O-w/google-fiber_thumb%5B2%5D.jpg?imgmax=800" width="260" height="190" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMClpNdHfOI/AAAAAAAAC1M/iWMv62xZlJk/s1600-h/google-fiber%5B5%5D.jpg)Google’s ultra high speed fiber network — which the company says can offer speeds of up to 1 gigabit per second — is about to get its first trial outside of the Googleplex. 

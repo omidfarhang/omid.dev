@@ -10,7 +10,7 @@ tags:
   - report
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Researchers at McAfee labs monitor Koobface activities 24/7 via custom honeypots and while reviewing one such update we noticed a variant that had debug/log features. Unlike the traditional captcha breaking technique to create new accounts, this variant of the worm converts the infected machine to a bot.

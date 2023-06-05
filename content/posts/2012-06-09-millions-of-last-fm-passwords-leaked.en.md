@@ -12,7 +12,7 @@ tags:
   - Password
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="lastfm_red" border="0" alt="lastfm_red" align="right" src="http://lh3.ggpht.com/-4kt93gRKGtc/T9M97aFSSOI/AAAAAAAAGNo/zBkY_DrTd58/lastfm_red_thumb.gif?imgmax=800" width="145" height="45" />](http://lh6.ggpht.com/-S3R_neFyA6k/T9M95dipghI/AAAAAAAAGNg/ySAo5xvDO0U/s1600-h/lastfm_red%25255B2%25255D.gif)**The H-Online:** A list with several million passwords belonging to users of the music community site [Last.fm](http://www.last.fm/) has been posted on the internet. The site owners have posted [a statement](http://www.lastfm.de/passwordsecurity) saying that the company is investigating the leak and that all users of the service should change their passwords immediately. This is the third major compromise of a popular web site's passwords in as many days. 

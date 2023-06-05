@@ -9,7 +9,7 @@ tags:
   - Torrent
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![isohunt](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-2GP3j2FI/AAAAAAAAB5A/owg8LzVhfjc/isohunt_thumb%5B2%5D.jpg?imgmax=800 "isohunt")](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-2ELODGNI/AAAAAAAAB48/fx1y7YSQU28/s1600-h/isohunt%5B4%5D.jpg) One week ago, we heard that popular BitTorrent search engine Isohunt had been ordered by a U.S. judge to remove copyright-infringing content from their website. 

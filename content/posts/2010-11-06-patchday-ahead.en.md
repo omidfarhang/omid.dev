@@ -15,7 +15,7 @@ tags:
   - Updates
   - Windows
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![250px-Microsoft_wordmark.svg](http://lh6.ggpht.com/_vaUVXcmC3OI/TNUh4Jes04I/AAAAAAAADC4/EX8cv2mY1EY/250px-Microsoft_wordmark.svg_thumb%5B2%5D.png?imgmax=800 "250px-Microsoft_wordmark.svg")](http://lh4.ggpht.com/_vaUVXcmC3OI/TNUh1gPwhVI/AAAAAAAADC0/AtLbbOUzNsw/s1600-h/250px-Microsoft_wordmark.svg%5B4%5D.png)The Redmond company today published its [announcement](https://www.microsoft.com/technet/security/bulletin/ms10-nov.mspx) for the upcoming November Patch Tuesday. Microsoft wants to release 3 security bulletins which deal with [11 security vulnerabilities](http://blogs.technet.com/b/msrc/archive/2010/11/04/advance-notification-service-for-november-2010-bulletins.aspx) within Office and PowerPoint (up to the brand new Office 2011 for Mac) and Forefront Unified Access Gateway. A patch for the just recently detected [0-day vulnerability](/2010/11/04/workaround-for-vulnerability-affecting-internet-explorer/) in Internet Explorer is not in the list.

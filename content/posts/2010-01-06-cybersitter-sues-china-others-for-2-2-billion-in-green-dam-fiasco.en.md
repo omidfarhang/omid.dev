@@ -8,7 +8,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 California software company Cybersitter LLC, has sued the People’s Republic of China and seven computer manufacturers in U.S. Federal court for stealing 3,000 lines of its Internet filter software code and using it in last year’s Green Dam fiasco in China.

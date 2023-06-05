@@ -12,7 +12,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <img title="Software_Update_Mac_OS_X_Lion" border="0" alt="Software_Update_Mac_OS_X_Lion" align="right" src="http://lh4.ggpht.com/-UUVQZx8Hvys/T4gSnjcVxfI/AAAAAAAAFf0/c_ccMniX2qM/Software_Update_Mac_OS_X_Lion.jpg?imgmax=800" width="234" height="244" />The H-Online: As expected, Apple has [released](http://lists.apple.com/archives/security-announce/2012/Apr/msg00001.html) an updated version of the Java implementation for its Mac OS X operating system that includes a removal tool for the Flashback trojan. According to the company, the update, labelled “[Java for OS X 2012-003](http://support.apple.com/kb/HT5242)“, finds and removes the “most common variants” of the malware which had <a href="/2012/04/russian-av-company-claims-600000-macs.html" target="_blank">infected approximately 600,000 systems</a> using flaws in the previous version of Java. 

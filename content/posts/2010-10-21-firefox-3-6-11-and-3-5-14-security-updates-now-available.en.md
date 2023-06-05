@@ -9,7 +9,7 @@ tags:
   - Mozilla
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <img title="logo-only" border="0" alt="logo-only" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMA0a55EF6I/AAAAAAAACzE/8rq7Y5P5AYk/logo-only%5B4%5D.png?imgmax=800" width="150" height="150" />Firefox 3.6.11 and Firefox 3.5.14 are now available as free downloads for Windows, Mac, and Linux from [http://firefox.com](http://www.firefox.com/). As always, we recommend that users keep up to date with the latest stability and support versions of Firefox, and encourage all our users to upgrade to the very latest version, Firefox 3.6.11. The update fixes 40 security and stability bugs, including 5 critical [security vulnerabilities](http://www.mozilla.org/security/known-vulnerabilities/firefox36.html#firefox3.6.11).

@@ -12,7 +12,7 @@ tags:
   - social media
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![second-life-lawsuit](http://lh6.ggpht.com/_vaUVXcmC3OI/S98apduRDdI/AAAAAAAACDE/M49kS5s72Cc/second-life-lawsuit_thumb%5B1%5D.jpg?imgmax=800 "second-life-lawsuit")](http://lh5.ggpht.com/_vaUVXcmC3OI/S98anLHVQVI/AAAAAAAACDA/OzPhOeySkD8/s1600-h/second-life-lawsuit%5B3%5D.jpg) A group of [Second Life](http://secondlife.com/?v=1.1) users is [suing](http://www.virtuallanddispute.com/) Second Life’s creator over a virtual land dispute. They say their contractual property ownership rights have been changed and that this alteration of the terms of service constitutes fraud and violates California consumer protection laws. 

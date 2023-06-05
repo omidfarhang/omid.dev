@@ -10,7 +10,7 @@ tags:
   - news
   - Search
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Google's Knowledge Graph will display summaries of topics when your query is related to one of the 500 million items in Google's new database of things. 

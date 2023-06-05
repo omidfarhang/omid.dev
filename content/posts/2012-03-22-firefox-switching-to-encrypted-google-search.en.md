@@ -11,7 +11,7 @@ tags:
   - Mozilla
   - SSL
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="logo-wordmark" border="0" alt="logo-wordmark" align="right" src="http://lh5.ggpht.com/-NhBoZaDx_co/T2t-GDRpFLI/AAAAAAAAFSM/6fdcpXvoplU/logo-wordmark_thumb%25255B1%25255D.png?imgmax=800" width="240" height="92" />](http://lh6.ggpht.com/-QGQvrTRY99I/T2t-BR5Z26I/AAAAAAAAFSE/SDGEPsy7f20/s1600-h/logo-wordmark%25255B3%25255D.png)The H-Online: An inconspicuous “s” added to various [​lines](https://hg.mozilla.org/mozilla-central/rev/36fd3090b006) of code in its [latest](http://www.squarefree.com/burningedge/2012/03/18/2012-03-18-trunk-builds/) nightly builds means that future versions of Firefox will send all search queries to Google in encrypted form. This means that instead of HTTP, the open source browser will use the HTTPS protocol, which encrypts traffic between the web site and browser using SSL. The nightly builds will feed through, over the next few months, until the feature is, most probably, in Firefox 14. 

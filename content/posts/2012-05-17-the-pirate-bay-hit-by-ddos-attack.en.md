@@ -8,7 +8,7 @@ tags:
   - attack
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="piratebay" border="0" alt="piratebay" align="right" src="http://lh4.ggpht.com/-WC790H6MDTc/T7UTT9HvofI/AAAAAAAAGBQ/e0PXGB68wz8/piratebay_thumb.jpg?imgmax=800" width="304" height="171" />](http://lh5.ggpht.com/-L2JzaxuJvhU/T7UTRMw3e-I/AAAAAAAAGBI/kbXywxXzkxA/s1600-h/piratebay%25255B2%25255D.jpg)**File-sharing website The Pirate Bay (TPB) has been hit by a Distributed Denial of Service (DDoS) attack.** 

@@ -10,7 +10,7 @@ tags:
   - Mobile
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 You can now access **Google Buzz** from your Android mobiles easily using the official Google Buzz widget, that lets you post text and photos with a single tap.

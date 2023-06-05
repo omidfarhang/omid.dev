@@ -10,7 +10,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Cybercriminals are attacking bloggers who use Google’s Blogger.com. We have received emails intended for bloggers to update their account. Here’s the snapshot email of the email we have received:

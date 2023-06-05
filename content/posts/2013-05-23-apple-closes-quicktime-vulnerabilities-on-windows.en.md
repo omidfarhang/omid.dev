@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![apple](/images/2013/05/apple.jpg)](/images/2013/05/apple.jpg)Apple has [released](http://prod.lists.apple.com/archives/security-announce/2013/May/msg00001.html) a security update for its QuickTime media framework for Windows. Version 7.7.4 of the software closes 12 critical security holes causing memory corruption and buffer overflows when processing a number of media formats. The vulnerabilities affect Windows 7, Vista and XP SP2 or later and could be exploited to cause arbitrary code execution and application crashes.

@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1RQWNgo
 tags:
   - malware
 lang: en
-category: 
+categories: 
   - techblog
 ---
 This is a new one: bribeware. They’ll pay you a dollar to install their product.

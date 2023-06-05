@@ -9,7 +9,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 APcSafe is another rogue anti-spyware clone of the WiniGuard family.

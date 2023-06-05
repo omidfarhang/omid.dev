@@ -9,7 +9,7 @@ tags:
   - Facebook
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/-ePy-oJJ3a3U/TlaN_30Q4mI/AAAAAAAAD_Y/IF0fUBdFtnM/s1600/facebook_logo+-+small.jpg)](http://1.bp.blogspot.com/-ePy-oJJ3a3U/TlaN_30Q4mI/AAAAAAAAD_Y/IF0fUBdFtnM/s1600/facebook_logo+-+small.jpg)

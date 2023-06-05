@@ -12,7 +12,7 @@ tags:
   - report
   - SSL
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/-pRWbbTDU_xs/Tl6sGz7y_hI/AAAAAAAAEAc/QqyT7jOv5mo/s320/Google.jpg)](http://4.bp.blogspot.com/-pRWbbTDU_xs/Tl6sGz7y_hI/AAAAAAAAEAc/QqyT7jOv5mo/s1600/Google.jpg)

@@ -9,7 +9,7 @@ tags:
   - RIAA
   - ThePirateBay
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="tpb" border="0" alt="tpb" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S_RMRwHMd9I/AAAAAAAACRE/oVQlTX0QcrI/tpb_thumb%5B2%5D.jpg?imgmax=800" width="260" height="182" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S_RMPZZmdFI/AAAAAAAACRA/ncH8aHHVIH0/s1600-h/tpb%5B4%5D.jpg) Yesterday, the Pirate Bay [went down](http://torrentfreak.com/the-pirate-bay-goes-down-following-legal-pressure-100517/) following pressure from the RIAA, which threatened to slap TPB’s hosting provider with huge fines. 

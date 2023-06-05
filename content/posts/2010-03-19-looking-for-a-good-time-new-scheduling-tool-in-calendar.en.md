@@ -9,7 +9,7 @@ tags:
   - news
   - Offer
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Scheduling meetings is tough, but rescheduling is even harder. We all know how frustrating it can be to try to find just the right time that accommodates everyone's availability and preferred working hours. Throw in different time zones and conference rooms and it goes from painful to excruciating. We'd rather schedule dental appointments.

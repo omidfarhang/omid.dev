@@ -12,7 +12,7 @@ tags:
   - laptop
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **BetaNews:** One year ago, Google gave the world its [first look at Chrome OS](http://www.betanews.com/article/Live-report-Will-Google-Chrome-OS-change-Linux/1258650069), a project taking a new approach to thin clients and terminal computing. The long and the short of Chrome OS is: if the browser is the most-used application on a PC, why would you load it down with anything else?

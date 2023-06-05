@@ -12,7 +12,7 @@ tags:
   - report
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Mac: Hi PC, I'm not feeling so hot today…  

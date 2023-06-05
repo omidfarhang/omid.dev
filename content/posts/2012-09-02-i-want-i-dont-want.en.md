@@ -7,7 +7,7 @@ url: 2012/09/02/i-want-i-dont-want/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 I never could understand those people that afraid everything and everyone, why people don’t live in a normal and easy world? Why take it so hard? 

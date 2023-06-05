@@ -11,7 +11,7 @@ tags:
   - scam
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Does a Facebook-specific antivirus application sound like a good idea? Maybe not. One of our analysts saw this particular application claiming to be an antivirus wreak havoc on his Friends list. Of course, there is no such thing.

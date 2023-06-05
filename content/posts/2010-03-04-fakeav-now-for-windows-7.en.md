@@ -12,7 +12,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 It’s been over a year since we first started seeing the familiar Windows XP My Computer page where it appears your drives are being scanned and it reports a bunch of non-existent malware on your computer. Yesterday I was investigating the latest hot news item where there was a FAMU (Florida Agricultural and Mechanical University) sex tape released on the internet and sure enough I found many SEO poisoned links claiming to have the video. Imagine my surprise when I saw the following.

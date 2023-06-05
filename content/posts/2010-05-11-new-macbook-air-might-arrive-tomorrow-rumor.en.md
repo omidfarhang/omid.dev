@@ -11,7 +11,7 @@ tags:
   - MacBook Air
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![mbair-260x190](http://lh3.ggpht.com/_vaUVXcmC3OI/S-la7dSkWXI/AAAAAAAACHQ/Ud5PPrjzg8k/mbair-260x190_thumb%5B2%5D.jpg?imgmax=800 "mbair-260x190")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-la5eHrK3I/AAAAAAAACHM/0yfJfRHiVSQ/s1600-h/mbair-260x190%5B4%5D.jpg) According to Australian Macworld, a new version of the MacBook Air may show up in the Apple Online Store tomorrow morning. The same source who correctly predicted the MacBook Pro refresh last month alerted Australian Macworld of a new Apple product number in the Apple database.  

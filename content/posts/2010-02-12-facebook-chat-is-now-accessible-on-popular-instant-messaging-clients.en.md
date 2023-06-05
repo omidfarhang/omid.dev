@@ -10,7 +10,7 @@ tags:
   - social networking
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Making good on a promise delivered just about [one year ago](http://www.insidefacebook.com/2009/02/23/facebook-chat-latest-stats-whats-coming-next/), [Facebook announced](http://blog.facebook.com/blog.php?post=297991732130) that its popular chat feature can now be accessed through any Jabber (XMPP)-compatible desktop instant messaging software, including AIM, iChat, Pidgin, Adium, Miranda, Trillian and…

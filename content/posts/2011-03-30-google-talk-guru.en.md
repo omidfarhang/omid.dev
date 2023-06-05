@@ -9,7 +9,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [Google Talk **Guru**](http://guru.googlelabs.com/) is a new Google bot that lets you ask simple questions. It's “an experimental service that allows people to get information like sports results, weather forecasts, definitions etc via chat. It works on many popular chat applications that support Google Talk.”  

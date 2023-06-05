@@ -12,7 +12,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Quicktime_120" border="0" alt="Quicktime_120" align="right" src="http://lh3.ggpht.com/-PkVmBfeFXdY/T7UQi356qRI/AAAAAAAAGAw/KDlTo4vnBPg/Quicktime_120_thumb.png?imgmax=800" width="120" height="121" />](http://lh3.ggpht.com/-KjtBfYyOcz4/T7UQgYFY0kI/AAAAAAAAGAo/l4tbfWTyVxQ/s1600-h/Quicktime_120%25255B2%25255D.png)The H-Online: Version 7.7.2 of [QuickTime](http://www.apple.com/quicktime/) for Windows has been released to address a total of 17 security vulnerabilities in the media player. According to Apple, these include integer, stack and buffer overflows, as well as memory corruption issues, all of which could be could exploited by an attacker to crash the application or execute arbitrary code on a victim's system. For an attack to be successful, a user must first open a malicious web site or a specially crafted file. 

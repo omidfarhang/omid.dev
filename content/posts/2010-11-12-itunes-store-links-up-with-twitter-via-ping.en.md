@@ -11,7 +11,7 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="5487" border="0" alt="5487" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TN09KpAEZZI/AAAAAAAADIw/XwULne5iXCM/5487_thumb.jpg?imgmax=800" width="304" height="291" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TN09IAT1v8I/AAAAAAAADIs/pgceqT64vJY/s1600-h/5487%5B3%5D.jpg)**BetaNews:** Ping, the social music service introduced as a part of iTunes 10 in September, can now be linked with Twitter, the popular micro blogging service announced Thursday.

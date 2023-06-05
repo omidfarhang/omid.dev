@@ -10,7 +10,7 @@ tags:
   - report
   - Zynga
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="zynga" border="0" alt="zynga" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMmQLiBThiI/AAAAAAAAC9I/vdAsvRsvPUw/zynga_thumb%5B1%5D.png?imgmax=800" width="225" height="55" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMmQKKbOVVI/AAAAAAAAC9E/z3AJRhKWSQY/s1600-h/zynga%5B3%5D.png)SharesPost has valued Farmville developer Zynga Game Network at $5.51 billion, according to [Business Week](http://www.businessweek.com/news/2010-10-26/zynga-s-value-tops-electronic-arts-on-virtual-goods.html). That means it is now estimated to be bigger than console publisher Electronic Arts, which stands at a market cap of $5.16 billion. It still has a long way to go to beat Activision Blizzard, which has a market cap of $13.9 billion. 

@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://www.h-online.com/security/news/item/Avira-AV-update-hangs-systems-1575974.html" target="_blank"><strong>H-Online Says:</strong></a>

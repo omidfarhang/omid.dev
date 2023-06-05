@@ -11,7 +11,7 @@ tags:
   - privacy
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMHz7kVXEYI/AAAAAAAAC3k/7QWpbQTkOJE/facebook%28low%29_thumb.jpg?imgmax=800" width="154" height="47" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMHz5t7jxKI/AAAAAAAAC3g/myp3hfeZW3U/s1600-h/facebook%28low%29%5B2%5D.jpg)Facebook has proposed a solution to a recent security flaw that allowed apps to transmit personal data that involves encrypting the relevant string of numbers, according to a post on its [Developer Blog](http://developers.facebook.com/blog/post/419) on Thursday. The new set of parameters would allow developers to apply encryption within the next few weeks, preventing data that identifies application users from leaking to places it shouldn't be.

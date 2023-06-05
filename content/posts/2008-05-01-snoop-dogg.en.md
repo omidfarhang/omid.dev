@@ -10,7 +10,7 @@ tags:
   - Snoop Dogg
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![snoop-dogg](/images/2008/05/snoop-dogg.jpg)

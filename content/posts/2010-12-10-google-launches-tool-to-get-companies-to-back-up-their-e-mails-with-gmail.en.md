@@ -11,7 +11,7 @@ tags:
   - Mail
   - solution
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Gmail_logo" border="0" alt="Gmail_logo" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TQKpH90FigI/AAAAAAAADe0/K0obQar349E/Gmail_logo_thumb.png?imgmax=800" width="143" height="59" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKpClfCT1I/AAAAAAAADew/rKCGLqEn_XQ/s1600-h/Gmail_logo%5B2%5D.png)Google has just launched Message Continuity, a cloud-based enterprise solution for backing up corporate e-mail whenever Microsoft Exchange goes down. 

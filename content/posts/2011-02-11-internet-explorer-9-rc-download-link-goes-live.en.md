@@ -11,7 +11,7 @@ tags:
   - Microsoft
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="IE-9" border="0" alt="IE-9" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TVR5K475weI/AAAAAAAADkI/DrkcpPyoybs/IE-9_thumb%5B1%5D.jpg?imgmax=800" width="504" height="303" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TVR5HrhiSAI/AAAAAAAADkE/DMKm4_M6_x4/s1600-h/IE-9%5B3%5D.jpg)

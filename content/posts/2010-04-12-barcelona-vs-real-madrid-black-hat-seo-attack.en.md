@@ -14,7 +14,7 @@ tags:
   - SEO
   - warning
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Of course I’m talking about football. When I say football I mean the game that is played with one ball thas is kicked with the foot, not the other game that is known as football in the US even though it’s played using the hands. 

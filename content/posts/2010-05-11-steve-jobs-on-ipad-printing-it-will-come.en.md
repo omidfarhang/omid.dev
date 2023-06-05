@@ -10,7 +10,7 @@ tags:
   - printing
   - steve jobs
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![ipad-260-158](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l4oTLDM5I/AAAAAAAACJo/v1zbdzBAcI4/ipad-260-158_thumb%5B2%5D.jpg?imgmax=800 "ipad-260-158")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l4mCXOYYI/AAAAAAAACJk/WTCHic2nzzo/s1600-h/ipad-260-158%5B4%5D.jpg) Lately, it’s not that hard to get a direct answer to your query from Steve Jobs himself; he responds to burning questions via e-mail quite often. 

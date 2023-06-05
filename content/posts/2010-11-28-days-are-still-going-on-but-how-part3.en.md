@@ -8,7 +8,7 @@ image: /images/sites/2/2010/11/Image023.jpg
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 In continue from: [Part 2 of &#8216;Life is going on But how?'](/2010/11/28/days-are-still-going-on-but-how-part2/ "Days are still going on, but how?–Part2")

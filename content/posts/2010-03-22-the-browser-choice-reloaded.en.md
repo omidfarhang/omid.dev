@@ -13,7 +13,7 @@ tags:
   - Opera
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 A little more than a week ago Microsoft started delivering a new Browser Choice for Windows to be compliant to the European Union law. There are plenty of web browsers to choose from, and my colleague Sorin Mustaca recommended Firefox. Usually a good choice, but currently users should be cautious about which browser they choose:

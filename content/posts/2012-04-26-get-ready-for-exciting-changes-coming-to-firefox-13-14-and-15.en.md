@@ -11,7 +11,7 @@ tags:
   - Mozilla
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Firefox-Nightly-300x300" border="0" alt="Firefox-Nightly-300x300" align="right" src="http://lh5.ggpht.com/-Gc51LyCD_5E/T5lej2-UpOI/AAAAAAAAFuE/Uiwvv4ff_OQ/Firefox-Nightly-300x300_thumb%25255B2%25255D.png?imgmax=800" width="300" height="300" />](http://lh5.ggpht.com/-y6kIxjMCIHs/T5lefc4GcDI/AAAAAAAAFt8/2cWvOjWW6gM/s1600-h/Firefox-Nightly-300x300%25255B4%25255D.png)Cross-posted from <a href="http://betanews.com/2012/04/26/get-ready-for-exciting-changes-coming-with-firefox-13-14-and-15/" target="_blank">BetaNews</a>: Following on from the release of <a href="/2012/04/firefox-and-thunderbird-12-are-out.html" target="_blank">Firefox 12 FINAL</a>, Mozilla has updated its developmental branches to versions 13 ([Beta](http://www.downloadcrew.com/article/25727-firefox_beta)), 14 ([Aurora](http://www.downloadcrew.com/article/21612-firefox_aurora)) and 15 ([Nightly](http://www.downloadcrew.com/article/22815-firefox_nightly)/[UX](http://www.downloadcrew.com/article/25064-firefox_ux)), respectively. Those looking for major changes in version 12 will may be disappointed, but future builds promise a number of radical new features, including redesigned Home and New Tab pages, plus panel downloads manager and inline preferences screen. 

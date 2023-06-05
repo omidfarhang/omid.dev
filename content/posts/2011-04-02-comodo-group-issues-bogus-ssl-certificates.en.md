@@ -9,7 +9,7 @@ tags:
   - review
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **from** <a href="http://boelectronic.blogspot.com/www.schneier.com" target="_blank"><strong>Schneier on Security</strong></a> **by Schneier:**

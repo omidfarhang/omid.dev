@@ -10,7 +10,7 @@ tags:
   - hoax
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **SophosLabs:** Facebook users are innocently sharing advice with their online friends about how women can avoid being kidnapped and raped, not realizing that they are perpetuating a hoax. 

@@ -9,7 +9,7 @@ tags:
   - Facebook
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Facebook continues its quest to revamp its popular Photos feature with the launch of the number one most requested feature of them all: drag-and-drop organizing.

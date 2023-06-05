@@ -10,7 +10,7 @@ tags:
   - Avira
   - false positives
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![Avira_120](/images/2013/07/Avira_120.png)](/images/2013/07/Avira_120.png)Since yesterday, some Avira Internet Security users have only been able to use their web browsers if they first disable Avira Web Protection. According to Avira, some customers are getting a “data structure error” that requires a complete uninstall and fresh installation of the program.

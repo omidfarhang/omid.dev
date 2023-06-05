@@ -12,7 +12,7 @@ tags:
   - Search
   - SEO
 lang: en
-category: 
+categories: 
   - techblog
 ---
 You might avoid looking for photos of Miss USA Rima Fakih for a while. There is a controversy about a certain pole-dancing incident in her past that is stirring up the talk show circuits and the adolescent inside every male on the planet. It also has stirred up a massive number of SEO poisoned links to photos.

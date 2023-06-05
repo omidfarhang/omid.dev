@@ -10,7 +10,7 @@ tags:
   - security
   - software
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="Panda-AVP-MAC-2011-BoxDetails" border="0" alt="Panda-AVP-MAC-2011-BoxDetails" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMBPmvg0pGI/AAAAAAAAC0g/szOu8LB9NVg/Panda-AVP-MAC-2011-BoxDetails_thumb%5B6%5D.gif?imgmax=800" width="127" height="191" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMBPk3kX-yI/AAAAAAAAC0Y/2tBbSF7BVOw/s1600-h/Panda-AVP-MAC-2011-BoxDetails%5B10%5D.gif)Panda Security has announced the launch of Panda Antivirus for Mac. This new solution delivers comprehensive protection against malware affecting Mac OS and Mac OS X; it also prevents Mac users from transmitting malware to other users of Windows and Linux operating systems.**

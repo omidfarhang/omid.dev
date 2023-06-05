@@ -11,7 +11,7 @@ tags:
   - suggestion
   - WebM
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Google Operation System: [Internet Explorer 9](http://windows.microsoft.com/en-US/internet-explorer/products/ie-9/home) will be released later today and one of the many new features is the native support for videos. Unfortunately for Google, Microsoft decided to only support H.264 videos by default, so you can't watch WebM videos without installing additional software.

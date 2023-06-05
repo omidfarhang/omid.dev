@@ -7,7 +7,7 @@ url: 2011/02/11/life-is-beautiful/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 Sorry about being late in updating my blog![Embarrassed smile](http://lh6.ggpht.com/_vaUVXcmC3OI/TVR85aos2nI/AAAAAAAADkM/Ste6dxXdKYM/wlEmoticon-embarrassedsmile%5B2%5D.png?imgmax=800) 

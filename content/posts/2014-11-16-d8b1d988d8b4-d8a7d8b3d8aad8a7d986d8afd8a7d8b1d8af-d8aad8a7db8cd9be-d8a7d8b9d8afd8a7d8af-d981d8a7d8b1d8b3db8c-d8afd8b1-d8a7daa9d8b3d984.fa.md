@@ -6,7 +6,7 @@ author_profile: true
 url: '2014/11/16/روش-استاندارد-تایپ-اعداد-فارسی-در-اکسل'
 shortlink: https://g.omid.dev/1n5BzAz
 lang: fa
-category: 
+categories: 
   - techblog
 ---
 [![Excel-logo-2](/images/2014/11/Excel-logo-2-150x150.png)](/images/2014/11/Excel-logo-2.png)چند روز پیش مدیرم اومد توی دفتر ما و ازمون پرسید “کسی میدونه چه جوری میشه توی اکسل عدد ها رو فارسی نوشت؟”

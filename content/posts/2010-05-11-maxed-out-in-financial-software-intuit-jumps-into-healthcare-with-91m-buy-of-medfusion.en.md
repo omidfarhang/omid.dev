@@ -7,7 +7,7 @@ url: 2010/05/11/maxed-out-in-financial-software-intuit-jumps-into-healthcare-wit
 tags:
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Last week, we took a look at Mint's new app for Android, which lets users track their finances and budget on their mobile device in a safe, read-only app. Mint.com was acquired by Intuit Software in late 2009, meshing the free, Web-based personal finance service with Intuit's portfolio of financial, accounting, and budgeting services. 

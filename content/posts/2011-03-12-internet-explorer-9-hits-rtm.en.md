@@ -11,7 +11,7 @@ tags:
   - internet explorer 9
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 TechSpot wrote: Microsoft this week reportedly signed off the Release to Manufacturing (RTM) build of Internet Explorer 9. The RTM build is 9.00.8112.16421.110308-0330, meaning it was compiled on March 8, 2011 at 3:30 AM, according to [Windows 8 Beta](http://windows8beta.com/2011/03/internet-explorer-9-rtw-build-9-00-8112-16421-110308-0330-compiled). 

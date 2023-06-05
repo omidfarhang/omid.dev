@@ -12,7 +12,7 @@ tags:
   - Vulnerability
   - Google
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![stagefright-android](/images/2015/10/stagefright_bug_logo.png)

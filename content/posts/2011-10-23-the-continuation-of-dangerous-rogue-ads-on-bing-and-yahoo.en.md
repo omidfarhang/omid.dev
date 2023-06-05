@@ -12,7 +12,7 @@ tags:
   - Search
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **GFI Labs Blog:** We've noted this before, but Microsoft needs to get a handle on ad placements on Bing. Ok, so Bing isn't the most widely used search engine, but remember that Yahoo plays a part here as well.

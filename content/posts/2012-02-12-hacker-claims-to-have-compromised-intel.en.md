@@ -10,7 +10,7 @@ tags:
   - report
   - rumor
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://www.theinquirer.net/" target="_blank"><img title="Intel Hack Proof" border="0" alt="Intel Hack Proof" align="right" src="http://lh4.ggpht.com/-HRcVXBGqzXE/Tzf7QB18ILI/AAAAAAAAEsg/SDMspoExzuk/intel-hack-proof-270x270%25255B5%25255D.png?imgmax=800" width="274" height="274" />The Inquirer</a>: A Hacker using the pseudonyms &#8216;Weedgrower' or &#8216;X-pOSed' claims that he has compromised Intel and obtained sensitive data. 

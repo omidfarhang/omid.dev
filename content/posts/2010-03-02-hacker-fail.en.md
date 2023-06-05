@@ -9,7 +9,7 @@ tags:
   - hack
   - Interesting
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Very funny:

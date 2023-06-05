@@ -9,7 +9,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh3.ggpht.com/-bGFP5WLafPA/T-YgDCDk9rI/AAAAAAAAGWA/ukDr1NYb91A/s1600-h/winamp_logo200%25255B2%25255D.png" target="_blank"><img title="winamp_logo200" border="0" alt="winamp_logo200" align="right" src="http://lh5.ggpht.com/-VMN_mg-ggdw/T-YgEjjsLQI/AAAAAAAAGWI/YcMGskGwbKk/winamp_logo200_thumb.png?imgmax=800" width="200" height="46" /></a>With the [release](http://forums.winamp.com/showthread.php?t=345684) of version 5.63 of [Winamp](http://www.winamp.com/media-player), Nullsoft, a division of AOL Music, has eliminated four critical security vulnerabilities in the media player. Three of these were heap-based buffer overflows in Winamp's bmp.w5s component that could have been exploited by an attacker to execute arbitrary code on a victim's system. 

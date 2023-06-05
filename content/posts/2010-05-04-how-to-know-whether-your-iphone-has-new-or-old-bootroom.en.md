@@ -12,7 +12,7 @@ tags:
   - jailbreak
   - Tricks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Jailbreaking and Unlocking with iPhone is fun, but these days apple is trying to make people life harder by introducing new changes in iPhone hardware and software which could stop or prevent people from jailbreaking their devices.

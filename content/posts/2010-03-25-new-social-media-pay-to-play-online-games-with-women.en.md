@@ -11,7 +11,7 @@ tags:
   - Wii
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <span><span>“Dirty” or “Flirty”</span></span>

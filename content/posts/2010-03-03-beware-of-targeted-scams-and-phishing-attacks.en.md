@@ -9,7 +9,7 @@ tags:
   - report
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 According to latest State of Spam and Phishing report, scam and phishing messages accounted for 21 percent of all spam, which is the highest level recorded since the inception of the report. For comparison, these types of spam represented only 10 percent of total spam a year ago.

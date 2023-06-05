@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _Cross-posted from Gizmodo:_ 

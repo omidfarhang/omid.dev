@@ -10,7 +10,7 @@ tags:
   - Google
   - Tricks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Gmail has [a feature](http://mail.google.com/support/bin/answer.py?hl=en&ctx=mail&answer=80405) that lets you unsubscribe from a newsletter or a mailing list when you report one of the messages as spam.

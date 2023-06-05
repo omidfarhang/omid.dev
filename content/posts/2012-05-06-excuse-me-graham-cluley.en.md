@@ -7,7 +7,7 @@ url: 2012/05/06/excuse-me-graham-cluley/
 tags:
   - This Blog Update
 lang: en
-category: 
+categories: 
   - techblog
 ---
  Hi,/

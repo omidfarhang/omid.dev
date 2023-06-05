@@ -7,7 +7,7 @@ url: 2011/03/12/please-donate-redcross-for-japanese-earthquake-victims/
 tags:
   - donate
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![logo](assets/images/2011/03/Flag_of_the_Red_Cross.png) Please text REDCROSS to 90999 to donate $10 to the RedCross for Japanese earthquake victims (US Only)

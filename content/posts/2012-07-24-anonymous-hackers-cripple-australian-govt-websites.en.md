@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh4.ggpht.com/-gPItVo2aKpI/UA7wHVh095I/AAAAAAAAGkY/Qmd0R1_1Lek/s1600-h/Anonymous%25255B4%25255D.jpg" target="_blank"><img title="Anonymous" border="0" alt="Anonymous" align="right" src="http://lh5.ggpht.com/-ew1Zr_3jLiU/UA7wJ3bjj3I/AAAAAAAAGkg/-bfII0jmZ3c/Anonymous_thumb%25255B2%25255D.jpg?imgmax=800" width="240" height="135" /></a>FoxNews: International hacking group Anonymous took at least 10 Australian government websites offline briefly Tuesday in a series of escalating attacks over proposed changes to privacy laws. 

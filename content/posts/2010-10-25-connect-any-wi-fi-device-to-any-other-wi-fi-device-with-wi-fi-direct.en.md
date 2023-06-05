@@ -9,7 +9,7 @@ tags:
   - Offer
   - WiFi
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Mashable: The Wi-Fi Alliance is about to drop a wireless connectivity bombshell called Wi-Fi Direct. It will enable device-to-device connections using current Wi-Fi standards. The Wi-Fi Alliance will begin certifying Wi-Fi Direct devices today.  

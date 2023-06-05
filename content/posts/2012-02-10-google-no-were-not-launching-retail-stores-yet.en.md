@@ -9,7 +9,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="Google-logo-istock-600-275x171" border="0" alt="Google-logo-istock-600-275x171" align="right" src="http://lh5.ggpht.com/-yzq0rhUY2Ew/TzT75J043jI/AAAAAAAAEoM/Gi5OYlaH1vs/Google-logo-istock-600-275x171_thumb.jpg?imgmax=800" width="244" height="153" />](http://lh4.ggpht.com/-eJeL4Y7nkYc/TzT727l8WpI/AAAAAAAAEoE/Xt19oL3KJVM/s1600-h/Google-logo-istock-600-275x171%25255B2%25255D.jpg)Mashable:** Google planned to open its first-ever public store at its European headquarters in Dublin, if you believed a rumor reported by Bloomberg. But according to a company spokesperson, no plans are definite right now. 

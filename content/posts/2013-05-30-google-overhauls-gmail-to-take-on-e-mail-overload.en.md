@@ -11,7 +11,7 @@ tags:
   - Google
   - gmail
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![](/images/2013/05/gmail-logo.jpg)

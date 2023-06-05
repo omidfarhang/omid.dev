@@ -9,7 +9,7 @@ tags:
   - malware
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 There are always peculiar things malware researchers discover while analyzing new samples.

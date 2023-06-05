@@ -16,7 +16,7 @@ tags:
   - Steve Ballmer
   - video games
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![capitol](http://lh5.ggpht.com/_vaUVXcmC3OI/S8o0oUFxT4I/AAAAAAAACB0/C3llYJSM9mE/capitol_thumb1.jpg?imgmax=800 "capitol")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8ouiiiaRQI/AAAAAAAACBo/qDg1myzjv6o/s1600-h/capitol%5B3%5D.jpg) The Obama administration’s Bowles-Simpson fiscal commission has been working with Microsoft’s Steve Ballmer to make a computer game about managing the United States federal budget and deficit, [USA Today](http://www.usatoday.com/news/washington/2010-04-12-deficit_N.htm?csp=hf) reports. 

@@ -11,7 +11,7 @@ tags:
   - Google
   - google glass
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Google has already released a [MyGlass](https://play.google.com/store/apps/details?id=com.google.glass.companion&hl=en "Google Glass MyGlass") Companion app for Android via the Play Store, and although a corresponding iOS version has yet to manifest itself  in the [App Store](http://www.apple.com/uk/osx/apps/app-store.html "App Store"), the company has already noted that iPhone users will not be neglected when it comes to the early 2014 public launch of Google Glass. In the meantime, the **PostOffice** tweak will work just fine for those with a jail-broken iPhone, and although there’s not much to it aside from one or two settings, it does what it purports to do in pushing notifications through Glass.  The free tweak is available via the BigBoss repository in [Cydia](http://cydia.saurik.com/ "cydia"), To configure the way your notifications are re-routed to Glass you navigate to your native Settings and configure the way your notifications are re-routed.  Google Glass currently may only be in the hands of creative individuals, some competition winners and a handful of developers, but that has not prevented the tech world from getting itself excited about the internet giant’s technological headgear. Last month, one such creative individual, Adam Bell, had managed to route iOS notifications through to Google Glass using some kit he has thrown together, and now a tweak has emerged offering a simpler way for such a process to be achieved.

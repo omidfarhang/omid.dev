@@ -11,7 +11,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Here’s the latest twist in the “membership” site scam: spam emails that tell potential victims to update their Adobe Reader include links to a web site intended to look like something related to Adobe products, but is selling “memberships.”  

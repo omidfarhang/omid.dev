@@ -10,7 +10,7 @@ tags:
   - Serj Tankian
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![17041865-17041868-slarge](/images/2008/04/17041865-17041868-slarge-300x300.jpg)

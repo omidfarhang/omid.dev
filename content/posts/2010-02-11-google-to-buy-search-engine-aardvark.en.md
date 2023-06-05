@@ -8,7 +8,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHU01wz-I/AAAAAAAAA4Y/ALkLcwghA84/s640/partner.logo.gif)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHU01wz-I/AAAAAAAAA4Y/ALkLcwghA84/s1600-h/partner.logo.gif)

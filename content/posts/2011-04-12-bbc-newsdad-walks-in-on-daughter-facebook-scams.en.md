@@ -10,7 +10,7 @@ tags:
   - malware
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 SophosLabs: Criminals and scammers on Facebook aren't resting on their laurels… in fact, they are branching out and using multiple techniques all rolled into one scam.

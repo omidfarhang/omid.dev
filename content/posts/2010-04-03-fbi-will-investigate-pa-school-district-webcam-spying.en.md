@@ -8,7 +8,7 @@ tags:
   - Apple
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The FBI has said it will be checking to see if any federal wiretapping or computer-related laws were broken by a Pennsylvania school district in connection with an incident in which someone turned on the webcam in a school-issued computer and spied on a student in his own home.

@@ -8,7 +8,7 @@ image: /images/sites/2/2011/11/Goethe-Institut.jpg
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 Hey Folks!

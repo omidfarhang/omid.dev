@@ -13,7 +13,7 @@ tags:
   - news
   - Notebook
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP7DVYPc8BI/AAAAAAAADcM/cOnex0fTYOo/Google_thumb%5B1%5D.png?imgmax=800" width="150" height="54" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7DTNSelEI/AAAAAAAADcI/Unylx213fc4/s1600-h/Google%5B3%5D.png)Mashable:** Google just launched artillery deep into territories held by Microsoft and Apple by making one of the biggest announcements in its history: The reveal of Chrome OS. And in doing so, it has declared war on the traditional desktop model. 

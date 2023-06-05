@@ -10,7 +10,7 @@ tags:
   - review
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _“Faceparty is a UK based social networking site allowing users to create online profiles and interact with each other using forums and messaging facilities similar to email”_ – [Wikipedia](http://en.wikipedia.org/wiki/Faceparty)

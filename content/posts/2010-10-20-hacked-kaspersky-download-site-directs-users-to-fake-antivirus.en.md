@@ -12,7 +12,7 @@ tags:
   - report
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 #### Kaspersky Lab now admits that people attempting to buy Kaspersky's security products on Oct. 17 were redirected by hackers to a scareware site with links to fake antivirus software called Security Tool.

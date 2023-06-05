@@ -10,7 +10,7 @@ tags:
   - Windows Phone
   - Windows Phone 7
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![windowsphone_logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TLoCBMRojwI/AAAAAAAACqw/1heUsofqf9o/windowsphone_logo%5B5%5D.png?imgmax=800 "windowsphone_logo")](http://www.windowsphone7.com/)Windows Phone 7 officially launched 11Oct at a press event in NYC Monday morning.  You can check out more here – [http://www.windowsphone7.com](http://www.windowsphone7.com/)

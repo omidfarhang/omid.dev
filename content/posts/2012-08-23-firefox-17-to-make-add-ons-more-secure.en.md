@@ -11,7 +11,7 @@ tags:
   - Firefox Addon
   - Mozilla
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh3.ggpht.com/-Bl6QQWRBgLc/UDYd0_TdHUI/AAAAAAAAHH0/E1J8aCHEiBg/s1600-h/logo-only%25255B5%25255D.png" target="_blank"><img title="logo-only" border="0" alt="logo-only" align="right" src="http://lh5.ggpht.com/-lalTDAjyZT4/UDYd4VU9IiI/AAAAAAAAHH8/gHD-JXnWt3w/logo-only_thumb%25255B3%25255D.png?imgmax=800" width="240" height="240" /></a>h-Online: As [suggested](https://bugzilla.mozilla.org/show_bug.cgi?id=553102) by some of its developers back in 2010, the Firefox browser will [introduce](https://blog.mozilla.org/addons/2012/08/20/exposing-objects-to-content-safely/) enhanced separation between add-ons and the rest of the browser. With the change, which is planned to take effect with the release of Firefox 17, scripts on web pages will only be able to access the data belonging to add-ons if they are included in a whitelist. 

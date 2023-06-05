@@ -11,7 +11,7 @@ tags:
   - review
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh4.ggpht.com/-8NEZOtq-IP8/TzkzGoMowTI/AAAAAAAAEuQ/L7426eg-B64/facebook%252528low%252529_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh4.ggpht.com/-l4ySGrcj0PI/TzkzCzrjPGI/AAAAAAAAEuI/3utZImzEKjY/s1600-h/facebook%252528low%252529%25255B2%25255D.jpg)SophosLabs:** Have you seen the news? Maybe your friends have shared it with you. 

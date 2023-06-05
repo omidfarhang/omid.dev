@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1Y1GcZ8
 tags:
   - alert
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Reports have reached us of a fresh SQL injection attack that has compromised many websites – a google search of the malicious iframe nets over 100000 hits. As is typical, the iframes lead to more html pages that load yet more iframes that contain obfuscated Javascript that attempt to exploit the unfortunate visitor. A successful exploit leads to a download of a malware of the Buzus family.

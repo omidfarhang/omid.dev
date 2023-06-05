@@ -11,7 +11,7 @@ tags:
   - Google Maps
   - Mobile
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="googlemaps" border="0" alt="googlemaps" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQKqPRxmjCI/AAAAAAAADe8/q2p4LxOiOd8/googlemaps_thumb%5B1%5D.jpg?imgmax=800" width="229" height="227" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKqMbdzzoI/AAAAAAAADe4/jG3Pj2PmYOo/s1600-h/googlemaps%5B3%5D.jpg)**Mashable:** Get ready, folks with no sense of direction; Google Maps 5.0 app for Android is looking to make your life a lot easier with 3D graphics, more accurate orientation and the ability to function offline.  

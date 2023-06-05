@@ -10,7 +10,7 @@ tags:
   - privacy
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 You’ve locked down your computer. Nothing is going to bypass your privacy shielding programs. AdBlock is fully loaded, NoScript is ready to roll and RefControl is sending “Party on, Wayne” as your custom referrer to all and sundry.

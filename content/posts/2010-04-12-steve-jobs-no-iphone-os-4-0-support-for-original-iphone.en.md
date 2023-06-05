@@ -10,7 +10,7 @@ tags:
   - iphone
   - steve jobs
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="iphone2g-no40" border="0" alt="iphone2g-no40" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8NSLAiEONI/AAAAAAAAB5w/x5s9YGYUeXo/iphone2g-no40_thumb%5B1%5D.jpg?imgmax=800" width="244" height="179" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8NSI6V9O1I/AAAAAAAAB5s/S_fm5usetJk/s1600-h/iphone2g-no40%5B3%5D.jpg) In an [e-mail to a German customer](http://twitter.com/ven000m/status/11988413732), Steve Jobs confirmed what most of us surmised last week: There will be no iPhone OS 4.0 [support](http://www.macstories.net/news/steve-jobs-replies-to-mail-apple-is-dropping-support-for-the-iphone-2g/) for original 2G iPhone owners. 

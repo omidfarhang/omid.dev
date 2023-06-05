@@ -12,7 +12,7 @@ tags:
   - Opera
   - Opera Mini
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The fact that Opera Mini was admitted to the App Store was a huge surprise, but judging from the popularity of the app, it was the right move, at least from the users’ point of view. 

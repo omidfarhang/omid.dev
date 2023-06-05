@@ -11,7 +11,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Basically, the rogue antispy was directing the victim to a genuine Microsoft address, but was modifying the html on the fly as it came back from the real Microsoft page. It made it read that Microsoft was recommending that the victim should buy the rogue. That’s a pretty good trick that will catch a lot of folks, and it reminded us of another one that we frequently see.

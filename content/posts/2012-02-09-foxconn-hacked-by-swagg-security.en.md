@@ -9,7 +9,7 @@ tags:
   - hack
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="Foxconn-Logo" border="0" alt="Foxconn-Logo" align="right" src="http://lh3.ggpht.com/-QIJCS3rMoFE/TzQa9XARDQI/AAAAAAAAEmk/jaD_a1uoSaw/Foxconn-Logo_thumb1.jpg?imgmax=800" width="200" height="70" />](http://lh5.ggpht.com/-OYepUgy-TpI/TzQazHjscRI/AAAAAAAAEmc/Ei0UAeZUmWc/s1600-h/Foxconn-Logo1.jpg)**The H-Online:** Hackers operating under the name Swagg Security have said they were responsible for breaching the security of Chinese electronics manufacturer [Foxconn](http://www.foxconn.com/). In a posting on [Pastebin](http://pastebin.com/DbHu7xCQ), the group took credit for penetrating the systems, noting that “Foxconn did have an appropriate firewall, but fortunately to our intent, we were able to bypass it almost flawlessly”. The posting pointed to a 6.5 MB torrent on The Pirate Bay which contained what appears to be CSV file dumps of database tables and other text files. The files included lists of what look like customer names, accounts and plain text passwords though many of those passwords are “foxconn” or “foxconn2”. 

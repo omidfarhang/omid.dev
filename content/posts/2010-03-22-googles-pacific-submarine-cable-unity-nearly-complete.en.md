@@ -8,7 +8,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 — 7.68 Terabits/s for growing Asian market  

@@ -12,7 +12,7 @@ tags:
   - security
   - WordPress
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Follow up from: [Hacker Gains Access To WordPress.com Servers](http://boelectronic.blogspot.com/2011/04/hacker-gains-access-to-wordpresscom.html)

@@ -13,7 +13,7 @@ tags:
   - Mobile
   - Mobile Browsers
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="firefox_beta_mobile" border="0" alt="firefox_beta_mobile" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNV8hP4-HeI/AAAAAAAADF0/gLDc7cODaFs/firefox_beta_mobile_thumb%5B1%5D.jpg?imgmax=800" width="300" height="88" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNV8fi8hiCI/AAAAAAAADFw/bYuJRLwCjFc/s1600-h/firefox_beta_mobile%5B3%5D.jpg)Firefox 4 Beta 2 has been released and you can download it in 10 languages on your Android or Maemo device. The new version comes with a wide range of fixes and improvements. The install size of Firefox Beta has been reduced by 60% (from around 43 MB to 17 MB). A new theme has been included in this version, that gives Firefox a fresh new look and the ability to easily share links with your friends from the Site Menu and the ability to undo closing a tab. Checkout the complete change-log below.

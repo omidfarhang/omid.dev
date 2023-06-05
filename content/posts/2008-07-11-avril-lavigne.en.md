@@ -10,7 +10,7 @@ tags:
   - Avril Lavigne
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 

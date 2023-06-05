@@ -14,7 +14,7 @@ tags:
   - Twitter
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 On average, response times and availability of five major social networks (Facebook, LinkedIn, YouTube, Twitter, and MySpace) has improved this past quarter, according to Web analytics company [AlertSite](http://blog.alertsite.com/2010/10/facebook-is-fastest-social-network-for-second-consecutive-quarter/). This is great news given that all of them (save for possibly MySpace) have a quickly growing number of users. 

@@ -9,7 +9,7 @@ tags:
   - solution
   - Windows 7
 lang: en
-category: 
+categories: 
   - techblog
 ---
 In this edition of the Windows Desktop Report, Greg Shultz shows you how to use some of the new features in Windows 7's Event Viewer to investigate boot time and track down issues that can cause a slowdown in the boot process.

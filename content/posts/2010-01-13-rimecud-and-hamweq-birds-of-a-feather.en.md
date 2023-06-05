@@ -9,7 +9,7 @@ tags:
   - malware
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Following the addition of Win32/Hamweq to the MSRT last month, MMPC will continue cleaning PCs in 2010 by adding another prevalent worm, Win32/Rimecud, to this month's removal tool.

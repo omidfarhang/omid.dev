@@ -11,7 +11,7 @@ tags:
   - Firefox 4.0
   - Mozilla
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Firefox is slipping in its development schedule; [Mozilla](http://groups.google.com/group/mozilla.dev.planning/browse_thread/thread/8bf881e3ba019bd5) says it won't be able to release version 4.0 this year, and will have to delay the final version until early next year. “Completing this work is taking longer than initial estimates indicated as we track down regressions and sources of instability,” the company said in a statement. “As part of our commitment to beta users, we will not ship software before it is ready.” 

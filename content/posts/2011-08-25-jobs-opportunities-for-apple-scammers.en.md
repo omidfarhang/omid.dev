@@ -8,7 +8,7 @@ tags:
   - Apple
   - steve jobs
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/-yE_g7QL5k-A/TlaMsjrhwjI/AAAAAAAAD_M/mJ6JO_Ow1HI/s1600/jobs_economist_cover.jpg)](http://4.bp.blogspot.com/-yE_g7QL5k-A/TlaMsjrhwjI/AAAAAAAAD_M/mJ6JO_Ow1HI/s1600/jobs_economist_cover.jpg)

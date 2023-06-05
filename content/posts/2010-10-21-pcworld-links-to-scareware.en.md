@@ -12,7 +12,7 @@ tags:
   - review
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I was reading an article on PCWorld’s website about the upcoming Google Chrome OS:

@@ -10,7 +10,7 @@ tags:
   - google chrome os
   - google docs
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="google-chrome-logo" border="0" alt="google-chrome-logo" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNHRM7jBn9I/AAAAAAAADA8/g1lzqkn7Kqs/google-chrome-logo_thumb%5B2%5D.png?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TNHRKL3R1zI/AAAAAAAADA4/KCljNDgb_TI/s1600-h/google-chrome-logo%5B4%5D.png)Google Docs may soon be getting an update that will help it better compete against Microsoft's latest cloud based Office product and make its upcoming Chrome OS a whole lot more useful. Top among the new features is cloud printing, which will let you print documents — whether web-based, on a mobile device or desktop — to any Internet-connected printer anywhere in the world.

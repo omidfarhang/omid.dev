@@ -13,7 +13,7 @@ tags:
   - Stuxnet
   - WikiLeaks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 At first glance, two recent security stories, the Stuxnet attack on Iran's nuclear industry and the WikiLeaks breach of US State Department communications, don't seem to have much in common, but they do. They are united by a vector, a method of transmission and that vector is removable media.

@@ -10,7 +10,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Recently I'm seeing more facebook scams which claim to be very hot videos, but they are nothing but scam, here is 2 samples:

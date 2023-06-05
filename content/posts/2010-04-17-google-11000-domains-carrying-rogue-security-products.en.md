@@ -11,7 +11,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Niels Provos of the Google Security Team has blogged about the rise of malicious web sites carrying rogue security products, which the Google team calls “Fake AV.” Google has been engaged in a constant battle against the sites because the operators who peddle them have been refining their techniques for poisoning Google search engine results in order to victimize Google users by drawing them to malicious download sites.

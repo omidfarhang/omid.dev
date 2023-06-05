@@ -16,7 +16,7 @@ tags:
   - sprint
   - verizon
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![nexus-one-top-260x1902](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lg6BCTI6I/AAAAAAAACII/mEzHCpMu0MU/nexus-one-top-260x1902_thumb%5B2%5D.jpg?imgmax=800 "nexus-one-top-260x1902")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-lg4PlRuYI/AAAAAAAACIE/hOsa6GgT4jw/s1600-h/nexus-one-top-260x1902%5B4%5D.jpg) Although Google announced only last month that Sprint would carry its Nexus One phone, the carrier has since retracted from that plan. 

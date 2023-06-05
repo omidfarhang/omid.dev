@@ -8,7 +8,7 @@ tags:
   - malware
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Does anyone really care about opening a zip file to examine an RTF or JPEG file? This task—combined with a dull, unexciting, unstimulating subject line—competes with the content of the email to win a race of worthlessness. Spammers have traditionally used zip files to carry executables, but in most cases the subject line or the content of the message made an effort to encourage users to open the attachment. 

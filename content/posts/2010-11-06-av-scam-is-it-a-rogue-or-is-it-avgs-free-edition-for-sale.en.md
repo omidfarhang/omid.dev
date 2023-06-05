@@ -12,7 +12,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Tom Kelchner, Sunbelt blog: Alert reader Laurie (my boss actually) forwarded a copy an email she received from a friend. It said the sender was “…pleased to announce the newest version of Antivirus 2010 for Windows.”

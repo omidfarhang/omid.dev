@@ -11,7 +11,7 @@ tags:
   - report
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Our good friends at Broomfield, Colo., security firm eSoft have found an interesting scam to trick Internet users into installing the Hotbar adware: a fake Firefox download site.

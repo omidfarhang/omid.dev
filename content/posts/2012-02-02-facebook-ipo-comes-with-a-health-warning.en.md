@@ -12,7 +12,7 @@ tags:
   - review
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="facebook_logo" border="0" alt="facebook_logo" align="right" src="http://lh5.ggpht.com/-ENwJW6S9rpI/Typ573cH-dI/AAAAAAAAEbw/XTth0jVTaSc/facebook_logo_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="80" />](http://lh4.ggpht.com/-mM2S5mhnYv4/Typ5v_RSO6I/AAAAAAAAEbo/X2C2_stAo-A/s1600-h/facebook_logo%25255B3%25255D.jpg)SophosLabs:** Facebook's IPO is the most hyped initial public offering in years, with much speculation about just how many billions of dollars the social networking phenomenon will be valued at. 

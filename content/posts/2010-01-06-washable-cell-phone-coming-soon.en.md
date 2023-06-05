@@ -8,7 +8,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Seal Shield, a Jacksonville, Fla., company that makes washable computer keyboards and mice, said it will introduce the world’s first washable cell phone at the Consumer Electronics Show in Las Vegas this week.

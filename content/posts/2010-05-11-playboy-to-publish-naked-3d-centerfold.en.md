@@ -13,7 +13,7 @@ tags:
   - Publishing
   - Sex
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![3dglasses](http://lh5.ggpht.com/_vaUVXcmC3OI/S-nARMRnA0I/AAAAAAAACL8/NphAlGPuxcs/3dglasses_thumb%5B1%5D.jpg?imgmax=800 "3dglasses")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-nAO5WXu8I/AAAAAAAACL4/Myi2AqvJRV8/s1600-h/3dglasses%5B3%5D.jpg) “What would people most like to see in 3D? Probably a naked lady.” Those are the words of Playboy founder Hugh Hefner, whose magazine will soon include a centerfold playmate photographed naked and in 3D. 

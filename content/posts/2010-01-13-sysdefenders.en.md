@@ -9,7 +9,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 SysDefenders is the latest addition to the clones of the WiniGuard rogue anti-spyware family.

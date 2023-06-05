@@ -12,7 +12,7 @@ tags:
   - spam
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Honestly, how many times have you won free stuff by clicking on links? And no… those spam, trojan, and spyware do not count as free stuff. 

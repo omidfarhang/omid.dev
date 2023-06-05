@@ -11,7 +11,7 @@ tags:
   - ipad
   - trending
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="ipad-appstore" border="0" alt="ipad-appstore" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8XG0V2WRBI/AAAAAAAAB64/ssjb912T1-k/ipad-appstore_thumb%5B3%5D.jpg?imgmax=800" width="500" height="312" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S8XGuoqj0HI/AAAAAAAAB60/PP-5BQF6J24/s1600-h/ipad-appstore%5B5%5D.jpg) If, like me, you live outside of the U.S. and you’re waiting for your chance to purchase the iPad, you’re out of luck. Apple has delayed the international launch of the device until the end of May because it has sold more iPads (over half a million) than it anticipated. 

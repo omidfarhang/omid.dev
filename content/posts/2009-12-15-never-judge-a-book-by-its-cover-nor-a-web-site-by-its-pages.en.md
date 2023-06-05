@@ -10,7 +10,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Case in point: findproper[dot]org

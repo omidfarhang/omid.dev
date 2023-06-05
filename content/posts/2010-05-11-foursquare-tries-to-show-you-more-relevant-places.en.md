@@ -7,7 +7,7 @@ url: 2010/05/11/foursquare-tries-to-show-you-more-relevant-places/
 tags:
   - foursquare
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![foursquare-logo1](http://lh6.ggpht.com/_vaUVXcmC3OI/S-m_gGgko1I/AAAAAAAACLw/S4Mzlj8bt2A/foursquare-logo1_thumb%5B2%5D.jpg?imgmax=800 "foursquare-logo1")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-m_eJtVjNI/AAAAAAAACLo/ws_VLFtnNjA/s1600-h/foursquare-logo1%5B4%5D.jpg) Foursquare is moving to make the list of “Places” one sees when one loads one’s mobile app of choice more relevant. 

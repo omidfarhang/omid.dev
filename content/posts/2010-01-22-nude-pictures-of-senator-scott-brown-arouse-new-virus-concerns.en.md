@@ -11,7 +11,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 False images from Cosmopolitan infect computers with fake antivirus product

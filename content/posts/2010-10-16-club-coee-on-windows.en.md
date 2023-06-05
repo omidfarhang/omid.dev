@@ -10,7 +10,7 @@ tags:
   - Windows
   - Windows 7
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I received a recommendation to check out Club Cooee. It takes the internet chat room to the next level in 3D rooms. You can run Club Cooee like a regular application or keep it always on top so you can do other tasks and see friends chatting in rooms at the same time.

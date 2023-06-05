@@ -9,7 +9,7 @@ tags:
   - review
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Today, our friends at Trend Micro blogged about a new attack vector using Microsoft Word documents. We saw this as well last week, and have written a detection for the dropped trojan.

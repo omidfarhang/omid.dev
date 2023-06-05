@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TY0D_pgb15I/AAAAAAAADyg/zlSNksXdj-g/new-chrome-logo_thumb%5B2%5D.png?imgmax=800" width="128" height="125" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TY0D8U6bPcI/AAAAAAAADyc/3oMel5m_HqA/s1600-h/new-chrome-logo%5B4%5D.png)Avira TechBlog:** It looks like new Chrome releases aren’t due every six weeks as Google announced a few weeks ago, but once a week now – the company just released [Chrome 10.0.648.204](http://googlechromereleases.blogspot.com/2011/03/stable-channel-update.html) and fixes 6 highly critical security vulnerabilities with it. Those security vulnerabilities allow attackers to smuggle in malware like Trojans without the user noticing.

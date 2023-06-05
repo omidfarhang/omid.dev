@@ -12,7 +12,7 @@ tags:
   - iphone
   - iphone os
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![apple-adobe-200](http://lh5.ggpht.com/_vaUVXcmC3OI/S7-pQ6cWqWI/AAAAAAAAB3w/VRa2l_Xo0Ac/apple-adobe-260_thumb%5B2%5D.jpg?imgmax=800 "apple-adobe-200")](http://lh4.ggpht.com/_vaUVXcmC3OI/S7-pPKLsR4I/AAAAAAAAB3s/phCh1atyhOw/s1600-h/apple-adobe-260%5B4%5D.jpg) Adobe has fired back against Apple’s recent ban on building iPhone apps via Flash. And this time, Adobe’s not pulling any of punches. 

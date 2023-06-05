@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - T-Mobile
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft's debut of the KIN yesterday has tech pundits talking about Microsoft's mobile strategy, about the future of Windows Phone, and about the state of the “dumbphone” in general. It's a compelling product. And because KIN comes from Sharp and Danger's parent company Microsoft, the KIN drew a lot of comparisons to the Sidekick straight away. Yesterday, I called KIN the “Sidekick of the 2010s,” _Ars Technica_ called it “Sidekick's next of KIN,” and Wired said Microsoft wants to “update the Sidekick's M.O. for a new decade.” 

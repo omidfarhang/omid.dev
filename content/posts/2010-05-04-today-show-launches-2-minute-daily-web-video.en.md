@@ -10,7 +10,7 @@ tags:
   - Video
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![natalie-morales](http://lh3.ggpht.com/_vaUVXcmC3OI/S99eSB0r51I/AAAAAAAACEY/ul2gd_6F8b8/natalie-morales_thumb%5B1%5D.jpg?imgmax=800 "natalie-morales")](http://lh5.ggpht.com/_vaUVXcmC3OI/S99ePpFr7XI/AAAAAAAACEU/_yjkLjZBaYg/s1600-h/natalie-morales%5B3%5D.jpg) Another mainstream media outlet is dipping their toes into online. “TODAY in 2 Minutes” is a new online-only feature of _The Today Show_. 

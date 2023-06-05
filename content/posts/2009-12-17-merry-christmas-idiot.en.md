@@ -10,7 +10,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 It's not a huge surprise that we are seeing some malware spam runs where the malicious attachment attempts to portray itself as a **Christmas Greeting** of some sort.

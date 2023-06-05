@@ -10,7 +10,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 We’ve been seeing Fake AV programs getting more convincing for a while now. Some of the tricks employed by the guys behind these rogue programs include Windows-7-style fake scanners, in-browser “scanners”, and program features that ape other aspects of the operating system.

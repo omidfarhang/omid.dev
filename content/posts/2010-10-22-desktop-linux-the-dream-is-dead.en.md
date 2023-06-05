@@ -15,7 +15,7 @@ tags:
   - Windows 7
   - windows vista
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="linux" border="0" alt="linux" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMIBLZZN6GI/AAAAAAAAC4Q/gxs8QR9pC68/linux_thumb%5B1%5D.jpg?imgmax=800" width="150" height="180" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMIBJuihtFI/AAAAAAAAC4M/ymxu7NKIv0k/s1600-h/linux%5B3%5D.jpg)The author of this article seems to think Linux in the desktop is dead, with so many missed opportunities, especially during the failure of Windows Vista, they will never break into the market now that Win 7 is so successful.

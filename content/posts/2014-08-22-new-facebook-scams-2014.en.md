@@ -11,7 +11,7 @@ tags:
   - Facebook
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 So many Facebook scams in 2014 have been a little worrying even though at first they all seem innocent enough, but these are social scams to lure users in to gain money or access to computers.

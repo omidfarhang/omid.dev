@@ -9,7 +9,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Variants of the infamous ZeuS cybercrime toolkit have begun using the tactics of the infamous Conficker worm in a bid to get ahead of security defences.

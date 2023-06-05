@@ -9,7 +9,7 @@ tags:
   - news
   - WikiLeaks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="wikileaks-225" border="0" alt="wikileaks-225" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TPK5D9hxMXI/AAAAAAAADQE/mfs03G_wKSU/wikileaks-225_thumb.jpg?imgmax=800" width="225" height="225" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TPK5CEB7zBI/AAAAAAAADQA/1ZFlhQHdN7M/s1600-h/wikileaks-225%5B3%5D.jpg)**Mashable:** Controversial whistleblower website WikiLeaks is reporting that it’s under a “mass distributed denial of service attack” just as its much-hyped leak of secret embassy cables has been leaked early on Twitter. 

@@ -8,7 +8,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="googledocsdiscussions3" border="0" alt="googledocsdiscussions3" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYDlb2yGX4I/AAAAAAAADt8/VAdBKj1tnv0/googledocsdiscussions3_thumb%5B2%5D.png?imgmax=800" width="500" height="301" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TYDlWzz8jeI/AAAAAAAADt4/0AtGBA_S42E/s1600-h/googledocsdiscussions3%5B4%5D.png)In a bid to make Google Docs more appealing to workers and consumers, Google is rolling out a new feature that [lets users of its productivity service discuss shared documents in real-time](http://googledocs.blogspot.com/2011/03/introducing-discussions-in-google-docs.html). The upgrade is aimed at helping users resolve issues faster.

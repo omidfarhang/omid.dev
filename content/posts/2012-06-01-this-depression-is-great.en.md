@@ -7,7 +7,7 @@ url: 2012/06/01/this-depression-is-great/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 They told me look at everything positive, so I’m gonna do it: “This Depression is Great!”

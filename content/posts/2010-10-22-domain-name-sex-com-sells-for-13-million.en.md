@@ -7,7 +7,7 @@ url: 2010/10/22/domain-name-sex-com-sells-for-13-million/
 tags:
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Escom LLC has sold the controversial domain name Sex.com for $13 million, according to [The Register](http://www.theregister.co.uk/2010/10/20/domain_name_sale/). Documents filed in a California court say that the domain was sold to Clover Holdings, a stealthy offshore firm, after winning an auction that included eleven other bidders. Domain name broker Sedo was the exclusive brokerage firm representing the domain, and it will likely take a nice percent of the sale price, although the actual figures are unknown.

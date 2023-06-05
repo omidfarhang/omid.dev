@@ -8,7 +8,7 @@ tags:
   - digg
   - layoffs
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![digg-260](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l5JIuCLuI/AAAAAAAACJw/KhQT9w-1az8/digg-260_thumb%5B1%5D.jpg?imgmax=800 "digg-260")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-l5HYLCUuI/AAAAAAAACJs/tIwgJDN7Nrk/s1600-h/digg-260%5B3%5D.jpg) Social news site Digg has just laid off 10% of its staff according to a representative from the company. The move comes a month after Jay Adelson’s sudden departure as CEO, in which he was replaced by company founder Kevin Rose. 

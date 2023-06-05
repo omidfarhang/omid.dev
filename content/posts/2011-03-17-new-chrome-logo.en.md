@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [The latest Chrome Dev Channel release](http://googlechromereleases.blogspot.com/2011/03/dev-channel-update_15.html) comes with a new Chrome logo that's more plain and boring, but looks better as a desktop icon. Even if not many people will switch to a different browser just because they don't like the new logo, Chrome lost some of its magic by switching to a visual identity that's no longer vibrant and picturesque. Here's the new Chrome icon:

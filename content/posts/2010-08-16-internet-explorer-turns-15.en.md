@@ -9,7 +9,7 @@ tags:
   - Internet Explorer
   - Microsoft
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="internetexplorer" border="0" alt="internetexplorer" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TGlEG-0f7rI/AAAAAAAACYk/CTeXntvuQus/internetexplorer_thumb%5B2%5D.jpg?imgmax=800" width="250" height="243" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TGlD_P4RlgI/AAAAAAAACYg/3bwL-LIvIrM/internetexplorer%5B4%5D.jpg?imgmax=800) 

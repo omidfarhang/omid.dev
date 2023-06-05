@@ -11,7 +11,7 @@ tags:
   - news
   - Thunderbird
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Welcome to our first release of the new Mozilla [about:support](https://mozillalabs.com/messaging/aboutsupport/) add-on.

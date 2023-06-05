@@ -8,7 +8,7 @@ image: /images/sites/2/2012/06/fathers-day-gifts.jpg
 tags:
   - events
 lang: en
-category: 
+categories: 
   - blog
 ---
 [<img class="aligncenter size-full wp-image-160" alt="fathers-day-gifts" src="/images/2012/06/fathers-day-gifts.jpg" width="500" height="207" srcset="/images/sites/2/2012/06/fathers-day-gifts.jpg 500w, /images/sites/2/2012/06/fathers-day-gifts-300x124.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/images/2012/06/fathers-day-gifts.jpg)

@@ -8,7 +8,7 @@ tags:
   - Facebook
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Facebook and security. Is it a marriage that has any legs? 

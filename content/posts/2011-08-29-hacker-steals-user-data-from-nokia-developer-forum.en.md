@@ -11,7 +11,7 @@ tags:
   - report
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/-FobM6PnU4Pk/Tlv3e3t6ZEI/AAAAAAAAD_8/4jqYXJT1UD0/s1600/nokia-logo.jpg)](http://3.bp.blogspot.com/-FobM6PnU4Pk/Tlv3e3t6ZEI/AAAAAAAAD_8/4jqYXJT1UD0/s1600/nokia-logo.jpg)

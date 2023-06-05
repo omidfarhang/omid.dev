@@ -15,7 +15,7 @@ tags:
   - security
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The **Intel Security Advanced Threat Research Team** has discovered a critical signature forgery vulnerability in the **Mozilla Network Security Services (NSS) crypto library** that could allow malicious parties to set up fraudulent sites masquerading as legitimate businesses and other organizations.

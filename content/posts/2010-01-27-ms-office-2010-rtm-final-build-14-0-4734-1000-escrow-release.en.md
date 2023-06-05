@@ -9,7 +9,7 @@ tags:
   - news
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft Corporation has almost started assembling the final build of **Office 2010 aka (MS office 14) RTM version**. As per the news leaked on **Wzor**, Development of OFFICE 2010 software package has come to its last stage.The build is codenamed as Escrow with build number **14.0.4734.1000**

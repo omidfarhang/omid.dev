@@ -9,7 +9,7 @@ tags:
   - phishing
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 A few days ago, I blogged saying that [Old websites don’t die they just get infected](http://boelectronic.blogspot.com/2010/02/trojiframe-dy-old-websites-dont-die.html) the other scenario is that they become part of a spammers SEO campaign.

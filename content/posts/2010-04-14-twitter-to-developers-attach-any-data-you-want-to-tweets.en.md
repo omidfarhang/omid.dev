@@ -8,7 +8,7 @@ tags:
   - Development
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="chirp-260 (1)" border="0" alt="chirp-260 (1)" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8ZBZRyPldI/AAAAAAAAB9I/vz0MpNGzlg4/chirp-260%20%281%29_thumb%5B1%5D.jpg?imgmax=800" width="244" height="179" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZBXYF6RFI/AAAAAAAAB9E/A6iqtp1qWLQ/s1600-h/chirp-260%20%281%29%5B3%5D.jpg) Metadata has long been part of Twitter applications. Viewing conversation threads or learning about a user’s location has changed how users interact with content and have provided third party app developers with great opportunities to innovate on Twitter’s platform. 

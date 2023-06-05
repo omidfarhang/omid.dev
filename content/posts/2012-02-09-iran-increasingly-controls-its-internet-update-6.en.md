@@ -9,7 +9,7 @@ tags:
   - internet
   - Iran
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="iran-internet-censors" border="0" alt="iran-internet-censors" align="right" src="http://lh4.ggpht.com/-9bbLyP_eQN4/TzQ_fGpbUWI/AAAAAAAAEm0/1yqoTUCqqZ4/iran-internet-censors_thumb.jpg?imgmax=800" width="244" height="164" />](http://lh6.ggpht.com/-A1LnU8Y6uGU/TzQ_VciwJQI/AAAAAAAAEms/LwxiygHb6zo/s1600-h/iran-internet-censors%25255B2%25255D.jpg)**Washington Post wrote:**

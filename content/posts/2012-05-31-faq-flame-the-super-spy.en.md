@@ -10,7 +10,7 @@ tags:
   - review
   - Stuxnet
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Copied from H-Online: <a href="http://www.h-online.com/security/features/FAQ-Flame-the-super-spy-1587063.html" target="_blank">Source</a>

@@ -11,7 +11,7 @@ tags:
   - Hijack
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Posted by Diana Phan, Gmail Support Team

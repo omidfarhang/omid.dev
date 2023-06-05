@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft Vice President of Trustworthy Computing Scott Charney, in a keynote address at the RSA security conference in San Francisco yesterday, called for quarantines on malware-infected PCs. His remarks were widely covered by a variety of web news outlets.

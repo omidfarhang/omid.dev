@@ -11,7 +11,7 @@ tags:
   - Windows Live
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <img title="img-33742-microsoft-windows-live-logo-450x360" border="0" alt="img-33742-microsoft-windows-live-logo-450x360" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TNHeI_1-3XI/AAAAAAAADBM/cCWiwGQBULA/img-33742-microsoft-windows-live-logo-450x360%5B9%5D.jpg?imgmax=800" width="300" height="153" />Microsoft's Hotmail rolled out its new service that allows streaming mail from other vendors like Gmail and Yahoo, in an attempt to make Hotmail the primary destination for email management rather than just a repository of spams. 

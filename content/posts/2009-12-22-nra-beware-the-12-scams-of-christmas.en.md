@@ -10,7 +10,7 @@ tags:
   - phishing
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 _This is the '12 scams of Christmas' I mentioned in last post:_

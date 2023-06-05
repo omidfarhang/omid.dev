@@ -10,7 +10,7 @@ tags:
   - MySpace
   - social media
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![myspace](http://lh3.ggpht.com/_vaUVXcmC3OI/S8ogsYLHv_I/AAAAAAAACBI/Kda0Oo0U31k/myspace_thumb%5B1%5D.jpg?imgmax=800 "myspace")](http://lh5.ggpht.com/_vaUVXcmC3OI/S8ogqFiSLhI/AAAAAAAACBE/PY3Yhcc545g/s1600-h/myspace%5B3%5D.jpg) If you’re one of those people who scribbles your plans for a given week on the back of the junk mail in your purse (totally not me…), then you could probably benefit from MySpace’s new [platform](http://events.myspace.com/).

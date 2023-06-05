@@ -9,7 +9,7 @@ tags:
   - Google
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![google-favicon](/images/2012/08/new-google-favicon24.png)

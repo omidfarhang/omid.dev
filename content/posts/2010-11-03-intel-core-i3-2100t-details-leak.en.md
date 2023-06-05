@@ -10,7 +10,7 @@ tags:
   - intel
   - leak
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="intel core i3" border="0" alt="intel core i3" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNHAn2PgV6I/AAAAAAAADAU/ii7RZUCXeIc/intel%20core%20i3_thumb%5B7%5D.jpg?imgmax=800" width="255" height="213" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNHAmr3tVVI/AAAAAAAADAQ/S8JOAifxGXA/s1600-h/intel%20core%20i3%5B4%5D.jpg)Details of Intel's upcoming Sandy Bridge-based i3 processors have leaked out, and there's one particular model that has caught people's interest: it features a tiny TDP.

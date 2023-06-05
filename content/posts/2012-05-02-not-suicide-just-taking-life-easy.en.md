@@ -7,7 +7,7 @@ url: 2012/05/02/not-suicide-just-taking-life-easy/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 I’m not going jump off from the tower, I’m not going to overdoes any drug, I’m not going to cut my Wrist, I’m not going to drive high speed against a wall without seatbelt (but I’ve to claim that’s fun if do it with a good music!), I’m not going to burn myself with gasoline, not drowning too, I’m not going to turn on my car in the garage with the doors closed, I’m not going to headshot myself (I don’t have a gun), I’m not going to lock myself in a very cold place, I’m not going to hug a high voltage wire, not hanging myself too, I’m not going to jump in front of metro, train or a car in highway…! no! I’m not going to suicide!

@@ -10,7 +10,7 @@ tags:
   - news
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![chrome_8](http://lh6.ggpht.com/_vaUVXcmC3OI/TLYSrZdGqlI/AAAAAAAACpg/mPMejgIaJwI/chrome_8_thumb%5B1%5D.png?imgmax=800 "chrome_8")](http://lh6.ggpht.com/_vaUVXcmC3OI/TLYSpenSmWI/AAAAAAAACpc/r1qWMpYTEfk/s1600-h/chrome_8%5B3%5D.png)Windows/Mac/Linux: Chrome has hit version 8 in its Dev builds, adding more solid graphics acceleration to the web using your video hardware, along with a few new Labs features that herald the coming of Chrome OS.

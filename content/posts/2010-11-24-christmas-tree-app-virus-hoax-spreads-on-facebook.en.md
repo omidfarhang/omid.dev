@@ -10,7 +10,7 @@ tags:
   - report
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Thousands of Facebook users are warning each other about a Christmas Tree virus said to be spreading in the form of a rogue application on the social network.

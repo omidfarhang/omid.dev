@@ -8,7 +8,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/-ogbPo-aC1tM/Tm4RqkuxELI/AAAAAAAAEBs/ve__tCH7zw0/s1600/globalsign-180.png)](http://4.bp.blogspot.com/-ogbPo-aC1tM/Tm4RqkuxELI/AAAAAAAAEBs/ve__tCH7zw0/s1600/globalsign-180.png)

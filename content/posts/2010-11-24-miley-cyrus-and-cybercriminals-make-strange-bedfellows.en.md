@@ -8,7 +8,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![miley-cyrus](http://lh3.ggpht.com/_vaUVXcmC3OI/TO0yjIfBZaI/AAAAAAAADNM/tpXjfuKA4_A/miley-cyrus_thumb.jpg?imgmax=800 "miley-cyrus")](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0yhmgqINI/AAAAAAAADNI/RpiH8nHRt3Y/s1600-h/miley-cyrus%5B2%5D.jpg)Miley Cyrus is eighteen years old since yesterday.

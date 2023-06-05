@@ -10,7 +10,7 @@ tags:
   - security
   - security essnetials
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **ghacks.net:** Microsoft has just released a beta of a system recovery software. Microsoft Standalone System Sweeper has been designed to aid users in starting an infected PC and performing offline malware scans to remove viruses, trojans, rootkits and other forms of malware effectively. It is also used if malware is hindering the user to install or start an antivirus software on the infected system, or if the applications used to detect malware are not able to find the malware on the PC.

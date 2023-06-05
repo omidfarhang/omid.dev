@@ -13,7 +13,7 @@ tags:
   - Microsoft
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Google Operation System Blog:** [<img title="internetexplorer9logo" border="0" alt="internetexplorer9logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TYYXCXRVEJI/AAAAAAAADwI/xdgHWWEuq0Q/internetexplorer9logo_thumb%5B3%5D.png?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TYYXAcip9FI/AAAAAAAADwE/mURv95KDv3I/s1600-h/internetexplorer9logo%5B5%5D.png)I tried to download the latest Chromium build using Internet Explorer 9 and it was one of the most painful downloading experiences. Microsoft tries to protect users from downloading malware and uses a feature called [SmartScreen Filter](http://www.microsoft.com/security/online-privacy/smartscreen.aspx) that “checks software downloads against a dynamically updated list of reported malicious software sites”. This feature was available in IE8, but the latest version of IE [tried to improve it](http://blogs.msdn.com/b/ie/archive/2010/10/13/stranger-danger-introducing-smartscreen-application-reputation.aspx) by analyzing application reputation.

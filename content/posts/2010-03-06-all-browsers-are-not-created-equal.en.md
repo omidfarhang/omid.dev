@@ -9,7 +9,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 My friends often ask me about steps they can take to keep their systems at work and home free from malware. Apart from the usual recommendation to use alternative, less targeted and therefore slightly more secure operating system like Linux or OSX (OpenBSD would also be an interesting alternative) I used to mention that a change of the web browser would also be very helpful.

@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Adobe wrote: 

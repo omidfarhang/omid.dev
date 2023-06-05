@@ -8,7 +8,7 @@ tags:
   - alert
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Symantec Connect:** Maslenitsa (Маслница) is a religious holiday celebrated in Russia and Ukraine during the last week before Lent, i.e. the seventh week before Pascha (Easter). This festival is also known as Pancake week or Butter week. During this week people enjoy the social activities that are forbidden during the prayerful Lenten season, such as partying, dancing etc. This year the Maslenitsa will be celebrated from February 20 to February 26. 

@@ -10,7 +10,7 @@ tags:
   - Twitter
   - WordPress
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="twitter_logo_header" border="0" alt="twitter_logo_header" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNV1PjBYkjI/AAAAAAAADFM/EAmYfhf0D60/twitter_logo_header_thumb%5B1%5D.png?imgmax=800" width="155" height="36" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNV1NY2OnyI/AAAAAAAADFI/pTtT0Fc1OAg/s1600-h/twitter_logo_header%5B3%5D.png)Mashable**: Months ago, Twitter released a clunky tool called Blackbird Pie for embedding tweets in blog posts. Today WordPress has radically simplified and improved tweet embedding with a new feature, also named Twitter Blackbird Pie. 

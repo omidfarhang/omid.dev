@@ -9,7 +9,7 @@ tags:
   - BLOGS
   - malware
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Brian Krebs, in his “Krebs on Security” blog is reporting that a large number of WordPress blog pages have been hacked to redirected visitors to networkads.net that downloads rogue security applications onto their machines. Also, the owners of the blogs are locked out of access.

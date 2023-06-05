@@ -12,7 +12,7 @@ tags:
   - iPad 3G
   - teardown
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7crPYMqgJI/AAAAAAAABck/6euwnPA9Hsg/s1600/ipad-260.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7crPYMqgJI/AAAAAAAABck/6euwnPA9Hsg/s1600-h/ipad-260.jpg)

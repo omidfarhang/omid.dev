@@ -11,7 +11,7 @@ tags:
   - malware
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 

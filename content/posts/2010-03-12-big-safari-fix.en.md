@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qA7yBZAZI/AAAAAAAABQ8/Z7FB10YpscQ/s640/safari512px.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qA7yBZAZI/AAAAAAAABQ8/Z7FB10YpscQ/s1600-h/safari512px.jpg)

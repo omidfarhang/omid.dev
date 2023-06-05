@@ -10,7 +10,7 @@ tags:
   - spam
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Toy Story 3 is romping across cinemas Worldwide, and rightly so – it’s the best of the series by far. I thought it might be worth pointing out that being a product aimed at children doesn’t exclude it from internet shenanigans.

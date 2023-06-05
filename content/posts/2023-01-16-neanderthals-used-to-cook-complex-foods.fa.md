@@ -10,7 +10,7 @@ tags:
   - history
   - Good Reads
 lang: en
-category: 
+categories: 
   - blog
 ---
 این مطلب گاردین برام جالب بود، گفتم اینجا شر کنم:

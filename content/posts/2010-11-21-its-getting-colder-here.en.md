@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/21/its-getting-colder-here/
 lang: en
-category: 
+categories: 
   - blog
 ---
 Good news, at least for me who love winter, it’s getting colder here, forecast says! Winter is one month away!

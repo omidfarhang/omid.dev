@@ -10,7 +10,7 @@ tags:
   - flash player
   - iphone
 lang: en
-category: 
+categories: 
   - techblog
 ---
 At its MAX conference, [Adobe](http://www.businesswire.com/news/home/20101024005144/en/Adobe-Extends-AIR-Applications-Screens) not only announced Air 2.5 for phones, tablets, and TVs but it also confirmed that it would be bringing Flash Player 10.1 to Microsoft's Windows Phone 7, RIM's BlackBerry OS, HP's WebOS 2.0, Symbian, MeeGo, and the LiMo platform. Unfortunately, there's still no timeline for a release on each platform; Adobe is only saying that Flash 10.1 is “expected” to hit each mobile OS. 

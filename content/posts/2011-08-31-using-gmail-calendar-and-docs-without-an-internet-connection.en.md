@@ -12,7 +12,7 @@ tags:
   - offline
   - suggestion
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![Gmail_logo](http://4.bp.blogspot.com/-iYQOzf2cIIA/Tl5wEg7akdI/AAAAAAAAEAI/42xHHHpDx04/s1600/Gmail_logo.png)

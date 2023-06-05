@@ -11,7 +11,7 @@ tags:
   - Twitter
   - Twitter Trend
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Symantec Connect:** We have become familiar enough with malware creators poisoning popular search engine terms through SEO techniques in order to deliver their malicious files to a greater pool of unsuspecting users. Other popular services such as Twitter have not escaped the watchful eyes of the miscreants. This attack involves pumping out many of the same tweets with different accounts to push them into the Twitter trending list. That way more people are likely to see them even if the individual user accounts being used to send the tweets don't have that many followers. Incidentally many of the accounts used in this attack don't have that many followers and are quite fresh – meaning they are probably fake accounts set up specifically for the purpose of spamming tweets.

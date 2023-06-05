@@ -7,7 +7,7 @@ url: 2012/03/13/critical-vulnerabilities-in-xnview-fixed/
 tags:
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="XnView_logo_200_b" border="0" alt="XnView_logo_200_b" align="right" src="http://lh5.ggpht.com/-Y_NJ_SEAJug/T19Mqmnrc8I/AAAAAAAAFJU/7mozpWFBozE/XnView_logo_200_b_thumb%25255B1%25255D.png?imgmax=800" width="200" height="189" />](http://lh5.ggpht.com/-wpI1llNwDF0/T19Mk2lStvI/AAAAAAAAFJM/bzIBmAL6aGY/s1600-h/XnView_logo_200_b%25255B3%25255D.png)The H-Online:** Version 1.98.8 of the popular [XnView](http://www.xnview.com/en/index.html) image viewer and converter has been released to close security holes in the software. According to an [advisory](http://secunia.com/advisories/47388/) from security service provider Secunia, the update addresses three “highly critical” vulnerabilities that could be exploited by an attacker to execute arbitrary code and compromise a victim's system. 

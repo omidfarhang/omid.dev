@@ -15,7 +15,7 @@ tags:
   - spam
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Sophos Labs: Twitter users are being hit today by messages claiming to link to a new app from Twitter which will track your stalkers.

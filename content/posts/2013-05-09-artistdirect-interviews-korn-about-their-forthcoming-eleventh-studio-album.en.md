@@ -9,7 +9,7 @@ tags:
   - Korn
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ARTISTdirect sits down with James “Munky” Shaffer, Brian “Head” Welch, Reggie “Fieldy” Arvizu, and Ray Luzier for Korn's very first interview together about their forthcoming eleventh studio album, the upcoming tour, and so much more…

@@ -11,7 +11,7 @@ tags:
   - Twitter
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 “What are you doing?  

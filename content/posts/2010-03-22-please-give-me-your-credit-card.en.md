@@ -10,7 +10,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I won't abuse it, I promise…. cross my heart… spit into the wind… etc.

@@ -10,7 +10,7 @@ tags:
   - privacy
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="myspace" border="0" alt="myspace" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMShUNYSATI/AAAAAAAAC44/tSK8kF5k3fU/myspace_thumb.jpg?imgmax=800" width="154" height="47" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMShTJ4T-pI/AAAAAAAAC40/wx0vdxTVcsI/s1600-h/myspace%5B2%5D.jpg)New York (CNN)** — Social networking site MySpace, while acknowledging it shares profile information with advertisers, said Saturday that it is taking action against app developers who may have violated the website's terms of use by sharing user data.

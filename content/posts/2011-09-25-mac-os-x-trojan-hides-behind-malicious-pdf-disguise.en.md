@@ -10,7 +10,7 @@ tags:
   - malware
   - PDF
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **SophosLabs:** A fascinating new example of Mac malware has been discovered, that appears to be adopting an old Windows-style disguise to fool users into running it.

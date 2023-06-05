@@ -10,7 +10,7 @@ tags:
   - Matisyahu
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 [![Matisyahu%202](/images/2013/03/matisyahu202_thumb.jpg "Matisyahu%202")](/images/2013/03/matisyahu202.jpg)

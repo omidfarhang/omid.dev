@@ -10,7 +10,7 @@ tags:
   - report
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 As we have commented before when content served up from adservers is compromised, the effects can be far reaching, potentially exposing huge numbers of victims to the malicious code as they innocently browse legitimate sites. The problem is further complicated by the fact that legitimate ad content is often heavily obfuscated, in order to evade ad-blocking technology.

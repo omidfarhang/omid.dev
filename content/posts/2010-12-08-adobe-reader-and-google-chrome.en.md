@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - PDF
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="google-chrome-logo" border="0" alt="google-chrome-logo" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP7ME5rWs5I/AAAAAAAADdc/oguej2glUu0/google-chrome-logo_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TP7MCkVbQ2I/AAAAAAAADdY/SMiiC3diMfg/s1600-h/google-chrome-logo%5B3%5D.png)The latest release of Google Chrome includes the Chrome PDF Viewer which won’t properly display some PDF files like Dynamic Forms and PDF Portfolios. While Google Chrome is not a supported browser, the Adobe PDF Plug-In For Firefox and Netscape 10.0.0 does actually work with Chrome on Windows.

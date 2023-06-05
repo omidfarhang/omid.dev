@@ -12,7 +12,7 @@ tags:
   - StreetView
   - WiFi
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="GoogleWiFi" border="0" alt="GoogleWiFi" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL7eS-1pEzI/AAAAAAAACyI/PT4zfOk_N4w/GoogleWiFi_thumb%5B1%5D.jpg?imgmax=800" width="188" height="142" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL7eRHeWY-I/AAAAAAAACyE/TrjozHFk5js/s1600-h/GoogleWiFi%5B3%5D.jpg)Google has no plans to resume using its Street View cars to collect information about the location of Wi-Fi networks, a practice that led to a flurry of privacy probes after the company said it unintentionally captured fragments of unencrypted data.

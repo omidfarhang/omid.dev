@@ -10,7 +10,7 @@ tags:
   - Google
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Time Techland wrote: 

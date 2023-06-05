@@ -11,7 +11,7 @@ tags:
   - Vulnerability
   - Windows
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://1.bp.blogspot.com/-5eEVmm7z0Rg/Tjv9IVT_YSI/AAAAAAAAD8Y/Z77QkCF_30M/s1600/windows+update.jpg)](http://1.bp.blogspot.com/-5eEVmm7z0Rg/Tjv9IVT_YSI/AAAAAAAAD8Y/Z77QkCF_30M/s1600/windows+update.jpg)

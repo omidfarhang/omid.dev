@@ -10,7 +10,7 @@ tags:
   - review
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Don’t run your PC with admin privileges

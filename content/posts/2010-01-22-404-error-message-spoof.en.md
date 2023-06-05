@@ -8,7 +8,7 @@ tags:
   - alert
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Some questionable sites associated with the Winigard family of rogue security products pulls it from this location, which appears to belong to a graphic designer in Canada.

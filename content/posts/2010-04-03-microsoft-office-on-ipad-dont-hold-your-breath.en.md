@@ -13,7 +13,7 @@ tags:
   - microsoft office 2010
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600/microsoftoffice2010beta-300x167.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600-h/microsoftoffice2010beta-300x167.jpg)

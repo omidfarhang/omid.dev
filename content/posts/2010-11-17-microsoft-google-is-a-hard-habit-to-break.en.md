@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="250px-Microsoft_wordmark.svg" border="0" alt="250px-Microsoft_wordmark.svg" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TORAsxBKcKI/AAAAAAAADKk/sRPbJaBqjWA/250px-Microsoft_wordmark.svg_thumb%5B2%5D.png?imgmax=800" width="150" height="26" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TORArJzqSeI/AAAAAAAADKg/op81LFwAHck/s1600-h/250px-Microsoft_wordmark.svg%5B4%5D.png)Microsoft says Google is a bad habit, and it's hard for people to break it in order to try alternatives, such as the company's search engine, Bing. “It's a hard thing. Habits die hard,” Yusuf Mehdi, Microsoft's Senior Vice President of Online Audience Business, said at the Web 2.0 Summit in San Francisco, according to [PC World](http://www.pcworld.com/businesscenter/article/210751/microsofts_mehdi_google_is_a_hard_habit_to_break.html). 

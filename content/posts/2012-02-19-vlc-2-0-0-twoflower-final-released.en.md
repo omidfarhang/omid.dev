@@ -9,7 +9,7 @@ tags:
   - Updates
   - VLC
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [_<img title="largeVLC" border="0" alt="largeVLC" align="right" src="http://lh5.ggpht.com/-LkwOrth6Tvw/T0DpaoraJPI/AAAAAAAAE4Q/lWmZixihMiI/largeVLC_thumb%25255B5%25255D.png?imgmax=800" width="96" height="99" />_](http://lh3.ggpht.com/-m-JabhdajIQ/T0DpWOsKNuI/AAAAAAAAE4I/9yLStT9w_Sg/s1600-h/largeVLC%25255B11%25255D.png)**WebTrickz:** _VideoLAN_ has finally released the much awaited 2.0 version of “VLC Media Player”, the best and most popular media player for Windows, Mac OS X and Linux. VLC is a free and open source cross-platform multimedia player that plays most multimedia files including DVD, Audio CD, VCD, and various streaming protocols. VLC 2.0.0 “Twoflower” is a major release, presented after 485 million downloads of VLC 1.1.x versions. It efficiently plays most codecs (MPEG-2, H.264, DivX, MPEG-4, WebM, WMV player) _without_ requiring any codec packs. 

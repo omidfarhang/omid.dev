@@ -10,7 +10,7 @@ tags:
   - privacy
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The All Facebook blog (not an official Facebook site) is reporting that Facebook’s Public Policy Director, Tim Sparapani has said the company will install privacy settings that are easier to understand and control in the next few weeks. ([“Facebook Preparing To Release Simple Privacy Settings”](http://www.allfacebook.com/2010/05/facebook-preparing-to-release-simple-privacy-settings/#more-14421) )

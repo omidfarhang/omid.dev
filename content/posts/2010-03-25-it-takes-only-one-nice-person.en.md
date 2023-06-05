@@ -11,7 +11,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 In the security industry we often focus heavily on new technologies and shiny new software, and forget that so much of what we see is dependent on the person behind the computer.

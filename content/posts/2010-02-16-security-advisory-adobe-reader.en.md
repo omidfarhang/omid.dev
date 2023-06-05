@@ -9,7 +9,7 @@ tags:
   - alert
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 It's Fat Tuesday — time for an Adobe Update.

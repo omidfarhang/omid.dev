@@ -14,7 +14,7 @@ tags:
   - report
   - Safari
 lang: en
-category: 
+categories: 
   - techblog
 ---
 In the Pwn2Own hacking contest at the CanSecWest security conference in Vancouver, Canada, security researchers and hackers quickly hacked three of the major browsers to take control of the underline operating systems.

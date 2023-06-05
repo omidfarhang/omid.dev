@@ -10,7 +10,7 @@ tags:
   - Skype
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="skype_logo200" border="0" alt="skype_logo200" align="right" src="http://lh4.ggpht.com/-7EPh_zAX_yI/T57GZ-WuvwI/AAAAAAAAFx4/r0qGoHHpA7w/skype_logo200_thumb.png?imgmax=800" width="200" height="88" />](http://lh3.ggpht.com/-vNLSJyvb0pw/T57GX25RrHI/AAAAAAAAFxs/3xDJMiD49B0/s1600-h/skype_logo200%25255B2%25255D.png)The H-Online: According to a [blog post](http://skype-open-source.blogspot.com/2012/04/skype-user-ip-address-disclosure.html), a modified version of the [Skype](http://www.skype.com/) VoIP software can be used to easily find out the [IP address](http://en.wikipedia.org/wiki/IP_address) of any valid Skype user. No contact has to be made with the user in order to get the information. This IP could then be used to find out other personal details about the user, such as their location or even their employer. 

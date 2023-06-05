@@ -15,7 +15,7 @@ tags:
   - spam
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 You might be wondering why the frontpage of Twitter has a big “Edit” line running through it in the screenshot below: 

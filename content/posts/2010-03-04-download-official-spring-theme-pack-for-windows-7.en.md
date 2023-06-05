@@ -7,7 +7,7 @@ url: 2010/03/04/download-official-spring-theme-pack-for-windows-7/
 tags:
   - Microsoft
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Microsoft has released new spring theme for windows 7 to bring the feeling of season change right on your desktop. It is named Czech and is a light, simple and beautiful theme with eight eye catching nature wallpapers.

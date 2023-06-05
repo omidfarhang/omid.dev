@@ -9,7 +9,7 @@ tags:
   - news
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="friends" border="0" alt="friends" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMqzl4d8Y4I/AAAAAAAAC-E/3yYznSvDjmY/friends_thumb%5B1%5D.jpg?imgmax=800" width="229" height="229" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMqzkdc5wtI/AAAAAAAAC-A/bXD-FOHkif4/s1600-h/friends%5B5%5D.jpg)Mashable**: Facebook is rolling out a new breed of Pages called Friendship Pages that pull together the public wall posts, comments, photos (based on tags) and events that two friends have in common. 

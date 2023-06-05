@@ -16,7 +16,7 @@ tags:
   - Premiere
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="CS5" border="0" alt="CS5" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8N4nh4L3qI/AAAAAAAAB6g/qakB6wu_tao/CS5_thumb%5B2%5D.jpg?imgmax=800" width="264" height="215" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S8N4lsgdLiI/AAAAAAAAB6c/zbXKHdK2ryY/s1600-h/CS5%5B4%5D.jpg) Although there’s a heated Adobe vs. Apple discussion going on, creative professionals are probably much more excited about the latest version of Adobe’s Creative Suite, which is now officially available. 

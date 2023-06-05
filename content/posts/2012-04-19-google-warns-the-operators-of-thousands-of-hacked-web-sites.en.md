@@ -10,7 +10,7 @@ tags:
   - news
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![](http://lh6.ggpht.com/-iUloGInc-To/T4_A6RX9U_I/AAAAAAAAFjs/6tmfT_Ne2uk/s1600-h/google_logo200%25255B1%25255D.jpg)

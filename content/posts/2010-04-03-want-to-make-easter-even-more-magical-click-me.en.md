@@ -8,7 +8,7 @@ tags:
   - alert
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 As Easter approaches, spam related to this upcoming holiday is expected. Spammers didn’t send malicious greetings like last year—they sent out various product promotion ads instead. One particular coupon promotion page offers recipients a free coupon for digital TV service for Easter. A domain attack was observed from this spam attack, and the offer page changed to different product coupons on a daily basis.

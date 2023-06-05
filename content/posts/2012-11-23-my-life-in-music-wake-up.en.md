@@ -8,7 +8,7 @@ image: /images/sites/2/2012/11/artworks-k.jpg
 tags:
   - Music Life
 lang: en
-category: 
+categories: 
   - blog
 ---
 This is how I start my day, everyday:

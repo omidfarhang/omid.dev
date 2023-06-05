@@ -12,7 +12,7 @@ tags:
   - news
   - UK
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="gmail" border="0" alt="gmail" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-AffPBN-zI/AAAAAAAACFo/NKL5PymxQwg/gmail_thumb%5B1%5D.jpg?imgmax=800" width="264" height="189" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S-AfdcnifEI/AAAAAAAACFk/T4LOspdT2gQ/s1600-h/gmail%5B3%5D.jpg) In the UK, Google was forced to give its email service Gmail a different name, Googlemail, because of a trademark dispute. These disputes take a long time ([Gmail was changed into Googlemail](http://mail.google.com/mail/help/intl/en-GB/googlemail.html) in October 19, 2005), so Google opted on using a different (yet recognizable) name until the dispute is resolved. 

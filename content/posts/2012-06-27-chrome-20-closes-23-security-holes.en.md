@@ -11,7 +11,7 @@ tags:
   - security
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 <a href="http://lh3.ggpht.com/-5tLk-1Q69IY/T-tFBEJLVMI/AAAAAAAAGYw/qorAPNz8kiM/s1600-h/new-chrome-logo%25255B2%25255D.png" target="_blank"><img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh6.ggpht.com/-Xgvi12eO5rY/T-tFG3FLfuI/AAAAAAAAGY4/o_PyS513zxc/new-chrome-logo_thumb.png?imgmax=800" width="128" height="125" /></a>Google has closed a total of [23 vulnerabilities](http://googlechromereleases.blogspot.com/2012/06/stable-channel-update_26.html) with the release of Chrome 20. Of those vulnerabilities, 14 are rated critical, enabling attackers to execute code in the browser's sandbox, among other things. Integer overflow vulnerabilities in the code for processing PDF files and Matroska containers (.mkv) have also been fixed. Chrome 20 also [includes](http://support.google.com/chrome/bin/answer.py?hl=en&answer=108086) the latest version of Adobe's Flash Player on Linux, using the new cross-platform [Pepper API](https://developers.google.com/native-client/). In testing at **The H**, it was confirmed that the Flash Player support also works on 64-bit Linux systems. 

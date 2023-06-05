@@ -7,7 +7,7 @@ url: 2010/03/02/waldec-vs-microsoft-and-then-twitter/
 tags:
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 There were a couple of news items that I thought were interesting enough, albeit unrelated, to comment on. The first (story here:  [http://news.bbc.co.uk/1/hi/technology/8537771.stm](http://news.bbc.co.uk/1/hi/technology/8537771.stm))

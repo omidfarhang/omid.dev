@@ -12,7 +12,7 @@ tags:
   - scam
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Email is still the most common method used for security update notifications from all major vendors, but it is also the most commonly used trigger for launching the chain of infection attacks by malware writers. When I came to work today I found in my Inbox a message from Microsoft with the [Security Bulletin Advance Notification for December](http://www.microsoft.com/technet/security/Bulletin/ms09-dec.mspx). I immediately clicked on one of the links to visit the yet to be published December Security Bulletin and investigate how many critical vulnerabilities will be fixed this month.

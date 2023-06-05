@@ -12,7 +12,7 @@ tags:
   - ipad
   - printing
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![cloud_print](http://lh4.ggpht.com/_vaUVXcmC3OI/S8heGgw5TpI/AAAAAAAAB-c/qk-X6SXWjAA/cloud_print_thumb%5B3%5D.jpg?imgmax=800 "cloud_print")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8heEurXqiI/AAAAAAAAB-Y/Rc-qdPJxmH0/s1600-h/cloud_print%5B5%5D.jpg) Whenever you want to print out a document, you rely on your local operating system, which must have drivers installed for each printer you intend to use. Most of the time, it’s not an issue: at home, you probably have one printer, and all your PCs have the required drivers. 

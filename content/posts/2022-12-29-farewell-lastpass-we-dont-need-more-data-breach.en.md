@@ -12,7 +12,7 @@ tags:
   - bitwarden
   - data breach
 lang: en
-category: 
+categories: 
   - techblog
 ---
 You've heard it again and again: [You need to use a password manager to generate strong, unique passwords and keep track of them for you]({{< ref "/knowledge-base/passwords/" >}}). And if you finally took the plunge with a free and mainstream option, particularly during the 2010s, it was probably LastPass. For the security service's 25.6 million users, though, the company made [a worrying announcement](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/) last week: A security incident the firm previously reported on November 30 was actually a massive and concerning data breach that exposed encrypted password vaults—the crown jewels of any password manager—along with other user data.

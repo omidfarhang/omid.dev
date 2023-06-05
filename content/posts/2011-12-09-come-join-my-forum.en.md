@@ -7,7 +7,7 @@ url: 2011/12/09/come-join-my-forum/
 tags:
   - This Blog Update
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Hi Folks!

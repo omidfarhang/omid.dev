@@ -9,7 +9,7 @@ tags:
   - Google Toolbar
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Google Operation System:** After Google released Chrome, Google Toolbar's development [slowed down](http://googleblog.blogspot.com/search?q=%22google%20toolbar%22). That's because Google Toolbar is no longer the primary vehicle for adding browser features and Google mostly focused on improving Chrome.

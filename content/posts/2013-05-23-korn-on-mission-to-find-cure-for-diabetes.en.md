@@ -9,7 +9,7 @@ tags:
   - Korn
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![](/images/2013/05/Jonathan.jpg)

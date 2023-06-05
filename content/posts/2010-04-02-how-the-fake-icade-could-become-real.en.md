@@ -10,7 +10,7 @@ tags:
   - ipad
   - iphone app store
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7ZcY3-k97I/AAAAAAAABcA/wO-6xaLa_kY/s1600/story.icade.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7ZcY3-k97I/AAAAAAAABcA/wO-6xaLa_kY/s1600-h/story.icade.jpg)

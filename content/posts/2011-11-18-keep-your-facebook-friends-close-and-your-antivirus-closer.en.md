@@ -10,7 +10,7 @@ tags:
   - Facebook
   - malware
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[Microsoft Malware Protection Center](http://blogs.technet.com/b/mmpc/archive/2011/11/17/keep-your-facebook-friends-close-and-your-antivirus-closer.aspx):** Facebook malware attacks are not new. Scams spreading via status updates have been around for a long time, but in recent weeks one threat has been getting creative in terms of social engineering. [Backdoor:Win32/Caphaw.A](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Backdoor:Win32/Caphaw.A) can intercept URL requests in both Firefox and Internet Explorer and it has been observed to post very personable updates on friends' walls in Facebook, gaining access if the user is logged in.

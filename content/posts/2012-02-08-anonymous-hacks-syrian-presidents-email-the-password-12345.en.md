@@ -12,7 +12,7 @@ tags:
   - report
   - worlds news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="syriaflag600-275x171" border="0" alt="syriaflag600-275x171" align="right" src="http://lh5.ggpht.com/-N2VfeAB8HAc/TzKxfS25CoI/AAAAAAAAEk0/OG8ryf9PDGY/syriaflag600-275x171_thumb.jpg?imgmax=800" width="244" height="153" />](http://lh5.ggpht.com/-WGiTbXM0Tu0/TzKxUnsId-I/AAAAAAAAEks/GhWRfxW9S44/s1600-h/syriaflag600-275x171%25255B2%25255D.jpg)Mashable:** Syrian President Bashar al-Assad has been under fire from world leaders to step down this week. He’s also under fire from hacktivist group Anonymous, who leaked hundreds of his office’s emails on Monday. 

@@ -10,7 +10,7 @@ tags:
   - report
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The Telegraph, one of the [biggest newspapers](http://en.wikipedia.org/wiki/The_Daily_Telegraph) in the UK, hasn’t had a good time of it lately where their website is concerned. There were vulnerabilities found in relation to the site back in March involving [database access](http://www.theregister.co.uk/2009/03/09/telegraph_hack_attack/), and it seems a hacking group has gone in and defaced two subdomains.

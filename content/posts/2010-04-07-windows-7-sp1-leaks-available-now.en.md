@@ -12,7 +12,7 @@ tags:
   - Torrent
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7z-eLixVmI/AAAAAAAAB0I/4-nKocOkHtg/s400/4792.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7z-eLixVmI/AAAAAAAAB0I/4-nKocOkHtg/s1600-h/4792.jpg)

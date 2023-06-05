@@ -8,7 +8,7 @@ tags:
   - report
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 As was announced on Dec 11th, CNNIC (China Internet Network Information Center) now requires a “formal paper based application material when making the online application to the registrar.”

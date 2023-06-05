@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The Hacker News: 

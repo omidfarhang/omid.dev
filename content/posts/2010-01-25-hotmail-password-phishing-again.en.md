@@ -10,7 +10,7 @@ tags:
   - phishing
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I am a very lucky guy.

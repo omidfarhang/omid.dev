@@ -11,7 +11,7 @@ tags:
   - nested labels
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S78nDf_BaDI/AAAAAAAAB1s/bALR6Xxn0Fg/s1600/gmail_theme.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S78nDf_BaDI/AAAAAAAAB1s/bALR6Xxn0Fg/s1600/gmail_theme.jpg)

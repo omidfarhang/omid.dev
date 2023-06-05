@@ -10,7 +10,7 @@ tags:
   - Tor Project
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The current versions of the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) (TBB) include [a bug](https://blog.torproject.org/blog/firefox-security-bug-proxy-bypass-current-tbbs) that makes it possible for information about visited web sites to leak out of the anonymising layer. On version 2.2.35-9 of TBB for Windows and version 2.2.35-10 for Mac OS X and Linux, the included version of Firefox does not send DNS requests over the [Tor](https://www.torproject.org/) network if the browser is using the [WebSocket](https://en.wikipedia.org/wiki/WebSocket) protocol. This means that an attacker listening in on the connection will be able to identify the servers the user is visiting. 

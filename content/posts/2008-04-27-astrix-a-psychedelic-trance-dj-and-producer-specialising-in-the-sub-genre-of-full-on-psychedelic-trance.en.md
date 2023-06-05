@@ -10,7 +10,7 @@ tags:
   - Astrix
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 ![astrix3](/images/2008/04/astrix3-208x300.jpg)

@@ -10,7 +10,7 @@ tags:
   - history
   - Good Reads
 lang: en
-category: 
+categories: 
   - blog
 ---
 I found this article from TheGuardian interesting:

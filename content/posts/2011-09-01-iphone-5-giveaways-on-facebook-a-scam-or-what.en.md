@@ -12,7 +12,7 @@ tags:
   - scam
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![](http://4.bp.blogspot.com/-7TxybyMwwbs/Tl-h05g4gQI/AAAAAAAAEA8/EgIYiOF1mMA/s1600/iphone-5-170.jpg)](http://4.bp.blogspot.com/-7TxybyMwwbs/Tl-h05g4gQI/AAAAAAAAEA8/EgIYiOF1mMA/s1600/iphone-5-170.jpg)

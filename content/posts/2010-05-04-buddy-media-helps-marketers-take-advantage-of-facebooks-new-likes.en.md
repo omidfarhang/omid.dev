@@ -10,7 +10,7 @@ tags:
   - MARKETING
   - social networking
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![facebookgraph](http://lh3.ggpht.com/_vaUVXcmC3OI/S-Agj4KLRMI/AAAAAAAACFs/UZVkGYwQQUs/facebookgraph%5B3%5D.jpg?imgmax=800 "facebookgraph") Buddy Media](http://www.buddymedia.com/) already helps big brands do more with their Facebook presence. Today the company is extending its service to include Facebook Open Graph integration. 

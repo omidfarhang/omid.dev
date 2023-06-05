@@ -13,7 +13,7 @@ tags:
   - review
   - security
 lang: en
-category: 
+categories: 
   - techblog
 ---
 The [New York Times is reporting](http://www.nytimes.com/2010/09/21/technology/21cookie.html?scp=1&sq=suit%20cookies&st=cse) a rising number of law suits against some major players because of their use of persistent web tracking:

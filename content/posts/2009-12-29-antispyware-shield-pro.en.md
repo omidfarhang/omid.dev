@@ -8,7 +8,7 @@ tags:
   - rogue software
   - scam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Antispyware Shield Pro is a phony security software, also known as a rogue. Antispyware Shield Pro uses fake security warnings and pop-up alerts to frighten people into thinking their PC is infected. Antispyware Shield Pro will not remove these supposed infections until you purchase the software. Do not fall for this scam, Antispyware Shield Pro is an infection itself.

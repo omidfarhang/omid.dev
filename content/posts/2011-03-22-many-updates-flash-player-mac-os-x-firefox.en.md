@@ -16,7 +16,7 @@ tags:
   - security
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Avira TechBlog:** Today is a busy day for those who want to keep their computers secure: Many updates are available, from Adobes Flash Player over Apples Mac OS X operating system to the Firefox web browser.

@@ -10,7 +10,7 @@ tags:
   - viral video
   - web video
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![Screen-shot-2010-05-11-at-10.17.34-AM-e1273587486236](http://lh6.ggpht.com/_vaUVXcmC3OI/S-m9rs_S0gI/AAAAAAAACLM/kzn1JRAMuwI/Screen-shot-2010-05-11-at-10.17.34-AM-e1273587486236_thumb%5B1%5D.png?imgmax=800 "Screen-shot-2010-05-11-at-10.17.34-AM-e1273587486236")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-m9nDMnWfI/AAAAAAAACLI/317pa2BGnx0/s1600-h/Screen-shot-2010-05-11-at-10.17.34-AM-e1273587486236%5B3%5D.png) We know, we know — you don’t give a damn about celebrities and what they’re tweeting about (neither do we — especially when they’re narcissistically [freaking out](http://twitter.com/KimKardashian/status/13741631004) about a Twitter bug that everyone was victim to), but when someone does something creative with these 140-character pearls of not-quite-wisdom, we’re admittedly amused. Enter, “[Celebritweets Theater](http://wonderwall.msn.com/movies/Tweets-Theater-97.videos).” 

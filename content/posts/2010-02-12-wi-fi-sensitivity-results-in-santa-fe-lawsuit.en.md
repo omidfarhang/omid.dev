@@ -8,7 +8,7 @@ tags:
   - news
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 When you spend your day scouring the Internet (and my blog 😉) for news about computer security topics you cover a lot of territory. Once in a while you just have a weird day. You run into a lot of strange stuff. Today is one of those days.

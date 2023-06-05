@@ -9,7 +9,7 @@ tags:
   - report
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Notable highlights this month include the shift of the regions of message origin, and changes in the average size of spam messages.

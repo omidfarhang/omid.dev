@@ -9,7 +9,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Early this afternoon Microsoft released an out-of-band security bulletin patching the vulnerabilities in Internet Explorer. The fix has been at the top of the news since the vulnerabilities it treats are believed to have led to the compromise of Google and about 30 other companies last week in what has been called the “Aurora” attack. The governments of France and Germany suggested that Internet users switch to a different browser until the vulnerability was fixed.

@@ -10,7 +10,7 @@ tags:
   - privacy
   - review
 lang: en
-category: 
+categories: 
   - techblog
 ---
 It seems like anyone who wants to be anybody is whacking Facebook over its loose — or rather loosening — privacy policies. Earlier this month, with disregard to the grammer momma taught me, Even I whacked CEO Mark Zuckerberg aside the head about Facebook privacy.  As bad as pundits make out Facebook privacy to be, people can, and do, reveal plenty of information on the Web, too. Which place do they reveal more? I set out to find out in a non-scientific experiment, looking for publicly available information about one of my sisters. 

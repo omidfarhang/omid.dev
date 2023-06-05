@@ -12,7 +12,7 @@ tags:
   - spam
   - Twitter
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Our friend in the UK got this via a contact. It was from a Twitterer who obviously had his Twitter login stolen:

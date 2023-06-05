@@ -11,7 +11,7 @@ tags:
   - nvidia
   - Updates
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![nvidia](http://lh5.ggpht.com/_vaUVXcmC3OI/TLy1F5UdI3I/AAAAAAAACtU/Pq8kYdoXiVI/nvidia_thumb%5B1%5D.gif?imgmax=800 "nvidia")](http://lh6.ggpht.com/_vaUVXcmC3OI/TLy1EfxYkEI/AAAAAAAACtQ/hQSniQDgeRE/s1600-h/nvidia%5B3%5D.gif)Just last week NVidia distributed a beta version of their Forceware drivers 260.89. The main feature was support for their recently launched GeForce GT 430, and although a few other improvements were mentioned there was nothing really outstanding. This time around the company offers the final release of these drivers with pretty much the same improvements, plus support for playing back Blu-ray 3D discs when connecting your GPU to a 3D TV through HDMI.

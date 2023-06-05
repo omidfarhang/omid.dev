@@ -7,7 +7,7 @@ url: 2010/12/06/wikileaks-now-has-hundreds-of-mirrors/
 tags:
   - WikiLeaks
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="wikileaks1" border="0" alt="wikileaks1" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP04GNIp75I/AAAAAAAADVY/LSWLR5E-5D8/wikileaks1_thumb%5B1%5D.jpg?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP04EzW4WFI/AAAAAAAADVU/DEGXgmktI-A/s1600-h/wikileaks1%5B4%5D.jpg)WikiLeaks is currently not available at WikiLeaks.org. It recently lost its DNS service provider, and the site itself has been battered by DDoS attacks for more than a week now – ever since it first started releasing secret embassy cables. 

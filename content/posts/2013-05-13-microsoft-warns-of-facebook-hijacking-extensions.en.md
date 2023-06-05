@@ -8,7 +8,7 @@ image: /images/sites/3/2013/05/Facebook.png
 tags:
   - Microsoft
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [![Facebook](/images/2013/05/Facebook-300x300.png)](/images/2013/05/Facebook.png)Malicious browser extensions are trying to hijack Facebook profiles, according to a [warning](http://blogs.technet.com/b/mmpc/archive/2013/05/10/browser-extension-hijacks-facebook-profiles.aspx) from Microsoft's Malware Protection Center. The extensions, first discovered in Brazil and dubbed [JS/Febipos.A](http://www.microsoft.com/security/portal/threat/encyclopedia/Entry.aspx?Name=Trojan%3aJS/Febipos.A) by Microsoft, are targeted at Chrome and Mozilla Firefox and appear to be installed by a custom [trojan dropper](http://www.microsoft.com/security/portal/threat/encyclopedia/Entry.aspx?Name=TrojanDropper%3aWin32%2fFebipos.A). Microsoft first reported on the trojans in April, but it seems that a recent update to the trojans warrants bringing further attention to them.

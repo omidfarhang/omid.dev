@@ -9,7 +9,7 @@ tags:
   - Facebook Chat
   - Yahoo
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **[<img title="yahoo_purple_large" border="0" alt="yahoo_purple_large" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TX4dnVfEl8I/AAAAAAAADsk/d_1wozbN-HQ/yahoo_purple_large_thumb%5B1%5D.gif?imgmax=800" width="150" height="28" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TX4dlz9_dhI/AAAAAAAADsg/2piNuB4cbgI/s1600-h/yahoo_purple_large%5B3%5D.gif)Yahoo Mail Blog wrote:**

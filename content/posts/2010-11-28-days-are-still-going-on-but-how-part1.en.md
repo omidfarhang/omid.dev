@@ -7,7 +7,7 @@ url: 2010/11/28/days-are-still-going-on-but-how-part1/
 tags:
   - My life
 lang: en
-category: 
+categories: 
   - blog
 ---
 About 6 months ago, I decide to go pass my military service, It’s a compulsory military service for every boy over 18 years old in my country.

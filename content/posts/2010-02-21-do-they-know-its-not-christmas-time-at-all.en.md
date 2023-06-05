@@ -10,7 +10,7 @@ tags:
   - phishing
   - spam
 lang: en
-category: 
+categories: 
   - techblog
 ---
 I saw something quite funny when checking out the spam feeds the other day. An attachment kept appearing, once in a while, with a name of _**Christmas Card.zip**_. It was making sporadic appearances in the feeds (and the number of spam email messages was quite low), but there were a couple of these odd messages at equally odd hours of the day:

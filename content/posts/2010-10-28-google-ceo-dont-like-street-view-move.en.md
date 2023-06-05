@@ -11,7 +11,7 @@ tags:
   - news
   - StreetView
 lang: en
-category: 
+categories: 
   - techblog
 ---
 [<img title="1027" border="0" alt="1027" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMmGDJFG_8I/AAAAAAAAC84/F6F9WCsN7BY/1027_thumb.jpg?imgmax=800" width="304" height="203" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMmGAufzYFI/AAAAAAAAC80/nzOrZrz1QqU/s1600-h/1027%5B2%5D.jpg)In a CNN interview Monday, Google CEO Eric Schmidt responded to questions about what Google knows about people by saying that if people don't like having their homes photographed for Google Street View for the world to see, they can “just move.”

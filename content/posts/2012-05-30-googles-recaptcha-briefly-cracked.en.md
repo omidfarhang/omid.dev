@@ -9,7 +9,7 @@ tags:
   - hack
   - news
 lang: en
-category: 
+categories: 
   - techblog
 ---
 ![](http://lh4.ggpht.com/-OAD1xzJSuPI/T8Z3xbxUDUI/AAAAAAAAGJY/3x5jI3--3Kk/s1600-h/recaptcha%25255B2%25255D.png)

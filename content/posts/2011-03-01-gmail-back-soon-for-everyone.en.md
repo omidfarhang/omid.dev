@@ -10,7 +10,7 @@ tags:
   - Google Mail
   - report
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Gmail Blog posted:

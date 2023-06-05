@@ -8,7 +8,7 @@ image: /images/sites/2/2013/03/googol.jpg
 tags:
   - information
 lang: en
-category: 
+categories: 
   - blog
 ---
 [![googol](/images/2013/03/googol-150x150.jpg)](/images/2013/03/googol.jpg)

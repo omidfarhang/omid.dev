@@ -13,7 +13,7 @@ tags:
   - scam
   - YouTube
 lang: en
-category: 
+categories: 
   - techblog
 ---
 **Hmmm. That’s not what the source code says**

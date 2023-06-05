@@ -10,7 +10,7 @@ tags:
   - Tiësto
   - Music
 lang: en
-category: 
+categories: 
   - entblog
 ---
 [![40850_bio_-_dj_tiesto_01](/images/2008/05/40850_bio_-_dj_tiesto_01.jpg)](/images/2008/05/40850_bio_-_dj_tiesto_01.jpg)

@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: 
+categories: 
   - techblog
 ---
 Apple has issued the latest update to its Mac OS X operating system, bringing Snow Leopard users up to Mac OS X 10.6.5.
