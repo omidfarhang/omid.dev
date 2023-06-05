@@ -9,7 +9,8 @@ tags:
   - hack
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **SophosLabs:** The CIA's website was brought down for some hours last night by what appears to have been an internet distributed denial-of-service (DDoS) attack. 
 

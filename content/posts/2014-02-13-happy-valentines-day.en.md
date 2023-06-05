@@ -10,7 +10,8 @@ tags:
   - valentine
   - events
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Happy Valentine's Day
 

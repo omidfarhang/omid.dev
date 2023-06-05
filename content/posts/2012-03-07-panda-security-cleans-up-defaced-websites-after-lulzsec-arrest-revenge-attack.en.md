@@ -8,7 +8,8 @@ tags:
   - hack
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **SophosLabs/NakedSecurity:** With alleged Anonymous hackers belonging to the LulzSec group arrested and charged yesterday, and the startling relevation that prominent hacker Sabu had been working undercover for the FBI for months, hacktivists defaced a number of websites belonging to anti-virus firm Panda Security overnight. 
 

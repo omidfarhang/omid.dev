@@ -9,7 +9,8 @@ tags:
   - news
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="whatsappsniffer" border="0" alt="whatsappsniffer" align="right" src="http://lh5.ggpht.com/-qFL4blsjloE/T7ApOibKNiI/AAAAAAAAF9o/3zgQIOZmzBA/whatsappsniffer_thumb%25255B2%25255D.png?imgmax=800" width="201" height="240" />](http://lh3.ggpht.com/-_y6ih_BTt2k/T7ApJb9to6I/AAAAAAAAF9g/hmIXjhzvFVw/s1600-h/whatsappsniffer%25255B4%25255D.png)The H-Online: WhatsApp Sniffer is an app able to display messages from other WhatsApp users connected to the same network as the app user. The tool diverts all data traffic on, for example, a Wi-Fi network through the user's smartphone and seeks out WhatsApp messages, which are transferred in plain text. All the user requires is a rooted Android smartphone. 
 

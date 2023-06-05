@@ -11,7 +11,8 @@ tags:
   - Twitter
   - Video
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![loic](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oKkgtXdFI/AAAAAAAACAE/adZuNwcrlNE/loic_thumb1.jpg?imgmax=800 "loic")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oKhSbDnCI/AAAAAAAACAA/tbWxPlwJYNc/s1600-h/loic3.jpg) Loic Le Meur, [Seesmic](http://seesmic.com/) founder and tech scene leader, was clearly bullish on the Twitter platform in this interview conducted yesterday at Chirp, the Twitter developer conference. 
 

@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 GhostAntivirus is a new rogue anti-virus application. It is a clone of InternetAntivirusPro.
 

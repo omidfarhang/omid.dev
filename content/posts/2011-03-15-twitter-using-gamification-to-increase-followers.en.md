@@ -8,7 +8,8 @@ tags:
   - news
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I just read an interesting post in ThinkVitamin.com and wanted to share with you:
 

@@ -7,7 +7,8 @@ url: 2011/12/10/one-is-bad-and-everyone-else-good-or-its-likewise/
 tags:
   - I think
 lang: en
-category: blog
+category: 
+  - blog
 ---
 There are so many groups of people in world, we all know that, So many different group and kind of people, we can group them with different factors, with their born location, with their skin color, with their hair color, with eyes color, being left hand or right hand, with their political view, with their religious view and believes, with their education levels, with their languages, with their music tastes and…
 

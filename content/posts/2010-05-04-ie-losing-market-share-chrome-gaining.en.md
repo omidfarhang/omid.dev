@@ -17,7 +17,8 @@ tags:
   - review
   - Safari
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 For the first time, Microsoft’s share of the browser marked has slipped below 60 percent, according to figures from Net Applications, a Aliso Viejo, Calif., web app and metrics firm .
 

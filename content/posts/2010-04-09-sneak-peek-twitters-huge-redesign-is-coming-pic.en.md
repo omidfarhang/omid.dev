@@ -10,7 +10,8 @@ tags:
   - trending
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S789luUhAnI/AAAAAAAAB18/sH3nbKhlzy0/s400/doug-400.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S789luUhAnI/AAAAAAAAB18/sH3nbKhlzy0/s1600/doug-400.png)
 

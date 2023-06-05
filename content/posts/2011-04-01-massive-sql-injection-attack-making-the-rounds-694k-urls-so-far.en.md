@@ -13,7 +13,8 @@ tags:
   - security
   - SQL
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="sql_img" border="0" alt="sql_img" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TZZJNEblu0I/AAAAAAAADzc/DKiO3KiMlvs/sql_img_thumb%5B2%5D.jpg?imgmax=800" width="154" height="116" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TZZJJOzqeiI/AAAAAAAADzY/FcnGCJKWL3Y/s1600-h/sql_img%5B4%5D.jpg)**
 

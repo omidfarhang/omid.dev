@@ -12,7 +12,8 @@ tags:
   - iProd
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7ecMstFPyI/AAAAAAAABe0/ZymRZlQdUiU/s1600/iphone2.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7ecMstFPyI/AAAAAAAABe0/ZymRZlQdUiU/s1600-h/iphone2.jpg)
 

@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
   
 **[SophosLabs](http://nakedsecurity.sophos.com/2012/01/23/free-amazon-com-gift-card-facebook-scam/):** Gift card scams are a common sight on Facebook, and this weekend it has been the turn of Amazon.com to be the brand used by cybercriminals as a way of making them cash.

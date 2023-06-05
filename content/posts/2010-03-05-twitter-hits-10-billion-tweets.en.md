@@ -9,7 +9,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FLx4KJMPI/AAAAAAAABKk/TY4ma5wbJuM/s640/twitter-top.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FLx4KJMPI/AAAAAAAABKk/TY4ma5wbJuM/s1600-h/twitter-top.png)
 

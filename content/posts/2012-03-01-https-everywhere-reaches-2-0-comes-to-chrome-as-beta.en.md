@@ -11,7 +11,8 @@ tags:
   - SSL
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="HTTPS_Everywhere_new_logo200" border="0" alt="HTTPS_Everywhere_new_logo200" align="right" src="http://lh6.ggpht.com/-GM_BBxH75IM/T08fJL5qujI/AAAAAAAAFAM/KYAfBX3rtUk/HTTPS_Everywhere_new_logo200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="176" />](http://lh4.ggpht.com/-AOkkGqhGdoQ/T08ecW2vGHI/AAAAAAAAFAE/sOSWvkDVxFE/s1600-h/HTTPS_Everywhere_new_logo200%25255B3%25255D.png)H-Online: Version 2.0 of the HTTPS Everywhere browser extension [has been released](https://mail1.eff.org/pipermail/https-everywhere/2012-February/001298.html). Where possible, the add-on automatically redirects users to more secure HTTPS connections when they access certain web pages. HTTPS Everywhere 2.0 includes an optional “Decentralised SSL Observatory” feature that detects weaknesses in encryption. 
 

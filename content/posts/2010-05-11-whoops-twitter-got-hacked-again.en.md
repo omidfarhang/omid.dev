@@ -11,7 +11,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I had a look at my twitter page early this morning and read “Twitter is a rich source of insanity”, and thought “Wow, the twitter marketroids are really bold, but it's a good line.”  
 

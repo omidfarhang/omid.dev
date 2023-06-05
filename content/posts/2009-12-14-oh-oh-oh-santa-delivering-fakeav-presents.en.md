@@ -11,7 +11,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Following on from the latest Captcha techniques used by the W32/Koobface worm, it seems that the malware authors have turned to Santa for help to deliver it’s nasty surprise which awaits Facebook users. The infection drops other trojans such as FakeAlert and leaves the user renderless.
 

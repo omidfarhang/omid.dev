@@ -12,7 +12,8 @@ tags:
   - Safari
   - Xmarks
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ![xmarks-v-105x122](http://lh5.ggpht.com/_vaUVXcmC3OI/TKRZ4kqeJHI/AAAAAAAACkM/OmAS-VS5tTc/xmarks-v-105x122_thumb%5B1%5D.png?imgmax=800)
 **Xmarks will be shutting down free browser synchronization services on January 10, 2011.** For details on how to transition to recommended alternatives, consult [this page](http://www.xmarks.com/about/shutdown).

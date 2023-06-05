@@ -10,7 +10,8 @@ tags:
   - privacy
   - Safari
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="Google-logo-istock-600-275x171" border="0" alt="Google-logo-istock-600-275x171" align="right" src="http://lh6.ggpht.com/-uGPJBet4Xs4/Tz6HmbSG2sI/AAAAAAAAE3M/WbJGAqeYoqE/Google-logo-istock-600-275x171_thumb.jpg?imgmax=800" width="244" height="153" />](http://lh5.ggpht.com/-oycvxAFSDuE/Tz6HcPpOJQI/AAAAAAAAE3E/_gV9HGsLgDo/s1600-h/Google-logo-istock-600-275x171%25255B2%25255D.jpg)The H-Online:** Google and other advertising companies have been found to be deliberately evading the privacy controls of Apple's Safari browser. The evasion was revealed in a report in the _[Wall Street Journal](http://online.wsj.com/article_email/SB10001424052970204880404577225380456599176-lMyQjAxMTAyMDEwNjExNDYyWj.html?mod=wsj_share_email#articleTabs%3Darticle)_ and was based on work by Stanford researcher [Jonathan Mayer](https://www.stanford.edu/~jmayer/). He found that the “+1” button code added to DoubleClick advertisements also allowed a Google DoubleClick tracking code to be installed on desktop Safari on 22 of the top 100 web sites. The same happened with 23 of those 100 sites when using Safari on the iPhone. 
 

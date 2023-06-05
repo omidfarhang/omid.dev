@@ -10,7 +10,8 @@ tags:
   - malware
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Not so long ago, examples of fake Firefox websites / downloads were in the news with the sites involved serving Hotbar installs.
 

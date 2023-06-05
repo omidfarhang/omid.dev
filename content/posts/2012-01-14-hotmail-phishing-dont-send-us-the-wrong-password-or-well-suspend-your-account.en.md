@@ -11,7 +11,8 @@ tags:
   - scam
   - Windows Live
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ![](http://4.bp.blogspot.com/-Cc6WHxrxHpw/TxFVbqit4mI/AAAAAAAAEZY/0j0bomo5w94/s1600/hotmail-170.jpg)
 

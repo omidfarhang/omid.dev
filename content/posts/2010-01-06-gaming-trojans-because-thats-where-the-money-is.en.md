@@ -10,7 +10,8 @@ tags:
   - report
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The massive growth of gold farming – the exchange of real money for virtual goods – might result in an increase in gaming Trojans and other malware aimed at gamers in the future.
 

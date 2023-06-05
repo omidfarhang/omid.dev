@@ -9,7 +9,8 @@ tags:
   - Facebook
   - XSS
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![facebook-xss-1](/images/2013/04/facebook-xss-1-300x277.png)](/images/2013/04/facebook-xss-1.png)
 Code could be injected through (fake) custom locations

@@ -10,7 +10,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![new-chrome-logo](http://lh6.ggpht.com/-2EmMc9Ve3t4/UBrTZNd7lgI/AAAAAAAAGx4/Vu4J4XG059g/new-chrome-logo_thumb.png?imgmax=800 "new-chrome-logo")](http://lh5.ggpht.com/-2E06ei7wjEo/UBrTXKPuvtI/AAAAAAAAGxw/qomp-xpQ_pM/s1600-h/new-chrome-logo%25255B2%25255D.png)
 

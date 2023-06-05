@@ -8,7 +8,8 @@ tags:
   - advice
   - privacy
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="photocopy-istock-306" border="0" alt="photocopy-istock-306" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL3o8WHGhgI/AAAAAAAACw0/MZmJlbgXHzg/photocopy-istock-306_thumb%5B3%5D.jpg?imgmax=800" width="310" height="176" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TL3o2cEgoYI/AAAAAAAACww/lTWMc_elUxM/s1600-h/photocopy-istock-306%5B5%5D.jpg)Personal information scanned into certain digital photocopier hard drives can be easily tapped, according to a CBC News investigation probing the second-life of older machines that are re-sold or leased.
 

@@ -11,7 +11,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="christina-aguilera" border="0" alt="christina-aguilera" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQK3opOlsYI/AAAAAAAADfE/v347ViYFbhA/christina-aguilera_thumb%5B3%5D.jpg?imgmax=800" width="174" height="174" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TQK3lC9DJZI/AAAAAAAADfA/viqgohMWGoI/s1600-h/christina-aguilera%5B5%5D.jpg)Sophos Labs:** Semi-nude pictures of Christina Aguilera leaked onto the internet earlier this week, causing fans of the pint-sized pop diva to feverishly run to their search engines in the hunt for the private snaps.
 

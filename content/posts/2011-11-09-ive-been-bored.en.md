@@ -7,7 +7,8 @@ url: 2011/11/09/ive-been-bored/
 tags:
   - video
 lang: en
-category: blog
+category: 
+  - blog
 ---
 I've been bored today and playing random videos and this one made me smile, so I want to share with you 🙂  
 

@@ -10,7 +10,8 @@ tags:
   - valentine
   - events
 lang: de
-category: blog
+category: 
+  - blog
 ---
 Fröhlichen Valentinstag
 

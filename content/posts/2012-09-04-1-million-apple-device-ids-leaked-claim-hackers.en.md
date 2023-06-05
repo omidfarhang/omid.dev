@@ -9,7 +9,8 @@ tags:
   - hack
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh3.ggpht.com/-1IN8GJ16j10/UEX01Na9GYI/AAAAAAAAHTY/TXDN8a0Qni0/s1600-h/apple%25255B5%25255D.jpg" target="_blank"><img title="apple" border="0" alt="apple" align="right" src="http://lh6.ggpht.com/-V6CQUqoF3K0/UEX03F5E83I/AAAAAAAAHTg/v_PzM4D8PRc/apple_thumb%25255B8%25255D.jpg?imgmax=800" width="197" height="229" /></a>According to the AntiSec hacker group, they claim to hold more than 12 million Apple iOS Unique Device IDs, in addition to other personal information from device owners. As a move to back up such a claim, the AntiSec hacker group is said to have released slightly more than a million Apple Device IDs to the masses. This particular expose was unveiled on [Pastebin](http://pastebin.com/nfVT7b0Z), which is said to hold a detailed description of the method that the hacking group were said to have obtained the IDs from the FBI. 
 

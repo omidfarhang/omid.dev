@@ -12,7 +12,8 @@ tags:
   - review
   - voice
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="gmail-calls" border="0" alt="gmail-calls" src="http://lh4.ggpht.com/_vaUVXcmC3OI/THrrRc8MLsI/AAAAAAAACbk/wy7ztuwl7es/gmail-calls_thumb%5B2%5D.jpg?imgmax=800" width="521" height="286" />](http://lh5.ggpht.com/_vaUVXcmC3OI/THrrMIY-MrI/AAAAAAAACbg/LJeUiGmU5Jc/s1600-h/gmail-calls%5B2%5D.jpg)
 

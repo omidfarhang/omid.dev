@@ -7,7 +7,8 @@ url: 2011/11/22/i-can-always-say-its-gonna-be-better-tomorrow/
 tags:
   - video
 lang: en
-category: blog
+category: 
+  - blog
 ---
 _Hey, I'm feeling tired._  
 _My time, is gone today._  

@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **SophosLabs:** Is Google really extending its online empire, and opening an online pharmacy? 
 

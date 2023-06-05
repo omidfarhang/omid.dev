@@ -10,7 +10,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 SecurePcAv is a phony antivirus program that has been infecting PC's across the interwebs in recent days.
 

@@ -12,7 +12,8 @@ tags:
   - report
   - steve jobs
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Jobs_g_715203t" border="0" alt="Jobs_g_715203t" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL1_fVK0e2I/AAAAAAAACuw/I2Fl8moxCg0/Jobs_g_715203t_thumb%5B3%5D.jpg?imgmax=800" width="154" height="199" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TL1_dyM2ApI/AAAAAAAACus/K9wZ_3AaZN4/s1600-h/Jobs_g_715203t%5B5%5D.jpg)Apple’s chief executive, Steve Jobs, said that Google's mobile platform was “fragmented” and bad for developers and consumers.
 

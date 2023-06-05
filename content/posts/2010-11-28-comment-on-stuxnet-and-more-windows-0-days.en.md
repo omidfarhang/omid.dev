@@ -10,7 +10,8 @@ tags:
   - Vulnerability
   - Windows
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Over the last few days, some news organizations have been saying that Stuxnet source code is available on the black market, and that clearly therefor there is an impending Internet Armageddon.
 

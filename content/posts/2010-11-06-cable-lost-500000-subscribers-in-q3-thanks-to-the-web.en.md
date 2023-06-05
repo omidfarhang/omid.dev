@@ -10,7 +10,8 @@ tags:
   - report
   - TV
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="tv-ethernet" border="0" alt="tv-ethernet" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TNWZKsiXnFI/AAAAAAAADGY/JmSqp_xxzHM/tv-ethernet_thumb%5B1%5D.jpg?imgmax=800" width="110" height="84" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNWZJsMa4UI/AAAAAAAADGU/bPV-MYbteQk/s1600-h/tv-ethernet%5B3%5D.jpg)Last quarter was the first time ever that US pay-for TV subscription rates declined, and in Q3 2010, cable lost over 518,300 subscribers in total, according to [GigaOm](http://gigaom.com/video/big-cable-is-bleeding-500k-subscribers-lost-last-quarter/). Four of the five biggest cable companies lost customers: Comcast had more than half of the losses at 275,000, Time Warner took a 155,000 subscriber hit, Charter Communications lost 63,800, and Cablevision waved goodbye to 24,500 customers. The third largest cable provider, Cox Communications, is privately held and therefore doesn't have to announce its subscriber numbers publicly. The number is thus likely even bigger if we could include Cox plus all the smaller cable companies. 
 

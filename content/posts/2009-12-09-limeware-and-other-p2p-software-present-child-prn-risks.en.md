@@ -9,7 +9,8 @@ tags:
   - P2P
   - Sex
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I've been saying this for a [long time](http://www.guardian.co.uk/technology/blog/2008/apr/22/whyyoushouldsupportyourlo). P2P networks are [have the risk](http://vimeo.com/8063230) of accidently getting something you really don’t want…
 

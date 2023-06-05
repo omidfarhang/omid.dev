@@ -13,7 +13,8 @@ tags:
   - networking
   - ubuntu
 lang: de
-category: techblog
+category: 
+  - techblog
 ---
 Vor kurzem hatte ich ein Problem mit meinem Ubuntu. Wann immer ich versuchte, eine Website zu öffnen, teilte mir mein Chromium mit, dass eine Netzwerkänderung festgestellt wurde, und nach dem erneuten Laden von 1-2 wurden die Websites geladen und konnten manchmal nicht vollständig geladen werden.
 

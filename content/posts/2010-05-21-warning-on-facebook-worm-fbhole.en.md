@@ -9,7 +9,8 @@ tags:
   - Facebook
   - malware
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 There's a new Facebook worm out there. However, it doesn't seem to be doing anything else than posting a message to people's Facebook walls.
 

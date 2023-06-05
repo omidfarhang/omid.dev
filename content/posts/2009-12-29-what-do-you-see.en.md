@@ -7,7 +7,8 @@ url: 2009/12/29/what-do-you-see/
 tags:
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I recently had an interesting message arrive in my system; after viewing the message, 100% of those polled agreed on what it was. What do _you_ think?
 

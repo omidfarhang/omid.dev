@@ -11,7 +11,8 @@ tags:
   - news
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google Chrome Blog: It’s that time of the year again for the Chrome team, when we pause on our anniversary to reflect on the amazing life and times of the web. It’s hard to believe that it’s already been [three years since we launched](http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html) our open source web browser, Chrome.
 

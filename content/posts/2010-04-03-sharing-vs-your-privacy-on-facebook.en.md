@@ -9,7 +9,8 @@ tags:
   - privacy
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7dVcxbN8MI/AAAAAAAABdU/Ua9VwIOF34E/s1600/story.facebook.privacy.fb.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7dVcxbN8MI/AAAAAAAABdU/Ua9VwIOF34E/s1600-h/story.facebook.privacy.fb.jpg)
 

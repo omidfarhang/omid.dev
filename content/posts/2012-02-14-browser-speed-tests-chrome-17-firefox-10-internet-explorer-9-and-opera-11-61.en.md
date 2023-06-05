@@ -13,7 +13,8 @@ tags:
   - Mozilla
   - Opera
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **LifeHacker:**
 

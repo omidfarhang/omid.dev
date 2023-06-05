@@ -11,7 +11,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Fake antivirus software (a.k.a misleading applications or rogue antivirus) is big business nowadays with [Symantec reporting](http://eval.symantec.com/mktginfo/enterprise/white_papers/b-symc_report_on_rogue_security_software_exec_summary_20326021.en-us.pdf) 43 million installation attempts from over 250 distinct programs between July 1, 2008, to June 30, 2009. With fake AV software costing the victim anywhere from $30 to $100, this is a lucrative earner for criminals.  
 Over time Symantec has observed various social engineering tactics being used to try and entice victims to hand over their money in this scam. The fake antivirus software known as Live PC Care has now gone as far as offering live online support to potential victims.  Once a victim has installed Live PC Care onto their system via a system exploit or social engineering tactics, they are presented with the screen below falsely informing them that their system is riddled with viruses. Any suspicious computer user might wonder what this software is and where exactly it came from. To alleviate doubt and to aid with the whole scam, the designers of Live PC Care have added a yellow online support button in the top, right-hand corner of the fake AV software.

@@ -11,7 +11,8 @@ tags:
   - privacy
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Take a look in the Email I got from Google a few minutes ago:
 

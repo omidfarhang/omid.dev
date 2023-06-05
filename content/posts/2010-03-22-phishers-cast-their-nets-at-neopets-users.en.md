@@ -9,7 +9,8 @@ tags:
   - review
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 If you have children that play Neopets, you might want to warn them about this website or insert it into a blocklist of your choosing. The site is Neopoints(dot)tk, and promises lots of free Neopoints related items, with the help of a cute mascot called “Tuma the Draik”. I think there was a Norwegian prog rock group from the 70s called that, but I could be wrong.
 

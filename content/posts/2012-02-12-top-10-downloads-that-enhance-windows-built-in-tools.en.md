@@ -8,7 +8,8 @@ tags:
   - link
   - suggestion
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **LifeHacker**:
 

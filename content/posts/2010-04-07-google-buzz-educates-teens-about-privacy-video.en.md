@@ -9,7 +9,8 @@ tags:
   - Google
   - Video
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600/Google-Buzz.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600-h/Google-Buzz.jpg)
 

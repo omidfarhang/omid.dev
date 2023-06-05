@@ -13,7 +13,8 @@ tags:
   - Thunderbird
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/-Zwp8qtOYnck/Tl5R13-a_GI/AAAAAAAAEAA/FjeHZsZ7Rzc/s1600/logo_footer.png)](http://4.bp.blogspot.com/-Zwp8qtOYnck/Tl5R13-a_GI/AAAAAAAAEAA/FjeHZsZ7Rzc/s1600/logo_footer.png)
 

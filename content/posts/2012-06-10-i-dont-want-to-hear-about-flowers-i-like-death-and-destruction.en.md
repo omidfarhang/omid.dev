@@ -7,7 +7,8 @@ url: 2012/06/10/i-dont-want-to-hear-about-flowers-i-like-death-and-destruction/
 tags:
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 I can't stand to let them win, I'm just watching them, And I don't know what to do, Feeling like a fool inside, Feeling all the hurt… Thought they were my friends. Never mind…
 

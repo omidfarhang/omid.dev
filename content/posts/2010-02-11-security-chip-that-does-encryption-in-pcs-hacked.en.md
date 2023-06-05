@@ -8,7 +8,8 @@ tags:
   - alert
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RE-O4-foI/AAAAAAAAA34/OT600xKo0jw/s640/ap_logo_106.png)](http://www.ap.org/termsandconditions/)
 

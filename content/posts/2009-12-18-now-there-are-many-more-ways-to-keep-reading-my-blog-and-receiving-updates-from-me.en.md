@@ -8,7 +8,8 @@ shortlink: https://g.omid.dev/1Y7H6E9
 tags:
   - This Blog Update
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 you may follow me on [Twitter](http://twitter.com/OmidFarhangEn):
 

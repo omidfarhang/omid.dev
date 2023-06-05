@@ -8,7 +8,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google is set to launch an app store for business next week, Mashable has learned from sources close to the company. It will be focused around creating software for Google Apps and could launch as soon as Tuesday.
 

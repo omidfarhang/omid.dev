@@ -10,7 +10,8 @@ tags:
   - security
   - WOT
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/-O7533LeABAw/Tl9UGBy0snI/AAAAAAAAEAw/2uoe49hFgz8/s1600/Mru.png)](http://1.bp.blogspot.com/-O7533LeABAw/Tl9UGBy0snI/AAAAAAAAEAw/2uoe49hFgz8/s1600/Mru.png)
 

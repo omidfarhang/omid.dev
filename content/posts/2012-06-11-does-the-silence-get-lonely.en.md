@@ -7,7 +7,8 @@ url: 2012/06/11/does-the-silence-get-lonely/
 tags:
   - video
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Well I wish there was someone  
 Well I wish there was someone  

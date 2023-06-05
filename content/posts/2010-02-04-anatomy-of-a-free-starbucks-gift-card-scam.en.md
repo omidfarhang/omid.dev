@@ -11,7 +11,8 @@ tags:
   - scam
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 With virus and spam outbreaks, analysts needs to keep their nerves to analyze the situation and proceed to deal with the new threat. So, I wasn’t expected to be surprised by my friends’ actions on facebook this past weekend.
 

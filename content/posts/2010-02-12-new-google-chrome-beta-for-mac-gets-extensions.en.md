@@ -9,7 +9,8 @@ tags:
   - Google Chrome
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3W7SHUFnCI/AAAAAAAAA6A/Pz5g6G435Ts/s320/chromelogo.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3W7SHUFnCI/AAAAAAAAA6A/Pz5g6G435Ts/s1600-h/chromelogo.png)
 

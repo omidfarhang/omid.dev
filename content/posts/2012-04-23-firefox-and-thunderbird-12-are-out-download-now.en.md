@@ -11,7 +11,8 @@ tags:
   - Thunderbird
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="logo-wordmark-vertical" border="0" alt="logo-wordmark-vertical" align="right" src="http://lh6.ggpht.com/-F_olJFSMi8A/T5Wle94NaNI/AAAAAAAAFoA/4el-Gt-Y2ww/logo-wordmark-vertical_thumb%25255B1%25255D.png?imgmax=800" width="165" height="240" />](http://lh6.ggpht.com/-JoKfyFZQw3k/T5WlZ2MFYII/AAAAAAAAFn4/c4V5Bhd0amA/s1600-h/logo-wordmark-vertical%25255B3%25255D.png)Mozilla has released new final versions of [Firefox 12](http://www.downloadcrew.com/article/24333-firefox) and [Thunderbird 12](http://www.downloadcrew.com/article/24287-mozilla_thunderbird), its open source browser and email messaging tools. Neither update, despite the new version number, contains much in the way of exciting new features, but developments on future builds suggest version 13 could be a landmark release for both. 
 

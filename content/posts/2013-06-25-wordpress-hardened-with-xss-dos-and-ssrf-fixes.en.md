@@ -12,7 +12,8 @@ tags:
   - Updates
   - WordPress
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![WordPress](/images/2013/06/WordPress_grey_120.png)](/images/2013/06/WordPress_grey_120.png)With the second security and maintenance release of WordPress 3.5, the developers of the popular open source blogging software have closed [12 bugs](http://core.trac.wordpress.org/query?status=closed&group=resolution&milestone=3.5.2), seven of them security issues. In their [announcement](http://wordpress.org/news/2013/06/wordpress-3-5-2/), the developers “strongly encourage” all users to update all their installations of the software to version 3.5.2 immediately. In addition to the fixed vulnerabilities, the new release also includes some proactive changes intended to harden the platform against attacks.
 

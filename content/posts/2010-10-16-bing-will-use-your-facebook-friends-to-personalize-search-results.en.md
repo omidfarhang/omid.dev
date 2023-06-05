@@ -11,7 +11,8 @@ tags:
   - news
   - Search
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Microsoft and Facebook Wednesday unveiled some new search tools for Bing which integrate data from a user's circle of friends into Bing's search results.
 

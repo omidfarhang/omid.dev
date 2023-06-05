@@ -7,7 +7,8 @@ url: 2012/07/24/could-romney-really-ban-porn/
 tags:
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 TechChurch wrote:
 

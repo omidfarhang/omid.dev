@@ -9,7 +9,8 @@ tags:
   - iOS
   - steve jobs
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="ipad_switch" border="0" alt="ipad_switch" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMVl0x-DZYI/AAAAAAAAC5g/UCj363Zgw3Q/ipad_switch_thumb%5B7%5D.jpg?imgmax=800" width="304" height="164" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMVly73CJMI/AAAAAAAAC5c/M7vHH9PsJXo/s1600-h/ipad_switch%5B9%5D.jpg)
 

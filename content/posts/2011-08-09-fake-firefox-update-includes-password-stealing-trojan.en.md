@@ -12,7 +12,8 @@ tags:
   - trojan
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/-H8XZp2OkbU4/TkGC_grS9mI/AAAAAAAAD8c/hGBZjQ5PlSs/s200/logo-wordmark-vertical.png)](http://4.bp.blogspot.com/-H8XZp2OkbU4/TkGC_grS9mI/AAAAAAAAD8c/hGBZjQ5PlSs/s1600/logo-wordmark-vertical.png)
 

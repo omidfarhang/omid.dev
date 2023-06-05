@@ -12,7 +12,8 @@ tags:
   - news
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 With Google owning YouTube, the Internet's principal delivery system for Flash-based video, it was perhaps inevitable that the company would bundle the Flash plug-in with its Chrome browser. The announcement came today from both Google and the team developing the open source Chromium component on which Chrome is based.
 

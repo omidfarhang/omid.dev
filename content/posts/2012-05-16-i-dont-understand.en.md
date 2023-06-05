@@ -7,7 +7,8 @@ url: 2012/05/16/i-dont-understand/
 tags:
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 _**A note before starting this post:** I don’t mean to catch anyone’s attention with these posts I write, I just want to speak out what’s in my mind and hope someone who can understand me read it and answer it, one who really can see the world from same view I see…_
 

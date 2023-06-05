@@ -9,7 +9,8 @@ image: /images/sites/2/2015/01/MB.png
 tags:
   - My Life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Happy New Computer (To me!)
 

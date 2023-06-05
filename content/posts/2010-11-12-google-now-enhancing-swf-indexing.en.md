@@ -9,7 +9,8 @@ tags:
   - Google
   - Search
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TN0I1_xD38I/AAAAAAAADHk/kLwUHEgtTnI/Google_thumb%5B2%5D.png?imgmax=800" width="150" height="54" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TN0Iz6LquII/AAAAAAAADHg/vwBQc_CuQQY/s1600-h/Google%5B4%5D.png)This is amazing news indeed. Its has been feature talk with many of clients and colleagues all long for many years.
 

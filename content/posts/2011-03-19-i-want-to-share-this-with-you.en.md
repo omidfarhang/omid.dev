@@ -8,7 +8,8 @@ image: /images/sites/2/2011/03/DSC00098.jpg
 tags:
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Hey, It’s been my birthday last Thursday![Party smile](http://lh3.ggpht.com/_vaUVXcmC3OI/TYULnGU5LoI/AAAAAAAADv0/EIXEP41V4Dc/wlEmoticon-partysmile%5B2%5D.png?imgmax=800)  
 Now 23 Years old (I know I know, I’m getting old…![Winking smile](http://lh4.ggpht.com/_vaUVXcmC3OI/TYULqkpU3DI/AAAAAAAADv4/_2uLWHrhIj8/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800) )

@@ -14,7 +14,8 @@ tags:
   - Windows
   - Windows 8
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Windows 7 might be [selling like hotcakes](http://boelectronic.blogspot.com/2010/10/windows-7-year-one-240-million-licenses.html) but that's only going to make it even harder for Microsoft to top. When asked about the riskiest product bet that the software giant is currently developing, Microsoft CEO Steve Ballmer answered “the next release of Windows” without so much as a second of hesitation. Unfortunately, his interviewers don't ask him for an explanation, so we'll have to speculate as to why he chose Windows and not something else like Windows Phone, Xbox Kinect, or Bing. 
 

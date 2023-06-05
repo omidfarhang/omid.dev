@@ -9,7 +9,8 @@ tags:
   - facebook phishing
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **CNet:** [<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNq93n0sYwI/AAAAAAAADHc/aiZpyQDaI38/facebook%28low%29_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNq91fUQffI/AAAAAAAADHY/Dq-uvdRyLD4/s1600-h/facebook%28low%29%5B2%5D.jpg)The latest security fiasco on Facebook's application platform may involve business pages rather than personal accounts: [Sendible](http://www.sendible.com/), a company that makes software for businesses to manage accounts and presences on various social-media services, looked like it was hit by a virus or hacker on Tuesday afternoon: [TechCrunch pointed out that Sendible-managed brand pages on Facebook appeared to be posting malicious links](http://techcrunch.com/2010/11/09/sendible-facebook-hack/).
 

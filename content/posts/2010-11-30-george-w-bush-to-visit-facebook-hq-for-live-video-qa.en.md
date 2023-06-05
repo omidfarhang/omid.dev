@@ -11,7 +11,8 @@ tags:
   - social media
   - Video
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="georgewbush" border="0" alt="georgewbush" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TPVWrsRw0hI/AAAAAAAADSY/vZ8HRaxXE-E/georgewbush_thumb.jpg?imgmax=800" width="234" height="199" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TPVWpay0gJI/AAAAAAAADSU/CUWOuHpbRio/s1600-h/georgewbush%5B2%5D.jpg)Former U.S. President George W. Bush’s book tour will stop at Facebook’s headquarters in Palo Alto on Monday, with the social networking site announcing a “Facebook Live” event for 5 p.m. ET / 2 p.m. PT. 
 

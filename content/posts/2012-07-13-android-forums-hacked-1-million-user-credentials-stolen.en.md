@@ -10,7 +10,8 @@ tags:
   - leak
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **ZDNet:** _Phandroid's AndroidForums.com has been hacked. The database that powers the site was compromised and more than 1 million user account details were stolen. If you use the forum, make sure to change your password asap._
 

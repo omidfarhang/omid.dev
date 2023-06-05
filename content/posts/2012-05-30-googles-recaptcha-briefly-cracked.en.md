@@ -9,7 +9,8 @@ tags:
   - hack
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ![](http://lh4.ggpht.com/-OAD1xzJSuPI/T8Z3xbxUDUI/AAAAAAAAGJY/3x5jI3--3Kk/s1600-h/recaptcha%25255B2%25255D.png)
 H-Online: Hackers [developed a script](http://www.dc949.org/projects/stiltwalker/) which was able to crack Google's [reCAPTCHA](http://recaptcha.net/) system with a success rate of better than 99 per cent. They [presented](http://www.layerone.org/speakers/#stiltwalker) the results of their research at the [LayerOne](http://www.layerone.org/) security conference in Los Angeles last weekend; however, their demonstration was somewhat frustrated as, just an hour before the presentation, Google made improvements to its CAPTCHA system. 

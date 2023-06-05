@@ -9,7 +9,8 @@ tags:
   - hack
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh3.ggpht.com/-HC3hh6zLYxQ/UAiHYfd5avI/AAAAAAAAGgw/AABD9wFTe8s/s1600-h/christinaaguilerainside%25255B19%25255D.jpg" target="_blank"><img title="christinaaguilerainside" border="0" alt="christinaaguilerainside" align="right" src="http://lh4.ggpht.com/-DNQhZEYNoVI/UAiHaV4eJOI/AAAAAAAAGg4/iVlGZtXhQj8/christinaaguilerainside_thumb%25255B13%25255D.jpg?imgmax=800" width="203" height="327" /></a><a href="http://www.thesmokinggun.com/documents/christina-aguilera-victim-letter-354671" target="_blank">The Smoking Gun</a>: Christina Aguilera contends that the recent hacking of her e-mail account had stripped her of a “feeling of security” that now “can never be given back,” according to a [victim's impact statement](http://www.thesmokinggun.com/file/christina-aguilera-letter?page=0) submitted to a U.S. District Court judge in Los Angeles. 
 

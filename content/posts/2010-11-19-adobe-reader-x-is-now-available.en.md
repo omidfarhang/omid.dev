@@ -9,7 +9,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![acrobatblog](http://lh5.ggpht.com/_vaUVXcmC3OI/TOadl8QjlTI/AAAAAAAADLI/71MuDhKdXtI/acrobatblog_thumb%5B1%5D.jpg?imgmax=800 "acrobatblog")](http://lh6.ggpht.com/_vaUVXcmC3OI/TOadkGu3bqI/AAAAAAAADLE/psfD4fKGbfc/s1600-h/acrobatblog%5B3%5D.jpg)Adobe Reader X is now available! Download Reader X for desktop at <http://get.adobe.com/reader/> or access the mobile app on the Android Market via your Android device.
 

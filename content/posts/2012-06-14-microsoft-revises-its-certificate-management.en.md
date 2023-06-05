@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![Microsoft_Logo200](http://lh3.ggpht.com/-ubCpZ4EA9_o/T9ma-tyjMUI/AAAAAAAAGPw/zRu94EhWTfw/Microsoft_Logo200_thumb.png?imgmax=800 "Microsoft_Logo200")](http://lh3.ggpht.com/-1ZH9zPX4DfU/T9ma82gKVDI/AAAAAAAAGPo/U_9rm-ivXxs/s1600-h/Microsoft_Logo200%25255B2%25255D.png)
 

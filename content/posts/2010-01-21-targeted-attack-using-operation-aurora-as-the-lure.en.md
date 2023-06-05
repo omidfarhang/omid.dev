@@ -9,7 +9,8 @@ tags:
   - alert
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Now here's an interesting turn of events.
 

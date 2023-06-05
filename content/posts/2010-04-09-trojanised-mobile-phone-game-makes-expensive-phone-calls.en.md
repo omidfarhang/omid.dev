@@ -12,7 +12,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We have received reports of a malicious Windows Mobile game that creates significant phone bills to affected users. 
 

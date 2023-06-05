@@ -9,7 +9,8 @@ tags:
   - Mozilla
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Firefox's JavaScript engine, Spidermonkey (including the Tracemonkey and Jaegermonkey JITs) is now faster than Webkit's JSCore on both Sunspider and V8. [Great work, team!](http://www.arewefastyet.com/)
 

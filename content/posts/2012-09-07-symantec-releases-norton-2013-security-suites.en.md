@@ -12,7 +12,8 @@ tags:
   - symantec
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh5.ggpht.com/-_Ue0jCvK8cQ/UEoLsNDKH8I/AAAAAAAAHWQ/OlK97LYx0hc/s1600-h/Norton-Internet-Security-2013-600x450%25255B3%25255D.jpg" target="_blank"><img title="Norton-Internet-Security-2013-600x450" border="0" alt="Norton-Internet-Security-2013-600x450" src="http://lh4.ggpht.com/-iKQi8DkF5gI/UEoLyXGoNaI/AAAAAAAAHWY/B570Q2NlJRY/Norton-Internet-Security-2013-600x450_thumb%25255B1%25255D.jpg?imgmax=800" width="500" height="375" /></a> 
 

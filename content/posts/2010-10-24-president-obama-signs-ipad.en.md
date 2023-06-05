@@ -11,7 +11,8 @@ tags:
   - news
   - obama
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Obama-Signing-iPad-Photo" border="0" alt="Obama-Signing-iPad-Photo" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMSpQo6nQJI/AAAAAAAAC5A/Ug4Rn4Ej02Y/Obama-Signing-iPad-Photo_thumb%5B1%5D.jpg?imgmax=800" width="304" height="203" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMSpO7iS3uI/AAAAAAAAC48/O2qX-gRgYTI/s1600-h/Obama-Signing-iPad-Photo%5B3%5D.jpg)
 

@@ -11,7 +11,8 @@ tags:
   - review
   - steve jobs
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="apple-macbook-air_BY3IL_48" border="0" alt="apple-macbook-air_BY3IL_48" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMl_7fzrdFI/AAAAAAAAC8I/9dcEB88hJoA/apple-macbook-air_BY3IL_48_thumb%5B1%5D.jpg?imgmax=800" width="300" height="161" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMl_5pv1cDI/AAAAAAAAC8E/9uruVGdw-Js/s1600-h/apple-macbook-air_BY3IL_48%5B3%5D.jpg)
 

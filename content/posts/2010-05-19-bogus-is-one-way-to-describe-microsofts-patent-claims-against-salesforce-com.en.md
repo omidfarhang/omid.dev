@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Three words sum up [Microsoft's patent infringement suit against Salesforce.com](http://www.microsoft.com/Presspass/press/2010/may10/05-18statementPR.mspx): Competition by litigation. Microsoft knows plenty about competition by litigation, having been its victim through major antitrust cases on two continents. It's simply shameful action from a company which executies rightly wagged accusing fingers at litigating competitors over the years. Microsoft's “do unto them like they did unto us” approach cheapens the company. The proof is in the patents, which are hugely broad scope. 
 

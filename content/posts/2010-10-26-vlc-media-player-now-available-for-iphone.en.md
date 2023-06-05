@@ -12,7 +12,8 @@ tags:
   - iphone
   - software
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="vlc" border="0" alt="vlc" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMb0IGutG-I/AAAAAAAAC7Y/dpT0_DyAa74/vlc_thumb%5B1%5D.jpg?imgmax=800" width="154" height="158" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMb0GuPU2qI/AAAAAAAAC7U/f3qudLc_HbU/s1600-h/vlc%5B3%5D.jpg)VLC Media Player, an app that lets you watch videos in several formats that aren’t natively supported by the iPhone, has arrived in Apple’s iTunes store. 
 

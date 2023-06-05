@@ -9,7 +9,8 @@ tags:
   - Firefox
   - Firefox 4.0
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![firefox](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lnCXKKl4I/AAAAAAAACIw/_L-R7rXnn4w/firefox_thumb%5B2%5D.jpg?imgmax=800 "firefox")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-lnAVT3bhI/AAAAAAAACIs/frLIkmO8fDw/s1600-h/firefox%5B4%5D.jpg) Almost one year ago, we’ve gotten a glimpse of the next major iteration of Firefox, at least when it comes to its gorgeous new visuals. 
 

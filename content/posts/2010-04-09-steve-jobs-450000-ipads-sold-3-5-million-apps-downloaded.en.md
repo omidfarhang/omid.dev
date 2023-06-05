@@ -10,7 +10,8 @@ tags:
   - report
   - steve jobs
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79RjTAq9zI/AAAAAAAAB2Y/EX4pBiBod1s/s200/jobs-iphone-4.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79RjTAq9zI/AAAAAAAAB2Y/EX4pBiBod1s/s1600/jobs-iphone-4.jpg)
 

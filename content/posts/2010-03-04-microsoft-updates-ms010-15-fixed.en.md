@@ -9,7 +9,8 @@ tags:
   - news
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **It won’t work if you have a rootkit infection, but it won’t blue screen your machine either.**
 

@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 With Windows 7 becoming increasingly popular, more and more software companies have begun to upgrade their interface for the latest Microsoft operating system. Manufacturers seem to understand the need for a beautiful user interface for their products. However, not all software behaves as good as it looks.
 

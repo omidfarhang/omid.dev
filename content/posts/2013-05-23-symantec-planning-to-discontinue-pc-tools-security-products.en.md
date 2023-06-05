@@ -10,7 +10,8 @@ tags:
   - pc tools
   - symantec
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![Symantec_120](/images/2013/05/Symantec_120.png)](/images/2013/05/Symantec_120.png)Symantec has stopped selling the security-related products in its [PC Tools portfolio](http://www.pctools.com/), according to an [announcement](http://www.pctools.com/norton-offer/pctEOL/) on the company's web site. Customers using the affected programs – Spyware Doctor, Spyware Doctor with AntiVirus, and Internet Security – can continue to use them until their subscription runs out.
 

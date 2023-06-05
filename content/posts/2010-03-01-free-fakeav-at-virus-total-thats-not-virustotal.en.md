@@ -12,7 +12,8 @@ tags:
   - spam
   - VirusTotal
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [VirusTotal](http://www.virustotal.com/) has been well known to most readers of the blog. It’s a free virus and malware online scan service which allows submitters to test a particular file against a multitude of malware scanners. So, it’s not highly surprising that malware authors would try to use that name to further their gain.  
 Today we came across such a sample arriving at one of our spamtraps through a car-related forum. The message looks like this:

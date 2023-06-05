@@ -12,7 +12,8 @@ tags:
   - review
   - Sex
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Cross-posted from Surelist 
 

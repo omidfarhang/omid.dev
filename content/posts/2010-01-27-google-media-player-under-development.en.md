@@ -9,7 +9,8 @@ tags:
   - Google Chrome
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google has confirmed that it’s future operating system Chrome OS will have an integrated media player that will offer  basic codec support , so that users can directly play audio or video files from Gmail or from USB drives or other media devices.
 

@@ -12,7 +12,8 @@ tags:
   - iphone os
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Just after the launch of iPad, Apple has just announced iPhone OS 4.0 Event at 8th April 10 AM PT. A lot more speculations are being made about the upcoming features of iPhone OS 4.0 Following are some most closest guesses on the features of apple iPhone OS 4.0
 

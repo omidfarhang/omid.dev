@@ -13,7 +13,8 @@ tags:
   - spam
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 It is [widely anticipated](http://www.bbc.co.uk/news/technology-17198049) that Apple will announce a new version of its iPad tablet computer in San Francisco on March 7th. 
 

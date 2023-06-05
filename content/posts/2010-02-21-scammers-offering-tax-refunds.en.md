@@ -9,7 +9,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Fraudsters never seem to rest. They have now turned their attention towards phishing using the Indian Income Tax Department’s name and branding. It is the season of tax returns in India and it is well known that people will file their income tax returns for the end of the fiscal year in India. Hence, phishers have chosen the right time to phish the market since most users will not be aware of these attacks.
 

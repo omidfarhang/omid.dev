@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - Windows Live
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="rip-dead-rest-in-piece-300x300" border="0" alt="rip-dead-rest-in-piece-300x300" align="right" src="http://lh5.ggpht.com/-GVdNSouI2zA/T6LgtjlglvI/AAAAAAAAF3o/nwpo41XjyUQ/rip-dead-rest-in-piece-300x300_thumb%25255B2%25255D.jpg?imgmax=800" width="240" height="240" />](http://lh6.ggpht.com/-6owqZEyN7X8/T6LgpsXx64I/AAAAAAAAF3g/VS18LEl1BZY/s1600-h/rip-dead-rest-in-piece-300x300%25255B4%25255D.jpg)Cross-posted from BetaNews: In a blog post on Wednesday, President of Microsoft's Windows division Steven Sinofsky [announced the seven-year old Windows Live brand is being retired](http://blogs.msdn.com/b/b8/archive/2012/05/02/cloud-services-for-windows-8-and-windows-phone-windows-live-reimagined.aspx). 
 

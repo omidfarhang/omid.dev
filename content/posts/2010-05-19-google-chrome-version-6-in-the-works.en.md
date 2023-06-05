@@ -10,7 +10,8 @@ tags:
   - Google Chrome
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![chrome-6-260](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RKGGMIBGI/AAAAAAAACQ0/cG2lWFS3JW8/chrome-6-260_thumb%5B1%5D.jpg?imgmax=800 "chrome-6-260")](http://lh6.ggpht.com/_vaUVXcmC3OI/S_RKDfvY5gI/AAAAAAAACQw/b7eLipqVPgw/s1600-h/chrome-6-260%5B3%5D.jpg) Not one to rest on its laurels, the Google Chrome team is [hard at work on Chrome 6](http://news.cnet.com/8301-30685_3-20005224-264.html?part=rss&subj=news&tag=2547-1_3-0-20). The official move to the 6.0 designation in the [Chromium developer builds](http://build.chromium.org/buildbot/snapshots/) officially started a few days ago. 
 

@@ -10,7 +10,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 “Shadows in the Cloud” hang over the otherwise sunny PRC
 

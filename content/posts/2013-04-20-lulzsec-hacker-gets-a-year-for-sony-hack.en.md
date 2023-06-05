@@ -11,7 +11,8 @@ tags:
   - LulzSec
   - Sony
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![lulz](/images/2013/04/lulz-300x224.png)](/images/2013/04/lulz.png)
 

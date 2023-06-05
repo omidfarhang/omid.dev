@@ -7,7 +7,8 @@ url: 2009/12/24/merry-christma-exec/
 tags:
   - Other
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Once again, we'd like to wish our readers Merry Christmas with a reference to the 1986 CHRISTMA EXEC worm
 

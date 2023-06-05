@@ -10,7 +10,8 @@ tags:
   - malware
   - Stuxnet
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 F-Secure wrote:
 

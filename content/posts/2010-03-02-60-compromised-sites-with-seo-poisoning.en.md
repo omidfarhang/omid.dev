@@ -11,7 +11,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 More than 60 websites have been found to be hotbeds for SEO poisoning. Each of these domains host hundreds of possible matches for search keys.
 

@@ -11,7 +11,8 @@ tags:
   - Updates
   - News
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![ubuntu_rr](/images/2013/04/ubuntu_rr-300x191.jpg)](/images/2013/04/ubuntu_rr.jpg)Canonical has released Ubuntu 13.04 Raring Ringtail, most likely the last release of Ubuntu that will primarily cater for laptop and desktop users. For Ubuntu 13.04, Canonical focused on tightening up the core of the OS and  polishing the Unity interface in preparation for Ubuntu’s smartphone and tablet debut, which is slated to occur in October with the release of version 13.10. There’s also the usual slew of package updates, a new Linux kernel, and a couple of new features, too.
 

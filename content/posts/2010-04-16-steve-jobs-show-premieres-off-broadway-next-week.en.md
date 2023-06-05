@@ -12,7 +12,8 @@ tags:
   - steve jobs
   - threater
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![steve-jobs-260](http://lh6.ggpht.com/_vaUVXcmC3OI/S8hnvbp8rZI/AAAAAAAAB_U/YdD8rrtvMos/steve-jobs-260_thumb%5B1%5D.jpg?imgmax=800 "steve-jobs-260")](http://lh5.ggpht.com/_vaUVXcmC3OI/S8hntiByS9I/AAAAAAAAB_Q/pZ0BwWdY9Mk/s1600-h/steve-jobs-260%5B3%5D.jpg) The CEO of Apple is certainly no stranger to the stage, being known for giving keynotes that typically have the effect of rendering tech geeks into little piles of goo after the announcement of a new product. But now Mr. Jobs — or at least, the story of his career — will be gracing a new stage: [an Off Broadway theatre](http://www.broadwayworld.com/article/EST_Presents_Notes_Toward_THE_AGONY_AND_ECSTASY_OF_STEVE_JOBS_422_20100414). 
 

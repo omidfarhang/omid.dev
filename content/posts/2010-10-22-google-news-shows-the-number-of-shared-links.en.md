@@ -8,7 +8,8 @@ tags:
   - Google
   - google news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google News continues to integrate with Twitter and other micro blogging services. After testing a section that shows [newsworthy tweets from your subscription](http://googlesystem.blogspot.com/2010/10/google-news-tests-twitter-sidebar.html), Google started to add to the Google News Onebox the number of times a story has been shared.
 

@@ -9,7 +9,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Using a Firefox 3.0 add-on created by developers in Hong Kong, Betanews was able to briefly establish a connection with the Internet via a proxy based in mainland China. With that proxy, we were able to confirm that searches performed using Google's Hong Kong-based page were effectively blocked.
 

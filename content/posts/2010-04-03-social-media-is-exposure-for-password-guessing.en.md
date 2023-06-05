@@ -12,7 +12,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The Inquirer security news site were reporting that the 25-year-old arrested by French police for hacking a Twitter data base and accessing U.S. President Barak Obama’s account guessed the admin’s password.
 

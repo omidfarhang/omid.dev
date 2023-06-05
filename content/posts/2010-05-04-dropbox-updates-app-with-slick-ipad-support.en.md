@@ -14,7 +14,8 @@ tags:
   - Twitter
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![dropbox-ipad-260](http://lh6.ggpht.com/_vaUVXcmC3OI/S-AKd3PWwmI/AAAAAAAACFQ/9XoPLltdp84/dropbox-ipad-260_thumb%5B3%5D.jpg?imgmax=800 "dropbox-ipad-260")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-AKcBsPjDI/AAAAAAAACFM/8odL2cXmhz0/s1600-h/dropbox-ipad-260%5B5%5D.jpg) If you’re a fan of cloud storage service [Dropbox](http://www.dropbox.com/) and own an [iPad](http://mashable.com/2010/01/27/ipad/), it’s your lucky day. The iPhone version was already quite good, but Dropbox have now [updated the app](http://www.macstories.net/ipad/dropbox-for-ipad-available/) for better iPad support. 
 

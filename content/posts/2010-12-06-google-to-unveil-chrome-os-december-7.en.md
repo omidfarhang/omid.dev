@@ -10,7 +10,8 @@ tags:
   - google chrome os
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Screen-shot-2010-12-03-at-5.23.47-PM" border="0" alt="Screen-shot-2010-12-03-at-5.23.47-PM" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP0--v8fufI/AAAAAAAADWY/oo8vFX0o92o/Screen-shot-2010-12-03-at-5.23.47-PM_thumb%5B4%5D.png?imgmax=800" width="500" height="426" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP0-7nw9lWI/AAAAAAAADWU/-rE8zmqoqf4/s1600-h/Screen-shot-2010-12-03-at-5.23.47-PM%5B6%5D.png)
 

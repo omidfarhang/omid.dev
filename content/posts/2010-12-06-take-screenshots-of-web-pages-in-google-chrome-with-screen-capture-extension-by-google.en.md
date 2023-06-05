@@ -10,7 +10,8 @@ tags:
   - google chrome extension
   - Tricks
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Screen Capture** (by Google) is an effective and useful extension for Google Chrome, which allows users to quickly and easily capture quality screenshots of Web Pages. The extension has 3 screen capture modes: capture visible content of a tab, a region of a web page, or the whole scrolling webpage as a PNG image.
 

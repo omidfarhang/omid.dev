@@ -10,7 +10,8 @@ tags:
   - scam
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Pink Facebook? Red or black Facebook?
 

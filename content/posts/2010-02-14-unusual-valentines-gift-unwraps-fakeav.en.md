@@ -11,7 +11,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 While everyone is searching the web for the unusual gift on Valentine’s Day, Cybercriminals take this opportunity to propagate Rouge Antivirus.
 

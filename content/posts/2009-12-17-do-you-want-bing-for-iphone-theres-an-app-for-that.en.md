@@ -14,7 +14,8 @@ tags:
   - Microsoft
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Earlier this evening, Microsoft formally announced a new search app for iPhone on the [Bing Community blog](http://www.bing.com/community/blogs/search/archive/2009/12/15/bing-for-mobile-comes-to-the-iphone.aspx). The Bing app is available now from the App Store, complete with voice search. I emphasize the now because the app has a December 16 release date on the 15th.
 

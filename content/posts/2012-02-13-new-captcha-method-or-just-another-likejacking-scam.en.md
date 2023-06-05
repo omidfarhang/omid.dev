@@ -12,7 +12,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Sorin Mustaca wrote at Avira TechBlog: 
 

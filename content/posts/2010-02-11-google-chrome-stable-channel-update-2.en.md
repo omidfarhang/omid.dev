@@ -10,7 +10,8 @@ tags:
   - This Blog Update
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The Google Chrome stable channel has been updated to 4.0.249.89 for Windows.
 

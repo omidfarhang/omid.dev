@@ -9,7 +9,8 @@ tags:
   - Windows
   - Windows XP
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 If you’ve been squeezing the last bit of value out of that installation of Windows XP Service Pack 2 or are continuing to run it because of proprietary software that you’re squeezing the last bit of value out of, well, you only have two more months of squeezing. Microsoft will end support for Service Pack 2 on July 13.
 

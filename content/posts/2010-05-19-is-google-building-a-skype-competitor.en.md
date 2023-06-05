@@ -13,7 +13,8 @@ tags:
   - VOIP
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![voip-generic-260](http://lh3.ggpht.com/_vaUVXcmC3OI/S_RKtCf-SxI/AAAAAAAACQ8/CHC4Cjrbl6E/voip-generic-260_thumb%5B1%5D.jpg?imgmax=800 "voip-generic-260")](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RKo_bBDDI/AAAAAAAACQ4/MqfjuGdmvTs/s1600-h/voip-generic-260%5B3%5D.jpg) Google announced today that it has made a cash offer to acquire Global IP Solutions (GIPS). 
 

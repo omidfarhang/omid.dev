@@ -11,7 +11,8 @@ tags:
   - security
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _This article is originally posted at [Norman Security](http://www.norman.com/) Blog, Credit to my friend ‘Pondus' for sharing._
 

@@ -12,7 +12,8 @@ tags:
   - review
   - Search
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Criminals like to attack the biggest target because BIGGER generally provides a better Return On Investment (ROI). Windows is a good example. Mac is indeed safer than Windows but it isn't necessarily because Mac is more secure. Windows has a larger market share and that equals more potential victims.
 

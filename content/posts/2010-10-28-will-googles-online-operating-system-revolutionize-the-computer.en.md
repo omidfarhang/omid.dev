@@ -10,7 +10,8 @@ tags:
   - google os
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="Google OS Screener_604x341" border="0" alt="Google OS Screener_604x341" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMnbY2CmtAI/AAAAAAAAC9c/NaJTFySa4xM/Google%20OS%20Screener_604x341_thumb.png?imgmax=800" width="304" height="172" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMnbTvCfj5I/AAAAAAAAC9U/hHS_BxWxhlw/s1600-h/Google%20OS%20Screener_604x341%5B2%5D.png)**
 

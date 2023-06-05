@@ -12,7 +12,8 @@ tags:
   - review
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 You might be seeing something on your Facebook wall today:
 

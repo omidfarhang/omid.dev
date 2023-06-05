@@ -11,7 +11,8 @@ tags:
   - Updates
   - Windows
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="windows update" border="0" alt="windows update" align="right" src="http://lh5.ggpht.com/-a-SEXRgBozo/Tzf8RZZg1aI/AAAAAAAAEsw/dHbcMi6Af3s/windows%252520update_thumb%25255B8%25255D.jpg?imgmax=800" width="184" height="240" />](http://lh3.ggpht.com/-1TfDlfTBE8w/Tzf8NNmzcSI/AAAAAAAAEso/HWiOFdO66rI/s1600-h/windows%252520update%25255B6%25255D.jpg)The Register:** Microsoft plans to publish nine updates next Tuesday – four of which are critical – as part of a Valentine's Day edition of its Patch Tuesday update cycle. 
 

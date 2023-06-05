@@ -12,7 +12,8 @@ tags:
   - security
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://2.bp.blogspot.com/-oDFcQgoaetw/TkWBLoxk0WI/AAAAAAAAD9U/-O1zOVPkgW0/s1600/adobe_logo200.jpg)](http://2.bp.blogspot.com/-oDFcQgoaetw/TkWBLoxk0WI/AAAAAAAAD9U/-O1zOVPkgW0/s1600/adobe_logo200.jpg)
 

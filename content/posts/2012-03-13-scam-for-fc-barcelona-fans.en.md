@@ -10,7 +10,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Symantec Connect: Phishers often choose baits with the motive of targeting a large audience. Using popular celebrities as bait is a good example. Phishers understand that choosing celebrities with a large fan base would target the largest audience and supply more duped users. This month phishers are using the same strategy but, instead of targeting a popular celebrity, they associated their phishing site with the popular FC Barcelona football club. FC Barcelona is the world’s second richest football club and has a large fan following. The phishing site, hosted on a free web hosting site, has since been removed and is no longer active. However, though phishing sites are frequently short-lived, internet users should be aware that other phishing sites using this or a similar template could easily be encountered in future.
 

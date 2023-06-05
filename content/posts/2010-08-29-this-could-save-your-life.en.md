@@ -9,7 +9,8 @@ tags:
   - alert
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="firstaid" border="0" alt="firstaid" src="http://lh4.ggpht.com/_vaUVXcmC3OI/THpoCgEjeKI/AAAAAAAACbU/SRd0dxXIx68/firstaid_thumb%5B1%5D.gif?imgmax=800" width="240" height="240" />](http://lh4.ggpht.com/_vaUVXcmC3OI/THpn_9QaUDI/AAAAAAAACbQ/qd8KRO66liE/s1600-h/firstaid%5B3%5D.gif)The following internet advice which may have a subject title such as above could just get you killed.
 

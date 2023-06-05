@@ -10,7 +10,8 @@ tags:
   - scam
   - warning
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 #### 
 

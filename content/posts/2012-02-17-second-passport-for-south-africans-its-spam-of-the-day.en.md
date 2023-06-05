@@ -8,7 +8,8 @@ tags:
   - alert
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **SophosLabs:** Here's a spam message I received today: 
 

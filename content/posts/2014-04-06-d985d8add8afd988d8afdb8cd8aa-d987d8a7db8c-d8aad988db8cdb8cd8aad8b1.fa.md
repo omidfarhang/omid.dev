@@ -7,7 +7,8 @@ url: '2014/04/06/محدودیت-های-توییتر'
 shortlink: https://g.omid.dev/21qKz62
 image: /images/sites/3/2014/04/twitter-280.jpg
 lang: fa
-category: techblog
+category: 
+  - techblog
 ---
 ### چرا محدودیت؟
 

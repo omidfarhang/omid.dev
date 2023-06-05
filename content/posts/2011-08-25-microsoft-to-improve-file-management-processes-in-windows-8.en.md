@@ -13,7 +13,8 @@ tags:
   - Windows
   - Windows 8
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Windows 8 News Blog:** The recently created Building Windows 8 blog seems to be up in full swing, with new articles about the upcoming operating system being released regularly. Steven Sinofsky revealed in “Improving our file management basics: copy, move, rename, and delete” that Microsoft intents to improve file management processes under Windows 8.
 

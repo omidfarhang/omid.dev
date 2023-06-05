@@ -12,7 +12,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh3.ggpht.com/-0YUqNQsppC4/T5__D_6US8I/AAAAAAAAFyo/RNx9PkesM98/new-chrome-logo_thumb.png?imgmax=800" width="128" height="125" />](http://lh3.ggpht.com/-mv8-JdAayAM/T5__CD9bF_I/AAAAAAAAFyg/eSExO5AJ3B0/s1600-h/new-chrome-logo%25255B2%25255D.png)The H-Online: Google has [released a new update](http://googlechromereleases.blogspot.co.uk/2012/04/stable-channel-update_30.html) to the stable 18.x branch of its Chrome web browser to close a number of security holes found in the application. The update, labelled 18.0.1025.168, addresses a total of five vulnerabilities, three of which are rated as “[high severity](https://sites.google.com/a/chromium.org/dev/developers/severity-guidelines)” by the company. 
 

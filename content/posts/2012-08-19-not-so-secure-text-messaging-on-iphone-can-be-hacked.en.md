@@ -11,7 +11,8 @@ tags:
   - report
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **<a href="http://lh6.ggpht.com/-o4dwmV4JJmc/UDDr_8SKtgI/AAAAAAAAHCM/HIL97pkDTsA/s1600-h/iPhone3GS%25255B5%25255D.jpg" target="_blank"><img title="A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating." border="0" alt="A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating." align="right" src="http://lh3.ggpht.com/-wALB8CwfadM/UDDsBrXgOBI/AAAAAAAAHCU/hMp1ZLp-y5g/iPhone3GS_thumb%25255B3%25255D.jpg?imgmax=800" width="280" height="220" /></a>FirstPost:** A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating. 
 

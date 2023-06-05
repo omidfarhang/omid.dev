@@ -9,7 +9,8 @@ tags:
   - social networking
   - This Blog Update
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6eHnDRVXxI/AAAAAAAABV4/7PvoSIKC2A0/s1600/facebook%20badge.png)](https://www.facebook.com/omidsnetwork/)
 

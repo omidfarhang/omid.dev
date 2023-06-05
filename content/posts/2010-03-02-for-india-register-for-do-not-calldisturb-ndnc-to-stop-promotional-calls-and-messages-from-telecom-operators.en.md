@@ -7,7 +7,8 @@ url: 2010/03/02/for-india-register-for-do-not-calldisturb-ndnc-to-stop-promotion
 tags:
   - Other
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xi1ZF0F2I/AAAAAAAABE8/MxE88v-nlIM/s640/disturb.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xi1ZF0F2I/AAAAAAAABE8/MxE88v-nlIM/s1600-h/disturb.jpg)
 

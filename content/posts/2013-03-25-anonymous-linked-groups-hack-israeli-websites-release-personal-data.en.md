@@ -10,7 +10,8 @@ tags:
   - hack
   - Israel
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img class="alignright size-medium wp-image-6493" alt="anony" src="/images/2013/03/anony-300x200.jpg" width="300" height="200" srcset="/images/sites/3/2013/03/anony-300x200.jpg 300w, /images/sites/3/2013/03/anony.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/anony.jpg)An anti-Israel hacking collective affiliated with Anonymous says it has initiated a widespread cyber attack against the Jewish state, penetrating websites affiliated with the Mossad security service and a slew of related entities.
 

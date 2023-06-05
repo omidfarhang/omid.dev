@@ -7,7 +7,8 @@ url: 2010/03/04/another-bot-bites-the-dust/
 tags:
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Remember Microsoft's action against 277 Waledac domains last week? Well, that's one way of going after a botnet…
 

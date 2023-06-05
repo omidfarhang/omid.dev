@@ -8,7 +8,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Total PC Defender is a rogue security software, a complete scam designed to rip people off. If Total PC Defender has infected your PC, you should remove it immediately.
 

@@ -11,7 +11,8 @@ tags:
   - social media monitoring
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![people-pie-chart](http://lh3.ggpht.com/_vaUVXcmC3OI/S-lktp-zU0I/AAAAAAAACIY/eW2LCyGm-20/people-pie-chart_thumb%5B2%5D.jpg?imgmax=800 "people-pie-chart")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lkqll12uI/AAAAAAAACIU/QYpLtzj_huU/s1600-h/people-pie-chart%5B4%5D.jpg) Today, IBM is introducing a new [social media monitoring tool](http://www.spss.com/software/modeling/modeler-pro/), one that it says will measure consumer sentiment from data gathered on Twitter, blogs and other web services and networks. 
 

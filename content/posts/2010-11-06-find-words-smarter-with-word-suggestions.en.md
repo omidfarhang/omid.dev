@@ -10,7 +10,8 @@ tags:
   - Mozilla
   - suggestion
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![prospector-vertical](http://lh5.ggpht.com/_vaUVXcmC3OI/TNWIFUl2tkI/AAAAAAAADGA/Jh4Hi6Ndne0/prospector-vertical_thumb%5B2%5D.jpg?imgmax=800 "prospector-vertical")](http://lh6.ggpht.com/_vaUVXcmC3OI/TNWIDuJac0I/AAAAAAAADF8/SUZKClHEWvk/s1600-h/prospector-vertical%5B4%5D.jpg)
 

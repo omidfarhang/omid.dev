@@ -10,7 +10,8 @@ tags:
   - security
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 An Arizona computer specialist has admitted taking part in a conspiracy that used large networks of compromised computers to inflate the value of stocks so they could later be sold at a profit.
 

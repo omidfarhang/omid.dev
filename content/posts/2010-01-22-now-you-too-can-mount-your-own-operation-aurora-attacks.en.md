@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 But don’t.  Please don’t!…      just….       don’t!…
 

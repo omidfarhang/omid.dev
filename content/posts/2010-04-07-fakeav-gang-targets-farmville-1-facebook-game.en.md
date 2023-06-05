@@ -14,7 +14,8 @@ tags:
   - review
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [Farmville](http://en.wikipedia.org/wiki/FarmVille) has been launch in June 2009 and after month it has been rated at #8 in Top 25 Facebook Games. Farmville has become the most popular games on Facebook. It has been rank at [#1 Facebook Game](http://www.insidesocialgames.com/2010/04/01/top-25-facebook-games-for-march-2010/) on August 2009 up until now.
 

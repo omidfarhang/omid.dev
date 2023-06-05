@@ -10,7 +10,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Internet Security 2010, It’s a rebranded clone of [Advanced Virus Remover](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/advanced-virus-remover), a rogue security product.
 

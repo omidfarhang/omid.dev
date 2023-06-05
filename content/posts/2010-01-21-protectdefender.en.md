@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ProtectDefender is a new clone of the WiniGuard family.
 

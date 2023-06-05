@@ -11,7 +11,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 New, shiny products always tend to catch people’s attention, and spammers are continually looking for ways to do exactly that. So it’s not surprising to see spam tempting people with the promise of a new iPad, and a FREE one at that:
 

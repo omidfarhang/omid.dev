@@ -11,7 +11,8 @@ tags:
   - Google Maps
   - Mobile
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70OKAVXNEI/AAAAAAAAB1E/R6lO_bYVqWM/s200/vs_cropped-bberry.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70OKAVXNEI/AAAAAAAAB1E/R6lO_bYVqWM/s1600-h/vs_cropped-bberry.png)
 

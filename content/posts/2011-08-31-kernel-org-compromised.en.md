@@ -9,7 +9,8 @@ tags:
   - report
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Read it yourself…
 

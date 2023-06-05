@@ -10,7 +10,8 @@ tags:
   - SSL
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="twitter-logo200" border="0" alt="twitter-logo200" align="right" src="http://lh3.ggpht.com/-adNEc1SkPJE/TzvsRB6PIwI/AAAAAAAAEyg/OlB5MEPj1RY/twitter-logo200_thumb%25255B1%25255D.png?imgmax=800" width="220" height="54" />](http://lh3.ggpht.com/-gZeGJnVCi9g/TzvsMt6dIBI/AAAAAAAAEyY/Uc784lPerJY/s1600-h/twitter-logo200%25255B3%25255D.png)The H-Online:** Twitter has [announced](http://blog.twitter.com/2012/02/securing-your-twitter-experience-with.html) that it has now enabled [HTTPS](http://en.wikipedia.org/wiki/HTTP_Secure) by default for all users signed into the micro-blogging service. By using HTTPS, all user information including log-in credentials transmitted to the company's servers are sent using SSL encryption. This means that all data is transmitted in encrypted form and can no longer be read and exploited for fraudulent activities by attackers using tools such as the Firesheep extension for Firefox. 
 

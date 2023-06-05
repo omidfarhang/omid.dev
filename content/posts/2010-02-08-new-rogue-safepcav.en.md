@@ -10,7 +10,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The creators behind the rogue antispyware appliaction [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) have released yet another clone of their software. This one is called SafePcAV.
 

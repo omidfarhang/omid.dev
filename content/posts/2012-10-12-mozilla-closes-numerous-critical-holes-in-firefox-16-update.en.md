@@ -12,7 +12,8 @@ tags:
   - Thunderbird
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh5.ggpht.com/-dAKceUABy4A/UHf5VBetdeI/AAAAAAAAHfQ/cgWxWK8mgNQ/s1600-h/moztrio%25255B2%25255D.png" target="_blank"><img title="moztrio" border="0" alt="moztrio" align="right" src="http://lh5.ggpht.com/-gcSRB98Uovg/UHf5XrkfSxI/AAAAAAAAHfY/EYM8wRLPr-g/moztrio_thumb.png?imgmax=800" width="170" height="80" /></a>The h-online: Following the recent Firefox 16 release, Mozilla has now detailed all of the security fixes in the new version of its open source web browser as well as in the Thunderbird news and email client. Version 2.13 of the SeaMonkey “all-in-one internet application suite” has also received fixes. In addition to adding new features, version 16.0 of Firefox closes a total of 14 security holes, 11 of which are rated as “Critical” by the project. 
 

@@ -11,7 +11,8 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh5.ggpht.com/-_CvERcVioNM/UDCiAjUuQUI/AAAAAAAAG_k/BhHqmScL6wQ/s1600-h/PostgreSQL_Logo%25255B2%25255D.png" target="_blank"><img title="PostgreSQL_Logo" border="0" alt="PostgreSQL_Logo" align="right" src="http://lh6.ggpht.com/-NQBd0Fjk1dQ/UDCiCi6_FMI/AAAAAAAAG_s/wB-EwOeaYfE/PostgreSQL_Logo_thumb.png?imgmax=800" width="150" height="117" /></a>h-online: A flaw in the built-in XML functionality of [PostgreSQL](http://www.postgresql.org/) (CVE-2012-3488) and another in its optional XSLT handling (CVE-2012-3489) have been patched, and the developers have [released updated versions](http://www.postgresql.org/about/news/1407/) of the open source database with relevant fixes. The holes being patched are related to insecure use of the widely used libxml2 and libxslt open source libraries and the PostgreSQL developers advise anyone using those libraries to check their systems for similar problems. 
 

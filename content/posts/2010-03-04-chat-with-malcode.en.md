@@ -11,7 +11,8 @@ tags:
   - scam
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 It’s time for your daily dose of “spot the fake program / avoid the fake program”.
 

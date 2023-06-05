@@ -9,7 +9,8 @@ tags:
   - phishing
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 From a site that is hacked and serving phishes:
 

@@ -9,7 +9,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Hmmm. A new vector for malware: USB battery chargers. Wonderful.
 

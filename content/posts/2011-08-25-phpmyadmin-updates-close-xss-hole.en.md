@@ -9,7 +9,8 @@ tags:
   - security
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/-3VBBUJPC5KU/TlaNKEe56zI/AAAAAAAAD_Q/5_ZZYpeogYk/s1600/PhpMyAdmin_logo.png)](http://1.bp.blogspot.com/-3VBBUJPC5KU/TlaNKEe56zI/AAAAAAAAD_Q/5_ZZYpeogYk/s1600/PhpMyAdmin_logo.png)
 

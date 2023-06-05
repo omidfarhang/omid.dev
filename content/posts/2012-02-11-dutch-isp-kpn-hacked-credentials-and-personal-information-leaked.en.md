@@ -10,7 +10,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="kpn_logo175" border="0" alt="kpn_logo175" align="right" src="http://lh3.ggpht.com/-nJvlEKj7UPU/TzZIs2sZFFI/AAAAAAAAErA/VOUfdGAlmUM/kpn_logo175_thumb%25255B3%25255D.png?imgmax=800" width="175" height="76" />](http://lh5.ggpht.com/-NyKM9su3F9A/TzZIohoAZBI/AAAAAAAAEq8/yBGB-YKJ_go/s1600-h/kpn_logo175%25255B5%25255D.png)SophosLabs:** One of the largest ISPs in The Netherlands has shut down its email services after hackers posted usernames, passwords, phone numbers, addresses and more of more than 500 customers on the internet. 
 

@@ -12,7 +12,8 @@ tags:
   - itunes
   - mobile applications
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70br9BfmPI/AAAAAAAAB1Y/U6e2Db_f9fs/s200/iTunes.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70br9BfmPI/AAAAAAAAB1Y/U6e2Db_f9fs/s1600-h/iTunes.png)
 

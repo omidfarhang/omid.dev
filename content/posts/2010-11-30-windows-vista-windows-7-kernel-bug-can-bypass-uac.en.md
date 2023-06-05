@@ -14,7 +14,8 @@ tags:
   - Windows 7
   - windows vista
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Now this is not the first time Windows UAC has hit the news for being flawed, back in February 2009 it was discovered that Windows 7 UAC Vulnerable – User Mode Program Can Disable User Access Control and after that in November 2009 it was demonstrated that Windows 7 UAC (User Access Control) Ineffective Against Malware.
 

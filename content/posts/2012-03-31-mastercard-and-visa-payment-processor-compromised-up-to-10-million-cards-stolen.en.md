@@ -10,7 +10,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://nakedsecurity.sophos.com/" target="_blank"><img title="shutterstock_creditcardterminal250" border="0" alt="shutterstock_creditcardterminal250" align="right" src="http://lh6.ggpht.com/-GS6pgJqypS0/T3do58HXZGI/AAAAAAAAFZM/9p6l8KX0NOQ/shutterstock_creditcardterminal250%25255B9%25255D.jpg?imgmax=800" width="238" height="244" />SophosLabs</a>: Brian Krebs is reporting that [MasterCard and Visa are warning member-banks](http://krebsonsecurity.com/2012/03/mastercard-visa-warn-of-processor-breach/#more-14393) of a payment processor breach that may impact more than 10,000,000 credit cards. 
 

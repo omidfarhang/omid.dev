@@ -10,7 +10,8 @@ tags:
   - Microsoft
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/-ZYGRd75n2i0/TaWPux7oDGI/AAAAAAAAD1U/hTAMwS9aK-w/s1600/internetexplorer9logo.png)](http://4.bp.blogspot.com/-ZYGRd75n2i0/TaWPux7oDGI/AAAAAAAAD1U/hTAMwS9aK-w/s1600/internetexplorer9logo.png)
 

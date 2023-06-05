@@ -8,7 +8,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google.cn is now redirecting to google.com.hk [ Hong Kong google servers ] – this has happened after the cyber attack on google china servers in december. right now if you try to access the google china web, news and image search are being redirected to google.com.hk
 

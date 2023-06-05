@@ -8,7 +8,8 @@ image: /images/sites/2/2011/11/Smile-Always-1299327702.jpg
 tags:
   - interesting
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Today's Tip:
 

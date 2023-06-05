@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Another Clone of [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) family, SysDefence! went live about 3 hours ago. They're flying off the conveyor belt today.
 

@@ -10,7 +10,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Twitter, one of the Internets most popular social networking sites, has been hacked and defaced by a group claiming to be an “Iranian Cyber Army” as of 10:15PM PST today. At this point no statement has been made by Twitter, so it’s unclear as to what vulnerability was used to exploit the site. Oftentimes hacktivism campaigns are fueled by ego-driven script kiddies who use publicly available exploits, but for now we’ll have to wait and see if Twitter decides to publicly announce the details surrounding the attack. The defacement has been removed and Twitter is back up and running as of 11:20 PM PST.
 

@@ -8,7 +8,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Mike Cardwell, an IT consultant in Nottingham, UK, reported on his [blog](https://secure.grepular.com/blog/index.php/2010/01/01/spamassassin-2010-bug/) finding a Y2010 bug in Spam Assassin. He found an error in a rule that Spam Assassin folks thought they fixed.
 

@@ -9,7 +9,8 @@ tags:
   - Google Chrome
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Google Operation System:** While most Chrome users have been upgraded to Chrome 10, Google is fixing [the bugs from Chrome 11](http://googlechromereleases.blogspot.com/2011/03/dev-channel-update_10.html) and working on Chrome 12. A recent Chromium build made [a significant change](http://src.chromium.org/viewvc/chrome?view=rev&revision=77888): Gears is no longer included in Google Chrome.
 

@@ -11,7 +11,8 @@ tags:
   - Thunderbird
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh4.ggpht.com/-Mi-4Pbjkj04/UHf6TXOfveI/AAAAAAAAHfg/9S8mO5R2x9Y/s1600-h/Mozilla_Firefox_cracked_bandaid_120%25255B2%25255D.png" target="_blank"><img title="Mozilla_Firefox_cracked_bandaid_120" border="0" alt="Mozilla_Firefox_cracked_bandaid_120" align="right" src="http://lh3.ggpht.com/-Z8ssS5vSqH0/UHf6WfCGeqI/AAAAAAAAHfo/rWgWRa7vx0g/Mozilla_Firefox_cracked_bandaid_120_thumb.png?imgmax=800" width="120" height="120" /></a>The H-Online: The latest version of Firefox, version 16, has returned to Mozilla's servers with the release of Firefox 16.0.1 after the discovery of vulnerabilities caused the organization to remove the just-released open source web browser from circulation. Mozilla's security [blog post](https://blog.mozilla.org/security/2012/10/10/security-vulnerability-in-firefox-16/) described the problem as just that of a malicious web site being able to potentially determine the URLs and parameters used and suggested downgrading to Firefox 15.0.1, despite the <a href="/2012/10/mozilla-closes-numerous-critical-holes.html" target="_blank">numerous critical bugs fixed</a> in Firefox 16.
 

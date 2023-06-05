@@ -7,7 +7,8 @@ url: 2010/12/06/more-problems-for-wikileaks-switzerland-cuts-off-founders-bank-a
 tags:
   - WikiLeaks
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="wikileaks1" border="0" alt="wikileaks1" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP1Bb-Qw08I/AAAAAAAADW0/JiAx0s2odRo/wikileaks1_thumb%5B1%5D.jpg?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP1BY35yPYI/AAAAAAAADWw/c4Tz9_TTwOk/s1600-h/wikileaks1%5B4%5D.jpg)Switzerland has taken new action against WikiLeaks by shutting down founder Julian Assange’s bank account. 
 

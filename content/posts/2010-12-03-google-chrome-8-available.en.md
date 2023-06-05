@@ -10,7 +10,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="google-chrome-logo" border="0" alt="google-chrome-logo" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TPlJPuhEGkI/AAAAAAAADUs/PAUcA-KOyio/google-chrome-logo_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TPlJNYkJeKI/AAAAAAAADUo/urvEeWHvNIo/s1600-h/google-chrome-logo%5B3%5D.png)Google just released version 8 of its web browser Chrome. It fixes [13 security vulnerabilities](http://googlechromereleases.blogspot.com/2010/12/stable-beta-channel-updates.html) of which 4 got rated “high”ly critical – the people reporting these all got rewarded with 1.000 US-$ and 500 US-$, respectively. Additionally to these security fixes, the update to Chrome 8.0.552.215 contains more than 800 bugfixes and stability improvements according to the Google developers.
 

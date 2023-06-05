@@ -8,7 +8,8 @@ tags:
   - Hijack
   - malware
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Back in November 2007, I’ve seen this technique used by one of the variant of Worm called [W32/Drom](http://www.virustotal.com/file-scan/report.html?id=8384fd416aab0acd0c57b78e5817cd462f93cbde3f2c82712b0c9c98cf5d4431-1282816998). The technique was not to execute the malicious file or component of the worm but to prevent Antivirus Program from running.  The Worm queries the following Antivirus registries to get the Installation Path, once acquired, it creates a folder named _“ws2_32.dll”_ with Hidden and System attributes on that location.
 

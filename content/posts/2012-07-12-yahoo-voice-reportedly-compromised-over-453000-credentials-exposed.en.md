@@ -11,7 +11,8 @@ tags:
   - leak
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh4.ggpht.com/-gVQEO5lHFc0/T_6GN1uqvfI/AAAAAAAAGa8/UP3m7Jys0zk/s1600-h/compromised_passwords%25255B4%25255D.jpg" target="_blank"><img title="compromised_passwords" border="0" alt="compromised_passwords" src="http://lh6.ggpht.com/-WQeBY6BPI2M/T_6GR8gQDDI/AAAAAAAAGbE/3R83YkmSU-c/compromised_passwords_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="236" /></a> 
 

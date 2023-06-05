@@ -10,7 +10,8 @@ tags:
   - news
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Today I’ve read a nice article in readwriteweb.com so I wanted share it with you:
 

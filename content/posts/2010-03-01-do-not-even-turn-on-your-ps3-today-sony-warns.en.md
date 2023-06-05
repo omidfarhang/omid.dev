@@ -9,7 +9,8 @@ tags:
   - news
   - Sony
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Since yesterday evening, PlayStation 3 users have been reporting difficulties in connecting their consoles to the PlayStation Network for online gameplay and system updates. While it was first thought to be a network-related issue, Sony has warned that there is a much more widespread issue currently affecting older PlayStation 3's.  
 Sony's offical statement lists the following errors as a part of this internal clock bug:

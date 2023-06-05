@@ -10,7 +10,8 @@ tags:
   - Patch Tuesday
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="microsoft_logo" border="0" alt="microsoft_logo" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8NkxXEC9NI/AAAAAAAAB6Q/8qVQwOFySWM/microsoft_logo_thumb%5B4%5D.jpg?imgmax=800" width="100" height="17" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S8NknZEG-OI/AAAAAAAAB6M/pc-UstgOkAY/s1600-h/microsoft_logo%5B6%5D.jpg) Many patches are [announced](http://www.microsoft.com/technet/security/bulletin/ms10-apr.mspx) for tomorrow: The Redmond company expects to release 11 security bulletins. Of those 5 are rated critical, 5 important and 1 moderate. The patches belonging to the bulletins will close 25 security vulnerabilities in Windows, Exchange and in Office. 
 

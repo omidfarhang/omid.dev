@@ -12,7 +12,8 @@ tags:
   - Updates
   - Windows
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="windows update" border="0" alt="windows update" align="right" src="http://lh4.ggpht.com/-3hcR1SZwcU4/T8yzuu1dOVI/AAAAAAAAGM4/woRUYx5hO34/windows%252520update_thumb%25255B9%25255D.jpg?imgmax=800" width="121" height="164" />](http://lh3.ggpht.com/-Frl63DpJXr8/T8yzsqawVqI/AAAAAAAAGMw/pKVPaFbzx9s/s1600-h/windows%252520update%25255B7%25255D.jpg)Avira TechBlog Wrote:
 

@@ -11,7 +11,8 @@ tags:
   - social networking
   - stats
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![fbstat](http://lh6.ggpht.com/_vaUVXcmC3OI/S98YCnfkU_I/AAAAAAAACC8/iDW6R4o5Wog/fbstat_thumb%5B1%5D.jpg?imgmax=800 "fbstat")](http://lh6.ggpht.com/_vaUVXcmC3OI/S98YAPImufI/AAAAAAAACC4/qKTspAKjlOQ/s1600-h/fbstat%5B3%5D.jpg) Self-proclaimed social media scientist Dan Zarrella has already applied linguistic methodologies to psychologically profile Twitter users. Now he’s using the same technology and approach to break down Facebook sharing behaviors. 
 

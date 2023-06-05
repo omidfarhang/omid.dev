@@ -9,7 +9,8 @@ tags:
   - security
   - symantec
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **SophosLabs:** Symantec has [confirmed](http://www.symantec.com/theme.jsp?themeid=anonymous-code-claims) that a file made available on the internet for anyone to download, does contain the source code for an old version of its pcAnywhere product.
 

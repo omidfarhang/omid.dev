@@ -9,7 +9,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 As we were working through URLs identified as suspicious due to our GTI technology, one of the URLs that presented itself was an average “.com” site that loaded a php. As we processed this – it was interesting to see that this php actually reached out to download a file that ended with the string facebook.com.exe — as this “.com” site was very social-network friendly – it would be easy to see how an average user, without web protection in place, would not even realize what was going on.
 

@@ -8,7 +8,8 @@ tags:
   - link
   - video
 lang: en
-category: blog
+category: 
+  - blog
 ---
 {{< youtube nt52SoAeP48 >}}
 

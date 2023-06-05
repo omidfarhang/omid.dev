@@ -11,7 +11,8 @@ tags:
   - Password
   - rumor
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="ChromePassword" border="0" alt="ChromePassword" align="right" src="http://lh3.ggpht.com/-oK2iESuzwiY/T0O3Fvbx__I/AAAAAAAAE5Y/Pw1dHxo4UME/ChromePassword_thumb.png?imgmax=800" width="244" height="104" />](http://lh5.ggpht.com/-Hunk8GBv7O8/T0O23sJbzzI/AAAAAAAAE5Q/VLtiTtFTa9k/s1600-h/ChromePassword%25255B2%25255D.png)**The H-Online:** Google's solution for the problem of getting better passwords on the net – a combination of browser sign-in and[OpenID](http://openid.net/) – will take some time to implement as it involves persuading sites to switch to using OpenID. The developers on the Chrome project think that they can at least improve the security of passwords on sites, by generating passwords for the user. A new [Password Generation](https://sites.google.com/a/chromium.org/dev/developers/design-documents/password-generation) proposal for the Chromium and Chrome browsers attempts to address that by assuming that once the user is signed into the browser, it can take over the handling of password creation. 
 

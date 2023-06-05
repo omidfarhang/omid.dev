@@ -9,7 +9,8 @@ tags:
   - Google
   - Google Mail
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="Gmail_logo" border="0" alt="Gmail_logo" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYmyUwTNUvI/AAAAAAAADyA/DV7HWd7o9UY/Gmail_logo_thumb%5B2%5D.png?imgmax=800" width="143" height="59" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYmySh_P3gI/AAAAAAAADx8/tH3On_ApIdg/s1600-h/Gmail_logo%5B4%5D.png)Gmail Blog:** Posted by Jason Toff, Product Marketing Manager
 

@@ -9,7 +9,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [Google Talk **Guru**](http://guru.googlelabs.com/) is a new Google bot that lets you ask simple questions. It's “an experimental service that allows people to get information like sports results, weather forecasts, definitions etc via chat. It works on many popular chat applications that support Google Talk.”  
 Send an invitation to **guru**@googlelabs.com in Gmail Chat, Google Talk or any other Jabber client and find simple facts like “weather in London”, “amplitude definition”, “translate souris”, “2^8”, “web stanford” (which returns the top Google result for [stanford]).

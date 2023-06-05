@@ -11,7 +11,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh4.ggpht.com/-5rGDEem1_34/T3RqDf3SHiI/AAAAAAAAFU0/7pZpQFaNyUI/new-chrome-logo_thumb%25255B1%25255D.png?imgmax=800" width="128" height="125" />](http://lh5.ggpht.com/-BfPid33cfng/T3RqBXoTN2I/AAAAAAAAFUs/CswboIa19-g/s1600-h/new-chrome-logo%25255B3%25255D.png)Google has released version 18 of Chrome, the company's own extended version of the open source Chromium web browser. The new [Stable channel](http://www.chromium.org/getting-involved/dev-channel#TOC-How-do-I-choose-which-channel-to-us) release, labeled 18.0.1025.142, fixes several security vulnerabilities, and improves graphics and drawing performance on systems with capable hardware. 
 

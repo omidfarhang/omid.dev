@@ -8,7 +8,8 @@ tags:
   - Microsoft
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 February 9th will bring numerous Microsoft Updates, 13 bulletins addressing 26 vulnerabilities.
 

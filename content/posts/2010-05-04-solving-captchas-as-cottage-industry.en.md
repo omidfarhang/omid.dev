@@ -7,7 +7,8 @@ url: 2010/05/04/solving-captchas-as-cottage-industry/
 tags:
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Make big money! $.80 to $1.20 per 1,000**
 

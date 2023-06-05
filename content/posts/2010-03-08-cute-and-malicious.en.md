@@ -12,7 +12,8 @@ tags:
   - social networking
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 There’s an angelically tinged infection doing the rounds at the moment that has more than a whiff of sulphur about it.
 

@@ -10,7 +10,8 @@ tags:
   - Offer
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 It's a normal day to us. We receive a new Bamital virus sample report from a customer, and we provide an analysis. Suddenly, something interesting bursts into my eyes:  
 

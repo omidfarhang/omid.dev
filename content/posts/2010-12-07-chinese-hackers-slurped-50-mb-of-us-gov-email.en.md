@@ -11,7 +11,8 @@ tags:
   - Microsoft
   - WikiLeaks
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **The Register:** Windows source code tapped, say WikiLeaked docs
 

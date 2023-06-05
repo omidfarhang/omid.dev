@@ -13,7 +13,8 @@ tags:
   - Skype
   - steve jobs
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Multitasking, the feature that has been the absolute top of every iPhone user's want list –which, by proxy became a major marketing point for both Android and webOS — has made its way to iPhone OS 4.
 

@@ -11,7 +11,8 @@ tags:
   - report
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
   
 Earlier today we have seen a new Facebook clickjacking scam which spreads quite fast.

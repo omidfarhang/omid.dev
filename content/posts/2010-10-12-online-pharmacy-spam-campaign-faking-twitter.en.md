@@ -12,7 +12,8 @@ tags:
   - Twitter
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 During the weekend our spamtraps received large amounts of emails pretending to come from Twitter. This time, the social engineering twist lies within the subject of the email: It is “You have 2 urgent messages from Twitter!”, creating psychological pressure by some kind of emergency within in the social surroundings of Twitter users. This way the spammers try to increase the rate of the users that are opening the email and click on the links.
 

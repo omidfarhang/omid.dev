@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="250px-Microsoft_wordmark.svg" border="0" alt="250px-Microsoft_wordmark.svg" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TXkqwrfwhyI/AAAAAAAADoQ/AAAIt5-eirg/250px-Microsoft_wordmark.svg_thumb%5B2%5D.png?imgmax=800" width="250" height="43" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TXki_EVdeAI/AAAAAAAADoM/Q3cZ9z2KAWk/250px-Microsoft_wordmark.svg%5B4%5D.png?imgmax=800)BetaNews wrote:** Thursday, Microsoft announced two updates to its Software Assurance [Desktop Optimization Pack](http://www.microsoft.com/windows/enterprise/products/mdop/default.aspx) for enterprise Windows deployments available immediately: App-V 4.6 SP1, and MED-V 2.0.
 

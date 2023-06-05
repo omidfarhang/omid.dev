@@ -11,7 +11,8 @@ tags:
   - Mobile 2.0
   - rumor
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![iphone-good-260](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oWyQA3tCI/AAAAAAAACAg/a4u36xUKxsw/iphone-good-260_thumb%5B3%5D.jpg?imgmax=800 "iphone-good-260")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8oWwDu7MbI/AAAAAAAACAc/F24i3hpRO-Q/s1600-h/iphone-good-260%5B5%5D.jpg) There has been widespread speculation about the release date of Apple’s next generation iPhone, including (yet another) report that the Verizon iPhone is finally coming this year. Now we have perhaps the most substantial evidence yet that a new version of the Apple smartphone is coming to AT&T in June. 
 

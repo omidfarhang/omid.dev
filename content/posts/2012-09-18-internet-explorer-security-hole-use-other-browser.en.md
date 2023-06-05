@@ -12,7 +12,8 @@ tags:
   - security
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **TheTelegraph: Internet Explorer users might want to consider upgrading or switching to another browser after a massive security hole was discovered in Windows' native web browser.** 
 

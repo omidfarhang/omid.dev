@@ -8,7 +8,8 @@ tags:
   - Adobe
   - How to
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Right now Adobe AIR is only officially available for 32-bit Linux. But it does work on 64-bit Linux with the 32-bit compatibility libraries. There are several ways to install Adobe AIR on Linux. My preferred way on Ubuntu is to use the .deb package. However the .deb package distributed by Adobe can only be installed on 32-bit systems. Good news is that this can be easily fixed! To install the Adobe AIR .deb package on a 64-bit system just follow these steps: 
 

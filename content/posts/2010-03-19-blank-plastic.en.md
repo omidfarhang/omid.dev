@@ -9,7 +9,8 @@ tags:
   - review
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We regularly learn of cases where criminals have gained access to credit card numbers via **keyloggers**, **skimmers** or **online hacks**.
 

@@ -10,7 +10,8 @@ tags:
   - Search
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Today we’ve added a new notification to our search results that helps people know when a site may have been hacked. We’ve provided [notices for malware](http://www.google.com/support/websearch/bin/answer.py?hl=en&answer=45449) for years, which also involve a separate warning page. Now we’re expanding the search results notifications to help people avoid sites that may have been compromised and altered by a third party, typically for spam. When a user visits a site, we want her to be confident the information on that site comes from the original publisher.  
 Here’s what the notification looks like:

@@ -9,7 +9,8 @@ tags:
   - malware
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Well, it didn’t take long for the Christmas E-Card scams to start.
 

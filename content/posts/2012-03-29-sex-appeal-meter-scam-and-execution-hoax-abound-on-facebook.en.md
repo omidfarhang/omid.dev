@@ -10,7 +10,8 @@ tags:
   - report
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _Cross posted from GFI, Sunbelt Blog:_ 
 

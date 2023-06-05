@@ -10,7 +10,8 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/-yxZ4-qT3Yvk/Taad6g9bEpI/AAAAAAAAD1s/zEbI1wxzC1Q/s200/adobe-logo.jpg)](http://4.bp.blogspot.com/-yxZ4-qT3Yvk/Taad6g9bEpI/AAAAAAAAD1s/zEbI1wxzC1Q/s1600/adobe-logo.jpg)
 

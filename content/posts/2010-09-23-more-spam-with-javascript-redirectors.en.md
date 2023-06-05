@@ -10,7 +10,8 @@ tags:
   - review
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We received new spam emails which contain a JavaScript redirector in form of a HTML attachment. The emails we received have the subject “Consultation Appointment”.
 

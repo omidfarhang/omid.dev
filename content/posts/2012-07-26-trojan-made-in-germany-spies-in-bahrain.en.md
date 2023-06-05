@@ -10,7 +10,8 @@ tags:
   - review
   - trojan
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 h-Online: Citizenlab has released a [detailed analysis](https://citizenlab.org/2012/07/from-bahrain-with-love-finfishers-spy-kit-exposed/3/) of the activities of a trojan in which the experts conclude that the malware is most likely closely related to FinFisher, a commercial spyware tool developed by a company called Gamma International. The trojan targeted political activists in Bahrain and included sender names such as that of an Al Jazeera correspondent and subject lines like “Torture reports on Rabil Najaab”. 
 

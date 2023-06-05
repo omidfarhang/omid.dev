@@ -9,7 +9,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="internet-explorer-logo" border="0" alt="internet-explorer-logo" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TOQBS1NIB-I/AAAAAAAADJo/LgnahCWSlZY/internet-explorer-logo_thumb%5B2%5D.jpg?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TOQBKFZOfII/AAAAAAAADJk/X9q4IqT4BkI/s1600-h/internet-explorer-logo%5B4%5D.jpg)We've all heard of graphics card makers optimizing their drivers for various benchmarks—some of you might recall the [Quack](http://techreport.com/articles.x/3089/1) story as one of the earlier examples. I think this might be the first time I've heard about the same thing happening in the world of web browsers, though. Believe it or not, Digitizor says a Mozilla engineer has found evidence that [Internet Explorer 9 is “cheating”](http://digitizor.com/2010/11/17/internet-explorer-9-caught-cheating-in-sunspider-benchmark/) in the popular SunSpider JavaScript benchmark.
 

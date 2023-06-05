@@ -10,7 +10,8 @@ tags:
   - security
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh5.ggpht.com/-cl4YyDO42hg/UDYgqworJcI/AAAAAAAAHJA/KjHVTTHAeAU/s1600-h/Adobe_Flash_120%25255B3%25255D.png" target="_blank"><img title="Adobe_Flash_120" border="0" alt="Adobe_Flash_120" align="right" src="http://lh4.ggpht.com/-UBA2J9Xxfxs/UDYgs1MunfI/AAAAAAAAHJI/7Qq7qp--OU0/Adobe_Flash_120_thumb%25255B1%25255D.png?imgmax=800" width="124" height="124" /></a>h-Online: Adobe has [released](http://blogs.adobe.com/psirt/2012/08/security-updates-available-for-adobe-flash-player-apsb12-19.html) the second update for its Flash Player software in a week, this time for six critical vulnerabilities. Four of the issues addressed are problems with memory corruption that could lead to remote code execution; additionally, the update fixes an integer overflow vulnerability that could also lead to remote code execution. Another bug that was fixed is a cross-domain information leak. The problems exist in Flash Player 11.3.300.271 and earlier versions on Windows, Macintosh and Linux, and in the Android versions 11.1.115.11 (Android 4.0) and 11.1.111.10 (Android 3.x and 2.x) and earlier. 
 

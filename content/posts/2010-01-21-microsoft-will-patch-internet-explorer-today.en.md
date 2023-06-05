@@ -10,7 +10,8 @@ tags:
   - Patch Tuesday
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Microsoft has said it will issue an out-of-band patch today for critical vulnerabilities in Internet Explorer that allow remote execution of code. The company said yesterday it would not wait until the February “Patch Tuesday” to fix the vulnerabilities.
 

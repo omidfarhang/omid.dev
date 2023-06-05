@@ -12,7 +12,8 @@ tags:
   - Mobile
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![goog-instant](http://lh3.ggpht.com/_vaUVXcmC3OI/TNV348YeVGI/AAAAAAAADFk/tEZNAsqXjbs/goog-instant_thumb%5B2%5D.jpg?imgmax=800 "goog-instant")](http://lh6.ggpht.com/_vaUVXcmC3OI/TNV32rXyS7I/AAAAAAAADFg/ZCdoanxn-hw/s1600-h/goog-instant%5B4%5D.jpg)Mashable: A beta version of Google Instant is now available on many U.S. iPhone and Android mobile devices. 
 

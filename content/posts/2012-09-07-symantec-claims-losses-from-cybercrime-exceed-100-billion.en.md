@@ -8,7 +8,8 @@ tags:
   - report
   - symantec
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh4.ggpht.com/-f6aTKN-clEM/UEmUfmMsQ5I/AAAAAAAAHVA/eAbIjGGFzE0/s1600-h/symantec_logo200.jpg" target="_blank"><img title="symantec_logo200" border="0" alt="symantec_logo200" align="right" src="http://lh6.ggpht.com/-6GXc66HE-c0/UEmUj2vR3iI/AAAAAAAAHVI/nY88VNrQH3M/symantec_logo200_thumb.jpg?imgmax=800" width="200" height="51" /></a>h-Online: According to Symantec's [2012 Norton Cybercrime Report](http://www.norton.com/2012cybercrimereport), worldwide, private individuals have suffered approximately $100 billion (more than £69 billion at the current exchange rate) in financial losses as a result of cybercrime. In the period from July 2011 to July 2012, losses averaged $197 (£124) per victim. 
 

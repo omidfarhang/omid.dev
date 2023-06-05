@@ -11,7 +11,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="skype_logo_online" border="0" alt="skype_logo_online" align="right" src="http://lh3.ggpht.com/-iaexQQCmapg/Tyvod8jA_tI/AAAAAAAAEd4/LjIbI3ANknM/skype_logo_online_thumb%25255B1%25255D.png?imgmax=800" width="240" height="106" />](http://lh5.ggpht.com/-ZdvZfQiiiKU/Tyvny52qKMI/AAAAAAAAEdw/DKEhJu1V2Yo/s1600-h/skype_logo_online%25255B3%25255D.png)Mashable:** Skype for Windows version 5.8 is out, bringing several interesting features, including full HD video-calling, group screen sharing and Facebook integration. 
 

@@ -10,7 +10,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **New rogue borrows massively from AV company sites**
 

@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Paladin Antivirus is a phony security program, designed to rip people off. Paladin Antivirus tricks people into thinking they are downloading a legit antivirus software, then continually displays false security alerts and warnings followed up with a requests for users to buy or register the software.
 

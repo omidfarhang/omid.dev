@@ -8,7 +8,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Could the manufacturers of DVD players (no, not just Blu-ray, but the original DVDs) owe back royalties to Alcatel-Lucent for the use of patented technology by way of the MPEG-2 codec? The MPEG Licensing Authority had asserted that Alcatel may have structured its 2006 merger with Lucent in such a way that it could hide up to five patents in a special trust, and spring their overdue royalties on the video industry long after DVDs already began the march to obsolescence.
 

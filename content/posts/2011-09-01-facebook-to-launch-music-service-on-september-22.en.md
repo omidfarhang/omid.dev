@@ -10,7 +10,8 @@ tags:
   - music
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ![teaser 3](http://2.bp.blogspot.com/--q9aM40DUPM/Tl-NnEp1rsI/AAAAAAAAEA4/lD-aaai1QgA/s1600/2011-08-31-teaser3.jpg)
 

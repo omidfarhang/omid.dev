@@ -10,7 +10,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The Hacker News: 
 

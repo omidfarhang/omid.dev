@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A few of days ago, we encountered an e-mail with a malicious RTF attachment. It was sent with a supposed lawsuit notification message.
 

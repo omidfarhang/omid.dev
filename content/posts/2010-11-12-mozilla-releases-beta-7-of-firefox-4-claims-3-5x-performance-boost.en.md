@@ -12,7 +12,8 @@ tags:
   - news
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **BetaNews:** [<img title="logo-wordmark-version-vertical-4" border="0" alt="logo-wordmark-version-vertical-4" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TN1ABzxVo5I/AAAAAAAADJE/4H6uqChfMts/logo-wordmark-version-vertical-4_thumb%5B2%5D.png?imgmax=800" width="150" height="176" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TN0_-pqbiqI/AAAAAAAADI8/REOYeTNGWwU/s1600-h/logo-wordmark-version-vertical-4%5B4%5D.png)Mozilla Wednesday released a significant update to the beta of its Firefox 4 browser. The update adds a new JavaScript JIT compiler, going by the name of JägerMonkey, and improves the browser's support for hardware acceleration, OpenType fonts, and WebGL 3D graphics (the technology used to create an [HTML5 version of Quake II](http://googlecode.blogspot.com/2010/04/html5-quake-ii.html) back in April.)
 

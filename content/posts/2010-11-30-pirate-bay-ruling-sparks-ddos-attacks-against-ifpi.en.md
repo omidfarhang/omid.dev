@@ -10,7 +10,8 @@ tags:
   - report
   - ThePirateBay
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **The Anonymous group takes revenge after legal decision against Pirate Bay founders**
 

@@ -9,7 +9,8 @@ tags:
   - review
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Last week we received a mass mailing that at first glance appeared no different from the usual mailbox clutter. The messages were in German and advertised an online casino. Nothing out of the ordinary there – after all, gambling-themed spam is one of the most popular in the German-speaking realms of cyberspace.
 

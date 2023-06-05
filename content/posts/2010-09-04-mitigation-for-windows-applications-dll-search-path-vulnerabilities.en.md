@@ -10,7 +10,8 @@ tags:
   - solution
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A whole bunch of Windows applications is vulnerable to a so-called binary-planting attack which allows for remote code execution. Microsoft released a [security advisory](http://www.microsoft.com/technet/security/advisory/2269637.mspx) about this issue which isn’t easy to fix properly. This issue arises due to the (defined and well documented) behavior of Windows when loading libraries by an application. A .dll to load gets searched in a certain standard path list. This list also includes the current working directory, which is the place a document gets opened from for example. When a file with the name of a DLL which the corresponding application needs to load is placed into the working directory, it will get loaded – this can be a malicious DLL though.
 

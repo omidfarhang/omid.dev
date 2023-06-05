@@ -9,7 +9,8 @@ tags:
   - news
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Though it is primarily known as a social networking site, Facebook is actually one of the top destinations for photo sharing, and a new user profile design change unveiled Monday ups the visibility of Facebook photos and encourages users to share personal information in a more visual way.
 

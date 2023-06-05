@@ -10,7 +10,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Mozilla.org has made public a report that says its Firefox browser has 30 percent market share worldwide. Assuming it’s true, that is a six percent increase since a [news story last November.](http://news.zdnet.co.uk/security/0,1000000189,39897339,00.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+zdnetuk%2Ftoolkits%2Fsme+%28ZDNet+UK+SME+Toolkit%29)  
 The Mozilla Metrics report 1Q2010 says the browser has 39.2 percent penetration in Europe (152.7 million users) and 29 percent in the U.S. (100 million users.) Mozilla claims 350 million users worldwide. Adoption is quickest in Russia (20 percent increase in the first quarter) the report said.

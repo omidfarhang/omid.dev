@@ -11,7 +11,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh3.ggpht.com/-7faILWdsqaI/T79GOSXOInI/AAAAAAAAGFc/ftEHEhrBtRk/new-chrome-logo%25255B3%25255D.png?imgmax=800" width="128" height="125" /><a href="http://www.h-online.com/" target="_blank">H-Online</a>: Google has [announced an update](http://googlechromereleases.blogspot.co.uk/2012/05/stable-channel-update_23.html) to the stable version of Chrome, which brings the browser version to 19.0.1084.52 on Windows, Mac OS X and Linux. The update is a pure security update that does not include any new features – it closes nine vulnerabilities with a Common Vulnerability Scoring System (CVSS) rating of “High” and fixes two problems labelled “Critical” as well as two “Medium” level issues.
 

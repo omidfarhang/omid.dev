@@ -13,7 +13,8 @@ tags:
   - vscode
   - zsh
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 If you use the simple Bash Terminal in your OS, you may want to give Zsh a try to use a faster and safer terminal with many more features. The simple Bash that exist in the common dist of Linuxes are not changed over years and just received some security fixes, but the community behind Zsh are improving it everyday and bring new useful plugins.
 

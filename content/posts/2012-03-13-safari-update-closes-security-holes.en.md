@@ -9,7 +9,8 @@ tags:
   - Mac OS X
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Safari_5.1.4_update" border="0" alt="Safari_5.1.4_update" align="right" src="http://lh4.ggpht.com/-GETeGICn5NI/T19MGTQrAUI/AAAAAAAAFJE/Fwt1xxJKi7E/Safari_5.1.4_update%25255B4%25255D.jpg?imgmax=800" width="319" height="484" />Apple](http://www.apple.com/) has released [version 5.1.4](http://support.apple.com/kb/HT5142) of its Safari web browser for Windows and Mac OS X. According to the company, the maintenance and security update addresses more than 80 vulnerabilities. The update also includes includes various stability and performance improvements as well as fixes for other non-security related bugs. 
 

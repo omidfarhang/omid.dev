@@ -9,7 +9,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Yesterday evening our spamtraps started receiving the email below in a mass mailing action. The email was immediately flagged as spam even before reaching our spamtraps. No wonder since it has no To:-field, it has a different Reply-to:- than the From:-field and it comes from a DSL line IP address. 
 

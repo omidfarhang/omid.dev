@@ -9,7 +9,8 @@ tags:
   - alert
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We just blogged about a highly targeted attack against military contractors.
 

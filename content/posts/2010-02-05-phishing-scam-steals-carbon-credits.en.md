@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Wired magazine has run a story on a phishing scam in Europe, New Zealand and Japan that resulted in the loss of 250,000 carbon credit permits worth $4 million from six companies.
 

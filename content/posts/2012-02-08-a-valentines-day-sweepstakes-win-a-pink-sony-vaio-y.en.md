@@ -10,7 +10,8 @@ tags:
   - promo
   - Windows
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Windows Experience Blog wrote:
 

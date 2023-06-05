@@ -9,7 +9,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Many users have complained about Windows 7 strange Battery notification saying “Consider replacing your Batteries” on Laptops and there was a noise about it in Blogosphere but Microsoft has replied to it. There were many Forum posts and blog articles implying Windows 7 is falsely reporting this situation or even worse, causing these batteries to fail.
 

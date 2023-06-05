@@ -12,7 +12,8 @@ tags:
   - nexus one
   - verizon
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![HTC_incredible-top](http://lh6.ggpht.com/_vaUVXcmC3OI/S8cDsj0c4KI/AAAAAAAAB-M/lYNQMoW6nPg/HTC_incredible-top_thumb%5B2%5D.jpg?imgmax=800 "HTC_incredible-top")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8cDqvD68uI/AAAAAAAAB-I/j5EUQqjw2Vk/s1600-h/HTC_incredible-top%5B4%5D.jpg) 
 

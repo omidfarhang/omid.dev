@@ -8,7 +8,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 When it is not actually a picture but an obfuscated malicious VB script!
 

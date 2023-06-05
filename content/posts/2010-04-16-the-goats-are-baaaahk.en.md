@@ -9,7 +9,8 @@ tags:
   - Interesting
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Taken from Google Official Blog:
 

@@ -10,7 +10,8 @@ tags:
   - review
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Scum on the run**
 

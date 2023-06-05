@@ -8,7 +8,8 @@ tags:
   - alert
   - Microsoft
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Microsoft is releasing an out-of-band update for their IE vulnerability.
 

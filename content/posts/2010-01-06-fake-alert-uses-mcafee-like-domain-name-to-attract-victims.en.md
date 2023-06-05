@@ -8,7 +8,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Cybercriminals love to use social engineering techniques to trick users into installing their malware. One of the latest fake-alert variants attempts to trick users into believing the software is related to or hosted by McAfee:**mcafeevirusremover.com**.
 

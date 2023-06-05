@@ -11,7 +11,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Symantec Connect: Symantec is intercepting a resurgence of spam attacks on popular brands. Spam messages that are replicas of the Wikipedia email address confirmation alert are the new vector for the present. The said spam messages pretend to be originating from Wikipedia, and are selling meds, with the following subject line: “_Subject:_ _Wikipedia e-mail address confirmation_”. 
 

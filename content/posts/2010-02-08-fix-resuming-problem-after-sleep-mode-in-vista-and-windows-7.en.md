@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - solution
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Putting laptop in **sleep mode** is a common thing that we do to save power and perform our work at a later stage without much delay. But for some users there is a problem while they try to resume from sleep mode.
 

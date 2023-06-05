@@ -11,7 +11,8 @@ tags:
   - Symantec
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ### [![NIS Icon](/images/2013/06/NIS-e1371815807148.png)](/images/2013/06/NIS-e1371815807148.png)Symantec has updated its suite of Windows security products with the release of Norton Antivirus 2013 v20.4, Norton Internet Security 2013 v20.4 and Norton 360 2013 v20.4.
 

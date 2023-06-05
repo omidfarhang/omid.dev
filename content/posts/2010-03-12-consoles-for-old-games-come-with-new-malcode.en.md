@@ -10,7 +10,8 @@ tags:
   - report
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Be on the lookout for websites offering up “free applications” which come with a nasty sting in the tail. Here’s a typical example: Appzkeygen(dot)com
 

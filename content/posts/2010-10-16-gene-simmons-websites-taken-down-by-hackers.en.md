@@ -10,7 +10,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Some people didn't like his comments about downloading…
 

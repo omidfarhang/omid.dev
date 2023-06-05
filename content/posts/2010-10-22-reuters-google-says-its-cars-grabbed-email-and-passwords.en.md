@@ -11,7 +11,8 @@ tags:
   - StreetView
   - WiFi
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="download" border="0" alt="download" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMIEEk-FFAI/AAAAAAAAC4Y/T6HU2dBeekQ/download_thumb%5B2%5D.jpg?imgmax=800" width="304" height="185" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMIEDN8O7cI/AAAAAAAAC4U/fwg0vMegi1I/s1600-h/download%5B4%5D.jpg)(Reuters) – Google Inc said its “Street View” cars around the world accidentally collected more personal data than previously disclosed, and that it was changing its privacy practices.
 

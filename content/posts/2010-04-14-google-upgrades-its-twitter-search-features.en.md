@@ -11,7 +11,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![google_minimalist](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZL9l3J4GI/AAAAAAAAB9s/xO3wR-bIoGM/google_minimalist_thumb%5B1%5D.jpg?imgmax=800 "google_minimalist")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZL7_qkvdI/AAAAAAAAB9o/lB1MYK5VyHw/s1600-h/google_minimalist%5B3%5D.jpg) Google’s adding an intriguing new feature to its Twitter search options –- the ability to “replay” a moment in time to see what people were tweeting about a given topic at any point between the present and the advent of the microblogging tool. 
 

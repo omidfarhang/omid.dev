@@ -12,7 +12,8 @@ tags:
   - Google Chrome
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Cross-posted from H-Online:
 

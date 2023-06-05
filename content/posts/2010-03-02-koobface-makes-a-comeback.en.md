@@ -12,7 +12,8 @@ tags:
   - spam
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A new KOOBFACE variant is again making the rounds in the social-networking scene. According to Trend Micro researcher, Norman Ingal, the malware employs Facebook’s Private Message feature to proliferate.
 

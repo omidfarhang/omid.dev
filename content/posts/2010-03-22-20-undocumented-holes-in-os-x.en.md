@@ -8,7 +8,8 @@ tags:
   - Apple
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Charlie Miller, Principal Analyst at Baltimore, Md.-based security firm ISE, has made news in the last two days saying that he found 20 perviously-unknown security vulnerabilities in Apple's OS X operating system. News stories seem to anticipate that he will reveal them at the CanSec West conference next week in his talk “Babysitting an Army of Monkeys: An Analysis of Fuzzing 4 Products with 5 Lines of Python.”
 

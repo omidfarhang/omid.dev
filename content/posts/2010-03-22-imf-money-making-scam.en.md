@@ -11,7 +11,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I have seen a lot of these lately. This one currently doing the rounds tries to dupe the reader into thinking that the [International Monetary Fund (IMF)](http://en.wikipedia.org/wiki/International_Monetary_Fund) wants to use their accounts to transfer money meant for charity.
 

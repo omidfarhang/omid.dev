@@ -8,7 +8,8 @@ tags:
   - Eric Schmidt
   - Interview
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/-Hqhs2QfH2KM/To70s7f9fFI/AAAAAAAAEC4/ouWdiOq7WYk/s400/schmidt42__01__600.jpg)](http://1.bp.blogspot.com/-Hqhs2QfH2KM/To70s7f9fFI/AAAAAAAAEC4/ouWdiOq7WYk/s1600/schmidt42__01__600.jpg)
 

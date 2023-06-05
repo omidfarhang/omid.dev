@@ -8,7 +8,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We've been seeing a gradual shift in malicious PDF file coding (no surprise there, we know malware authors can and do adapt their techniques).
 

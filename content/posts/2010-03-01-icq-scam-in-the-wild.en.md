@@ -11,7 +11,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I have received a message this morning from an ICQ account with the following text written in UTF-8 and plain text:
 

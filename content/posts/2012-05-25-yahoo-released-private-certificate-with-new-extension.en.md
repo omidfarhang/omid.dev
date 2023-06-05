@@ -9,7 +9,8 @@ tags:
   - report
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="axisscreenbig" border="0" alt="axisscreenbig" align="right" src="http://lh6.ggpht.com/-zcbUM2UWWs0/T79G27HrnQI/AAAAAAAAGFs/mCFDu-lvj4c/axisscreenbig_thumb%25255B2%25255D.png?imgmax=800" width="244" height="85" />](http://lh3.ggpht.com/-NmgK1g58UzY/T79GzkK5VQI/AAAAAAAAGFk/JhAthPA4mqY/s1600-h/axisscreenbig%25255B4%25255D.png)<a href="http://www.h-online.com/" target="_blank">H-Online</a>: Yahoo! introduced a new “browser”, [Axis](http://axis.yahoo.com/), last night, both as a standalone application for iPhone and iPad and as a browser extension on Chrome, Firefox, Internet Explorer and Safari. Axis is meant to offer faster, smarter searching using Yahoo's services. Within hours of the launch, hacker and blogger Nik Cubrilovic [posted on his blog](http://nikcub.appspot.com/posts/yahoo-axis-chrome-extension-leaks-private-certificate-file) that the Chrome extension came with a worrying extra, a Yahoo private certificate file which was used to sign the extension package and prove the package's authenticity to the Google browser. 
 

@@ -10,7 +10,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 An interesting and unknown feature used by sysadmins around the world in some large corporate networks is the use of proxy-auto config (pac) files. This benign feature is accepted by all modern browsers and is described in detail [here](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/web-browser-auto-proxy-configuration.html). It contains a function to redirect your connection to a specific proxy server.
 

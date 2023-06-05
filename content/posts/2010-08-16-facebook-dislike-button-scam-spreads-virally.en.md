@@ -12,7 +12,8 @@ tags:
   - social networking
   - warning
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Have you seen a message like this on Facebook?
 

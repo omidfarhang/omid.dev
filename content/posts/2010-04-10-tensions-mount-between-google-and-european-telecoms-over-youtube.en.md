@@ -16,7 +16,8 @@ tags:
   - Telefonica
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![Google-big](http://lh5.ggpht.com/_vaUVXcmC3OI/S8BNM-Xt9lI/AAAAAAAAB5Y/JvEy9ugma9I/Google-big_thumb%5B3%5D.jpg?imgmax=800 "Google-big")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8BNLKe-eEI/AAAAAAAAB5U/hc2O9r6cBm8/s1600-h/Google-big%5B5%5D.jpg)
 

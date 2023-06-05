@@ -11,7 +11,8 @@ tags:
   - privacy
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="showip-1701" border="0" alt="showip-1701" align="right" src="http://lh6.ggpht.com/-h9A-oYjfQVk/T6AAusPzbZI/AAAAAAAAFy4/YaysZ2QU59k/showip-1701_thumb.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/-Tp1oKYaS4SU/T6AApIwBq2I/AAAAAAAAFyw/6UMRsnkswsY/s1600-h/showip-1701%25255B2%25255D.jpg)<a href="http://nakedsecurity.sophos.com/2012/05/01/privacy-concern-showip-firefox-add-on/" target="_blank">Cross-posted from SophosLabs</a>: A popular Firefox add-on appears to have started leaking private information about every website that users visit to a third-party server, including sensitive data which could identify individuals or reduce their security. 
 

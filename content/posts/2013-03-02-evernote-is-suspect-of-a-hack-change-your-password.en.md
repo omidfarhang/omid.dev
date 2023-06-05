@@ -10,7 +10,8 @@ tags:
   - Password
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Cross-posted from Evernote blog:
 

@@ -7,7 +7,8 @@ url: 2010/05/19/data-google-skimmed-with-street-view-cars-gets-destroyed-in-irel
 tags:
   - Google
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Last Friday, Google announced that its Street View cars had accidentally collected private data from unencrypted Wi-Fi networks while making their rounds, and the international response began in full force. 
 

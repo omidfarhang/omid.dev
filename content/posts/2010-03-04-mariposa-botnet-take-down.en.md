@@ -8,7 +8,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Readers may well have read some of the news stories posted after yesterday’s news concerning the take down of the “Mariposa” botnet. So what is Mariposa?
 

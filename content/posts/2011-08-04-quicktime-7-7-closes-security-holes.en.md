@@ -12,7 +12,8 @@ tags:
   - Updates
   - Windows
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/-c_i3xoOcbiI/TjqgHJPa23I/AAAAAAAAD8Q/d-jgLK-50cI/s1600/quicktime_logo_txt200-56bc9f4a22d1598c.png)](http://1.bp.blogspot.com/-c_i3xoOcbiI/TjqgHJPa23I/AAAAAAAAD8Q/d-jgLK-50cI/s1600/quicktime_logo_txt200-56bc9f4a22d1598c.png)
 

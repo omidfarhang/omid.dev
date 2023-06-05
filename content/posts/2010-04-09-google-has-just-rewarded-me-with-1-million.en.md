@@ -10,7 +10,8 @@ tags:
   - review
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I don’t believe it!! This morning I’ve received an email sent by Google notifying me that I´ve won $950,000,  so I think this will be the last post I’m going to write 😉
 

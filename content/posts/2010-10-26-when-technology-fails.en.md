@@ -9,7 +9,8 @@ tags:
   - Interesting
   - technology
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 I love computers and technology in general. Actually, I am an advocate of technology and I try to push high tech solution whenever that makes sense.
 

@@ -9,7 +9,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 At the [RSA Conference 2012](http://www.rsaconference.com/events/2012/usa/mightier.htm), McAfee's Chief Technology Officer, Stuart McClure, and several of his colleagues, have demonstrated a whole range of different attacks on mobile devices. For example, they demonstrated an attack on an NFC (Near Field Communication)-enabled smartphone: the attacker simply attaches a modified NFC tag to a legitimate surface such as an advertising poster. For their live demo, the researchers used a Red Cross donations appeal such as those seen at bus stops in various cities across Europe. 
 

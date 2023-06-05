@@ -10,7 +10,8 @@ tags:
   - Mobile
   - steve jobs
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Apple has sued smartphone maker HTC for patent infringement, citing 20 patents related to the iPhone's user interface, architecture, and hardware, a statement from the company said this morning.
 

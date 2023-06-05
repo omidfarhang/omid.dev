@@ -12,7 +12,8 @@ tags:
   - review
   - Stuxnet
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Stuxnet** continues to be a hot topic. Here are answers to some of the questions we've received.
 

@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Symantec Connect: Customers of popular email service providers have been a common target for phishers for identity theft purposes. Phishers are constantly devising new phishing bait strategies in the hope of stealing user email addresses and passwords. In April 2012, Symantec observed phishing pages that mimicked popular email services in an attempt to dupe users with attractive storage plans. 
 

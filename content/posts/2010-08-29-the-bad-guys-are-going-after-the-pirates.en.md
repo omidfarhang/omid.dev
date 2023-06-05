@@ -12,7 +12,8 @@ tags:
   - Piracy
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 File-sharing organization Pirate Bay has been controversial for a long time, like maybe the length of its entire existence. It’s been in the news recently because a number of governments are trying to shut it down. That’s a situation ripe for social engineering.
 

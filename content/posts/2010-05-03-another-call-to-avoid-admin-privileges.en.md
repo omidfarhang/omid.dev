@@ -9,7 +9,8 @@ tags:
   - report
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 For the second time recently, a security researcher has pointed out that running machines without administrative privileges could significantly improve security.
 

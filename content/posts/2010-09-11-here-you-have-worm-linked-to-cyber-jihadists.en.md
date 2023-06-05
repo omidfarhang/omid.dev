@@ -12,7 +12,8 @@ tags:
   - warning
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A worm collectively dubbed by the security industry as the “Here you have worm” has been making its way onto corporate networks over the past 24 hours.  The worm arrives via e-mail using the subject line “Here you have” or _“_Just For you_“_ along with an executable disguised as a PDF file.  It first appeared last month sending spam e-mails from iraq_resistance@yahoo.com.
 

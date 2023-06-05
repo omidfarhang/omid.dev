@@ -8,7 +8,8 @@ image: /images/sites/2/2012/02/US-vs-World.jpg
 tags:
   - interesting
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Really why?
 

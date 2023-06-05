@@ -9,7 +9,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Hong Kong-based security firm [Network Box](http://www.network-box.com/home) reported that Korea was the country of origin for 31.1 percent of the malware on the Internet in March. In February the country only pumped out 8.9 percent, leading researchers to theorize that there has been a huge increase in infected machines there pushing out phishing spam.
 

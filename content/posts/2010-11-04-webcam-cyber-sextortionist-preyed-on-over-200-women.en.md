@@ -11,7 +11,8 @@ tags:
   - report
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A perverted hacker who spied upon more than 200 women via their webcams and microphones, after infecting their computers with malware, was arrested earlier this year by the FBI after a two year investigation.
 

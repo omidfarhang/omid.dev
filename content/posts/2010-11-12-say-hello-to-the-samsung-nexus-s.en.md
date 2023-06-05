@@ -9,7 +9,8 @@ tags:
   - Mobile
   - nexus s
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="nexus-s-back-225" border="0" alt="nexus-s-back-225" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TN07KNUC7eI/AAAAAAAADIY/iFj2K6IRDNY/nexus-s-back-225_thumb.jpg?imgmax=800" width="229" height="229" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TN07Hpib4FI/AAAAAAAADIU/04Z8A52cE-k/s1600-h/nexus-s-back-225%5B2%5D.jpg)**Mashable:** If you didn’t think the [Nexus S](http://mashable.com/2010/11/11/nexus-s-google/) was real, perhaps these pictures of the purported device will convince you otherwise. 
 

@@ -10,7 +10,8 @@ tags:
   - scam
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [SafetyAntispyware](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware) is a new rogue anti-spyware application. However, the functionality follows the same pattern as other rogues.
 

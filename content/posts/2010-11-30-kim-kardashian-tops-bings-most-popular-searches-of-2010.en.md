@@ -13,7 +13,8 @@ tags:
   - Search
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="kardashian-bieber" border="0" alt="kardashian-bieber" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TPVe9pwZIXI/AAAAAAAADSg/ftjaa9q4VyE/kardashian-bieber_thumb%5B5%5D.jpg?imgmax=800" width="204" height="250" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TPVe419tLoI/AAAAAAAADSc/XNQnNo6HpL8/s1600-h/kardashian-bieber%5B7%5D.jpg)Mashable**: Bing is getting an early start on the “best of 2010” lists, releasing its compilation of the year’s most popular search terms a little more than a month before the New Year. 
 

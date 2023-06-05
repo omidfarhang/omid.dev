@@ -10,7 +10,8 @@ tags:
   - sochi
   - News
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 {{< youtube waEeJJVZ5P8 >}}
 

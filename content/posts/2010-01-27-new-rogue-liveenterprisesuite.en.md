@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 LiveEnterpriseSuite is a clone of InternetAntivirusPRO. Actually, the only thing that the authors of this rogue have changed is the name in the GUI.
 

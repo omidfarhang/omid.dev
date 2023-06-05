@@ -9,7 +9,8 @@ tags:
   - sandbox
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh4.ggpht.com/-aybwqy1UQcQ/T-iMWjfZ89I/AAAAAAAAGXc/Rf9hKbePy6w/s1600-h/adobe%252520reader%25255B5%25255D.jpg" target="_blank"><img title="adobe reader" border="0" alt="adobe reader" align="right" src="http://lh4.ggpht.com/-_vwlEK3JFds/T-iMYTsGZaI/AAAAAAAAGXk/xhtZ1_T5FuA/adobe%252520reader_thumb%25255B3%25255D.jpg?imgmax=800" width="160" height="165" /></a>Adobe Reader X runs in a sandbox at a very restricted privilege level. Important system calls are supposed to be handled by a special broker process that will subject them to extensive testing. However, a small design flaw allows attackers to escape from this sandbox and execute arbitrary code – despite having both [ASLR](http://en.wikipedia.org/wiki/Address_space_layout_randomization) (Address Space Layout Randomisation) and [DEP](http://en.wikipedia.org/wiki/Data_Execution_Prevention) (Data Execution Prevention). 
 

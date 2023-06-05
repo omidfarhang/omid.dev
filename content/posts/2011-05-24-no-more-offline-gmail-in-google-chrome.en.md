@@ -10,7 +10,8 @@ tags:
   - Google Chrome
   - Google Mail
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google Operation System Blog wrote:
 

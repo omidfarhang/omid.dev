@@ -10,7 +10,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Right! A site registered in the state of “Taliban.”
 

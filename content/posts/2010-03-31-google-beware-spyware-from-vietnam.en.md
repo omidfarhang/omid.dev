@@ -7,7 +7,8 @@ url: 2010/03/31/google-beware-spyware-from-vietnam/
 tags:
   - Google
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Spyware/DDoS malware combo**
 

@@ -8,7 +8,8 @@ tags:
   - report
   - VirusTotal
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 InfoSecurity, a great site for computer security news, just put up a [story](http://www.infosecurity-us.com/view/6314/malware-threat-reports-fail-to-add-up/) asking the very old question: “Why don’t AV vendors name malcode consistently.”
 

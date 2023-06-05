@@ -8,7 +8,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Have you ever wanted to quickly send a file to a friend who's online? Now you can share pictures, documents and other files directly with your friends while chatting in [iGoogle](http://www.google.com/ig) and [orkut](http://www.orkut.com/), without having to switch to email to send the file as an attachment. File transfer works directly in the browser so you don't need to install anything. Just start a conversation with a friend and click “Send a file…” in the “Actions” menu. After you select a file, your friend will be asked if they want to accept the transfer. You can learn more on the [Google Talkabout Blog](http://googletalk.blogspot.com/2010/03/file-transfer-in-igoogle-and-orkut-chat.html).
 

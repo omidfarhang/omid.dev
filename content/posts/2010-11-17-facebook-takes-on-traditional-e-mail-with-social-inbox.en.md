@@ -11,7 +11,8 @@ tags:
   - social networking
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [Facebook](http://blog.facebook.com/blog.php?post=452288242130) has announced a new product that will compete directly with the e-mail services provided by Yahoo, Microsoft, Google, and AOL. Facebook believes traditional e-mail is too slow and cumbersome; it needs be brought into the modern world of messaging. The site has thus launched [Facebook Messages](http://facebook.com/about/messages), which merges texts, online chats, and e-mails into one central hub. Users see all of them in their Social Inbox and can reply in any way they want. The social networking giant says this product is the biggest it has worked on to date. 
 

@@ -9,7 +9,8 @@ tags:
   - Updates
   - Windows
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh5.ggpht.com/-ZMGeRyOvRxA/UFDbAZR71yI/AAAAAAAAHbo/ao_SvXZuY1A/s1600-h/windows%252520update%25255B3%25255D.jpg" target="_blank"><img title="windows update" border="0" alt="windows update" align="right" src="http://lh3.ggpht.com/-q6lLiDU5wLY/UFDbCTI9vsI/AAAAAAAAHbw/WcIc04ez6X8/windows%252520update_thumb%25255B5%25255D.jpg?imgmax=800" width="156" height="209" /></a>h-online: On its September Patch Tuesday, Microsoft [released](http://blogs.technet.com/b/msrc/archive/2012/09/11/update-tuesday-overview-for-september-2012.aspx) [two security updates](http://technet.microsoft.com/en-us/security/bulletin/ms12-sep) that are rated as [important](http://technet.microsoft.com/en-US/security/gg309177) and which close holes in [Visual Studio Team Foundation Server 2010](http://technet.microsoft.com/en-US/security/bulletin/ms12-061) (TFS) and [Systems Management Server 2003 and 2007](http://technet.microsoft.com/en-US/security/bulletin/ms12-062). Both updates fix cross-site scripting (XSS) vulnerabilities in the web interfaces that allow attackers to execute arbitrary code in the victim's browser. 
 

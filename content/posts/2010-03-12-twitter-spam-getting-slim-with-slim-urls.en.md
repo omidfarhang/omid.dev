@@ -9,7 +9,8 @@ tags:
   - spam
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A while ago I was writing about twitter spam and I was trying to make a brief definition of this kind of spam: It follows a lot of users , has 1 post and is followed only by a few persons. Well, this changed now, because the theme became much more interesting for the people on Twitter: how to loose weight. Ironically, the URLs on Twitter also make a diet – they always get “compressed” using link shortener services.
 

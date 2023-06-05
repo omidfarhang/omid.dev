@@ -10,7 +10,8 @@ tags:
   - Internet Explorer
   - Microsoft
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh3.ggpht.com/-_3lro8Qix0M/UFC1pqSkiRI/AAAAAAAAHZA/MnedQh8_SNg/s1600-h/internetexplorer9logo%25255B5%25255D.png" target="_blank"><img title="internetexplorer9logo" border="0" alt="internetexplorer9logo" align="right" src="http://lh5.ggpht.com/-h5l33YJ-WlI/UFC1sY0bLTI/AAAAAAAAHZI/6lZ8ALG5SzQ/internetexplorer9logo_thumb%25255B3%25255D.png?imgmax=800" width="195" height="202" /></a>h-online: Microsoft has confirmed that it will deliver a security update for the bundled version of Flash Player used by Internet Explorer 10 (IE10) sooner than previously planned. In a [statement](http://www.zdnet.com/microsoft-to-deliver-flash-update-to-windows-8-users-shortly-7000004039/) sent to ZDNet, Yunsun Wee, Trustworthy Computing Director at Microsoft, said that the company is working closely with Adobe on an updated version of the Flash plugin which “will be available shortly”. 
 

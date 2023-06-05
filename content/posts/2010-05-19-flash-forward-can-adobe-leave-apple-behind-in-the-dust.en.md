@@ -9,7 +9,8 @@ tags:
   - Apple
   - Flash
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="2651" border="0" alt="2651" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S_P1RDkJlnI/AAAAAAAACPM/K3CmvzsjQe4/2651_thumb%5B2%5D.jpg?imgmax=800" width="190" height="120" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S_P1PK_aQvI/AAAAAAAACPI/6rpgnZzio9M/s1600-h/2651%5B4%5D.jpg) Flash, sharply rejected by Jobs and Company, has moved on to Apple's competitors, hoping for a warm welcome and the promise of a place in the mobile market. While Apple CEO Steve Jobs' recent open letter deploring Adobe's Flash managed to do little in terms of settling the argument as to who was right in the debate, it did point out many of the problems with the oft-buggy software that may indeed plague the smartphone experience. 
 

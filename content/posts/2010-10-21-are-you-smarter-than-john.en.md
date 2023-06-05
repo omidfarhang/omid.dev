@@ -11,7 +11,8 @@ tags:
   - security
   - Video
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 How not to manage your passwords…
 

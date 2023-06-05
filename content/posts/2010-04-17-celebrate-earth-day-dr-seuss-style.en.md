@@ -15,7 +15,8 @@ tags:
   - Kids
   - The Lorax
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![ipad-lorax-top](http://lh5.ggpht.com/_vaUVXcmC3OI/S8nvD6qU3mI/AAAAAAAAB_k/G-p647uVLY4/ipad-lorax-top_thumb%5B2%5D.jpg?imgmax=800 "ipad-lorax-top")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8nvB6_zGiI/AAAAAAAAB_g/BL_NzFWJliI/s1600-h/ipad-lorax-top%5B4%5D.jpg) Just in time for Earth Day, [Oceanhouse Media](http://www.oceanhousemedia.com/products/drseuss/) has released two special iPhone and iPad apps based around Dr. Seuss’s classic book, _The Lorax_. First published in 1971, _The Lorax_ was written by Dr. Seuss to teach children about the value of caring about the environment.
 

@@ -10,7 +10,8 @@ tags:
   - Twitter
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="twitter_t_logo-246x300" border="0" alt="twitter_t_logo-246x300" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TJj-jwyx_JI/AAAAAAAACe4/66eoGglep5M/twitter_t_logo-246x300_thumb%5B5%5D.png?imgmax=800" width="50" height="61" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TJj-i3k6yfI/AAAAAAAACe0/5OMlNvUwmAs/s1600-h/twitter_t_logo-246x300%5B7%5D.png)On Twitter a new security flaw gets currently exploited. Hackers found a way to inject malicious JavaScript code into tweets with the onMouseOver event. This can lead to pop-ups appearing, redirecting to websites, re-tweeting spam, or even worse things like cookie stealing (compromising the user accounts). The problem is that Twitter doesn’t properly filter out some tags in tweets.
 

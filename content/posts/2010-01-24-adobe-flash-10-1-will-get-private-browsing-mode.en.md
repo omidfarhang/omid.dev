@@ -9,7 +9,8 @@ tags:
   - Google Chrome
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Adobe Flash is a well well known plugin used today by most of the internet users. Its next upgrade i.e version 10.1 will get private browsing support. Flash player will now automatically clean all flash history of your computer once you end the session. It will use the same technique as used in browsers supporting private browsing.
 

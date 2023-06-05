@@ -10,7 +10,8 @@ tags:
   - review
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Some domain names make you cringe, some make you smile…
 

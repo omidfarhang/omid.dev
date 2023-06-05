@@ -10,7 +10,8 @@ tags:
   - scam
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Hollywood celebrity Corey Haim has died in typical tabloid fashion: “under investigation.” And we all know that celebrity death equals Internet scams by the boatload.
 

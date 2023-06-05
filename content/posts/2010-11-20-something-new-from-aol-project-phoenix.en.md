@@ -10,7 +10,8 @@ tags:
   - Beta
   - Mail
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Take a look in the email I got from AOL:
 

@@ -15,7 +15,8 @@ tags:
   - StreetView
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [Google Earth 6](http://www.google.com/earth/) doesn't have too many new features. You can now use Street View just like in Google Maps by dragging the pegman icon. “To view street-level imagery for a specific location, zoom into an area at an altitude of approximately 500km. You will see a pegman icon appear at the top right below the navigation controls. Click and drag the icon across the 3D viewer. A blue border will appear around roads that have street-level imagery available,” [explains Google](http://earth.google.com/support/bin/static.py?page=guide.cs&guide=22370&topic=22652&answer=1067358).
 

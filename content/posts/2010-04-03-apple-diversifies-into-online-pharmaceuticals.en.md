@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Spammers have decided that in order for Apple to meet sky-high growth expectations from its shareholders, Apple needs to diversify into selling drugs online.
 

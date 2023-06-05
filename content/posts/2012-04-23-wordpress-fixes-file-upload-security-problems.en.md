@@ -9,7 +9,8 @@ tags:
   - Updates
   - WordPress
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="WordPress_200" border="0" alt="WordPress_200" align="right" src="http://lh6.ggpht.com/-GbENj31U-Tc/T5WdyMtkaSI/AAAAAAAAFmw/YtzLKWJgQkI/WordPress_200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="45" />](http://lh3.ggpht.com/-h7QrTlJQ9tk/T5WdwJ55JfI/AAAAAAAAFmo/RxXwo8gHv00/s1600-h/WordPress_200%25255B3%25255D.png)The H-Security: The developers of the popular open source blog engine WordPress have [released](http://wordpress.org/news/2012/04/wordpress-3-3-2/) a security update for the software. WordPress 3.3.2 fixes unspecified bugs in three external file upload libraries used in the software and other security problems with the application. 
 

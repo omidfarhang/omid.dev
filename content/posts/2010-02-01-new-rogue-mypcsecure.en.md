@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 MyPcSecure is the latest rogue anti-spyware application and a clone from the WiniGuard family.
 

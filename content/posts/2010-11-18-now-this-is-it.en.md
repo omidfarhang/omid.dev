@@ -6,7 +6,8 @@ author_profile: true
 url: 2010/11/18/now-this-is-it/
 
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Hi Folks!
 

@@ -12,7 +12,8 @@ tags:
   - MSN
   - Skype
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The Dorkbot/Rodpicom worm, which spreads via messaging applications and leads to additional malware infections, is currently doing rounds on Skype and MSN Messenger, [warns](http://blog.fortinet.com/rodpicom-botnet-upping-the-ante-of-chat-malware/) Fortinet. 
 

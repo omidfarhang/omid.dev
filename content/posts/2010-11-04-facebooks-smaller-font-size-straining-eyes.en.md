@@ -9,7 +9,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNHz3S-KTUI/AAAAAAAADBw/49Wsn0z00tQ/facebook%28low%29_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNHzzV3LAdI/AAAAAAAADBs/RFvggSomiUA/s1600-h/facebook%28low%29%5B2%5D.jpg)(CNN)** — Facebook is the biggest name in social networking. But overnight, it got smaller.
 

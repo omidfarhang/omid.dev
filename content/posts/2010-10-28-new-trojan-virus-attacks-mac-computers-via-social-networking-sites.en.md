@@ -12,7 +12,8 @@ tags:
   - report
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Mac: Hi PC, I'm not feeling so hot today…  
 ** **PC: Oh, I know ALL about that. I think you have a virus!**

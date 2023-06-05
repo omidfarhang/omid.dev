@@ -10,7 +10,8 @@ tags:
   - spam
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 …”click here to view”.
 

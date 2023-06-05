@@ -13,7 +13,8 @@ tags:
   - review
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 In this post I want to highlight how SEO attacks are working:
 

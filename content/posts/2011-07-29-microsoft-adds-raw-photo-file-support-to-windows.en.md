@@ -14,7 +14,8 @@ tags:
   - Windows 7
   - windows vista
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Microsoft announced the release of a Camera Codec pack for Windows that offers support for the RAW file format from within Windows Explorer as well as Windows Live Photo Gallery 2011. The Codec Pack has support for more than 120 RAW file formats from brands such as Canon, Nikon, Sony, Olympus, Pentax, Leica, Minolta, Panasonic, and Espon. The Codec Pack will allow you to generate thumbnail images from RAW files, once it is installed.
 

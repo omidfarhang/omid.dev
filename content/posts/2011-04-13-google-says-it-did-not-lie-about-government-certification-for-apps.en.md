@@ -9,7 +9,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/-anPPnO0zGVM/TaWNybQtB5I/AAAAAAAAD1Q/dSwBuAHorQ4/s1600/google+app.jpg)](http://3.bp.blogspot.com/-anPPnO0zGVM/TaWNybQtB5I/AAAAAAAAD1Q/dSwBuAHorQ4/s1600/google+app.jpg)
 

@@ -8,7 +8,8 @@ tags:
   - news
   - symantec
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh6.ggpht.com/-91XZBVC3Xl8/UA_uGcX1n7I/AAAAAAAAGlY/ffXwrTan9T8/s1600-h/symantec-logo-300dpi%25255B4%25255D.jpg" target="_blank"><img title="symantec-logo-300dpi" border="0" alt="symantec-logo-300dpi" align="right" src="http://lh4.ggpht.com/-6uaBq_Tg23Q/UA_uJxx1UHI/AAAAAAAAGlg/6zZ5Dz1wWw4/symantec-logo-300dpi_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="86" /></a><a href="http://www.computerworld.com/s/article/9229643/Symantec_CEO_steps_down_replaced_by_chairman" target="_blank">Computer World</a>: Security software vendor Symantec said Wednesday that Enrique Salem, its president and chief executive officer, had stepped down with immediate affect, after the company reported that its revenue for the quarter ended June 29 grew 1% year-over-year to $1.7 billion. 
 

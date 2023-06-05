@@ -10,7 +10,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="Opera-logo" border="0" alt="Opera-logo" align="right" src="http://lh5.ggpht.com/-p1OrQqFRhvE/Tzk5xyvY-_I/AAAAAAAAEvw/-kn85P-nkLs/Opera-logo_thumb%25255B3%25255D.jpg?imgmax=800" width="240" height="84" />](http://lh4.ggpht.com/-TXuKGILdgFg/Tzk5uZadqwI/AAAAAAAAEvo/yvenmwkGfxw/s1600-h/Opera-logo%25255B6%25255D.jpg)The H-Online:** Opera has [published](http://my.opera.com/desktopteam/blog/2012/02/10/core-dnt-mail-themes) a development snapshot of version 12 of its web browser that adds support for Mozilla's “Do Not Track” (DNT) header. Code-named “Wahoo”, the unstable release is the first from Opera to support the DNT header, which signals web sites that the browser user wishes to opt-out of online behavioral tracking; online advertising networks use cookies and other web technologies to recognize internet users and serve them tailored advertising. Support for DNT in Opera 12 is currently disabled by default. Users can enable it in the preferences dialogue by selecting “Preferences > Advanced > Security > Ask websites not to track me”. 
 

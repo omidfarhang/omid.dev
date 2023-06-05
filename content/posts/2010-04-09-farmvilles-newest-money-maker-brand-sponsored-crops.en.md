@@ -12,7 +12,8 @@ tags:
   - MARKETING
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79fJA9oYqI/AAAAAAAAB2s/jk3IvzNVIIQ/s1600/farmville-peanuts.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79fJA9oYqI/AAAAAAAAB2s/jk3IvzNVIIQ/s1600/farmville-peanuts.jpg)
 

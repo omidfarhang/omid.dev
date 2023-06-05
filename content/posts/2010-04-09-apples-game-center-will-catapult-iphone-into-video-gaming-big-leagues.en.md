@@ -12,7 +12,8 @@ tags:
   - iphone
   - Wii
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Today, Apple unveiled a major update to the iPhone OS which is expected to reach iPhone 3G/3GS and 2nd/3rd gen iPod users sometime this summer, and iPad users in the fall. While the banner feature of this release is its multitasking capability, the announcement that Apple will open a web-based gaming network akin to Xbox Live and PlayStation Network has potential to be the biggest coup.
 

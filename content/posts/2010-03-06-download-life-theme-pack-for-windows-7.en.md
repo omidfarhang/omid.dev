@@ -7,7 +7,8 @@ url: 2010/03/06/download-life-theme-pack-for-windows-7/
 tags:
   - Microsoft
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 After the **[Spring](http://boelectronic.blogspot.com/2010/03/download-official-spring-theme-pack-for.html)** theme pack Microsoft has released a beautiful **Life theme**. It consists of five beautiful Discovery channel wallpapers based on wild life and nature.
 

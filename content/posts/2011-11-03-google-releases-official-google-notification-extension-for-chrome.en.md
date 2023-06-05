@@ -10,7 +10,8 @@ tags:
   - Google Chrome
   - Google Plus
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/-d9jl6_Vv0Tg/TrKEVqq8GUI/AAAAAAAAENs/FQ7yyiEeu58/s1600/new-chrome-logo.png)](http://1.bp.blogspot.com/-d9jl6_Vv0Tg/TrKEVqq8GUI/AAAAAAAAENs/FQ7yyiEeu58/s1600/new-chrome-logo.png)
 

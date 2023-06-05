@@ -12,7 +12,8 @@ tags:
   - news
   - Skype
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Popular instant messaging, voice chat, and video conferencing client Skype and Skype Lite are no longer available on Windows Mobile devices.
 

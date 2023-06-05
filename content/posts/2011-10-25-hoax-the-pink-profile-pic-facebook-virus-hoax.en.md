@@ -10,7 +10,8 @@ tags:
   - scam
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [SophosLabs](http://nakedsecurity.sophos.com/): Have you noticed the profile pics of some of your Facebook friends have acquired a pink tinge?
 

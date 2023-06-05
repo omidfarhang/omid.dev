@@ -9,7 +9,8 @@ tags:
   - report
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The National Bureau of Economic Research has previously indicated that the United States has been in a recession since December 2007. What is interesting to note here is that Symantec first reported that spammers were showing an interest in the slowdown of the economy in October and November of 2007, so this begs the question, “Can the focus of spam email be used as an economic indicator or barometer?” Let’s take a brief look at the recession (thus far) by looking through Symantec's spam folder (a.k.a. the Symantec Global Intelligence Network).
 

@@ -10,7 +10,8 @@ tags:
   - malware
   - Mobile
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google's Android mobile operating system has been out for a while and is generating more and more interest.
 

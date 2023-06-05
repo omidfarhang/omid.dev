@@ -13,7 +13,8 @@ tags:
   - iphone
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oUENCPFwI/AAAAAAAAAyI/5vwgb6DXOZU/s640/story.google.tablet.chrome.courtesy.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oUENCPFwI/AAAAAAAAAyI/5vwgb6DXOZU/s1600-h/story.google.tablet.chrome.courtesy.jpg)
 

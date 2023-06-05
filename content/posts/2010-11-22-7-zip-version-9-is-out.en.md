@@ -8,7 +8,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 For those who missed this update on Nov 18:
 

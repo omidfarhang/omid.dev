@@ -10,7 +10,8 @@ tags:
   - news
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="facebook-gift-cards" border="0" alt="facebook-gift-cards" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMb7WZbxyDI/AAAAAAAAC7g/ZpskbPpJLVc/facebook-gift-cards_thumb%5B1%5D.jpg?imgmax=800" width="225" height="324" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMb7UobIbpI/AAAAAAAAC7c/6Lp3hvQF-3E/s1600-h/facebook-gift-cards%5B3%5D.jpg)Mashable: There’s a new stocking stuffer for the social gamer on your holiday shopping list: Facebook Credits. 
 

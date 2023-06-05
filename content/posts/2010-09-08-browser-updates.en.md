@@ -15,7 +15,8 @@ tags:
   - Safari 5
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <img title="ff_3-e1283938170510" border="0" alt="ff_3-e1283938170510" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TIfc-sP0X2I/AAAAAAAACbo/kcc1BS5au-Q/ff_3-e1283938170510%5B4%5D.png?imgmax=800" width="50" height="44" />The Mozilla foundation just released the popular web browser Firefox in version 3.6.9. The new version fixes overall [14 security vulnerabilities](http://www.mozilla.org/security/known-vulnerabilities/firefox36.html#firefox3.6.9) of which 10 are rated critical by the developers. Additionally, they added a new feature called “[X-FRAME-OPTIONS](https://developer.mozilla.org/en/The_X-FRAME-OPTIONS_response_header)“-header which shall help mitigating [clickjacking](http://en.wikipedia.org/wiki/Clickjacking) attacks as web site owners can ensure with this header that their content isn’t inserted into other sites via frames. The update is available through the automatic update mechanism ( via the “Help” – “Search for updates” menu).
 

@@ -7,7 +7,8 @@ url: 2012/01/18/you-dislike-it-too-sore-throat-part-2/
 tags:
   - information
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Part 1: [/2012/01/you-dislike-it-too-sore-throat](/2012/01/you-dislike-it-too-sore-throat)
 

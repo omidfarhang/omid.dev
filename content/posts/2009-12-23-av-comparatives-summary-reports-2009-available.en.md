@@ -7,7 +7,8 @@ url: 2009/12/23/av-comparatives-summary-reports-2009-available/
 tags:
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 AV-Comparatives Summary Reports 2009 Available!  
 Summary Report 2009

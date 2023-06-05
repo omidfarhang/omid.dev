@@ -11,7 +11,8 @@ tags:
   - Password
   - PlayBoy
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![grady-sizemore](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cUw_UtgI/AAAAAAAADHs/zN2hx-5wyew/grady-sizemore_thumb.jpg?imgmax=800 "grady-sizemore")](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0cS1d8BZI/AAAAAAAADHo/uQMx_sgi25g/s1600-h/grady-sizemore%5B2%5D.jpg)In 2009, naked photographs of American baseball star Grady Sizemore circulated on the internet after being stolen from the email account of his then girlfriend, Playboy Playmate Brittany Binger.
 

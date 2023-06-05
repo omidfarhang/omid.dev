@@ -11,7 +11,8 @@ tags:
   - news
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ![](http://2.bp.blogspot.com/-Vg5Kk6KgVx4/Tuzm3rkWi5I/AAAAAAAAEWY/OQaRp2-us7o/s1600/internetexplorer9logo.png)
 

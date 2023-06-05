@@ -10,7 +10,8 @@ tags:
   - news
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s640/calc.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s1600-h/calc.png)
 

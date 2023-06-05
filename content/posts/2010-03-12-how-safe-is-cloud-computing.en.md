@@ -9,7 +9,8 @@ tags:
   - review
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _This is an article taken from_ [_CNN_](http://www.cnn.com/) _and I don't agree or disagree it._
 

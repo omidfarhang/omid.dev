@@ -10,7 +10,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![twitter-top](http://lh3.ggpht.com/_vaUVXcmC3OI/S8YH3E2QOKI/AAAAAAAAB8A/idmGeQ_KXa4/twitter-top_thumb%5B3%5D.png?imgmax=800 "twitter-top")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8YH038wxhI/AAAAAAAAB78/FfZcaTE6Ngg/s1600-h/twitter-top%5B5%5D.png) In kicking off Twitter’s Chirp developer conference, the company finally revealed its long mysterious registered user number, and it’s surprisingly large (based on some prior outside estimates): 105 million, or to be exact, 105,779,710, according to a slide showing behind Co-founder Biz Stone during his opening remarks. 
 

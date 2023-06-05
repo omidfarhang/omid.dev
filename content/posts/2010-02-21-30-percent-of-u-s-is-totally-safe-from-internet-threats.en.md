@@ -8,7 +8,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A survey of 54,000 households (129,000 people) commissioned by National Telecommunications and Information Administration (NTIA) last year found that 30 percent of U.S residents did not use the Internet at home or at work.
 

@@ -13,7 +13,8 @@ tags:
   - Offer
   - suggestion
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google has just released ‘Google Books’ app for iOS. The Google Books app offers access to over 2 million Google eBooks on iPhone, iPod touch, or iPad. Take your favorite books with you on the go. The app is free and requires to sign in with your Google account.
 

@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Oops indeed. At least if you were one of the Facebook users who believed that a hidden camera video had leaked onto the net of Justin Bieber sharing some intimate moments with his girlfriend Selena Gomez. 
 

@@ -10,7 +10,8 @@ tags:
   - Google Chrome
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 
 _cross-posted on the [Official Google Blog](http://googleblog.blogspot.com/2011/03/speedier-simpler-and-safer-chromes.html)_

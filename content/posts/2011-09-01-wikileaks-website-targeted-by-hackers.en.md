@@ -9,7 +9,8 @@ tags:
   - report
   - WikiLeaks
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/-_vb0Ud6hueI/Tl-s9g2H5aI/AAAAAAAAEBE/aKsKQoUNG8Y/s1600/wikileaks-1.jpg)](http://4.bp.blogspot.com/-_vb0Ud6hueI/Tl-s9g2H5aI/AAAAAAAAEBE/aKsKQoUNG8Y/s1600/wikileaks-1.jpg)
 

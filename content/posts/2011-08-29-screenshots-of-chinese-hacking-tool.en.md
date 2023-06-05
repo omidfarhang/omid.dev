@@ -9,7 +9,8 @@ tags:
   - review
   - screenshot
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/-oUPHLf8F1OE/Tlv1iJZIGGI/AAAAAAAAD_0/oZOXirKT5Bs/s320/575.0.1.0.16777215.0.stories.large.2011.08.22.CCTV-7-2.jpg)](http://3.bp.blogspot.com/-oUPHLf8F1OE/Tlv1iJZIGGI/AAAAAAAAD_0/oZOXirKT5Bs/s1600/575.0.1.0.16777215.0.stories.large.2011.08.22.CCTV-7-2.jpg)
 

@@ -9,7 +9,8 @@ tags:
   - report
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We see spam all the time. One of the most dependable things spammers do is to try and exploit various newsworthy events and holidays.
 

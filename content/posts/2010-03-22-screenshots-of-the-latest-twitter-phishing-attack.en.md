@@ -11,7 +11,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Today there's a phishing run underway in Twitter, using Direct Messages (“DMs”). These are private one-to-one Tweets inside Twitter.
 

@@ -12,7 +12,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Tom Gallagher, senior security test lead with Microsoft's Trustworthy Computing group, was extensively quoted in news stories today as he described how his group found 1,800 software flaws in Office 2010 by running millions of “fuzzing” tests.
 

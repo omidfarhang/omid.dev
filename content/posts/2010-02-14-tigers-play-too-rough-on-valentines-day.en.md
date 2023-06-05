@@ -8,7 +8,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 While most sane people around the world are enjoying a romantic Valentine’s Day today, we at SophosLabs remain vigilant on the front line of the war against malware.
 

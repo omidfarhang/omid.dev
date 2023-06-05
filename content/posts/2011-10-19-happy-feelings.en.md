@@ -8,7 +8,8 @@ tags:
   - My life
   - video
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Hey! my friends!
 

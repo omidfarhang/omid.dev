@@ -9,7 +9,8 @@ tags:
   - Google Chrome
   - PDF
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="google-chrome-logo" border="0" alt="google-chrome-logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNV56_fMxxI/AAAAAAAADFs/L4DNjjeFbIE/google-chrome-logo_thumb%5B2%5D.png?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TNV54Tm0vbI/AAAAAAAADFo/S77j9LXLXCM/s1600-h/google-chrome-logo%5B4%5D.png)For Google Chrome users, viewing PDFs in the browser has been a colossal pain for lo these many moons. That’s why we are (and you should be) thrilled to learn that Google is rolling out a better way to look at PDFs in Chrome.
 

@@ -11,7 +11,8 @@ tags:
   - Updates
   - Windows 7
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A universe filled with kaleidoscopic colors blazes across your desktop in this theme for Windows 7, revealed by the infrared imaging of NASA's Spitzer Space Telescope. Discover more about Spitzer's unique view of stars, nebulae, and galaxies on the [Spitzer Space Telescope](http://go.microsoft.com/fwlink/?LinkID=187616) website.
 

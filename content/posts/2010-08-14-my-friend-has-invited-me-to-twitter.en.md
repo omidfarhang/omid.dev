@@ -11,7 +11,8 @@ tags:
   - Twitter
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 “What are you doing?  
 “To join or to see who invited you, check the attachment.” 

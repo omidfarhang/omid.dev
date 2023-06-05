@@ -8,7 +8,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 — 7.68 Terabits/s for growing Asian market  
 — $300 million cost (from consortium of six companies)  

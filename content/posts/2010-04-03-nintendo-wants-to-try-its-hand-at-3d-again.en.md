@@ -11,7 +11,8 @@ tags:
   - news
   - Nintendo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A very dodgy looking PDF file appeared on Nintendo's Japanese investor relations site with the title “Launch of New Portable Game Machine” ([PDF available here](http://www.nintendo.co.jp/ir/pdf/2010/100323e.pdf)).
 

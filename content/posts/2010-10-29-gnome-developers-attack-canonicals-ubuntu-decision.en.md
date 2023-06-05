@@ -11,7 +11,8 @@ tags:
   - news
   - ubuntu
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Many Ubuntu users will undoubtedly have strong opinions on Canonical’s recent proposal to replace the GNOME desktop with Unity in the Ubuntu 11.04 release.  But for the programmers behind GNOME, one of the open-source community’s most important projects, the announcement might prove to be even more upsetting.  [Jon McCann](http://blogs.gnome.org/mccann), lead designer for GNOME Shell, recently shared his thoughts on this topic with us–and he was none too charitable in his comments on Canonical.  Read on for details.
 

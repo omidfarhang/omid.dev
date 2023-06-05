@@ -11,7 +11,8 @@ tags:
   - review
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 If you like downloading or installing programs on your PC related to XBox gaming, you might want to take heed of this writeup. There’s a fake application kit in circulation that allows an attacker to create a website claiming to be an XBox Live application that takes the form of a Java install.
 

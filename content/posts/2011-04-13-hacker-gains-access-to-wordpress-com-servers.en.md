@@ -10,7 +10,8 @@ tags:
   - report
   - WordPress
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s200/wordpress.png)](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s1600/wordpress.png)
 

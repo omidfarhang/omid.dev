@@ -9,7 +9,8 @@ tags:
   - hoax
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/-XaOk_Pks1YY/Tn-QnW_alQI/AAAAAAAAECo/jtrfUIOpUL4/s200/facebook-logo%2528High%2529.jpg)](http://3.bp.blogspot.com/-XaOk_Pks1YY/Tn-QnW_alQI/AAAAAAAAECo/jtrfUIOpUL4/s1600/facebook-logo%2528High%2529.jpg)
 

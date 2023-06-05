@@ -15,7 +15,8 @@ tags:
   - social networking
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Spam emails such as the one below have been doing the rounds on the Internet hoping to lure recipients into downloading a Facebook toolbar.
 

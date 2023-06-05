@@ -10,7 +10,8 @@ tags:
   - Windows 7
   - Windows XP
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Today is a very important day for Microsoft: it's the first day that Windows XP can no longer be bundled on new PCs and it's also the first anniversary of the release of Windows 7. Either Microsoft planned for these dates to coincide, or we just have a big coincidence on our hands. 
 

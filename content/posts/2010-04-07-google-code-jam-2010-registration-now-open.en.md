@@ -9,7 +9,8 @@ tags:
   - Google Code
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Taken from Official Google:
 

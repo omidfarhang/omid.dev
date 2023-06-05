@@ -10,7 +10,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="avira_logo_red_rgb (2)" border="0" alt="avira_logo_red_rgb (2)" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TZM7zv1UDMI/AAAAAAAADyo/tMldI0CRkKA/avira_logo_red_rgb%20%282%29_thumb%5B5%5D.jpg?imgmax=800" width="150" height="36" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TZM7yPvanvI/AAAAAAAADyk/MnvbNy90n7E/s1600-h/avira_logo_red_rgb%20%282%29%5B7%5D.jpg)Avira TechBlog:** SpyEye is a malware family which we are monitoring for some time. Today we are analyzing a sample which is detected as TR/Spy.SpyEye.flh by <a href="/en/knowledge-base/programs/avira-premium-security-suite" target="_blank">Avira products</a>.
 

@@ -12,7 +12,8 @@ tags:
   - sprint
   - WiMax
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 With Clearwire and Sprint pushing for mobile WiMAX coverage in 80 U.S. markets by the end of 2010, and promising three new WiMAX-powered smartphones in the near future, it's easy to lose sight of the wireless technology as a solution for rural residential broadband. 
 

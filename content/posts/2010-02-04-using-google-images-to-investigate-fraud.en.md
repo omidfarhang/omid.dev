@@ -8,7 +8,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Sami, one of our test engineers, was recently seeking a Play Station 3.
 

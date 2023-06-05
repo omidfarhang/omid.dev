@@ -8,7 +8,8 @@ tags:
   - alert
   - malware
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Disguised IQ test combines virus, rootkit and worm — malicious code for one fatal formula
 

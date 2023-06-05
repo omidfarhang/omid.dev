@@ -11,7 +11,8 @@ tags:
   - Windows 7
   - windows Server
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="article_img" border="0" alt="article_img" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMmOF36YeZI/AAAAAAAAC9A/VQJm6gFSUoo/article_img_thumb%5B5%5D.jpg?imgmax=800" width="159" height="203" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMmOEnm6x8I/AAAAAAAAC88/E7_AFNtOMBo/s1600-h/article_img%5B4%5D.jpg)Microsoft has announced the launch of the Release Candidate version of Windows 7 Service Pack 1, the last test version prior to its official release.
 

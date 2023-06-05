@@ -9,7 +9,8 @@ tags:
   - hack
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _My Personal Opinion: I doubt if that site is really their official website or not_
 

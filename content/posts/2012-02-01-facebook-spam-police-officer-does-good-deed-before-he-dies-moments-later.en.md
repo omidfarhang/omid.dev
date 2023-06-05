@@ -11,7 +11,8 @@ tags:
   - facebook phishing
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Have you seen this in your or your friends wall? or maybe in a page you “Like”?
 

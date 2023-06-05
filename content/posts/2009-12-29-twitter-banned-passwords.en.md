@@ -8,7 +8,8 @@ tags:
   - social networking
   - Twitter
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 As you may have heard in the last few days, Twitter has banned 370 passwords (actually only 369, ‘password’ appears twice in the list) as ‘too obvious’ to be safe for their users. A good move in theory but why are so few words banned? And what are they? The list is available in various places online, or even just by viewing the source of the Twitter sign up page. Sadly the sports fans in this Sophos office may be out of luck with both ‘boston’ and ‘redsox’ making the banned list.
 

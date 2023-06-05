@@ -11,7 +11,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The Black Eyed Peas have taken over MySpace in an effort to improve its social entertainment offerings. 
 

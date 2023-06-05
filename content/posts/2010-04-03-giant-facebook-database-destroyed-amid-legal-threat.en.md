@@ -12,7 +12,8 @@ tags:
   - review
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _New Scientist_ is [reporting](http://www.newscientist.com/article/dn18721-data-sifted-from-facebook-wiped-after-legal-threats.html) that a massive database culled from the public profiles of 210 million Facebook users has been destroyed before its anticipated — and controversial — release to researchers.
 

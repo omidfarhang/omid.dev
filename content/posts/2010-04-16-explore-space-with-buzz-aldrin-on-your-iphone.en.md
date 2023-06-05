@@ -14,7 +14,8 @@ tags:
   - space
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![buzzaldrin](http://lh6.ggpht.com/_vaUVXcmC3OI/S8hmdeZkCBI/AAAAAAAAB-8/G_JN-8Jh0Nk/buzzaldrin_thumb%5B2%5D.jpg?imgmax=800 "buzzaldrin")](http://lh5.ggpht.com/_vaUVXcmC3OI/S8hmbfC7F6I/AAAAAAAAB-4/lwSrfBm9aI8/s1600-h/buzzaldrin%5B4%5D.jpg) Astronaut [Buzz Aldrin](http://itunes.apple.com/us/app/buzz-aldrin-portal-to-science/id361496196?mt=8) [iTunes link] has his own iPhone app, and it’s packed full of information, news, images and videos related to space exploration. It’s currently the one of the most popular apps in the Apple App Store’s Education category. 
 

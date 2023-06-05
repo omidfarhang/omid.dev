@@ -9,7 +9,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Planning a romantic Valentine’s Day for your loved one? Is there is no end to all that you can do to add even more sparkle this dreamy day? Perhaps a bottle of wine, flowers, or a lovely gift to impress him/her—and if you aren’t with anyone, there are even dating services available that provide you with options to meet a date.  
 As Dermot Harnett mentioned in [A Brilliant Proposal: Stay Away from Valentine’s Day Spam!](http://www.symantec.com/connect/blogs/brilliant-proposal-stay-away-valentine-s-day-spam), for spammers, Valentine’s Day is a great target. We’ve observed several spam email message styles related to this upcoming event. Gift options, flower delivery, dating service, med spam to spice up your relationship, and much more.  

@@ -9,7 +9,8 @@ tags:
   - facebook phishing
   - phishing
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Here’s one of the latest Facebook phish attempts: videos of “beautifull” girls:
 

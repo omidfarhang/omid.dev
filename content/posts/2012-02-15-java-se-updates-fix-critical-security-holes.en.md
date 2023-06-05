@@ -10,7 +10,8 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="java_logo_no_txt_200" border="0" alt="java_logo_no_txt_200" align="right" src="http://lh4.ggpht.com/-Q1Btk-dAeww/TzvvaaXvdnI/AAAAAAAAEzw/Cu0cQfi762E/java_logo_no_txt_200_thumb%25255B1%25255D.png?imgmax=800" width="148" height="200" />](http://lh5.ggpht.com/-fUnaqMWttnc/TzvvPY6wJwI/AAAAAAAAEzo/jDc_QKQISZQ/s1600-h/java_logo_no_txt_200%25255B3%25255D.png)**The H-Online:** Oracle has fixed [14 security holes](http://www.oracle.com/technetwork/topics/security/javacpufeb2012verbose-366319.html) in the Java Standard Edition (Java SE) with a critical patch update. The vulnerabilities allow attackers to use specially crafted Java WebStart applications or web services in order to install malicious code on computers that run flawed versions of Java. Oracle says that such flawed versions are particularly likely to exist on Windows computers because Windows users tend to have admin privileges. The risk is smaller under operating systems such as Linux and Solaris, the company added. 
 

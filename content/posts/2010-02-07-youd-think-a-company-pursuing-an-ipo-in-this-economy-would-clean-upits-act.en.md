@@ -8,7 +8,8 @@ tags:
   - phishing
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 You’d think that a company trying to raise several hundred million with an initial public offering of stock would tell their affiliates to be on their best behavior for a while.
 

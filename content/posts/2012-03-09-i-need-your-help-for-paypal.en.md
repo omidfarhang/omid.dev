@@ -7,7 +7,8 @@ url: 2012/03/09/i-need-your-help-for-paypal/
 tags:
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Hi People!
 

@@ -12,7 +12,8 @@ tags:
   - Updates
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="quicktime-logo" border="0" alt="quicktime-logo" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQK7vKoPlCI/AAAAAAAADfc/Yc6_b0RHhEw/quicktime-logo_thumb%5B2%5D.gif?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TQK7tGC6H9I/AAAAAAAADfY/DLguus5VXOw/s1600-h/quicktime-logo%5B4%5D.gif)This week Apple announced the availability of QuickTime 7.6.9 for OS X 10.5 and Windows platforms. This release fixes 13 vulnerabilities in QuickTime for OS X Leopard and 15 vulnerabilities on the Windows platform. Keep in mind that if you use iTunes it requires that you install QuickTime as well, so be sure to check for updates.
 

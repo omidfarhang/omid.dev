@@ -9,7 +9,8 @@ tags:
   - Microsoft
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 TheRegister.co.uk wrote: 
 

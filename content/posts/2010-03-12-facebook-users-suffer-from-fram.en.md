@@ -10,7 +10,8 @@ tags:
   - social networking
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 About a year or so ago one of the “McMarketeers” decided it would be fun to run a campaign against “fram”–spam that friends send you. As you might guess, we in the Labs have no friends, so it was no problem for us to ridicule the idea.
 

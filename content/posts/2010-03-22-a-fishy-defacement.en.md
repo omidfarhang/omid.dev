@@ -8,7 +8,8 @@ tags:
   - phishing
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Generally speaking, most website defacements I see tend to look the same with political activist Y decrying political activist Z, or leet hax0rs posting up a mile-long shoutout list to their crew.
 

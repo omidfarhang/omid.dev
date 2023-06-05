@@ -7,7 +7,8 @@ url: 2012/05/06/excuse-me-graham-cluley/
 tags:
   - This Blog Update
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
  Hi,/
  You may have noticed that part of my blog posts are copied from other source as I name them (and link them) in beginning of my posts, for example “[Naked Security](http://nakedsecurity.sophos.com/)” (SophosLabs).

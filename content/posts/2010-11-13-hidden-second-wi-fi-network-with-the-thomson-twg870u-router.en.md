@@ -12,7 +12,8 @@ tags:
   - security
   - WiFi
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Righard Zwienenberg from Norman Security Center Blog posted something interesting, Thanks to Mr. Fagerlid for Sharing:
 

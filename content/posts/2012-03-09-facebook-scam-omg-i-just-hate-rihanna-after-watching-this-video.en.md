@@ -12,7 +12,8 @@ tags:
   - scam
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="rihanna-170" border="0" alt="rihanna-170" align="right" src="http://lh6.ggpht.com/-8fh3fkGuqMw/T1puH45YG3I/AAAAAAAAFHI/LrOLnRNBMW8/rihanna-170_thumb.jpg?imgmax=800" width="174" height="174" />](http://lh6.ggpht.com/-PLV4m9yUaGw/T1puEjU9_1I/AAAAAAAAFHA/zs7dp68fsxE/s1600-h/rihanna-170%25255B2%25255D.jpg)SophosLabs:** Messages are spreading between Facebook users, claiming that members of the social network have lost all respect for popular songstress Rihanna after watching a video. 
 

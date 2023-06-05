@@ -7,7 +7,8 @@ url: 2012/03/07/gout-hypothyroid-high-bp-and-bad-liver/
 tags:
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Today morning I had a meeting with my doctor, giving him test results I had taken last week. Good and bad news here.
 

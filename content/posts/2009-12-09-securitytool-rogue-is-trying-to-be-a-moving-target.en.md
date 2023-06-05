@@ -11,7 +11,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue security product, which first turned up early in October, is still active and trying to avoid countermeasures by setting up 12-24 download sites per day.
 

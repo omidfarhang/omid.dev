@@ -11,7 +11,8 @@ tags:
   - Video
   - Windows Phone
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Todd Bishop, TechFlash:** Not sure if this will factor into anyone's purchasing decisions, but it looks like Windows Phone 7 is the smartphone for you — at least if you have a habit of leaving your smartphone unattended on a flaming grill.
 

@@ -10,7 +10,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Apple is cashing in on the popularity of its iPhone and iPad to boost demand for its oldest product, the Macintosh.**
 

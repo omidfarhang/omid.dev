@@ -10,7 +10,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Despite talk of Tiger Woods’ sponsors “limiting his role” in their advertising campaigns, he is still very much hot stuff when it comes to search engine queries which means he’s still a viable target for the malware writers.
 

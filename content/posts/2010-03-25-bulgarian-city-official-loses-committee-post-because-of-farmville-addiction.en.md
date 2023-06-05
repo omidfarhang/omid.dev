@@ -7,7 +7,8 @@ url: 2010/03/25/bulgarian-city-official-loses-committee-post-because-of-farmvill
 tags:
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Computer security category of risk: human factors? **
 

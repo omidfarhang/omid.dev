@@ -11,7 +11,8 @@ tags:
   - symantec
   - News
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Cross-posted from PCMag SecurityWatch:
 

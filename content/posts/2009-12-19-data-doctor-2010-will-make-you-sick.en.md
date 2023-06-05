@@ -10,7 +10,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [Data Doctor 2010](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/data-doctor-2010), an encryption trojan via our old “friends” iframedollars. It encrypts the files on your hard drive very rapidly if you’re unfortunate enough to be victimized by it.
 

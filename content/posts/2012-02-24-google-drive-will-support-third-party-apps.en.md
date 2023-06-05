@@ -9,7 +9,8 @@ tags:
   - google docs
   - Google Drive
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/-ppcbzrOjL5Q/T0dm9RrraXI/AAAAAAAAE9M/yv-Bs0CWYzU/Google_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="87" />](http://lh3.ggpht.com/-izbYKuoiGxo/T0dm3JhvjkI/AAAAAAAAE9E/TCrJte4uv48/s1600-h/Google%25255B1%25255D.png)**Google Operation System Blog:** Back in November 2010, a comment from the Google Docs source code [revealed some new features](http://googlesystem.blogspot.com/2010/11/coming-soon-in-google-docs-third-party.html) that will be available: third party apps, Cloud Print integration and sync.
 

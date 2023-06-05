@@ -9,7 +9,8 @@ tags:
   - privacy
   - Settlement
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNCaevZ1wAI/AAAAAAAAC_s/UgLUJoR2KMY/Google_thumb%5B2%5D.png?imgmax=800" width="150" height="54" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TNCaZ34j14I/AAAAAAAAC_o/Zwyblwl9z00/s1600-h/Google%5B4%5D.png)Let’s take a look in the Email I got from Google right now:
 

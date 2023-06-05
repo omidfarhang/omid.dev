@@ -8,7 +8,8 @@ tags:
   - news
   - Torrent
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **gHacks:** Users of the popular Bittorrent indexing website [BTJunkie](http://btjunkie.org/goodbye.html) who try to access the site’s content in a web browser are not seeing the usual site layout, but a goodbye message instead. The message states that the site operators have decided to close down the service voluntarily after more than seven years of operation. 
 

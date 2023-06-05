@@ -10,7 +10,8 @@ tags:
   - iphone
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="iphone-ipad-170" border="0" alt="iphone-ipad-170" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TO0shHrYegI/AAAAAAAADM8/ATfgo43_PjU/iphone-ipad-170_thumb%5B1%5D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0sf7S5vVI/AAAAAAAADM4/iozXDLw-sPk/s1600-h/iphone-ipad-170%5B3%5D.jpg)Yesterday, Apple pushed out the much anticipated update to its mobile operating system – iOS 4.2.
 

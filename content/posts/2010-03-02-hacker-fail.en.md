@@ -9,7 +9,8 @@ tags:
   - hack
   - Interesting
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Very funny:
 

@@ -8,7 +8,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The internet is rife with free tools from anything to everything (almost) – from free HTML web editors to free applications to free games and so on.
 

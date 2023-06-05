@@ -9,7 +9,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ![google-favicon](/images/2012/08/new-google-favicon24.png)
 Google is shortening the amount of time it gives to makers of vulnerable software and web services if there is imminent danger. The Google security team say that if they encounter a zero-day issue that is already being actively used for cyber attacks, it will grant the affected manufacturer just [seven days grace](http://googleonlinesecurity.blogspot.com/2013/05/disclosure-timeline-for-vulnerabilities.html) to fix the vulnerabilities or publish an advisory with mitigation strategies for users.

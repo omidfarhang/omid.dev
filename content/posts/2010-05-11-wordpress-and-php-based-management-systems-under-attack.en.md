@@ -12,7 +12,8 @@ tags:
   - report
   - WordPress
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 A variety of sources are reporting that blog hosting sites with WordPress-created sites and php-based management systems such as Zen Care eCommerce are being infected with malicious scripts.
 

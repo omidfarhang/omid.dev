@@ -11,7 +11,8 @@ tags:
   - malware
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://news.cnet.com/8301-13579_3-57421513-37/kaspersky-mac-security-is-10-years-behind-microsoft/?ttag=fbw" target="_blank"><img title="MacVSWindowsTabair_270x189" border="0" alt="MacVSWindowsTabair_270x189" align="right" src="http://lh5.ggpht.com/-ocUmnxvKZkU/T5jtb4lh-pI/AAAAAAAAFsc/fKP3k97ZrIk/MacVSWindowsTabair_270x189%25255B4%25255D.jpg?imgmax=800" width="270" height="189" />Cnet</a>: Forrester's CEO isn't the only one spouting [doom and gloom for Apple](http://news.cnet.com/8301-13579_3-57421283-37/why-has-forresters-ceo-become-an-apple-doomsayer/) today. 
 

@@ -11,7 +11,8 @@ tags:
   - Virtualization
   - VMware
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![3168](http://lh3.ggpht.com/_vaUVXcmC3OI/S-mNsOJVfPI/AAAAAAAACKw/bobhZnoEv6I/3168_thumb%5B2%5D.jpg?imgmax=800 "3168")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mNniv-rgI/AAAAAAAACKs/5ARuHPa7NZc/s1600-h/3168%5B4%5D.jpg) Last week, VMware and Salesforce.com announced a new partnership around VMforce, a Platform as a Service (PaaS) offering aimed at enterprise Java developers. The companies' CEOs Paul Maritz (VMware) and Marc Benioff (Salesforce) described VMforce as an enterprise cloud designed to serve the needs of more than six million enterprise Java developers, including some two million who are using the Spring framework VMware acquired last August when it purchased SpringSource. 
 

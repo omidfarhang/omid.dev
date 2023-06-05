@@ -11,7 +11,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Many bloggers and commentators are making much of the fact that San Mateo police served a search warrant on the home of Gizmodo blogger Jason Chen and confiscated computers, servers and other equipment, probably as a result of his postings about the capabilities of the lost prototype Apple 4G iPhone.
 

@@ -10,7 +10,8 @@ tags:
   - malware
   - Mozilla
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Mozilla yesterday posted a notice on its AMO blog (that’s an acronym for their add-on site addons.mozilla.org) that two add-ons have been found infected with Trojan code: Sothink Web Video Downloader v. 4.0 and all versions of Master Filer.
 

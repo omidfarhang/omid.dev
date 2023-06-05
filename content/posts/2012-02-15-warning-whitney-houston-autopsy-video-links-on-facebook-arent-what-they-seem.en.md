@@ -10,7 +10,8 @@ tags:
   - spam
   - warning
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="whitney-170" border="0" alt="whitney-170" align="right" src="http://lh3.ggpht.com/-qPR73UlqP-M/TzvuY4pUpYI/AAAAAAAAEzA/fNpPPKVy14I/whitney-170_thumb.jpg?imgmax=800" width="174" height="174" />](http://lh6.ggpht.com/-y7OTaZdbpwY/TzvuT2HLzKI/AAAAAAAAEy4/IzUMINtz5Bg/s1600-h/whitney-170%25255B2%25255D.jpg)**SophosLabs:** The death of pop superstar Whitney Houston made headlines around the world this weekend, and it didn't take long for fraudsters and cybercriminals to cash in on the singer's death. 
 

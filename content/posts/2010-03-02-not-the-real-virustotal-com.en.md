@@ -13,7 +13,8 @@ tags:
   - scam
   - VirusTotal
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _In Additional to my last Post_: <http://boelectronic.blogspot.com/2010/03/free-fakeav-at-virus-total-thats-not.html>
 

@@ -7,7 +7,8 @@ url: 2010/12/06/days-are-still-going-on-but-how-part6/
 tags:
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 In continue from [Days are still going on, but how?–Part5](/2010/12/01/days-are-still-going-on-but-how-part5/ "Days are still going on, but how?–Part5")
 

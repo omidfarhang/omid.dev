@@ -12,7 +12,8 @@ tags:
   - PDF
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Malware authors use numerous unconventional techniques in their attempts to create malicious code that is not detected by antivirus software. As malicious code analysts, though, it is our job to analyze their creations, and as such we have to be constantly vigilant for the latest tricks that the malware authors employ.
 

@@ -8,7 +8,8 @@ image: /images/sites/2/2012/07/David-and-Arlan.jpg
 tags:
   - I think
 lang: en
-category: blog
+category: 
+  - blog
 ---
 This is a picture that ‘The New York Times’ shared today:
 

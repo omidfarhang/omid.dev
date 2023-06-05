@@ -12,7 +12,8 @@ tags:
   - report
   - stats
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![evernote](http://lh5.ggpht.com/_vaUVXcmC3OI/S-Anfk6OvtI/AAAAAAAACGE/4AemZ5hrXHM/evernote_thumb%5B1%5D.jpg?imgmax=800 "evernote")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-And9hh2mI/AAAAAAAACGA/duFfHxJFQhE/s1600-h/evernote%5B3%5D.jpg) Demand for [Evernote’s](http://www.evernote.com/) notetaking tool is growing at an ever increasing rate. The startup has just surpassed three million users, which means the company has attracted over one million new users in four months and that growth is rapidly accelerating. 
 

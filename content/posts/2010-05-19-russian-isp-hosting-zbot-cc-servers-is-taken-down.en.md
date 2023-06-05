@@ -8,7 +8,8 @@ tags:
   - malware
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Russian-based PROXIEZ-NET, which was known to allegedly host 13 Zbot command-and-control servers has been shut down by its upstream provider DIGERNET, according to the site The New New Internet (News story on Web Host Review here: [“Alleged Russian Malware Host Cut Off By Upstream Provider”](http://www.thewhir.com/web-hosting-news/051710_Alleged_Russian_Malware_Host_Cut_Off_By_Upstream_Provider))
 

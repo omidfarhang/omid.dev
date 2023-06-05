@@ -7,7 +7,8 @@ url: 2012/03/02/finally-a-long-time-requested-feature-is-here/
 tags:
   - This Blog Update
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Hey Folks
 

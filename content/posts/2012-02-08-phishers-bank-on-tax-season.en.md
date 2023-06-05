@@ -10,7 +10,8 @@ tags:
   - security
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Sunbelt:** With the U.S. currently in **tax season**, online criminals have, once again, sought to take advantage of this. Robert Stetson, one of Sunbelt’s malware researchers, spotted a phishing email posing as [**Intuit Inc.**](http://en.wikipedia.org/wiki/Intuit), a company that “develops financial and tax preparation software”. They developed **_Quicken_** and **_TurboTax_**. Below is a screenshot of the said email: 
 

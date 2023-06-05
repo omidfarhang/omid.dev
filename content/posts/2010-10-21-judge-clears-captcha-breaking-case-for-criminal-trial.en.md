@@ -8,7 +8,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="bon-jovi-tickets" border="0" alt="bon-jovi-tickets" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMBBplr7I8I/AAAAAAAAC0M/gdNuJ_Z-qzg/bon-jovi-tickets_thumb%5B2%5D.jpg?imgmax=800" width="304" height="229" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMBBno9d-JI/AAAAAAAAC0I/akI4Rx8P9_Q/s1600-h/bon-jovi-tickets%5B4%5D.jpg)A federal judge in New Jersey has cleared the way for a landmark criminal case targeting CAPTCHA circumvention to proceed to trial.
 

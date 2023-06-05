@@ -9,7 +9,8 @@ tags:
   - software
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://www.ghacks.net/2012/04/27/dropbox-1-4-released/" target="_blank">gHacks</a>: Dropbox has just released a stable update that brings all desktop clients of the file synchronization and hosting service to 1.4. Feature-wise, it is not really a big change to previous versions, especially not so if you have been running experimental versions of the client before. 
 

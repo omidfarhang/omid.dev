@@ -11,7 +11,8 @@ tags:
   - PDF
   - Vulnerability
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Didier Stevens, security professional and blogger, has found a “feature” in the PDF file format that makes it possible to package an executable in a PDF file which will run in Foxit PDF reader or run in Adobe Reader with a bit of social engineering.
 

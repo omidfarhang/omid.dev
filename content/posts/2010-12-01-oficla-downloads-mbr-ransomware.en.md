@@ -13,7 +13,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Avira TechBlog:** We discovered a new ransomware threat which is downloaded by a Trojan of the Oficla family. This downloaded threat replaces the MBR (master boot record) of the hard disk with its own MBR which asks the user for a password and thus blocks the loading of the operating system.
 

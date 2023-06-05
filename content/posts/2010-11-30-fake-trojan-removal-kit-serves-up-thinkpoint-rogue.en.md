@@ -12,7 +12,8 @@ tags:
   - review
   - rogue software
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 You might want to steer clear of the following fake security program, being promoted as a “Windows Trojan Removal Kit” but actually hijacking your PC in the form of the <a href="/computer/malware/list-of-common-malwares/thinkpoint" target="_blank">ThinkPoint rogue</a> with a mixed ([24/43](http://www.virustotal.com/file-scan/report.html?id=5529b4ec8eb1f04141b4117f15fa007ac39cf1a1cd9299b34717f366cbe8ed22-1291057248)) detection rate.
 

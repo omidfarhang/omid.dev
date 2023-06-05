@@ -9,7 +9,8 @@ tags:
   - Google
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="google-api-console" border="0" alt="google-api-console" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TXUga2B-boI/AAAAAAAADmQ/e46ih7T9X5Y/google-api-console_thumb.jpg?imgmax=800" width="225" height="225" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TXUgY2G_nvI/AAAAAAAADmM/lxHI-DBZ09g/s1600-h/google-api-console%5B2%5D.jpg)Mashable wrote: Google has broken new ground in the personal finance realm with the purchase of UK price comparison website BeatThatQuote for $61.5 million ($37.7 million GBP). 
 

@@ -9,7 +9,8 @@ tags:
   - information
   - My life
 lang: en
-category: blog
+category: 
+  - blog
 ---
 Hey Folks
 

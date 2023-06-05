@@ -18,7 +18,8 @@ tags:
   - Safari
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="cansecwest-175" border="0" alt="cansecwest-175" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TX4LojAPK9I/AAAAAAAADsM/LIhu4ATfeaE/cansecwest-175_thumb%5B2%5D.png?imgmax=800" width="175" height="189" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TX4LmF8ULRI/AAAAAAAADsI/QIKCdwDWQ9Y/s1600-h/cansecwest-175%5B4%5D.png)Sophos Labs Blog:** If you're interested in computer security, you've probably heard of PWN2OWN. It's a competition which has become an annual fixture at the annual [CanSecWest conference](http://cansecwest.com/) in Vancouver, British Columbia.
 

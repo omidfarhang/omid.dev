@@ -10,7 +10,8 @@ tags:
   - Password
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="playcom" border="0" alt="playcom" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TYmpAWXU2tI/AAAAAAAADx4/AYnXnc6TLUU/playcom_thumb%5B11%5D.jpg?imgmax=800" width="218" height="64" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYmo-g639eI/AAAAAAAADx0/-mbmi4szi0U/s1600-h/playcom%5B8%5D.jpg)Play.com, one of the largest online retailers of DVDs, CDs, MP3s, books and gadgets, emailed its customers yesterday admitting to a security breach in its marketing communications. Names and emails may have been compromised.
 

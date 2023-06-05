@@ -10,7 +10,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="newipad" border="0" alt="newipad" align="right" src="http://lh6.ggpht.com/-iWkViK73U-8/T2boy9IYrBI/AAAAAAAAFM4/fqnHcnxeor4/newipad_thumb.png?imgmax=800" width="204" height="150" />](http://lh6.ggpht.com/-OCerIHzzAAk/T2bovG67GDI/AAAAAAAAFMw/iFDhVV_IIgs/s1600-h/newipad%25255B2%25255D.png)SophosLabs: Only hours after the launch of Apple's newest iPad we are beginning to see spammers trying to use the excitement over its release to ensnare innocent people into their scams. 
 

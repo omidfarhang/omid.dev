@@ -9,7 +9,8 @@ tags:
   - PDF
   - suggestion
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Acrobat Blog**: We are excited to announce that Adobe CreatePDF application is now available on iOS. With this, Adobe brings rich, high-fidelity and Acrobat-like PDF creation to the iOS devices. You can now convert all your documents on iPad, iPhone & iPod touch devices to PDF for reliable, secure sharing and viewing across PCs, tablets & Smartphones.
 

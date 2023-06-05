@@ -13,7 +13,8 @@ tags:
   - phishing
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh6.ggpht.com/-NYCGqpyOW4k/USPcqVBhYkI/AAAAAAAAH0w/z5TUX6NE6WI/s1600-h/ox_small_cmyk_pos%25255B3%25255D.gif" target="_blank"><img title="ox_small_cmyk_pos" border="0" alt="ox_small_cmyk_pos" align="right" src="http://lh5.ggpht.com/-nDJtByh5K5w/USPcsZTUbTI/AAAAAAAAH04/-ORv3SGfKAU/ox_small_cmyk_pos_thumb%25255B1%25255D.gif?imgmax=800" width="240" height="240" /></a>For about two and a half hours on Monday, students at Oxford University couldn't access Google Docs after the University's Computing Services team decided to take “extreme action” to halt phishing attacks and also to put pressure on Google. 
 

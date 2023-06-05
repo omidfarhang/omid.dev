@@ -8,7 +8,8 @@ tags:
   - Facebook
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s320/story.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s1600-h/story.jpg)
 

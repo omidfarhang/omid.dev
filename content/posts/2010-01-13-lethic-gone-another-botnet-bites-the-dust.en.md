@@ -8,7 +8,8 @@ tags:
   - alert
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <strike>McColo (Nov. 08)</strike>, <strike>Torpig (May 09)</strike>, <strike>MegaD (Nov. 09)</strike>, <strike>Lethic (Jan 10)</strike>
 

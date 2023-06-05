@@ -10,7 +10,8 @@ tags:
   - scam
   - social networking
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600/whole-foods-facebook.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600-h/whole-foods-facebook.jpg)
 

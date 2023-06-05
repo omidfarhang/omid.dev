@@ -10,7 +10,8 @@ tags:
   - Windows
   - Windows 8
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh4.ggpht.com/-MzHIFB2o2GM/UBuZS3Dd_sI/AAAAAAAAG40/rLhyaQxFj0Q/s1600-h/19-Windows-81%25255B2%25255D.jpg" target="_blank"><img title="19-Windows-81" border="0" alt="19-Windows-81" src="http://lh5.ggpht.com/-vNLLbHjDNpw/UBuZU2oKKDI/AAAAAAAAG48/Zv1wUZVWQnU/19-Windows-81_thumb.jpg?imgmax=800" width="432" height="299" /></a> 
 

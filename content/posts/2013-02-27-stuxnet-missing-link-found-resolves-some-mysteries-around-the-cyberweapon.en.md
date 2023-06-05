@@ -12,7 +12,8 @@ tags:
   - review
   - Stuxnet
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 _Cross-posted from_ [_WIRED_](http://www.wired.com/threatlevel/2013/02/new-stuxnet-variant-found/all/)_._ 
 

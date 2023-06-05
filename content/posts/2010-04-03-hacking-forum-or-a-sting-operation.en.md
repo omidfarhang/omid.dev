@@ -11,7 +11,8 @@ tags:
   - report
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Though it is true that malware is getting more and more sophisticated I am sometimes surprised by the lack of skills coming from wannabe botnet operators. Today, I stumbled upon a hacker’s forum which nicely demonstrates just how low is the technical knowledge level of the forum members.
 

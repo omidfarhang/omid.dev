@@ -12,7 +12,8 @@ tags:
   - Thunderbird
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="mozillatrio" border="0" alt="mozillatrio" align="right" src="http://lh6.ggpht.com/-6q8NDxBhKmo/Typ-PkBF0tI/AAAAAAAAEco/KAfwQKkidtY/mozillatrio_thumb%25255B1%25255D.png?imgmax=800" width="170" height="80" />](http://lh3.ggpht.com/-1W3dNfWF0Hs/Typ98ucqdQI/AAAAAAAAEcg/rnPUk7BLSu4/s1600-h/mozillatrio%25255B3%25255D.png)The H-Security:** Following the release of new versions of its open source Firefox web browser, Thunderbird email client and SeaMonkey suite, [Mozilla](http://www.mozilla.org/) has detailed the security fixes included in each of the updates. According to the project's [Security Center page for Firefox](http://www.mozilla.org/security/known-vulnerabilities/firefox.html#firefox10), version 10.0 closes a total of 8 security holes in the browser, 5 of which are rated as “Critical” by Mozilla. 
 

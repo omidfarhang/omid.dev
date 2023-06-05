@@ -12,7 +12,8 @@ tags:
   - Motorola Mobility
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://4.bp.blogspot.com/-vijhSTxXfQg/TkmOLspLQ8I/AAAAAAAAD-I/PpRhOUg5RCk/s320/Google.jpg)](http://4.bp.blogspot.com/-vijhSTxXfQg/TkmOLspLQ8I/AAAAAAAAD-I/PpRhOUg5RCk/s1600/Google.jpg)
 

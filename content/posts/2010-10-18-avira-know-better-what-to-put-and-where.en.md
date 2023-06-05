@@ -9,7 +9,8 @@ tags:
   - malware
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Sometimes we encounter childish [messages](/2010/10/02/messages-from-malware-authors-in-malware/) from the authors in the body of malware. A variant of the TDSS family we got recently is even going a step further by offering a convenient location for a malware signature. The samples include the message “Put your signature here”, which is shown when run inside a debugger.
 

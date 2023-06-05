@@ -10,7 +10,8 @@ tags:
   - Outlook.com
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Mashable Wrote: 
 

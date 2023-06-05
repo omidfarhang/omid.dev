@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 “Dammed thieves. Stole our logo. I suppose we should be flattered, though.”  
 — A.E.

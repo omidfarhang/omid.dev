@@ -7,7 +7,8 @@ url: 2010/03/30/australian-internet-censorship-row-warms-up/
 tags:
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 There seems to be an established procedure used by government officials who want to censor Internet traffic: begin requiring Google and ISPs to filter pornography then sneak in filtering of the politically sensitive material of your choice.
 

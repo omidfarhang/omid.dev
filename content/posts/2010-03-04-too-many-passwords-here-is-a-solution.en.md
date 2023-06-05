@@ -8,7 +8,8 @@ tags:
   - advice
   - security
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 How many web sites do you log into? Your bank? Facebook, Myspace and any number of other social networking sites? Auction sites? Shopping sites? Maybe lots of others too. Every site, of course, requires you to create a password. And if the site is serious about security, it may even set certain rules. For example, it may insist that your password is at least eight characters, or must contain non-alpha-numeric characters, or must use at least one uppercase letter, etc.
 

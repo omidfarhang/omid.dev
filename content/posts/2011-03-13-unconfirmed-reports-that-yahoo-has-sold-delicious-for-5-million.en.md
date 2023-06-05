@@ -12,7 +12,8 @@ tags:
   - rumor
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Yahoo_Corp_Building" border="0" alt="Yahoo_Corp_Building" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TXzNpcukTkI/AAAAAAAADrk/zkSwyTn3d0g/Yahoo_Corp_Building_thumb%5B4%5D.jpg?imgmax=800" width="250" height="166" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TXzNnt7adAI/AAAAAAAADrg/ZXY3-FeMCVo/s1600-h/Yahoo_Corp_Building%5B7%5D.jpg)TheNextWeb wrote: We’ve received a solid report from a reliable and proven source that [Yahoo](http://yahoo.com/) has sold social bookmarking site [Delicious](http://delicious.com/) for $5m+.
 

@@ -12,7 +12,8 @@ tags:
   - Microsoft office 2011
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **[<img title="office-2011-for-mac" border="0" alt="office-2011-for-mac" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMqj7Wi0zQI/AAAAAAAAC9k/JIdXIwdm9d0/office-2011-for-mac_thumb.jpg?imgmax=800" width="304" height="202" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMqj5v2SOxI/AAAAAAAAC9g/10ucYn5i87g/s1600-h/office-2011-for-mac%5B2%5D.jpg)Software Magazine:** Microsoft has launched the Apple version of its productivity suite, the Microsoft Office 2011. The package comes with a new version of Microsoft Outlook that has been specially built for Apple’s Mac. The suite supports those cloud based services Windows users have since the launch of Microsoft Office 2010 for this platform.
 

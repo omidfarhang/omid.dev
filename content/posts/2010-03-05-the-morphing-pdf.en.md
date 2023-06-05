@@ -8,7 +8,8 @@ tags:
   - malware
   - review
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Just when we thought SEO using Flash was as interesting as SEO poisoning can get, it seems it's getting even sneakier…
 

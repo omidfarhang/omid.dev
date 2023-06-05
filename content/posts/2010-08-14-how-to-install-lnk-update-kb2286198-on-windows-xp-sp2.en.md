@@ -11,7 +11,8 @@ tags:
   - Vulnerability
   - Windows XP
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Microsoft discontinued support for Windows XP Service Pack 2 on July 13th, and that means there is no SP2 update for the recent LNK shortcut vulnerability (KB2286198). If you review the comments from this [SANS Diary post](http://isc.sans.edu/diary.html?storyid=9313), you'll see that there was some initial confusion regarding SP2 support, due to a typo in Microsoft's [Security Bulletin](http://www.microsoft.com/technet/security/bulletin/MS10-046.mspx) (MS10-046). The bulletin is now corrected. 
 

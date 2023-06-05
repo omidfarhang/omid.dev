@@ -13,7 +13,8 @@ tags:
   - Twitter
   - warning
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Like a lot of seedy stuff, this started with a Twitter post:.
 

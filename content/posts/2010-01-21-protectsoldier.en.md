@@ -9,7 +9,8 @@ tags:
   - rogue software
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 ProtectSoldier is the latest rogue antispyware program released by cyber thieves to terrorize PC users.
 

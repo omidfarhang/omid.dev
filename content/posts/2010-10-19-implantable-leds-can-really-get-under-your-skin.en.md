@@ -8,7 +8,8 @@ tags:
   - Interesting
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="leds_436x373" border="0" alt="leds_436x373" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL2Fgd0y6WI/AAAAAAAACwg/BoKszhtZGR8/leds_436x373_thumb%5B2%5D.jpg?imgmax=800" width="304" height="261" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TL2FeXwg05I/AAAAAAAACwc/3xNypAC5pqc/s1600-h/leds_436x373%5B4%5D.jpg)Maybe your main problem with tattoos is probably the fact that you've never been able to play Pong on them. But those problems seem to be over now that an international team of researchers, led by John Rogers at the [University of Illinois](http://illinois.edu/), has developed a new flexible array of LEDs that can be implanted under the skin.
 

@@ -10,7 +10,8 @@ tags:
   - report
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Currently cyber criminals try to make fast money by spamming out emails in masses in Germany which allegedly stem from an Advocate specialized in copyright. According to the spam mails, the user was downloading copyrighted material. An IP address is in the email to proof that. To not call the attorney to action, the recipient of the mail is offered to send 100 Euros via a payment system called Ukash. Don’t fall for that social engineering, don’t pay!
 

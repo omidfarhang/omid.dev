@@ -10,7 +10,8 @@ tags:
   - Nokia
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Nokia-C7_mahogany_brown_1_lores" border="0" alt="Nokia-C7_mahogany_brown_1_lores" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TM86kPkkiAI/AAAAAAAAC_c/J4RxzROS2qs/Nokia-C7_mahogany_brown_1_lores_thumb%5B6%5D.jpg?imgmax=800" width="226" height="446" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TM86iXZAOOI/AAAAAAAAC_Y/nItMf_QbJPY/s1600-h/Nokia-C7_mahogany_brown_1_lores%5B5%5D.jpg)Nokia C7 firmware is updated to 012.003 V1.06. The firmware is available for
 

@@ -9,7 +9,8 @@ tags:
   - Google
   - Google Chrome
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 **Google Operation System:** Until recently, [Google Bookmarks](https://www.google.com/bookmarks/) and [Chrome Bookmarks](http://www.google.com/support/chrome/bin/topic.py?topic=14680) were two separate features that didn't speak the same language. Even if you could save your Chrome bookmarks to a Google account, they weren't saved to Google Bookmarks. For some reason, your bookmarks are available in a special Google Docs folder.
 

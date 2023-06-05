@@ -9,7 +9,8 @@ tags:
   - Google
   - VirusTotal
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 This is what we read in latest post from VirusTotal in their blog:
 

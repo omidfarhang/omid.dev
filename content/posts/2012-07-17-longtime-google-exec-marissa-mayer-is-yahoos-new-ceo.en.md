@@ -10,7 +10,8 @@ tags:
   - news
   - Yahoo
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 <a href="http://lh5.ggpht.com/-6shuMu1nmrw/UAVjKbaGSyI/AAAAAAAAGdM/LjHn2jKDI2w/s1600-h/1103-marissa-mayer_at%25255B5%25255D.jpg" target="_blank"><img title="marissa-mayer" border="0" alt="marissa-mayer" align="right" src="http://lh3.ggpht.com/-pcT8yfuIUHE/UAVjOimnvWI/AAAAAAAAGdU/Mc7GRa9Pruw/1103-marissa-mayer_at_thumb%25255B2%25255D.jpg?imgmax=800" width="178" height="240" /></a>**TechChurch**: <a href="http://www.crunchbase.com/person/marissa-mayer" target="_blank">Marissa Mayer</a>, the technology executive who has worked at Google since the search company’s earliest days, has been appointed CEO of Yahoo. 
 

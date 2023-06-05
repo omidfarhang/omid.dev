@@ -10,7 +10,8 @@ tags:
   - Google Chrome
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S70Dgn7jdlI/AAAAAAAAB0U/9m8whfJBmyU/s1600/chrome-growth.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S70Dgn7jdlI/AAAAAAAAB0U/9m8whfJBmyU/s1600-h/chrome-growth.jpg)
 

@@ -11,7 +11,8 @@ tags:
   - Updates
   - Windows Defender
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![windows update[3]](/images/2013/04/windows-update3.jpg)](/images/2013/04/windows-update3.jpg)Microsoft's Patch Tuesday on 9 April will be an important spring cleaning day; the company plans to implement [nine security bulletins](http://technet.microsoft.com/en-us/security/bulletin/ms13-apr). One of the bulletins deals with vulnerabilities in Windows Defender for Windows 8 and RT; the hole is rated as important and can be exploited to achieve elevated privileges.
 

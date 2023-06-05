@@ -10,7 +10,8 @@ tags:
   - Announcement
   - Apple
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Kindle is, without a doubt, the highest profile e-reader platform running. With applications on iPhone, iPad, BlackBerry, Windows, and OS X as well as its own line of e-paper Kindle devices, Amazon had an estimated 90% share of the e-book sales market last year. 
 

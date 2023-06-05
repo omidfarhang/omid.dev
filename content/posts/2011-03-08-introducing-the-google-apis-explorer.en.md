@@ -11,7 +11,8 @@ tags:
   - Google Code
   - news
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Google is always looking for new ways to make it easier for developers to get started with our APIs. When you come across a new Google API, you often want to try it out without investing too much time. With that in mind, we are happy to announce the [Google APIs Explorer](https://code.google.com/apis/explorer), an interactive tool that lets you easily try out Google APIs right from your browser. Today, the Explorer supports over a half dozen APIs – and we expect that number to grow rapidly over the coming weeks and months.
 

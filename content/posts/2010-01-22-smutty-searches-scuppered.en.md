@@ -9,7 +9,8 @@ tags:
   - phishing
   - YouTube
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Symantec Security Response has repeatedly warned that looking for free movies and videos online often results in malware infection, and here we go again with yet another example. We recently became aware of a campaign, centered around the YouTube Web site, to trick users into following malicious links.
 

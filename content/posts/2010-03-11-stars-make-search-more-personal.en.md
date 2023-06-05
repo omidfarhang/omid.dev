@@ -9,7 +9,8 @@ tags:
   - news
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 We've long believed that personalization makes search more relevant and fun. For nearly five years, Google has been tailoring results with personalized search. They're announcing a new feature in search that makes it easier for you to mark and rediscover your favorite web content — stars.
 

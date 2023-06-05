@@ -11,7 +11,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Imagine that you’re sitting at home catching up on your email backlog. In comes an email from your ISP, FooBarBazCo (some creativity required here, I know). The email seems to be from Technical Support  – ‘From:    FooBarBazCo.com Team’ – and states that you need to update your email settings as a result of a recent security upgrade. Can you trust it?
 

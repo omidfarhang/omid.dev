@@ -10,7 +10,8 @@ tags:
   - report
   - scam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 Symantec Connect:
 

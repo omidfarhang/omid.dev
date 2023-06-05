@@ -8,7 +8,8 @@ tags:
   - news
   - report
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 The Danwei web site (Chinese media, advertising, and urban life) is carrying a rippingly funny blog piece by Alice Xin Liu about a recent Chinese government program that would have China Mobile monitor mobile telephone text transmissions for conversations of a sexual nature. Offenders’ (messaging) service would be cut off until they wrote a “self-criticism.”
 

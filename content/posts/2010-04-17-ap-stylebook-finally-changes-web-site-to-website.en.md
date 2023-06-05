@@ -9,7 +9,8 @@ tags:
   - report
   - trending
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [![apstylebook](http://lh5.ggpht.com/_vaUVXcmC3OI/S8oXsnf8m_I/AAAAAAAACAo/NG2VHC8YRHk/apstylebook_thumb%5B4%5D.png?imgmax=800 "apstylebook")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oXoN_4NlI/AAAAAAAACAk/s6M5-cppPm4/s1600-h/apstylebook%5B6%5D.png) This might not mean much if you’re not writing or editing a tech blog, but news that the AP – whose stylebook is still the standard for all things grammar and punctuation in the news world — is officially changing “Web site” to “website” was met with a warm reception in our newsroom (and likely quite a few others) this afternoon. 
 

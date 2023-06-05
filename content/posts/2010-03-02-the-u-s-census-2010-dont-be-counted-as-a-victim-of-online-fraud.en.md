@@ -11,7 +11,8 @@ tags:
   - scam
   - spam
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 It’s been ten years already; can you believe it? I’m talking about the U.S. Census. It’s been ten years since the last one. Time to do it again. No, it wasn’t on my calendar either. To remind all of us and to encourage us to participate, the U.S. Census Bureau is spending $340 million to get the word out. There was even a Super Bowl ad. 
 

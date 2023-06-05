@@ -9,7 +9,8 @@ tags:
   - Opera
   - Updates
 lang: en
-category: techblog
+category: 
+  - techblog
 ---
 [<img title="Opera_256x256" border="0" alt="Opera_256x256" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMA5guARvGI/AAAAAAAACzM/7DLAWsgFajU/Opera_256x256_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMA5fEpcBwI/AAAAAAAACzI/xS_7afozZdQ/s1600-h/Opera_256x256%5B3%5D.png)Opera today released the first alpha of Opera 11, the next version of the company’s award-winning desktop web browser. Opera 11 is the first Opera browser to include extensions, browser add-ons made using Opera application programming interfaces (APIs) and web standards like HTML5 and JavaScript. Opera was already the most powerful browser out-of-the-box; now, it adds a new level of customization. Opera 11 alpha is available from <http://www.opera.com/browser/next/>.
 
