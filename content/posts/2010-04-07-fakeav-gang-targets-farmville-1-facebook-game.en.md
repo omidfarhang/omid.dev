@@ -40,4 +40,4 @@ We recommend users to do the following whenever you encounter the above infectio
 
 * Terminate the Web browser process (Mozilla Firefox, Internet Explorer, etc.).
 * Don’t execute the downloaded file from untrusted sites.
-* Cleanup your computer from malwares [with this manual](/knowledge-base/malware/removal/)
+* Cleanup your computer from malwares [with this manual](/2011/01/02/malware-removal-guide-for-Windows/)

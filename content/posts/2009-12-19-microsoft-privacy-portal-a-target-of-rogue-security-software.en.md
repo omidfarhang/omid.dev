@@ -21,4 +21,4 @@ We have received reports that this trojan has been distributed via poisoned sear
 
 Reports of rogue security programs have been more prevalent as of late. These are programs that generate misleading alerts and false detections in order to convince users to purchase illegitimate security software. Some of these programs may display product names or logos in an apparent and unlawful attempt to impersonate Microsoft products.
 
-To find out how to remove it, [Click Here](/knowledge-base/malware/removal/).
+To find out how to remove it, [Click Here](/2011/01/02/malware-removal-guide-for-Windows/).
