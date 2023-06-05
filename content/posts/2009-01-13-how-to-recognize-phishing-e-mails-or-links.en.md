@@ -23,7 +23,7 @@ Phishing e-mail messages are designed to steal your identity. They ask for perso
 
 Phishing e-mail messages take a number of forms:
 
-* They might appear to come from your bank or financial institution, a company you regularly do business with, such as Microsoft, or from your [social networking]({{< ref "/knowledge-base/safety-tips/social-networking" >}}) site.
+* They might appear to come from your bank or financial institution, a company you regularly do business with, such as Microsoft, or from your [social networking](/2009/01/13/11-tips-for-social-networking-safety/) site.
 * They might appear to be from someone you know. _Spear phishing_ is a targeted form of phishing in which an e-mail message might look like it comes from your employer, or from a colleague who might send an e-mail message to everyone in the company, such as the head of human resources or IT.
 * They might ask you to make a phone call. _Phone phishing_ scams direct you to call a customer support phone number. A person or an audio response unit waits to take your account number, personal identification number, password, or other valuable personal data. The phone phisher might claim that your account will be closed or other problems could occur if you don't respond.
 * They might include official-looking logos and other identifying information taken directly from legitimate Web sites, and they might include convincing details about your personal information that scammers found on your social networking pages.
