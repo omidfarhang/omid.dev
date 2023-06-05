@@ -22,9 +22,9 @@ menu:
       name: Contact me
       url: /contact-me
       weight: 5
-    - identifier: services
-      name: Services
-      url: /services
+    - identifier: hireMe
+      name: Hire Me
+      url: /hire-me
       weight: 3
     - identifier: search
       name: Search
@@ -81,8 +81,8 @@ languages:
         - name: Contact me
           url: /contact-me
           weight: 5
-        - name: Services
-          url: /services
+        - name: Hire Me
+          url: /hire-me
           weight: 3
         - name: Search
           url: /search
@@ -111,8 +111,8 @@ languages:
         - name: تماس با من
           url: /contact-me
           weight: 5
-        - name: خدمات
-          url: /services
+        - name: همکاری
+          url: /hire-me
           weight: 3
         - name: جستجو
           url: /search
@@ -140,8 +140,8 @@ languages:
         - name: Kontaktiere mich
           url: /contact-me
           weight: 5
-        - name: Dienstleistungen
-          url: /services
+        - name: Stellt mich ein
+          url: /hire-me
           weight: 3
         - name: Suche
           url: /search
