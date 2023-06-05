@@ -11,7 +11,8 @@ tags:
   - taylor swift
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 _from [Taylor Swift Universe](https://plus.google.com/112861411761704696473/posts/HE9kvAgD9tb)_
 

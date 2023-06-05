@@ -10,7 +10,8 @@ tags:
   - Peter Heppner
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 [![220px-peter_heppner](/images/2008/06/220px-peter_heppner-192x300.jpg)](/images/2008/06/220px-peter_heppner.jpg)
  

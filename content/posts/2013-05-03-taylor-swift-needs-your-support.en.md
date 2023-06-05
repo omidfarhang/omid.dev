@@ -9,7 +9,8 @@ tags:
   - taylor swift
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 Taylor is a finalist for the Billboard Milestone Award and you can help her take it home! Vote everyday until May 19th. Oh, and fun fact – you can vote multiple times a day! [www.billboard.com/milestone](http://www.billboard.com/milestone)
 

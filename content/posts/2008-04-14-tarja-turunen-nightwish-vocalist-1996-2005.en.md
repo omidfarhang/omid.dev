@@ -10,7 +10,8 @@ tags:
   - Tarja Turunen
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 ![tarjaface2](/images/2008/04/tarjaface2.jpg)
 

@@ -9,7 +9,8 @@ tags:
   - Avril Lavigne
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 _**Goodbye Lullaby**_ is the fourth studio album by Canadian singer-songwriter [Avril Lavigne](/entertainment/artists/avril-lavigne/ "Avril Lavigne"). The album was first released on 2 March 2011. Recording sessions began in November 2008, and took place over a period of almost two years, concluding in October 2010. The album's songs contain mainly stripped down instruments, such as the piano and acoustic guitar. Every song on the album was written by Lavigne, with half of the album being written with co-writers. The album debuted inside the top five in over 15 countries such as the United States and Canada, topping the charts in Japan, Australia, Greece, Taiwan, Korea, Singapore, Hong Kong and Czech Republic. The lead single of the album, “What the Hell”, was released on 7 January 2011, and achieved worldwide chart success; reaching the top twenty in the United States and United Kingdom, the top ten in Europe and Australia and the top five in Asia. The following singles, “Smile” and “Wish You Were Here”, had moderate chart success worldwide. The album also includes an extended version of the soundtrack single for the 2010 film _Alice in Wonderland_, titled “Alice”.
 

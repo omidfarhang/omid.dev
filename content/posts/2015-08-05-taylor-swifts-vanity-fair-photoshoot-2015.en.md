@@ -10,7 +10,8 @@ tags:
   - photoshoot
   - taylor swift
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 PHOTOS: Taylor Swift, Photographed by Mario Testino Released on VF: [vanityfair.com](http://www.vanityfair.com/style/2015/08/taylor-swift-cover-mario-testino-apple-music)
 

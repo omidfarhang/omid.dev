@@ -10,7 +10,8 @@ tags:
   - Carlos Santana
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 [![carlos-santana](/images/2008/05/carlos-santana.jpg)](/images/2008/05/carlos-santana.jpg) 
 

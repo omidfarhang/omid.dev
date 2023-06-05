@@ -10,7 +10,8 @@ tags:
   - Avril Lavigne
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 
 [![avril_lavigne](/images/2008/07/avril_lavigne.jpg)](/images/2008/07/avril_lavigne.jpg)

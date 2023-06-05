@@ -9,7 +9,8 @@ tags:
   - Korn
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 Head, Munky, JD, Fieldy, and Ray are not only together again on-stage for shows beginning May 15, but Korn is also in the studio recording a new album!
 

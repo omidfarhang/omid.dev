@@ -11,7 +11,8 @@ tags:
   - Static-X
   - Wayne Static
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 Wayne Static shared this in his facebook page:
 

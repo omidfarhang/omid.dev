@@ -10,7 +10,8 @@ tags:
   - Tarja Turunen
   - Music
 lang: en
-category: entblog
+category: 
+  - entblog
 ---
 New promo photos by Eugenio Mazzinghi for upcoming album Colours In The Dark
 
