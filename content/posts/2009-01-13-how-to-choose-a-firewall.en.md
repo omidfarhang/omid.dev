@@ -4,6 +4,7 @@ date: 2009-01-13T23:51:43+03:30
 layout: single
 author_profile: true
 url: 2009/01/13/how-to-choose-a-firewall/
+shortlink: https://g.omid.dev/SYrw3cE
 tags:
   - Guide
   - Firewall

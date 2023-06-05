@@ -4,6 +4,7 @@ date: 2009-01-13T23:56:43+03:30
 layout: single
 author_profile: true
 url: 2009/01/13/11-tips-for-social-networking-safety/
+shortlink: https://g.omid.dev/u5yZHGm
 tags:
   - Safety Tips
   - social networks

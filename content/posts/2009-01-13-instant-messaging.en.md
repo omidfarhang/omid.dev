@@ -4,6 +4,7 @@ date: 2009-01-13T23:58:43+03:30
 layout: single
 author_profile: true
 url: 2009/01/13/10-tips-for-safe-instant-messaging/
+shortlink: https://g.omid.dev/xqpKXty
 tags:
   - Safety Tips
   - instant messaging

@@ -4,6 +4,7 @@ date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
 url: 2009/01/13/what-to-do-if-youve-responded-to-a-phishing-scam/
+shortlink: https://g.omid.dev/yDkruT9
 tags:
   - Safety Tips
   - phishing

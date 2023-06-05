@@ -4,6 +4,7 @@ date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
 url: 2009/01/13/handle-suspicious-email/
+shortlink: https://g.omid.dev/7SiUf5O
 tags:
   - phishing
   - mail

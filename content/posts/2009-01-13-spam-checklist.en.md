@@ -4,6 +4,7 @@ date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
 url: 2009/01/13/spam-checklist/
+shortlink: https://g.omid.dev/YNoGG7G
 tags:
   - spam
   - Security
