@@ -11,7 +11,7 @@ lang: en
 categories: 
   - techblog
 ---
-[<img class="aligncenter size-full wp-image-6422" alt="aura-kasih-video-3[6]" src="/images/2012/08/aura-kasih-video-36.jpg" width="458" height="340" srcset="/images/sites/3/2012/08/aura-kasih-video-36.jpg 458w, /images/sites/3/2012/08/aura-kasih-video-36-300x222.jpg 300w" sizes="(max-width: 458px) 100vw, 458px" />](/images/2012/08/aura-kasih-video-36.jpg)
+![aura-kasih-video-3[6]](/images/2012/08/aura-kasih-video-36.jpg)
 
 Symantec: Phishers continue to target Indonesian celebrities with adult scams. Phishing attacks on rock star Ahmad Dhani have already been seen. In July 2012, Symantec observed a phishing site that claimed to have an adult video of Indonesian actress and singer Aura Kasih. The phishing site spoofed a social networking brand and was hosted on a free Web hosting site.
 
@@ -25,6 +25,6 @@ The phishing URL is:
 
 [http://]aurakasih-sexxx.[16mb].com/login.php
 
-[<img class="aligncenter size-full wp-image-6423" alt="Adult-Phishing-1-edit[4]" src="/images/2012/08/Adult-Phishing-1-edit4.jpg" width="600" height="257" srcset="/images/sites/3/2012/08/Adult-Phishing-1-edit4.jpg 600w, /images/sites/3/2012/08/Adult-Phishing-1-edit4-300x128.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](/images/2012/08/Adult-Phishing-1-edit4.jpg)
+![Adult-Phishing-1-edit[4]](/images/2012/08/Adult-Phishing-1-edit4.jpg)
 
-Internet users are advised to follow best practices to avoid phishing attacks: <a href="/en/knowledge-base/security/phishing" target="_blank">/en/knowledge-base/security/phishing</a>
+Internet users are advised to follow best practices to avoid phishing attacks: [Phishing](/2009/01/13/phishing/)
