@@ -1,12 +1,22 @@
 ---
-title: Malware Prevention
+title: Malware Prevention guide for Windows
+date: 2011-01-03T23:55:43+03:30
 layout: single
 author_profile: true
+url: 2011/01/02/malware-prevention-guide-for-Windows/
+shortlink: https://g.omid.dev/r0QrWud
+tags:
+  - How to
+  - Windows
+  - Malware
+  - Rescue
 lang: en
+categories: 
+  - techblog
 ---
 To help secure your computer against malware:
 
-> If your computer is already infected or you are in doubt, first look at the [Malware Removal]({{< ref "removal" >}}) Guide.  
+> If your computer is already infected or you are in doubt, first look at the [Malware Removal]({{< ref "/2011/01/02/malware-removal-guide-for-Windows" >}}) Guide.  
 
 Build up your malware defenses
 ------------------------------
