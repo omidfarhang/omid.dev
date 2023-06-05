@@ -14,10 +14,10 @@ categories:
 ---
 Treat your passwords with as much care as you treat the information that they protect.
 
-Use [strong passwords]({{< ref "/knowledge-base/passwords" >}}) to log on to your computer and to any site where you enter your credit card number, or any financial or personal information—including social networking sites.
+Use [strong passwords](/2009/01/13/passwords/) to log on to your computer and to any site where you enter your credit card number, or any financial or personal information—including social networking sites.
 
 1. **Never provide your password over e-mail or in response to an e-mail request.**
-    * Internet “phishing” scams use fraudulent e-mail messages to entice you to reveal your user names and passwords, steal your identity, and more. [Learn more about phishing scams]({{< ref "/knowledge-base/security/phishing/how-to-recognize-phishing-e-mails-or-links" >}}).
+    * Internet “phishing” scams use fraudulent e-mail messages to entice you to reveal your user names and passwords, steal your identity, and more. [Learn more about phishing scams](/knowledge-base/security/phishing/how-to-recognize-phishing-e-mails-or-links/).
 2. **Do not type passwords on computers that you do not control**
     * Computers such as those in Internet cafes, computer labs, kiosk systems, conferences, and airport lounges should be considered unsafe for any personal use other than anonymous Internet browsing.
     * Cyber criminals can purchase keystroke logging devices which gather information typed on a computer, including passwords.
