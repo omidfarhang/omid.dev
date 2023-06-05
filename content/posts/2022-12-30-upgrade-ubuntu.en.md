@@ -1,9 +1,17 @@
 ---
 title: How to Upgrade Ubuntu
+date: 2022-12-30T23:55:43+03:30
 layout: single
 author_profile: true
+url: 2022/12/30/how-to-upgrade-ubuntu/
 shortlink: https://g.omid.dev/r0QrWud
+tags:
+  - How-To
+  - linux
+  - Ubuntu
 lang: en
+categories: 
+  - kb
 ---
 ## Update Release Name in Sources
 
