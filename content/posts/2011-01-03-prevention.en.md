@@ -16,7 +16,7 @@ categories:
 ---
 To help secure your computer against malware:
 
-> If your computer is already infected or you are in doubt, first look at the [Malware Removal]({{< ref "/2011/01/02/malware-removal-guide-for-Windows" >}}) Guide.  
+> If your computer is already infected or you are in doubt, first look at the [Malware Removal](/2011/01/02/malware-removal-guide-for-Windows) Guide.  
 
 Build up your malware defenses
 ------------------------------
