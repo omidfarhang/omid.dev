@@ -27,7 +27,7 @@ Installing it is easy, here we go:
 ### First we install zsh itself
 
 ```shell
-sudo apt-get install zsh
+sudo apt install zsh
 ```
 
 ### And then &#8216;Oh my Zsh' framework
@@ -49,7 +49,7 @@ During installation it will ask you if you want to make it your default terminal
 Install the requirments:
 
 ```shell
-sudo apt-get install fonts-powerline ttf-ancient-fonts
+sudo apt install fonts-powerline ttf-ancient-fonts
 ```
 
 ### Configure Oh My Zsh
@@ -123,9 +123,18 @@ Just download the mono version and install it via font manager in your OS.
 Or if you wish to install it via command line:
 
 ```shell
-git clone git@github.com:ryanoasis/nerd-fonts.git --depth 1
-cd nerd-fonts
-sudo ./install.sh
+#!/bin/bash
+
+sudo apt install fontconfig
+cd ~
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/Meslo.zip
+mkdir -p .local/share/fonts
+unzip Meslo.zip -d .local/share/fonts
+cd .local/share/fonts
+rm *Windows*
+cd ~
+rm Meslo.zip
+fc-cache -fv
 ```
 
 Now we can configure VSCode to use Zsh, Add the following lines to settings.json of VSCode or find them one by one in settings and apply them:
