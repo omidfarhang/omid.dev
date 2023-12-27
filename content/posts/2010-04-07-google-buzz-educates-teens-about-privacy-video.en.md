@@ -4,6 +4,7 @@ date: 2010-04-07T16:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/google-buzz-educates-teens-about-privacy-video/
+shortlink: https://g.omid.dev/9tgA5K
 tags:
   - advice
   - Google
@@ -12,7 +13,7 @@ lang: en
 categories: 
   - techblog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600/Google-Buzz.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7yoWIRxTmI/AAAAAAAABzw/bBZnCnl44y0/s1600-h/Google-Buzz.jpg)
+![Google Buzz](/images/2010/04/Google-Buzz.jpg)
 
 Google has released a new video [aimed at teens](http://news.cnet.com/8301-19518_3-10472824-238.html?part=rss&subj=news&tag=2547-1_3-0-20) about making Google Buzz a safer experience.
 
