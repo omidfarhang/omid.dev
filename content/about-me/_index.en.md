@@ -13,5 +13,5 @@ You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/).
   - Frontend: Senior Developer and Team Leader. JavaScript and TypeScript (Mostly Angular), SASS, Flex Layouts.
   - Backend: Senior NodeJS and PHP Developer (Laravel, WordPress, Pure), Junior Java Developer (Spring Boot).
 - Advanced Linux Operator.
-  - Desktop: Using Manjaro and Ubuntu Based distros.
+  - Desktop: Using Arch and Debian Based distros.
   - Server: Managing Ubuntu Servers for web (Nginx, Apache, Varnish, database), live streams (RTSP, FFMPEG), mail server (Postfix, Dovecot).
