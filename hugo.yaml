@@ -221,5 +221,5 @@ services:
 sitemap:
   changeFreq: ""
   disable: false
-  filename: sitemap_index.xml
+  filename: sitemap.xml
   priority: -1
