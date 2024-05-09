@@ -4,7 +4,7 @@ date: 2024-05-09T13:55:01+03:30
 layout: single
 author_profile: true
 url: 2024/05/09/micro-frontends-why/
-shortlink: https://g.omid.dev/vdiZM5X
+shortlink: https://g.omid.dev/V8PGKKr
 tags:
   - frontend
   - web
@@ -14,10 +14,6 @@ categories:
   - techblog
 ---
 Micro frontends is an architectural pattern for building web applications as a composition of loosely coupled, independently deployable frontend modules. It extends the principles of microservices to the frontend, allowing teams to develop, deploy, and scale parts of the user interface independently. In essence, micro frontends break down a large, monolithic frontend application into smaller, more manageable pieces, each with its own technology stack, development team, and deployment pipeline.
-
-## What is it and why?
-
-We already talked about it: [Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)
 
 ## Key characteristics of micro frontends
 

@@ -4,7 +4,7 @@ date: 2024-05-09T14:09:02+03:30
 layout: single
 author_profile: true
 url: 2024/05/09/micro-frontends-how/
-shortlink: https://g.omid.dev/vdiZM5X
+shortlink: https://g.omid.dev/oxMfrkW
 tags:
   - frontend
   - web
@@ -13,10 +13,14 @@ lang: en
 categories: 
   - techblog
 ---
+We already talked about [Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)
+
+In This post we used Qwik, Angular and React as example. But you can mix any other JS frameworks of your choice.
+
 Here's a simplified example demonstrating how you can integrate Qwik, Angular, and React together in a micro frontend architecture:
 
 1. **Setup**:
-   - Create a shell application using Qwik as the main container (Or your favorite Framework).
+   - Create a shell application using Qwik as the main container.
    - Develop micro frontends using Angular and React for different parts of the application.
 
 2. **Integration**:
