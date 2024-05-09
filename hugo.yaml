@@ -217,3 +217,9 @@ outputs:
 services:
   rss:
     limit: 20
+
+sitemap:
+  changeFreq: ""
+  disable: false
+  filename: sitemap_index.xml
+  priority: -1
