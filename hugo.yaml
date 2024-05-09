@@ -149,6 +149,10 @@ languages:
 
 
 params:
+  author:
+    email: hi@omid.dev
+    name: Omid Farhang
+
   profileMode:
       enabled: true
       subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
@@ -209,3 +213,7 @@ outputs:
         - HTML
         - RSS
         - JSON 
+
+services:
+  rss:
+    limit: 20
