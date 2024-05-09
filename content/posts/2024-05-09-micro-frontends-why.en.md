@@ -15,6 +15,10 @@ categories:
 ---
 Micro frontends is an architectural pattern for building web applications as a composition of loosely coupled, independently deployable frontend modules. It extends the principles of microservices to the frontend, allowing teams to develop, deploy, and scale parts of the user interface independently. In essence, micro frontends break down a large, monolithic frontend application into smaller, more manageable pieces, each with its own technology stack, development team, and deployment pipeline.
 
+## What is it and why?
+
+We already talked about it: [Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)
+
 ## Key characteristics of micro frontends
 
 1. **Modularity**: Micro frontends promote modularity by dividing the user interface into smaller, self-contained units called micro frontends. Each micro frontend represents a cohesive set of features or functionality, allowing teams to focus on developing and maintaining specific parts of the application.
@@ -79,3 +83,12 @@ project/
 │
 └── ...
 ```
+
+## How to do it?
+
+Read in next post: [Micro Frontends: How?](/2024/05/09/micro-frontends-how/)
+
+## Future Reading
+
+- [Cloudflare Workers and micro-frontends: made for one another](https://blog.cloudflare.com/better-micro-frontends)
+- [Martin Fowler: Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
