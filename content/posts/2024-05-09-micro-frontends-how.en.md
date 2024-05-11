@@ -7,8 +7,10 @@ url: 2024/05/09/micro-frontends-how/
 shortlink: https://g.omid.dev/oxMfrkW
 tags:
   - frontend
-  - web
   - development
+  - angular
+  - qwik
+  - react
 lang: en
 categories: 
   - techblog

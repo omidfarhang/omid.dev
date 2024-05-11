@@ -7,8 +7,10 @@ url: 2024/05/11/micro-frontends-working-example/
 shortlink: https://g.omid.dev/c6nubDQ
 tags:
   - frontend
-  - web
   - development
+  - angular
+  - qwik
+  - react
 lang: en
 categories: 
   - techblog

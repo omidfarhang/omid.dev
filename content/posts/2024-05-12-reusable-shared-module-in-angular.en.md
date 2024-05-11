@@ -7,8 +7,8 @@ url: 2024/05/12/reusable-shared-module-in-angular/
 shortlink: https://g.omid.dev/7PLOaeB
 tags:
   - frontend
-  - web
   - development
+  - angular
 lang: en
 categories: 
   - techblog

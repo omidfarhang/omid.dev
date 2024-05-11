@@ -4,11 +4,11 @@ date: 2024-05-12T00:05:09+03:30
 layout: single
 author_profile: true
 url: 2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/
-shortlink: https://g.omid.dev/7PLOaeB
+shortlink: https://g.omid.dev/dK8zjqy
 tags:
   - frontend
-  - web
   - development
+  - angular
 lang: en
 categories: 
   - techblog
@@ -64,6 +64,6 @@ Choosing the right approach for managing multiple Angular projects depends on va
 
 ## References
 
-- Angular Documentation: [https://angular.io/]
-- Lerna Documentation: [https://github.com/lerna/lerna]
-- Nx Documentation: [https://nx.dev/]
+- Angular Documentation: [https://angular.io/](https://angular.io/)
+- Lerna Documentation: [https://github.com/lerna/lerna](https://github.com/lerna/lerna)
+- Nx Documentation: [https://nx.dev/](https://nx.dev/)

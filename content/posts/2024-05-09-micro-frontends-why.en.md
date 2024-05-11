@@ -7,8 +7,10 @@ url: 2024/05/09/micro-frontends-why/
 shortlink: https://g.omid.dev/V8PGKKr
 tags:
   - frontend
-  - web
   - development
+  - angular
+  - qwik
+  - react
 lang: en
 categories: 
   - techblog
