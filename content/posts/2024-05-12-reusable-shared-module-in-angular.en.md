@@ -4,7 +4,7 @@ date: 2024-05-12T00:05:09+03:30
 layout: single
 author_profile: true
 url: 2024/05/12/reusable-shared-module-in-angular/
-shortlink: https://g.omid.dev/c6nubDQ
+shortlink: https://g.omid.dev/7PLOaeB
 tags:
   - frontend
   - web
@@ -34,7 +34,9 @@ Inside your library's directory (`projects/my-shared-module`), organize your cod
 - `directives`: For Angular directives.
 - `styles`: For shared stylesheets (CSS or SCSS).
 
-## Step 3: Component Creation
+## Step 3: Components Creation
+
+### Component
 
 Let's create a sample component called `MyComponent`:
 
@@ -49,7 +51,7 @@ import { Component } from '@angular/core';
 export class MyComponent {}
 ```
 
-## Step 4: Service Creation
+### Service
 
 Next, let's create a sample service called `MyService`:
 
@@ -67,7 +69,7 @@ export class MyService {
 }
 ```
 
-## Step 5: Directive Creation
+### Directive
 
 Create a sample directive called `MyDirective`:
 
@@ -85,7 +87,7 @@ export class MyDirective {
 }
 ```
 
-## Step 6: Shared Styles
+### Shared Styles
 
 If you have shared styles, place them in the `styles` directory:
 
@@ -97,7 +99,7 @@ If you have shared styles, place them in the `styles` directory:
 }
 ```
 
-## Step 7: Export Public APIs
+## Step 4: Export Public APIs
 
 In `public_api.ts`, export all components, services, directives, and styles you want to expose:
 
@@ -109,7 +111,7 @@ export * from './lib/directives/my-directive.directive';
 export * from './lib/styles/shared-styles.scss';
 ```
 
-## Step 8: Build and Test
+## Step 5: Build and Test
 
 Build your library to ensure everything compiles correctly:
 
@@ -119,7 +121,7 @@ ng build my-shared-module
 
 You can test your library locally in a sample Angular project.
 
-## Step 9: Usage Instructions
+## Step 6: Usage Instructions
 
 - For Development (`npm link`):
   - In the library directory, run `npm link`.
