@@ -4,7 +4,7 @@ date: 2024-05-11T17:52:46+03:30
 layout: single
 author_profile: true
 url: 2024/05/11/micro-frontends-working-example/
-shortlink: https://g.omid.dev/oxMfrkW
+shortlink: https://g.omid.dev/c6nubDQ
 tags:
   - frontend
   - web
