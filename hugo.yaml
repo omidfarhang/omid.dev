@@ -6,7 +6,7 @@ defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
 show_reading_time: true
 
-disqusShortname: omidnetwork
+# disqusShortname: omidnetwork
 
 menu:
   main:
@@ -213,6 +213,8 @@ outputs:
 services:
   rss:
     limit: 20
+  disqus:
+    shortname: omidnetwork
 
 sitemap:
   changeFreq: ""
