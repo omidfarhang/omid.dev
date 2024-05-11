@@ -3,7 +3,7 @@ title: New “Sex and the City 2″ Trailer Hits the Web
 date: 2010-04-09T16:05:00+00:00
 layout: single
 author_profile: true
-permalink: '/2010/04/09/new-sex-and-the-city-2-trailer-hits-the-web/'
+url: 2010/04/09/new-sex-and-the-city-2-trailer-hits-the-web/
 tags:
   - movie trailers
   - Video

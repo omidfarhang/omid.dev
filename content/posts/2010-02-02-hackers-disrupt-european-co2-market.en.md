@@ -3,7 +3,7 @@ title: Hackers Disrupt European CO₂ Market
 date: 2010-02-02T22:00:00+00:00
 layout: single
 author_profile: true
-permalink: '/2010/02/02/hackers-disrupt-european-co2-market/'
+url: 2010/02/02/hackers-disrupt-european-co2-market/
 tags:
   - alert
   - hack

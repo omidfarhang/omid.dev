@@ -3,7 +3,7 @@ title: µTorrent 2.0 Stable version Released !
 date: 2010-02-04T00:49:00+00:00
 layout: single
 author_profile: true
-permalink: '/2010/02/04/utorrent-2-0-stable-version-released/'
+url: 2010/02/04/utorrent-2-0-stable-version-released/
 tags:
   - Updates
 lang: en
