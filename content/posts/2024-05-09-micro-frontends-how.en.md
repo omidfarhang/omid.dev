@@ -126,6 +126,10 @@ Similarly, you can create and use Web Components representing React micro fronte
 
 Using Web Components provides a more seamless integration compared to Iframes, as it allows the micro frontends to share the same DOM context and interact more closely with each other. Additionally, Web Components offer better performance and accessibility compared to Iframes.
 
+## Working Example
+
+Read in next post: [Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)
+
 ## Define Communication Mechanism
 
 To allow communication between micro frontends and the shell, consider using a shared state management library like Redux, Mobx, or a custom event bus. This enables micro frontends to interact with each other and share data.

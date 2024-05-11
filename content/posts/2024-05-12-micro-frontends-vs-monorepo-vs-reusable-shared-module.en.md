@@ -17,6 +17,8 @@ Managing multiple Angular projects can be a daunting task, especially as teams g
 
 ## Micro Frontends
 
+Consider a large e-commerce platform comprising several distinct sections, including product catalog, shopping cart, checkout, and user profile. With micro frontends, each section can be developed and deployed independently as a separate micro frontend. This enables different teams to work autonomously on their respective sections, improving development speed, scalability, and flexibility.
+
 **Pros:**
 
 - **Independent Development:** Teams can work on different parts of the application independently, allowing for faster development and deployment cycles.
@@ -29,6 +31,8 @@ Managing multiple Angular projects can be a daunting task, especially as teams g
 - **Overhead:** There may be additional overhead in terms of setup, maintenance, and coordination between teams, especially in larger organizations.
 
 ## Monorepo
+
+A software development company maintains a suite of related Angular applications, including a customer portal, admin dashboard, and reporting tool. By using a monorepo, all projects reside in a single repository, facilitating easier code sharing, collaboration, and consistency across projects. Developers can work on multiple projects within the same repository, streamlining development workflows and ensuring code consistency.
 
 **Pros:**
 
@@ -44,6 +48,8 @@ Managing multiple Angular projects can be a daunting task, especially as teams g
 - **Versioning Challenges:** Coordinating versioning and releases across multiple projects within a monorepo can be challenging, requiring careful planning and coordination.
 
 ## Reusable Shared Module
+
+A development team is building a suite of Angular applications for a large enterprise, including an HR management system, inventory tracking tool, and project management dashboard. They create a reusable shared module containing common components, services, and directives used across all applications. This approach promotes code reuse, consistency, and maintainability across projects.
 
 **Pros:**
 
@@ -67,3 +73,5 @@ Choosing the right approach for managing multiple Angular projects depends on va
 - Angular Documentation: [https://angular.io/](https://angular.io/)
 - Lerna Documentation: [https://github.com/lerna/lerna](https://github.com/lerna/lerna)
 - Nx Documentation: [https://nx.dev/](https://nx.dev/)
+- Micro Frontends: [https://micro-frontends.org/](https://micro-frontends.org/)
+- Monorepo: [https://en.wikipedia.org/wiki/Monorepo](https://en.wikipedia.org/wiki/Monorepo)
