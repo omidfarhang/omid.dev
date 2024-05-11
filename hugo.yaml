@@ -6,7 +6,7 @@ defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
 show_reading_time: true
 
-# disqusShortname: omidnetwork
+disqusShortname: omidnetwork
 
 menu:
   main:
@@ -191,7 +191,7 @@ params:
     - posts
 
   displayFullLangName: true
-  comments: false
+  comments: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
