@@ -168,6 +168,8 @@ params:
     url: 'https://linkedin.com/in/omidfarhang'
   - name: twitter
     url: 'https://twitter.com/omidfarhangen'
+  - name: bluesky
+    url: 'https://omidfarhang.bsky.social'
   - name: github
     url: 'https://github.com/omidfarhang'
   - name: mastodon
