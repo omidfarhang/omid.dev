@@ -3,7 +3,7 @@ title: About Me
 author_profile: true
 lang: en
 ---
-You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/).
+You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/) / [PDF](https://resume.omid.dev/pdf).
 
 ### Summary
 

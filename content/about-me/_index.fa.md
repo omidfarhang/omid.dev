@@ -3,7 +3,7 @@ title: درباره من
 author_profile: true
 lang: fa
 ---
-رزومه کامل من: [resume.omid.dev](https://resume.omid.dev/).
+رزومه کامل من: [resume.omid.dev](https://resume.omid.dev/) / [PDF](https://resume.omid.dev/pdf).
 
 ### Summary
 
