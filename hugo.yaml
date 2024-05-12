@@ -166,7 +166,7 @@ params:
   socialIcons:
   - name: linkedin
     url: 'https://linkedin.com/in/omidfarhang'
-  - name: twitter
+  - name: x
     url: 'https://twitter.com/omidfarhangen'
   - name: bluesky
     url: 'https://omidfarhang.bsky.social'
@@ -182,12 +182,6 @@ params:
     url: 'https://t.me/omidfarhang'
   - name: Rss
     url: "index.xml"
-    linkedin: 'https://linkedin.com/in/omidfarhang'
-    twitter: 'https://twitter.com/omidfarhangen'
-    github: 'https://github.com/omidfarhang'
-    mastodon: 'https://mastodon.social/@omidfarhang'
-    instagram: 'https://instagram.com/omidfarhang'
-    telegram: 'https://t.me/omidfarhang'
 
   mainSections:
     - posts
