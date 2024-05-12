@@ -1,6 +1,5 @@
 ---
 title: Endorsement
-layout: single
 author_profile: true
 lang: en
 ---

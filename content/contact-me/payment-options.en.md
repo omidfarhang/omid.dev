@@ -1,6 +1,5 @@
 ---
 title: Payment Options
-layout: single
 author_profile: true
 lang: en
 ---

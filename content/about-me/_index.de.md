@@ -1,6 +1,5 @@
 ---
 title: Über mich
-layout: single
 author_profile: true
 lang: de
 ---

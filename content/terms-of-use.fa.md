@@ -1,6 +1,5 @@
 ---
 title: Terms of Use
-layout: single
 author_profile: true
 ---
 ### 1. Terms

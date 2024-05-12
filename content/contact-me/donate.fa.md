@@ -1,6 +1,5 @@
 ---
 title: حمایت مالی
-layout: single
 author_profile: true
 lang: fa
 ---

@@ -1,6 +1,5 @@
 ---
 title: Donate
-layout: single
 author_profile: true
 lang: en
 ---

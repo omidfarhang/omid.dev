@@ -1,6 +1,5 @@
 ---
 title: درباره من
-layout: single
 author_profile: true
 lang: fa
 ---

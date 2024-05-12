@@ -1,6 +1,5 @@
 ---
 title: Zahlungsmöglichkeiten
-layout: single
 author_profile: true
 lang: de
 ---

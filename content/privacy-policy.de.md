@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-layout: single
 author_profile: true
 lang: de
 ---

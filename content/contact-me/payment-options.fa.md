@@ -1,6 +1,5 @@
 ---
 title: نحوه پرداخت
-layout: single
 author_profile: true
 lang: fa
 ---
