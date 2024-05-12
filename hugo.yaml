@@ -22,10 +22,6 @@ menu:
       name: Contact me
       url: /contact-me
       weight: 5
-    - identifier: hireMe
-      name: Hire Me
-      url: /hire-me
-      weight: 3
     - identifier: search
       name: Search
       url: /search
@@ -81,9 +77,6 @@ languages:
         - name: Contact me
           url: /contact-me
           weight: 5
-        - name: Hire Me
-          url: /hire-me
-          weight: 3
         - name: Search
           url: /search
           weight: 6
@@ -111,42 +104,9 @@ languages:
         - name: تماس با من
           url: /contact-me
           weight: 5
-        - name: همکاری
-          url: /hire-me
-          weight: 3
         - name: جستجو
           url: /search
           weight: 6
-  # Deutsch
-  de:
-    title: Omid Farhang
-    languageName: ':de:'
-    languageCode: de-DE
-    weight: 2
-    params:
-      profileMode:
-        enabled: true
-        imageUrl: "/images/bio-photo.jpg"
-        subtitle: "Ich bin Senior Developer und Netzwerkadministrator, arbeite freiberuflich und suche nach Linux-Sachen"
-    # Deutsch Menu
-    menu:
-      main:
-        - name: Posts
-          url: /posts
-          weight: 1
-        - name: Über mich
-          url: /about-me
-          weight: 4
-        - name: Kontaktiere mich
-          url: /contact-me
-          weight: 5
-        - name: Stellt mich ein
-          url: /hire-me
-          weight: 3
-        - name: Suche
-          url: /search
-          weight: 6
-
 
 params:
   profileMode:

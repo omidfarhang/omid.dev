@@ -1,5 +1,0 @@
----
-title: Blog
-lang: de
----
-
