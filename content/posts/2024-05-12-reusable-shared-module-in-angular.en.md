@@ -20,9 +20,14 @@ In Angular development, creating reusable shared modules is a powerful way to en
 The first step is to generate an Angular library project within your workspace using the Angular CLI:
 
 ```bash
+ng generate library my-shared-module
+```
+
+If you don't have a workspace you may create a new one:
+
+```bash
 ng new my-workspace --no-create-application
 cd my-workspace
-ng generate library my-shared-module
 ```
 
 This command sets up the basic structure for your library.
