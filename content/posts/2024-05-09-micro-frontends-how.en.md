@@ -17,120 +17,49 @@ categories:
 ---
 We already talked about [Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)
 
-In This post we used Qwik, Angular and React as example. But you can mix any other JS frameworks of your choice.
+As web applications grow in complexity, maintaining a consistent tech stack becomes crucial for efficiency and scalability. If you have multiple projects using different frameworks, like Angular and React, unifying them can seem daunting. However, Micro Frontends offer a modern solution to this challenge, allowing you to integrate diverse projects seamlessly. Here’s how you can leverage Micro Frontends to unify your Angular and React projects.
 
-Here's a simplified example demonstrating how you can integrate Qwik, Angular, and React together in a micro frontend architecture:
+Micro Frontends extend the microservices idea to the frontend world. They allow different teams to develop and deploy their frontend applications independently. Each part of the application can be built using different frameworks or libraries and then integrated into a larger application.
 
-1. **Setup**:
-   - Create a shell application using Qwik as the main container.
-   - Develop micro frontends using Angular and React for different parts of the application.
+### Advantages of Micro Frontends
 
-2. **Integration**:
-   - Embed Angular and React micro frontends within Qwik components using Iframes, Web Components, or any other suitable integration method.
+1. **Framework Agnostic**: Integrate Frameworks (e.g. Qwik, Angular and React) seamlessly, allowing teams to choose the best tool for each task.
+2. **Incremental Upgrades**: Refactor parts of your application gradually without rewriting everything at once.
+3. **Team Autonomy**: Different teams can work on separate parts of the application independently, improving productivity.
+4. **Scalability**: Scale parts of the application independently to enhance performance and responsiveness.
+5. **Decoupling**: Develop, test, and deploy Micro Frontends independently, reducing overall system complexity.
 
-3. **Communication**:
-   - Establish communication channels between Qwik, Angular, and React micro frontends using custom events, shared state management libraries, or other mechanisms.
+## Implementing Micro Frontends
 
-4. **Routing**:
-   - Define routing within the shell application (Qwik) and coordinate routing between Qwik, Angular, and React micro frontends to ensure a seamless user experience.
+### 1. Choose a Composition Method
 
-## How does it look likes?
+- **Server-Side Composition**: Assemble different micro frontends into a single HTML response on the server. This approach benefits performance but can be complex to manage.
+- **Client-Side Composition**: The client (browser) loads and assembles the different micro frontends. This approach offers flexibility and is easier to implement but may affect initial load time.
+- **Edge-Side Composition**: Compose at the CDN or edge server level, combining the benefits of both client-side and server-side compositions.
 
-```bash
-project/
-│
-├── shell-app/               # Qwik Shell Application
-│   ├── src/
-│   │   ├── components/      # Qwik Components
-│   │   ├── services/        # Shared Services
-│   │   └── ...
-│   └── ...
-│
-├── angular-microfrontend/   # Angular Microfrontend
-│   ├── src/
-│   │   ├── app/             # Angular Components
-│   │   ├── services/        # Shared Services (if any)
-│   │   └── ...
-│   └── ...
-│
-├── react-microfrontend/     # React Microfrontend
-│   ├── src/
-│   │   ├── components/      # React Components
-│   │   ├── services/        # Shared Services (if any)
-│   │   └── ...
-│   └── ...
-│
-└── ...
-```
+### 2. Define Clear Contracts
 
-In this setup, the Qwik shell application acts as the main container, while the Angular and React micro frontends represent different parts of the application.
+Ensure Micro Frontends communicate through well-defined APIs or contracts to maintain loose coupling and enable independent deployment.
 
-## Integrate
+### 3. Shared Components and Utilities
 
-### via Iframe
+Maintain shared components and utilities for consistency across different micro frontends. This includes UI libraries, authentication modules, and state management tools.
 
-Here's a basic example of how you might integrate an Angular micro frontend into a Qwik component using an Iframe:
+### 4. Routing Management
 
-```javascript
-// Qwik Component
-import { h, Fragment } from 'qwik';
+Use a routing mechanism to handle navigation between different micro frontends smoothly. Tools like single-spa or Module Federation in Webpack can manage this effectively.
 
-export default function MyApp() {
-  return (
-    <Fragment>
-      <h1>Qwik Shell Application</h1>
-      <iframe src="http://localhost:4200" frameborder="0" width="100%" height="500px"></iframe>
-    </Fragment>
-  );
-}
-```
+### 5. Deployment Strategy
 
-Similarly, you can integrate the React micro frontend into a Qwik component using an Iframe or any other suitable method.
+Adopt a deployment strategy where each Micro Frontend can be deployed independently. Setting up CI/CD pipelines for each part of your application is crucial for this approach.
 
-### via Web Components
+## Tools and Frameworks for Micro Frontends
 
-There are alternative options to Iframes for integrating Qwik, Angular, and React micro frontends within a shell application. One such option is using Web Components.
-
-Web Components provide a native browser solution for encapsulating custom elements, making them a great choice for integrating disparate frontend frameworks within a single application. With Web Components, you can create reusable UI components that can be used across different frameworks, including Qwik, Angular, and React.
-
-Here's how you might integrate Qwik, Angular, and React micro frontends using Web Components:
-
-1. **Create Web Components**: 
-   - Develop custom Web Components for each micro frontend using vanilla JavaScript or a framework/library like LitElement or Stencil.js. These components encapsulate the functionality and UI of each micro frontend.
-
-2. **Register Web Components**: 
-   - Register the Web Components within your shell application (Qwik) so that they can be used like native HTML elements.
-
-3. **Use Web Components in Qwik Components**: 
-   - Embed the Web Components representing Angular and React micro frontends directly within Qwik components, without the need for Iframes.
-
-Here's a basic example of how you might use a Web Component representing an Angular micro frontend within a Qwik component:
-
-```javascript
-// Qwik Component
-import { h, Fragment } from 'qwik';
-
-export default function MyApp() {
-  return (
-    <Fragment>
-      <h1>Qwik Shell Application</h1>
-      <angular-microfrontend></angular-microfrontend>
-    </Fragment>
-  );
-}
-```
-
-In this example, `angular-microfrontend` is a custom Web Component representing the Angular micro frontend, which can be used directly within the Qwik component without the need for Iframes.
-
-Similarly, you can create and use Web Components representing React micro frontends within your Qwik components.
-
-Using Web Components provides a more seamless integration compared to Iframes, as it allows the micro frontends to share the same DOM context and interact more closely with each other. Additionally, Web Components offer better performance and accessibility compared to Iframes.
+1. **Single-spa**: A framework for integrating multiple JavaScript microfrontends into a single frontend application.
+2. **Module Federation (Webpack 5)**: Shares modules across different builds and manages Micro Frontends efficiently.
+3. **Nx**: Extensible dev tools for monorepos, useful for managing Micro Frontends.
+4. **Pirateship**: A Micro Frontend framework for building distributed web applications.
 
 ## Working Example
 
 Read in next post: [Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)
-
-## Define Communication Mechanism
-
-To allow communication between micro frontends and the shell, consider using a shared state management library like Redux, Mobx, or a custom event bus. This enables micro frontends to interact with each other and share data.
-
