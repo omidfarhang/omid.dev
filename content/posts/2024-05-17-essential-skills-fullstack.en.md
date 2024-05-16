@@ -15,6 +15,8 @@ lang: en
 categories: 
   - techblog
 ---
+We already talked about [latest trends for Angular Development](/2024/05/16/latest-trends-for-angular-developers-in-2024/) and then about [Essntial Skills for a Frontend Developer](/2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/), but what if you want to grow your stack to backend too and become a full stack developer?
+
 As technology evolves, so does the role of a full-stack developer. To remain effective and ahead of the curve, a senior full-stack developer must continually expand their knowledge base. This encompasses technical skills, soft skills, and advanced topics, along with a deep understanding of best practices and key concepts. Let’s explore what each of these areas entails for a senior full-stack developer striving for success.
 
 ## Technical Skills

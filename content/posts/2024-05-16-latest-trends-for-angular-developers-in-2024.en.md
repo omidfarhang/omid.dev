@@ -20,7 +20,7 @@ As an Angular developer, staying updated with the latest trends in frontend deve
 
 ### 1. Micro Frontends
 
-Micro Frontends are gaining significant traction as they allow large applications to be divided into smaller, manageable pieces, each developed and deployed independently. This approach enhances scalability and team productivity, especially in large organizations. [Micro Frontends: Why?](https://omid.dev/2024/05/09/micro-frontends-why/), [Micro Frontends: How?](https://omid.dev/2024/05/09/micro-frontends-how/), [Micro Frontends: Working Example](https://omid.dev/2024/05/11/micro-frontends-working-example/).
+Micro Frontends are gaining significant traction as they allow large applications to be divided into smaller, manageable pieces, each developed and deployed independently. This approach enhances scalability and team productivity, especially in large organizations. [Micro Frontends](/tags/micro-frontends/).
 
 ### 2. Component-Driven Development
 
