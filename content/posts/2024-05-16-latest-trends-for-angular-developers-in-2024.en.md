@@ -50,7 +50,7 @@ GraphQL is becoming a preferred alternative to REST APIs for many developers due
 
 ### 9. State Management
 
-State management is critical in frontend applications. While Angular has its own state management solutions like [NgRx](https://ngrx.io/), there's a growing interest in simpler, more flexible solutions like [Akita](https://datorama.github.io/akita/) or leveraging RxJS directly for state management. [Explore RxJS](https://rxjs.dev/).
+State management is critical in frontend applications. While Angular has its own state management solutions like [NgRx](https://ngrx.io/), there's a growing interest in simpler, more flexible solutions like [Elf](https://ngneat.github.io/elf/) or leveraging RxJS directly for state management. [Explore RxJS](https://rxjs.dev/).
 
 ### 10. Design Systems
 
