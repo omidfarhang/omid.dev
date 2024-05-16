@@ -4,7 +4,7 @@ date: 2024-05-16T18:42:26+03:30
 layout: single
 author_profile: true
 url: 2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/
-shortlink: https://g.omid.dev/QiNonsh
+shortlink: https://g.omid.dev/B7H57au
 tags:
   - frontend
   - development
