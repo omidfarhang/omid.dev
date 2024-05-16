@@ -4,7 +4,7 @@ date: 2024-05-17T01:46:11+03:30
 layout: single
 author_profile: true
 url: 2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/
-shortlink: https://g.omid.dev/B7H57au
+shortlink: https://g.omid.dev/GRGuvbY
 tags:
   - frontend
   - fullstack
