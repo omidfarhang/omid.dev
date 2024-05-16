@@ -11,6 +11,7 @@ tags:
   - angular
   - qwik
   - react
+  - Micro Frontends
 lang: en
 categories: 
   - techblog

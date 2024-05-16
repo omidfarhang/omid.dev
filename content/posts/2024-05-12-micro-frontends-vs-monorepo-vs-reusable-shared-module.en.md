@@ -9,6 +9,8 @@ tags:
   - frontend
   - development
   - angular
+  - Micro Frontends
+  - Monorepo
 lang: en
 categories: 
   - techblog

@@ -10,6 +10,8 @@ tags:
   - development
   - angular
   - trends
+  - roadmap
+  - essential skills
 lang: en
 categories: 
   - techblog
