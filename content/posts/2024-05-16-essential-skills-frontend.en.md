@@ -160,3 +160,7 @@ A senior frontend developer should explore and understand emerging technologies 
 ## Conclusion
 
 A successful senior frontend developer needs a blend of advanced technical skills, practical experience, soft skills, and a deep understanding of best practices and concepts. By continually learning and adapting to new technologies and methodologies, you can ensure your place at the forefront of frontend development. Whether you’re optimizing performance, leading a team, or implementing cutting-edge features, the journey of learning never truly ends.
+
+## References
+
+- [https://roadmap.sh/frontend](https://roadmap.sh/frontend)
