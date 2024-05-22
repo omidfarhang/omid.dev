@@ -127,7 +127,7 @@ params:
   - name: linkedin
     url: 'https://linkedin.com/in/omidfarhang'
   - name: x
-    url: 'https://twitter.com/omidfarhangen'
+    url: 'https://x.com/omidfarhangen'
   - name: bluesky
     url: 'https://omidfarhang.bsky.social'
   - name: github
