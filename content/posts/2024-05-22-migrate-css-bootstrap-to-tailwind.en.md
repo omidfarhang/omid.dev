@@ -1,6 +1,6 @@
 ---
 title: 'Migrating an Existing Project from Pure CSS and Bootstrap to Tailwind CSS: A Comprehensive Guide'
-date: 2024-05-22T16:00:22+03:30
+date: 2024-05-22T20:07:46+03:30
 layout: single
 author_profile: true
 url: 2024/05/22/migrate-css-bootstrap-to-tailwind/
