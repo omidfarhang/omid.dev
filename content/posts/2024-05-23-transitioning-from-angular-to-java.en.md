@@ -46,7 +46,7 @@ Here’s a step-by-step guide to help you kickstart your Java learning journey:
    - **Basic I/O**: Learn how to handle input and output in Java using classes from the `java.io` package.
 
 3. **Practice Coding**:
-   - **Online Coding Platforms**: Practice coding problems on platforms like [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-java) and [LeetCode](https://leetcode.com/).
+   - **Online Coding Platforms**: Practice coding problems on platforms like [HackerRank](https://www.hackerrank.com/domains/java) and [LeetCode](https://leetcode.com/).
    - **Build Small Projects**: Start with simple projects, such as a console-based application, to solidify your understanding.
 
 4. **Explore Advanced Topics**:
