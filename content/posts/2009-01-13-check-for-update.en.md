@@ -3,7 +3,7 @@ title: Check for Windows Updates
 date: 2009-01-13T23:50:43+03:30
 layout: single
 author_profile: true
-url: 2009/01/13/cleanup-windows-hard-disk/
+url: 2009/01/13/check-for-windows-updates/
 shortlink: https://g.omid.dev/tK2xIAl
 tags:
   - microsoft
