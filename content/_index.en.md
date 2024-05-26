@@ -2,9 +2,10 @@
 title: Home
 layout: home
 shortlink: https://g.omid.dev/en
+description: "Omid Farhang, Fullstack Web Developer with expertise in Angular, Node.js, Linux, and networking. Skilled in high-performance web solutions and team leadership. Let's connect!"
 lang: en
 ---
-![That's me](/images/2019/01/16583454_210922376050059_7816295726543011840_n-1-300x300.jpg)
+![That's me](/images/bio-photo.jpg)
 
 ## Hi, I'm Omid Farhang
 

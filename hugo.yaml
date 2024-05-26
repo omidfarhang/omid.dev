@@ -61,10 +61,14 @@ languages:
     languageCode: en-US
     weight: 1
     params:
+      author: Omid Farhang
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
         subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+      # homeInfoParams:
+      #   Title: "Hi, I’m Omid Farhang"
+      #   Content: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
     # English Menu
     menu:
       main:
@@ -88,6 +92,7 @@ languages:
     weight: 2
     languagedirection: rtl
     params:
+      author: امید فرهنگ
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
@@ -109,10 +114,10 @@ languages:
           weight: 6
 
 params:
-  profileMode:
-      enabled: true
-      subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
-      imageUrl: "/images/bio-photo.jpg"
+  # profileMode:
+  #     enabled: true
+  #     subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+  #     imageUrl: "/images/bio-photo.jpg"
 
   assets:
   # Favicons
