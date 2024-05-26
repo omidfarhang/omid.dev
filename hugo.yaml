@@ -62,6 +62,8 @@ languages:
     weight: 1
     params:
       author: Omid Farhang
+      description: "Omid Farhang, Fullstack Web Developer with expertise in Angular, Node.js, Linux, and networking. Skilled in high-performance web solutions and team leadership. Let's connect!"
+      keywords: [Fullstack Web Developer, Angular, "Node.js", Linux, Networking, "High-performance Web Solutions", Team Leadership, Web Development, Omid Farhang, JavaScript, TypeScript, Frontend Development, Backend Development, Software Architecture]
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
@@ -93,6 +95,8 @@ languages:
     languagedirection: rtl
     params:
       author: امید فرهنگ
+      description: "امید فرهنگ، برنامه نویس فول استک با تخصص انگولار، نود، لینوکس و شبکه. ماهر در راه‌حل‌های وب با عملکرد بالا و رهبری تیم."
+      keywords: [Fullstack Web Developer, انگولار, "نود جی اس", لینوکس, شبکه, "High-performance Web Solutions", رهبری تیم, برنامه نویسی وب, امید فرهنگ, جاوا اسکریپت, تایپ اسکریپت, برنامه نویسی فرانت, برنامه نویسی بک اند, معماری نرم افزار]
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo.jpg"
