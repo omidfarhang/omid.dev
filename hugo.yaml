@@ -186,3 +186,5 @@ sitemap:
   disable: false
   filename: sitemap.xml
   priority: -1
+
+enableRobotsTXT: true
