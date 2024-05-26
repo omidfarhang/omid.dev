@@ -120,8 +120,11 @@ kubectl get pods
 
 To deepen your understanding of Kubernetes, consider exploring the following resources:
 
-- **[Kubernetes Documentation](https://kubernetes.io/docs/)**: Comprehensive and up-to-date information.
-- **[Kubernetes Tutorials on Katacoda](https://www.katacoda.com/courses/kubernetes)**: Interactive scenarios to practice.
+- **[Kubernetes Documentation](https://kubernetes.io/docs/)**
+- **[Civo Academy](https://www.civo.com/academy)**
+- **[KubeAcademy by VMware](https://kube.academy/)**
+- **[Learning Kasten.io by Veeam](https://learning.kasten.io/)**
+- **[Play With Kubernetes](https://labs.play-with-k8s.com/)**
 - **Books**: "Kubernetes Up & Running" by Kelsey Hightower, Brendan Burns, and Joe Beda is an excellent read for beginners.
 
 ## Conclusion
