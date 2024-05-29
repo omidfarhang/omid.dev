@@ -2,10 +2,12 @@
 {{ $featured := $images.GetMatch "*feature*" }}
 {{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
 {{ if not $featured }}
-    {{ $featured = resources.Get "/opengraph/omiddev-card-base-1.png" }}
-    {{ $size := 35 }}
+    {{ $featured = resources.Get "/opengraph/omiddev-card-base-2.jpg" }}
+    {{ $size := 100 }}
     {{ $title := $.LinkTitle }}
-    {{ if gt (len $title) 20 }}
+    {{ if gt (len $title) 120 }}
+    {{ $size = 65 }}
+    {{ else if gt (len $title) 200 }}
     {{ $size = 35 }}
     {{ end }}
 
@@ -14,7 +16,7 @@
                     "color" "#FFF"
                     "size" $size
                     "lineSpacing" 5
-                    "x" 45 "y" 260
+                    "x" 90 "y" 90
                     "font" (resources.Get "/opengraph/segoe-ui.ttf")
                 }}
 
