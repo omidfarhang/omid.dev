@@ -3,7 +3,7 @@ title: 'Effective Task Management in Small, Large and Multi-Team Development Env
 date: 2024-05-31T00:54:26+03:30
 layout: single
 author_profile: true
-url: 2024/05/30/effective-task-management-in-small-large-and-multi-team-development-environments/
+url: 2024/05/31/effective-task-management-in-small-large-and-multi-team-development-environments/
 shortlink: https://g.omid.dev/Wwm2Im1
 tags:
   - Task Management
