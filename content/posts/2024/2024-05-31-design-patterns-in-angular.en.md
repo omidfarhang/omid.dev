@@ -4,7 +4,7 @@ date: 2024-05-31T23:52:23+03:30
 layout: single
 author_profile: true
 url: 2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
-shortlink: https://g.omid.dev/Wwm2Im1
+shortlink: https://g.omid.dev/PZcvxhx
 tags:
   - Frontend
   - Software Development
