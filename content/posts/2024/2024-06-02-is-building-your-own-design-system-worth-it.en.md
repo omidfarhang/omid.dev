@@ -108,9 +108,7 @@ Airbnb developed the Design Language System (DLS) to address these challenges. D
 **Benefits:**
 
 1. **Increased Efficiency:** With DLS, developers can quickly implement pre-built components, reducing the time and effort needed to develop new features.
-2. **Consistency:** The unified design language ensures a consistent
-
- look and feel across all of Airbnb’s digital products, enhancing the user experience.
+2. **Consistency:** The unified design language ensures a consistent look and feel across all of Airbnb’s digital products, enhancing the user experience.
 3. **Scalability:** DLS is designed to be scalable, allowing Airbnb to easily update and expand its design system as the company grows and evolves.
 
 **Outcome:**
