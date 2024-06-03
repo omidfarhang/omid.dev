@@ -6,8 +6,8 @@ author_profile: true
 url: 2024/06/03/building-custom-angular-schematics-automating-code-generation/
 shortlink: https://g.omid.dev/0rt00QY
 tags:
-  - FrontEnd
-  - FrontEnd Development
+  - Frontend
+  - Frontend Development
   - Custom Angular Schematics
   - Angular Code Generation
   - Angular Schematics

@@ -6,7 +6,7 @@ author_profile: true
 url: 2024/06/03/security-best-practices-in-angular-protecting-your-applications/
 shortlink: https://g.omid.dev/Wvcy4Bb
 tags:
-  - FrontEnd
+  - Frontend
   - Angular
   - Angular Security
   - XSS
