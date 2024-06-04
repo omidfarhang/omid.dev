@@ -3,7 +3,7 @@ title: 'Advanced API Design: REST, GraphQL, and gRPC'
 date: 2024-06-05T01:03:34+03:30
 layout: single
 author_profile: true
-url: 2024/06/04/advanced-api-design-rest-graphql-and-grpc/
+url: 2024/06/05/advanced-api-design-rest-graphql-and-grpc/
 shortlink: https://g.omid.dev/8j1tsZG
 tags:
   - API Design
