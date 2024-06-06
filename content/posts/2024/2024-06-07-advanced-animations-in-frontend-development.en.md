@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Animations in Frontend Development: CSS, SVG, and JavaScript'
-date: 2024-06-07T00:06:46+03:30
+date: 2024-06-07T00:20:07+03:30
 layout: single
 author_profile: true
 url: 2024/06/07/advanced-animations-in-frontend-development/
