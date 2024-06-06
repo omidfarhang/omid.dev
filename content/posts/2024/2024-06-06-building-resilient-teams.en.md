@@ -109,8 +109,8 @@ For more insights and strategies on building resilient teams, check out these re
 
 1. **[The Five Dysfunctions of a Team by Patrick Lencioni](https://www.tablegroup.com/product/dysfunctions/)**
 2. **[Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink](https://www.danpink.com/books/drive/)**
-3. **[Mindfulness for Beginners: Reclaiming the Present Moment—and Your Life by Jon Kabat-Zinn](https://www.mindfulnesscds.com/product/mindfulness-for-beginners-book/)**
-4. **[The Burnout Epidemic: The Rise of Chronic Stress and How We Can Fix It by Jennifer Moss](https://www.harvard.com/book/the_burnout_epidemic/)**
+3. **[Mindfulness for Beginners: Reclaiming the Present Moment—and Your Life by Jon Kabat-Zinn](https://www.amazon.com/Mindfulness-Beginners-Reclaiming-Present-Moment/dp/1622036670)**
+4. **[The Burnout Epidemic: The Rise of Chronic Stress and How We Can Fix It by Jennifer Moss](https://store.hbr.org/product/the-burnout-epidemic-the-rise-of-chronic-stress-and-how-we-can-fix-it/10438)**
 5. **[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity by Kim Scott](https://www.radicalcandor.com/)**
 
 ## Conclusion
