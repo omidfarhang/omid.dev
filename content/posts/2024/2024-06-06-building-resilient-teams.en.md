@@ -1,6 +1,6 @@
 ---
 title: 'Building Resilient Teams: Strategies for Enhancing Team Performance and Well-being'
-date: 2024-06-06T03:11:52+03:30
+date: 2024-06-06T22:08:53+03:30
 layout: single
 author_profile: true
 url: 2024/06/06/building-resilient-teams/
