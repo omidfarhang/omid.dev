@@ -14,7 +14,7 @@ tags:
   - HTTP2
   - HTTP3
   - HTTP Push
-  - Apollo
+  - Apollo Client
   - nginx
 lang: en
 categories: 
