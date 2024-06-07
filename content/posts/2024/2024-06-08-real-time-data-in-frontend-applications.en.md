@@ -15,8 +15,6 @@ lang: en
 categories: 
   - techblog
 ---
-### Real-Time Data in Frontend Applications: WebSockets, SSE, gRPC, and Beyond
-
 In the rapidly evolving digital landscape, delivering real-time data to users is becoming increasingly important. Whether it’s for live sports updates, stock market tickers, social media feeds, or collaborative tools, users expect instantaneous data delivery. Implementing real-time data capabilities in frontend applications can be challenging, but with the right technologies and patterns, you can create responsive, dynamic user experiences. This post will explore the primary methods for handling real-time data in frontend applications, focusing on WebSockets, Server-Sent Events (SSE), gRPC streams, and emerging technologies. We'll discuss implementation patterns, performance considerations, and how to choose the right tool for the job.
 
 ## WebSockets
