@@ -4,7 +4,7 @@ date: 2024-06-08T00:37:30+03:30
 layout: single
 author_profile: true
 url: 2024/06/08/real-time-data-in-frontend-applications/
-shortlink: https://g.omid.dev/CbHGRie
+shortlink: https://g.omid.dev/gcSlsEE
 tags:
   - Frontend Development
   - WebSockets
