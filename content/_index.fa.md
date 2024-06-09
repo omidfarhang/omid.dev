@@ -5,7 +5,7 @@ shortlink: https://g.omid.dev/fa
 description: "امید فرهنگ، برنامه نویس فول استک با تخصص انگولار، نود، لینوکس و شبکه. ماهر در راه‌حل‌های وب با عملکرد بالا و رهبری تیم."
 lang: fa
 ---
-![That's me](/images/bio-photo.jpg)
+![That's me](/images/bio-photo-150x150.jpg)
 
 ## سلام, من امید فرهنگ هستم!
 
