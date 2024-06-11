@@ -9,17 +9,18 @@ tags:
   - Manjaro
   - KDE
   - Dropbox
+  - AUR
 lang: en
 categories: 
   - techblog
 ---
 ![dropbox-before-after](/images/2024/06/dropbox-before-after.jpg)
 
-If you're using Manjaro KDE and rely on Dropbox for file syncing, you might have encountered a frustrating issue where the Dropbox tray icon perpetually shows "connecting" while the app itself works and syncs files perfectly in the background. After spending considerable time experimenting with various solutions, I finally found a fix that resolves this issue.
+If you're using Manjaro KDE and rely on Dropbox [AUR](https://aur.archlinux.org/packages/dropbox) for file syncing, you might have encountered a frustrating issue where the Dropbox tray icon perpetually shows "connecting" while the app itself works and syncs files perfectly in the background. After spending considerable time experimenting with various solutions, I finally found a fix that resolves this issue.
 
 ## The Issue
 
-After installing the Dropbox AUR package on my Manjaro KDE system, everything seemed to work fine except for the tray icon. It kept displaying "connecting" indefinitely. This was annoying because it made it hard to quickly check the sync status of my files without opening the main application window.
+After installing the Dropbox [AUR](https://aur.archlinux.org/packages/dropbox) package on my Manjaro KDE system, everything seemed to work fine except for the tray icon. It kept displaying "connecting" indefinitely. This was annoying because it made it hard to quickly check the sync status of my files without opening the main application window.
 
 ## The Culprit: `dbus-broker`
 
