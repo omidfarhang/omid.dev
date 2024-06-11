@@ -6,13 +6,9 @@ author_profile: true
 url: 2024/06/12/dropbox-tray-icon-connecting/
 shortlink: https://g.omid.dev/gh0ZC7Z
 tags:
-  - Software Development
-  - Programming Best Practices
-  - Web Development
-  - Frameworks And Libraries
-  - Code Quality
-  - Security In Software
-  - Developer Resources
+  - Manjaro
+  - KDE
+  - Dropbox
 lang: en
 categories: 
   - techblog
