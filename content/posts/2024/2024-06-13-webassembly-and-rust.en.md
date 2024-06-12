@@ -6,10 +6,11 @@ author_profile: true
 url: 2024/06/13/building-high-performance-web-applications-leveraging-webassembly-and-rust/
 shortlink: https://g.omid.dev/cNls8Ve
 tags:
-  - Manjaro
-  - KDE
-  - Dropbox
-  - AUR
+  - high-performance web applications
+  - WebAssembly
+  - Rust
+  - WebAssembly integration
+  - Web Development
 lang: en
 categories: 
   - techblog
