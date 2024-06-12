@@ -1,5 +1,5 @@
 ---
-title: 'Why Good Developers Can't Find Jobs and How to Turn the Tide'
+title: "Why Good Developers Can't Find Jobs and How to Turn the Tide"
 date: 2024-06-13T01:45:03+03:30
 layout: single
 author_profile: true
