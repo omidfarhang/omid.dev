@@ -1,6 +1,6 @@
 ---
 title: "Why Good Developers Can't Find Jobs and How to Turn the Tide"
-date: 2024-06-13T01:45:03+03:30
+date: 2024-06-13T02:24:38+03:30
 layout: single
 author_profile: true
 url: 2024/06/13/why-good-developers-cant-find-jobs/
