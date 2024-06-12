@@ -1,6 +1,6 @@
 ---
 title: 'Solving the Dropbox Connecting Tray Icon Issue on Manjaro KDE'
-date: 2024-06-11T17:33:06+03:30
+date: 2024-06-12T00:33:06+03:30
 layout: single
 author_profile: true
 url: 2024/06/12/dropbox-tray-icon-connecting/
