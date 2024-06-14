@@ -290,6 +290,7 @@ For applications that use Context API, Recoil can manage complex state while Con
 
 ## Additional Resources
 
+- [Recoil official Documentation](https://recoiljs.org/docs/introduction/getting-started)
 - [Recoil GitHub Repository](https://github.com/facebookexperimental/Recoil)
 - [Recoil API Reference](https://recoiljs.org/docs/api-reference/core/atom)
 - [Introduction to Recoil by Kent C. Dodds](https://kentcdodds.com/blog/introducing-recoil)
@@ -297,9 +298,7 @@ For applications that use Context API, Recoil can manage complex state while Con
 
 ## Conclusion
 
-Recoil provides powerful state management capabilities
-
- for React applications, enabling you to handle complex state scenarios efficiently. Atom families allow you to manage dynamic collections of state, selectors let you derive and compute state, and asynchronous selectors integrate data fetching seamlessly. These advanced features of Recoil can significantly enhance the scalability and maintainability of your React applications.
+Recoil provides powerful state management capabilities for React applications, enabling you to handle complex state scenarios efficiently. Atom families allow you to manage dynamic collections of state, selectors let you derive and compute state, and asynchronous selectors integrate data fetching seamlessly. These advanced features of Recoil can significantly enhance the scalability and maintainability of your React applications.
 
 By incorporating these techniques, you can create more robust and performant applications, ensuring a smoother development experience and a better user experience. For more information, refer to the official Recoil documentation [here](https://recoiljs.org/docs/introduction/getting-started).
 
