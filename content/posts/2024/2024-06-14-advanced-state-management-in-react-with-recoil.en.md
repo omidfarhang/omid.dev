@@ -6,8 +6,9 @@ author_profile: true
 url: 2024/06/14/advanced-state-management-in-react-with-recoil/
 shortlink: https://g.omid.dev/WVqGT8S
 tags:
-  - TypeScript
   - React
+  - TypeScript
+  - Recoil
   - State Management
   - Atom Families
   - Selectors
