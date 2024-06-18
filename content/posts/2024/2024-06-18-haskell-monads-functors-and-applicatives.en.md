@@ -1,6 +1,6 @@
 ---
 title: 'Exploring Advanced Functional Programming Techniques in Haskell: Monads, Functors, and Applicatives'
-date: 2024-06-19T01:04:07+03:30
+date: 2024-06-18T01:01:06+03:30
 layout: single
 author_profile: true
 url: 2024/06/18/haskell-monads-functors-and-applicatives/
