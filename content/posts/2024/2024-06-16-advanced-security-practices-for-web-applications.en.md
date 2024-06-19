@@ -148,11 +148,7 @@ Here’s an example of an SRI-integrity attribute in a script tag:
 - **Third-Party Libraries**: For websites that rely on third-party libraries, SRI helps ensure that these resources are not tampered with.
 - **Critical Web Applications**: Applications that require high levels of security can benefit from the added integrity checks provided by SRI.
 
-## Conclusion
-
-Implementing CSP, HSTS, and SRI can significantly enhance the security of your web applications. These advanced security practices help mitigate risks associated with XSS, data injection, man-in-the-middle attacks, and CDN compromises. By adopting these practices, you ensure a safer and more secure browsing experience for your users.
-
-### Further Reading
+## Further Reading
 
 - [Content Security Policy (CSP) - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 - [HTTP Strict Transport Security (HSTS) - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
@@ -164,6 +160,8 @@ Implementing CSP, HSTS, and SRI can significantly enhance the security of your w
 - [HSTS Preload List Submission](https://hstspreload.org/)
 - [SRI Hash Generator](https://www.srihash.org/)
 
-### Summary
+## Conclusion
+
+Implementing CSP, HSTS, and SRI can significantly enhance the security of your web applications. These advanced security practices help mitigate risks associated with XSS, data injection, man-in-the-middle attacks, and CDN compromises. By adopting these practices, you ensure a safer and more secure browsing experience for your users.
 
 By integrating these advanced security practices into your web development workflow, you can protect your applications against a wide range of attacks and ensure a secure experience for your users. Regularly updating and refining your security policies, staying informed about new threats, and leveraging available tools are essential steps in maintaining robust web application security.

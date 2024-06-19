@@ -161,17 +161,15 @@ instance FromJSON User where
 
 In this instance, `.:` is an applicative operator provided by `aeson` for extracting values from the JSON object. The `<$>` operator is the infix version of `fmap`, and `<*>` is the applicative operator. This concise and readable code handles the JSON parsing gracefully, leveraging Haskell's applicatives and functors.
 
-## Conclusion
-
-Functors, applicatives, and monads are essential tools for advanced functional programming in Haskell. They provide elegant solutions to common problems, allowing us to write code that is both expressive and maintainable. By mastering these concepts, you can unlock the full potential of Haskell and functional programming, crafting solutions that are both powerful and beautiful.
-
-Haskell's combination of pure functions, strong static typing, and rich type system makes it a robust choice for developing reliable and maintainable software. Whether you're parsing JSON, handling side effects, or managing state, the advanced functional programming techniques we've explored will enable you to write cleaner and more modular code.
-
-### Further Reading and Resources
+## Further Reading
 
 1. [Haskell.org](https://www.haskell.org/) - The official website for Haskell, including tutorials, documentation, and downloads.
 2. [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - A beginner-friendly guide to learning Haskell.
 3. [Real World Haskell](http://book.realworldhaskell.org/) - A book that covers practical Haskell programming.
 4. [All About Monads](https://wiki.haskell.org/All_About_Monads) - A tutorial on monads and monad transformers and a walk-through of common monad instances..
 
-Happy Haskell coding!
+## Conclusion
+
+Functors, applicatives, and monads are essential tools for advanced functional programming in Haskell. They provide elegant solutions to common problems, allowing us to write code that is both expressive and maintainable. By mastering these concepts, you can unlock the full potential of Haskell and functional programming, crafting solutions that are both powerful and beautiful.
+
+Haskell's combination of pure functions, strong static typing, and rich type system makes it a robust choice for developing reliable and maintainable software. Whether you're parsing JSON, handling side effects, or managing state, the advanced functional programming techniques we've explored will enable you to write cleaner and more modular code.

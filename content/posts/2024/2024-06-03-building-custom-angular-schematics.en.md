@@ -149,4 +149,4 @@ This command generates a new component named `test` using your custom schematic.
 
 Creating custom Angular schematics can significantly enhance your development workflow by automating repetitive tasks and enforcing code standards. By following this guide, you've learned how to set up a schematic project, define schematic logic, create templates, and configure and test your schematic. With these tools, you can ensure consistency and quality in your Angular projects, allowing you to focus on building features and delivering value to your users.
 
-By leveraging custom Angular schematics, you can take your development efficiency to the next level. Happy coding!
+By leveraging custom Angular schematics, you can take your development efficiency to the next level.

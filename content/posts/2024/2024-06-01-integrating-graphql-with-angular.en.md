@@ -278,8 +278,6 @@ ngOnInit() {
 
 Integrating GraphQL with Angular using Apollo Client brings numerous benefits, including efficient data fetching, flexibility, and support for real-time updates. By following this guide, you can set up a robust and responsive Angular application that leverages the power of GraphQL.
 
-Happy coding!
-
 ---
 
 Feel free to leave any questions or comments below. If you enjoyed this guide, share it with your friends and colleagues!

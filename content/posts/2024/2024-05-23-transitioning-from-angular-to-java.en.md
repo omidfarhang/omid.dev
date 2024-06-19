@@ -67,4 +67,4 @@ Here’s a step-by-step guide to help you kickstart your Java learning journey:
 
 Learning Java will be a new and enriching experience that builds on your existing knowledge of Angular development. While the syntax and environment will differ, the programming fundamentals remain consistent. Start with the basics, practice regularly, and gradually move to more advanced topics and frameworks. Your background in Angular will certainly give you a head start in understanding Java’s structure and concepts.
 
-By following this guide, you’ll be well on your way to becoming proficient in Java, opening up new opportunities in your development career. Happy coding!
+By following this guide, you’ll be well on your way to becoming proficient in Java, opening up new opportunities in your development career.

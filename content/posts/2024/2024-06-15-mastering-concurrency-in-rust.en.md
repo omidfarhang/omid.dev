@@ -258,14 +258,12 @@ async fn main() {
 
 In this example, we create a simple HTTP server that responds with "Hello, World!" to every request. The `make_service_fn` and `service_fn` functions are used to create a service handler for each incoming connection. This setup leverages Tokio's concurrency features to handle multiple connections efficiently.
 
-## Conclusion
-
-Mastering concurrency in Rust requires a deep understanding of async/await and the Tokio runtime. By using advanced patterns like structured concurrency, asynchronous channels, concurrent I/O operations, and async streams, you can build high-performance, scalable applications that take full advantage of Rust's unique strengths. Whether you're building web servers, real-time data processing systems, distributed systems, game servers, or IoT applications, Rust and Tokio provide the tools and patterns you need to succeed.
-
-For further reading and more advanced topics, check out the following resources:
+## Further Reading
 
 - [Tokio Documentation](https://docs.rs/tokio/latest/tokio/)
 - [Hyper Documentation](https://docs.rs/hyper/latest/hyper/)
 - [Rust Async Book](https://rust-lang.github.io/async-book/)
 
-With the right knowledge and tools, you can unlock the full potential of concurrency in Rust and build applications that are both powerful and efficient. Happy coding!
+## Conclusion
+
+Mastering concurrency in Rust requires a deep understanding of async/await and the Tokio runtime. By using advanced patterns like structured concurrency, asynchronous channels, concurrent I/O operations, and async streams, you can build high-performance, scalable applications that take full advantage of Rust's unique strengths. Whether you're building web servers, real-time data processing systems, distributed systems, game servers, or IoT applications, Rust and Tokio provide the tools and patterns you need to succeed.

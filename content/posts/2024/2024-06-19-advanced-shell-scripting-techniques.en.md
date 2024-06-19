@@ -282,14 +282,12 @@ EOF
 configure_network "eth0" "192.168.1.100" "192.168.1.1"
 ```
 
-## Conclusion
-
-Advanced Bash scripting techniques can significantly enhance your ability to automate and manage complex tasks. By optimizing your scripts, implementing robust error handling, and automating routine system administration tasks, you can save time and reduce the risk of errors. Embrace these techniques to become a more effective and efficient system administrator.
-
-For further reading and in-depth learning, consider exploring these resources:
+## Further Reading
 
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 - [Linux Command Line and Shell Scripting Bible](https://www.amazon.com/Linux-Command-Scripting-Bible-Third/dp/111898384X/)
 
-Happy scripting!
+## Conclusion
+
+Advanced Bash scripting techniques can significantly enhance your ability to automate and manage complex tasks. By optimizing your scripts, implementing robust error handling, and automating routine system administration tasks, you can save time and reduce the risk of errors. Embrace these techniques to become a more effective and efficient system administrator.

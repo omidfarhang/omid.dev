@@ -311,10 +311,6 @@ export class AppComponent {
 
 In this example, `DynamicService` dynamically loads a module at runtime.
 
-## Conclusion
-
-Advanced dependency injection techniques in Angular, such as tree-shakable providers and injection tokens, provide powerful tools for creating flexible and maintainable applications. By leveraging these techniques, you can optimize your Angular applications for better performance and maintainability.
-
 ## Additional Resources
 
 - [Angular Dependency Injection](https://angular.io/guide/dependency-injection)
@@ -322,4 +318,6 @@ Advanced dependency injection techniques in Angular, such as tree-shakable provi
 - [Injection Tokens](https://angular.io/guide/dependency-injection-in-action#using-injectiontoken-objects)
 - [Lazy Loading Feature Modules](https://angular.io/guide/lazy-loading-ngmodules)
 
-By mastering these advanced techniques, you can take full advantage of Angular’s DI system, creating applications that are efficient, scalable, and easy to maintain. Happy coding!
+## Conclusion
+
+Advanced dependency injection techniques in Angular, such as tree-shakable providers and injection tokens, provide powerful tools for creating flexible and maintainable applications. By leveraging these techniques, you can optimize your Angular applications for better performance and maintainability.

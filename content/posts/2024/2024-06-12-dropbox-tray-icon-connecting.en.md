@@ -73,8 +73,6 @@ After your system restarts, check the Dropbox tray icon. It should now display t
 
 Switching from `dbus-broker` to `dbus-daemon` resolved the Dropbox tray icon issue on my Manjaro KDE system. It's a simple yet effective fix that ensures the tray icon correctly reflects the sync status of Dropbox. If you encounter the same issue, give this solution a try, and you should be back to enjoying a seamless Dropbox experience on Manjaro KDE.
 
-Happy syncing!
-
 ---
 
 Feel free to leave a comment if you have any questions or if this solution worked for you. Your feedback helps the community and me to keep improving our shared knowledge.

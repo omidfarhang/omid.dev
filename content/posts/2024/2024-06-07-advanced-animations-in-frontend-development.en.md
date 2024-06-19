@@ -198,4 +198,4 @@ Tools like GSAP, Anime.js, and Lottie (for complex animations exported from Afte
 
 ## Conclusion
 
-Advanced animations in frontend development can significantly enhance the user experience when done correctly. By combining CSS, SVG, and JavaScript, you can create engaging, performant, and accessible animations. Remember to optimize for performance, keep user preferences in mind, and use the right tools for the job. Happy animating!
+Advanced animations in frontend development can significantly enhance the user experience when done correctly. By combining CSS, SVG, and JavaScript, you can create engaging, performant, and accessible animations. Remember to optimize for performance, keep user preferences in mind, and use the right tools for the job.

@@ -134,4 +134,4 @@ Security is a critical aspect of web development, and Angular provides a compreh
 
 For more information and in-depth guides on Angular security, make sure to check the [official Angular documentation](https://angular.dev/best-practices/security).
 
-By focusing on these advanced security topics, you can ensure that your Angular applications are not only functional and user-friendly but also robust against potential security threats. Happy coding!
+By focusing on these advanced security topics, you can ensure that your Angular applications are not only functional and user-friendly but also robust against potential security threats.
