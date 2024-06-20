@@ -189,9 +189,7 @@ Examples:
 
 ### Step 8: Make an Informed Decision
 
-Based on your research and analysis, create a shortlist of potential tech stacks. Discuss the pros
-
- and cons with your team and stakeholders. Make an informed decision that balances innovation, practicality, and long-term sustainability.
+Based on your research and analysis, create a shortlist of potential tech stacks. Discuss the pros and cons with your team and stakeholders. Make an informed decision that balances innovation, practicality, and long-term sustainability.
 
 Examples:
 
