@@ -132,10 +132,10 @@ State management in Svelte is built into the framework, reducing the need for ex
 
 An indicator of a framework's popularity and community support is the number of stars it has on GitHub:
 
-- **React**: 210k stars
-- **Vue**: 220k stars
-- **Angular**: 88k stars
-- **Svelte**: 75k stars
+- **React**: 224k stars
+- **Vue**: 207k stars
+- **Angular**: 95k stars
+- **Svelte**: 77k stars
 
 ### Comparison Chart
 
