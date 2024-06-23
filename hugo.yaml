@@ -60,6 +60,7 @@ languages:
     languageName: ':us:'
     languageCode: en-US
     weight: 1
+    languagedirection: ltr
     params:
       author: Omid Farhang
       description: "Omid Farhang, Fullstack Web Developer with expertise in Angular, Node.js, Linux, and networking. Skilled in high-performance web solutions and team leadership. Let's connect!"
