@@ -359,7 +359,7 @@ Debugging code running in Web Workers can be challenging. Use `console.log` stat
 
 - [MDN Web Docs: Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 - [MDN Web Docs: OffscreenCanvas](https://developer.mozilla.org/en-US/docs/Web/API/OffscreenCanvas)
-- [Angular Documentation: Web Workers](https://angular.io/guide/web-worker)
+- [Angular Documentation: Web Workers](https://angular.dev/ecosystem/web-workers)
 
 ## Conclusion
 

@@ -300,7 +300,7 @@ firebase deploy
 
 ## References
 
-- [Angular Documentation](https://angular.io/docs)
+- [Angular Documentation](https://angular.dev)
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 - [simple-peer GitHub](https://github.com/feross/simple-peer)
