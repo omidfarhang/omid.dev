@@ -8,9 +8,12 @@ shortlink: https://g.omid.dev/45nNhBh
 tags:
   - Angular
   - Frontend Development
-  - Firebase
-  - WebRTC
-  - Real-Time App
+  - Ethereum
+  - DApp
+  - Decentralized Application
+  - Web3
+  - Solidity
+  - Truffle
 lang: en
 categories: 
   - techblog
