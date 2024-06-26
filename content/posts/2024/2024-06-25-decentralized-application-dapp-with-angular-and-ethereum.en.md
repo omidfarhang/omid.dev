@@ -250,7 +250,8 @@ Smart contracts are self-executing contracts with the terms of the agreement dir
 - [Ethereum Documentation](https://ethereum.org/en/developers/docs/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
 - [Web3.js Documentation](https://web3js.readthedocs.io/en/v1.10.0/)
-- [Truffle Suite](https://www.trufflesuite.com/docs/truffle/overview)
+- [Truffle Suite](https://archive.trufflesuite.com/docs/truffle/)
+- [Next steps for developers using Truffle and Ganache](https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat)
 - [Angular Documentation](https://angular.dev)
 
 ## Conclusion
