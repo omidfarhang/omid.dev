@@ -148,7 +148,7 @@ There are several tools and resources that can help developers improve their com
 
 ## Further Reading
 
-To further enhance your understanding of effective communication for developers and bridge the gap between technical and non-technical teams, here are some valuable resources*:
+To further enhance your understanding of effective communication for developers and bridge the gap between technical and non-technical teams, here are some valuable resources:
 
 1. **Crucial Conversations: Tools for Talking When Stakes Are High**
    - [Amazon](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
