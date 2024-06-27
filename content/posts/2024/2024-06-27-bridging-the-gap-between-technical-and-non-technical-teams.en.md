@@ -187,7 +187,3 @@ Investing in communication tools and resources, seeking feedback, and practicing
 ---
 
 Feel free to reach out if you have any questions or need further assistance in improving your communication skills.
-
----
-
-*Disclaimer: The links provided are referral links, and I may earn a commission if you make a purchase through them. Thank you for your support!*
