@@ -125,9 +125,7 @@ To illustrate the importance of effective communication and the strategies discu
 - **Active Listening**: They actively listened to the client’s concerns and provided detailed explanations and documentation to address each concern. They involved the compliance team in regular meetings to gather feedback and ensure alignment.
 - **Transparency**: They were transparent about potential risks and challenges, providing detailed risk assessments and mitigation plans.
 
-**Outcome**: The clear communication strategies helped build trust and confidence with the client’s regulatory team. The project was completed on time and met all
-
- regulatory requirements, resulting in a successful implementation and positive feedback from the client.
+**Outcome**: The clear communication strategies helped build trust and confidence with the client’s regulatory team. The project was completed on time and met all regulatory requirements, resulting in a successful implementation and positive feedback from the client.
 
 ## Tools and Resources for Effective Communication
 
