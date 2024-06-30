@@ -12,7 +12,7 @@ tags:
   - DevOps
   - Site Reliability Engineering
   - Software Robustness
-  - ReliabilityTesting
+  - Reliability Testing
 lang: en
 categories: 
   - techblog
