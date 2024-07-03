@@ -1,5 +1,5 @@
 ---
-title: "Breaking Free from Framework Constraints: A Frontend Team Leader's Guide"
+title: "Avoiding Framework Lock-in: A Frontend Team Leader's Guide"
 date: 2024-07-04T01:50:50+03:30
 layout: single
 author_profile: true
