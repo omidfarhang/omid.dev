@@ -38,7 +38,7 @@ Before diving deep, validate your idea by discussing it with potential customers
 
 **Referral Links:**
 
-- [How to Validate Your Startup Idea](https://www.entrepreneur.com/article/340536)
+- [How to Validate Your Startup Idea](https://www.entrepreneur.com/business-news/5-ways-to-validate-your-business-idea/228905)
 - [The Mom Test: How to Talk to Customers & Learn If Your Business is a Good Idea When Everyone is Lying to You](https://www.amazon.com/dp/B01H4G2J1U)
 - [Creating a Landing Page](https://unbounce.com/landing-page-articles/landing-page-best-practices/)
 
@@ -127,7 +127,7 @@ Seek partnerships with established companies that can provide funding, resources
 
 **Referral Links:**
 
-- [How to Create a Pitch Deck: A Guide for Startups](https://www.sequoiacap.com/article/writing-a-business-plan/)
+- [How to Create a Pitch Deck: A Guide for Startups](https://articles.sequoiacap.com/writing-a-business-plan)
 - [Kickstarter: Crowdfunding Platform](https://www.kickstarter.com/)
 - [Y Combinator](https://www.ycombinator.com/)
 - [Techstars](https://www.techstars.com/)
@@ -168,10 +168,10 @@ Stay ahead of the competition by continuously innovating and improving your prod
 
 **Referral Links:**
 
-- [The Ultimate Guide to Scaling Your Business](https://www.forbes.com/sites/theyec/2020/11/19/the-ultimate-guide-to-scaling-your-business/)
-- [Customer Retention Strategies: 46 Experts Reveal Their Top Tactics](https://www.forbes.com/sites/forbestechcouncil/2020/01/27/16-customer-retention-strategies-your-brand-can-use/)
-- [How to Build a Marketing Plan](https://blog.hubspot.com/marketing/how-to-create-a-marketing-plan)
-- [KPIs for Startups: The Ultimate Guide](https://www.geckoboard.com/blog/kpis-for-startups/)
+- [The Ultimate Guide to Scaling Your Business](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/06/four-rules-for-scaling-a-business/)
+- [Customer Retention Strategies: 46 Experts Reveal Their Top Tactics](https://www.linkedin.com/pulse/customer-retention-tactics-attitude-todd-overpeck/)
+- [How to Build a Marketing Plan](https://blog.hubspot.com/marketing/marketing-plan-examples)
+- [KPIs for Startups: The Ultimate Guide](https://startupsavant.com/guide-to-startup-kpis)
 
 ## Conclusion
 
