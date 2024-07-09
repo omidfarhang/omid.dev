@@ -161,9 +161,7 @@ To advance in your career, identify opportunities for growth within your company
 
 ### Building a Strong Professional Portfolio
 
-Building a strong professional
-
- portfolio and personal brand showcases your skills and accomplishments. Create a portfolio that highlights your best work, including projects, certifications, and any recognition you’ve received. Use platforms like GitHub, LinkedIn, and personal websites to display your achievements and attract potential employers or collaborators.
+Building a strong professional portfolio and personal brand showcases your skills and accomplishments. Create a portfolio that highlights your best work, including projects, certifications, and any recognition you’ve received. Use platforms like GitHub, LinkedIn, and personal websites to display your achievements and attract potential employers or collaborators.
 
 ### Pursuing Relevant Certifications and Advanced Education
 
