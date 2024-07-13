@@ -27,7 +27,7 @@ Before we dive into the technical details, it's essential to ensure that you hav
 2. **Understanding of HTML and CSS**: Basic knowledge of HTML and CSS for creating and styling the visual components.
 3. **Node.js and npm**: Make sure you have Node.js and npm installed on your machine.
 
-If you're new to Angular, consider reading through the official [Angular Getting Started Guide](https://angular.io/start) to get up to speed.
+If you're new to Angular, consider reading through the official [Angular Getting Started Guide](https://angular.dev/tutorials) to get up to speed.
 
 ## Setting Up the Angular Project
 
