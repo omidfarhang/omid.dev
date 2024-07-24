@@ -14,7 +14,7 @@ lang: en
 categories: 
   - techblog
 ---
-<span><span>“Dirty” or “Flirty”</span></span>
+“Dirty” or “Flirty”
 
 Ok.
 

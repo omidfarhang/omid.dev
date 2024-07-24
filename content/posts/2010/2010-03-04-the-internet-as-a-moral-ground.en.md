@@ -11,7 +11,7 @@ lang: en
 categories: 
   - techblog
 ---
-<span><i>“…in that space one can easily indulge in depravity, lies, vulgarity…”</i></span>
+“…in that space one can easily indulge in depravity, lies, vulgarity…”
 
 Here’s a sort of comment about the Internet that you don’t see much in the news.
 

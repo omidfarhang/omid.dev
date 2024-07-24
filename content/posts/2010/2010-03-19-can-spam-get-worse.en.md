@@ -12,7 +12,7 @@ lang: en
 categories: 
   - techblog
 ---
-**<span>Or is it at the saturation point?</span>**
+**Or is it at the saturation point?**
 
 The SANS Institute (acronym = SysAdmin, Audit, Network, Security) web site carried a blog piece that gives a good snapshot of the horrible ongoing plague of spam email that IT folks all over the globe must deal with. The writer, Deborah Hale, said the ISP in the Midwest where she works received almost 20 million pieces of email for more than 9,000 accounts since the beginning of March. Only 713,222 (3.6 percent) were NOT spam.
 

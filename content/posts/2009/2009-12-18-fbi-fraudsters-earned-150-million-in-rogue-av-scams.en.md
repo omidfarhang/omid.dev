@@ -13,7 +13,6 @@ lang: en
 categories: 
   - techblog
 ---
-<span></span>  
 For the first time, the FBI has issued a public warning about the threat of rogue anti-virus software, which the agency said has resulted in more than $150 million in losses to victims.
 
 In an intelligence [note](http://www.ic3.gov/media/2009/091211.aspx) posted Friday on the website of the Internet Crime Complaint Center, the FBI said users should be on the lookout for pop-up advertisements masking as legitimate-looking AV software, known as “rogueware” or “scareware.”
