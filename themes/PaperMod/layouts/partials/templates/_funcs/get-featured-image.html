@@ -2,7 +2,20 @@
 {{ $featured := $images.GetMatch "*feature*" }}
 {{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
 {{ if not $featured }}
-    {{ $featured = resources.Get "/opengraph/omiddev-card-base-2.jpg" }}
+
+    {{ range .Params.categories }}
+    {{ if eq . "techblog"  }}
+        {{ $featured = resources.Get "/opengraph/techblog.jpg" }}
+    {{ else if eq . "electronics" }}
+        {{ $featured = resources.Get "/opengraph/electronics.jpg" }}
+    {{ else if eq . "health" }}
+        {{ $featured = resources.Get "/opengraph/health.jpg" }}
+    {{ else }}
+        {{ $featured = resources.Get "/opengraph/default.jpg" }}
+    {{ end }}
+    {{ end }}
+
+
     {{ $size := 100 }}
     {{ $title := $.LinkTitle }}
     {{ if gt (len $title) 120 }}
@@ -24,3 +37,4 @@
 {{ end }}
 
 {{ return $featured }}
+
