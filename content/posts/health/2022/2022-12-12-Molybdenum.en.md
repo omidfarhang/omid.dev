@@ -11,7 +11,7 @@ tags:
   - minerals
   - Good Reads
 lang: en
-category: medical
+category: health
 ---
 ![molybdenum](/images/2022/12/molybdenum.jpg)
 

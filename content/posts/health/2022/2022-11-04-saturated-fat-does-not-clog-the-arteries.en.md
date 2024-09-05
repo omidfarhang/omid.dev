@@ -10,7 +10,7 @@ tags:
   - medical
   - Good Reads
 lang: en
-category: medical
+category: health
 ---
 I've been reading an [article](https://www.medicalnewstoday.com/articles/326269#dairy-saturated-fat-and-heart-health) from medicalnewstoday.com and I found this part interesting:
 
