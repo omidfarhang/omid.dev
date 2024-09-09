@@ -131,11 +131,11 @@ Postbiotics, due to their **anti-inflammatory** and antimicrobial properties, ca
 
 ### Allergy Relief
 
-**Lactobacillus rhamnosus** and **Bifidobacterium longum** have been shown to modulate the immune response and reduce the severity of allergic reactions, particularly in conditions like eczema and hay fever. Prebiotics, by supporting gut health, also play a role in reducing allergic inflammation.
+**Lactobacillus rhamnosus** and **Bifidobacterium longum** have been shown to modulate the immune response and reduce the severity of allergic reactions, particularly in conditions like eczema and hay fever. Prebiotics, by supporting gut health, also play a role in reducing allergic inflammation. [Read More](/2024/09/10/how-probiotics-help-with-allergies/)
 
 ### Candidiasis
 
-Probiotics such as **Lactobacillus acidophilus**, **Lactobacillus reuteri**, and **Saccharomyces boulardii** are effective in preventing and treating **Candida infections** by inhibiting the growth of harmful yeast and restoring balance to the gut and vaginal microbiomes.
+Probiotics such as **Lactobacillus acidophilus**, **Lactobacillus reuteri**, and **Saccharomyces boulardii** are effective in preventing and treating **Candida infections** by inhibiting the growth of harmful yeast and restoring balance to the gut and vaginal microbiomes. [Read More](/2024/09/10/how-probiotics-help-with-candidiasis/)
 
 ### Lactose Intolerance
 
