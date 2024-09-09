@@ -4,7 +4,7 @@ date: 2024-09-10T02:57:14+03:30
 layout: single
 author_profile: true
 url: 2024/09/10/how-probiotics-help-with-allergies/
-shortlink: https://g.omid.dev/AXOTDAQ
+shortlink: https://g.omid.dev/ZyCBTte
 tags:
   - Prebiotics
   - Probiotics
