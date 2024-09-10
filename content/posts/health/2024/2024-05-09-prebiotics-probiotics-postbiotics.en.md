@@ -127,6 +127,10 @@ Postbiotics, due to their **anti-inflammatory** and antimicrobial properties, ca
 - **Postbiotics** are naturally produced in the gut when probiotics ferment prebiotics. While there aren’t many direct food sources of postbiotics, consuming a diet rich in prebiotics and probiotics ensures the production of beneficial postbiotics like SCFAs.
 - **Supplements**: Some companies offer postbiotic supplements containing SCFAs or bioactive compounds derived from fermented foods.
 
+## Probiotics Through the Ages
+
+Read [Probiotics Through the Ages: How Probiotics Benefit Health at Every Life Stage](/2024/09/10/probiotics-through-the-ages/)
+
 ## Example Of How They Help with Common Problems
 
 ### Allergy Relief
