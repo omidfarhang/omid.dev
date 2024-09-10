@@ -23,8 +23,6 @@ In recent years, the terms *prebiotics*, *probiotics*, and *postbiotics* have ga
 
 **Postbiotics** are the metabolic byproducts produced when probiotics consume prebiotics. These include substances like short-chain fatty acids (SCFAs), enzymes, and peptides that have a positive impact on health. Postbiotics help regulate immune responses, reduce inflammation, and support gut barrier function.
 
----
-
 ## Common Categories of Prebiotics, Probiotics, and Postbiotics
 
 ### Prebiotic Categories
