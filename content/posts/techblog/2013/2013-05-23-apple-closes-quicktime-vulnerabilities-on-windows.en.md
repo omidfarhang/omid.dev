@@ -4,7 +4,7 @@ date: 2013-05-23T20:01:51+00:00
 layout: single
 author_profile: true
 url: 2013/05/23/apple-closes-quicktime-vulnerabilities-on-windows/
-image: /images/sites/3/2013/05/apple.jpg
+image: /images/2013/05/apple.jpg
 tags:
   - Apple
   - security

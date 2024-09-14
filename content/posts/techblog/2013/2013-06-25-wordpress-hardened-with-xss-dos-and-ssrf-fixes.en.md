@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2013/06/25/wordpress-hardened-with-xss-dos-and-ssrf-fixes/
 shortlink: https://g.omid.dev/15DocrF
-image: /images/sites/3/2013/06/WordPress_grey_120.png
+image: /images/2013/06/WordPress_grey_120.png
 tags:
   - News
   - security

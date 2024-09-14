@@ -4,7 +4,7 @@ date: 2013-04-25T19:39:43+00:00
 layout: single
 author_profile: true
 url: 2013/04/25/ubuntu-13-04-raring-ringtail-is-out-whats-new/
-image: /images/sites/3/2013/04/ubuntu_rr.jpg
+image: /images/2013/04/ubuntu_rr.jpg
 tags:
   - Announcement
   - ubuntu

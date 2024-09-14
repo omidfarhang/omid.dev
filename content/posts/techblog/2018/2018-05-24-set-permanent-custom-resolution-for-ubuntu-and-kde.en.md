@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2018/05/24/set-permanent-custom-resolution-for-ubuntu-and-kde/
 shortlink: https://g.omid.dev/2KRbLVf
-image: /images/sites/3/2018/05/klogo-official-lineart_detailed-3000x3000.png
+image: /images/2018/05/klogo-official-lineart_detailed-3000x3000.png
 tags:
   - CLI
   - How to

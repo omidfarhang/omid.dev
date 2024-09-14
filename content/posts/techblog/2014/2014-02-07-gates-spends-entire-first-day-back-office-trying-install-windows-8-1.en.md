@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2014/02/07/gates-spends-entire-first-day-back-office-trying-install-windows-8-1/
 shortlink: https://g.omid.dev/1T3mjSN
-image: /images/sites/3/2014/02/gates.jpg
+image: /images/2014/02/gates.jpg
 tags:
   - Microsoft
   - bill gates

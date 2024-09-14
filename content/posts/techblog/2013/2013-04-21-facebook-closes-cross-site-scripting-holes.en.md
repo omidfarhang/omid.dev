@@ -4,7 +4,7 @@ date: 2013-04-21T14:25:44+00:00
 layout: single
 author_profile: true
 url: 2013/04/21/facebook-closes-cross-site-scripting-holes/
-image: /images/sites/3/2013/04/facebook-xss-1.png
+image: /images/2013/04/facebook-xss-1.png
 tags:
   - Facebook
   - XSS

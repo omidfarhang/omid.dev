@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2013/06/26/firefox-22-enables-webrtc-makes-social-apis-easier-to-manage/
 shortlink: https://g.omid.dev/1SaCTit
-image: /images/sites/3/2013/06/logo-only.png
+image: /images/2013/06/logo-only.png
 tags:
   - Facebook
   - News

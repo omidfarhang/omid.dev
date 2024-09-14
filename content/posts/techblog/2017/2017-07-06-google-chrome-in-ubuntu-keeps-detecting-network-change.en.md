@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2017/07/06/google-chrome-ubuntu-keeps-detecting-network-change/
 shortlink: https://g.omid.dev/2tNmE5z
-image: /images/sites/3/2017/07/2015-05-25_1051099-1.jpg
+image: /images/2017/07/2015-05-25_1051099-1.jpg
 tags:
   - chrome
   - Google

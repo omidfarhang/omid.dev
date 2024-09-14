@@ -4,7 +4,7 @@ date: 2013-05-22T20:15:15+00:00
 layout: single
 author_profile: true
 url: 2013/05/22/chrome-27-comes-with-better-load-speeds-and-security-fixes/
-image: /images/sites/3/2013/05/new-chrome-logo.png
+image: /images/2013/05/new-chrome-logo.png
 tags:
   - Google
 lang: en

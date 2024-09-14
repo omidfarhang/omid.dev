@@ -4,7 +4,7 @@ date: 2013-03-23T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/23/apple-adds-two-step-verification-option-for-apple-ids/
-image: /images/sites/3/2013/03/apple-two-step8.png
+image: /images/2013/03/apple-two-step8.png
 tags:
   - Announcement
   - Apple
@@ -15,7 +15,7 @@ categories:
 ---
 **A new security option gives Apple's customers a way to secure their Apple ID password using their phone.**
 
-[<img class="alignnone size-full wp-image-6496" alt="apple-two-step[8]" src="/images/2013/03/apple-two-step8.png" width="496" height="402" srcset="/images/sites/3/2013/03/apple-two-step8.png 496w, /images/sites/3/2013/03/apple-two-step8-300x243.png 300w" sizes="(max-width: 496px) 100vw, 496px" />](/images/2013/03/apple-two-step8.png)
+[<img class="alignnone size-full wp-image-6496" alt="apple-two-step[8]" src="/images/2013/03/apple-two-step8.png" width="496" height="402" srcset="/images/2013/03/apple-two-step8.png 496w, /images/2013/03/apple-two-step8-300x243.png 300w" sizes="(max-width: 496px) 100vw, 496px" />](/images/2013/03/apple-two-step8.png)
 
 Cross-posted from Cnet:
 

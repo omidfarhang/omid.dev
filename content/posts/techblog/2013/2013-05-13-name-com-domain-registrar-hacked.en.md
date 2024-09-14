@@ -4,7 +4,7 @@ date: 2013-05-13T18:40:16+00:00
 layout: single
 author_profile: true
 url: 2013/05/13/name-com-domain-registrar-hacked/
-image: /images/sites/3/2013/05/Name.com_.png
+image: /images/2013/05/Name.com_.png
 tags:
   - News
 lang: en

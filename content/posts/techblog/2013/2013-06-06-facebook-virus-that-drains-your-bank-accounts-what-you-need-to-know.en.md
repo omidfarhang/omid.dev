@@ -4,7 +4,7 @@ date: 2013-06-06T08:43:10+00:00
 layout: single
 author_profile: true
 url: 2013/06/06/facebook-virus-that-drains-your-bank-accounts-what-you-need-to-know/
-image: /images/sites/3/2013/06/FB.png
+image: /images/2013/06/FB.png
 tags:
   - alert
   - Facebook

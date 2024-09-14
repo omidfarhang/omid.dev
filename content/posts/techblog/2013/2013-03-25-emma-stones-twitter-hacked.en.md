@@ -4,7 +4,7 @@ date: 2013-03-25T10:24:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/25/emma-stones-twitter-hacked/
-image: /images/sites/3/2013/03/aafndjka26.jpg
+image: /images/2013/03/aafndjka26.jpg
 tags:
   - celeb
   - Emma Stone

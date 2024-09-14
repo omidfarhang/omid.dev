@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2014/08/22/new-facebook-scams-2014/
 shortlink: https://g.omid.dev/1WRItp7
-image: /images/sites/3/2014/08/New-Facebook-scams-in-2014.jpg
+image: /images/2014/08/New-Facebook-scams-in-2014.jpg
 tags:
   - "2014"
   - Facebook

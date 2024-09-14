@@ -4,7 +4,7 @@ date: 2013-03-26T19:59:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/26/irs-uncorks-dirty-dozen-tax-scams-for-2013/
-image: /images/sites/3/2013/03/tax6.jpg
+image: /images/2013/03/tax6.jpg
 tags:
   - IRS
   - Scams
@@ -13,7 +13,7 @@ lang: en
 categories: 
   - techblog
 ---
-[<img class="alignright size-medium wp-image-6489" alt="tax[6]" src="/images/2013/03/tax6-300x300.jpg" width="300" height="300" srcset="/images/sites/3/2013/03/tax6-300x300.jpg 300w, /images/sites/3/2013/03/tax6-150x150.jpg 150w, /images/sites/3/2013/03/tax6.jpg 347w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/tax6.jpg)The Internal Revenue Service today reminded taxpayers that there are plenty of scam artists and cybercriminals that want your money.
+[<img class="alignright size-medium wp-image-6489" alt="tax[6]" src="/images/2013/03/tax6-300x300.jpg" width="300" height="300" srcset="/images/2013/03/tax6-300x300.jpg 300w, /images/2013/03/tax6-150x150.jpg 150w, /images/2013/03/tax6.jpg 347w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/tax6.jpg)The Internal Revenue Service today reminded taxpayers that there are plenty of scam artists and cybercriminals that want your money.
 
 The tax collection agency issued its “Dirty Dozen” list of tax scams that it says peak at this time of year and include:
 

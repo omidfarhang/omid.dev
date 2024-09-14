@@ -4,7 +4,7 @@ date: 2013-04-23T20:23:35+00:00
 layout: single
 author_profile: true
 url: 2013/04/23/new-java-security-hole-affects-desktops-and-servers/
-image: /images/sites/3/2013/04/Java.jpg
+image: /images/2013/04/Java.jpg
 tags:
   - Java
   - Oracle

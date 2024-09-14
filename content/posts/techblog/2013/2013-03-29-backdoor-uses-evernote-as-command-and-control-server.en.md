@@ -4,7 +4,7 @@ date: 2013-03-29T00:53:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/29/backdoor-uses-evernote-as-command-and-control-server/
-image: /images/sites/3/2013/03/evernote.jpg
+image: /images/2013/03/evernote.jpg
 tags:
   - analyze
   - Evernote

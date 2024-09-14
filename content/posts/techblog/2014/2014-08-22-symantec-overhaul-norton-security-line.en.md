@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2014/08/22/symantec-overhaul-norton-security-line/
 shortlink: https://g.omid.dev/212RNaQ
-image: /images/sites/3/2013/05/Symantec_120.png
+image: /images/2013/05/Symantec_120.png
 tags:
   - Symantec
 lang: en

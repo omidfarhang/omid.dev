@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2013/06/24/iphone-notifications-to-google-glass/
 shortlink: https://g.omid.dev/1XWUaw7
-image: /images/sites/3/2013/06/google-glass-macro.jpg
+image: /images/2013/06/google-glass-macro.jpg
 tags:
   - Apple
   - Google

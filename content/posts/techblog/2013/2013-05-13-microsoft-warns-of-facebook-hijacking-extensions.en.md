@@ -4,7 +4,7 @@ date: 2013-05-13T18:57:08+00:00
 layout: single
 author_profile: true
 url: 2013/05/13/microsoft-warns-of-facebook-hijacking-extensions/
-image: /images/sites/3/2013/05/Facebook.png
+image: /images/2013/05/Facebook.png
 tags:
   - Microsoft
 lang: en

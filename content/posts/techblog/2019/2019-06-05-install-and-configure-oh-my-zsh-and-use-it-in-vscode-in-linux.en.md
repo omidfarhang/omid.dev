@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/
 shortlink: https://g.omid.dev/31b2bWc
-image: /images/sites/3/2019/06/Screenshot_20190605_051605.png
+image: /images/2019/06/Screenshot_20190605_051605.png
 tags:
   - Kubuntu
   - oh my zsh
@@ -20,7 +20,7 @@ If you use the simple Bash Terminal in your OS, you may want to give Zsh a try t
 
 I use 'Oh my Zsh', Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
 
-![Screenshot of Oh My ZSH in Yakuake](/images/sites/3/2019/06/Screenshot_20190605_040118.png)
+![Screenshot of Oh My ZSH in Yakuake](/images/2019/06/Screenshot_20190605_040118.png)
 
 Installing it is easy, here we go:
 
@@ -113,7 +113,7 @@ ZSH_THEME="agnosterzak"
 
 ### Change the default terminal in VSCode
 
-![Screenshot of OhMyZSH in VSCode](/images/sites/3/2019/06/Screenshot_20190605_051605.png)
+![Screenshot of OhMyZSH in VSCode](/images/2019/06/Screenshot_20190605_051605.png)
 
 Ok so by now we have installed and configured Zsh and set it as default but still VSCode use the default Bash as the integrated terminal. So we want to change it to Zsh, but there are a problem, VSCode only support monospace fotns and cannot use the power-fonts we have installed. so we have to install some compatible fonts first:
 

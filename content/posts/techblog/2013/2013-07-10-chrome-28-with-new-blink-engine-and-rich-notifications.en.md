@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2013/07/10/chrome-28-with-new-blink-engine-and-rich-notifications/
 shortlink: https://g.omid.dev/1n614lh
-image: /images/sites/3/2013/05/new-chrome-logo.png
+image: /images/2013/05/new-chrome-logo.png
 tags:
   - Browser
   - Google

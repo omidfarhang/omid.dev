@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2014/02/10/nbcs-russian-hack-actually-happened-according-security-expert-set/
 shortlink: https://g.omid.dev/1n5QxX4
-image: /images/sites/3/2014/02/sochi-hack-2014.png
+image: /images/2014/02/sochi-hack-2014.png
 tags:
   - sochi
   - News
