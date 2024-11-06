@@ -11,6 +11,7 @@ tags:
   - Health
   - Home Environment
   - Science Is Fun
+  - Statics
 lang: en
 categories: 
   - blog
