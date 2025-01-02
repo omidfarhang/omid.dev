@@ -9,6 +9,11 @@
     one: "۱ دقیقه"
     other: "{{ .Count }} دقیقه"
 
+- id: words
+  translation:
+    one: "کلمه"
+    other: "{{ .Count }} کلمه"
+
 - id: toc
   translation: "فهرست مطالب"
 
@@ -26,3 +31,9 @@
 
 - id: code_copied
   translation: "کپی شد!"
+
+- id: share_my_post
+  translation: "پست من را به اشتراک بگذارید"
+
+- id: continue_reading
+  translation: "ادامه مطلب"

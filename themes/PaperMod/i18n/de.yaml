@@ -31,3 +31,9 @@
 
 - id: code_copied
   translation: "Kopiert!"
+
+- id: share_my_post
+  translation: "Meinen Beitrag teilen"
+
+- id: continue_reading
+  translation: "Weiterlesen"

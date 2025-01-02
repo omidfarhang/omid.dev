@@ -6,6 +6,21 @@
     padding: var(--gap);
 }
 
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    font-size: 14px !important;
+    font-weight: 400;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
 .page-header h1 {
     font-size: 40px;
 }

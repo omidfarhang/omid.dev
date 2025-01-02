@@ -1,7 +1,7 @@
 baseURL: 'https://omid.dev/'
 title: Omid Farhang
 theme: PaperMod
-copyright: '© 2024 Omid Farhang | All rights reserved.'
+copyright: '© 2025 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
 show_reading_time: true
@@ -20,10 +20,6 @@ menu:
       name: Contact me
       url: /contact-me
       weight: 5
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 6
 
 
 
@@ -82,9 +78,6 @@ languages:
         - name: Contact me
           url: /contact-me
           weight: 5
-        - name: Search
-          url: /search
-          weight: 6
   # Persian
   fa:
     title: امید فرهنگ
@@ -112,9 +105,6 @@ languages:
         - name: تماس با من
           url: /contact-me
           weight: 5
-        - name: جستجو
-          url: /search
-          weight: 6
 
 params:
   # profileMode:

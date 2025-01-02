@@ -70,6 +70,10 @@ body:not(.dark) #sun {
     border-bottom: 2px solid currentColor;
 }
 
+.flex-grow {
+    flex-grow: 1;
+}
+
 .lang-switch li,
 .lang-switch ul,
 .logo-switches {
@@ -90,4 +94,9 @@ body:not(.dark) #sun {
 
 .logo-switches {
     flex-wrap: inherit;
+}
+
+.search-button {
+    margin: auto 4px;
+    font-size: 26px;
 }

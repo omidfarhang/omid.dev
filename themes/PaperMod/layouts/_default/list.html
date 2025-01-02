@@ -67,6 +67,7 @@
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
+    <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
     <h2 class="entry-hint-parent">
       {{- .Title }}
       {{- if .Draft }}
@@ -78,18 +79,22 @@
       </span>
       {{- end }}
     </h2>
+  </a>
   </header>
-  {{- if (ne (.Param "hideSummary") true) }}
-  <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-  </div>
-  {{- end }}
   {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  {{- end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+    {{- i18n "continue_reading" }}
+    <span class="screen-reader-text">{{- .Title }}</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i>
+  </a>
 </article>
 {{- end }}
 

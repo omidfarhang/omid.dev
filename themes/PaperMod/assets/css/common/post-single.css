@@ -4,8 +4,11 @@
 }
 
 .post-title {
-    margin-bottom: 2px;
-    font-size: 40px;
+    font-size: 34px;
+  padding: 0 0 20px;
+  margin: 0 0 15px;
+  border-bottom: 1px solid var(--border);
+  letter-spacing: .6px;
 }
 
 .post-description {
@@ -15,10 +18,13 @@
 
 .post-meta,
 .breadcrumbs {
-    color: var(--secondary);
-    font-size: 14px;
+    color: var(--content);
     display: flex;
     flex-wrap: wrap;
+    font-size: 14.5px;
+    border-bottom: 1px solid var(--border);
+    padding: 0 0 20px;
+    margin: 0 0 15px;
 }
 
 .post-meta .i18n_list li {
@@ -45,28 +51,28 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 23px;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 32px;
+    font-size: 20px;
 }
 
 .post-content h3 {
-    font-size: 24px;
+    font-size: 18px;
 }
 
 .post-content h4 {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .post-content h5 {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .post-content h6 {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .post-content a,
@@ -210,6 +216,7 @@
 }
 
 .post-content blockquote {
+    font-style: italic;
     margin: 20px 0;
     padding: 0 14px;
     border-inline-start: 3px solid var(--primary);
@@ -310,7 +317,7 @@
 }
 
 .post-tags a,
-.share-buttons,
+.share-buttons-container,
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
@@ -331,12 +338,23 @@
     background: var(--border);
 }
 
+.share-buttons-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.share-buttons-label {
+    padding: 10px;
+}
+
 .share-buttons {
     padding: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: end;
     overflow-x: auto;
     gap: 10px;
+    font-size: 30px;
 }
 
 .share-buttons li,
