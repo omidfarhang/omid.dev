@@ -1,13 +1,53 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    {{- if not site.Params.footer.hideCopyright }}
-        {{- if site.Copyright }}
-        <span>{{ site.Copyright | markdownify }}</span>
-        {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <div class="footer-columns">
+        <div class="footer-column footer-hero">
+            <img src="{{ .Site.Params.footer.avatar }}" alt="Avatar">
+            <div class="bio">{{ .Site.Params.footer.bio }}</div>
+        </div>
+        <div class="footer-column footer-recent-posts">
+            <h3>{{ i18n "recent_posts" | default "Recent Posts" }}</h3>
+            <ul>
+                {{ range first 5 .Site.RegularPages }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="footer-column footer-contact">
+            <h3>{{ i18n "contact" | default "Contact" }}</h3>
+            <ul>
+                <li>Email: <a href="mailto:{{ .Site.Params.footer.contactEmail }}">{{ .Site.Params.footer.contactEmail }}</a></li>
+                <li>Phone: <a href="tel:{{ .Site.Params.footer.contactPhone }}">{{ .Site.Params.footer.contactPhone }}</a></li>
+            </ul>
+        </div>
+        <div class="footer-column footer-quick-links">
+            <h3>{{ i18n "quick_links" | default "Quick Links" }}</h3>
+            <ul>
+                {{ range .Site.Menus.quick_links }}
+                <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        {{- if not site.Params.footer.hideCopyright }}
+            {{- if site.Copyright }}
+            <span>{{ site.Copyright | markdownify }}</span>
+            {{- else }}
+            <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+            {{- end }}
         {{- end }}
-    {{- end }}
-
+        <div class="footer-social-links">
+            {{ range .Site.Params.footer.social }}
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                <i class="{{ .icon }}"></i>
+            </a>
+            {{ end }}
+        </div>
+    </div>
 </footer>
 {{- end }}
 

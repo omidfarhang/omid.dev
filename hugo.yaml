@@ -78,6 +78,16 @@ languages:
         - name: Contact me
           url: /contact-me
           weight: 5
+      quick_links:
+        - name: Posts
+          url: /posts
+          weight: 1
+        - name: Resume
+          url: https://g.omid.dev/resume
+          weight: 4
+        - name: Online Payments
+          url: https://g.omid.dev/pay
+          weight: 5
   # Persian
   fa:
     title: امید فرهنگ
@@ -105,8 +115,40 @@ languages:
         - name: تماس با من
           url: /contact-me
           weight: 5
+      quick_links:
+        - name: بلاگ
+          url: /posts
+          weight: 1
+        - name: رزومه
+          url: https://g.omid.dev/resume
+          weight: 4
+        - name: پرداخت آنلاین
+          url: https://g.omid.dev/pay
+          weight: 5
 
 params:
+  footer:
+    avatar: "/images/bio-photo-150x150.jpg"
+    bio: "Yet another Developer, mostly focused on web development and more specifically Angular, but also interested in Linux and networking. I'm a freelancer and I'm always looking for new challenges."
+    contactEmail: "hi@omid.dev"
+    contactPhone: "+989195038545"
+    social:
+      - icon: fa-brands fa-linkedin
+        url: 'https://linkedin.com/in/omidfarhang'
+      - icon: fa-brands fa-x-twitter
+        url: 'https://x.com/omidfarhangen'
+      - icon: fa-brands fa-bluesky
+        url: 'https://omidfarhang.bsky.social'
+      - icon: fa-brands fa-github
+        url: 'https://github.com/omidfarhang'
+      - icon: fa-brands fa-mastodon
+        url: 'https://mastodon.social/@omidfarhang'
+      - icon: fa-brands fa-instagram
+        url: 'https://instagram.com/omidfarhang'
+      - icon: fa-brands fa-facebook
+        url: 'https://facebook.com/omidfarhang'
+      - icon: fa-brands fa-telegram
+        url: 'https://t.me/omidfarhang'
   # profileMode:
   #     enabled: true
   #     subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"

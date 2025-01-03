@@ -30,6 +30,128 @@
     border-bottom: 1px solid var(--primary);
 }
 
+.footer-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.footer-column {
+    flex: 1;
+    padding: 0 10px;
+    min-width: 200px;
+}
+
+.footer-hero img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.footer-hero .bio {
+    margin-bottom: 10px;
+}
+
+.footer-social-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.footer-social-links a {
+    color: var(--secondary);
+    font-size: 24px;
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.footer-social-links a:hover {
+    border-bottom: none;
+}
+
+.footer-recent-posts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    text-align: initial;
+}
+
+.footer-recent-posts h3 {
+    margin-bottom: 10px;
+}
+
+.footer-recent-posts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-recent-posts li {
+    margin-bottom: 5px;
+}
+
+.footer-recent-posts a {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
+.footer-recent-posts a:hover {
+    color: var(--primary);
+}
+
+.footer-contact,
+.footer-quick-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    text-align: initial;
+}
+
+.footer-contact h3,
+.footer-quick-links h3 {
+    margin-bottom: 10px;
+}
+
+.footer-contact ul,
+.footer-quick-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-contact li,
+.footer-quick-links li {
+    margin-bottom: 5px;
+}
+
+.footer-contact a,
+.footer-quick-links a {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
+.footer-contact a:hover,
+.footer-quick-links a:hover {
+    color: var(--primary);
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
 .top-link {
     visibility: hidden;
     position: fixed;
@@ -57,4 +179,21 @@
 .top-link:focus,
 #theme-toggle:focus {
     outline: 0;
+}
+
+@media (max-width: 768px) {
+    .footer-columns {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-column {
+        padding: 10px 0;
+        width: 100%;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        align-items: center;
+    }
 }

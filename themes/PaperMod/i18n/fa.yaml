@@ -37,3 +37,12 @@
 
 - id: continue_reading
   translation: "ادامه مطلب"
+
+- id: recent_posts
+  translation: "پست های اخیر"
+
+- id: contact
+  translation: "تماس"
+
+- id: quick_links
+  translation: "لینک های سریع"

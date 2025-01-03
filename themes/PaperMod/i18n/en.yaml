@@ -37,3 +37,12 @@
 
 - id: continue_reading
   translation: "Continue Reading"
+
+- id: recent_posts
+  translation: "Recent Posts"
+
+- id: contact
+  translation: "Contact"
+
+- id: quick_links
+  translation: "Quick Links"
