@@ -24,7 +24,7 @@ h6 {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif, Vazirmatn;
+    font-family: Roboto, 'Open Sans', sans-serif, Vazirmatn;
     font-size: 16px;
     line-height: 1.6;
     word-break: break-word;
@@ -33,7 +33,7 @@ body {
 
 
 :lang(fa) 	{
-    font-family: 'Vazirmatn FD', 'Open Sans', sans-serif;
+    font-family: Vazirmatn, Roboto ,'Open Sans', sans-serif;
 }
 
 

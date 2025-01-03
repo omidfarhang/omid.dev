@@ -82,22 +82,19 @@ pre:hover .copy-code {
 
 ul.meta {
     display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  color: var(--content);
-  font-size: 14px;
-  line-height: 1.3;
-  margin: 0 0 20px;
-  padding: 0 0 10px;
-    padding-bottom: 10px;
-  list-style: none;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    color: var(--content);
+    font-size: 14px;
+    line-height: 1.3;
+    list-style: none;
 }
 
 ul.meta li {
     line-height: 1.5;
-  align-self: flex-end;
-  flex-wrap: nowrap;
-  padding-bottom: 5px;
+    align-self: flex-end;
+    flex-wrap: nowrap;
+    padding-bottom: 5px;
 }
 
 ul.meta li i {
