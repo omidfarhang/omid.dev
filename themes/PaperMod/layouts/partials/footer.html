@@ -131,3 +131,24 @@
     });
 </script>
 {{- end }}
+
+<script>
+    const copyContent = async (text) => {
+        try {
+            await navigator.clipboard.writeText(text);
+            showToast("Copied to clipboard!");
+        } catch (err) {
+            showToast('Failed to copy: ', err);
+        }
+    };
+
+    const showToast = (message) => {
+        const toast = document.createElement('div');
+        toast.textContent = message;
+        toast.className = 'toast-message';
+        document.body.appendChild(toast);
+        setTimeout(() => {
+            document.body.removeChild(toast);
+        }, 3000);
+    };
+</script>
