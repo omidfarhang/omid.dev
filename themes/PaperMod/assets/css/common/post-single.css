@@ -354,16 +354,42 @@
     justify-content: end;
     overflow-x: auto;
     gap: 10px;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 .share-buttons li,
 .share-buttons a {
     display: inline-flex;
+    color: var(--content);
+}
+
+.share-buttons li,
+.share-buttons a:hover {
+    color: var(--primary);
 }
 
 .share-buttons a:not(:last-of-type) {
     margin-inline-end: 12px;
+}
+
+.share-buttons a.linkedin:hover {
+    color: #0077b5;
+}
+.share-buttons a.reddit:hover {
+    color: #ff6314;
+}
+.share-buttons a.facebook:hover {
+    color: #3b5998;
+}
+.share-buttons a.whatsapp:hover {
+    color: #25d366;
+}
+.share-buttons a.telegram:hover {
+    color: #249cda;
+}
+
+.share-buttons a.y-combinator:hover {
+    color: #f4621d;
 }
 
 h1:hover .anchor,

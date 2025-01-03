@@ -17,9 +17,15 @@
 <div class="share-buttons-container">
     <h3 class="share-buttons-label">{{ i18n "share_my_post" }}</h3>
     <ul class="share-buttons">
+        <li>
+            <a class="shortlink" target="_blank" rel="noopener noreferrer" title="Copy Shortlink" aria-label="copy shortlink"
+                href="https://x.com/intent/tweet/?text={{ $title }}&amp;url={{ $shortpageurl }}&amp;hashtags={{- $.Scratch.Get "tags" -}}">
+                <i class="fa-solid fa-link"></i>
+            </a>
+        </li>
         {{- if (or (cond ($custom) (in $ShareButtons "x") (true)) (cond ($custom) (in $ShareButtons "twitter") (true))) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on x"
+            <a class="x-twitter" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on x"
                 href="https://x.com/intent/tweet/?text={{ $title }}&amp;url={{ $shortpageurl }}&amp;hashtags={{- $.Scratch.Get "tags" -}}">
                 <i class="fa-brands fa-x-twitter"></i>
             </a>
@@ -27,7 +33,7 @@
         {{- end }}
         {{- if (cond ($custom) (in $ShareButtons "linkedin") (true)) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on linkedin"
+            <a class="linkedin" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on linkedin"
                 href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl }}&amp;title={{ $title }}&amp;summary={{ $title }}&amp;source={{ $shortpageurl }}">
                 <i class="fa-brands fa-linkedin"></i>
             </a>
@@ -35,7 +41,7 @@
         {{- end }}
         {{- if (cond ($custom) (in $ShareButtons "reddit") (true)) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on reddit"
+            <a class="reddit" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on reddit"
                 href="https://reddit.com/submit?url={{ $shortpageurl }}&title={{ $title }}">
                 <i class="fa-brands fa-reddit"></i>
             </a>
@@ -43,7 +49,7 @@
         {{- end }}
         {{- if (cond ($custom) (in $ShareButtons "facebook") (true)) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on facebook"
+            <a class="facebook" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on facebook"
                 href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl }}">
                 <i class="fa-brands fa-facebook"></i>
             </a>
@@ -51,7 +57,7 @@
         {{- end }}
         {{- if (cond ($custom) (in $ShareButtons "whatsapp") (true)) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on whatsapp"
+            <a class="whatsapp" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on whatsapp"
                 href="https://api.whatsapp.com/send?text={{ $title }}%20-%20{{ $shortpageurl }}">
                 <i class="fa-brands fa-whatsapp"></i>
             </a>
@@ -59,7 +65,7 @@
         {{- end }}
         {{- if (cond ($custom) (in $ShareButtons "telegram") (true)) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on telegram"
+            <a class="telegram" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on telegram"
                 href="https://telegram.me/share/url?text={{ $title }}&amp;url={{ $shortpageurl }}">
                 <i class="fa-brands fa-telegram"></i>
             </a>
@@ -67,7 +73,7 @@
         {{- end }}
         {{- if (cond ($custom) (in $ShareButtons "ycombinator") (true)) }}
         <li>
-            <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on ycombinator"
+            <a class="y-combinator" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on ycombinator"
                 href="https://news.ycombinator.com/submitlink?t={{ $title }}&u={{ $pageurl }}">
                 <i class="fa-brands fa-y-combinator"></i>
             </a>
