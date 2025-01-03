@@ -21,6 +21,7 @@
     max-width: calc(var(--nav-width) + var(--gap) * 2);
     line-height: var(--header-height);
     gap: 10px;
+    order: 2;
 }
 
 .nav a {
@@ -35,7 +36,9 @@
 
 .logo {
     flex-shrink: 0;
+    flex-grow: 1;
     flex-wrap: inherit;
+    order: 1;
 }
 
 .logo a {
@@ -110,6 +113,8 @@ body:not(.dark) #sun {
 
 .logo-switches {
     flex-wrap: inherit;
+    line-height: var(--header-height);
+    order: 3;
 }
 
 .search-button {
@@ -120,6 +125,7 @@ body:not(.dark) #sun {
 .menu-toggle {
     display: none;
     cursor: pointer;
+    order: 4;
 }
 
 @media (max-width: 600px) {
