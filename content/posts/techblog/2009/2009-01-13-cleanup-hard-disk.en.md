@@ -14,7 +14,7 @@ tags:
   - Guide
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The Disk Cleanup tool helps you free up space on your hard disk to improve the performance of your computer. The tool identifies files that you can safely delete, and then enables you to choose whether you want to delete some or all of the identified files.  
 

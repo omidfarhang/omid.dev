@@ -15,7 +15,7 @@ tags:
   - Windows XP
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As announced last Friday, Microsoft released 16 security bulletins on the [October Patchday](http://www.microsoft.com/technet/security/bulletin/ms10-oct.mspx). They fix security vulnerabilities in various Windows operating systems and components like Internet Explorer, Windows Kernel, .Net frameworks, and Microsoft Office.
 

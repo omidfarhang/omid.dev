@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 If history is any gauge, this is probably the first of several incidents like this.
 

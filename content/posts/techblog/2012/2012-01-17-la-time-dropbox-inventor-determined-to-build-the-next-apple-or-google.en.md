@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Drew Houston's wildly popular service allows people to access the latest version of all their digital stuff on any device no matter where they are. Every day 325 million files are saved on Dropbox.
 

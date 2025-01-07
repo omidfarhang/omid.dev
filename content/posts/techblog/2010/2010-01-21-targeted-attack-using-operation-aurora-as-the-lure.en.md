@@ -10,7 +10,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Now here's an interesting turn of events.
 

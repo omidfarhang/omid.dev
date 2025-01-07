@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://www.theregister.co.uk/" target="_blank">theregister.co.uk</a> wrote: 
 

@@ -15,7 +15,7 @@ tags:
   - Safari
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://lh3.ggpht.com/_vaUVXcmC3OI/TM_qwNJHSLI/AAAAAAAAC_k/Ypje34V4vyg/Capture_thumb%5B3%5D.jpg?imgmax=800)](http://lh6.ggpht.com/_vaUVXcmC3OI/TM_quHPCKPI/AAAAAAAAC_g/T0OZxAkDHRA/s1600-h/Capture%5B7%5D.jpg)
 

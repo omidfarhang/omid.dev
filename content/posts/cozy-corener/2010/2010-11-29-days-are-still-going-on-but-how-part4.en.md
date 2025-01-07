@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 In continue from [Days are still going on, but how?–Part3](/2010/11/28/days-are-still-going-on-but-how-part3/ "Days are still going on, but how?–Part3")
 

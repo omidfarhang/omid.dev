@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Swiss security blog Abuse.ch has reported that the worst Zeus botnet hosting ISP was taken off line yesterday, cutting the botnet’s number of servers from 249 to 181 – including the six worse ones.
 

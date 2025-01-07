@@ -12,7 +12,7 @@ tags:
   - URL Shortening
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="goo.gl_-577x126" border="0" alt="goo.gl_-577x126" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TNKpU3-V2BI/AAAAAAAADB4/4oWtNr7oNU8/goo.gl_-577x126_thumb.jpg?imgmax=800" width="304" height="70" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNKpTTbYScI/AAAAAAAADB0/ItMjWrVX4Ns/s1600-h/goo.gl_-577x126%5B2%5D.jpg)
 

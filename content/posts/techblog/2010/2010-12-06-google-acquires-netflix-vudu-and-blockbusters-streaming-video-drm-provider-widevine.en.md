@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Google" border="0" alt="Google" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP0-S1qwMMI/AAAAAAAADWQ/XEELzbk7l3s/Google_thumb%5B1%5D.png?imgmax=800" width="250" height="91" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP0-QCFtmaI/AAAAAAAADWM/LPwg_UjbyLI/s1600-h/Google%5B3%5D.png)Google announced on Friday that it has entered into an agreement to acquire [Widevine](http://www.widevine.com/), a Seattle-based company that has focused on DRM and security for streaming internet media for the last decade.
 

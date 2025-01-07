@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In an excellent [blog,](http://blogs.apache.org/infra/entry/apache_org_04_09_2010) the people from Apache did a very good job analyzing and documenting how a security breach happened–going through all the stages of the attack and drawing conclusions. Should you ever become the unfortunate victim of an attack, this blog offers an example of how to document it! 
 

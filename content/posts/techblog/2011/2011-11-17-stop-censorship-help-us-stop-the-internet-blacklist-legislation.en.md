@@ -15,7 +15,7 @@ tags:
   - sopa
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![headertitle](/images/2011/11/headertitle.png)](http://americancensorship.org/)
 

@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Just a quick note – the sudden death of Hollywood celebrity Brittany Murphy last Sunday (BBC report [here](http://news.bbc.co.uk/2/hi/entertainment/8423785.stm)) has prompted a spike in searches on the subject – and of course, an SEO attack.
 

@@ -13,7 +13,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Sorin Mustaca wrote at Avira TechBlog: 
 

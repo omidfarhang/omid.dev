@@ -9,7 +9,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Hey Folks!
 

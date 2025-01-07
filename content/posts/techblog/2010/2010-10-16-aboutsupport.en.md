@@ -12,7 +12,7 @@ tags:
   - Thunderbird
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Welcome to our first release of the new Mozilla [about:support](https://mozillalabs.com/messaging/aboutsupport/) add-on.
 

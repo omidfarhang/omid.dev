@@ -9,7 +9,7 @@ tags:
   - events
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 R.I.P. Lonesome George. He was the last of his species.
 

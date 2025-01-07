@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google has put up a page that shows what Web services are currently being blocked by the Chinese government.
 

@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Another Clone of [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) family, SysDefence! went live about 3 hours ago. They're flying off the conveyor belt today.
 

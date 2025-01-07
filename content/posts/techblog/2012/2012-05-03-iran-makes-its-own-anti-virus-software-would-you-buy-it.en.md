@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="binary-iran-170" border="0" alt="binary-iran-170" align="right" src="http://lh3.ggpht.com/-7L9s3XfQD9E/T6KMjC3EhSI/AAAAAAAAF2o/h1w9qgvmPW4/binary-iran-170_thumb.jpg?imgmax=800" width="170" height="170" />](http://lh4.ggpht.com/-2K9ieOBJfOA/T6KMgu5z8KI/AAAAAAAAF2g/UECmXPSazoA/s1600-h/binary-iran-170%25255B2%25255D.jpg)<a href="http://nakedsecurity.sophos.com/2012/05/03/iran-builds-anti-virus-software/" target="_blank">SophosLabs</a>: According to [reports](http://en.trend.az/regions/iran/2021650.html), Iran has started making its own anti-virus software. 
 

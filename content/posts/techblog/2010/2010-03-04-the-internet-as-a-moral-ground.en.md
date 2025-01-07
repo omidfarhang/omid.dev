@@ -9,7 +9,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 “…in that space one can easily indulge in depravity, lies, vulgarity…”
 

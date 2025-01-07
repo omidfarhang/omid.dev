@@ -12,7 +12,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Don’t go there. There are a lot of rogue downloaders hiding in those links.
 

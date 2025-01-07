@@ -12,7 +12,7 @@ tags:
   - Cloud-native Applications
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In today’s rapidly evolving tech landscape, containerization has become a fundamental aspect of modern software development and deployment. At the heart of this revolution lies Kubernetes, an open-source platform designed to automate deploying, scaling, and operating application containers. If you're new to Kubernetes and looking to get started, this guide will help you understand the basics and set you on the path to becoming proficient with this powerful tool.
 

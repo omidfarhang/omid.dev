@@ -13,7 +13,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Our friend in the UK got this via a contact. It was from a Twitterer who obviously had his Twitter login stolen:
 

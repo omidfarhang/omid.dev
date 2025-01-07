@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 About 6 months ago, I decide to go pass my military service, It’s a compulsory military service for every boy over 18 years old in my country.
 

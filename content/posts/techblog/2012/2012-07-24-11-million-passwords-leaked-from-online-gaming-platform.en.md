@@ -11,7 +11,7 @@ tags:
   - Password
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![gamigo-logo](/images/2012/07/gamigo-logo.png) h-Online: A file with 11 million password hashes belonging to users of the online games platform [Gamigo](https://en.gamigo.com/) has been circulated on the internet. According to an [analysis](http://www.zdnet.com/8-24-million-gamigo-passwords-leaked-after-hack-7000001403/) by ZDNet, 8.2 million different email addresses are also part of the 478MB file. Around 3 million of these belong to users from the US, 2.4 million are German addresses and 1.3 million are supposed to originate in France. The list also includes corporate email addresses from companies such as IBM, Siemens, Deutsche Bank and the German insurance company Allianz.
 

@@ -14,7 +14,7 @@ tags:
   - Opera
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **LifeHacker:**
 

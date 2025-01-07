@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The U.S. Census Bureau is warning of phishing and other scams that are using the 2010 Census as bait. Here is the warning from the bureau’s web site:
 

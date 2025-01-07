@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I never could understand those people that afraid everything and everyone, why people don’t live in a normal and easy world? Why take it so hard? 
 

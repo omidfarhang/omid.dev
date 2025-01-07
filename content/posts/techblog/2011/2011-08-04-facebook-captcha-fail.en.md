@@ -10,7 +10,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs:** Facebook has taken security to a whole new level.
 

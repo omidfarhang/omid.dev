@@ -8,7 +8,7 @@ tags:
   - support request
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Hi Folks
 

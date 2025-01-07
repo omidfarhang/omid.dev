@@ -10,7 +10,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TOQ65Hpkt0I/AAAAAAAADKM/IH9d94klpvs/facebook%28low%29_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TOQ63iAuS0I/AAAAAAAADKI/wNsKrCVArIM/s1600-h/facebook%28low%29%5B2%5D.jpg)Thousands of female Facebook users had their accounts inexplicably disabled today. They did not violate Facebook's terms of use but nevertheless, they are seeing messages claiming their accounts are “inauthentic,” according to [Me & Her](http://brianericford.tumblr.com/post/1592610182/facebook-fail). 
 

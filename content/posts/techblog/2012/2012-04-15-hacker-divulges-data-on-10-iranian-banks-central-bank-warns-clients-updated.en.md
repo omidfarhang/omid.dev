@@ -12,7 +12,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Debit-Cards](http://lh5.ggpht.com/-GTbYusJv5-U/T4r8jpEAexI/AAAAAAAAFg0/kES1PdOjj2U/Debit-Cards_thumb.jpg?imgmax=800 "Debit-Cards")](http://lh4.ggpht.com/-mzKHTEr5WLY/T4r8gZu4CwI/AAAAAAAAFgs/QVPgxb3AmmQ/s1600-h/Debit-Cards%25255B2%25255D.jpg)An Iranian hacker published the information about some 3 million debit cards of 10 Iranian banks, including codes and passwords. 
 

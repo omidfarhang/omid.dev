@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S48Cs9pwnDI/AAAAAAAABIE/woXYRazl87M/s640/Haiti_20still.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S48Cs9pwnDI/AAAAAAAABIE/woXYRazl87M/s1600-h/Haiti_20still.png)
 

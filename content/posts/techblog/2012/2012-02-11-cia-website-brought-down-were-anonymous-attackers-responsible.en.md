@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs:** The CIA's website was brought down for some hours last night by what appears to have been an internet distributed denial-of-service (DDoS) attack. 
 

@@ -12,7 +12,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Last month, Microsoft sent flowers to a mock funeral for Internet Explorer 6, in a show of support for the ideal that the old browser should be declared defunct worldwide. But for a few years yet, the company is still bound to support the product for those users (generally businesses) who refuse to upgrade it. That's why new exploits that continue to target old browsers, such as IE6 and IE7, continue to get attention even a full year after the proper security fix — IE8 — has been deployed.
 

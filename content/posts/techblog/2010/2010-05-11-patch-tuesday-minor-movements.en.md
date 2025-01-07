@@ -13,7 +13,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Hey Admins…. It’s that time again. The second Tuesday is upon us and May so far hasn’t been demanding as far as patching goes. 
 

@@ -15,7 +15,7 @@ tags:
   - Frontend Development
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Angular's `@ViewChild` and `@ContentChild` decorators provide a powerful way to interact with child components, DOM elements, and projected content within a component's template. While they are often misunderstood or used interchangeably, each has its own specific purpose and use cases.
 

@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
   
 Earlier today we have seen a new Facebook clickjacking scam which spreads quite fast.

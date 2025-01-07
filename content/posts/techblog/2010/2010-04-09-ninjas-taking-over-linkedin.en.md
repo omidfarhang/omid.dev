@@ -10,7 +10,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Apparently, Facebook isn’t the only online sphere where ninjas are becoming a problem — [The LinkedIn Blog](http://blog.linkedin.com/2010/04/08/linkedin-ninja-job-title/) reports that the job title “Ninja” has become more and more popular since 2002.
 

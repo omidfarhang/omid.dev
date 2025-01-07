@@ -14,7 +14,7 @@ tags:
   - TypeScript
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As we advance into 2024, the landscape of frontend development continues to evolve at a rapid pace. Developers are always on the lookout for frameworks that offer more efficiency, better performance, and ease of use. Among the numerous frameworks making waves this year, a few stand out due to their unique offerings and growing adoption:
 

@@ -12,7 +12,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the same way that media event X guarantees Rogue Antispyware Y, a new and highly anticipated videogame that’s about ready to launch will similarly bring out the scams and fakes.
 

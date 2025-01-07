@@ -10,7 +10,7 @@ tags:
   - privacy
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![logo-only](http://lh4.ggpht.com/-Vs1N-QXO-yE/UAmhme-tVBI/AAAAAAAAGiY/yeR00KFYMXY/logo-only_thumb%25255B2%25255D.png?imgmax=800 "logo-only")](http://lh3.ggpht.com/-mOB6Xw8pB0s/UAmhiB3Z2rI/AAAAAAAAGiQ/SQb5QKQkwrk/s1600-h/logo-only%25255B4%25255D.png)h-online: Mozilla has implemented changes to Firefox 14 that address [concerns](http://www.h-online.com/news/item/Security-concerns-over-Firefox-s-new-tab-thumbnail-feature-1625761.html) raised by privacy-conscious users over the “new tab” feature in Firefox 13. The Firefox developers have changed the browser's behavior so that sensitive information should no longer leak via screenshots of web sites. 
 

@@ -12,7 +12,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 “Dirty” or “Flirty”
 

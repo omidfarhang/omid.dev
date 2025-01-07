@@ -14,7 +14,7 @@ tags:
   - steve jobs
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s200/apple-adobe-260.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s1600/apple-adobe-260.jpg)
 

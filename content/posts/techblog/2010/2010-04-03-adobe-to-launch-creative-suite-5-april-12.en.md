@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 A spokesperson for Adobe told us that on the morning of April 12 at 11:00 a.m. EDT, the company will hold a global online launch event for all of the components of its Creative Suite 5.
 

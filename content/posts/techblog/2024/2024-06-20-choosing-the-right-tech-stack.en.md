@@ -15,7 +15,7 @@ tags:
   - Programming Languages
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the rapidly evolving world of software development, choosing the right technology stack for your project is a critical decision. The technology stack, or tech stack, refers to the combination of programming languages, frameworks, libraries, tools, and software used to build and run your application. The right stack can streamline development, improve performance, and ensure scalability, while the wrong choice can lead to technical debt, inefficiencies, and even project failure.
 

@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I use Google Reader a lot — not only to stay on top of the news, but also to find interesting [blog](http://www.booooooom.com/2010/03/03/balloon-sculptures-by-artist-hans-hemmert/) [posts](http://www.coolest-gadgets.com/20100308/jetpack/) [and](http://www.unplggd.com/unplggd/final-frame/final-frame-the-dreaded-404-error-110067?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+apartmenttherapy/unplggd+%28Unplggd%29&utm_content=Google+Reader) [articles](http://blog.makezine.com/archive/2010/02/fire_breathing_snowman_is_standing.html). I’m always telling my friends about Google Reader, and while some of them love it, others don’t want to take the time to set it up. For those of you who fall into this second category, Google is [announcing Google Reader Play](http://googlereader.blogspot.com/2010/03/and-now-for-something-completely.html), a new product that makes the best stuff in Reader more accessible for everyone. Reader Play is a new way to browse interesting stuff on the web, customized to the topics you’re interested in, with no setup required.
 

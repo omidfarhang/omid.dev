@@ -11,7 +11,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyffL-JURJI/AAAAAAAAAWM/pANPmriBXO4/s320/acrobat_logo.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyffL-JURJI/AAAAAAAAAWM/pANPmriBXO4/s1600-h/acrobat_logo.png)
 

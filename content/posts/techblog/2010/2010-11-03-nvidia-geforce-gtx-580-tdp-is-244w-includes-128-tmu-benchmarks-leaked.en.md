@@ -14,7 +14,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Chinese website eNet has filled in some missing information – notably TDP and TMU count. The TDP of GeForce GTX 580 is at 244W, slightly lower than the GeForce GTX 480. The texture fillrate had been viewed by many as one of the bottlenecks for GF100, and eNet reports that GF110 effectively doubles the TMU count to 128 TMUs. Apart from this substantial improvement in TMU, the GF110 is a “full revision” and fixed version of GF100.
 

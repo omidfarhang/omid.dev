@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Last mail I got from 12Seconds.com:
 

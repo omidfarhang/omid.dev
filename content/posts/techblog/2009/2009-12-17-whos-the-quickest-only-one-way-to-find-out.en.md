@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Earlier on this morning I happened to notice a redirect page used in a meds spam campaign that just happened to also be compromised with a malicious script.
 

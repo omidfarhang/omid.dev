@@ -11,7 +11,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Pink Facebook? Red or black Facebook?
 

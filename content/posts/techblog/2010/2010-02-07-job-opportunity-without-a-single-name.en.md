@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Today we received some job hiring emails that looked like this:
 

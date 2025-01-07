@@ -11,7 +11,7 @@ tags:
   - iphone os
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79Oia0TMPI/AAAAAAAAB2Q/o1He4V-VT-A/s1600/iphone-os-40-top.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79Oia0TMPI/AAAAAAAAB2Q/o1He4V-VT-A/s1600/iphone-os-40-top.jpg)
 

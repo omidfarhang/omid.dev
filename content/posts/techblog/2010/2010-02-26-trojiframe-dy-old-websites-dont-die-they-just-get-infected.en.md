@@ -12,7 +12,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Earlier this week Sophos informed a UK [Local Police Authority](http://www.apa.police.uk/APA/About+Police+Authorities/) (Hertfordshire) that a website they owned was infected with [Troj/IFrame-DY](http://www.sophos.com/security/analyses/viruses-and-spyware/trojiframedy.html).
 

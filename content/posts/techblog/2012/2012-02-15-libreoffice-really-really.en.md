@@ -10,7 +10,7 @@ tags:
   - OpenOffice
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I’ve been reading from Mozilla Blog and I liked it and agree with that, so I share it with you:
 

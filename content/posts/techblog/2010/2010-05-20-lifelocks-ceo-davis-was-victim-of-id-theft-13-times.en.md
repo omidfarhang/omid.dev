@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The Phoenix New Times has reported that the CEO of LifeLock ID theft protection service of Tempe, Ariz., has had his identity used by rip-off artists 13 times since 2007.
 

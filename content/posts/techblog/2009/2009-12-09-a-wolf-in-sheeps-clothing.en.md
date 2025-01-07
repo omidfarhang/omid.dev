@@ -7,7 +7,7 @@ url: 2009/12/09/a-wolf-in-sheeps-clothing/
 shortlink: https://g.omid.dev/1RQXaro
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It has come to our attention recently that a website is giving out instructions on how to use a low tech social engineering trick to view private Facebook profiles. To view the instructions, a third-party application must be first downloaded and installed. While this application is not malware, it may impact computer performance. The instructions then describe how to view private Facebook profiles, with the result being that a Facebook user may receive a friend request from a person that is already on their friend list.
 

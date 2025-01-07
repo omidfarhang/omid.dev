@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="30607" border="0" alt="30607" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL7XecLDwHI/AAAAAAAACxw/Tyn016OxBrc/30607_thumb%5B1%5D.jpg?imgmax=800" width="304" height="187" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TL7XcFXYWqI/AAAAAAAACxs/xF4Quz0YHk0/s1600-h/30607%5B3%5D.jpg)Two regional websites for Chancellor Angela Merkel's Christian Democrats (CDU) were hacked on Tuesday by unknown perpetrators claiming to be Turkish following controversial comments by her conservatives on immigration.**
 

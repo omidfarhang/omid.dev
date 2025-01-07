@@ -8,7 +8,7 @@ tags:
   - I think
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I'm almost 23 years old and I'm not that old that to say much about life and teach you how to live, and maybe I'm wrong in many stuff, so here I write my thoughts and please correct me if you think I'm wrong, all your opinions, positive or negative is welcome:
 

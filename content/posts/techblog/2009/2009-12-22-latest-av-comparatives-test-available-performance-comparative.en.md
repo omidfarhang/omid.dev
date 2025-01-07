@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Performance comparative test result is available!
 

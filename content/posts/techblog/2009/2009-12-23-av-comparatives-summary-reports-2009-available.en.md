@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 AV-Comparatives Summary Reports 2009 Available!  
 Summary Report 2009

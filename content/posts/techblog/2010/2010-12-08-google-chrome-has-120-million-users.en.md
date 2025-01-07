@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="google-chrome-logo" border="0" alt="google-chrome-logo" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP7H7vwFbTI/AAAAAAAADdE/O8_yVaSyTZc/google-chrome-logo_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7H5X09BNI/AAAAAAAADdA/k__nyVBq7u8/s1600-h/google-chrome-logo%5B3%5D.png)Google revealed during its Chrome press conference today that its web browser now has 120 million users. That’s 50 million more users than it had less than seven months ago. 
 

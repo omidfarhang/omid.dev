@@ -11,7 +11,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="aol-yahoo1" border="0" alt="aol-yahoo1" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP0ywnLxgpI/AAAAAAAADVI/uOas2gkIK7w/aol-yahoo1_thumb%5B12%5D.jpg?imgmax=800" width="150" height="197" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP0yuknZ4uI/AAAAAAAADVE/VGmD3fkeTXQ/s1600-h/aol-yahoo1%5B9%5D.jpg)**Mashable:** The AOL-Yahoo rumors are heating up once again. This time, they involve splitting up the AOL empire into two divisions before engaging in a merger of the two Internet companies. 
 

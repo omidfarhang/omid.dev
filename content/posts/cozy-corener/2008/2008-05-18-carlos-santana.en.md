@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 [![carlos-santana](/images/2008/05/carlos-santana.jpg)](/images/2008/05/carlos-santana.jpg) 
 

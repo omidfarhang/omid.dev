@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We recently alerted our readers to spam campaigns using the H1N1 vaccination program to prompt recipients to open the mail. And we have frequently mentioned that crooks love to take advantage of news, disasters, and other events. Now that the final draw for the FIFA World Cup in South Africa next year has taken place, it is time to remind you that sports events are no exception to the rule. I’ve already found some examples. The first is a fake lottery. In this case, the source claims the recipient has won a large sum of money from the South African Football Association. After contacting the lottery manager, the victim of the scam will be asked to pay “processing fees” or “transfer charges” so that the winnings can be distributed. Don’t expect to ever see a payment.
 

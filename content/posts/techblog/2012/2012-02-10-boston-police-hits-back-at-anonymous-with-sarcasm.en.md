@@ -9,7 +9,7 @@ tags:
   - Video
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs:** Is it possible to fight Anonymous? 
 

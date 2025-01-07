@@ -12,7 +12,7 @@ tags:
   - steve jobs
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![jobs-schmidt-tanksjpg](http://lh4.ggpht.com/_vaUVXcmC3OI/TL3eNttEShI/AAAAAAAACwo/IvGJlBNcKto/jobs-schmidt-tanksjpg_thumb.jpg?imgmax=800 "jobs-schmidt-tanksjpg")](http://lh6.ggpht.com/_vaUVXcmC3OI/TL3eMXHLwgI/AAAAAAAACwk/YSapP9vAzNU/s1600-h/jobs-schmidt-tanksjpg%5B2%5D.jpg)Apple's CEO says that Android is fragmented and that the open vs. closed dilemma is not important as long as Apple's proprietary mobile operating system manages to provide a better user experience.
 

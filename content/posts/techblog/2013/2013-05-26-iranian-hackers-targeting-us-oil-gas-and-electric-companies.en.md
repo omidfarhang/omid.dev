@@ -12,7 +12,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![Iranian-Hackers-targeting-US-oil-gas-and-electric-companies](/images/2013/05/Iranian-Hackers-targeting-US-oil-gas-and-electric-companies.jpg)
 The Hacker News reported: For all the talk about China and the Syrian Electronic Army, it seems there's another threat to U.S. cyber interests i.e. Iran. Series of potentially destructive computer attacks that have been targeting American oil, gas and electricity companies tracked back to Iran.

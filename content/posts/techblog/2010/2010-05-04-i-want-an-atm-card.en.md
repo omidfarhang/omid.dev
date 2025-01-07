@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 When I was a child, I was fascinated by ATM machines. I had a savings account which my mother would deposit money regularly and I waited for the day that I could raid the account with the ATM card for frivolous spending on console games and fast food. 
 

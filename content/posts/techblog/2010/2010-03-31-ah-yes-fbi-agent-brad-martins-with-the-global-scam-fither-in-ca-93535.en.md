@@ -8,7 +8,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Good God! A 419 scam email from someone in grade school!**
 

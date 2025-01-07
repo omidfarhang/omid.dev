@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 More than 60 websites have been found to be hotbeds for SEO poisoning. Each of these domains host hundreds of possible matches for search keys.
 

@@ -9,7 +9,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Symantec has observed a new trend in phishing in which the phishing Web page contains pornographic content. The phishing site states that the end user can obtain free pornography after logging in or signing up. These offers tempt users into entering their credentials in the hopes of obtaining pornography.
 

@@ -15,7 +15,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **The Register:** YouPorn nabbed in real-world privacy sting
 

@@ -12,7 +12,7 @@ tags:
   - Wishlist
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Dear Microsoft,
 

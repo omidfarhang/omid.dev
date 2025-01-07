@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-0nf1XyfIJfM/Tmk5xNiI7CI/AAAAAAAAEBo/gNeHByySpsk/s1600/bill-gates-thinking.jpg)](http://4.bp.blogspot.com/-0nf1XyfIJfM/Tmk5xNiI7CI/AAAAAAAAEBo/gNeHByySpsk/s1600/bill-gates-thinking.jpg)
 

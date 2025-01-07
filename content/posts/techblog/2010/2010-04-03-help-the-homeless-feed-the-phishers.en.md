@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Well, this is unfortunate. In the UK, they have something called “The Big Issue”, which is a magazine designed to help the homeless get back into society via a legitimate income. It sells around 300,000 copies a week and is listed as the third-favourite newspaper of young British people aged 15 to 24, according to [Wikipedia](http://en.wikipedia.org/wiki/The_Big_Issue). At this moment in time, The Big Issue website is playing host to a French Paypal Phish – they have a zipped copy of the Phish uploaded to the server, and a live Phish directory too:
 

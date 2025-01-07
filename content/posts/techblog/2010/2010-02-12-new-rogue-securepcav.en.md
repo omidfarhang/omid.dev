@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 SecurePcAv is a phony antivirus program that has been infecting PC's across the interwebs in recent days.
 

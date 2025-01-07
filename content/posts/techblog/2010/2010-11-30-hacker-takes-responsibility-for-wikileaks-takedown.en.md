@@ -13,7 +13,7 @@ tags:
   - WikiLeaks
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="wikileaks-225" border="0" alt="wikileaks-225" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TPVp0Nu9z5I/AAAAAAAADSo/oJsOWUILueo/wikileaks-225_thumb.jpg?imgmax=800" width="225" height="225" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TPVpxtVSaOI/AAAAAAAADSk/r0oWJl0zj0s/s1600-h/wikileaks-225%5B3%5D.jpg)**Mashable**: The distributed denial of service (DDoS) attack that took down WikiLeaks as the site published secret U.S. embassy cables over the weekend could be the work of a single hacker, working for his own agenda. 
 

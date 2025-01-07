@@ -12,7 +12,7 @@ tags:
   - Wayne Static
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 Wayne Static shared this in his facebook page:
 

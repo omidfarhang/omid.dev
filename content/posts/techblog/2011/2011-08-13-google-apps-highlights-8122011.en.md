@@ -13,7 +13,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _This is part of a regular series of Google Apps updates that Google post every couple of weeks. Look for the label “[Google Apps highlights](http://googleblog.blogspot.com/search/label/Google%20Apps%20highlights)” and subscribe to the series._
 

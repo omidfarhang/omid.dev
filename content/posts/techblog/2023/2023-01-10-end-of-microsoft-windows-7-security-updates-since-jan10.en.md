@@ -13,7 +13,7 @@ tags:
   - windows 10
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Starting today, January 10th, Windows 7 Enterprise and Professional operating systems will no longer receive security updates. Thus, computers that still run these OS will no longer be protected against critical vulnerabilities.
 

@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![2293](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RDo50Nk-I/AAAAAAAACQE/UUJVCOgelms/2293_thumb%5B1%5D.jpg?imgmax=800 "2293")](http://lh3.ggpht.com/_vaUVXcmC3OI/S_RDmcpF9WI/AAAAAAAACQA/08XMLLC77oY/s1600-h/2293%5B3%5D.jpg) Google today said it will stop collecting Wi-Fi network data from its Street View cars, after an investigation from the German Data Protection Authority (DPA) found the search company was also collecting personal data about user behavior on these public hotspots. 
 

@@ -10,7 +10,7 @@ tags:
   - survey
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Rob VandenBrink has written a piece on the SANS web site Diary ([“The Many Paths to Security Awareness”](http://isc.sans.org/diary.html?storyid=8581)) with an interesting take on the very large topic of computer security awareness.
 

@@ -12,7 +12,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![_50044356_mashup-facebook](http://lh6.ggpht.com/_vaUVXcmC3OI/TOaHXQlmc8I/AAAAAAAADK4/ksNkPtiDAcI/_50044356_mashup-facebook_thumb%5B1%5D.gif?imgmax=800 "_50044356_mashup-facebook")](http://lh3.ggpht.com/_vaUVXcmC3OI/TOaHVBukP7I/AAAAAAAADK0/R__aVcdPM6U/s1600-h/_50044356_mashup-facebook%5B3%5D.gif)
 

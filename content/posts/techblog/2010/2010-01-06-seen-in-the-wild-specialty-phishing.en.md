@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 From a site that is hacked and serving phishes:
 

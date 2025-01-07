@@ -8,7 +8,7 @@ tags:
   - Google
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Spyware/DDoS malware combo**
 

@@ -14,7 +14,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Angelina" border="0" alt="Angelina" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TQjgs4hAqzI/AAAAAAAADgc/3BqEyO-luLY/Angelina_thumb%5B5%5D.jpg?imgmax=800" width="438" height="382" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TQjgrKpAFMI/AAAAAAAADgY/sZh-JfRK0PY/s1600-h/Angelina%5B9%5D.jpg)Earlier this year I received a Facebook invite in my Yahoo! Mail account from none other than Angelina Jolie herself. I kid you not.
 

@@ -12,7 +12,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Lots of little newsworthy updates recently . . . they've been well-covered elsewhere, but we wanted to make sure our readers saw them as well.
 

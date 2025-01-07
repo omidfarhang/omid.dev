@@ -11,7 +11,7 @@ tags:
   - ThePirateBay
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **The Anonymous group takes revenge after legal decision against Pirate Bay founders**
 

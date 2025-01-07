@@ -11,7 +11,7 @@ tags:
   - News
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 {{< youtube waEeJJVZ5P8 >}}
 

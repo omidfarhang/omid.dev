@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Sorry about being late in updating my blog![Embarrassed smile](http://lh6.ggpht.com/_vaUVXcmC3OI/TVR85aos2nI/AAAAAAAADkM/Ste6dxXdKYM/wlEmoticon-embarrassedsmile%5B2%5D.png?imgmax=800) 
 

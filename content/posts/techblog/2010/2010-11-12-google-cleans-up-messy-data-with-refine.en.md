@@ -11,7 +11,7 @@ tags:
   - google Refine
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![google-refine](http://lh5.ggpht.com/_vaUVXcmC3OI/TN0-6TtudyI/AAAAAAAADI4/txCOtwgxJHk/google-refine_thumb%5B1%5D.jpg?imgmax=800 "google-refine")](http://lh6.ggpht.com/_vaUVXcmC3OI/TN0-5BsMOOI/AAAAAAAADI0/_bj6ntD3h14/s1600-h/google-refine%5B3%5D.jpg)
 

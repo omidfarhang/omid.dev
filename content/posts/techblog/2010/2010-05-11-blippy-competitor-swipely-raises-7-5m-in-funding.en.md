@@ -9,7 +9,7 @@ tags:
   - swipely
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Macro Monday Theme: Life is Hard
 

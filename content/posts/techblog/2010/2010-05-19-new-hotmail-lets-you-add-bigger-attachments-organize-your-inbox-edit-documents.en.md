@@ -11,7 +11,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I'm constantly reminded how slow email actually is.
 

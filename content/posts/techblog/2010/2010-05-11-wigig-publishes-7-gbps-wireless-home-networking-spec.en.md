@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Exactly one year after making its public debut, the Wireless Gigabit Alliance has published its spec for the unlicensed 60 GHz band, which it is pushing as a new, faster standard for home networking. 
 

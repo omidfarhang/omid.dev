@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Microsoft" border="0" alt="Microsoft" src="http://lh6.ggpht.com/-jwiqn7tsUbo/TzvhoF3mkcI/AAAAAAAAEyA/7sgA3lghI5k/Microsoft_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="222" />](http://lh5.ggpht.com/-tyZvt7vnyI4/TzvhhYJAlYI/AAAAAAAAEx4/1eEQDD7t5nY/s1600-h/Microsoft%25255B5%25255D.jpg) 
 

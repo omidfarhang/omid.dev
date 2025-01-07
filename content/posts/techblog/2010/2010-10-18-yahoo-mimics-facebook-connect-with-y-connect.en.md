@@ -8,7 +8,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="yahoobang-small" border="0" alt="yahoobang-small" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TLy-4EZMVyI/AAAAAAAACtk/zlzqAoNIS84/yahoobang-small_thumb%5B3%5D.gif?imgmax=800" width="200" height="117" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TLy-z86PvhI/AAAAAAAACtg/KqKKG8MoeDI/s1600-h/yahoobang-small%5B5%5D.gif)Yahoo will soon launch a service called “Y Connect” with features very similar to those of Facebook Connect — portable identity management, integrating Yahoo content on third-party websites, and sharing data about what you’re doing and where with your Yahoo contacts. 
 

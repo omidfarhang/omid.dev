@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/21qKz62
 image: /images/2014/04/twitter-280.jpg
 lang: fa
 categories: 
-  - techblog
+  - TechBlog
 ---
 ### چرا محدودیت؟
 

@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Ruby_Logo_200" border="0" alt="Ruby_Logo_200" align="right" src="http://lh6.ggpht.com/-XjuMkY0_fdE/T5WeZPk8aeI/AAAAAAAAFnA/3WmBOsJbfKE/Ruby_Logo_200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="105" />](http://lh5.ggpht.com/-Y4Of9qy8VeM/T5WeW01MjaI/AAAAAAAAFm4/oZYy1Tn6XpU/s1600-h/Ruby_Logo_200%25255B3%25255D.png)The H-Security: The [Ruby](http://www.ruby-lang.org/en/) development team has published an update to the 1.9.3 series of its open source programming language to fix a vulnerability found in the [RubyGems](http://rubygems.org/) package management framework. 
 

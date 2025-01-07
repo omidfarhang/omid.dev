@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The good news is that overseas hackers apparently did not change the grades of more then 100 thousand University of North Florida students when they broke into the computer system in September.
 

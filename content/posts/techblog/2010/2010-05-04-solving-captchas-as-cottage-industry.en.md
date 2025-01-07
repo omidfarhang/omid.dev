@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Make big money! $.80 to $1.20 per 1,000**
 

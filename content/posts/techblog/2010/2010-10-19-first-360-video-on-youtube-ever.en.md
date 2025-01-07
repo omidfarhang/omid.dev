@@ -10,7 +10,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Today Doritos Late Night presented the first 360 degree musicvideo on youtube. It’s the musicvideo of Professor Green with his latest hit: “Coming to get me”. [Go and check it out!!!!](http://www.youtube.com/doritosuk)
 

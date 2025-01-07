@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 GhostAntivirus is a new rogue anti-virus application. It is a clone of InternetAntivirusPro.
 

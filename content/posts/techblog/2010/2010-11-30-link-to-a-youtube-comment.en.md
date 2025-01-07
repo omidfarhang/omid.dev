@@ -10,7 +10,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 If you happen to find a YouTube comment that's really interesting and you want to share it with other people, mouse over the comment, click on the “Share” button and copy the link.
 

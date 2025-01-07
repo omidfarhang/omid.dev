@@ -12,7 +12,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="t1larg.jumo.grab" border="0" alt="t1larg.jumo.grab" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TPUlXlH2kfI/AAAAAAAADRo/FPmO0JfBu9Q/t1larg.jumo.grab_thumb%5B2%5D.jpg?imgmax=800" width="500" height="281" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TPUlVnE_avI/AAAAAAAADRk/XcDzuyoTDlo/s1600-h/t1larg.jumo.grab%5B4%5D.jpg)CNN – Mashable:** Today, users can start connecting with all their favorite social causes in one online sphere, as Facebook co-founder Chris Hughes has launched his much-buzzed-about social network, Jumo.
 

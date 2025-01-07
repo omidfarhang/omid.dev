@@ -11,7 +11,7 @@ tags:
   - Postbiotics
 lang: en
 categories: 
-  - health
+  - Health
 ---
 Probiotics, live beneficial bacteria and yeasts, offer significant health benefits across various stages of life. From infancy to old age, probiotics can support digestive health, boost the immune system, promote mental well-being, and even help with skin health. But how does their role evolve as we age, and which probiotics should be taken at different life stages?
 

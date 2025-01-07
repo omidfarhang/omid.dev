@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/-tP2seeTs9SY/Tah1siDgPEI/AAAAAAAAD2Y/eIs5GyHfDMY/s1600/Microsoft_Logo200-c869929fb4569dc8.png)](http://2.bp.blogspot.com/-tP2seeTs9SY/Tah1siDgPEI/AAAAAAAAD2Y/eIs5GyHfDMY/s1600/Microsoft_Logo200-c869929fb4569dc8.png)
 

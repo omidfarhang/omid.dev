@@ -10,7 +10,7 @@ tags:
   - visa
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![](http://4.bp.blogspot.com/--mLrPg7ykgg/TuzZoYu_FuI/AAAAAAAAEV4/z15bKOp0pXg/s1600/visa-170.jpg)
 

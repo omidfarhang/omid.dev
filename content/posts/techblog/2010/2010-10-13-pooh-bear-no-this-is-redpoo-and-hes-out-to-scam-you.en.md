@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Some domain names make you cringe, some make you smile…
 

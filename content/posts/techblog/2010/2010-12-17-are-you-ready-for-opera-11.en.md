@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 #### Newest Opera browser features tab stacking, extensions, visual mouse gestures
 

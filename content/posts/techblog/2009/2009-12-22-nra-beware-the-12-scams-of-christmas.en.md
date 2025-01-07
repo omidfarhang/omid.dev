@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _This is the '12 scams of Christmas' I mentioned in last post:_
 

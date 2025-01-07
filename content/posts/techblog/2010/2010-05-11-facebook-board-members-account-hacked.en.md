@@ -10,7 +10,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![FB-Header](http://lh3.ggpht.com/_vaUVXcmC3OI/S-lpKJEdNUI/AAAAAAAACI4/va5zL9Qd5Vs/FB-Header_thumb%5B1%5D.jpg?imgmax=800 "FB-Header")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lpH0eL9XI/AAAAAAAACI0/qwwOH7BjXIc/s1600-h/FB-Header%5B3%5D.jpg) Even Facebook board members are not immune to phishing attacks. On Saturday, Jim Breyer of Accel Partners became the latest victim when his account was used to send a spam message to more than 2,300 friends. 
 

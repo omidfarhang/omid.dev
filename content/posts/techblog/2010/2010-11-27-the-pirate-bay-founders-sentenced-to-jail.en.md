@@ -10,7 +10,7 @@ tags:
   - ThePirateBay
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="thepiratebay" border="0" alt="thepiratebay" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TPFcORd480I/AAAAAAAADO0/7bqiPpmpLKs/thepiratebay_thumb%5B2%5D.png?imgmax=800" width="137" height="150" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TPFcMo9KceI/AAAAAAAADOw/wYY_R5Nzneg/s1600-h/thepiratebay%5B6%5D.png)The Swedish Appeals Court upheld the conviction and jail sentences of three co-founders behind the infamous The Pirate Bay service. Peter Sunde, Fredrik Neij and Carl Lundstrom all received one-year jail sentences and $4.2 million in fines from a Swedish lower court earlier in the year.
 

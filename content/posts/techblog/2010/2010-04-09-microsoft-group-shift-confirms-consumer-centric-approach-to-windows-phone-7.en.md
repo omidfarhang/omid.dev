@@ -11,7 +11,7 @@ tags:
   - Windows Phone 7
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s640/4793.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s1600/4793.jpg)
 

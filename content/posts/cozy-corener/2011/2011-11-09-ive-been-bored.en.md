@@ -8,7 +8,7 @@ tags:
   - video
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I've been bored today and playing random videos and this one made me smile, so I want to share with you 🙂  
 

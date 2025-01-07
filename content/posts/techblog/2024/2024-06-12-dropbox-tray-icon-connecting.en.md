@@ -12,7 +12,7 @@ tags:
   - AUR
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![dropbox-before-after](/images/2024/06/dropbox-before-after.jpg)
 

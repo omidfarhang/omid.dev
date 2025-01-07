@@ -13,7 +13,7 @@ tags:
   - Angular Integrations
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 GraphQL is a powerful query language for APIs, providing a flexible and efficient alternative to REST. Combining it with Angular, a robust front-end framework, can lead to highly dynamic and responsive web applications. In this guide, we'll explore how to integrate GraphQL with Angular, leveraging the Apollo Client for seamless data management.
 

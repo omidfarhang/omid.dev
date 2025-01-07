@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="chrome-logo" border="0" alt="chrome-logo" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TJNozYkYQDI/AAAAAAAACds/WQtcT6P5fUY/chrome-logo_thumb%5B1%5D.png?imgmax=800" width="50" height="50" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TJNoyezhNMI/AAAAAAAACdo/9vX5MHi7M-g/s1600-h/chrome-logo%5B3%5D.png)Google released version [6.0.472.59](http://googlechromereleases.blogspot.com/2010/09/stable-beta-channel-updates_14.html) of its Chrome web browser. It fixes 10 security vulnerabilities; 1 is only affecting Mac OS X and critical, 6 are rated “high” in their severity. As usual, the update should get delivered and installed automatically – but it doesn’t hurt to check via the “Info about Chrome” option in the “settings” menu whether  the new version is already installed.
 

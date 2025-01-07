@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 A few of days ago, we encountered an e-mail with a malicious RTF attachment. It was sent with a supposed lawsuit notification message.
 

@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Time Techland wrote: 
 

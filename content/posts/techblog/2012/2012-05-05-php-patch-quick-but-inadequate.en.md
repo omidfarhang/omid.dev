@@ -11,7 +11,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="php" border="0" alt="php" align="right" src="http://lh4.ggpht.com/-AYBT2UispLs/T6V3uFbK68I/AAAAAAAAF58/T13rvx5zFWQ/php_thumb.png?imgmax=800" width="180" height="95" />](http://lh6.ggpht.com/-Cu0J300RYng/T6V3sHhQsrI/AAAAAAAAF50/eNMs7kndTd8/s1600-h/php%25255B2%25255D.png)The H-Online: The [updates](http://www.php.net/archive/2012.php#id2012-05-03-1) to PHP versions 5.3.12 and 5.4.2 released on Thursday do not fully resolve the [vulnerability](http://www.h-online.com/news/item/Critical-open-hole-in-PHP-creates-risks-Update-2-1567532.html) that was accidentally disclosed on Reddit, [according](http://eindbazen.net/2012/05/php-cgi-advisory-cve-2012-1823/) to the discoverer of the flaw. The bug in the way CGI and PHP interact with each other leads to a situation where attackers can execute code on affected servers. The issue remained undiscovered for eight years. 
 

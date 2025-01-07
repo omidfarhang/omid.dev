@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="Nortel_logo_200" border="0" alt="Nortel_logo_200" align="right" src="http://lh6.ggpht.com/-vf4c6OvkAWg/Tzvs8S3xTgI/AAAAAAAAEyw/4TAH159qfXo/Nortel_logo_200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="48" />](http://lh6.ggpht.com/-TfSQvHS7voo/Tzvs57n37UI/AAAAAAAAEyo/W8wuUUz17Q8/s1600-h/Nortel_logo_200%25255B3%25255D.png)The H-Online:** According to a report, hackers, allegedly from China, had access to telecoms equipment manufacturer [Nortel](http://www.nortel.com/)&#8216;s IT systems over a period of several years – access that they took full advantage of. Citing an internal investigation, the _Wall Street Journal_ [reported](http://online.wsj.com/article/SB10001424052970203363504577187502201577054.html?mod=WSJEurope_hpp_LEFTTopStories) on Tuesday that, using seven passwords stolen from senior managers, intruders had access to almost all confidential information within Nortel from 2000 onwards. 
 

@@ -11,7 +11,7 @@ tags:
   - Online Dating
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Dating600" border="0" alt="Dating600" align="right" src="http://lh6.ggpht.com/-QeYMElMfNnM/TzT3aeLk34I/AAAAAAAAEn8/ZzxLx9MQXUU/Dating600_thumb.jpg?imgmax=800" width="244" height="152" />](http://lh6.ggpht.com/-widiGvKHTAY/TzT3YW4M_KI/AAAAAAAAEn0/uO-wcpj6zFQ/s1600-h/Dating600%25255B2%25255D.jpg)**Mashable:** Lonely hearts seeking love this Valentine’s Day, be wary. Online dating fraud rose by 150% percent in 2011 as scammers and hucksters turned up the false charm and predatory trolling. 
 

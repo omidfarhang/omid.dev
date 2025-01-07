@@ -8,7 +8,7 @@ tags:
   - Microsoft
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 After the **[Spring](http://boelectronic.blogspot.com/2010/03/download-official-spring-theme-pack-for.html)** theme pack Microsoft has released a beautiful **Life theme**. It consists of five beautiful Discovery channel wallpapers based on wild life and nature.
 

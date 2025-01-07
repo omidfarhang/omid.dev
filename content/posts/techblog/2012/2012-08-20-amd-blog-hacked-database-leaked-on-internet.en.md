@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh4.ggpht.com/-3NMJixc4yc8/UDIfkX4wA6I/AAAAAAAAHEs/MY7bRpF-qUw/s1600-h/ver1_600w%25255B4%25255D.jpg" target="_blank"><img title="ver1_600w" border="0" alt="ver1_600w" align="right" src="http://lh6.ggpht.com/-q2J4jR5j2N8/UDIfmCdDZDI/AAAAAAAAHE0/hHqk_Q6wJR0/ver1_600w_thumb%25255B2%25255D.jpg?imgmax=800" width="244" height="184" /></a>TheHackerNews: A team of Hackers called, “**r00tBeer Security Team**” today hack into official blog of Advanced Micro Devices (AMD) which is a American multinational semiconductor company. AMD is the second-largest global supplier of microprocessors based on the x86 architecture and also one of the largest suppliers of graphics processing units. 
 

@@ -12,7 +12,7 @@ tags:
   - Office
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![Visio2010Viewer](http://lh3.ggpht.com/_vaUVXcmC3OI/S976CX6DvoI/AAAAAAAACCM/VDbsIMQrz_s/Visio2010Viewer%5B4%5D.jpg?imgmax=800 "Visio2010Viewer") Microsoft Visio 2010 Viewer allows anyone to view Visio drawings and diagrams (created with Visio 5.0 through Visio 2010) inside Internet Explorer (versions 5 through Web browser. ****The Visio 2010 Viewer has all the functionality of the previous viewers, and includes all the security fixes. 
 

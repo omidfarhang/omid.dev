@@ -8,7 +8,7 @@ tags:
   - I think
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 There are so many groups of people in world, we all know that, So many different group and kind of people, we can group them with different factors, with their born location, with their skin color, with their hair color, with eyes color, being left hand or right hand, with their political view, with their religious view and believes, with their education levels, with their languages, with their music tastes and…
 

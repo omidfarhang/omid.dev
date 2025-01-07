@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I could talk about how The Matrix was a pretty big deal for me back in the day, or how [The Matrix Online](http://en.wikipedia.org/wiki/The_Matrix_Online) is (to date) the only MMORPG I ever liked enough to pay a monthly subscription for, or how I think people doing Kung Fu in bullet time is still _the best thing ever_.
 

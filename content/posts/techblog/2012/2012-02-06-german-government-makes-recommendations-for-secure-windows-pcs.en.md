@@ -16,7 +16,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![bsi_200](http://lh6.ggpht.com/-0BoMXS-jhqc/Ty_5WQfJwyI/AAAAAAAAEfo/tFWfFsCFZmQ/bsi_200_thumb%25255B1%25255D.png?imgmax=800 "bsi_200")](http://lh4.ggpht.com/-WPLv74e4Nb0/Ty_5N4f5LzI/AAAAAAAAEfg/6iPM1b9XiH0/s1600-h/bsi_200%25255B3%25255D.png)
 

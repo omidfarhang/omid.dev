@@ -11,7 +11,7 @@ tags:
   - malware
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Evernote](http://lh5.ggpht.com/-UZupKZ2CBOQ/UVTezUnrQ1I/AAAAAAAAIDQ/u45IOWgX-Ek/Evernote_thumb.png?imgmax=800 "Evernote")](http://lh3.ggpht.com/-V5AGetYXHzk/UVTevh8EfuI/AAAAAAAAIDI/oy6-Q1Yi0zA/s1600-h/Evernote%25255B2%25255D.png)With its rich functionality and accessibility, Evernote is a popular note-taking tool for its many users. Unfortunately, it may also provide the perfect cover for cybercriminals’ tracks.
 

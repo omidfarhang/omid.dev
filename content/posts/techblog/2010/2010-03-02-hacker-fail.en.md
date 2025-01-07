@@ -10,7 +10,7 @@ tags:
   - Interesting
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Very funny:
 

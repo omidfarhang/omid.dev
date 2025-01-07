@@ -8,7 +8,7 @@ tags:
   - Interview
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Charlie Miller, the Pwn2Own contest winner for two years in a row, gives his take on Internet security. Guess what — your Mac OS is no less vulnerable than its Microsoft Windows counterpart.
 

@@ -11,7 +11,7 @@ tags:
   - Winamp
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 My favorite music player in old days ‘Winamp’ has now [released](http://blog.winamp.com/2010/10/20/winamp-for-android-now-in-beta/) its official app (currently in Beta) for Android devices. The app is available as a free download to everyone.
 

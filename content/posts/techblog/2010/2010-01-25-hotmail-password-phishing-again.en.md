@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I am a very lucky guy.
 

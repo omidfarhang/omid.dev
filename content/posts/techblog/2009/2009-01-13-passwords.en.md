@@ -10,7 +10,7 @@ tags:
   - Password
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Strong passwords are important protections to help you have safer online transactions.
 

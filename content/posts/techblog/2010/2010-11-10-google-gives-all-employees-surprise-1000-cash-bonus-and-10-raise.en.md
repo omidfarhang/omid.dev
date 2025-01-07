@@ -11,7 +11,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="eric-schmidt-hands-togetherjpg" border="0" alt="eric-schmidt-hands-togetherjpg" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNqRhuJXtwI/AAAAAAAADHM/4Qt1jRhFsxI/eric-schmidt-hands-togetherjpg_thumb.jpg?imgmax=800" width="304" height="229" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNqRekQt1wI/AAAAAAAADHI/afzaAMGj90w/s1600-h/eric-schmidt-hands-togetherjpg%5B2%5D.jpg)
 

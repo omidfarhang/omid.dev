@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [Google Chrome 10](http://googlechromereleases.blogspot.com/2011/03/chrome-stable-release.html) is ready for primetime and it comes with a surprising number of new features. Here are some of them:
 

@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="outlook_2007_logo" border="0" alt="outlook_2007_logo" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TRD5vpx9KpI/AAAAAAAADhk/Pfzico5aGoA/outlook_2007_logo_thumb%5B2%5D.jpg?imgmax=800" width="150" height="147" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TRD5tfldSTI/AAAAAAAADhg/GaObiBdtcTo/s1600-h/outlook_2007_logo%5B4%5D.jpg)MSDN Blog:** On Tuesday, December 14, we released an update (KB2412171) for Microsoft Outlook 2007. We have discovered several issues with the update and want to inform you about problems you might encounter and what corrective steps we recommend. As of December 16, this Outlook 2007 update has been removed from Microsoft Update.
 

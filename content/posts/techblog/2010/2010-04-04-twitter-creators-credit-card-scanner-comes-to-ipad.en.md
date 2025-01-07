@@ -12,7 +12,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600/squareipad.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600-h/squareipad.jpg)
 

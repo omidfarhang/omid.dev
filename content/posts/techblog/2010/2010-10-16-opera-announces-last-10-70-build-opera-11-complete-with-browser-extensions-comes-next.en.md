@@ -10,7 +10,7 @@ tags:
   - Opera
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Very soon, the first build of Opera 11 will be released, and with it will come the long-awaited support for browser extensions.
 

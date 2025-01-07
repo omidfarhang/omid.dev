@@ -10,7 +10,7 @@ tags:
   - jailbreak
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![iphone_3gs](http://lh5.ggpht.com/_vaUVXcmC3OI/S8oebWdNmXI/AAAAAAAACBA/V2ukUJwCnMc/iphone_3gs_thumb%5B2%5D.jpg?imgmax=800 "iphone_3gs")](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oeXec_BjI/AAAAAAAACA8/9zcCmQJOFbE/s1600-h/iphone_3gs%5B4%5D.jpg) We suspected that the iPhone 4.0 would be nothing special compared to previous versions, at least when it comes to jailbreaking the operating system. Now, a [jailbreak tool](http://wikee.iphwn.org/howto:rsbeta) has been [released](http://gizmodo.com/5518414/iphone-40-beta-jailbreak-tool-released-for-iphone-3g) for iPhone 4.0 Beta, and the eternal game of cat and mouse between Apple and the hacking community continues. 
 

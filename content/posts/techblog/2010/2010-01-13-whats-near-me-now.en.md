@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Have you stood outside the restaurant and thought whether to go inside? Google solves this problem very easily. It has come out with yet another mind bobbling feature with Andriods and the iPhone. This Feature is known as **‘Near Me Now’**. When you open google.com in your mobile like Andriods or iPhone, you see a small new addition to homepage that  is ‘Near Me Now’ option below your search box.
 

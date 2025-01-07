@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh4.ggpht.com/-RAspI1MLoAs/T9NASlqeg9I/AAAAAAAAGOA/zfLZo3iz0nA/s1600-h/Flash_Logo_b_80%25255B4%25255D.png" target="_blank"><img title="Flash_Logo_b_80" border="0" alt="Flash_Logo_b_80" align="right" src="http://lh6.ggpht.com/-ZAkaFlQZJzE/T9NAVbUpWsI/AAAAAAAAGOI/4xEsUqkpzuE/Flash_Logo_b_80_thumb%25255B2%25255D.png?imgmax=800" width="80" height="80" /></a>The H-Online: Adobe has [announced](http://www.adobe.com/support/security/bulletins/apsb12-14.html) the release of an update for Flash Player on Windows, Mac, Linux, Android 3.x and 4.x, and within its own AIR runtime. The update addresses several critical vulnerabilities which involve memory corruption, stack overflows, integer overflows, security being bypassed, null dereferencing and binary planting (DLL hijacking). All, except the security bypass, could lead to code execution. 
 

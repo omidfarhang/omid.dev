@@ -11,7 +11,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70ct_Lg7vI/AAAAAAAAB1c/0BDes8oyyy4/s320/4782.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70ct_Lg7vI/AAAAAAAAB1c/0BDes8oyyy4/s1600-h/4782.jpg)
 

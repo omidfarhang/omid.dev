@@ -13,7 +13,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 You might be seeing something on your Facebook wall today:
 

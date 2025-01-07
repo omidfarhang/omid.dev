@@ -12,7 +12,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Here is yet another example of a company distributing malware to its userbase. Unfortunately it probably won’t be the last.
 

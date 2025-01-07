@@ -12,7 +12,7 @@ tags:
   - Rescue
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 To help secure your computer against malware:
 

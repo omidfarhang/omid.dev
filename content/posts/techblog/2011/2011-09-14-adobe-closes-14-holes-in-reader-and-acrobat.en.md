@@ -10,7 +10,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://3.bp.blogspot.com/-F4_ay5ffOfo/TnD1D2rbb1I/AAAAAAAAECA/O5YhTKeGyo0/s1600/adobe_logo200.jpeg)](http://3.bp.blogspot.com/-F4_ay5ffOfo/TnD1D2rbb1I/AAAAAAAAECA/O5YhTKeGyo0/s1600/adobe_logo200.jpeg)
 

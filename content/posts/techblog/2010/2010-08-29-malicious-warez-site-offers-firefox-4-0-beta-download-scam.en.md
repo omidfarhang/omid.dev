@@ -14,7 +14,7 @@ tags:
   - warning
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Like a lot of seedy stuff, this started with a Twitter post:.
 

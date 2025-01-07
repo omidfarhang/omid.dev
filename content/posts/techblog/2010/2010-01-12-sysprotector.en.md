@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 SysProtector and ApcDefender are two new rogue antispyware programs released in the past 48 hours.
 

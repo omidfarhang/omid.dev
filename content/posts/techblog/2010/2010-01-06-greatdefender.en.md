@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 GreatDefender is a great big scam. GreatDefender is the latest rogue antispyware software, or phony security program that rips people off. If GreatDefender has infected your computer, do not buy the software, you should remove it immediately.
 

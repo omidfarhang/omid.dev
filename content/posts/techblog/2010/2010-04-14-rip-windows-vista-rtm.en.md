@@ -11,7 +11,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Avid readers of the Microsoft Support Lifecycle Blog (and really, how can you not be?) know that yesterday, April 13th, marked the [end of support for Windows Vista RTM](http://blogs.technet.com/lifecycle/archive/2010/04/13/end-of-support-for-windows-vista-rtm-and-recent-service-pack-support-policy-updates.aspx), also known as Windows Vista SP0.
 

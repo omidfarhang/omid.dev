@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 People looking to take advantage of the savings from the government during these harder financial times are being hit with other financial burdens (Rogue AV software).
 

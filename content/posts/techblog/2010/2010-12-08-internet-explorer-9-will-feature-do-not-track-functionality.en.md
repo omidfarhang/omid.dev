@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="internetexplorer9logo" border="0" alt="internetexplorer9logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP7EiQJdyQI/AAAAAAAADcU/TxIahxlnwBM/internetexplorer9logo_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP7EeokiiCI/AAAAAAAADcQ/QxckLRYqehM/s1600-h/internetexplorer9logo%5B3%5D.png)BetaNews:** In light of the recent rash of [“history sniffing” bugs](http://blogs.forbes.com/kashmirhill/2010/11/30/history-sniffing-how-youporn-checks-what-other-porn-sites-youve-visited-and-ad-networks-test-the-quality-of-their-data/) and the Federal Trade Commission's [proposed “do not track” list](http://www.ftc.gov/opa/2010/12/privacyreport.shtm), Microsoft today announced that release candidate of Internet Explorer 9 will feature a new tracking protection setting that will keep a user's browsing habits private from sites looking to harvest browser histories.
 

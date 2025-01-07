@@ -8,7 +8,7 @@ tags:
   - video
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Well I wish there was someone  
 Well I wish there was someone  

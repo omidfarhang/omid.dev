@@ -13,7 +13,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We were made aware that phishing for Skype credentials is currently taking place. The link the phishing mails direct to are dangerous – they aren’t detected by any phishing filter of the popular browsers yet.
 

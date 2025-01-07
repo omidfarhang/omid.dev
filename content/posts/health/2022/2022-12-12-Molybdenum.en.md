@@ -6,13 +6,13 @@ author_profile: true
 url: 2022/12/12/molybdenum-deficiency-is-very-rare-not-in-iran/
 shortlink: https://g.omid.dev/EhV4A3B
 tags:
-  - health
+  - Health
   - Iran
   - minerals
   - Good Reads
 lang: en
 categories: 
-  - health
+  - Health
 ---
 ![molybdenum](/images/2022/12/molybdenum.jpg)
 

@@ -12,7 +12,7 @@ tags:
   - Video
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 How not to manage your passwords…
 

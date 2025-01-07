@@ -9,7 +9,7 @@ tags:
   - interesting
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Really why?
 

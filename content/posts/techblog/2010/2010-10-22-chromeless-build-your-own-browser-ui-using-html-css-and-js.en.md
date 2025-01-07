@@ -9,7 +9,7 @@ tags:
   - Mozilla
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ### Mozilla Labs:
 

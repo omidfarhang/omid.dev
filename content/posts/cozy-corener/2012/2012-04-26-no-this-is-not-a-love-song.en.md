@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Did you ever try hard to reach someone and when you did you find your mouth shut? I did several times and it drive me crazy!
 

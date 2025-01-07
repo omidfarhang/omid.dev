@@ -10,7 +10,7 @@ tags:
   - warning
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="The_First_Thanksgiving_cph.3g04961" border="0" alt="The_First_Thanksgiving_cph.3g04961" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO0pMoLdIoI/AAAAAAAADMk/MRW_Yz7P1b8/The_First_Thanksgiving_cph.3g04961_thumb.jpg?imgmax=800" width="304" height="195" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TO0pLLyGmTI/AAAAAAAADMg/SsFeXba6N20/s1600-h/The_First_Thanksgiving_cph.3g04961%5B2%5D.jpg)Avira TechBlog:** Thanksgiving and according holidays are very close – a time in which many people have the time to do (online) shopping. The cyber criminals are eager for their share, so it’s time to remember some safety measures.
 

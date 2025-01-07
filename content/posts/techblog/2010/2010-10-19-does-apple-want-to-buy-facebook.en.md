@@ -11,7 +11,7 @@ tags:
   - steve jobs
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="steve-jobs-apple-facebook" border="0" alt="steve-jobs-apple-facebook" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL36KIjrg0I/AAAAAAAACxM/9TE83ahj9Qg/steve-jobs-apple-facebook_thumb%5B2%5D.jpg?imgmax=800" width="304" height="229" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL36FFeTutI/AAAAAAAACxI/5BU3KGFsdN4/s1600-h/steve-jobs-apple-facebook%5B4%5D.jpg)Peter Kafka at All Things Digital thinks that [Steve Jobs might want to buy Facebook](http://mediamemo.allthingsd.com/20101018/live-apple-earnings-call-2/). His reasoning is that Jobs, when asked what Apple plans to do with its now $51 billion in cash, said, “We firmly believe that one or more unique strategic opportunities will present itself to us, and we'll be in a position to take advantage of it.” Kafka believes that one such “unique strategic” opportunity is called Facebook.
 

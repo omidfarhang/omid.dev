@@ -10,7 +10,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _This is an article taken from_ [_CNN_](http://www.cnn.com/) _and I don't agree or disagree it._
 

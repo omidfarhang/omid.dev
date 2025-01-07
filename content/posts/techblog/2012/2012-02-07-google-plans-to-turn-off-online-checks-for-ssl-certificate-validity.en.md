@@ -12,7 +12,7 @@ tags:
   - SSL
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh4.ggpht.com/-EZg5DtyTaQo/TzEpHdSxRbI/AAAAAAAAEhw/yr9BGtBjzNU/new-chrome-logo_thumb%25255B1%25255D.png?imgmax=800" width="128" height="125" />](http://lh3.ggpht.com/-psxG5t21KGw/TzEo4Qx435I/AAAAAAAAEho/1lsmsL3CQAo/s1600-h/new-chrome-logo%25255B3%25255D.png)The H-Online:** Google plans to turn off online checks for SSL certificate validity in its Chrome browser soon, according to a [blog post](http://www.imperialviolet.org/2012/02/05/crlsets.html) by Adam Langley, the developer in charge of that element of the browser. Instead, the browser will use the update mechanism to receive lists of revoked certificates. 
 

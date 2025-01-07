@@ -11,7 +11,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 There were two news stories recently that seemed to coincide. In the first, Cisco issued an annual security report which said the two current targets of the Internet criminal underground are banks and social networks. Banks because, well, we all know what they keep there. Social networks are targets because that’s where weakly protected password databases are kept and the passwords they contain probably are used on a lot of other sites as well.
 

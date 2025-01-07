@@ -14,7 +14,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 On a day when investors began celebrating Apple's report of having already sold its one millionth iPad, news from this morning's _New York Post_ — which was the first with the story of the Sirius + XM merger — has thrown a cold towel on investors' sentiments. [The _Post_ cites a single anonymous source](http://www.nypost.com/p/news/business/an_antitrust_app_buvCWcJdjFoLD5vBSkguGO) as saying that essentially the only thing stopping a government inquiry into whether Section 3.3.1 of Apple's Developers' Agreement violates antitrust law, is a dispute over which government department gets first crack: the Federal Trade Commission, or the Dept. of Justice Antitrust Division. 
 

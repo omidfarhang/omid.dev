@@ -11,7 +11,7 @@ tags:
   - stats
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![4928](http://lh4.ggpht.com/_vaUVXcmC3OI/S-AHt1rEouI/AAAAAAAACE8/zMq-W2lwOiA/4928%5B6%5D.jpg?imgmax=800 "4928") The Android Team today published a snapshot of the platform which shows the versions of Android most commonly in use. Though the platform is frequently criticized for being highly fragmented, there are three versions used far more than the rest. 
 

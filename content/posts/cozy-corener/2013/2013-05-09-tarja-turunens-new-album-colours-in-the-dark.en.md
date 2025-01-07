@@ -10,7 +10,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 We have been waiting for it, Tarja will be releasing a new album August 2013, the new album is called “Colours In The Dark”, She explain the album title:
 

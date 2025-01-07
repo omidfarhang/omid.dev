@@ -10,7 +10,7 @@ tags:
   - hack
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I’m almost certain this shouldn’t be on the Nokia.de webspace, lurking under the “online.nokia.de” subdomain:
 

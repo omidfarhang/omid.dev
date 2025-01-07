@@ -12,7 +12,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I had a look at my twitter page early this morning and read “Twitter is a rich source of insanity”, and thought “Wow, the twitter marketroids are really bold, but it's a good line.”  
 

@@ -8,7 +8,7 @@ tags:
   - foursquare
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![foursquare-day](http://lh3.ggpht.com/_vaUVXcmC3OI/S8oFFIPYFXI/AAAAAAAAB_8/B0kR1nmus9Q/foursquare-day_thumb%5B3%5D.jpg?imgmax=800 "foursquare-day")](http://lh4.ggpht.com/_vaUVXcmC3OI/S8oFA3FqtzI/AAAAAAAAB_4/hEyqZrSaiO4/s1600-h/foursquare-day%5B5%5D.jpg) It’s 4/16 and for fans of the social network application Foursquare, it’s cause for celebration. All across the world, Foursquare users are celebrating [Foursquare Day](http://4sqday.com/) by gathering in swarms and taking advantage of Foursquare deals offered by bars, restaurants and other venues. The big day could also potentially be the day Foursquare reaches one million members. 
 

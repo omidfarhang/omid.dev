@@ -9,7 +9,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We found this interesting and malicious little mechanism.
 

@@ -14,7 +14,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Ed Bott's Microsoft Report posted something interesting in ZDNet:
 

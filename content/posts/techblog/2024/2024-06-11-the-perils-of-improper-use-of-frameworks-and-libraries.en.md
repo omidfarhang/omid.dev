@@ -15,7 +15,7 @@ tags:
   - Developer Resources
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the modern software development landscape, frameworks and libraries are indispensable tools that streamline processes, provide pre-built functionality, and facilitate rapid development. However, their improper use can lead to significant problems, ranging from performance bottlenecks to security vulnerabilities. Whether you are a junior developer just starting out, or a seasoned senior developer, understanding how to properly use these tools is crucial for building robust, maintainable, and efficient applications. This blog post will delve into the various aspects of improper use of frameworks and libraries, offering insights and best practices to help you avoid common pitfalls.
 

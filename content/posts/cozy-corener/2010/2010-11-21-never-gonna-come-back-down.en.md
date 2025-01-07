@@ -9,7 +9,7 @@ tags:
   - video
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 {{< youtube nt52SoAeP48 >}}
 

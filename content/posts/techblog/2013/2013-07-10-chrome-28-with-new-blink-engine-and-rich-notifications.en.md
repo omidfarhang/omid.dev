@@ -13,7 +13,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Cross-posted from H-Online:
 

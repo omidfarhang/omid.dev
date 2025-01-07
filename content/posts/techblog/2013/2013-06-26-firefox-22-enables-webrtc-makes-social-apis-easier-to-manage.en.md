@@ -14,7 +14,7 @@ tags:
   - social networks
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![](/images/2013/06/logo-only.png)
 

@@ -15,7 +15,7 @@ tags:
   - Soft Skills
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the fast-paced and ever-evolving world of technology, building resilient teams is critical for sustained success. Resilience enables teams to adapt to change, overcome challenges, and maintain high performance levels. This comprehensive guide explores various strategies to enhance team resilience, focusing on managing stress, promoting work-life balance, and fostering a supportive team culture.
 

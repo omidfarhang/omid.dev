@@ -11,7 +11,7 @@ tags:
   - Offer
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5jZIlRnazI/AAAAAAAABPk/9rTLE8bhpA0/s320/opera-and-safari.gif)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5jZIlRnazI/AAAAAAAABPk/9rTLE8bhpA0/s1600-h/opera-and-safari.gif)
 

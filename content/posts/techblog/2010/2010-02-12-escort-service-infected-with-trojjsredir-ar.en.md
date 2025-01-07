@@ -11,7 +11,7 @@ tags:
   - phishing
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Clients of escorts and call girls are usually aware of the the risks presented from STIs. However, SophosLabs has been monitoring a different type of infection risk for clients of escorts in Indian cities.
 

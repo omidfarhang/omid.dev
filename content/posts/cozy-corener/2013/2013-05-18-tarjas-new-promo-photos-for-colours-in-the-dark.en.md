@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 New promo photos by Eugenio Mazzinghi for upcoming album Colours In The Dark
 

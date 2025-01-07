@@ -12,7 +12,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **<img title="Acrobat_X_Pro_boxshot_3in_viewimage" border="0" alt="Acrobat_X_Pro_boxshot_3in_viewimage" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TLzJEP8ounI/AAAAAAAACug/7I8sRN0fUNs/Acrobat_X_Pro_boxshot_3in_viewimage%5B5%5D.jpg?imgmax=800" width="144" height="144" />The New Acrobat X is finally here!**
 

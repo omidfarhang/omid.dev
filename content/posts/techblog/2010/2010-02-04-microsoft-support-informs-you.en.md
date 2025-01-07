@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Since yesterday, our lab has detected a flood of email messages that seem to contain a Microsoft Update, but it’s actually malware. We’ve seen around 3,000 in a few hours.
 

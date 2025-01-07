@@ -14,7 +14,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ### Accessing Facebook from a public computer or Internet cafe can now be done more securely.
 

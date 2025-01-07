@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70EhmU3vyI/AAAAAAAAB0Y/Mp-QB3NQQZE/s1600/aol-logos2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70EhmU3vyI/AAAAAAAAB0Y/Mp-QB3NQQZE/s1600-h/aol-logos2.jpg)
 

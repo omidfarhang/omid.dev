@@ -10,7 +10,7 @@ tags:
   - Thunderbird
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="thunderbird" border="0" alt="thunderbird" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TO6-jlMygJI/AAAAAAAADOU/DMrWTTjhb0U/thunderbird_thumb%5B1%5D.png?imgmax=800" width="148" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TO6-gpfohrI/AAAAAAAADOQ/uZzTRYBBh2E/s1600-h/thunderbird%5B3%5D.png)Mozilla announced Miramar Alpha 1, an early version of their next Thunderbird.
 

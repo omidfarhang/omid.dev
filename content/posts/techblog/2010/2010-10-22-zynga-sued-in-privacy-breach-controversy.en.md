@@ -12,7 +12,7 @@ tags:
   - Zynga
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **218 million “class members” probably won’t settle for Farmville dollar**
 

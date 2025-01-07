@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 LiveEnterpriseSuite is a clone of InternetAntivirusPRO. Actually, the only thing that the authors of this rogue have changed is the name in the GUI.
 

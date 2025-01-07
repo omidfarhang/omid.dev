@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **A university professor in Sweden has “hope for humanity” after the thief who stole his laptop backed up all his data and mailed it to him on a USB stick.**
 

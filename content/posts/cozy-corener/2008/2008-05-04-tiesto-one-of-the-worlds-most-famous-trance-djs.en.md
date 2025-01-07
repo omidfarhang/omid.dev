@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 [![40850_bio_-_dj_tiesto_01](/images/2008/05/40850_bio_-_dj_tiesto_01.jpg)](/images/2008/05/40850_bio_-_dj_tiesto_01.jpg)
 

@@ -10,7 +10,7 @@ tags:
   - Password
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Treat your passwords with as much care as you treat the information that they protect.
 

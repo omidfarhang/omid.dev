@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 _I posted this without spell-check or grammar check, without review etc, just think and write and post:_
 

@@ -9,7 +9,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Facebook and security. Is it a marriage that has any legs? 
 

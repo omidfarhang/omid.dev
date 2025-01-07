@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 
 Activities associated with Koobface have increased during the month of December. Often it is for the sending of traffic to compromised servers in order to obtain more servers. Other times the activity centers around using those same compromised servers to proxy users to malicious domains that are then used for further distribution of malware or command and control of the infected machines.

@@ -11,7 +11,7 @@ tags:
   - phishing
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 PayPal users are at risk of getting their credentials stolen if they follow instructions given in a scam email.
 

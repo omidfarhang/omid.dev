@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 ![astrix3](/images/2008/04/astrix3-208x300.jpg)
 

@@ -10,7 +10,7 @@ tags:
   - rogue software
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **The third generation of WiniGuard gets a new clone every 48 hours**
 

@@ -14,7 +14,7 @@ tags:
   - career
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As an experienced Angular developer, you might be considering expanding your skill set by learning Java. This transition can be both challenging and rewarding, offering you a broader perspective on software development. In this blog post, we’ll explore how your Angular background can aid your journey into Java, and provide you with a detailed roadmap to get started.
 

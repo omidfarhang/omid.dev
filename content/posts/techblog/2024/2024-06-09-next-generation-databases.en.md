@@ -21,7 +21,7 @@ tags:
   - ArangoDB
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In today's rapidly evolving digital landscape, the need for databases that can handle massive volumes of data with high performance, scalability, and consistency has never been more critical. Traditional databases, while robust, often struggle to meet these demands. This has paved the way for next-generation databases, including NewSQL and distributed SQL, which are designed to address these challenges head-on. In this blog post, we will explore the world of next-generation databases, focusing on NewSQL, distributed SQL, and other innovative database technologies that are revolutionizing enterprise applications.
 

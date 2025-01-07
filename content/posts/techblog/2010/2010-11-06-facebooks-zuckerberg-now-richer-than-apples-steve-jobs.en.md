@@ -9,7 +9,7 @@ tags:
   - Mark Zuckerberg
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="10688v38-max-450x450" border="0" alt="10688v38-max-450x450" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNWYmgxwPgI/AAAAAAAADGQ/WPygQGEfM7Q/10688v38-max-450x450_thumb.jpg?imgmax=800" width="204" height="257" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNWYlBLQ7nI/AAAAAAAADGM/kGLUKAN4jrE/s1600-h/10688v38-max-450x450%5B2%5D.jpg)Just 5 years after founding Facebook, Mark Zuckerberg is worth more than Apple’s iconic chief Steve Jobs.
 

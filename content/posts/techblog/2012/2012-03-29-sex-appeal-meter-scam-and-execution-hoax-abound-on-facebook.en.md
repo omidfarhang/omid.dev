@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _Cross posted from GFI, Sunbelt Blog:_ 
 

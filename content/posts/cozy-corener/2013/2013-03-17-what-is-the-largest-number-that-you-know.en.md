@@ -9,7 +9,7 @@ tags:
   - information
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 [![googol](/images/2013/03/googol-150x150.jpg)](/images/2013/03/googol.jpg)
 

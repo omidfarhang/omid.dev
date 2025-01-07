@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Some people didn't like his comments about downloading…
 

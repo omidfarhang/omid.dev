@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3cFmkLNMsI/AAAAAAAAA8Y/EeWgQfQ8vd0/s640/chromelogo.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3cFmkLNMsI/AAAAAAAAA8Y/EeWgQfQ8vd0/s1600-h/chromelogo.png)
 

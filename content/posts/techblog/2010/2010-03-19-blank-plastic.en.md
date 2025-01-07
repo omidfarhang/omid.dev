@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We regularly learn of cases where criminals have gained access to credit card numbers via **keyloggers**, **skimmers** or **online hacks**.
 

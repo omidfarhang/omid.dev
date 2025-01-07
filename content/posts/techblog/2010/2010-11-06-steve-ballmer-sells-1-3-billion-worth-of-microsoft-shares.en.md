@@ -11,7 +11,7 @@ tags:
   - Steve Ballmer
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="ballmer" border="0" alt="ballmer" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNVwfh5-9YI/AAAAAAAADE4/B_kbNuiWytc/ballmer_thumb.jpg?imgmax=800" width="229" height="229" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNVwcQpFDqI/AAAAAAAADE0/WpHGnP4uyr4/s1600-h/ballmer%5B2%5D.jpg)**Mashable:** Microsoft CEO Steve Ballmer has sold 12% of his stake in the tech giant in a transaction worth over $1.3 billion. 
 

@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 You know, suicide is one of the stuff that I’ve always given a thumb-up to, but every person in this small world has their own reason to stay away from that, one may love his/her life and see no reason for doing that, good for them!, one may afraid of death, one may don’t afraid of death and care about what happens after their death and… 
 

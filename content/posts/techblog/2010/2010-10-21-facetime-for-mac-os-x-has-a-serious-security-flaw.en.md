@@ -12,7 +12,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **A German source is signaling that those who haven’t downloaded FaceTime for Mac just yet may want to hold back on the desire to video chat with their iPhone-wielding friends, as there may be some serious security risks involved.**
 

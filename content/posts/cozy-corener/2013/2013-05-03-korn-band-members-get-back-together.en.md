@@ -10,7 +10,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 Head, Munky, JD, Fieldy, and Ray are not only together again on-stage for shows beginning May 15, but Korn is also in the studio recording a new album!
 

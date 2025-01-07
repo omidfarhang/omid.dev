@@ -15,7 +15,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Avira TechBlog:** Today some updates need attention – they fix critical security issues and should be installed immediately!
 

@@ -14,7 +14,7 @@ tags:
   - stats
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![retrevochart](http://lh6.ggpht.com/_vaUVXcmC3OI/S-AIyagILDI/AAAAAAAACFI/RZxaqre91pc/retrevochart_thumb%5B4%5D.jpg?imgmax=800 "retrevochart")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-AIwA1NCdI/AAAAAAAACFE/tzJumOtJnrA/s1600-h/retrevochart%5B6%5D.jpg) When consumer electronics shopping site [Retrevo](http://www.retrevo.com/content/blog/2010/04/mothers-day-special-report-parenting-and-social-media) prepared for Mother’s Day by conducting a survey of parents’ social media practices, it found that nearly half (48%) of parents add their children as friends on Facebook. 
 

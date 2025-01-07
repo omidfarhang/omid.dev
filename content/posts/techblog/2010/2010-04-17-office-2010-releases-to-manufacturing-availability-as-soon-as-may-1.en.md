@@ -12,7 +12,7 @@ tags:
   - Office
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![3255](http://lh3.ggpht.com/_vaUVXcmC3OI/S8nrUmcLgBI/AAAAAAAAB_c/4K9tGvgWbcc/3255_thumb%5B3%5D.jpg?imgmax=800 "3255")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8nrTFYcPxI/AAAAAAAAB_Y/H9E6-BxEycE/s1600-h/3255%5B5%5D.jpg) The first volume licensing arrangements for Microsoft Office 2010 will be made through company partners on May 1, almost two weeks earlier than expected. This news today from the company's Office Engineering team, which released the final build of all versions of the company's principal applications suite today. 
 

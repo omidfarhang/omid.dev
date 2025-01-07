@@ -10,7 +10,7 @@ tags:
   - My Life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Happy New Computer (To me!)
 

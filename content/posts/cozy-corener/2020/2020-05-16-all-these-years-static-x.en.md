@@ -13,7 +13,7 @@ tags:
   - Wayne Static
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 ![All These Years – Static-X](/images/2020/05/Wayne-Static-1024x683.jpg)
 

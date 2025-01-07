@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [TheHackerNews](http://thehackernews.com/2012/05/google-iraq-defaced-by-anonymous.html): Google got Pwned ? NO Few **Algerian Script Kiddies** try to spread fake rumors that they Hack and Deface the Giant Search engine “**Google Iranian**” domain <http://www.google.co.ir/> . As the screenshot shown a Algerian flag on it and Page Titles : **“****H4Ck3D By vaga-hacker dz and DR.KIM”.**
 

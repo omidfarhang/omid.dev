@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Starting at ~3:20pm GMT today, Canadian Pharmacy spammers began using attached MP3 files as the call-to-action for their latest campaign. The message had no subject, no “text” body content, just an attached “audio/mpeg” file with a random lower case file name.
 

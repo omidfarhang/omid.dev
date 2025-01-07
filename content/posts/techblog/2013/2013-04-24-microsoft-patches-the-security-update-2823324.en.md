@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![windows update[3]](/images/2013/04/windows-update3.jpg)](/images/2013/04/windows-update3.jpg)Microsoft is making another attempt to close the privilege elevation hole in the NTFS filesystem's kernel driver for Windows 7 and Server 2008, including R2. The new patch, [2840149](http://support.microsoft.com/kb/2840149), supersedes security update 2823324, which Microsoft released on its [April Patch Tuesday](http://www.h-online.com/news/item/Springtime-for-patches-Microsoft-9-Adobe-3-1838189.html "Springtime for patches: Microsoft 9 - Adobe 3 – 10 April 2013, 09:16").
 

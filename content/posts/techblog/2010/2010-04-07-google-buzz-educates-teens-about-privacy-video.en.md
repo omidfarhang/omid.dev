@@ -11,7 +11,7 @@ tags:
   - Video
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![Google Buzz](/images/2010/04/Google-Buzz.jpg)
 

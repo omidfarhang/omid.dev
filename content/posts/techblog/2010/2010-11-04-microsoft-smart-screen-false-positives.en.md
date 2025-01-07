@@ -11,7 +11,7 @@ tags:
   - SmartScreen
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![screenshot_smartscreen](http://lh6.ggpht.com/_vaUVXcmC3OI/TNMqarQQCyI/AAAAAAAADCg/KZh9JC6bGkY/screenshot_smartscreen_thumb%5B1%5D.jpg?imgmax=800 "screenshot_smartscreen")](http://lh5.ggpht.com/_vaUVXcmC3OI/TNMqVz8GZXI/AAAAAAAADCc/IQ1i1alV-Xw/s1600-h/screenshot_smartscreen%5B4%5D.jpg)SANS.edu: We received a couple of reports about Microsoft's “Smart Screen” flagging harmless sites as malicious. Initially, we considered the possibility of an infected ad service. But it may be a bug in Smartfilter as well. Some reports on [twitter](http://twitter.com/#!/search/%23smartscreen) show that the problem has been resolved.
 

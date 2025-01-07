@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs:** Here's a spam message I received today: 
 

@@ -9,7 +9,7 @@ tags:
   - This Blog Update
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 you may follow me on [Twitter](http://twitter.com/OmidFarhangEn):
 

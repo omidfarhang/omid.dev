@@ -16,7 +16,7 @@ tags:
   - Truffle
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In recent years, decentralized applications (DApps) have emerged as a groundbreaking paradigm in the world of software development. Unlike traditional applications that run on centralized servers, DApps operate on blockchain technology, which offers enhanced security, transparency, and decentralization. This guide will walk you through the process of creating a DApp using Angular and Ethereum, including smart contract development with Solidity.
 

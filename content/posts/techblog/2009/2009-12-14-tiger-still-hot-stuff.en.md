@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Despite talk of Tiger Woods’ sponsors “limiting his role” in their advertising campaigns, he is still very much hot stuff when it comes to search engine queries which means he’s still a viable target for the malware writers.
 

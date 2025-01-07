@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The U.S. Department of Justice has announced that federal agencies have made 700 seizures of counterfeit Cisco hardware worth more than $143 million in the last five years. The investigations resulted in the conviction of 30 people in an initiative targeting the illegal distribution of counterfeit network hardware manufactured in China. Nine other individuals are awaiting trial and eight are awaiting sentencing.
 

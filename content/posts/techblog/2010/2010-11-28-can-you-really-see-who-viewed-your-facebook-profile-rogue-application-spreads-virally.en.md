@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![facebook(low)](http://lh6.ggpht.com/_vaUVXcmC3OI/TPK3HNZz7cI/AAAAAAAADPU/KXbJK4BWeAk/facebook%28low%29_thumb%5B1%5D.jpg?imgmax=800 "facebook(low)")](http://lh3.ggpht.com/_vaUVXcmC3OI/TPK3EsBaJXI/AAAAAAAADPQ/QPP1x8j3_Nw/s1600-h/facebook%28low%29%5B3%5D.jpg)
 

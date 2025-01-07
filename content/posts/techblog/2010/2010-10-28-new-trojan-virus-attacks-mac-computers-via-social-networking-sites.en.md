@@ -13,7 +13,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Mac: Hi PC, I'm not feeling so hot today…  
 ** **PC: Oh, I know ALL about that. I think you have a virus!**

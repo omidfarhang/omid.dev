@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kWM3OJt5I/AAAAAAAABZA/N4z2vHnoclE/s1600/Firefox_20early.png)](http://www.mozilla.com/products/download.html?product=firefox-3.6.2&os=win&lang=en-US)
 

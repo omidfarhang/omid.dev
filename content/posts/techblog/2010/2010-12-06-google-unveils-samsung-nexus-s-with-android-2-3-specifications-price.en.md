@@ -14,7 +14,7 @@ tags:
   - samsung
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google has finally announced its new phone ‘Nexus S’ manufactured by Samsung and is the first phone powered by the latest Android 2.3 Gingerbread OS. Nexus S is a successor of Nexus One and looks an amazing Android phone with powerful hardware.
 

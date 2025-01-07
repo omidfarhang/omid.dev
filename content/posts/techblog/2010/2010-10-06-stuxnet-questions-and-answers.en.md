@@ -13,7 +13,7 @@ tags:
   - Stuxnet
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Stuxnet** continues to be a hot topic. Here are answers to some of the questions we've received.
 

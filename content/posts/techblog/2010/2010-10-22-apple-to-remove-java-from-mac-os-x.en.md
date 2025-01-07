@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Java" border="0" alt="Java" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMH8lSieCFI/AAAAAAAAC4A/iWVhTb2W-a8/Java_thumb%5B1%5D.jpg?imgmax=800" width="150" height="150" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMH8kKOKrfI/AAAAAAAAC38/N2zDCW3mBcg/s1600-h/Java%5B3%5D.jpg)After the news that the new MacBook Airs do [not](http://www.engadget.com/2010/10/20/macbook-air-all-substance-no-flash/) ship with Flash pre-installed (which is news considering Flash has been part of Mac OS X for a very long time), we now have news that Apple is also taking what appears to be the first steps towards [removing Apple's own Java runtime from Mac OS X](http://developer.apple.com/library/mac/#releasenotes/Java/JavaSnowLeopardUpdate3LeopardUpdate8RN/NewandNoteworthy/NewandNoteworthy.html%23//apple_ref/doc/uid/TP40010380-CH4-SW1). 
 

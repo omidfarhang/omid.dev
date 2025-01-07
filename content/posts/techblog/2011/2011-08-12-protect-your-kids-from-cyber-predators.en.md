@@ -9,7 +9,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _Posted by [the Stop. Think. Connect. Campaign](http://www.dhs.gov/stopthinkconnect) on **Homeland Security**_
 

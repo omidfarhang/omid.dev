@@ -12,7 +12,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Take a look in the Email I got from Google a few minutes ago:
 

@@ -15,7 +15,7 @@ tags:
   - web series
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![showtimefyc2](http://lh6.ggpht.com/_vaUVXcmC3OI/S-leAqNy0pI/AAAAAAAACHw/yXEOqV1VLjQ/showtimefyc2_thumb%5B1%5D.jpg?imgmax=800 "showtimefyc2")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-ld-rkCxVI/AAAAAAAACHs/B8QEeR8Pfpg/s1600-h/showtimefyc2%5B3%5D.jpg) Premium cable TV channel Showtime plans to launch a service that will stream episodes of original series like _Weeds_, _The Tudors_ and _Californication_ to subscribers, a source told [Bloomberg Businessweek](http://www.businessweek.com/news/2010-05-10/cbs-s-showtime-said-to-test-putting-shows-online-update1-.html). 
 

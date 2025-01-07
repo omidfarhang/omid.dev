@@ -14,7 +14,7 @@ tags:
   - Micro Frontends
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). But now let's explorer a working example to understand it better.
 

@@ -11,7 +11,7 @@ tags:
   - Windows Touch
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Do you have a family bulletin board? Leave notes on the refrigerator with to-do’s and reminders? CyberLink YouMemo lets you move all that on to your PC with a digitized pin board optimized for Windows Touch.
 

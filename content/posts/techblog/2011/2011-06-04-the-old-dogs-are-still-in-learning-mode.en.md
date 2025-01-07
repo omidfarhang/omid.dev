@@ -9,7 +9,7 @@ tags:
   - rogue software
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Norman Security Blog wrote a good article about Fake AVs and their new variants and how to protect ourselves, Credit to my friend, Pondus, for sharing this:
 

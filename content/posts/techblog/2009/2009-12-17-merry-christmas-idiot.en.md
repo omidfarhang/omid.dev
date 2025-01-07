@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It's not a huge surprise that we are seeing some malware spam runs where the malicious attachment attempts to portray itself as a **Christmas Greeting** of some sort.
 

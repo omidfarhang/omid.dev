@@ -14,7 +14,7 @@ tags:
   - Statics
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 When it comes to increasing indoor humidity, most people think of a humidifier. But what if a couple of houseplants, like the *Spathiphyllum* (peace lily) or the *Ficus elastica* (rubber plant), could compete? Let’s dive into a fun comparison to see how these popular houseplants stack up against a common cool mist humidifier! 🌿💧
 

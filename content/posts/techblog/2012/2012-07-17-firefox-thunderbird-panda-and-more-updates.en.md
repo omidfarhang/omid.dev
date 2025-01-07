@@ -14,7 +14,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Mozilla Firefox:** Mozilla has released a new update for Firefox, Mozilla Firefox 14.0.1, This version comes with Google Secure search by default, flat buttons in toolbar and some Performance improvement and security fixes. Read more in [Mozilla Blog](https://blog.mozilla.org/blog/2012/07/17/new-security-and-developer-features-now-in-firefox/).
 

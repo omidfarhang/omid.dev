@@ -10,7 +10,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Yahoo Movies has [posted the newest trailer](http://movies.yahoo.com/feature/sex-and-the-city-2.html?showVideo=1) for the upcoming film, _Sex and the City 2._ The sequel to the 2008 box office hit comes to theaters on May 28, 2010.
 

@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="omg-girlfriend-170" border="0" alt="omg-girlfriend-170" align="right" src="http://lh5.ggpht.com/-9L4BgI7WywI/T0O66MD9TCI/AAAAAAAAE5o/sF3dlSwuJfw/omg-girlfriend-170_thumb.jpg?imgmax=800" width="174" height="174" />](http://lh5.ggpht.com/-vmOud57TbcU/T0O6mMjV6yI/AAAAAAAAE5g/0lDrD-uzHfQ/s1600-h/omg-girlfriend-170%25255B2%25255D.jpg)SophosLabs:** Scammers are up to their old tricks on Facebook, tricking users into visiting revenue-generating survey scam websites by appearing to offer sex videos. 
 

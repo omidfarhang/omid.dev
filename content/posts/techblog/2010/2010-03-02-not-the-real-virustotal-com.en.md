@@ -14,7 +14,7 @@ tags:
   - VirusTotal
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _In Additional to my last Post_: <http://boelectronic.blogspot.com/2010/03/free-fakeav-at-virus-total-thats-not.html>
 

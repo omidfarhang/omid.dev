@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The 2010 Winter Olympics were held in Vancouver, Canada, from February 12-28. With more than 82 countries participating and millions across the globe catching day-to-day action, it was sadly quite obvious that we would see spam attacks centered on this event. However, the volume of spam relating to the Winter Olympics is actually very low, which is unlike the Beijing Olympics, when spam campaigns had started way before actual event. In the case of the Winter Olympics, spammers seem to be only now waking up from their slumber.
 

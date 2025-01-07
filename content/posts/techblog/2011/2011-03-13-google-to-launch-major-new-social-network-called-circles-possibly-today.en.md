@@ -11,7 +11,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Today I’ve read a nice article in readwriteweb.com so I wanted share it with you:
 

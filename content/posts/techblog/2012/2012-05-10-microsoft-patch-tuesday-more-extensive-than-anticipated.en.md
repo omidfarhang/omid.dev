@@ -12,7 +12,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="windows update" border="0" alt="windows update" align="right" src="http://lh6.ggpht.com/-t62QOakM5Cg/T6uGuwHTgCI/AAAAAAAAF8Q/LsB6loffnKA/windows%252520update_thumb%25255B5%25255D.jpg?imgmax=800" width="170" height="220" />](http://lh3.ggpht.com/-0mWP4hL3s38/T6uGtVCaFzI/AAAAAAAAF8I/azI-mt5ESXs/s1600-h/windows%252520update%25255B3%25255D.jpg)The H-Online: As previously announced, Microsoft has [released](http://technet.microsoft.com/en-us/security/bulletin/ms12-may) seven bulletins to close a total of 23 vulnerabilities on its May Patch Tuesday. The total number of bulletins belies the scope of the patches, however, as the combined update [MS12-034](http://technet.microsoft.com/en-us/security/bulletin/ms12-034) closes various holes in numerous products. 
 

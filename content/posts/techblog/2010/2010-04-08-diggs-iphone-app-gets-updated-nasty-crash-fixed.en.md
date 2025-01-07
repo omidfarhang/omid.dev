@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S73vCQKAdsI/AAAAAAAAB1g/U8D6QWLq27c/s200/digg_app_store.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S73vCQKAdsI/AAAAAAAAB1g/U8D6QWLq27c/s1600/digg_app_store.jpg)
 

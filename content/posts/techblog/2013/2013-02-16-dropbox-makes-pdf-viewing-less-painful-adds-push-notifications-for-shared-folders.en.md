@@ -14,7 +14,7 @@ tags:
   - PDF
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Dropbox-Logo-BG](http://lh4.ggpht.com/-Mjtm9i9BRNg/UR9-Kg4-GpI/AAAAAAAAHzU/GWPra7_0n1I/Dropbox-Logo-BG_thumb%25255B3%25255D.jpg?imgmax=800 "Dropbox-Logo-BG")](http://lh6.ggpht.com/-AGvrXeRKmgc/UR9-F1mPzKI/AAAAAAAAHzM/9Xlj_CtXLCI/s1600-h/Dropbox-Logo-BG%25255B5%25255D.jpg)Just a few days after adding a new set of features to Dropbox for Teams, the cloud storage company rolled out a new version of [its iOS application](https://itunes.apple.com/us/app/id327630330) which introduces a few useful additions as well. For starters, it has added an improved PDF viewer, which lets you navigate to any page in the document by tapping on the thumbnail. It’s rather awesome, in fact. The update also introduces push notifications for folders shared with you – a feature that’s [now available on Android](https://play.google.com/store/apps/details?id=com.dropbox.android&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5kcm9wYm94LmFuZHJvaWQiXQ), too.
 

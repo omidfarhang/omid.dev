@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Don’t run your PC with admin privileges
 

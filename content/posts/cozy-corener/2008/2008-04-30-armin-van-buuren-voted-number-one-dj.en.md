@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
  ![Armin van Buuren](/images/2008/04/pic-201x300.jpg)
 

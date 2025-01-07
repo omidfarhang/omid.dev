@@ -11,7 +11,7 @@ tags:
   - Rust Concurrency
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Concurrency in modern software development is not just a luxury but a necessity. As applications grow more complex and user expectations for responsiveness increase, developers need to harness the power of concurrent programming to build efficient and scalable systems. Rust, with its unique ownership model, safety guarantees, and powerful concurrency primitives, provides an excellent foundation for tackling these challenges. In this post, we'll dive deep into concurrency in Rust, focusing on advanced patterns with async/await and the Tokio runtime.
 

@@ -13,7 +13,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-7TxybyMwwbs/Tl-h05g4gQI/AAAAAAAAEA8/EgIYiOF1mMA/s1600/iphone-5-170.jpg)](http://4.bp.blogspot.com/-7TxybyMwwbs/Tl-h05g4gQI/AAAAAAAAEA8/EgIYiOF1mMA/s1600/iphone-5-170.jpg)
 

@@ -9,7 +9,7 @@ tags:
   - events
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I wish Lady Liberty a Happy 125th Birthday today!
 

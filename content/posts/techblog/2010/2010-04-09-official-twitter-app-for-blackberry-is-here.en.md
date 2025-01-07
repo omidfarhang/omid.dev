@@ -13,7 +13,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S78hQKKIGZI/AAAAAAAAB1k/2hwQmOgsEys/s400/twitter_blackberry.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S78hQKKIGZI/AAAAAAAAB1k/2hwQmOgsEys/s1600/twitter_blackberry.jpg)
 

@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Symantec Connect:** Recently we noticed spammers abusing Dropbox, a popular cloud-based, file-hosting and synchronization tool, to spread spam. 
 

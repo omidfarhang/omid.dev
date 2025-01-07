@@ -11,7 +11,7 @@ tags:
   - ipad 2
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **An iPad 2 could hit shelves as early as next year, according to at least one source.**
 

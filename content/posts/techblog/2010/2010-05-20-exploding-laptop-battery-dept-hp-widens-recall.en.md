@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Hewlett-Packard has announced it has expanded the May 14, 2009, recall of its laptop battery packs. The company will replace the defective batteries at no cost to customers.
 

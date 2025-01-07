@@ -11,7 +11,7 @@ tags:
   - Guide
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ### Checklist: Protecting your business, your employees and your customers
 

@@ -11,7 +11,7 @@ tags:
   - events
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Happy Valentine's Day
 

@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We see spam all the time. One of the most dependable things spammers do is to try and exploit various newsworthy events and holidays.
 

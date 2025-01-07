@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![information-data-tunnel-200](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-yFOgPgBI/AAAAAAAAB4o/OjONIoutqTM/information-data-tunnel-260_thumb%5B2%5D.jpg?imgmax=800 "information-data-tunnel-200")](http://lh6.ggpht.com/_vaUVXcmC3OI/S7-x2v1kVQI/AAAAAAAAB4k/Yqb6qYsumdY/s1600-h/information-data-tunnel-260%5B4%5D.jpg) The United Kingdom parliament has passed the Digital Economy Bill, an extensive and controversial piece of legislation, by a vote of 189 to 47. The legislation encompasses online copyright infringement, Internet piracy, regulation of TV and radio, the classification of video games, regulations over ISPs, and a hodgepodge of other digital topics. 
 

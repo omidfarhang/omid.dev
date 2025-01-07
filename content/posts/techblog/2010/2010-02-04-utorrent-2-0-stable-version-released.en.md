@@ -8,7 +8,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s320/utorrent.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oRx97uzTI/AAAAAAAAAyA/RLpfIpJZmtI/s1600-h/utorrent.png)
 

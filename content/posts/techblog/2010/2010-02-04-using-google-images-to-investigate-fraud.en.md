@@ -9,7 +9,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Sami, one of our test engineers, was recently seeking a Play Station 3.
 

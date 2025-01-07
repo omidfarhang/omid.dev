@@ -11,7 +11,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 …”click here to view”.
 

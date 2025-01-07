@@ -9,7 +9,7 @@ tags:
   - quote
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 The fundamental cause of trouble in the world today is that the stupid are cocksure while the intelligent are full of doubt.  
 — Bertrand Russell

@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Symantec Connect:** Television channels across the world are set to be at the 14th International Exhibition and Forum, World Content Show, held Feb 7- 9, 2012, in Russia. The exhibition showcases the latest technologies and trends in the TV and telecommunication industry.
 

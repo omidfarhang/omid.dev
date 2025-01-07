@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Well in time for the [MeeGo Conference](http://conference2010.meego.com/) next month, Nokia has just started the rollout of the all new PR 1.3 firmware (v20.2010.36-2) for the N900. The update is available over the air (OTA) in the UK with other countries expected to follow suit tomorrow. It should also be available via Nokia’s Software Updater in the coming days, but if you can’t wait or want to flash your device to get a fresh start, [grab the firmware images from here](http://tablets-dev.nokia.com/nokia_N900.php) and get cracking.
 

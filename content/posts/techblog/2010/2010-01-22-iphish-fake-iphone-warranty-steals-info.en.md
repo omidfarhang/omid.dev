@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 This week we’ve seen a spam campaign aimed at separating unsuspecting users from their iPhone details.
 

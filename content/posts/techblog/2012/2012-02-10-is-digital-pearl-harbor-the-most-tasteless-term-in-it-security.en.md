@@ -10,7 +10,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![](http://lh6.ggpht.com/-bb4cyoOU-ug/TzTsofsosAI/AAAAAAAAEm8/P4R5vKCzGo4/s1600-h/digital-pearl-harbor-170%25255B2%25255D.jpg)
 

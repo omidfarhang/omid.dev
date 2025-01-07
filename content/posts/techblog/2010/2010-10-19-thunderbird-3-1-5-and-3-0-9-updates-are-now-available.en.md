@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="thunderbird" border="0" alt="thunderbird" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL4IIBP-HcI/AAAAAAAACxc/e_o0D5z_bXo/thunderbird_thumb%5B1%5D.png?imgmax=800" width="150" height="152" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL4IFpdMKlI/AAAAAAAACxY/Hpe-QrDRfWk/s1600-h/thunderbird%5B3%5D.png)Thunderbird 3.1.5 and Thunderbird 3.0.9 updates are now available for Windows, Mac, and Linux for free download from [www.GetThunderbird.com](http://www.getthunderbird.com/). These releases make several improvements to Thunderbird’s performance, stability, and security. There are also several fixes to improve the user interface and add-ons experience.
 

@@ -13,7 +13,7 @@ tags:
   - WordPress
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Follow up from: [Hacker Gains Access To WordPress.com Servers](http://boelectronic.blogspot.com/2011/04/hacker-gains-access-to-wordpresscom.html)
 

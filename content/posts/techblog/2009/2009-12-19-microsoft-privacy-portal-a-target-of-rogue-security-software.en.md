@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Earlier in 2009, the [Microsoft privacy homepage](http://www.microsoft.com/privacy/) became the target of rogue security software developers looking to make a fast buck. The developers of the rogue security application known as “[Privacy Center](https://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Trojan:Win32/PrivacyCenter#summary_link)” even went so far as to include a link to Microsoft to trick users into thinking the rogue is a Microsoft product. Trojan:Win32/PrivacyCenter is a family of programs that claims to scan for malware and displays fake warnings of “malicious programs and viruses”. They then inform the user that they need to pay money to register the software in order to remove these non-existent threats.
 

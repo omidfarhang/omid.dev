@@ -14,7 +14,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 A [massive earthquake struck near the Chilean city of Concepcion](http://news.bbc.co.uk/2/hi/americas/8540289.stm) in the early hours of the morning of February 27th, 2010. The [quake measuring 8.8](http://www.prh.noaa.gov/ptwc/?region=1&id=pacific.2010.02.27.104329) on the Richter scale was considerably stronger than the one that recently caused widespread destruction on the island of Haiti. Fortunately, despite the size of this latest quake, so far there has been few reported casualties. The quake occurred near the coast and [tsumani warnings](http://www.prh.noaa.gov/ptwc/messages/pacific/2010/pacific.2010.02.27.144553.txt) were issued for many countries bordering on the Pacific ocean. Unfortunately as with any major news event, miscreants are not slow to pounce when such opportunities arise to further their aims.
 

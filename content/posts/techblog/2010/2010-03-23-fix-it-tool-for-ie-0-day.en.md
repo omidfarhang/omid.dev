@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 For the current vulnerability in Internet Explorer 6 and 7 which already gets actively exploited on the net, Microsoft is already testing a patch. The company is still [considering](http://blogs.technet.com/msrc/archive/2010/03/12/update-on-security-advisory-981374.aspx) whether to release the patch on the regular Patchday or out-of-band.
 

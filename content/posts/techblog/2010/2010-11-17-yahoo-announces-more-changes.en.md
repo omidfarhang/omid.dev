@@ -11,7 +11,7 @@ tags:
   - Zynga
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![yahoo_purple_large](http://lh6.ggpht.com/_vaUVXcmC3OI/TOQ4_QlMmrI/AAAAAAAADKA/4pTnDRlzBeI/yahoo_purple_large_thumb%5B5%5D.gif?imgmax=800 "yahoo_purple_large")](http://lh3.ggpht.com/_vaUVXcmC3OI/TOQ47lE0PoI/AAAAAAAADJ8/j6aJfN4qi0w/s1600-h/yahoo_purple_large%5B7%5D.gif)
 

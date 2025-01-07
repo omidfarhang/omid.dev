@@ -9,7 +9,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Our good friends at Hanoi, Viet Nam, -based security firm Bkis have written about an interesting malcode lure: Trojans masquerading as updates for popular applications such as Adobe, Java or Windows.
 

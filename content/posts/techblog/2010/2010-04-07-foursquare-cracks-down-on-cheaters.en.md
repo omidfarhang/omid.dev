@@ -10,7 +10,7 @@ tags:
   - trending
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70SGFXEWII/AAAAAAAAB1M/4vW6-uIvkPs/s200/sticking-tongue-out.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70SGFXEWII/AAAAAAAAB1M/4vW6-uIvkPs/s1600-h/sticking-tongue-out.jpg)
 

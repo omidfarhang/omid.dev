@@ -12,7 +12,7 @@ tags:
   - News
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Cross-posted from PCMag SecurityWatch:
 

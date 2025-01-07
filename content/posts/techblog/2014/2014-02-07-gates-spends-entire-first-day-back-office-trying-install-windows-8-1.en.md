@@ -14,7 +14,7 @@ tags:
   - windows 8.1
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![gates](/images/2014/02/gates.jpg)](/images/2014/02/gates.jpg)
 

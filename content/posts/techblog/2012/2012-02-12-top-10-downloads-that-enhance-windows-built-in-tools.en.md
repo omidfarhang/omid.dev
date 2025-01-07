@@ -9,7 +9,7 @@ tags:
   - suggestion
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **LifeHacker**:
 

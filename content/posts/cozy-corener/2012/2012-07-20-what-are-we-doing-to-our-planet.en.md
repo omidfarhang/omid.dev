@@ -9,7 +9,7 @@ tags:
   - I think
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 This is a picture that ‘The New York Times’ shared today:
 

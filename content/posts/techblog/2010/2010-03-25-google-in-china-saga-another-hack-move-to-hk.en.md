@@ -12,7 +12,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 There is a risk to computer security from governments. Regulatory changes, even if they are very positive measures, can impose huge demands on an enterprise (i.e. HIPPA, Sarbanes-Oxley, California’s law requiring notification of customers whose personal information is hacked on company sites.)
 

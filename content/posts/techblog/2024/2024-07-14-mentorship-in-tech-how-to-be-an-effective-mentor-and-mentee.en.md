@@ -15,7 +15,7 @@ tags:
   - Mentor Guidelines
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Mentorship is a cornerstone of professional growth and development, particularly in the fast-paced and ever-evolving tech industry. Whether you're a seasoned professional or just starting your career, engaging in a mentor-mentee relationship can provide invaluable insights, support, and opportunities for both personal and professional advancement. This blog post explores the benefits of mentorship in tech and offers practical guidelines for both mentors and mentees to maximize their relationships.
 

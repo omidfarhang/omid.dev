@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The [Anti-Botnet Initiative](http://www.botfrei.de/) has now been started. The initiative is a cooperation of [eco](http://www.eco.de/) and The German Federal Bureau for Information Security ([BSI](https://www.bsi.bund.de/)) and has created a telephone hotline for persons which may have their computers infected and seem to be a part of a botnet. In order to be able to detect this, the major ISPs in Germany are also cooperating (1und1, Telekom, Kabel BW, NetCologne, QSC and Versatel). The ISPs monitor suspicious activity on all IP addresses in their pool. As suspicious activity is considered, for example, the sending of huge amounts of data on certain ports like 25 for SMTP (used to send spam emails), incoming HTTP connections (used to serve HTTP connections) and so on. Once the ISP detects this, the customer gets an email notification with information about the suspicious activity and various other information (like the telephone number of the hotline). The user is also instructed to have a look on the [www.botfrei.de](http://www.botfrei.de/) website.
 

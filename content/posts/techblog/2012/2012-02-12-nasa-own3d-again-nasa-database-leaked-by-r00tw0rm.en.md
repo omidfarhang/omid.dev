@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The Hacker News: 
 

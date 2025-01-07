@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Search terms that are censored in China:
 

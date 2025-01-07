@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Last month, Baidu, the leading search engine in China, filed suit against US-based Internet registrar Register.com, in a legal event that took place at the height of the debate over Google's continued business dealings with China. Baidu accused the registrar of changing its DNS records, so that customers were redirected to a completely different site purporting to represent the “Iranian Cyber Army.” But that original suit was heavily redacted, so we didn't know the specifics of the alleged defacement. This week, US District Court in New York released the unredacted version of Baidu's complaint, and now, as the man once said, we know the rest of the story.
 

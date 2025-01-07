@@ -13,7 +13,7 @@ tags:
   - SRI
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In today's digital age, the security of web applications is of paramount importance. With cyber-attacks becoming increasingly sophisticated, web developers must implement robust security measures to protect their applications and users. This blog post explores three advanced security practices—Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), and Subresource Integrity (SRI)—that can significantly enhance the security of web applications. We will delve into their implementation, use cases, and benefits, providing comprehensive guidance to help you secure your web applications effectively.
 

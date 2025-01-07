@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="photoshop_cs5_mnemonic_png-550x544" border="0" alt="photoshop_cs5_mnemonic_png-550x544" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP7Kje5V3eI/AAAAAAAADdU/cNP3BYV28KU/photoshop_cs5_mnemonic_png-550x544_thumb%5B1%5D.png?imgmax=800" width="150" height="148" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7KhnQoIkI/AAAAAAAADdQ/sioPPjS7ex8/s1600-h/photoshop_cs5_mnemonic_png-550x544%5B3%5D.png)Adobe:** The Adobe Photoshop 12.0.2 update ([Mac](http://www.adobe.com/support/downloads/detail.jsp?ftpID=4892)|[Win](http://www.adobe.com/support/downloads/detail.jsp?ftpID=4893)) speeds up painting performance and fixes a number of problems discovered after Photoshop CS5 was released.  The most significant fixes in the update include the following:
 

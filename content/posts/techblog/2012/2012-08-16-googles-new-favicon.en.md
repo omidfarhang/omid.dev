@@ -9,7 +9,7 @@ tags:
   - Google
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google Operation System Blog: Google has a new favicon that looks like the icon from Google's mobile search apps for Android and iOS. The same icon was also used for the Google Search app from the Chrome Web Store.
 

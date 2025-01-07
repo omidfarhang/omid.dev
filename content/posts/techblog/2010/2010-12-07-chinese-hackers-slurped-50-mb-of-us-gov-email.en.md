@@ -12,7 +12,7 @@ tags:
   - WikiLeaks
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **The Register:** Windows source code tapped, say WikiLeaked docs
 

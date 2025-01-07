@@ -9,7 +9,7 @@ tags:
   - Music Life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 This is how I start my day, everyday:
 

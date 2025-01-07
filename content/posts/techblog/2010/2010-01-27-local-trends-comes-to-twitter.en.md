@@ -10,7 +10,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The most popular micro blogging network ‘Twitter’ has now added local trends support. This new feature allows users to track Trending topics on twitter related to their region. Though, currently very less number of countries and cities added to it.
 

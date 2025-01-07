@@ -13,7 +13,7 @@ tags:
   - TV
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 On the 2nd day at Google I/O 2010 developer event, Google has announced Android 2.2 with Flash along with **Google TV**, a new technology for television and Internet freaks.
 

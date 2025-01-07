@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Flash_Logo_b_80" border="0" alt="Flash_Logo_b_80" align="right" src="http://lh5.ggpht.com/-semmkmA_p6M/T6V3H4ZMIaI/AAAAAAAAF5s/SvdIgwZlnL0/Flash_Logo_b_80_thumb.png?imgmax=800" width="80" height="80" />](http://lh3.ggpht.com/-i0jxjDW36vc/T6V3GOR1a7I/AAAAAAAAF5k/94C_Tjxv_uY/s1600-h/Flash_Logo_b_80%25255B2%25255D.png)The H-Online: Adobe has released a [security advisory](http://www.adobe.com/support/security/bulletins/apsb12-09.html) relating to an object confusion vulnerability which allows an attacker to crash the player or take control of an affected system. Adobe says that there are reports of this vulnerability being exploited in the wild as part of targeted email-based attacks which trick the user into clicking on a malicious file; this exploit only targets Flash Player on Internet Explorer on Windows, though the vulnerability exists on Windows, Mac OS X, Linux and Android versions of the player. 
 

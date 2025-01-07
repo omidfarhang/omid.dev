@@ -10,7 +10,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Del Harvey who leads Twitter’s Trust and Safety team blogged yesterday that the social networking/micro-blogging service has begun filtering all links in Twitter Direct Messages to stop phishing:
 

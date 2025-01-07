@@ -8,7 +8,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I recently had an interesting message arrive in my system; after viewing the message, 100% of those polled agreed on what it was. What do _you_ think?
 

@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Over the past week or two, we have been keeping track of the various releases of Firefox 4 including RC1 and RC2, counting down to the official release tomorrow, the 22nd of March. Though it is officially being released tomorrow, it has been made available for download today at the Mozilla FTP servers.
 

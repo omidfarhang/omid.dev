@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Almost the entire year 2009, the battle for the first place on phishing targets took place between Ebay and Chase Bank. Most of the time, the Chase Bank was on top of the most phished brands.
 

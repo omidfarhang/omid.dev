@@ -11,7 +11,7 @@ tags:
   - music
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 > …Und der Haifisch, der hat Tränen  
 > und die laufen vom Gesicht;  

@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 If you want to improve Google's results and report spammy web pages, there's a Chrome extension for you.[Google Webspam Report](https://chrome.google.com/extensions/detail/efinmbicabejjhjafeidhfbojhnfiepj) adds a link next to each Google search result and automatically fills the spam report form with information like the URL of the page and your query.
 

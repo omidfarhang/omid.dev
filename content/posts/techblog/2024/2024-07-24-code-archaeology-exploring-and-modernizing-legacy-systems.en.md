@@ -15,7 +15,7 @@ tags:
   - System Migration
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the fast-paced world of software development, we often find ourselves standing on the shoulders of giants – or more accurately, on top of layers upon layers of legacy code. These aging systems, some decades old, continue to power critical infrastructure in industries ranging from finance to healthcare. While they may lack the glamour of cutting-edge technologies, these legacy systems are the bedrock of many organizations, silently processing millions of transactions every day.
 

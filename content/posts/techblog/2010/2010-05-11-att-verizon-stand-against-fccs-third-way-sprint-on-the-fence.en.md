@@ -12,7 +12,7 @@ tags:
   - verizon
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![2459](http://lh6.ggpht.com/_vaUVXcmC3OI/S-lgRm4-5YI/AAAAAAAACIA/HTE9Xn1XVqs/2459_thumb%5B2%5D.jpg?imgmax=800 "2459")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-lgPivrmaI/AAAAAAAACH8/ZfDQf6vQVMg/s1600-h/2459%5B4%5D.jpg) With Congress' dance card already overflowing with major social and policy reforms, including in the financial sector, the likelihood that it could pass a major reform to the Telecommunications Act for Internet regulation _during the Obama Administration_ (however long it lasts) is quite low. Faced with a pair of no-win scenarios, the FCC last week opted to propose a “Third Way” for broadband regulation that could at least get its foot back in the door — a way that _literally_ asks judges and attorneys-general to substitute “telephone” for “broadband” in various clauses of existing law, except for those sections where doing so wouldn't make any sense. 
 

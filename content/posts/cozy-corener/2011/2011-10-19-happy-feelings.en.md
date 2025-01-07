@@ -9,7 +9,7 @@ tags:
   - video
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Hey! my friends!
 

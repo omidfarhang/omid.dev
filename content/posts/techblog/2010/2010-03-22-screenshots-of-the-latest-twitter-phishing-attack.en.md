@@ -12,7 +12,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Today there's a phishing run underway in Twitter, using Direct Messages (“DMs”). These are private one-to-one Tweets inside Twitter.
 

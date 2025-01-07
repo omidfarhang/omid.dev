@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 SophosLabs: More malware for the Mac OS X platform has been discovered, hot on the heels of the revelation that <a href="/2012/04/russian-av-company-claims-600000-macs.html" target="_blank">some 600,000 Macs had been infected</a> in the Flashback attack.
 

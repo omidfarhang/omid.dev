@@ -12,7 +12,7 @@ tags:
   - gmail
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![](/images/2013/05/gmail-logo.jpg)
 NYTimes posted: On Wednesday, Google introduced a new in-box design for its e-mail service, Gmail.

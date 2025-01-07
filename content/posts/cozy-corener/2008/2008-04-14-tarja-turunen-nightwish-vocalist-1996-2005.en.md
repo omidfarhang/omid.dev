@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 ![tarjaface2](/images/2008/04/tarjaface2.jpg)
 

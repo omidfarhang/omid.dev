@@ -10,7 +10,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![library-of-congress-1](http://lh5.ggpht.com/_vaUVXcmC3OI/S8ZDM8crcNI/AAAAAAAAB9Q/snPE35RzEtg/library-of-congress-1_thumb%5B1%5D.jpg?imgmax=800 "library-of-congress-1")](http://lh5.ggpht.com/_vaUVXcmC3OI/S8ZDK-qfraI/AAAAAAAAB9M/GP8PJEhjFNs/s1600-h/library-of-congress-1%5B3%5D.jpg) Today the Library of Congress is [announcing](http://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive/) that it’s doing its part to digitally preserve each and every public tweet since the beginning of time … err Twitter. It fittingly [broke](http://twitter.com/librarycongress/status/12169442690) the news on Twitter earlier today. 
 

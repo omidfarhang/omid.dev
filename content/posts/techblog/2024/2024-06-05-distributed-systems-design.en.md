@@ -13,7 +13,7 @@ tags:
   - Design Patterns
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In today's world of massive-scale applications and services, distributed systems have become the backbone of modern computing. They enable applications to handle vast amounts of data, remain resilient in the face of failures, and deliver high performance across the globe. However, designing these systems is not a trivial task. It involves understanding complex principles and implementing robust patterns to ensure they meet the desired specifications. In this blog post, we’ll dive deeper into the core principles and patterns of distributed system design, covering consistency models, the CAP theorem, fault tolerance, and essential patterns like Saga, Circuit Breaker, and Bulkhead.
 

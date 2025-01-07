@@ -10,7 +10,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="paypal-logo" border="0" alt="paypal-logo" align="right" src="http://lh5.ggpht.com/-VtdK7ImWZSQ/T2saajEj30I/AAAAAAAAFRs/XJ9GJTD_G6U/paypal-logo_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="83" />](http://lh4.ggpht.com/-uvjzqLuN3sw/T2saX7jZffI/AAAAAAAAFRk/u6aq2SUsCSQ/s1600-h/paypal-logo%25255B3%25255D.jpg)The H-Security: Until just a few days ago, web sites belonging to the world's largest online payment service contained a security vulnerability in a key component that could have been exploited by fraudsters to steal information from customers. PayPal fixed the vulnerability shortly after being notified of its presence by The H's associates at heise Security. The eBay subsidiary was, however, unable to give any information on how such a serious security problem could have remained undetected. 
 

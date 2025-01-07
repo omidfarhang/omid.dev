@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="logo-wordmark-vertical" border="0" alt="logo-wordmark-vertical" align="right" src="http://lh5.ggpht.com/-m3LeGMNKb2U/TzUbe_gIW7I/AAAAAAAAEpk/1POqz7dWfIw/logo-wordmark-vertical_thumb%25255B1%25255D.png?imgmax=800" width="165" height="240" />](http://lh5.ggpht.com/-avNaU3aWcEM/TzUbb2FIc5I/AAAAAAAAEpc/SiU2tuirs34/s1600-h/logo-wordmark-vertical%25255B3%25255D.png)**gHacks**: Mozilla, developers of the popular Firefox web browser, have just released an update for the browser’s stable branch that moves the version to 10.0.1. The release may come as a surprise to users of Firefox 10, who were updated to that version only ten days ago. 
 

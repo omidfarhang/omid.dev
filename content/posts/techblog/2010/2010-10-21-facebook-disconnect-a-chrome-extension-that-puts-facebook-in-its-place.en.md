@@ -10,7 +10,7 @@ tags:
   - Google Chrome
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 A new extension, called **Facebook Disconnect**, blocks contact between your browser and Facebook's servers when you're browsing the regular Web. Facebook Disconnect will prevent the sending of data back to Facebook across the one million sites that use the Facebook Connect service.
 

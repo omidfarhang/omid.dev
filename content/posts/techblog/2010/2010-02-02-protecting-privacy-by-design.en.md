@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Last week I [revealed troubling transmissions](http://boelectronic.blogspot.com/2010/01/google-toolbar-tracks-searches-after.html) by the Google Toolbar: Even when a user specifically “disable[s]” the Google Toolbar, and even when the Toolbar disappears from view, the Toolbar continues tracking users online behavior—including specific web pages visited and specific searches run on other search engines. To Google’s credit, after I posted my article Google promptly fixed these nonconsensual transmissions—but big questions remain. How did this bug slip through Google’s internal testing? What happens to the data Google collected without user consent? And why was Google collecting this data in the first place?
 

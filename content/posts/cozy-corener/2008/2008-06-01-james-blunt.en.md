@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 [![james_blunt1](/images/2008/06/james_blunt1.jpg)](/images/2008/06/james_blunt1.jpg)
 

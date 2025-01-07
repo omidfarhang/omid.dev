@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We frequently read stories about spammers who can circumvent CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) authentication. Using bot-infected machines, they can create a vast number of random e-mail accounts for spamming purposes.
 

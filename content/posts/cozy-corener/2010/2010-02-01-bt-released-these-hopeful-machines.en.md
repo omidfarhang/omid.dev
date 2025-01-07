@@ -10,7 +10,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 BT Released “These Hopeful Machines” in 2 Discs.
 

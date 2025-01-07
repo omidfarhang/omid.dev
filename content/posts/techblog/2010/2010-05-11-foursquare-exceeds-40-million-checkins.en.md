@@ -11,7 +11,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![foursquare-logo1](http://lh3.ggpht.com/_vaUVXcmC3OI/S-l3CjJXCoI/AAAAAAAACJI/wffutTBb69U/foursquare-logo1_thumb%5B2%5D.jpg?imgmax=800 "foursquare-logo1")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l3AAsQfNI/AAAAAAAACJE/GSVJ9xeH-YE/s1600-h/foursquare-logo1%5B4%5D.jpg) Location-based social network Foursquare counted its 40 millionth checkin a “couple days ago,” according to a [tweet](http://twitter.com/harryh/status/13692058237) from one of its developers. 
 

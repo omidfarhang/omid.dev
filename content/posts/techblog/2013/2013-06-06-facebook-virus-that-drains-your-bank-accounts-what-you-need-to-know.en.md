@@ -11,7 +11,7 @@ tags:
   - Zeus
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _This post has been shared originally by [Malwarebytes Blog](http://blog.malwarebytes.org/intelligence/2013/06/facebook-virus-that-drains-your-bank-accounts-what-you-need-to-know/):_
 

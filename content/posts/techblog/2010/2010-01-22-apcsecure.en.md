@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 APcSecure is a new rogue from the WiniGuard clone factory.
 

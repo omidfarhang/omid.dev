@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The creators of WiniGuard rogue security software have released their first clone of 2010. This new rogue is called PcsProtector.
 

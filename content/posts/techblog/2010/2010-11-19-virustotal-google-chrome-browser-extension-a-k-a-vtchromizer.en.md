@@ -9,7 +9,7 @@ tags:
   - VirusTotal
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![VirusTotal-logo](http://lh6.ggpht.com/_vaUVXcmC3OI/TOas_hGB2KI/AAAAAAAADLQ/6KPmmBR4tZ0/VirusTotal-logo_thumb%5B1%5D.png?imgmax=800 "VirusTotal-logo")](http://lh4.ggpht.com/_vaUVXcmC3OI/TOas92K-UwI/AAAAAAAADLM/n3T-SxL5xdA/s1600-h/VirusTotal-logo%5B3%5D.png)VirusTotal has just coded a Google Chrome browser extension to interact with VirusTotal. The extension adds an option to the context menu to analyze links with VirusTotal's URL analysis engine.
 

@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 This is really bad for so many reasons.  It certainly doesn’t help their security.
 

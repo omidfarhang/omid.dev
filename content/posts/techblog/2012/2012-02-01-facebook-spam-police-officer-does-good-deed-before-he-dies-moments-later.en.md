@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Have you seen this in your or your friends wall? or maybe in a page you “Like”?
 

@@ -16,7 +16,7 @@ tags:
   - Writer
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Windows Live Essentials 2011 is now out of beta.
 

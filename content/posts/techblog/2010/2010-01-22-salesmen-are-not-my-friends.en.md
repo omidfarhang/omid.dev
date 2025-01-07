@@ -9,7 +9,7 @@ tags:
   - malware
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I dislike salesmen. The look on their faces irks me when I can feel the dollars flicking in their eyes. I hate it when my car insurance company ask if i want to get home insurance as well. I do not like it when my credit card company tries to sell me a great new insurance product. In general, I hate to be a victim of cross selling.
 

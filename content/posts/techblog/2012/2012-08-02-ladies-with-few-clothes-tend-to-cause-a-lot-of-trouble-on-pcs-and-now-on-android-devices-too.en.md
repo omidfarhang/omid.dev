@@ -13,7 +13,7 @@ tags:
   - Sex
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Cross-posted from Surelist 
 

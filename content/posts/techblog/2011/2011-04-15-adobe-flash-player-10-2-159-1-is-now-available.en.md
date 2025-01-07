@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg)](http://4.bp.blogspot.com/-O6aJQZx-Yec/TajBKARKHbI/AAAAAAAAD2c/krzndajRM9Q/s1600/logo-flashplayer.jpg)
 

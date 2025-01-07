@@ -12,7 +12,7 @@ tags:
   - Skype
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Jerome Segura, a Security Analyst at ParetoLogic of Victoria, B.C., Canada, just posted a nice piece on computer security practices with a different perspective in his [“Malware Diaries” Blog.](http://blogs.paretologic.com/malwarediaries/index.php)
 

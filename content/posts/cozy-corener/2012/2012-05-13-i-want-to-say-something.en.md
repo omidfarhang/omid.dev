@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I want to say something but I don’t know what, I want to talk, I want to speak but to no one, I want to express myself but no word is capable of doing that, I want to say whatever that comes to my mind but no ear can listen, I know there are people who are willing to help and offer me to listen to me but…
 

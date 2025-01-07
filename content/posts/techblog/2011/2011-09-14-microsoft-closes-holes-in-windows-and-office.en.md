@@ -12,7 +12,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-9nAW6YKsTyI/TnD0ogwn2-I/AAAAAAAAEB8/l98iwlcDtwE/s1600/microsoft_or_120-494bfc2617d2203f.png)](http://4.bp.blogspot.com/-9nAW6YKsTyI/TnD0ogwn2-I/AAAAAAAAEB8/l98iwlcDtwE/s1600/microsoft_or_120-494bfc2617d2203f.png)
 

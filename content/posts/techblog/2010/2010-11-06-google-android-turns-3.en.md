@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="android-260" border="0" alt="android-260" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNV2jgZZq7I/AAAAAAAADFc/ddCPx8t1L9I/android-260_thumb.jpg?imgmax=800" width="264" height="194" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNV2hPDSKlI/AAAAAAAADFY/P9XO5fSO8xI/s1600-h/android-260%5B3%5D.jpg)Mashable: Today marks exactly three years since Google and a slew of hardware and carrier partners officially announced the Android mobile operating system. 
 

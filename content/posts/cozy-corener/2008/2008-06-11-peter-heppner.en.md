@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 [![220px-peter_heppner](/images/2008/06/220px-peter_heppner-192x300.jpg)](/images/2008/06/220px-peter_heppner.jpg)
  

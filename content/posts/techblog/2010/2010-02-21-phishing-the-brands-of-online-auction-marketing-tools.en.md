@@ -9,7 +9,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The popularity of online auctions paves way for the development of online auction marketing tools. These tools are software applications that are intended to facilitate the sellers’ side of popular online auction websites. Some of the tools that help sellers in auctions are: image hosting to display galleries of their products, listing of best bidders in a single template, automatic inventory systems to notify sellers during low stocks, etc. With the help of these tools, online auctions are easier and time saving.
 

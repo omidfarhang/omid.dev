@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Angelina Jolie and Barack Obama are the #1 celeb subjects of choice for spammers, according to McAfee January Spam Report. The report also reveals:
 

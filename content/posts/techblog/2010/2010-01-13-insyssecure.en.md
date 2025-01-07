@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 InSysSecure is a rogue security program, designed to rip people off. InSysSecure uses false security warnings, alerts and system scans to frighten people into thinking their computer systems are infected, all the while InSysSecure is the actual infection.
 

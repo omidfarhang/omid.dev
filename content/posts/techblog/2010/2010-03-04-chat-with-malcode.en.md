@@ -12,7 +12,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It’s time for your daily dose of “spot the fake program / avoid the fake program”.
 

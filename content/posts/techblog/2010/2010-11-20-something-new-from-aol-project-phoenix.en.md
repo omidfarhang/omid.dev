@@ -11,7 +11,7 @@ tags:
   - Mail
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Take a look in the email I got from AOL:
 

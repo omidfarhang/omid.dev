@@ -14,7 +14,7 @@ tags:
   - essential skills
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As an Angular developer, staying updated with the latest trends in frontend development is crucial for keeping your skills relevant and your projects modern. The frontend landscape is constantly evolving, and embracing these trends can help you create better-performing, more maintainable, and more engaging applications. Here are some of the latest trends you should be aware of:
 

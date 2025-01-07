@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The European Network and Information Security Agency (ENISA) has released a report that says 95 percent of all email is now spam.
 

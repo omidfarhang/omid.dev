@@ -13,7 +13,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I was reading an article on PCWorld’s website about the upcoming Google Chrome OS:
 

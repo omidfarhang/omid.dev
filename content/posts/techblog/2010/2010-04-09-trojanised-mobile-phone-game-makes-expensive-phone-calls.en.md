@@ -13,7 +13,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We have received reports of a malicious Windows Mobile game that creates significant phone bills to affected users. 
 

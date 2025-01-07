@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="meyer" border="0" alt="meyer" align="right" src="http://lh4.ggpht.com/-wt7imCPJ0-s/T0ZsJ7SGI7I/AAAAAAAAE88/OSocXynK6uo/meyer_thumb.jpg?imgmax=800" width="164" height="244" />](http://lh5.ggpht.com/-o8Jhjf4Y7EU/T0ZsFKeCK6I/AAAAAAAAE80/-e71UTkP8lU/s1600-h/meyer%25255B2%25255D.jpg)Sunbelt:** Twilight fans who normally frequent the official website of **Stephenie Meyer**, infamous writer of the said book and saga, may have found their systems captured by a “being” that is neither a blood-sucker or a giant, feral dog. It might be something supernatural, but not in the security world: **_[zombies](http://en.wikipedia.org/wiki/Zombie_(computer_science))_**. 
 

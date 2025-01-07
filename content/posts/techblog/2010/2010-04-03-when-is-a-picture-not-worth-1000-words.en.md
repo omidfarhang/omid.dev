@@ -9,7 +9,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 When it is not actually a picture but an obfuscated malicious VB script!
 

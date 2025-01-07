@@ -9,7 +9,7 @@ tags:
   - quote
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 [<img class="aligncenter size-full wp-image-145" alt="38285[3]" src="/images/2012/11/382853.jpg" width="340" height="596" srcset="/images/sites/2/2012/11/382853.jpg 340w, /images/sites/2/2012/11/382853-171x300.jpg 171w" sizes="(max-width: 340px) 100vw, 340px" />](/images/2012/11/382853.jpg)
 

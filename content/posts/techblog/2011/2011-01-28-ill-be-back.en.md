@@ -8,6 +8,6 @@ tags:
   - This Blog Update
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Sorry about not updating my blog, I'll be back! (soon perhaps!)

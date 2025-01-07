@@ -13,7 +13,7 @@ tags:
   - Smart Cities
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the evolving landscape of technology, edge computing has emerged as a transformative approach to data processing and delivery. By bringing computation and data storage closer to the data sources, edge computing significantly reduces latency, enhances data security, and enables real-time processing. This post delves into the architecture of edge computing, explores its benefits, and highlights practical applications in IoT and content delivery.
 

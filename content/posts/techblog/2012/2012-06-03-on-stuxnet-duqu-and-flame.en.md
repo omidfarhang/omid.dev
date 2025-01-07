@@ -11,7 +11,7 @@ tags:
   - Stuxnet
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 F-Secure wrote:
 

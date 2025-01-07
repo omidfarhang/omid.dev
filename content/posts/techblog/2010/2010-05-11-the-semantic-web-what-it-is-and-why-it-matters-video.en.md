@@ -11,7 +11,7 @@ tags:
   - Web 3.0
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![semantic-web](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lcsKkjZWI/AAAAAAAACHg/7fAD9L4ZXx8/semantic-web_thumb%5B1%5D.jpg?imgmax=800 "semantic-web")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lcpS-uPGI/AAAAAAAACHc/MTHrTPFBbvo/s1600-h/semantic-web%5B3%5D.jpg) If you’ve ever struggled to make sense of terms like “semantic web,” we’ve got a fascinating, entertaining and informative video for you. 
 

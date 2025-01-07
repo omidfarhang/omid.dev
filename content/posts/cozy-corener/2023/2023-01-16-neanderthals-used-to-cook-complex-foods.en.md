@@ -11,7 +11,7 @@ tags:
   - Good Reads
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I found this article from TheGuardian interesting:
 

@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh3.ggpht.com/-Nw5hTsm-SNA/UBBf0FKGSuI/AAAAAAAAGmQ/VdF0avOLTOg/s1600-h/hackskul%25255B2%25255D.jpg" target="_blank"><img title="hackskul" border="0" alt="hackskul" align="right" src="http://lh5.ggpht.com/-6uTUcKDtqxY/UBBf2tYSJCI/AAAAAAAAGmY/dAVBzAN100Q/hackskul_thumb.jpg?imgmax=800" width="300" height="225" /></a><a href="http://www.iol.co.za/scitech/technology/security/brit-accused-of-biggest-military-hack-in-history-1.1348854" target="_blank">iol scitech</a>: London – A British computer hacker accused by the United States of breaking into top secret military and space agency networks will learn the result of his six-year fight against extradition within three months, a court heard on Tuesday. 
 

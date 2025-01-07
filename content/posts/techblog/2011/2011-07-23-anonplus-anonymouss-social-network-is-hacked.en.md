@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _My Personal Opinion: I doubt if that site is really their official website or not_
 

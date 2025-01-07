@@ -11,7 +11,7 @@ tags:
   - Mobile
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google's Android mobile operating system has been out for a while and is generating more and more interest.
 

@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google found a nice way to wish you Happy Birthday. If you visit Google's homepage when you are signed in and it's your birthday, you'll see a special doodle that links to your Google profile. When you go to your profile, you'll find colorful confetti and a Happy Birthday message, but that's not new.
 

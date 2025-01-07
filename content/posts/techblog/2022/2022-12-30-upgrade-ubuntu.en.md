@@ -11,7 +11,7 @@ tags:
   - Ubuntu
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ## Update Release Name in Sources
 

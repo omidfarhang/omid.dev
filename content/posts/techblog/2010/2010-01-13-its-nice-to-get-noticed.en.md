@@ -8,7 +8,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Looking at a random new incoming malware sample in F-Secure sample automation systems. Notice the [Mutex](http://en.wikipedia.org/wiki/Mutex) names it uses:
 

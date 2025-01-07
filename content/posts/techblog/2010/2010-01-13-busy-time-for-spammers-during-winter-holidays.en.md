@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The spammers and malware authors profited of the holiday time when a lot of people are at home and sent a large amount of emails just before the official free days. As can be seen in the graphic below, we registered a higher activity in the two days before the holidays and immediately after them. The red bars are either weekend days or holidays (25.12 and 1.1).
 

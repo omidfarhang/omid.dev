@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I think being well known all over the world is not everything, sometimes I wish fewer people know but that smart group of people that know me, trust me, believe me, hear me, believe me as a human not as a service or an object!It often happens that in a party when all people are talking about various topics, the only topic will talk to me is computer stuff, Yes computer is my favorite topic and I like it and I can talk about it for long time non-stop, but when someone know nothing about computer try talk to me about computer, it happens that I feel this is kind of a fake respect to me, they want to help me feel better in their meeting or party bla bla…
 

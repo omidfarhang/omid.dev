@@ -8,7 +8,7 @@ tags:
   - Facebook
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="facebook-logo" border="0" alt="facebook-logo" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TGcA0git5DI/AAAAAAAACXo/d4KlxOwXOXk/facebook-logo_thumb%5B1%5D.jpg?imgmax=800" width="264" height="203" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TGcAwm1yYFI/AAAAAAAACXk/kh-EuLO245I/s1600-h/facebook-logo%5B3%5D.jpg) Until now, Facebook Notes has only supported text formatting through HTML, making formatting a challenging task for the majority of the site’s 500 million members. Today the social network has rolled out a refreshed version of Notes to remedy the problem. 
 

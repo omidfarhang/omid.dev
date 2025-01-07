@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 There seems to be an established procedure used by government officials who want to censor Internet traffic: begin requiring Google and ISPs to filter pornography then sneak in filtering of the politically sensitive material of your choice.
 

@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The Internet Corporation for Assigned Names and Numbers (ICANN) has finally begun to enable top-level domain names based on non-Latin alphabets. The first three country code top level domains (ccTLD) written in Arabic script are now available for use. 
 

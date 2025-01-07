@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 They told me look at everything positive, so I’m gonna do it: “This Depression is Great!”
 

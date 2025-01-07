@@ -10,7 +10,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 _**Act 1**_ is the first Live concert released by [Tarja](/entertainment/artists/tarja-turunen/ "Tarja Turunen"). It was released on CD, DVD and Blu-ray on the 24th of August, 2012.
 

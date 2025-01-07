@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Google Chrome Security Team wrote:** We’re always working hard to enhance the Chrome browser with bug fixes, new defenses and new features. The [release of Chrome 10](http://googlechromereleases.blogspot.com/2011/03/chrome-stable-release.html) is no different, and there are some items worth highlighting:
 

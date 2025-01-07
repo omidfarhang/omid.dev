@@ -11,7 +11,7 @@ tags:
   - privacy
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 #### Google Official Blog:
 

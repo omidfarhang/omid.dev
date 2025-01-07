@@ -11,7 +11,7 @@ tags:
   - Windows 7
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Windows 7 turns one year old and obviously Microsoft felt the need to once again brag with the performance of its latest operating system. And it can really brag as Windows 7 has sold 240 million licenses to date and is, hands down, the fastest selling OS in history.**
 

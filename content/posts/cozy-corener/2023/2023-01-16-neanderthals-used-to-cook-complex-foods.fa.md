@@ -11,7 +11,7 @@ tags:
   - Good Reads
 lang: fa
 categories: 
-  - blog
+  - Cozy Corner
 ---
 این مطلب گاردین برام جالب بود، گفتم اینجا شر کنم:
 

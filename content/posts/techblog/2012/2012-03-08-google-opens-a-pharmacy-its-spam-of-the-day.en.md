@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs:** Is Google really extending its online empire, and opening an online pharmacy? 
 

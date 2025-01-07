@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The stable channel has been updated to 4.0.249.78 for Windows, and includes the following features and security fixes (since 3.0):
 

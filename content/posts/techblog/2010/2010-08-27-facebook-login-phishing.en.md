@@ -10,7 +10,7 @@ tags:
   - phishing
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Here’s one of the latest Facebook phish attempts: videos of “beautifull” girls:
 

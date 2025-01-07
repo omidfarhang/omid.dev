@@ -7,7 +7,7 @@ url: '2012/08/20/بلاگ-amd-هک-شد،-اطلاعات-کاربران-در-ا�
 shortlink: https://g.omid.dev/1QocMQv
 lang: fa
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![](/images/2012/08/ver1_600w4.jpg)
 

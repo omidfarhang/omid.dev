@@ -10,7 +10,7 @@ tags:
   - Tricks
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="48435" border="0" alt="48435" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMAynI1ZgcI/AAAAAAAACzA/V8-FTaNchfU/48435_thumb.jpg?imgmax=800" width="154" height="116" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMAymOCTvRI/AAAAAAAACy8/33AboKU0ZFA/s1600-h/48435%5B2%5D.jpg)A quick and powerful upgrade for your Firefox shortcut mastery: [Move Tabs](https://addons.mozilla.org/en-US/firefox/addon/220875/).
 

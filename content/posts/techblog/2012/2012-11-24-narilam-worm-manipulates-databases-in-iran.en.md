@@ -10,7 +10,7 @@ tags:
   - Stuxnet
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh3.ggpht.com/-PWZn6EPgNBA/ULC4ZTERsPI/AAAAAAAAHmw/7b0Vu2LvK1s/s1600-h/narilam-iran%25255B5%25255D.png" target="_blank"><img title="narilam-iran" border="0" alt="narilam-iran" align="right" src="http://lh4.ggpht.com/-Yh9UYyqtVKA/ULC4bob5OCI/AAAAAAAAHm4/240JKydkDLU/narilam-iran_thumb%25255B3%25255D.png?imgmax=800" width="244" height="153" /></a>h-Online: Security firm Symantec has discovered a specialised worm called W32.Narilam that can compromise SQL databases. Symantec [reports](http://www.symantec.com/connect/blogs/w32narilam-business-database-sabotage) that the malware “speaks” Persian and Arabic and appears to target mainly companies in Iran. Narilam is, therefore, reminiscent of [Stuxnet](http://www.h-online.com/news/item/Stuxnet-worm-can-control-industrial-systems-1080751.html) and its [variants](http://www.h-online.com/news/item/Kaspersky-says-Stuxnet-and-Flame-are-related-after-all-1615750.html). 
 

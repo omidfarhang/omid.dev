@@ -12,7 +12,7 @@ tags:
   - US
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I just read this and I decided to share with you: 
 

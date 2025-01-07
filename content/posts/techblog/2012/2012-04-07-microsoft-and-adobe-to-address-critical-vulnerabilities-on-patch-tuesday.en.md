@@ -13,7 +13,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The H-Online: The Tuesday after the Easter weekend, 10 April, is set to be a busy one for system administrators as Microsoft and Adobe have sent out notifications that they will both be issuing fixes for critical vulnerabilities in their products. 
 

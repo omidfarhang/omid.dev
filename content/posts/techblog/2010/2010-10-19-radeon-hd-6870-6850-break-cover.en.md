@@ -10,7 +10,7 @@ tags:
   - Hardware
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The time for rumors and speculations is drawing to a close—as far as AMD's upcoming Radeon HD 6850 and 6870 are concerned, at least. These two next-generation graphics cards are churning away in Damage Labs as we speak, and for the first time, we can bring you official, genuine pictures of them. Here's the 6870…
 

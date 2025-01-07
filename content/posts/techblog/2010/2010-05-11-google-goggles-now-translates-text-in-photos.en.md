@@ -11,7 +11,7 @@ tags:
   - translate
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![goggles-translate](http://lh4.ggpht.com/_vaUVXcmC3OI/S-mLv6KHsrI/AAAAAAAACKQ/fcIP13qZYxM/goggles-translate_thumb%5B3%5D.jpg?imgmax=800 "goggles-translate")](http://lh6.ggpht.com/_vaUVXcmC3OI/S-mLtjh2gBI/AAAAAAAACKM/eDQ6ExnzRZE/s1600-h/goggles-translate%5B5%5D.jpg) In February we learned that a future version of Google Googles would [translate](http://mashable.com/2010/02/17/google-goggles-translation/) text in photos. The future is [here](http://googlemobile.blogspot.com/2010/05/translate-real-world-with-google.html) — Google Goggles v.1.1 for Android 1.6 and higher can now read and translate English, French, Italian, German and Spanish language text. 
 

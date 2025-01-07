@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 For those of you that are having to put up with looking after your parents over Christmas: Would you much rather selfishly indulge yourselves with partying? A kindly spammer has a very seasonal Christmas Eve message offering to make this the last year that you will have to “put up” with the burdens of family elders.
 

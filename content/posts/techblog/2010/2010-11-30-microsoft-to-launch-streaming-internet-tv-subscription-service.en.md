@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Microsoft appears to be preparing themselves to step into the streaming media field alongside Apple, Netflix, Hulu, and other competing providers who have joined their ranks over the past year.
 

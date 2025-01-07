@@ -11,7 +11,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Microsoft has announced in [Advisory (980088)](http://www.microsoft.com/technet/security/advisory/980088.mspx) that there has been a [publicly disclosed vulnerability](http://www.coresecurity.com/content/internet-explorer-dynamic-object-tag) in Internet Explorer, versions 5 through 8. Users not running [Internet Explorer in Protected Mode](http://windows.microsoft.com/en-GB/windows-vista/What-does-Internet-Explorer-protected-mode-do) are at risk of having information, in files with predictable names, accessed by attackers. This vulnerability cannot be exploited to [execute remote code](http://en.wikipedia.org/wiki/Remote_code_execution) or used for a [denial-of-service](http://en.wikipedia.org/wiki/Denial_of_service) attack.
 

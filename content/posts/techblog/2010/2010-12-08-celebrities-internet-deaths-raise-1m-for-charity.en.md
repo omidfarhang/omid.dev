@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Mashable:** Facebook and the Twitterverse have been a little quieter for the past several days, as some of the networks’ most famous users — including Lady Gaga, Justin Timberlake, Usher and Alicia Keys — signed off in the name of charity beginning on Worlds AIDS Day, December 1. 
 

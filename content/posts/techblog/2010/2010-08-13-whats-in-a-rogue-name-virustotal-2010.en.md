@@ -11,7 +11,7 @@ tags:
   - VirusTotal
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 There is a well-respected and very useful site that everyone in the anti-virus industry uses – sometimes several times a day: [Virus Total](http://www.virustotal.com/). You can upload suspicious files or their check sums to Virus Total to see if a file is malicious. The makers of a new rogue have picked up on the Virus Total name in an effort to make their malicious creation look like something legitimate:
 

@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As predicted Adobe AIR for Android is now available in the Android Market. Go get it.
 

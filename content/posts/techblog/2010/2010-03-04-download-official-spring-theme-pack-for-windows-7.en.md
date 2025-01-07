@@ -8,7 +8,7 @@ tags:
   - Microsoft
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Microsoft has released new spring theme for windows 7 to bring the feeling of season change right on your desktop. It is named Czech and is a light, simple and beautiful theme with eight eye catching nature wallpapers.
 

@@ -8,7 +8,7 @@ tags:
   - video
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 _Hey, I'm feeling tired._  
 _My time, is gone today._  

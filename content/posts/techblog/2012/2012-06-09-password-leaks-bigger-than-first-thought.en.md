@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![The published password hashes do not contain any email addresses or usernames](/images/2012/06/screenshot-08Jun12.png) The H-Online: There have still been no official statements on the causes and extent of the recent password leaks at [LinkedIn](/2012/06/linkedin-passwords-in-circulation.html), [eHarmony](http://www.h-online.com/news/item/eHarmony-admits-to-leaking-1-5-million-passwords-1612654.html) and [Last.fm](/2012/06/millions-of-lastfm-passwords-leaked.html). A credible source is now reporting that the published 2.5 million Last.fm MD5 hashes, for example, are just the tip of a 17 million hash iceberg. That iceberg has reportedly been circulating since summer 2011.16.4 million of these – 95 per cent – have, the source claims, already been cracked, a claim which, for unsalted hashes, is entirely credible. 
 

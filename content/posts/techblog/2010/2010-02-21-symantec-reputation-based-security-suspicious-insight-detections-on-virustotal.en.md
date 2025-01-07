@@ -11,7 +11,7 @@ tags:
   - VirusTotal
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Symantec recently upgraded their scanner on [VirusTotal](http://www.virustotal.com/) to include their new reputation-based security engine. That has caused a spike in their detection rates, in particular [Suspicious.Insight](http://www.symantec.com/security_response/writeup.jsp?docid=2010-021223-0550-99) detections, and so I thought I’d take a few minutes to explain some of the background and what is going on.
 

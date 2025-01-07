@@ -10,7 +10,7 @@ tags:
   - malware
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 What’s the best way to distract an online gamer while you drop some undesirable files onto their system? We saw what’s probably a pretty effective method today in Troj/Lneage-A. This particular Trojan leaves the user viewing a slideshow of topless elves while it drops a file designed to steal their gaming info. Given that the vast majority of MMORPG’ers are male, and bless them they’re often a little bit lonely, dazzling them with a variety of images of well endowed half naked elves (I think they’ve had some work done to be honest) should be enough to keep them entertained while the malware authors do whatever they fancy in the background.
 

@@ -7,7 +7,7 @@ url: 2010/11/18/now-this-is-it/
 
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Hi Folks!
 

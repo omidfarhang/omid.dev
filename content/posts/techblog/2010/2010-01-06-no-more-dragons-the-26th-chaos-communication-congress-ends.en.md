@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 With a dazzling laser show, the 26th Chaos Communication Congress (26c3) in Berlin, the last big security conference of 2009, has ended. If you haven’t been here, you might have missed fewer of the sessions than people on site, thanks to the worldwide availablility of [live streams (and recordings)](http://events.ccc.de/congress/2009/wiki/Streaming). What you did miss was meeting all these people, though!
 

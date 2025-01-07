@@ -16,7 +16,7 @@ tags:
   - INTERCAL
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Programming languages are the backbone of the digital world, enabling us to create software that powers everything from our smartphones to space exploration. While most developers are familiar with popular languages like Python, JavaScript, and C++, there's a fascinating and lesser-known realm of programming languages that exist outside the mainstream. These are known as esoteric programming languages, or "esolangs" for short.
 

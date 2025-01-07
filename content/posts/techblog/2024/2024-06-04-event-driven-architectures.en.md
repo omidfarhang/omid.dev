@@ -16,7 +16,7 @@ tags:
   - Kafka
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In today's fast-paced digital landscape, the ability to build scalable and resilient systems is crucial for businesses to thrive. Event-driven architectures (EDA) have emerged as a powerful paradigm to address these needs. By focusing on events as the primary means of communication between components, EDA allows for systems that are not only scalable and resilient but also flexible and easier to maintain. In this blog post, we'll delve into the principles and practices of event-driven architectures, including event sourcing, CQRS (Command Query Responsibility Segregation), and the use of message brokers like Kafka or RabbitMQ.
 

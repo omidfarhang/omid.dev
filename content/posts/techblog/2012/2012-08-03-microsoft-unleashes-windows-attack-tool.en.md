@@ -10,7 +10,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 TheRegister.co.uk wrote: 
 

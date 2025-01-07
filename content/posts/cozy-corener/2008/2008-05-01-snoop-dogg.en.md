@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 ![snoop-dogg](/images/2008/05/snoop-dogg.jpg)
 

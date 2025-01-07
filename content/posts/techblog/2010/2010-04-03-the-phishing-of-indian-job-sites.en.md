@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Despite the global economic slowdown, India witnessed a high number of new jobs in the country during the first quarter of 2010. With the job market looking positive, job sites seem to have benefited with more users accessing their websites.
 

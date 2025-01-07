@@ -9,7 +9,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3XzVX0f6dI/AAAAAAAAA8I/BAkXF0lHcrQ/s640/linkedIn_2060_20m.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3XzVX0f6dI/AAAAAAAAA8I/BAkXF0lHcrQ/s1600-h/linkedIn_2060_20m.png)
 

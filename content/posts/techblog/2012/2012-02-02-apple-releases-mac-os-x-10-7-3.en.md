@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="apple" border="0" alt="apple" align="right" src="http://lh3.ggpht.com/-VUC2DXDyGqA/Typ4DL7QIKI/AAAAAAAAEbg/vLCLbiyEfy4/apple_thumb%25255B5%25255D.jpg?imgmax=800" width="235" height="247" />](http://lh4.ggpht.com/-6MyI83MsgYw/Typ3tJGlsmI/AAAAAAAAEbY/yOG-947Y9Tw/s1600-h/apple%25255B7%25255D.jpg)The H-Security:** [Apple](http://www.apple.com/) has [released Mac OS X 10.7.3](http://lists.apple.com/archives/security-announce/2012/Feb/msg00000.html) and, for Mac OS X 10.6.8 Snow Leopard users who have yet to upgrade to Lion, Security Update 2012-001; these maintenance and security updates addresses a number of vulnerabilities in the company's desktop and server operating systems. According to Apple, the updates close more than 50 holes, many of which could be exploited by an attacker to, for example, remotely execute arbitrary code on a victim's system, gain access to private information or cause a denial-of-service (DoS). 
 

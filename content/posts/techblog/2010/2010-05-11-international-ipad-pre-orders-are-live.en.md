@@ -10,7 +10,7 @@ tags:
   - ipad
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![ipad_international](http://lh6.ggpht.com/_vaUVXcmC3OI/S-l3ntAyk4I/AAAAAAAACJY/SCXfKQfAaKY/ipad_international_thumb%5B4%5D.jpg?imgmax=800 "ipad_international")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-l3lrBgWII/AAAAAAAACJU/cwInbMawwdw/s1600-h/ipad_international%5B6%5D.jpg) Just as Apple promised last week, international iPad pre-orders are underway as of today. 
 

@@ -9,7 +9,7 @@ tags:
   - Microsoft
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Microsoft is releasing an out-of-band update for their IE vulnerability.
 

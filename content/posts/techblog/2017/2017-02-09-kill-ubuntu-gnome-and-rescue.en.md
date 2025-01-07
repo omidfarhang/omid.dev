@@ -12,7 +12,7 @@ tags:
   - ubuntu
   - gnome
 categories: 
-  - techblog
+  - TechBlog
 ---
 ## How it started
 

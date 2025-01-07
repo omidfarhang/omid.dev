@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 False images from Cosmopolitan infect computers with fake antivirus product
 

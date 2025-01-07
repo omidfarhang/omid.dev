@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **from** <a href="http://weblogs.mozillazine.org/asa/archives/2012/02/libreoffice_update.html" target="_blank"><strong>Asa Dotzler: Firefox and more</strong></a>
 

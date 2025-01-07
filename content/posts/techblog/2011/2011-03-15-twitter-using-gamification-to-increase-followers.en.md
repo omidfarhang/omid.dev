@@ -9,7 +9,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I just read an interesting post in ThinkVitamin.com and wanted to share with you:
 

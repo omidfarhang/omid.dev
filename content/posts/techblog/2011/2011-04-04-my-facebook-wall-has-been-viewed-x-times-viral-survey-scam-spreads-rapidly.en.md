@@ -14,7 +14,7 @@ tags:
   - warning
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs wrote:** Do you want to know the total number of times that your Facebook wall has been viewed? Are you curious as to who may be stalking you on Facebook?
 

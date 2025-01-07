@@ -11,7 +11,7 @@ tags:
   - Microsoft
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Internet Explorer 10 is available worldwide in 95 languages for [download today](http://windows.microsoft.com/ie).
 

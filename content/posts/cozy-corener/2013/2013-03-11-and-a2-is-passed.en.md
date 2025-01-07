@@ -9,7 +9,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 [![passfail-small[10]](/images/2013/03/passfail-small10.jpg)](/images/2013/03/passfail-small10.jpg)Talking of German class, A2 is passed too and I will be heading to B1 in next 2 weeks.
 

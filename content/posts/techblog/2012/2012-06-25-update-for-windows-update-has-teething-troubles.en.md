@@ -12,7 +12,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh4.ggpht.com/-cRcEw1ORtqo/T-iNvyeA5yI/AAAAAAAAGXs/-FHfmZhGafA/s1600-h/Microsoft_Logo%25255B2%25255D.png" target="_blank"><img title="Microsoft_Logo" border="0" alt="Microsoft_Logo" align="right" src="http://lh6.ggpht.com/-R22xxQQp6AY/T-iNxqnvZhI/AAAAAAAAGX0/QG8PLtEpu3o/Microsoft_Logo_thumb.png?imgmax=800" width="200" height="34" /></a>Microsoft has released an unscheduled, non-[patch day](http://www.h-online.com/news/item/Critical-holes-closed-in-Microsoft-s-June-Patch-Tuesday-1616622.html) update for Windows to update the Windows Update function itself. However, according to reports from readers, the Windows Update Agent update [does not always run smoothly](http://social.technet.microsoft.com/Forums/en-US/w7itproinstall/thread/d046bce8-38dd-4be5-8abb-5486200379a6/); The H's associates at heise Security also ran into problems on their test systems. 
 

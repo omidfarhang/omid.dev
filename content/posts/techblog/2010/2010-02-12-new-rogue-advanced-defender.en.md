@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Advanced Defender is fake security software that tricks people into thinking it's legitimate antispyware software in hopes they will pay for the product.
 

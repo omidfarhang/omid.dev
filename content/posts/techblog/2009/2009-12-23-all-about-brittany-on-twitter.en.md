@@ -11,7 +11,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It's the usual situation, with the bad guys exploiting the death of a famous person, just like they did with Michael Jackson. Yesterday we identified some Twitter accounts that are being used both to send “make money on the Internet” spam, and also to spread links to malware. In both cases, they used Brittany Murphy's name.
 

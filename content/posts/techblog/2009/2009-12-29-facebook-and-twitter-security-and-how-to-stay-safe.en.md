@@ -11,7 +11,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Hopefully, the holiday season has found you spending a good amount of time offline: enjoying moments spent with friends and family, keeping long-standing traditions or creating new ones to follow for seasons to come, or just relaxing due to some downtime from work or school.
 

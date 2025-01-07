@@ -8,7 +8,7 @@ tags:
   - Other
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Once again, we'd like to wish our readers Merry Christmas with a reference to the 1986 CHRISTMA EXEC worm
 

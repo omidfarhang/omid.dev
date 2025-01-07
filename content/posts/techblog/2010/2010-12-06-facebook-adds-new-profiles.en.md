@@ -12,7 +12,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Avira TechBlog:** [<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP04hygZ9tI/AAAAAAAADVo/p43HQ7A4qOQ/facebook%28low%29_thumb%5B1%5D.jpg?imgmax=800" width="195" height="59" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TP04gWD_iKI/AAAAAAAADVk/wVZtq9hZlaQ/s1600-h/facebook%28low%29%5B3%5D.jpg)Facebook offers a “[new profile](https://www.facebook.com/about/profile/)” feature that many users adopt very fast. It is possible to mark the best friends and family and show them more prominently with their pictures. Also, it accumulates information like the uers’ work places, where they are living and so on. Even projects and co-workers can be shown now.
 

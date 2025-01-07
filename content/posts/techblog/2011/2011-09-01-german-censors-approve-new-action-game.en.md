@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/-rZt558m5VEs/Tl-0vvKHTBI/AAAAAAAAEBM/NBIPMGSw5F0/s400/idoom.jpg)](http://2.bp.blogspot.com/-rZt558m5VEs/Tl-0vvKHTBI/AAAAAAAAEBM/NBIPMGSw5F0/s1600/idoom.jpg)
 

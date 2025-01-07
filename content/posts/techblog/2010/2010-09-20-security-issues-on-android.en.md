@@ -13,7 +13,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <img title="Android-logo-Robot" border="0" alt="Android-logo-Robot" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TJc4gvC1jnI/AAAAAAAACd4/vlOO_3c0Aps/Android-logo-Robot%5B4%5D.png?imgmax=800" width="43" height="50" />One unique security feature of Android is the permission check when installing 3rd party apps. The system lists all permissions that an app requires and asks the user to check if that’s alright. Such permissions are the ability to receive your location, send or receive text messages, internet access, phone calls and many more. The user can be sure that the app is not doing any of such activities without the appropriate permission. In case the developer forgets to add a particular permission then the operating system will simply block the corresponding function which leads to a “Force Close”, which means the app will be terminated.
 

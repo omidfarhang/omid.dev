@@ -13,7 +13,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TRi8MIpDjBI/AAAAAAAADig/OQNmkuyZSpU/facebook%28low%29_thumb.jpg?imgmax=800" width="191" height="55" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TRi8K7Vo30I/AAAAAAAADic/H3FK_KeSC0U/s1600-h/facebook%28low%29%5B2%5D.jpg)A new study from New York securities firm NYPPEX estimates Facebook’s enterprise value is now much higher than Yahoo and EBay, at $41.2 billion and significantly higher than other fast growing startups like LinkedIn, Twitter, Zynga, and Groupon. Facebook’s value has shot up 56 percent since the middle of 2010.
 

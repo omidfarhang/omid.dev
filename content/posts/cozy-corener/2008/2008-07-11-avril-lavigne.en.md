@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 
 [![avril_lavigne](/images/2008/07/avril_lavigne.jpg)](/images/2008/07/avril_lavigne.jpg)

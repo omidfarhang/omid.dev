@@ -13,7 +13,7 @@ tags:
   - Functional Programming
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Functional programming offers a powerful paradigm for writing expressive and maintainable code. Haskell, a pure functional programming language, is at the forefront of this paradigm, providing robust tools for handling complex problems with simplicity and elegance. Among these tools, monads, functors, and applicatives stand out as foundational concepts that enable advanced functional programming techniques. In this post, we'll delve into these concepts, illustrating how they can be utilized to write cleaner, more modular code. We'll also explore a real-world use case and provide useful resources to further your understanding of Haskell.
 

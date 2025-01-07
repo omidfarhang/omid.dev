@@ -23,7 +23,7 @@ tags:
   - Development Patterns
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the ever-evolving world of software development, one term consistently stands out: **software architecture**. Often likened to the architectural blueprint of a building, software architecture lays the foundational structure for an application, guiding its development, maintenance, and scalability. But what exactly is software architecture, and why is it so crucial? Let's explore the intricacies of this pivotal aspect of software engineering.
 

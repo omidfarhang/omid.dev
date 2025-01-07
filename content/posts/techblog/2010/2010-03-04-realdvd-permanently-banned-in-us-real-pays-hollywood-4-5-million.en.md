@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The battle over RealNetworks' DVD copying software, called RealDVD, has finally come to a close, and Real has lost.
 

@@ -12,7 +12,7 @@ tags:
   - Guide
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 If you suspect that you've responded to a phishing scam with personal or financial information, take these steps to minimize any damage.
 

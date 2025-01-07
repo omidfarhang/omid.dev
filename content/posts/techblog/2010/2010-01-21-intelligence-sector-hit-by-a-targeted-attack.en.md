@@ -10,7 +10,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We just blogged about a highly targeted attack against military contractors.
 

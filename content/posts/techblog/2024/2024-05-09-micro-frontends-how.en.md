@@ -14,7 +14,7 @@ tags:
   - Micro Frontends
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We already talked about [Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)
 

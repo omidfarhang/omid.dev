@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[GFI](http://www.gfi.com/blog/megaup-doh/):** You’re probably aware that Megaupload has wandered into what can only be described as [a bit of a pickle](http://www.bloomberg.com/news/2012-01-24/megaupload-s-dotcom-in-custody-as-new-zealand-awaits-extradition-request.html), assuming said pickle is roughly the size of a Vogon Constructor Fleet.
 

@@ -13,7 +13,7 @@ tags:
   - WikiLeaks
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Symantec Connect:** WikiLeaks.org is in the news after their recent publications linked to leaked government documents. Spammers are now leveraging the current level of interest with social engineering techniques to infect users’ computers. Symantec is observing a wave of spam spoofing WikiLeaks to lure users into becoming infected with a new threat.
 

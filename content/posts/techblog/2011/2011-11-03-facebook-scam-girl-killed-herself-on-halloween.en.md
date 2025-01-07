@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[SophosLabs](http://nakedsecurity.sophos.com/):** Scammers have put a new spin on an old Facebook scam, claiming that a girl killed herself on Halloween after her father posted a message on her wall.
 

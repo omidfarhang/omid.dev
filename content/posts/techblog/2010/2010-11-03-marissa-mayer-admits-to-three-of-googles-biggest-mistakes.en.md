@@ -12,7 +12,7 @@ tags:
   - Video
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/TNHO2tVQRUI/AAAAAAAADAo/NlQ_Upd2l1c/s200/1103-marissa-mayer_at.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/TNHO2tVQRUI/AAAAAAAADAo/NlQ_Upd2l1c/s1600/1103-marissa-mayer_at.jpg)
 

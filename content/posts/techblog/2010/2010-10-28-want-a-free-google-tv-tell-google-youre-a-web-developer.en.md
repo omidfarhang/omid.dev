@@ -11,7 +11,7 @@ tags:
   - promo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [Google](http://googletv.blogspot.com/2010/10/google-tv-is-coming-to-10000-lucky.html) knows it's going to have a tough time convincing users to switch to its TV platform. As a result, over the next few weeks, the search giant is handing out 10,000 free Google TV units to developers in hopes of “empowering the developers of the world to make Google TV an even better experience, through websites that have been built with the TV screen in mind.” 3,000 Google TV devices (specifically, Logitech Revues) were already given away to attendees of the Adobe MAX conference. 
 

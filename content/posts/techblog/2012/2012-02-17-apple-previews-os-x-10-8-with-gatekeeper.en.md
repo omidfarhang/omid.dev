@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="ml_100" border="0" alt="ml_100" align="right" src="http://lh3.ggpht.com/-gI3X2n5or38/Tz5g_WQbqII/AAAAAAAAE1s/p_9MRgAovdg/ml_100_thumb%25255B1%25255D.png?imgmax=800" width="100" height="93" />](http://lh3.ggpht.com/-EieElZzWL5c/Tz5gzdw352I/AAAAAAAAE1k/Jhfg1DrJ9uI/s1600-h/ml_100%25255B3%25255D.png)The H-Online:** A developer preview of Mac OS X 10.8 is now available to registered Mac developers after [Apple](http://apple.com/) announced the new version, named [Mountain Lion](http://www.apple.com/macosx/mountain-lion/), and previewed a number of its features. Among those features is [Gatekeeper](http://www.apple.com/macosx/mountain-lion/features.html#gatekeeper) which Apple says “helps prevent you from unknowingly downloading and installing malicious software”. 
 

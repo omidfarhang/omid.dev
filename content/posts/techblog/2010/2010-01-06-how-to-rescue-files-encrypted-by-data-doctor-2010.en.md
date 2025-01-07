@@ -11,7 +11,7 @@ tags:
   - solution
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We have a tool available to do just that. [Click Here](http://sunbelt-software.com/support/dd2010_decrypter.rar).
 

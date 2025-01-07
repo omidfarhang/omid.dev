@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I was just looking at Facebook to check for spam and scams when I found this:
 

@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="Brazzers-logo" border="0" alt="Brazzers-logo" align="right" src="http://lh5.ggpht.com/-ojp9l0JZ0eQ/TzlkiFs3GQI/AAAAAAAAExA/jMCpZgZGWes/Brazzers-logo_thumb%25255B1%25255D.png?imgmax=800" width="240" height="55" />](http://lh4.ggpht.com/-dlscrhm0IxQ/TzlkUn0kzyI/AAAAAAAAEw4/ARXp2iUP30U/s1600-h/Brazzers-logo%25255B3%25255D.png)SophosLabs:** A hacker, identified as a 17-year-old based in Morocco, claims to have stolen the personal information of 350,000 users from hardcore porn mavens Brazzers. 
 

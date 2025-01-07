@@ -8,7 +8,7 @@ tags:
   - donate
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![logo](assets/images/2011/03/Flag_of_the_Red_Cross.png) Please text REDCROSS to 90999 to donate $10 to the RedCross for Japanese earthquake victims (US Only)
 

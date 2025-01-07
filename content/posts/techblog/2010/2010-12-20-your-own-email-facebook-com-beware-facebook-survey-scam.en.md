@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Thousands of Facebook users have been hit by a scam which claims to give them early access to a facebook.com email address.
 

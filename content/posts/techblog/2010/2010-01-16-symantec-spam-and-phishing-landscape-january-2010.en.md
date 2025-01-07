@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Notable highlights this month include the shift of the regions of message origin, and changes in the average size of spam messages.
 

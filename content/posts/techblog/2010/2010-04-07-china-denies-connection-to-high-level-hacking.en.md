@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 “Shadows in the Cloud” hang over the otherwise sunny PRC
 

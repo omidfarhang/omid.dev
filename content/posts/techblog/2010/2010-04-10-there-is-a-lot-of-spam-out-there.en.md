@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 …and some of it masquerades as “marketing” and “newsletter” emails. 
 

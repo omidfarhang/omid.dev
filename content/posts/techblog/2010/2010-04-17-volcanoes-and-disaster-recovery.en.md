@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Dr. Johannes Ullrich at SANS brought up a good point in his morning podcast ([Stormcast 296](http://isc.sans.org/podcast.html) ) about widespread transportation shutdowns and disaster recovery planning.
 

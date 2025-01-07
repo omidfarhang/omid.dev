@@ -13,7 +13,7 @@ tags:
   - Safari
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/-v9tVwL3HWIc/TrKFSa0AV7I/AAAAAAAAEN0/lN0nVQ4FpKQ/s1600/internet-explorer-chart-360.jpg)](http://2.bp.blogspot.com/-v9tVwL3HWIc/TrKFSa0AV7I/AAAAAAAAEN0/lN0nVQ4FpKQ/s1600/internet-explorer-chart-360.jpg)
 

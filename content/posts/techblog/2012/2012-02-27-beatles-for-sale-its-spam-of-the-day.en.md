@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="beatles-170" border="0" alt="beatles-170" align="right" src="http://lh6.ggpht.com/-pxb0j4qqpWA/T0uRzNlW2nI/AAAAAAAAE-o/i8nCsHzTlXI/beatles-170_thumb.jpg?imgmax=800" width="174" height="129" />](http://lh6.ggpht.com/-cqy7RKTDxdg/T0uRt1N_JXI/AAAAAAAAE-g/0liQmX2uRoM/s1600-h/beatles-170%25255B2%25255D.jpg)I've owned up to some of the great loves of my life in the past. 
 

@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 There were a couple of news items that I thought were interesting enough, albeit unrelated, to comment on. The first (story here:  [http://news.bbc.co.uk/1/hi/technology/8537771.stm](http://news.bbc.co.uk/1/hi/technology/8537771.stm))
 

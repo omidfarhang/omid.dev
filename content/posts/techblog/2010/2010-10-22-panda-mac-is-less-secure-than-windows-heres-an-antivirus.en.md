@@ -13,7 +13,7 @@ tags:
   - Windows
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Panda-AVP-MAC-2011-BoxDetails](http://lh4.ggpht.com/_vaUVXcmC3OI/TMHyE0RrVZI/AAAAAAAAC3c/j9eKk054seo/Panda-AVP-MAC-2011-BoxDetails_thumb%5B5%5D.gif?imgmax=800 "Panda-AVP-MAC-2011-BoxDetails")](http://lh6.ggpht.com/_vaUVXcmC3OI/TMHyDYmfWhI/AAAAAAAAC3Y/1N4WiS2Xn2k/s1600-h/Panda-AVP-MAC-2011-BoxDetails%5B4%5D.gif)
 

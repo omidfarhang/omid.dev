@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Since January we publish monthly reports about the categories of the spam messages which got sent around the last month. These categories are detected by Avira’s AntiSpam engine.
 

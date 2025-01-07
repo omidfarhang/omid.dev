@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 [![metro_Johnny_Cash_narrowweb__300x455,0](/images/2013/03/metro_johnny_cash_narrowweb__300x4550.jpg?w=197)](/images/2013/03/metro_johnny_cash_narrowweb__300x4550.jpg)
 

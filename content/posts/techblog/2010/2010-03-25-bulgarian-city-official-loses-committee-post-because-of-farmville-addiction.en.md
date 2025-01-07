@@ -8,7 +8,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Computer security category of risk: human factors? **
 

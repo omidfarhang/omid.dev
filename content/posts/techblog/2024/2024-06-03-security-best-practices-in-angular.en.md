@@ -14,7 +14,7 @@ tags:
   - JWT
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the world of web development, security is paramount. As developers, we strive to build robust and secure applications that protect user data and ensure a seamless user experience. Angular, being one of the most popular frameworks for building web applications, offers several features and best practices to enhance the security of your applications. In this post, we'll delve into advanced security topics such as XSS protection, CSRF prevention, JWT authentication, and secure HTTP headers. Let's explore how you can safeguard your Angular applications.
 

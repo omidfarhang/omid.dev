@@ -9,7 +9,7 @@ tags:
   - Video
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Have you ever wondered how Internet initiated 50 years ago in 1957? Below is a nice video which depicts how the Internet changed with respect to time in modern age. Must check it out!
 

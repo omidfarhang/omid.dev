@@ -13,7 +13,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 There’s an angelically tinged infection doing the rounds at the moment that has more than a whiff of sulphur about it.
 

@@ -12,7 +12,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 “Big Brother Brazil” is a Brazilian reality TV program adapted from the popular Big Brother television series. The show is about a group of people living together in a purpose-built Big Brother house, isolated from the outside world, while being monitored by cameras 24&#215;7. The television series is viewed by scores of people during primetime hours, but live feeds are also available from multiple cameras in the house on the Web. Part of the popularity is due to the fact that some of the videos are suitable only for adult viewing.
 

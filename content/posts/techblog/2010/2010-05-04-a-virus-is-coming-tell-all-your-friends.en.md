@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Email hoaxes are nothing new, dating back at least as far as 1994 with what is widely believed to have been the first email hoax—referred to as the “Goodtimes virus” or the “Goodtimes virus hoax” after the subject of the email. The message in the early version was short and to the point, advising recipients not to open email messages with the subject “Good Times” because doing so would ruin their files. This, of course, was not true, but in cases where the recipient complied with the warning, it obviously had the effect of ruining their chances of actually reading any legitimate email messages with that very subject. 
 

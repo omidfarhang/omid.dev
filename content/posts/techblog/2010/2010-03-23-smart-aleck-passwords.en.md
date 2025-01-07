@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [Älypää](http://alypaa.com/), a popular Finnish game and quiz site, announced a database breach late last night.
 

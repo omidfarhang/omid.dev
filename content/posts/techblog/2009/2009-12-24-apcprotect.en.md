@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 APCProtect is a phony security program, designed to rip people off. APCProtect uses scare tactics including false security warnings and system scan results that are false to frighten people into purchasing it. If APCProtect is installed on your computer, you should remove it immediately.
 

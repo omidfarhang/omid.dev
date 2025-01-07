@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Usually I have to wonder how much inventiveness the spammers and Phishers show. But, from time to time, it is funny to see some really stupid Phishing attempts. I do hope that nobody is falling for these puny attempts to fake Paypal we found today.
 

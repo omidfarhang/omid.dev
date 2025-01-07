@@ -13,7 +13,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Adobe_Flash_120](http://lh3.ggpht.com/-GBVR3YLElU4/TzErDkhfxBI/AAAAAAAAEiQ/aUXRPvy1-rk/Adobe_Flash_120_thumb%25255B2%25255D.png?imgmax=800 "Adobe_Flash_120")](http://lh5.ggpht.com/-6wed3iMag6s/TzEq1fZmB9I/AAAAAAAAEiI/QCs-64BydCU/s1600-h/Adobe_Flash_120%25255B4%25255D.png)
 

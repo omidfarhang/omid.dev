@@ -14,7 +14,7 @@ tags:
   - WordPress
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 iPad apps seems to be getting more faster approved than apple iphone apps, we have seen many iPad apps being released. WordPress official app has been released for iPad today. As there lot more space on iPad for bloggers to write a web blog post through this wordpress app, this app seems to be useful.
 

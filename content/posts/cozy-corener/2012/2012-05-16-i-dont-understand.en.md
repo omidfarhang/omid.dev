@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 _**A note before starting this post:** I don’t mean to catch anyone’s attention with these posts I write, I just want to speak out what’s in my mind and hope someone who can understand me read it and answer it, one who really can see the world from same view I see…_
 

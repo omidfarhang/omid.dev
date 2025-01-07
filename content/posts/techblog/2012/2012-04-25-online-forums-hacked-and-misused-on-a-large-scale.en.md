@@ -11,7 +11,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="Forum_Ad_English" border="0" alt="Forum_Ad_English" align="right" src="http://lh4.ggpht.com/-TV8Yy8-rdmU/T5hVgJMjGyI/AAAAAAAAFsQ/e6mJpdIRq3M/Forum_Ad_English_thumb%25255B2%25255D.jpg?imgmax=800" width="400" height="332" />](http://lh4.ggpht.com/-ugYDuGCnbtg/T5hVdq9BaKI/AAAAAAAAFsI/PLGFWSjJaKA/s1600-h/Forum_Ad_English%25255B2%25255D.jpg)The H-Online: Online forums have, for some time, apparently been the target of hackers who inject additional code. However, the attackers aren't interested in publishing cool slogans or political messages, they're looking for money. They steal Google traffic from the forums and exploit this traffic via ads. Their main targets appear to be forums that are based on the [vBulletin software](https://www.vbulletin.com/). 
 

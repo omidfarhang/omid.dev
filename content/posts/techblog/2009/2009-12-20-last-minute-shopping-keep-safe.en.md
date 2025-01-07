@@ -11,7 +11,7 @@ tags:
   - Online Shopping
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The holidays are nearly here! If you're still searching for the final perfect present, and are thinking of buying online, here's a few practical tips to help keep your last-minute purchases secure:
 

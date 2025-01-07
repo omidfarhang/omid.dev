@@ -12,7 +12,7 @@ tags:
   - Update
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![Facebook](/images/2013/05/Facebook-150x150.png)
 

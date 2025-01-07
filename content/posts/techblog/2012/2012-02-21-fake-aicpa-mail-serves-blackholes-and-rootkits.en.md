@@ -11,7 +11,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Sunbelt:** Be wary of emails claiming to be from AICPA – as per their alert [here](http://www.aicpa.org/News/FeaturedNews/Pages/alert-fraudulent-email.aspx), these are not real and any mention of “unlawful tax return fraud” is just a bait to convince the end-user to open up a malicious attachment (in this case, a .doc file although there are rogue PDF files in circulation too). 
 

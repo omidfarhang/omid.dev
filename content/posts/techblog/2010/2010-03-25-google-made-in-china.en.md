@@ -9,7 +9,7 @@ tags:
   - Interesting
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Today at CanSecWest I stopped by the Google booth and picked up a yo-yo.
 

@@ -9,7 +9,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 One of the issues malware writers deal with is having their programs load and execute on a victim’s computer. An unwary victim may click on an email attachment and have the malware run once. But in order to continue to be of value to the author, that piece of malware has to arrange for itself to be run after the computer inevitably gets rebooted.
 

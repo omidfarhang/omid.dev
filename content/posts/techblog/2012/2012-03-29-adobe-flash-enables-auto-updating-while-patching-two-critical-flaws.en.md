@@ -13,7 +13,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 SophosLabs: Adobe released Flash Player version 11.2.202.228 for Windows, OS X and Linux today. In my view this is a milestone release as it finally introduces an automatic, silent updating mechanism to help users stay current with the latest releases from here forward. 
 

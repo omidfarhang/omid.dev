@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Well, it didn’t take long for the Christmas E-Card scams to start.
 

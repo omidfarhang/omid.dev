@@ -6,12 +6,12 @@ author_profile: true
 url: 2022/11/04/saturated-fat-does-not-clog-the-arteries/
 shortlink: https://g.omid.dev/qrGVebA
 tags:
-  - health
+  - Health
   - medical
   - Good Reads
 lang: en
 categories: 
-  - health
+  - Health
 ---
 I've been reading an [article](https://www.medicalnewstoday.com/articles/326269#dairy-saturated-fat-and-heart-health) from medicalnewstoday.com and I found this part interesting:
 

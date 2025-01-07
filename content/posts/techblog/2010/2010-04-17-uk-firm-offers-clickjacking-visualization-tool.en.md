@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 UK security firm Context Information Security Ltd., is making available a browser-based tool that will demonstrate clickjacking techniques that were discussed at a Blackhat Europe 2010 presentation.
 

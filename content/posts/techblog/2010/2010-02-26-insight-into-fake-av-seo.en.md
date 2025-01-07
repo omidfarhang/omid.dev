@@ -14,7 +14,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In this post I want to highlight how SEO attacks are working:
 

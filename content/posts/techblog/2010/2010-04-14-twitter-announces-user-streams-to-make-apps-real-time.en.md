@@ -10,7 +10,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![twitter-top](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZAjMxrEVI/AAAAAAAAB9A/jra7SnMiZ4A/twitter-top_thumb%5B1%5D.png?imgmax=800 "twitter-top")](http://lh6.ggpht.com/_vaUVXcmC3OI/S8ZAgktZ3ZI/AAAAAAAAB88/fiuBcR3_YOc/s1600-h/twitter-top%5B3%5D.png)
 

@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Avira programmers spent a lot of work and drastically overhauled the Avira AntiVir Rescue System which is now available in version 3.7.16. Next to a much better usability due to the redesigned user interface and 11 supported languages the new version offers even improved detection and removal capabilities.
 

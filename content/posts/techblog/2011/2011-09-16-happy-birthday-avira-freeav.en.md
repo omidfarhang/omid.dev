@@ -8,7 +8,7 @@ tags:
   - Avira
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-DKKiUcJdRhw/TnNzbLmKktI/AAAAAAAAECM/8mFTWXKNTuo/s400/Avira_n.jpg)](http://4.bp.blogspot.com/-DKKiUcJdRhw/TnNzbLmKktI/AAAAAAAAECM/8mFTWXKNTuo/s1600/Avira_n.jpg)
 

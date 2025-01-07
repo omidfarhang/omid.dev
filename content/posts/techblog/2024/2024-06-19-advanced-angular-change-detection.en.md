@@ -13,7 +13,7 @@ tags:
   - Best practice
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 When it comes to building high-performance applications with Angular, understanding and optimizing change detection is crucial. This blog post will delve into advanced change detection strategies that can help you optimize the performance of your Angular applications. We will cover the OnPush change detection strategy, the importance of immutability, and techniques for manual change detection.
 

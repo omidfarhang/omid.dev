@@ -9,7 +9,7 @@ tags:
   - Silverlight
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="SilverlightLogo2" border="0" alt="SilverlightLogo2" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TM8yrjLEuQI/AAAAAAAAC_U/XzssJGFjpgs/SilverlightLogo2_thumb%5B1%5D.png?imgmax=800" width="300" height="98" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TM8ypYBzwyI/AAAAAAAAC_Q/1ldrpk-6QhE/s1600-h/SilverlightLogo2%5B3%5D.png)At the latest PDC conference, only a very few mentions of Silverlight were observed. It seems that Microsoft is betting on HTML5 as the future for cross platform development.
 

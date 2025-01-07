@@ -9,7 +9,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Just when we thought SEO using Flash was as interesting as SEO poisoning can get, it seems it's getting even sneakier…
 

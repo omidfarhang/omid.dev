@@ -10,7 +10,7 @@ tags:
   - Windows 7
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We’ve previously listed many official themes for Windows 7, presented by Microsoft at Windows 7 Personalization Gallery. Here are 2 more new themes which truly depicts the prominent beauty of Taiwanese mountains ‘Syue & Nenggao’ in Taiwan.
 

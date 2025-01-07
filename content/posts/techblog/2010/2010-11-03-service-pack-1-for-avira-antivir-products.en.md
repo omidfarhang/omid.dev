@@ -10,7 +10,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Avira started shipping the Service Pack 1 (SP1) for Avira AntiVir 10 yesterday! This Service Pack fixes plenty of minor bugs we found in version 10 and thus makes AntiVir 10 more stable. Also, the developers added some optimizations to improve the speed a little. After installing SP1, all currently known issues should be gone.**
 

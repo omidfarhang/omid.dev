@@ -11,7 +11,7 @@ tags:
   - Release
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Java](/images/2013/04/Java-150x150.jpg)](/images/2013/04/Java.jpg)ISC Handler [Rob V](https://isc.sans.edu/handler_list.html#rob-vandenbrink) pointed out a blog post from Oracle's [Mark Reinhold](http://mreinhold.org/blog/) stating that Oracle has “mounted an intense effort to address those issues in a series of critical-patch update releases” and that they've also upgraded their “development processes to increase the level of scrutiny applied to new code, so that new code doesn’t introduce new vulnerabilities.”
 

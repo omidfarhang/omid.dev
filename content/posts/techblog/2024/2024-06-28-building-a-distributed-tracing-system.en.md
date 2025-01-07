@@ -12,7 +12,7 @@ tags:
   - Frontend Development
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In today's complex microservices architectures, understanding the flow of requests and pinpointing performance bottlenecks can be challenging. This is where distributed tracing comes into play, and OpenTelemetry provides a powerful toolkit for implementing it. In this post, we'll explore how to build a distributed tracing system for Angular applications using OpenTelemetry, with a focus on microservices architecture and performance monitoring.
 

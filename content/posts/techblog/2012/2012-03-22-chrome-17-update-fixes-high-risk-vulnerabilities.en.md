@@ -13,7 +13,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh4.ggpht.com/-gRhdAHeQVjA/T2sYQCGgkjI/AAAAAAAAFRc/xlFa7prQDHI/new-chrome-logo_thumb%25255B1%25255D.png?imgmax=800" width="128" height="125" />](http://lh5.ggpht.com/-oE9AqbdwcfE/T2sYKP0JlDI/AAAAAAAAFRU/CuCvzQKh35E/s1600-h/new-chrome-logo%25255B3%25255D.png)The H-Security: Google has [released version 17.0.963.83](http://googlechromereleases.blogspot.co.uk/2012/03/stable-channel-update_21.html) of its Chrome web browser, a maintenance update that fixes issues with Flash games and closes several security holes. The Stable channel update addresses a total of nine vulnerabilities, six of which are rated as “[high severity](https://sites.google.com/a/chromium.org/dev/developers/severity-guidelines)“. 
 

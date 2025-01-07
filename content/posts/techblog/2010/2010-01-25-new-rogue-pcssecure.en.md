@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 PcsSecure is the latest cloned rogue antispyware from the WiniGuard family.
 

@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Backdoor.Rohimafo is a Trojan that has several back door functions. It not only opens a back door and performs the usual functions but it also can perform some decidedly unusual functions.
 

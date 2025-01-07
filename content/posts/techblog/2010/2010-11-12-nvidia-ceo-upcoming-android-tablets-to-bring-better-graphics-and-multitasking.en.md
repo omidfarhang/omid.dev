@@ -11,7 +11,7 @@ tags:
   - nvidia
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="nvidia tegra" border="0" alt="nvidia tegra" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TN1Aqk4ZCVI/AAAAAAAADJQ/O8Z4DpLOZPI/nvidia%20tegra_thumb%5B1%5D.jpg?imgmax=800" width="229" height="221" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TN1ApWE9gcI/AAAAAAAADJM/r8M7OvNg_6M/s1600-h/nvidia%20tegra%5B3%5D.jpg)Mashable**: We know that a number of Android tablets are coming in the next couple of months. But will these devices be able to compete with Apple’s iPad, which is currently dominating the market? According to NVidia CEO Jen-Hsun Huang, not only the new Android tablets will be competitive, they’ll be better than the iPad in many areas. 
 

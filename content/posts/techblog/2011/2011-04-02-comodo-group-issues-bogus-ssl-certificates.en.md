@@ -10,7 +10,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **from** <a href="http://boelectronic.blogspot.com/www.schneier.com" target="_blank"><strong>Schneier on Security</strong></a> **by Schneier:**
 

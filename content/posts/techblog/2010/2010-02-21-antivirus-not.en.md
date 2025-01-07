@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 “Dammed thieves. Stole our logo. I suppose we should be flattered, though.”  
 — A.E.

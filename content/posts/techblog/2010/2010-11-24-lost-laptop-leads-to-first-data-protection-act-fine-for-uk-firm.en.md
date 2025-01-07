@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
    
 [<img title="pounds" border="0" alt="pounds" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO0rUNgXikI/AAAAAAAADMs/FqysEOP11UE/pounds_thumb%5B1%5D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0rS-IVlxI/AAAAAAAADMo/pGrIonDBnvk/s1600-h/pounds%5B3%5D.jpg)The Information Commissioner's Office (ICO) has fined two organizations for serious breaches of the Data Protection Act – the first to be issued under new tougher guidelines in the UK.

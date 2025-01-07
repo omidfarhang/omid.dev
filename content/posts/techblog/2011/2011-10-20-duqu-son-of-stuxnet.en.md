@@ -13,7 +13,7 @@ tags:
   - Stuxnet
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-W9csiY4HWJ8/TqCV1Mg85CI/AAAAAAAAEKE/E8-Ka-qvNoE/s400/Screen-Shot-2011-10-18-at-12.26.12-PM.png)](http://4.bp.blogspot.com/-W9csiY4HWJ8/TqCV1Mg85CI/AAAAAAAAEKE/E8-Ka-qvNoE/s1600/Screen-Shot-2011-10-18-at-12.26.12-PM.png)
 

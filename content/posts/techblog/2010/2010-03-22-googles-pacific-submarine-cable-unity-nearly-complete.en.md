@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 — 7.68 Terabits/s for growing Asian market  
 — $300 million cost (from consortium of six companies)  

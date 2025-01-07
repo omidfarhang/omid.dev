@@ -11,7 +11,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 ![infected07_03](/images/2008/04/infected07_03-300x225.jpg)
 

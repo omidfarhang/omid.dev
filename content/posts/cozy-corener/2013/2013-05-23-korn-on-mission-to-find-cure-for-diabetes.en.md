@@ -10,7 +10,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 ![](/images/2013/05/Jonathan.jpg)
 

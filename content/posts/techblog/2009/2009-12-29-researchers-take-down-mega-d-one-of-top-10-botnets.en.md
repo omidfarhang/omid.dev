@@ -9,7 +9,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Atif Mushtaq, a researcher at FireEye security company, has coordinated a global effort to take down of one of the top 10 botnets – Mega-D.
 

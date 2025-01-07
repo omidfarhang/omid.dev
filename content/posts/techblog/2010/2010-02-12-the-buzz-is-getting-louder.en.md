@@ -15,7 +15,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It has been barely two days since Google [announced ](http://googleblog.blogspot.com/2010/02/introducing-google-buzz.html)their new social integration and messaging tool called Google Buzz. Today we saw the first example of malware, W32/Zuggie-A, pretending to be Google Buzz.  
 Analysis of W32/Zuggie-A gives the impression of a hastily assembled worm, really a modification of the W32/SillyFDC family of worms but with a twist.  

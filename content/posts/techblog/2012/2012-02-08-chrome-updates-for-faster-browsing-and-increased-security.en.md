@@ -13,7 +13,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh3.ggpht.com/-Qd_g38SBy78/TzLN15PxxLI/AAAAAAAAElk/-vsDWN_t1Eg/new-chrome-logo_thumb%25255B1%25255D.png?imgmax=800" width="128" height="125" />](http://lh3.ggpht.com/-gvkveHS1pmg/TzLNsHrIH7I/AAAAAAAAElc/6fNYvFzyaTk/s1600-h/new-chrome-logo%25255B3%25255D.png)**LifeHacker:** Google is releasing a major update to Chrome today that will make browsing the web seem faster and also add security protections. 
 

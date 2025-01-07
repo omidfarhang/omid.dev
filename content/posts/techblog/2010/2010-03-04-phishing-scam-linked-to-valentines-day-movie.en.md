@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Symantec has been observing several spam and phishing attacks regarding the recent Valentine’s Day. One such phishing attack was on an e-card website that asked for user credentials in order to send Valentine’s Day greetings to loved ones. The legitimate e-card website has partnerships with several other brands and so accepts credentials from certain other websites as well. Hence, attackers can steal user information from several brands’ sites by phishing on just one e-card website. This particular attack asked for users’ credentials for a popular information services website. The phishing domain was hosted on servers in China and has been reported as “domain tasting.” Domain tasting is a situation in which a domain name is used for a small period of time and is checked to see if it is making enough money. If it doesn’t earn enough, the domain name is deleted and the registrant is refunded the entire registration fee. This is a technique used by attackers to perform phishing activity for small periods of time at low costs.
 

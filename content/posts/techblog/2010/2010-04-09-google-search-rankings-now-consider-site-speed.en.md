@@ -11,7 +11,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![google-site-speed-200](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-dQSg67LI/AAAAAAAAB3g/oGhwd0ImCPk/google-site-speed-260_thumb%5B7%5D.jpg?imgmax=800 "google-site-speed-200")](http://lh3.ggpht.com/_vaUVXcmC3OI/S7-dOT3SZFI/AAAAAAAAB3c/OO_KtDoVBC4/s1600-h/google-site-speed-260%5B9%5D.jpg) Back in November, we started hearing murmurs that Google was considering whether or not to factor site speed into its search ranking algorithm. In a [blog post today](http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html), the search giant confirms it is now adding site speed to its list of criteria that could affect your Google ranking. 
 

@@ -13,7 +13,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Cross-copied from <a href="http://betanews.com/2012/08/28/download-firefox-15-and-thunderbird-15-now/" target="_blank">BetaNews</a>: 
 

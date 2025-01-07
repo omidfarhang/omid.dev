@@ -11,7 +11,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **([CNN](http://www.cnn.com/))([The Frisky](http://www.thefrisky.com/relationships/))** — For anyone who is remotely active on Facebook, you no doubt have been faced at some point with inane updates on one of your friend's kid's colds or how wedding-planning was coming along for one of your engaged buddies.
 

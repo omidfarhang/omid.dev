@@ -11,7 +11,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 New comScore data shows that Facebook and Twitter use has skyrocketed on mobile devices over the past year, and that on-the-go MySpace use is now on the decline, according to [MediaPost](http://www.mediapost.com/publications/?fa=Articles.showArticle&art_aid=123650&nid=111810).
 

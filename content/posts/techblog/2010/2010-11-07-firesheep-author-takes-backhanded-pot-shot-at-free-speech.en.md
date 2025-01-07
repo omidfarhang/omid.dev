@@ -13,7 +13,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![sheep-on-fire](http://lh4.ggpht.com/_vaUVXcmC3OI/TNa9d4EShQI/AAAAAAAADG0/Ahzie2qZpno/sheep-on-fire_thumb%5B1%5D.jpg?imgmax=800 "sheep-on-fire")](http://lh6.ggpht.com/_vaUVXcmC3OI/TNa9baB2g5I/AAAAAAAADGw/brAF7wJeFT4/s1600-h/sheep-on-fire%5B3%5D.jpg)**Sophos Labs**: Two weeks ago, an automatic session-hijacking plugin was released for Firefox. It was named [Firesheep](/2010/10/26/firesheep-who-is-eating-my-cookies/), and it's been downloaded over 600,000 times so far.
 

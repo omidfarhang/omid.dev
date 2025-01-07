@@ -10,7 +10,7 @@ tags:
   - google docs
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google Docs adds a feature that's already available in Gmail: you can now [upload images using drag and drop](http://googledocs.blogspot.com/2010/10/drag-and-drop-images-in-documents.html). Open a new document and drag an image from your desktop or from a file manager. This feature only works in the latest versions of Firefox, Chrome and Safari because it requires HTML5's File API. Unfortunately, you can't upload multiple images and Google Docs doesn't show a placeholder image or a progress bar.
 

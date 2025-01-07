@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="hackathons" border="0" alt="hackathons" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQKlhLc3p5I/AAAAAAAADeM/xbxnBtU-Y7g/hackathons_thumb%5B2%5D.jpg?imgmax=800" width="188" height="250" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKlewPRDpI/AAAAAAAADeI/zMvQeqAl4i4/s1600-h/hackathons%5B4%5D.jpg)**Mashable:** Facebook is known for its hackathons — all-night coding sessions designed to help create new products or improve others. Now the company has announced its first Hacker Cup. 
 

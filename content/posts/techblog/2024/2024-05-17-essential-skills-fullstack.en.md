@@ -13,7 +13,7 @@ tags:
   - essential skills
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We already talked about [latest trends for Angular Development](/2024/05/16/latest-trends-for-angular-developers-in-2024/) and then about [Essential Skills for a Frontend Developer](/2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/), but what if you want to grow your stack to backend too and become a full stack developer?
 

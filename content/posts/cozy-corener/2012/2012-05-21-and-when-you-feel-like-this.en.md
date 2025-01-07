@@ -8,7 +8,7 @@ tags:
   - video
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 No comment, The video and its feeling say it all
 

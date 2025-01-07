@@ -13,7 +13,7 @@ tags:
   - JavaScript Frameworks
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the ever-evolving landscape of web development, the question of whether to build and develop your own design system is a common one. As design systems become more integral to creating cohesive, scalable, and efficient applications, it's crucial to weigh the benefits and challenges. This blog post delves into the worthiness of developing a custom design system, best practices for building one, when it's needed, and the role of JavaScript frameworks like Angular. Additionally, we'll explore which development teams should be involved in this process and provide a real-world example for clarity.
 

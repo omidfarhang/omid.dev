@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <strike>McColo (Nov. 08)</strike>, <strike>Torpig (May 09)</strike>, <strike>MegaD (Nov. 09)</strike>, <strike>Lethic (Jan 10)</strike>
 

@@ -10,7 +10,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 The DarkReading site is carrying a story about brand-protection firm MarkMonitor's finding that phishing increased 62 percent in 2009 with 565,502 attacks in the year. MarkMonitor is based in San Francisco.
 

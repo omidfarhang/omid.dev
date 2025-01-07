@@ -11,7 +11,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Be on the lookout for websites offering up “free applications” which come with a nasty sting in the tail. Here’s a typical example: Appzkeygen(dot)com
 

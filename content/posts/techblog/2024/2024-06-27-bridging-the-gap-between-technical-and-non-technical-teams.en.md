@@ -13,7 +13,7 @@ tags:
   - Career Development 
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the modern workplace, developers often find themselves at the intersection of technology and business. While the technical prowess required to build and maintain software systems is crucial, the ability to communicate effectively with non-technical stakeholders is equally important. This blog post aims to provide developers with tips and strategies to bridge the communication gap between technical and non-technical teams, ensuring smoother collaborations and more successful projects.
 

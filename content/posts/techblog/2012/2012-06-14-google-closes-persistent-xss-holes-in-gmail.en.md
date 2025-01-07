@@ -11,7 +11,7 @@ tags:
   - XSS
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh4.ggpht.com/-6Zc1Bg0dyrU/T9mSLzP3heI/AAAAAAAAGPA/_Vs6RjpNuO4/s1600-h/gmail-logo200%25255B2%25255D.png" target="_blank"><img title="gmail-logo200" border="0" alt="gmail-logo200" align="right" src="http://lh4.ggpht.com/-tcaZDLjfGBw/T9mSOL6iGvI/AAAAAAAAGPI/rSLVoNiWxds/gmail-logo200_thumb.png?imgmax=800" width="200" height="93" /></a>The H-online: Google has closed several cross-site scripting (XSS) holes in its Gmail email service – which has more than 350 million active users – that could have allowed an attacker to inject a malicious client-side script into a victim's system. Security researcher Nils Juenemann discovered the three different XSS vulnerabilities in Gmail and disclosed them to Google's Security Team as part the company's [Vulnerability Reward Program](http://www.google.com/about/company/rewardprogram.html), in which researchers are rewarded with up to $20,000 for reporting qualifying bugs in its web-based services. 
 

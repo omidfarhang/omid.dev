@@ -11,7 +11,7 @@ tags:
   - Security Hole
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![Java](/images/2013/04/Java-300x300.jpg)](/images/2013/04/Java.jpg)Adam Gowdiak, who has made a name for himself by finding flaws in Java, has [reported](http://seclists.org/fulldisclosure/2013/Apr/194) a new vulnerability. Security issue 61, according to Gowdiak's tally, affects current versions of Java SE 7, including the very latest release version 1.7.0_21-b11.
 

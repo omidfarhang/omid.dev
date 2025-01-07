@@ -13,7 +13,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It was only a matter of time before the merest of “iPad” mentions on sites such as Twitter would result in autospammed messages like this:
 

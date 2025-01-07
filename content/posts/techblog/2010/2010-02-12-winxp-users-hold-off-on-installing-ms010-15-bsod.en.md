@@ -13,7 +13,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XMfr_sDcI/AAAAAAAAA7A/FDl9fMhi3yk/s640/bsod.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XMfr_sDcI/AAAAAAAAA7A/FDl9fMhi3yk/s1600-h/bsod.png)
 

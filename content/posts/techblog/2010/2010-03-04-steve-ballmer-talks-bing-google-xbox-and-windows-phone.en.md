@@ -15,7 +15,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 For anyone that missed Microsoft CEO's Q&A during the Search Marketing Expo West yesterday, a [transcript](http://www.microsoft.com/presspass/exec/steve/2010/03-02SMXWest.mspx) is now available online. I went through and picked out key quotes, so that you don't have to read the whole thing.
 

@@ -11,7 +11,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://3.bp.blogspot.com/-RMuVIxyKf5Q/TbgWavUYNzI/AAAAAAAAD2w/_Yv5jesqqyY/s200/avira_logo_red_rgb+%25282%2529.jpg)](http://3.bp.blogspot.com/-RMuVIxyKf5Q/TbgWavUYNzI/AAAAAAAAD2w/_Yv5jesqqyY/s1600/avira_logo_red_rgb+%25282%2529.jpg)
 

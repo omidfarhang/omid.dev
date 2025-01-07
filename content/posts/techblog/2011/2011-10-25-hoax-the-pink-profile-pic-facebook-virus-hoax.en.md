@@ -11,7 +11,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [SophosLabs](http://nakedsecurity.sophos.com/): Have you noticed the profile pics of some of your Facebook friends have acquired a pink tinge?
 

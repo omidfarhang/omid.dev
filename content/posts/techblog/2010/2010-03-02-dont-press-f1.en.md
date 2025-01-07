@@ -12,7 +12,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s640/careful_20with_20F1.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s1600-h/careful_20with_20F1.png)
 

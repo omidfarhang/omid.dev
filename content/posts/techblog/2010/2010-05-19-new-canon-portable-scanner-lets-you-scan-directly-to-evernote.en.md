@@ -9,7 +9,7 @@ tags:
   - Evernote
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![canon-evernote-260](http://lh4.ggpht.com/_vaUVXcmC3OI/S_RHvjito6I/AAAAAAAACQU/71rd50nqIKc/canon-evernote-260_thumb%5B2%5D.jpg?imgmax=800 "canon-evernote-260")](http://lh4.ggpht.com/_vaUVXcmC3OI/S_RHs2Rw7JI/AAAAAAAACQQ/OXTf00Lq9jk/s1600-h/canon-evernote-260%5B4%5D.jpg) Canon has just released a Mac version of its popular image and document scanner, the [imageFORMULA P-150M](http://www.usa.canon.com/templatedata/pressrelease/20100519_ifp150m.html), complete with built-in support for the popular organizational service Evernote. The small scanner, which Canon calls the “Scan-tini,” lets you quickly scan documents and route them to Evernote automatically. 
 

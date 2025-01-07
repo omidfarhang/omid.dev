@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="OAuth2" border="0" alt="OAuth2" align="right" src="http://lh4.ggpht.com/-Qkl1PrkZSAs/T3dnVa9fYRI/AAAAAAAAFZE/KbwyCNDj9OU/OAuth2_thumb%25255B1%25255D.png?imgmax=800" width="120" height="120" />](http://lh6.ggpht.com/-2y3Q3SRqTwg/T3dnQVHBr7I/AAAAAAAAFY8/O39cUzRj2KE/s1600-h/OAuth2%25255B3%25255D.png)The H-Security: Google has [added new features](http://googledevelopers.blogspot.co.uk/2012/03/oauth-20-playground-new-features.html) to its [OAuth 2.0 Playground](https://code.google.com/oauthplayground/), which it [launched last November](http://www.h-online.com/news/item/Playground-for-OAuth-2-0-launched-by-Google-1376271.html). Developers can now switch to using [client-side](https://developers.google.com/accounts/docs/OAuth2UserAgent) flow, and the system has added support for APIs that use OAuth 2.0 drafts [10](https://tools.ietf.org/html/draft-ietf-oauth-v2-10) to [25](https://tools.ietf.org/html/draft-ietf-oauth-v2-25). Google has also added a feature that makes it easy to see all available API operations supported by the user's current access token. To make it easier to use the Playground for an extended amount of time, developers now have the ability to refresh their access tokens automatically, and clicking HTTP response links will now populate the request URI field. 
 

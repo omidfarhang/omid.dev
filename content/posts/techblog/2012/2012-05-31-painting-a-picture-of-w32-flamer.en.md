@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Symantec Connect: The number of different components in [W32.Flamer](http://www.symantec.com/security_response/writeup.jsp?docid=2012-052811-0308-99) is difficult to grasp. The threat is a well designed platform including, among other things, a Web server, a database server, and secure shell communications. It includes a scripting interpreter which allows the attackers to easily deploy updated functionality through various scripts. These scripts are split up into &#8216;apps' and the attackers even appear to have something equivalent to an &#8216;app store' from where they can retrieve new apps containing malicious functionality. 
 

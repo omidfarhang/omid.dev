@@ -9,7 +9,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 For those who missed this update on Nov 18:
 

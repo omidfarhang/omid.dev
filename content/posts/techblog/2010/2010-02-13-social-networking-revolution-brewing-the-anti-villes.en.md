@@ -10,7 +10,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3XwytT-OeI/AAAAAAAAA7o/Yi4AZpful0k/s640/villes_204.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3XwytT-OeI/AAAAAAAAA7o/Yi4AZpful0k/s1600-h/villes_204.jpg)
 

@@ -11,7 +11,7 @@ tags:
   - Postbiotics
 lang: en
 categories: 
-  - health
+  - Health
 ---
 In recent years, the terms *prebiotics*, *probiotics*, and *postbiotics* have gained widespread attention in discussions about health and well-being. These compounds, derived from food and supplements, play a significant role in maintaining gut health and extend benefits to multiple bodily systems. In this comprehensive guide, we’ll explore what each one is, their categories, the range of health benefits they offer, sources for each, and how they help with common health issues such as allergies, candidiasis, and lactose intolerance.
 

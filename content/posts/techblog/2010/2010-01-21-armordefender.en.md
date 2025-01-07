@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ArmorDefender is the latest rogue antispyware program released by cyber thieves to terrorize PC users.
 

@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Gmail has a new feature for Firefox 3.6 and Google Chrome users: drag-and-drop file attachments. The feature is very straightforward — just drag files from your desktop onto your e-mail, and a green box will appear where you can drop your files. 
 

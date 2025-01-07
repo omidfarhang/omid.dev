@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 I don’t know where to begin, Let’s get help from my friends and start by answering them.
 

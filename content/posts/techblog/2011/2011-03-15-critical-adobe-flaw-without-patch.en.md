@@ -9,7 +9,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="logo-flashplayer" border="0" alt="logo-flashplayer" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TX8pCoPGK0I/AAAAAAAADs0/C_EPdTJcAkU/logo-flashplayer_thumb%5B2%5D.jpg?imgmax=800" width="45" height="45" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TX8pBaVIWrI/AAAAAAAADsw/Yb8UJLB5OfQ/s1600-h/logo-flashplayer%5B4%5D.jpg)**Avira TechBlog:** A vulnerability within the current versions of Adobe Flash Player on all supported platforms has been found, [warns the company](http://www.adobe.com/support/security/advisories/apsa11-01.html). Affected are not only the Flash Player installations, but also Adobe Reader and Acrobat via the “authplay.dll” Flash Player integration. Currently there is no mitigation which will help against the exploitation – so only opening expected documents from trusted sources for the time being is a good advice.
 

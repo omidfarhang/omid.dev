@@ -10,7 +10,7 @@ tags:
   - Google CEO
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google just took a jab at Microsoft. Oh, the search giant already did that last week, and it wasn't the first time? Yes, you're right, but now it's Google CEO Eric Schmidt targeting the software giant's biggest product, the latest version of which is particularly successful. Schmidt recently made comments about Windows 7 during a question and answer session at the 25th anniversary celebration of MIT's legendary Media Lab. 
 

@@ -10,7 +10,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 TSince 27 March a new game called 3D Antiterrorist has been cropping up on quite a few international freeware sites offering downloads for Windows Mobile smartphones. As well as the game itself, the 1.5 MB archive contains the file reg.exe which is actually a Trojan that calls premium rate international numbers and leaves smartphone owners significantly out of pocket. As of 8 April this malicious program has been detected by Kaspersky Lab as Trojan.WinCE.Terdial.a. Let’s take a closer look at what happens.
 

@@ -10,7 +10,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="medium" border="0" alt="medium" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TKRzvkV3BWI/AAAAAAAACkg/j45-u4ygyec/medium_thumb%5B1%5D.jpg?imgmax=800" width="189" height="114" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TKRzubDZKlI/AAAAAAAACkc/jzrVecJAzpQ/s1600-h/medium%5B4%5D.jpg)Google has finally decided to allow users to turn off the controversial &#8216;conversation view' threading functionality in Gmail.
 

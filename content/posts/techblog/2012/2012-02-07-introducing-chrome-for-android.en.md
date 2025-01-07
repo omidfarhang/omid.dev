@@ -12,7 +12,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Google Chrome Wrote:
 

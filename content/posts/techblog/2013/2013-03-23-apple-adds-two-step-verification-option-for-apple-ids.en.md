@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **A new security option gives Apple's customers a way to secure their Apple ID password using their phone.**
 

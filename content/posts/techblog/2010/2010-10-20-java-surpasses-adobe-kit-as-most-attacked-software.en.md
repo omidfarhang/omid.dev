@@ -11,7 +11,7 @@ tags:
   - Oracle
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Researcher sees &#8216;unprecedented wave of Java exploitation'**
 

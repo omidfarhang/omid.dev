@@ -13,7 +13,7 @@ tags:
   - Angular Schematics
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the fast-paced world of web development, efficiency and consistency are key. Repetitive tasks can slow down productivity, and inconsistent code can lead to maintenance nightmares. Enter Angular Schematics—a powerful tool to automate code generation, enforce architectural standards, and improve code quality. In this comprehensive guide, we'll delve into creating custom Angular schematics, helping you streamline your development workflow and ensure your codebase remains robust and maintainable.
 

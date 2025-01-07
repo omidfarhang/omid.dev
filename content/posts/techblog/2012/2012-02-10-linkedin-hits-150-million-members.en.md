@@ -11,7 +11,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **<img class="alignright size-thumbnail wp-image-7238" src="/images/2012/02/LinkedIn_logo_initials-150x150.png" alt="LinkedIn_logo_initials" width="150" height="150" srcset="/images/2012/02/LinkedIn_logo_initials-150x150.png 150w, /images/2012/02/LinkedIn_logo_initials-300x300.png 300w, /images/2012/02/LinkedIn_logo_initials.png 768w" sizes="(max-width: 150px) 100vw, 150px" />Mashable**: LinkedIn on Thursday announced it has 150 million members in its network, a 20 million increase over November.
 

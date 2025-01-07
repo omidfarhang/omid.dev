@@ -12,7 +12,7 @@ tags:
   - Sample Code
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the evolving world of web design, creating flexible and dynamic layouts that work seamlessly across devices is paramount. CSS Grid Layout, introduced with CSS3, revolutionizes the way we build web layouts by providing a two-dimensional grid-based layout system. While many designers are familiar with basic grid concepts, mastering advanced CSS Grid techniques can elevate your responsive design skills to a new level. In this post, we’ll dive into complex grid layouts, responsive design strategies, and best practices for ensuring cross-browser compatibility.
 

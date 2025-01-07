@@ -13,7 +13,7 @@ tags:
   - Video
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![](http://lh3.ggpht.com/-533skO5YOQg/Ty__s6HITnI/AAAAAAAAEfw/doeqbILpb68/s1600-h/SolveForX%25255B3%25255D.png)
 

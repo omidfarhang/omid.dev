@@ -11,7 +11,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 <a href="http://lh3.ggpht.com/-_JhpIqYUZwc/T9nFxpyHQbI/AAAAAAAAGRA/wJwgky_aLPA/s1600-h/Opera-logo-new200%25255B2%25255D.png" target="_blank"><img title="Opera-logo-new200" border="0" alt="Opera-logo-new200" align="right" src="http://lh3.ggpht.com/-dj0VtwBPf80/T9nFzTpkZ_I/AAAAAAAAGRI/x854A4FZ3D4/Opera-logo-new200_thumb.png?imgmax=800" width="200" height="80" /></a>Norwegian company Opera Software has released [Opera 12.00](http://www.opera.com/) just a few minutes ago. Opera users who start the browser on their system should see update notifications displayed to them in the next couple of hours. Those who do not want to wait that long can run a manual check for updates with a click on **Opera** > **Help** > **Check for Updates**. The update should then be picked up by the browser and downloaded automatically to the local system. 
 

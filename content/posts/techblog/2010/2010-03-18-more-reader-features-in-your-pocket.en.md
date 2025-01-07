@@ -9,7 +9,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6Hw3zEHkqI/AAAAAAAABSg/gebaAPxhcsE/s1600/menu-options.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6Hw3zEHkqI/AAAAAAAABSg/gebaAPxhcsE/s1600-h/menu-options.png)
 

@@ -12,7 +12,7 @@ tags:
   - Updates
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 A Windows Update is available to users who are located in member countries of the European Union allowing for choosing a different standard browser for the system. The update is available for download through Windows Update.
 

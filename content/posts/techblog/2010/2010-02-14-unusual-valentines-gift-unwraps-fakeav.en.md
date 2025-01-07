@@ -12,7 +12,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 While everyone is searching the web for the unusual gift on Valentine’s Day, Cybercriminals take this opportunity to propagate Rouge Antivirus.
 

@@ -14,7 +14,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="app-170" border="0" alt="app-170" align="right" src="http://lh4.ggpht.com/-pljwfaGnZSc/T1E5ONSat8I/AAAAAAAAFB8/bYNuhYSAldU/app-170_thumb%25255B1%25255D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/-irF_O_RVIcA/T1E5Ei--uXI/AAAAAAAAFB0/24QJzTqA4Ag/s1600-h/app-170%25255B3%25255D.jpg)**SophosLabs:** This week has seen the annual Mobile World Congress event. For 2012, the giants of the mobile tech world are back in Barcelona to captivate the imagination of the tech press with their latest smartphone and tablet offerings. 
 

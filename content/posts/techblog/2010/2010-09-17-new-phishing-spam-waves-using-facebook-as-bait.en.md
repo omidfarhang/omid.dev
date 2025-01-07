@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 We have started to see again a large increase in the amount of emails pretending to come from Facebook. There are two types of emails which are being sent in large amounts currently. Both of them use classical types of social engineering techniques.
 

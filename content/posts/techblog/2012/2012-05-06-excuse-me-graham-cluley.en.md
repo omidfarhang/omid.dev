@@ -8,7 +8,7 @@ tags:
   - This Blog Update
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
  Hi,/
  You may have noticed that part of my blog posts are copied from other source as I name them (and link them) in beginning of my posts, for example “[Naked Security](http://nakedsecurity.sophos.com/)” (SophosLabs).

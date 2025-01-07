@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 A year-long international investigation concluded in the last few weeks with 700 police in Romania launching raids and taking into custody 70 people from three gangs. Those arrested were part of a four-year long wave of Internet auction fraud that victimized 800 people and netted over $1 million (US).
 

@@ -13,7 +13,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Symantec Connect:** In recent years, scammers have flocked towards social networking sites as they have grown and made it easier to access a large number of potential eyeballs to convert into dollars. Brands have found value in leveraging social media to know what their customers are talking about, so, naturally, scammers are doing the exact same thing. 
 

@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 It's a normal day to us. We receive a new Bamital virus sample report from a customer, and we provide an analysis. Suddenly, something interesting bursts into my eyes:  
 

@@ -11,7 +11,7 @@ tags:
   - taylor swift
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 PHOTOS: Taylor Swift, Photographed by Mario Testino Released on VF: [vanityfair.com](http://www.vanityfair.com/style/2015/08/taylor-swift-cover-mario-testino-apple-music)
 

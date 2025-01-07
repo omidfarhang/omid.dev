@@ -10,7 +10,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 ![Pakistan People](/images/2010/05/pstanspan.jpg)
 A Pakistani court has ordered the authorities to temporarily [block Facebook](http://news.bbc.co.uk/2/hi/south_asia/8691406.stm?) due to a contest that calls for caricatures of the Prophet Muhammad.

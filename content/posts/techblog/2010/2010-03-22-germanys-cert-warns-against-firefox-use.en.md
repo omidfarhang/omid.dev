@@ -10,7 +10,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 BürgerCERT, Germany’s government information security organization, is recommending that Web users NOT use the Firefox browser until Mozilla fixes a vulnerability in it March 30. No malicious use has been found yet, however a researcher posted proof-of concept code for exploiting the previously unknown vulnerability. A malicious operator could use the vulnerability to run arbitrary code. Mozilla is expected to post version Firefox 3.6.2 to fix the problem.
 

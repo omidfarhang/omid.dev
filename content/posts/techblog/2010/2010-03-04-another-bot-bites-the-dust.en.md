@@ -8,7 +8,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Remember Microsoft's action against 277 Waledac domains last week? Well, that's one way of going after a botnet…
 

@@ -11,7 +11,7 @@ tags:
   - review
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Recently, We received some malicious files which appeared to be signed by “Adobe Systems Incorporated”. On closer inspection, however, it was seen that the signature was just a ruse used by the malware author to give an air of legitimacy to the files. Virus writers are getting smarter and going that extra mile to digitally sign their files. Using this technique the malware authors could, for example, penetrate an environment where only signed files are allowed but the authenticity of the signature is not checked.
 

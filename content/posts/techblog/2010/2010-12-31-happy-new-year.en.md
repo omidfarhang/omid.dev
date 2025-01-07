@@ -8,7 +8,7 @@ tags:
   - This Blog Update
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Hello ‘**Omid’s Blog!**’ readers!
 

@@ -16,7 +16,7 @@ tags:
   - YouTube
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![dodgeball](http://lh6.ggpht.com/_vaUVXcmC3OI/S986681rPJI/AAAAAAAACD8/kw4-T1sTFnc/dodgeball_thumb%5B1%5D.jpg?imgmax=800 "dodgeball")](http://lh5.ggpht.com/_vaUVXcmC3OI/S9865G4R46I/AAAAAAAACD4/tHj8wq760mI/s1600-h/dodgeball%5B3%5D.jpg) Ah, cellphones and dodgeball, they go together like… well… they don’t really go together at all, but that’s not stopping Samsung Mobile from organizing what will purportedly be the world’s largest dodgeball game on May 12. 
 

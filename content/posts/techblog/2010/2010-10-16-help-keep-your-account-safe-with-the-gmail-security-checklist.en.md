@@ -12,7 +12,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Posted by Diana Phan, Gmail Support Team
 

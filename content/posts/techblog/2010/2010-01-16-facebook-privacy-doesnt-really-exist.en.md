@@ -9,7 +9,7 @@ tags:
   - report
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Facebook recently rolled out new privacy settings that provides additional publishing controls.
 

@@ -10,7 +10,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Somebody is trying to pose as F-Secure. If you see an email like the one below, just ignore it:
 

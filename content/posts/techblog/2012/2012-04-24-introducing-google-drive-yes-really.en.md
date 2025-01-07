@@ -11,7 +11,7 @@ tags:
   - news
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Cross-Posted from Official Google Blog: Just like the [Loch Ness Monster](https://www.google.com/search?aq=f&sourceid=chrome&ie=UTF-8&q=loch+ness+monster), you may have heard the rumors about Google Drive. It turns out, one of the two actually does exist.
 

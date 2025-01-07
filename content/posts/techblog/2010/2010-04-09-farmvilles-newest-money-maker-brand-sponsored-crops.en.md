@@ -13,7 +13,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79fJA9oYqI/AAAAAAAAB2s/jk3IvzNVIIQ/s1600/farmville-peanuts.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79fJA9oYqI/AAAAAAAAB2s/jk3IvzNVIIQ/s1600/farmville-peanuts.jpg)
 

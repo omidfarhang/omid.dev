@@ -13,7 +13,7 @@ tags:
   - Xbox 360
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As expected, Microsoft has pushed out a mandatory update to the Xbox 360 today, which adds support for USB storage devices, expanding the memory capacity of the five-year old video game console.
 

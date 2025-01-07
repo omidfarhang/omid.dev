@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 System Defender is a rogue antispyware program, or a PC infection made to look like real security software. System Defender is a scam designed to trick people out of their money.
 

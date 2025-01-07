@@ -12,7 +12,7 @@ tags:
   - Winamp
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="winamp_sticker_design03" border="0" alt="winamp_sticker_design03" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TPVt3uIMPWI/AAAAAAAADS4/faUtVJj7d0E/winamp_sticker_design03_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TPVt1a4S4TI/AAAAAAAADS0/WHBseU5DdP4/s1600-h/winamp_sticker_design03%5B4%5D.png)One of the greatest setbacks of the Android platform has been the absence of a killer media player, as its native media player is simply lacking. To date, DoubleTwist has been the best option, but Winamp for Android is a powerful new alternative. 
 

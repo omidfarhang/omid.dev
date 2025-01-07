@@ -12,7 +12,7 @@ tags:
   - Micro Frontends
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 As a frontend team leader, one of your most crucial responsibilities is ensuring your team remains adaptable and forward-thinking in an ever-evolving technological landscape. While standardizing on a single framework can provide short-term efficiency, it risks limiting your team's growth and flexibility in the long run. Let's explore strategies to avoid this pitfall, complete with real-world examples.
 

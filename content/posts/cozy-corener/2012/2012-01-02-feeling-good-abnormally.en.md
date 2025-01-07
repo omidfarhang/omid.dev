@@ -8,7 +8,7 @@ tags:
   - My life
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Is not it great when you feel happy without any reason? When nothing happened and you smile…Yeah, I don't know why but I'm feeling that way, My life is not ideal and majority of stuff around me is negative but still I've this strange happiness inside! No matter it came from but that's very welcome and I like that.
 

@@ -12,7 +12,7 @@ tags:
   - sobees for facebook
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![sobees-fb-top](http://lh4.ggpht.com/_vaUVXcmC3OI/S-m-_SDl3NI/AAAAAAAACLU/vuTKWXErrDM/sobees-fb-top_thumb%5B1%5D.jpg?imgmax=800 "sobees-fb-top")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-m-9aE2RjI/AAAAAAAACLQ/mEuK9nFNNDQ/s1600-h/sobees-fb-top%5B3%5D.jpg) We need a native iPad app for Facebook but until Facebook HQ gets around to making one, the next best thing has just arrived via social media aggregator [sobees](http://www.sobees.com/). 
 

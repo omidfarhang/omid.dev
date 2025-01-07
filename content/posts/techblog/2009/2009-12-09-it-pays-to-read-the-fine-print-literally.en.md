@@ -9,7 +9,7 @@ tags:
   - malware
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 This is a new one: bribeware. They’ll pay you a dollar to install their product.
 

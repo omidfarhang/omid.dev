@@ -10,7 +10,7 @@ tags:
   - Skype
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![skype-call](http://lh5.ggpht.com/_vaUVXcmC3OI/S-ldYoTViEI/AAAAAAAACHo/MjXzMLpjaSg/skype-call_thumb%5B1%5D.jpg?imgmax=800 "skype-call")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-ldWLpVV7I/AAAAAAAACHk/jyjArqfOM0s/s1600-h/skype-call%5B3%5D.jpg) As Skype prepares to roll out five-way video calling this week — an addition the company plans to charge for at a later date — it’s also thinking of monetizing the now free user-to-user web calling serving with advertisements. 
 

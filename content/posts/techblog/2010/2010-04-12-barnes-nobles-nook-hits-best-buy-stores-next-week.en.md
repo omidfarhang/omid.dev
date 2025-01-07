@@ -11,7 +11,7 @@ tags:
   - Nook e-reader
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="MAIN_IMAGEnook_next-to-paperbacks_picnik" border="0" alt="MAIN_IMAGEnook_next-to-paperbacks_picnik" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8NUxF7bD8I/AAAAAAAAB54/7917RN61kr4/MAIN_IMAGEnook_next-to-paperbacks_picnik_thumb%5B3%5D.jpg?imgmax=800" width="244" height="180" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S8NUvM7NoqI/AAAAAAAAB50/1M_z2XXVbZ0/s1600-h/MAIN_IMAGEnook_next-to-paperbacks_picnik%5B5%5D.jpg) Barnes & Noble confirmed that its Nook e-reader [is coming to Best Buy retail stores](http://finance.yahoo.com/news/Barnes-Noble-and-Best-Buy-bw-4134989915.html?x=0) beginning April 18. Last week we reported on rumors that both the Nook and Amazon’s Kindle would be hitting retail stores, but it looks like the Barnes & Noble device has secured a presence at the large electronics retailer first.  
 Released last December, the Nook has already been available for purchase in Barnes & Noble retail and online stores. The move to a major consumer electronics retailer like Best Buy, however, potentially opens the device up to a whole new market. 

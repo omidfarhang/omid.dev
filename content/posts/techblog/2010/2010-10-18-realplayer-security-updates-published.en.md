@@ -12,7 +12,7 @@ tags:
   - Vulnerability
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img title="realplayer" border="0" alt="realplayer" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TLzEhFZ0sEI/AAAAAAAACt0/836Q4HelqMY/realplayer_thumb%5B4%5D.png?imgmax=800" width="150" height="150" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TLzEeSOCb7I/AAAAAAAACtw/41M1QNO6XhI/s1600-h/realplayer%5B6%5D.png)RealNetworks, Inc. have published product upgrades addressing vulnerabilities in RealPlayer SP 1.1.4 and earlier.
 

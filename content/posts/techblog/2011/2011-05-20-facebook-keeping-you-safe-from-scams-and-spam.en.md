@@ -12,7 +12,7 @@ tags:
   - social networking
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **Facebook Security:** Facebook is committed to bringing you a safe experience on the Internet, and today we are announcing several new features to help protect you while online.
 

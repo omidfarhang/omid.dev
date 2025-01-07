@@ -12,7 +12,7 @@ tags:
   - Sex
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **[<img title="OLYMPUS DIGITAL CAMERA         " border="0" alt="OLYMPUS DIGITAL CAMERA         " align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYKV47OchrI/AAAAAAAADvk/oDJLUWgC86U/xxx%20domain_thumb%5B3%5D.jpg?imgmax=800" width="150" height="150" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TYKVySDwqDI/AAAAAAAADvg/ntCKknjCJZY/s1600-h/xxx%20domain%5B6%5D.jpg)Mashable:** The porn industry is rumored to win a major battle this week with the possible approval of the .xxx domain. 
 

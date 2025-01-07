@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Sunbelt analyst Adam Thomas came across this ugly new social engineering technique when he analyzed the DefenceLab rogue security product. It does the usual scare-ware stuff: a fake scan and fake “Windows Security Center” alert:
 

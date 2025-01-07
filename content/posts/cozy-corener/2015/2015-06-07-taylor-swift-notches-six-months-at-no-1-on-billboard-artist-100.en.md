@@ -12,7 +12,7 @@ tags:
   - Music
 lang: en
 categories: 
-  - entblog
+  - Cozy Corner
 ---
 _from [Taylor Swift Universe](https://plus.google.com/112861411761704696473/posts/HE9kvAgD9tb)_
 

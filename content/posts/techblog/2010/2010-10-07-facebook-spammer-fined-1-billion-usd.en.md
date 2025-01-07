@@ -12,7 +12,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **How does one say in French: “We're gonna make an example out of you, boy”**
 

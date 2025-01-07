@@ -11,7 +11,7 @@ tags:
   - Twitter
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **London, England ([CNN](http://www.cnn.com/))** — Twitter this week endured a number of “phishing” attacks, in which some users unwittingly gave out their passwords to malicious sites. Haven't we all learned to keep our passwords to ourselves, you ask_?_ Perhaps. But the truth is we're all vulnerable to social engineering, and two major Web trends are creating further confusion for new Internet users.
 

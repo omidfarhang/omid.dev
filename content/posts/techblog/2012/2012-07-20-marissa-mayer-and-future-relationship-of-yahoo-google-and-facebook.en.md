@@ -12,7 +12,7 @@ tags:
   - Yahoo
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Eric Jackson in Forbes Wrote:
 

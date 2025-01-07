@@ -10,7 +10,7 @@ tags:
   - scam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 I blogged about the three generations of the [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) family of rogue security products that began in October of 2008. Friday, the 50th rogue in that line appeared. Analyst Patrick Jordan noted that there appeared to be a newly named clone added to the “genealogy” about every 48 hours. He’s been right.
 

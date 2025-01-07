@@ -15,7 +15,7 @@ tags:
   - SEO
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 In the ever-evolving landscape of web development, ensuring optimal performance and excellent SEO (Search Engine Optimization) has become paramount. One of the techniques gaining significant traction is Server-Side Rendering (SSR), especially with modern frameworks such as Next.js for React, Nuxt.js for Vue.js, and NestJS for Node.js. This post delves into SSR, its impact on performance and SEO, and how it compares to traditional Client-Side Rendering (CSR).
 

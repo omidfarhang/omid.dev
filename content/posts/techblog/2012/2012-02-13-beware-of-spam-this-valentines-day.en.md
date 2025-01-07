@@ -13,7 +13,7 @@ tags:
   - spam
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **SophosLabs:** It's Valentine's Day tomorrow and the spammers are out in force to make the most of unwitting shoppers on the international day of love. 
 

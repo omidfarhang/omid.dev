@@ -10,7 +10,7 @@ tags:
   - VirusTotal
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 This is what we read in latest post from VirusTotal in their blog:
 

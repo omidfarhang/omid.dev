@@ -14,7 +14,7 @@ tags:
   - international domain names
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [![arabicidn](http://lh3.ggpht.com/_vaUVXcmC3OI/S-mNA7bC0XI/AAAAAAAACKg/uKR_AnHYsYU/arabicidn_thumb%5B1%5D.jpg?imgmax=800 "arabicidn")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-mM-lNreOI/AAAAAAAACKc/43Ha2b66AQ4/s1600-h/arabicidn%5B3%5D.jpg) The first significant change to Internet domain names in many years was made today when [ICANN](http://blog.icann.org/2010/05/idn-cctlds/) (Internet Corporation for Assigned Names and Numbers) approved and deployed three domain names using a non-Latin script: Arabic. 
 

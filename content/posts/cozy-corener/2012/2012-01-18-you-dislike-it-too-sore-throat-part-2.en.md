@@ -8,7 +8,7 @@ tags:
   - information
 lang: en
 categories: 
-  - blog
+  - Cozy Corner
 ---
 Part 1: [/2012/01/you-dislike-it-too-sore-throat](/2012/01/you-dislike-it-too-sore-throat)
 

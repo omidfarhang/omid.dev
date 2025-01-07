@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 Lately, a Google work at home scam has been plastering its way throughout the Internet. The scam site is designed to look like a convincing news paper article and is currently circulating heavily through social networks (hacked and spam accounts) and ad networks.
 

@@ -11,7 +11,7 @@ tags:
   - security
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 **v3.co.uk:** [<img title="credit-card-payment-original-370x229" border="0" alt="credit-card-payment-original-370x229" align="right" src="http://lh6.ggpht.com/-kGITzYVmQwA/TzF_aOFMLzI/AAAAAAAAEi0/KCCNFI2EXfk/credit-card-payment-original-370x229_thumb.jpg?imgmax=800" width="244" height="153" />](http://lh3.ggpht.com/-ljGOC_nJq6w/TzF-4hEvNEI/AAAAAAAAEis/3z6etAgEnlM/s1600-h/credit-card-payment-original-370x229%25255B2%25255D.jpg)The uniform infrastructure and predictable behaviors are making corporate retail and restaurant chains the choice targets for cybercriminals. 
 

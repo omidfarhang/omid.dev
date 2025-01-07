@@ -12,7 +12,7 @@ tags:
   - Allergies
 lang: en
 categories: 
-  - health
+  - Health
 ---
 Allergies occur when the immune system overreacts to a typically harmless substance, such as pollen, dust, or certain foods. Probiotics, especially certain strains, can help regulate immune responses and alleviate allergic symptoms by influencing the balance of gut bacteria and modulating inflammation.
 

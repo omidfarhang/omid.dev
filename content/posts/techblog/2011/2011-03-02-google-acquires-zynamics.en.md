@@ -11,7 +11,7 @@ tags:
   - Zynamics
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 _Internet giant buys into security._
 

@@ -11,7 +11,7 @@ tags:
   - Tax
 lang: en
 categories: 
-  - techblog
+  - TechBlog
 ---
 [<img class="alignright size-medium wp-image-6489" alt="tax[6]" src="/images/2013/03/tax6-300x300.jpg" width="300" height="300" srcset="/images/2013/03/tax6-300x300.jpg 300w, /images/2013/03/tax6-150x150.jpg 150w, /images/2013/03/tax6.jpg 347w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/tax6.jpg)The Internal Revenue Service today reminded taxpayers that there are plenty of scam artists and cybercriminals that want your money.
 
