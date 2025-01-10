@@ -1,0 +1,119 @@
+name: Omid Farhang
+title: Lead Frontend Developer | Professional Linux Administrator
+contact:
+  phone: "+989195038545"
+  email: "hi@omid.dev"
+  skype: "omid.farhang.en"
+  website: "https://omid.dev"
+  linkedin: "https://linkedin.com/in/omidfarhang"
+  github: "https://github.com/omidfarhang"
+  xing: "https://www.xing.com/profile/Omid_Farhang"
+summary: >
+  Experienced professional with a robust background spanning multiple domains: As a Senior Angular Developer, I've
+  crafted high-performance, secure applications for over 8 years. As a Lead Frontend Developer, I've led teams and
+  honed skills in PHP, HTML5, CSS3, and JavaScript, ensuring top-tier results. Additionally, with 15+ years as a
+  Linux Administrator, I've adeptly managed Linux systems, guaranteeing seamless operation.
+skills:
+  - category: Frontend
+    items: [HTML5, CSS3, SASS, SCSS, LESS, Flex, Bootstrap]
+  - category: Angular
+    items: [AngularJS, CLI, RxJS, NgRX, Standalone and Reusable Components, SSR/SSG, Nebular, Material, NG-Bootstrap, D3]
+  - category: Linux
+    items: [Arch, Debian, Apt, AUR, Pacman, Bash, Zsh]
+  - category: Project Management
+    items: [Agile methodologies]
+  - category: Software Architect
+    items: [DRY, SOLID, Design and Develop Frameworks and Design Systems]
+  - category: Programming Languages
+    items: [JavaScript/TypeScript (NodeJs), PHP, Good understanding of Java]
+  - category: Frameworks and Tools
+    items: [Angular, NextJs, ExpressJs, Nuxt, NestJS, Laravel, Webpack, Gulp, Grunt, Familiar with SpringBoot]
+  - category: CMS and Site Generators
+    items: [Hugo, Jekyll, WordPress]
+  - category: Network Protocols
+    items: [RESTful API, RPC/gRPC, RTSP]
+  - category: Database
+    items: [MySQL, Familiar with NoSQL/MongoDB]
+  - category: Server Administrator
+    items: [Nginx, Apache, Postfix, Dovecot, Varnish, CDN and Optimization, SSL, CI/CD, Docker]
+  - category: Languages
+    items: [Persian (Native), English (Advance), German (B1)]
+experience:
+  - title: Lead Frontend Developer
+    company: JIBit
+    period: Aug 2019 - Present
+    description: >
+      Jibit is a FinTech company, aiming to remove financial complexity through building Fintech infrastructure solutions, Enterprise financial services, Smart payments solutions for startups.
+    responsibilities:
+      - Collaborate with UI/UX designers, back-end developers, and stakeholders to gather requirements and ensure project success.
+      - Propose and contribute to the design of our own internal framework (a.k.a Pixel) based on Angular to make development and maintenance of other web panels about 4 times more efficient.
+      - Migrate all old web panels to use the unified internal frameworks.
+      - Develop and Manage Landing Pages, Blogs, email templates and keep the styles shared between all projects.
+      - Participate in Agile ceremonies, including daily stand-ups, sprint planning, and retrospectives.
+  - title: Tech Lead
+    company: Raymandan Taly Parseh
+    period: Jun 2020 - Mar 2022
+    description: >
+      Raymandan Taly Parseh is a business consultants company.
+    responsibilities:
+      - Leading software development (Landing Pages, Portal and Panels)
+      - Setting up web and mail servers based on Ubuntu, Nginx, MariaDB, Postfix, Dovecot.
+      - Setting up live broadcast of cameras over web using RTSP and FFMPEG.
+      - Optimize server configurations and conduct regular security audits to safeguard against potential vulnerabilities and cyber threats.
+      - Implement robust backup and disaster recovery solutions to safeguard critical data and ensure business continuity.
+  - title: Lead Web Developer
+    company: Polito
+    period: Nov 2018 - Aug 2019
+    description: >
+      Poolito was a FinTech startup, providing innovative payment solutions.
+    responsibilities:
+      - Leading the Frontend Team
+      - Developing Admin/Client Panel using Angular 7, Angular Material, Flex Layouts and gRPC Protocol.
+      - Developing landing pages using Bootstrap, Scrollify, jQuery, Popper.
+  - title: Full Stack Developer
+    company: ModernPal
+    period: Oct 2015 - Nov 2018
+    description: >
+      Developed HealthyPal application Frontend. The main product is a health application connecting people to doctors and instructors providing a different kind of services from medical to fitness.
+    responsibilities:
+      - Developed FeePal application Frontend and Backend. It's an innovative online exchange platform.
+      - Successfully migrate projects from AngularJs to Angular 2+ and PHP Laravel to Java Spring Boot, Spring Data JPA.
+  - title: System Administrator
+    company: Haseb System Consultancy Co
+    period: Sep 2014 - Nov 2015
+    description: >
+      Haseb System is a business consultants company.
+    responsibilities:
+      - Setup and Maintain Windows Server and Domain Controller, TFS Server
+      - Developing internal panels for project management and personnel timesheets
+      - Developing side projects of company using PHP and MySQL
+  - title: Assistant
+    company: Rayzan International Conference Center
+    period: Jan 2014 - Jan 2015
+  - title: Reseller
+    company: Industrial Utilities (Machining)
+    period: Jun 2011 - Apr 2013
+  - title: IT Support
+    company: IRIB
+    period: Sep 2007 - Jun 2008
+    description: >
+      The Islamic Republic of Iran Broadcasting, Radio and television services in Iran.
+    responsibilities:
+      - Web Developer
+      - IT Support to maintain Windows Based computers.
+courses:
+  - title: CCNA Routing and Switching 200-120
+    provider: Cisco
+    institution: Kahkeshan
+    year: 2016
+  - title: MCSA 2012
+    provider: Microsoft
+    institution: Kahkeshan
+    year: 2015
+  - title: Network+
+    provider: CompTIA
+    institution: CyberTech
+    year: 2014
+  - title: B1, Deutsche Sprach
+    institution: Goethe Institut (DSIT)
+    year: 2011 - 2013

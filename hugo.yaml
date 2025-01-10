@@ -1,6 +1,6 @@
 baseURL: 'https://omid.dev/'
 title: Omid Farhang
-theme: PaperMod
+theme: omid-dev
 copyright: '© 2025 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
 googleAnalytics: G-EFXLS4ZNG6
