@@ -1,27 +1,5 @@
 {{- define "main" }}
 
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "name": "{{ .Site.Data.resume.name }}",
-      "jobTitle": "{{ .Site.Data.resume.title }}",
-      "url": "{{ .Site.Data.resume.contact.website }}",
-      "sameAs": [
-        "{{ .Site.Data.resume.contact.linkedin }}",
-        "{{ .Site.Data.resume.contact.github }}",
-        "{{ .Site.Data.resume.contact.xing }}"
-      ],
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "{{ .Site.Data.resume.addressLocality }}",
-        "addressCountry": "{{ .Site.Data.resume.addressCountry }}"
-      },
-      "email": "{{ .Site.Data.resume.contact.email }}",
-      "telephone": "{{ .Site.Data.resume.contact.phone }}"
-    }
-    </script>
-
   <div class="container py-3">
 
     <div class="section id-contact py-3">
