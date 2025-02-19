@@ -137,7 +137,7 @@ params:
       - icon: fa-brands fa-x-twitter
         url: 'https://x.com/omidfarhangen'
       - icon: fa-brands fa-bluesky
-        url: 'https://omidfarhang.bsky.social'
+        url: 'https://bsky.app/profile/omid.dev'
       - icon: fa-brands fa-github
         url: 'https://github.com/omidfarhang'
       - icon: fa-brands fa-mastodon
@@ -168,7 +168,7 @@ params:
   - name: x
     url: 'https://x.com/omidfarhangen'
   - name: bluesky
-    url: 'https://omidfarhang.bsky.social'
+    url: 'https://bsky.app/profile/omid.dev'
   - name: github
     url: 'https://github.com/omidfarhang'
   - name: mastodon
