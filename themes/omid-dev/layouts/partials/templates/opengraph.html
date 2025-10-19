@@ -6,7 +6,7 @@
 {{- with $.Params.images -}}
 {{- range first 6 . }}<meta property="og:image" content="{{ . | absURL }}" />{{ end -}}
 {{- else -}}
-{{- $featured := partial "partials/templates/_funcs/get-featured-image.html" . }}
+{{- $featured := partial "templates/_funcs/get-featured-image.html" . }}
 {{- with $featured -}}
 <meta property="og:image" content="{{ $featured.Permalink }}"/>
 {{- else -}}
