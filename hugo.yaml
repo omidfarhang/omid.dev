@@ -148,6 +148,8 @@ params:
         url: 'https://facebook.com/omidfarhang'
       - icon: fa-brands fa-telegram
         url: 'https://t.me/omidfarhang'
+      - icon: fa-brands fa-google
+        url: 'https://g.dev/omidfarhang'
   # profileMode:
   #     enabled: true
   #     subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
@@ -165,22 +167,34 @@ params:
   socialIcons:
   - name: linkedin
     url: 'https://linkedin.com/in/omidfarhang'
+    icon: fa-brands fa-linkedin
   - name: x
     url: 'https://x.com/omidfarhangen'
+    icon: fa-brands fa-x-twitter
   - name: bluesky
     url: 'https://bsky.app/profile/omid.dev'
+    icon: fa-brands fa-bluesky
   - name: github
     url: 'https://github.com/omidfarhang'
+    icon: fa-brands fa-github
   - name: mastodon
     url: 'https://mastodon.social/@omidfarhang'
+    icon: fa-brands fa-mastodon
   - name: instagram
     url: 'https://instagram.com/omidfarhang'
+    icon: fa-brands fa-instagram
   - name: facebook
     url: 'https://facebook.com/omidfarhang'
+    icon: fa-brands fa-facebook
   - name: telegram
     url: 'https://t.me/omidfarhang'
+    icon: fa-brands fa-telegram
+  - name: google
+    url: 'https://g.dev/omidfarhang'
+    icon: fa-brands fa-google
   - name: Rss
     url: "index.xml"
+    icon: fa-solid fa-rss
 
   mainSections:
     - posts

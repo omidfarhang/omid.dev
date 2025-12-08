@@ -53,6 +53,10 @@
     width: 26px;
 }
 
+.social-icons a i {
+    font-size: 26px;
+}
+
 code {
     direction: ltr;
 }
