@@ -6,6 +6,7 @@ bin-release/
 [Bb]in/ # FlashDevelop bin
 
 # Other files and folders
+.chrome-dev-temp
 .settings/
 
 # lock

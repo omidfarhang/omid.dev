@@ -1,0 +1,38 @@
+{
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Hugo: Launch Chrome",
+      "type": "chrome",
+      "request": "launch",
+      "preLaunchTask": "hugo server",
+      "url": "http://localhost:1313/",
+      "webRoot": "${workspaceFolder}/public",
+      "runtimeArgs": [
+        "--user-data-dir=${workspaceFolder}/.chrome-dev-temp"
+      ],
+      "sourceMaps": false
+    },
+    {
+      "name": "Hugo: Launch Chrome (with drafts)",
+      "type": "chrome",
+      "request": "launch",
+      "preLaunchTask": "hugo server (with drafts)",
+      "url": "http://localhost:1313/",
+      "webRoot": "${workspaceFolder}/public",
+      "runtimeArgs": [
+        "--user-data-dir=${workspaceFolder}/.chrome-dev-temp"
+      ],
+      "sourceMaps": false
+    },
+    {
+      "name": "Hugo: Attach to Chrome",
+      "type": "chrome",
+      "request": "attach",
+      "port": 9222,
+      "url": "http://localhost:1313/",
+      "webRoot": "${workspaceFolder}/public"
+    }
+  ]
+}

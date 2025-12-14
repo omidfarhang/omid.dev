@@ -1,0 +1,44 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.hugo_build.lock": true,
+    "**/.chrome-dev-temp": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/public/**": true,
+    "**/resources/_gen/**": true,
+    "**/dist/**": true,
+    "**/.git/**": true,
+    "**/tmp/**": true,
+    "**/.chrome-dev-temp/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/public": true,
+    "**/resources/_gen": true,
+    "**/.chrome-dev-temp": true
+  },
+  "files.associations": {
+    "*.html": "html",
+    "hugo.yaml": "yaml",
+    "hugo.toml": "toml"
+  },
+  "html-css-class-completion.excludeGlobPattern": "**/public/**",
+  "emmet.includeLanguages": {
+    "html": "html"
+  }
+}

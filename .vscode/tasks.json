@@ -1,0 +1,113 @@
+{
+  // For more information, visit: https://go.microsoft.com/fwlink/?LinkId=733558
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "hugo server",
+      "type": "shell",
+      "command": "hugo server",
+      "isBackground": true,
+      "problemMatcher": [
+        {
+          "pattern": [
+            {
+              "regexp": ".",
+              "file": 1,
+              "location": 2,
+              "message": 3
+            }
+          ],
+          "background": {
+            "activeOnStart": true,
+            "beginsPattern": "^.*Start building sites.*$",
+            "endsPattern": "^.*Web Server is available at.*$"
+          }
+        }
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "hugo server (with drafts)",
+      "type": "shell",
+      "command": "hugo server -D",
+      "isBackground": true,
+      "problemMatcher": [
+        {
+          "pattern": [
+            {
+              "regexp": ".",
+              "file": 1,
+              "location": 2,
+              "message": 3
+            }
+          ],
+          "background": {
+            "activeOnStart": true,
+            "beginsPattern": "^.*Start building sites.*$",
+            "endsPattern": "^.*Web Server is available at.*$"
+          }
+        }
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "hugo build",
+      "type": "shell",
+      "command": "hugo --minify",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "hugo build (with drafts)",
+      "type": "shell",
+      "command": "hugo -D --minify",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "hugo clean",
+      "type": "shell",
+      "command": "rm -rf public resources",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "hugo new post",
+      "type": "shell",
+      "command": "hugo new posts/${input:postPath}.md",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "postPath",
+      "type": "promptString",
+      "description": "Enter the post path (e.g., techblog/my-new-post)"
+    }
+  ]
+}
