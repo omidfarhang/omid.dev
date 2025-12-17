@@ -28,13 +28,26 @@
 
 .archive-entry {
     position: relative;
-    padding: 5px;
+    padding: 8px;
     margin: 10px 0;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.archive-entry:hover {
+    background: var(--entry);
+    transform: translateX(8px);
+    box-shadow: var(--shadow-sm);
 }
 
 .archive-entry-title {
     margin: 5px 0;
     font-weight: 400;
+    transition: color 0.2s ease;
+}
+
+.archive-entry:hover .archive-entry-title {
+    color: var(--accent);
 }
 
 .archive-count,

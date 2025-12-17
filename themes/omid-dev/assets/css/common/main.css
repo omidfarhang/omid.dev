@@ -36,6 +36,14 @@
     background: var(--primary);
     border-radius: calc(36px / 2);
     padding: 0 16px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
+}
+
+.pagination a:hover {
+    background: var(--accent);
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: var(--shadow-md);
 }
 
 .pagination .next {
@@ -46,7 +54,61 @@
 .social-icons a {
     display: inline-flex;
     padding: 10px;
+    transition: all 0.3s ease;
 }
+
+.social-icons a:hover {
+    transform: translateY(-3px) scale(1.1);
+}
+
+/* Brand colors for social icons */
+.social-icons a[href*="linkedin.com"]:hover,
+.social-icons a[href*="linkedin.com"]:hover i { color: #0A66C2; }
+
+.social-icons a[href*="x.com"]:hover,
+.social-icons a[href*="twitter.com"]:hover,
+.social-icons a[href*="x.com"]:hover i,
+.social-icons a[href*="twitter.com"]:hover i { color: #000000; }
+
+.social-icons a[href*="bsky.app"]:hover,
+.social-icons a[href*="bluesky"]:hover,
+.social-icons a[href*="bsky.app"]:hover i,
+.social-icons a[href*="bluesky"]:hover i { color: #0085ff; }
+
+.social-icons a[href*="github.com"]:hover,
+.social-icons a[href*="github.com"]:hover i { color: #181717; }
+
+.social-icons a[href*="mastodon"]:hover,
+.social-icons a[href*="mastodon"]:hover i { color: #6364FF; }
+
+.social-icons a[href*="instagram.com"]:hover,
+.social-icons a[href*="instagram.com"]:hover i { color: #E4405F; }
+
+.social-icons a[href*="facebook.com"]:hover,
+.social-icons a[href*="facebook.com"]:hover i { color: #1877F2; }
+
+.social-icons a[href*="t.me"]:hover,
+.social-icons a[href*="telegram"]:hover,
+.social-icons a[href*="t.me"]:hover i,
+.social-icons a[href*="telegram"]:hover i { color: #0088cc; }
+
+.social-icons a[href*="google.com"]:hover,
+.social-icons a[href*="g.dev"]:hover,
+.social-icons a[href*="google.com"]:hover i,
+.social-icons a[href*="g.dev"]:hover i { color: #4285F4; }
+
+.social-icons a[href*="rss"]:hover,
+.social-icons a[href*=".xml"]:hover,
+.social-icons a[href*="rss"]:hover i,
+.social-icons a[href*=".xml"]:hover i { color: #FFA500; }
+
+.dark .social-icons a[href*="x.com"]:hover,
+.dark .social-icons a[href*="twitter.com"]:hover,
+.dark .social-icons a[href*="x.com"]:hover i,
+.dark .social-icons a[href*="twitter.com"]:hover i { color: #ffffff; }
+
+.dark .social-icons a[href*="github.com"]:hover,
+.dark .social-icons a[href*="github.com"]:hover i { color: #ffffff; }
 
 .social-icons a svg {
     height: 26px;
@@ -77,6 +139,13 @@ pre {
     padding: 0 5px;
     font-size: 14px;
     user-select: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.copy-code:hover {
+    background: var(--accent);
+    transform: scale(1.05);
 }
 
 div.highlight:hover .copy-code,

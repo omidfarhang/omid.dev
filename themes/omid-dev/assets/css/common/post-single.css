@@ -77,9 +77,16 @@
 
 .post-content a,
 .toc a:hover {
+    color: var(--accent);
     box-shadow: 0 1px 0;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
+    transition: all 0.2s ease;
+}
+
+.post-content a:hover {
+    color: var(--accent-hover);
+    box-shadow: 0 2px 0 var(--accent-hover);
 }
 
 .post-content a code {
@@ -164,6 +171,7 @@
     background: var(--code-block-bg) !important;
     border-radius: var(--radius);
     direction: ltr;
+    box-shadow: var(--shadow-sm);
 }
 
 .post-content li > .highlight {
@@ -218,8 +226,11 @@
 .post-content blockquote {
     font-style: italic;
     margin: 20px 0;
-    padding: 0 14px;
-    border-inline-start: 3px solid var(--primary);
+    padding: 1rem 14px;
+    border-inline-start: 4px solid var(--accent);
+    background: var(--entry);
+    border-radius: 0 8px 8px 0;
+    box-shadow: var(--shadow-sm);
 }
 
 .post-content hr {
@@ -234,8 +245,15 @@
 }
 
 .post-content img {
-    border-radius: 4px;
+    border-radius: 8px;
     margin: 1rem 0;
+    box-shadow: var(--shadow-md);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-content img:hover {
+    transform: scale(1.02);
+    box-shadow: var(--shadow-lg);
 }
 
 .post-content img[src*="#center"] {
@@ -265,6 +283,7 @@
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
+    box-shadow: var(--shadow-sm);
 }
 
 .dark .toc {
@@ -274,6 +293,11 @@
 .toc details summary {
     cursor: zoom-in;
     margin-inline-start: 20px;
+    transition: color 0.2s ease;
+}
+
+.toc details summary:hover {
+    color: var(--accent);
 }
 
 .toc details[open] summary {
@@ -292,6 +316,15 @@
 
 .toc li ul {
     margin-inline-start: var(--gap);
+}
+
+.toc a {
+    transition: all 0.2s ease;
+}
+
+.toc a:hover {
+    color: var(--accent);
+    padding-left: 8px;
 }
 
 .toc summary:focus {
@@ -331,11 +364,20 @@
     font-size: 14px;
     line-height: 34px;
     background: var(--code-bg);
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
 }
 
-.post-tags a:hover,
+.post-tags a:hover {
+    background: var(--accent);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
 .paginav a:hover {
-    background: var(--border);
+    background: var(--accent-light);
+    border-color: var(--accent);
 }
 
 .share-buttons-container {

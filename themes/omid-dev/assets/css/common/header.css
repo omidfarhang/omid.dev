@@ -82,11 +82,19 @@ body:not(.dark) #sun {
 
 #menu a {
     font-size: 16px;
+    transition: color 0.2s ease, transform 0.2s ease;
+    display: inline-block;
+}
+
+#menu a:hover {
+    color: var(--accent);
+    transform: translateY(-2px);
 }
 
 #menu .active {
     font-weight: 500;
-    border-bottom: 2px solid currentColor;
+    border-bottom: 2px solid var(--accent);
+    color: var(--accent);
 }
 
 .flex-grow {

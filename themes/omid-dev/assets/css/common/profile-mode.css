@@ -19,6 +19,13 @@
 
 .profile img {
     border-radius: 50%;
+    box-shadow: var(--shadow-md);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile img:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-lg);
 }
 
 .buttons {
@@ -31,13 +38,16 @@
     border-radius: var(--radius);
     margin: 8px;
     padding: 6px;
-    transition: transform 0.1s;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
 }
 
-.button-inner {
-    padding: 0 8px;
+.button:hover {
+    background: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
 }
 
 .button:active {
-    transform: scale(0.96);
+    transform: translateY(0) scale(0.98);
 }
