@@ -168,6 +168,9 @@ ul.meta li {
     align-self: flex-end;
     flex-wrap: nowrap;
     padding-bottom: 5px;
+    height: 32px;
+    display: flex;
+    align-items: center;
 }
 
 ul.meta li i {

@@ -3,7 +3,11 @@
     {{- if not (.Param "hideAuthor") -}}
         <li>
             <span class="screen-reader-text">Post author:</span>
-            <i class=" fas fa-user-circle" aria-hidden="true" role="img"></i>
+            {{- if .Site.Params.footer.avatar }}
+            <img src="{{ .Site.Params.footer.avatar }}" alt="{{ .Site.Params.author }}" class="post-meta-avatar">
+            {{- else }}
+            <i class="fas fa-user-circle" aria-hidden="true" role="img"></i>
+            {{- end }}
             {{- with (partial "author.html" .) }}
                 {{- . }}
             {{- end }}

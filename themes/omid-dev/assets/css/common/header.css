@@ -60,12 +60,29 @@ button#theme-toggle {
     margin: auto 4px;
 }
 
-body.dark #moon {
-    vertical-align: middle;
+/* Theme toggle icon visibility - default to system icon */
+#moon,
+#sun,
+#system {
     display: none;
 }
 
+/* Show appropriate icon based on theme */
+body.dark #moon {
+    display: inline;
+}
+
 body:not(.dark) #sun {
+    display: inline;
+}
+
+/* System icon shown via JavaScript based on localStorage */
+body.theme-system #system {
+    display: inline;
+}
+
+body.theme-system #moon,
+body.theme-system #sun {
     display: none;
 }
 

@@ -7,9 +7,14 @@
 .footer {
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
-    padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
+    padding: 40px var(--gap) 20px;
     text-align: center;
     line-height: 24px;
+    border-top: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    border-radius: 10px 10px 0 0;
+    background: var(--entry);
 }
 
 .footer span {
@@ -22,9 +27,10 @@
 }
 
 .footer a {
-    color: inherit;
-    border-bottom: 1px solid var(--secondary);
+    color: var(--secondary);
+    border-bottom: 1px solid transparent;
     transition: all 0.2s ease;
+    text-decoration: none;
 }
 
 .footer a:hover {
@@ -37,19 +43,21 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 20px;
+    padding: 30px 20px;
+    margin-bottom: 40px;
 }
 
 .footer-columns {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 20px;
+    padding: 0 20px 30px;
+    gap: 40px;
 }
 
 .footer-column {
     flex: 1;
-    padding: 0 10px;
+    padding: 0;
     min-width: 200px;
 }
 
@@ -57,17 +65,29 @@
     border-radius: 50%;
     width: 100px;
     height: 100px;
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow-md);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.footer-hero img:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-lg);
 }
 
 .footer-hero .bio {
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+    color: var(--secondary);
+    line-height: 1.6;
+    max-width: 600px;
 }
 
 .footer-social-links {
     display: flex;
-    justify-content: flex-end;
-    gap: 10px;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-top: 12px;
 }
 
 .footer-social-links a {
@@ -76,6 +96,8 @@
     text-decoration: none;
     border-bottom: none;
     transition: all 0.3s ease;
+    padding: 8px;
+    border-radius: 50%;
 }
 
 .footer-social-links a:hover {
@@ -141,7 +163,13 @@
 }
 
 .footer-recent-posts h3 {
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: var(--primary);
+    font-weight: 600;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 8px;
+    display: inline-block;
 }
 
 .footer-recent-posts ul {
@@ -150,16 +178,28 @@
 }
 
 .footer-recent-posts li {
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    padding-left: 12px;
+    position: relative;
+}
+
+.footer-recent-posts li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    opacity: 0.6;
 }
 
 .footer-recent-posts a {
     color: var(--secondary);
     text-decoration: none;
+    transition: all 0.2s ease;
 }
 
 .footer-recent-posts a:hover {
-    color: var(--primary);
+    color: var(--accent);
+    padding-left: 4px;
 }
 
 .footer-contact,
@@ -173,7 +213,13 @@
 
 .footer-contact h3,
 .footer-quick-links h3 {
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: var(--primary);
+    font-weight: 600;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 8px;
+    display: inline-block;
 }
 
 .footer-contact ul,
@@ -184,25 +230,41 @@
 
 .footer-contact li,
 .footer-quick-links li {
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    padding-left: 12px;
+    position: relative;
+}
+
+.footer-quick-links li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    opacity: 0.6;
 }
 
 .footer-contact a,
 .footer-quick-links a {
     color: var(--secondary);
     text-decoration: none;
+    transition: all 0.2s ease;
 }
 
 .footer-contact a:hover,
 .footer-quick-links a:hover {
-    color: var(--primary);
+    color: var(--accent);
+    padding-left: 4px;
 }
 
 .footer-bottom {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 20px 20px 0;
+    margin-top: 30px;
+    border-top: 1px solid var(--border);
+    font-size: 13px;
+    color: var(--secondary);
 }
 
 .top-link {

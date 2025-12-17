@@ -16,26 +16,76 @@
     margin-bottom: 5px;
 }
 
-.post-meta,
-.breadcrumbs {
-    color: var(--content);
+.post-meta {
+    color: var(--secondary);
     display: flex;
     flex-wrap: wrap;
-    font-size: 14.5px;
-    border-bottom: 1px solid var(--border);
-    padding: 0 0 20px;
-    margin: 0 0 15px;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    padding: 0;
+    margin: 0 0 20px;
+    opacity: 0.85;
+}
+
+.post-meta-avatar {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    vertical-align: middle;
+    object-fit: cover;
+    margin-right: 4px;
+    box-shadow: var(--shadow-sm);
+}
+
+.post-meta > * {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.post-meta > *:not(:last-child)::after {
+    content: "•";
+    margin-left: 8px;
+    color: var(--tertiary);
+    font-weight: normal;
 }
 
 .post-meta .i18n_list li {
     display: inline-flex;
     list-style: none;
     margin: auto 3px;
-    box-shadow: 0 1px 0 var(--secondary);
+}
+
+.breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 14px;
+    color: var(--secondary);
+    padding: 0;
+    margin: 0 0 16px;
+    list-style: none;
+}
+
+.breadcrumbs li {
+    display: inline-flex;
+    align-items: center;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+    content: "/";
+    margin: 0 8px;
+    color: var(--tertiary);
 }
 
 .breadcrumbs a {
-    font-size: 16px;
+    color: var(--secondary);
+    transition: color 0.2s ease;
+}
+
+.breadcrumbs a:hover {
+    color: var(--accent);
 }
 
 .post-content {
@@ -358,7 +408,8 @@
 }
 
 .post-tags a {
-    display: block;
+    display: flex;
+    align-items: center;
     padding: 0 14px;
     color: var(--secondary);
     font-size: 14px;
@@ -366,6 +417,13 @@
     background: var(--code-bg);
     transition: all 0.3s ease;
     box-shadow: var(--shadow-sm);
+}
+
+.post-tags a::before {
+    content: "#";
+    margin-right: 4px;
+    font-weight: 600;
+    opacity: 0.7;
 }
 
 .post-tags a:hover {
@@ -381,37 +439,46 @@
 }
 
 .share-buttons-container {
-    display: flex;
-    justify-content: space-between;
+    display: inline-flex;
     align-items: center;
+    gap: 12px;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 8px 16px;
+    box-shadow: var(--shadow-sm);
+    margin-top: 8px;
 }
 
 .share-buttons-label {
-    padding: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--secondary);
+    white-space: nowrap;
 }
 
 .share-buttons {
-    padding: 10px;
     display: flex;
-    justify-content: end;
-    overflow-x: auto;
-    gap: 10px;
-    font-size: 24px;
+    gap: 8px;
+    font-size: 20px;
+    padding: 0;
 }
 
 .share-buttons li,
 .share-buttons a {
     display: inline-flex;
     color: var(--content);
+    transition: all 0.2s ease;
+    padding: 4px;
+    border-radius: 6px;
 }
 
-.share-buttons li,
 .share-buttons a:hover {
-    color: var(--primary);
+    transform: translateY(-2px) scale(1.1);
 }
 
 .share-buttons a:not(:last-of-type) {
-    margin-inline-end: 12px;
+    margin-inline-end: 0;
 }
 
 .share-buttons a.linkedin:hover {
