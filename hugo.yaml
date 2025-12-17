@@ -128,7 +128,7 @@ languages:
 params:
   footer:
     avatar: "/images/bio-photo-150x150.jpg"
-    bio: "Yet another Developer, mostly focused on web development and more specifically Angular, but also interested in Linux and networking. I'm a freelancer and I'm always looking for new challenges."
+    bio: "Software engineer, systems thinker, and lifelong learner. I work mainly in frontend engineering with Angular, alongside Linux, networking, and DevOps practices. This blog is where I explore technology, problem-solving, and health topics that shape how we live and work."
     contactEmail: "hi@omid.dev"
     contactPhone: "+989195038545"
     social:
