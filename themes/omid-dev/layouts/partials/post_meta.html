@@ -26,15 +26,9 @@
         <li>
             <span class="screen-reader-text">Reading Time:</span>
             <i aria-hidden="true" role="img" class="fa-solid fa-stopwatch"></i>
-            {{i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)}}
-        </li>
-    {{- end }}
-
-    {{- if (.Param "ShowWordCount") -}}
-        <li>
-            <span class="screen-reader-text">Word Count:</span>
-            <i aria-hidden="true" role="img" class="fa-solid fa-hashtag"></i>
-            {{i18n "words" .WordCount | default (printf "%d words" .WordCount)}}
+            <span title="{{i18n "words" .WordCount | default (printf "%d words" .WordCount)}}">
+                {{i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)}}
+            </span>
         </li>
     {{- end }}
 
