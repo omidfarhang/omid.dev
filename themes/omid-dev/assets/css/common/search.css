@@ -19,3 +19,7 @@
     margin-top: var(--gap);
     width: 100%;
 }
+
+.search-results-count {
+    margin-bottom: 10px;
+}

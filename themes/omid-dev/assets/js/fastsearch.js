@@ -96,6 +96,14 @@ sInput.onkeyup = function (e) {
             if (results.length !== 0) {
                 // build our html if result exists
                 let resultSet = ''; // our results bucket
+                
+                const totalResults = results.length;
+                const displayCount = Math.min(totalResults, 20);
+                
+                // Add results count header
+                resultSet += `<div class="search-results-count">
+                    Found ${totalResults} result${totalResults !== 1 ? 's' : ''}${totalResults > 20 ? ' (showing first 20)' : ''}
+                </div>`;
 
                 if(results.length > 20) {
                     results = results.slice(0, 20); // limit to first 20 results
