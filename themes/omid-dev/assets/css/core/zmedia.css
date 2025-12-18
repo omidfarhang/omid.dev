@@ -13,6 +13,13 @@
     .first-entry {
         min-height: 260px;
     }
+    
+    /* boxed content */
+    .post-single,
+    .page-content {
+        padding: 20px;
+        border-radius: 8px;
+    }
 
     /* archive */
     .archive-month {

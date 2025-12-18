@@ -1,6 +1,7 @@
 ---
 title: درباره من
 author_profile: true
+layout: page
 lang: fa
 ---
 You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/) / [PDF](https://resume.omid.dev/pdf).

@@ -4,6 +4,7 @@
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
+<div class="posts-list-content">
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
@@ -120,7 +121,7 @@
   </nav>
 </footer>
 {{- end }}
-
+</div>{{/* end page-content */}}
 {{- end }}{{/* end profileMode */}}
 
 {{- end }}{{- /* end main */ -}}

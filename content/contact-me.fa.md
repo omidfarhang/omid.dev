@@ -1,17 +1,17 @@
 ---
-title: Contact Me
-lang: en
+title: تماس با من
+layout: page
+lang: fa
 ---
-
-* Phone Number: [+98 9195038545](call:+989195038545) ([WhatsApp](https://wa.me/989195038545) .  [Telegram](https://telegram.me/omidfarhang) .  [Signal](https://signal.me/#p/+989195038545))
-* Email: [hi@omid.dev](mailto:hi@omid.dev)
-* Bluesky: [@omid.dev](https://bsky.app/profile/omid.dev)
+* شماره موبایل: [+98 9195038545](call:+989195038545) ([WhatsApp](https://wa.me/989195038545) .  [Telegram](https://telegram.me/omidfarhang) .  [Signal](https://signal.me/#p/+989195038545))
+* ایمیل: [hi@omid.dev](mailto:hi@omid.dev)
+* بلواسکای: [@omid.dev](https://bsky.app/profile/omid.dev)
 * Mastodon: [@omidfarhang@mastodon.social](https://mastodon.social/@omidfarhang)
-* Online Payments: [Enter Payment System](https://g.omid.dev/pay)
+* پرداخت آنلاین: [ورود به سیستم پرداخت](https://g.omid.dev/pay)
 
 * * *
 
-Bank Acocunts
+شماره حساب ها
 -------------
 
 |  Bank         |  Iban                      |  Card                | Account           |

@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+layout: page
 author_profile: true
 ---
 **What information do we collect?**

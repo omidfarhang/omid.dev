@@ -1,5 +1,6 @@
 {{- define "main" }}
 
+<div class="page-content">
 <header class="page-header">
     <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
@@ -25,5 +26,6 @@
         aria-label="search" type="search" autocomplete="off" maxlength="64">
     <ul id="searchResults" aria-label="search results"></ul>
 </div>
+</div>{{/* end page-content */}}
 
 {{- end }}{{/* end main */}}
