@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Site.Data.resume.name }} - Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Roboto', 'Arial', sans-serif;
+            font-size: 11pt;
+            line-height: 1.4;
+            color: #000;
+            background: #fff;
+            padding: 20px 30px;
+            max-width: 210mm;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            font-size: 24pt;
+            font-weight: 700;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        h2 {
+            font-size: 14pt;
+            font-weight: 400;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .resume-header {
+            border-bottom: 2px solid #000;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+            page-break-after: avoid;
+        }
+        
+        .contact-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px 30px;
+            margin-top: 10px;
+            font-size: 9.5pt;
+        }
+        
+        .contact-group {
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        .contact-item {
+            margin: 4px 0;
+        }
+        
+        .contact-item i {
+            width: 16px;
+            display: inline-block;
+            margin-right: 5px;
+        }
+        
+        .contact-item a {
+            color: #000;
+            text-decoration: none;
+        }
+        
+        .section {
+            margin: 15px 0;
+            page-break-inside: avoid;
+        }
+        
+        .section-header {
+            background: #f0f0f0;
+            padding: 8px 12px;
+            border-left: 4px solid #000;
+            margin-bottom: 10px;
+            page-break-after: avoid;
+        }
+        
+        .section-header h3 {
+            font-size: 13pt;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .section-content {
+            padding: 0 12px;
+        }
+        
+        .summary-text {
+            text-align: justify;
+            line-height: 1.5;
+            margin: 8px 0;
+        }
+        
+        .skills-list {
+            list-style: none;
+        }
+        
+        .skills-list li {
+            margin: 8px 0;
+            padding: 5px 0;
+            line-height: 1.4;
+        }
+        
+        .skills-list strong {
+            font-weight: 600;
+            color: #000;
+            margin-right: 8px;
+        }
+        
+        .experience-item {
+            margin: 12px 0;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+            page-break-inside: avoid;
+        }
+        
+        .experience-item:last-child {
+            border-bottom: none;
+        }
+        
+        .job-title {
+            font-size: 11.5pt;
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+        
+        .company-info {
+            font-style: italic;
+            color: #333;
+            margin-bottom: 6px;
+            font-size: 10pt;
+        }
+        
+        .period {
+            color: #666;
+            font-size: 9pt;
+            font-style: normal;
+        }
+        
+        .job-description {
+            margin: 6px 0;
+            font-size: 10pt;
+            line-height: 1.4;
+        }
+        
+        .responsibilities {
+            margin: 6px 0 0 18px;
+            list-style-type: disc;
+        }
+        
+        .responsibilities li {
+            margin: 3px 0;
+            font-size: 10pt;
+            line-height: 1.35;
+        }
+        
+        .cert-item {
+            margin: 8px 0;
+            padding: 6px 0;
+            border-bottom: 1px solid #eee;
+            page-break-inside: avoid;
+        }
+        
+        .cert-item:last-child {
+            border-bottom: none;
+        }
+        
+        .cert-title {
+            font-weight: 600;
+            font-size: 10.5pt;
+        }
+        
+        .cert-details {
+            font-style: italic;
+            color: #666;
+            font-size: 9.5pt;
+            margin-top: 2px;
+        }
+        
+        @media print {
+            body {
+                padding: 10mm 15mm;
+            }
+            
+            .section {
+                page-break-inside: avoid;
+            }
+            
+            h1, h2, h3 {
+                page-break-after: avoid;
+            }
+        }
+        
+        @media screen {
+            body {
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                margin: 20px auto;
+            }
+            
+            .no-print {
+                text-align: center;
+                padding: 15px;
+                background: #f8f9fa;
+                margin-bottom: 20px;
+                border-radius: 5px;
+            }
+            
+            .print-btn {
+                background: #000;
+                color: #fff;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 11pt;
+                margin: 0 5px;
+                text-decoration: none;
+                display: inline-block;
+            }
+            
+            .print-btn:hover {
+                background: #333;
+            }
+        }
+        
+        @media print {
+            .no-print {
+                display: none !important;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="no-print">
+        <button class="print-btn" onclick="window.print()">
+            <i class="fa-solid fa-print"></i> Print / Save as PDF
+        </button>
+        <a class="print-btn" href="/resume">
+            <i class="fa-solid fa-arrow-left"></i> Back to Resume
+        </a>
+    </div>
+
+    <div class="resume-header">
+        <h1>{{ .Site.Data.resume.name }}</h1>
+        <h2>{{ .Site.Data.resume.title }}</h2>
+        
+        <div class="contact-info">
+            <div class="contact-group">
+                <div class="contact-item">
+                    <i class="fa-solid fa-phone"></i> {{ .Site.Data.resume.contact.phone }}
+                </div>
+                <div class="contact-item">
+                    <i class="fa-solid fa-envelope"></i> <a href="mailto:{{ .Site.Data.resume.contact.email }}">{{ .Site.Data.resume.contact.email }}</a>
+                </div>
+            </div>
+            <div class="contact-group">
+                <div class="contact-item">
+                    <i class="fa-solid fa-globe"></i> <a href="{{ .Site.Data.resume.contact.website }}">{{ .Site.Data.resume.contact.website }}</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fa-brands fa-linkedin"></i> <a href="{{ .Site.Data.resume.contact.linkedin }}">LinkedIn</a>
+                </div>
+            </div>
+            <div class="contact-group">
+                <div class="contact-item">
+                    <i class="fa-brands fa-github"></i> <a href="{{ .Site.Data.resume.contact.github }}">GitHub</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fa-brands fa-xing"></i> <a href="{{ .Site.Data.resume.contact.xing }}">Xing</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-header">
+            <h3>Summary</h3>
+        </div>
+        <div class="section-content">
+            <p class="summary-text">{{ .Site.Data.resume.summary }}</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-header">
+            <h3>Skills</h3>
+        </div>
+        <div class="section-content">
+            <ul class="skills-list">
+                {{ range .Site.Data.resume.skills }}
+                <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-header">
+            <h3>Experience</h3>
+        </div>
+        <div class="section-content">
+            {{ range .Site.Data.resume.experience }}
+            <div class="experience-item">
+                <div class="job-title">{{ .title }}</div>
+                <div class="company-info">{{ .company }} <span class="period">({{ .period }})</span></div>
+                {{ if .description }}
+                <p class="job-description">{{ .description }}</p>
+                {{ end }}
+                {{ if .responsibilities }}
+                <ul class="responsibilities">
+                    {{ range .responsibilities }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-header">
+            <h3>Certifications</h3>
+        </div>
+        <div class="section-content">
+            {{ range .Site.Data.resume.certifications }}
+            <div class="cert-item">
+                <div class="cert-title">{{ .title }} - {{ .provider }}</div>
+                <div class="cert-details">{{ .institution }} ({{ .year }})</div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+</body>
+</html>
