@@ -126,6 +126,8 @@ languages:
           weight: 5
 
 params:
+  social:
+    twitter: 'omidfarhangen'
   footer:
     avatar: "/images/bio-photo-150x150.jpg"
     bio: "Software engineer, systems thinker, and lifelong learner. I work mainly in frontend engineering with Angular, alongside Linux, networking, and DevOps practices. This blog is where I explore technology, problem-solving, and health topics that shape how we live and work."
