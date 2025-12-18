@@ -38,4 +38,19 @@
         </li>
     {{- end }}
 
+    {{- if .IsTranslated -}}
+    <li>{{- i18n "translations" | default "Translations" }}:
+    {{- range .Translations }}
+    &nbsp;
+        <a href="{{ .Permalink }}" title="{{- i18n "translations" | default "Translations" }} {{- .Lang | title -}}">
+            {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
+            {{- .Language.LanguageName | emojify -}}
+            {{- else }}
+            {{- .Lang | title -}}
+            {{- end -}}
+        </a>
+    {{- end }}
+    </li>
+    {{- end -}}
+
 </ul>
