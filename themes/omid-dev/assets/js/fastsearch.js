@@ -5,6 +5,7 @@ let resList = document.getElementById('searchResults');
 let sInput = document.getElementById('searchInput');
 let first, last, current_elem = null
 let resultsAvailable = false;
+let searchTimeout = null; // for debouncing search
 
 // load our search index
 window.onload = function () {
@@ -23,7 +24,9 @@ window.onload = function () {
                             'title',
                             'permalink',
                             'summary',
-                            'content'
+                            'categories',
+                            'date',
+                            'tags'
                         ]
                     };
                     if (params.fuseOpts) {
@@ -34,7 +37,7 @@ window.onload = function () {
                             minMatchCharLength: params.fuseOpts.minmatchcharlength ?? 1,
                             shouldSort: params.fuseOpts.shouldsort ?? true,
                             findAllMatches: params.fuseOpts.findallmatches ?? false,
-                            keys: params.fuseOpts.keys ?? ['title', 'permalink', 'summary', 'content'],
+                            keys: params.fuseOpts.keys ?? ['title', 'permalink', 'summary', 'categories', 'tags', 'date'],
                             location: params.fuseOpts.location ?? 0,
                             threshold: params.fuseOpts.threshold ?? 0.4,
                             distance: params.fuseOpts.distance ?? 100,
@@ -74,33 +77,97 @@ function reset() {
 
 // execute search as each character is typed
 sInput.onkeyup = function (e) {
-    // run a search query (for "term") every time a letter is typed
-    // in the search box
-    if (fuse) {
-        let results;
-        if (params.fuseOpts) {
-            results = fuse.search(this.value.trim(), {limit: params.fuseOpts.limit}); // the actual query being run using fuse.js along with options
-        } else {
-            results = fuse.search(this.value.trim()); // the actual query being run using fuse.js
-        }
-        if (results.length !== 0) {
-            // build our html if result exists
-            let resultSet = ''; // our results bucket
-
-            for (let item in results) {
-                resultSet += `<li class="post-entry"><header class="entry-header">${results[item].item.title}&nbsp;»</header>` +
-                    `<a href="${results[item].item.permalink}" aria-label="${results[item].item.title}"></a></li>`
-            }
-
-            resList.innerHTML = resultSet;
-            resultsAvailable = true;
-            first = resList.firstChild;
-            last = resList.lastChild;
-        } else {
-            resultsAvailable = false;
-            resList.innerHTML = '';
-        }
+    // Clear any existing timeout
+    if (searchTimeout) {
+        clearTimeout(searchTimeout);
     }
+    
+    // Set a new timeout to run search after 500ms of no typing
+    searchTimeout = setTimeout(() => {
+        // run a search query (for "term") every time a letter is typed
+        // in the search box
+        if (fuse) {
+            let results;
+            if (params.fuseOpts) {
+                results = fuse.search(this.value.trim(), {limit: params.fuseOpts.limit}); // the actual query being run using fuse.js along with options
+            } else {
+                results = fuse.search(this.value.trim()); // the actual query being run using fuse.js
+            }
+            if (results.length !== 0) {
+                // build our html if result exists
+                let resultSet = ''; // our results bucket
+
+                if(results.length > 20) {
+                    results = results.slice(0, 20); // limit to first 20 results
+                }
+
+                for (let item in results) {
+                    const title = results[item].item.title;
+                    const permalink = results[item].item.permalink;
+                    const summary = results[item].item.summary || '';
+                    const categories = results[item].item.categories || [];
+                    const tags = results[item].item.tags || [];
+                    const date = results[item].item.date || '';
+                    
+                    // Build meta information similar to post_meta.html
+                    let metaItems = [];
+                    
+                    // Categories first (instead of author)
+                    if (categories.length > 0) {
+                        metaItems.push(`<li>
+                            <span class="screen-reader-text">Categories:</span>
+                            <i class="fas fa-folder" aria-hidden="true" role="img"></i>
+                            ${categories.join(', ')}
+                        </li>`);
+                    }
+                    
+                    // Date
+                    if (date) {
+                        const dateObj = new Date(date);
+                        const formattedDate = dateObj.toLocaleDateString('en-US', { 
+                            year: 'numeric', 
+                            month: 'long', 
+                            day: 'numeric' 
+                        });
+                        metaItems.push(`<li>
+                            <span class="screen-reader-text">Post published:</span>
+                            <i aria-hidden="true" role="img" class="far fa-calendar-alt"></i>
+                            <span>${formattedDate}</span>
+                        </li>`);
+                    }
+                    
+                    const metaInfo = metaItems.length > 0 
+                        ? `<ul class="meta">${metaItems.join('')}</ul>`
+                        : '';
+                    
+                    resultSet += `<article class="post-entry">
+                        <header class="entry-header">
+                            <a aria-label="post link to ${title}" href="${permalink}">
+                                <h2 class="entry-hint-parent">
+                                    ${title}
+                                </h2>
+                            </a>
+                        </header>
+                        ${metaInfo}
+                        ${summary ? `<div class="entry-content">
+                            <p>${summary.replace(/<[^>]*>/g, '')}</p>
+                        </div>` : ''}
+                        <a class="entry-link" aria-label="post link to ${title}" href="${permalink}">
+                            Continue Reading <i class="fa fa-angle-right" aria-hidden="true" role="img"></i>
+                        </a>
+                    </article>`;
+                }
+
+                resList.innerHTML = resultSet;
+                resultsAvailable = true;
+                first = resList.firstChild;
+                last = resList.lastChild;
+            } else {
+                resultsAvailable = false;
+                resList.innerHTML = '';
+            }
+        }
+    }, 300);
 }
 
 sInput.addEventListener('search', function (e) {
@@ -130,21 +197,21 @@ document.onkeydown = function (e) {
         e.preventDefault();
         if (ae == sInput) {
             // if the currently focused element is the search input, focus the <a> of first <li>
-            activeToggle(resList.firstChild.lastChild);
-        } else if (ae.parentElement != last) {
+            activeToggle(resList.firstChild.querySelector('.entry-link'));
+        } else if (ae.parentElement.parentElement != last) {
             // if the currently focused element's parent is last, do nothing
             // otherwise select the next search result
-            activeToggle(ae.parentElement.nextSibling.lastChild);
+            activeToggle(ae.parentElement.parentElement.nextSibling.querySelector('.entry-link'));
         }
     } else if (key === "ArrowUp") {
         e.preventDefault();
-        if (ae.parentElement == first) {
+        if (ae.parentElement.parentElement == first) {
             // if the currently focused element is first item, go to input box
             activeToggle(sInput);
         } else if (ae != sInput) {
             // if the currently focused element is input box, do nothing
             // otherwise select the previous search result
-            activeToggle(ae.parentElement.previousSibling.lastChild);
+            activeToggle(ae.parentElement.parentElement.previousSibling.querySelector('.entry-link'));
         }
     } else if (key === "ArrowRight") {
         ae.click(); // click on active link

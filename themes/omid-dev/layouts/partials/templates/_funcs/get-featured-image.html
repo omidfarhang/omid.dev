@@ -6,11 +6,11 @@
 {{ $featured = resources.Get "/opengraph/default.jpg" }}
 
     {{ range .Params.categories }}
-    {{ if eq . "techblog"  }}
+    {{ if eq (lower .) "techblog"  }}
         {{ $featured = resources.Get "/opengraph/techblog.jpg" }}
-    {{ else if eq . "electronics" }}
+    {{ else if eq (lower .) "electronics" }}
         {{ $featured = resources.Get "/opengraph/electronics.jpg" }}
-    {{ else if eq . "health" }}
+    {{ else if eq (lower .) "health" }}
         {{ $featured = resources.Get "/opengraph/health.jpg" }}
     {{ end }}
     {{ end }}
