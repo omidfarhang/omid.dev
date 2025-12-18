@@ -1,109 +1,137 @@
 {{- define "main" }}
 
-  <div class="container py-3">
+  {{- /* JSON-LD Structured Data for Resume */ -}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ .Site.Data.resume.name }}",
+    "jobTitle": "{{ .Site.Data.resume.title }}",
+    "url": "{{ .Site.Data.resume.contact.website }}",
+    "sameAs": [
+      "{{ .Site.Data.resume.contact.linkedin }}",
+      "{{ .Site.Data.resume.contact.github }}",
+      "{{ .Site.Data.resume.contact.xing }}"
+    ],
+    "email": "{{ .Site.Data.resume.contact.email }}",
+    "telephone": "{{ .Site.Data.resume.contact.phone }}",
+    "description": "{{ .Site.Data.resume.summary }}",
+    "knowsAbout": [
+      {{- range $index, $skill := .Site.Data.resume.skills -}}
+        {{- range $i, $item := $skill.items -}}
+          "{{ $item }}"{{ if or (lt $i (sub (len $skill.items) 1)) (lt $index (sub (len $.Site.Data.resume.skills) 1)) }},{{ end }}
+        {{- end -}}
+      {{- end -}}
+    ],
+    "hasCredential": [
+      {{- range $index, $cert := .Site.Data.resume.certifications -}}
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "certification",
+        "name": "{{ $cert.title }}",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "{{ $cert.provider }}"
+        }
+      }{{ if lt $index (sub (len $.Site.Data.resume.certifications) 1) }},{{ end }}
+      {{- end -}}
+    ],
+    "hasOccupation": [
+      {{- range $index, $exp := .Site.Data.resume.experience -}}
+      {
+        "@type": "OrganizationRole",
+        "roleName": "{{ $exp.title }}",
+        "startDate": "{{ $exp.period }}",
+        "organization": {
+          "@type": "Organization",
+          "name": "{{ $exp.company }}"
+        }
+      }{{ if lt $index (sub (len $.Site.Data.resume.experience) 1) }},{{ end }}
+      {{- end -}}
+    ]
+  }
+  </script>
 
-    <div class="section id-contact py-3">
-      <div class="row align-items-center">
-        <div class="col-sm-6">
-          <h1 class="fw-bold">{{ .Site.Data.resume.name }}</h1>
-          <h2>{{ .Site.Data.resume.title }}</h2>
-        </div>
-        <div class="col-sm-3">
-          <ul class="list-unstyled">
-            <li><i class="fa-solid fa-square-phone me-1"></i><a class="text-decoration-none link-dark" target="_blank" href="tel:{{ .Site.Data.resume.contact.phone }}">{{ .Site.Data.resume.contact.phone }}</a></li>
-            <li><i class="fa-solid fa-envelope"></i> <a class="text-decoration-none link-dark" target="_blank" href="mailto:{{ .Site.Data.resume.contact.email }}">{{ .Site.Data.resume.contact.email }}</a></li>
-            <li class="d-print-none">
-              <i class="fa-solid fa-file-pdf"></i> <a class="text-decoration-none link-dark" target="_blank" href="/pdf">PDF</a>
-              |
-              <i class="fa-solid fa-print"></i> <a class="text-decoration-none link-dark" href="javascript:window.print();">Print</a></li>
-          </ul>
-        </div>
-        <div class="col-sm-3">
-          <ul class="list-unstyled">
-            <li><i class="fa-solid fa-link"></i> <a class="text-decoration-none link-dark" target="_blank" href="{{ .Site.Data.resume.contact.website }}">{{ .Site.Data.resume.contact.website }}</a></li>
-            <li><i class="fa-brands fa-linkedin"></i> <a class="text-decoration-none link-dark" target="_blank" href="{{ .Site.Data.resume.contact.linkedin }}">{{ .Site.Data.resume.contact.linkedin }}</a></li>
-            <li><i class="fa-brands fa-github"></i> <a class="text-decoration-none link-dark" target="_blank" href="{{ .Site.Data.resume.contact.github }}">{{ .Site.Data.resume.contact.github }}</a></li>
-            <li><i class="fa-brands fa-xing"></i> <a class="text-decoration-none link-dark" target="_blank" href="{{ .Site.Data.resume.contact.xing }}">{{ .Site.Data.resume.contact.xing }}</a></li>
-          </ul>
-        </div>
+  <div class="resume-container">
+
+    <div class="resume-header">
+      <div class="resume-header-info">
+        <h1>{{ .Site.Data.resume.name }}</h1>
+        <h2>{{ .Site.Data.resume.title }}</h2>
+      </div>
+      <div class="resume-contact">
+        <ul>
+          <li><i class="fa-solid fa-square-phone"></i><a target="_blank" href="tel:{{ .Site.Data.resume.contact.phone }}">{{ .Site.Data.resume.contact.phone }}</a></li>
+          <li><i class="fa-solid fa-envelope"></i> <a target="_blank" href="mailto:{{ .Site.Data.resume.contact.email }}">{{ .Site.Data.resume.contact.email }}</a></li>
+          <li class="d-print-none">
+            <i class="fa-solid fa-file-pdf"></i> <a target="_blank" href="/pdf">PDF</a>
+            |
+            <i class="fa-solid fa-print"></i> <a href="javascript:window.print();">Print</a></li>
+        </ul>
+      </div>
+      <div class="resume-contact">
+        <ul>
+          <li><i class="fa-solid fa-link"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.website }}">{{ .Site.Data.resume.contact.website }}</a></li>
+          <li><i class="fa-brands fa-linkedin"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.linkedin }}">{{ .Site.Data.resume.contact.linkedin }}</a></li>
+          <li><i class="fa-brands fa-github"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.github }}">{{ .Site.Data.resume.contact.github }}</a></li>
+          <li><i class="fa-brands fa-xing"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.xing }}">{{ .Site.Data.resume.contact.xing }}</a></li>
+        </ul>
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-12">
+    <div class="resume-section summary">
+      <div class="resume-section-header">
+        <h2>Summary</h2>
+      </div>
+      <div class="resume-section-content">
+        <p>{{ .Site.Data.resume.summary }}</p>
+      </div>
+    </div>
 
-        <div class="section summary py-3">
-          <div class="card">
-            <div class="card-header">
-              <h2>Summary</h2>
-            </div>
-            <div class="card-body">
-              <div class="card-text">
-                <p>{{ .Site.Data.resume.summary }}</p>
-              </div>
-            </div>
-          </div>
+    <div class="resume-section skills">
+      <div class="resume-section-header">
+        <h2>Skills</h2>
+      </div>
+      <div class="resume-section-content">
+        <ul class="resume-skills-list">
+          {{ range .Site.Data.resume.skills }}
+          <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+
+    <div class="resume-section experience">
+      <div class="resume-section-header">
+        <h2>Experience</h2>
+      </div>
+      <div class="resume-section-content">
+        {{ range .Site.Data.resume.experience }}
+        <div class="resume-experience-item">
+          <strong>{{ .title }}</strong>
+          <div class="company">{{ .company }} <span class="period">({{ .period }})</span></div>
+          <p>{{ .description }}</p>
+          <ul>
+            {{ range .responsibilities }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
         </div>
+        {{ end }}
+      </div>
+    </div>
 
-        <div class="section skills py-3">
-          <div class="card">
-            <div class="card-header">
-              <h2>Skills</h2>
-            </div>
-            <div class="card-body">
-              <div class="card-text">
-                <ul>
-                  {{ range .Site.Data.resume.skills }}
-                  <li><strong>{{ .category }}: </strong> {{ delimit .items ", " }}</li>
-                  {{ end }}
-                </ul>
-              </div>
-            </div>
-          </div>
+    <div class="resume-section courses">
+      <div class="resume-section-header">
+        <h2>Certifications</h2>
+      </div>
+      <div class="resume-section-content">
+        {{ range .Site.Data.resume.certifications }}
+        <div class="resume-course-item">
+          <strong>{{ .title }} - {{ .provider }}</strong>
+          <div class="institution">{{ .institution }} <span class="year">({{ .year }})</span></div>
         </div>
-
-        <div class="section experience py-3">
-          <div class="card">
-            <div class="card-header">
-              <h2>Experience</h2>
-            </div>
-            <div class="card-body">
-              {{ range .Site.Data.resume.experience }}
-              <div class="row py-2 border-bottom">
-                <div class="col-12">
-                  <strong>{{ .title }}</strong>
-                  <i>{{ .company }}<small class="text-muted"> ({{ .period }})</small></i>
-                  <p>{{ .description }}</p>
-                  <ul>
-                    {{ range .responsibilities }}
-                    <li>{{ . }}</li>
-                    {{ end }}
-                  </ul>
-                </div>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-
-        <div class="section courses py-3">
-          <div class="card">
-            <div class="card-header">
-              <h2>Courses</h2>
-            </div>
-            <div class="card-body">
-              {{ range .Site.Data.resume.courses }}
-              <div class="row py-2 border-bottom">
-                <div class="col-12">
-                  <strong>{{ .title }} - {{ .provider }}</strong>
-                  <p>{{ .institution }}<small class="text-muted"> ({{ .year }})</small></p>
-                </div>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-
+        {{ end }}
       </div>
     </div>
 
