@@ -14,9 +14,9 @@ body {
 .page-content {
     background: var(--theme);
     border-radius: var(--radius);
-    padding: 40px;
+    padding: 48px;
     box-shadow: var(--shadow-md);
-    border: 1px solid var(--border);
+    border: 0.5px solid var(--border);
 }
 
 .screen-reader-text {
@@ -35,7 +35,9 @@ body {
 }
 
 .page-header h1 {
-    font-size: 40px;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: -0.03em;
 }
 
 .pagination {

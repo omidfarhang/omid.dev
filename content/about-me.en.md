@@ -4,31 +4,23 @@ author_profile: true
 layout: page
 lang: en
 ---
-You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/) / [PDF](https://resume.omid.dev/pdf).
+
+I am **Omid Farhang**, a **Senior Frontend Engineer** and **Frontend Software Architect** with over 10 years of experience in designing and developing complex web applications and leading high-performing teams.
+
+My journey in technology has been defined by a unique blend of frontend artistry and backend stability. While I specialize in architecting scalable frontend solutions and implementing design systems, my roots as a Linux Administrator give me a deep understanding of the infrastructure that powers modern web applications. This dual perspective allows me to bridge the gap between user experience and system reliability.
+
+### What I Do
+
+- **Frontend Architecture:** At [JIBit](https://jibit.ir), I lead the frontend team and have spearheaded the design of proprietary Angular-based frameworks that increased development efficiency by 40%.
+- **System Design:** I design and develop frameworks and design systems that adhere to DRY and SOLID principles, ensuring long-term maintainability and code quality.
+- **DevOps & Administration:** With a strong background in Linux administration (Arch, Debian), I optimize server configurations and ensure seamless CI/CD pipelines using Docker and modern DevOps practices.
+
+### My Philosophy
+
+I believe that great software is not just about writing code; it's about solving problems efficiently and creating systems that are as elegant as they are functional. I am passionate about automation, open-source, and mentoring teams to reach their full potential.
 
 ---
 
-Hello! I'm Omid Farhang, an experienced Fullstack Web Developer with a robust background spanning multiple domains. Over the years, I've crafted high-performance applications and led development teams, driving innovation and excellence in every project.
+You can find my full professional history on my [Resume](/resume) or download the [PDF version](/resume/print).
 
-**Work History:**
-
-- Senior Angular Developer: Engineered proprietary frontend frameworks, resulting in significant improvements in project completion times and code consistency.
-- Lead Frontend Developer: Led software development efforts and optimized server configurations to meet the evolving needs of modern businesses.
-- Tech Lead: Led software development teams and implemented robust security measures to safeguard critical data.
-- Lead Web Developer: Spearheaded the development of frontend and backend solutions for innovative payment platforms.
-- Full Stack Developer: Developed applications connecting people to medical and fitness services, as well as online exchange platforms.
-
-**Skills:**
-
-- Frontend: JavaScript, TypeScript, Angular, HTML5, CSS3, SASS, Flex Layouts, Bootstrap
-- Backend: Node.js, PHP (Laravel, WordPress), Java (Spring Boot)
-- Software Architecture: Design and Develop Frameworks, Design Systems
-- Frameworks and Tools: Angular CLI, RxJS, NgRX, Angular Material, D3, Next.js, Express.js, Nuxt.js, NestJS, Laravel, Webpack, Gulp, Grunt, SpringBoot
-- Project Management: Agile Methodologies
-- CMS and Site Generators: Hugo, Jekyll, WordPress
-- Network Protocols: RESTful API, RPC/gRPC, RTSP
-- Database: MySQL, Familiar with NoSQL/MongoDB
-- Linux: Arch, Debian, Ubuntu, Nginx, Apache, Postfix, Dovecot, Varnish, SSL, CI/CD, Docker
-- Languages: Persian (Native), English (Advanced), German (B1)
-
-I'm passionate about leveraging technology to make a positive impact and am always eager to take on new challenges and opportunities for growth. Let's connect and explore how we can collaborate to create something extraordinary!
+Let's connect! Whether you're interested in a technical collaboration or just want to talk shop about Linux or Angular, feel free to [reach out](/contact-me).

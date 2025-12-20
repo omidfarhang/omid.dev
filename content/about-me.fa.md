@@ -4,31 +4,23 @@ author_profile: true
 layout: page
 lang: fa
 ---
-You may find my Resume here: [resume.omid.dev](https://resume.omid.dev/) / [PDF](https://resume.omid.dev/pdf).
+
+من **امید فرهنگ** هستم، **مهندس ارشد فرانت‌اند** و **معمار نرم‌افزار** با بیش از ۱۰ سال تجربه در طراحی و توسعه اپلیکیشن‌های پیچیده وب و رهبری تیم‌های فنی با کارایی بالا.
+
+مسیر من در دنیای تکنولوژی با ترکیبی منحصر‌به‌فرد از هنر فرانت‌اند و پایداری بک‌اند شکل گرفته است. در حالی که تخصص من در معماری راهکارهای مقیاس‌پذیر فرانت‌اند و پیاده‌سازی سیستم‌های دیزاین است، ریشه‌های من به عنوان مدیر سیستم لینوکس به من درک عمیقی از زیرساخت‌هایی که برنامه‌های مدرن وب را قدرت می‌بخشند، داده است. این دیدگاه دوگانه به من اجازه می‌دهد تا فاصله بین تجربه کاربری و پایداری سیستم را پر کنم.
+
+### فعالیت‌های من
+
+- **معماری فرانت‌اند:** در [جی‌بیت](https://jibit.ir)، من تیم فرانت‌اند را رهبری می‌کنم و طراحی فریم‌ورک‌های اختصاصی مبتنی بر انگولار را بر عهده داشته‌ام که بهره‌وری توسعه را تا ۴۰ درصد افزایش داده است.
+- **طراحی سیستم:** من فریم‌ورک‌ها و سیستم‌های دیزاینی را طراحی و توسعه می‌دهم که به اصول DRY و SOLID پایبند هستند و کیفیت کد و نگهداری طولانی‌مدت را تضمین می‌کنند.
+- **دواپس و مدیریت سیستم:** با پیشینه‌ای قوی در مدیریت لینوکس (Arch, Debian)، من پیکربندی‌های سرور را بهینه می‌کنم و از صحت خط‌لوله‌های CI/CD با استفاده از داکر و متدهای مدرن دواپس اطمینان حاصل می‌کنم.
+
+### دیدگاه من
+
+من معتقدم که نرم‌افزار عالی فقط نوشتن کد نیست؛ بلکه حل کارآمد مسائل و ایجاد سیستم‌هایی است که به همان اندازه که کاربردی هستند، ظریف و دقیق باشند. من به اتوماسیون، متن‌باز و راهنمایی تیم‌ها برای رسیدن به پتانسیل کاملشان علاقه دارم.
 
 ---
 
-Hello! I'm Omid Farhang, an experienced Fullstack Web Developer with a robust background spanning multiple domains. Over the years, I've crafted high-performance applications and led development teams, driving innovation and excellence in every project.
+شما می‌توانید سوابق حرفه‌ای کامل من را در [رزومه](/fa/resume) مشاهده کنید یا نسخه [PDF](/fa/resume/print) آن را دریافت نمایید.
 
-**Work History:**
-
-- Senior Angular Developer: Engineered proprietary frontend frameworks, resulting in significant improvements in project completion times and code consistency.
-- Lead Frontend Developer: Led software development efforts and optimized server configurations to meet the evolving needs of modern businesses.
-- Tech Lead: Led software development teams and implemented robust security measures to safeguard critical data.
-- Lead Web Developer: Spearheaded the development of frontend and backend solutions for innovative payment platforms.
-- Full Stack Developer: Developed applications connecting people to medical and fitness services, as well as online exchange platforms.
-
-**Skills:**
-
-- Frontend: JavaScript, TypeScript, Angular, HTML5, CSS3, SASS, Flex Layouts, Bootstrap
-- Backend: Node.js, PHP (Laravel, WordPress), Java (Spring Boot)
-- Software Architecture: Design and Develop Frameworks, Design Systems
-- Frameworks and Tools: Angular CLI, RxJS, NgRX, Angular Material, D3, Next.js, Express.js, Nuxt.js, NestJS, Laravel, Webpack, Gulp, Grunt, SpringBoot
-- Project Management: Agile Methodologies
-- CMS and Site Generators: Hugo, Jekyll, WordPress
-- Network Protocols: RESTful API, RPC/gRPC, RTSP
-- Database: MySQL, Familiar with NoSQL/MongoDB
-- Linux: Arch, Debian, Ubuntu, Nginx, Apache, Postfix, Dovecot, Varnish, SSL, CI/CD, Docker
-- Languages: Persian (Native), English (Advanced), German (B1)
-
-I'm passionate about leveraging technology to make a positive impact and am always eager to take on new challenges and opportunities for growth. Let's connect and explore how we can collaborate to create something extraordinary!
+بیایید با هم در ارتباط باشیم! اگر به همکاری فنی علاقه‌مند هستید یا فقط می‌خواهید درباره لینوکس یا انگولار گپ بزنید، خوشحال می‌شوم با من [تماس بگیرید](/fa/contact-me).
