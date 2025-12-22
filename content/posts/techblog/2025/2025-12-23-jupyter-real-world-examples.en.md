@@ -1,10 +1,10 @@
 ---
 title: "Jupyter, ChatGPT, Copilot (Part 3): Real-World Code Examples"
-date: 2025-12-23T03:00:00+03:30
+date: 2025-12-23T02:26:48+03:30
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-real-world-examples/
-shortlink: https://g.omid.dev/jupyter-examples
+shortlink: https://g.omid.dev/tyBMsXq
 tags:
   - Jupyter
   - Python
