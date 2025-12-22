@@ -262,7 +262,7 @@ You **reach for it when thinking needs structure**.
 
 Jupyter isn’t big because it’s trendy. It’s big because it became the **default way humans reason with computers** when answers aren’t obvious. 
 
-Once you see it as a "thinking environment" rather than a "coding environment," the hype disappears—and the usefulness becomes obvious. Use ChatGPT to brainstorm, Jupyter to validate and explore, and your IDE with Copilot to build.
+Once you see it as a "thinking environment" rather than a "coding environment," the hype disappears—and the usefulness becomes obvious. Use ChatGPT to brainstorm, Jupyter to validate and explore, and your IDE with Copilot to build. (And remember: a thinking environment only works if it's organized—check out the project structure tips in [Part 2](/2025/12/23/jupyter-technical-setup-guide/)).
 
 ## Further Reading
 

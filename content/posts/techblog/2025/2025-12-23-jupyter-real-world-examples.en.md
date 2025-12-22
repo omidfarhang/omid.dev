@@ -131,6 +131,8 @@ print(f"Remaining pending users: {new_count}")
 
 Jupyter isn't a replacement for your IDE; it's a companion. It's where you do the "messy" work of understanding, so that when you finally open your IDE, you know exactly what to build.
 
+When implementing these examples, remember to keep them organized in a proper project hierarchy (as discussed in [Part 2](/2025/12/23/jupyter-technical-setup-guide/)). Keeping your data, notebooks, and source code separated is the key to a maintainable research workflow.
+
 Use **ChatGPT** to brainstorm the logic, **Jupyter** to prove it works with real data, and **Copilot** to help you write the production-grade implementation.
 
 ---

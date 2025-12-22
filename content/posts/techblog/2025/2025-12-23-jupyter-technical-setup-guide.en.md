@@ -108,6 +108,35 @@ nbstripout --install
 
 ---
 
+## 6. Project Structure & Hierarchy
+
+As your research grows, a single folder full of `untitled1.ipynb` files becomes a nightmare. A professional Jupyter project should follow a predictable hierarchy.
+
+### The "Research-First" Structure
+```text
+my-project/
+├── data/               # Never commit raw data to Git
+│   ├── raw/            # Immutable original data
+│   └── processed/      # Cleaned data ready for analysis
+├── notebooks/          # The "Thinking" space
+│   ├── 01-exploration.ipynb
+│   ├── 02-data-cleaning.ipynb
+│   └── 03-modeling.ipynb
+├── src/                # The "Execution" space
+│   ├── __init__.py
+│   └── utils.py        # Move stable code here from notebooks
+├── models/             # Saved weights or serialized objects
+├── pyproject.toml      # Dependency management (uv/pip)
+└── README.md
+```
+
+### Best Practices
+*   **Number your notebooks:** Prefixing filenames with `01-`, `02-` ensures they appear in the order of the workflow.
+*   **The "Notebook-to-Script" Pipeline:** Once a function in a notebook becomes stable and reused across multiple notebooks, move it to `src/utils.py`. This keeps notebooks clean and makes the code testable.
+*   **Data Isolation:** Always keep `data/raw` read-only. Any transformations should be saved into `data/processed`.
+
+---
+
 ## Conclusion
 
 Setting up Jupyter correctly is the difference between a messy experiment and a professional research tool. By using modern package managers like `uv`, integrating with VS Code, and handling version control with `Jupytext`, you turn Jupyter into a first-class citizen of your development workflow.
