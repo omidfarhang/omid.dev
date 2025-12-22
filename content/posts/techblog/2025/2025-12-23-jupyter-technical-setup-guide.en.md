@@ -3,7 +3,7 @@ title: "Jupyter, ChatGPT, Copilot (Part 2): The Technical Guide to Jupyter Setup
 date: 2025-12-23T02:00:00+03:30
 layout: single
 author_profile: true
-url: 2024/12/23/jupyter-technical-setup-guide/
+url: 2025/12/23/jupyter-technical-setup-guide/
 shortlink: https://g.omid.dev/FpT0kTO
 tags:
   - Jupyter
@@ -16,7 +16,7 @@ categories:
   - TechBlog
 ---
 
-*This is Part 2 of a two-part series. In [Part 1: The Strategic Value of Thinking in Notebooks](/2024/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/), we discussed why and when to use Jupyter. Here, we dive into the technical implementation: how to set up a professional, reproducible environment.*
+*This is Part 2 of a three-part series. In [Part 1: The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/), we discussed why and when to use Jupyter. Here, we dive into the technical implementation. [Part 3: Real-World Code Examples](/2025/12/23/jupyter-real-world-examples/) covers practical use cases.*
 
 ---
 
@@ -121,3 +121,4 @@ Remember: Jupyter isn't where you write your app; it's where you **understand** 
 *   **VS Code Integration:** [Working with Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 *   **Version Control:** [Jupytext: Jupyter Notebooks as Markdown or Python Scripts](https://github.com/mwouts/jupytext)
 *   **Clean Diffs:** [nbstripout: Strip output from Jupyter and IPython notebooks](https://github.com/kynan/nbstripout)
+*   **Practical Examples:** [Part 3: Real-World Code Examples](/2025/12/23/jupyter-real-world-examples/)

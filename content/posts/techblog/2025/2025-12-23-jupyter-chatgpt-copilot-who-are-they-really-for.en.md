@@ -3,7 +3,7 @@ title: "Jupyter, ChatGPT, Copilot (Part 1): The Strategic Value of Thinking in N
 date: 2025-12-23T01:09:51+03:30
 layout: single
 author_profile: true
-url: 2024/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
+url: 2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
 shortlink: https://g.omid.dev/L3mFgTi
 tags:
   - Jupyter
@@ -17,7 +17,7 @@ categories:
   - TechBlog
 ---
 
-*This is Part 1 of a two-part series on modern development workflows. In this part, we explore the conceptual and strategic role of Project Jupyter. [Part 2: The Technical Guide to Jupyter Setup](/2024/12/23/jupyter-technical-setup-guide/) covers installation and environment management.*
+*This is Part 1 of a three-part series on modern development workflows. In this part, we explore the conceptual and strategic role of Project Jupyter. [Part 2: The Technical Guide to Jupyter Setup](/2025/12/23/jupyter-technical-setup-guide/) covers installation and environment management, and [Part 3: Real-World Code Examples](/2025/12/23/jupyter-real-world-examples/) shows it in action.*
 
 If you come from a traditional software engineering background (frontend, backend, systems), chances are you’ve seen **Project Jupyter** everywhere — notebooks, extensions, cloud platforms — and thought:
 
@@ -270,4 +270,5 @@ Once you see it as a "thinking environment" rather than a "coding environment," 
 *   **Project Jupyter:** [GitHub](https://github.com/jupyter)
 *   **Project Jupyter:** [Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter)
 *   **The Philosophy of Notebooks:** [Literate Programming by Donald Knuth](https://en.wikipedia.org/wiki/Literate_programming)
-*   **Modern Workflows:** [Part 2: The Technical Guide to Jupyter Setup](/2024/12/23/jupyter-technical-setup-guide/)
+*   **Modern Workflows:** [Part 2: The Technical Guide to Jupyter Setup](/2025/12/23/jupyter-technical-setup-guide/)
+*   **Modern Workflows:** [Part 3: Real-World Code Examples](/2025/12/23/jupyter-real-world-examples/)
