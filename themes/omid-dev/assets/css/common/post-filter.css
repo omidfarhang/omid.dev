@@ -1,0 +1,33 @@
+.post-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 30px;
+    padding: 15px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.filter-item {
+    padding: 6px 16px;
+    border-radius: 20px;
+    background: var(--code-bg);
+    color: var(--secondary);
+    font-size: 14px;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.filter-item:hover {
+    background: var(--border);
+    color: var(--primary);
+}
+
+.filter-item.active {
+    background: var(--primary);
+    color: var(--theme);
+    font-weight: 500;
+}
+
+[dir="rtl"] .post-filter {
+    gap: 10px;
+}

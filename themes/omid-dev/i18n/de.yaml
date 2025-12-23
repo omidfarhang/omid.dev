@@ -23,6 +23,9 @@
 - id: home
   translation: "Home"
 
+- id: all
+  translation: "Alle"
+
 - id: edit_post
   translation: "Bearbeiten"
 

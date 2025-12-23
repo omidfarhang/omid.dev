@@ -23,6 +23,9 @@
 - id: home
   translation: "خانه"
 
+- id: all
+  translation: "همه"
+
 - id: edit_post
   translation: "ویرایش"
 
