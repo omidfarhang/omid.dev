@@ -70,10 +70,10 @@
       </div>
       <div class="resume-contact">
         <ul>
-          <li><i class="fa-solid fa-link"></i> <a target="_blank" href="{{ $resume.contact.website }}">{{ $resume.contact.website }}</a></li>
-          <li><i class="fa-brands fa-linkedin"></i> <a target="_blank" href="{{ $resume.contact.linkedin }}">{{ $resume.contact.linkedin }}</a></li>
-          <li><i class="fa-brands fa-github"></i> <a target="_blank" href="{{ $resume.contact.github }}">{{ $resume.contact.github }}</a></li>
-          <li><i class="fa-brands fa-xing"></i> <a target="_blank" href="{{ $resume.contact.xing }}">{{ $resume.contact.xing }}</a></li>
+            <li><i class="fa-solid fa-link"></i> <a target="_blank" href="{{ $resume.contact.website }}">{{ path.Base $resume.contact.website }}</a></li>
+            <li><i class="fa-brands fa-linkedin"></i> <a target="_blank" href="{{ $resume.contact.linkedin }}">@{{ path.Base $resume.contact.linkedin }}</a></li>
+            <li><i class="fa-brands fa-github"></i> <a target="_blank" href="{{ $resume.contact.github }}">@{{ path.Base $resume.contact.github }}</a></li>
+            <li><i class="fa-brands fa-xing"></i> <a target="_blank" href="{{ $resume.contact.xing }}">@{{ path.Base $resume.contact.xing }}</a></li>
         </ul>
       </div>
     </div>
