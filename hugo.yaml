@@ -63,6 +63,8 @@ languages:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
         subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+      footer:
+        bio: "Software engineer, systems thinker, and lifelong learner. I work mainly in frontend engineering with Angular, alongside Linux, networking, and DevOps practices. This blog is where I explore technology, problem-solving, and health topics that shape how we live and work."
       # homeInfoParams:
       #   Title: "Hi, I’m Omid Farhang"
       #   Content: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
@@ -104,6 +106,8 @@ languages:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
         subtitle: "من یک برنامه‌نویس وب و مدیر شبکه هستم، به طور آزاد کار میکنم و به سیستم های لینوکسی علاقه دارم"
+      footer:
+        bio: "مهندس نرم‌افزار، متفکر سیستم‌ها و یادگیرنده مادام‌العمر. من عمدتاً در مهندسی فرانت‌اند با آنگولار، در کنار لینوکس، شبکه و شیوه‌های دواپس فعالیت می‌کنم. این وبلاگ جایی است که من در آن به کاوش در تکنولوژی، حل مسئله و موضوعات سلامتی می‌پردازم که نحوه زندگی و کار ما را شکل می‌دهند."
     # Persian Menu
     menu:
       main:
@@ -142,6 +146,8 @@ languages:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
         subtitle: "Ich bin ein Senior-Entwickler und auch ein Netzwerkadministrator, arbeite freiberuflich und jage nach Linux-Sachen"
+      footer:
+        bio: "Softwareentwickler, Systemdenker und lebenslang Lernender. Ich arbeite hauptsächlich im Frontend-Engineering mit Angular, zusammen mit Linux, Networking und DevOps-Praktiken. In diesem Blog erforsche ich Technologie, Problemlösung und Gesundheitsthemen, die unsere Art zu leben und zu arbeiten prägen."
     # German Menu
     menu:
       main:
