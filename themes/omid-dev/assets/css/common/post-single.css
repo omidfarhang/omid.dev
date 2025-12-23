@@ -447,7 +447,8 @@
 }
 
 .share-buttons-container {
-    display: inline-flex;
+    display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 12px;
     background: var(--entry);
@@ -456,13 +457,14 @@
     padding: 8px 16px;
     box-shadow: var(--shadow-sm);
     margin-top: 8px;
+    width: fit-content;
+    max-width: 100%;
 }
 
 .share-buttons-label {
     font-size: 13px;
     font-weight: 600;
     color: var(--secondary);
-    white-space: nowrap;
 }
 
 .share-buttons {
@@ -470,6 +472,7 @@
     gap: 8px;
     font-size: 20px;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 .share-buttons li,
@@ -483,6 +486,10 @@
 
 .share-buttons a:hover {
     transform: translateY(-2px) scale(1.1);
+}
+
+.share-buttons a.share-native:hover {
+    color: var(--accent);
 }
 
 .share-buttons a:not(:last-of-type) {

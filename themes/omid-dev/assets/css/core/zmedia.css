@@ -4,6 +4,16 @@
         --gap: 14px;
     }
 
+    .share-buttons-container {
+        padding: 12px;
+        gap: 8px;
+    }
+
+    .share-buttons-label {
+        width: 100%;
+        margin-bottom: 4px;
+    }
+
     /* profile-mode */
     .profile img {
         transform: scale(0.85);

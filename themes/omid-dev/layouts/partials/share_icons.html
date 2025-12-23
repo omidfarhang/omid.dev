@@ -17,6 +17,11 @@
 <div class="share-buttons-container">
     <h3 class="share-buttons-label">{{ i18n "share_my_post" }}</h3>
     <ul class="share-buttons">
+        <li id="share-native" style="display: none;">
+            <a class="share-native" title="Share" aria-label="share" href="#">
+                <i class="fa-solid fa-share-nodes"></i>
+            </a>
+        </li>
         <li>
             <a class="shortlink" onclick="(copyContent('{{ $shortpageurl }}'))" target="_blank" rel="noopener noreferrer" title="Copy Shortlink" aria-label="copy shortlink"
                 href="#">
@@ -81,3 +86,18 @@
         {{- end }}
     </ul>
 </div>
+
+<script>
+    if (navigator.share) {
+        const shareBtn = document.getElementById('share-native');
+        shareBtn.style.display = 'inline-flex';
+        shareBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            navigator.share({
+                title: '{{ $title | safeJS }}',
+                text: '{{ $title | safeJS }}',
+                url: '{{ $pageurl | safeJS }}',
+            }).catch((error) => console.log('Error sharing', error));
+        });
+    }
+</script>
