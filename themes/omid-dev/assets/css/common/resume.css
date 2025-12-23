@@ -78,7 +78,7 @@
     padding: 0.875rem 1.5rem;
     margin-bottom: 1.5rem;
     border-radius: var(--radius);
-    border-left: 3px solid var(--accent);
+    border-inline-start: 3px solid var(--accent);
 }
 
 .resume-section-header h2 {

@@ -102,7 +102,7 @@ body.dark .header.scrolled {
     width: 0;
     height: 2px;
     bottom: 0;
-    left: 0;
+    inset-inline-start: 0;
     background-color: var(--accent);
     transition: width 0.3s ease;
 }
@@ -176,7 +176,7 @@ body.theme-system #sun {
 #scroll-progress {
     position: absolute;
     bottom: 0;
-    left: 0;
+    inset-inline-start: 0;
     height: 3px;
     background: linear-gradient(to right, var(--accent), var(--accent-hover));
     width: 0%;
