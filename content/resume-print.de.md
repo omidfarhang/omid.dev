@@ -4,5 +4,5 @@ description: "Druckoptimierter Lebenslauf von Omid Farhang - Lead Frontend Engin
 layout: "resume-print"
 robotsNoIndex: true
 lang: de
-url: /resume/print
+url: /de/resume/print
 ---

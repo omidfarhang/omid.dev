@@ -46,3 +46,24 @@
 
 - id: quick_links
   translation: "Quick Links"
+
+- id: summary
+  translation: "Summary"
+
+- id: skills
+  translation: "Skills"
+
+- id: experience
+  translation: "Experience"
+
+- id: certifications
+  translation: "Certifications"
+
+- id: print_pdf
+  translation: "Print / PDF Version"
+
+- id: back_to_resume
+  translation: "Back to Resume"
+
+- id: print_save_pdf
+  translation: "Print / Save as PDF"

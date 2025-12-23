@@ -37,3 +37,24 @@
 
 - id: continue_reading
   translation: "Weiterlesen"
+
+- id: summary
+  translation: "Zusammenfassung"
+
+- id: skills
+  translation: "Fähigkeiten"
+
+- id: experience
+  translation: "Erfahrung"
+
+- id: certifications
+  translation: "Zertifizierungen"
+
+- id: print_pdf
+  translation: "Druck / PDF-Version"
+
+- id: back_to_resume
+  translation: "Zurück zum Lebenslauf"
+
+- id: print_save_pdf
+  translation: "Drucken / Als PDF speichern"

@@ -1,30 +1,31 @@
 {{- define "main" }}
 
+  {{- $resume := (index .Site.Data .Site.Language.Lang).resume -}}
   {{- /* JSON-LD Structured Data for Resume */ -}}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Person",
-    "name": "{{ .Site.Data.resume.name }}",
-    "jobTitle": "{{ .Site.Data.resume.title }}",
-    "url": "{{ .Site.Data.resume.contact.website }}",
+    "name": "{{ $resume.name }}",
+    "jobTitle": "{{ $resume.title }}",
+    "url": "{{ $resume.contact.website }}",
     "sameAs": [
-      "{{ .Site.Data.resume.contact.linkedin }}",
-      "{{ .Site.Data.resume.contact.github }}",
-      "{{ .Site.Data.resume.contact.xing }}"
+      "{{ $resume.contact.linkedin }}",
+      "{{ $resume.contact.github }}",
+      "{{ $resume.contact.xing }}"
     ],
-    "email": "{{ .Site.Data.resume.contact.email }}",
-    "telephone": "{{ .Site.Data.resume.contact.phone }}",
-    "description": "{{ .Site.Data.resume.summary }}",
+    "email": "{{ $resume.contact.email }}",
+    "telephone": "{{ $resume.contact.phone }}",
+    "description": "{{ $resume.summary }}",
     "knowsAbout": [
-      {{- range $index, $skill := .Site.Data.resume.skills -}}
+      {{- range $index, $skill := $resume.skills -}}
         {{- range $i, $item := $skill.items -}}
-          "{{ $item }}"{{ if or (lt $i (sub (len $skill.items) 1)) (lt $index (sub (len $.Site.Data.resume.skills) 1)) }},{{ end }}
+          "{{ $item }}"{{ if or (lt $i (sub (len $skill.items) 1)) (lt $index (sub (len $resume.skills) 1)) }},{{ end }}
         {{- end -}}
       {{- end -}}
     ],
     "hasCredential": [
-      {{- range $index, $cert := .Site.Data.resume.certifications -}}
+      {{- range $index, $cert := $resume.certifications -}}
       {
         "@type": "EducationalOccupationalCredential",
         "credentialCategory": "certification",
@@ -33,11 +34,11 @@
           "@type": "Organization",
           "name": "{{ $cert.provider }}"
         }
-      }{{ if lt $index (sub (len $.Site.Data.resume.certifications) 1) }},{{ end }}
+      }{{ if lt $index (sub (len $resume.certifications) 1) }},{{ end }}
       {{- end -}}
     ],
     "hasOccupation": [
-      {{- range $index, $exp := .Site.Data.resume.experience -}}
+      {{- range $index, $exp := $resume.experience -}}
       {
         "@type": "OrganizationRole",
         "roleName": "{{ $exp.title }}",
@@ -46,7 +47,7 @@
           "@type": "Organization",
           "name": "{{ $exp.company }}"
         }
-      }{{ if lt $index (sub (len $.Site.Data.resume.experience) 1) }},{{ end }}
+      }{{ if lt $index (sub (len $resume.experience) 1) }},{{ end }}
       {{- end -}}
     ]
   }
@@ -56,43 +57,43 @@
 
     <div class="resume-header">
       <div class="resume-header-info">
-        <h1>{{ .Site.Data.resume.name }}</h1>
-        <h2>{{ .Site.Data.resume.title }}</h2>
+        <h1>{{ $resume.name }}</h1>
+        <h2>{{ $resume.title }}</h2>
       </div>
       <div class="resume-contact">
         <ul>
-          <li><i class="fa-solid fa-square-phone"></i><a target="_blank" href="tel:{{ .Site.Data.resume.contact.phone }}">{{ .Site.Data.resume.contact.phone }}</a></li>
-          <li><i class="fa-solid fa-envelope"></i> <a target="_blank" href="mailto:{{ .Site.Data.resume.contact.email }}">{{ .Site.Data.resume.contact.email }}</a></li>
+          <li><i class="fa-solid fa-square-phone"></i><a target="_blank" href="tel:{{ $resume.contact.phone }}">{{ $resume.contact.phone }}</a></li>
+          <li><i class="fa-solid fa-envelope"></i> <a target="_blank" href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></li>
           <li class="d-print-none">
-            <i class="fa-solid fa-file-pdf"></i> <a href="/resume/print" target="_blank">Print / PDF Version</a></li>
+            <i class="fa-solid fa-file-pdf"></i> <a href="{{ "resume/print" | relLangURL }}" target="_blank">{{ T "print_pdf" }}</a></li>
         </ul>
       </div>
       <div class="resume-contact">
         <ul>
-          <li><i class="fa-solid fa-link"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.website }}">{{ .Site.Data.resume.contact.website }}</a></li>
-          <li><i class="fa-brands fa-linkedin"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.linkedin }}">{{ .Site.Data.resume.contact.linkedin }}</a></li>
-          <li><i class="fa-brands fa-github"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.github }}">{{ .Site.Data.resume.contact.github }}</a></li>
-          <li><i class="fa-brands fa-xing"></i> <a target="_blank" href="{{ .Site.Data.resume.contact.xing }}">{{ .Site.Data.resume.contact.xing }}</a></li>
+          <li><i class="fa-solid fa-link"></i> <a target="_blank" href="{{ $resume.contact.website }}">{{ $resume.contact.website }}</a></li>
+          <li><i class="fa-brands fa-linkedin"></i> <a target="_blank" href="{{ $resume.contact.linkedin }}">{{ $resume.contact.linkedin }}</a></li>
+          <li><i class="fa-brands fa-github"></i> <a target="_blank" href="{{ $resume.contact.github }}">{{ $resume.contact.github }}</a></li>
+          <li><i class="fa-brands fa-xing"></i> <a target="_blank" href="{{ $resume.contact.xing }}">{{ $resume.contact.xing }}</a></li>
         </ul>
       </div>
     </div>
 
     <div class="resume-section summary">
       <div class="resume-section-header">
-        <h2>Summary</h2>
+        <h2>{{ T "summary" }}</h2>
       </div>
       <div class="resume-section-content">
-        <p>{{ .Site.Data.resume.summary }}</p>
+        <p>{{ $resume.summary }}</p>
       </div>
     </div>
 
     <div class="resume-section skills">
       <div class="resume-section-header">
-        <h2>Skills</h2>
+        <h2>{{ T "skills" }}</h2>
       </div>
       <div class="resume-section-content">
         <ul class="resume-skills-list">
-          {{ range .Site.Data.resume.skills }}
+          {{ range $resume.skills }}
           <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
           {{ end }}
         </ul>
@@ -101,10 +102,10 @@
 
     <div class="resume-section experience">
       <div class="resume-section-header">
-        <h2>Experience</h2>
+        <h2>{{ T "experience" }}</h2>
       </div>
       <div class="resume-section-content">
-        {{ range .Site.Data.resume.experience }}
+        {{ range $resume.experience }}
         <div class="resume-experience-item">
           <strong>{{ .title }}</strong>
           <div class="company">{{ .company }} <span class="period">({{ .period }})</span></div>
@@ -121,10 +122,10 @@
 
     <div class="resume-section courses">
       <div class="resume-section-header">
-        <h2>Certifications</h2>
+        <h2>{{ T "certifications" }}</h2>
       </div>
       <div class="resume-section-content">
-        {{ range .Site.Data.resume.certifications }}
+        {{ range $resume.certifications }}
         <div class="resume-course-item">
           <strong>{{ .title }} - {{ .provider }}</strong>
           <div class="institution">{{ .institution }} <span class="year">({{ .year }})</span></div>

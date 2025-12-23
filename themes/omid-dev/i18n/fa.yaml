@@ -46,3 +46,23 @@
 
 - id: quick_links
   translation: "لینک های سریع"
+- id: summary
+  translation: "خلاصه"
+
+- id: skills
+  translation: "مهارت‌ها"
+
+- id: experience
+  translation: "سوابق کاری"
+
+- id: certifications
+  translation: "گواهینامه‌ها"
+
+- id: print_pdf
+  translation: "نسخه چاپی / PDF"
+
+- id: back_to_resume
+  translation: "بازگشت به رزومه"
+
+- id: print_save_pdf
+  translation: "چاپ / ذخیره به صورت PDF"

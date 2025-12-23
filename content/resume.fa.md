@@ -1,6 +1,4 @@
 ---
-title: "Resume"
+title: "رزومه"
 layout: "resume"
 ---
-
-<!-- ...existing content... -->

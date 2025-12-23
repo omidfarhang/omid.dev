@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ .Site.Data.resume.name }} - Resume</title>
+    {{- $resume := (index .Site.Data .Site.Language.Lang).resume -}}
+    <title>{{ $resume.name }} - Resume</title>
     <style>
         * {
             margin: 0;
@@ -248,40 +249,40 @@
 <body>
     <div class="no-print">
         <button class="print-btn" onclick="window.print()">
-            <i class="fa-solid fa-print"></i> Print / Save as PDF
+            <i class="fa-solid fa-print"></i> {{ T "print_save_pdf" }}
         </button>
-        <a class="print-btn" href="/resume">
-            <i class="fa-solid fa-arrow-left"></i> Back to Resume
+        <a class="print-btn" href="{{ "resume" | relLangURL }}">
+            <i class="fa-solid fa-arrow-left"></i> {{ T "back_to_resume" }}
         </a>
     </div>
 
     <div class="resume-header">
-        <h1>{{ .Site.Data.resume.name }}</h1>
-        <h2>{{ .Site.Data.resume.title }}</h2>
+        <h1>{{ $resume.name }}</h1>
+        <h2>{{ $resume.title }}</h2>
         
         <div class="contact-info">
             <div class="contact-group">
                 <div class="contact-item">
-                    <i class="fa-solid fa-phone"></i> {{ .Site.Data.resume.contact.phone }}
+                    <i class="fa-solid fa-phone"></i> {{ $resume.contact.phone }}
                 </div>
                 <div class="contact-item">
-                    <i class="fa-solid fa-envelope"></i> <a href="mailto:{{ .Site.Data.resume.contact.email }}">{{ .Site.Data.resume.contact.email }}</a>
-                </div>
-            </div>
-            <div class="contact-group">
-                <div class="contact-item">
-                    <i class="fa-solid fa-globe"></i> <a href="{{ .Site.Data.resume.contact.website }}">{{ .Site.Data.resume.contact.website }}</a>
-                </div>
-                <div class="contact-item">
-                    <i class="fa-brands fa-linkedin"></i> <a href="{{ .Site.Data.resume.contact.linkedin }}">LinkedIn</a>
+                    <i class="fa-solid fa-envelope"></i> <a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a>
                 </div>
             </div>
             <div class="contact-group">
                 <div class="contact-item">
-                    <i class="fa-brands fa-github"></i> <a href="{{ .Site.Data.resume.contact.github }}">GitHub</a>
+                    <i class="fa-solid fa-globe"></i> <a href="{{ $resume.contact.website }}">{{ $resume.contact.website }}</a>
                 </div>
                 <div class="contact-item">
-                    <i class="fa-brands fa-xing"></i> <a href="{{ .Site.Data.resume.contact.xing }}">Xing</a>
+                    <i class="fa-brands fa-linkedin"></i> <a href="{{ $resume.contact.linkedin }}">LinkedIn</a>
+                </div>
+            </div>
+            <div class="contact-group">
+                <div class="contact-item">
+                    <i class="fa-brands fa-github"></i> <a href="{{ $resume.contact.github }}">GitHub</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fa-brands fa-xing"></i> <a href="{{ $resume.contact.xing }}">Xing</a>
                 </div>
             </div>
         </div>
@@ -289,20 +290,20 @@
 
     <div class="section">
         <div class="section-header">
-            <h3>Summary</h3>
+            <h3>{{ T "summary" }}</h3>
         </div>
         <div class="section-content">
-            <p class="summary-text">{{ .Site.Data.resume.summary }}</p>
+            <p class="summary-text">{{ $resume.summary }}</p>
         </div>
     </div>
 
     <div class="section">
         <div class="section-header">
-            <h3>Skills</h3>
+            <h3>{{ T "skills" }}</h3>
         </div>
         <div class="section-content">
             <ul class="skills-list">
-                {{ range .Site.Data.resume.skills }}
+                {{ range $resume.skills }}
                 <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
                 {{ end }}
             </ul>
@@ -311,10 +312,10 @@
 
     <div class="section">
         <div class="section-header">
-            <h3>Experience</h3>
+            <h3>{{ T "experience" }}</h3>
         </div>
         <div class="section-content">
-            {{ range .Site.Data.resume.experience }}
+            {{ range $resume.experience }}
             <div class="experience-item">
                 <div class="job-title">{{ .title }}</div>
                 <div class="company-info">{{ .company }} <span class="period">({{ .period }})</span></div>
@@ -335,10 +336,10 @@
 
     <div class="section">
         <div class="section-header">
-            <h3>Certifications</h3>
+            <h3>{{ T "certifications" }}</h3>
         </div>
         <div class="section-content">
-            {{ range .Site.Data.resume.certifications }}
+            {{ range $resume.certifications }}
             <div class="cert-item">
                 <div class="cert-title">{{ .title }} - {{ .provider }}</div>
                 <div class="cert-details">{{ .institution }} ({{ .year }})</div>
