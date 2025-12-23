@@ -7,6 +7,7 @@
     --footer-height: 60px;
     --radius: 8px;
     --theme: #ffffff;
+    --theme-rgb: 255, 255, 255;
     --entry: #ffffff;
     --primary: #0f172a;
     --secondary: #64748b;
@@ -26,6 +27,7 @@
 
 .dark {
     --theme: #0f172a;
+    --theme-rgb: 15, 23, 42;
     --entry: #1e293b;
     --primary: #f1f5f9;
     --secondary: #94a3b8;

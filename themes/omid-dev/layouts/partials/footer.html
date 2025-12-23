@@ -32,6 +32,13 @@
             </ul>
         </div>
     </div>
+    <div class="footer-social-links">
+            {{ range .Site.Params.footer.social }}
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                <i class="{{ .icon }}"></i>
+            </a>
+            {{ end }}
+        </div>
     <div class="footer-bottom">
         {{- if not site.Params.footer.hideCopyright }}
             {{- if site.Copyright }}
@@ -40,13 +47,18 @@
             <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
             {{- end }}
         {{- end }}
-        <div class="footer-social-links">
-            {{ range .Site.Params.footer.social }}
-            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
-                <i class="{{ .icon }}"></i>
+
+        {{- $lang := .Lang}}
+        {{- with site.Home.AllTranslations }}
+        <div class="footer-lang-switch">
+            {{- range . -}}
+            <a href="{{- .Permalink -}}" class="{{ if eq $lang .Lang }}active{{ end }}" 
+                title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}">
+                {{- .Language.LanguageName | emojify | default (.Lang | title) -}}
             </a>
-            {{ end }}
+            {{- end }}
         </div>
+        {{- end }}
     </div>
 </footer>
 {{- end }}

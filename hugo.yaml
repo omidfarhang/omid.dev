@@ -124,6 +124,43 @@ languages:
         - name: پرداخت آنلاین
           url: https://g.omid.dev/pay
           weight: 5
+  # German
+  de:
+    title: Omid Farhang
+    languageName: ':de:'
+    languageCode: de-DE
+    weight: 3
+    languagedirection: ltr
+    params:
+      author: Omid Farhang
+      description: "Omid Farhang, Fullstack-Webentwickler mit Expertise in Angular, Node.js, Linux und Netzwerken. Spezialisiert auf hochperformante Weblösungen und Teamleitung. Lassen Sie uns in Kontakt treten!"
+      keywords: [Fullstack-Webentwickler, Angular, "Node.js", Linux, Netzwerke, "Hochperformante Weblösungen", Teamleitung, Webentwicklung, Omid Farhang, JavaScript, TypeScript, Frontend-Entwicklung, Backend-Entwicklung, Softwarearchitektur]
+      profileMode:
+        enabled: true
+        imageUrl: "/images/bio-photo-150x150.jpg"
+        subtitle: "Ich bin ein Senior-Entwickler und auch ein Netzwerkadministrator, arbeite freiberuflich und jage nach Linux-Sachen"
+    # German Menu
+    menu:
+      main:
+        - name: Beiträge
+          url: /posts
+          weight: 1
+        - name: Über mich
+          url: /about-me
+          weight: 4
+        - name: Kontakt
+          url: /contact-me
+          weight: 5
+      quick_links:
+        - name: Beiträge
+          url: /posts
+          weight: 1
+        - name: Lebenslauf
+          url: https://g.omid.dev/resume
+          weight: 4
+        - name: Online-Zahlungen
+          url: https://g.omid.dev/pay
+          weight: 5
 
 params:
   social:

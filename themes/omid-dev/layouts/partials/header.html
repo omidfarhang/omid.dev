@@ -55,22 +55,33 @@
 
 <script>
     function toggleMenu() {
-        const nav = document.querySelector('.nav');
+        const nav = document.querySelector('.nav-menu');
         nav.classList.toggle('active');
     }
 
     window.addEventListener('scroll', function() {
         const header = document.querySelector('.header');
+        const scrollProgress = document.getElementById('scroll-progress');
+        
         if (window.scrollY > 0) {
             header.classList.add('scrolled');
         } else {
             header.classList.remove('scrolled');
         }
+
+        // Scroll progress logic
+        const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        const scrolled = (winScroll / height) * 100;
+        if (scrollProgress) {
+            scrollProgress.style.width = scrolled + "%";
+        }
     });
 </script>
 
 <header class="header">
-    <div class="logo">
+    <div class="nav-container">
+        <div class="logo">
         {{- $label_text := (site.Params.label.text | default site.Title) }}
         {{- if site.Title }}
         <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
@@ -102,6 +113,36 @@
         </a>
         {{- end }}
     </div>
+
+    <nav class="nav-menu">
+        {{- $currentPage := . }}
+        <ul id="menu">
+            {{- range site.Menus.main }}
+            {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+            {{- $page_url:= $currentPage.Permalink | absLangURL }}
+            {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+            <li>
+                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
+                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                    <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                        {{- .Pre }}
+                        {{- .Name -}}
+                        {{ .Post -}}
+                    </span>
+                    {{- if (findRE "://" .URL) }}&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                    {{- end }}
+                </a>
+            </li>
+            {{- end }}
+        </ul>
+    </nav>
+
     <div class="logo-switches">
         <a class="search-button" href="{{ "search" | absLangURL }}">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -109,7 +150,6 @@
                 <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
             </svg>
         </a>
-        &nbsp;|&nbsp;
         {{- if (not site.Params.disableThemeToggle) }}
         <button id="theme-toggle" accesskey="t" title="(Alt + T)">
             <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -139,56 +179,8 @@
             </svg>
         </button>
         {{- end }}
-
-        {{- $lang := .Lang}}
-        {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
-        {{- with site.Home.Translations }}
-        <ul class="lang-switch">
-            {{- if $separator }}<li>|</li>{{ end }}
-            {{- range . -}}
-            {{- if ne $lang .Lang }}
-            <li>
-                <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
-                    aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
-                    {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
-                    {{- .Language.LanguageName | emojify -}}
-                    {{- else }}
-                    {{- .Lang | title -}}
-                    {{- end -}}
-                </a>
-            </li>
-            {{- end -}}
-            {{- end}}
-        </ul>
-        {{- end }}
+        <button class="menu-toggle" onclick="toggleMenu()">☰</button>
     </div>
-    <button class="menu-toggle" onclick="toggleMenu()">☰</button>
-    <nav class="nav">
-        {{- $currentPage := . }}
-        <ul id="menu">
-            {{- range site.Menus.main }}
-            {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
-            {{- $page_url:= $currentPage.Permalink | absLangURL }}
-            {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
-            <li>
-                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
-                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
-                    <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- .Pre }}
-                        {{- .Name -}}
-                        {{ .Post -}}
-                    </span>
-                    {{- if (findRE "://" .URL) }}&nbsp;
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
-                    {{- end }}
-                </a>
-            </li>
-            {{- end }}
-        </ul>
-    </nav>
+</div>
+<div id="scroll-progress"></div>
 </header>
