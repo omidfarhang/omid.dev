@@ -109,6 +109,9 @@
 .footer-social-links a[href*="linkedin.com"]:hover,
 .footer-social-links a[href*="linkedin.com"]:hover i { color: #0A66C2; }
 
+.footer-social-links a[href*="xing.com"]:hover,
+.footer-social-links a[href*="xing.com"]:hover i { color: #006567; }
+
 .footer-social-links a[href*="x.com"]:hover,
 .footer-social-links a[href*="twitter.com"]:hover,
 .footer-social-links a[href*="x.com"]:hover i,

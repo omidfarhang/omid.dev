@@ -80,6 +80,9 @@ body {
 .social-icons a[href*="linkedin.com"]:hover,
 .social-icons a[href*="linkedin.com"]:hover i { color: #0A66C2; }
 
+.social-icons a[href*="xing.com"]:hover,
+.social-icons a[href*="xing.com"]:hover i { color: #006567; }
+
 .social-icons a[href*="x.com"]:hover,
 .social-icons a[href*="twitter.com"]:hover,
 .social-icons a[href*="x.com"]:hover i,

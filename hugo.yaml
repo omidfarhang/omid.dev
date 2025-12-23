@@ -173,6 +173,8 @@ params:
     social:
       - icon: fa-brands fa-linkedin
         url: 'https://linkedin.com/in/omidfarhang'
+      - icon: fa-brands fa-xing
+        url: 'https://www.xing.com/profile/Omid_Farhang/'
       - icon: fa-brands fa-x-twitter
         url: 'https://x.com/omidfarhangen'
       - icon: fa-brands fa-bluesky
@@ -207,6 +209,9 @@ params:
   - name: linkedin
     url: 'https://linkedin.com/in/omidfarhang'
     icon: fa-brands fa-linkedin
+  - name: xing
+    url: 'https://www.xing.com/profile/Omid_Farhang/'
+    icon: fa-brands fa-xing
   - name: x
     url: 'https://x.com/omidfarhangen'
     icon: fa-brands fa-x-twitter

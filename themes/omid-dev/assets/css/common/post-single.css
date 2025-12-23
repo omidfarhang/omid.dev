@@ -499,6 +499,9 @@
 .share-buttons a.linkedin:hover {
     color: #0077b5;
 }
+.share-buttons a.xing:hover {
+    color: #006567;
+}
 .share-buttons a.reddit:hover {
     color: #ff6314;
 }
