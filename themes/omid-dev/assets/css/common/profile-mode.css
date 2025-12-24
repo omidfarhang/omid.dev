@@ -6,7 +6,6 @@
 
 .main .profile {
     align-items: center;
-    min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
     text-align: center;
 }
 
@@ -14,13 +13,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 15px;
 }
 
 .profile img {
     border-radius: 50%;
     box-shadow: var(--shadow-md);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 4px solid var(--theme);
 }
 
 .profile img:hover {
@@ -28,18 +28,37 @@
     box-shadow: var(--shadow-lg);
 }
 
+.profile h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin: 10px 0 0;
+    color: var(--primary);
+    letter-spacing: -0.03em;
+}
+
+.profile-subtitle {
+    font-size: 1.4rem;
+    color: var(--secondary);
+    max-width: 600px;
+    line-height: 1.4;
+}
+
 .buttons {
     flex-wrap: wrap;
-    max-width: 400px;
+    max-width: 500px;
+    margin-top: 10px;
 }
 
 .button {
-    background: var(--tertiary);
-    border-radius: var(--radius);
+    background: var(--primary);
+    color: var(--theme) !important;
+    border-radius: 30px;
     margin: 8px;
-    padding: 6px;
+    padding: 10px 24px;
     transition: all 0.3s ease;
     box-shadow: var(--shadow-sm);
+    font-weight: 600;
+    text-decoration: none !important;
 }
 
 .button:hover {

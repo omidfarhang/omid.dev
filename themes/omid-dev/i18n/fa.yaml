@@ -44,6 +44,12 @@
 - id: recent_posts
   translation: "پست های اخیر"
 
+- id: posts
+  translation: "پست"
+
+- id: view_all_posts
+  translation: "مشاهده همه پست‌ها"
+
 - id: contact
   translation: "تماس"
 

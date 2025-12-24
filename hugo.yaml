@@ -62,7 +62,13 @@ languages:
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
-        subtitle: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
+        title: "Omid Farhang"
+        subtitle: "Senior Fullstack Engineer & Systems Architect"
+        buttons:
+          - name: Explore My Blog
+            url: /posts
+          - name: View My Resume
+            url: /resume
       footer:
         bio: "Software engineer, systems thinker, and lifelong learner. I work mainly in frontend engineering with Angular, alongside Linux, networking, and DevOps practices. This blog is where I explore technology, problem-solving, and health topics that shape how we live and work."
       # homeInfoParams:
@@ -105,7 +111,13 @@ languages:
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
-        subtitle: "من یک برنامه‌نویس وب و مدیر شبکه هستم، به طور آزاد کار میکنم و به سیستم های لینوکسی علاقه دارم"
+        title: "امید فرهنگ"
+        subtitle: "مهندس ارشد فول‌استک و معمار سیستم"
+        buttons:
+          - name: مشاهده بلاگ
+            url: /posts
+          - name: رزومه من
+            url: /resume
       footer:
         bio: "مهندس نرم‌افزار، متفکر سیستم‌ها و یادگیرنده مادام‌العمر. من عمدتاً در مهندسی فرانت‌اند با آنگولار، در کنار لینوکس، شبکه و شیوه‌های دواپس فعالیت می‌کنم. این وبلاگ جایی است که من در آن به کاوش در تکنولوژی، حل مسئله و موضوعات سلامتی می‌پردازم که نحوه زندگی و کار ما را شکل می‌دهند."
     # Persian Menu
@@ -145,7 +157,13 @@ languages:
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
-        subtitle: "Ich bin ein Senior-Entwickler und auch ein Netzwerkadministrator, arbeite freiberuflich und jage nach Linux-Sachen"
+        title: "Omid Farhang"
+        subtitle: "Senior Fullstack-Ingenieur & Systemarchitekt"
+        buttons:
+          - name: Blog erkunden
+            url: /posts
+          - name: Lebenslauf ansehen
+            url: /resume
       footer:
         bio: "Softwareentwickler, Systemdenker und lebenslang Lernender. Ich arbeite hauptsächlich im Frontend-Engineering mit Angular, zusammen mit Linux, Networking und DevOps-Praktiken. In diesem Blog erforsche ich Technologie, Problemlösung und Gesundheitsthemen, die unsere Art zu leben und zu arbeiten prägen."
     # German Menu

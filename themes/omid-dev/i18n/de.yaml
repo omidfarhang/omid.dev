@@ -41,6 +41,15 @@
 - id: continue_reading
   translation: "Weiterlesen"
 
+- id: recent_posts
+  translation: "Aktuelle Beiträge"
+
+- id: posts
+  translation: "Beiträge"
+
+- id: view_all_posts
+  translation: "Alle Beiträge ansehen"
+
 - id: topics
   translation: "Themen"
 

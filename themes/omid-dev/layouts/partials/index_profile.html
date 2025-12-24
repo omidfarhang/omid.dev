@@ -20,24 +20,28 @@
                 {{ else if .imageWidth }}
                     {{- $img = $img.Resize (printf "%dx" .imageWidth) }}
                 {{ else }}
-                    {{- $img = $img.Resize "150x150" }}
+                    {{- $img = $img.Resize "180x180" }}
                 {{- end }}
             {{- end }}
             <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
-                height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
+                height="{{ .imageHeight | default 180 }}" width="{{ .imageWidth | default 180 }}" />
         {{- else }}
         <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
-            height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
+            height="{{ .imageHeight | default 180 }}" width="{{ .imageWidth | default 180 }}" />
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
-        <span>{{ .subtitle | markdownify }}</span>
+        <span class="profile-subtitle">{{ .subtitle | markdownify }}</span>
         {{- partial "social_icons.html" -}}
 
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}
-            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+            {{- $button_url := .url }}
+            {{- if (findRE "^/" $button_url) }}
+                {{- $button_url = $button_url | relLangURL }}
+            {{- end }}
+            <a class="button" href="{{ $button_url }}" rel="noopener" title="{{ .name }}">
                 <span class="button-inner">
                     {{ .name }}
                     {{- if (findRE "://" .url) }}&nbsp;

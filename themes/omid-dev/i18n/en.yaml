@@ -44,6 +44,12 @@
 - id: recent_posts
   translation: "Recent Posts"
 
+- id: posts
+  translation: "Posts"
+
+- id: view_all_posts
+  translation: "View All Posts"
+
 - id: contact
   translation: "Contact"
 

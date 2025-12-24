@@ -1,0 +1,119 @@
+{{- define "main" }}
+
+{{- if site.Params.profileMode.enabled }}
+{{- partial "index_profile.html" . }}
+{{- end }}
+
+<div class="home-content">
+    {{- if .Content }}
+    <section class="home-section about-section">
+        <div class="post-content">
+            {{- if not (.Param "disableAnchoredHeadings") }}
+            {{- partial "anchored_headings.html" .Content -}}
+            {{- else }}{{ .Content }}{{ end }}
+        </div>
+    </section>
+    {{- end }}
+
+    {{- /* Skills Section */ -}}
+    {{- $resume := index site.Data .Language.Lang "resume" }}
+    {{- if $resume.skills }}
+    <section class="home-section skills-section">
+        <h2 class="section-title">{{ i18n "skills" }}</h2>
+        <div class="skills-container">
+            {{- range $resume.skills }}
+            <div class="skill-group">
+                <h3>{{ .category }}</h3>
+                <div class="skill-tags">
+                    {{- range .items }}
+                    <span class="skill-tag">{{ . }}</span>
+                    {{- end }}
+                </div>
+            </div>
+            {{- end }}
+        </div>
+    </section>
+    {{- end }}
+
+    {{- /* Topics/Categories Section */ -}}
+    {{- if site.Taxonomies.categories }}
+    <section class="home-section topics-section">
+        <h2 class="section-title">{{ i18n "topics" }}</h2>
+        <div class="topics-grid">
+            {{- range $name, $taxonomy := site.Taxonomies.categories }}
+            {{- with site.GetPage (printf "/categories/%s" $name) }}
+            <a href="{{ .Permalink }}" class="topic-card">
+                <div class="topic-icon">
+                    {{- if eq .Title "Techblog" }}<i class="fa-solid fa-code"></i>
+                    {{- else if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
+                    {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
+                    {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
+                    {{- else }}<i class="fa-solid fa-tag"></i>
+                    {{- end }}
+                </div>
+                <h3>{{ .Title }}</h3>
+                <p>{{ T "all" }} {{ len $taxonomy.Pages }} {{ T "posts" }}</p>
+            </a>
+            {{- end }}
+            {{- end }}
+        </div>
+    </section>
+    {{- end }}
+
+    {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+    {{- $latest_posts := first 3 $pages }}
+
+    {{- if gt (len $latest_posts) 0 }}
+    <section class="home-section recent-posts">
+        <h2 class="section-title">{{ i18n "recent_posts" }}</h2>
+        <div class="posts-grid">
+            {{- range $latest_posts }}
+            <article class="post-entry">
+                {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+                {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+                <div class="post-entry-inner">
+                    <header class="entry-header">
+                        <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+                            <h2 class="entry-hint-parent">{{ .Title }}</h2>
+                        </a>
+                    </header>
+                    {{- if not (.Param "hideMeta") }}
+                    <footer class="entry-footer">
+                        {{- partial "post_meta.html" . -}}
+                    </footer>
+                    {{- end }}
+                    {{- if (ne (.Param "hideSummary") true) }}
+                    <div class="entry-content">
+                        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+                    </div>
+                    {{- end }}
+                    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+                        {{- i18n "continue_reading" }}
+                        <i class=" fa fa-angle-right" aria-hidden="true" role="img"></i>
+                    </a>
+                </div>
+            </article>
+            {{- end }}
+        </div>
+        <div class="view-all">
+            <a class="button" href="{{ "posts" | relLangURL }}">
+                <span class="button-inner">{{ i18n "view_all_posts" }} →</span>
+            </a>
+        </div>
+    </section>
+    {{- end }}
+
+    {{- /* Contact CTA Section */ -}}
+    <section class="home-section contact-cta">
+        <h2 class="section-title">{{ i18n "contact" }}</h2>
+        <div class="contact-card">
+            <p>{{ if eq .Language.Lang "fa" }}آیا پروژه‌ای در ذهن دارید؟ بیایید با هم صحبت کنیم.{{ else if eq .Language.Lang "de" }}Haben Sie ein Projekt im Sinn? Lassen Sie uns reden.{{ else }}Have a project in mind? Let's talk.{{ end }}</p>
+            <a href="{{ "contact-me" | relLangURL }}" class="button">
+                <span class="button-inner">{{ i18n "contact" }}</span>
+            </a>
+        </div>
+    </section>
+</div>
+
+{{- end }}
