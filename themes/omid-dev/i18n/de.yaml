@@ -53,6 +53,39 @@
 - id: topics
   translation: "Themen"
 
+- id: contact
+  translation: "Kontakt"
+
+- id: direct_contact
+  translation: "Direkter Kontakt"
+
+- id: social_media
+  translation: "Soziale Medien"
+
+- id: payments
+  translation: "Zahlungen"
+
+- id: phone
+  translation: "Telefon"
+
+- id: email
+  translation: "E-Mail"
+
+- id: instant_messaging
+  translation: "Instant Messaging"
+
+- id: save_contact
+  translation: "Kontakt speichern"
+
+- id: qr_scan_text
+  translation: "Scannen Sie diesen QR-Code mit Ihrer Telefonkamera, um meine Kontaktinformationen schnell in Ihrem Adressbuch zu speichern."
+
+- id: download_vcard
+  translation: "vCard herunterladen (.vcf)"
+
+- id: contact_qr_alt
+  translation: "Kontakt QR-Code"
+
 - id: search
   translation: "Suche"
 
@@ -76,6 +109,15 @@
 
 - id: back_to_resume
   translation: "Zurück zum Lebenslauf"
+
+- id: save_contact
+  translation: "Kontakt speichern"
+
+- id: qr_scan_text
+  translation: "Scannen Sie diesen QR-Code mit der Kamera Ihres Telefons, um meine Kontaktinformationen schnell in Ihrem Adressbuch zu speichern."
+
+- id: download_vcard
+  translation: "vCard herunterladen (.vcf)"
 
 - id: print_save_pdf
   translation: "Drucken / Als PDF speichern"

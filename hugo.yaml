@@ -93,9 +93,6 @@ languages:
         - name: Resume
           url: https://g.omid.dev/resume
           weight: 4
-        - name: Online Payments
-          url: https://g.omid.dev/pay
-          weight: 5
   # Persian
   fa:
     title: امید فرهنگ
@@ -139,9 +136,6 @@ languages:
         - name: رزومه
           url: https://g.omid.dev/resume
           weight: 4
-        - name: پرداخت آنلاین
-          url: https://g.omid.dev/pay
-          weight: 5
   # German
   de:
     title: Omid Farhang
@@ -185,9 +179,6 @@ languages:
         - name: Lebenslauf
           url: https://g.omid.dev/resume
           weight: 4
-        - name: Online-Zahlungen
-          url: https://g.omid.dev/pay
-          weight: 5
 
 params:
   social:

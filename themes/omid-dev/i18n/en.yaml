@@ -53,11 +53,41 @@
 - id: contact
   translation: "Contact"
 
+- id: direct_contact
+  translation: "Direct Contact"
+
+- id: social_media
+  translation: "Social Media"
+
+- id: payments
+  translation: "Payments"
+
+- id: phone
+  translation: "Phone"
+
+- id: email
+  translation: "Email"
+
+- id: instant_messaging
+  translation: "Instant Messaging"
+
 - id: quick_links
   translation: "Quick Links"
 
 - id: topics
   translation: "Topics"
+
+- id: save_contact
+  translation: "Save Contact"
+
+- id: qr_scan_text
+  translation: "Scan this QR code with your phone's camera to quickly save my contact information to your address book."
+
+- id: download_vcard
+  translation: "Download vCard (.vcf)"
+
+- id: contact_qr_alt
+  translation: "Contact QR Code"
 
 - id: search
   translation: "Search"

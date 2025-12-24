@@ -53,11 +53,41 @@
 - id: contact
   translation: "تماس"
 
+- id: direct_contact
+  translation: "تماس مستقیم"
+
+- id: social_media
+  translation: "شبکه‌های اجتماعی"
+
+- id: payments
+  translation: "پرداخت‌ها"
+
+- id: phone
+  translation: "تلفن"
+
+- id: email
+  translation: "ایمیل"
+
+- id: instant_messaging
+  translation: "پیام‌رسان‌ها"
+
 - id: quick_links
   translation: "لینک های سریع"
 
 - id: topics
   translation: "موضوعات"
+
+- id: save_contact
+  translation: "ذخیره مخاطب"
+
+- id: qr_scan_text
+  translation: "این کد QR را با دوربین گوشی خود اسکن کنید تا اطلاعات تماس من را به سرعت در دفترچه تلفن خود ذخیره کنید."
+
+- id: download_vcard
+  translation: "دانلود vCard (.vcf)"
+
+- id: contact_qr_alt
+  translation: "کد QR تماس"
 
 - id: search
   translation: "جستجو"
