@@ -40,6 +40,10 @@
     box-shadow: var(--shadow-sm);
 }
 
+[dir="rtl"] .archive-entry:hover {
+    transform: translateX(-8px);
+}
+
 .archive-entry-title {
     margin: 5px 0;
     font-weight: 400;

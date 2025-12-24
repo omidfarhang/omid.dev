@@ -91,7 +91,8 @@
 }
 
 .entry-link {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
   font-size: 11px;
   line-height: 1;
   border: 1px solid #ddd;
@@ -104,8 +105,16 @@
   letter-spacing: 1px;
 }
 
+[dir="rtl"] .entry-link {
+    letter-spacing: normal;
+}
+
 .entry-link i {
-    margin-left: 8px;
+    margin-inline-start: 8px;
+}
+
+[dir="rtl"] .entry-link i {
+    transform: scaleX(-1);
 }
 
 .entry-hint {

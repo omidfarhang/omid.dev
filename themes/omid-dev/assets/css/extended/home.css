@@ -240,6 +240,10 @@
     letter-spacing: 0.05em;
 }
 
+[dir="rtl"] .recent-posts .entry-link {
+    letter-spacing: normal;
+}
+
 .recent-posts .entry-link i {
     margin-inline-start: 8px;
     transition: transform 0.2s ease;
@@ -249,8 +253,12 @@
     transform: translateX(5px);
 }
 
+[dir="rtl"] .recent-posts .entry-link i {
+    transform: scaleX(-1);
+}
+
 [dir="rtl"] .recent-posts .post-entry:hover .entry-link i {
-    transform: translateX(-5px);
+    transform: scaleX(-1) translateX(5px);
 }
 
 .view-all {
