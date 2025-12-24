@@ -8,18 +8,18 @@ contact:
   github: "https://github.com/omidfarhang"
   xing: "https://www.xing.com/profile/Omid_Farhang"
 summary: >
-  معمار نرم‌افزار فرانت‌اند با بیش از ۱۰ سال تجربه در طراحی و توسعه اپلیکیشن‌های وب پیچیده و رهبری تیم‌های با کارایی بالا. تخصص در معماری راهکارهای فرانت‌اند مقیاس‌پذیر، پیاده‌سازی سیستم‌های طراحی و ارتقای کیفیت کد. مسلط به JavaScript/TypeScript، Angular، Next.js و فریم‌ورک‌های مدرن فرانت‌اند. دارای توانایی‌های قوی در توسعه بک‌اند، شیوه‌های DevOps و مدیریت سیستم.
+  معمار نرم‌افزار فرانت‌اند با بیش از ۱۰ سال تجربه در طراحی و توسعه اپلیکیشن‌های وب پیچیده و رهبری تیم‌های با کارایی بالا. تخصص در معماری راهکارهای فرانت‌اند مقیاس‌پذیر، پیاده‌سازی سیستم‌های طراحی و ارتقای کیفیت کد. متخصص در Angular و TypeScript، با سابقه درخشان در ارائه رهبری معماری و نظارت فنی در اکوسیستم‌های مختلف فرانت‌اند (از جمله React و Vue). دارای توانایی‌های قوی در توسعه بک‌اند، شیوه‌های DevOps و مدیریت سیستم.
 skills:
   - category: رهبری و مدیریت
-    items: [رهبری تیم, استخدام و آنبوردینگ, مدیریت عملکرد, برنامه‌ریزی رشد, مدیریت ذینفعان, متدولوژی‌های چابک (Agile)]
-  - category: معماری و طراحی نرم‌افزار
-    items: [DRY, SOLID Principles, Design Patterns, Framework Development, Design Systems]
-  - category: فرانت‌اند اصلی
-    items: [Angular, Next.js, Nuxt.js, JavaScript/TypeScript (Node.js), HTML5, CSS3, SASS, SCSS, LESS]
-  - category: بک‌اند و ابزارها
-    items: [Node.js, Express.js, NestJS, Laravel, Webpack, Gulp, Grunt, MySQL, RESTful API, RPC/gRPC]
-  - category: دواپس و مدیریت سیستم
-    items: [Arch, Debian (apt), AUR, Pacman, Bash, Zsh, Nginx, Apache, Postfix, Dovecot, Varnish, CDN, Optimization, SSL, CI/CD, Docker]
+    items: [رهبری مهندسی, مربی‌گری و منتورینگ, استخدام و آنبوردینگ, مدیریت عملکرد, برنامه‌ریزی رشد, مدیریت ذینفعان, متدولوژی‌های چابک (Agile)]
+  - category: معماری و مهندسی نرم‌افزار
+    items: [معماری نرم‌افزار, سیستم‌های طراحی (Design Systems), مونو-ریپو (Nx), میکروافرانت‌ند (Micro-frontends), اصول SOLID, الگوهای طراحی (Design Patterns), بهینه‌سازی عملکرد, شاخص‌های حیاتی وب (Web Vitals)]
+  - category: اکوسیستم فرانت‌ند
+    items: [Angular (Expert), TypeScript, RxJS, مدیریت وضعیت واکنشی (Services/Subjects), تست نرم‌افزار (Vitest/Playwright/Jest), Storybook, طراحی واکنش‌گرا, نظارت بر معماری فریم‌ورک‌های مختلف]
+  - category: بک‌ند و یکپارچه‌سازی
+    items: [Node.js, NestJS, Express.js, Laravel, RESTful APIs, gRPC, پایگاه‌های داده رابطه‌ای (MySQL/MariaDB)]
+  - category: دواپس و زیرساخت
+    items: [Docker, CI/CD Pipelines, مدیریت سیستم‌های لینوکس, Nginx, امنیت اپلیکیشن (OWASP, مقابله با XSS/CSRF), استراتژی‌های CDN و کشینگ]
   - category: زبان‌ها
     items: [فارسی (زبان مادری), انگلیسی (پیشرفته), آلمانی (B1)]
 experience:

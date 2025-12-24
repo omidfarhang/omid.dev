@@ -8,18 +8,18 @@ contact:
   github: "https://github.com/omidfarhang"
   xing: "https://www.xing.com/profile/Omid_Farhang"
 summary: >
-  Hochqualifizierter Frontend-Softwarearchitekt mit über 10 Jahren Erfahrung in der Konzeption und Entwicklung komplexer Webanwendungen und der Leitung leistungsstarker Teams. Expertise in der Architektur skalierbarer Frontend-Lösungen, der Implementierung von Design-Systemen und der Förderung der Codequalität. Fundierte Kenntnisse in JavaScript/TypeScript, Angular, Next.js und modernen Frontend-Frameworks. Starke Fähigkeiten in der Backend-Entwicklung, DevOps-Praktiken und Systemadministration.
+  Hochqualifizierter Frontend-Softwarearchitekt mit über 10 Jahren Erfahrung in der Konzeption und Entwicklung komplexer Webanwendungen und der Leitung leistungsstarker Teams. Expertise in der Architektur skalierbarer Frontend-Lösungen, der Implementierung von Design-Systemen und der Förderung der Codequalität. Experte für Angular und TypeScript, mit einer nachgewiesenen Erfolgsbilanz in der architektonischen Führung und technischen Aufsicht über verschiedene Frontend-Ökosysteme (einschließlich React und Vue). Starke Fähigkeiten in der Backend-Entwicklung, DevOps-Praktiken und Systemadministration.
 skills:
   - category: Führung & Management
-    items: [Teamleitung, Einstellung & Onboarding, Leistungsmanagement, Wachstumsplanung, Stakeholder-Management, Agile Methoden]
-  - category: Softwarearchitektur & Design
-    items: [DRY, SOLID-Prinzipien, Design-Muster, Framework-Entwicklung, Design-Systeme]
-  - category: Core Frontend
-    items: [Angular, Next.js, Nuxt.js, JavaScript/TypeScript (Node.js), HTML5, CSS3, SASS, SCSS, LESS]
-  - category: Backend & Tools
-    items: [Node.js, Express.js, NestJS, Laravel, Webpack, Gulp, Grunt, MySQL, RESTful API, RPC/gRPC]
-  - category: DevOps & Systemadministration
-    items: [Arch, Debian (apt), AUR, Pacman, Bash, Zsh, Nginx, Apache, Postfix, Dovecot, Varnish, CDN, Optimierung, SSL, CI/CD, Docker]
+    items: [Engineering Leadership, Mentoring, Einstellung & Onboarding, Leistungsmanagement, Wachstumsplanung, Stakeholder-Management, Agile Methoden]
+  - category: Architektur & Engineering
+    items: [Softwarearchitektur, Design-Systeme, Monorepos (Nx), Micro-Frontends, SOLID-Prinzipien, Design-Muster, Performance-Optimierung, Web Vitals]
+  - category: Frontend-Ökosystem
+    items: [Angular (Expert), TypeScript, RxJS, Reaktives State Management (Services/Subjects), Testing (Vitest/Playwright/Jest), Storybook, Responsive Webdesign, Framework-übergreifende Architekturaufsicht]
+  - category: Backend & Integration
+    items: [Node.js, Express.js, NestJS, Laravel, RESTful APIs, gRPC, Relationale Datenbanken (MySQL/MariaDB)]
+  - category: DevOps & Infrastruktur
+    items: [Docker, CI/CD-Pipelines, Linux-Systemadministration, Nginx, Anwendungssicherheit (OWASP, XSS/CSRF-Schutz), CDN- & Caching-Strategien]
   - category: Sprachen
     items: [Persisch (Muttersprache), Englisch (Fortgeschritten), Deutsch (B1)]
 experience:

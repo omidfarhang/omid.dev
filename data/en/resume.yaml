@@ -8,20 +8,20 @@ contact:
   github: "https://github.com/omidfarhang"
   xing: "https://www.xing.com/profile/Omid_Farhang"
 summary: >
-  Highly skilled Frontend Software Architect with 10+ years of experience in designing and developing complex web applications and leading high-performing teams. Expertise in architecting scalable frontend solutions, implementing design systems, and driving code quality. Proficient in JavaScript/TypeScript, Angular, Next.js, and modern frontend frameworks. Strong capabilities in backend development, DevOps practices, and system administration.
+  Highly skilled Frontend Software Architect with 10+ years of experience in designing and developing complex web applications and leading high-performing teams. Expertise in architecting scalable frontend solutions, implementing design systems, and driving code quality. Expert in Angular and TypeScript, with a proven track record of providing architectural leadership and technical oversight across various frontend ecosystems (including React and Vue). Strong capabilities in backend development, DevOps practices, and system administration.
 skills:
   - category: Leadership & Management
-    items: [Team Leadership, Hiring & Onboarding, Performance Management, Growth Planning, Stakeholder Management, Agile methodologies]
-  - category: Software Architecture & Design
-    items: [DRY, SOLID Principles, Design Patterns, Framework Development, Design Systems]
-  - category: Core Frontend
-    items: [Angular, Next.js, Nuxt.js, JavaScript/TypeScript (Node.js), HTML5, CSS3, SASS, SCSS, LESS]
-  - category: Backend & Tools
-    items: [Node.js, Express.js, NestJS, Laravel, Webpack, Gulp, Grunt, MySQL, RESTful API, RPC/gRPC]
-  - category: DevOps & System Administration
-    items: [Arch, Debian (apt), AUR, Pacman, Bash, Zsh, Nginx, Apache, Postfix, Dovecot, Varnish, CDN, Optimization, SSL, CI/CD, Docker]
+    items: [Engineering Leadership, Mentorship, Hiring & Onboarding, Performance Management, Growth Planning, Stakeholder Management, Agile Methodologies]
+  - category: Architecture & Engineering
+    items: [Software Architecture, Design Systems, Monorepos (Nx), Micro-frontends, SOLID Principles, Design Patterns, Performance Optimization, Web Vitals]
+  - category: Frontend Ecosystem
+    items: [Angular (Expert), TypeScript, RxJS, Reactive State Management, Testing (Vitest/Playwright/Jest), Storybook, Responsive Web Design, Cross-framework Architectural Oversight]
+  - category: Backend & Integration
+    items: [Node.js, NestJS, Express.js, Laravel, RESTful APIs, gRPC, Relational Databases (MySQL/MariaDB)]
+  - category: DevOps & Infrastructure
+    items: [Docker, CI/CD Pipelines, Linux System Administration, Nginx, Application Security, OWASP, XSS/CSRF Mitigation, CDN & Caching Strategies]
   - category: Languages
-    items: [Persian (Native), English (Advance), German (B1)]
+    items: [Persian (Native), English (Advanced), German (B1)]
 experience:
   - title: Lead Frontend Engineer & Team Lead
     company: JIBit
