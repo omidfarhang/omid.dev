@@ -41,6 +41,15 @@
 - id: continue_reading
   translation: "Weiterlesen"
 
+- id: topics
+  translation: "Themen"
+
+- id: search
+  translation: "Suche"
+
+- id: follow_me
+  translation: "Folge mir"
+
 - id: summary
   translation: "Zusammenfassung"
 

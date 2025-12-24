@@ -50,6 +50,15 @@
 - id: quick_links
   translation: "Quick Links"
 
+- id: topics
+  translation: "Topics"
+
+- id: search
+  translation: "Search"
+
+- id: follow_me
+  translation: "Follow Me"
+
 - id: summary
   translation: "Summary"
 

@@ -5,48 +5,67 @@
             <img src="{{ .Site.Params.footer.avatar }}" alt="Avatar">
             <div class="bio">{{ .Site.Params.footer.bio }}</div>
         </div>
-        <div class="footer-column footer-recent-posts">
-            <h3>{{ i18n "recent_posts" | default "Recent Posts" }}</h3>
+        <div class="footer-column footer-topics">
+            <h3>{{ i18n "topics" | default "Topics" }}</h3>
             <ul>
-                {{ range first 5 .Site.RegularPages }}
+                {{ range .Site.Taxonomies.categories.Alphabetical }}
                 <li>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+                    <i class="fas fa-chevron-right"></i>
+                    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
                 </li>
                 {{ end }}
             </ul>
         </div>
-        <div class="footer-column footer-contact">
-            <h3>{{ i18n "contact" | default "Contact" }}</h3>
+        <div class="footer-column footer-recent-posts">
+            <h3>{{ i18n "recent_posts" | default "Recent Posts" }}</h3>
             <ul>
-                <li>Email: <a href="mailto:{{ .Site.Params.footer.contactEmail }}">{{ .Site.Params.footer.contactEmail }}</a></li>
-                <li>Phone: <a href="tel:{{ .Site.Params.footer.contactPhone }}">{{ .Site.Params.footer.contactPhone }}</a></li>
+                {{ range first 3 .Site.RegularPages }}
+                <li>
+                    <i class="fas fa-chevron-right"></i>
+                    <div class="post-item">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                    </div>
+                </li>
+                {{ end }}
             </ul>
         </div>
-        <div class="footer-column footer-quick-links">
-            <h3>{{ i18n "quick_links" | default "Quick Links" }}</h3>
+        <div class="footer-column footer-connect">
+            <h3>{{ i18n "contact" | default "Contact" }}</h3>
             <ul>
+                <li>
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:{{ .Site.Params.footer.contactEmail }}">{{ .Site.Params.footer.contactEmail }}</a>
+                </li>
                 {{ range .Site.Menus.quick_links }}
-                <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                <li>
+                    <i class="fas fa-link"></i>
+                    <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                </li>
                 {{ end }}
             </ul>
         </div>
     </div>
-    <div class="footer-social-links">
+    <div class="footer-social-wrapper">
+        <span class="follow-me">{{ i18n "follow_me" | default "Follow Me" }}</span>
+        <div class="footer-social-links">
             {{ range .Site.Params.footer.social }}
             <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
                 <i class="{{ .icon }}"></i>
             </a>
             {{ end }}
         </div>
+    </div>
     <div class="footer-bottom">
-        {{- if not site.Params.footer.hideCopyright }}
-            {{- if site.Copyright }}
-            <span>{{ site.Copyright | markdownify }}</span>
-            {{- else }}
-            <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+        <div class="footer-copyright">
+            {{- if not site.Params.footer.hideCopyright }}
+                {{- if site.Copyright }}
+                <span>{{ site.Copyright | markdownify }}</span>
+                {{- else }}
+                <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+                {{- end }}
             {{- end }}
-        {{- end }}
+        </div>
 
         {{- $lang := .Lang}}
         {{- with site.Home.AllTranslations }}

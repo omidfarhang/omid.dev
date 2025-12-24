@@ -49,6 +49,16 @@
 
 - id: quick_links
   translation: "لینک های سریع"
+
+- id: topics
+  translation: "موضوعات"
+
+- id: search
+  translation: "جستجو"
+
+- id: follow_me
+  translation: "من را دنبال کنید"
+
 - id: summary
   translation: "خلاصه"
 
