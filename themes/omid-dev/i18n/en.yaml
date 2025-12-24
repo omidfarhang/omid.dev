@@ -107,6 +107,21 @@
 - id: certifications
   translation: "Certifications"
 
+- id: resume
+  translation: "Resume"
+
+- id: resume_cta_desc
+  translation: "View my full professional history or download the PDF version for offline reading."
+
+- id: view_resume
+  translation: "View Resume"
+
+- id: contact_cta_desc
+  translation: "Interested in a technical collaboration or just want to talk shop? Feel free to reach out!"
+
+- id: get_in_touch
+  translation: "Get in Touch"
+
 - id: print_pdf
   translation: "Print / PDF Version"
 

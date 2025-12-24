@@ -107,6 +107,21 @@
 - id: certifications
   translation: "گواهینامه‌ها"
 
+- id: resume
+  translation: "رزومه"
+
+- id: resume_cta_desc
+  translation: "سوابق حرفه‌ای کامل من را مشاهده کنید یا نسخه PDF را برای مطالعه آفلاین دریافت کنید."
+
+- id: view_resume
+  translation: "مشاهده رزومه"
+
+- id: contact_cta_desc
+  translation: "علاقه‌مند به همکاری فنی هستید یا فقط می‌خواهید گپ بزنید؟ خوشحال می‌شوم با من در تماس باشید!"
+
+- id: get_in_touch
+  translation: "در تماس باشید"
+
 - id: print_pdf
   translation: "نسخه چاپی / PDF"
 

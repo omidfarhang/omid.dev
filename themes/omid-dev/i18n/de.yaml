@@ -104,6 +104,21 @@
 - id: certifications
   translation: "Zertifizierungen"
 
+- id: resume
+  translation: "Lebenslauf"
+
+- id: resume_cta_desc
+  translation: "Sehen Sie sich meinen vollständigen beruflichen Werdegang an oder laden Sie die PDF-Version zum Offline-Lesen herunter."
+
+- id: view_resume
+  translation: "Lebenslauf ansehen"
+
+- id: contact_cta_desc
+  translation: "Interessiert an einer technischen Zusammenarbeit oder möchten Sie einfach nur fachsimpeln? Kontaktieren Sie mich gerne!"
+
+- id: get_in_touch
+  translation: "Kontakt aufnehmen"
+
 - id: print_pdf
   translation: "Druck / PDF-Version"
 

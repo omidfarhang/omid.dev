@@ -1,0 +1,171 @@
+.about-me-container {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: var(--gap);
+  margin-top: var(--content-gap);
+}
+
+.about-me-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+}
+
+.profile-card {
+  text-align: center;
+  padding: 2rem;
+  background: var(--entry);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-md);
+}
+
+.profile-photo-wrapper {
+  width: 160px;
+  height: 160px;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  padding: 5px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-hover));
+}
+
+.profile-photo {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--entry);
+}
+
+.profile-card h1 {
+  font-size: 1.75rem;
+  margin: 0.5rem 0;
+  color: var(--primary);
+}
+
+.profile-title {
+  color: var(--secondary);
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  font-size: 1.5rem;
+}
+
+.social-links a {
+  color: var(--secondary);
+  transition: all 0.2s ease;
+}
+
+.social-links a:hover {
+  color: var(--accent);
+  transform: translateY(-3px);
+}
+
+.resume-cta, .contact-cta {
+  padding: 1.5rem;
+  background: var(--entry);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.resume-cta h3, .contact-cta h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  border-bottom: 2px solid var(--accent);
+  display: inline-block;
+  padding-bottom: 0.25rem;
+}
+
+.resume-cta, .contact-cta {
+  text-align: center;
+}
+
+.resume-cta p, .contact-cta p {
+  font-size: 0.9rem;
+  color: var(--secondary);
+  margin-bottom: 1.25rem;
+  line-height: 1.4;
+}
+
+.cta-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.cta-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  text-decoration: none !important;
+}
+
+.cta-button.primary {
+  background: var(--primary);
+  color: var(--theme);
+}
+
+.cta-button.secondary {
+  background: var(--quaternary);
+  color: var(--primary);
+  border: 1px solid var(--border);
+}
+
+.cta-button.accent {
+  background: var(--accent);
+  color: white;
+}
+
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+  opacity: 0.9;
+}
+
+.about-me-content {
+  background: var(--entry);
+  padding: 2.5rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-md);
+}
+
+.about-me-content .post-title {
+  margin-top: 0;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .about-me-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .about-me-sidebar {
+    order: 2;
+  }
+  
+  .about-me-content {
+    order: 1;
+    padding: 1.5rem;
+  }
+  
+  .profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

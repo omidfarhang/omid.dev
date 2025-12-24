@@ -1,7 +1,6 @@
 ---
 title: About Me
-author_profile: true
-layout: page
+layout: about-me
 lang: en
 ---
 
@@ -18,9 +17,3 @@ My journey in technology has been defined by a unique blend of frontend artistry
 ### My Philosophy
 
 I believe that great software is not just about writing code; it's about solving problems efficiently and creating systems that are as elegant as they are functional. I am passionate about automation, open-source, and mentoring teams to reach their full potential.
-
----
-
-You can find my full professional history on my [Resume](/resume) or download the [PDF version](/resume/print).
-
-Let's connect! Whether you're interested in a technical collaboration or just want to talk shop about Linux or Angular, feel free to [reach out](/contact-me).

@@ -1,0 +1,67 @@
+{{- define "main" }}
+{{- $resume := (index .Site.Data .Site.Language.Lang).resume -}}
+<div class="about-me-container">
+  <aside class="about-me-sidebar">
+    <div class="profile-card">
+      <div class="profile-photo-wrapper">
+        <img src="{{ "images/bio-photo.jpg" | relURL }}" alt="{{ $resume.name }}" class="profile-photo">
+      </div>
+      <h1>{{ $resume.name }}</h1>
+      <p class="profile-title">{{ $resume.title }}</p>
+      <div class="social-links">
+        {{ if $resume.contact.linkedin }}
+        <a href="{{ $resume.contact.linkedin }}" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        {{ end }}
+        {{ if $resume.contact.github }}
+        <a href="{{ $resume.contact.github }}" target="_blank" rel="noopener noreferrer" title="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+        {{ end }}
+        {{ if $resume.contact.xing }}
+        <a href="{{ $resume.contact.xing }}" target="_blank" rel="noopener noreferrer" title="Xing">
+          <i class="fab fa-xing"></i>
+        </a>
+        {{ end }}
+        {{ if $resume.contact.email }}
+        <a href="mailto:{{ $resume.contact.email }}" title="Email">
+          <i class="fas fa-envelope"></i>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    
+    <div class="resume-cta">
+      <h3>{{ T "resume" | default "Resume" }}</h3>
+      <p>{{ T "resume_cta_desc" | default "View my full professional history or download the PDF version for offline reading." }}</p>
+      <div class="cta-buttons">
+        <a href="{{ "resume" | relLangURL }}" class="cta-button primary">
+          <i class="fas fa-file-alt"></i> {{ T "view_resume" | default "View Resume" }}
+        </a>
+        <a href="{{ "resume/print" | relLangURL }}" class="cta-button secondary" target="_blank">
+          <i class="fas fa-file-pdf"></i> {{ T "print_pdf" | default "PDF Version" }}
+        </a>
+      </div>
+    </div>
+
+    <div class="contact-cta">
+      <h3>{{ T "contact" | default "Contact" }}</h3>
+      <p>{{ T "contact_cta_desc" | default "Interested in a technical collaboration or just want to talk shop? Feel free to reach out!" }}</p>
+      <a href="{{ "contact-me" | relLangURL }}" class="cta-button accent">
+        <i class="fas fa-paper-plane"></i> {{ T "get_in_touch" | default "Get in Touch" }}
+      </a>
+    </div>
+  </aside>
+  
+  <article class="about-me-content">
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+{{- end }}
+
