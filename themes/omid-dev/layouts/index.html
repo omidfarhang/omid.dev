@@ -44,7 +44,7 @@
             {{- with site.GetPage (printf "/categories/%s" $name) }}
             <a href="{{ .Permalink }}" class="topic-card">
                 <div class="topic-icon">
-                    {{- if eq .Title "Techblog" }}<i class="fa-solid fa-code"></i>
+                    {{- if eq .Title "TechBlog" }}<i class="fa-solid fa-code"></i>
                     {{- else if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
                     {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
                     {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>

@@ -12,7 +12,7 @@ tags:
   - خواندنی‌های خوب
 lang: fa
 categories: 
-  - سلامتی
+  - Health
 ---
 ![مولیبدن](/images/2022/12/molybdenum.jpg)
 

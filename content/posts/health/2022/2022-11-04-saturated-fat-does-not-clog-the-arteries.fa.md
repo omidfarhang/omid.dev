@@ -11,7 +11,7 @@ tags:
   - خواندنی‌های خوب
 lang: fa
 categories: 
-  - سلامتی
+  - Health
 ---
 من در حال مطالعه [مقاله ای](https://www.medicalnewstoday.com/articles/326269#dairy-saturated-fat-and-heart-health) از وب‌سایت medicalnewstoday.com بودم و این بخش برایم جالب بود:
 
