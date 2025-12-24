@@ -27,49 +27,53 @@ experience:
     company: JIBit
     period: Aug 2019 - Heute
     description: >
-      Jibit ist ein FinTech-Unternehmen, das darauf abzielt, finanzielle Komplexität durch den Aufbau von Fintech-Infrastrukturlösungen, Finanzdienstleistungen für Unternehmen und intelligente Zahlungslösungen für Startups zu beseitigen.
+      Jibit ist ein FinTech-Unternehmen, das Infrastrukturlösungen, Finanzdienstleistungen für Unternehmen und intelligente Zahlungssysteme anbietet.
     responsibilities:
-      - Federführung bei der Entwicklung und Einführung eines proprietären Angular-basierten Frontend-Frameworks, was zu einer Reduzierung der Projektlaufzeit um 40 % und einer verbesserten Code-Konsistenz über alle Panels hinweg führte.
-      - Leitung der Migration von Legacy-Web-Panels auf das vereinheitlichte interne Framework, um einen nahtlosen Übergang und minimale Unterbrechungen zu gewährleisten.
-      - Verwaltung des gesamten Mitarbeiterlebenszyklus für das Frontend-Team, einschließlich Rekrutierung, Onboarding, Leistungsmanagement und Offboarding.
-      - Entwicklung und Implementierung von Team-Wachstumsmetriken in Zusammenarbeit mit der Personalabteilung zur Förderung eines leistungsstarken und motivierten Teams.
-      - Evaluierung und Analyse neuer Frontend-APIs und Technologien zur Bestimmung ihrer Eignung für die Übernahme durch das Entwicklungsteam.
-      - Zusammenarbeit mit Product Ownern zur Definition von Frontend-Anforderungen, Festlegung von Prioritäten und Sicherstellung der Ausrichtung an den Produktzielen.
-  - title: Tech Lead
+      - Orchestrierung einer strategischen Migration von Legacy-React-Projekten zu einer modernen Angular-Architektur unter Gewährleistung von Null Ausfallzeiten.
+      - Leitung der technischen Evolution des Frontend-Ökosystems von fragmentierten Repositories und Git-Submodules zu einem einheitlichen Nx-Monorepo unter Beibehaltung der vollständigen Git-Historie.
+      - Entwicklung eines proprietären Angular-basierten Frontend-Frameworks und Design-Systems, was die Projektlaufzeit um 40 % reduzierte.
+      - Transformation der Team-Workflows durch Einführung von Agile-Methoden und Aufgabenmanagementsystemen (Jira), um Kommunikationsengpässe zu beseitigen.
+      - Management der Migration der Testinfrastruktur von Jest zu Vitest und Implementierung von Playwright für robuste E2E-Tests.
+      - Zusammenarbeit mit DevOps zur Optimierung von Docker-basierten Deployment-Pipelines und CI/CD-Workflows für hochfrequente Releases.
+      - Management des gesamten Engineering-Lebenszyklus für die Frontend-Abteilung, einschließlich technischer Rekrutierung, Leistungsmanagement und Teamkultur.
+  - title: Technischer Berater / Tech Lead
     company: Raymandan Taly Parseh
     period: Jun 2020 - Mär 2022
     description: >
       Raymandan Taly Parseh ist ein Unternehmensberatungsunternehmen.
     responsibilities:
-      - Leitung der Softwareentwicklung für Kundenprojekte, einschließlich Landing Pages, Portalen und Panels, zur Gewährleistung einer qualitativ hochwertigen und termingerechten Lieferung.
-      - Konfiguration und Wartung von Web- und Mailservern unter Verwendung von Ubuntu, Nginx, MariaDB, Postfix und Dovecot zur Gewährleistung eines zuverlässigen und sicheren Betriebs.
-      - Implementierung von Live-Kamera-Übertragungslösungen über das Web unter Verwendung von RTSP und FFmpeg.
-      - Optimierung von Serverkonfigurationen und Durchführung von Sicherheitsaudits zur Minderung von Schwachstellen und Verbesserung der Cybersicherheit.
-      - Entwicklung und Implementierung von Backup- und Disaster-Recovery-Lösungen zum Schutz kritischer Daten und zur Gewährleistung der Geschäftskontinuität.
+      - Leitung der Entwicklung von Landing Pages und Kundenportalen unter Gewährleistung von Performance und Skalierbarkeit.
+      - Architektur und Verwaltung sicherer Linux-basierter Infrastrukturen (Ubuntu, Nginx, MariaDB) für Web- und Maildienste.
+      - Entwicklung von Echtzeit-Videostreaming-Lösungen (RTSP/FFmpeg) für webbasierte interne Kameraübertragungen.
+      - Technischer Berater des Managements, verantwortlich für Incident Response und Server-Wiederherstellung bei Netzwerkangriffen und ISP-Ausfällen.
   - title: Lead Frontend Developer
-    company: Polito
+    company: Poolito
     period: Nov 2018 - Aug 2019
     description: >
       Poolito war ein FinTech-Startup, das innovative Zahlungslösungen anbot.
     responsibilities:
-      - Leitung des Frontend-Teams bei der Entwicklung von Admin- und Client-Panels unter Verwendung von Angular 7, Angular Material und gRPC.
-      - Entwicklung responsiver Landing Pages unter Verwendung von Bootstrap, Scrollify, jQuery und Popper.
-  - title: Full Stack Developer
+      - Leitung des Frontend-Engineering-Teams bei der Entwicklung hochperformanter Admin- und Client-Dashboards für Finanzdienstleistungen.
+      - Architektur und Implementierung komplexer Datenkommunikationsschichten unter Verwendung von Angular und gRPC für effiziente Echtzeit-Updates.
+      - Federführung bei der Entwicklung responsiver und interaktiver Landing Pages unter Verwendung moderner CSS- und JavaScript-Bibliotheken.
+  - title: Lead Frontend Developer (Befördert von Junior)
     company: ModernPal
     period: Okt 2015 - Nov 2018
     responsibilities:
-      - Entwicklung des Frontends für die HealthyPal-Anwendung, eine Gesundheitsplattform, die Nutzer mit Ärzten und Trainern verbindet.
-      - Entwicklung des Frontends und Backends für die FeePal-Anwendung, eine innovative Online-Börsenplattform.
-      - Leitung der Migration von Projekten von AngularJS zu Angular 2+ und PHP Laravel zu Java Spring Boot, Spring Data JPA.
-  - title: System Administrator & Web Developer
+      - Schneller Aufstieg vom Junior zum Lead Frontend Developer und Übernahme der technischen Leitung für zentrale Gesundheits- und Finanzplattformen.
+      - Orchestrierung einer groß angelegten Migration von AngularJS zu Angular 2+, Modernisierung der Frontend-Architektur und Performance-Optimierung.
+      - Entwicklung von Full-Stack-Features für eine Geldwechselplattform unter Verwendung von Angular und Laravel.
+      - Unterstützung des Backend-Übergangs von PHP Laravel zu Java Spring Boot und Gewinnung funktionsübergreifender Erfahrung mit Java und Gradle.
+      - Direkte Zusammenarbeit mit dem CTO zur Abstimmung der Frontend-Strategien mit den Geschäftszielen und technischen Roadmaps.
+  - title: Systemadministrator & Webentwickler
     company: Haseb System Consultancy Co
     period: Sep 2014 - Nov 2015
     description: >
       Haseb System ist ein Unternehmensberatungsunternehmen.
     responsibilities:
-      - Administration von Windows Server- und Domain Controller-Umgebungen, einschließlich Einrichtung, Wartung und TFS-Server-Administration.
-      - Federführung bei der Entwicklung interner Projektmanagement-Panels und Personal-Zeiterfassungssysteme unter Verwendung von PHP und MySQL.
-      - Entwicklung zusätzlicher Nebenprojekte für das Unternehmen unter Verwendung von PHP und MySQL.
+      - Überholung der IT-Infrastruktur des Unternehmens, Behebung kritischer Domain-Controller- und DNS-Probleme sowie Upgrade der Netzwerkhardware für über 30 Arbeitsstationen.
+      - Administration von Windows-Server-Umgebungen und TFS (Team Foundation Server) unter Gewährleistung von Hochverfügbarkeit und Sicherheit.
+      - Entwicklung eines umfassenden internen PHP/MySQL-Portals für die Zeiterfassung des Personals, die Verwaltung der Portokasse und die Lohnabrechnung.
+      - Entwicklung einer multifunktionalen Gesundheitsplattform mit Ärzteverzeichnis, Community-Forum und Symptom-Checker.
   - title: Assistent
     company: Rayzan International Conference Center
     period: Jan 2014 - Jan 2015
@@ -80,11 +84,13 @@ experience:
     company: IRIB
     period: Sep 2007 - Jun 2008
     description: >
-      Die Rundfunkanstalt der Islamischen Republik Iran, Radio- und Fernsehdienste im Iran.
+      Die Rundfunkanstalt der Islamischen Republik Iran (IRIB).
     responsibilities:
-      - Webentwickler
-      - IT-Support zur Wartung von Windows-basierten Computern.
+      - Entwicklung webbasierter interner Tools und IT-Support für Windows-basierte Umgebungen.
 certifications:
+  - title: Deutsch Zertifikat (B1)
+    institution: Deutsches Sprachinstitut Teheran (DSIT)
+    year: 2013
   - title: CCNA Routing and Switching 200-120
     provider: Cisco
     institution: Kahkeshan

@@ -27,49 +27,53 @@ experience:
     company: JIBit
     period: Aug 2019 - Present
     description: >
-      Jibit is a FinTech company, aiming to remove financial complexity through building Fintech infrastructure solutions, Enterprise financial services, Smart payments solutions for startups.
+      Jibit is a FinTech company providing infrastructure solutions, enterprise financial services, and smart payment systems.
     responsibilities:
-      - Spearheaded the design and launch of a proprietary Angular-based frontend framework, resulting in a 40% reduction in project completion time and improved code consistency across all panels.
-      - Led the migration of legacy web panels to the unified internal framework, ensuring seamless transition and minimal disruption.
-      - Managed the full employee lifecycle for the frontend team, including recruitment, onboarding, performance management, and offboarding.
-      - Developed and implemented team growth metrics in collaboration with HR, fostering a high-performing and motivated team.
-      - Evaluated and analyzed new frontend APIs and technologies to determine their suitability for adoption by the development team.
-      - Collaborated with product owners to define frontend requirements, establish priorities, and ensure alignment with product goals.
-  - title: Tech Lead
+      - Orchestrated a strategic migration of legacy React projects to a modern Angular architecture, ensuring zero downtime and improved maintainability.
+      - Led the technical evolution of the frontend ecosystem from fragmented repositories and Git Submodules to a unified Nx Monorepo, preserving full version history.
+      - Engineered a proprietary Angular-based frontend framework and Design System, reducing project delivery time by 40% and ensuring 100% UI/UX consistency.
+      - Transformed team workflows by introducing Agile methodologies and task management systems (Jira), eliminating communication bottlenecks.
+      - Orchestrated the migration of testing infrastructure from Jest to Vitest and implemented Playwright for robust E2E testing.
+      - Collaborated with DevOps to optimize Docker-based deployment pipelines and CI/CD workflows for high-frequency releases.
+      - Managed the full engineering lifecycle for the frontend department, including technical recruitment, performance management, and team culture.
+  - title: Technical Consultant / Tech Lead
     company: Raymandan Taly Parseh
     period: Jun 2020 - Mar 2022
     description: >
-      Raymandan Taly Parseh is a business consultants company.
+      Raymandan Taly Parseh is a business management consultancy.
     responsibilities:
-      - Led software development for client projects, including landing pages, portals, and panels, ensuring high-quality and timely delivery.
-      - Configured and maintained web and mail servers using Ubuntu, Nginx, MariaDB, Postfix, and Dovecot, ensuring reliable and secure operation.
-      - Implemented live camera broadcast solutions over the web using RTSP and FFmpeg.
-      - Optimized server configurations and conducted security audits to mitigate vulnerabilities and enhance cybersecurity.
-      - Developed and implemented backup and disaster recovery solutions to protect critical data and ensure business continuity.
+      - Led the development of high-conversion landing pages and client portals, ensuring performance and scalability.
+      - Architected and managed secure Linux-based infrastructure (Ubuntu, Nginx, MariaDB) for web and mail services.
+      - Engineered real-time video streaming solutions (RTSP/FFmpeg) for web-based internal camera broadcasting.
+      - Acted as a technical advisor to management, overseeing incident response and server recovery during network attacks and ISP downtimes.
   - title: Lead Frontend Developer
-    company: Polito
+    company: Poolito
     period: Nov 2018 - Aug 2019
     description: >
-      Poolito was a FinTech startup, providing innovative payment solutions.
+      Poolito was a FinTech startup providing innovative payment solutions.
     responsibilities:
-      - Led the frontend team in the development of admin and client panels using Angular 7, Angular Material, and gRPC.
-      - Developed responsive landing pages utilizing Bootstrap, Scrollify, jQuery, and Popper.
-  - title: Full Stack Developer
+      - Led the frontend engineering team in developing high-performance admin and client dashboards for financial services.
+      - Architected and implemented complex data communication layers using Angular and gRPC for efficient real-time updates.
+      - Spearheaded the development of responsive and interactive landing pages using modern CSS and JavaScript.
+  - title: Lead Frontend Developer (Promoted from Junior)
     company: ModernPal
     period: Oct 2015 - Nov 2018
     responsibilities:
-      - Developed the frontend for the HealthyPal application, a health platform connecting users with doctors and instructors.
-      - Developed the frontend and backend for the FeePal application, an innovative online exchange platform.
-      - Led the migration of projects from AngularJS to Angular 2+ and PHP Laravel to Java Spring Boot, Spring Data JPA.
+      - Rapidly progressed from Junior to Lead Frontend Developer, overseeing the technical direction of core health and financial platforms.
+      - Orchestrated a large-scale migration from AngularJS to Angular 2+, modernizing the frontend architecture and improving performance.
+      - Developed full-stack features for a money exchange platform using Angular and Laravel.
+      - Facilitated the backend transition from PHP Laravel to Java Spring Boot, gaining cross-functional experience with Java and Gradle.
+      - Collaborated directly with the CTO to align frontend strategies with business goals and technical roadmaps.
   - title: System Administrator & Web Developer
     company: Haseb System Consultancy Co
     period: Sep 2014 - Nov 2015
     description: >
-      Haseb System is a business consultants company.
+      Haseb System is a business management consultancy.
     responsibilities:
-      - Administered Windows Server and Domain Controller environments, including setup, maintenance, and TFS Server administration.
-      - Spearheaded the development of internal project management panels and personnel timesheet systems using PHP and MySQL.
-      - Developed additional side projects for the company using PHP and MySQL.
+      - Overhauled the corporate IT infrastructure, resolving critical Domain Controller and DNS issues, and upgrading network hardware to support 30+ workstations.
+      - Administered Windows Server environments and TFS (Team Foundation Server), ensuring high availability and security.
+      - Developed a comprehensive internal PHP/MySQL portal for personnel timesheet tracking, petty cash management, and payroll administration.
+      - Engineered a multi-functional health platform featuring a medical directory, community forum, and symptom checker.
   - title: Assistant
     company: Rayzan International Conference Center
     period: Jan 2014 - Jan 2015
@@ -80,11 +84,13 @@ experience:
     company: IRIB
     period: Sep 2007 - Jun 2008
     description: >
-      The Islamic Republic of Iran Broadcasting, Radio and television services in Iran.
+      The Islamic Republic of Iran Broadcasting (IRIB).
     responsibilities:
-      - Web Developer
-      - IT Support to maintain Windows Based computers.
+      - Developed web-based internal tools and provided IT support for Windows-based environments.
 certifications:
+  - title: German Language (B1)
+    institution: German Language Institute (DSIT)
+    year: 2013
   - title: CCNA Routing and Switching 200-120
     provider: Cisco
     institution: Kahkeshan
