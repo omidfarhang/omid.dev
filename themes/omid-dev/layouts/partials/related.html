@@ -1,0 +1,21 @@
+{{- $related := site.RegularPages.Related . | first 3 }}
+{{- with $related }}
+<div class="related-posts">
+    <h3 class="related-title">{{ i18n "related_posts" | default "Related Posts" }}</h3>
+    <div class="related-grid">
+        {{- range . }}
+        <a class="related-card" href="{{ .Permalink }}">
+            <div class="related-card-content">
+                <h4 class="related-card-title">{{ .Title }}</h4>
+                {{- if .Date }}
+                <div class="related-card-meta">
+                    <i class="far fa-calendar-alt"></i>
+                    <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+                </div>
+                {{- end }}
+            </div>
+        </a>
+        {{- end }}
+    </div>
+</div>
+{{- end }}

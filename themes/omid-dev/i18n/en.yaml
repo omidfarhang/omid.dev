@@ -130,3 +130,8 @@
 
 - id: print_save_pdf
   translation: "Print / Save as PDF"
+- id: related_posts
+  translation: "Related Posts"
+
+- id: related_posts
+  translation: "Related Posts"

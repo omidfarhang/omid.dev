@@ -136,3 +136,8 @@
 
 - id: print_save_pdf
   translation: "Drucken / Als PDF speichern"
+- id: related_posts
+  translation: "Ähnliche Beiträge"
+
+- id: related_posts
+  translation: "Ähnliche Beiträge"

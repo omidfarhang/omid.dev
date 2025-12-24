@@ -391,16 +391,24 @@
 
 .post-footer {
     margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
 }
 
-.post-footer>* {
-    margin-bottom: 10px;
+.post-footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 .post-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 8px;
+    flex: 1;
 }
 
 .post-tags li {
@@ -408,7 +416,6 @@
 }
 
 .post-tags a,
-.share-buttons-container,
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
@@ -418,13 +425,13 @@
 .post-tags a {
     display: flex;
     align-items: center;
-    padding: 0 14px;
+    padding: 0 12px;
     color: var(--secondary);
-    font-size: 14px;
-    line-height: 34px;
-    background: var(--code-bg);
+    font-size: 13px;
+    line-height: 30px;
+    background: var(--entry);
     transition: all 0.3s ease;
-    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border);
 }
 
 .post-tags a::before {
@@ -435,138 +442,107 @@
 }
 
 .post-tags a:hover {
-    background: var(--accent);
-    color: white;
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
-}
-
-.paginav a:hover {
     background: var(--accent-light);
+    color: var(--accent);
     border-color: var(--accent);
+    transform: translateY(-2px);
 }
 
 .share-buttons-container {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     gap: 12px;
+    padding: 6px 12px;
     background: var(--entry);
     border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 8px 16px;
+    border-radius: var(--radius);
     box-shadow: var(--shadow-sm);
-    margin-top: 8px;
     width: fit-content;
-    max-width: 100%;
 }
 
 .share-buttons-label {
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
     color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .share-buttons {
     display: flex;
-    gap: 8px;
-    font-size: 20px;
+    gap: 4px;
+    font-size: 16px;
     padding: 0;
-    flex-wrap: wrap;
 }
 
 .share-buttons li,
 .share-buttons a {
     display: inline-flex;
-    color: var(--content);
+    color: var(--secondary);
     transition: all 0.2s ease;
     padding: 4px;
-    border-radius: 6px;
 }
 
 .share-buttons a:hover {
-    transform: translateY(-2px) scale(1.1);
-}
-
-.share-buttons a.share-native:hover {
     color: var(--accent);
-}
-
-.share-buttons a:not(:last-of-type) {
-    margin-inline-end: 0;
-}
-
-.share-buttons a.linkedin:hover {
-    color: #0077b5;
-}
-.share-buttons a.xing:hover {
-    color: #006567;
-}
-.share-buttons a.reddit:hover {
-    color: #ff6314;
-}
-.share-buttons a.facebook:hover {
-    color: #3b5998;
-}
-.share-buttons a.whatsapp:hover {
-    color: #25d366;
-}
-.share-buttons a.telegram:hover {
-    color: #249cda;
-}
-
-.share-buttons a.y-combinator:hover {
-    color: #f4621d;
-}
-
-h1:hover .anchor,
-h2:hover .anchor,
-h3:hover .anchor,
-h4:hover .anchor,
-h5:hover .anchor,
-h6:hover .anchor {
-    display: inline-flex;
-    color: var(--secondary);
-    margin-inline-start: 8px;
-    font-weight: 500;
-    user-select: none;
+    transform: scale(1.2);
 }
 
 .paginav {
     display: flex;
-    line-height: 30px;
+    gap: 20px;
+    background: transparent;
+    border: none;
+    margin-top: 10px;
 }
 
 .paginav a {
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background: var(--entry);
+    border: 1px solid var(--border);
     border-radius: var(--radius);
+    transition: all 0.3s ease;
+    text-decoration: none !important;
+    box-shadow: var(--shadow-sm);
+}
+
+.paginav a:hover {
+    border-color: var(--accent);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
 }
 
 .paginav .title {
-    letter-spacing: 1px;
+    font-size: 11px;
+    font-weight: 700;
     text-transform: uppercase;
-    font-size: small;
     color: var(--secondary);
+    margin-bottom: 4px;
 }
 
-.paginav .prev,
-.paginav .next {
-    width: 50%;
-}
-
-.paginav span:hover:not(.title) {
-    box-shadow: 0 1px 0;
-}
-
-.paginav .next {
-    margin-inline-start: auto;
-    text-align: right;
-}
-
-[dir="rtl"] .paginav .next {
+.paginav .prev {
     text-align: left;
 }
+
+.paginav .next {
+    text-align: right;
+    margin-inline-start: 0;
+}
+
+.paginav span:not(.title) {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--primary);
+    line-height: 1.4;
+}
+
+.paginav a:hover .title {
+    color: var(--accent);
+}
+
 
 h1>a>svg {
     display: inline;
@@ -576,3 +552,88 @@ img.in-text {
     display: inline;
     margin: auto;
 }
+
+.related-posts {
+    margin-top: 40px;
+    padding-top: 40px;
+    border-top: 1px solid var(--border);
+}
+
+.related-title {
+    margin-bottom: 25px;
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.related-card {
+    display: block;
+    padding: 20px;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+    text-decoration: none !important;
+}
+
+.related-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--accent);
+}
+
+.related-card-title {
+    margin: 0 0 10px;
+    font-size: 18px;
+    line-height: 1.4;
+    color: var(--primary);
+    transition: color 0.3s ease;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+.related-card:hover .related-card-title {
+    color: var(--accent);
+}
+
+.related-card-meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--secondary);
+}
+
+.related-card-meta i {
+    font-size: 11px;
+}
+
+@media screen and (max-width: 768px) {
+    .paginav {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .paginav .next {
+        text-align: left;
+    }
+    .post-footer-top {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .related-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+

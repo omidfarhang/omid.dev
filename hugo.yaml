@@ -3,25 +3,53 @@ title: Omid Farhang
 theme: omid-dev
 copyright: '© 2025 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
-show_reading_time: true
 
-menu:
-  main:
-    - identifier: blog
-      name: Posts
-      url: /posts
-      weight: 1
-    - identifier: aboutMe
-      name: About me
-      url: /about-me
-      weight: 4
-    - identifier: contactMe
-      name: Contact me
-      url: /contact-me
-      weight: 5
+# Permalinks
+permalinks:
+  posts: /:year/:month/:day/:slug/
 
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
 
+# Privacy Settings
+privacy:
+  vimeo:
+    disabled: false
+  twitter:
+    disabled: false
+  instagram:
+    disabled: false
+  youtube:
+    disabled: false
+    privacyEnhanced: true
 
+# Related Content
+related:
+  threshold: 80
+  includeNewer: false
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 100
+    - name: tags
+      weight: 80
+    - name: categories
+      weight: 50
+    - name: date
+      weight: 10
+
+# Imaging
+imaging:
+  anchor: smart
+  quality: 75
+  resampleFilter: Lanczos
+
+# Minify settings
+minify:
+  disableXML: false
+  minifyOutput: true
 
 markup:
   goldmark:
@@ -43,9 +71,6 @@ markup:
     tabWidth: 4
 
 
-
-
-
 languages:
   # English
   en:
@@ -53,7 +78,7 @@ languages:
     languageName: ':us:'
     languageCode: en-US
     weight: 1
-    languagedirection: ltr
+    languageDirection: ltr
     params:
       languageAltTitle: English
       author: Omid Farhang
@@ -91,7 +116,7 @@ languages:
           url: /posts
           weight: 1
         - name: Resume
-          url: https://g.omid.dev/resume
+          url: /resume
           weight: 4
   # Persian
   fa:
@@ -99,7 +124,7 @@ languages:
     languageName: ':iran:'
     languageCode: fa-IR
     weight: 2
-    languagedirection: rtl
+    languageDirection: rtl
     params:
       languageAltTitle: فارسی
       author: امید فرهنگ
@@ -134,7 +159,7 @@ languages:
           url: /posts
           weight: 1
         - name: رزومه
-          url: https://g.omid.dev/resume
+          url: /resume
           weight: 4
   # German
   de:
@@ -142,7 +167,7 @@ languages:
     languageName: ':de:'
     languageCode: de-DE
     weight: 3
-    languagedirection: ltr
+    languageDirection: ltr
     params:
       languageAltTitle: Deutsch
       author: Omid Farhang
@@ -177,7 +202,7 @@ languages:
           url: /posts
           weight: 1
         - name: Lebenslauf
-          url: https://g.omid.dev/resume
+          url: /resume
           weight: 4
 
 params:

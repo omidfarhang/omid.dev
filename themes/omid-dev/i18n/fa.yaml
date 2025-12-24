@@ -130,3 +130,8 @@
 
 - id: print_save_pdf
   translation: "چاپ / ذخیره به صورت PDF"
+- id: related_posts
+  translation: "پست‌های مرتبط"
+
+- id: related_posts
+  translation: "پست‌های مرتبط"
