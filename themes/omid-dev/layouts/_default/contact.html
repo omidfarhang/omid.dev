@@ -1,0 +1,114 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+    </h1>
+  </header>
+
+  <div class="post-content">
+    {{- if .Content }}
+    <div class="contact-intro">
+      {{ .Content }}
+    </div>
+    {{- end }}
+
+    <section class="contact-methods-section">
+      <h2 class="section-title">{{ i18n "direct_contact" }}</h2>
+      <div class="contact-method-grid">
+        {{- if site.Params.footer.contactEmail }}
+        <div class="contact-method-item">
+          <div class="method-icon"><i class="fa-solid fa-envelope"></i></div>
+          <div class="method-content">
+            <h3>{{ i18n "email" }}</h3>
+            <div class="method-action">
+              <a href="mailto:{{ site.Params.footer.contactEmail }}" class="method-link">{{ site.Params.footer.contactEmail }}</a>
+              <button class="method-copy" onclick="copyToClipboard('{{ site.Params.footer.contactEmail }}', this)" title="{{ i18n "code_copy" | default "Copy" }}">
+                <i class="fa-regular fa-copy"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+        {{- end }}
+
+        {{- if site.Params.footer.contactPhone }}
+        <div class="contact-method-item">
+          <div class="method-icon"><i class="fa-solid fa-phone"></i></div>
+          <div class="method-content">
+            <h3>{{ i18n "phone" }}</h3>
+            <div class="method-action">
+              <a href="tel:{{ site.Params.footer.contactPhone }}" class="method-link">{{ site.Params.footer.contactPhone }}</a>
+              <button class="method-copy" onclick="copyToClipboard('{{ site.Params.footer.contactPhone }}', this)" title="{{ i18n "code_copy" | default "Copy" }}">
+                <i class="fa-regular fa-copy"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+        {{- end }}
+
+        <div class="contact-method-item">
+          <div class="method-icon"><i class="fa-solid fa-comments"></i></div>
+          <div class="method-content">
+            <h3>{{ i18n "instant_messaging" }}</h3>
+            <div class="method-im-links">
+              <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+              <span class="method-sep">·</span>
+              <a href="https://t.me/omidfarhang" target="_blank" rel="noopener noreferrer">Telegram</a>
+              <span class="method-sep">·</span>
+              <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" target="_blank" rel="noopener noreferrer">Signal</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact-methods-section">
+      <h2 class="section-title">{{ i18n "social_media" }}</h2>
+      <div class="social-links-grid">
+        {{- range site.Params.socialIcons }}
+        {{- if and (ne .name "Rss") (ne .name "rss") }}
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="social-link-card">
+          <i class="{{ .icon }}"></i>
+          <span>{{ .name | title }}</span>
+        </a>
+        {{- end }}
+        {{- end }}
+      </div>
+    </section>
+
+    <section class="contact-methods-section qr-section">
+      <h2 class="section-title">{{ i18n "save_contact" }}</h2>
+      <div class="qr-container">
+        <div class="qr-code">
+          {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={{ $vcard | urlquery }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
+        </div>
+        <div class="qr-text">
+          <p>{{ i18n "qr_scan_text" }}</p>
+          <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="vcard-download">
+            <i class="fa-solid fa-download"></i> {{ i18n "download_vcard" }}
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      function copyToClipboard(text, btn) {
+        navigator.clipboard.writeText(text).then(() => {
+          const icon = btn.querySelector('i');
+          const originalClass = icon.className;
+          icon.className = 'fa-solid fa-check';
+          btn.classList.add('copied');
+          setTimeout(() => {
+            icon.className = originalClass;
+            btn.classList.remove('copied');
+          }, 2000);
+        });
+      }
+    </script>
+  </div>
+</article>
+
+{{- end }}
