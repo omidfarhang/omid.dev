@@ -80,7 +80,7 @@
                     </header>
                     {{- if not (.Param "hideMeta") }}
                     <footer class="entry-footer">
-                        {{- partial "post_meta.html" . -}}
+                        {{- partial "post_meta.html" (dict "Context" . "hideAuthor" true "hideTranslations" true) -}}
                     </footer>
                     {{- end }}
                     {{- if (ne (.Param "hideSummary") true) }}

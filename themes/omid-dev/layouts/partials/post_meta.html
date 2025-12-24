@@ -1,43 +1,53 @@
+{{- $context := . -}}
+{{- $hideAuthor := false -}}
+{{- $hideTranslations := false -}}
+
+{{- if reflect.IsMap . -}}
+    {{- $context = .Context -}}
+    {{- $hideAuthor = .hideAuthor -}}
+    {{- $hideTranslations = .hideTranslations -}}
+{{- end -}}
+
 <ul class="meta">
 
-    {{- if not (.Param "hideAuthor") -}}
-        <li>
+    {{- if and (not ($context.Param "hideAuthor")) (not $hideAuthor) -}}
+        <li class="meta-author">
             <span class="screen-reader-text">Post author:</span>
-            {{- if .Site.Params.footer.avatar }}
-            <img src="{{ .Site.Params.footer.avatar }}" alt="{{ .Site.Params.author }}" class="post-meta-avatar">
+            {{- if $context.Site.Params.footer.avatar }}
+            <img src="{{ $context.Site.Params.footer.avatar }}" alt="{{ $context.Site.Params.author }}" class="post-meta-avatar">
             {{- else }}
             <i class="fas fa-user-circle" aria-hidden="true" role="img"></i>
             {{- end }}
-            {{- with (partial "author.html" .) }}
+            {{- with (partial "author.html" $context) }}
                 {{- . }}
             {{- end }}
         </li>
     {{- end }}
 
-    {{- if not .Date.IsZero -}}
-        <li>
+    {{- if not $context.Date.IsZero -}}
+        <li class="meta-date">
             <span class="screen-reader-text">Post published:</span>
             <i aria-hidden="true" role="img" class="far fa-calendar-alt"></i>
-            <span title="{{(.Date | time.Format (default "Jan 02, 2006 3:04 PM Z07:00" site.Params.DateFormat))}}">{{(.Date | time.Format (default "January 2, 2006" site.Params.DateFormat))}}</span>
+            <span title="{{($context.Date | time.Format (default "Jan 02, 2006 3:04 PM Z07:00" $context.Site.Params.DateFormat))}}">{{($context.Date | time.Format (default "January 2, 2006" $context.Site.Params.DateFormat))}}</span>
         </li>
     {{- end }}
 
-    {{- if (.Param "ShowReadingTime") -}}
-        <li>
+    {{- if ($context.Param "ShowReadingTime") -}}
+        <li class="meta-reading-time">
             <span class="screen-reader-text">Reading Time:</span>
             <i aria-hidden="true" role="img" class="fa-solid fa-stopwatch"></i>
-            <span title="{{i18n "words" .WordCount | default (printf "%d words" .WordCount)}}">
-                {{i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)}}
+            <span title="{{i18n "words" $context.WordCount | default (printf "%d words" $context.WordCount)}}">
+                {{i18n "read_time" $context.ReadingTime | default (printf "%d min" $context.ReadingTime)}}
             </span>
         </li>
     {{- end }}
 
-    {{- if .IsTranslated -}}
-    <li>{{- i18n "translations" | default "Translations" }}:
-    {{- range .Translations }}
+    {{- if and $context.IsTranslated (not $hideTranslations) -}}
+    <li class="meta-translations">{{- i18n "translations" | default "Translations" }}:
+    {{- range $context.Translations }}
     &nbsp;
         <a href="{{ .Permalink }}" title="{{- i18n "translations" | default "Translations" }} {{- .Lang | title -}}">
-            {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
+            {{- if (and $context.Site.Params.displayFullLangName (.Language.LanguageName)) }}
             {{- .Language.LanguageName | emojify -}}
             {{- else }}
             {{- .Lang | title -}}

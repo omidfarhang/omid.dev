@@ -100,10 +100,10 @@
 }
 
 .skill-tag {
-    background: var(--tertiary);
+    background: var(--quaternary);
     color: var(--primary);
     padding: 6px 14px;
-    border-radius: 20px;
+    border-radius: var(--radius);
     font-size: 0.85rem;
     font-weight: 500;
     transition: all 0.2s ease;
