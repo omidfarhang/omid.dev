@@ -21,10 +21,13 @@
     {{- end }}
 </header>
 
-<div class="searchbox">
+<div id="searchbox" class="searchbox">
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
-    
+    <div id="searchLoading" class="search-loading" style="display: none;">
+        <div class="spinner"></div>
+        <span>Loading search index...</span>
+    </div>
 </div>
 </div>{{/* end page-content */}}
 
