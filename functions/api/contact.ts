@@ -15,7 +15,7 @@ export const onRequestPost: PagesFunction = async (context) => {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "Contact Form <onboarding@resend.dev>",
+        from: "Contact Form <website@omid.dev>",
         to: ["hi@omid.dev"],
         subject: `New message from ${name}`,
         reply_to: email,
