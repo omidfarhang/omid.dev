@@ -24,7 +24,7 @@ skills:
     items: [فارسی (زبان مادری), انگلیسی (پیشرفته), آلمانی (B1)]
 experience:
   - title: Lead Frontend Engineer & Team Lead
-    company: JIBit
+    company: جیبیت
     period: اوت ۲۰۱۹ - اکنون
     description: >
       جی‌بیت یک شرکت فین‌تک است که زیرساخت‌های مالی، خدمات مالی سازمانی و سیستم‌های پرداخت هوشمند ارائه می‌دهد.
@@ -38,7 +38,7 @@ experience:
       - مدیریت کامل چرخه حیات مهندسی در بخش فرانت‌اند، شامل استخدام فنی، مدیریت عملکرد و فرهنگ تیمی.
     skills: [رهبری مهندسی, مربی‌گری (Mentorship), Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
   - title: مشاور فنی / راهبر فنی
-    company: Raymandan Taly Parseh
+    company: رایمندان تالی پارسه
     period: ژوئن ۲۰۲۰ - مارس ۲۰۲۲
     description: >
       رایمندان تالی پارسه یک شرکت مشاوره مدیریت است.
@@ -49,7 +49,7 @@ experience:
       - ایفای نقش مشاور فنی مدیریت، نظارت بر پاسخگویی به حوادث و بازیابی سرورها در زمان حملات شبکه و قطعی‌های ISP.
     skills: [مشاوره فنی, مدیریت زیرساخت, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
   - title: Lead Frontend Developer
-    company: Poolito
+    company: پولیتو
     period: نوامبر ۲۰۱۸ - اوت ۲۰۱۹
     description: >
       پولیتو یک استارتاپ فین‌تک بود که راهکارهای پرداخت نوآورانه ارائه می‌داد.
@@ -59,7 +59,7 @@ experience:
       - هدایت توسعه لندینگ‌پیج‌های واکنش‌گرا و تعاملی با استفاده از فریم‌ورک‌های مدرن CSS و JavaScript.
     skills: [رهبری تیم, Angular, gRPC, TypeScript, CSS, RxJS]
   - title: Lead Frontend Developer (ارتقا یافته از Junior)
-    company: ModernPal
+    company: مدرن‌پل
     period: اکتبر ۲۰۱۵ - نوامبر ۲۰۱۸
     responsibilities:
       - پیشرفت سریع از سطح Junior به Lead Frontend Developer و نظارت بر جهت‌گیری فنی پلتفرم‌های اصلی سلامت و مالی.
@@ -67,7 +67,7 @@ experience:
       - همکاری مستقیم با CTO جهت همسوسازی استراتژی‌های فرانت‌ند با اهداف تجاری و نقشه‌های راه فنی.
     skills: [هدایت فنی, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
   - title: مدیر سیستم و توسعه‌دهنده وب
-    company: Haseb System Consultancy Co
+    company: شرکت مشاوره حاسب سیستم
     period: سپتامبر ۲۰۱۴ - نوامبر ۲۰۱۵
     description: >
       حاسب سیستم یک شرکت مشاوره مدیریت است.

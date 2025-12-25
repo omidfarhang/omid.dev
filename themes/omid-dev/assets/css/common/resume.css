@@ -3,30 +3,62 @@
 .resume-container {
     background: var(--theme);
     border-radius: var(--radius);
-    padding: 48px;
-    box-shadow: var(--shadow-lg);
+    padding: 60px;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.1);
     border: 1px solid var(--border);
     max-width: 1100px;
-    margin: 0 auto;
+    margin: 2rem auto;
 }
 
 .resume-header {
-    margin-bottom: 3rem;
-    padding-bottom: 2rem;
-    border-bottom: 2px solid var(--border);
+    margin-bottom: 4rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid var(--border);
+    position: relative;
+}
+
+.resume-header::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    inset-inline-start: 0;
+    width: 100px;
+    height: 3px;
+    background: var(--accent);
 }
 
 .resume-header-main {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1.5rem;
+    align-items: flex-end;
+    margin-bottom: 2rem;
+}
+
+.resume-header-info h1 {
+    margin: 0;
+    font-size: 3.5rem;
+    font-weight: 900;
+    letter-spacing: -0.05em;
+    color: var(--primary);
+    line-height: 0.9;
+    background: linear-gradient(to bottom right, var(--primary), var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.resume-header-info h2 {
+    margin: 1rem 0 0 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
 }
 
 .resume-header-contact ul {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem 2rem;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -35,17 +67,30 @@
 .resume-header-contact li {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-    font-size: 0.9rem;
-    color: var(--content);
+    gap: 0.75rem;
+    font-size: 0.95rem;
+    color: var(--secondary);
+    transition: all 0.2s ease;
+}
+
+.resume-header-contact li:hover {
+    color: var(--accent);
+    transform: translateX(5px);
+}
+
+[dir="rtl"] .resume-header-contact li:hover {
+    transform: translateX(-5px);
 }
 
 .resume-header-contact i {
     color: var(--accent);
+    width: 20px;
+    text-align: center;
+    font-size: 1.1rem;
 }
 
 .resume-header-contact a {
-    color: var(--content);
+    color: inherit;
     text-decoration: none;
 }
 
@@ -132,15 +177,57 @@
     font-size: 1.1rem;
 }
 
-.resume-section-content p {
-    line-height: 1.8;
-    color: var(--content);
-    font-size: 1.05rem;
+.summary-text {
+    font-size: 1.15rem !important;
+    line-height: 1.8 !important;
+    color: var(--content) !important;
+    max-width: 900px;
+    position: relative;
+    padding-inline-start: 2rem;
+    border-inline-start: 4px solid var(--quaternary);
+}
+
+.resume-section-content {
+    position: relative;
+}
+
+/* Timeline Line */
+.experience .resume-section-content::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--border);
+    margin-inline-start: 7px;
 }
 
 .resume-experience-item {
-    margin-bottom: 2.5rem;
+    margin-bottom: 3.5rem;
     position: relative;
+    padding-inline-start: 2.5rem;
+}
+
+/* Timeline Dot */
+.resume-experience-item::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: 0;
+    top: 6px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--theme);
+    border: 3px solid var(--accent);
+    z-index: 1;
+    transition: all 0.3s ease;
+}
+
+.resume-experience-item:hover::before {
+    background: var(--accent);
+    transform: scale(1.2);
+    box-shadow: 0 0 0 4px var(--quaternary);
 }
 
 .resume-experience-item:last-child {
@@ -149,35 +236,48 @@
 
 .experience-header {
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    margin-bottom: 0.25rem;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
 }
 
 .experience-header strong {
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-size: 1.35rem;
+    font-weight: 800;
     color: var(--primary);
+    line-height: 1.2;
 }
 
 .experience-header .period {
-    font-size: 0.9rem;
-    color: var(--secondary);
-    font-weight: 500;
+    font-size: 0.85rem;
+    color: var(--accent);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-top: 0.25rem;
 }
 
 .resume-experience-item .company {
     font-size: 1.1rem;
-    color: var(--accent);
+    color: var(--secondary);
     font-weight: 600;
-    margin-bottom: 0.75rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.resume-experience-item .company::before {
+    content: "@";
+    color: var(--accent);
+    font-weight: 400;
 }
 
 .experience-description {
     font-size: 1rem !important;
-    color: var(--secondary) !important;
-    margin-bottom: 1rem !important;
-    line-height: 1.6 !important;
+    color: var(--content) !important;
+    margin-bottom: 1.25rem !important;
+    line-height: 1.7 !important;
+    opacity: 0.9;
 }
 
 .responsibilities {
@@ -189,114 +289,196 @@
 .responsibilities li {
     position: relative;
     padding-inline-start: 1.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
     line-height: 1.6;
     color: var(--content);
+    font-size: 0.95rem;
 }
 
 .responsibilities li::before {
-    content: "→";
+    content: "";
     position: absolute;
-    left: 0;
-    color: var(--accent);
-    font-weight: bold;
+    inset-inline-start: 0;
+    top: 10px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    opacity: 0.6;
 }
 
 .experience-technologies {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
+    margin-top: 1.5rem;
 }
 
 .tech-tag {
     background: var(--quaternary);
-    color: var(--secondary);
-    padding: 0.25rem 0.75rem;
-    border-radius: 4px;
-    font-size: 0.8rem;
+    color: var(--primary);
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
     font-weight: 600;
     border: 1px solid var(--border);
+    transition: all 0.2s ease;
+}
+
+.tech-tag:hover {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+    transform: translateY(-2px);
 }
 
 /* Sidebar Styles */
+.sidebar-section {
+    background: var(--quaternary);
+    padding: 1.5rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
 .sidebar-section h3 {
-    font-size: 1rem;
-    font-weight: 700;
+    font-size: 0.9rem;
+    font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.15em;
     color: var(--primary);
-    margin-bottom: 1.25rem;
-    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
     border-bottom: 2px solid var(--accent);
-    display: inline-block;
-}
-
-.sidebar-section ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.sidebar-section li {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 0.75rem;
-    font-size: 0.95rem;
-}
-
-.sidebar-section i {
-    width: 16px;
-    color: var(--accent);
-    text-align: center;
-}
-
-.sidebar-section a {
-    color: var(--content);
-    text-decoration: none;
-    transition: color 0.2s;
-    word-break: break-all;
-}
-
-.sidebar-section a:hover {
-    color: var(--accent);
+    display: block;
+    width: 100%;
 }
 
 .sidebar-skill-group {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.sidebar-skill-group:last-child {
+    margin-bottom: 0;
 }
 
 .sidebar-skill-group h4 {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-weight: 700;
-    color: var(--secondary);
-    margin-bottom: 0.75rem;
+    color: var(--accent);
+    margin-bottom: 1rem;
     text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 .sidebar-skill-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4rem;
+    gap: 0.5rem;
 }
 
 .sidebar-skill-tag {
     background: var(--theme);
-    color: var(--content);
-    padding: 0.2rem 0.6rem;
-    border-radius: 4px;
+    color: var(--primary);
+    padding: 0.3rem 0.75rem;
+    border-radius: 6px;
     font-size: 0.8rem;
+    font-weight: 500;
     border: 1px solid var(--border);
+    transition: all 0.2s ease;
+}
+
+.sidebar-skill-tag:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    transform: scale(1.05);
 }
 
 .sidebar-cert-item {
-    margin-bottom: 1rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.sidebar-cert-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
 }
 
 .sidebar-cert-item strong {
     display: block;
-    font-size: 0.95rem;
+    font-size: 1rem;
     color: var(--primary);
+    line-height: 1.4;
+    margin-bottom: 0.25rem;
+}
+
+.sidebar-cert-item span {
+    font-size: 0.85rem;
+    color: var(--secondary);
+    font-weight: 500;
+}
+
+/* RTL & Persian Refinements */
+[dir="rtl"] {
+    text-align: right;
+}
+
+body:lang(fa) h1,
+body:lang(fa) h2,
+body:lang(fa) h3,
+body:lang(fa) h4,
+body:lang(fa) .tech-tag,
+body:lang(fa) .sidebar-skill-tag,
+body:lang(fa) .period {
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+body:lang(fa) .resume-header-info h1 {
+    line-height: 1.2;
+}
+
+body:lang(fa) .summary-text {
+    text-align: justify;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 992px) {
+    .resume-layout {
+        flex-direction: column;
+        gap: 3rem;
+    }
+    
+    .resume-container {
+        padding: 32px;
+    }
+}
+
+@media (max-width: 768px) {
+    .resume-header-main {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+    }
+    
+    .resume-header-info h1 {
+        font-size: 2.5rem;
+    }
+    
+    .experience .resume-section-content::before {
+        margin-inline-start: 5px;
+    }
+    
+    .resume-experience-item {
+        padding-inline-start: 2rem;
+    }
+    
+    .resume-experience-item::before {
+        width: 12px;
+        height: 12px;
+        top: 8px;
+    }
 }
 
 .sidebar-cert-item span {
