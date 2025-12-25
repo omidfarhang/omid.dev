@@ -55,9 +55,26 @@
 
 <script>
     function toggleMenu() {
-        const nav = document.querySelector('.nav-menu');
+        const nav = document.querySelector('.mobile-menu');
+        const menuToggle = document.querySelector('.menu-toggle');
+        const body = document.body;
+        
         nav.classList.toggle('active');
+        menuToggle.classList.toggle('active');
+        body.classList.toggle('menu-open');
     }
+
+    // Close menu when clicking on the background
+    document.addEventListener('DOMContentLoaded', () => {
+        const navMenu = document.querySelector('.mobile-menu');
+        if (navMenu) {
+            navMenu.addEventListener('click', (e) => {
+                if (e.target === navMenu && navMenu.classList.contains('active')) {
+                    toggleMenu();
+                }
+            });
+        }
+    });
 
     window.addEventListener('scroll', function() {
         const header = document.querySelector('.header');
@@ -114,7 +131,7 @@
         {{- end }}
     </div>
 
-    <nav class="nav-menu">
+    <nav class="nav-menu desktop-menu">
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -179,8 +196,31 @@
             </svg>
         </button>
         {{- end }}
-        <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+        <button class="menu-toggle" onclick="toggleMenu()" aria-label="Menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
     </div>
 </div>
 <div id="scroll-progress"></div>
 </header>
+
+<nav class="mobile-menu">
+    {{- $currentPage := . }}
+    <ul id="mobile-menu-list">
+        {{- range site.Menus.main }}
+        {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+        {{- $page_url:= $currentPage.Permalink | absLangURL }}
+        <li>
+            <a href="{{ .URL | absLangURL }}">
+                <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                    {{- .Pre }}
+                    {{- .Name -}}
+                    {{ .Post -}}
+                </span>
+            </a>
+        </li>
+        {{- end }}
+    </ul>
+</nav>
