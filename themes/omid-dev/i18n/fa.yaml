@@ -68,6 +68,30 @@
 - id: email
   translation: "ایمیل"
 
+- id: name
+  translation: "نام"
+
+- id: message
+  translation: "پیام"
+
+- id: send
+  translation: "ارسال"
+
+- id: sending
+  translation: "در حال ارسال..."
+
+- id: send_message
+  translation: "ارسال پیام"
+
+- id: message_sent
+  translation: "پیام ارسال شد!"
+
+- id: message_failed
+  translation: "خطا در ارسال پیام"
+
+- id: message_error
+  translation: "خطایی رخ داده است"
+
 - id: instant_messaging
   translation: "پیام‌رسان‌ها"
 

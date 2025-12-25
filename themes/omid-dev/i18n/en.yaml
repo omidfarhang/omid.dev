@@ -68,6 +68,30 @@
 - id: email
   translation: "Email"
 
+- id: name
+  translation: "Name"
+
+- id: message
+  translation: "Message"
+
+- id: send
+  translation: "Send"
+
+- id: sending
+  translation: "Sending..."
+
+- id: send_message
+  translation: "Send a Message"
+
+- id: message_sent
+  translation: "Message sent!"
+
+- id: message_failed
+  translation: "Failed to send"
+
+- id: message_error
+  translation: "An error occurred"
+
 - id: instant_messaging
   translation: "Instant Messaging"
 

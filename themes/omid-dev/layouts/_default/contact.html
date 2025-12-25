@@ -65,6 +65,26 @@
     </section>
 
     <section class="contact-methods-section">
+      <h2 class="section-title">{{ i18n "send_message" }}</h2>
+      <form id="contact-form" class="contact-form">
+        <div class="form-group">
+          <input name="name" required placeholder="{{ i18n "name" }}" class="form-input" />
+        </div>
+        <div class="form-group">
+          <input name="email" type="email" required placeholder="{{ i18n "email" }}" class="form-input" />
+        </div>
+        <div class="form-group">
+          <textarea name="message" required placeholder="{{ i18n "message" }}" class="form-textarea"></textarea>
+        </div>
+        <button type="submit" class="form-button">
+          <span class="button-text">{{ i18n "send" }}</span>
+          <i class="fa-solid fa-paper-plane"></i>
+        </button>
+        <div id="form-status" class="form-status"></div>
+      </form>
+    </section>
+
+    <section class="contact-methods-section">
       <h2 class="section-title">{{ i18n "social_media" }}</h2>
       <div class="social-links-grid">
         {{- range site.Params.socialIcons }}
@@ -107,6 +127,52 @@
           }, 2000);
         });
       }
+
+      document.getElementById("contact-form").addEventListener("submit", async (e) => {
+        e.preventDefault();
+
+        const form = e.target;
+        const status = document.getElementById("form-status");
+        const button = form.querySelector('button');
+        const buttonText = button.querySelector('.button-text');
+        
+        const originalText = buttonText.textContent;
+        buttonText.textContent = '{{ i18n "sending" }}';
+        button.disabled = true;
+
+        const data = {
+          name: form.name.value,
+          email: form.email.value,
+          message: form.message.value,
+        };
+
+        try {
+          const res = await fetch("/api/contact", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(data),
+          });
+
+          if (res.ok) {
+            status.textContent = '{{ i18n "message_sent" }}';
+            status.className = 'form-status success';
+            form.reset();
+          } else {
+            status.textContent = '{{ i18n "message_failed" }}';
+            status.className = 'form-status error';
+          }
+        } catch (err) {
+          status.textContent = '{{ i18n "message_error" }}';
+          status.className = 'form-status error';
+        } finally {
+          buttonText.textContent = originalText;
+          button.disabled = false;
+          setTimeout(() => {
+            status.textContent = '';
+            status.className = 'form-status';
+          }, 5000);
+        }
+      });
     </script>
   </div>
 </article>
