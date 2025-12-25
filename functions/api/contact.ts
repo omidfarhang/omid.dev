@@ -1,4 +1,10 @@
-export const onRequestPost: PagesFunction = async (context) => {
+interface Env {
+  RESEND_API_KEY: string;
+  TURNSTILE_SECRET_KEY: string;
+  RATE_LIMIT_KV: KVNamespace;
+}
+
+export const onRequestPost: PagesFunction<Env> = async (context) => {
   try {
     const data = await context.request.json();
 
@@ -17,7 +23,7 @@ export const onRequestPost: PagesFunction = async (context) => {
     const ip = context.request.headers.get('cf-connecting-ip');
 
     // 3. Rate Limiting (using KV if available)
-    const kv = (context.env as any).RATE_LIMIT_KV;
+    const kv = context.env.RATE_LIMIT_KV;
     if (ip && kv) {
       const key = `rate-limit:${ip}`;
       const count = await kv.get(key);
@@ -28,7 +34,7 @@ export const onRequestPost: PagesFunction = async (context) => {
     }
 
     // 4. Turnstile Verification
-    const turnstileSecret = (context.env as any).TURNSTILE_SECRET_KEY;
+    const turnstileSecret = context.env.TURNSTILE_SECRET_KEY;
     if (turnstileSecret) {
       if (!turnstileToken) {
         return new Response("CAPTCHA required", { status: 400 });
@@ -51,6 +57,8 @@ export const onRequestPost: PagesFunction = async (context) => {
     }
 
     // 5. Send Email via Resend
+    const formattedMessage = message.replace(/\n/g, '<br>');
+
     const res = await fetch("https://api.resend.com/emails", {
       method: "POST",
       headers: {
@@ -66,7 +74,7 @@ export const onRequestPost: PagesFunction = async (context) => {
           <p><strong>Name:</strong> ${name}</p>
           <p><strong>Email:</strong> ${email}</p>
           <p><strong>Message:</strong></p>
-          <p>${message}</p>
+          <p>${formattedMessage}</p>
         `,
       }),
     });
