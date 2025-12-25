@@ -36,6 +36,7 @@ experience:
       - مدیریت مهاجرت زیرساخت تست از Jest به Vitest و پیاده‌سازی Playwright برای تست‌های E2E.
       - همکاری با تیم DevOps برای بهینه‌سازی خط لوله‌های استقرار مبتنی بر Docker و جریان‌های کاری CI/CD برای انتشار سریع.
       - مدیریت کامل چرخه حیات مهندسی در بخش فرانت‌اند، شامل استخدام فنی، مدیریت عملکرد و فرهنگ تیمی.
+    skills: [رهبری مهندسی, مربی‌گری (Mentorship), Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
   - title: مشاور فنی / راهبر فنی
     company: Raymandan Taly Parseh
     period: ژوئن ۲۰۲۰ - مارس ۲۰۲۲
@@ -46,6 +47,7 @@ experience:
       - معماری و مدیریت زیرساخت‌های امن لینوکسی (Ubuntu, Nginx, MariaDB) برای سرویس‌های وب و ایمیل.
       - طراحی راهکارهای پخش زنده ویدیو (RTSP/FFmpeg) برای مانیتورینگ دوربین‌های داخلی تحت وب.
       - ایفای نقش مشاور فنی مدیریت، نظارت بر پاسخگویی به حوادث و بازیابی سرورها در زمان حملات شبکه و قطعی‌های ISP.
+    skills: [مشاوره فنی, مدیریت زیرساخت, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
   - title: Lead Frontend Developer
     company: Poolito
     period: نوامبر ۲۰۱۸ - اوت ۲۰۱۹
@@ -55,38 +57,24 @@ experience:
       - رهبری تیم مهندسی فرانت‌ند در توسعه داشبوردهای مدیریتی و مشتری با کارایی بالا برای خدمات مالی.
       - معماری و پیاده‌سازی لایه‌های پیچیده ارتباط داده با استفاده از Angular و gRPC جهت به‌روزرسانی‌های بلادرنگ و کارآمد.
       - هدایت توسعه لندینگ‌پیج‌های واکنش‌گرا و تعاملی با استفاده از فریم‌ورک‌های مدرن CSS و JavaScript.
+    skills: [رهبری تیم, Angular, gRPC, TypeScript, CSS, RxJS]
   - title: Lead Frontend Developer (ارتقا یافته از Junior)
     company: ModernPal
     period: اکتبر ۲۰۱۵ - نوامبر ۲۰۱۸
     responsibilities:
       - پیشرفت سریع از سطح Junior به Lead Frontend Developer و نظارت بر جهت‌گیری فنی پلتفرم‌های اصلی سلامت و مالی.
       - مدیریت مهاجرت در مقیاس بزرگ از AngularJS به Angular 2+، مدرن‌سازی معماری فرانت‌ند و بهبود کارایی.
-      - توسعه ویژگی‌های فول‌استک برای یک پلتفرم تبادل ارز با استفاده از Angular و Laravel.
-      - تسهیل انتقال بک‌ند از PHP Laravel به Java Spring Boot و کسب تجربه بین‌رشته‌ای در Java و Gradle.
       - همکاری مستقیم با CTO جهت همسوسازی استراتژی‌های فرانت‌ند با اهداف تجاری و نقشه‌های راه فنی.
+    skills: [هدایت فنی, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
   - title: مدیر سیستم و توسعه‌دهنده وب
     company: Haseb System Consultancy Co
     period: سپتامبر ۲۰۱۴ - نوامبر ۲۰۱۵
     description: >
       حاسب سیستم یک شرکت مشاوره مدیریت است.
     responsibilities:
-      - بازسازی کامل زیرساخت IT شرکت، رفع مشکلات بحرانی Domain Controller و DNS، و ارتقای سخت‌افزار شبکه برای پشتیبانی از بیش از ۳۰ ایستگاه کاری.
-      - مدیریت محیط‌های Windows Server و TFS (Team Foundation Server)، با تضمین در دسترس بودن و امنیت بالا.
-      - توسعه پورتال داخلی جامع با PHP/MySQL برای ردیابی تایم‌شیت پرسنل، مدیریت تنخواه و امور حقوق و دستمزد.
-      - طراحی و پیاده‌سازی یک پلتفرم سلامت چندمنظوره شامل دایرکتوری پزشکان، تالار گفتگو و سیستم بررسی علائم بیماری.
-  - title: Assistant
-    company: Rayzan International Conference Center
-    period: ژانویه ۲۰۱۴ - ژانویه ۲۰۱۵
-  - title: Reseller
-    company: Industrial Utilities (Machining)
-    period: ژوئن ۲۰۱۱ - آوریل ۲۰۱۳
-  - title: IT Support
-    company: IRIB
-    period: سپتامبر ۲۰۰۷ - ژوئن ۲۰۰۸
-    description: >
-      سازمان صدا و سیمای جمهوری اسلامی ایران (IRIB).
-    responsibilities:
-      - توسعه ابزارهای داخلی تحت وب و ارائه پشتیبانی IT برای محیط‌های مبتنی بر ویندوز.
+      - بازسازی کامل زیرساخت IT شرکت و مدیریت محیط‌های Windows Server و TFS برای بیش از ۳۰ ایستگاه کاری.
+      - توسعه پورتال‌های داخلی PHP/MySQL برای امور مالی و طراحی یک پلتفرم سلامت چندمنظوره.
+    skills: [مدیریت سیستم, زیرساخت IT, PHP, MySQL, Windows Server, TFS, DNS, Networking]
 certifications:
   - title: مدرک زبان آلمانی (B1)
     provider: Goethe-Institut

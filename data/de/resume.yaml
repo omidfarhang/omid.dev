@@ -33,9 +33,10 @@ experience:
       - Leitung der technischen Evolution des Frontend-Ökosystems von fragmentierten Repositories und Git-Submodules zu einem einheitlichen Nx-Monorepo unter Beibehaltung der vollständigen Git-Historie.
       - Entwicklung eines proprietären Angular-basierten Frontend-Frameworks und Design-Systems, was die Projektlaufzeit um 40 % reduzierte.
       - Transformation der Team-Workflows durch Einführung von Agile-Methoden und Aufgabenmanagementsystemen (Jira), um Kommunikationsengpässe zu beseitigen.
-      - Management der Migration der Testinfrastruktur von Jest zu Vitest und Implementierung von Playwright für robuste E2E-Tests.
+      - Management der Migration der Testinfrastruktur von Jest zu Vitest und Implementierung von Playwright for robuste E2E-Tests.
       - Zusammenarbeit mit DevOps zur Optimierung von Docker-basierten Deployment-Pipelines und CI/CD-Workflows für hochfrequente Releases.
       - Management des gesamten Engineering-Lebenszyklus für die Frontend-Abteilung, einschließlich technischer Rekrutierung, Leistungsmanagement und Teamkultur.
+    skills: [Engineering Leadership, Mentoring, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
   - title: Technischer Berater / Tech Lead
     company: Raymandan Taly Parseh
     period: Jun 2020 - Mär 2022
@@ -46,47 +47,34 @@ experience:
       - Architektur und Verwaltung sicherer Linux-basierter Infrastrukturen (Ubuntu, Nginx, MariaDB) für Web- und Maildienste.
       - Entwicklung von Echtzeit-Videostreaming-Lösungen (RTSP/FFmpeg) für webbasierte interne Kameraübertragungen.
       - Technischer Berater des Managements, verantwortlich für Incident Response und Server-Wiederherstellung bei Netzwerkangriffen und ISP-Ausfällen.
+    skills: [Technische Beratung, Infrastrukturmanagement, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
   - title: Lead Frontend Developer
     company: Poolito
     period: Nov 2018 - Aug 2019
     description: >
       Poolito war ein FinTech-Startup, das innovative Zahlungslösungen anbot.
     responsibilities:
-      - Leitung des Frontend-Engineering-Teams bei der Entwicklung hochperformanter Admin- und Client-Dashboards für Finanzdienstleistungen.
+      - Leitung des Frontend-Engineering-Teams bei der Entwicklung hochperformanter Admin- und Client-Dashboards for Finanzdienstleistungen.
       - Architektur und Implementierung komplexer Datenkommunikationsschichten unter Verwendung von Angular und gRPC für effiziente Echtzeit-Updates.
       - Federführung bei der Entwicklung responsiver und interaktiver Landing Pages unter Verwendung moderner CSS- und JavaScript-Bibliotheken.
+    skills: [Teamleitung, Angular, gRPC, TypeScript, CSS, RxJS]
   - title: Lead Frontend Developer (Befördert von Junior)
     company: ModernPal
     period: Okt 2015 - Nov 2018
     responsibilities:
       - Schneller Aufstieg vom Junior zum Lead Frontend Developer und Übernahme der technischen Leitung für zentrale Gesundheits- und Finanzplattformen.
-      - Orchestrierung einer groß angelegten Migration von AngularJS zu Angular 2+, Modernisierung der Frontend-Architektur und Performance-Optimierung.
-      - Entwicklung von Full-Stack-Features für eine Geldwechselplattform unter Verwendung von Angular und Laravel.
-      - Unterstützung des Backend-Übergangs von PHP Laravel zu Java Spring Boot und Gewinnung funktionsübergreifender Erfahrung mit Java und Gradle.
+      - Orchestrierung einer groß angelegten Migration von AngularJS zu Angular 2+, Modernisierung der Architektur und Performance-Optimierung.
       - Direkte Zusammenarbeit mit dem CTO zur Abstimmung der Frontend-Strategien mit den Geschäftszielen und technischen Roadmaps.
+    skills: [Technische Leitung, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
   - title: Systemadministrator & Webentwickler
     company: Haseb System Consultancy Co
     period: Sep 2014 - Nov 2015
     description: >
       Haseb System ist ein Unternehmensberatungsunternehmen.
     responsibilities:
-      - Überholung der IT-Infrastruktur des Unternehmens, Behebung kritischer Domain-Controller- und DNS-Probleme sowie Upgrade der Netzwerkhardware für über 30 Arbeitsstationen.
-      - Administration von Windows-Server-Umgebungen und TFS (Team Foundation Server) unter Gewährleistung von Hochverfügbarkeit und Sicherheit.
-      - Entwicklung eines umfassenden internen PHP/MySQL-Portals für die Zeiterfassung des Personals, die Verwaltung der Portokasse und die Lohnabrechnung.
-      - Entwicklung einer multifunktionalen Gesundheitsplattform mit Ärzteverzeichnis, Community-Forum und Symptom-Checker.
-  - title: Assistent
-    company: Rayzan International Conference Center
-    period: Jan 2014 - Jan 2015
-  - title: Wiederverkäufer
-    company: Industrial Utilities (Machining)
-    period: Jun 2011 - Apr 2013
-  - title: IT-Support
-    company: IRIB
-    period: Sep 2007 - Jun 2008
-    description: >
-      Die Rundfunkanstalt der Islamischen Republik Iran (IRIB).
-    responsibilities:
-      - Entwicklung webbasierter interner Tools und IT-Support für Windows-basierte Umgebungen.
+      - Überholung der IT-Infrastruktur des Unternehmens und Administration von Windows-Server/TFS-Umgebungen für über 30 Arbeitsstationen.
+      - Entwicklung interner PHP/MySQL-Portale für die Lohnabrechnung und einer multifunktionalen Gesundheitsplattform.
+    skills: [Systemadministration, IT-Infrastruktur, PHP, MySQL, Windows Server, TFS, DNS, Networking]
 certifications:
   - title: Deutsch Zertifikat (B1)
     provider: Goethe-Institut

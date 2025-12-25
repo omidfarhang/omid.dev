@@ -56,82 +56,99 @@
   <div class="resume-container">
 
     <div class="resume-header">
-      <div class="resume-header-info">
-        <h1>{{ $resume.name }}</h1>
-        <h2>{{ $resume.title }}</h2>
+      <div class="resume-header-main">
+        <div class="resume-header-info">
+          <h1>{{ $resume.name }}</h1>
+          <h2>{{ $resume.title }}</h2>
+        </div>
+        <div class="resume-actions d-print-none">
+          <a href="{{ "resume/print" | relLangURL }}" class="btn-print" target="_blank">
+            <i class="fa-solid fa-file-pdf"></i> {{ T "print_pdf" }}
+          </a>
+        </div>
       </div>
-      <div class="resume-contact">
+      
+      <div class="resume-header-contact">
         <ul>
-          <li><i class="fa-solid fa-square-phone"></i><a target="_blank" href="tel:{{ $resume.contact.phone }}">{{ $resume.contact.phone }}</a></li>
-          <li><i class="fa-solid fa-envelope"></i> <a target="_blank" href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></li>
-          <li class="d-print-none">
-            <i class="fa-solid fa-file-pdf"></i> <a href="{{ "resume/print" | relLangURL }}" target="_blank">{{ T "print_pdf" }}</a></li>
-        </ul>
-      </div>
-      <div class="resume-contact">
-        <ul>
-            <li><i class="fa-solid fa-link"></i> <a target="_blank" href="{{ $resume.contact.website }}">{{ path.Base $resume.contact.website }}</a></li>
-            <li><i class="fa-brands fa-linkedin"></i> <a target="_blank" href="{{ $resume.contact.linkedin }}">@{{ path.Base $resume.contact.linkedin }}</a></li>
-            <li><i class="fa-brands fa-github"></i> <a target="_blank" href="{{ $resume.contact.github }}">@{{ path.Base $resume.contact.github }}</a></li>
-            <li><i class="fa-brands fa-xing"></i> <a target="_blank" href="{{ $resume.contact.xing }}">@{{ path.Base $resume.contact.xing }}</a></li>
+          <li><i class="fa-solid fa-phone"></i> <a href="tel:{{ $resume.contact.phone }}">{{ $resume.contact.phone }}</a></li>
+          <li><i class="fa-solid fa-envelope"></i> <a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></li>
+          <li><i class="fa-solid fa-globe"></i> <a href="{{ $resume.contact.website }}" target="_blank">{{ path.Base $resume.contact.website }}</a></li>
+          <li><i class="fa-brands fa-linkedin"></i> <a href="{{ $resume.contact.linkedin }}" target="_blank">LinkedIn</a></li>
+          <li><i class="fa-brands fa-github"></i> <a href="{{ $resume.contact.github }}" target="_blank">GitHub</a></li>
+          <li><i class="fa-brands fa-xing"></i> <a href="{{ $resume.contact.xing }}" target="_blank">Xing</a></li>
         </ul>
       </div>
     </div>
 
     <div class="resume-section summary">
       <div class="resume-section-header">
-        <h2>{{ T "summary" }}</h2>
+        <h2><i class="fa-solid fa-user"></i> {{ T "summary" }}</h2>
       </div>
       <div class="resume-section-content">
         <p>{{ $resume.summary }}</p>
       </div>
     </div>
 
-    <div class="resume-section skills">
-      <div class="resume-section-header">
-        <h2>{{ T "skills" }}</h2>
-      </div>
-      <div class="resume-section-content">
-        <ul class="resume-skills-list">
-          {{ range $resume.skills }}
-          <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-
-    <div class="resume-section experience">
-      <div class="resume-section-header">
-        <h2>{{ T "experience" }}</h2>
-      </div>
-      <div class="resume-section-content">
-        {{ range $resume.experience }}
-        <div class="resume-experience-item">
-          <strong>{{ .title }}</strong>
-          <div class="company">{{ .company }} <span class="period">({{ .period }})</span></div>
-          <p>{{ .description }}</p>
-          <ul>
-            {{ range .responsibilities }}
-            <li>{{ . }}</li>
+    <div class="resume-layout">
+      <div class="resume-main">
+        <div class="resume-section experience">
+          <div class="resume-section-header">
+            <h2><i class="fa-solid fa-briefcase"></i> {{ T "experience" }}</h2>
+          </div>
+          <div class="resume-section-content">
+            {{ range $resume.experience }}
+            <div class="resume-experience-item">
+              <div class="experience-header">
+                <strong>{{ .title }}</strong>
+                <span class="period">{{ .period }}</span>
+              </div>
+              <div class="company">{{ .company }}</div>
+              {{ if .description }}
+              <p class="experience-description">{{ .description }}</p>
+              {{ end }}
+              <ul class="responsibilities">
+                {{ range .responsibilities }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+              {{ if .skills }}
+              <div class="experience-technologies">
+                {{ range .skills }}
+                <span class="tech-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+              {{ end }}
+            </div>
             {{ end }}
-          </ul>
+          </div>
         </div>
-        {{ end }}
       </div>
-    </div>
 
-    <div class="resume-section courses">
-      <div class="resume-section-header">
-        <h2>{{ T "certifications" }}</h2>
-      </div>
-      <div class="resume-section-content">
-        {{ range $resume.certifications }}
-        <div class="resume-course-item">
-          <strong>{{ .title }} - {{ .provider }}</strong>
-          <div class="institution">{{ .institution }} <span class="year">({{ .year }})</span></div>
+      <aside class="resume-sidebar">
+        <div class="sidebar-section skills">
+          <h3>{{ T "skills" }}</h3>
+          {{ range $resume.skills }}
+          <div class="sidebar-skill-group">
+            <h4>{{ .category }}</h4>
+            <div class="sidebar-skill-tags">
+              {{ range .items }}
+              <span class="sidebar-skill-tag">{{ . }}</span>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
         </div>
-        {{ end }}
-      </div>
+
+        <div class="sidebar-section certifications">
+          <h3>{{ T "certifications" }}</h3>
+          {{ range $resume.certifications }}
+          <div class="sidebar-cert-item">
+            <strong>{{ .title }}</strong>
+            <span>{{ .provider }} ({{ .year }})</span>
+          </div>
+          {{ end }}
+        </div>
+      </aside>
     </div>
 
   </div>

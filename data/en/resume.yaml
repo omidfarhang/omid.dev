@@ -36,6 +36,7 @@ experience:
       - Orchestrated the migration of testing infrastructure from Jest to Vitest and implemented Playwright for robust E2E testing.
       - Collaborated with DevOps to optimize Docker-based deployment pipelines and CI/CD workflows for high-frequency releases.
       - Managed the full engineering lifecycle for the frontend department, including technical recruitment, performance management, and team culture.
+    skills: [Engineering Leadership, Mentorship, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
   - title: Technical Consultant / Tech Lead
     company: Raymandan Taly Parseh
     period: Jun 2020 - Mar 2022
@@ -46,6 +47,7 @@ experience:
       - Architected and managed secure Linux-based infrastructure (Ubuntu, Nginx, MariaDB) for web and mail services.
       - Engineered real-time video streaming solutions (RTSP/FFmpeg) for web-based internal camera broadcasting.
       - Acted as a technical advisor to management, overseeing incident response and server recovery during network attacks and ISP downtimes.
+    skills: [Technical Consulting, Infrastructure Management, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
   - title: Lead Frontend Developer
     company: Poolito
     period: Nov 2018 - Aug 2019
@@ -55,15 +57,17 @@ experience:
       - Led the frontend engineering team in developing high-performance admin and client dashboards for financial services.
       - Architected and implemented complex data communication layers using Angular and gRPC for efficient real-time updates.
       - Spearheaded the development of responsive and interactive landing pages using modern CSS and JavaScript.
+    skills: [Team Leadership, Angular, gRPC, TypeScript, CSS, RxJS]
   - title: Lead Frontend Developer (Promoted from Junior)
     company: ModernPal
     period: Oct 2015 - Nov 2018
     responsibilities:
       - Rapidly progressed from Junior to Lead Frontend Developer, overseeing the technical direction of core health and financial platforms.
-      - Orchestrated a large-scale migration from AngularJS to Angular 2+, modernizing the frontend architecture and improving performance.
+      - Orchestrated a large-scale migration from AngularJS to Angular 2+, modernizing the architecture and improving performance.
       - Developed full-stack features for a money exchange platform using Angular and Laravel.
       - Facilitated the backend transition from PHP Laravel to Java Spring Boot, gaining cross-functional experience with Java and Gradle.
       - Collaborated directly with the CTO to align frontend strategies with business goals and technical roadmaps.
+    skills: [Technical Direction, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
   - title: System Administrator & Web Developer
     company: Haseb System Consultancy Co
     period: Sep 2014 - Nov 2015
@@ -74,6 +78,7 @@ experience:
       - Administered Windows Server environments and TFS (Team Foundation Server), ensuring high availability and security.
       - Developed a comprehensive internal PHP/MySQL portal for personnel timesheet tracking, petty cash management, and payroll administration.
       - Engineered a multi-functional health platform featuring a medical directory, community forum, and symptom checker.
+    skills: [System Administration, IT Infrastructure, PHP, MySQL, Windows Server, TFS, DNS, Networking]
   - title: Assistant
     company: Rayzan International Conference Center
     period: Jan 2014 - Jan 2015
