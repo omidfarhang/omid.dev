@@ -108,9 +108,9 @@
 .recent-posts-404 {
     max-width: 600px;
     width: 100%;
-    text-align: left;
     border-top: 1px solid var(--border);
     padding-top: 2rem;
+    text-align: start;
 }
 
 .recent-posts-404 h3 {
@@ -125,16 +125,30 @@
 }
 
 .recent-posts-404 li {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 0.8rem;
+    border-radius: var(--radius);
+    transition: all 0.2s ease;
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.recent-posts-404 li:hover {
+    background: var(--entry);
+    transform: translateX(8px);
+    box-shadow: var(--shadow-sm);
+}
+
+[dir="rtl"] .recent-posts-404 li:hover {
+    transform: translateX(-8px);
 }
 
 .recent-posts-404 li a {
     font-weight: 500;
     text-decoration: none;
     color: var(--content);
+    flex: 1;
 }
 
 .recent-posts-404 li a:hover {
@@ -142,14 +156,25 @@
 }
 
 .recent-posts-404 .date {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: var(--secondary);
     opacity: 0.8;
+    white-space: nowrap;
+    flex-shrink: 0;
+    min-width: 100px;
 }
 
 @media (max-width: 600px) {
     .not-found-title {
         font-size: 5rem;
+    }
+    .not-found-text {
+        font-size: 1.1rem;
+        white-space: normal;
+        border-right: none;
+        animation: none;
+        letter-spacing: normal;
+        width: auto !important;
     }
     .not-found-actions {
         flex-direction: column;
@@ -157,5 +182,10 @@
     }
     .recent-posts-404 li {
         flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+    .recent-posts-404 .date {
+        min-width: auto;
     }
 }
