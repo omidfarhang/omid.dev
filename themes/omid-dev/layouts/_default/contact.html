@@ -67,6 +67,9 @@
     <section class="contact-methods-section">
       <h2 class="section-title">{{ i18n "send_message" }}</h2>
       <form id="contact-form" class="contact-form">
+        <div class="form-group" style="display: none;">
+          <input name="honeypot" tabindex="-1" autocomplete="off" />
+        </div>
         <div class="form-group">
           <input name="name" required placeholder="{{ i18n "name" }}" class="form-input" />
         </div>
@@ -76,6 +79,11 @@
         <div class="form-group">
           <textarea name="message" required placeholder="{{ i18n "message" }}" class="form-textarea"></textarea>
         </div>
+        {{- if site.Params.turnstile.siteKey }}
+        <div class="form-group">
+          <div class="cf-turnstile" data-sitekey="{{ site.Params.turnstile.siteKey }}" data-theme="auto"></div>
+        </div>
+        {{- end }}
         <button type="submit" class="form-button">
           <span class="button-text">{{ i18n "send" }}</span>
           <i class="fa-solid fa-paper-plane"></i>
@@ -114,6 +122,10 @@
       </div>
     </section>
 
+    {{- if site.Params.turnstile.siteKey }}
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
+    {{- end }}
+
     <script>
       function copyToClipboard(text, btn) {
         navigator.clipboard.writeText(text).then(() => {
@@ -144,6 +156,8 @@
           name: form.name.value,
           email: form.email.value,
           message: form.message.value,
+          honeypot: form.honeypot.value,
+          'cf-turnstile-response': form.querySelector('[name="cf-turnstile-response"]')?.value
         };
 
         try {
@@ -157,8 +171,12 @@
             status.textContent = '{{ i18n "message_sent" }}';
             status.className = 'form-status success';
             form.reset();
+            if (typeof turnstile !== 'undefined') {
+              turnstile.reset();
+            }
           } else {
-            status.textContent = '{{ i18n "message_failed" }}';
+            const errorText = await res.text();
+            status.textContent = errorText || '{{ i18n "message_failed" }}';
             status.className = 'form-status error';
           }
         } catch (err) {

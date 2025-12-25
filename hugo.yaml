@@ -247,6 +247,9 @@ params:
     apple_touch_icon: /logo/apple-touch-icon.png
     safari_pinned_tab: /logo/safari-pinned-tab.svg
 
+  turnstile:
+    siteKey: '0x4AAAAAACJF_05O9RHYiQjs'
+
   # Social Icons
   socialIcons:
   - name: linkedin

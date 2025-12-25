@@ -2,12 +2,55 @@ export const onRequestPost: PagesFunction = async (context) => {
   try {
     const data = await context.request.json();
 
-    const { name, email, message } = data;
+    const { name, email, message, honeypot, 'cf-turnstile-response': turnstileToken } = data;
 
+    // 1. Honeypot check
+    if (honeypot) {
+      return new Response("Spam detected", { status: 400 });
+    }
+
+    // 2. Basic validation
     if (!name || !email || !message) {
       return new Response("Missing fields", { status: 400 });
     }
 
+    const ip = context.request.headers.get('cf-connecting-ip');
+
+    // 3. Rate Limiting (using KV if available)
+    const kv = (context.env as any).RATE_LIMIT_KV;
+    if (ip && kv) {
+      const key = `rate-limit:${ip}`;
+      const count = await kv.get(key);
+      if (count && parseInt(count) >= 5) { // Limit to 5 messages per hour
+        return new Response("Too many requests. Please try again later.", { status: 429 });
+      }
+      await kv.put(key, (parseInt(count || '0') + 1).toString(), { expirationTtl: 3600 });
+    }
+
+    // 4. Turnstile Verification
+    const turnstileSecret = (context.env as any).TURNSTILE_SECRET_KEY;
+    if (turnstileSecret) {
+      if (!turnstileToken) {
+        return new Response("CAPTCHA required", { status: 400 });
+      }
+
+      const formData = new FormData();
+      formData.append('secret', turnstileSecret);
+      formData.append('response', turnstileToken);
+      formData.append('remoteip', ip || '');
+
+      const turnstileRes = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+        method: 'POST',
+        body: formData,
+      });
+
+      const turnstileResult: any = await turnstileRes.json();
+      if (!turnstileResult.success) {
+        return new Response("CAPTCHA verification failed", { status: 400 });
+      }
+    }
+
+    // 5. Send Email via Resend
     const res = await fetch("https://api.resend.com/emails", {
       method: "POST",
       headers: {
