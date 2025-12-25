@@ -143,8 +143,17 @@
 - id: download_vcard
   translation: "vCard herunterladen (.vcf)"
 
-- id: print_save_pdf
-  translation: "Drucken / Als PDF speichern"
+- id: search
+  translation: "Suche"
+
+- id: page_not_found
+  translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
+
+- id: 404_recent_posts_title
+  translation: "Vielleicht haben Sie nach einem dieser Beiträge gesucht?"
+
+- id: surprise_me
+  translation: "Überrasch mich"
 - id: related_posts
   translation: "Ähnliche Beiträge"
 

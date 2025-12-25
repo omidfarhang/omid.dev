@@ -98,6 +98,9 @@
 - id: 404_recent_posts_title
   translation: "Maybe you were looking for one of these?"
 
+- id: surprise_me
+  translation: "Surprise Me"
+
 - id: 404_hacked
   translation: "HACKED"
 

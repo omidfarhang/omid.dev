@@ -1,11 +1,33 @@
 {{- define "main" }}
-<div class="not-found-container">
-    <h1 class="not-found-title" data-text="404" id="glitch-404">404</h1>
-    <p class="not-found-text">{{ i18n "page_not_found" | default "Oops! The page you're looking for doesn't exist." }}</p>
+<div class="not-found-container" id="not-found-scene">
+    <canvas id="constellation-canvas"></canvas>
     
-    <div class="not-found-actions">
-        <a href="{{ "" | absLangURL }}" class="button">{{ i18n "home" | default "Back to Home" }}</a>
-        <a href="{{ "search" | absLangURL }}" class="button">{{ i18n "search" | default "Search Posts" }}</a>
+    <div class="not-found-content">
+        <div id="parallax-container">
+            <h1 class="not-found-title">404</h1>
+            <div class="not-found-shadow"></div>
+        </div>
+        
+        <p class="not-found-text">{{ i18n "page_not_found" | default "Oops! The page you're looking for doesn't exist." }}</p>
+        
+        <div class="not-found-quote" id="random-quote"></div>
+
+        <div class="search-container-404">
+            <form action="{{ "search" | absLangURL }}" method="get">
+                <input type="text" name="q" placeholder="{{ i18n "search" | default "Search..." }}" aria-label="search">
+                <button type="submit">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                </button>
+            </form>
+        </div>
+
+        <div class="not-found-actions">
+            <a href="{{ "" | absLangURL }}" class="button">{{ i18n "home" | default "Back to Home" }}</a>
+            <button id="random-post-btn" class="button accent-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 8px; vertical-align: middle;"><polyline points="16 3 21 3 21 8"></polyline><line x1="4" y1="20" x2="21" y2="3"></line><polyline points="21 16 21 21 16 21"></polyline><line x1="15" y1="15" x2="21" y2="21"></line><line x1="4" y1="4" x2="9" y2="9"></line></svg>
+                {{ i18n "surprise_me" | default "Surprise Me" }}
+            </button>
+        </div>
     </div>
 
     <div class="recent-posts-404">
@@ -21,34 +43,154 @@
     </div>
 </div>
 
-<script>
-    const glitchTitle = document.getElementById('glitch-404');
-    const hackedText = {{ i18n "404_hacked" | default "HACKED" | jsonify }};
-    const emojis = ['🔍', '🕵️', '👻', '🛸', '🚧', '🌌', '🕹️', '💾'];
-    let clickCount = 0;
+{{ $allPosts := slice }}
+{{ range (where site.RegularPages "Section" "posts") }}
+    {{ $allPosts = $allPosts | append .Permalink }}
+{{ end }}
 
-    glitchTitle.addEventListener('click', () => {
-        clickCount++;
-        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
-        glitchTitle.innerText = randomEmoji;
-        glitchTitle.setAttribute('data-text', randomEmoji);
-        
-        if (clickCount === 5) {
-            glitchTitle.innerText = hackedText;
-            glitchTitle.setAttribute('data-text', hackedText);
-            glitchTitle.style.color = "#00ff00";
-            setTimeout(() => {
-                glitchTitle.innerText = "404";
-                glitchTitle.setAttribute('data-text', "404");
-                glitchTitle.style.color = "var(--primary)";
-                clickCount = 0;
-            }, 2000);
-        } else {
-            setTimeout(() => {
-                glitchTitle.innerText = "404";
-                glitchTitle.setAttribute('data-text', "404");
-            }, 1000);
+<script>
+    const scene = document.getElementById('not-found-scene');
+    const parallaxContainer = document.getElementById('parallax-container');
+    const canvas = document.getElementById('constellation-canvas');
+    const ctx = canvas.getContext('2d');
+    
+    const allPosts = {{ $allPosts | jsonify | safeJS }};
+    document.getElementById('random-post-btn').addEventListener('click', () => {
+        const randomUrl = allPosts[Math.floor(Math.random() * allPosts.length)];
+        window.location.href = randomUrl;
+    });
+
+    // Random Quotes
+    const quotesEn = [
+        "Not all those who wander are lost.",
+        "The page you are looking for has drifted into the digital void.",
+        "Even the best explorers get lost sometimes.",
+        "This path leads to nowhere, but there are plenty of others to explore.",
+        "404: A beautiful place to be lost, but a better place to start over."
+    ];
+    const quotesFa = [
+        "هر که سرگردان است، لزوماً گم‌گشته نیست.",
+        "صفحه‌ای که به دنبال آن بودید، در خلأ دیجیتال محو شده است.",
+        "حتی بهترین کاوشگران هم گاهی مسیر را گم می‌کنند.",
+        "این راه به جایی نمی‌رسد، اما راه‌های زیادی برای کشف کردن وجود دارد.",
+        "۴۰۴: مکانی زیبا برای گم شدن، اما مکانی بهتر برای شروعی دوباره."
+    ];
+    const quotesDe = [
+        "Nicht alle, die wandern, sind verloren.",
+        "Die Seite, die Sie suchen, ist im digitalen Nichts verschwunden.",
+        "Selbst die besten Entdecker verirren sich manchmal.",
+        "Dieser Weg führt ins Nirgendwo, aber es gibt viele andere zu entdecken.",
+        "404: Ein schöner Ort, um verloren zu sein, aber ein besserer Ort, um neu anzufangen."
+    ];
+    const lang = document.documentElement.lang;
+    let selectedQuotes = quotesEn;
+    if (lang === 'fa') selectedQuotes = quotesFa;
+    else if (lang === 'de') selectedQuotes = quotesDe;
+    
+    document.getElementById('random-quote').innerText = selectedQuotes[Math.floor(Math.random() * selectedQuotes.length)];
+
+    const title = document.querySelector('.not-found-title');
+    title.addEventListener('click', () => {
+        const colors = [
+            ['#0f172a', '#0d9488'],
+            ['#1e293b', '#3b82f6'],
+            ['#312e81', '#8b5cf6'],
+            ['#4c1d95', '#ec4899'],
+            ['#7c2d12', '#f59e0b']
+        ];
+        const randomColor = colors[Math.floor(Math.random() * colors.length)];
+        title.style.background = `linear-gradient(135deg, ${randomColor[0]} 0%, ${randomColor[1]} 100%)`;
+        title.style.webkitBackgroundClip = 'text';
+    });
+
+    // Canvas Constellation Effect
+    let particles = [];
+    const particleCount = 60;
+    const maxDistance = 150;
+    let mouse = { x: null, y: null };
+
+    function initCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        particles = [];
+        for (let i = 0; i < particleCount; i++) {
+            particles.push({
+                x: Math.random() * canvas.width,
+                y: Math.random() * canvas.height,
+                vx: (Math.random() - 0.5) * 0.5,
+                vy: (Math.random() - 0.5) * 0.5,
+                size: Math.random() * 2 + 1
+            });
         }
+    }
+
+    function animate() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        const color = getComputedStyle(document.documentElement).getPropertyValue('--secondary').trim() || '#64748b';
+        
+        particles.forEach((p, i) => {
+            // Mouse attraction
+            if (mouse.x !== null && mouse.y !== null) {
+                const dx = mouse.x - p.x;
+                const dy = mouse.y - p.y;
+                const dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < 200) {
+                    p.x += dx * 0.01;
+                    p.y += dy * 0.01;
+                }
+            }
+
+            p.x += p.vx;
+            p.y += p.vy;
+
+            if (p.x < 0 || p.x > canvas.width) p.vx *= -1;
+            if (p.y < 0 || p.y > canvas.height) p.vy *= -1;
+
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+            ctx.fillStyle = color;
+            ctx.globalAlpha = 0.3;
+            ctx.fill();
+
+            for (let j = i + 1; j < particles.length; j++) {
+                const p2 = particles[j];
+                const dx = p.x - p2.x;
+                const dy = p.y - p2.y;
+                const dist = Math.sqrt(dx * dx + dy * dy);
+
+                if (dist < maxDistance) {
+                    ctx.beginPath();
+                    ctx.strokeStyle = color;
+                    ctx.globalAlpha = (1 - dist / maxDistance) * 0.2;
+                    ctx.lineWidth = 0.5;
+                    ctx.moveTo(p.x, p.y);
+                    ctx.lineTo(p2.x, p2.y);
+                    ctx.stroke();
+                }
+            }
+        });
+        requestAnimationFrame(animate);
+    }
+
+    window.addEventListener('resize', initCanvas);
+    initCanvas();
+    animate();
+
+    scene.addEventListener('mousemove', (e) => {
+        const x = e.clientX;
+        const y = e.clientY;
+        mouse.x = x;
+        mouse.y = y;
+        
+        const moveX = (window.innerWidth / 2 - x) / 40;
+        const moveY = (window.innerHeight / 2 - y) / 40;
+        parallaxContainer.style.transform = `translate(${moveX}px, ${moveY}px)`;
+    });
+
+    scene.addEventListener('mouseleave', () => {
+        mouse.x = null;
+        mouse.y = null;
+        parallaxContainer.style.transform = `translate(0, 0)`;
     });
 </script>
 {{- end }}{{/* end main */ -}}

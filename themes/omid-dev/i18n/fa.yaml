@@ -98,6 +98,9 @@
 - id: 404_recent_posts_title
   translation: "شاید به دنبال یکی از این‌ها بودید؟"
 
+- id: surprise_me
+  translation: "سورپرایزم کن"
+
 - id: 404_hacked
   translation: "هک شد!"
 
