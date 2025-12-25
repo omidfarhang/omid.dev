@@ -92,6 +92,15 @@
 - id: search
   translation: "Search"
 
+- id: page_not_found
+  translation: "Oops! The page you're looking for doesn't exist."
+
+- id: 404_recent_posts_title
+  translation: "Maybe you were looking for one of these?"
+
+- id: 404_hacked
+  translation: "HACKED"
+
 - id: follow_me
   translation: "Follow Me"
 

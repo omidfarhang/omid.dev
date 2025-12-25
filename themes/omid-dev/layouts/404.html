@@ -1,3 +1,54 @@
 {{- define "main" }}
-<div class="not-found">404</div>
+<div class="not-found-container">
+    <h1 class="not-found-title" data-text="404" id="glitch-404">404</h1>
+    <p class="not-found-text">{{ i18n "page_not_found" | default "Oops! The page you're looking for doesn't exist." }}</p>
+    
+    <div class="not-found-actions">
+        <a href="{{ "" | absLangURL }}" class="button">{{ i18n "home" | default "Back to Home" }}</a>
+        <a href="{{ "search" | absLangURL }}" class="button">{{ i18n "search" | default "Search Posts" }}</a>
+    </div>
+
+    <div class="recent-posts-404">
+        <h3>{{ i18n "404_recent_posts_title" | default "Maybe you were looking for one of these?" }}</h3>
+        <ul>
+            {{ range first 5 (where site.RegularPages "Section" "posts") }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+
+<script>
+    const glitchTitle = document.getElementById('glitch-404');
+    const hackedText = {{ i18n "404_hacked" | default "HACKED" | jsonify }};
+    const emojis = ['🔍', '🕵️', '👻', '🛸', '🚧', '🌌', '🕹️', '💾'];
+    let clickCount = 0;
+
+    glitchTitle.addEventListener('click', () => {
+        clickCount++;
+        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+        glitchTitle.innerText = randomEmoji;
+        glitchTitle.setAttribute('data-text', randomEmoji);
+        
+        if (clickCount === 5) {
+            glitchTitle.innerText = hackedText;
+            glitchTitle.setAttribute('data-text', hackedText);
+            glitchTitle.style.color = "#00ff00";
+            setTimeout(() => {
+                glitchTitle.innerText = "404";
+                glitchTitle.setAttribute('data-text', "404");
+                glitchTitle.style.color = "var(--primary)";
+                clickCount = 0;
+            }, 2000);
+        } else {
+            setTimeout(() => {
+                glitchTitle.innerText = "404";
+                glitchTitle.setAttribute('data-text', "404");
+            }, 1000);
+        }
+    });
+</script>
 {{- end }}{{/* end main */ -}}

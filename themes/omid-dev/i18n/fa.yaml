@@ -92,6 +92,15 @@
 - id: search
   translation: "جستجو"
 
+- id: page_not_found
+  translation: "اوه! صفحه‌ای که به دنبال آن هستید وجود ندارد."
+
+- id: 404_recent_posts_title
+  translation: "شاید به دنبال یکی از این‌ها بودید؟"
+
+- id: 404_hacked
+  translation: "هک شد!"
+
 - id: follow_me
   translation: "من را دنبال کنید"
 
