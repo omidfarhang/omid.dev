@@ -11,59 +11,95 @@
 			<title>XML Sitemap</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 			<style type="text/css">
+				:root {
+					--primary: #0f172a;
+					--secondary: #64748b;
+					--accent: #0d9488;
+					--page-bg: #f8fafc;
+					--border: #e2e8f0;
+					--content: #334155;
+					--entry: #ffffff;
+				}
+				@media (prefers-color-scheme: dark) {
+					:root {
+						--primary: #f1f5f9;
+						--secondary: #94a3b8;
+						--accent: #14b8a6;
+						--page-bg: #020617;
+						--border: #334155;
+						--content: #cbd5e1;
+						--entry: #1e293b;
+					}
+				}
 				body {
-					font-family: Helvetica, Arial, sans-serif;
-					font-size: 13px;
-					color: #545353;
-				}
-				table {
-					border: none;
-					border-collapse: collapse;
-				}
-				#sitemap tr:nth-child(odd) td {
-					background-color: #eee !important;
-				}
-				#sitemap tbody tr:hover td {
-					background-color: #ccc;
-				}
-				#sitemap tbody tr:hover td, #sitemap tbody tr:hover td a {
-					color: #000;
+					font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+					font-size: 14px;
+					color: var(--content);
+					background-color: var(--page-bg);
+					margin: 0;
+					padding: 20px;
 				}
 				#content {
 					margin: 0 auto;
-					width: 1000px;
+					max-width: 1000px;
+				}
+				h1 {
+					color: var(--primary);
+					font-size: 24px;
+					margin-bottom: 20px;
 				}
 				.expl {
-					margin: 18px 3px;
-					line-height: 1.2em;
+					margin: 20px 0;
+					line-height: 1.6;
+					color: var(--secondary);
 				}
 				.expl a {
-					color: #da3114;
+					color: var(--accent);
 					font-weight: 600;
-				}
-				.expl a:visited {
-					color: #da3114;
-				}
-				a {
-					color: #000;
 					text-decoration: none;
 				}
-				a:visited {
-					color: #777;
+				.expl a:hover {
+					text-decoration: underline;
+				}
+				a {
+					color: var(--accent);
+					text-decoration: none;
 				}
 				a:hover {
 					text-decoration: underline;
 				}
-				td {
-					font-size:11px;
-				}
-				th {
-					text-align:left;
-					padding-right:30px;
-					font-size:11px;
+				table {
+					width: 100%;
+					border-collapse: collapse;
+					margin-top: 20px;
+					background: var(--entry);
+					border-radius: 8px;
+					overflow: hidden;
+					box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
 				}
 				thead th {
-					border-bottom: 1px solid #000;
+					text-align: left;
+					padding: 12px 15px;
+					background: var(--primary);
+					color: var(--entry);
+					font-size: 12px;
+					text-transform: uppercase;
+					letter-spacing: 0.05em;
+				}
+				td {
+					padding: 12px 15px;
+					border-bottom: 1px solid var(--border);
+					font-size: 13px;
+				}
+				td:last-child, th:last-child {
+					white-space: nowrap;
+					text-align: right;
+				}
+				#sitemap tbody tr:last-child td {
+					border-bottom: none;
+				}
+				#sitemap tbody tr:hover td {
+					background-color: var(--page-bg);
 				}
 			</style>
 		</head>
@@ -78,11 +114,11 @@
 				<p class="expl">
 					This XML Sitemap Index file contains <xsl:value-of select="count(sitemap:sitemapindex/sitemap:sitemap)"/> sitemaps.
 				</p>
-				<table id="sitemap" cellpadding="3">
+				<table id="sitemap">
 					<thead>
 					<tr>
-						<th width="75%">Sitemap</th>
-						<th width="25%">Last Modified</th>
+						<th>Sitemap</th>
+						<th>Last Modified</th>
 					</tr>
 					</thead>
 					<tbody>
@@ -106,12 +142,12 @@
 				<p class="expl">
 					This XML Sitemap contains <xsl:value-of select="count(sitemap:urlset/sitemap:url)"/> URLs.
 				</p>
-				<table id="sitemap" cellpadding="3">
+				<table id="sitemap">
 					<thead>
 					<tr>
-						<th width="80%">URL</th>
-						<th width="5%">Images</th>
-						<th title="Last Modification Time" width="15%">Last Mod.</th>
+						<th>URL</th>
+						<th>Images</th>
+						<th title="Last Modification Time">Last Mod.</th>
 					</tr>
 					</thead>
 					<tbody>
