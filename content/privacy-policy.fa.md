@@ -1,78 +1,78 @@
 ---
-title: Privacy Policy
+title: سیاست حریم خصوصی
 layout: page
 author_profile: true
 ---
-**What information do we collect?**
+**چه اطلاعاتی را جمع‌آوری می‌کنیم؟**
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
+ما زمانی که شما در سایت ما ثبت‌نام می‌کنید، در خبرنامه ما مشترک می‌شوید، به یک نظرسنجی پاسخ می‌دهید یا فرمی را پر می‌کنید، اطلاعاتی را از شما جمع‌آوری می‌کنیم.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+هنگام سفارش یا ثبت‌نام در سایت ما، در صورت لزوم، ممکن است از شما خواسته شود که نام، آدرس ایمیل، آدرس پستی یا شماره تلفن خود را وارد کنید. با این حال، می‌توانید به صورت ناشناس از سایت ما بازدید کنید.
 
-**What do we use your information for?**
+**از اطلاعات شما برای چه استفاده می‌کنیم؟**
 
-Any of the information we collect from you may be used in one of the following ways:
+هر یک از اطلاعاتی که از شما جمع‌آوری می‌کنیم ممکن است به یکی از روش‌های زیر استفاده شود:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+; برای شخصی‌سازی تجربه شما  
+(اطلاعات شما به ما کمک می‌کند تا بهتر به نیازهای فردی شما پاسخ دهیم)
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+; برای بهبود وب‌سایت ما  
+(ما به طور مداوم تلاش می‌کنیم تا پیشنهادات وب‌سایت خود را بر اساس اطلاعات و بازخوردهایی که از شما دریافت می‌کنیم، بهبود بخشیم)
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+; برای بهبود خدمات مشتری  
+(اطلاعات شما به ما کمک می‌کند تا به طور موثرتری به درخواست‌های خدمات مشتری و نیازهای پشتیبانی شما پاسخ دهیم)
 
-; To administer a contest, promotion, survey or other site feature
+; برای مدیریت یک مسابقه، تبلیغات، نظرسنجی یا سایر ویژگی‌های سایت
 
-; To send periodic emails
+; برای ارسال ایمیل‌های دوره‌ای
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+> آدرس ایمیلی که برای پردازش سفارش ارائه می‌دهید، ممکن است برای ارسال اطلاعات و به‌روزرسانی‌های مربوط به سفارش شما، علاوه بر دریافت اخبار گاه‌به‌گاه شرکت، به‌روزرسانی‌ها، اطلاعات مربوط به محصول یا خدمات و غیره استفاده شود.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+توجه: اگر در هر زمان مایل به لغو اشتراک از دریافت ایمیل‌های بعدی بودید، ما دستورالعمل‌های دقیق لغو اشتراک را در پایین هر ایمیل قرار می‌دهیم.
 
-**How do we protect your information?**
+**چگونه از اطلاعات شما محافظت می‌کنیم؟**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+ما انواع اقدامات امنیتی را برای حفظ ایمنی اطلاعات شخصی شما در هنگام وارد کردن، ارسال یا دسترسی به اطلاعات شخصی شما اجرا می‌کنیم.
 
-**Do we use cookies?**
+**آیا از کوکی‌ها استفاده می‌کنیم؟**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+بله (کوکی‌ها فایل‌های کوچکی هستند که یک سایت یا ارائه‌دهنده خدمات آن از طریق مرورگر وب شما (در صورت اجازه شما) به هارد دیسک کامپیوتر شما منتقل می‌کند که به سیستم‌های سایت یا ارائه‌دهنده خدمات اجازه می‌دهد مرورگر شما را شناسایی کرده و اطلاعات خاصی را ثبت و به خاطر بسپارند).
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+ما از کوکی‌ها برای درک و ذخیره ترجیحات شما برای بازدیدهای آینده و جمع‌آوری داده‌های کلی در مورد ترافیک سایت و تعامل با سایت استفاده می‌کنیم تا بتوانیم تجربیات و ابزارهای بهتری را در آینده ارائه دهیم. ما ممکن است با ارائه‌دهندگان خدمات شخص ثالث قرارداد ببندیم تا در درک بهتر بازدیدکنندگان سایت به ما کمک کنند. این ارائه‌دهندگان خدمات مجاز به استفاده از اطلاعات جمع‌آوری شده از طرف ما نیستند، مگر برای کمک به ما در انجام و بهبود کسب‌وکارمان.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+اگر ترجیح می‌دهید، می‌توانید انتخاب کنید که کامپیوترتان هر بار که کوکی ارسال می‌شود به شما هشدار دهد، یا می‌توانید تمام کوکی‌ها را از طریق تنظیمات مرورگر خود غیرفعال کنید. مانند اکثر وب‌سایت‌ها، اگر کوکی‌های خود را غیرفعال کنید، برخی از خدمات ما ممکن است به درستی عمل نکنند. با این حال، همچنان می‌توانید از طریق تلفن یا با تماس با خدمات مشتری، سفارش خود را ثبت کنید.
 
-**Do we disclose any information to outside parties?**
+**آیا اطلاعاتی را به طرف‌های خارجی فاش می‌کنیم؟**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ما اطلاعات شناسایی شخصی شما را به طرف‌های خارجی نمی‌فروشیم، مبادله نمی‌کنیم یا به روش دیگری منتقل نمی‌کنیم. این شامل اشخاص ثالث قابل اعتمادی که ما را در راه‌اندازی وب‌سایت، انجام کسب‌وکار یا خدمات‌رسانی به شما یاری می‌دهند، نمی‌شود، تا زمانی که آن طرف‌ها موافقت کنند این اطلاعات را محرمانه نگه دارند. همچنین ممکن است زمانی که معتقدیم انتشار اطلاعات برای رعایت قانون، اجرای سیاست‌های سایت ما، یا محافظت از حقوق، دارایی یا ایمنی ما یا دیگران مناسب است، اطلاعات شما را منتشر کنیم. با این حال، اطلاعات بازدیدکنندگان غیرقابل شناسایی شخصی ممکن است برای بازاریابی، تبلیغات یا سایر کاربردها در اختیار طرف‌های دیگر قرار گیرد.
 
-**Third party links**
+**پیوندهای شخص ثالث**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+گاه‌به‌گاه، به تشخیص خود، ممکن است محصولات یا خدمات شخص ثالث را در وب‌سایت خود گنجانده یا پیشنهاد دهیم. این سایت‌های شخص ثالث دارای سیاست‌های حریم خصوصی جداگانه و مستقلی هستند. بنابراین ما هیچ مسئولیت یا تعهدی در قبال محتوا و فعالیت‌های این سایت‌های لینک شده نداریم. با این حال، ما به دنبال محافظت از یکپارچگی سایت خود هستیم و از هرگونه بازخورد در مورد این سایت‌ها استقبال می‌کنیم.
 
-**California Online Privacy Protection Act Compliance**
+**رعایت قانون حفاظت از حریم خصوصی آنلاین کالیفرنیا**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+از آنجایی که ما برای حریم خصوصی شما ارزش قائل هستیم، اقدامات احتیاطی لازم را برای رعایت قانون حفاظت از حریم خصوصی آنلاین کالیفرنیا انجام داده‌ایم. بنابراین ما اطلاعات شخصی شما را بدون رضایت شما به طرف‌های خارجی توزیع نخواهیم کرد.
 
-**Childrens Online Privacy Protection Act Compliance**
+**رعایت قانون حفاظت از حریم خصوصی آنلاین کودکان**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+ما الزامات COPPA (قانون حفاظت از حریم خصوصی آنلاین کودکان) را رعایت می‌کنیم، ما هیچ اطلاعاتی را از افراد زیر ۱۳ سال جمع‌آوری نمی‌کنیم. وب‌سایت، محصولات و خدمات ما همگی خطاب به افرادی است که حداقل ۱۳ سال یا بیشتر دارند.
 
-**Your Consent**
+**رضایت شما**
 
-By using our site, you consent to our [privacy policy](/fa/privacy-policy/ "Privacy Policy").
+با استفاده از سایت ما، شما با [سیاست حریم خصوصی](/fa/privacy-policy/ "سیاست حریم خصوصی") ما موافقت می‌کنید.
 
-**Changes to our Privacy Policy**
+**تغییرات در سیاست حریم خصوصی ما**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+اگر تصمیم بگیریم سیاست حریم خصوصی خود را تغییر دهیم، آن تغییرات را در این صفحه منتشر خواهیم کرد و/یا تاریخ اصلاح سیاست حریم خصوصی را در زیر به‌روزرسانی می‌کنیم.
 
-This policy was last modified on April 18, 2013
+این سیاست آخرین بار در ۲۵ دسامبر ۲۰۲۵ اصلاح شد.
 
-**Contacting Us**
+**تماس با ما**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+اگر سوالی در مورد این سیاست حریم خصوصی وجود دارد، می‌توانید با استفاده از اطلاعات زیر با ما تماس بگیرید.
 
-> [Front Page](/)
+> [صفحه اصلی](/)
 
 hi@omid.dev  
-+1 (530) 797-6643
++98 919 503 8545

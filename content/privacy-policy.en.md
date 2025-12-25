@@ -66,7 +66,7 @@ By using our site, you consent to our [privacy policy](/privacy-policy/ "Privacy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on April 18, 2013
+This policy was last modified on December 25, 2025
 
 **Contacting Us**
 
@@ -74,5 +74,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 > [Front Page](/)
   
-hi@omid.dev  
-+1 (530) 797-6643
+hi@omid.dev
++98 919 503 8545

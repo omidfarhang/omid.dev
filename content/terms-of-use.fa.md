@@ -1,70 +1,47 @@
 ---
-title: Terms of Use
-layout: terms
+title: شرایط استفاده
+layout: page
 author_profile: true
 ---
-### 1. Terms
+### ۱. شرایط
 
-By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.
+با دسترسی به این وب‌سایت، شما موافقت می‌کنید که پایبند به این شرایط و ضوابط استفاده از وب‌سایت، تمامی قوانین و مقررات مربوطه باشید و موافقت می‌کنید که مسئول رعایت هرگونه قوانین محلی قابل اجرا هستید. اگر با هر یک از این شرایط موافق نیستید، از استفاده یا دسترسی به این سایت منع شده‌اید. مطالب موجود در این وب‌سایت توسط قوانین حق تکثیر و علامت تجاری مربوطه محافظت می‌شوند.
 
-### 2. Use License
+### ۲. مجوز استفاده
 
-<ol type="a">
-  <li>
-    Permission is granted to temporarily download one copy of the materials (information or software) on omid.dev's web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-    <ol type="i">
-      <li>
-        modify or copy the materials;
-      </li>
-      <li>
-        use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-      </li>
-      <li>
-        attempt to decompile or reverse engineer any software contained on omid.dev's web site;
-      </li>
-      <li>
-        remove any copyright or other proprietary notations from the materials; or
-      </li>
-      <li>
-        transfer the materials to another person or “mirror” the materials on any other server.
-      </li>
-    </ol>
-  </li>
-  
-  <li>
-    This license shall automatically terminate if you violate any of these restrictions and may be terminated by omid.dev at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
-  </li>
-</ol>
+الف. اجازه داده می‌شود تا موقتاً یک نسخه از مطالب (اطلاعات یا نرم‌افزار) موجود در وب‌سایت omid.dev فقط برای مشاهده شخصی و غیرتجاری دانلود شود. این اعطای مجوز است، نه انتقال مالکیت، و تحت این مجوز شما نمی‌توانید:
+    ۱. مطالب را تغییر داده یا کپی کنید؛
+    ۲. از مطالب برای هرگونه هدف تجاری یا برای هرگونه نمایش عمومی (تجاری یا غیرتجاری) استفاده کنید؛
+    ۳. سعی کنید هرگونه نرم‌افزار موجود در وب‌سایت omid.dev را مهندسی معکوس یا دکامپایل کنید؛
+    ۴. هرگونه حق تکثیر یا سایر علائم مالکیت را از مطالب حذف کنید؛ یا
+    ۵. مطالب را به شخص دیگری منتقل کنید یا مطالب را در هر سرور دیگری «آینه» (mirror) کنید.
+ب. این مجوز در صورت نقض هر یک از این محدودیت‌ها به‌طور خودکار لغو می‌شود و ممکن است توسط omid.dev در هر زمان لغو شود. پس از پایان مشاهده این مطالب یا پس از لغو این مجوز، باید هرگونه مطالب دانلود شده در اختیار خود را، چه به صورت الکترونیکی و چه به صورت چاپی، نابود کنید.
 
-### 3. Disclaimer
+### ۳. سلب مسئولیت
 
-<ol type="a">
-  <li>
-    The materials on omid.dev's web site are provided “as is”. omid.dev makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, omid.dev does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
-  </li>
-</ol>
+الف. مطالب موجود در وب‌سایت omid.dev «همان‌طور که هست» ارائه می‌شوند. omid.dev هیچ‌گونه ضمانتی، صریح یا ضمنی، ارائه نمی‌دهد و بدین‌وسیله تمام ضمانت‌های دیگر، از جمله بدون محدودیت، ضمانت‌های ضمنی یا شرایط تجاری بودن، تناسب برای یک هدف خاص، یا عدم نقض مالکیت معنوی یا سایر نقض حقوق را سلب و نفی می‌کند. علاوه بر این، omid.dev هیچ‌گونه ضمانت یا اظهارنظری در مورد دقت، نتایج احتمالی یا قابلیت اطمینان استفاده از مطالب در وب‌سایت اینترنتی خود یا موارد مربوط به چنین مطالبی یا در هر سایتی که به این سایت لینک شده است، ارائه نمی‌دهد.
 
-### 4. Limitations
+### ۴. محدودیت‌ها
 
-In no event shall omid.dev or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on omid.dev's Internet site, even if omid.dev or a omid.dev authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+در هیچ موردی omid.dev یا تامین‌کنندگان آن در قبال خساراتی (از جمله، بدون محدودیت، خسارات ناشی از دست دادن داده‌ها یا سود، یا به دلیل وقفه در کسب‌وکار) که ناشی از استفاده یا ناتوانی در استفاده از مطالب موجود در سایت اینترنتی omid.dev باشد، مسئول نخواهند بود، حتی اگر omid.dev یا نماینده مجاز omid.dev به صورت شفاهی یا کتبی از احتمال چنین خسارتی مطلع شده باشد. از آنجایی که برخی از حوزه‌های قضایی محدودیت در ضمانت‌های ضمنی یا محدودیت مسئولیت برای خسارات تبعی یا حادث شده را مجاز نمی‌دانند، این محدودیت‌ها ممکن است برای شما اعمال نشود.
 
-### 5. Revisions and Errata
+### ۵. بازنگری‌ها و اشتباهات
 
-The materials appearing on omid.dev's web site could include technical, typographical, or photographic errors. omid.dev does not warrant that any of the materials on its web site are accurate, complete, or current. omid.dev may make changes to the materials contained on its web site at any time without notice. omid.dev does not, however, make any commitment to update the materials.
+مطالب ظاهر شده در وب‌سایت omid.dev می‌تواند شامل خطاهای فنی، تایپی یا عکاسی باشد. omid.dev تضمین نمی‌کند که هر یک از مطالب وب‌سایت آن دقیق، کامل یا به‌روز باشد. omid.dev ممکن است در هر زمان و بدون اطلاع قبلی، تغییراتی در مطالب موجود در وب‌سایت خود ایجاد کند. با این حال، omid.dev هیچ تعهدی برای به‌روزرسانی مطالب ندارد.
 
-### 6. Links
+### ۶. پیوندها
 
-omid.dev has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by omid.dev of the site. Use of any such linked web site is at the user's own risk.
+omid.dev تمام سایت‌های لینک شده به وب‌سایت اینترنتی خود را بررسی نکرده است و مسئولیتی در قبال محتوای هیچ یک از این سایت‌های لینک شده ندارد. گنجاندن هر لینکی به معنای تایید آن سایت توسط omid.dev نیست. استفاده از هر یک از این وب‌سایت‌های لینک شده با مسئولیت خود کاربر است.
 
-### 7. Site Terms of Use Modifications
+### ۷. اصلاحات شرایط استفاده از سایت
 
-omid.dev may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+omid.dev ممکن است این شرایط استفاده از وب‌سایت خود را در هر زمان و بدون اطلاع قبلی بازنگری کند. با استفاده از این وب‌سایت، شما موافقت می‌کنید که پایبند به نسخه فعلی این شرایط و ضوابط استفاده باشید.
 
-### 8. Governing Law
+### ۸. قانون حاکم
 
-Any claim relating to omid.dev's web site shall be governed by the laws of the State of CA without regard to its conflict of law provisions.
+هرگونه ادعای مربوط به وب‌سایت omid.dev تحت قوانین ایالت کالیفرنیا بدون توجه به تضاد قوانین آن خواهد بود.
 
 &nbsp;
 
-Terms of Use.  
-Last updated on: 18th April 2013
+شرایط استفاده.  
+آخرین به‌روزرسانی: ۲۵ دسامبر ۲۰۲۵

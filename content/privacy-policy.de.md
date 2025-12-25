@@ -66,7 +66,7 @@ Durch die Nutzung unserer Website stimmen Sie unserer [Datenschutzrichtlinie](/p
 
 Wenn wir uns entscheiden, unsere Datenschutzrichtlinie zu ändern, werden wir diese Änderungen auf dieser Seite veröffentlichen und/oder das Änderungsdatum der Datenschutzrichtlinie unten aktualisieren.
 
-Diese Richtlinie wurde zuletzt am 18. April 2013 geändert.
+Diese Richtlinie wurde zuletzt am 25. Dezember 2025 geändert.
 
 **Kontakt**
 
@@ -75,4 +75,4 @@ Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, können Sie uns über die
 > [Startseite](/)
   
 hi@omid.dev  
-+1 (530) 797-6643
++98 919 503 8545
