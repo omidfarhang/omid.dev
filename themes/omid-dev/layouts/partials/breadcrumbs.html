@@ -1,19 +1,94 @@
-{{- if (.Param "ShowBreadCrumbs") -}}
-<div class="breadcrumbs">
-    {{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" }}
-    {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+{{- if (and (.Param "ShowBreadCrumbs") (not .IsHome) (not .Parent.IsHome)) -}}
+<nav class="breadcrumbs" aria-label="breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        {{- $position := 1 -}}
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="{{ "" | absLangURL }}">
+                <span itemprop="name">
+                    <i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" | default "Home" }}
+                </span>
+            </a>
+            <meta itemprop="position" content="{{ $position }}" />
+        </li>
 
-    <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
-    {{- $scratch := newScratch }}
-    {{- range $index, $element := split $lang_url "/" }}
+        {{- if not .IsHome -}}
+            {{- $blogPage := site.GetPage "section" "posts" -}}
+            {{- if or (eq .Section "posts") (eq .Data.Taxonomy "categories") (eq .Type "categories") -}}
+                {{- /* Blog / Category / Post logic */ -}}
+                {{- if $blogPage -}}
+                    {{- $position = add $position 1 -}}
+                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                        {{- if eq . $blogPage -}}
+                            <span itemprop="name" aria-current="page">{{ $blogPage.Title }}</span>
+                        {{- else -}}
+                            <a itemprop="item" href="{{ $blogPage.Permalink }}">
+                                <span itemprop="name">{{ $blogPage.Title }}</span>
+                            </a>
+                        {{- end -}}
+                        <meta itemprop="position" content="{{ $position }}" />
+                    </li>
+                {{- end -}}
 
-    {{- $scratch.Add "path" (printf "%s/" $element )}}
-    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
-
-    {{- if (and ($bc_pg) (gt (len . ) 0))}}
-    {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
-    {{- end }}
-
-    {{- end -}}
-</div>
+                {{- if eq .Kind "term" -}}
+                    {{- /* Category Page */ -}}
+                    {{- if ne . $blogPage -}}
+                        {{- $position = add $position 1 -}}
+                        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <span itemprop="name" aria-current="page">{{ .LinkTitle }}</span>
+                            <meta itemprop="position" content="{{ $position }}" />
+                        </li>
+                    {{- end -}}
+                {{- else if and (eq .Kind "page") (eq .Section "posts") -}}
+                    {{- /* Blog Post */ -}}
+                    {{- if and .CurrentSection (ne .CurrentSection $blogPage) -}}
+                        {{- $position = add $position 1 -}}
+                        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <a itemprop="item" href="{{ .CurrentSection.Permalink }}">
+                                <span itemprop="name">{{ .CurrentSection.Title }}</span>
+                            </a>
+                            <meta itemprop="position" content="{{ $position }}" />
+                        </li>
+                    {{- end -}}
+                    
+                    {{- $position = add $position 1 -}}
+                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+                        <span itemprop="name" aria-current="page">{{ .Title }}</span>
+                        <meta itemprop="position" content="{{ $position }}" />
+                    </li>
+                {{- end -}}
+            {{- else -}}
+                {{- /* Default path-based breadcrumbs for other pages */ -}}
+                {{- $url := replace .Permalink (printf "%s" site.Home.Permalink) "" }}
+                {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+                {{- $path := "" }}
+                {{- $parts := split (strings.Trim $lang_url "/") "/" }}
+                {{- $len := len $parts }}
+                
+                {{- range $index, $element := $parts }}
+                    {{- if and (ne $element "") (ne $element "categories") (ne $element "tags") }}
+                        {{- $path = printf "%s/%s" $path $element }}
+                        {{- if lt (add $index 1) $len }}
+                            {{- $bc_pg := site.GetPage $path -}}
+                            {{- if $bc_pg }}
+                                {{- $position = add $position 1 -}}
+                                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                                    <a itemprop="item" href="{{ $bc_pg.Permalink }}">
+                                        <span itemprop="name">{{ $bc_pg.Title }}</span>
+                                    </a>
+                                    <meta itemprop="position" content="{{ $position }}" />
+                                </li>
+                            {{- end }}
+                        {{- else }}
+                            {{- $position = add $position 1 -}}
+                            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+                                <span itemprop="name" aria-current="page">{{ $.Title }}</span>
+                                <meta itemprop="position" content="{{ $position }}" />
+                            </li>
+                        {{- end }}
+                    {{- end }}
+                {{- end }}
+            {{- end -}}
+        {{- end -}}
+    </ol>
+</nav>
 {{- end -}}

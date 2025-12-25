@@ -66,14 +66,18 @@
 }
 
 .breadcrumbs {
+    margin: 0 0 20px;
+}
+
+.breadcrumbs ol {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
     font-size: 14px;
     color: var(--secondary);
-    padding: 0;
-    margin: 0 0 16px;
-    list-style: none;
 }
 
 .breadcrumbs li {
@@ -82,18 +86,50 @@
 }
 
 .breadcrumbs li:not(:last-child)::after {
-    content: "/";
-    margin: 0 8px;
+    content: "\f054"; /* fa-chevron-right */
+    font-family: "Font Awesome 7 Free";
+    font-weight: 900;
+    font-size: 10px;
+    margin: 0 10px;
     color: var(--tertiary);
+}
+
+[dir="rtl"] .breadcrumbs li:not(:last-child)::after {
+    content: "\f053"; /* fa-chevron-left */
 }
 
 .breadcrumbs a {
     color: var(--secondary);
     transition: color 0.2s ease;
+    display: flex;
+    align-items: center;
 }
 
 .breadcrumbs a:hover {
     color: var(--accent);
+}
+
+.breadcrumbs li:last-child {
+    color: var(--primary);
+    font-weight: 500;
+}
+
+.breadcrumbs li.breadcrumb-item-current {
+    display: none;
+}
+
+.breadcrumbs li:has(+ .breadcrumb-item-current)::after {
+    display: none;
+}
+
+.breadcrumbs i {
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+[dir="rtl"] .breadcrumbs i {
+    margin-right: 0;
+    margin-left: 5px;
 }
 
 .post-content {
