@@ -7,6 +7,11 @@
     .share-buttons-container {
         padding: 12px;
         gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    .share-buttons {
+        flex-wrap: wrap;
     }
 
     .share-buttons-label {
