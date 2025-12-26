@@ -1,0 +1,60 @@
+.comments-container {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: var(--code-bg);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+.discussion-header h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+[dir="rtl"] .discussion-header h3 {
+    font-family: inherit;
+}
+.discussion-header p {
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
+    color: var(--secondary);
+}
+.discussion-note {
+    font-size: 0.85rem !important;
+    font-style: italic;
+    opacity: 0.8;
+    margin-bottom: 1.5rem !important;
+}
+.share-links {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+[dir="rtl"] .share-links {
+    flex-direction: row;
+}
+.share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    color: #ffffff !important;
+}
+[dir="rtl"] .share-btn {
+    flex-direction: row-reverse;
+}
+.share-btn:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    text-decoration: none;
+}
+.x-btn { background-color: #000000; }
+.mastodon-btn { background-color: #6364ff; }
+.bluesky-btn { background-color: #0560ff; }
+.hn-btn { background-color: #ff6600; }

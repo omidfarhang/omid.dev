@@ -1,0 +1,17 @@
+- id: discussion_title
+  translation: "Diskussion beitreten"
+
+- id: discussion_desc
+  translation: "Fanden Sie diesen Beitrag interessant? Ich würde mich freuen, Ihre Gedanken, Fragen oder Feedback auf diesen Plattformen zu hören:"
+
+- id: discuss_on
+  translation: "Auf {{ .Platform }} diskutieren"
+
+- id: reply_on
+  translation: "Auf {{ .Platform }} antworten"
+
+- id: submit_to_hn
+  translation: "Bei HN einreichen"
+
+- id: discuss_on_hn
+  translation: "Auf HN diskutieren"

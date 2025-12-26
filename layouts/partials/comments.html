@@ -1,0 +1,41 @@
+{{- if .Site.Params.comments -}}
+<div class="comments-container">
+    <div class="social-discussion">
+        <div class="discussion-header">
+            <h3>{{ i18n "discussion_title" }}</h3>
+            <p>{{ i18n "discussion_desc" }}</p>
+        </div>
+        <div class="share-links">
+            {{- $search_query := .Permalink -}}
+            {{- if .Params.shortlink -}}
+                {{- $search_query = .Params.shortlink -}}
+            {{- end -}}
+            {{- $search_query = replace (replace $search_query "https://" "") "http://" "" -}}
+            
+            {{- $x_url := .Params.x_link | default (printf "https://x.com/search?q=%s" $search_query) -}}
+            <a class="share-btn x-btn" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-x-twitter"></i> 
+                <span>{{ if .Params.x_link }}{{ i18n "reply_on" (dict "Platform" "X") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "X") }}{{ end }}</span>
+            </a>
+
+            {{- $mastodon_url := .Params.mastodon_link | default (printf "https://mastodon.social/search?q=%s" $search_query) -}}
+            <a class="share-btn mastodon-btn" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-mastodon"></i> 
+                <span>{{ if .Params.mastodon_link }}{{ i18n "reply_on" (dict "Platform" "Mastodon") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Mastodon") }}{{ end }}</span>
+            </a>
+
+            {{- $bluesky_url := .Params.bluesky_link | default (printf "https://bsky.app/search?q=%s" $search_query) -}}
+            <a class="share-btn bluesky-btn" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-bluesky"></i> 
+                <span>{{ if .Params.bluesky_link }}{{ i18n "reply_on" (dict "Platform" "Bluesky") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Bluesky") }}{{ end }}</span>
+            </a>
+
+            {{- $hn_url := .Params.hn_link | default (printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" .Permalink .Title) -}}
+            <a class="share-btn hn-btn" href="{{ $hn_url }}" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-hacker-news"></i> 
+                <span>{{ if .Params.hn_link }}{{ i18n "discuss_on_hn" }}{{ else }}{{ i18n "submit_to_hn" }}{{ end }}</span>
+            </a>
+        </div>
+    </div>
+</div>
+{{- end -}}

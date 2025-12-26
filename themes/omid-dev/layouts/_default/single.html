@@ -43,6 +43,9 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{- if (.Param "comments") }}
+    {{- partial "comments.html" . }}
+    {{- end }}
     <div class="post-footer-top">
       {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
       <ul class="post-tags">
@@ -61,10 +64,6 @@
   </footer>
 
   {{- partial "related.html" . }}
-
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
 </article>
 
 {{- end }}{{/* end main */}}
