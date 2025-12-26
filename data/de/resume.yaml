@@ -1,5 +1,5 @@
 name: Omid Farhang
-title: Senior Frontend-Entwickler
+title: Frontend-Architekt & Engineering Lead
 contact:
   phone: "+989195038545"
   email: "hi@omid.dev"
@@ -8,18 +8,18 @@ contact:
   github: "https://github.com/omidfarhang"
   xing: "https://www.xing.com/profile/Omid_Farhang"
 summary: >
-  Frontend-Softwarearchitekt mit über 10 Jahren Erfahrung in der Konzeption und Entwicklung komplexer Webanwendungen und der Leitung leistungsstarker Teams von bis zu 15 Ingenieuren. Expertise in der Architektur skalierbarer Frontend-Lösungen, der Reduzierung von Projektlaufzeiten um 40 % und der Förderung der Codequalität. Experte für Angular und TypeScript, verantwortlich für die architektonische Führung und technische Aufsicht über verschiedene Frontend-Ökosysteme.
+  Frontend-Architekt und Engineering Leader mit über 10 Jahren Erfahrung im Aufbau und der Skalierung komplexer Webplattformen. Leitung von Teams mit bis zu 15 Ingenieuren und Erzielung messbarer Ergebnisse: 40 % schnellere Bereitstellung durch ein Angular-basiertes Framework und Design-System, 50 % schnellere CI/CD-Builds nach Konsolidierung in einem Nx-Monorepo und Verkürzung der Deployment-Zeit von 15 auf 4 Minuten durch Pipeline-Optimierung. Tiefe Expertise in Angular und TypeScript, mit starkem Fokus auf Performance, Testing und Platform Governance.
 skills:
   - category: Führung & Management
-    items: [Engineering Leadership, Mentoring, Einstellung & Onboarding, Leistungsmanagement, Wachstumsplanung, Stakeholder-Management, Agile Methoden]
+    items: [Engineering Leadership, Teambuilding & Recruiting, Mentoring, Performance Management, Stakeholder-Management, Agile Delivery (Scrum/Kanban)]
   - category: Architektur & Engineering
-    items: [Softwarearchitektur, Design-Systeme, Monorepos (Nx), Micro-Frontends, SOLID-Prinzipien, Design-Muster, Performance-Optimierung, Web Vitals]
+    items: [Frontend-Architektur, Design-Systeme, Nx-Monorepos, Micro-Frontends, SOLID & Design-Muster, Performance Engineering, Web Vitals]
   - category: Frontend-Ökosystem
-    items: [Angular (Expert), TypeScript, RxJS, Reaktives State Management (Services/Subjects), Testing (Vitest/Playwright/Jest), Storybook, Responsive Webdesign, Framework-übergreifende Architekturaufsicht]
+    items: [Angular (Expert), TypeScript, RxJS, State Management, Komponenten-Bibliotheken, Storybook, Testing (Vitest/Jest/Playwright)]
   - category: Backend & Integration
-    items: [Node.js, Express.js, NestJS, Laravel, RESTful APIs, gRPC, Relationale Datenbanken (MySQL/MariaDB)]
-  - category: DevOps & Infrastruktur
-    items: [Docker, CI/CD-Pipelines, Linux-Systemadministration, Nginx, Anwendungssicherheit (OWASP, XSS/CSRF-Schutz), CDN- & Caching-Strategien]
+    items: [Node.js, NestJS, Express.js, Laravel, REST-APIs, gRPC, MySQL/MariaDB]
+  - category: DevOps & Sicherheit
+    items: [Docker, CI/CD, Linux, Nginx, OWASP Top 10, XSS/CSRF-Schutz, CDN- & Caching-Strategien]
   - category: Sprachen
     items: [Persisch (Muttersprache), Englisch (Fortgeschritten), Deutsch (B1)]
 experience:
@@ -29,13 +29,16 @@ experience:
     description: >
       Jibit ist ein führendes B2B-FinTech-Unternehmen, das Zahlungsinfrastrukturen und Finanzdienstleistungen für Unternehmen anbietet und Millionen von Transaktionen für über 500 Firmenkunden verarbeitet.
     responsibilities:
-      - Federführung bei einer strategischen Migration von Legacy-React-Projekten zu einer modernen Angular-Architektur, Erreichung von 100 % Feature-Parität bei Null Ausfallzeiten und Verbesserung der Anwendungsperformance um 30 %.
-      - Leitung der technischen Evolution des Frontend-Ökosystems zu einem einheitlichen Nx-Monorepo, Reduzierung der CI/CD-Build-Zeiten um 50 % und Steigerung der Entwicklerproduktivität um 25 %.
-      - Konzeption eines proprietären Angular-basierten Frontend-Frameworks und Design-Systems, was die Projektlaufzeit um 40 % reduzierte.
-      - Transformation der Team-Workflows durch Einführung von Agile-Methoden und Aufgabenmanagementsystemen (Jira), Steigerung der Sprint-Velocity um 35 % und Reduzierung des Bug-Report-Volumens um 20 %.
-      - Eigenständige Konzeption und Implementierung der Migration der Testinfrastruktur von Jest zu Vitest, Reduzierung der Ausführungszeit von Unit-Tests um 70 % und Steigerung der E2E-Testabdeckung auf 85 % mit Playwright.
-      - Zusammenarbeit mit DevOps zur Optimierung von Docker-basierten Deployment-Pipelines, Verkürzung der Deployment-Dauer von 15 Minuten auf unter 4 Minuten und Ermöglichung täglicher Production-Releases.
-      - Management des gesamten Engineering-Lebenszyklus für die Frontend-Abteilung, Skalierung des Teams von 4 auf 15 Ingenieure bei einer Mitarbeiterbindungsrate von 95 %.
+      - Leitung der Migration von Legacy-React-Anwendungen zu Angular, Erreichung von 100 % Feature-Parität ohne Ausfallzeiten.
+      - Verbesserung der Anwendungsperformance um 30 % durch Modernisierung und Optimierung.
+      - Konsolidierung fragmentierter Repositories und Git-Submodule in ein Nx-Monorepo; Reduzierung der CI/CD-Build-Zeiten um 50 %.
+      - Verbesserung der Entwicklerproduktivität um 25 % durch Standardisierung von Tooling und Workflows im Monorepo.
+      - Aufbau eines internen Angular-basierten Frameworks und Design-Systems, Reduzierung der Lieferzeit um 40 % und Durchsetzung von 100 % UI/UX-Konsistenz.
+      - Implementierung von Jira-basierter Agile Delivery, Steigerung der Sprint-Velocity um 35 % und Reduzierung des Bug-Report-Volumens um 20 %.
+      - Migration der Unit-Tests von Jest zu Vitest, Reduzierung der Unit-Test-Laufzeit um 70 %.
+      - Erhöhung der Playwright E2E-Abdeckung auf 85 %.
+      - Optimierung von Docker-basierten Deployment-Pipelines mit DevOps, Reduzierung der Deployment-Zeit von 15 Minuten auf unter 4 Minuten und Ermöglichung täglicher Production-Releases.
+      - Skalierung der Frontend-Organisation von 1 auf 4 Ingenieure bei einer Mitarbeiterbindungsrate von 100 %.
     skills: [Engineering Leadership, Mentoring, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
   - title: Technischer Berater / Tech Lead
     company: Raymandan Taly Parseh
@@ -43,10 +46,13 @@ experience:
     description: >
       Raymandan Taly Parseh ist ein Unternehmensberatungsunternehmen.
     responsibilities:
-      - Steuerung der Entwicklung von Landing Pages und Kundenportalen, Erzielung einer Steigerung der Conversion-Rate um 25 % und Aufrechterhaltung einer Service-Verfügbarkeit von 99,9 %.
-      - Architektur und Verwaltung sicherer Linux-basierter Infrastrukturen (Ubuntu, Nginx, MariaDB) für Web- und Maildienste, Unterstützung von über 10.000 monatlich aktiven Nutzern ohne Sicherheitsverletzungen.
-      - Implementierung von Echtzeit-Videostreaming-Lösungen (RTSP/FFmpeg) für webbasierte interne Kameraübertragungen, Reduzierung der Stream-Latenz um 40 % und Unterstützung von bis zu 50 gleichzeitigen HD-Feeds.
-      - Technischer Berater des Managements, Reduzierung der durchschnittlichen Wiederherstellungszeit bei Vorfällen um 60 % während Netzwerkangriffen und ISP-Ausfällen.
+      - Bereitstellung von Landing Pages und Kundenportalen, Steigerung der Conversion-Rate um 25 %.
+      - Aufrechterhaltung einer Service-Verfügbarkeit von 99,9 % für kundenorientierte Plattformen.
+      - Betrieb der Ubuntu/Nginx/MariaDB-Infrastruktur für Web- und Maildienste zur Unterstützung von über 10.000 monatlich aktiven Nutzern.
+      - Aufrechterhaltung eines starken Sicherheitsniveaus ohne gemeldete Sicherheitsverletzungen.
+      - Implementierung von RTSP/FFmpeg-basiertem Web-Streaming für interne Kameraübertragungen, Reduzierung der Stream-Latenz um 40 %.
+      - Skalierung des Streamings zur Unterstützung von bis zu 50 gleichzeitigen HD-Feeds.
+      - Reduzierung der Wiederherstellungszeit bei Vorfällen um 60 % während Netzwerkangriffen und ISP-Ausfällen als technischer Berater.
     skills: [Technische Beratung, Infrastrukturmanagement, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
   - title: Lead Frontend Developer
     company: Poolito
@@ -54,17 +60,21 @@ experience:
     description: >
       Poolito war ein FinTech-Startup, das innovative Zahlungslösungen anbot.
     responsibilities:
-      - Führung des Frontend-Engineering-Teams bei der Entwicklung hochperformanter Dashboards, Bedienung von über 50.000 Nutzern mit Seitenladezeiten im Sub-Sekunden-Bereich.
-      - Architektur und Implementierung komplexer Datenkommunikationsschichten unter Verwendung von Angular und gRPC für effiziente Echtzeit-Updates, Reduzierung der Datennutzlast um 60 % und Verbesserung der Effizienz von Echtzeit-Updates um 45 %.
-      - Federführung bei der Entwicklung responsiver und interaktiver Landing Pages, Erreichung eines Lighthouse-Performance-Scores von 95+ und Steigerung des Engagements mobiler Nutzer um 30 %.
+      - Leitung des Frontend-Teams bei der Bereitstellung von Admin- und Kunden-Dashboards für über 50.000 Nutzer mit Seitenladezeiten im Sub-Sekunden-Bereich.
+      - Entwurf von Angular + gRPC-Kommunikationsschichten, Reduzierung der Datennutzlast um 60 %.
+      - Verbesserung der Effizienz von Echtzeit-Updates um 45 % durch optimierte Datenverarbeitung.
+      - Bereitstellung responsiver Landing Pages, Erreichung eines Lighthouse-Performance-Scores von 95+ und Steigerung des Engagements mobiler Nutzer um 30 %.
     skills: [Teamleitung, Angular, gRPC, TypeScript, CSS, RxJS]
   - title: Lead Frontend Developer (Befördert von Junior)
     company: ModernPal
     period: Okt 2015 - Nov 2018
     responsibilities:
-      - Schneller Aufstieg vom Junior zum Lead Frontend Developer, Verantwortung für die technische Leitung von 3 Hauptplattformen und Mentoring von 5 Junior-Entwicklern.
-      - Durchführung einer groß angelegten Migration von AngularJS zu Angular 2+, Verbesserung der Runtime-Performance um 40 % und Reduzierung der Bundle-Größe um 25 %.
-      - Direkte Zusammenarbeit mit dem CTO zur Abstimmung der Frontend-Strategien mit den Geschäftszielen und technischen Roadmaps.
+      - Beförderung vom Junior zum Lead Frontend Developer, Festlegung der technischen Richtung für 3 Hauptplattformen und Mentoring von 5 Junior-Entwicklern.
+      - Migration von AngularJS zu Angular 2+, Verbesserung der Runtime-Performance um 40 %.
+      - Reduzierung der Bundle-Größe um 25 % durch Modernisierung und Optimierung.
+      - Aufbau von Full-Stack-Features für eine Geldwechselplattform unter Verwendung von Angular und Laravel, Verarbeitung von über 1 Mio. $ an monatlichen Transaktionen.
+      - Leitung des Backend-Übergangs von PHP Laravel zu Java Spring Boot, Verbesserung der API-Antwortzeiten um 50 % und Steigerung des Systemdurchsatzes um das 3-fache.
+      - Partnerschaft mit dem CTO zur Abstimmung der Frontend-Strategie mit den Geschäftszielen und technischen Roadmaps.
     skills: [Technische Leitung, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
   - title: Systemadministrator & Webentwickler
     company: Haseb System Consultancy Co
@@ -72,9 +82,18 @@ experience:
     description: >
       Haseb System ist ein Unternehmensberatungsunternehmen.
     responsibilities:
-      - Modernisierung der IT-Infrastruktur für über 30 Arbeitsstationen, Reduzierung der Netzwerkausfallzeiten um 90 % und Verdoppelung der internen Datentransferraten.
-      - Erstellung interner PHP/MySQL-Portale, Automatisierung der Lohnabrechnung für über 50 Mitarbeiter und Reduzierung des Verwaltungsaufwands um 30 %.
+      - Überholung der IT-Infrastruktur für über 30 Arbeitsstationen, Behebung kritischer Domain Controller- und DNS-Probleme und Reduzierung der Netzwerkausfallzeiten um 90 %.
+      - Administration von Windows Server-Umgebungen und TFS (Team Foundation Server), Aufrechterhaltung einer Verfügbarkeit von 99,9 % für kritische Entwicklungsdienste.
+      - Erstellung eines umfassenden internen PHP/MySQL-Portals zur Zeiterfassung und Lohnabrechnung, Automatisierung von Prozessen für über 50 Mitarbeiter und Reduzierung des Verwaltungsaufwands um 30 %.
+      - Einführung einer multifunktionalen Gesundheitsplattform mit Ärzteverzeichnis und Community-Forum, Erreichung von über 5.000 registrierten Nutzern innerhalb von 6 Monaten.
     skills: [Systemadministration, IT-Infrastruktur, PHP, MySQL, Windows Server, TFS, DNS, Networking]
+  - title: Frühe Karriere (IT-Support)
+    company: IRIB
+    period: Sep 2007 - Jun 2008
+    description: >
+      The Islamic Republic of Iran Broadcasting (IRIB).
+    responsibilities:
+      - Entwurf webbasierter interner Tools und Bereitstellung von IT-Support für Windows-basierte Umgebungen.
 certifications:
   - title: Deutsch Zertifikat (B1)
     provider: Goethe-Institut

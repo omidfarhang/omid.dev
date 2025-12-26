@@ -1,5 +1,5 @@
 name: Omid Farhang
-title: Senior Frontend Engineer
+title: Frontend Architect & Engineering Lead
 contact:
   phone: "+989195038545"
   email: "hi@omid.dev"
@@ -8,18 +8,18 @@ contact:
   github: "https://github.com/omidfarhang"
   xing: "https://www.xing.com/profile/Omid_Farhang"
 summary: >
-  Frontend Software Architect with 10+ years of experience in designing and developing complex web applications and leading high-performing teams of up to 15 engineers. Expertise in architecting scalable frontend solutions, reducing project delivery times by 40%, and driving code quality across diverse ecosystems. Expert in Angular and TypeScript, providing architectural leadership and technical oversight for enterprise-scale platforms.
+  Frontend Architect and engineering leader with 10+ years building and scaling complex web platforms. Led teams of up to 15 engineers and delivered measurable outcomes: 40% faster delivery via an Angular-based framework and design system, 50% faster CI/CD builds after consolidating to an Nx monorepo, and 15→4 minute deployments through pipeline optimization. Deep expertise in Angular and TypeScript, with strong focus on performance, testing, and platform governance.
 skills:
   - category: Leadership & Management
-    items: [Engineering Leadership, Mentorship, Hiring & Onboarding, Performance Management, Growth Planning, Stakeholder Management, Agile Methodologies]
+    items: [Engineering Leadership, Team Building & Hiring, Mentorship, Performance Management, Stakeholder Management, Agile Delivery (Scrum/Kanban)]
   - category: Architecture & Engineering
-    items: [Software Architecture, Design Systems, Monorepos (Nx), Micro-frontends, SOLID Principles, Design Patterns, Performance Optimization, Web Vitals]
+    items: [Frontend Architecture, Design Systems, Nx Monorepos, Micro-frontends, SOLID & Design Patterns, Performance Engineering, Web Vitals]
   - category: Frontend Ecosystem
-    items: [Angular (Expert), TypeScript, RxJS, Reactive State Management, Testing (Vitest/Playwright/Jest), Storybook, Responsive Web Design, Cross-framework Architectural Oversight]
+    items: [Angular (Expert), TypeScript, RxJS, State Management, Component Libraries, Storybook, Testing (Vitest/Jest/Playwright)]
   - category: Backend & Integration
-    items: [Node.js, NestJS, Express.js, Laravel, RESTful APIs, gRPC, Relational Databases (MySQL/MariaDB)]
-  - category: DevOps & Infrastructure
-    items: [Docker, CI/CD Pipelines, Linux System Administration, Nginx, Application Security, OWASP, XSS/CSRF Mitigation, CDN & Caching Strategies]
+    items: [Node.js, NestJS, Express.js, Laravel, REST APIs, gRPC, MySQL/MariaDB]
+  - category: DevOps & Security
+    items: [Docker, CI/CD, Linux, Nginx, OWASP Top 10, XSS/CSRF Mitigation, CDN & Caching Strategies]
   - category: Languages
     items: [Persian (Native), English (Advanced), German (B1)]
 experience:
@@ -29,13 +29,16 @@ experience:
     description: >
       Jibit is a leading B2B FinTech providing payment infrastructure and enterprise financial services, processing millions of transactions for 500+ corporate clients.
     responsibilities:
-      - Spearheaded a strategic migration of legacy React projects to a modern Angular architecture, achieving 100% feature parity with zero downtime and improving application performance by 30%.
-      - Led the technical evolution of the frontend ecosystem from fragmented repositories and Git Submodules to a unified Nx Monorepo, reducing CI/CD build times by 50% and improving developer productivity by 25%.
-      - Architected a proprietary Angular-based frontend framework and Design System, reducing project delivery time by 40% and ensuring 100% UI/UX consistency.
-      - Transformed team workflows by introducing Agile methodologies and task management systems (Jira), increasing sprint velocity by 35% and reducing bug report volume by 20%.
-      - Engineered and implemented the migration of testing infrastructure from Jest to Vitest, reducing unit test execution time by 70% and increasing E2E test coverage to 85% using Playwright.
-      - Collaborated with DevOps to optimize Docker-based deployment pipelines and CI/CD workflows, reducing deployment duration from 15 minutes to under 4 minutes and enabling daily production releases.
-      - Managed the full engineering lifecycle for the frontend department, scaling the team from 4 to 15 engineers while maintaining a 95% employee retention rate.
+      - Led migration of legacy React applications to Angular, delivering 100% feature parity with zero downtime.
+      - Improved application performance by 30% through modernization and optimization.
+      - Consolidated fragmented repositories and Git Submodules into an Nx monorepo; reduced CI/CD build times by 50%.
+      - Improved developer productivity by 25% by standardizing tooling and workflows in the monorepo.
+      - Built an internal Angular-based framework and design system, reducing delivery time by 40% and enforcing 100% UI/UX consistency.
+      - Implemented Jira-based Agile delivery, increasing sprint velocity by 35% and reducing bug report volume by 20%.
+      - Migrated unit testing from Jest to Vitest, cutting unit test runtime by 70%.
+      - Increased Playwright E2E coverage to 85%.
+      - Optimized Docker-based deployment pipelines with DevOps, reducing deployment time from 15 minutes to under 4 minutes and enabling daily production releases.
+      - Scaled the frontend organization from 1 to 4 engineers while maintaining a 100% retention rate.
     skills: [Engineering Leadership, Mentorship, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
   - title: Technical Consultant / Tech Lead
     company: Raymandan Taly Parseh
@@ -43,10 +46,13 @@ experience:
     description: >
       Raymandan Taly Parseh is a business management consultancy.
     responsibilities:
-      - Oversaw the development of high-conversion landing pages and client portals, achieving a 25% increase in user conversion rates and maintaining 99.9% service availability.
-      - Configured and managed secure Linux-based infrastructure (Ubuntu, Nginx, MariaDB) for web and mail services, supporting 10,000+ monthly active users with zero security breaches.
-      - Implemented real-time video streaming solutions (RTSP/FFmpeg) for web-based internal camera broadcasting, reducing stream latency by 40% and supporting up to 50 concurrent high-definition feeds.
-      - Acted as a technical advisor to management, reducing average incident recovery time by 60% during network attacks and ISP downtimes.
+      - Delivered landing pages and client portals, increasing user conversion rates by 25%.
+      - Maintained 99.9% service availability for client-facing platforms.
+      - Operated Ubuntu/Nginx/MariaDB infrastructure for web and mail services supporting 10,000+ monthly active users.
+      - Maintained a strong security posture with no reported security breaches.
+      - Implemented RTSP/FFmpeg-based web streaming for internal camera broadcasting, reducing stream latency by 40%.
+      - Scaled streaming to support up to 50 concurrent high-definition feeds.
+      - Reduced incident recovery time by 60% during network attacks and ISP downtimes as a technical advisor.
     skills: [Technical Consulting, Infrastructure Management, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
   - title: Lead Frontend Developer
     company: Poolito
@@ -54,19 +60,21 @@ experience:
     description: >
       Poolito was a FinTech startup providing innovative payment solutions.
     responsibilities:
-      - Headed the frontend engineering team in developing high-performance admin and client dashboards, serving 50,000+ users with sub-second page load times.
-      - Architected and implemented complex data communication layers using Angular and gRPC, reducing data payload sizes by 60% and improving real-time update efficiency by 45%.
-      - Spearheaded the development of responsive and interactive landing pages, achieving a 95+ Lighthouse performance score and increasing mobile user engagement by 30%.
+      - Led the frontend team delivering admin and client dashboards for 50,000+ users with sub-second page load times.
+      - Designed Angular + gRPC communication layers, reducing data payload sizes by 60%.
+      - Improved real-time update efficiency by 45% through optimized data handling.
+      - Delivered responsive landing pages, achieving a 95+ Lighthouse performance score and increasing mobile user engagement by 30%.
     skills: [Team Leadership, Angular, gRPC, TypeScript, CSS, RxJS]
   - title: Lead Frontend Developer (Promoted from Junior)
     company: ModernPal
     period: Oct 2015 - Nov 2018
     responsibilities:
-      - Rapidly progressed from Junior to Lead Frontend Developer, overseeing technical direction for 3 major platforms and mentoring 5 junior developers.
-      - Executed a large-scale migration from AngularJS to Angular 2+, improving application runtime performance by 40% and reducing bundle size by 25%.
+      - Promoted from Junior to Lead Frontend Developer, setting technical direction for 3 major platforms and mentoring 5 junior developers.
+      - Migrated AngularJS to Angular 2+, improving application runtime performance by 40%.
+      - Reduced bundle size by 25% through modernization and optimization.
       - Built full-stack features for a money exchange platform using Angular and Laravel, processing over $1M in transactions monthly.
-      - Facilitated the backend transition from PHP Laravel to Java Spring Boot, improving API response times by 50% and increasing system throughput by 3x.
-      - Collaborated directly with the CTO to align frontend strategies with business goals and technical roadmaps.
+      - Led backend transition from PHP Laravel to Java Spring Boot, improving API response times by 50% and increasing system throughput by 3x.
+      - Partnered with the CTO to align frontend strategy with business goals and technical roadmaps.
     skills: [Technical Direction, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
   - title: System Administrator & Web Developer
     company: Haseb System Consultancy Co
@@ -79,13 +87,7 @@ experience:
       - Created a comprehensive internal PHP/MySQL portal for personnel timesheet tracking and payroll, automating processes for 50+ employees and reducing overhead by 30%.
       - Launched a multi-functional health platform featuring a medical directory and community forum, reaching 5,000+ registered users within 6 months.
     skills: [System Administration, IT Infrastructure, PHP, MySQL, Windows Server, TFS, DNS, Networking]
-  - title: Assistant
-    company: Rayzan International Conference Center
-    period: Jan 2014 - Jan 2015
-  - title: Reseller
-    company: Industrial Utilities (Machining)
-    period: Jun 2011 - Apr 2013
-  - title: IT Support
+  - title: Early Career (IT Support)
     company: IRIB
     period: Sep 2007 - Jun 2008
     description: >

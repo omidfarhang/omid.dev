@@ -116,6 +116,10 @@ body.dark .header.scrolled {
     width: 100%;
 }
 
+#menu span {
+    position: relative;
+}
+
 #menu a:hover,
 #menu .active {
     color: var(--accent);
@@ -329,26 +333,24 @@ body.theme-system #sun {
         display: inline-block;
     }
 
-    #mobile-menu-list a:hover span,
-    #mobile-menu-list a:active span {
-        transform: scale(1.05) translateX(5px);
+    #mobile-menu-list span::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: -4px;
+        inset-inline-start: 0;
+        background-color: var(--accent);
+        transition: width 0.3s ease;
+    }
+
+    #mobile-menu-list a:hover span::after,
+    #mobile-menu-list .active::after {
+        width: 100%;
     }
 
     #mobile-menu-list .active {
         color: var(--accent);
-    }
-
-    #mobile-menu-list .active::after {
-        content: '';
-        position: absolute;
-        bottom: 5px;
-        left: -5%;
-        width: 110%;
-        height: 12px;
-        background: var(--accent);
-        border-radius: 4px;
-        opacity: 0.15;
-        z-index: -1;
     }
 
 }
