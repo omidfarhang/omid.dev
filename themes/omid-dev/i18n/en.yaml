@@ -166,8 +166,15 @@
 
 - id: print_save_pdf
   translation: "Print / Save as PDF"
+  
 - id: related_posts
   translation: "Related Posts"
 
-- id: related_posts
-  translation: "Related Posts"
+- id: recommendations
+  translation: "Recommendations"
+
+- id: add_recommendation
+  translation: "Add a Recommendation"
+
+- id: add_recommendation_desc
+  translation: "If we've worked together and you'd like to share your experience, I'd love to hear from you on LinkedIn."

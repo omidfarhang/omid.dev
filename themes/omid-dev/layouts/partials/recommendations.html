@@ -1,0 +1,107 @@
+{{- $recommendations := .Site.Data.recommendations -}}
+{{- if $recommendations }}
+{{- $recommendations = shuffle $recommendations -}}
+<section class="home-section recommendations-section">
+    <div class="section-header">
+        <h2 class="section-title">{{ i18n "recommendations" | default "Recommendations" }}</h2>
+        <div class="slider-controls">
+            <button id="prev-recommendation" aria-label="Previous"><i class="fas fa-chevron-left"></i></button>
+            <button id="next-recommendation" aria-label="Next"><i class="fas fa-chevron-right"></i></button>
+        </div>
+    </div>
+    <div class="recommendations-container">
+        <div class="recommendations-slider" id="recommendations-slider">
+            {{- range $recommendations }}
+            <div class="recommendation-card">
+                <div class="recommendation-header">
+                    {{- if .avatar }}
+                    <div class="recommendation-avatar">
+                        <img src="{{ .avatar | relURL }}" alt="{{ .name }}">
+                    </div>
+                    {{- else }}
+                    <div class="recommendation-avatar placeholder">
+                        <i class="fas fa-user"></i>
+                    </div>
+                    {{- end }}
+                    <div class="recommendation-meta">
+                        <h3 class="recommendation-name">{{ .name }}</h3>
+                        <p class="recommendation-title">{{ .title }}</p>
+                        {{- if .date }}
+                        <span class="recommendation-date">{{ .date }}</span>
+                        {{- end }}
+                    </div>
+                    {{- if .link }}
+                    <a href="{{ .link }}" class="recommendation-link" target="_blank" rel="noopener noreferrer" title="{{ .source | default "Link" }}">
+                        {{- if eq .source "linkedin" }}<i class="fab fa-linkedin"></i>
+                        {{- else if eq .source "twitter" }}<i class="fab fa-twitter"></i>
+                        {{- else if eq .source "github" }}<i class="fab fa-github"></i>
+                        {{- else }}<i class="fas fa-external-link-alt"></i>
+                        {{- end }}
+                    </a>
+                    {{- end }}
+                </div>
+                <div class="recommendation-content">
+                    <p>{{ .text }}</p>
+                </div>
+            </div>
+            {{- end }}
+        </div>
+    </div>
+    <div class="recommendations-footer">
+        <p>{{ i18n "add_recommendation_desc" }}</p>
+        <a href="https://linkedin.com/in/omidfarhang" target="_blank" rel="noopener noreferrer" class="add-recommendation-btn">
+            <i class="fab fa-linkedin"></i> {{ i18n "add_recommendation" }}
+        </a>
+    </div>
+</section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const slider = document.getElementById('recommendations-slider');
+    const prevBtn = document.getElementById('prev-recommendation');
+    const nextBtn = document.getElementById('next-recommendation');
+    const cards = slider.querySelectorAll('.recommendation-card');
+    
+    if (cards.length <= 2) {
+        document.querySelector('.slider-controls').style.display = 'none';
+        return;
+    }
+
+    let currentIndex = 0;
+    const isRTL = document.documentElement.dir === 'rtl';
+    let cardsToShow = window.innerWidth > 768 ? 2 : 1;
+
+    function updateSlider() {
+        const cardWidth = cards[0].offsetWidth + 20; // width + gap
+        const multiplier = isRTL ? 1 : -1;
+        slider.style.transform = `translateX(${multiplier * currentIndex * cardWidth}px)`;
+    }
+
+    nextBtn.addEventListener('click', () => {
+        if (currentIndex < cards.length - cardsToShow) {
+            currentIndex++;
+        } else {
+            currentIndex = 0;
+        }
+        updateSlider();
+    });
+
+    prevBtn.addEventListener('click', () => {
+        if (currentIndex > 0) {
+            currentIndex--;
+        } else {
+            currentIndex = cards.length - cardsToShow;
+        }
+        updateSlider();
+    });
+
+    window.addEventListener('resize', () => {
+        cardsToShow = window.innerWidth > 768 ? 2 : 1;
+        currentIndex = 0;
+        updateSlider();
+    });
+
+    updateSlider();
+});
+</script>
+{{- end }}

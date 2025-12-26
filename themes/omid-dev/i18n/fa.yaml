@@ -166,8 +166,15 @@
 
 - id: print_save_pdf
   translation: "چاپ / ذخیره به صورت PDF"
-- id: related_posts
-  translation: "پست‌های مرتبط"
 
 - id: related_posts
   translation: "پست‌های مرتبط"
+
+- id: recommendations
+  translation: "توصیه‌نامه‌ها"
+
+- id: add_recommendation
+  translation: "افزودن توصیه‌نامه"
+
+- id: add_recommendation_desc
+  translation: "اگر با هم همکاری داشته‌ایم و مایلید تجربه‌تان را به اشتراک بگذارید، خوشحال می‌شوم آن را در لینکدین بنویسید."

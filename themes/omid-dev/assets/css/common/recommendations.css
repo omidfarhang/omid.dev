@@ -1,0 +1,208 @@
+.recommendations-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+
+.section-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.recommendations-section .section-title {
+    margin-bottom: 20px;
+}
+
+.slider-controls {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.slider-controls button {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    color: var(--primary);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+.slider-controls button:hover:not(:disabled) {
+    background: var(--tertiary);
+    color: #fff;
+}
+
+[dir="rtl"] .slider-controls i {
+    transform: rotate(180deg);
+}
+
+.recommendations-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.recommendations-slider {
+    display: flex;
+    gap: 20px;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.recommendation-card {
+    background: var(--entry);
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--border);
+    flex: 0 0 calc(50% - 10px); /* Show 2 cards */
+    min-width: 0; /* Allow shrinking */
+}
+
+@media screen and (max-width: 768px) {
+    .recommendation-card {
+        flex: 0 0 100%;
+    }
+}
+
+.recommendation-card:hover {
+    transform: translateY(-5px);
+}
+
+.recommendation-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.recommendation-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-inline-end: 12px;
+    flex-shrink: 0;
+    background: var(--tertiary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recommendation-avatar.placeholder i {
+    color: var(--primary);
+    font-size: 1.2rem;
+}
+
+.recommendation-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.recommendation-meta {
+    flex-grow: 1;
+}
+
+.recommendation-name {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.recommendation-title {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    line-height: 1.2;
+}
+
+.recommendation-date {
+    font-size: 0.75rem;
+    color: var(--tertiary);
+}
+
+.recommendation-link {
+    position: absolute;
+    top: 0;
+    inset-inline-end: 0;
+    font-size: 1.2rem;
+    transition: opacity 0.2s;
+}
+
+.recommendation-link .fa-linkedin { color: #0077b5; }
+.recommendation-link .fa-twitter { color: #1da1f2; }
+.recommendation-link .fa-github { color: var(--primary); }
+.recommendation-link .fa-external-link-alt { color: var(--secondary); }
+
+.recommendation-link:hover {
+    opacity: 0.8;
+}
+
+.recommendation-content {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--content);
+    font-style: italic;
+}
+
+.recommendation-content p {
+    margin: 0;
+}
+
+.recommendation-content p::before {
+    content: '"';
+    font-size: 1.2rem;
+    color: var(--tertiary);
+}
+
+.recommendation-content p::after {
+    content: '"';
+    font-size: 1.2rem;
+    color: var(--tertiary);
+}
+
+.recommendations-footer {
+    margin-top: 40px;
+    text-align: center;
+    padding: 30px;
+    background: var(--entry);
+    border-radius: 12px;
+    border: 1px dashed var(--border);
+}
+
+.recommendations-footer p {
+    margin: 0 0 20px;
+    color: var(--secondary);
+    font-size: 1rem;
+}
+
+.add-recommendation-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #0077b5;
+    color: #fff !important;
+    padding: 10px 24px;
+    border-radius: 30px;
+    font-weight: 600;
+    transition: all 0.2s;
+    text-decoration: none;
+}
+
+.add-recommendation-btn:hover {
+    background: #005582;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 119, 181, 0.3);
+}

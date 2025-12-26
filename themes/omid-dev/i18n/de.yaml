@@ -170,6 +170,15 @@
 - id: search
   translation: "Suche"
 
+- id: recommendations
+  translation: "Empfehlungen"
+
+- id: add_recommendation
+  translation: "Empfehlung hinzufügen"
+
+- id: add_recommendation_desc
+  translation: "Wenn wir zusammengearbeitet haben und Sie Ihre Erfahrungen teilen möchten, würde ich mich freuen, von Ihnen auf LinkedIn zu hören."
+
 - id: page_not_found
   translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
 
@@ -178,6 +187,7 @@
 
 - id: surprise_me
   translation: "Überrasch mich"
+  
 - id: related_posts
   translation: "Ähnliche Beiträge"
 
