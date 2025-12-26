@@ -315,10 +315,40 @@ body.theme-system #sun {
         letter-spacing: -1px;
         color: var(--primary);
         text-decoration: none;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    #mobile-menu-list a:hover,
+    #mobile-menu-list a:active {
+        color: var(--accent);
+    }
+
+    #mobile-menu-list span {
+        position: relative;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        display: inline-block;
+    }
+
+    #mobile-menu-list a:hover span,
+    #mobile-menu-list a:active span {
+        transform: scale(1.05) translateX(5px);
     }
 
     #mobile-menu-list .active {
         color: var(--accent);
+    }
+
+    #mobile-menu-list .active::after {
+        content: '';
+        position: absolute;
+        bottom: 5px;
+        left: -5%;
+        width: 110%;
+        height: 12px;
+        background: var(--accent);
+        border-radius: 4px;
+        opacity: 0.15;
+        z-index: -1;
     }
 
 }
