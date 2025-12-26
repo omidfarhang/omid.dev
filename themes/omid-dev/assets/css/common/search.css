@@ -47,6 +47,11 @@
     margin-bottom: 10px;
 }
 
+#searchResults .post-entry .entry-footer {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
 .pagination {
     display: flex;
     justify-content: center;

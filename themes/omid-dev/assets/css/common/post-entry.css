@@ -59,7 +59,7 @@
 }
 
 .entry-header {
-    margin-bottom: 20px;
+    margin-bottom: 8px;
 }
 
 .entry-header h2 {
@@ -74,7 +74,7 @@
 }
 
 .entry-content {
-    margin: 12px 0 20px;
+    margin: 8px 0 20px;
     color: var(--content);
     font-size: 14px;
     line-height: 1.6;
@@ -85,9 +85,35 @@
 }
 
 .entry-footer {
-    color: var(--content);
-    font-size: 13px;
+    color: var(--secondary);
+    font-size: 14px;
     margin: 0 0 12px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
+.entry-footer .meta-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.entry-footer .meta-item + .meta-item::before {
+    content: none;
+}
+
+.entry-footer .post-meta-avatar {
+    height: 24px;
+    width: 24px;
+    margin-right: 0;
+    border: 1px solid var(--border);
+}
+
+.entry-footer i {
+    color: var(--tertiary);
+    font-size: 14px;
 }
 
 .entry-link {

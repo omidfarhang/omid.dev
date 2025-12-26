@@ -22,7 +22,6 @@
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
-      <!-- {{- partial "translation_list.html" . -}} -->
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
     </div>
@@ -53,9 +52,6 @@
         <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
         {{- end }}
       </ul>
-      {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-      {{- partial "share_icons.html" . -}}
-      {{- end }}
     </div>
 
     {{- if (.Param "ShowPostNavLinks") }}

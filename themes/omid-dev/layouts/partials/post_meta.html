@@ -1,60 +1,149 @@
 {{- $context := . -}}
 {{- $hideAuthor := false -}}
 {{- $hideTranslations := false -}}
+{{- $hideShare := false -}}
+{{- $isCompact := false -}}
 
 {{- if reflect.IsMap . -}}
     {{- $context = .Context -}}
-    {{- $hideAuthor = .hideAuthor -}}
-    {{- $hideTranslations = .hideTranslations -}}
+    {{- if isset . "hideAuthor" }}{{ $hideAuthor = .hideAuthor }}{{ end -}}
+    {{- if isset . "hideTranslations" }}{{ $hideTranslations = .hideTranslations }}{{ end -}}
+    {{- if isset . "hideShare" }}{{ $hideShare = .hideShare }}{{ end -}}
+    {{- if isset . "isCompact" }}{{ $isCompact = .isCompact }}{{ end -}}
 {{- end -}}
 
-<ul class="meta">
-
-    {{- if and (not ($context.Param "hideAuthor")) (not $hideAuthor) -}}
-        <li class="meta-author">
-            <span class="screen-reader-text">Post author:</span>
-            {{- if $context.Site.Params.footer.avatar }}
-            <img src="{{ $context.Site.Params.footer.avatar }}" alt="{{ $context.Site.Params.author }}" class="post-meta-avatar">
-            {{- else }}
-            <i class="fas fa-user-circle" aria-hidden="true" role="img"></i>
-            {{- end }}
-            {{- with (partial "author.html" $context) }}
-                {{- . }}
-            {{- end }}
-        </li>
+{{- if not $isCompact }}<div class="meta-left">{{ end -}}
+{{- if and (not ($context.Param "hideAuthor")) (not $hideAuthor) -}}
+<span class="meta-item meta-author">
+    <span class="screen-reader-text">{{ i18n "author" | default "Author" }}:</span>
+    {{- if $context.Site.Params.footer.avatar }}
+    <img src="{{ $context.Site.Params.footer.avatar }}" alt="{{ $context.Site.Params.author }}" class="post-meta-avatar">
+    {{- else }}
+    <i class="fas fa-user-circle" aria-hidden="true" role="img"></i>
     {{- end }}
-
-    {{- if not $context.Date.IsZero -}}
-        <li class="meta-date">
-            <span class="screen-reader-text">Post published:</span>
-            <i aria-hidden="true" role="img" class="far fa-calendar-alt"></i>
-            <span title="{{($context.Date | time.Format (default "Jan 02, 2006 3:04 PM Z07:00" $context.Site.Params.DateFormat))}}">{{($context.Date | time.Format (default "January 2, 2006" $context.Site.Params.DateFormat))}}</span>
-        </li>
+    {{- with (partial "author.html" $context) }}
+        {{- . }}
     {{- end }}
+</span>
+{{- end }}
 
-    {{- if ($context.Param "ShowReadingTime") -}}
-        <li class="meta-reading-time">
-            <span class="screen-reader-text">Reading Time:</span>
-            <i aria-hidden="true" role="img" class="fa-solid fa-stopwatch"></i>
-            <span title="{{i18n "words" $context.WordCount | default (printf "%d words" $context.WordCount)}}">
-                {{i18n "read_time" $context.ReadingTime | default (printf "%d min" $context.ReadingTime)}}
+{{- if not $context.Date.IsZero -}}
+<span class="meta-item meta-date">
+    <span class="screen-reader-text">{{ i18n "published" | default "Published" }}:</span>
+    <i aria-hidden="true" role="img" class="far fa-calendar-alt"></i>
+    <span title="{{($context.Date | time.Format (default "Jan 02, 2006 3:04 PM Z07:00" $context.Site.Params.DateFormat))}}">{{($context.Date | time.Format (default "January 2, 2006" $context.Site.Params.DateFormat))}}</span>
+</span>
+{{- end }}
+
+{{- if ($context.Param "ShowReadingTime") -}}
+<span class="meta-item meta-reading-time">
+    <span class="screen-reader-text">{{ i18n "reading_time" | default "Reading Time" }}:</span>
+    <i aria-hidden="true" role="img" class="fa-solid fa-stopwatch"></i>
+    <span>{{i18n "read_time" $context.ReadingTime | default (printf "%d min" $context.ReadingTime)}}</span>
+</span>
+{{- end }}
+{{- if not $isCompact }}</div>{{ end -}}
+
+{{- if not $isCompact }}<div class="meta-right">{{ end -}}
+{{- if and $context.IsTranslated (not $isCompact) -}}
+<div class="meta-item meta-translations dropdown">
+    <button class="dropdown-btn" aria-label="Translations" onclick="this.parentElement.classList.toggle('active'); event.stopPropagation();">
+        <i class="fas fa-language" aria-hidden="true"></i>
+        <span>{{- i18n "translations" | default "Translations" -}}</span>
+        <i class="fas fa-chevron-down" aria-hidden="true" style="font-size: 10px; opacity: 0.7;"></i>
+    </button>
+    <div class="dropdown-content">
+        {{- range $context.Translations }}
+        <a href="{{ .Permalink }}">
+            <span class="lang-flag">
+                {{- if (and $context.Site.Params.displayFullLangName (.Language.LanguageName)) }}
+                {{- .Language.LanguageName | emojify -}}
+                {{- end -}}
             </span>
-        </li>
-    {{- end }}
-
-    {{- if and $context.IsTranslated (not $hideTranslations) -}}
-    <li class="meta-translations">{{- i18n "translations" | default "Translations" }}:
-    {{- range $context.Translations }}
-    &nbsp;
-        <a href="{{ .Permalink }}" title="{{- i18n "translations" | default "Translations" }} {{- .Lang | title -}}">
-            {{- if (and $context.Site.Params.displayFullLangName (.Language.LanguageName)) }}
-            {{- .Language.LanguageName | emojify -}}
-            {{- else }}
-            {{- .Lang | title -}}
-            {{- end -}}
+            <span class="lang-name">
+                {{- with .Language.Params.languageAltTitle }}{{ . }}{{ else }}{{ .Lang | title }}{{ end -}}
+            </span>
         </a>
-    {{- end }}
-    </li>
-    {{- end -}}
+        {{- end }}
+    </div>
+</div>
+{{- end }}
 
-</ul>
+{{- if and (and $context.Site.Params.ShowShareButtons (ne $context.Params.disableShare true)) (not $isCompact) }}
+<div class="meta-item meta-share dropdown">
+    <button class="dropdown-btn" aria-label="Share" onclick="this.parentElement.classList.toggle('active'); event.stopPropagation();">
+        <i class="fas fa-share-alt" aria-hidden="true"></i>
+        <span>{{- i18n "share" | default "Share" -}}</span>
+        <i class="fas fa-chevron-down" aria-hidden="true" style="font-size: 10px; opacity: 0.7;"></i>
+    </button>
+    <div class="dropdown-content">
+        {{- $pageurl := $context.Permalink }}
+        {{- $shortpageurl := ($context.Param "shortlink") | default $context.Permalink }}
+        {{- $title := $context.Title }}
+
+        {{- $tags := "" }}
+        {{- with $context.Params.Tags }}
+            {{- $hashtags := newScratch }}
+            {{- range . }}{{ $hashtags.Add "tags" (slice (replaceRE "(\\s)" "" . ))}}{{end}}
+            {{- $tags = (delimit ($hashtags.Get "tags") ",") }}
+        {{- end }}
+        
+        <a href="#" id="share-native" style="display: none;" onclick="navigator.share({title: '{{ $title | safeJS }}', text: '{{ $title | safeJS }}', url: '{{ $pageurl | safeJS }}'}).catch(e => console.log(e)); return false;">
+            <i class="fas fa-share-nodes"></i>
+            <span>{{ i18n "share_native" | default "System Share" }}</span>
+        </a>
+        <a href="#" onclick="copyContent('{{ $shortpageurl }}'); return false;">
+            <i class="fas fa-link"></i>
+            <span>{{ i18n "copy_link" | default "Copy Link" }}</span>
+        </a>
+        <a href="https://x.com/intent/post/?text={{ $title }}&amp;url={{ $shortpageurl }}{{ with $tags }}&amp;hashtags={{ . }}{{ end }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-x-twitter"></i>
+            <span>X (Twitter)</span>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl }}&amp;title={{ $title }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-linkedin"></i>
+            <span>LinkedIn</span>
+        </a>
+        <a href="https://reddit.com/submit?url={{ $shortpageurl }}&title={{ $title }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-reddit-alien"></i>
+            <span>Reddit</span>
+        </a>
+        <a href="https://telegram.me/share/url?text={{ $title }}&amp;url={{ $shortpageurl }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-telegram"></i>
+            <span>Telegram</span>
+        </a>
+        <a href="https://api.whatsapp.com/send?text={{ $title }}%20-%20{{ $shortpageurl }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-whatsapp"></i>
+            <span>WhatsApp</span>
+        </a>
+        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-facebook"></i>
+            <span>Facebook</span>
+        </a>
+        <a href="https://news.ycombinator.com/submitlink?t={{ $title }}&u={{ $pageurl }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-y-combinator"></i>
+            <span>Hacker News</span>
+        </a>
+    </div>
+</div>
+{{- end }}
+{{- if not $isCompact }}</div>{{ end -}}
+
+<script>
+    // Handle native share button visibility
+    if (navigator.share) {
+        document.addEventListener('DOMContentLoaded', () => {
+            const nativeShare = document.getElementById('share-native');
+            if (nativeShare) nativeShare.style.display = 'flex';
+        });
+    }
+
+    document.addEventListener('click', function(event) {
+        const dropdowns = document.querySelectorAll('.meta-item.dropdown');
+        dropdowns.forEach(dropdown => {
+            if (!dropdown.contains(event.target)) {
+                dropdown.classList.remove('active');
+            }
+        });
+    });
+</script>

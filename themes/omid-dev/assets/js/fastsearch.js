@@ -166,11 +166,11 @@ function renderResults() {
         
         let metaItems = [];
         if (categories.length > 0) {
-            metaItems.push(`<li>
+            metaItems.push(`<span class="meta-item">
                 <span class="screen-reader-text">Categories:</span>
                 <i class="fas fa-folder" aria-hidden="true" role="img"></i>
                 ${categories.join(', ')}
-            </li>`);
+            </span>`);
         }
         
         if (date) {
@@ -180,15 +180,15 @@ function renderResults() {
                 month: 'long', 
                 day: 'numeric' 
             });
-            metaItems.push(`<li>
+            metaItems.push(`<span class="meta-item">
                 <span class="screen-reader-text">Post published:</span>
                 <i aria-hidden="true" role="img" class="far fa-calendar-alt"></i>
                 <span>${formattedDate}</span>
-            </li>`);
+            </span>`);
         }
         
         const metaInfo = metaItems.length > 0 
-            ? `<ul class="meta">${metaItems.join('')}</ul>`
+            ? `<footer class="entry-footer">${metaItems.join('')}</footer>`
             : '';
         
         resultSet += `<article class="post-entry">

@@ -228,6 +228,18 @@
     margin-bottom: 15px;
     font-size: 0.8rem;
     opacity: 0.8;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    overflow: hidden;
+}
+
+.recent-posts .entry-footer .meta-item {
+    flex-shrink: 0;
+}
+
+.recent-posts .entry-footer .meta-item + .meta-item::before {
+    margin: 0 6px;
 }
 
 .recent-posts .entry-link {
@@ -341,6 +353,9 @@
     }
     
     .skills-container {
+        grid-template-columns: 1fr;
+    }
+}
 
 /* RTL Support */
 [dir="rtl"] .section-title::after {

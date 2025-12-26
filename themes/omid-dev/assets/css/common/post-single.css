@@ -12,61 +12,222 @@
 }
 
 .post-title {
-    font-size: 34px;
-  padding: 0 0 20px;
-  margin: 0 0 15px;
-  border-bottom: 1px solid var(--border);
-  letter-spacing: .6px;
+    font-size: 38px;
+    line-height: 1.2;
+    font-weight: 800;
+    margin: 10px 0 20px;
+    padding: 0;
+    border: none;
+    letter-spacing: -0.02em;
+    color: var(--primary);
 }
 
 .post-description {
-    margin-top: 10px;
-    margin-bottom: 5px;
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--secondary);
+    margin-bottom: 25px;
+    font-weight: 400;
 }
 
 .post-meta {
-    color: var(--secondary);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 8px;
-    font-size: 13px;
-    padding: 0;
-    margin: 0 0 20px;
-    opacity: 0.85;
+    justify-content: space-between;
+    gap: 15px;
+    font-size: 14px;
+    padding: 20px 0;
+    margin: 30px 0 40px;
+    background: none;
+    border-radius: 0;
+    color: var(--secondary);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    position: relative;
 }
 
-.post-meta-avatar {
-    height: 32px;
-    width: 32px;
+.post-meta .meta-item:not(:last-child)::after {
+    display: none;
+}
+
+.post-meta .meta-item + .meta-item::before {
+    content: none;
+}
+
+.post-meta .meta-left {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
+.post-meta .post-meta-avatar {
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     vertical-align: middle;
     object-fit: cover;
-    margin-right: 4px;
-    box-shadow: var(--shadow-sm);
+    margin-right: 8px;
+    border: 2px solid var(--border);
 }
 
-.post-meta > * {
+.meta-item {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
+    white-space: nowrap;
 }
 
-.post-meta > *:not(:last-child)::after {
-    content: "•";
-    margin-left: 8px;
+.meta-item i {
+    font-size: 16px;
     color: var(--tertiary);
-    font-weight: normal;
 }
 
-.post-meta .i18n_list li {
-    display: inline-flex;
-    list-style: none;
-    margin: auto 3px;
+.meta-item a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.meta-item a:hover {
+    color: var(--accent);
+}
+
+.post-meta .meta-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.meta-item.dropdown {
+    position: relative;
+}
+
+.dropdown-btn {
+    background: var(--quaternary);
+    border: 1px solid var(--border);
+    color: var(--primary);
+    font-size: 13px;
+    font-family: inherit;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    border-radius: 20px;
+    transition: all 0.2s;
+}
+
+.dropdown-btn:hover {
+    background: var(--border);
+    border-color: var(--secondary);
+}
+
+.dropdown-btn i:first-child {
+    font-size: 16px;
+    color: var(--accent);
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: calc(100% + 10px);
+    background-color: var(--theme);
+    min-width: 180px;
+    box-shadow: var(--shadow-lg);
+    z-index: 100;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    overflow: hidden;
+    padding: 6px 0;
+}
+
+.dropdown.active .dropdown-content {
+    display: block;
+    animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slideUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+[dir="rtl"] .dropdown-content {
+    right: auto;
+    left: 0;
+}
+
+.dropdown-content a {
+    color: var(--primary);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.dropdown-content a:hover {
+    background-color: var(--quaternary);
+    color: var(--accent);
+}
+
+.meta-share .dropdown-content i {
+    width: 20px;
+    text-align: center;
+}
+
+.meta-share .dropdown-content i.fa-x-twitter { color: var(--primary); }
+.meta-share .dropdown-content i.fa-linkedin { color: #0077b5; }
+.meta-share .dropdown-content i.fa-telegram { color: #0088cc; }
+.meta-share .dropdown-content i.fa-whatsapp { color: #25d366; }
+.meta-share .dropdown-content i.fa-reddit-alien { color: #ff4500; }
+.meta-share .dropdown-content i.fa-facebook { color: #1877f2; }
+.meta-share .dropdown-content i.fa-y-combinator { color: #ff6600; }
+.meta-share .dropdown-content i.fa-share-nodes { color: var(--accent); }
+
+.lang-flag {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.lang-name {
+    font-weight: 500;
+}
+
+.post-meta .meta-item:not(:last-child)::after {
+    display: none;
+}
+
+.meta-item a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.meta-item a:hover {
+    color: var(--accent);
+}
+
+@media screen and (max-width: 600px) {
+    .meta-item.meta-author span:not(.screen-reader-text) {
+        display: none;
+    }
+    .meta-item.meta-author .post-meta-avatar {
+        margin-right: 0;
+    }
+    .post-meta {
+        gap: 8px;
+        padding: 8px 12px;
+    }
 }
 
 .breadcrumbs {
-    margin: 0 0 20px;
+    margin: 0 0 25px;
 }
 
 .breadcrumbs ol {
@@ -76,8 +237,10 @@
     padding: 0;
     margin: 0;
     list-style: none;
-    font-size: 14px;
-    color: var(--secondary);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--tertiary);
 }
 
 .breadcrumbs li {
@@ -86,23 +249,24 @@
 }
 
 .breadcrumbs li:not(:last-child)::after {
-    content: "\f054"; /* fa-chevron-right */
-    font-family: "Font Awesome 7 Free";
-    font-weight: 900;
-    font-size: 10px;
-    margin: 0 10px;
-    color: var(--tertiary);
+    content: "/";
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 0 12px;
+    color: var(--border);
 }
 
 [dir="rtl"] .breadcrumbs li:not(:last-child)::after {
-    content: "\f053"; /* fa-chevron-left */
+    content: "/";
 }
 
 .breadcrumbs a {
-    color: var(--secondary);
+    color: var(--tertiary);
     transition: color 0.2s ease;
     display: flex;
     align-items: center;
+    text-decoration: none;
 }
 
 .breadcrumbs a:hover {
@@ -110,8 +274,8 @@
 }
 
 .breadcrumbs li:last-child {
-    color: var(--primary);
-    font-weight: 500;
+    color: var(--secondary);
+    font-weight: 400;
 }
 
 .breadcrumbs li.breadcrumb-item-current {
@@ -655,6 +819,19 @@ img.in-text {
 }
 
 @media screen and (max-width: 768px) {
+    .post-title {
+        font-size: 28px;
+    }
+
+    .post-meta {
+        gap: 12px;
+    }
+
+    .meta-right {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
     .paginav {
         flex-direction: column;
         gap: 10px;
