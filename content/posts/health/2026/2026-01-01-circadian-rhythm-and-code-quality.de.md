@@ -4,7 +4,7 @@ date: 2026-01-01T02:22:25+03:30
 layout: single
 author_profile: true
 url: 2026/01/01/circadian-rhythm-and-code-quality/
-shortlink: https://g.omid.dev/21QVylo
+shortlink: https://g.omid.dev/W7gzEvk
 tags:
   - Gesundheit
   - Produktivität

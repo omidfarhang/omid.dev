@@ -4,7 +4,7 @@ date: 2025-12-23T02:26:48+03:30
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-real-world-examples/
-shortlink: https://g.omid.dev/tyBMsXq
+shortlink: https://g.omid.dev/3hHJLd7
 tags:
   - Jupyter
   - Python

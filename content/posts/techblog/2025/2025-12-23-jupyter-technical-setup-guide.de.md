@@ -4,7 +4,7 @@ date: 2025-12-23T02:00:00+03:30
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-technical-setup-guide/
-shortlink: https://g.omid.dev/FpT0kTO
+shortlink: https://g.omid.dev/vWV47ai
 tags:
   - Jupyter
   - Python

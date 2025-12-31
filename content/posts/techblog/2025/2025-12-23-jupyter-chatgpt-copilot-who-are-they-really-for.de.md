@@ -4,7 +4,7 @@ date: 2025-12-23T01:09:51+03:30
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
-shortlink: https://g.omid.dev/L3mFgTi
+shortlink: https://g.omid.dev/I84gYZ4
 tags:
   - Jupyter
   - ChatGPT
