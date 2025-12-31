@@ -4,7 +4,7 @@ date: 2025-12-25T02:21:24+03:30
 layout: single
 author_profile: true
 url: 2025/12/25/cost-of-consistency-design-systems/
-shortlink: https://g.omid.dev/draft-6
+shortlink: https://g.omid.dev/MOat1iC
 tags:
   - Design Systems
   - Engineering Leadership

@@ -4,7 +4,7 @@ date: 2026-01-01T02:20:42+03:30
 layout: single
 author_profile: true
 url: 2026/01/01/troubleshooting-intermittent-faults-electronics/
-shortlink: https://g.omid.dev/draft-electronics-1
+shortlink: https://g.omid.dev/RYmfYJD
 tags:
   - Electronics
   - Troubleshooting

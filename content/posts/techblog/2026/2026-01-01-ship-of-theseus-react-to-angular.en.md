@@ -4,7 +4,7 @@ date: 2026-01-01T02:25:59+03:30
 layout: single
 author_profile: true
 url: 2026/01/01/ship-of-theseus-react-to-angular/
-shortlink: https://g.omid.dev/draft-1
+shortlink: https://g.omid.dev/RiTgV8T
 tags:
   - Angular
   - React

@@ -4,7 +4,7 @@ date: 2025-12-28T02:24:05+03:30
 layout: single
 author_profile: true
 url: 2025/12/28/personal-knowledge-engine-jupyter-llm/
-shortlink: https://g.omid.dev/draft-5
+shortlink: https://g.omid.dev/anqnyVS
 tags:
   - AI
   - Jupyter

@@ -4,7 +4,7 @@ date: 2025-12-24T02:20:31+03:30
 layout: single
 author_profile: true
 url: 2025/12/24/angular-signals-control-theory/
-shortlink: https://g.omid.dev/draft-4
+shortlink: https://g.omid.dev/Lbi72TS
 tags:
   - Angular
   - Signals

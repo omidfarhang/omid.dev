@@ -4,7 +4,7 @@ date: 2025-12-26T02:22:19+03:30
 layout: single
 author_profile: true
 url: 2025/12/26/debugging-radio-vs-microservices/
-shortlink: https://g.omid.dev/draft-2
+shortlink: https://g.omid.dev/EnfoqQx
 tags:
   - Debugging
   - Electronics

@@ -4,7 +4,7 @@ date: 2025-12-27T02:23:11+03:30
 layout: single
 author_profile: true
 url: 2025/12/27/ethics-of-legacy-code/
-shortlink: https://g.omid.dev/draft-3
+shortlink: https://g.omid.dev/deeZf3I
 tags:
   - Legacy Systems
   - Engineering Leadership
