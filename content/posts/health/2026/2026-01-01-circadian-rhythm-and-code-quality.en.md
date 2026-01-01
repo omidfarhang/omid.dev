@@ -102,6 +102,6 @@ To learn more about the science of circadian rhythms and how to optimize your en
 
 - **"Why We Sleep" by Matthew Walker:** The definitive guide to the science of sleep and how it impacts every aspect of our physical and mental health.
 - **"The Circadian Code" by Dr. Satchin Panda:** A deep dive into how timing your light, food, and exercise can transform your health.
-- **[The Huberman Lab Podcast - Master Your Sleep & Be More Alert When Awake](https://www.hubermanlab.com/episode/master-your-sleep-be-more-alert-when-awake):** A comprehensive breakdown of the light-exposure protocols mentioned in this post.
+- **[The Huberman Lab Podcast - Master Your Sleep & Be More Alert When Awake](https://www.hubermanlab.com/episode/master-your-sleep-and-be-more-alert-when-awake):** A comprehensive breakdown of the light-exposure protocols mentioned in this post.
 - **"Phototransduction by Retinal Ganglion Cells That Set the Circadian Clock" (Science, 2002):** The seminal paper that identified melanopsin and the ipRGC pathway.
 - **[f.lux](https://justgetflux.com/):** One of the original tools for managing screen color temperature, with extensive research links on their site.
