@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/01/01/troubleshooting-intermittent-faults-electronics/
 shortlink: https://g.omid.dev/3Lu719W
+x_link: https://x.com/OmidFarhangEn/status/2001398845700260183
+mastodon_link: https://mastodon.social/@omidfarhang/115737001232998501
+bluesky_link: https://bsky.app/profile/omid.dev/post/3ma7lppqz4s2n
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_activity-7407167453845401601-h1MY
 tags:
   - Elektronik
   - Fehlersuche
