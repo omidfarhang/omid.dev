@@ -1,6 +1,7 @@
 ---
-title: "The 'Ship of Theseus' Migration: Why We Swapped React for Angular in Production"
+title: "Migrating from React to Angular: A 'Ship of Theseus' Case Study in Production"
 date: 2026-01-01T02:25:59+03:30
+description: "A detailed look at why and how we migrated a core legacy React application to Angular in a high-stakes FinTech environment using the Strangler Fig pattern."
 layout: single
 author_profile: true
 url: 2026/01/01/ship-of-theseus-react-to-angular/
@@ -19,7 +20,7 @@ In the software world, the "Ship of Theseus" paradox is a daily reality. We repl
 
 At work, we did something that might sound like heresy to some: we migrated our core legacy React applications to Angular.
 
-This wasn't a decision made out of fanboyism. It was a strategic move driven by the need for governance, stability, and long-term maintainability in a high-stakes FinTech environment. In this post, I'll break down the architectural "why" and the pragmatic "how" of moving against the grain.
+This wasn't a decision made out of fanboyism. It was a strategic move driven by the need for governance, stability, and long-term maintainability in a high-stakes FinTech environment. I'll explain the architectural "why" and the pragmatic "how" of moving against the grain.
 
 ## The Strategic "Why"
 
@@ -40,7 +41,7 @@ While React is fast, we found that Angular's Ahead-of-Time (AoT) compilation and
 
 ## The Pragmatic "How"
 
-We couldn't just stop the world for six months to rewrite everything. We had to perform a "Ship of Theseus" migration—replacing the ship while it was still at sea.
+We couldn't just stop the world for six months to rewrite everything. We had to perform a "Ship of Theseus" migration, replacing the ship while it was still at sea.
 
 ### 1. The Nx Monorepo
 The first step was consolidating our fragmented repositories into an **Nx Monorepo**. This allowed us to share code between the old React apps and the new Angular apps during the transition. It also reduced our CI/CD build times by 50% through intelligent caching.

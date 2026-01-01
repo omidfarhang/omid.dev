@@ -1,6 +1,7 @@
 ---
 title: "Jupyter, ChatGPT, Copilot (Part 2): The Technical Guide to Jupyter Setup"
 date: 2025-12-23T02:00:00+03:30
+description: "A professional guide to setting up Jupyter for software engineers, covering installation, environment management, and version control."
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-technical-setup-guide/
@@ -15,7 +16,6 @@ lang: en
 categories: 
   - TechBlog
 ---
-
 *This is Part 2 of a three-part series. In [Part 1: The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/), we discussed why and when to use Jupyter. Here, we dive into the technical implementation. [Part 3: Real-World Code Examples](/2025/12/23/jupyter-real-world-examples/) covers practical use cases.*
 
 ---
@@ -24,7 +24,7 @@ categories:
 
 For a software engineer, the "standard" way of installing Jupyter (global pip install) is often the wrong way. It leads to dependency hell and "it works on my machine" syndrome.
 
-Here is how to set it up like a pro.
+Here is a professional setup guide.
 
 ---
 

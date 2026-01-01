@@ -1,6 +1,7 @@
 ---
 title: "Jupyter, ChatGPT, Copilot (Teil 2): Der technische Leitfaden zur Jupyter-Einrichtung"
 date: 2025-12-23T02:00:00+03:30
+description: "Ein professioneller Leitfaden zur Einrichtung von Jupyter für Software-Ingenieure, der Installation, Umgebungsmanagement und Versionskontrolle abdeckt."
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-technical-setup-guide/
@@ -15,7 +16,6 @@ lang: de
 categories: 
   - TechBlog
 ---
-
 *Dies ist Teil 2 einer dreiteiligen Serie. In [Teil 1: Der strategische Wert des Denkens in Notebooks](/de/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) haben wir besprochen, warum und wann man Jupyter einsetzt. Hier tauchen wir in die technische Umsetzung ein. [Teil 3: Praxisbeispiele aus der echten Welt](/de/2025/12/23/jupyter-real-world-examples/) behandelt praktische Anwendungsfälle.*
 
 ---
@@ -24,7 +24,7 @@ categories:
 
 Für einen Software-Ingenieur ist der „Standardweg“ der Installation von Jupyter (globale Pip-Installation) oft der falsche Weg. Er führt zur Abhängigkeitshölle und zum „Auf meinem Rechner funktioniert es“-Syndrom.
 
-Hier erfahren Sie, wie Sie es wie ein Profi einrichten.
+Hier ist ein Leitfaden für eine professionelle Einrichtung.
 
 ---
 

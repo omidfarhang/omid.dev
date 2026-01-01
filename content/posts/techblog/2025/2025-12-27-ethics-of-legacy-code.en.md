@@ -1,6 +1,7 @@
 ---
-title: "The Ethics of Legacy Code: Why 'Rewriting from Scratch' is Often a Failure of Empathy"
+title: "The Ethics of Legacy Code: Why Rewriting is Often a Mistake"
 date: 2025-12-27T02:23:11+03:30
+description: "Explore the social and ethical implications of legacy code and why 'rewriting from scratch' is often a failure of empathy."
 layout: single
 author_profile: true
 url: 2025/12/27/ethics-of-legacy-code/
@@ -18,7 +19,7 @@ Every developer has been there: you inherit a codebase that looks like a bowl of
 
 But a rewrite is rarely just a technical decision. It's a social and ethical one. Legacy code is code that is *working*. It's code that is paying the bills, processing the transactions, and serving the users. When we dismiss it as "trash," we are dismissing the context, the constraints, and the hard work of the engineers who came before us.
 
-In this post, I want to explore the ethics of legacy code and why "rewriting from scratch" is often a failure of empathy.
+I'll explore the ethics of legacy code and why "rewriting from scratch" is often a failure of empathy.
 
 ## The Hubris of the "Greenfield" Project
 
@@ -37,7 +38,7 @@ In philosophy, there is a concept called **Chesterton's Fence**. It states that 
 
 Software is full of these "fences." You see a weird `if` statement that seems redundant, or a global variable that "shouldn't be there." Your first instinct is to delete it. But that "weird" code might be a fix for a critical bug in a specific version of Safari, or a workaround for a race condition in a legacy database.
 
-As I've discussed in my post on [Code Archaeology](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/), exploring a legacy system is like an archaeological dig. You have to carefully brush away the dirt to see the structure underneath. If you just bulldoze the site, you lose the history—and the hard-won knowledge—that the code contains.
+As I've discussed in my post on [Code Archaeology](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/), exploring a legacy system is like an archaeological dig. You have to carefully brush away the dirt to see the structure underneath. If you just bulldoze the site, you lose the history and the hard-won knowledge that the code contains.
 
 ## The Empathy-Driven Refactor
 

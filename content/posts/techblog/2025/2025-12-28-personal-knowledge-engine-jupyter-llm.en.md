@@ -1,6 +1,7 @@
 ---
-title: "Beyond Prompt Engineering: Building a Personal Knowledge Engine with Jupyter and Local LLMs"
+title: "Building a Personal Knowledge Engine with Jupyter and Local LLMs"
 date: 2025-12-28T02:24:05+03:30
+description: "Move beyond prompt engineering by combining Jupyter Notebooks with local LLMs to build a powerful personal knowledge engine."
 layout: single
 author_profile: true
 url: 2025/12/28/personal-knowledge-engine-jupyter-llm/
@@ -15,11 +16,11 @@ lang: en
 categories: 
   - TechBlog
 ---
-We've all used ChatGPT to write a function or debug a regex. But that's just the tip of the iceberg. The real power of Large Language Models (LLMs) isn't in the "chat"—it's in the integration. 
+We've all used ChatGPT to write a function or debug a regex. But that's just the tip of the iceberg. The real power of Large Language Models (LLMs) isn't in the "chat"; it's in the integration. 
 
 As I explored in my [2025 series on Jupyter and AI](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/), the real value of these tools comes when they are part of a structured thinking process. By combining the interactive execution of **Jupyter Notebooks** with the reasoning power of **Local LLMs**, we can build something much more powerful: a Personal Knowledge Engine.
 
-In this post, I share my workflow for moving beyond "prompt engineering" and into the world of executable reasoning.
+I'll share my workflow for moving beyond "prompt engineering" and into the world of executable reasoning.
 
 ## The Problem with "Chat"
 
@@ -49,7 +50,7 @@ If the code fails, I don't have to explain the error to the LLM. I can just pipe
 
 Running models like **Llama 3**, **Mistral**, or **Phi-3** on your own hardware (especially if you have a modern GPU) is surprisingly fast. But more importantly, it's private. I can feed my entire `resume.yaml` or my internal project roadmaps into the model without worrying about where that data is going. 
 
-This allows me to use the LLM for high-level architectural decision-making—like "How should I refactor this legacy module to support gRPC?"—using the actual, sensitive context of the project.
+This allows me to use the LLM for high-level architectural decision-making, like "How should I refactor this legacy module to support gRPC?", using the actual, sensitive context of the project.
 
 ## My Workflow: A Typical Session
 

@@ -1,6 +1,7 @@
 ---
 title: "The Ghost in the Machine: Troubleshooting Intermittent Faults in Vintage Circuits"
 date: 2026-01-01T02:20:42+03:30
+description: "A guide to finding and fixing elusive intermittent faults in vintage circuits using thermal testing, mechanical checks, and signal analysis."
 layout: single
 author_profile: true
 url: 2026/01/01/troubleshooting-intermittent-faults-electronics/
@@ -18,7 +19,7 @@ There is nothing more frustrating than a device that works perfectly until you t
 
 Unlike a blown fuse or a charred resistor, an intermittent fault is a ghost. It might be a cold solder joint that only fails when the chassis expands from heat, or a silver-mica capacitor that only leaks under specific humidity levels. These are the problems that don't show up on a static multimeter test. They require a dynamic, almost adversarial approach to troubleshooting.
 
-In this post, I dive into the systematic approach to hunting ghosts:
+In this post, I'll explore the systematic approach to hunting ghosts:
 - **Thermal Stress Testing:** Using freeze spray and heat guns to force the fault to appear.
 - **The "Tap Test":** Why mechanical vibration is still a valid diagnostic tool for 50-year-old circuit boards.
 - **Signal Injection vs. Signal Tracing:** Choosing the right weapon for a disappearing enemy.
@@ -45,8 +46,8 @@ Heat is the enemy of electronics, but in troubleshooting, it is also your best f
 ### The Heat Gun
 When a device fails only after "warming up," you can accelerate the process using a heat gun (or even a hair dryer on a focused setting). By selectively heating small areas of the circuit board, you can narrow down which component is failing. The goal isn't to cook the circuit, but to simulate the expansion that occurs during normal operation. If you heat a specific transistor and the audio suddenly cuts out, you've found your ghost.
 
-### Freeze Spray
-The inverse of the heat gun is freeze spray—a can of compressed refrigerant that can drop a component's temperature to -50°C in seconds. This is the "magic wand" of the electronics bench. If a device has already failed due to heat, you can spray components one by one. When you hit the faulty part, the sudden contraction often restores the connection or stabilizes the internal semiconductor junction, and the device springs back to life. 
+### Freeze spray
+The inverse of the heat gun is freeze spray, a can of compressed refrigerant that can drop a component's temperature to -50°C in seconds. It's a vital tool for any electronics bench. If a device has already failed due to heat, you can spray components one by one. When you hit the faulty part, the sudden contraction often restores the connection or stabilizes the internal semiconductor junction, and the device springs back to life. 
 
 This "thermal cycling" is a powerful diagnostic tool because it provides immediate feedback. It turns a vague "it stops working after an hour" into a specific "this 2.2k ohm resistor is drifting out of spec when hot."
 
@@ -93,7 +94,7 @@ As a software engineer, I find that these hardware techniques have direct parall
 
 Troubleshooting intermittent faults is 10% tools and 90% mindset. It requires the ability to sit with a broken device, observe its patterns, and resist the urge to start replacing parts at random. In a world of "disposable" electronics, the act of hunting a ghost in a 50-year-old circuit is a form of engineering mindfulness.
 
-It reminds us that everything—whether it's a line of TypeScript or a carbon-composition resistor—exists in a physical context. When we fix the ghost in the machine, we aren't just restoring a circuit; we are proving that with enough patience and the right methodology, even the most elusive problems can be solved.
+It reminds us that everything, whether it's a line of TypeScript or a carbon-composition resistor, exists in a physical context. When we fix the ghost in the machine, we aren't just restoring a circuit; we are proving that with enough patience and the right methodology, even the most elusive problems can be solved.
 
 ## Further Reading & Resources
 

@@ -1,6 +1,7 @@
 ---
-title: "The 'Signal' and the 'Noise': Applying Control Theory to Angular's New Reactivity Model"
+title: "Angular Signals and Control Theory: A New Reactivity Model"
 date: 2025-12-24T02:20:31+03:30
+description: "Explore the connection between Control Theory and Angular's new Signals-based reactivity model for better frontend performance."
 layout: single
 author_profile: true
 url: 2025/12/24/angular-signals-control-theory/
@@ -17,7 +18,7 @@ categories:
 ---
 Angular Signals have changed the way we think about reactivity in the frontend. But if you step outside the world of JavaScript, the concept of a "Signal" has a much older, much deeper history in Control Theory and Electrical Engineering.
 
-When we talk about "glitch-free" execution in Angular, we are actually talking about maintaining the integrity of a signal graph. In this post, I bridge the gap between the physics of signals and the architecture of modern web applications.
+When we talk about "glitch-free" execution in Angular, we are actually talking about maintaining the integrity of a signal graph. I'll explore the connection between the physics of signals and the architecture of modern web applications.
 
 ## The Physics of Reactivity
 
@@ -33,7 +34,7 @@ At its core, Angular's reactivity model is a directed graph of **Producers** and
 
 In Control Theory, this mirrors a **Feedforward System**. A change at the input propagates through the system to the output. However, when we introduce `computed` values that depend on other signals, we create a dependency chain that looks very much like a **Feedback Loop**.
 
-The beauty of Angular Signals is how they handle the "Pull" vs. "Push" dynamic. Traditional Observables (like RxJS) are primarily "Push"-based. When a value changes, it is pushed through the pipe immediately. Signals, however, use a "Push-then-Pull" algorithm. They notify consumers that they *might* be dirty, but the actual value is only recomputed when someone asks for it. This is exactly how a high-efficiency power supply regulates voltage: it doesn't pump power constantly; it adjusts based on the load.
+What's great about Angular Signals is how they handle the "Pull" vs. "Push" dynamic. Traditional Observables (like RxJS) are primarily "Push"-based. When a value changes, it is pushed through the pipe immediately. Signals, however, use a "Push-then-Pull" algorithm. They notify consumers that they *might* be dirty, but the actual value is only recomputed when someone asks for it. This is exactly how a high-efficiency power supply regulates voltage: it doesn't pump power constantly; it adjusts based on the load.
 
 ## Damping and Latency: Computed Values as Filters
 

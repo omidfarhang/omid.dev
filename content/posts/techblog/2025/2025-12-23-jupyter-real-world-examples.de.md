@@ -1,6 +1,7 @@
 ---
 title: "Jupyter, ChatGPT, Copilot (Teil 3): Praxisbeispiele aus der echten Welt"
 date: 2025-12-23T02:26:48+03:30
+description: "Konkrete Szenarien, in denen Jupyter-Notebooks traditionelle IDEs für Senior Engineers übertreffen, einschließlich API-Exploration und Performance-Audits."
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-real-world-examples/
@@ -15,7 +16,6 @@ lang: de
 categories: 
   - TechBlog
 ---
-
 *Dies ist Teil 3 einer Serie über moderne Entwicklungs-Workflows. [Teil 1: Der strategische Wert des Denkens in Notebooks](/de/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) und [Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/) haben die Grundlage geschaffen. Schauen wir uns nun konkreten Code an.*
 
 In den vorangegangenen Teilen haben wir besprochen, warum Jupyter eine „Denkumgebung“ ist. In diesem abschließenden Teil werden wir vier konkrete Szenarien durchgehen, in denen ein Notebook für einen Senior Engineer besser abschneidet als eine traditionelle IDE.
@@ -44,13 +44,13 @@ df = pd.json_normalize(data['items'])
 df.head() # Zeigt eine schöne interaktive Tabelle
 ```
 
-**Warum das gewinnt:** Sie können die Header anpassen, die Query-Parameter ändern und *nur* die Zelle mit der Anfrage erneut ausführen, ohne Ihre gesamte Anwendung neu starten zu müssen.
+**Der Vorteil:** Sie können die Header anpassen, die Query-Parameter ändern und *nur* die Zelle mit der Anfrage erneut ausführen, ohne Ihre gesamte Anwendung neu starten zu müssen.
 
 ---
 
 ## 2. Performance-Audit: Den Engpass finden
 
-Stellen Sie sich vor, Ihre Logs zeigen einen Anstieg der Latenz. Sie können eine Stichprobe der Logs ziehen und diese sofort analysieren.
+Wenn Ihre Logs einen Anstieg der Latenz zeigen, können Sie eine Stichprobe der Logs ziehen und diese sofort analysieren.
 
 ```python
 import json

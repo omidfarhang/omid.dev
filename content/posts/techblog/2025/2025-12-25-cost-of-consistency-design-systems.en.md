@@ -1,6 +1,7 @@
 ---
-title: "The Cost of Consistency: When Your Design System Becomes a Bottleneck"
+title: "The Cost of Consistency: Avoiding Design System Bottlenecks"
 date: 2025-12-25T02:21:24+03:30
+description: "Lessons learned from building a comprehensive Angular-based design system and how to avoid the rigidity trap and abstraction tax."
 layout: single
 author_profile: true
 url: 2025/12/25/cost-of-consistency-design-systems/
@@ -16,9 +17,9 @@ categories:
 ---
 Design systems are promised as the ultimate productivity booster. "Build once, use everywhere." And for the first six months, it's true. You see the velocity of your feature teams skyrocket as they stop arguing about hex codes and start assembling pages from a library of pre-built components.
 
-But as your team grows and your product evolves, the very system that was supposed to speed you up can start to slow you down. At work, we built a comprehensive Angular-based design system that initially reduced delivery time by 40%. However, as we scaled, we hit the "maintenance phase"—the point where the cost of consistency began to rival the cost of development itself.
+But as your team grows and your product evolves, the very system that was supposed to speed you up can start to slow you down. At work, we built a comprehensive Angular-based design system that initially reduced delivery time by 40%. However, as we scaled, we hit the "maintenance phase": the point where the cost of consistency began to rival the cost of development itself.
 
-In this post, I share the hard lessons we learned about the hidden taxes of a design system and how to keep it from becoming a bottleneck.
+I'll share the lessons we learned about the hidden taxes of a design system and how to keep it from becoming a bottleneck.
 
 ## The "Rigidity" Trap
 
