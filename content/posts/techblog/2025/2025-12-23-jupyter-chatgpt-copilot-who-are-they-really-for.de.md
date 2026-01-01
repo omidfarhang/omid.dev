@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
 shortlink: https://g.omid.dev/I84gYZ4
+x_link: https://x.com/OmidFarhangEn/status/2003242150402883883
+mastodon_link: https://mastodon.social/@omidfarhang/115765736961111842
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mamecnjink2j
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_jupyter-chatgpt-copilot-part-1-the-strategic-activity-7409007700174483456-e0Ww
 tags:
   - Jupyter
   - ChatGPT

@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/23/jupyter-real-world-examples/
 shortlink: https://g.omid.dev/3hHJLd7
+x_link: https://x.com/OmidFarhangEn/status/2003552133686403278
+mastodon_link: https://mastodon.social/@omidfarhang/115770584688823455
+bluesky_link: https://bsky.app/profile/omid.dev/post/3maoixk7qr22l
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_jupyter-chatgpt-copilot-part-3-real-world-activity-7409317093604487168-UQG9
 tags:
   - Jupyter
   - Python
