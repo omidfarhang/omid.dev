@@ -3,48 +3,40 @@
 {{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
 
 {{ if not $featured }}
-    {{/* 1. Select Base Image and Category Label */}}
-    {{ $featured = resources.Get "/opengraph/default.jpg" }}
+    {{/* 1. Determine Category and Base Image Path */}}
     {{ $categoryName := "Blog" }}
+    {{ $basePath := "/opengraph/default.jpg" }}
     
     {{ range .Params.categories }}
         {{ if eq (lower .) "techblog"  }}
-            {{ $featured = resources.Get "/opengraph/techblog.jpg" }}
+            {{ $basePath = "/opengraph/techblog.jpg" }}
             {{ $categoryName = "Tech Blog" }}
         {{ else if eq (lower .) "electronics" }}
-            {{ $featured = resources.Get "/opengraph/electronics.jpg" }}
+            {{ $basePath = "/opengraph/electronics.jpg" }}
             {{ $categoryName = "Electronics" }}
         {{ else if eq (lower .) "health" }}
-            {{ $featured = resources.Get "/opengraph/health.jpg" }}
+            {{ $basePath = "/opengraph/health.jpg" }}
             {{ $categoryName = "Health" }}
         {{ end }}
     {{ end }}
 
-    {{/* 2. Prepare Font and Colors */}}
+    {{/* 2. Load Static Resources */}}
     {{ $font := resources.Get "/opengraph/Inter-VariableFont_opsz-wght.ttf" }}
-    {{ $accentColor := "#14b8a6" }} {{/* Brighter Teal for OG */}}
-    {{ $white := "#FFFFFF" }}
+    {{ $avatar := resources.Get "/images/bio-photo-150x150.jpg" }}
+    {{ if not $avatar }}
+        {{ $avatar = resources.Get "/opengraph/avatar.jpg" }}
+    {{ end }}
 
-    {{/* 3. Apply Background Filters */}}
-    {{/* Darken slightly to make text pop and look more premium */}}
-    {{ $featured = $featured | images.Filter (images.Brightness -25) }}
+    {{/* 3. Get Branded Base Image (CACHED per category) */}}
+    {{/* This bakes the background, avatar, and static text once per category */}}
+    {{ $brandedBase := partialCached "templates/_funcs/get-branded-base.html" (dict "category" $categoryName "basePath" $basePath "font" $font "avatar" $avatar) $categoryName }}
 
-    {{/* 4. Draw Category Label (Small, All-Caps, Accent Color) */}}
-    {{ $categoryOptions := dict 
-        "color" $accentColor
-        "size" 28
-        "x" 80 "y" 80
-        "font" $font
-    }}
-    {{ $featured = $featured | images.Filter (images.Text (upper $categoryName) $categoryOptions) }}
-
-    {{/* 5. Prepare Wrapped Title */}}
+    {{/* 4. Prepare Wrapped Title (Dynamic per post) */}}
     {{ $title := $.LinkTitle }}
     {{ $wrappedTitle := "" }}
     {{ $line := "" }}
     {{ $words := split $title " " }}
     {{ range $words }}
-        {{/* Wrap at ~22 characters for a balanced look */}}
         {{ if gt (add (len $line) (len .)) 22 }}
             {{ $wrappedTitle = printf "%s%s\n" $wrappedTitle $line }}
             {{ $line = . }}
@@ -58,7 +50,7 @@
     {{ end }}
     {{ $wrappedTitle = printf "%s%s" $wrappedTitle $line }}
 
-    {{/* 6. Determine Title Font Size based on length */}}
+    {{/* 5. Determine Title Font Size */}}
     {{ $fontSize := 80 }}
     {{ if gt (len $title) 40 }}
         {{ $fontSize = 65 }}
@@ -67,45 +59,15 @@
         {{ $fontSize = 50 }}
     {{ end }}
 
-    {{/* 7. Draw Title (Large, White) */}}
+    {{/* 6. Draw Title on top of the Branded Base */}}
     {{ $titleOptions := dict 
-        "color" $white
+        "color" "#FFFFFF"
         "size" $fontSize
         "lineSpacing" 15
         "x" 80 "y" 140
         "font" $font
     }}
-    {{ $featured = $featured | images.Filter (images.Text $wrappedTitle $titleOptions) }}
-
-    {{/* 8. Add Avatar and Site Info (Footer Area) */}}
-    {{/* Note: For Hugo to process the avatar, it should be in the assets/ folder */}}
-    {{ $avatar := resources.Get "/images/bio-photo-150x150.jpg" }}
-    {{ if not $avatar }}
-        {{ $avatar = resources.Get "/opengraph/avatar.jpg" }}
-    {{ end }}
-
-    {{ if $avatar }}
-        {{ $avatar = $avatar.Fill "100x100" }}
-        {{ $featured = $featured | images.Filter (images.Overlay $avatar 80 480) }}
-    {{ end }}
-
-    {{/* Site Owner Name */}}
-    {{ $nameOptions := dict 
-        "color" $white
-        "size" 36
-        "x" 200 "y" 500
-        "font" $font
-    }}
-    {{ $featured = $featured | images.Filter (images.Text "Omid Farhang" $nameOptions) }}
-
-    {{/* Site Domain */}}
-    {{ $siteOptions := dict 
-        "color" $accentColor
-        "size" 24
-        "x" 200 "y" 545
-        "font" $font
-    }}
-    {{ $featured = $featured | images.Filter (images.Text "omid.dev" $siteOptions) }}
+    {{ $featured = $brandedBase | images.Filter (images.Text $wrappedTitle $titleOptions) }}
 {{ end }}
 
 {{ return $featured }}

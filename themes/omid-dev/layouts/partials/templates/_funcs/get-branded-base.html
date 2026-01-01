@@ -1,0 +1,54 @@
+{{ $category := .category }}
+{{ $basePath := .basePath }}
+{{ $font := .font }}
+{{ $avatar := .avatar }}
+
+{{ $featured := resources.Get $basePath }}
+{{ if not $featured }}
+    {{ $featured = resources.Get "/opengraph/default.jpg" }}
+{{ end }}
+
+{{/* Colors */}}
+{{ $accentColor := "#14b8a6" }}
+{{ $white := "#FFFFFF" }}
+
+{{/* 1. Combine all static filters into ONE call to avoid multiple re-encodes */}}
+{{ $filters := slice (images.Brightness -25) }}
+
+{{/* 2. Add Category Label */}}
+{{ $categoryOptions := dict 
+    "color" $accentColor
+    "size" 28
+    "x" 80 "y" 80
+    "font" $font
+}}
+{{ $filters = $filters | append (images.Text (upper $category) $categoryOptions) }}
+
+{{/* 3. Add Avatar */}}
+{{ if $avatar }}
+    {{ $avatar = $avatar.Fill "100x100" }}
+    {{ $filters = $filters | append (images.Overlay $avatar 80 480) }}
+{{ end }}
+
+{{/* 4. Add Name */}}
+{{ $nameOptions := dict 
+    "color" $white
+    "size" 36
+    "x" 200 "y" 500
+    "font" $font
+}}
+{{ $filters = $filters | append (images.Text "Omid Farhang" $nameOptions) }}
+
+{{/* 5. Add Domain */}}
+{{ $siteOptions := dict 
+    "color" $accentColor
+    "size" 24
+    "x" 200 "y" 545
+    "font" $font
+}}
+{{ $filters = $filters | append (images.Text "omid.dev" $siteOptions) }}
+
+{{/* Apply all static filters at once */}}
+{{ $featured = $featured | images.Filter $filters }}
+
+{{ return $featured }}
