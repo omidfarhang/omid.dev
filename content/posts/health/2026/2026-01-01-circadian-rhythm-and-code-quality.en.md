@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/01/01/circadian-rhythm-and-code-quality/
 shortlink: https://g.omid.dev/21QVylo
+x_link: https://x.com/OmidFarhangEn/status/2006667896920174736
+mastodon_link: https://mastodon.social/@omidfarhang/115819280922465615
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe4wnci5s2q
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-circadian-code-why-your-code-quality-activity-7412433928759926784-otzG
 tags:
   - Health
   - Productivity

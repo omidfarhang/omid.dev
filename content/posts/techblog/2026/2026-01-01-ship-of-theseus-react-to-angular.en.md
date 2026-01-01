@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/01/01/ship-of-theseus-react-to-angular/
 shortlink: https://g.omid.dev/RiTgV8T
+x_link: https://x.com/OmidFarhangEn/status/2006666111786561642
+mastodon_link: https://mastodon.social/@omidfarhang/115819252554839072
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe4jwv5b22s
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-ship-of-theseus-migration-why-we-swapped-activity-7412432099300888576-OgrI
 tags:
   - Angular
   - React

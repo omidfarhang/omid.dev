@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/25/cost-of-consistency-design-systems/
 shortlink: https://g.omid.dev/MOat1iC
+x_link: https://x.com/OmidFarhangEn/status/2006662815164305853
+mastodon_link: https://mastodon.social/@omidfarhang/115819198981390335
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe3tih6kc2s
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-cost-of-consistency-when-your-design-activity-7412428599909064704-2UgR
 tags:
   - Design Systems
   - Engineering Leadership

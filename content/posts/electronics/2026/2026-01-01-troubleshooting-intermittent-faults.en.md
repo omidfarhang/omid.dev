@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/01/01/troubleshooting-intermittent-faults-electronics/
 shortlink: https://g.omid.dev/RYmfYJD
+x_link: https://x.com/OmidFarhangEn/status/2006666917860511967
+mastodon_link: https://mastodon.social/@omidfarhang/115819263328635354
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe4pny4ks2u
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-ghost-in-the-machine-troubleshooting-activity-7412432793894436864-L7Hr
 tags:
   - Electronics
   - Troubleshooting

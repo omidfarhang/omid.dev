@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/27/ethics-of-legacy-code/
 shortlink: https://g.omid.dev/deeZf3I
+x_link: https://x.com/OmidFarhangEn/status/2006664329513615738
+mastodon_link: https://mastodon.social/@omidfarhang/115819226830634231
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe45cnazc2s
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-ethics-of-legacy-code-why-rewriting-activity-7412430294542237697-O4jF
 tags:
   - Legacy Systems
   - Engineering Leadership

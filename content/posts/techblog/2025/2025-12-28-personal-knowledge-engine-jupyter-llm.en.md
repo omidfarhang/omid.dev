@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/28/personal-knowledge-engine-jupyter-llm/
 shortlink: https://g.omid.dev/anqnyVS
+x_link: https://x.com/OmidFarhangEn/status/2006665304752140619
+mastodon_link: https://mastodon.social/@omidfarhang/115819237791601426
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe4eadcrs2s
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_beyond-prompt-engineering-building-a-personal-activity-7412431153686654977-6g18
 tags:
   - AI
   - Jupyter

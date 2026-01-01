@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/26/debugging-radio-vs-microservices/
 shortlink: https://g.omid.dev/EnfoqQx
+x_link: https://x.com/OmidFarhangEn/status/2006663694302994816
+mastodon_link: https://mastodon.social/@omidfarhang/115819212468636097
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe3yt7hxs2s
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_what-debugging-a-1970s-radio-taught-me-about-activity-7412429518826668033-o0_Q
 tags:
   - Debugging
   - Electronics

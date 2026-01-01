@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2025/12/24/angular-signals-control-theory/
 shortlink: https://g.omid.dev/Lbi72TS
+x_link: https://x.com/OmidFarhangEn/status/2006660827039019203
+mastodon_link: https://mastodon.social/@omidfarhang/115819169002563521
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mbe3egt2322s
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-signal-and-the-noise-applying-control-activity-7412426668339933184-Qg32
 tags:
   - Angular
   - Signals
