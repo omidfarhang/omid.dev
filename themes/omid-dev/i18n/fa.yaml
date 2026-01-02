@@ -143,6 +143,9 @@
 - id: certifications
   translation: "گواهینامه‌ها"
 
+- id: download
+  translation: "دانلود"
+
 - id: resume
   translation: "رزومه"
 
@@ -158,8 +161,14 @@
 - id: get_in_touch
   translation: "در تماس باشید"
 
+- id: export_options
+  translation: "گزینه‌های خروجی"
+
 - id: print_pdf
   translation: "نسخه چاپی / PDF"
+
+- id: download_pdf
+  translation: "دانلود نسخه PDF"
 
 - id: back_to_resume
   translation: "بازگشت به رزومه"

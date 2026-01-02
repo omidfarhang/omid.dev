@@ -39,6 +39,15 @@
         <a href="{{ "resume" | relLangURL }}" class="cta-button primary">
           <i class="fas fa-file-alt"></i> {{ T "view_resume" | default "View Resume" }}
         </a>
+        {{- $pdfName := "OmidFarhang-Resume.pdf" -}}
+        {{- if eq .Site.Language.Lang "de" -}}
+          {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
+        {{- else if eq .Site.Language.Lang "fa" -}}
+          {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
+        {{- end -}}
+        <a href="{{ printf "resume/%s" $pdfName | relURL }}" class="cta-button secondary" target="_blank">
+          <i class="fas fa-download"></i> {{ T "download_pdf" | default "Download PDF" }}
+        </a>
         <a href="{{ "resume/print" | relLangURL }}" class="cta-button secondary" target="_blank">
           <i class="fas fa-file-pdf"></i> {{ T "print_pdf" | default "PDF Version" }}
         </a>

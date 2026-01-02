@@ -53,6 +53,26 @@
   }
   </script>
 
+  <div class="resume-utility-bar d-print-none">
+    <div class="utility-container">
+      <span class="utility-label"><i class="fa-solid fa-file-export"></i> {{ T "export_options" | default "Export Options" }}</span>
+      <div class="utility-actions">
+        {{- $pdfName := "OmidFarhang-Resume.pdf" -}}
+        {{- if eq .Site.Language.Lang "de" -}}
+          {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
+        {{- else if eq .Site.Language.Lang "fa" -}}
+          {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
+        {{- end -}}
+        <a href="{{ printf "resume/%s" $pdfName | relURL }}" class="utility-btn" target="_blank">
+          <i class="fa-solid fa-file-arrow-down"></i> {{ T "download_pdf" }}
+        </a>
+        <a href="{{ "resume/print" | relLangURL }}" class="utility-btn" target="_blank">
+          <i class="fa-solid fa-print"></i> {{ T "print_pdf" }}
+        </a>
+      </div>
+    </div>
+  </div>
+
   <div class="resume-container">
 
     <div class="resume-header">
@@ -60,11 +80,6 @@
         <div class="resume-header-info">
           <h1>{{ $resume.name }}</h1>
           <h2>{{ $resume.title }}</h2>
-        </div>
-        <div class="resume-actions d-print-none">
-          <a href="{{ "resume/print" | relLangURL }}" class="btn-print" target="_blank">
-            <i class="fa-solid fa-file-pdf"></i> {{ T "print_pdf" }}
-          </a>
         </div>
       </div>
       

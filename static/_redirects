@@ -1,2 +1,7 @@
 /.well-known/host-meta* https://fed.brid.gy/.well-known/host-meta:splat 302
 /.well-known/webfinger* https://fed.brid.gy/.well-known/webfinger:splat 302
+
+# Resume PDF Redirects
+/resume/pdf /resume/OmidFarhang-Resume.pdf 301
+/de/resume/pdf /resume/OmidFarhang-Resume-De.pdf 301
+/fa/resume/pdf /resume/OmidFarhang-Resume-Fa.pdf 301

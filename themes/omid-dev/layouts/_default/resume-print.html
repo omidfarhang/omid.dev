@@ -272,6 +272,15 @@
         <button class="print-btn" onclick="window.print()">
             <i class="fa-solid fa-print"></i> {{ T "print_save_pdf" }}
         </button>
+        {{- $pdfName := "OmidFarhang-Resume.pdf" -}}
+        {{- if eq .Site.Language.Lang "de" -}}
+          {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
+        {{- else if eq .Site.Language.Lang "fa" -}}
+          {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
+        {{- end -}}
+        <a class="print-btn" href="{{ printf "resume/%s" $pdfName | relURL }}" target="_blank">
+            <i class="fa-solid fa-download"></i> {{ T "download_pdf" }}
+        </a>
         <a class="print-btn" href="{{ "resume" | relLangURL }}">
             <i class="fa-solid {{ if eq .Language.LanguageDirection "rtl" }}fa-arrow-right{{ else }}fa-arrow-left{{ end }}"></i> {{ T "back_to_resume" }}
         </a>

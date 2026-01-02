@@ -34,16 +34,22 @@
     margin-bottom: 2rem;
 }
 
+.resume-header-info {
+    flex: 1;
+    min-width: 0;
+}
+
 .resume-header-info h1 {
     margin: 0;
     font-size: 3.5rem;
     font-weight: 900;
     letter-spacing: -0.05em;
     color: var(--primary);
-    line-height: 0.9;
+    line-height: 1.1;
     background: linear-gradient(to bottom right, var(--primary), var(--accent));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    padding-bottom: 0.1em;
 }
 
 .resume-header-info h2 {
@@ -98,40 +104,86 @@
     color: var(--accent);
 }
 
-.resume-header-info h1 {
-    margin: 0;
-    font-size: 3rem;
-    font-weight: 800;
-    letter-spacing: -0.04em;
-    color: var(--primary);
-    line-height: 1;
+/* Utility Bar */
+.resume-utility-bar {
+    max-width: 1100px;
+    margin: 2rem auto -1rem;
+    padding: 0 1rem;
 }
 
-.resume-header-info h2 {
-    margin: 0.5rem 0 0 0;
-    font-size: 1.5rem;
-    font-weight: 500;
-    color: var(--accent);
+.utility-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--quaternary);
+    padding: 0.75rem 1.5rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
 }
 
-.btn-print {
-    display: inline-flex;
+.utility-label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.75rem 1.25rem;
-    background: var(--accent);
-    color: #fff !important;
-    border-radius: var(--radius);
+}
+
+.utility-actions {
+    display: flex;
+    gap: 1rem;
+}
+
+.utility-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--theme);
+    color: var(--primary) !important;
+    border: 1px solid var(--border);
+    border-radius: 6px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     transition: all 0.2s ease;
 }
 
-.btn-print:hover {
-    background: var(--accent-hover);
+.utility-btn:hover {
+    background: var(--accent);
+    color: #fff !important;
+    border-color: var(--accent);
     transform: translateY(-1px);
-    box-shadow: var(--shadow-md);
+}
+
+.utility-btn i {
+    color: var(--accent);
+}
+
+.utility-btn:hover i {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .resume-utility-bar {
+        margin-top: 1rem;
+    }
+    .utility-container {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    .utility-actions {
+        width: 100%;
+        justify-content: center;
+    }
+    .utility-btn {
+        flex: 1;
+        justify-content: center;
+    }
 }
 
 .resume-layout {
@@ -549,13 +601,6 @@ body:lang(fa) .summary-text {
         font-size: 1.25rem;
     }
 
-    .btn-print {
-        width: fit-content;
-        margin: 0 auto;
-        justify-content: center;
-        padding: 0.6rem 1.2rem;
-    }
-    
     .resume-sidebar {
         flex-direction: column;
         gap: 2rem;

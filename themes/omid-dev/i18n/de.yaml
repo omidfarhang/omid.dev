@@ -137,6 +137,9 @@
 - id: certifications
   translation: "Zertifizierungen"
 
+- id: download
+  translation: "Herunterladen"
+
 - id: resume
   translation: "Lebenslauf"
 
@@ -152,8 +155,14 @@
 - id: get_in_touch
   translation: "Kontakt aufnehmen"
 
+- id: export_options
+  translation: "Export-Optionen"
+
 - id: print_pdf
   translation: "Druck / PDF-Version"
+
+- id: download_pdf
+  translation: "PDF herunterladen"
 
 - id: back_to_resume
   translation: "Zurück zum Lebenslauf"

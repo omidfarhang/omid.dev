@@ -143,6 +143,9 @@
 - id: certifications
   translation: "Certifications"
 
+- id: download
+  translation: "Download"
+
 - id: resume
   translation: "Resume"
 
@@ -158,8 +161,14 @@
 - id: get_in_touch
   translation: "Get in Touch"
 
+- id: export_options
+  translation: "Export Options"
+
 - id: print_pdf
   translation: "Print / PDF Version"
+
+- id: download_pdf
+  translation: "Download PDF"
 
 - id: back_to_resume
   translation: "Back to Resume"
