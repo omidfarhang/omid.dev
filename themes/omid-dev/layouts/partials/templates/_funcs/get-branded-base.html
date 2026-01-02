@@ -16,13 +16,15 @@
 {{ $filters := slice (images.Brightness -25) }}
 
 {{/* 2. Add Category Label */}}
-{{ $categoryOptions := dict 
-    "color" $accentColor
-    "size" 28
-    "x" 80 "y" 80
-    "font" $font
-}}
-{{ $filters = $filters | append (images.Text (upper $category) $categoryOptions) }}
+{{ if $category }}
+    {{ $categoryOptions := dict 
+        "color" $accentColor
+        "size" 28
+        "x" 80 "y" 80
+        "font" $font
+    }}
+    {{ $filters = $filters | append (images.Text (upper $category) $categoryOptions) }}
+{{ end }}
 
 {{/* 3. Add Avatar */}}
 {{ if $avatar }}

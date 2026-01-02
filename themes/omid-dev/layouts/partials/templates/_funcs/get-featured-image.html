@@ -4,19 +4,32 @@
 
 {{ if not $featured }}
     {{/* 1. Determine Category and Base Image Path */}}
-    {{ $categoryName := "Blog" }}
+    {{ $categoryName := "" }}
     {{ $basePath := "/opengraph/default.jpg" }}
     
-    {{ range .Params.categories }}
-        {{ if eq (lower .) "techblog"  }}
-            {{ $basePath = "/opengraph/techblog.jpg" }}
-            {{ $categoryName = "Tech Blog" }}
-        {{ else if eq (lower .) "electronics" }}
-            {{ $basePath = "/opengraph/electronics.jpg" }}
-            {{ $categoryName = "Electronics" }}
-        {{ else if eq (lower .) "health" }}
-            {{ $basePath = "/opengraph/health.jpg" }}
-            {{ $categoryName = "Health" }}
+    {{ with .Params.categories }}
+        {{ $categoryName = index . 0 }}
+        {{ range . }}
+            {{ if eq (lower .) "techblog" }}
+                {{ $basePath = "/opengraph/techblog.jpg" }}
+            {{ else if eq (lower .) "electronics" }}
+                {{ $basePath = "/opengraph/electronics.jpg" }}
+            {{ else if eq (lower .) "health" }}
+                {{ $basePath = "/opengraph/health.jpg" }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+    {{/* 1.1 Fallback Labels for Sections and Taxonomies */}}
+    {{ if eq $categoryName "" }}
+        {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+            {{ if eq .Type "tags" }}
+                {{ $categoryName = cond (eq .Kind "taxonomy") "Tags" "Tag" }}
+            {{ else if eq .Type "categories" }}
+                {{ $categoryName = cond (eq .Kind "taxonomy") "Categories" "Category" }}
+            {{ end }}
+        {{ else if eq .Section "posts" }}
+            {{ $categoryName = "Blog" }}
         {{ end }}
     {{ end }}
 
