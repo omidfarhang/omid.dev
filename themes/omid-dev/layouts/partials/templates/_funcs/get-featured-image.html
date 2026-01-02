@@ -49,13 +49,30 @@
     {{ $cacheKey := printf "%s-%s" $categoryName .Lang }}
     {{ $brandedBase := partialCached "templates/_funcs/get-branded-base.html" (dict "category" $categoryName "basePath" $basePath "font" $font "avatar" $avatar) $cacheKey }}
 
-    {{/* 4. Prepare Wrapped Title (Dynamic per post) */}}
+    {{/* 4. Determine Title Font Size and Max Line Length */}}
     {{ $title := $.LinkTitle }}
+    {{ $fontSize := 80 }}
+    {{ $maxChars := 22 }}
+    
+    {{ if gt (len $title) 40 }}
+        {{ $fontSize = 65 }}
+        {{ $maxChars = 28 }}
+    {{ end }}
+    {{ if gt (len $title) 70 }}
+        {{ $fontSize = 50 }}
+        {{ $maxChars = 38 }}
+    {{ end }}
+    {{ if gt (len $title) 110 }}
+        {{ $fontSize = 42 }}
+        {{ $maxChars = 45 }}
+    {{ end }}
+
+    {{/* 5. Prepare Wrapped Title (Dynamic per post) */}}
     {{ $wrappedTitle := "" }}
     {{ $line := "" }}
     {{ $words := split $title " " }}
     {{ range $words }}
-        {{ if gt (add (len $line) (len .)) 22 }}
+        {{ if gt (add (len $line) (len .)) $maxChars }}
             {{ $wrappedTitle = printf "%s%s\n" $wrappedTitle $line }}
             {{ $line = . }}
         {{ else }}
@@ -67,15 +84,6 @@
         {{ end }}
     {{ end }}
     {{ $wrappedTitle = printf "%s%s" $wrappedTitle $line }}
-
-    {{/* 5. Determine Title Font Size */}}
-    {{ $fontSize := 80 }}
-    {{ if gt (len $title) 40 }}
-        {{ $fontSize = 65 }}
-    {{ end }}
-    {{ if gt (len $title) 70 }}
-        {{ $fontSize = 50 }}
-    {{ end }}
 
     {{/* 6. Draw Title on top of the Branded Base */}}
     {{ $titleOptions := dict 
