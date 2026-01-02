@@ -34,15 +34,20 @@
     {{ end }}
 
     {{/* 2. Load Static Resources */}}
-    {{ $font := resources.Get "/opengraph/Inter-VariableFont_opsz-wght.ttf" }}
+    {{ $fontPath := "/opengraph/Inter-VariableFont_opsz-wght.ttf" }}
+    {{ if eq .Lang "fa" }}
+        {{ $fontPath = "/opengraph/Vazirmatn[wght].ttf" }}
+    {{ end }}
+    {{ $font := resources.Get $fontPath }}
     {{ $avatar := resources.Get "/images/bio-photo-150x150.jpg" }}
     {{ if not $avatar }}
         {{ $avatar = resources.Get "/opengraph/avatar.jpg" }}
     {{ end }}
 
-    {{/* 3. Get Branded Base Image (CACHED per category) */}}
-    {{/* This bakes the background, avatar, and static text once per category */}}
-    {{ $brandedBase := partialCached "templates/_funcs/get-branded-base.html" (dict "category" $categoryName "basePath" $basePath "font" $font "avatar" $avatar) $categoryName }}
+    {{/* 3. Get Branded Base Image (CACHED per category and language) */}}
+    {{/* This bakes the background, avatar, and static text once per category/lang combo */}}
+    {{ $cacheKey := printf "%s-%s" $categoryName .Lang }}
+    {{ $brandedBase := partialCached "templates/_funcs/get-branded-base.html" (dict "category" $categoryName "basePath" $basePath "font" $font "avatar" $avatar) $cacheKey }}
 
     {{/* 4. Prepare Wrapped Title (Dynamic per post) */}}
     {{ $title := $.LinkTitle }}
