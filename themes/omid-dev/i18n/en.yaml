@@ -187,3 +187,21 @@
 
 - id: add_recommendation_desc
   translation: "If we've worked together and you'd like to share your experience, I'd love to hear from you on LinkedIn."
+
+- id: discussion_title
+  translation: "Join the Conversation"
+
+- id: discussion_desc
+  translation: "Found this post interesting? I'd love to hear your thoughts, questions, or feedback on these platforms:"
+
+- id: discuss_on
+  translation: "Discuss on {{ .Platform }}"
+
+- id: reply_on
+  translation: "Reply on {{ .Platform }}"
+
+- id: submit_to_hn
+  translation: "Submit to HN"
+
+- id: discuss_on_hn
+  translation: "Discuss on HN"
