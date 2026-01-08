@@ -42,7 +42,7 @@ related:
 
 # Imaging
 imaging:
-  anchor: smart
+  anchor: Smart
   quality: 75
   resampleFilter: Lanczos
 
@@ -59,9 +59,7 @@ markup:
     anchorLineNos: false
     codeFences: true
     guessSyntax: false
-    hl_Lines: ''
     hl_inline: false
-    lineAnchors: ''
     lineNoStart: 1
     lineNos: true
     lineNumbersInTable: true
@@ -314,7 +312,6 @@ services:
     limit: 20
 
 sitemap:
-  changeFreq: ""
   disable: false
   filename: sitemap.xml
   priority: -1

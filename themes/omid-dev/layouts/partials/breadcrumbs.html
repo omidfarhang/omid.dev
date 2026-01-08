@@ -65,7 +65,7 @@
                 {{- $len := len $parts }}
                 
                 {{- range $index, $element := $parts }}
-                    {{- if and (ne $element "") (ne $element "categories") (ne $element "tags") }}
+                    {{- if ne $element "" }}
                         {{- $path = printf "%s/%s" $path $element }}
                         {{- if lt (add $index 1) $len }}
                             {{- $bc_pg := site.GetPage $path -}}

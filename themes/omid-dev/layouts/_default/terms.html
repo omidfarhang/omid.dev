@@ -12,18 +12,143 @@
 </header>
 {{- end }}
 
-<ul class="terms-tags">
-    {{- $type := .Type }}
-    {{- range $key, $value := .Data.Terms.Alphabetical }}
-    {{- $name := .Name }}
-    {{- $count := .Count }}
-    {{- with site.GetPage (printf "/%s/%s" $type $name) }}
-    <li>
-        <a href="{{ .Permalink }}">{{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
-    </li>
-    {{- end }}
-    {{- end }}
-</ul>
+{{- $type := .Type }}
+{{- $terms := .Data.Terms.Alphabetical }}
+
+{{- if $terms }}
+<div class="terms-controls">
+    <div class="terms-search-wrapper">
+        <input type="text" id="terms-search" placeholder="Filter {{ .Type }}..." aria-label="Filter {{ .Type }}">
+    </div>
+    <div class="terms-sort-wrapper">
+        <button id="sort-alphabetical" class="active" title="Sort Alphabetically">A-Z</button>
+        <button id="sort-count" title="Sort by Popularity">Most Used</button>
+    </div>
+</div>
+
+<div id="view-alphabetical">
+    <nav class="terms-alphabet-nav">
+        {{- $letters := slice -}}
+        {{- range $terms -}}
+            {{- $letter := substr .Name 0 1 | upper -}}
+            {{- if (findRE "[0-9]" $letter) -}}
+                {{- $letter = "#" -}}
+            {{- end -}}
+            {{- if not (in $letters $letter) -}}
+                {{- $letters = $letters | append $letter -}}
+            {{- end -}}
+        {{- end -}}
+        
+        {{- range $letters -}}
+            <a href="#{{ if eq . "#" }}numeric{{ else }}{{ . }}{{ end }}">{{ . }}</a>
+        {{- end -}}
+    </nav>
+
+    <div class="terms-groups">
+        {{- range $letters -}}
+        {{- $currentLetter := . -}}
+        <section class="terms-group" id="{{ if eq $currentLetter "#" }}numeric{{ else }}{{ $currentLetter }}{{ end }}">
+            <h2 class="terms-group-title">{{ $currentLetter }}</h2>
+            <ul class="terms-tags">
+                {{- range $terms -}}
+                    {{- $itemLetter := substr .Name 0 1 | upper -}}
+                    {{- if (findRE "[0-9]" $itemLetter) -}}{{- $itemLetter = "#" -}}{{- end -}}
+                    {{- if eq $itemLetter $currentLetter -}}
+                        {{- $name := .Name -}}
+                        {{- $count := .Count -}}
+                        {{- with site.GetPage (printf "/%s/%s" $type $name) -}}
+                        <li>
+                            <a href="{{ .Permalink }}">
+                                {{ .Name }} <span class="term-count">{{ $count }}</span>
+                            </a>
+                        </li>
+                        {{- end -}}
+                    {{- end -}}
+                {{- end -}}
+            </ul>
+        </section>
+        {{- end -}}
+    </div>
+</div>
+
+<div id="view-count" style="display: none;">
+    <ul class="terms-tags">
+        {{- range .Data.Terms.ByCount -}}
+            {{- $name := .Name -}}
+            {{- $count := .Count -}}
+            {{- with site.GetPage (printf "/%s/%s" $type $name) -}}
+            <li>
+                <a href="{{ .Permalink }}">
+                    {{ .Name }} <span class="term-count">{{ $count }}</span>
+                </a>
+            </li>
+            {{- end -}}
+        {{- end -}}
+    </ul>
+</div>
+{{- end }}
 </div>{{/* end page-content */}}
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const searchInput = document.getElementById('terms-search');
+        const btnAlpha = document.getElementById('sort-alphabetical');
+        const btnCount = document.getElementById('sort-count');
+        const viewAlpha = document.getElementById('view-alphabetical');
+        const viewCount = document.getElementById('view-count');
+        
+        const alphabetNav = document.querySelector('.terms-alphabet-nav');
+        const groups = document.querySelectorAll('.terms-group');
+        const allTags = document.querySelectorAll('.terms-tags li');
+
+        function filter() {
+            const query = searchInput.value.toLowerCase().trim();
+            
+            allTags.forEach(li => {
+                const text = li.textContent.toLowerCase();
+                li.style.display = text.includes(query) ? '' : 'none';
+            });
+
+            // Update alphabetical group visibility
+            groups.forEach(group => {
+                const visibleTags = group.querySelectorAll('.terms-tags li:not([style*="display: none"])');
+                group.style.display = visibleTags.length > 0 ? '' : 'none';
+            });
+
+            // Handle Nav opacity
+            if (alphabetNav) {
+                if (query.length > 0 || viewCount.style.display !== 'none') {
+                    alphabetNav.style.opacity = '0.3';
+                    alphabetNav.style.pointerEvents = 'none';
+                } else {
+                    alphabetNav.style.opacity = '1';
+                    alphabetNav.style.pointerEvents = 'auto';
+                }
+            }
+        }
+
+        if (searchInput) {
+            searchInput.addEventListener('input', filter);
+        }
+
+        if (btnAlpha && btnCount) {
+            btnAlpha.addEventListener('click', () => {
+                btnAlpha.classList.add('active');
+                btnCount.classList.remove('active');
+                viewAlpha.style.display = '';
+                viewCount.style.display = 'none';
+                filter();
+            });
+
+            btnCount.addEventListener('click', () => {
+                btnCount.classList.add('active');
+                btnAlpha.classList.remove('active');
+                viewAlpha.style.display = 'none';
+                viewCount.style.display = '';
+                filter();
+            });
+        }
+    });
+</script>
 
 {{- end }}{{/* end main */ -}}
