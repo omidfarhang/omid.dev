@@ -220,3 +220,6 @@
 
 - id: discuss_on_hn
   translation: "Auf HN diskutieren"
+
+- id: last_updated
+  translation: "Zuletzt aktualisiert"

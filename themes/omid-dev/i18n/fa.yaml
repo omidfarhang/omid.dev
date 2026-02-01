@@ -205,3 +205,6 @@
 
 - id: discuss_on_hn
   translation: "گفتگو در HN"
+
+- id: last_updated
+  translation: "آخرین به‌روزرسانی"

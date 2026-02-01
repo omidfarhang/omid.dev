@@ -6,17 +6,18 @@
     <h1 class="post-title entry-hint-parent">
       {{ .Title }}
     </h1>
-    {{- if .Site.Data.uses.date }}
-    <div class="post-meta">
-      {{- if eq .Lang "fa" -}}
-      آخرین بروزرسانی: {{ .Site.Data.uses.date }}
-      {{- else if eq .Lang "de" -}}
-      Zuletzt aktualisiert: {{ .Site.Data.uses.date }}
-      {{- else -}}
-      Last updated: {{ .Site.Data.uses.date }}
+    <div class="page-metadata">
+      <span class="meta-badge">
+        <i class="fa-solid fa-clock-rotate-left"></i>
+        {{ T "last_updated" | default "Last updated" }}: {{ .Site.Data.uses.date }}
+      </span>
+      {{- if .Site.Data.uses.location -}}
+      <span class="meta-location">
+        <i class="fa-solid fa-location-dot"></i>
+        {{ .Site.Data.uses.location }}
+      </span>
       {{- end -}}
     </div>
-    {{- end }}
     {{- if .Description }}
     <div class="post-description">
       {{ .Description }}
