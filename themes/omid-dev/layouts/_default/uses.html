@@ -1,0 +1,80 @@
+{{- define "main" }}
+
+<div class="page-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+    </h1>
+    {{- if .Site.Data.uses.date }}
+    <div class="post-meta">
+      {{- if eq .Lang "fa" -}}
+      آخرین بروزرسانی: {{ .Site.Data.uses.date }}
+      {{- else if eq .Lang "de" -}}
+      Zuletzt aktualisiert: {{ .Site.Data.uses.date }}
+      {{- else -}}
+      Last updated: {{ .Site.Data.uses.date }}
+      {{- end -}}
+    </div>
+    {{- end }}
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  <div class="uses-container">
+    <nav class="uses-nav">
+      <ul>
+        {{- range .Site.Data.uses.categories }}
+        <li><a href="#{{ .name | urlize }}">{{ .name }}</a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <div class="uses-content">
+      {{- range .Site.Data.uses.categories }}
+      <section id="{{ .name | urlize }}" class="uses-section">
+        <h2 class="uses-section-title">
+          {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
+          {{ .name }}
+        </h2>
+        <div class="uses-grid">
+          {{- range .items }}
+          <div class="uses-card">
+            {{- if .link }}
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="uses-card-link-wrapper">
+            {{- end }}
+              <div class="uses-card-content">
+                <div class="uses-card-header">
+                  <h3 class="uses-item-name">{{ .name }}</h3>
+                  {{- if .link }}
+                  <svg class="uses-external-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                  {{- end }}
+                </div>
+                {{- if .description }}
+                <p class="uses-item-description">{{ .description | markdownify }}</p>
+                {{- end }}
+              </div>
+            {{- if .link }}
+            </a>
+            {{- end }}
+          </div>
+          {{- end }}
+        </div>
+      </section>
+      {{- end }}
+    </div>
+  </div>
+</div>
+
+{{- end }}{{/* end main */}}

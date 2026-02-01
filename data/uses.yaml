@@ -1,0 +1,45 @@
+date: 2026-02-01
+categories:
+  - name: Hardware
+    icon: fa-solid fa-laptop-code
+    items:
+      - name: ASUS Vivobook Pro 15 (N6506MJ_Q543MJ)
+        description: My primary workstation at home with 24GB RAM, handling development and daily tasks with ease.
+      - name: LG IPS226
+        description: A reliable 21.5" IPS monitor that has stayed with me for years.
+      - name: Logitech MK540 Advanced
+        description: The K540 keyboard and M310 mouse combo for a comfortable wireless typing and navigation experience.
+
+  - name: Mobile & Wearables
+    icon: fa-solid fa-mobile-screen-button
+    items:
+      - name: Samsung Galaxy S21 FE
+        description: My daily driver for communication, testing, and being productive on the go.
+      - name: Samsung Galaxy Watch 7 (44mm)
+        description: My companion for health tracking and quick notifications.
+      - name: Samsung Galaxy Buds 3 Pro
+        description: Excellent sound quality and noise cancellation for listening on the move.
+
+  - name: Software
+    icon: fa-solid fa-code
+    items:
+      - name: Manjaro KDE
+        description: My preferred Linux distribution for both home and work, offering a great balance between bleeding-edge and stability.
+      - name: Ubuntu LTS
+        description: The industry standard for my server deployments, ensuring reliability and long-term support.
+      - name: VS Code + GitHub Copilot
+        description: My primary development environment, enhanced with AI to streamline coding and documentation.
+      - name: ohmyzsh + Yakuake
+        description: My terminal configuration of choice. Yakuake's drop-down convenience is a must-have for my workflow.
+      - name: Package Managers
+        description: My go-to is Pacman, followed by AUR for community packages and Snap when necessary.
+      - name: Docker
+        description: I use Docker for containerization whenever possible to keep my development environments consistent.
+
+  - name: Services
+    icon: fa-solid fa-cloud
+    items:
+      - name: GitHub
+        description: Where I host my repositories and manage various projects.
+      - name: Cloudflare
+        description: My universal tool for everything web-related, including DNS management, hosting, and KV storage.

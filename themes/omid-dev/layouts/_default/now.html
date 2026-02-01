@@ -1,0 +1,58 @@
+{{- define "main" }}
+
+<div class="page-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+    </h1>
+    <div class="now-meta">
+      <span class="now-badge">
+        <i class="fa-solid fa-clock-rotate-left"></i>
+        {{ T "last_updated" | default "Last updated" }}: {{ .Site.Data.now.last_updated }}
+      </span>
+      {{- if .Site.Data.now.location -}}
+      <span class="now-location">
+        <i class="fa-solid fa-location-dot"></i>
+        {{ .Site.Data.now.location }}
+      </span>
+      {{- end -}}
+    </div>
+  </header>
+
+  <div class="now-status-box">
+    <p>{{ .Site.Data.now.status | markdownify }}</p>
+  </div>
+
+  {{- if .Content }}
+  <div class="post-content now-intro">
+    {{- .Content }}
+  </div>
+  {{- end }}
+
+  <div class="now-grid">
+    {{- range .Site.Data.now.focuses }}
+    <div class="now-section">
+      <h2 class="now-section-title">{{ .title }}</h2>
+      <div class="now-section-content">
+        {{ .content | markdownify }}
+      </div>
+    </div>
+    {{- end }}
+  </div>
+
+  <div class="now-footer">
+    <hr>
+    <p class="now-inspiration">
+      {{ if eq .Lang "fa" }}
+      ایده این صفحه از <a href="https://nownownow.com/about" target="_blank" rel="noopener">پروژه nownownow</a> گرفته شده است.
+      {{ else if eq .Lang "de" }}
+      Inspiriert durch das <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow-Projekt</a>.
+      {{ else }}
+      Inspired by the <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow project</a>.
+      {{ end }}
+    </p>
+  </div>
+</div>
+
+{{- end }}{{/* end main */}}

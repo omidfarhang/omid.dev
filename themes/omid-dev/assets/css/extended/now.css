@@ -1,0 +1,129 @@
+.now-meta {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  color: var(--secondary);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.now-badge, .now-location {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.now-status-box {
+  margin: 3rem 0;
+  padding: 2rem;
+  background: var(--accent-light);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: var(--primary);
+  font-weight: 500;
+}
+
+.dark .now-status-box {
+  background: rgba(20, 184, 166, 0.1);
+}
+
+.now-intro {
+  margin-bottom: 3rem;
+}
+
+.now-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+}
+
+.now-section {
+  position: relative;
+  padding-left: 2rem;
+  border-left: 1px solid var(--border);
+}
+
+.now-section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+}
+
+.now-section-title::before {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 0.5rem;
+  width: 9px;
+  height: 9px;
+  background: var(--accent);
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px var(--theme), 0 0 0 6px var(--accent-light);
+}
+
+.now-section-content {
+  color: var(--content);
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.now-section-content p {
+  margin-bottom: 1rem;
+}
+
+.now-footer {
+  margin-top: 5rem;
+  text-align: center;
+  opacity: 0.7;
+  font-size: 0.9rem;
+}
+
+.now-footer hr {
+  margin-bottom: 2rem;
+  border: 0;
+  border-top: 1px solid var(--border);
+}
+
+/* RTL Support */
+[dir="rtl"] .now-meta {
+  flex-direction: row-reverse;
+}
+[dir="rtl"] .now-status-box {
+  border-left: none;
+  border-right: 4px solid var(--accent);
+  text-align: right;
+}
+[dir="rtl"] .now-section {
+  padding-left: 0;
+  padding-right: 2rem;
+  border-left: none;
+  border-right: 1px solid var(--border);
+  text-align: right;
+}
+[dir="rtl"] .now-section-title {
+  justify-content: flex-start;
+}
+[dir="rtl"] .now-section-title::before {
+  left: auto;
+  right: -5px;
+}
+[dir="rtl"] .now-intro {
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .now-status-box {
+    font-size: 1.1rem;
+    padding: 1.5rem;
+  }
+  .now-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
