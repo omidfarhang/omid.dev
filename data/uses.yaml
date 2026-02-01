@@ -44,3 +44,81 @@ categories:
         description: Where I host my repositories and manage various projects.
       - name: Cloudflare
         description: My universal tool for everything web-related, including DNS management, hosting, and KV storage.
+
+  - name: Computers Evolution
+    icon: fa-solid fa-computer
+    layout: timeline
+    items:
+      - name: Pentium III 800MHz
+        period: "The Beginning"
+        description: My first computer with 256MB RAM, 40GB HDD, and an ATI 32MB VGA. My entry point into the world of computing.
+      - name: AMD Transition
+        period: "The Next Step"
+        description: An AMD-based system featuring an NVIDIA 128MB VGA, marking my first upgrade into better graphics.
+      - name: Toshiba Satellite P105-S9337
+        period: "The Laptop Era"
+        description: A beast of its era. This high-end laptop was a significant milestone in my portable computing journey.
+      - name: Multi-Boot Desktop (i3)
+        period: "Experimentation"
+        description: An Intel i3 build with an AMD R7-250x VGA and multiple SSDs, dedicated to experimenting with various operating systems.
+
+  - name: Mobile Phone Evolution
+    icon: fa-solid fa-mobile-retro
+    layout: timeline
+    items:
+      - name: Nokia 1208
+        period: "The First Phone"
+        description: A classic Nokia. Reliable, basically indestructible, and perfect for when I first needed to stay connected.
+      - name: HTC Wildfire S
+        period: "Introduction to Android"
+        description: My first smartphone. Small but mighty, it opened up the world of mobile apps and customization.
+      - name: Sony Xperia L
+        description: A stylish device with that unique curved back and the dedicated camera button I loved.
+      - name: Sony Xperia Z2
+        description: A massive leap in performance and build quality. The front-facing speakers were fantastic for the time.
+      - name: Sony Xperia Z5 Premium
+        description: The first 4K smartphone screen! A beautiful, high-end flagship that felt truly premium.
+      - name: Xiaomi Mi A3
+        period: "The Android One Era"
+        description: A return to clean, stock Android. Great battery life and solid performance for a long time.
+      - name: Samsung Galaxy S21 FE
+        period: "Current Daily Driver"
+        description: My current phone. A perfect balance of power, camera quality, and a smooth display.
+
+  - name: Software & Tooling History
+    icon: fa-solid fa-clock-rotate-left
+    layout: timeline
+    items:
+      - name: The Early Steps (VB & Web)
+        period: "Starting Out"
+        description: Building Windows apps with Visual Basic 5 & 6, and crafting early web pages using Microsoft FrontPage and CoffeeCup Editor.
+      - name: Visual Studio & Macromedia
+        period: "Classic Era"
+        description: Diving deeper with Microsoft Visual Studio and designing the web with Macromedia Dreamweaver (before the Adobe acquisition and the era of ColdFusion).
+      - name: Microsoft Expression Studio
+        period: "Short-lived Beauty"
+        description: A suite of tools that actually looked and felt great for design and web development before it was discontinued.
+      - name: IntelliJ IDEA
+        period: "The Heavyweight"
+        description: My primary powerhouse IDE for years. It set a high bar for development environments but was quite a resource hog.
+      - name: VS Code
+        period: "Modern Era"
+        description: The lightweight savior of my RAM! My current primary environment, perfectly balanced with speed and extensibility.
+
+  - name: Digital Nostalgia
+    icon: fa-solid fa-floppy-disk
+    items:
+      - name: Communication & Chat
+        description: From the sound of QIP incoming messages to the heartbeat of Yahoo, MSN, and Windows Live Messenger, and finally mIRC once internet became stable.
+      - name: Multimedia Classics
+        description: Winamp (it really whipped the llama's ass!), RealPlayer, PowerDVD, and the legendary Xing MPEG Player for all things video and music.
+      - name: Sysinternals Suite
+        description: Mark Russinovich's legendary tools for deep-diving into Windows internals. A must-have for any power user.
+      - name: The Toolset
+        description: Sandboxie for testing apps in isolation and OllyDbg for low-level assembly and reverse engineering fun.
+      - name: Disc & Data Mastery
+        description: Managing the era of discs with Nero, Alcohol 120%, CloneCD, Virtual CloneDrive, and Ashampoo; plus IsoBuster for rescuing data from scratched media.
+      - name: Security & Protection
+        description: The front lines of the early internet. From ZoneAlarm and Agnitum Outpost Firewall to Norton, McAfee, NOD32, and Comodo. Plus life-savers like Spybot – Search & Destroy and the small but mighty WinPatrol, along with the friendly communities found on the Avast and Avira forums.
+      - name: TelNet over Dial-up
+        description: The primitive yet magical method of sending files before high-speed internet.

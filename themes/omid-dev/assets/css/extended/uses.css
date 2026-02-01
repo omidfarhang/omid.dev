@@ -145,6 +145,68 @@
   margin: 0;
 }
 
+/* Timeline Styles */
+.uses-timeline {
+  position: relative;
+  padding-left: 2rem;
+  margin-left: 1rem;
+  border-left: 2px solid var(--border);
+}
+
+.uses-timeline-item {
+  position: relative;
+  margin-bottom: 3rem;
+}
+
+.uses-timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.uses-timeline-item::before {
+  content: "";
+  position: absolute;
+  left: calc(-2rem - 1px - 8px);
+  top: 5px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--theme);
+  border: 3px solid var(--accent);
+  z-index: 1;
+}
+
+.uses-timeline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.uses-timeline-title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.uses-timeline-period {
+  font-size: 0.85rem;
+  color: var(--accent);
+  font-weight: 600;
+  background: var(--accent-light);
+  padding: 0.2rem 0.75rem;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+
+.uses-timeline-description {
+  margin: 0;
+  color: var(--content);
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
 @media (max-width: 900px) {
   .uses-container {
     flex-direction: column;
@@ -210,4 +272,23 @@
 }
 [dir="rtl"] .uses-card:hover .uses-external-icon {
   transform: rotate(180deg) translate(2px, 2px);
+}
+
+/* RTL Support for Timeline */
+[dir="rtl"] .uses-timeline {
+  padding-left: 0;
+  padding-right: 2rem;
+  margin-left: 0;
+  margin-right: 1rem;
+  border-left: none;
+  border-right: 2px solid var(--border);
+}
+
+[dir="rtl"] .uses-timeline-item::before {
+  left: auto;
+  right: calc(-2rem - 1px - 8px);
+}
+
+[dir="rtl"] .uses-timeline-header {
+  flex-direction: row-reverse;
 }

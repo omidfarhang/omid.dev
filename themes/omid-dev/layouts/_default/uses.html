@@ -49,6 +49,26 @@
           {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
           {{ .name }}
         </h2>
+        
+        {{- if eq .layout "timeline" }}
+        <div class="uses-timeline">
+          {{- range .items }}
+          <div class="uses-timeline-item">
+            <div class="uses-timeline-content">
+              <div class="uses-timeline-header">
+                <h3 class="uses-timeline-title">{{ .name }}</h3>
+                {{- if .period }}
+                <span class="uses-timeline-period">{{ .period }}</span>
+                {{- end }}
+              </div>
+              {{- if .description }}
+              <p class="uses-timeline-description">{{ .description | markdownify }}</p>
+              {{- end }}
+            </div>
+          </div>
+          {{- end }}
+        </div>
+        {{- else }}
         <div class="uses-grid">
           {{- range .items }}
           <div class="uses-card">
@@ -72,6 +92,7 @@
           </div>
           {{- end }}
         </div>
+        {{- end }}
       </section>
       {{- end }}
     </div>
