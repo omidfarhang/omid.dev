@@ -52,15 +52,21 @@ categories:
       - name: Pentium III 800MHz
         period: "The Beginning"
         description: My first computer with 256MB RAM, 40GB HDD, and an ATI 32MB VGA. My entry point into the world of computing.
-      - name: AMD Transition
+      - name: AMD Transition (My First 64-bit)
         period: "The Next Step"
-        description: An AMD-based system featuring an NVIDIA 128MB VGA, marking my first upgrade into better graphics.
+        description: An AMD-based system featuring an NVIDIA 128MB VGA, marking my first upgrade into the 64-bit era and better graphics.
       - name: Toshiba Satellite P105-S9337
         period: "The Laptop Era"
         description: A beast of its era. This high-end laptop was a significant milestone in my portable computing journey.
       - name: Multi-Boot Desktop (i3)
         period: "Experimentation"
-        description: An Intel i3 build with an AMD R7-250x VGA and multiple SSDs, dedicated to experimenting with various operating systems.
+        description: |
+          An Intel i3-4150 build on an ASUS Z97-K motherboard with 16GB G.SKILL RAM (4x4GB). 
+          Equipped with an ASUS R7 250X (2GB GDDR5) VGA, a 1TB WD HDD, and dual SSDs (256GB Samsung + 128GB Kingston) dedicated to experimenting with various operating systems. 
+          Powered by an EVGA SuperNOVA 750 Gold and staying connected with a TP-Link Archer T4E AC1200 adapter.
+      - name: ASUS R465FA-EB028
+        period: "The Transitional Laptop"
+        description: A dependable ASUS laptop upgraded with 20GB RAM and a 500GB Samsung 970 EVO PLUS NVMe SSD, serving as my bridge to modern portable performance.
 
   - name: Mobile Phone Evolution
     icon: fa-solid fa-mobile-retro
