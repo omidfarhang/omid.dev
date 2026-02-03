@@ -1,4 +1,4 @@
-last_updated: 2026-02-01
+last_updated: 2026-02-03
 location: Tehran, Iran
 status: "Frontend Lead at Jibit, supporting a team, exploring new tech trends, and diving into the world of health."
 focuses:
@@ -7,7 +7,10 @@ focuses:
       Currently leading the frontend team at **Jibit**. My approach is focused on supporting and empowering my teammates rather than traditional top-down leadership and control.
   - title: 🚀 Exploring
     content: |
-      I'm focused on exploring new technologies and trends instead of deep-diving into a single stack. Sharing these on my blog forces me to learn each one in more detail and get feedback on any misconceptions.
+      I'm actively looking around to discover topics I haven't explored yet. Rather than deep-diving into a single framework, I'm dedicating my time to reading about new software strategies, soft skills, architectural patterns, and emerging tools and stacks. My goal is to broaden my perspective and avoid getting "locked-in" to a single ecosystem or way of thinking - staying away from my own isolated island.
+  - title: 💡 Side Project
+    content: |
+      Years ago, I planned a startup for a "real-life assistant" - a decision maker for daily life. Before the era of LLMs and GPT, I was building it with complex logic and data structures. While that manual approach is now obsolete thanks to AI, the journey taught me invaluable lessons about business and tech. I haven't given up; instead, I'm reimagining the concept by leveraging the massive potential of modern AI.
   - title: 🏥 Health
     content: |
       I'm fascinated by the health and medical world, from following the latest news to practical home remedies and OTC medication usage. Completing Yale University's "Introduction to Medical Software" course on Coursera was a very pleasant experience.
