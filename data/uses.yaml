@@ -8,6 +8,8 @@ categories:
         description: My primary workstation at home with 24GB RAM, handling development and daily tasks with ease.
       - name: LG IPS226
         description: A reliable 21.5" IPS monitor that has stayed with me for years.
+      - name: Logitech C920 HD Pro
+        description: The legendary webcam for crisp 1080p video calls and streaming.
       - name: Logitech MK540 Advanced
         description: The K540 keyboard and M310 mouse combo for a comfortable wireless typing and navigation experience.
 
@@ -118,6 +120,8 @@ categories:
         description: From the sound of QIP incoming messages to the heartbeat of Yahoo, MSN, and Windows Live Messenger, and finally mIRC once internet became stable.
       - name: Multimedia Classics
         description: Winamp (it really whipped the llama's ass!), RealPlayer, PowerDVD, and the legendary Xing MPEG Player for all things video and music.
+      - name: The Daily Companion
+        description: Creative Zen Neeon paired with Creative EP-630 OFC in-ear headphones. One of my longest-lasting and most-used everyday devices.
       - name: Sysinternals Suite
         description: Mark Russinovich's legendary tools for deep-diving into Windows internals. A must-have for any power user.
       - name: The Toolset
