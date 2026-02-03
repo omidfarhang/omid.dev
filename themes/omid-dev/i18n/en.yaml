@@ -98,6 +98,12 @@
 - id: quick_links
   translation: "Quick Links"
 
+- id: current_setup
+  translation: "Current Setup"
+
+- id: history_memories
+  translation: "History & Memories"
+
 - id: topics
   translation: "Topics"
 

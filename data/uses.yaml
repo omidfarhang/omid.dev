@@ -1,6 +1,7 @@
 date: 2026-02-01
 location: Tehran, Iran
-categories:
+
+current:
   - name: Hardware
     icon: fa-solid fa-laptop-code
     items:
@@ -47,6 +48,7 @@ categories:
       - name: Cloudflare
         description: My universal tool for everything web-related, including DNS management, hosting, and KV storage.
 
+history:
   - name: Computers Evolution
     icon: fa-solid fa-computer
     layout: timeline

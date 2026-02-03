@@ -35,68 +35,156 @@
 
   <div class="uses-container">
     <nav class="uses-nav">
-      <ul>
-        {{- range .Site.Data.uses.categories }}
-        <li><a href="#{{ .name | urlize }}">{{ .name }}</a></li>
-        {{- end }}
-      </ul>
+      {{- if .Site.Data.uses.current }}
+      <div class="nav-group">
+        <h3 class="nav-group-label">{{ T "current_setup" }}</h3>
+        <ul>
+          {{- range .Site.Data.uses.current }}
+          <li><a href="#{{ .name | urlize }}">{{ .name }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+
+      {{- if .Site.Data.uses.history }}
+      <div class="nav-group">
+        <h3 class="nav-group-label">{{ T "history_memories" }}</h3>
+        <ul>
+          {{- range .Site.Data.uses.history }}
+          <li><a href="#{{ .name | urlize }}">{{ .name }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
     </nav>
 
     <div class="uses-content">
-      {{- range .Site.Data.uses.categories }}
-      <section id="{{ .name | urlize }}" class="uses-section">
-        <h2 class="uses-section-title">
-          {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
-          {{ .name }}
-        </h2>
-        
-        {{- if eq .layout "timeline" }}
-        <div class="uses-timeline">
-          {{- range .items }}
-          <div class="uses-timeline-item">
-            <div class="uses-timeline-content">
-              <div class="uses-timeline-header">
-                <h3 class="uses-timeline-title">{{ .name }}</h3>
-                {{- if .period }}
-                <span class="uses-timeline-period">{{ .period }}</span>
-                {{- end }}
-              </div>
-              {{- if .description }}
-              <p class="uses-timeline-description">{{ .description | markdownify }}</p>
+      {{- if .Site.Data.uses.current }}
+      <div class="uses-group">
+        <h2 class="uses-group-title">{{ T "current_setup" }}</h2>
+        {{- range .Site.Data.uses.current }}
+        <section id="{{ .name | urlize }}" class="uses-section">
+          <h3 class="uses-section-title">
+            {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
+            {{ .name }}
+          </h3>
+          <div class="uses-grid">
+            {{- range .items }}
+            <div class="uses-card">
+              {{- if .link }}
+              <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="uses-card-link-wrapper">
+              {{- end }}
+                <div class="uses-card-content">
+                  <div class="uses-card-header">
+                    <h4 class="uses-item-name">{{ .name }}</h4>
+                    {{- if .link }}
+                    <svg class="uses-external-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                    {{- end }}
+                  </div>
+                  {{- if .description }}
+                  <p class="uses-item-description">{{ .description | markdownify }}</p>
+                  {{- end }}
+                </div>
+              {{- if .link }}
+              </a>
               {{- end }}
             </div>
-          </div>
-          {{- end }}
-        </div>
-        {{- else }}
-        <div class="uses-grid">
-          {{- range .items }}
-          <div class="uses-card">
-            {{- if .link }}
-            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="uses-card-link-wrapper">
             {{- end }}
-              <div class="uses-card-content">
-                <div class="uses-card-header">
-                  <h3 class="uses-item-name">{{ .name }}</h3>
-                  {{- if .link }}
-                  <svg class="uses-external-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </div>
+        </section>
+        {{- end }}
+      </div>
+      {{- end }}
+
+      {{- if .Site.Data.uses.history }}
+      <div class="uses-group">
+        <h2 class="uses-group-title">{{ T "history_memories" }}</h2>
+        {{- range .Site.Data.uses.history }}
+        <section id="{{ .name | urlize }}" class="uses-section">
+          <h3 class="uses-section-title">
+            {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
+            {{ .name }}
+          </h3>
+          
+          {{- if eq .layout "timeline" }}
+          <div class="uses-timeline">
+            {{- range .items }}
+            <div class="uses-timeline-item">
+              <div class="uses-timeline-content">
+                <div class="uses-timeline-header">
+                  <h4 class="uses-timeline-title">{{ .name }}</h4>
+                  {{- if .period }}
+                  <span class="uses-timeline-period">{{ .period }}</span>
                   {{- end }}
                 </div>
                 {{- if .description }}
-                <p class="uses-item-description">{{ .description | markdownify }}</p>
+                <p class="uses-timeline-description">{{ .description | markdownify }}</p>
                 {{- end }}
               </div>
-            {{- if .link }}
-            </a>
+            </div>
+            {{- end }}
+          </div>
+          {{- else }}
+          <div class="uses-grid">
+            {{- range .items }}
+            <div class="uses-card">
+              {{- if .link }}
+              <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="uses-card-link-wrapper">
+              {{- end }}
+                <div class="uses-card-content">
+                  <div class="uses-card-header">
+                    <h4 class="uses-item-name">{{ .name }}</h4>
+                    {{- if .link }}
+                    <svg class="uses-external-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                    {{- end }}
+                  </div>
+                  {{- if .description }}
+                  <p class="uses-item-description">{{ .description | markdownify }}</p>
+                  {{- end }}
+                </div>
+              {{- if .link }}
+              </a>
+              {{- end }}
+            </div>
             {{- end }}
           </div>
           {{- end }}
-        </div>
+        </section>
         {{- end }}
-      </section>
+      </div>
       {{- end }}
     </div>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const observerOptions = {
+        root: null,
+        rootMargin: '-100px 0px -70% 0px',
+        threshold: 0
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const id = entry.target.getAttribute('id');
+                const navLink = document.querySelector(`.uses-nav a[href="#${id}"]`);
+                
+                if (navLink) {
+                    document.querySelectorAll('.uses-nav a').forEach(link => {
+                        link.classList.remove('active');
+                    });
+                    navLink.classList.add('active');
+                }
+            }
+        });
+    }, observerOptions);
+
+    document.querySelectorAll('.uses-section').forEach((section) => {
+        observer.observe(section);
+    });
+});
+</script>
 
 {{- end }}{{/* end main */}}

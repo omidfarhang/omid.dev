@@ -98,6 +98,12 @@
 - id: instant_messaging
   translation: "Instant Messaging"
 
+- id: current_setup
+  translation: "Aktuelle Konfiguration"
+
+- id: history_memories
+  translation: "Geschichte & Erinnerungen"
+
 - id: save_contact
   translation: "Kontakt speichern"
 

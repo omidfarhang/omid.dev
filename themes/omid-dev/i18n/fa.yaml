@@ -98,6 +98,12 @@
 - id: quick_links
   translation: "لینک های سریع"
 
+- id: current_setup
+  translation: "تنظیمات فعلی"
+
+- id: history_memories
+  translation: "تاریخچه و خاطرات"
+
 - id: topics
   translation: "موضوعات"
 
