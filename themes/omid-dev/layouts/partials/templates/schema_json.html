@@ -95,13 +95,15 @@
   {{- if $i }}, {{end -}}
   {
     "@type": "Person",
-    "name": {{ $v }}
+    "name": {{ $v }},
+    "url": {{ "about-me" | absLangURL }}
   }
   {{- end }}],
     {{- else -}}
   {
     "@type": "Person",
-    "name": {{ . }}
+    "name": {{ . }},
+    "url": {{ "about-me" | absLangURL }}
   },
     {{- end -}}
   {{- end }}
@@ -114,7 +116,7 @@
     "name": {{ site.Title }},
     "logo": {
       "@type": "ImageObject",
-      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+      "url": {{ site.Params.footer.avatar | default site.Params.assets.favicon | absURL }}
     }
   }
 }
