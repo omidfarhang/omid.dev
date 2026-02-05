@@ -30,6 +30,12 @@
                 <span>{{ if .Params.bluesky_link }}{{ i18n "reply_on" (dict "Platform" "Bluesky") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Bluesky") }}{{ end }}</span>
             </a>
 
+            {{- $reddit_url := .Params.reddit_link | default (printf "https://www.reddit.com/search?q=%s" $search_query) -}}
+            <a class="share-btn reddit-btn" href="{{ $reddit_url }}" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-reddit"></i> 
+                <span>{{ if .Params.reddit_link }}{{ i18n "reply_on" (dict "Platform" "Reddit") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Reddit") }}{{ end }}</span>
+            </a>
+
             {{- $hn_url := .Params.hn_link | default (printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" .Permalink .Title) -}}
             <a class="share-btn hn-btn" href="{{ $hn_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-hacker-news"></i> 
@@ -75,8 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             const likes = mentions.filter(m => m['wm-property'] === 'like-of');
-            const reposts = mentions.filter(m => m['wm-property'] === 'repost-of');
-            const replies = mentions.filter(m => m['wm-property'] === 'in-reply-to' || m['wm-property'] === 'mention-of');
+            const reposts = mentions.filter(m => m['wm-property'] === 'repost-of' || m['wm-property'] === 'bookmark-of');
+            const replies = mentions.filter(m => ['in-reply-to', 'mention-of', 'rsvp'].includes(m['wm-property']));
 
             // Render Stats
             let statsHtml = '';
