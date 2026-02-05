@@ -58,3 +58,112 @@
 .mastodon-btn { background-color: #6364ff; }
 .bluesky-btn { background-color: #0560ff; }
 .hn-btn { background-color: #ff6600; }
+
+/* Webmentions */
+.webmentions-container {
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+}
+
+.webmentions-header {
+    margin-bottom: 2rem;
+}
+
+.webmentions-stats {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+    color: var(--secondary);
+}
+
+.webmentions-stats strong {
+    color: var(--primary);
+}
+
+.webmentions-facepile {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.webmentions-facepile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid var(--entry);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s;
+}
+
+.webmentions-facepile a:hover img {
+    transform: scale(1.1);
+    z-index: 1;
+}
+
+.webmentions-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.webmention-item {
+    background: var(--entry);
+    padding: 1.2rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+.webmention-author {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.8rem;
+    font-size: 0.9rem;
+}
+
+.webmention-author a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.webmention-author img {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
+
+.webmention-author time {
+    color: var(--secondary);
+    font-size: 0.8rem;
+}
+
+.webmention-content {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--content);
+}
+
+.webmention-content p {
+    margin: 0;
+}
+
+.no-mentions {
+    text-align: center;
+    color: var(--secondary);
+    font-style: italic;
+    padding: 1rem 0;
+}
+
+[dir="rtl"] .webmention-author {
+    flex-direction: row;
+}
+
+[dir="rtl"] .webmention-author a {
+    flex-direction: row;
+}
+

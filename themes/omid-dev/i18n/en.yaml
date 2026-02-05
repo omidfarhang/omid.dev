@@ -200,6 +200,18 @@
 - id: discussion_desc
   translation: "Found this post interesting? I'd love to hear your thoughts, questions, or feedback on these platforms:"
 
+- id: webmentions_likes
+  translation: "Likes"
+
+- id: webmentions_reposts
+  translation: "Reposts"
+
+- id: webmentions_mentions
+  translation: "Mentions & Replies"
+
+- id: no_webmentions
+  translation: "No conversations yet. Be the first to start one!"
+
 - id: discuss_on
   translation: "Discuss on {{ .Platform }}"
 

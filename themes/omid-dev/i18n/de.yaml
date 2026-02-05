@@ -215,6 +215,18 @@
 - id: discussion_desc
   translation: "Fanden Sie diesen Beitrag interessant? Ich würde mich freuen, Ihre Gedanken, Fragen oder Feedback auf diesen Plattformen zu hören:"
 
+- id: webmentions_likes
+  translation: "Likes"
+
+- id: webmentions_reposts
+  translation: "Reposts"
+
+- id: webmentions_mentions
+  translation: "Erwähnungen & Antworten"
+
+- id: no_webmentions
+  translation: "Noch keine Gespräche. Sei der Erste, der eines beginnt!"
+
 - id: discuss_on
   translation: "Auf {{ .Platform }} diskutieren"
 

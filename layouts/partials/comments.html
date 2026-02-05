@@ -37,5 +37,94 @@
             </a>
         </div>
     </div>
+
+    <div id="webmentions" class="webmentions-container" data-url="{{ .Permalink }}">
+        <div class="webmentions-header">
+            <div id="webmentions-stats" class="webmentions-stats"></div>
+            <div id="webmentions-facepile" class="webmentions-facepile"></div>
+        </div>
+        <div id="webmentions-list" class="webmentions-list"></div>
+    </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const container = document.getElementById('webmentions');
+    if (!container) return;
+
+    const targetUrl = container.getAttribute('data-url');
+    const statsContainer = document.getElementById('webmentions-stats');
+    const facepileContainer = document.getElementById('webmentions-facepile');
+    const listContainer = document.getElementById('webmentions-list');
+
+    // i18n strings
+    const labels = {
+        likes: '{{ i18n "webmentions_likes" }}',
+        reposts: '{{ i18n "webmentions_reposts" }}',
+        mentions: '{{ i18n "webmentions_mentions" }}',
+        none: '{{ i18n "no_webmentions" }}'
+    };
+
+    fetch(`https://webmention.io/api/mentions.jf2?target=${targetUrl}`)
+        .then(response => response.json())
+        .then(data => {
+            const mentions = data.children || [];
+            if (mentions.length === 0) {
+                statsContainer.innerHTML = `<p class="no-mentions">${labels.none}</p>`;
+                return;
+            }
+
+            const likes = mentions.filter(m => m['wm-property'] === 'like-of');
+            const reposts = mentions.filter(m => m['wm-property'] === 'repost-of');
+            const replies = mentions.filter(m => m['wm-property'] === 'in-reply-to' || m['wm-property'] === 'mention-of');
+
+            // Render Stats
+            let statsHtml = '';
+            if (likes.length) statsHtml += `<span><strong>${likes.length}</strong> ${labels.likes}</span>`;
+            if (reposts.length) statsHtml += `<span><strong>${reposts.length}</strong> ${labels.reposts}</span>`;
+            if (replies.length) statsHtml += `<span><strong>${replies.length}</strong> ${labels.mentions}</span>`;
+            statsContainer.innerHTML = statsHtml;
+
+            // Render Facepile (Likes + Reposts)
+            const pile = [...likes, ...reposts];
+            const uniquePile = [];
+            const seen = new Set();
+            pile.forEach(m => {
+                if (!seen.has(m.author.url)) {
+                    seen.add(m.author.url);
+                    uniquePile.push(m);
+                }
+            });
+
+            if (uniquePile.length) {
+                facepileContainer.innerHTML = uniquePile.map(m => `
+                    <a href="${m.author.url}" target="_blank" rel="noopener noreferrer" title="${m.author.name}">
+                        <img src="${m.author.photo}" alt="${m.author.name}" loading="lazy">
+                    </a>
+                `).join('');
+            }
+
+            // Render Replies
+            if (replies.length) {
+                listContainer.innerHTML = replies.map(m => `
+                    <div class="webmention-item">
+                        <div class="webmention-author">
+                            <a href="${m.author.url}" target="_blank" rel="noopener noreferrer">
+                                <img src="${m.author.photo}" alt="${m.author.name}" loading="lazy">
+                                <span>${m.author.name}</span>
+                            </a>
+                            <time datetime="${m.published}">${new Date(m.published).toLocaleDateString()}</time>
+                        </div>
+                        <div class="webmention-content">
+                            ${m.content ? (m.content.html || m.content.text) : ''}
+                        </div>
+                    </div>
+                `).join('');
+            }
+        })
+        .catch(err => {
+            console.error('Error fetching webmentions:', err);
+        });
+});
+</script>
 {{- end -}}

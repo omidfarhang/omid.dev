@@ -74,6 +74,19 @@
                 }
             });
         }
+
+        // Global search shortcut
+        document.addEventListener('keydown', function(e) {
+            if (e.key === '/' && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
+                e.preventDefault();
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput) {
+                    searchInput.focus();
+                } else {
+                    window.location.href = '{{ "search/" | absLangURL }}';
+                }
+            }
+        });
     });
 
     window.addEventListener('scroll', function() {
