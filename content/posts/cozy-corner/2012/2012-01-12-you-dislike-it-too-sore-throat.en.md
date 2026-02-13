@@ -33,4 +33,4 @@ Take care my friends!
 -Omid
 
 UPDATE:  
-It did not work! Read part 2 here: [/2012/01/you-dislike-it-too-sore-throat-part-2](/2012/01/you-dislike-it-too-sore-throat-part-2)
+It did not work! Read part 2 here: [/2012/01/18/you-dislike-it-too-sore-throat-part-2/](/2012/01/18/you-dislike-it-too-sore-throat-part-2/)
