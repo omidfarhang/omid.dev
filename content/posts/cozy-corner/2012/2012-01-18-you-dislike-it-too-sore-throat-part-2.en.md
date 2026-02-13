@@ -10,7 +10,7 @@ lang: en
 categories: 
   - Cozy Corner
 ---
-Part 1: [/2012/01/you-dislike-it-too-sore-throat](/2012/01/you-dislike-it-too-sore-throat)
+Part 1: [/2012/01/12/you-dislike-it-too-sore-throat/](/2012/01/12/you-dislike-it-too-sore-throat/)
 
 Part2:  
 As I told you in my other post, I'm dealing with a Sore Throat which is very annoying, I tried some simple stuff like gargle warm water and salt, drinking warm drinks, honey and lemon, lots of Vitamin C, Zinc and and and…. they did not work, my Sore Throat went one step ahead and reached a major infection level.
