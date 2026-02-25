@@ -19,7 +19,7 @@ categories:
 ---
 It happened to me this morning. After 15 years in the trenches—building frontend architectures, dipping into the backend, leading teams, and surviving countless framework wars—I hit a wall. Not a technical wall, but a conceptual one.
 
-I realized I didn’t know what **Corepack** was. I’ve never actually used **Yarn**. I’ve heard of **test-managers**, but I’ve never managed to actually run one in a production pipeline.
+I realized I didn’t know what **Corepack** was. I’ve never actually used **Yarn**. I’ve heard of **test‑managers** and code‑generation tools like **Orval**, but I’ve never managed to actually run one in a production pipeline.
 
 At first, the feeling was a sharp mix of guilt and sadness. How can I be a "Senior" or a "Lead" and miss things that seem so trivial to others? But then I zoomed out. I stopped looking at my specific lane—the features, the bugs, the immediate sprint—and looked at the entire ecosystem.
 
@@ -66,7 +66,7 @@ For my fellow leads and seniors who feel they’ve missed some "trivial" modern 
 | --- | --- | --- |
 | **Package Management** | Corepack, PNPM | Faster installs, disk space efficiency, and version consistency. |
 | **Build Tooling** | Vite, ESBuild | Moves away from the "heavy" Webpack days for instant HMR. |
-| **Testing Architecture** | Vitest, Playwright | Modern test runners that are significantly faster and easier to debug. |
+| **Testing & Code‑gen** | Vitest, Playwright, Orval | Modern test runners and generation tools that speed up validation and client generation. |
 | **Runtime / DX** | TypeScript (Strict Mode) | If you're still on "Loose" TS or JS, this is the #1 priority. |
 | **Infrastructure** | Docker/Containerization | Understanding how your code lives in the cloud, not just your browser. |
 
