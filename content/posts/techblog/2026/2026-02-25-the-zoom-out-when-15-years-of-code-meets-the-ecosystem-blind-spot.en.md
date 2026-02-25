@@ -1,10 +1,14 @@
 ---
 title: 'The Zoom-Out: When 15 Years of Code Meets the "Ecosystem Blind Spot"'
 date: 2026-02-25T22:22:05+03:30
-seo_description: 'A senior developer reflects on the ecosystem blind spot after 15 years of coding, exploring how to regain perspective and stay current.'
+description: 'A senior developer reflects on the ecosystem blind spot after 15 years of coding, exploring how to regain perspective and stay current.'
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/HGHr81r
+x_link: https://x.com/OmidFarhangEn/status/2026737302563590257
+mastodon_link: https://mastodon.social/@omidfarhang/116132892683773650
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mfpfbrezfs2n
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-zoom-out-when-15-years-of-code-meets-activity-7432502733376626688-bljW
 url: 2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/
 tags:
   - Senior Developer
