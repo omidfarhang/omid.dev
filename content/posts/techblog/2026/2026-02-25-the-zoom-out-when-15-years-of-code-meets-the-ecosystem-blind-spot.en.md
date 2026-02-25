@@ -8,9 +8,10 @@ shortlink: https://g.omid.dev/HGHr81r
 url: 2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/
 tags:
   - Senior Developer
-  - Ecosystem
-  - Software Architecture
-  - Codebase
+  - Ecosystem Blind Spot
+  - Tooling
+  - Career
+  - Software Development
   - Perspective
 lang: en
 categories: 
