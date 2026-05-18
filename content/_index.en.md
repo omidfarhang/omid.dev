@@ -2,10 +2,10 @@
 title: Home
 layout: home
 shortlink: https://g.omid.dev/en
-description: "Omid Farhang, Fullstack Web Developer with expertise in Angular, Node.js, Linux, and networking. Skilled in high-performance web solutions and team leadership. Let's connect!"
+description: "Omid Farhang, Frontend Architect and Engineering Lead specializing in Angular, TypeScript, Nx monorepos, design systems, and scalable web platforms."
 
 ---
 
-I am a **Senior Software Engineer** and **Systems Architect** with over a decade of experience in building high-performance web applications and managing complex infrastructure. My expertise lies at the intersection of **Frontend Engineering**, **DevOps**, and **Network Administration**.
+I am a **Frontend Architect** and **Engineering Lead** with over a decade of experience building scalable web platforms, design systems, and high-performing frontend teams.
 
-I specialize in crafting scalable solutions using **Angular** and **Node.js**, while ensuring robust deployment pipelines and secure server environments. This blog is where I share my technical insights, tutorials, and professional experiences.
+My main focus is **Angular**, **TypeScript**, **Nx monorepos**, and frontend platform governance. My background in Linux, DevOps, and networking helps me design systems that work beyond the browser: reliable in development, predictable in CI/CD, and stable in production.

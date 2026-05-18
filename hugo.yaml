@@ -80,13 +80,13 @@ languages:
     params:
       languageAltTitle: English
       author: Omid Farhang
-      description: "Omid Farhang, Fullstack Web Developer with expertise in Angular, Node.js, Linux, and networking. Skilled in high-performance web solutions and team leadership. Let's connect!"
-      keywords: [Fullstack Web Developer, Angular, "Node.js", Linux, Networking, "High-performance Web Solutions", Team Leadership, Web Development, Omid Farhang, JavaScript, TypeScript, Frontend Development, Backend Development, Software Architecture]
+      description: "Omid Farhang, Frontend Architect and Engineering Lead specializing in Angular, TypeScript, Nx monorepos, design systems, and scalable web platforms."
+      keywords: [Frontend Architect, Engineering Lead, Angular, TypeScript, Nx Monorepos, Design Systems, Frontend Development, Software Architecture, Team Leadership, Performance Engineering, DevOps, Linux, Omid Farhang]
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
         title: "Omid Farhang"
-        subtitle: "Senior Fullstack Engineer & Systems Architect"
+        subtitle: "Frontend Architect & Engineering Lead"
         buttons:
           - name: Explore My Blog
             url: /posts
@@ -126,13 +126,13 @@ languages:
     params:
       languageAltTitle: فارسی
       author: امید فرهنگ
-      description: "امید فرهنگ، برنامه نویس فول استک با تخصص انگولار، نود، لینوکس و شبکه. ماهر در راه‌حل‌های وب با عملکرد بالا و رهبری تیم."
-      keywords: [Fullstack Web Developer, انگولار, "نود جی اس", لینوکس, شبکه, "High-performance Web Solutions", رهبری تیم, برنامه نویسی وب, امید فرهنگ, جاوا اسکریپت, تایپ اسکریپت, برنامه نویسی فرانت, برنامه نویسی بک اند, معماری نرم افزار]
+      description: "امید فرهنگ، معمار فرانت‌اند و لید مهندسی با تمرکز بر انگولار، تایپ‌اسکریپت، Nx Monorepo، دیزاین سیستم و پلتفرم‌های وب مقیاس‌پذیر."
+      keywords: [معمار فرانت‌اند, لید مهندسی, انگولار, تایپ‌اسکریپت, Nx Monorepos, دیزاین سیستم, توسعه فرانت‌اند, معماری نرم‌افزار, رهبری تیم, بهینه‌سازی عملکرد, DevOps, لینوکس, امید فرهنگ]
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
         title: "امید فرهنگ"
-        subtitle: "مهندس ارشد فول‌استک و معمار سیستم"
+        subtitle: "معمار فرانت‌اند و لید مهندسی"
         buttons:
           - name: مشاهده بلاگ
             url: /posts
@@ -169,13 +169,13 @@ languages:
     params:
       languageAltTitle: Deutsch
       author: Omid Farhang
-      description: "Omid Farhang, Fullstack-Webentwickler mit Expertise in Angular, Node.js, Linux und Netzwerken. Spezialisiert auf hochperformante Weblösungen und Teamleitung. Lassen Sie uns in Kontakt treten!"
-      keywords: [Fullstack-Webentwickler, Angular, "Node.js", Linux, Netzwerke, "Hochperformante Weblösungen", Teamleitung, Webentwicklung, Omid Farhang, JavaScript, TypeScript, Frontend-Entwicklung, Backend-Entwicklung, Softwarearchitektur]
+      description: "Omid Farhang, Frontend-Architekt und Engineering Lead mit Fokus auf Angular, TypeScript, Nx-Monorepos, Design Systems und skalierbare Webplattformen."
+      keywords: [Frontend-Architekt, Engineering Lead, Angular, TypeScript, Nx-Monorepos, Design Systems, Frontend-Entwicklung, Softwarearchitektur, Teamleitung, Performance Engineering, DevOps, Linux, Omid Farhang]
       profileMode:
         enabled: true
         imageUrl: "/images/bio-photo-150x150.jpg"
         title: "Omid Farhang"
-        subtitle: "Senior Fullstack-Ingenieur & Systemarchitekt"
+        subtitle: "Frontend-Architekt & Engineering Lead"
         buttons:
           - name: Blog erkunden
             url: /posts
