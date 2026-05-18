@@ -11,7 +11,7 @@ tags:
   - Hardware
   - laptop
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

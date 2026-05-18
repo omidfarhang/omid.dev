@@ -10,7 +10,7 @@ tags:
   - news
   - privacy
   - Zynga
-lang: en
+
 categories: 
   - TechBlog
 ---

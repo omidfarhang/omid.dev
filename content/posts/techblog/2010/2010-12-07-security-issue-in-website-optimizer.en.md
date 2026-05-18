@@ -10,7 +10,7 @@ tags:
   - Mail
   - privacy
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

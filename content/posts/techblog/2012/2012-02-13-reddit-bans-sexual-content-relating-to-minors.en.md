@@ -8,7 +8,7 @@ tags:
   - news
   - Reddit
   - Sex
-lang: en
+
 categories: 
   - TechBlog
 ---

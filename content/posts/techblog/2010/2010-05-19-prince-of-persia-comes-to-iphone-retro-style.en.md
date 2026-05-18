@@ -9,7 +9,7 @@ tags:
   - Game
   - iphone
   - Ubisoft
-lang: en
+
 categories: 
   - TechBlog
 ---

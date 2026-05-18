@@ -7,7 +7,7 @@ url: 2012/07/19/security-researchers-take-out-botnet-responsible-for-18-billion-
 tags:
   - news
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

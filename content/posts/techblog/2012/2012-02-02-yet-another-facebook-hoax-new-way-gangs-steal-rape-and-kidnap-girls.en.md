@@ -9,7 +9,7 @@ tags:
   - Facebook
   - hoax
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

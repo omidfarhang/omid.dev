@@ -8,7 +8,7 @@ tags:
   - hack
   - Interview
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

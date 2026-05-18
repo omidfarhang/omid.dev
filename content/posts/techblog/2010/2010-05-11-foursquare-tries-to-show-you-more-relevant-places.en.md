@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/11/foursquare-tries-to-show-you-more-relevant-places/
 tags:
   - foursquare
-lang: en
+
 categories: 
   - TechBlog
 ---

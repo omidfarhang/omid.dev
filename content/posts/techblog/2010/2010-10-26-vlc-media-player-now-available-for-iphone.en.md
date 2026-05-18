@@ -11,7 +11,7 @@ tags:
   - ipad
   - iphone
   - software
-lang: en
+
 categories: 
   - TechBlog
 ---

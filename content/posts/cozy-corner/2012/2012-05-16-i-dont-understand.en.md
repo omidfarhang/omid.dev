@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/16/i-dont-understand/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -12,7 +12,7 @@ tags:
   - Skype
   - VOIP
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Piracy
   - RIAA
   - ThePirateBay
-lang: en
+
 categories: 
   - TechBlog
 ---

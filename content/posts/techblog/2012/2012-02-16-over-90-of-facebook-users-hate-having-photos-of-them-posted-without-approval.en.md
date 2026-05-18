@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Facebook Privacy
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

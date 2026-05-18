@@ -12,7 +12,7 @@ tags:
   - Linux
   - networking
   - ubuntu
-lang: en
+
 categories: 
   - TechBlog
 ---

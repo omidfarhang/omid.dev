@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/13/critical-vulnerabilities-in-xnview-fixed/
 tags:
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - PayPal
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/24/merry-christma-exec/
 tags:
   - Other
-lang: en
+
 categories: 
   - TechBlog
 ---

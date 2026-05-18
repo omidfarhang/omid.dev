@@ -10,7 +10,7 @@ tags:
   - rogue software
   - scam
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

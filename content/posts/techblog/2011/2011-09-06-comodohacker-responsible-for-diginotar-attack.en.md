@@ -7,7 +7,7 @@ url: 2011/09/06/comodohacker-responsible-for-diginotar-attack/
 tags:
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

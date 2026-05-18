@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "ltr" }}">
+<html lang="{{ site.Language }}" dir="{{ .Language.Direction | default "ltr" }}">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{- $resume := (index .Site.Data .Site.Language.Lang).resume -}}
+    {{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
     <title>{{ $resume.name }} - Resume</title>
     <style>
         * {
@@ -282,7 +282,7 @@
             <i class="fa-solid fa-download"></i> {{ T "download_pdf" }}
         </a>
         <a class="print-btn" href="{{ "resume" | relLangURL }}">
-            <i class="fa-solid {{ if eq .Language.LanguageDirection "rtl" }}fa-arrow-right{{ else }}fa-arrow-left{{ end }}"></i> {{ T "back_to_resume" }}
+            <i class="fa-solid {{ if eq .Language.Direction "rtl" }}fa-arrow-right{{ else }}fa-arrow-left{{ end }}"></i> {{ T "back_to_resume" }}
         </a>
     </div>
 

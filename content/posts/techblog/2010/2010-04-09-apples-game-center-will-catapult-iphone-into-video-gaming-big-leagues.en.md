@@ -11,7 +11,7 @@ tags:
   - ipad
   - iphone
   - Wii
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - Debian
   - report
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

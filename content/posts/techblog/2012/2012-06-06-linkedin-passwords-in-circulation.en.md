@@ -11,7 +11,7 @@ tags:
   - LinkedIn
   - Password
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

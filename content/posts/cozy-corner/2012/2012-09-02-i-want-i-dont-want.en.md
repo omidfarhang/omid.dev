@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/09/02/i-want-i-dont-want/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

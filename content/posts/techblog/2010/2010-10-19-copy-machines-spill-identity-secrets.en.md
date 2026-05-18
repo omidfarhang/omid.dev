@@ -7,7 +7,7 @@ url: 2010/10/19/copy-machines-spill-identity-secrets/
 tags:
   - advice
   - privacy
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ image: /images/sites/4/2013/05/hanneman2.jpg
 tags:
   - Slayer
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

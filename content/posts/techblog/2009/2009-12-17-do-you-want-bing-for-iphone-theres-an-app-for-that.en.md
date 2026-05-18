@@ -13,7 +13,7 @@ tags:
   - iphone
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

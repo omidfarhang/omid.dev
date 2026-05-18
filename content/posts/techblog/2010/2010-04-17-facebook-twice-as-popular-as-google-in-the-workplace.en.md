@@ -11,7 +11,7 @@ tags:
   - stats
   - Yahoo
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

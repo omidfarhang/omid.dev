@@ -11,7 +11,7 @@ tags:
   - PHP
   - report
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

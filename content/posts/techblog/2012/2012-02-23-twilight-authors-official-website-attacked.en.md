@@ -7,7 +7,7 @@ url: 2012/02/23/twilight-authors-official-website-attacked/
 tags:
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

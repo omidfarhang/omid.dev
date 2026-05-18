@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/12/please-donate-redcross-for-japanese-earthquake-victims/
 tags:
   - donate
-lang: en
+
 categories: 
   - TechBlog
 ---

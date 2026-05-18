@@ -9,7 +9,7 @@ tags:
   - Prebiotics
   - Probiotics
   - Postbiotics
-lang: en
+
 categories: 
   - Health
 ---

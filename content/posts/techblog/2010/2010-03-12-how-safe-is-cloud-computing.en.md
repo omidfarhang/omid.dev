@@ -8,7 +8,7 @@ tags:
   - Cloud Computing
   - review
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

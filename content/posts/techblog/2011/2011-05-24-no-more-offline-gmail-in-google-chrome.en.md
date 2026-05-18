@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Chrome
   - Google Mail
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Adobe
   - advice
   - PDF
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/11/06/hotmail-phishing-dumb-but-it-might-works/
 tags:
   - Hotmail
   - phishing
-lang: en
+
 categories: 
   - TechBlog
 ---

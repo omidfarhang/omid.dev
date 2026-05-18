@@ -15,7 +15,7 @@ tags:
   - politics
   - Steve Ballmer
   - video games
-lang: en
+
 categories: 
   - TechBlog
 ---

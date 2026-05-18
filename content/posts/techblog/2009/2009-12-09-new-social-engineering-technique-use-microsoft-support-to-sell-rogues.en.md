@@ -9,7 +9,7 @@ tags:
   - alert
   - rogue software
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

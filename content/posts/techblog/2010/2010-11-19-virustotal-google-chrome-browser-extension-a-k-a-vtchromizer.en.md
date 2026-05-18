@@ -7,7 +7,7 @@ url: 2010/11/19/virustotal-google-chrome-browser-extension-a-k-a-vtchromizer/
 tags:
   - suggestion
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

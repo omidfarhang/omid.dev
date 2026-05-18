@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/11/maxed-out-in-financial-software-intuit-jumps-into-healthcare-with-91m-buy-of-medfusion/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

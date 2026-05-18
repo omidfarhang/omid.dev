@@ -8,7 +8,7 @@ tags:
   - advice
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/01/16/seasons-of-scams/
 tags:
   - alert
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

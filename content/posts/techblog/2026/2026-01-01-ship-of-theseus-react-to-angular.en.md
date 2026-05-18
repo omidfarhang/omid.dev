@@ -16,7 +16,7 @@ tags:
   - Migration
   - Frontend Architecture
   - FinTech
-lang: en
+
 categories: 
   - TechBlog
 ---

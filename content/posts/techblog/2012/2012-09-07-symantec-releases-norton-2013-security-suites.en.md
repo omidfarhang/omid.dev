@@ -11,7 +11,7 @@ tags:
   - software
   - symantec
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - hack
   - malware
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

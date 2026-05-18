@@ -7,7 +7,7 @@ url: 2011/08/25/jobs-opportunities-for-apple-scammers/
 tags:
   - Apple
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

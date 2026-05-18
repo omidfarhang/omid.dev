@@ -11,7 +11,7 @@ tags:
   - Mobile Browsers
   - Opera
   - Opera Mini
-lang: en
+
 categories: 
   - TechBlog
 ---

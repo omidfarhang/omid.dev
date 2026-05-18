@@ -8,7 +8,7 @@ tags:
   - Facebook
   - facebook phishing
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -14,7 +14,7 @@ tags:
   - software
   - StreetView
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

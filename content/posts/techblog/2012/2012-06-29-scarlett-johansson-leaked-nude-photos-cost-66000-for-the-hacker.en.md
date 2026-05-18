@@ -10,7 +10,7 @@ tags:
   - leak
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

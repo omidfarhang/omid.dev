@@ -9,7 +9,7 @@ tags:
   - پری‌بیوتیک
   - پروبیوتیک
   - پست‌بیوتیک
-lang: fa
+
 categories: 
   - Health
 ---

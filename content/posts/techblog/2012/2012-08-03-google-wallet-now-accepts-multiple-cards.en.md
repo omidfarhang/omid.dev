@@ -8,7 +8,7 @@ tags:
   - business
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

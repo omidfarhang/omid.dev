@@ -13,7 +13,7 @@ tags:
   - Google Chrome
   - malware
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

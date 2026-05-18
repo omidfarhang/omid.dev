@@ -7,7 +7,7 @@ url: 2009/12/19/system-adware-scanner-2010/
 tags:
   - rogue software
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

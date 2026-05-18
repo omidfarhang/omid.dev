@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/wikileaks-now-has-hundreds-of-mirrors/
 tags:
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

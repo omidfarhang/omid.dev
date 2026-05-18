@@ -9,7 +9,7 @@ tags:
   - Interesting
   - Microsoft
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

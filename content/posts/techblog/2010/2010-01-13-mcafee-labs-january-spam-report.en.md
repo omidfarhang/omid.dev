@@ -7,7 +7,7 @@ url: 2010/01/13/mcafee-labs-january-spam-report/
 tags:
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

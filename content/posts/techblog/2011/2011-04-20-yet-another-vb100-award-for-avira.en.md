@@ -9,7 +9,7 @@ tags:
   - Avira
   - awards
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

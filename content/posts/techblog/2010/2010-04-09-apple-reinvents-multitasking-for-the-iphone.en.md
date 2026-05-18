@@ -12,7 +12,7 @@ tags:
   - news
   - Skype
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

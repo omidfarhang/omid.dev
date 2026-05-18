@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/07/24/could-romney-really-ban-porn/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

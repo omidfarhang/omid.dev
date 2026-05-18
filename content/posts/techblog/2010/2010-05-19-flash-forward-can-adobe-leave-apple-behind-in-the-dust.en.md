@@ -8,7 +8,7 @@ tags:
   - Adobe
   - Apple
   - Flash
-lang: en
+
 categories: 
   - TechBlog
 ---

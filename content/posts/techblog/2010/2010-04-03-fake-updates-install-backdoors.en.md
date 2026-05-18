@@ -7,7 +7,7 @@ url: 2010/04/03/fake-updates-install-backdoors/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

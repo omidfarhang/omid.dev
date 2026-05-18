@@ -14,7 +14,7 @@ tags:
   - Windows
   - Windows 7
   - windows vista
-lang: en
+
 categories: 
   - TechBlog
 ---

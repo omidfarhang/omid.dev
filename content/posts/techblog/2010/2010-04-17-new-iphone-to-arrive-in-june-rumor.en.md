@@ -10,7 +10,7 @@ tags:
   - iphone
   - Mobile 2.0
   - rumor
-lang: en
+
 categories: 
   - TechBlog
 ---

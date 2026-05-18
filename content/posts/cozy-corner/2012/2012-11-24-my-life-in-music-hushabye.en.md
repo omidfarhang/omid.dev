@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/11/24/my-life-in-music-hushabye/
 tags:
   - Music Life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

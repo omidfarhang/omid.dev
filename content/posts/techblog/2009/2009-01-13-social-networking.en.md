@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/u5yZHGm
 tags:
   - Safety Tips
   - social networks
-lang: en
+
 categories: 
   - TechBlog
 ---

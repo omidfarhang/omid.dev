@@ -7,7 +7,7 @@ url: 2010/02/12/wi-fi-sensitivity-results-in-santa-fe-lawsuit/
 tags:
   - news
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

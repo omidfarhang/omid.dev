@@ -7,7 +7,7 @@ url: 2010/12/27/red-hat-near-key-support-area/
 tags:
   - business
   - RedHat
-lang: en
+
 categories: 
   - TechBlog
 ---

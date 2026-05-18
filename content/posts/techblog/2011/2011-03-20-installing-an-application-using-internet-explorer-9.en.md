@@ -12,7 +12,7 @@ tags:
   - internet explorer 9
   - Microsoft
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - ipad
   - iphone
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2011/10/07/eric-schmidt-on-steve-jobs-he-was-always-ahead-of-me/
 tags:
   - Eric Schmidt
   - Interview
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - malware
   - phishing
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

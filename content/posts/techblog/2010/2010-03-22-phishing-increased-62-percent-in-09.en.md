@@ -8,7 +8,7 @@ tags:
   - news
   - phishing
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

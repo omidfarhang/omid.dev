@@ -7,7 +7,7 @@ url: 2010/01/06/thrice-bitten-not-shy/
 tags:
   - malware
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

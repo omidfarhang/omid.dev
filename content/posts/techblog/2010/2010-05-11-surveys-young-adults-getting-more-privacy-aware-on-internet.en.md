@@ -11,7 +11,7 @@ tags:
   - review
   - social networking
   - survey
-lang: en
+
 categories: 
   - TechBlog
 ---

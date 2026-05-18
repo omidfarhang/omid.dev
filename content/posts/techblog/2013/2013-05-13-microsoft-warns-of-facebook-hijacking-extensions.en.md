@@ -7,7 +7,7 @@ url: 2013/05/13/microsoft-warns-of-facebook-hijacking-extensions/
 image: /images/2013/05/Facebook.png
 tags:
   - Microsoft
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - security
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

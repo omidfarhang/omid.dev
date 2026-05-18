@@ -10,7 +10,7 @@ tags:
   - Google
   - Google Maps
   - Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

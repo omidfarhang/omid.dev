@@ -9,7 +9,7 @@ tags:
   - Download
   - Linux
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

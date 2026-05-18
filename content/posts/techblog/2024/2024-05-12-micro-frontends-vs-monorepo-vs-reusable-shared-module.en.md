@@ -11,7 +11,7 @@ tags:
   - angular
   - Micro Frontends
   - Monorepo
-lang: en
+
 categories: 
   - TechBlog
 ---

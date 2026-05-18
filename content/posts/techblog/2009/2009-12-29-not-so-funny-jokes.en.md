@@ -10,7 +10,7 @@ tags:
   - Facebook
   - malware
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

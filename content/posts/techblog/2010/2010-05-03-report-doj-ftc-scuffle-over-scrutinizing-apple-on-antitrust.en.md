@@ -12,7 +12,7 @@ tags:
   - iphone
   - Mobile
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

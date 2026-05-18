@@ -13,7 +13,7 @@ tags:
   - Opera
   - report
   - Safari
-lang: en
+
 categories: 
   - TechBlog
 ---

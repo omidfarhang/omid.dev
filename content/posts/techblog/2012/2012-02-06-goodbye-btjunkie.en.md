@@ -7,7 +7,7 @@ url: 2012/02/06/goodbye-btjunkie/
 tags:
   - news
   - Torrent
-lang: en
+
 categories: 
   - TechBlog
 ---

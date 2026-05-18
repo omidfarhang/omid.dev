@@ -8,7 +8,7 @@ image: /images/sites/2/2013/03/9379-she9800img14.jpg
 tags:
   - information
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -10,7 +10,7 @@ tags:
   - news
   - report
   - Steam
-lang: en
+
 categories: 
   - TechBlog
 ---

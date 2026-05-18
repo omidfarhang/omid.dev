@@ -7,7 +7,7 @@ url: 2012/07/20/what-are-we-doing-to-our-planet/
 image: /images/sites/2/2012/07/David-and-Arlan.jpg
 tags:
   - I think
-lang: en
+
 categories: 
   - Cozy Corner
 ---

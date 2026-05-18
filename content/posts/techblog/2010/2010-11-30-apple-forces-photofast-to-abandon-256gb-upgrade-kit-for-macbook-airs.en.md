@@ -10,7 +10,7 @@ tags:
   - MacBook Air
   - news
   - PhotoFast
-lang: en
+
 categories: 
   - TechBlog
 ---

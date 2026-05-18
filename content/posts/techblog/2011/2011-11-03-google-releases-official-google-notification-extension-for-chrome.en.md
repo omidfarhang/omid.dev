@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Chrome
   - Google Plus
-lang: en
+
 categories: 
   - TechBlog
 ---

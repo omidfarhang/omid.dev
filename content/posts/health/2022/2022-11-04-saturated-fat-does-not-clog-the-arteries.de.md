@@ -9,7 +9,7 @@ tags:
   - Gesundheit
   - Medizin
   - Lesenswert
-lang: de
+
 categories: 
   - Health
 ---

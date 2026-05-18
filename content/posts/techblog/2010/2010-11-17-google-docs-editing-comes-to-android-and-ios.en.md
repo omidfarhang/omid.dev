@@ -10,7 +10,7 @@ tags:
   - google docs
   - iOS
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

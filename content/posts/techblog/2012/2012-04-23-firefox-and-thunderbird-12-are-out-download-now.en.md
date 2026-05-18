@@ -10,7 +10,7 @@ tags:
   - software
   - Thunderbird
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

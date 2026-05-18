@@ -11,7 +11,7 @@ tags:
   - flash player
   - plugins
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

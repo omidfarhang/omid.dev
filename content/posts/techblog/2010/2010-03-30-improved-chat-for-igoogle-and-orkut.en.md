@@ -7,7 +7,7 @@ url: 2010/03/30/improved-chat-for-igoogle-and-orkut/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

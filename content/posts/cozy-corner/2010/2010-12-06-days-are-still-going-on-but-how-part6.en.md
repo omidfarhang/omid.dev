@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/days-are-still-going-on-but-how-part6/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

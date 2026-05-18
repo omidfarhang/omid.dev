@@ -8,7 +8,7 @@ tags:
   - business
   - news
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

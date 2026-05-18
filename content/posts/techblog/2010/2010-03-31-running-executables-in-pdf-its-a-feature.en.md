@@ -10,7 +10,7 @@ tags:
   - malware
   - PDF
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

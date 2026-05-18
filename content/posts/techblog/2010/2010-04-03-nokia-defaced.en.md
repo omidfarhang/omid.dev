@@ -8,7 +8,7 @@ tags:
   - advice
   - alert
   - hack
-lang: en
+
 categories: 
   - TechBlog
 ---

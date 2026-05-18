@@ -9,7 +9,7 @@ image: /images/sites/4/2008/04/17041865-17041868-slarge.jpg
 tags:
   - Serj Tankian
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

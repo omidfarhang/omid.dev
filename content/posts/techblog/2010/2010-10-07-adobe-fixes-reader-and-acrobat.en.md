@@ -10,7 +10,7 @@ tags:
   - report
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

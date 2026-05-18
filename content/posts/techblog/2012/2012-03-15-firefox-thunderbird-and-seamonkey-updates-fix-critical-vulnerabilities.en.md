@@ -9,7 +9,7 @@ tags:
   - Mail
   - Mozilla
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

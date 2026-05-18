@@ -8,7 +8,7 @@ tags:
   - advice
   - Google
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

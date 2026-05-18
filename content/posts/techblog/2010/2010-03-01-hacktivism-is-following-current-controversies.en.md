@@ -7,7 +7,7 @@ url: 2010/03/01/hacktivism-is-following-current-controversies/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

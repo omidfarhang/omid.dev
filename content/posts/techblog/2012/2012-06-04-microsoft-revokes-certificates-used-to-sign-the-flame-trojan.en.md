@@ -11,7 +11,7 @@ tags:
   - software
   - Updates
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

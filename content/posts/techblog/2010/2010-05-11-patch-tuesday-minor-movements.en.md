@@ -11,7 +11,7 @@ tags:
   - Patch Tuesday
   - Updates
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

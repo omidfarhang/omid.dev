@@ -7,7 +7,7 @@ url: 2010/11/24/lost-laptop-leads-to-first-data-protection-act-fine-for-uk-firm/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

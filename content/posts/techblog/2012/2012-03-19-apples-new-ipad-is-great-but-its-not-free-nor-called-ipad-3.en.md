@@ -9,7 +9,7 @@ tags:
   - ipad
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

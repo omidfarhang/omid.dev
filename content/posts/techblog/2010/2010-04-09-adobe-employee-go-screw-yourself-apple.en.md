@@ -11,7 +11,7 @@ tags:
   - Flash
   - iphone
   - iphone os
-lang: en
+
 categories: 
   - TechBlog
 ---

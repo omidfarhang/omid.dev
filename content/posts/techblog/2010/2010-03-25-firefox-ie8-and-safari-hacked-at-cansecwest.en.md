@@ -13,7 +13,7 @@ tags:
   - news
   - report
   - Safari
-lang: en
+
 categories: 
   - TechBlog
 ---

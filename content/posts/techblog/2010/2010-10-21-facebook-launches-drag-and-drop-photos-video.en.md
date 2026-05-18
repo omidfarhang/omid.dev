@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Facebook
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Android
   - malware
   - Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

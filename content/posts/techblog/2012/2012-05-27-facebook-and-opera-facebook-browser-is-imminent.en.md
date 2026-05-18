@@ -9,7 +9,7 @@ tags:
   - Facebook
   - Opera
   - rumor
-lang: en
+
 categories: 
   - TechBlog
 ---

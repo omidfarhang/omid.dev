@@ -7,7 +7,7 @@ url: 2010/03/01/analyzing-pdf-files/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

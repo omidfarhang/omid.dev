@@ -10,7 +10,7 @@ tags:
   - Theme
   - Updates
   - Windows 7
-lang: en
+
 categories: 
   - TechBlog
 ---

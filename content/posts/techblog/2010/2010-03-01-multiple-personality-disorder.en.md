@@ -7,7 +7,7 @@ url: 2010/03/01/multiple-personality-disorder/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

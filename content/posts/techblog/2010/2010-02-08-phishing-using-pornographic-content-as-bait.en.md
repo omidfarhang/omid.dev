@@ -7,7 +7,7 @@ url: 2010/02/08/phishing-using-pornographic-content-as-bait/
 tags:
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

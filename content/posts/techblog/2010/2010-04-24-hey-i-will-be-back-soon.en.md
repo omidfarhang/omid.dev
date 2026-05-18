@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/24/hey-i-will-be-back-soon/
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

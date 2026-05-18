@@ -9,7 +9,7 @@ tags:
   - Iran
   - news
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

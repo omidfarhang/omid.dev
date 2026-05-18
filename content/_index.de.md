@@ -3,7 +3,7 @@ title: Startseite
 layout: home
 shortlink: https://g.omid.dev/de
 description: "Omid Farhang, Fullstack-Webentwickler mit Expertise in Angular, Node.js, Linux und Netzwerken. Spezialisiert auf hochperformante Weblösungen und Teamleitung. Lassen Sie uns in Kontakt treten!"
-lang: de
+
 ---
 
 Ich bin ein **Senior Software Engineer** und **Systemarchitekt** mit über einem Jahrzehnt Erfahrung im Aufbau von Hochleistungs-Webanwendungen und der Verwaltung komplexer Infrastrukturen. Meine Expertise liegt an der Schnittstelle von **Frontend-Engineering**, **DevOps** und **Netzwerkadministration**.

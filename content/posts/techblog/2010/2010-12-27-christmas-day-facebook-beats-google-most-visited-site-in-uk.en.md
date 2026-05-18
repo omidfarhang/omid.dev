@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Google
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

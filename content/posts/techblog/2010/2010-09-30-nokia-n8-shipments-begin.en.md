@@ -9,7 +9,7 @@ tags:
   - news
   - Nokia
   - Smartphone
-lang: en
+
 categories: 
   - TechBlog
 ---

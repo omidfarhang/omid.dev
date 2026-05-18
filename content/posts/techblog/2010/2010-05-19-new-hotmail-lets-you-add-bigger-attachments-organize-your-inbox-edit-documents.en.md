@@ -9,7 +9,7 @@ tags:
   - Mail
   - Microsoft
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

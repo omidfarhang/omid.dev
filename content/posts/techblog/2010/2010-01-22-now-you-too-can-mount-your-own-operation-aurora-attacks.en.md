@@ -8,7 +8,7 @@ tags:
   - alert
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

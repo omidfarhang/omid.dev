@@ -9,7 +9,7 @@ tags:
   - Frontend
   - Tests
   - Developments
-lang: en
+
 categories: 
   - TechBlog
 ---

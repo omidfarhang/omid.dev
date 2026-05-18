@@ -14,7 +14,7 @@ tags:
   - Navigation
   - Nokia
   - T-Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

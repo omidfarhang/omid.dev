@@ -8,7 +8,7 @@ tags:
   - Adobe
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

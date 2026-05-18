@@ -8,7 +8,7 @@ tags:
   - news
   - Patch Tuesday
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

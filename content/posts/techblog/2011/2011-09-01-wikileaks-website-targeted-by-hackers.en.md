@@ -8,7 +8,7 @@ tags:
   - hack
   - report
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

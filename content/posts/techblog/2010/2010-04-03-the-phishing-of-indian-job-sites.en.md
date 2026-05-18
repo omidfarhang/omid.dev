@@ -10,7 +10,7 @@ tags:
   - hack
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

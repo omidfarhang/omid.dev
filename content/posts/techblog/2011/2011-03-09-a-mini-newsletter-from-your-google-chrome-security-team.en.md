@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - review
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

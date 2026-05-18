@@ -8,7 +8,7 @@ tags:
   - malware
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

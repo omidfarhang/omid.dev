@@ -8,7 +8,7 @@ tags:
   - kernel.org
   - report
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

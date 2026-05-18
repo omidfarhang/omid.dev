@@ -11,7 +11,7 @@ tags:
   - privacy
   - report
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

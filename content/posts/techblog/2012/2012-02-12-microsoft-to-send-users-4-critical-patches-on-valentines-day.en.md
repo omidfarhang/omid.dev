@@ -10,7 +10,7 @@ tags:
   - report
   - Updates
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

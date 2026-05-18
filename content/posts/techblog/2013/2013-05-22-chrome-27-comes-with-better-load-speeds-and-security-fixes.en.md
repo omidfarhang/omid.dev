@@ -7,7 +7,7 @@ url: 2013/05/22/chrome-27-comes-with-better-load-speeds-and-security-fixes/
 image: /images/2013/05/new-chrome-logo.png
 tags:
   - Google
-lang: en
+
 categories: 
   - TechBlog
 ---

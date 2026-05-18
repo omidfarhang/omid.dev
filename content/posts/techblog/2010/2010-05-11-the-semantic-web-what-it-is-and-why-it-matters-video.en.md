@@ -9,7 +9,7 @@ tags:
   - Film
   - Video
   - Web 3.0
-lang: en
+
 categories: 
   - TechBlog
 ---

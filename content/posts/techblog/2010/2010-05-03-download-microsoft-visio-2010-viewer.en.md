@@ -10,7 +10,7 @@ tags:
   - microsoft office 2010
   - Offer
   - Office
-lang: en
+
 categories: 
   - TechBlog
 ---

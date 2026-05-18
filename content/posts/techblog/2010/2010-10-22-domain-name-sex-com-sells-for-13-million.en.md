@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/22/domain-name-sex-com-sells-for-13-million/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

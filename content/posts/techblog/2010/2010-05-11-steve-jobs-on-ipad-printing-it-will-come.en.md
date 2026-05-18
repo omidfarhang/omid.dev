@@ -9,7 +9,7 @@ tags:
   - ipad
   - printing
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Browser
   - news
   - Xmarks
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Iran
   - Tor Project
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

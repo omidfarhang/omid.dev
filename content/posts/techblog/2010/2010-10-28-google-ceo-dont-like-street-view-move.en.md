@@ -10,7 +10,7 @@ tags:
   - Google CEO
   - news
   - StreetView
-lang: en
+
 categories: 
   - TechBlog
 ---

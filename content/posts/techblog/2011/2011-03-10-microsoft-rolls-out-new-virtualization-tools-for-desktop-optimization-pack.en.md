@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Microsoft
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

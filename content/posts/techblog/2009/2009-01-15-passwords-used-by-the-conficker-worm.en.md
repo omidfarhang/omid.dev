@@ -10,7 +10,7 @@ tags:
   - Password
   - Malware
   - conficker
-lang: en
+
 categories: 
   - TechBlog
 ---

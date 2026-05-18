@@ -8,7 +8,7 @@ tags:
   - report
   - review
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/03/22/google-cn-is-dead-now/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

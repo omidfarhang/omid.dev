@@ -9,7 +9,7 @@ tags:
   - Eric Schmidt
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

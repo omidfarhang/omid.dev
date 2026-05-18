@@ -8,7 +8,7 @@ tags:
   - gmail
   - Google
   - Google Mail
-lang: en
+
 categories: 
   - TechBlog
 ---

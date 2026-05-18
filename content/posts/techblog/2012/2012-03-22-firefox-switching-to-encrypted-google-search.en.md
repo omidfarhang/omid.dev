@@ -10,7 +10,7 @@ tags:
   - Google
   - Mozilla
   - SSL
-lang: en
+
 categories: 
   - TechBlog
 ---

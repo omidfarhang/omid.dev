@@ -7,7 +7,7 @@ url: 2010/04/17/uk-firm-offers-clickjacking-visualization-tool/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

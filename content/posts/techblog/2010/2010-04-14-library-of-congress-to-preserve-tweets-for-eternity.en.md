@@ -8,7 +8,7 @@ tags:
   - Library of Congress
   - news
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2011/06/04/the-old-dogs-are-still-in-learning-mode/
 tags:
   - review
   - rogue software
-lang: en
+
 categories: 
   - TechBlog
 ---

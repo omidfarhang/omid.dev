@@ -9,7 +9,7 @@ tags:
   - Updates
   - Windows Phone
   - Windows Phone 7
-lang: en
+
 categories: 
   - TechBlog
 ---

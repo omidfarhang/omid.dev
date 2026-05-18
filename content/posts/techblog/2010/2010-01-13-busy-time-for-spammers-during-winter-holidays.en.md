@@ -8,7 +8,7 @@ tags:
   - alert
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

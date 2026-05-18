@@ -10,7 +10,7 @@ tags:
   - news
   - privacy
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

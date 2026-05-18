@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - google chrome Web Store
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

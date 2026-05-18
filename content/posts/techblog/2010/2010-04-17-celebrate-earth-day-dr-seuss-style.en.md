@@ -14,7 +14,7 @@ tags:
   - iphone apps
   - Kids
   - The Lorax
-lang: en
+
 categories: 
   - TechBlog
 ---

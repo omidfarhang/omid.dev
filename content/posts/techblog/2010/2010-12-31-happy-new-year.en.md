@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/31/happy-new-year/
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

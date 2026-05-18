@@ -12,7 +12,7 @@ tags:
   - Internet Explorer
   - Mozilla
   - Opera
-lang: en
+
 categories: 
   - TechBlog
 ---

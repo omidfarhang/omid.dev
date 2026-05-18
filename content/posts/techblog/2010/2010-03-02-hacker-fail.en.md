@@ -8,7 +8,7 @@ tags:
   - Fun
   - hack
   - Interesting
-lang: en
+
 categories: 
   - TechBlog
 ---

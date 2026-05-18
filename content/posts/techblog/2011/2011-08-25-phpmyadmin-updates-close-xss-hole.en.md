@@ -8,7 +8,7 @@ tags:
   - PHP
   - security
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

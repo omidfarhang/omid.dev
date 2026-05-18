@@ -9,7 +9,7 @@ tags:
   - hack
   - report
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

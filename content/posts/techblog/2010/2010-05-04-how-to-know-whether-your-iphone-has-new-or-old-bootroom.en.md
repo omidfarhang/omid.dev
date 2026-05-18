@@ -11,7 +11,7 @@ tags:
   - iphone os
   - jailbreak
   - Tricks
-lang: en
+
 categories: 
   - TechBlog
 ---

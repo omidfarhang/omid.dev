@@ -15,7 +15,7 @@ tags:
   - Nutrition and Appetite Disorders
   - Learning and Behavioral Psychology
   - Food Allergy vs Intolerance
-lang: en
+
 categories: 
   - Health
 ---

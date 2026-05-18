@@ -8,7 +8,7 @@ image: /images/sites/4/2013/05/Avril_Lavigne_Goodbye_Lullaby_album_cover.jpg
 tags:
   - Avril Lavigne
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

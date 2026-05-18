@@ -7,7 +7,7 @@ url: 2010/03/01/most-used-spam-categories-in-february-2010/
 tags:
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

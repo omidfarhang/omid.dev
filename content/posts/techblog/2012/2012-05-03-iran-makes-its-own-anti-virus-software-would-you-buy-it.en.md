@@ -8,7 +8,7 @@ tags:
   - antivirus
   - Iran
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

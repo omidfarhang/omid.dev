@@ -10,7 +10,7 @@ tags:
   - Google
   - Mail
   - solution
-lang: en
+
 categories: 
   - TechBlog
 ---

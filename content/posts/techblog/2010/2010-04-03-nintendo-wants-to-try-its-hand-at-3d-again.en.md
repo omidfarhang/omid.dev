@@ -10,7 +10,7 @@ tags:
   - Game console
   - news
   - Nintendo
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2009/12/09/turscar-riomhphoist-spam-email-in-irish/
 shortlink: https://g.omid.dev/21qU4Cg
 tags:
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

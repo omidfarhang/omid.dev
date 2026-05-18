@@ -8,7 +8,7 @@ tags:
   - Facebook
   - hack
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

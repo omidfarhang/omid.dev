@@ -11,7 +11,7 @@ tags:
   - privacy
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - alert
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

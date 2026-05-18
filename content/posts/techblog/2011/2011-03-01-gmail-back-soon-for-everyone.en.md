@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Mail
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

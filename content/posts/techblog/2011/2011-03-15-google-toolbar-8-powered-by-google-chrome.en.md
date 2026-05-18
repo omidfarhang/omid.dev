@@ -8,7 +8,7 @@ tags:
   - Google Chrome
   - Google Toolbar
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

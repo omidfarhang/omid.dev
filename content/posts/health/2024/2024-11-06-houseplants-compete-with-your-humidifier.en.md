@@ -12,7 +12,7 @@ tags:
   - Home Environment
   - Science Is Fun
   - Statics
-lang: en
+
 categories: 
   - Health
 ---

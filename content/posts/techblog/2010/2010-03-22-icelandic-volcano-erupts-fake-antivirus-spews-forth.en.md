@@ -10,7 +10,7 @@ tags:
   - phishing
   - review
   - rogue software
-lang: en
+
 categories: 
   - TechBlog
 ---

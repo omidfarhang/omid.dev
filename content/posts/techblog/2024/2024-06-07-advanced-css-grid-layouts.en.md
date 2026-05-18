@@ -10,7 +10,7 @@ tags:
   - Frontend Development
   - Responsive Design
   - Sample Code
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Facebook
   - social networking
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

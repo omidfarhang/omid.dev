@@ -13,7 +13,7 @@ tags:
   - Apollo Server
   - Web Development
   - Frontend Development
-lang: en
+
 categories: 
   - TechBlog
 ---

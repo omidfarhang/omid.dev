@@ -8,7 +8,7 @@ tags:
   - 4G
   - news
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

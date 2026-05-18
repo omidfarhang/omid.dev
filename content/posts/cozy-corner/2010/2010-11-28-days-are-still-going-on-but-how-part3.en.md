@@ -7,7 +7,7 @@ url: 2010/11/28/days-are-still-going-on-but-how-part3/
 image: /images/sites/2/2010/11/Image023.jpg
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

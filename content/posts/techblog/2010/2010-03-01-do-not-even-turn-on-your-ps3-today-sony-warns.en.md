@@ -8,7 +8,7 @@ tags:
   - Game
   - news
   - Sony
-lang: en
+
 categories: 
   - TechBlog
 ---

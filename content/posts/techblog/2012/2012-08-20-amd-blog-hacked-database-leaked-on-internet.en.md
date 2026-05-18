@@ -8,7 +8,7 @@ tags:
   - AMD
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

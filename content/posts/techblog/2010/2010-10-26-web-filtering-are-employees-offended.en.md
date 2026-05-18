@@ -8,7 +8,7 @@ tags:
   - internet
   - report
   - SME
-lang: en
+
 categories: 
   - TechBlog
 ---

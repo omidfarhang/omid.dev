@@ -10,7 +10,7 @@ tags:
   - Team Leadership
   - Frameworks
   - Micro Frontends
-lang: en
+
 categories: 
   - TechBlog
 ---

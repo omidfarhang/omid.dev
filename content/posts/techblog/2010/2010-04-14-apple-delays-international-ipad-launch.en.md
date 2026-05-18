@@ -10,7 +10,7 @@ tags:
   - Apple Tablet
   - ipad
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

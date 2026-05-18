@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/06/excuse-me-graham-cluley/
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

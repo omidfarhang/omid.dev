@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/17/will-foursquare-hit-one-million-members-on-foursquare-day/
 tags:
   - foursquare
-lang: en
+
 categories: 
   - TechBlog
 ---

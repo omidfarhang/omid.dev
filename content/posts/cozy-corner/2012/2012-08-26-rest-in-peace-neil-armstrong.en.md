@@ -7,7 +7,7 @@ url: 2012/08/26/rest-in-peace-neil-armstrong/
 image: /images/sites/2/2012/08/Neil_Armstrong_pose.jpg
 tags:
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

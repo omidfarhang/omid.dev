@@ -8,7 +8,7 @@ tags:
   - malware
   - rogue software
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Facebook
   - MARKETING
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

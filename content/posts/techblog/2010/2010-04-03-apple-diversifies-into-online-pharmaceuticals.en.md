@@ -9,7 +9,7 @@ tags:
   - Apple
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

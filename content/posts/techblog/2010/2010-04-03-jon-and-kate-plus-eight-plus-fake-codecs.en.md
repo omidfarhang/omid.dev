@@ -11,7 +11,7 @@ tags:
   - review
   - rogue software
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

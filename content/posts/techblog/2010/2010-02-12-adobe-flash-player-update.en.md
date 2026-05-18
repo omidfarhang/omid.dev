@@ -8,7 +8,7 @@ tags:
   - Adobe
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

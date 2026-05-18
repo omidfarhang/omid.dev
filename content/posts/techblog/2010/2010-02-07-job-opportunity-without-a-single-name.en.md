@@ -8,7 +8,7 @@ tags:
   - AOL
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

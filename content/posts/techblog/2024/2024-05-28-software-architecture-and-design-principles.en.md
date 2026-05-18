@@ -21,7 +21,7 @@ tags:
   - Coding Best Practices
   - System Design
   - Development Patterns
-lang: en
+
 categories: 
   - TechBlog
 ---

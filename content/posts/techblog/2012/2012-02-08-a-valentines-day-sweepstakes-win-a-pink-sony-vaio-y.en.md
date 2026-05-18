@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - promo
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

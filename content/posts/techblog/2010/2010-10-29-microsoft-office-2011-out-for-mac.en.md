@@ -11,7 +11,7 @@ tags:
   - Microsoft Office
   - Microsoft office 2011
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

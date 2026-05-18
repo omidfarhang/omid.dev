@@ -11,7 +11,7 @@ tags:
   - security
   - trojan
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

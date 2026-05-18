@@ -11,7 +11,7 @@ tags:
   - off broadway
   - steve jobs
   - threater
-lang: en
+
 categories: 
   - TechBlog
 ---

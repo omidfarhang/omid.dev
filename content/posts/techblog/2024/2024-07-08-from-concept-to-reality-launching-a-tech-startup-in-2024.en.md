@@ -12,7 +12,7 @@ tags:
   - Startup Journey
   - MVP Development
   - Funding And Scaling
-lang: en
+
 categories: 
   - TechBlog
 ---

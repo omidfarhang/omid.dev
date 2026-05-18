@@ -10,7 +10,7 @@ tags:
   - hack
   - leak
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

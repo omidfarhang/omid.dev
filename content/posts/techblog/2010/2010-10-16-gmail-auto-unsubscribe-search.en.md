@@ -9,7 +9,7 @@ tags:
   - gmail labs
   - Google
   - Tricks
-lang: en
+
 categories: 
   - TechBlog
 ---

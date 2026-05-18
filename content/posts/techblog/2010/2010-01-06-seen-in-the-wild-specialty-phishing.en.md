@@ -8,7 +8,7 @@ tags:
   - hack
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

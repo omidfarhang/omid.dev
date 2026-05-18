@@ -12,7 +12,7 @@ tags:
   - Windows
   - Windows 8
   - windows 8.1
-lang: en
+
 categories: 
   - TechBlog
 ---

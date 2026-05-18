@@ -10,7 +10,7 @@ tags:
   - report
   - Windows
   - windows Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

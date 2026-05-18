@@ -10,7 +10,7 @@ tags:
   - Password
   - security
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

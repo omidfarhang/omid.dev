@@ -11,7 +11,7 @@ tags:
   - report
   - review
   - rogue software
-lang: en
+
 categories: 
   - TechBlog
 ---

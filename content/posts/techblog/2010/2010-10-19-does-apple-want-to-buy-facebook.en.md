@@ -9,7 +9,7 @@ tags:
   - Facebook
   - Mark Zuckerberg
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

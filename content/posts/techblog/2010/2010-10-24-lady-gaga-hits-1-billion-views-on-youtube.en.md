@@ -9,7 +9,7 @@ tags:
   - music
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

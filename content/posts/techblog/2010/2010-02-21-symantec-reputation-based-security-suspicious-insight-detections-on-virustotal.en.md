@@ -9,7 +9,7 @@ tags:
   - report
   - review
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

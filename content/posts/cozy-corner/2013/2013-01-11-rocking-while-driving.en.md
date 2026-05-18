@@ -7,7 +7,7 @@ url: 2013/01/11/rocking-while-driving/
 image: /images/sites/2/2013/01/music-equalizer-800.jpg
 tags:
   - Music Life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

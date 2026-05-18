@@ -10,7 +10,7 @@ tags:
   - malware
   - Microsoft
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

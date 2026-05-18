@@ -10,7 +10,7 @@ tags:
   - MacBook
   - MacBook Air
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - ipad
   - iphone
   - Square
-lang: en
+
 categories: 
   - TechBlog
 ---

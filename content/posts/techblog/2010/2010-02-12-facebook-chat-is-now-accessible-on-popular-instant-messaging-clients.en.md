@@ -9,7 +9,7 @@ tags:
   - news
   - social networking
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

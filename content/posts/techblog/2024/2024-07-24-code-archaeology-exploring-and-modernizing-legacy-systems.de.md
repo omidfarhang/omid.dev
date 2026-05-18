@@ -13,7 +13,7 @@ tags:
   - Refactoring
   - Software-Engineering
   - Systemmigration
-lang: de
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/05/11/more-fallout-at-digg-10-of-staff-laid-off/
 tags:
   - digg
   - layoffs
-lang: en
+
 categories: 
   - TechBlog
 ---

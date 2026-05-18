@@ -12,7 +12,7 @@ tags:
   - how to
   - Security
   - Guide
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -15,7 +15,7 @@ tags:
   - Engineering Leadership
   - Technical Debt
   - Software Ethics
-lang: en
+
 categories: 
   - TechBlog
 ---

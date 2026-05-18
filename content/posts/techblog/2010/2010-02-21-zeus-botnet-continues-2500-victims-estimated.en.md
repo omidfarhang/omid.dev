@@ -9,7 +9,7 @@ tags:
   - malware
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Dropbox
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

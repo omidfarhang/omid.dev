@@ -13,7 +13,7 @@ tags:
   - social networking
   - Twitter
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

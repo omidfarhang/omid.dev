@@ -7,7 +7,7 @@ url: 2010/10/16/average-teen-sends-3339-texts-per-month/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

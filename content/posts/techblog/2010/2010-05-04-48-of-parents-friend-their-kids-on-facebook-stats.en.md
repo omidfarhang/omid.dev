@@ -12,7 +12,7 @@ tags:
   - report
   - social networking
   - stats
-lang: en
+
 categories: 
   - TechBlog
 ---

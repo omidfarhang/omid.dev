@@ -12,7 +12,7 @@ tags:
   - Password
   - security
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Open Web
   - privacy
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

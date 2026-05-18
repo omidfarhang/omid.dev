@@ -9,7 +9,7 @@ tags:
   - malware
   - Offer
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

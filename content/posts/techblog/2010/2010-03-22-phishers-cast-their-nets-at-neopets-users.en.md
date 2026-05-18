@@ -8,7 +8,7 @@ tags:
   - phishing
   - review
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

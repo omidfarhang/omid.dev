@@ -10,7 +10,7 @@ tags:
   - attack
   - hack
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

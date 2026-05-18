@@ -9,7 +9,7 @@ image: /images/sites/4/2008/05/snoop-dogg.jpg
 tags:
   - Snoop Dogg
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

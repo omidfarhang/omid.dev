@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/25/polar-opposites-in-u-s-senate-co-sponsor-cybercrime-bill/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - ipad
   - report
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

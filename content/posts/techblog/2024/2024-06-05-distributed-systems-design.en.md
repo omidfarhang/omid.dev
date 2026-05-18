@@ -11,7 +11,7 @@ tags:
   - Fault Tolerance
   - CAP Theorem
   - Design Patterns
-lang: en
+
 categories: 
   - TechBlog
 ---

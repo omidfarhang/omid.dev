@@ -16,7 +16,7 @@ tags:
   - Microservices
   - Observability
   - Engineering Mentality
-lang: en
+
 categories: 
   - TechBlog
 ---

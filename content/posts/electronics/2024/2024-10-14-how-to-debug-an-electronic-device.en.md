@@ -13,7 +13,7 @@ tags:
   - PCB Repair
   - Power Supply Issues
   - DIY Electronics Fixes
-lang: en
+
 categories: 
   - Electronics
 ---

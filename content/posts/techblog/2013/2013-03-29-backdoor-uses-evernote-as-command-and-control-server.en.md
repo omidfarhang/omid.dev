@@ -9,7 +9,7 @@ tags:
   - analyze
   - Evernote
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

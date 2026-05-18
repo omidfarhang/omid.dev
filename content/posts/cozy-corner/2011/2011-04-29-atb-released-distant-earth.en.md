@@ -8,7 +8,7 @@ image: /images/sites/4/2011/04/Distant_Earth_official_cover.jpg
 tags:
   - atb
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

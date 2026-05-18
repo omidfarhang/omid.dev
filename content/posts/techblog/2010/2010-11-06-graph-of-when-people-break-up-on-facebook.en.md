@@ -9,7 +9,7 @@ tags:
   - report
   - social media
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

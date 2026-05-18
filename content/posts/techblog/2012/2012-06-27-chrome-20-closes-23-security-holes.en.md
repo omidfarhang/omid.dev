@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - security
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

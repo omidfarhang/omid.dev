@@ -9,7 +9,7 @@ tags:
   - Lebensmittel
   - Geschichte
   - Lesenswert
-lang: de
+
 categories: 
   - Cozy Corner
 ---

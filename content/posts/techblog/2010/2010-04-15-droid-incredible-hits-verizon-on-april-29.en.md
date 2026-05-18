@@ -11,7 +11,7 @@ tags:
   - HTC Incredible
   - nexus one
   - verizon
-lang: en
+
 categories: 
   - TechBlog
 ---

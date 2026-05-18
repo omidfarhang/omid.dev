@@ -10,7 +10,7 @@ tags:
   - MySpace
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - security
   - Stuxnet
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

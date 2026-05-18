@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - This Blog Update
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

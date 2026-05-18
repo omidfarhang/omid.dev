@@ -7,7 +7,7 @@ url: 2012/02/21/%d0%bc%d0%b0%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%86%d0%b0-%d0%bd%d0
 tags:
   - alert
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

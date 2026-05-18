@@ -9,7 +9,7 @@ tags:
   - icade
   - ipad
   - iphone app store
-lang: en
+
 categories: 
   - TechBlog
 ---

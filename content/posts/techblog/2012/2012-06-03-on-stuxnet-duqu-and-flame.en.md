@@ -9,7 +9,7 @@ tags:
   - link
   - malware
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

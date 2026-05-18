@@ -9,7 +9,7 @@ image: /images/sites/4/2008/04/pic.jpg
 tags:
   - Armin Van Buuren
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

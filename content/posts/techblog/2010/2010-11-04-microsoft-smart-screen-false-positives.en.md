@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - report
   - SmartScreen
-lang: en
+
 categories: 
   - TechBlog
 ---

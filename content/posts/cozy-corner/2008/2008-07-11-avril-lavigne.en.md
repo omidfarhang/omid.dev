@@ -9,7 +9,7 @@ image: /images/sites/4/2008/07/avril_lavigne.jpg
 tags:
   - Avril Lavigne
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

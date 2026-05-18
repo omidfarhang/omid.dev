@@ -10,7 +10,7 @@ tags:
   - news
   - Virtualization
   - VMware
-lang: en
+
 categories: 
   - TechBlog
 ---

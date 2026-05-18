@@ -9,7 +9,7 @@ tags:
   - PowerPoint
   - problems
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

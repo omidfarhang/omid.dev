@@ -8,7 +8,7 @@ tags:
   - Interesting
   - malware
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

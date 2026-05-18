@@ -10,7 +10,7 @@ tags:
   - Mozilla
   - news
   - Thunderbird
-lang: en
+
 categories: 
   - TechBlog
 ---

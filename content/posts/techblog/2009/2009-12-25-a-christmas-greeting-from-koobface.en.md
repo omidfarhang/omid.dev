@@ -7,7 +7,7 @@ url: 2009/12/25/a-christmas-greeting-from-koobface/
 tags:
   - Facebook
   - Other
-lang: en
+
 categories: 
   - TechBlog
 ---

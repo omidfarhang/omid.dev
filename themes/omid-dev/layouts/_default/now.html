@@ -9,19 +9,19 @@
     <div class="page-metadata">
       <span class="meta-badge">
         <i class="fa-solid fa-clock-rotate-left"></i>
-        {{ T "last_updated" | default "Last updated" }}: {{ .Site.Data.now.last_updated }}
+        {{ T "last_updated" | default "Last updated" }}: {{ hugo.Data.now.last_updated }}
       </span>
-      {{- if .Site.Data.now.location -}}
+      {{- if hugo.Data.now.location -}}
       <span class="meta-location">
         <i class="fa-solid fa-location-dot"></i>
-        {{ .Site.Data.now.location }}
+        {{ hugo.Data.now.location }}
       </span>
       {{- end -}}
     </div>
   </header>
 
   <div class="now-status-box">
-    <p>{{ .Site.Data.now.status | markdownify }}</p>
+    <p>{{ hugo.Data.now.status | markdownify }}</p>
   </div>
 
   {{- if .Content }}
@@ -31,7 +31,7 @@
   {{- end }}
 
   <div class="now-grid">
-    {{- range .Site.Data.now.focuses }}
+    {{- range hugo.Data.now.focuses }}
     <div class="now-section">
       <h2 class="now-section-title">{{ .title }}</h2>
       <div class="now-section-content">

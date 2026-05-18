@@ -8,7 +8,7 @@ tags:
   - Censorship
   - internet
   - Iran
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Adobe
   - alert
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

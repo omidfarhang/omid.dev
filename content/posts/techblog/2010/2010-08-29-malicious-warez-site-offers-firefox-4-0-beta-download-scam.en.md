@@ -12,7 +12,7 @@ tags:
   - scam
   - Twitter
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

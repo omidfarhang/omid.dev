@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/11/22/i-can-always-say-its-gonna-be-better-tomorrow/
 tags:
   - video
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -11,7 +11,7 @@ tags:
   - Mark Zuckerberg
   - review
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

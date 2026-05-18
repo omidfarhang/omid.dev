@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/09/17/the-anti-botnet-initiative/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

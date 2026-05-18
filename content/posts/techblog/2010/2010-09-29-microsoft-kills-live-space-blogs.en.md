@@ -12,7 +12,7 @@ tags:
   - news
   - Windows Live
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

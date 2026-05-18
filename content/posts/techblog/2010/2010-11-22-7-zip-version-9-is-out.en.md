@@ -7,7 +7,7 @@ url: 2010/11/22/7-zip-version-9-is-out/
 tags:
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

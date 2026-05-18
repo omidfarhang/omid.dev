@@ -11,7 +11,7 @@ tags:
   - review
   - sprint
   - WiMax
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - social media analytics
   - social media monitoring
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

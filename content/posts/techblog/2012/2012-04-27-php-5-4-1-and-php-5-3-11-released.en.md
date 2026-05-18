@@ -8,7 +8,7 @@ tags:
   - PHP
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

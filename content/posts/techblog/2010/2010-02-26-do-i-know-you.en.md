@@ -10,7 +10,7 @@ tags:
   - rogue software
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

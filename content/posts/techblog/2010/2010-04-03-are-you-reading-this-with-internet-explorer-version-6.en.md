@@ -9,7 +9,7 @@ tags:
   - Browser
   - Firefox
   - Internet Explorer
-lang: en
+
 categories: 
   - TechBlog
 ---

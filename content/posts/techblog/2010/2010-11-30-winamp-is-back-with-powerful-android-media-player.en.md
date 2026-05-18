@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
   - Winamp
-lang: en
+
 categories: 
   - TechBlog
 ---

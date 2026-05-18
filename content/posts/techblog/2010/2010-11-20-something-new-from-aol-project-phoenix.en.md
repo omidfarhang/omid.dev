@@ -9,7 +9,7 @@ tags:
   - AOL
   - Beta
   - Mail
-lang: en
+
 categories: 
   - TechBlog
 ---

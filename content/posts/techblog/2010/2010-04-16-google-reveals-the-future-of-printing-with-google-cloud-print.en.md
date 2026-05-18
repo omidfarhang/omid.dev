@@ -11,7 +11,7 @@ tags:
   - google cloud print
   - ipad
   - printing
-lang: en
+
 categories: 
   - TechBlog
 ---

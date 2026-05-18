@@ -11,7 +11,7 @@ tags:
   - games
   - MARKETING
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

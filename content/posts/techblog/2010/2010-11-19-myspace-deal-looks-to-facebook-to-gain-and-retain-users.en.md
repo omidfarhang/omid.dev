@@ -10,7 +10,7 @@ tags:
   - news
   - report
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

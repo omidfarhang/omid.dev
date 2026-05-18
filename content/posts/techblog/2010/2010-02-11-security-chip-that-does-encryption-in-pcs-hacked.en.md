@@ -7,7 +7,7 @@ url: 2010/02/11/security-chip-that-does-encryption-in-pcs-hacked/
 tags:
   - alert
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

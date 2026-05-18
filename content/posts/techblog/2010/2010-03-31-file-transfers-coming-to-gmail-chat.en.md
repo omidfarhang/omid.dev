@@ -7,7 +7,7 @@ url: 2010/03/31/file-transfers-coming-to-gmail-chat/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

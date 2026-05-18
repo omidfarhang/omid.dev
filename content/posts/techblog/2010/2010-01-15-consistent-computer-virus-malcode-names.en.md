@@ -7,7 +7,7 @@ url: 2010/01/15/consistent-computer-virus-malcode-names/
 tags:
   - report
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - ایران
   - مواد معدنی
   - خواندنی‌های خوب
-lang: fa
+
 categories: 
   - Health
 ---

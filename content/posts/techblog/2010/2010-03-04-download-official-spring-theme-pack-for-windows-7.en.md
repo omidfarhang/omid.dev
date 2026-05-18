@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/04/download-official-spring-theme-pack-for-windows-7/
 tags:
   - Microsoft
-lang: en
+
 categories: 
   - TechBlog
 ---

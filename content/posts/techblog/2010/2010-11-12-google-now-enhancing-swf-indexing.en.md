@@ -8,7 +8,7 @@ tags:
   - Flash
   - Google
   - Search
-lang: en
+
 categories: 
   - TechBlog
 ---

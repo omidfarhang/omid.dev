@@ -7,7 +7,7 @@ url: 2011/04/11/zeroaccess-an-advanced-kernel-mode-rootkit/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

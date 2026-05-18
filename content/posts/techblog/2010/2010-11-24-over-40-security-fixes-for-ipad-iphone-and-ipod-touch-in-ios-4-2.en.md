@@ -9,7 +9,7 @@ tags:
   - ipad
   - iphone
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - iphone
   - Mobile
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

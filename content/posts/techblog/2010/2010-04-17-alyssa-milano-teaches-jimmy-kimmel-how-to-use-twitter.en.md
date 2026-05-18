@@ -10,7 +10,7 @@ tags:
   - tweetdeck
   - Twitter
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

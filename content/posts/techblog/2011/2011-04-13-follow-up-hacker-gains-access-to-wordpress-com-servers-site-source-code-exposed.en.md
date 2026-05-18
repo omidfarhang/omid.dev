@@ -11,7 +11,7 @@ tags:
   - report
   - security
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

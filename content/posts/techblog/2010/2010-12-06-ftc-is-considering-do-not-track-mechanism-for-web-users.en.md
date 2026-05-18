@@ -9,7 +9,7 @@ tags:
   - news
   - privacy
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

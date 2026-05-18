@@ -7,7 +7,7 @@ url: 2010/04/03/when-is-a-picture-not-worth-1000-words/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

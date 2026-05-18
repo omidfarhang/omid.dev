@@ -12,7 +12,7 @@ tags:
   - review
   - security
   - SQL
-lang: en
+
 categories: 
   - TechBlog
 ---

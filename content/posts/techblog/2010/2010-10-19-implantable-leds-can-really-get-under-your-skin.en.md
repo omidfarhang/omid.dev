@@ -7,7 +7,7 @@ url: 2010/10/19/implantable-leds-can-really-get-under-your-skin/
 tags:
   - Interesting
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - customization
   - ipad
   - tablets
-lang: en
+
 categories: 
   - TechBlog
 ---

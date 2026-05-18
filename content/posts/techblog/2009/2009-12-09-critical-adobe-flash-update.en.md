@@ -9,7 +9,7 @@ tags:
   - Adobe
   - Patch Tuesday
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

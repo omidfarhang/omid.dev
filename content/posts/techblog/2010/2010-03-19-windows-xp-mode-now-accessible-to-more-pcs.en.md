@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - news
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

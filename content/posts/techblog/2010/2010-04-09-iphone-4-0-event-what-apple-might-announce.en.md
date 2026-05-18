@@ -9,7 +9,7 @@ tags:
   - ipad
   - iphone
   - iphone os
-lang: en
+
 categories: 
   - TechBlog
 ---

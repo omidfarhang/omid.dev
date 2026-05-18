@@ -9,7 +9,7 @@ tags:
   - Mac OS X
   - malware
   - PDF
-lang: en
+
 categories: 
   - TechBlog
 ---

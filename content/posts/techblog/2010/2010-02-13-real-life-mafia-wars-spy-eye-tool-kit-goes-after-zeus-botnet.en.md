@@ -8,7 +8,7 @@ tags:
   - alert
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

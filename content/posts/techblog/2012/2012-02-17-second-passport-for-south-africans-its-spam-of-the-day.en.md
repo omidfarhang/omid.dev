@@ -7,7 +7,7 @@ url: 2012/02/17/second-passport-for-south-africans-its-spam-of-the-day/
 tags:
   - alert
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

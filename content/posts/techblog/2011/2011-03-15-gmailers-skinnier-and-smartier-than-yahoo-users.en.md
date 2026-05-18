@@ -8,7 +8,7 @@ tags:
   - Interesting
   - Mail
   - survey
-lang: en
+
 categories: 
   - TechBlog
 ---

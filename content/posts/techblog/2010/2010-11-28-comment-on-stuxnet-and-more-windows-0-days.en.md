@@ -9,7 +9,7 @@ tags:
   - report
   - Vulnerability
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Facebook
   - hoax
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

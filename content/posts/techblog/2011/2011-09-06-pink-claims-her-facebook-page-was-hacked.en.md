@@ -10,7 +10,7 @@ tags:
   - hack
   - report
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

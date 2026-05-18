@@ -7,7 +7,7 @@ url: 2010/03/19/the-dangers-of-freebies/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

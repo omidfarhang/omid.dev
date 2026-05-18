@@ -9,7 +9,7 @@ tags:
   - phishing
   - rogue software
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

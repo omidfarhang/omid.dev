@@ -9,7 +9,7 @@ tags:
   - Google
   - google chrome os
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

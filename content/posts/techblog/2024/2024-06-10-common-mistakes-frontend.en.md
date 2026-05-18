@@ -11,7 +11,7 @@ tags:
   - Web Performance 
   - ResponsiveDesign
   - Accessibility
-lang: en
+
 categories: 
   - TechBlog
 ---

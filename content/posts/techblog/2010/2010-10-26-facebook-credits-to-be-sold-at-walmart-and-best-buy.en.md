@@ -9,7 +9,7 @@ tags:
   - facebook credits
   - news
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

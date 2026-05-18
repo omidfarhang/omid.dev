@@ -11,7 +11,7 @@ tags:
   - phishing
   - spam
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

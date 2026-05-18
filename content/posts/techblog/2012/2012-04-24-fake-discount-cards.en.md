@@ -9,7 +9,7 @@ tags:
   - alert
   - scam
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

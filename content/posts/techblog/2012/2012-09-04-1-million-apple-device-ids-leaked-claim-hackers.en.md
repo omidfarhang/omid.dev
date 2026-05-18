@@ -8,7 +8,7 @@ tags:
   - Apple
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

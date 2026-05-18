@@ -10,7 +10,7 @@ tags:
   - linux
   - Ubuntu
   - Kernel
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/03/25/google-made-in-china/
 tags:
   - Google
   - Interesting
-lang: en
+
 categories: 
   - TechBlog
 ---

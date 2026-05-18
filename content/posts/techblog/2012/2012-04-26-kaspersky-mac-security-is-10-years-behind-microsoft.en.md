@@ -10,7 +10,7 @@ tags:
   - Mac vs PC
   - malware
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

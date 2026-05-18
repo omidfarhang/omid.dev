@@ -8,7 +8,7 @@ tags:
   - Firefox
   - Mozilla
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

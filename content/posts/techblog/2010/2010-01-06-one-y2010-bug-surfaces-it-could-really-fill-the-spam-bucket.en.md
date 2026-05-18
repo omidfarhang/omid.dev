@@ -7,7 +7,7 @@ url: 2010/01/06/one-y2010-bug-surfaces-it-could-really-fill-the-spam-bucket/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

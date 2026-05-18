@@ -12,7 +12,7 @@ tags:
   - security essnetials
   - symantec
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

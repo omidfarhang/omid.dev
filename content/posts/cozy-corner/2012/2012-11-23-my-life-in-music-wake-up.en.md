@@ -7,7 +7,7 @@ url: 2012/11/23/my-life-in-music-wake-up/
 image: /images/sites/2/2012/11/artworks-k.jpg
 tags:
   - Music Life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

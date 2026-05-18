@@ -8,7 +8,7 @@ image: /images/2013/04/facebook-xss-1.png
 tags:
   - Facebook
   - XSS
-lang: en
+
 categories: 
   - TechBlog
 ---

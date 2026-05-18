@@ -11,7 +11,7 @@ tags:
   - scam
   - social networking
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

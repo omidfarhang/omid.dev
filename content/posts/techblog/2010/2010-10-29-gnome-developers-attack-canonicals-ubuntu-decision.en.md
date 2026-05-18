@@ -10,7 +10,7 @@ tags:
   - Linux
   - news
   - ubuntu
-lang: en
+
 categories: 
   - TechBlog
 ---

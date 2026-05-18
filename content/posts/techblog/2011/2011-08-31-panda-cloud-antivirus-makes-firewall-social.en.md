@@ -9,7 +9,7 @@ tags:
   - Cloud
   - panda
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Avira
   - Beta
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

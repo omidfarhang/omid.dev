@@ -9,7 +9,7 @@ tags:
   - IE10
   - Internet Explorer
   - Microsoft
-lang: en
+
 categories: 
   - TechBlog
 ---

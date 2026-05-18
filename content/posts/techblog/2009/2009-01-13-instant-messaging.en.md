@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/xqpKXty
 tags:
   - Safety Tips
   - instant messaging
-lang: en
+
 categories: 
   - TechBlog
 ---

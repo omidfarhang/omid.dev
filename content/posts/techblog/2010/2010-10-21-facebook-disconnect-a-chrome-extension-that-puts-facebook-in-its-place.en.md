@@ -8,7 +8,7 @@ tags:
   - Extension
   - Facebook
   - Google Chrome
-lang: en
+
 categories: 
   - TechBlog
 ---

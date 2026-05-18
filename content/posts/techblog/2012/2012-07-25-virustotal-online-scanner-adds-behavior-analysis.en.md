@@ -9,7 +9,7 @@ tags:
   - antivirus
   - news
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

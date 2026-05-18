@@ -12,7 +12,7 @@ tags:
   - news
   - nexus s
   - samsung
-lang: en
+
 categories: 
   - TechBlog
 ---

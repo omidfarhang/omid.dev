@@ -8,7 +8,7 @@ tags:
   - review
   - WiFi
   - wireless networking
-lang: en
+
 categories: 
   - TechBlog
 ---

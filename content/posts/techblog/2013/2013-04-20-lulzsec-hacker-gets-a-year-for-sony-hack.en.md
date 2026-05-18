@@ -10,7 +10,7 @@ tags:
   - Hollywood
   - LulzSec
   - Sony
-lang: en
+
 categories: 
   - TechBlog
 ---

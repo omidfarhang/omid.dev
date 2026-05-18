@@ -11,7 +11,7 @@ tags:
   - Mobile
   - Motorola Mobility
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

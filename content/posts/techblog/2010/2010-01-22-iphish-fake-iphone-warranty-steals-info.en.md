@@ -10,7 +10,7 @@ tags:
   - iphone
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

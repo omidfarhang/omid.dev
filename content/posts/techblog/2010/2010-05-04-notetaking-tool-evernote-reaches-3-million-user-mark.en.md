@@ -11,7 +11,7 @@ tags:
   - Notetaking
   - report
   - stats
-lang: en
+
 categories: 
   - TechBlog
 ---

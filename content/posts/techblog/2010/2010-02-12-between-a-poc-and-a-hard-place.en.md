@@ -9,7 +9,7 @@ tags:
   - Mobile
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

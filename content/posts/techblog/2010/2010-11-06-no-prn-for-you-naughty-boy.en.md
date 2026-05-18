@@ -8,7 +8,7 @@ tags:
   - Hijack
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

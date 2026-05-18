@@ -9,7 +9,7 @@ tags:
   - Avira
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

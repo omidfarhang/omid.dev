@@ -10,7 +10,7 @@ tags:
   - Internet Explorer
   - internet explorer 9
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

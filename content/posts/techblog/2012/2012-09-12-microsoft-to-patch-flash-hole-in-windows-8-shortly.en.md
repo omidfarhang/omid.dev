@@ -9,7 +9,7 @@ tags:
   - flash player
   - Internet Explorer
   - Microsoft
-lang: en
+
 categories: 
   - TechBlog
 ---

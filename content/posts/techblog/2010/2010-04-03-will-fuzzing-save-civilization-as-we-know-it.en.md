@@ -11,7 +11,7 @@ tags:
   - Microsoft
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

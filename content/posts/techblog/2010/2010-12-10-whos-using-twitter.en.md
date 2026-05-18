@@ -7,7 +7,7 @@ url: 2010/12/10/whos-using-twitter/
 tags:
   - report
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

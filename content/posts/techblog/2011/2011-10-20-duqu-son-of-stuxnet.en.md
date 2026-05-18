@@ -11,7 +11,7 @@ tags:
   - review
   - security
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/04/17/how-much-do-musicians-make-from-online-music-sales/
 tags:
   - music
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

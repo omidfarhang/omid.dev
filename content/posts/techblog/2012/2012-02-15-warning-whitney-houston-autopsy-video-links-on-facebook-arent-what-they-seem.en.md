@@ -9,7 +9,7 @@ tags:
   - Facebook
   - spam
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

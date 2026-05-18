@@ -7,7 +7,7 @@ url: 2010/01/21/uk-telecom-giant-virgin-media-monitoring-customers-file-sharing/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - ubuntu
   - vscode
   - zsh
-lang: en
+
 categories: 
   - TechBlog
 ---

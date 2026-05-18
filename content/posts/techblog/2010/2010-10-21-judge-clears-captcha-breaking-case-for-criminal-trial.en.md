@@ -7,7 +7,7 @@ url: 2010/10/21/judge-clears-captcha-breaking-case-for-criminal-trial/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

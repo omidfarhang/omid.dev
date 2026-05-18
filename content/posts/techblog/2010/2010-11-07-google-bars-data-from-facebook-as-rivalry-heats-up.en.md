@@ -9,7 +9,7 @@ tags:
   - Facebook Privacy
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

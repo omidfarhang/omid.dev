@@ -7,7 +7,7 @@ url: 2010/11/24/miley-cyrus-and-cybercriminals-make-strange-bedfellows/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

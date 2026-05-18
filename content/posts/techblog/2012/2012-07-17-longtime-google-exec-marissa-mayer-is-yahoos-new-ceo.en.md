@@ -9,7 +9,7 @@ tags:
   - Marissa Mayer
   - news
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

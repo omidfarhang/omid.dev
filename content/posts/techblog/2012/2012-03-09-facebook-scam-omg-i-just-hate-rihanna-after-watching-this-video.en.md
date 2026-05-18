@@ -11,7 +11,7 @@ tags:
   - malware
   - scam
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

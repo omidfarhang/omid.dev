@@ -11,7 +11,7 @@ tags:
   - CLI
   - Automating
   - Scripting
-lang: en
+
 categories: 
   - TechBlog
 ---

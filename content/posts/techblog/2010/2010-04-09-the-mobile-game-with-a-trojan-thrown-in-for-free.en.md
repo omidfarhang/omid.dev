@@ -8,7 +8,7 @@ tags:
   - malware
   - Mobile
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

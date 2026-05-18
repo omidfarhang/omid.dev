@@ -8,7 +8,7 @@ tags:
   - Browser
   - Firefox
   - Firefox 4.0
-lang: en
+
 categories: 
   - TechBlog
 ---

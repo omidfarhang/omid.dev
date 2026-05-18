@@ -7,7 +7,7 @@ url: 2010/04/09/denial-of-availability-and-uk-anti-piracy-law/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

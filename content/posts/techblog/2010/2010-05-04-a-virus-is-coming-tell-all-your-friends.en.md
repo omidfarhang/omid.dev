@@ -9,7 +9,7 @@ tags:
   - hoax
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

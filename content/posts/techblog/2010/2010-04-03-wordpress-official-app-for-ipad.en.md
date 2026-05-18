@@ -12,7 +12,7 @@ tags:
   - iphone app store
   - Offer
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

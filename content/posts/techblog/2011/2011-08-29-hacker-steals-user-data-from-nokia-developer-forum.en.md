@@ -10,7 +10,7 @@ tags:
   - Nokia
   - report
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

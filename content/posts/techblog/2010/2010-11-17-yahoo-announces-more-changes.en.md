@@ -9,7 +9,7 @@ tags:
   - Twitter
   - Yahoo
   - Zynga
-lang: en
+
 categories: 
   - TechBlog
 ---

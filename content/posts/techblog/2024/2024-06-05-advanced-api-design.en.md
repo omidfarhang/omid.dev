@@ -11,7 +11,7 @@ tags:
   - GraphQL
   - gRPC
   - Web Development
-lang: en
+
 categories: 
   - TechBlog
 ---

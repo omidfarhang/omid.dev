@@ -15,7 +15,7 @@ tags:
   - Troubleshooting
   - Vintage Tech
   - Engineering Mentality
-lang: en
+
 categories: 
   - Electronics
 ---

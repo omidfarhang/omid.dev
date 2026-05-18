@@ -9,7 +9,7 @@ tags:
   - hack
   - leak
   - Password
-lang: en
+
 categories: 
   - TechBlog
 ---

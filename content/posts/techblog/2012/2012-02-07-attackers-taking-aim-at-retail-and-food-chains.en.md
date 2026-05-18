@@ -9,7 +9,7 @@ tags:
   - hack
   - Password
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

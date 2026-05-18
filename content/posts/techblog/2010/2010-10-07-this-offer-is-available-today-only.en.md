@@ -12,7 +12,7 @@ tags:
   - review
   - scam
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/01/13/lethic-gone-another-botnet-bites-the-dust/
 tags:
   - alert
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -14,7 +14,7 @@ tags:
   - Safari
   - Safari 5
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

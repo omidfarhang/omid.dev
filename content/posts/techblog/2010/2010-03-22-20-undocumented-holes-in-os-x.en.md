@@ -7,7 +7,7 @@ url: 2010/03/22/20-undocumented-holes-in-os-x/
 tags:
   - Apple
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

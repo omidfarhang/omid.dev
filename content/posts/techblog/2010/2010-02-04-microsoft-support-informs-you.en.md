@@ -9,7 +9,7 @@ tags:
   - malware
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

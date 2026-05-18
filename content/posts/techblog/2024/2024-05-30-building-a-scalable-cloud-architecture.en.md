@@ -12,7 +12,7 @@ tags:
   - Cloud Computing
   - AWS
   - Azure
-lang: en
+
 categories: 
   - TechBlog
 ---

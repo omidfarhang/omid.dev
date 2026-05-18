@@ -12,7 +12,7 @@ tags:
   - OffscreenCanvas
   - Optimizing
   - Performance
-lang: en
+
 categories: 
   - TechBlog
 ---

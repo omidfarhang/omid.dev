@@ -8,7 +8,7 @@ tags:
   - Google
   - news
   - Offer
-lang: en
+
 categories: 
   - TechBlog
 ---

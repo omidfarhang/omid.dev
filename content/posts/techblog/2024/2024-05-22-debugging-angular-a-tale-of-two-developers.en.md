@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/NSbInvx
 tags:
   - frontend
   - development
-lang: en
+
 categories: 
   - TechBlog
 ---

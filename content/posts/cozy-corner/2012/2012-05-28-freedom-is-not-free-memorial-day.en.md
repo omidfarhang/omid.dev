@@ -7,7 +7,7 @@ url: 2012/05/28/freedom-is-not-free-memorial-day/
 image: /images/sites/2/2012/05/Graves_at_Arlington_on_Memorial_Day.jpg
 tags:
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

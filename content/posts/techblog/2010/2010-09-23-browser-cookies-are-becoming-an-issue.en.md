@@ -12,7 +12,7 @@ tags:
   - privacy
   - review
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

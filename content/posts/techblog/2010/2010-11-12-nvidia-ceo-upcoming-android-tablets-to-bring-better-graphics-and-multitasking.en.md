@@ -9,7 +9,7 @@ tags:
   - Announcement
   - news
   - nvidia
-lang: en
+
 categories: 
   - TechBlog
 ---

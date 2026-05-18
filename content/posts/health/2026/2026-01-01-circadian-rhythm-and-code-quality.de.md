@@ -12,7 +12,7 @@ tags:
   - Zirkadianer Rhythmus
   - Entwickler-Wellness
   - Biologie
-lang: de
+
 categories: 
   - Health
 ---

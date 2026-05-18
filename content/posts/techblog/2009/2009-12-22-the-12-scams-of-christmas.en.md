@@ -7,7 +7,7 @@ url: 2009/12/22/the-12-scams-of-christmas/
 tags:
   - alert
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

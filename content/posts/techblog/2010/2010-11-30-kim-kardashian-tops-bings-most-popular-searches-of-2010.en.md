@@ -12,7 +12,7 @@ tags:
   - review
   - Search
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

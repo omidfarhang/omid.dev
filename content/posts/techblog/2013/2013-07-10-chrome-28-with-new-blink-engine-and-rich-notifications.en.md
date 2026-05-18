@@ -11,7 +11,7 @@ tags:
   - Google
   - Google Chrome
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

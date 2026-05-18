@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

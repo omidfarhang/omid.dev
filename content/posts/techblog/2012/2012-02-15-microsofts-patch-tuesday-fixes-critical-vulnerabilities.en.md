@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - Patch Tuesday
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

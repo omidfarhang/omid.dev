@@ -11,7 +11,7 @@ tags:
   - GraphQL
   - Apollo Client
   - Angular Integrations
-lang: en
+
 categories: 
   - TechBlog
 ---

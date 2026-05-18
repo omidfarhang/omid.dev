@@ -10,7 +10,7 @@ tags:
   - Linux
   - RedHat
   - Unix
-lang: en
+
 categories: 
   - TechBlog
 ---

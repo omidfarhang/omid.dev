@@ -8,7 +8,7 @@ tags:
   - Avira
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

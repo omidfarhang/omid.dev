@@ -7,7 +7,7 @@ url: 2009/12/19/theres-no-such-thing-as-a-free-movie/
 tags:
   - malware
   - phishing
-lang: en
+
 categories: 
   - TechBlog
 ---

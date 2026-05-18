@@ -8,7 +8,7 @@ tags:
   - Apple
   - Apple Tablet
   - ipad
-lang: en
+
 categories: 
   - TechBlog
 ---

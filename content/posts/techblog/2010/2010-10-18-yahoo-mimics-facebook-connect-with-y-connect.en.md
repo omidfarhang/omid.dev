@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/18/yahoo-mimics-facebook-connect-with-y-connect/
 tags:
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

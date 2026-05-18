@@ -7,7 +7,7 @@ url: 2011/08/12/protect-your-kids-from-cyber-predators/
 tags:
   - advice
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

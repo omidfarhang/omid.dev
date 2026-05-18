@@ -8,7 +8,7 @@ tags:
   - news
   - security
   - symantec
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2009/12/19/cnnic-changes-have-effect-on-spam-tactics/
 tags:
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

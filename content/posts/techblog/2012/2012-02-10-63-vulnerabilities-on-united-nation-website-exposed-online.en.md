@@ -8,7 +8,7 @@ tags:
   - news
   - report
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

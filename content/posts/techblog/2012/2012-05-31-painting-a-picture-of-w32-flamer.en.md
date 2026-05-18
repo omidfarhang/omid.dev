@@ -8,7 +8,7 @@ tags:
   - Flame
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

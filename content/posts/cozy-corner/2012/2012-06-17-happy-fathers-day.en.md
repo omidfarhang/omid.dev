@@ -7,7 +7,7 @@ url: 2012/06/17/happy-fathers-day/
 image: /images/sites/2/2012/06/fathers-day-gifts.jpg
 tags:
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

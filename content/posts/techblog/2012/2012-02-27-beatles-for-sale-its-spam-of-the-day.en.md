@@ -9,7 +9,7 @@ tags:
   - music
   - review
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

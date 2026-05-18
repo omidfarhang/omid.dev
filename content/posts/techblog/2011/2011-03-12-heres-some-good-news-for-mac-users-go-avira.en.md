@@ -11,7 +11,7 @@ tags:
   - news
   - Offer
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Photoshop
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

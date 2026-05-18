@@ -10,7 +10,7 @@ tags:
   - alert
   - malware
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

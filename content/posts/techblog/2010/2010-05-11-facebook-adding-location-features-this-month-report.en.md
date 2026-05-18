@@ -10,7 +10,7 @@ tags:
   - news
   - report
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

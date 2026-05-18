@@ -8,7 +8,7 @@ tags:
   - Apple
   - ipad
   - Tricks
-lang: en
+
 categories: 
   - TechBlog
 ---

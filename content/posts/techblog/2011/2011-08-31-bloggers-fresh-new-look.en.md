@@ -10,7 +10,7 @@ tags:
   - BLOGS
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

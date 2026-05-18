@@ -9,7 +9,7 @@ tags:
   - gossip
   - ipad
   - ipad 2
-lang: en
+
 categories: 
   - TechBlog
 ---

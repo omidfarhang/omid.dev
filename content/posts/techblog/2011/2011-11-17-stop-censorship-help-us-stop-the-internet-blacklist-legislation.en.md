@@ -13,7 +13,7 @@ tags:
   - Mozilla
   - news
   - sopa
-lang: en
+
 categories: 
   - TechBlog
 ---

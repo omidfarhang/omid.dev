@@ -11,7 +11,7 @@ tags:
   - malware
   - review
   - Sex
-lang: en
+
 categories: 
   - TechBlog
 ---

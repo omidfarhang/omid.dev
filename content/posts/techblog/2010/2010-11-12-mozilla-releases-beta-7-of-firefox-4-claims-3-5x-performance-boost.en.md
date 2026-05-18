@@ -11,7 +11,7 @@ tags:
   - Mozilla
   - news
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

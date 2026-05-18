@@ -8,7 +8,7 @@ tags:
   - cheaters
   - foursquare
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

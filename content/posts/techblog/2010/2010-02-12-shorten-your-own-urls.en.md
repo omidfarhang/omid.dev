@@ -7,7 +7,7 @@ url: 2010/02/12/shorten-your-own-urls/
 tags:
   - advice
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

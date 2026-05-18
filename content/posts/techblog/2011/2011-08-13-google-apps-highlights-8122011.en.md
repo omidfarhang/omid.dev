@@ -11,7 +11,7 @@ tags:
   - Mobile
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

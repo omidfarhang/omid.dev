@@ -7,7 +7,7 @@ url: 2010/10/22/electronic-car-lock-denial-of-service-attack/
 tags:
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

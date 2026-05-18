@@ -9,7 +9,7 @@ tags:
   - scam
   - spam
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

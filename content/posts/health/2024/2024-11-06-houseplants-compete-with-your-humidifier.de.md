@@ -12,7 +12,7 @@ tags:
   - Wohnumgebung
   - Wissenschaft macht Spaß
   - Statistiken
-lang: de
+
 categories: 
   - Health
 ---

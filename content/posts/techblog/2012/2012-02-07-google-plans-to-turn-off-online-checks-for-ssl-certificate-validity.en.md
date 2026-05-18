@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - news
   - SSL
-lang: en
+
 categories: 
   - TechBlog
 ---

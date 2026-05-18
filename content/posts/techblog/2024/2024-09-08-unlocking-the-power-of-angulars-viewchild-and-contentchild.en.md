@@ -13,7 +13,7 @@ tags:
   - Component Interaction
   - Angular Best Practices
   - Frontend Development
-lang: en
+
 categories: 
   - TechBlog
 ---

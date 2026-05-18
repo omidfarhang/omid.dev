@@ -9,7 +9,7 @@ tags:
   - leak
   - Password
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

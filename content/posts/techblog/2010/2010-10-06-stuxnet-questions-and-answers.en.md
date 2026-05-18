@@ -11,7 +11,7 @@ tags:
   - report
   - review
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

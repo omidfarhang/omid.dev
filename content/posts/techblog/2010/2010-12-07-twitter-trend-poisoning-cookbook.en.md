@@ -10,7 +10,7 @@ tags:
   - spam
   - Twitter
   - Twitter Trend
-lang: en
+
 categories: 
   - TechBlog
 ---

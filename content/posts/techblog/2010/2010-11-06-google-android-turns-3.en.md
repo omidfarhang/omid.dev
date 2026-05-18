@@ -8,7 +8,7 @@ tags:
   - Android
   - Google
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

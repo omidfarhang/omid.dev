@@ -11,7 +11,7 @@ tags:
   - social networking
   - Twitter
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

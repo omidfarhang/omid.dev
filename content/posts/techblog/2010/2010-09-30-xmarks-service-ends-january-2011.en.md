@@ -11,7 +11,7 @@ tags:
   - Internet Explorer
   - Safari
   - Xmarks
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - hack
   - Password
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

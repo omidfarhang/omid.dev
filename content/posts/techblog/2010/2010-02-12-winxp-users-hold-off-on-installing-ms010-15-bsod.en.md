@@ -11,7 +11,7 @@ tags:
   - news
   - Patch Tuesday
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

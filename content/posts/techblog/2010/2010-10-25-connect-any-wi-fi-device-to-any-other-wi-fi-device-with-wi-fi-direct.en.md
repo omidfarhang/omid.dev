@@ -8,7 +8,7 @@ tags:
   - news
   - Offer
   - WiFi
-lang: en
+
 categories: 
   - TechBlog
 ---

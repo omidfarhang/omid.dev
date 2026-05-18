@@ -7,7 +7,7 @@ url: 2011/03/13/twitter-to-developers-enough-with-the-third-party-apps/
 tags:
   - news
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

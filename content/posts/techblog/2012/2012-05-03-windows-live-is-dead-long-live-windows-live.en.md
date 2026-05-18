@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Microsoft
   - Windows Live
-lang: en
+
 categories: 
   - TechBlog
 ---

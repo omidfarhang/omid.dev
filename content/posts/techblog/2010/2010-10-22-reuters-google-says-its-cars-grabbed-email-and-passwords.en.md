@@ -10,7 +10,7 @@ tags:
   - privacy
   - StreetView
   - WiFi
-lang: en
+
 categories: 
   - TechBlog
 ---

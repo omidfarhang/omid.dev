@@ -7,7 +7,7 @@ url: 2010/05/19/new-canon-portable-scanner-lets-you-scan-directly-to-evernote/
 tags:
   - Canon
   - Evernote
-lang: en
+
 categories: 
   - TechBlog
 ---

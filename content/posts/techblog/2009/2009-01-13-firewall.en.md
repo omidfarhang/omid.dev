@@ -9,7 +9,7 @@ tags:
   - Guide
   - Firewall
   - Security
-lang: en
+
 categories: 
   - TechBlog
 ---

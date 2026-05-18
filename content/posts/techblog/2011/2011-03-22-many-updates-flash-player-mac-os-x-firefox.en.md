@@ -15,7 +15,7 @@ tags:
   - Mozilla
   - security
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - Hijack
   - Online Shopping
-lang: en
+
 categories: 
   - TechBlog
 ---

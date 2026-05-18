@@ -9,7 +9,7 @@ tags:
   - Windows
   - Windows 7
   - Windows XP
-lang: en
+
 categories: 
   - TechBlog
 ---

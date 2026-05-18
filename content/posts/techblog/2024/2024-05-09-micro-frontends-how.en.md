@@ -12,7 +12,7 @@ tags:
   - qwik
   - react
   - Micro Frontends
-lang: en
+
 categories: 
   - TechBlog
 ---

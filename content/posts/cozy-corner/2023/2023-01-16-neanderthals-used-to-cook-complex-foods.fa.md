@@ -9,7 +9,7 @@ tags:
   - foods
   - history
   - Good Reads
-lang: fa
+
 categories: 
   - Cozy Corner
 ---

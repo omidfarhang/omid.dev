@@ -9,7 +9,7 @@ tags:
   - pop culture
   - viral video
   - web video
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -13,7 +13,7 @@ tags:
   - ipad
   - Twitter
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

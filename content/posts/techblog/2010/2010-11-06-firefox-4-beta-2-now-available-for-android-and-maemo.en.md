@@ -12,7 +12,7 @@ tags:
   - Maemo
   - Mobile
   - Mobile Browsers
-lang: en
+
 categories: 
   - TechBlog
 ---

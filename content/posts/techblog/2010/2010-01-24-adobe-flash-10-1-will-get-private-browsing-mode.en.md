@@ -8,7 +8,7 @@ tags:
   - Adobe
   - Google Chrome
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

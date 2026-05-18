@@ -11,7 +11,7 @@ tags:
   - Microsoft
   - security
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - report
   - review
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

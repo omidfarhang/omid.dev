@@ -10,7 +10,7 @@ tags:
   - Containerization
   - DevOps
   - Docker Compose
-lang: en
+
 categories: 
   - TechBlog
 ---

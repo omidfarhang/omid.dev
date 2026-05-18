@@ -9,7 +9,7 @@ tags:
   - Internet Explorer
   - Microsoft
   - privacy
-lang: en
+
 categories: 
   - TechBlog
 ---

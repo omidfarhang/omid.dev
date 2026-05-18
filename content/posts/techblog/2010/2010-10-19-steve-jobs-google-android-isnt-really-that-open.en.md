@@ -11,7 +11,7 @@ tags:
   - iOS
   - report
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

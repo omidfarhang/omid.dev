@@ -11,7 +11,7 @@ tags:
   - phishing
   - spam
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - blackberry apps
   - Google Maps
   - Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

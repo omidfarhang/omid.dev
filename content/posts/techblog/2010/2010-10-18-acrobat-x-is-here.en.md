@@ -10,7 +10,7 @@ tags:
   - Announcement
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Blogging
   - report
   - Tumblr
-lang: en
+
 categories: 
   - TechBlog
 ---

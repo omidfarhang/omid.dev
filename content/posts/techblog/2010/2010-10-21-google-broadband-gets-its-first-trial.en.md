@@ -9,7 +9,7 @@ tags:
   - Google
   - ISP
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

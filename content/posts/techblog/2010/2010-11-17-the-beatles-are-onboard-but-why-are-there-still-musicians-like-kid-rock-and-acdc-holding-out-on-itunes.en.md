@@ -9,7 +9,7 @@ tags:
   - itunes
   - music
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

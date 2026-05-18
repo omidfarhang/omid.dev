@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/16/this-posters-shows-how-many-floppies-are/
 tags:
   - Interesting
-lang: en
+
 categories: 
   - TechBlog
 ---

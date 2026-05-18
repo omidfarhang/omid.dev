@@ -11,7 +11,7 @@ tags:
   - iphone
   - itunes
   - mobile applications
-lang: en
+
 categories: 
   - TechBlog
 ---

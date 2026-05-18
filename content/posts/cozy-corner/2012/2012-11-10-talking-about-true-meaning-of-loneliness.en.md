@@ -7,7 +7,7 @@ url: 2012/11/10/talking-about-true-meaning-of-loneliness/
 image: /images/sites/2/2012/11/382853.jpg
 tags:
   - quote
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -8,7 +8,7 @@ tags:
   - Internet Explorer
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/03/23/using-windows-hosts-file-to-cut-off-the-help-line/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

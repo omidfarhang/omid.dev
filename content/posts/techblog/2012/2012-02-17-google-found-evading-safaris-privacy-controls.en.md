@@ -9,7 +9,7 @@ tags:
   - Google
   - privacy
   - Safari
-lang: en
+
 categories: 
   - TechBlog
 ---

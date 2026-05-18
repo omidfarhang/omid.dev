@@ -10,7 +10,7 @@ tags:
   - Bing
   - P2P
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

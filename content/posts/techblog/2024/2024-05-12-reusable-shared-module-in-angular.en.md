@@ -9,7 +9,7 @@ tags:
   - frontend
   - development
   - angular
-lang: en
+
 categories: 
   - TechBlog
 ---

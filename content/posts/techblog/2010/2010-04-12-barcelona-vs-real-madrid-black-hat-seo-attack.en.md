@@ -13,7 +13,7 @@ tags:
   - Search
   - SEO
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

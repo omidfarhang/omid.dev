@@ -9,7 +9,7 @@ tags:
   - antivirus
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

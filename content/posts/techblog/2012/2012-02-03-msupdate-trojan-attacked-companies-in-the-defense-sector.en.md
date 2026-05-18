@@ -11,7 +11,7 @@ tags:
   - spam
   - trojan
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Dropbox
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

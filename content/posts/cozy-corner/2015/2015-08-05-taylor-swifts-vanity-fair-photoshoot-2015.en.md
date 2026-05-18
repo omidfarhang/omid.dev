@@ -9,7 +9,7 @@ image: /images/2015/08/55baa47a9e9755183d97dc0e_taylor-swift-september-cover-vf-
 tags:
   - photoshoot
   - taylor swift
-lang: en
+
 categories: 
   - Cozy Corner
 ---

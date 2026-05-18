@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Chrome
   - PDF
-lang: en
+
 categories: 
   - TechBlog
 ---

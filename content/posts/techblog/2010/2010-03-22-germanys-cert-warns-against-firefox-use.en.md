@@ -8,7 +8,7 @@ tags:
   - Firefox
   - news
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

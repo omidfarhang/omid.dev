@@ -10,7 +10,7 @@ tags:
   - Windows
   - Windows 7
   - windows Server
-lang: en
+
 categories: 
   - TechBlog
 ---

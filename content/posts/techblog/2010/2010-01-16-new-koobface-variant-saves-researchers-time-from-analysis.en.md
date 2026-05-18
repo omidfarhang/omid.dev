@@ -9,7 +9,7 @@ tags:
   - malware
   - report
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/01/22/dirty-jokes-by-mobile-phone/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

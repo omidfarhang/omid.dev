@@ -7,7 +7,7 @@ url: 2010/02/21/phishing-the-brands-of-online-auction-marketing-tools/
 tags:
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

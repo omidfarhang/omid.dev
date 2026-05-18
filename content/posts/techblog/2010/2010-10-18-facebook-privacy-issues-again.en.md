@@ -11,7 +11,7 @@ tags:
   - privacy
   - social networking
   - solution
-lang: en
+
 categories: 
   - TechBlog
 ---

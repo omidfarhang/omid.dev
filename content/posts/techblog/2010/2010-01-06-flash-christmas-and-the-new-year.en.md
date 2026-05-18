@@ -8,7 +8,7 @@ tags:
   - malware
   - report
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

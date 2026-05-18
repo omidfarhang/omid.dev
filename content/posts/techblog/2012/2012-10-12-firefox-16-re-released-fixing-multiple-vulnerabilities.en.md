@@ -10,7 +10,7 @@ tags:
   - security
   - Thunderbird
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

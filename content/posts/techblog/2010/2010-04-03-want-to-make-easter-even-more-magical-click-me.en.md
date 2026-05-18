@@ -7,7 +7,7 @@ url: 2010/04/03/want-to-make-easter-even-more-magical-click-me/
 tags:
   - alert
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

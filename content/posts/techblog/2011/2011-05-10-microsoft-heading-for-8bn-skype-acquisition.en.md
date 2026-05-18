@@ -9,7 +9,7 @@ tags:
   - business
   - Microsoft
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

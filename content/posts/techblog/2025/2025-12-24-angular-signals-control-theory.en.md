@@ -16,7 +16,7 @@ tags:
   - Control Theory
   - Reactivity
   - Performance
-lang: en
+
 categories: 
   - TechBlog
 ---

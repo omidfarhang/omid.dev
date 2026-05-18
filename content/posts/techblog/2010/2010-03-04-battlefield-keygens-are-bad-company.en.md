@@ -10,7 +10,7 @@ tags:
   - Game
   - malware
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

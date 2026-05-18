@@ -17,7 +17,7 @@ tags:
   - DevOps
   - Setup
   - VS Code
-lang: de
+
 categories: 
   - TechBlog
 ---

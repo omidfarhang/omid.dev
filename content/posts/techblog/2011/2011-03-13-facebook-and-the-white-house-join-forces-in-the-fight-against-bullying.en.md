@@ -8,7 +8,7 @@ tags:
   - Facebook
   - news
   - The White House
-lang: en
+
 categories: 
   - TechBlog
 ---

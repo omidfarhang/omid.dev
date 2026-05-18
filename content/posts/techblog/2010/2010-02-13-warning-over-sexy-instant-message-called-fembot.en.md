@@ -8,7 +8,7 @@ tags:
   - Instant Messaging
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

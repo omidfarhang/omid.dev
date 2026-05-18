@@ -10,7 +10,7 @@ tags:
   - Mozilla
   - privacy
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - Web Development
   - JavaScript
   - High-Performance Computing
-lang: en
+
 categories: 
   - TechBlog
 ---

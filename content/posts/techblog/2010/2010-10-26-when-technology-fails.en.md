@@ -8,7 +8,7 @@ tags:
   - Fail
   - Interesting
   - technology
-lang: en
+
 categories: 
   - TechBlog
 ---

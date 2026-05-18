@@ -9,7 +9,7 @@ tags:
   - Hardware
   - intel
   - leak
-lang: en
+
 categories: 
   - TechBlog
 ---

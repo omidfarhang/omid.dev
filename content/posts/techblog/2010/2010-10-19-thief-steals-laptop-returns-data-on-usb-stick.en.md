@@ -7,7 +7,7 @@ url: 2010/10/19/thief-steals-laptop-returns-data-on-usb-stick/
 tags:
   - Interesting
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

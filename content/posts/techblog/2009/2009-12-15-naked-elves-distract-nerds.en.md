@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1njw5SI
 tags:
   - alert
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

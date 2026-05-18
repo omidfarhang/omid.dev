@@ -8,7 +8,7 @@ tags:
   - hack
   - review
   - screenshot
-lang: en
+
 categories: 
   - TechBlog
 ---

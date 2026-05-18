@@ -12,7 +12,7 @@ tags:
   - review
   - Windows
   - Windows 8
-lang: en
+
 categories: 
   - TechBlog
 ---

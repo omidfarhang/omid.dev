@@ -9,7 +9,7 @@ tags:
   - email
   - security
   - WOT
-lang: en
+
 categories: 
   - TechBlog
 ---

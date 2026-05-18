@@ -13,7 +13,7 @@ tags:
   - Tech-Industrie
   - Mentee-Tipps
   - Mentor-Leitfaden
-lang: de
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/01/06/fake-alert-uses-mcafee-like-domain-name-to-attract-victims/
 tags:
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

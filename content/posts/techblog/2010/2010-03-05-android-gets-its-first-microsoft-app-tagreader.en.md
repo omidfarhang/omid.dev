@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - Mobile
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

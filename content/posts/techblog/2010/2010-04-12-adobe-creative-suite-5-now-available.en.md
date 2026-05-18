@@ -15,7 +15,7 @@ tags:
   - Photoshop
   - Premiere
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

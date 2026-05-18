@@ -13,7 +13,7 @@ tags:
   - تعمیر PCB
   - مشکلات منبع تغذیه
   - تعمیرات الکترونیک خانگی
-lang: fa
+
 categories: 
   - Electronics
 ---

@@ -7,7 +7,7 @@ url: 2012/03/07/panda-security-cleans-up-defaced-websites-after-lulzsec-arrest-r
 tags:
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

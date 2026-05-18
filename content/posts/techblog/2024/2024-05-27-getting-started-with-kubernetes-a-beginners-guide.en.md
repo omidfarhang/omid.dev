@@ -10,7 +10,7 @@ tags:
   - Container Orchestration
   - Docker
   - Cloud-native Applications
-lang: en
+
 categories: 
   - TechBlog
 ---

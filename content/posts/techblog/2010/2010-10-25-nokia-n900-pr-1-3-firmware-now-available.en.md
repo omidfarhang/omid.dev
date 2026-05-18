@@ -9,7 +9,7 @@ tags:
   - Mobile
   - Nokia
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

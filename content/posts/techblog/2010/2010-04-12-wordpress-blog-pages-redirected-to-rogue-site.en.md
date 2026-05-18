@@ -8,7 +8,7 @@ tags:
   - alert
   - BLOGS
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

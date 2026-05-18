@@ -9,7 +9,7 @@ tags:
   - link
   - nvidia
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

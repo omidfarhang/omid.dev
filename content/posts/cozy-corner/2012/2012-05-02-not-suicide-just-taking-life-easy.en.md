@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/02/not-suicide-just-taking-life-easy/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -7,7 +7,7 @@ url: 2010/10/17/install-adobe-air-on-64-bit-ubuntu-10-10/
 tags:
   - Adobe
   - How to
-lang: en
+
 categories: 
   - TechBlog
 ---

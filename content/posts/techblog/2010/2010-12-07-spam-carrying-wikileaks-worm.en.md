@@ -11,7 +11,7 @@ tags:
   - report
   - spam
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

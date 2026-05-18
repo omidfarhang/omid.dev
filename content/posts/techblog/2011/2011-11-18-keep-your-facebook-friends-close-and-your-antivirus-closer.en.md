@@ -9,7 +9,7 @@ tags:
   - alert
   - Facebook
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

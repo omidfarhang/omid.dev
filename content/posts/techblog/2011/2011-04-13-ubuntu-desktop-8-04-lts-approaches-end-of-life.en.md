@@ -10,7 +10,7 @@ tags:
   - news
   - ubuntu
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

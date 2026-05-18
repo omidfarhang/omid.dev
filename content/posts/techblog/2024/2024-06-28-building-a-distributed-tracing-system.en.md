@@ -10,7 +10,7 @@ tags:
   - Distributed Tracing System
   - Angular
   - Frontend Development
-lang: en
+
 categories: 
   - TechBlog
 ---

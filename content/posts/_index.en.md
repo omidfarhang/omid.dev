@@ -1,4 +1,4 @@
 ---
 title: Blog
-lang: en
+
 ---

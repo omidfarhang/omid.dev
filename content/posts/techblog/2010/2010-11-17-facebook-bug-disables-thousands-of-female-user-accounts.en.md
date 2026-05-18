@@ -8,7 +8,7 @@ tags:
   - Facebook
   - report
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

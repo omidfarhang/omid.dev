@@ -7,7 +7,7 @@ url: 2010/01/25/virus-writers-produce-hardware-damaging-code-with-win32-worm-zim
 tags:
   - alert
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

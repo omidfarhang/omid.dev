@@ -9,7 +9,7 @@ tags:
   - news
   - Twitter
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/02/for-india-register-for-do-not-calldisturb-ndnc-to-stop-promotional-calls-and-messages-from-telecom-operators/
 tags:
   - Other
-lang: en
+
 categories: 
   - TechBlog
 ---

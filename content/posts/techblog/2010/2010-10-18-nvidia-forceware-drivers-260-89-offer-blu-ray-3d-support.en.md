@@ -10,7 +10,7 @@ tags:
   - news
   - nvidia
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

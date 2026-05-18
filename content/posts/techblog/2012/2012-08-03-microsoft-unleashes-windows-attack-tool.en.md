@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Microsoft
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

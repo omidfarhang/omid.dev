@@ -9,7 +9,7 @@ tags:
   - social networking
   - SSL
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

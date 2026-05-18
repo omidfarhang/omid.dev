@@ -16,7 +16,7 @@ tags:
   - social networking
   - virtual goods
   - Zynga
-lang: en
+
 categories: 
   - TechBlog
 ---

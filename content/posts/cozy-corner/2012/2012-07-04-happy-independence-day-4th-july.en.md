@@ -7,7 +7,7 @@ url: 2012/07/04/happy-independence-day-4th-july/
 image: /images/sites/2/2012/07/american-independence-day.jpg
 tags:
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

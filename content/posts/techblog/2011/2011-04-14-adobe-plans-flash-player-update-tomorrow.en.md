@@ -9,7 +9,7 @@ tags:
   - flash player
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/01/28/ill-be-back/
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

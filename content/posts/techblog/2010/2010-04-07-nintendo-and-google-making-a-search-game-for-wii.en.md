@@ -10,7 +10,7 @@ tags:
   - Google
   - Nintendo
   - Wii
-lang: en
+
 categories: 
   - TechBlog
 ---

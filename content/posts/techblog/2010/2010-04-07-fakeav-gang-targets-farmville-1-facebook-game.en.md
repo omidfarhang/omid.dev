@@ -13,7 +13,7 @@ tags:
   - report
   - review
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

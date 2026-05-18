@@ -8,7 +8,7 @@ tags:
   - Apple
   - Mac OS X
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

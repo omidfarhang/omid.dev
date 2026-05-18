@@ -11,7 +11,7 @@ tags:
   - review
   - rumor
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

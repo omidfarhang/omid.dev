@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

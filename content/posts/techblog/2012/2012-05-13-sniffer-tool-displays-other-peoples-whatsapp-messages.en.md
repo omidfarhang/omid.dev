@@ -8,7 +8,7 @@ tags:
   - Mobile
   - news
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

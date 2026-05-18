@@ -9,7 +9,7 @@ tags:
   - alert
   - report
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

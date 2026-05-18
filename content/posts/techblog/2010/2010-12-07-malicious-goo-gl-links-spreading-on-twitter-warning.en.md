@@ -12,7 +12,7 @@ tags:
   - spam
   - Twitter
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

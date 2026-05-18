@@ -8,7 +8,7 @@ tags:
   - Google
   - google docs
   - Google Drive
-lang: en
+
 categories: 
   - TechBlog
 ---

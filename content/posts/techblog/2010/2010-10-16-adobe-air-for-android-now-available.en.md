@@ -8,7 +8,7 @@ tags:
   - Adobe
   - Announcement
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

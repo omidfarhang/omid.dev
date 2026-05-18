@@ -8,7 +8,7 @@ tags:
   - games
   - Germany
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

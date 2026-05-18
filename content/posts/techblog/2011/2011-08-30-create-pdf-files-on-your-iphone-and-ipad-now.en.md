@@ -8,7 +8,7 @@ tags:
   - Adobe
   - PDF
   - suggestion
-lang: en
+
 categories: 
   - TechBlog
 ---

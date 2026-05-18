@@ -7,7 +7,7 @@ url: 2010/04/14/twitter-to-developers-attach-any-data-you-want-to-tweets/
 tags:
   - Development
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/24/a-little-note-to-the-guys-at-eset/
 tags:
   - Fun
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - Firefox
   - Mozilla
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

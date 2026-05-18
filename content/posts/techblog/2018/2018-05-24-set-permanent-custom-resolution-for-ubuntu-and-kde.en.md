@@ -16,7 +16,7 @@ tags:
   - ubuntu
   - xrandr
   - xsetup
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Firefox
   - malware
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

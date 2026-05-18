@@ -7,7 +7,7 @@ url: 2010/11/12/facebook-to-spend-nearly-half-a-billion-dollars-on-new-data-cent
 tags:
   - Facebook
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

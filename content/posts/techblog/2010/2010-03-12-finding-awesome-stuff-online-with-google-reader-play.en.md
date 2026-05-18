@@ -7,7 +7,7 @@ url: 2010/03/12/finding-awesome-stuff-online-with-google-reader-play/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

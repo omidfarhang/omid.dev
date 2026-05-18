@@ -9,7 +9,7 @@ tags:
   - Apple
   - flash player
   - iphone
-lang: en
+
 categories: 
   - TechBlog
 ---

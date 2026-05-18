@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Password
   - rumor
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: '2021/04/08/کرونا-و-فقط'
 shortlink: https://g.omid.dev/gDl9G
-lang: fa
+
 categories: 
   - Cozy Corner
 ---

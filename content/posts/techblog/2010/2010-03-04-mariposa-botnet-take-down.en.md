@@ -7,7 +7,7 @@ url: 2010/03/04/mariposa-botnet-take-down/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

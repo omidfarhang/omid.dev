@@ -7,7 +7,7 @@ url: 2012/01/05/the-fundamental-cause-of-trouble-in-the-world/
 image: /images/sites/2/2012/01/BR.jpg
 tags:
   - quote
-lang: en
+
 categories: 
   - Cozy Corner
 ---

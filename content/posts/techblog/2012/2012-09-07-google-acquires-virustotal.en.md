@@ -8,7 +8,7 @@ tags:
   - business
   - Google
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

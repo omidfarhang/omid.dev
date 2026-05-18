@@ -8,7 +8,7 @@ tags:
   - Adobe
   - sandbox
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

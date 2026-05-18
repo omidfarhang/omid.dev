@@ -10,7 +10,7 @@ tags:
   - report
   - review
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

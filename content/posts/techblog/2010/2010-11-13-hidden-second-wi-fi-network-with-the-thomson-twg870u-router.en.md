@@ -11,7 +11,7 @@ tags:
   - review
   - security
   - WiFi
-lang: en
+
 categories: 
   - TechBlog
 ---

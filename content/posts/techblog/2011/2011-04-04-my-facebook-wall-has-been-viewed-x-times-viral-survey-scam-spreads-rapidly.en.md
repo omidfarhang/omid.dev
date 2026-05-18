@@ -12,7 +12,7 @@ tags:
   - social networking
   - spam
   - warning
-lang: en
+
 categories: 
   - TechBlog
 ---

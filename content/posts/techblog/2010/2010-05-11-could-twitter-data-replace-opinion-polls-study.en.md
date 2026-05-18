@@ -8,7 +8,7 @@ tags:
   - poll
   - study
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

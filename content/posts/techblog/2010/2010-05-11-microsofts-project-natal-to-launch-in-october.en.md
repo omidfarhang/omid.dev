@@ -12,7 +12,7 @@ tags:
   - Microsoft
   - Project Natal
   - Wii
-lang: en
+
 categories: 
   - TechBlog
 ---

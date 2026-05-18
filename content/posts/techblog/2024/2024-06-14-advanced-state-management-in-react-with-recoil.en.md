@@ -13,7 +13,7 @@ tags:
   - Atom Families
   - Selectors
   - Async Queries
-lang: en
+
 categories: 
   - TechBlog
 ---

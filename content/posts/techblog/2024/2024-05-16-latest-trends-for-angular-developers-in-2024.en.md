@@ -12,7 +12,7 @@ tags:
   - trends
   - roadmap
   - essential skills
-lang: en
+
 categories: 
   - TechBlog
 ---

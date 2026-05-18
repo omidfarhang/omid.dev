@@ -9,7 +9,7 @@ tags:
   - news
   - rental
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

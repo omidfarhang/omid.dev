@@ -10,7 +10,7 @@ tags:
   - hack
   - Password
   - PlayBoy
-lang: en
+
 categories: 
   - TechBlog
 ---

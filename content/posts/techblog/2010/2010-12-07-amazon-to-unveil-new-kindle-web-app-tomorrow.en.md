@@ -10,7 +10,7 @@ tags:
   - Kindle
   - news
   - Web App
-lang: en
+
 categories: 
   - TechBlog
 ---

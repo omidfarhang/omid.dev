@@ -7,7 +7,7 @@ url: 2010/01/21/web-users-still-dont-select-good-passwords/
 tags:
   - advice
   - alert
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - news
   - report
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

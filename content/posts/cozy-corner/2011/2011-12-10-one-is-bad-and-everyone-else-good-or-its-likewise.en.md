@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/12/10/one-is-bad-and-everyone-else-good-or-its-likewise/
 tags:
   - I think
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -11,7 +11,7 @@ tags:
   - scam
   - spam
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - follow up
   - OpenOffice
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

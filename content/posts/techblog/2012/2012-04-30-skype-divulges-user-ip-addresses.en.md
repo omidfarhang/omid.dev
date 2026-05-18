@@ -9,7 +9,7 @@ tags:
   - security
   - Skype
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - 0-Day
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

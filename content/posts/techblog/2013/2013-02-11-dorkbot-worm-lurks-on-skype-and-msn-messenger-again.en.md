@@ -11,7 +11,7 @@ tags:
   - Microsoft
   - MSN
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

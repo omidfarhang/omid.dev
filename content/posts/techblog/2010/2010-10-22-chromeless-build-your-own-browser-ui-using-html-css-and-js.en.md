@@ -7,7 +7,7 @@ url: 2010/10/22/chromeless-build-your-own-browser-ui-using-html-css-and-js/
 tags:
   - Announcement
   - Mozilla
-lang: en
+
 categories: 
   - TechBlog
 ---

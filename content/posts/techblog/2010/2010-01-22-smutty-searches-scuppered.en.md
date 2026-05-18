@@ -8,7 +8,7 @@ tags:
   - malware
   - phishing
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - attack
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

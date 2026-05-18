@@ -10,7 +10,7 @@ tags:
   - Pwn2Own
   - Safari
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

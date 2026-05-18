@@ -9,7 +9,7 @@ tags:
   - iphone
   - mobile apps
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ image: /images/sites/4/2008/04/tarjabody2.jpg
 tags:
   - Tarja Turunen
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -13,7 +13,7 @@ tags:
   - Code Quality
   - Security In Software
   - Developer Resources
-lang: en
+
 categories: 
   - TechBlog
 ---

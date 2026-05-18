@@ -8,7 +8,7 @@ tags:
   - KIN
   - Microsoft
   - T-Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

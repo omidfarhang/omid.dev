@@ -8,7 +8,7 @@ tags:
   - malware
   - Mobile
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

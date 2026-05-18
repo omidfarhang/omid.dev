@@ -9,7 +9,7 @@ tags:
   - government
   - news
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

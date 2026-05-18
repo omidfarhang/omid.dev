@@ -8,7 +8,7 @@ tags:
   - Bookmarks
   - Google
   - Google Chrome
-lang: en
+
 categories: 
   - TechBlog
 ---

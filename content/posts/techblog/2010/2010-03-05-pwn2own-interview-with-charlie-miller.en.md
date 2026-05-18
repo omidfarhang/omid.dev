@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/05/pwn2own-interview-with-charlie-miller/
 tags:
   - Interview
-lang: en
+
 categories: 
   - TechBlog
 ---

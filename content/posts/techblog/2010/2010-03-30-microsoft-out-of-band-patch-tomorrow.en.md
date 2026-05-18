@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/02/07/youd-think-a-company-pursuing-an-ipo-in-this-economy-would-clean
 tags:
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

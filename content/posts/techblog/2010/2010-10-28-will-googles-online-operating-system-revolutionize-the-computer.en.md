@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - google os
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

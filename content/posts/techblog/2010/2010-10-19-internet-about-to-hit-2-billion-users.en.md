@@ -8,7 +8,7 @@ tags:
   - internet
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

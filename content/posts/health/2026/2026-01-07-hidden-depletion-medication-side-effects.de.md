@@ -13,7 +13,7 @@ tags:
   - Nährstoffmangel
   - Nahrungsergänzungsmittel
   - Persönliche Geschichte
-lang: de
+
 categories: 
   - Health
 ---

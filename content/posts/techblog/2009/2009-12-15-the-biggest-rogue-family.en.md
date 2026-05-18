@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1TXEo4S
 tags:
   - malware
   - rogue software
-lang: en
+
 categories: 
   - TechBlog
 ---

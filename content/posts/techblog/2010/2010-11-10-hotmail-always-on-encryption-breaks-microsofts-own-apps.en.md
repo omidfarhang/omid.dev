@@ -10,7 +10,7 @@ tags:
   - privacy
   - security
   - Windows Live
-lang: en
+
 categories: 
   - TechBlog
 ---

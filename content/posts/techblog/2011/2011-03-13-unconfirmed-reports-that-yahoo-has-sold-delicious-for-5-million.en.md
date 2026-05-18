@@ -11,7 +11,7 @@ tags:
   - report
   - rumor
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Firefox 4.0
   - Mozilla
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - locations
   - trending
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

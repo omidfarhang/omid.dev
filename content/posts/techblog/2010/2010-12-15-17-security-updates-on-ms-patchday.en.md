@@ -11,7 +11,7 @@ tags:
   - Updates
   - Vulnerability
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

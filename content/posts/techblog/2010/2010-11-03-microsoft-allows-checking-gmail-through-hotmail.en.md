@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - Windows Live
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/12/07/wikileaked-cable-says-2009-brazilian-blackout-wasnt-hackers-eith
 tags:
   - report
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

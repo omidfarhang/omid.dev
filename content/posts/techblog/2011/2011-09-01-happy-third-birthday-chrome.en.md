@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - news
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

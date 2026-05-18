@@ -11,7 +11,7 @@ tags:
   - Custom Angular Schematics
   - Angular Code Generation
   - Angular Schematics
-lang: en
+
 categories: 
   - TechBlog
 ---

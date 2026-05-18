@@ -11,7 +11,7 @@ tags:
   - css
   - tailwind
   - migrate
-lang: en
+
 categories: 
   - TechBlog
 ---

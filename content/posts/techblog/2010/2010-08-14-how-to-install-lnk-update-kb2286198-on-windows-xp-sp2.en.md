@@ -10,7 +10,7 @@ tags:
   - Updates
   - Vulnerability
   - Windows XP
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Fun
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

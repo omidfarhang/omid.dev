@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: '2018/06/17/شروع-کار-با-kde-یا-kubuntu'
 shortlink: https://g.omid.dev/2JJRN2F
-lang: fa
+
 categories: 
   - TechBlog
 ---

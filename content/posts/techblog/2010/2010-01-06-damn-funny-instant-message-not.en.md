@@ -9,7 +9,7 @@ tags:
   - scam
   - spam
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

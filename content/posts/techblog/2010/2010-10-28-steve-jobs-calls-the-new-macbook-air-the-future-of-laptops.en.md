@@ -10,7 +10,7 @@ tags:
   - MacBook Air
   - review
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - report
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

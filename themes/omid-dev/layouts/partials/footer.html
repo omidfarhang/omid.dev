@@ -72,8 +72,8 @@
         <div class="footer-lang-switch">
             {{- range . -}}
             <a href="{{- .Permalink -}}" class="{{ if eq $lang .Lang }}active{{ end }}" 
-                title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}">
-                {{- .Language.LanguageName | emojify | default (.Lang | title) -}}
+                title="{{ .Language.Params.languageAltTitle | default (.Language.Label | emojify) | default (.Lang | title) }}">
+                {{- .Language.Label | emojify | default (.Lang | title) -}}
             </a>
             {{- end }}
         </div>

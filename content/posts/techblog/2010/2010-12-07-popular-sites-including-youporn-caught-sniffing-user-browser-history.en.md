@@ -13,7 +13,7 @@ tags:
   - privacy
   - Safari
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

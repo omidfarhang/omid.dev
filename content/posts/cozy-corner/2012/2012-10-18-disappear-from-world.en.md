@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/10/18/disappear-from-world/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

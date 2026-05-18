@@ -10,7 +10,7 @@ tags:
   - iphone
   - iphone os
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

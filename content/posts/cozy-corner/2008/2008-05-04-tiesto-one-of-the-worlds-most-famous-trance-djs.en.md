@@ -9,7 +9,7 @@ image: /images/sites/4/2008/05/40850_bio_-_dj_tiesto_01.jpg
 tags:
   - Tiësto
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

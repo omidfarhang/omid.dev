@@ -10,7 +10,7 @@ tags:
   - social networking
   - Wii
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

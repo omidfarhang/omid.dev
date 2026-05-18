@@ -9,7 +9,7 @@ tags:
   - Windows
   - Windows 7
   - Windows Touch
-lang: en
+
 categories: 
   - TechBlog
 ---

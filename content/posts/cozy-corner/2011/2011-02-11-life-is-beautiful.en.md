@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/02/11/life-is-beautiful/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

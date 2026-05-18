@@ -9,7 +9,7 @@ tags:
   - سلامتی
   - پزشکی
   - خواندنی‌های خوب
-lang: fa
+
 categories: 
   - Health
 ---

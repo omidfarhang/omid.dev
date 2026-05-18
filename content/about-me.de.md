@@ -1,7 +1,7 @@
 ---
 title: Über mich
 layout: about-me
-lang: de
+
 ---
 
 Ich bin **Omid Farhang**, ein **Frontend-Softwarearchitekt** und **Senior Frontend Engineer** mit über 10 Jahren Erfahrung in der Entwicklung komplexer Webanwendungen und der Leitung leistungsstarker Teams.

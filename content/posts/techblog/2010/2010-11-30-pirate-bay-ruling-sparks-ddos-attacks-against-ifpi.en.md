@@ -9,7 +9,7 @@ tags:
   - news
   - report
   - ThePirateBay
-lang: en
+
 categories: 
   - TechBlog
 ---

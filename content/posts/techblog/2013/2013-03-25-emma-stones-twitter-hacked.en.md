@@ -10,7 +10,7 @@ tags:
   - Emma Stone
   - hack
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - PDF
   - Wishlist
-lang: en
+
 categories: 
   - TechBlog
 ---

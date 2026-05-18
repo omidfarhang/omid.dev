@@ -9,7 +9,7 @@ tags:
   - Firefox
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

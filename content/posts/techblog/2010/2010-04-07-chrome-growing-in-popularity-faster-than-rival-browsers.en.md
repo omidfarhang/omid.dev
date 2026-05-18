@@ -9,7 +9,7 @@ tags:
   - Firefox
   - Google Chrome
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/05/03/whoops-treasury-still-hacked/
 tags:
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

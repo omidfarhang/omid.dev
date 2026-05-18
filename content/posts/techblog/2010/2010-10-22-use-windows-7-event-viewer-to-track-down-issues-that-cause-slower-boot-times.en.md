@@ -8,7 +8,7 @@ tags:
   - advice
   - solution
   - Windows 7
-lang: en
+
 categories: 
   - TechBlog
 ---

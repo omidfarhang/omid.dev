@@ -9,7 +9,7 @@ tags:
   - Firefox Addon
   - Mozilla
   - suggestion
-lang: en
+
 categories: 
   - TechBlog
 ---

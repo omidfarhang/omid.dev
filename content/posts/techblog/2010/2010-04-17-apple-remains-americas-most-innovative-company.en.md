@@ -11,7 +11,7 @@ tags:
   - fortune 500
   - ipad
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

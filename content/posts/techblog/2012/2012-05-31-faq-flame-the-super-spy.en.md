@@ -9,7 +9,7 @@ tags:
   - malware
   - review
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

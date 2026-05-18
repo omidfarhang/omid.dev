@@ -11,7 +11,7 @@ tags:
   - ssh
   - linux
   - botnet
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - iPod Touch
   - Offer
   - suggestion
-lang: en
+
 categories: 
   - TechBlog
 ---

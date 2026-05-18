@@ -8,7 +8,7 @@ tags:
   - Google
   - Interesting
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

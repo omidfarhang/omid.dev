@@ -8,7 +8,7 @@ tags:
   - Apple
   - Java
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

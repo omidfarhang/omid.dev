@@ -10,7 +10,7 @@ tags:
   - Google TV
   - Marissa Mayer
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

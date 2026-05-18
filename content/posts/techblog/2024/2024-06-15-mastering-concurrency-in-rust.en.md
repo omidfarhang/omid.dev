@@ -9,7 +9,7 @@ tags:
   - Rust
   - Tokio Rust patterns
   - Rust Concurrency
-lang: en
+
 categories: 
   - TechBlog
 ---

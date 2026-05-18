@@ -9,7 +9,7 @@ tags:
   - Google
   - Mobile
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

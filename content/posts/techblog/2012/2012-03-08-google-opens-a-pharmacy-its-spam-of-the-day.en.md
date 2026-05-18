@@ -9,7 +9,7 @@ tags:
   - Google
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

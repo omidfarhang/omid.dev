@@ -9,7 +9,7 @@ tags:
   - ipad
   - Nook
   - Nook e-reader
-lang: en
+
 categories: 
   - TechBlog
 ---

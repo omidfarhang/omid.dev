@@ -8,7 +8,7 @@ tags:
   - Browser
   - Internet Explorer
   - Microsoft
-lang: en
+
 categories: 
   - TechBlog
 ---

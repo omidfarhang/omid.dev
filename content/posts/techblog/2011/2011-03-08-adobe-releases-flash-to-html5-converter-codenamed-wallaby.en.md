@@ -9,7 +9,7 @@ tags:
   - Flash
   - HTML5
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

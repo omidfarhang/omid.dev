@@ -13,7 +13,7 @@ tags:
   - iOS
   - security
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

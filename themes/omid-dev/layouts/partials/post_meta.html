@@ -56,8 +56,8 @@
         {{- range $context.Translations }}
         <a href="{{ .Permalink }}">
             <span class="lang-flag">
-                {{- if (and $context.Site.Params.displayFullLangName (.Language.LanguageName)) }}
-                {{- .Language.LanguageName | emojify -}}
+                {{- if (and $context.Site.Params.displayFullLangName (.Language.Label)) }}
+                {{- .Language.Label | emojify -}}
                 {{- end -}}
             </span>
             <span class="lang-name">

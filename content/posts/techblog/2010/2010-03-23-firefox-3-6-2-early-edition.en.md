@@ -10,7 +10,7 @@ tags:
   - Browser
   - Firefox
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

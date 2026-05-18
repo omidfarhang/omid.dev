@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/02/finally-a-long-time-requested-feature-is-here/
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

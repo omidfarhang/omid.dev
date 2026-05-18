@@ -8,7 +8,7 @@ tags:
   - link
   - Mozilla
   - OpenOffice
-lang: en
+
 categories: 
   - TechBlog
 ---

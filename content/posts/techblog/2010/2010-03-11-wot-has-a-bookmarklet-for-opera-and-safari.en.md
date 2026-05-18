@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - news
   - Offer
-lang: en
+
 categories: 
   - TechBlog
 ---

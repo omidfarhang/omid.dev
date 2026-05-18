@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1oGSOcy
 image: /images/sites/2/2013/06/download-life.jpg
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

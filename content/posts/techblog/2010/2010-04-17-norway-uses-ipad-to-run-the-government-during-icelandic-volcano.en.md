@@ -15,7 +15,7 @@ tags:
   - politics
   - travel
   - volcano
-lang: en
+
 categories: 
   - TechBlog
 ---

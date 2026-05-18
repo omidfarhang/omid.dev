@@ -10,7 +10,7 @@ tags:
   - Windows
   - Malware
   - Rescue
-lang: en
+
 categories: 
   - TechBlog
 ---

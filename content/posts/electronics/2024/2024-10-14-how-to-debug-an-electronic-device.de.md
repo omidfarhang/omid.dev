@@ -13,7 +13,7 @@ tags:
   - PCB-Reparatur
   - Probleme mit der Stromversorgung
   - DIY-Elektronik-Fixes
-lang: de
+
 categories: 
   - Electronics
 ---

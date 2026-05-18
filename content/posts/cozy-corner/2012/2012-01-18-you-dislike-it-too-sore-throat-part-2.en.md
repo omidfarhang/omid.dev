@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/01/18/you-dislike-it-too-sore-throat-part-2/
 tags:
   - information
-lang: en
+
 categories: 
   - Cozy Corner
 ---

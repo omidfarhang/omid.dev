@@ -8,7 +8,7 @@ tags:
   - Adobe
   - flash player
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

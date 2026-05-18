@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/21/the-ru-substitutions-for-cn-domains/
 tags:
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

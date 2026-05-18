@@ -9,7 +9,7 @@ tags:
   - Avira
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

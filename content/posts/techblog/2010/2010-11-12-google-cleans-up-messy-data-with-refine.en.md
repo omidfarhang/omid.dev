@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Code
   - google Refine
-lang: en
+
 categories: 
   - TechBlog
 ---

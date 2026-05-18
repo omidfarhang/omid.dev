@@ -9,7 +9,7 @@ tags:
   - Mac OS X
   - security
   - software
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - java
   - angular
   - career
-lang: en
+
 categories: 
   - TechBlog
 ---

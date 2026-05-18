@@ -9,7 +9,7 @@ tags:
   - news
   - review
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

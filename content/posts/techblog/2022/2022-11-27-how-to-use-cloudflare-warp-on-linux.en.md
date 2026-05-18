@@ -10,7 +10,7 @@ tags:
   - CloudFlare
   - Warp
   - network
-lang: en
+
 categories: 
   - TechBlog
 ---

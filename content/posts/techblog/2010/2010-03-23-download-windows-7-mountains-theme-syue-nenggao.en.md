@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - Offer
   - Windows 7
-lang: en
+
 categories: 
   - TechBlog
 ---

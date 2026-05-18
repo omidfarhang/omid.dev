@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/07/police-arrest-70-in-romania-for-internet-fraud/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

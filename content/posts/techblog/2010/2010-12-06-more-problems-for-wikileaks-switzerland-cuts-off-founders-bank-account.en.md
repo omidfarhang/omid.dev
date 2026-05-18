@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/more-problems-for-wikileaks-switzerland-cuts-off-founders-bank-account/
 tags:
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

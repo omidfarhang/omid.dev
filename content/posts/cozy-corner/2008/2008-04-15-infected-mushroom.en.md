@@ -9,7 +9,7 @@ image: /images/sites/4/2008/04/infected07_03.jpg
 tags:
   - Infected Mushroom
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

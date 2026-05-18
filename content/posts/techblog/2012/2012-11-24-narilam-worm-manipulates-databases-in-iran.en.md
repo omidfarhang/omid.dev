@@ -8,7 +8,7 @@ tags:
   - Iran
   - malware
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

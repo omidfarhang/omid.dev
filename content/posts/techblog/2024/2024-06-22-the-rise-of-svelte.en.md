@@ -12,7 +12,7 @@ tags:
   - Frontend
   - Rust
   - TypeScript
-lang: en
+
 categories: 
   - TechBlog
 ---

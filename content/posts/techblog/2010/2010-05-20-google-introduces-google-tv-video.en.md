@@ -11,7 +11,7 @@ tags:
   - Google TV
   - news
   - TV
-lang: en
+
 categories: 
   - TechBlog
 ---

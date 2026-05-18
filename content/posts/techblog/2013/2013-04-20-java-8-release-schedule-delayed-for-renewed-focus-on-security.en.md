@@ -9,7 +9,7 @@ tags:
   - Java
   - Oracle
   - Release
-lang: en
+
 categories: 
   - TechBlog
 ---

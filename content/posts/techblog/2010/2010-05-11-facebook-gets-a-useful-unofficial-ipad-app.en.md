@@ -10,7 +10,7 @@ tags:
   - ipad apps
   - sobees
   - sobees for facebook
-lang: en
+
 categories: 
   - TechBlog
 ---

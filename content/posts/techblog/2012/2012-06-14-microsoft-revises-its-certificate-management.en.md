@@ -8,7 +8,7 @@ tags:
   - certified
   - Microsoft
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - Iran
   - report
   - SSL
-lang: en
+
 categories: 
   - TechBlog
 ---

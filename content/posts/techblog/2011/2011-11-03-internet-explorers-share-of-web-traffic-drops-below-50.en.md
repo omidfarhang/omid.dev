@@ -11,7 +11,7 @@ tags:
   - Internet Explorer
   - Mobile Browsers
   - Safari
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Google
   - Mobile
   - nexus s
-lang: en
+
 categories: 
   - TechBlog
 ---

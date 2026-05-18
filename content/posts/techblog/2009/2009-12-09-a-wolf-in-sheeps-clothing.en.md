@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2009/12/09/a-wolf-in-sheeps-clothing/
 shortlink: https://g.omid.dev/1RQXaro
-lang: en
+
 categories: 
   - TechBlog
 ---

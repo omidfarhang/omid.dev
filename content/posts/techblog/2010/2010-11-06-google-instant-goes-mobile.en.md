@@ -11,7 +11,7 @@ tags:
   - google instant
   - Mobile
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

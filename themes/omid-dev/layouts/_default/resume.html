@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-  {{- $resume := (index .Site.Data .Site.Language.Lang).resume -}}
+  {{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
   {{- /* JSON-LD Structured Data for Resume */ -}}
   <script type="application/ld+json">
   {

@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1UUafTu
 tags:
   - rogue software
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

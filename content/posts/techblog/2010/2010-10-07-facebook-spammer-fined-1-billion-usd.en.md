@@ -10,7 +10,7 @@ tags:
   - news
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

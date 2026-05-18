@@ -9,7 +9,7 @@ tags:
   - news
   - security
   - Zynamics
-lang: en
+
 categories: 
   - TechBlog
 ---

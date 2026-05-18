@@ -10,7 +10,7 @@ tags:
   - News
   - Iranian Hackers
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/02/04/using-google-images-to-investigate-fraud/
 tags:
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

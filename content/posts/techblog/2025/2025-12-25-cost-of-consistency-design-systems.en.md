@@ -15,7 +15,7 @@ tags:
   - Engineering Leadership
   - Scalability
   - UI/UX
-lang: en
+
 categories: 
   - TechBlog
 ---

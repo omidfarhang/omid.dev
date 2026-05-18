@@ -9,7 +9,7 @@ tags:
   - alert
   - fraud
   - Online Dating
-lang: en
+
 categories: 
   - TechBlog
 ---

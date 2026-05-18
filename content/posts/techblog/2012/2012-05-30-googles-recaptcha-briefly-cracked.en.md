@@ -8,7 +8,7 @@ tags:
   - Google
   - hack
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

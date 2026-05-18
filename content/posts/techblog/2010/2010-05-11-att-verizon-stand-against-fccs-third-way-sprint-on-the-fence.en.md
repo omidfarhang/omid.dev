@@ -10,7 +10,7 @@ tags:
   - news
   - report
   - verizon
-lang: en
+
 categories: 
   - TechBlog
 ---

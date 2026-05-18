@@ -9,7 +9,7 @@ tags:
   - Android
   - Announcement
   - Apple
-lang: en
+
 categories: 
   - TechBlog
 ---

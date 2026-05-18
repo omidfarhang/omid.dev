@@ -9,7 +9,7 @@ tags:
   - Internet Explorer 10
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

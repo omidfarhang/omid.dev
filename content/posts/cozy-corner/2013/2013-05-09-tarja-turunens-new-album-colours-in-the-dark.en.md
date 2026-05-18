@@ -8,7 +8,7 @@ image: /images/sites/4/2013/05/Screen-Shot-2013-05-09-at-12.09.57-AM.png
 tags:
   - Tarja Turunen
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: '2014/11/16/روش-استاندارد-تایپ-اعداد-فارسی-در-اکسل'
 shortlink: https://g.omid.dev/1n5BzAz
-lang: fa
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - SHA-1
   - SSL
   - Update
-lang: en
+
 categories: 
   - TechBlog
 ---

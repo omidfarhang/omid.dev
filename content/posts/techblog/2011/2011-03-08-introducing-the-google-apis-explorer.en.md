@@ -10,7 +10,7 @@ tags:
   - Google
   - Google Code
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - malware
   - scam
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

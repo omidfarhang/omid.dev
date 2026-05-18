@@ -10,7 +10,7 @@ tags:
   - Password
   - report
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Firefox
   - Mozilla
   - privacy
-lang: en
+
 categories: 
   - TechBlog
 ---

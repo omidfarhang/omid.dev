@@ -11,7 +11,7 @@ tags:
   - report
   - review
   - voice
-lang: en
+
 categories: 
   - TechBlog
 ---

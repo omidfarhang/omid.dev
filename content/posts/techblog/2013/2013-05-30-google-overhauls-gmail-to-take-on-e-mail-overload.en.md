@@ -10,7 +10,7 @@ tags:
   - email
   - Google
   - gmail
-lang: en
+
 categories: 
   - TechBlog
 ---

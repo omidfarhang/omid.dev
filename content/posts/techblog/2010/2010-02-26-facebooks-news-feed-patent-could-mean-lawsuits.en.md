@@ -10,7 +10,7 @@ tags:
   - news
   - social networking
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

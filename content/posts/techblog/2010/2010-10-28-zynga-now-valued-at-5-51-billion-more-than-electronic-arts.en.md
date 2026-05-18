@@ -9,7 +9,7 @@ tags:
   - news
   - report
   - Zynga
-lang: en
+
 categories: 
   - TechBlog
 ---

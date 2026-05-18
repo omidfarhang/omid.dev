@@ -10,7 +10,7 @@ tags:
   - phishing
   - scam
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

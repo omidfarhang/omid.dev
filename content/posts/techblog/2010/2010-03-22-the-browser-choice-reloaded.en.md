@@ -12,7 +12,7 @@ tags:
   - Microsoft
   - Opera
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

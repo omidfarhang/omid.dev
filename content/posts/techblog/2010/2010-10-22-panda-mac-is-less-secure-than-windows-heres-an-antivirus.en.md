@@ -11,7 +11,7 @@ tags:
   - report
   - review
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

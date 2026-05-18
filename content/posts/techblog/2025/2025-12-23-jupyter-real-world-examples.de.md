@@ -17,7 +17,7 @@ tags:
   - Data Analysis
   - API
   - DevOps
-lang: de
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - CSP
   - HSTS
   - SRI
-lang: en
+
 categories: 
   - TechBlog
 ---

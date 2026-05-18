@@ -8,7 +8,7 @@ image: /images/2012/08/new-google-favicon24.png
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

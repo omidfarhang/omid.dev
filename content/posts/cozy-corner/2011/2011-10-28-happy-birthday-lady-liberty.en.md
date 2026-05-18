@@ -7,7 +7,7 @@ url: 2011/10/28/happy-birthday-lady-liberty/
 image: /images/sites/2/2011/10/new-york-statue-of-liberty.jpg
 tags:
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

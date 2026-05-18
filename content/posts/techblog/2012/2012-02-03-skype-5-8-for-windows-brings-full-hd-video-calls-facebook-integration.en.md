@@ -10,7 +10,7 @@ tags:
   - Skype
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -14,7 +14,7 @@ tags:
   - report
   - security
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

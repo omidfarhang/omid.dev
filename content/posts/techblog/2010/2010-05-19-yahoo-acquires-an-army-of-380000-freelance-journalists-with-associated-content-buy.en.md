@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - Search
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

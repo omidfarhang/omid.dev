@@ -9,7 +9,7 @@ tags:
   - hoax
   - scam
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

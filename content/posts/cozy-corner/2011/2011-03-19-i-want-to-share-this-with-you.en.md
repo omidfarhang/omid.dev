@@ -7,7 +7,7 @@ url: 2011/03/19/i-want-to-share-this-with-you/
 image: /images/sites/2/2011/03/DSC00098.jpg
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

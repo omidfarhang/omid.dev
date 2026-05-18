@@ -10,7 +10,7 @@ tags:
   - Outlook
   - solution
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/12/06/google-acquires-netflix-vudu-and-blockbusters-streaming-video-dr
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

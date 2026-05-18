@@ -8,7 +8,7 @@ tags:
   - hack
   - privacy
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

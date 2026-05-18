@@ -13,7 +13,7 @@ tags:
   - JavaScript
   - Webentwicklung
   - HTML5 Canvas
-lang: de
+
 categories: 
   - TechBlog
 ---

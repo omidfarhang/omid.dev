@@ -9,7 +9,7 @@ tags:
   - BlackBerry
   - hoax
   - Mobile
-lang: en
+
 categories: 
   - TechBlog
 ---

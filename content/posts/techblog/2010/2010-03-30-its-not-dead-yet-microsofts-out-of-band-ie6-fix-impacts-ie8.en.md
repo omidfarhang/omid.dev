@@ -10,7 +10,7 @@ tags:
   - Patch Tuesday
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

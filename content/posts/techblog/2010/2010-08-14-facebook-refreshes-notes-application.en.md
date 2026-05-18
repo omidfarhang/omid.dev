@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/08/14/facebook-refreshes-notes-application/
 tags:
   - Facebook
-lang: en
+
 categories: 
   - TechBlog
 ---

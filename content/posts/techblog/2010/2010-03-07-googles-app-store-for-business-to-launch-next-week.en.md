@@ -7,7 +7,7 @@ url: 2010/03/07/googles-app-store-for-business-to-launch-next-week/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

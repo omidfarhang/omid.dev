@@ -11,7 +11,7 @@ tags:
   - windows
   - eol
   - windows 10
-lang: en
+
 categories: 
   - TechBlog
 ---

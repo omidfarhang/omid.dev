@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Chrome
   - HTML5
-lang: en
+
 categories: 
   - TechBlog
 ---

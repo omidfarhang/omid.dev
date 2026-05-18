@@ -11,7 +11,7 @@ tags:
   - scam
   - spam
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

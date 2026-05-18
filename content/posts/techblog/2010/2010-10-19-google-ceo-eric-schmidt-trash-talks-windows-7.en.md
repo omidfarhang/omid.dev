@@ -8,7 +8,7 @@ tags:
   - Eric Schmidt
   - Google
   - Google CEO
-lang: en
+
 categories: 
   - TechBlog
 ---

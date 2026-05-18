@@ -14,7 +14,7 @@ tags:
   - CQRS
   - RabbitMQ
   - Kafka
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/02/12/history-of-the-internet/
 tags:
   - Interesting
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

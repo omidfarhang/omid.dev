@@ -7,7 +7,7 @@ url: 2011/03/17/twitter-goes-secure-say-goodbye-to-firesheep-with-always-use-htt
 tags:
   - security
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - AMD
   - ATI
   - Hardware
-lang: en
+
 categories: 
   - TechBlog
 ---

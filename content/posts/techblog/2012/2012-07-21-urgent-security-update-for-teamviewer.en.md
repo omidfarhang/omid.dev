@@ -9,7 +9,7 @@ tags:
   - software
   - TeamViewer
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - hack
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

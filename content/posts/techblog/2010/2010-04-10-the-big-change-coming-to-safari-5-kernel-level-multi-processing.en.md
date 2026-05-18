@@ -14,7 +14,7 @@ tags:
   - news
   - Safari
   - Safari 5
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - news
   - report
   - Xmarks
-lang: en
+
 categories: 
   - TechBlog
 ---

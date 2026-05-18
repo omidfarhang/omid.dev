@@ -10,7 +10,7 @@ tags:
   - Music Video
   - Music
   - Tarja Turunen
-lang: en
+
 categories: 
   - Cozy Corner
 ---

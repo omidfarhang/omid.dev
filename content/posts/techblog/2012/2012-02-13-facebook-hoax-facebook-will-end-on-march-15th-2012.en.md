@@ -10,7 +10,7 @@ tags:
   - hoax
   - review
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

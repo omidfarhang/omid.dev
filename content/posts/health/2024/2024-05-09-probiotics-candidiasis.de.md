@@ -11,7 +11,7 @@ tags:
   - Postbiotika
   - Candidose
   - Frauengesundheit
-lang: de
+
 categories: 
   - Health
 ---

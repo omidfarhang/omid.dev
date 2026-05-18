@@ -10,7 +10,7 @@ tags:
   - Jumo
   - news
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -15,7 +15,7 @@ tags:
   - Palm Pre
   - Palm webOS
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/03/22/googles-pacific-submarine-cable-unity-nearly-complete/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -13,7 +13,7 @@ tags:
   - Mozilla
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

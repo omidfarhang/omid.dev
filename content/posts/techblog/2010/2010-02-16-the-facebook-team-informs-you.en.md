@@ -9,7 +9,7 @@ tags:
   - malware
   - social networking
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -13,7 +13,7 @@ tags:
   - SSR
   - Web Development
   - SEO
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Mozilla
   - Tor Project
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

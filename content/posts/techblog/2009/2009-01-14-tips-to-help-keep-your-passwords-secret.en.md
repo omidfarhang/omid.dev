@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/5ucOYPI
 tags:
   - Safety Tips
   - Password
-lang: en
+
 categories: 
   - TechBlog
 ---

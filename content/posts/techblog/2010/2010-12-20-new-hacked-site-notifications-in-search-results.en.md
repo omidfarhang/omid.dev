@@ -9,7 +9,7 @@ tags:
   - news
   - Search
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

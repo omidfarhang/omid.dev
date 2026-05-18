@@ -9,7 +9,7 @@ tags:
   - Discontinue
   - pc tools
   - symantec
-lang: en
+
 categories: 
   - TechBlog
 ---

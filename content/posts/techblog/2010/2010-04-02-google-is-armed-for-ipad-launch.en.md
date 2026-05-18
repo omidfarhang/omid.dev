@@ -10,7 +10,7 @@ tags:
   - ipad
   - news
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

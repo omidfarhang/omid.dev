@@ -10,7 +10,7 @@ tags:
   - ipad
   - iphone
   - Netflix
-lang: en
+
 categories: 
   - TechBlog
 ---

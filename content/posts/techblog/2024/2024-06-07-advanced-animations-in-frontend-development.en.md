@@ -13,7 +13,7 @@ tags:
   - SVG
   - JavaScript
   - Performance Optimization 
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - news
   - security
   - security essnetials
-lang: en
+
 categories: 
   - TechBlog
 ---

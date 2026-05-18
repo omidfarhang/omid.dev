@@ -11,7 +11,7 @@ tags:
   - news
   - offline
   - suggestion
-lang: en
+
 categories: 
   - TechBlog
 ---

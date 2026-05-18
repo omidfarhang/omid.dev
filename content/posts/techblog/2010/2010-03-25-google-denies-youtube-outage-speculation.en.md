@@ -8,7 +8,7 @@ tags:
   - Google
   - news
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - celeb
   - hack
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Anonymous
   - hack
   - Israel
-lang: en
+
 categories: 
   - TechBlog
 ---

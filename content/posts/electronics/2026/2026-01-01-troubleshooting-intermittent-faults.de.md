@@ -15,7 +15,7 @@ tags:
   - Fehlersuche
   - Vintage-Technik
   - Ingenieursmentalität
-lang: de
+
 categories: 
   - Electronics
 ---

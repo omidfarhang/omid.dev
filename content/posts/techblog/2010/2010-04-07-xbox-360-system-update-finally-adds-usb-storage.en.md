@@ -11,7 +11,7 @@ tags:
   - news
   - Updates
   - Xbox 360
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - seesmic
   - Twitter
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

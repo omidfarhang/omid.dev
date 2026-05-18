@@ -8,7 +8,7 @@ tags:
   - Google
   - google instant
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

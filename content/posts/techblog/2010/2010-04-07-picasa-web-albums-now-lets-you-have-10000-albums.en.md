@@ -10,7 +10,7 @@ tags:
   - Photos
   - picasa
   - Picasa Web Albums
-lang: en
+
 categories: 
   - TechBlog
 ---

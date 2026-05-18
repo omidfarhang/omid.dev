@@ -7,7 +7,7 @@ url: 2010/02/11/take-care-before-valentine-cupid-struck/
 tags:
   - malware
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - alanyze
   - MARKETING
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

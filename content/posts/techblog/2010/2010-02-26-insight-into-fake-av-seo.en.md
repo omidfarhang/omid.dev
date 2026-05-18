@@ -12,7 +12,7 @@ tags:
   - report
   - review
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

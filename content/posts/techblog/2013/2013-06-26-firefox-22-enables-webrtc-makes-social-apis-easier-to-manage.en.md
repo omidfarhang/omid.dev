@@ -12,7 +12,7 @@ tags:
   - Firefox
   - Mozilla
   - social networks
-lang: en
+
 categories: 
   - TechBlog
 ---

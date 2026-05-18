@@ -11,7 +11,7 @@ tags:
   - social networking
   - spam
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -14,7 +14,7 @@ tags:
   - Web3
   - Solidity
   - Truffle
-lang: en
+
 categories: 
   - TechBlog
 ---

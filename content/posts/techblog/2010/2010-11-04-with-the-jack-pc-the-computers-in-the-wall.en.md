@@ -9,7 +9,7 @@ tags:
   - Interesting
   - link
   - technology
-lang: en
+
 categories: 
   - TechBlog
 ---

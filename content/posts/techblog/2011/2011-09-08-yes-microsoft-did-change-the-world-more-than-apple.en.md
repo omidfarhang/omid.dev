@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

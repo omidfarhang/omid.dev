@@ -11,7 +11,7 @@ tags:
   - malware
   - Search
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

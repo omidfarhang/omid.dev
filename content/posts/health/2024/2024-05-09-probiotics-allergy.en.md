@@ -10,7 +10,7 @@ tags:
   - Probiotics
   - Postbiotics
   - Allergies
-lang: en
+
 categories: 
   - Health
 ---

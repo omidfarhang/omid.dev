@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/13/its-nice-to-get-noticed/
 tags:
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

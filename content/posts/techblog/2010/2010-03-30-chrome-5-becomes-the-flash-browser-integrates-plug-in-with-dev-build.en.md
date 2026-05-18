@@ -11,7 +11,7 @@ tags:
   - Google Chrome
   - news
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Mozilla
   - Thunderbird
-lang: en
+
 categories: 
   - TechBlog
 ---

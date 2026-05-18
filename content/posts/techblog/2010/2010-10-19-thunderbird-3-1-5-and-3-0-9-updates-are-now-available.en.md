@@ -8,7 +8,7 @@ tags:
   - Mozilla
   - Thunderbird
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

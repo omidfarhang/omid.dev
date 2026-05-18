@@ -10,7 +10,7 @@ tags:
   - scam
   - social networking
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

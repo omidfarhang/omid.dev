@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/25/bulgarian-city-official-loses-committee-post-because-of-farmville-addiction/
 tags:
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

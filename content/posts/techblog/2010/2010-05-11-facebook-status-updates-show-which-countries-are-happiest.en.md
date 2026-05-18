@@ -12,7 +12,7 @@ tags:
   - status updates
   - study
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

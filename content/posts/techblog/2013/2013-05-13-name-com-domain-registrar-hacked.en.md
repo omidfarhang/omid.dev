@@ -7,7 +7,7 @@ url: 2013/05/13/name-com-domain-registrar-hacked/
 image: /images/2013/05/Name.com_.png
 tags:
   - News
-lang: en
+
 categories: 
   - TechBlog
 ---

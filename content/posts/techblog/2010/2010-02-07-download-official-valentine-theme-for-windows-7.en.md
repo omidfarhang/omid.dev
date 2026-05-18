@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - Updates
   - Valentine
-lang: en
+
 categories: 
   - TechBlog
 ---

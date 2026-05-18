@@ -8,7 +8,7 @@ tags:
   - Google
   - news
   - SSL
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - Mobile
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

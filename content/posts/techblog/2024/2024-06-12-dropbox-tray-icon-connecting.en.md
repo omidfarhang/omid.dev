@@ -10,7 +10,7 @@ tags:
   - KDE
   - Dropbox
   - AUR
-lang: en
+
 categories: 
   - TechBlog
 ---

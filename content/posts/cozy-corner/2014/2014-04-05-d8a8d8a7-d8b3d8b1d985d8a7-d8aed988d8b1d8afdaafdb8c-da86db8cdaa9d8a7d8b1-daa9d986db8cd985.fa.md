@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: '2014/04/05/با-سرما-خوردگی-چیکار-کنیم/'
 shortlink: https://g.omid.dev/1KWiHQ7
-lang: fa
+
 categories: 
   - Cozy Corner
 ---

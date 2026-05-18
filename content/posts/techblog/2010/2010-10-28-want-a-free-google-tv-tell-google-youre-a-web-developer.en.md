@@ -9,7 +9,7 @@ tags:
   - Google TV
   - news
   - promo
-lang: en
+
 categories: 
   - TechBlog
 ---

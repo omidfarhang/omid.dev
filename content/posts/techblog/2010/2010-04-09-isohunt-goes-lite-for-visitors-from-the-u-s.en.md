@@ -8,7 +8,7 @@ tags:
   - news
   - Torrent
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

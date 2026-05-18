@@ -15,7 +15,7 @@ tags:
   - telecom
   - Telefonica
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Internet Explorer
   - Microsoft
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

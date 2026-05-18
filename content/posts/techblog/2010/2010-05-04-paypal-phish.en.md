@@ -9,7 +9,7 @@ tags:
   - alert
   - PayPal
   - phishing
-lang: en
+
 categories: 
   - TechBlog
 ---

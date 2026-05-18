@@ -9,7 +9,7 @@ tags:
   - report
   - security
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

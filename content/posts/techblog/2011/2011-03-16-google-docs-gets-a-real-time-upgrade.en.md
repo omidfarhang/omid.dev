@@ -7,7 +7,7 @@ url: 2011/03/16/google-docs-gets-a-real-time-upgrade/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

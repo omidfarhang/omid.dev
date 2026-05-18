@@ -8,7 +8,7 @@ tags:
   - hack
   - Microsoft
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

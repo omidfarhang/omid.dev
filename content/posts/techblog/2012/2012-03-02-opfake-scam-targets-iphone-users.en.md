@@ -9,7 +9,7 @@ tags:
   - link
   - report
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

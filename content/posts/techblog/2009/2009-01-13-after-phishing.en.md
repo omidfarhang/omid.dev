@@ -10,7 +10,7 @@ tags:
   - phishing
   - Security
   - Guide
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ image: /images/sites/4/2013/05/these-front.jpg
 tags:
   - bt
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

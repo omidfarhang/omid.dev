@@ -11,7 +11,7 @@ tags:
   - report
   - Twitter
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

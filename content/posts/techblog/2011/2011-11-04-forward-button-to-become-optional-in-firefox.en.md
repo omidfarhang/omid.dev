@@ -8,7 +8,7 @@ tags:
   - Browser
   - Firefox
   - Mozilla
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/06/01/this-depression-is-great/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

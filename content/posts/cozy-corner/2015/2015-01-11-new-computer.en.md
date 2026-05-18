@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1n5KW36
 image: /images/sites/2/2015/01/MB.png
 tags:
   - My Life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -8,7 +8,7 @@ tags:
   - news
   - Twitter
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

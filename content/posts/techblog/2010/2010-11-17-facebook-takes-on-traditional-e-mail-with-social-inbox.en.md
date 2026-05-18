@@ -10,7 +10,7 @@ tags:
   - news
   - social networking
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

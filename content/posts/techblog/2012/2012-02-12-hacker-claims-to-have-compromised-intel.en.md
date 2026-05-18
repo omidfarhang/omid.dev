@@ -9,7 +9,7 @@ tags:
   - intel
   - report
   - rumor
-lang: en
+
 categories: 
   - TechBlog
 ---

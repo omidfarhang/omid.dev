@@ -10,7 +10,7 @@ tags:
   - System Resilience
   - Frontend Development
   - Chaos Testing
-lang: en
+
 categories: 
   - TechBlog
 ---

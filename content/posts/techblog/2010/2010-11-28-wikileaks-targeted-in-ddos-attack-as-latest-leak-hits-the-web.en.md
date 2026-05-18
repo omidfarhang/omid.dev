@@ -8,7 +8,7 @@ tags:
   - attack
   - news
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Iran
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

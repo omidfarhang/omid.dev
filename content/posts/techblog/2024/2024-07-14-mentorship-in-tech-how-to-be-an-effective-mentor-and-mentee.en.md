@@ -13,7 +13,7 @@ tags:
   - Tech Industry
   - Mentee Tips
   - Mentor Guidelines
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - flash player
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

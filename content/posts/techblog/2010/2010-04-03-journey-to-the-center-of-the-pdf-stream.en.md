@@ -11,7 +11,7 @@ tags:
   - malware
   - PDF
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

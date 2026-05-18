@@ -8,7 +8,7 @@ tags:
   - advice
   - Microsoft
   - solution
-lang: en
+
 categories: 
   - TechBlog
 ---

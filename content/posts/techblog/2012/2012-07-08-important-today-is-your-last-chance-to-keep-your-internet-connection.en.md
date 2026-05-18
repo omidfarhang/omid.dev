@@ -9,7 +9,7 @@ tags:
   - alert
   - FBI
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

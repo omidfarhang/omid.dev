@@ -10,7 +10,7 @@ tags:
   - Interview
   - social media
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

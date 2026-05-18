@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/04/26/no-this-is-not-a-love-song/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

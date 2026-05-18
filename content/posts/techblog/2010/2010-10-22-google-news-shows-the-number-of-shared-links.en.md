@@ -7,7 +7,7 @@ url: 2010/10/22/google-news-shows-the-number-of-shared-links/
 tags:
   - Google
   - google news
-lang: en
+
 categories: 
   - TechBlog
 ---

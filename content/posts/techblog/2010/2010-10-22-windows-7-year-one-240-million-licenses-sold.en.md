@@ -9,7 +9,7 @@ tags:
   - report
   - Windows
   - Windows 7
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - movie trailers
   - Video
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -16,7 +16,7 @@ tags:
   - HTTP Push
   - Apollo Client
   - nginx
-lang: en
+
 categories: 
   - TechBlog
 ---

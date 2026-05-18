@@ -10,7 +10,7 @@ tags:
   - Firefox
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

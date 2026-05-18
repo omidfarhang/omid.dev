@@ -13,7 +13,7 @@ tags:
   - itunes
   - iTunes 9.1
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

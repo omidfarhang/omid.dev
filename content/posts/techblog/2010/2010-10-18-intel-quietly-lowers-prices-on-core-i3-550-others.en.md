@@ -11,7 +11,7 @@ tags:
   - intel
   - news
   - price
-lang: en
+
 categories: 
   - TechBlog
 ---

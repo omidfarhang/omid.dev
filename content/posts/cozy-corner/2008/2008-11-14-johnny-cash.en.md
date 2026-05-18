@@ -9,7 +9,7 @@ image: /images/sites/4/2013/03/cash_narrowweb__300x4130.jpg
 tags:
   - Johnny Cash
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

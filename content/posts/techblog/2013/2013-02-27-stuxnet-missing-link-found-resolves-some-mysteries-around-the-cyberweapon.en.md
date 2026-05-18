@@ -11,7 +11,7 @@ tags:
   - news
   - review
   - Stuxnet
-lang: en
+
 categories: 
   - TechBlog
 ---

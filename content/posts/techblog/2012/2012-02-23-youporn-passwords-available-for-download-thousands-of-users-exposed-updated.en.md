@@ -10,7 +10,7 @@ tags:
   - news
   - Password
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

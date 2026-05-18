@@ -8,7 +8,7 @@ tags:
   - iphone
   - Mobile
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

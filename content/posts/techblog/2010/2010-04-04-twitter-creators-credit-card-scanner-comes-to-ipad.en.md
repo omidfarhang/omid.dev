@@ -10,7 +10,7 @@ tags:
   - iphone
   - news
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

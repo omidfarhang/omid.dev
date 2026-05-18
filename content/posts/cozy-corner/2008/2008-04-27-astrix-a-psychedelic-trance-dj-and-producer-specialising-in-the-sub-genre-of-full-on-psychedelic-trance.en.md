@@ -9,7 +9,7 @@ image: /images/sites/4/2008/04/astrix3.jpg
 tags:
   - Astrix
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

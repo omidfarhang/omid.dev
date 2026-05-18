@@ -9,7 +9,7 @@ tags:
   - Oracle
   - security
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

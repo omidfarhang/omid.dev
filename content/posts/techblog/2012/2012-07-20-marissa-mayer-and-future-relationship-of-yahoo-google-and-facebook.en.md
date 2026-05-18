@@ -10,7 +10,7 @@ tags:
   - Google
   - Marissa Mayer
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

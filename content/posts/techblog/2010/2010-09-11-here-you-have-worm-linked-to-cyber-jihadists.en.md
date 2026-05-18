@@ -11,7 +11,7 @@ tags:
   - review
   - warning
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

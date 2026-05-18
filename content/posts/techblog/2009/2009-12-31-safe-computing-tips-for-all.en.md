@@ -10,7 +10,7 @@ tags:
   - iphone
   - security
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - social media
   - social networking
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

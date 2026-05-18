@@ -12,7 +12,7 @@ tags:
   - ICANN
   - IDN
   - international domain names
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -20,7 +20,7 @@ tags:
   - Product Management
   - Team Building
   - Legal
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/19/data-google-skimmed-with-street-view-cars-gets-destroyed-in-ireland-but-thats-not-good-enough-for-germany/
 tags:
   - Google
-lang: en
+
 categories: 
   - TechBlog
 ---

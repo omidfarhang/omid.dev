@@ -9,7 +9,7 @@ tags:
   - awards
   - certified
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

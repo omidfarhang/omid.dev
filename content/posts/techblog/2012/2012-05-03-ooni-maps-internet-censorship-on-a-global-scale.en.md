@@ -8,7 +8,7 @@ tags:
   - Announcement
   - report
   - Tor Project
-lang: en
+
 categories: 
   - TechBlog
 ---

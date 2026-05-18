@@ -9,7 +9,7 @@ tags:
   - Opera
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

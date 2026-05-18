@@ -9,7 +9,7 @@ image: /images/2014/02/sochi-hack-2014.png
 tags:
   - sochi
   - News
-lang: en
+
 categories: 
   - TechBlog
 ---

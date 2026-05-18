@@ -4,7 +4,7 @@ date: 2010-11-21T22:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/21/its-getting-colder-here/
-lang: en
+
 categories: 
   - Cozy Corner
 ---

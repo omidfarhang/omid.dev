@@ -7,7 +7,7 @@ url: 2010/02/07/microsoft-updates-february-9th/
 tags:
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

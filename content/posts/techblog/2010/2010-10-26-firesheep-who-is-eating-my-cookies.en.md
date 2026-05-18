@@ -11,7 +11,7 @@ tags:
   - privacy
   - security
   - WiFi
-lang: en
+
 categories: 
   - TechBlog
 ---

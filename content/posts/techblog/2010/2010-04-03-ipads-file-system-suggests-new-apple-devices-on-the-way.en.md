@@ -11,7 +11,7 @@ tags:
   - iphone os
   - iProd
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

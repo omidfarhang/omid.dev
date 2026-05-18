@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/21/and-when-you-feel-like-this/
 tags:
   - video
-lang: en
+
 categories: 
   - Cozy Corner
 ---

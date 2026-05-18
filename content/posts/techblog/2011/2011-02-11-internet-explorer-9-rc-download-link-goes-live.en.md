@@ -10,7 +10,7 @@ tags:
   - internet explorer 9
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

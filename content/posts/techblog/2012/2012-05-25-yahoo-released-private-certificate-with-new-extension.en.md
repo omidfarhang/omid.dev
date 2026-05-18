@@ -8,7 +8,7 @@ tags:
   - privacy
   - report
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

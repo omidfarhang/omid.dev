@@ -10,7 +10,7 @@ tags:
   - Facebook
   - news
   - Search
-lang: en
+
 categories: 
   - TechBlog
 ---

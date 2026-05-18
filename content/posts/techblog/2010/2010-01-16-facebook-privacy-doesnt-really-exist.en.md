@@ -7,7 +7,7 @@ url: 2010/01/16/facebook-privacy-doesnt-really-exist/
 tags:
   - Facebook
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - Frontend Development
   - Optimization
   - Best practice
-lang: en
+
 categories: 
   - TechBlog
 ---

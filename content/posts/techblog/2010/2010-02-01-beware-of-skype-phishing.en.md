@@ -11,7 +11,7 @@ tags:
   - scam
   - Skype
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/11/18/i-realized-some-of-the-my-thoughts-regarding-life/
 tags:
   - I think
-lang: en
+
 categories: 
   - Cozy Corner
 ---

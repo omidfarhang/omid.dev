@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - news
   - Steve Ballmer
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - ipad
   - MARKETING
   - TV
-lang: en
+
 categories: 
   - TechBlog
 ---

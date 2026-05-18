@@ -10,7 +10,7 @@ tags:
   - news
   - politics
   - US
-lang: en
+
 categories: 
   - TechBlog
 ---

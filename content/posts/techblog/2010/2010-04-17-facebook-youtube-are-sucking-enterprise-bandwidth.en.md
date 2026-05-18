@@ -9,7 +9,7 @@ tags:
   - report
   - Yahoo
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

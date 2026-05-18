@@ -9,7 +9,7 @@ tags:
   - Java
   - Oracle
   - Security Hole
-lang: en
+
 categories: 
   - TechBlog
 ---

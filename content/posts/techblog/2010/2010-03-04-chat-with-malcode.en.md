@@ -10,7 +10,7 @@ tags:
   - rogue software
   - scam
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

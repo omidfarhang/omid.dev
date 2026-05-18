@@ -9,7 +9,7 @@ tags:
   - Google
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

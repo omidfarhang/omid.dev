@@ -9,7 +9,7 @@ tags:
   - internet
   - report
   - TV
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - news
   - privacy
   - StreetView
-lang: en
+
 categories: 
   - TechBlog
 ---

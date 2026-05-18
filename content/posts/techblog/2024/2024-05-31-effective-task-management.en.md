@@ -11,7 +11,7 @@ tags:
   - Team Collaboration
   - Agile Methodology
   - Project Management
-lang: en
+
 categories: 
   - TechBlog
 ---

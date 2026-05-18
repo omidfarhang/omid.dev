@@ -10,7 +10,7 @@ tags:
   - Patch Tuesday
   - Updates
   - Windows Defender
-lang: en
+
 categories: 
   - TechBlog
 ---

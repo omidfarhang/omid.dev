@@ -10,7 +10,7 @@ tags:
   - norton
   - Symantec
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

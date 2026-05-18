@@ -9,7 +9,7 @@ tags:
   - music
   - MySpace
   - social media
-lang: en
+
 categories: 
   - TechBlog
 ---

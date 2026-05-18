@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - news
   - Office
-lang: en
+
 categories: 
   - TechBlog
 ---

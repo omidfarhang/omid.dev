@@ -9,7 +9,7 @@ image: /images/sites/2/2014/02/19803_10200659706002081_1990640440_n.jpg
 tags:
   - valentine
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

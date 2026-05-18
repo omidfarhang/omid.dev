@@ -10,7 +10,7 @@ tags:
   - development
   - roadmap
   - essential skills
-lang: en
+
 categories: 
   - TechBlog
 ---

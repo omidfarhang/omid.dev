@@ -12,7 +12,7 @@ tags:
   - PlayBoy
   - Publishing
   - Sex
-lang: en
+
 categories: 
   - TechBlog
 ---

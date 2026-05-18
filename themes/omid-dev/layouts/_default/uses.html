@@ -9,12 +9,12 @@
     <div class="page-metadata">
       <span class="meta-badge">
         <i class="fa-solid fa-clock-rotate-left"></i>
-        {{ T "last_updated" | default "Last updated" }}: {{ .Site.Data.uses.date }}
+        {{ T "last_updated" | default "Last updated" }}: {{ hugo.Data.uses.date }}
       </span>
-      {{- if .Site.Data.uses.location -}}
+      {{- if hugo.Data.uses.location -}}
       <span class="meta-location">
         <i class="fa-solid fa-location-dot"></i>
-        {{ .Site.Data.uses.location }}
+        {{ hugo.Data.uses.location }}
       </span>
       {{- end -}}
     </div>
@@ -35,22 +35,22 @@
 
   <div class="uses-container">
     <nav class="uses-nav">
-      {{- if .Site.Data.uses.current }}
+      {{- if hugo.Data.uses.current }}
       <div class="nav-group">
         <h3 class="nav-group-label">{{ T "current_setup" }}</h3>
         <ul>
-          {{- range .Site.Data.uses.current }}
+          {{- range hugo.Data.uses.current }}
           <li><a href="#{{ .name | urlize }}">{{ .name }}</a></li>
           {{- end }}
         </ul>
       </div>
       {{- end }}
 
-      {{- if .Site.Data.uses.history }}
+      {{- if hugo.Data.uses.history }}
       <div class="nav-group">
         <h3 class="nav-group-label">{{ T "history_memories" }}</h3>
         <ul>
-          {{- range .Site.Data.uses.history }}
+          {{- range hugo.Data.uses.history }}
           <li><a href="#{{ .name | urlize }}">{{ .name }}</a></li>
           {{- end }}
         </ul>
@@ -59,10 +59,10 @@
     </nav>
 
     <div class="uses-content">
-      {{- if .Site.Data.uses.current }}
+      {{- if hugo.Data.uses.current }}
       <div class="uses-group">
         <h2 class="uses-group-title">{{ T "current_setup" }}</h2>
-        {{- range .Site.Data.uses.current }}
+        {{- range hugo.Data.uses.current }}
         <section id="{{ .name | urlize }}" class="uses-section">
           <h3 class="uses-section-title">
             {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
@@ -96,10 +96,10 @@
       </div>
       {{- end }}
 
-      {{- if .Site.Data.uses.history }}
+      {{- if hugo.Data.uses.history }}
       <div class="uses-group">
         <h2 class="uses-group-title">{{ T "history_memories" }}</h2>
-        {{- range .Site.Data.uses.history }}
+        {{- range hugo.Data.uses.history }}
         <section id="{{ .name | urlize }}" class="uses-section">
           <h3 class="uses-section-title">
             {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}

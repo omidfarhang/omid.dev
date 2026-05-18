@@ -7,7 +7,7 @@ url: 2010/03/31/apple-issues-mega-patch-for-mac-os-x/
 tags:
   - Apple
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

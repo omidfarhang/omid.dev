@@ -9,7 +9,7 @@ image: /images/2013/05/Tarja_Colours-In-The-Dark_Standard.jpg
 tags:
   - Tarja Turunen
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

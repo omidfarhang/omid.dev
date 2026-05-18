@@ -7,7 +7,7 @@ url: 2010/11/06/facebooks-zuckerberg-now-richer-than-apples-steve-jobs/
 tags:
   - business
   - Mark Zuckerberg
-lang: en
+
 categories: 
   - TechBlog
 ---

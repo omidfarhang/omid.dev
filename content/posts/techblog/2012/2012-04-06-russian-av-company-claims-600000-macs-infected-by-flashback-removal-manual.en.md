@@ -10,7 +10,7 @@ tags:
   - malware
   - news
   - solution
-lang: en
+
 categories: 
   - TechBlog
 ---

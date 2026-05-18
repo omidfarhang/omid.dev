@@ -9,7 +9,7 @@ tags:
   - Announcement
   - Apple
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

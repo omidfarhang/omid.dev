@@ -9,7 +9,7 @@ tags:
   - Internet Explorer
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

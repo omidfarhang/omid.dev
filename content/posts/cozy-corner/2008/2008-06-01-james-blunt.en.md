@@ -9,7 +9,7 @@ image: /images/sites/4/2008/06/james_blunt1.jpg
 tags:
   - James Blunt
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -10,7 +10,7 @@ tags:
   - Mozilla
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

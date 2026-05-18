@@ -10,7 +10,7 @@ tags:
   - iphone
   - Video
   - Windows Phone
-lang: en
+
 categories: 
   - TechBlog
 ---

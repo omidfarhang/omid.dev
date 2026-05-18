@@ -13,7 +13,7 @@ tags:
   - report
   - Smartphone
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

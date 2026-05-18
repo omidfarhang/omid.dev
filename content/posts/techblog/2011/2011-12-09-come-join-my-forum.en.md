@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/12/09/come-join-my-forum/
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

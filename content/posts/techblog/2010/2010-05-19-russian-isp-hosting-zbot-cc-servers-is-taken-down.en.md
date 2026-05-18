@@ -7,7 +7,7 @@ url: 2010/05/19/russian-isp-hosting-zbot-cc-servers-is-taken-down/
 tags:
   - malware
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

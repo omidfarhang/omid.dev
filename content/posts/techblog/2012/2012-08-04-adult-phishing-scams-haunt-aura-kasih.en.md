@@ -7,7 +7,7 @@ url: 2012/08/04/adult-phishing-scams-haunt-aura-kasih/
 tags:
   - alert
   - phishing
-lang: en
+
 categories: 
   - TechBlog
 ---

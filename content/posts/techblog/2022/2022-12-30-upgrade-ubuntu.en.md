@@ -9,7 +9,7 @@ tags:
   - How to
   - linux
   - Ubuntu
-lang: en
+
 categories: 
   - TechBlog
 ---

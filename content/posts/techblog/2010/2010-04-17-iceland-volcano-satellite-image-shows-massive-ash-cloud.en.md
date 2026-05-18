@@ -14,7 +14,7 @@ tags:
   - satellite
   - volcano
   - worlds news
-lang: en
+
 categories: 
   - TechBlog
 ---

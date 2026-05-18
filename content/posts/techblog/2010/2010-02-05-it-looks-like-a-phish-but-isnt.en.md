@@ -7,7 +7,7 @@ url: 2010/02/05/it-looks-like-a-phish-but-isnt/
 tags:
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

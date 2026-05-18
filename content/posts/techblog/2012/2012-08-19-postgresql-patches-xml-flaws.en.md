@@ -10,7 +10,7 @@ tags:
   - SQL
   - Updates
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

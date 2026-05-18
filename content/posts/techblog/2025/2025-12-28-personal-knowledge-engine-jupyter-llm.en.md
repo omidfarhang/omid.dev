@@ -16,7 +16,7 @@ tags:
   - LLM
   - Productivity
   - Knowledge Management
-lang: en
+
 categories: 
   - TechBlog
 ---

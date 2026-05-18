@@ -7,7 +7,7 @@ url: 2010/04/08/chinese-censorship-herding-cats-on-the-internet/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

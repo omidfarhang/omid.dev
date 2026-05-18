@@ -12,7 +12,7 @@ tags:
   - Recursive Types
   - Conditional Types
   - Developers
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Google
   - privacy
   - Settlement
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - solution
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

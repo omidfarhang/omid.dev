@@ -8,7 +8,7 @@ tags:
   - Interesting
   - review
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

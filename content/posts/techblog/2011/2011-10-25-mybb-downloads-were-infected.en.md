@@ -10,7 +10,7 @@ tags:
   - forum
   - malware
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/04/solving-captchas-as-cottage-industry/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

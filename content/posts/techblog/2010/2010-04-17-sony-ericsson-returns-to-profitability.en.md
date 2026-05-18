@@ -10,7 +10,7 @@ tags:
   - mobile phones
   - profits
   - Sony Ericsson
-lang: en
+
 categories: 
   - TechBlog
 ---

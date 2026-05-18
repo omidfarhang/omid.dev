@@ -17,7 +17,7 @@ tags:
   - Career
   - Software Development
   - Perspective
-lang: en
+
 categories: 
   - TechBlog
 ---

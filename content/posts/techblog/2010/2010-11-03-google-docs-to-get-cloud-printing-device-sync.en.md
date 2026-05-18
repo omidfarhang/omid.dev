@@ -9,7 +9,7 @@ tags:
   - Google
   - google chrome os
   - google docs
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - Rust
   - WebAssembly integration
   - Web Development
-lang: en
+
 categories: 
   - TechBlog
 ---

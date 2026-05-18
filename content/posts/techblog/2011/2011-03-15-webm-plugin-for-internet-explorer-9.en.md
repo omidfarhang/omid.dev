@@ -10,7 +10,7 @@ tags:
   - internet explorer 9
   - suggestion
   - WebM
-lang: en
+
 categories: 
   - TechBlog
 ---

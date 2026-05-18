@@ -11,7 +11,7 @@ tags:
   - Mail
   - Microsoft
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

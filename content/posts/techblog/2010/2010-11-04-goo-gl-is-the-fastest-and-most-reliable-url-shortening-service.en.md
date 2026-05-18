@@ -10,7 +10,7 @@ tags:
   - report
   - review
   - URL Shortening
-lang: en
+
 categories: 
   - TechBlog
 ---

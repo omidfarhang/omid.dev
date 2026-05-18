@@ -1,5 +1,5 @@
 {{- define "main" }}
-{{- $resume := (index .Site.Data .Site.Language.Lang).resume -}}
+{{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
 <div class="about-me-container">
   <aside class="about-me-sidebar">
     <div class="profile-card">

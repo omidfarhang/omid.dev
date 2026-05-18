@@ -11,7 +11,7 @@ tags:
   - Functors
   - Applicatives
   - Functional Programming
-lang: en
+
 categories: 
   - TechBlog
 ---

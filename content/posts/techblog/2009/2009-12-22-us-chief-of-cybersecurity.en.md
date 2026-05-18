@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/22/us-chief-of-cybersecurity/
 tags:
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

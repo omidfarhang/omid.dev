@@ -8,7 +8,7 @@ tags:
   - alert
   - hack
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

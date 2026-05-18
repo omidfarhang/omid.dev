@@ -8,7 +8,7 @@ tags:
   - Firefox
   - Mozilla
   - Tricks
-lang: en
+
 categories: 
   - TechBlog
 ---

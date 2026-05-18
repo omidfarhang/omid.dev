@@ -10,7 +10,7 @@ tags:
   - internet
   - report
   - Sex
-lang: en
+
 categories: 
   - TechBlog
 ---

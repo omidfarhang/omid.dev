@@ -11,7 +11,7 @@ tags:
   - Password
   - report
   - worlds news
-lang: en
+
 categories: 
   - TechBlog
 ---

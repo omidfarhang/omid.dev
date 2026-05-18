@@ -8,7 +8,7 @@ tags:
   - Adobe
   - alert
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

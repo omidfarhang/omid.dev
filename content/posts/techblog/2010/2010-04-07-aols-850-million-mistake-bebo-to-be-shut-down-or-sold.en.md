@@ -8,7 +8,7 @@ tags:
   - AOL
   - ICQ
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

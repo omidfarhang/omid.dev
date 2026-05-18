@@ -9,7 +9,7 @@ tags:
   - ipad
   - Microwave
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

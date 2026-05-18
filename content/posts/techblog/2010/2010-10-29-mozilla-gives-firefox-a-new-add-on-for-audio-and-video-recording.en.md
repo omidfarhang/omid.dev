@@ -9,7 +9,7 @@ tags:
   - Firefox Addon
   - Mozilla
   - multimedia
-lang: en
+
 categories: 
   - TechBlog
 ---

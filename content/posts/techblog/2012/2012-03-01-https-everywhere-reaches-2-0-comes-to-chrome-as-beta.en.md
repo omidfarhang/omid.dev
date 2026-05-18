@@ -10,7 +10,7 @@ tags:
   - security
   - SSL
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

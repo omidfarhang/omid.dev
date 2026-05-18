@@ -11,7 +11,7 @@ tags:
   - Skills
   - Resume
   - Developers
-lang: en
+
 categories: 
   - TechBlog
 ---

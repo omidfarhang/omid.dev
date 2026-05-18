@@ -18,7 +18,7 @@ tags:
   - Engineering Culture
   - Decision Making
   - Data Science
-lang: de
+
 categories: 
   - TechBlog
 ---

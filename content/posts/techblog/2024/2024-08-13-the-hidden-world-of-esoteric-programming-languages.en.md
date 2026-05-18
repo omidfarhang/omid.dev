@@ -14,7 +14,7 @@ tags:
   - Piet
   - Befunge
   - INTERCAL
-lang: en
+
 categories: 
   - TechBlog
 ---

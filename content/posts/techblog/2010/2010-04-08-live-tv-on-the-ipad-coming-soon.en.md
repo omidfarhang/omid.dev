@@ -9,7 +9,7 @@ tags:
   - ipad
   - Live TV
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Facebook
   - Google
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Operation System
   - Windows
   - worlds news
-lang: en
+
 categories: 
   - TechBlog
 ---

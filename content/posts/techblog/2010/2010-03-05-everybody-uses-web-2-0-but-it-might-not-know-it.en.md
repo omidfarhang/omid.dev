@@ -8,7 +8,7 @@ tags:
   - news
   - report
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

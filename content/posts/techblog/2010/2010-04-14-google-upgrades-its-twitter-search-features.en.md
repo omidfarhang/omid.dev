@@ -10,7 +10,7 @@ tags:
   - Real-Time Search
   - social networking
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

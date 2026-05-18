@@ -11,7 +11,7 @@ tags:
   - news
   - Opera
   - WebKit
-lang: en
+
 categories: 
   - TechBlog
 ---

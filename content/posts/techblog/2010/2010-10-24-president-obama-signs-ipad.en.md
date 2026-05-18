@@ -10,7 +10,7 @@ tags:
   - ipad
   - news
   - obama
-lang: en
+
 categories: 
   - TechBlog
 ---

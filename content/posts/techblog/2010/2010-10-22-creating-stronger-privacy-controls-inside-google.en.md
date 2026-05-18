@@ -9,7 +9,7 @@ tags:
   - Google privacy
   - news
   - privacy
-lang: en
+
 categories: 
   - TechBlog
 ---

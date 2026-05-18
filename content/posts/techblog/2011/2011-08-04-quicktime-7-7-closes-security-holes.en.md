@@ -11,7 +11,7 @@ tags:
   - security
   - Updates
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

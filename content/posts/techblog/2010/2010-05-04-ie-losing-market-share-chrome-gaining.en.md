@@ -16,7 +16,7 @@ tags:
   - report
   - review
   - Safari
-lang: en
+
 categories: 
   - TechBlog
 ---

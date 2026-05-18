@@ -7,7 +7,7 @@ url: 2010/08/27/dll-hijacking-evolved/
 tags:
   - Hijack
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/24/sometimes-hate-is-not-enough/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

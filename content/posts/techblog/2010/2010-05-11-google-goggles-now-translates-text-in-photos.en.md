@@ -9,7 +9,7 @@ tags:
   - Goggles
   - Google
   - translate
-lang: en
+
 categories: 
   - TechBlog
 ---

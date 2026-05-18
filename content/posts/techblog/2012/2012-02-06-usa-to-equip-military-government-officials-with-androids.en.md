@@ -11,7 +11,7 @@ tags:
   - Military
   - news
   - Smartphone
-lang: en
+
 categories: 
   - TechBlog
 ---

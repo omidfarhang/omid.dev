@@ -10,7 +10,7 @@ tags:
   - Google
   - nested labels
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

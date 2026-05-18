@@ -8,7 +8,7 @@ tags:
   - celeb
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

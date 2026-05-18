@@ -8,7 +8,7 @@ tags:
   - news
   - Opera
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - alert
   - Google
   - Google Chrome
-lang: en
+
 categories: 
   - TechBlog
 ---

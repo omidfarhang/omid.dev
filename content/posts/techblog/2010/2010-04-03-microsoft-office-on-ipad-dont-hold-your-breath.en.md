@@ -12,7 +12,7 @@ tags:
   - Microsoft
   - microsoft office 2010
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

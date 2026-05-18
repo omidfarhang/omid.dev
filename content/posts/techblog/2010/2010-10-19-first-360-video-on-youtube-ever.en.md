@@ -8,7 +8,7 @@ tags:
   - link
   - Video
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

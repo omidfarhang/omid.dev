@@ -8,7 +8,7 @@ tags:
   - Facebook
   - social networking
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

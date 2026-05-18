@@ -11,7 +11,7 @@ tags:
   - malware
   - security
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

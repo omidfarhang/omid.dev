@@ -11,7 +11,7 @@ tags:
   - social networking
   - spam
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

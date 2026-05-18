@@ -11,7 +11,7 @@ tags:
   - news
   - Torrent
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

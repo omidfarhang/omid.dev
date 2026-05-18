@@ -10,7 +10,7 @@ tags:
   - iphone
   - report
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

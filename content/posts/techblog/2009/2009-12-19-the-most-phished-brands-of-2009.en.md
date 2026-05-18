@@ -7,7 +7,7 @@ url: 2009/12/19/the-most-phished-brands-of-2009/
 tags:
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

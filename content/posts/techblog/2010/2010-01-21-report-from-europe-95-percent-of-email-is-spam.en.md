@@ -7,7 +7,7 @@ url: 2010/01/21/report-from-europe-95-percent-of-email-is-spam/
 tags:
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

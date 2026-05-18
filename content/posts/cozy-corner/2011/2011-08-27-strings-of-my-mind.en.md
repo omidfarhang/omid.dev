@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/08/27/strings-of-my-mind/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -9,7 +9,7 @@ tags:
   - internet
   - ISP
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

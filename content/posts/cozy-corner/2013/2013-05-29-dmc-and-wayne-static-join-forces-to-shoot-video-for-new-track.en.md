@@ -10,7 +10,7 @@ tags:
   - Music
   - Static-X
   - Wayne Static
-lang: en
+
 categories: 
   - Cozy Corner
 ---

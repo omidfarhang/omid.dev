@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2017/02/09/test-gnome-ubuntu-and-back-alive-lightdm-gdm/
 shortlink: https://g.omid.dev/WSQaL4J
-lang: en
+
 tags: 
   - gdm
   - lightdm

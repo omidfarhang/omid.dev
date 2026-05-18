@@ -8,7 +8,7 @@ tags:
   - hard drive
   - Hardware
   - WD
-lang: en
+
 categories: 
   - TechBlog
 ---

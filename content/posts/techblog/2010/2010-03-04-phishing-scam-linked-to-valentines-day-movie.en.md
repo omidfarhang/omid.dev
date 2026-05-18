@@ -10,7 +10,7 @@ tags:
   - phishing
   - report
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

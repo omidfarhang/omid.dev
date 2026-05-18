@@ -7,7 +7,7 @@ url: 2009/12/29/systemcleanerpro/
 tags:
   - rogue software
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

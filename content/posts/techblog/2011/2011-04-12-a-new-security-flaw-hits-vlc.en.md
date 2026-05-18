@@ -8,7 +8,7 @@ tags:
   - security
   - VLC
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

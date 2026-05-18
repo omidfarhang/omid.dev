@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/212RNaQ
 image: /images/2013/05/Symantec_120.png
 tags:
   - Symantec
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -14,7 +14,7 @@ tags:
   - Workplace Communication
   - Team Dynamics
   - Soft Skills
-lang: en
+
 categories: 
   - TechBlog
 ---

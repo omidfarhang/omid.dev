@@ -8,7 +8,7 @@ tags:
   - malware
   - review
   - YouTube
-lang: en
+
 categories: 
   - TechBlog
 ---

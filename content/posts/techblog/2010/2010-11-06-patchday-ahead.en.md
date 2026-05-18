@@ -14,7 +14,7 @@ tags:
   - Microsoft
   - Updates
   - Windows
-lang: en
+
 categories: 
   - TechBlog
 ---

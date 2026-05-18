@@ -9,7 +9,7 @@ tags:
   - Adobe
   - news
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

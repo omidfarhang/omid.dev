@@ -7,7 +7,7 @@ url: 2010/03/22/a-fishy-defacement/
 tags:
   - phishing
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

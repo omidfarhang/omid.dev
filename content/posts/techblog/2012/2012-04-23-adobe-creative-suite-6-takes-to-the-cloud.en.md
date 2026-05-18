@@ -7,7 +7,7 @@ url: 2012/04/23/adobe-creative-suite-6-takes-to-the-cloud/
 tags:
   - Adobe
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

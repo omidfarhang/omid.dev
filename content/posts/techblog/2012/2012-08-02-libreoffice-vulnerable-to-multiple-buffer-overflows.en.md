@@ -9,7 +9,7 @@ tags:
   - report
   - security
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

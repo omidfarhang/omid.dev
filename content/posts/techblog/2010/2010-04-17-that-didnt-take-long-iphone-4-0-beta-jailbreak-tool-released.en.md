@@ -8,7 +8,7 @@ tags:
   - Apple
   - iphone
   - jailbreak
-lang: en
+
 categories: 
   - TechBlog
 ---

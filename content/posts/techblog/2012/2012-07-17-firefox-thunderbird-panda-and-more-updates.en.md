@@ -12,7 +12,7 @@ tags:
   - panda
   - Thunderbird
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

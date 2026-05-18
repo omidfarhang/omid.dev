@@ -10,7 +10,7 @@ tags:
   - "2014"
   - Facebook
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

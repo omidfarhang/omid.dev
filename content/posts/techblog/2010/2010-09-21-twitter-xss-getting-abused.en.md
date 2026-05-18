@@ -9,7 +9,7 @@ tags:
   - report
   - Twitter
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

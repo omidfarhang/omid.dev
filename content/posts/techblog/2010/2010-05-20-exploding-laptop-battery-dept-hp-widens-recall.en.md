@@ -7,7 +7,7 @@ url: 2010/05/20/exploding-laptop-battery-dept-hp-widens-recall/
 tags:
   - HP
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

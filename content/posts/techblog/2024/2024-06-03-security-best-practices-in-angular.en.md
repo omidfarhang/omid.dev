@@ -12,7 +12,7 @@ tags:
   - XSS
   - CSRF
   - JWT
-lang: en
+
 categories: 
   - TechBlog
 ---

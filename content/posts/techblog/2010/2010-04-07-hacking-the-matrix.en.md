@@ -8,7 +8,7 @@ tags:
   - hack
   - Hijack
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - PayPal
   - review
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

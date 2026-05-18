@@ -9,7 +9,7 @@ tags:
   - Outlook
   - Outlook.com
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

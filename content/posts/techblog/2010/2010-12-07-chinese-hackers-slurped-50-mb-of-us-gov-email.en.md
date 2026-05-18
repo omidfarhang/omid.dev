@@ -10,7 +10,7 @@ tags:
   - Mail
   - Microsoft
   - WikiLeaks
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - Iran
   - Mineralien
   - Lesenswert
-lang: de
+
 categories: 
   - Health
 ---

@@ -10,7 +10,7 @@ tags:
   - Google
   - iOS
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

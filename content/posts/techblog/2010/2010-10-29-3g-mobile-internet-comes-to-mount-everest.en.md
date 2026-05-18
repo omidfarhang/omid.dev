@@ -10,7 +10,7 @@ tags:
   - internet
   - Mobile
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

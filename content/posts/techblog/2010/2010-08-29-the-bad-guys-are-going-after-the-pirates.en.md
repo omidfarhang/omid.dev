@@ -11,7 +11,7 @@ tags:
   - phishing
   - Piracy
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

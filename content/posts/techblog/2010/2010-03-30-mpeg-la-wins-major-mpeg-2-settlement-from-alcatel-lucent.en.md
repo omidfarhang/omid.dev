@@ -7,7 +7,7 @@ url: 2010/03/30/mpeg-la-wins-major-mpeg-2-settlement-from-alcatel-lucent/
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

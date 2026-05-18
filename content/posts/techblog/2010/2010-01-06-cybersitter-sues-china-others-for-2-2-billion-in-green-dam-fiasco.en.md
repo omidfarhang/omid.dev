@@ -7,7 +7,7 @@ url: 2010/01/06/cybersitter-sues-china-others-for-2-2-billion-in-green-dam-fiasc
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

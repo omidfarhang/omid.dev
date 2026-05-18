@@ -13,7 +13,7 @@ tags:
   - Professional Development
   - Supportive Culture
   - Soft Skills
-lang: en
+
 categories: 
   - TechBlog
 ---

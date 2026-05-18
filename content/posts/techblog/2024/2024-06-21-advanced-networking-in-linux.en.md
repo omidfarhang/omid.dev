@@ -15,7 +15,7 @@ tags:
   - RHEL
   - Debian
   - Ubuntu
-lang: en
+
 categories: 
   - TechBlog
 ---

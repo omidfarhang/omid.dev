@@ -14,7 +14,7 @@ tags:
   - Silverlight
   - Updates
   - Writer
-lang: en
+
 categories: 
   - TechBlog
 ---

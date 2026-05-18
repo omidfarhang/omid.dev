@@ -11,7 +11,7 @@ tags:
   - security
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - Data Processing
   - Latency Reduction
   - Smart Cities
-lang: en
+
 categories: 
   - TechBlog
 ---

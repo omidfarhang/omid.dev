@@ -9,7 +9,7 @@ tags:
   - Hotmail
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

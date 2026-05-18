@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Microsoft
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - Google
   - ipad
   - tablets
-lang: en
+
 categories: 
   - TechBlog
 ---

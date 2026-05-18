@@ -9,7 +9,7 @@ tags:
   - Google Circles
   - news
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

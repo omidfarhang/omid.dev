@@ -9,7 +9,7 @@ tags:
   - Angular
   - Frontend Development
   - Angular Providers
-lang: en
+
 categories: 
   - TechBlog
 ---

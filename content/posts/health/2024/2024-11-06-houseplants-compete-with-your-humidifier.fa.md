@@ -12,7 +12,7 @@ tags:
   - محیط خانه
   - علم سرگرم‌کننده است
   - آمار
-lang: fa
+
 categories: 
   - Health
 ---

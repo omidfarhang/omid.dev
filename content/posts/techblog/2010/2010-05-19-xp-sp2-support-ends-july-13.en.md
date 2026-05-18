@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - Windows
   - Windows XP
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - security
   - Updates
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

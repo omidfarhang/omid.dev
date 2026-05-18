@@ -11,7 +11,7 @@ tags:
   - malware
   - report
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

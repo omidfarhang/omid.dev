@@ -8,7 +8,7 @@ tags:
   - Internet TV
   - Microsoft
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

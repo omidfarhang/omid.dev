@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Drive
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

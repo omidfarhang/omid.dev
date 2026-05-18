@@ -11,7 +11,7 @@ tags:
   - Mobile
   - news
   - Skype
-lang: en
+
 categories: 
   - TechBlog
 ---

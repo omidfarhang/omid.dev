@@ -11,7 +11,7 @@ tags:
   - پست‌بیوتیک
   - کاندیدیازیس
   - سلامت زنان
-lang: fa
+
 categories: 
   - Health
 ---

@@ -10,7 +10,7 @@ tags:
   - phishing
   - scam
   - Windows Live
-lang: en
+
 categories: 
   - TechBlog
 ---

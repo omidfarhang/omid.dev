@@ -8,7 +8,7 @@ tags:
   - malware
   - review
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

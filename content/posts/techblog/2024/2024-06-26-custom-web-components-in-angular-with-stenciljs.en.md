@@ -10,7 +10,7 @@ tags:
   - Frontend Development
   - Web Components
   - StencilJs
-lang: en
+
 categories: 
   - TechBlog
 ---

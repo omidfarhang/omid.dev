@@ -9,7 +9,7 @@ tags:
   - Firefox
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

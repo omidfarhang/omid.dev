@@ -9,7 +9,7 @@ tags:
   - hoax
   - report
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

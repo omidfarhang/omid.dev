@@ -7,7 +7,7 @@ url: 2010/01/22/404-error-message-spoof/
 tags:
   - alert
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - iphone
   - iphone os
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

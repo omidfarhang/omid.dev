@@ -7,7 +7,7 @@ url: 2010/10/17/first-firmware-for-nokia-c7-v12-003-released/
 tags:
   - Mobile
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

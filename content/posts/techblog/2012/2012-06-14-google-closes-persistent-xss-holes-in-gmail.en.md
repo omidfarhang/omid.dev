@@ -9,7 +9,7 @@ tags:
   - Google Mail
   - Updates
   - XSS
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -10,7 +10,7 @@ tags:
   - security
   - symantec
   - News
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - Non-Technical Teams
   - Management
   - Career Development 
-lang: en
+
 categories: 
   - TechBlog
 ---

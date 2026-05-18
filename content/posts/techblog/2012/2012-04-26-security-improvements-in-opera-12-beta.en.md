@@ -9,7 +9,7 @@ tags:
   - Browser
   - software
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

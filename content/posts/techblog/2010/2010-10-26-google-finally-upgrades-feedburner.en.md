@@ -8,7 +8,7 @@ tags:
   - FeedBurner
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

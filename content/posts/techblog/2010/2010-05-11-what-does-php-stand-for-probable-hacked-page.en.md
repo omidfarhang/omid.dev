@@ -10,7 +10,7 @@ tags:
   - PHP
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

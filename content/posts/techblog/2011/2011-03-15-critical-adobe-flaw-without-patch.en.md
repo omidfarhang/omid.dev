@@ -7,7 +7,7 @@ url: 2011/03/15/critical-adobe-flaw-without-patch/
 tags:
   - Adobe
   - Vulnerability
-lang: en
+
 categories: 
   - TechBlog
 ---

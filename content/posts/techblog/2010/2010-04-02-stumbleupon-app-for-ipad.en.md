@@ -9,7 +9,7 @@ tags:
   - Download
   - ipad
   - StumbleUpon
-lang: en
+
 categories: 
   - TechBlog
 ---

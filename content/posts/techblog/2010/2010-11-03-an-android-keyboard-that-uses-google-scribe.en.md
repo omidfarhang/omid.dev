@@ -7,7 +7,7 @@ url: 2010/11/03/an-android-keyboard-that-uses-google-scribe/
 tags:
   - Android
   - Google
-lang: en
+
 categories: 
   - TechBlog
 ---

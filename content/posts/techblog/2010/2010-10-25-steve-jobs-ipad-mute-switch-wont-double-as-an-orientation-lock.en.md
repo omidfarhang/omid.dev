@@ -8,7 +8,7 @@ tags:
   - Apple
   - iOS
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

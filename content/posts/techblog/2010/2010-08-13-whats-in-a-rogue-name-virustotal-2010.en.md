@@ -9,7 +9,7 @@ tags:
   - phishing
   - rogue software
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -11,7 +11,7 @@ tags:
   - Stagefright
   - Vulnerability
   - Google
-lang: en
+
 categories: 
   - TechBlog
 ---

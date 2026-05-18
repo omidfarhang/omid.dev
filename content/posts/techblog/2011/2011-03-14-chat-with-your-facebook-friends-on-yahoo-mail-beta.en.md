@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Facebook Chat
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

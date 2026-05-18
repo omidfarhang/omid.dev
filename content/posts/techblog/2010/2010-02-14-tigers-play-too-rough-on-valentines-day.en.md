@@ -7,7 +7,7 @@ url: 2010/02/14/tigers-play-too-rough-on-valentines-day/
 tags:
   - phishing
   - scam
-lang: en
+
 categories: 
   - TechBlog
 ---

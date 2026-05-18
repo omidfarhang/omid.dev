@@ -7,7 +7,7 @@ url: 2009/12/29/researchers-take-down-mega-d-one-of-top-10-botnets/
 tags:
   - news
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

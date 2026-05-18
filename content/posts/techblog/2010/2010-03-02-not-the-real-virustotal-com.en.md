@@ -12,7 +12,7 @@ tags:
   - review
   - scam
   - VirusTotal
-lang: en
+
 categories: 
   - TechBlog
 ---

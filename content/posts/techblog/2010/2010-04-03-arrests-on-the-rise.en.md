@@ -10,7 +10,7 @@ tags:
   - news
   - rogue software
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

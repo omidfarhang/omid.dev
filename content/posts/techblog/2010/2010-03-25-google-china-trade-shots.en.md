@@ -7,7 +7,7 @@ url: 2010/03/25/google-china-trade-shots/
 tags:
   - Google
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

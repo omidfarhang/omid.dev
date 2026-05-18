@@ -9,7 +9,7 @@ tags:
   - Apple
   - iphone
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

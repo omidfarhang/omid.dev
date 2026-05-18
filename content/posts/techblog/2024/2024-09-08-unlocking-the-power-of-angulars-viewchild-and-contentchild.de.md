@@ -13,7 +13,7 @@ tags:
   - Komponenten-Interaktion
   - Angular Best Practices
   - Frontend-Entwicklung
-lang: de
+
 categories: 
   - TechBlog
 ---

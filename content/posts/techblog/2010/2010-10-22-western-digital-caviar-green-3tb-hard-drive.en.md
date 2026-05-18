@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Hardware
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

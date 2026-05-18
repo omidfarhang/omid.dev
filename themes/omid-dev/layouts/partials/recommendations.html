@@ -1,4 +1,4 @@
-{{- $recommendations := .Site.Data.recommendations -}}
+{{- $recommendations := hugo.Data.recommendations -}}
 {{- if $recommendations }}
 {{- $recommendations = shuffle $recommendations -}}
 <section class="home-section recommendations-section">

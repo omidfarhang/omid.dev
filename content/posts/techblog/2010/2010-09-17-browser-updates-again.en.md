@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Mozilla
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

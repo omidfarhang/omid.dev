@@ -15,7 +15,7 @@ tags:
   - Ernährung und Appetitstörungen
   - Lern- und Verhaltenspsychologie
   - Lebensmittelallergie vs. Unverträglichkeit
-lang: de
+
 categories: 
   - Health
 ---

@@ -12,7 +12,7 @@ tags:
   - trending
   - verizon
   - Verizon iPhone
-lang: en
+
 categories: 
   - TechBlog
 ---

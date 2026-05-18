@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Search
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

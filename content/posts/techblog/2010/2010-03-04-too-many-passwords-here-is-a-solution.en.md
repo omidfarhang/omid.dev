@@ -7,7 +7,7 @@ url: 2010/03/04/too-many-passwords-here-is-a-solution/
 tags:
   - advice
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

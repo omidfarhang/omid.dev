@@ -8,7 +8,7 @@ image: /images/sites/4/2013/05/tarja-act-1.jpg
 tags:
   - Tarja Turunen
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

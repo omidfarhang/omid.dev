@@ -10,7 +10,7 @@ tags:
   - Google
   - Hijack
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

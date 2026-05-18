@@ -9,7 +9,7 @@ tags:
   - news
   - report
   - rogue software
-lang: en
+
 categories: 
   - TechBlog
 ---

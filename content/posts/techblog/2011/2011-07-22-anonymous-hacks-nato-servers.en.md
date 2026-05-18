@@ -10,7 +10,7 @@ tags:
   - NATO
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

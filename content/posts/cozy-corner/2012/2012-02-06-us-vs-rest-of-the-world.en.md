@@ -7,7 +7,7 @@ url: 2012/02/06/us-vs-rest-of-the-world/
 image: /images/sites/2/2012/02/US-vs-World.jpg
 tags:
   - interesting
-lang: en
+
 categories: 
   - Cozy Corner
 ---

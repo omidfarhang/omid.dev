@@ -9,7 +9,7 @@ tags:
   - phishing
   - report
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

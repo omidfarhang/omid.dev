@@ -8,7 +8,7 @@ tags:
   - Facebook
   - MySpace
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

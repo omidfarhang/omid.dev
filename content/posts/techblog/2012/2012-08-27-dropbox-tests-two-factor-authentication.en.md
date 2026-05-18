@@ -9,7 +9,7 @@ tags:
   - Beta
   - Dropbox
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

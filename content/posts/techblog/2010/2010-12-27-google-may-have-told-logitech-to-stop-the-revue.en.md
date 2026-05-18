@@ -9,7 +9,7 @@ tags:
   - Google TV
   - Hardware
   - Logitech
-lang: en
+
 categories: 
   - TechBlog
 ---

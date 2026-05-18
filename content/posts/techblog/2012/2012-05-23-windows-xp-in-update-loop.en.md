@@ -9,7 +9,7 @@ tags:
   - Updates
   - Windows
   - Windows XP
-lang: en
+
 categories: 
   - TechBlog
 ---

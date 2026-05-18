@@ -9,7 +9,7 @@ tags:
   - news
   - trending
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

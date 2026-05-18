@@ -9,7 +9,7 @@ tags:
   - google job
   - job
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

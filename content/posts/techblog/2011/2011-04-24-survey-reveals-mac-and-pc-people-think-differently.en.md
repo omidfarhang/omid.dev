@@ -10,7 +10,7 @@ tags:
   - PC
   - report
   - survey
-lang: en
+
 categories: 
   - TechBlog
 ---

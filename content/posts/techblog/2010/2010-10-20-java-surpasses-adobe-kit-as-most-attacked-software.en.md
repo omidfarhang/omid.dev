@@ -9,7 +9,7 @@ tags:
   - Java
   - news
   - Oracle
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -12,7 +12,7 @@ tags:
   - laptop
   - news
   - Notebook
-lang: en
+
 categories: 
   - TechBlog
 ---

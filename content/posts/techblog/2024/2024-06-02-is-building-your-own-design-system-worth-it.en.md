@@ -11,7 +11,7 @@ tags:
   - UI/UX Design
   - FrontEnd Development
   - JavaScript Frameworks
-lang: en
+
 categories: 
   - TechBlog
 ---

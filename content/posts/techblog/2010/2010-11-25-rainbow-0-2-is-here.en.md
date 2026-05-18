@@ -8,7 +8,7 @@ tags:
   - Firefox
   - Firefox Addon
   - Mozilla
-lang: en
+
 categories: 
   - TechBlog
 ---

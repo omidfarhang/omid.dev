@@ -11,7 +11,7 @@ tags:
   - Design Patterns
   - Angular
   - Code Quality
-lang: en
+
 categories: 
   - TechBlog
 ---

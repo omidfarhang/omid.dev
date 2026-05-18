@@ -12,7 +12,7 @@ tags:
   - WordPress
   - WordPress 3.0
   - WordPress Theme
-lang: en
+
 categories: 
   - TechBlog
 ---

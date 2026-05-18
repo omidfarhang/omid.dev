@@ -73,10 +73,10 @@ languages:
   # English
   en:
     title: Omid Farhang
-    languageName: ':us:'
-    languageCode: en-US
+    label: ':us:'
+    locale: en-US
     weight: 1
-    languageDirection: ltr
+    direction: ltr
     params:
       languageAltTitle: English
       author: Omid Farhang
@@ -119,10 +119,10 @@ languages:
   # Persian
   fa:
     title: امید فرهنگ
-    languageName: ':iran:'
-    languageCode: fa-IR
+    label: ':iran:'
+    locale: fa-IR
     weight: 2
-    languageDirection: rtl
+    direction: rtl
     params:
       languageAltTitle: فارسی
       author: امید فرهنگ
@@ -162,10 +162,10 @@ languages:
   # German
   de:
     title: Omid Farhang
-    languageName: ':de:'
-    languageCode: de-DE
+    label: ':de:'
+    locale: de-DE
     weight: 3
-    languageDirection: ltr
+    direction: ltr
     params:
       languageAltTitle: Deutsch
       author: Omid Farhang

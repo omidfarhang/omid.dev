@@ -13,7 +13,7 @@ tags:
   - Frontend Backend
   - Scalability
   - Programming Languages
-lang: en
+
 categories: 
   - TechBlog
 ---

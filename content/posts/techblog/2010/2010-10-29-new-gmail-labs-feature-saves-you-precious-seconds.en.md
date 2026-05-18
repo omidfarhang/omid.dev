@@ -8,7 +8,7 @@ tags:
   - gmail
   - gmail labs
   - Google
-lang: en
+
 categories: 
   - TechBlog
 ---

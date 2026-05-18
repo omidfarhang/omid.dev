@@ -10,7 +10,7 @@ tags:
   - Billboard
   - taylor swift
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

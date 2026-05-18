@@ -7,7 +7,7 @@ url: 2013/03/17/what-is-the-largest-number-that-you-know/
 image: /images/sites/2/2013/03/googol.jpg
 tags:
   - information
-lang: en
+
 categories: 
   - Cozy Corner
 ---

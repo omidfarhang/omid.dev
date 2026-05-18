@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Skype
   - social networking
-lang: en
+
 categories: 
   - TechBlog
 ---

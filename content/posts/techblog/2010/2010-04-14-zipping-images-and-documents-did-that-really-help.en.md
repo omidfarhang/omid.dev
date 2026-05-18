@@ -7,7 +7,7 @@ url: 2010/04/14/zipping-images-and-documents-did-that-really-help/
 tags:
   - malware
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/05/11/blippy-competitor-swipely-raises-7-5m-in-funding/
 tags:
   - blippy
   - swipely
-lang: en
+
 categories: 
   - TechBlog
 ---

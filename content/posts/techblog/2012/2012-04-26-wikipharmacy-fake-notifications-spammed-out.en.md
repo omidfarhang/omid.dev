@@ -10,7 +10,7 @@ tags:
   - review
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - news
   - report
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

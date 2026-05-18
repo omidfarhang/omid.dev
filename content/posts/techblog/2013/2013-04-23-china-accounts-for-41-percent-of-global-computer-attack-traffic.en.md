@@ -7,7 +7,7 @@ url: 2013/04/23/china-accounts-for-41-percent-of-global-computer-attack-traffic/
 image: /images/2013/04/china-flag1.jpg
 tags:
   - China
-lang: en
+
 categories: 
   - TechBlog
 ---

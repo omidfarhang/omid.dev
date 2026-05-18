@@ -9,7 +9,7 @@ image: /images/sites/4/2008/05/carlos-santana.jpg
 tags:
   - Carlos Santana
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

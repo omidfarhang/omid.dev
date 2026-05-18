@@ -9,7 +9,7 @@ tags:
   - report
   - review
   - trojan
-lang: en
+
 categories: 
   - TechBlog
 ---

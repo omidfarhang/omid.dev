@@ -7,7 +7,7 @@ url: 2010/10/19/less-than-5-of-ipv4-addresses-left-says-nro/
 tags:
   - IPv4
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

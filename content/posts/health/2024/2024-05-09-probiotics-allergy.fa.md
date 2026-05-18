@@ -10,7 +10,7 @@ tags:
   - پروبیوتیک
   - پست‌بیوتیک
   - آلرژی
-lang: fa
+
 categories: 
   - Health
 ---

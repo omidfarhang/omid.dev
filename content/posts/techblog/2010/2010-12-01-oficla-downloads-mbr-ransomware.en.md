@@ -12,7 +12,7 @@ tags:
   - news
   - report
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

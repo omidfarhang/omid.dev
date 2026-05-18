@@ -10,7 +10,7 @@ tags:
   - privacy
   - report
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -9,7 +9,7 @@ tags:
   - Google
   - Google CEO
   - steve jobs
-lang: en
+
 categories: 
   - TechBlog
 ---

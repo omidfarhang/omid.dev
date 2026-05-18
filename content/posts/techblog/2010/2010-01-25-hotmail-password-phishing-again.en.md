@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - phishing
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

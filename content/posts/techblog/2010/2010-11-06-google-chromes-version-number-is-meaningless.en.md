@@ -10,7 +10,7 @@ tags:
   - report
   - Updates
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

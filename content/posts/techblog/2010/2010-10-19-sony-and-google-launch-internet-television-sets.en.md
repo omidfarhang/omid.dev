@@ -12,7 +12,7 @@ tags:
   - Internet TV
   - Sony
   - TV
-lang: en
+
 categories: 
   - TechBlog
 ---

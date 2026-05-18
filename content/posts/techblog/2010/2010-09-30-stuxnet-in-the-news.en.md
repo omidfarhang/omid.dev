@@ -11,7 +11,7 @@ tags:
   - Nuclear
   - Stuxnet
   - trending
-lang: en
+
 categories: 
   - TechBlog
 ---

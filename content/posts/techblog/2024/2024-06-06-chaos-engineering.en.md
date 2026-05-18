@@ -13,7 +13,7 @@ tags:
   - Site Reliability Engineering
   - Software Robustness
   - Reliability Testing
-lang: en
+
 categories: 
   - TechBlog
 ---

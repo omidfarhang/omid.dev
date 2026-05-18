@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/04/utorrent-2-0-stable-version-released/
 tags:
   - Updates
-lang: en
+
 categories: 
   - TechBlog
 ---

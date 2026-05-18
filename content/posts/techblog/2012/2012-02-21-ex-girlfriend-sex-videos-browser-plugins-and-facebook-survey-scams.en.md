@@ -9,7 +9,7 @@ tags:
   - facebook phishing
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

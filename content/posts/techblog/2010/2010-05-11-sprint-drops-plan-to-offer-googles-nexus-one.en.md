@@ -15,7 +15,7 @@ tags:
   - nexus one
   - sprint
   - verizon
-lang: en
+
 categories: 
   - TechBlog
 ---

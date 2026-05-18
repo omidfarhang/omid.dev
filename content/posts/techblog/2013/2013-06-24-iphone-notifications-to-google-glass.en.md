@@ -10,7 +10,7 @@ tags:
   - Apple
   - Google
   - google glass
-lang: en
+
 categories: 
   - TechBlog
 ---

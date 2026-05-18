@@ -10,7 +10,7 @@ tags:
   - spam
   - Twitter
   - Yahoo
-lang: en
+
 categories: 
   - TechBlog
 ---

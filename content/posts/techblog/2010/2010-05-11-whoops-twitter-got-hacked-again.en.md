@@ -10,7 +10,7 @@ tags:
   - report
   - social networking
   - Twitter
-lang: en
+
 categories: 
   - TechBlog
 ---

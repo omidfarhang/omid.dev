@@ -10,7 +10,7 @@ tags:
   - Google
   - mobile phones
   - Motorola Mobility
-lang: en
+
 categories: 
   - TechBlog
 ---

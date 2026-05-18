@@ -11,7 +11,7 @@ tags:
   - Firebase
   - WebRTC
   - Real-Time App
-lang: en
+
 categories: 
   - TechBlog
 ---

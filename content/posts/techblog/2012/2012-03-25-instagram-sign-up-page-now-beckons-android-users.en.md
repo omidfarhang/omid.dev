@@ -9,7 +9,7 @@ tags:
   - Announcement
   - Instagram
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

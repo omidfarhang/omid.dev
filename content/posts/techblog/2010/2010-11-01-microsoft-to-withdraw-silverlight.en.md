@@ -7,7 +7,7 @@ url: 2010/11/01/microsoft-to-withdraw-silverlight/
 tags:
   - Microsoft
   - Silverlight
-lang: en
+
 categories: 
   - TechBlog
 ---

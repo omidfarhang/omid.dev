@@ -8,7 +8,7 @@ tags:
   - Google
   - Google Chrome
   - Tricks
-lang: en
+
 categories: 
   - TechBlog
 ---

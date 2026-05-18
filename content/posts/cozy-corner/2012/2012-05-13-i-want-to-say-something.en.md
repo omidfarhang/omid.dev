@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/13/i-want-to-say-something/
 tags:
   - My life
-lang: en
+
 categories: 
   - Cozy Corner
 ---

@@ -10,7 +10,7 @@ tags:
   - report
   - review
   - WordPress
-lang: en
+
 categories: 
   - TechBlog
 ---

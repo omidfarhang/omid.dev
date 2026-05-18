@@ -11,7 +11,7 @@ tags:
   - ipad
   - iPad 3G
   - teardown
-lang: en
+
 categories: 
   - TechBlog
 ---

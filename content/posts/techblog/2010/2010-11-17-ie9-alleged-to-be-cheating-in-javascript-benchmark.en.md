@@ -8,7 +8,7 @@ tags:
   - Internet Explorer
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

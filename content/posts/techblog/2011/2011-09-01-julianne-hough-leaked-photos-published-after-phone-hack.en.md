@@ -9,7 +9,7 @@ tags:
   - hack
   - leak
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

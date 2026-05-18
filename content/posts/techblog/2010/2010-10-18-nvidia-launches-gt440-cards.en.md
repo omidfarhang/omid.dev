@@ -11,7 +11,7 @@ tags:
   - Hardware
   - news
   - nvidia
-lang: en
+
 categories: 
   - TechBlog
 ---

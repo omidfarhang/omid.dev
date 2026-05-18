@@ -11,7 +11,7 @@ tags:
   - password
   - bitwarden
   - data breach
-lang: en
+
 categories: 
   - TechBlog
 ---

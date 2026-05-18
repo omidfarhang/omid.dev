@@ -7,7 +7,7 @@ url: 2010/03/05/the-morphing-pdf/
 tags:
   - malware
   - review
-lang: en
+
 categories: 
   - TechBlog
 ---

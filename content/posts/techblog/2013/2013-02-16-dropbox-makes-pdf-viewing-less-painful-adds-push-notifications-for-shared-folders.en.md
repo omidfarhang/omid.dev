@@ -12,7 +12,7 @@ tags:
   - iOS
   - news
   - PDF
-lang: en
+
 categories: 
   - TechBlog
 ---

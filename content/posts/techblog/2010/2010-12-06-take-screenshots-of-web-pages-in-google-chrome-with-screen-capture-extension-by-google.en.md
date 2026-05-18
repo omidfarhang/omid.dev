@@ -9,7 +9,7 @@ tags:
   - Google Chrome
   - google chrome extension
   - Tricks
-lang: en
+
 categories: 
   - TechBlog
 ---

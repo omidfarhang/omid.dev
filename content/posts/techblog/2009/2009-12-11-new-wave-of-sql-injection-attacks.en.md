@@ -7,7 +7,7 @@ url: 2009/12/11/new-wave-of-sql-injection-attacks/
 shortlink: https://g.omid.dev/1Y1GcZ8
 tags:
   - alert
-lang: en
+
 categories: 
   - TechBlog
 ---

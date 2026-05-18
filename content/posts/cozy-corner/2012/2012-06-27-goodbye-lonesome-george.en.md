@@ -7,7 +7,7 @@ url: 2012/06/27/goodbye-lonesome-george/
 image: /images/sites/2/2012/06/Lonesome-George.jpg
 tags:
   - events
-lang: en
+
 categories: 
   - Cozy Corner
 ---

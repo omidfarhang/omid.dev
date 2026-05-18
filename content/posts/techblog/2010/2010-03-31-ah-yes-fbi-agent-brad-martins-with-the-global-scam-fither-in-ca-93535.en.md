@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/31/ah-yes-fbi-agent-brad-martins-with-the-global-scam-fither-in-ca-93535/
 tags:
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -8,7 +8,7 @@ tags:
   - Google
   - lawsuit
   - Photographers
-lang: en
+
 categories: 
   - TechBlog
 ---

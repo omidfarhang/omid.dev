@@ -7,7 +7,7 @@ url: 2009/12/18/now-there-are-many-more-ways-to-keep-reading-my-blog-and-receivi
 shortlink: https://g.omid.dev/1Y7H6E9
 tags:
   - This Blog Update
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2010/01/22/salesmen-are-not-my-friends/
 tags:
   - alert
   - malware
-lang: en
+
 categories: 
   - TechBlog
 ---

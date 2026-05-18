@@ -11,7 +11,7 @@ tags:
   - report
   - TED
   - Video
-lang: en
+
 categories: 
   - TechBlog
 ---

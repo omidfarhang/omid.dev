@@ -7,7 +7,7 @@ url: 2011/09/12/globalsign-gives-itself-clean-bill-of-health-after-iranian-hacke
 tags:
   - news
   - report
-lang: en
+
 categories: 
   - TechBlog
 ---

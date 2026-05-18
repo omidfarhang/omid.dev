@@ -8,7 +8,7 @@ tags:
   - software
   - Updates
   - VLC
-lang: en
+
 categories: 
   - TechBlog
 ---

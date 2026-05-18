@@ -7,7 +7,7 @@ url: 2010/01/21/microsoft-vulnerabilities/
 tags:
   - alert
   - Microsoft
-lang: en
+
 categories: 
   - TechBlog
 ---

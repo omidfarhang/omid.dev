@@ -8,7 +8,7 @@ image: /images/sites/4/2013/05/Korn_1073204057.jpg
 tags:
   - Korn
   - Music
-lang: en
+
 categories: 
   - Cozy Corner
 ---

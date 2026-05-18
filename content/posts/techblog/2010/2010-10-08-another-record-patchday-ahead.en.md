@@ -13,7 +13,7 @@ tags:
   - Windows 7
   - windows Server
   - Windows XP
-lang: en
+
 categories: 
   - TechBlog
 ---

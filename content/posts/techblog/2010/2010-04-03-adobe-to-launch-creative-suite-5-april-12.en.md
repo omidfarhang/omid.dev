@@ -8,7 +8,7 @@ tags:
   - Adobe
   - AMD
   - news
-lang: en
+
 categories: 
   - TechBlog
 ---

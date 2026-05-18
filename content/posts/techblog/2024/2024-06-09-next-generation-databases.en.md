@@ -19,7 +19,7 @@ tags:
   - InfluxDB
   - Neo4j
   - ArangoDB
-lang: en
+
 categories: 
   - TechBlog
 ---

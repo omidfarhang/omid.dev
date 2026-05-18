@@ -10,7 +10,7 @@ tags:
   - Instant Messaging
   - scam
   - spam
-lang: en
+
 categories: 
   - TechBlog
 ---

@@ -7,7 +7,7 @@ url: 2012/04/25/facebook-teams-up-with-security-vendors/
 tags:
   - Facebook
   - security
-lang: en
+
 categories: 
   - TechBlog
 ---
