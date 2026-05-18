@@ -16,7 +16,7 @@
     {{- end }}
 
     {{- /* Skills Section */ -}}
-    {{- $resume := index site.Data .Language.Lang "resume" }}
+    {{- $resume := index hugo.Data .Language.Lang "resume" }}
     {{- if $resume.skills }}
     <section class="home-section skills-section">
         <h2 class="section-title">{{ i18n "skills" }}</h2>
