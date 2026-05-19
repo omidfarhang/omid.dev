@@ -6,7 +6,7 @@
             <div class="bio">{{ .Site.Params.footer.bio }}</div>
         </div>
         <div class="footer-column footer-topics">
-            <h3>{{ i18n "topics" | default "Topics" }}</h3>
+            <h3>{{ i18n "categories" | default "Categories" }}</h3>
             <ul>
                 {{ range .Site.Taxonomies.categories.Alphabetical }}
                 <li>

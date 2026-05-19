@@ -107,6 +107,12 @@
 - id: topics
   translation: "موضوعات"
 
+- id: life_interests
+  translation: "زندگی و علایق"
+
+- id: categories
+  translation: "دسته‌بندی‌ها"
+
 - id: tech_topics
   translation: "موضوعات فنی"
 

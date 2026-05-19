@@ -53,6 +53,12 @@
 - id: topics
   translation: "Themen"
 
+- id: life_interests
+  translation: "Leben & Interessen"
+
+- id: categories
+  translation: "Kategorien"
+
 - id: tech_topics
   translation: "Tech-Themen"
 

@@ -107,6 +107,12 @@
 - id: topics
   translation: "Topics"
 
+- id: life_interests
+  translation: "Life & Interests"
+
+- id: categories
+  translation: "Categories"
+
 - id: tech_topics
   translation: "Tech Topics"
 
