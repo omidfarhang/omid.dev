@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/03/22/another-fakeav-for-windows-7/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 With Windows 7 becoming increasingly popular, more and more software companies have begun to upgrade their interface for the latest Microsoft operating system. Manufacturers seem to understand the need for a beautiful user interface for their products. However, not all software behaves as good as it looks.

@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/11/28/closer-look-at-w32ramnit-c/
 tags:
   - AMD
-  - malware
+  - Malware
   - report
   - review
   - Vulnerability
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Thomas Wegele, Virus Researcher from Avira wrote: In this month’s ITW malware set from the Wildlist organization two new variants of W32/Ramnit appeared. W32/Ramnit is a Worm spreading via infected executable files and infected HTML Files. It is a quite widespread malware – which is why we decided to dig deeper into it.

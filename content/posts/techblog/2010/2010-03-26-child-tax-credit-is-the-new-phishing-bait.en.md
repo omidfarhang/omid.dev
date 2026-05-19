@@ -6,13 +6,14 @@ author_profile: true
 url: 2010/03/26/child-tax-credit-is-the-new-phishing-bait/
 tags:
   - advice
-  - malware
+  - Malware
   - phishing
   - review
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Who wouldn’t want some tax benefits in the current economic times? Don’t phishers and scammers know that all too well! In a new phishing scheme, We found that Child Tax Credit is being used as bait to lure parents to disclose their financial data. This attack specifically tries to convince users to make claims for credit and lower their tax burden by using their children’s education expenses.

@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - Skype
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-IQlOmzN1jMg/TcknIwvY_SI/AAAAAAAAD3Y/URw6IxGP6C8/s1600/Microsoft_Logo.png)](http://1.bp.blogspot.com/-IQlOmzN1jMg/TcknIwvY_SI/AAAAAAAAD3Y/URw6IxGP6C8/s1600/Microsoft_Logo.png)

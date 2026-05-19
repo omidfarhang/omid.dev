@@ -10,7 +10,7 @@ tags:
   - HTML5
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 ![Adobe Logo](/images/2011/03/Adobe_Systems_logo_and_wordmark.png)

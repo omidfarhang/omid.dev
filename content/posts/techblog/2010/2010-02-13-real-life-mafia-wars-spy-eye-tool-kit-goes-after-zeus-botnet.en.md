@@ -8,8 +8,9 @@ tags:
   - alert
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Peter Coogan at Symantec put up a very interesting blog post yesterday about a crimeware kit called SpyEye v1.0.7 (on sale now on Russian sites — $500) that has a module that will kill a Zeus bot infection on a victim’s computer so the bot created by SpyEye can take it over.

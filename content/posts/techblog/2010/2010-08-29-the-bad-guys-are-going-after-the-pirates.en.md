@@ -6,13 +6,14 @@ author_profile: true
 url: 2010/08/29/the-bad-guys-are-going-after-the-pirates/
 tags:
   - alert
-  - malware
+  - Malware
   - P2P
   - phishing
   - Piracy
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 File-sharing organization Pirate Bay has been controversial for a long time, like maybe the length of its entire existence. It’s been in the news recently because a number of governments are trying to shut it down. That’s a situation ripe for social engineering.

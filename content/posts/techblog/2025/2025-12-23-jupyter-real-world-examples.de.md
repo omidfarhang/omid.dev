@@ -17,8 +17,9 @@ tags:
   - Data Analysis
   - API
   - DevOps
+  - Data & AI
 
-categories: 
+categories:
   - TechBlog
 ---
 *Dies ist Teil 3 einer Serie über moderne Entwicklungs-Workflows. [Teil 1: Der strategische Wert des Denkens in Notebooks](/de/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) und [Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/) haben die Grundlage geschaffen. Schauen wir uns nun konkreten Code an.*

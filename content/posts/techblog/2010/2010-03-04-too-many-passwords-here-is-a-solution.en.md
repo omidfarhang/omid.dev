@@ -6,9 +6,9 @@ author_profile: true
 url: 2010/03/04/too-many-passwords-here-is-a-solution/
 tags:
   - advice
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 How many web sites do you log into? Your bank? Facebook, Myspace and any number of other social networking sites? Auction sites? Shopping sites? Maybe lots of others too. Every site, of course, requires you to create a password. And if the site is serious about security, it may even set certain rules. For example, it may insist that your password is at least eight characters, or must contain non-alpha-numeric characters, or must use at least one uppercase letter, etc.

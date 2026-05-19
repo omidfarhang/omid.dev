@@ -10,8 +10,9 @@ tags:
   - Hollywood
   - LulzSec
   - Sony
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![lulz](/images/2013/04/lulz-300x224.png)](/images/2013/04/lulz.png)

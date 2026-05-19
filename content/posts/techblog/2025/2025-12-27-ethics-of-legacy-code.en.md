@@ -15,8 +15,9 @@ tags:
   - Engineering Leadership
   - Technical Debt
   - Software Ethics
+  - Software Architecture
 
-categories: 
+categories:
   - TechBlog
 ---
 Every developer has been there: you inherit a codebase that looks like a bowl of spaghetti, and your first instinct is to say, "We need to rewrite this." You see the outdated libraries, the inconsistent naming conventions, and the lack of unit tests, and you think, "I could do this so much better from scratch."

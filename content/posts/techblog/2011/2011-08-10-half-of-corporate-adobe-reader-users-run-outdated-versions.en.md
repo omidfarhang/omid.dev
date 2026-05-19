@@ -10,10 +10,10 @@ tags:
   - corporate
   - plugins
   - report
-  - security
+  - Security
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-CmBg18qppFU/TkKgXkC7lFI/AAAAAAAAD9M/US5IVY4rzNY/s200/Half-of-Corporate-Adobe-Reader-Users-Run-Outdated-Versions-2.jpg)](http://1.bp.blogspot.com/-CmBg18qppFU/TkKgXkC7lFI/AAAAAAAAD9M/US5IVY4rzNY/s1600/Half-of-Corporate-Adobe-Reader-Users-Run-Outdated-Versions-2.jpg)

@@ -35,17 +35,98 @@
     </section>
     {{- end }}
 
-    {{- /* Topics/Categories Section */ -}}
+    {{- /* Tech Topics (curated tags from TechBlog posts) */ -}}
+    {{- $techSection := site.GetPage "posts/techblog" }}
+    {{- $techPosts := slice }}
+    {{- if $techSection }}
+        {{- $techPosts = $techSection.RegularPagesRecursive }}
+    {{- end }}
+    {{- $tagGroups := slice
+        (dict "title" (i18n "tech_topics_professional") "tags" site.Params.homeTechTagsProfessional)
+        (dict "title" (i18n "tech_topics_technical") "tags" site.Params.homeTechTagsTechnical)
+    }}
+    {{- if and $techSection (gt (len $techPosts) 0) }}
+    <section class="home-section topics-section">
+        <h2 class="section-title">{{ i18n "tech_topics" }}</h2>
+        {{- range $tagGroups }}
+        {{- $groupTags := .tags | default slice }}
+        {{- $isTechnicalGroup := eq .title (i18n "tech_topics_technical") }}
+        {{- if $groupTags }}
+        <h3 class="topics-subtitle">{{ .title }}</h3>
+        <div class="topics-grid">
+            {{- range $groupTags }}
+            {{- $tagName := . }}
+            {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
+            {{- if gt (len $tagPages) 0 }}
+            {{- range $slug, $_ := site.Taxonomies.tags }}
+            {{- with site.GetPage (printf "/tags/%s" $slug) }}
+            {{- if eq .Title $tagName }}
+            <a href="{{ .RelPermalink }}" class="topic-card">
+                <div class="topic-icon">
+                    {{- if eq $tagName "Angular" }}<i class="fa-brands fa-angular"></i>
+                    {{- else if eq $tagName "Frontend" }}<i class="fa-solid fa-code"></i>
+                    {{- else if eq $tagName "TypeScript" }}<i class="fa-solid fa-file-code"></i>
+                    {{- else if eq $tagName "React" }}<i class="fa-brands fa-react"></i>
+                    {{- else if eq $tagName "Software Architecture" }}<i class="fa-solid fa-sitemap"></i>
+                    {{- else if eq $tagName "Case Study" }}<i class="fa-solid fa-briefcase"></i>
+                    {{- else if eq $tagName "DevOps" }}<i class="fa-solid fa-server"></i>
+                    {{- else if eq $tagName "Security" }}<i class="fa-solid fa-shield-halved"></i>
+                    {{- else if eq $tagName "Linux" }}<i class="fa-brands fa-linux"></i>
+                    {{- else if eq $tagName "GraphQL" }}<i class="fa-solid fa-diagram-project"></i>
+                    {{- else if eq $tagName "Micro Frontends" }}<i class="fa-solid fa-puzzle-piece"></i>
+                    {{- else if eq $tagName "Engineering Leadership" }}<i class="fa-solid fa-people-group"></i>
+                    {{- else if eq $tagName "Career" }}<i class="fa-solid fa-compass"></i>
+                    {{- else if eq $tagName "Data & AI" }}<i class="fa-solid fa-brain"></i>
+                    {{- else if eq $tagName "Python" }}<i class="fa-brands fa-python"></i>
+                    {{- else if eq $tagName "Rust" }}<i class="fa-brands fa-rust"></i>
+                    {{- else if eq $tagName "WebAssembly" }}<i class="fa-solid fa-cube"></i>
+                    {{- else if eq $tagName "Jupyter" }}<i class="fa-solid fa-book"></i>
+                    {{- else }}<i class="fa-solid fa-tag"></i>
+                    {{- end }}
+                </div>
+                <h3>{{ $tagName }}</h3>
+                <p>{{ T "all" }} {{ len $tagPages }} {{ T "posts" }}</p>
+            </a>
+            {{- end }}
+            {{- end }}
+            {{- end }}
+            {{- end }}
+            {{- end }}
+            {{- if and $isTechnicalGroup $techSection }}
+            <a href="{{ $techSection.Permalink }}" class="topic-card topic-card-all">
+                <div class="topic-icon">
+                    <i class="fa-solid fa-table-cells"></i>
+                </div>
+                <h3>{{ i18n "all" }}</h3>
+                <p>{{ i18n "view_all_tech_posts" }}</p>
+            </a>
+            {{- end }}
+        </div>
+        {{- end }}
+        {{- end }}
+    </section>
+    {{- end }}
+
+    {{- /* Other site topics (non-TechBlog categories) */ -}}
     {{- if site.Taxonomies.categories }}
+    {{- $hasOtherTopics := false }}
+    {{- range $name, $taxonomy := site.Taxonomies.categories }}
+        {{- with site.GetPage (printf "/categories/%s" $name) }}
+            {{- if ne .Title "TechBlog" }}
+                {{- $hasOtherTopics = true }}
+            {{- end }}
+        {{- end }}
+    {{- end }}
+    {{- if $hasOtherTopics }}
     <section class="home-section topics-section">
         <h2 class="section-title">{{ i18n "topics" }}</h2>
         <div class="topics-grid">
             {{- range $name, $taxonomy := site.Taxonomies.categories }}
             {{- with site.GetPage (printf "/categories/%s" $name) }}
+            {{- if ne .Title "TechBlog" }}
             <a href="{{ .Permalink }}" class="topic-card">
                 <div class="topic-icon">
-                    {{- if eq .Title "TechBlog" }}<i class="fa-solid fa-code"></i>
-                    {{- else if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
+                    {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
                     {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
                     {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
                     {{- else }}<i class="fa-solid fa-tag"></i>
@@ -56,8 +137,10 @@
             </a>
             {{- end }}
             {{- end }}
+            {{- end }}
         </div>
     </section>
+    {{- end }}
     {{- end }}
 
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}

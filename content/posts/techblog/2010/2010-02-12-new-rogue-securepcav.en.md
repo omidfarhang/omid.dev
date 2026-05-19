@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/02/12/new-rogue-securepcav/
 tags:
   - Hijack
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 SecurePcAv is a phony antivirus program that has been infecting PC's across the interwebs in recent days.

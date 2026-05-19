@@ -11,7 +11,7 @@ tags:
   - Marissa Mayer
   - Yahoo
 
-categories: 
+categories:
   - TechBlog
 ---
 Eric Jackson in Forbes Wrote:

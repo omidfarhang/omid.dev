@@ -18,7 +18,7 @@ tags:
   - Software Development
   - Perspective
 
-categories: 
+categories:
   - TechBlog
 ---
 It happened to me this morning. After 15 years in the trenches—building frontend architectures, dipping into the backend, leading teams, and surviving countless framework wars—I hit a wall. Not a technical wall, but a conceptual one.

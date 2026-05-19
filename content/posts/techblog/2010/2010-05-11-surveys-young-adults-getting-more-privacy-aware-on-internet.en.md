@@ -12,7 +12,7 @@ tags:
   - social networking
   - survey
 
-categories: 
+categories:
   - TechBlog
 ---
 The University of California, Berkeley, has found that more than half young adults have become more aware of Internet privacy issues than they were five years ago. That number is similar to Internet users their parents’ age or older.

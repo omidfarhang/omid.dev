@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/03/22/merogo-sms-worm/
 tags:
-  - malware
+  - Malware
   - Mobile
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6eZdvJHcpI/AAAAAAAABWg/hte24M_i8pI/s400/merogo1.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6eZdvJHcpI/AAAAAAAABWg/hte24M_i8pI/s1600-h/merogo1.png)

@@ -9,8 +9,9 @@ tags:
   - scam
   - spam
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I recently received a suspicious Gmail chat message from a friend (shown below). I was immediately suspicious about the message because this friend has never used chat to talk with me previously, and also he appeared to be offline and the content of the message was similar to messages that other instant messaging worms use.

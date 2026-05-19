@@ -13,7 +13,7 @@ tags:
   - Windows 8
   - windows 8.1
 
-categories: 
+categories:
   - TechBlog
 ---
 [![gates](/images/2014/02/gates.jpg)](/images/2014/02/gates.jpg)

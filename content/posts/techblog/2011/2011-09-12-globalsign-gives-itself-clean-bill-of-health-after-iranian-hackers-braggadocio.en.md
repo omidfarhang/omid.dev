@@ -8,7 +8,7 @@ tags:
   - news
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-ogbPo-aC1tM/Tm4RqkuxELI/AAAAAAAAEBs/ve__tCH7zw0/s1600/globalsign-180.png)](http://4.bp.blogspot.com/-ogbPo-aC1tM/Tm4RqkuxELI/AAAAAAAAEBs/ve__tCH7zw0/s1600/globalsign-180.png)

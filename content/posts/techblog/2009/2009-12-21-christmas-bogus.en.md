@@ -6,10 +6,11 @@ author_profile: true
 url: 2009/12/21/christmas-bogus/
 tags:
   - alert
-  - malware
+  - Malware
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Well, it didn’t take long for the Christmas E-Card scams to start.

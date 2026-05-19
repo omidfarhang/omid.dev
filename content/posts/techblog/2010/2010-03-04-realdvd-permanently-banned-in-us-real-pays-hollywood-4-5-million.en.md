@@ -7,7 +7,7 @@ url: 2010/03/04/realdvd-permanently-banned-in-us-real-pays-hollywood-4-5-million
 tags:
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 The battle over RealNetworks' DVD copying software, called RealDVD, has finally come to a close, and Real has lost.

@@ -8,9 +8,9 @@ tags:
   - advice
   - report
   - review
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Don’t run your PC with admin privileges

@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/03/22/google-search-reveals-3-million-pages-link-to-rogue-avs/
 tags:
   - Google
-  - malware
+  - Malware
   - review
   - scam
   - YouTube
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Do you know what the latest version of Adobe’s Flash Player is? If you don’t, you may very well fall for this:

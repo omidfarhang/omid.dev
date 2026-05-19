@@ -8,7 +8,7 @@ tags:
   - news
   - review
 
-categories: 
+categories:
   - TechBlog
 ---
 “…in that space one can easily indulge in depravity, lies, vulgarity…”

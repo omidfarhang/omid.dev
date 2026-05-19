@@ -8,8 +8,9 @@ tags:
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 ProtectPC's is a nasty rogue antivirus program, or phony security software, used to scam people out of their money. If your PC is infected with ProtectPC's you should remove it immediately.

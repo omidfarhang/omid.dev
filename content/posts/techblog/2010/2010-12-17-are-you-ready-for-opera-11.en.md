@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 #### Newest Opera browser features tab stacking, extensions, visual mouse gestures

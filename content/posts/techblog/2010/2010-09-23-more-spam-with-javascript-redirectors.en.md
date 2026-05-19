@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/09/23/more-spam-with-javascript-redirectors/
 tags:
   - alert
-  - malware
+  - Malware
   - review
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We received new spam emails which contain a JavaScript redirector in form of a HTML attachment. The emails we received have the subject “Consultation Appointment”.

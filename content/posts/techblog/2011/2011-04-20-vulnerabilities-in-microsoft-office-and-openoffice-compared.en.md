@@ -9,10 +9,10 @@ tags:
   - Microsoft Office
   - OpenOffice
   - review
-  - security
+  - Security
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-8bphAQzYH2c/Ta8PjkGhZ7I/AAAAAAAAD2k/Q3REh1T0Egk/s320/offvstar-347a355b3a38df50.png)](http://4.bp.blogspot.com/-8bphAQzYH2c/Ta8PjkGhZ7I/AAAAAAAAD2k/Q3REh1T0Egk/s1600/offvstar-347a355b3a38df50.png)

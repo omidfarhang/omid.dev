@@ -10,10 +10,10 @@ tags:
   - Hijack
   - news
   - Password
-  - security
+  - Security
   - social networking
 
-categories: 
+categories:
   - TechBlog
 ---
 ### Accessing Facebook from a public computer or Internet cafe can now be done more securely.

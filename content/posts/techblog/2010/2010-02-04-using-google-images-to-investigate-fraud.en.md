@@ -7,8 +7,9 @@ url: 2010/02/04/using-google-images-to-investigate-fraud/
 tags:
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Sami, one of our test engineers, was recently seeking a Play Station 3.

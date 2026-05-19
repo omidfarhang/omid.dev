@@ -5,13 +5,14 @@ layout: single
 author_profile: true
 url: 2010/02/12/fake-av-talking-with-the-enemy/
 tags:
-  - malware
+  - Malware
   - news
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Fake antivirus software (a.k.a misleading applications or rogue antivirus) is big business nowadays with [Symantec reporting](http://eval.symantec.com/mktginfo/enterprise/white_papers/b-symc_report_on_rogue_security_software_exec_summary_20326021.en-us.pdf) 43 million installation attempts from over 250 distinct programs between July 1, 2008, to June 30, 2009. With fake AV software costing the victim anywhere from $30 to $100, this is a lucrative earner for criminals.  

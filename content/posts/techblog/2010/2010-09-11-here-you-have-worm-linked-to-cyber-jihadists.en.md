@@ -6,13 +6,14 @@ author_profile: true
 url: 2010/09/11/here-you-have-worm-linked-to-cyber-jihadists/
 tags:
   - alert
-  - malware
+  - Malware
   - report
   - review
   - warning
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 A worm collectively dubbed by the security industry as the “Here you have worm” has been making its way onto corporate networks over the past 24 hours.  The worm arrives via e-mail using the subject line “Here you have” or _“_Just For you_“_ along with an executable disguised as a PDF file.  It first appeared last month sending spam e-mails from iraq_resistance@yahoo.com.

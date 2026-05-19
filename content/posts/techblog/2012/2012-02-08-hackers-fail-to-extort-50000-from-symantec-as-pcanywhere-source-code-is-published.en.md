@@ -6,10 +6,10 @@ author_profile: true
 url: 2012/02/08/hackers-fail-to-extort-50000-from-symantec-as-pcanywhere-source-code-is-published/
 tags:
   - news
-  - security
+  - Security
   - symantec
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs:** Symantec has [confirmed](http://www.symantec.com/theme.jsp?themeid=anonymous-code-claims) that a file made available on the internet for anyone to download, does contain the source code for an old version of its pcAnywhere product.

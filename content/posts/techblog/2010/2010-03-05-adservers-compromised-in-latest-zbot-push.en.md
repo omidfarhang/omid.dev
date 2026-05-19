@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/03/05/adservers-compromised-in-latest-zbot-push/
 tags:
-  - malware
+  - Malware
   - phishing
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 As we have commented before when content served up from adservers is compromised, the effects can be far reaching, potentially exposing huge numbers of victims to the malicious code as they innocently browse legitimate sites. The problem is further complicated by the fact that legitimate ad content is often heavily obfuscated, in order to evade ad-blocking technology.

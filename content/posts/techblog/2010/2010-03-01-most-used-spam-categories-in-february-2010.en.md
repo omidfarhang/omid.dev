@@ -7,8 +7,9 @@ url: 2010/03/01/most-used-spam-categories-in-february-2010/
 tags:
   - report
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Since January we publish monthly reports about the categories of the spam messages which got sent around the last month. These categories are detected by Avira’s AntiSpam engine.

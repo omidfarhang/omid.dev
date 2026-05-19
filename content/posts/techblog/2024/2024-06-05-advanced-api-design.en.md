@@ -11,8 +11,9 @@ tags:
   - GraphQL
   - gRPC
   - Web Development
+  - Software Architecture
 
-categories: 
+categories:
   - TechBlog
 ---
 APIs are the cornerstone of modern applications, enabling seamless communication between services. The design of these APIs plays a crucial role in determining the efficiency, scalability, and overall performance of an application. Three of the most prominent approaches in API design are REST, GraphQL, and gRPC. Each approach has unique strengths and weaknesses, making them suitable for different use cases. In this post, we'll dive deep into these advanced techniques, discuss best practices, performance considerations, and provide guidance on choosing the right protocol for your specific needs.

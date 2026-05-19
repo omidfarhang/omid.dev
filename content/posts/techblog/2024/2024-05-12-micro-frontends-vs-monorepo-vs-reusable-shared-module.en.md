@@ -6,13 +6,13 @@ author_profile: true
 url: 2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/
 shortlink: https://g.omid.dev/dK8zjqy
 tags:
-  - frontend
+  - Frontend
   - development
-  - angular
+  - Angular
   - Micro Frontends
   - Monorepo
 
-categories: 
+categories:
   - TechBlog
 ---
 Managing multiple Angular projects can be a daunting task, especially as teams grow and codebases become more complex. In this article, we'll explore three common approaches for managing multiple Angular projects: Micro Frontends, Monorepo, and Reusable Shared Module. We'll compare their advantages, disadvantages, and suitability for different scenarios to help you make an informed decision for your Angular projects.

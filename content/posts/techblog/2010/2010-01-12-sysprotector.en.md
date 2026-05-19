@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/01/12/sysprotector/
 tags:
   - Hijack
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 SysProtector and ApcDefender are two new rogue antispyware programs released in the past 48 hours.

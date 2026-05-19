@@ -8,9 +8,9 @@ image: /images/2013/03/apple-two-step8.png
 tags:
   - Announcement
   - Apple
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **A new security option gives Apple's customers a way to secure their Apple ID password using their phone.**

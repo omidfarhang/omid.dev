@@ -8,9 +8,9 @@ tags:
   - advice
   - PayPal
   - review
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Righard Zwienenberg, Chief Research Officer at Norman posted this on <a href="http://www.norman.com/security_center/blog/righard_zwienenberg/130919/en" target="_blank">Norman Security Blog</a>, Thanks to Mr.Fagerlid for sharing: 

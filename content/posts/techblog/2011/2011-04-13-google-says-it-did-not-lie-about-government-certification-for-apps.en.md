@@ -9,7 +9,7 @@ tags:
   - news
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://3.bp.blogspot.com/-anPPnO0zGVM/TaWNybQtB5I/AAAAAAAAD1Q/dSwBuAHorQ4/s1600/google+app.jpg)](http://3.bp.blogspot.com/-anPPnO0zGVM/TaWNybQtB5I/AAAAAAAAD1Q/dSwBuAHorQ4/s1600/google+app.jpg)

@@ -11,8 +11,9 @@ tags:
   - Design Patterns
   - Angular
   - Code Quality
+  - Software Architecture
 
-categories: 
+categories:
   - TechBlog
 ---
 Angular, one of the most popular frameworks for building robust web applications, provides a comprehensive toolkit for developers. However, to truly harness its power, understanding and applying design patterns is crucial. Design patterns offer proven solutions to common problems, making your code more organized, reusable, and maintainable. In this blog post, we’ll delve into some advanced design patterns and their application in Angular, helping you enhance your code quality and maintainability.

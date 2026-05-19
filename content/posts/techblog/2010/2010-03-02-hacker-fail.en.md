@@ -8,8 +8,9 @@ tags:
   - Fun
   - hack
   - Interesting
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Very funny:

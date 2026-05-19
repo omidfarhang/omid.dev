@@ -7,8 +7,9 @@ url: 2009/12/09/turscar-riomhphoist-spam-email-in-irish/
 shortlink: https://g.omid.dev/21qU4Cg
 tags:
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 According to the 2002 Census of the Population, 42% of the population of Ireland has the ability to speak Irish. Irish has also had official and working language status at the EU level since January 1, 2007. Recently, some examples of spam messages in Irish—the official language of the Republic of Ireland—have been observed.

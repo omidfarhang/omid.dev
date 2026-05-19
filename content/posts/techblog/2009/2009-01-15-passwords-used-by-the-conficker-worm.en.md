@@ -10,8 +10,9 @@ tags:
   - Password
   - Malware
   - conficker
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It's not possible to emphasise enough the importance of using sensible passwords on your network.

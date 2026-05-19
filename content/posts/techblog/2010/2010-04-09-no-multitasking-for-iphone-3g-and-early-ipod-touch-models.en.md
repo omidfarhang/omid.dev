@@ -11,7 +11,7 @@ tags:
   - iphone os
   - steve jobs
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79Zn7E6fUI/AAAAAAAAB2o/_jxsg6lKSiE/s1600/iphone-os-40-top.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79Zn7E6fUI/AAAAAAAAB2o/_jxsg6lKSiE/s1600/iphone-os-40-top.jpg)

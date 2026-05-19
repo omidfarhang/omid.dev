@@ -13,7 +13,7 @@ tags:
   - Conditional Types
   - Developers
 
-categories: 
+categories:
   - TechBlog
 ---
 TypeScript has transformed the way we write JavaScript by providing a static type system that helps developers catch errors early and write more robust code. While basic types and interfaces cover a significant portion of everyday use cases, TypeScript offers advanced features that can take your code to the next level of type safety and flexibility. In this post, we will dive deep into three advanced TypeScript features: Conditional Types, Mapped Types, and Recursive Types. These features are indispensable for creating highly adaptable and type-safe codebases.

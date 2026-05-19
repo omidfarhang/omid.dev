@@ -9,8 +9,9 @@ tags:
   - scam
   - social networking
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Today has been quite a busy day for scammers. We have been tracking a global scam/spam run that targets Facebook users. The lure used in the run is a familiar one:

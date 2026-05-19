@@ -7,11 +7,11 @@ url: 2012/06/14/critical-holes-closed-in-microsofts-june-patch-tuesday/
 tags:
   - Internet Explorer
   - Microsoft
-  - security
+  - Security
   - Updates
   - Windows
 
-categories: 
+categories:
   - TechBlog
 ---
 [![windows update](http://lh5.ggpht.com/-zXJ_UM1aHHU/T9mTArtZl8I/AAAAAAAAGPY/BnkdZZWXK_Q/windows%252520update_thumb%25255B4%25255D.jpg?imgmax=800 "windows update")](http://lh6.ggpht.com/-MoakJsM8f4k/T9mS-bqfopI/AAAAAAAAGPQ/7FWpN6XWKSw/s1600-h/windows%252520update%25255B3%25255D.jpg)

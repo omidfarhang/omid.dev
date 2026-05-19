@@ -9,8 +9,9 @@ tags:
   - alert
   - report
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 _Cross posted from GFI, Sunbelt Blog:_ 

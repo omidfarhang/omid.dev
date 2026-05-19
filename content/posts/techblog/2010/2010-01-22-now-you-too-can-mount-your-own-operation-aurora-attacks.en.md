@@ -8,8 +8,9 @@ tags:
   - alert
   - Microsoft
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 But don’t.  Please don’t!…      just….       don’t!…

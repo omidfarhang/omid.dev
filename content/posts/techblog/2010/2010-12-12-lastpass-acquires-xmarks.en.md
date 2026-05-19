@@ -9,7 +9,7 @@ tags:
   - news
   - Xmarks
 
-categories: 
+categories:
   - TechBlog
 ---
 In our efforts to bring you expanded, go-anywhere access to your data, we're happy to announce that LastPass recently acquired [Xmarks](http://xmarks.com/)!

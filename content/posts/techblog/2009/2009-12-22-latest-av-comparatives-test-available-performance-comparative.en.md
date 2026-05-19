@@ -7,7 +7,7 @@ url: 2009/12/22/latest-av-comparatives-test-available-performance-comparative/
 tags:
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 Performance comparative test result is available!

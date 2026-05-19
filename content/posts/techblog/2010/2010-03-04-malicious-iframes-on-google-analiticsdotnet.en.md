@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/03/04/malicious-iframes-on-google-analiticsdotnet/
 tags:
   - alert
-  - malware
+  - Malware
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Right! A site registered in the state of “Taliban.”

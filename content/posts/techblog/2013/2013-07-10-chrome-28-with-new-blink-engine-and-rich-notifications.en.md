@@ -12,7 +12,7 @@ tags:
   - Google Chrome
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 Cross-posted from H-Online:

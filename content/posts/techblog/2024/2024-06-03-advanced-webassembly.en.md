@@ -13,7 +13,7 @@ tags:
   - JavaScript
   - High-Performance Computing
 
-categories: 
+categories:
   - TechBlog
 ---
 In the ever-evolving landscape of web development, performance and capability are paramount. WebAssembly (Wasm) has emerged as a powerful tool, allowing developers to enhance web performance and unlock new functionality. This blog post delves into the advanced capabilities of WebAssembly, explores its use cases, shares best practices, and highlights tools like AssemblyScript and Emscripten that facilitate its adoption.

@@ -7,8 +7,9 @@ url: 2010/01/13/mcafee-labs-january-spam-report/
 tags:
   - report
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Angelina Jolie and Barack Obama are the #1 celeb subjects of choice for spammers, according to McAfee January Spam Report. The report also reveals:

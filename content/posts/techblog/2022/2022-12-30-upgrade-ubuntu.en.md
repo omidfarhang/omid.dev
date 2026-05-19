@@ -7,10 +7,10 @@ url: 2022/12/30/how-to-upgrade-ubuntu/
 shortlink: https://g.omid.dev/r0QrWud
 tags:
   - How to
-  - linux
+  - Linux
   - Ubuntu
 
-categories: 
+categories:
   - TechBlog
 ---
 ## Update Release Name in Sources

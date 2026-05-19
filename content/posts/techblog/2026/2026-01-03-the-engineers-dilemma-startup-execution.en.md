@@ -20,8 +20,9 @@ tags:
   - Product Management
   - Team Building
   - Legal
+  - Career
 
-categories: 
+categories:
   - TechBlog
 ---
 You have a startup idea, and you have the skills to build it. As a senior developer, you’ve likely spent years mastering the art of turning requirements into robust, scalable systems. But when you decide to build your own company, you realize that the code is the easy part. The hard part is everything *around* the code: validation, prioritization, distribution, operations, and leadership.

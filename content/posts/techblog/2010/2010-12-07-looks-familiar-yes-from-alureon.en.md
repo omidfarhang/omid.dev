@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/12/07/looks-familiar-yes-from-alureon/
 tags:
   - advice
-  - malware
+  - Malware
   - Offer
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It's a normal day to us. We receive a new Bamital virus sample report from a customer, and we provide an analysis. Suddenly, something interesting bursts into my eyes:  

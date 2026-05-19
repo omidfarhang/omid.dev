@@ -9,8 +9,9 @@ tags:
   - report
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 A few of days ago, we encountered an e-mail with a malicious RTF attachment. It was sent with a supposed lawsuit notification message.

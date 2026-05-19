@@ -9,8 +9,9 @@ tags:
   - alert
   - PayPal
   - phishing
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 PayPal users are at risk of getting their credentials stolen if they follow instructions given in a scam email.

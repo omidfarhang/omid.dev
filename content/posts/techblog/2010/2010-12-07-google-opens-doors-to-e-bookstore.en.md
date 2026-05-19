@@ -12,7 +12,7 @@ tags:
   - report
   - review
 
-categories: 
+categories:
   - TechBlog
 ---
 **The New York Time:** The Google e-bookstore is finally open.

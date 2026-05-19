@@ -10,7 +10,7 @@ tags:
   - Beta
   - Mail
 
-categories: 
+categories:
   - TechBlog
 ---
 Take a look in the email I got from AOL:

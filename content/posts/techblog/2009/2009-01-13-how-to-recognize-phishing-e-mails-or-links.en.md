@@ -12,7 +12,7 @@ tags:
   - Security
   - Guide
 
-categories: 
+categories:
   - TechBlog
 ---
 A few clues can help you spot fraudulent e-mail messages or links within them.

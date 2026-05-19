@@ -8,7 +8,7 @@ tags:
   - Google
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BRwjIwNoI/AAAAAAAABJ8/rgi8HLtIYtY/s320/wave-notifications.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BRwjIwNoI/AAAAAAAABJ8/rgi8HLtIYtY/s1600-h/wave-notifications.jpg)

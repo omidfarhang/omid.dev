@@ -12,8 +12,9 @@ tags:
   - iphone
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It’s the time of year to make predictions. I only have one: in 2010, governments around the world will BEGIN to increase their efforts to do something about the massive malware threat that every Internet user on the planet faces.

@@ -6,13 +6,13 @@ author_profile: true
 url: 2011/08/09/fake-firefox-update-includes-password-stealing-trojan/
 tags:
   - Firefox
-  - malware
+  - Malware
   - Mozilla
-  - security
+  - Security
   - trojan
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-H8XZp2OkbU4/TkGC_grS9mI/AAAAAAAAD8c/hGBZjQ5PlSs/s200/logo-wordmark-vertical.png)](http://4.bp.blogspot.com/-H8XZp2OkbU4/TkGC_grS9mI/AAAAAAAAD8c/hGBZjQ5PlSs/s1600/logo-wordmark-vertical.png)

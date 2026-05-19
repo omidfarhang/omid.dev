@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/02/26/seo-poisoning-not-in-well-but-its-aiming-for-the-water-heater/
 tags:
-  - malware
+  - Malware
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 People looking to take advantage of the savings from the government during these harder financial times are being hit with other financial burdens (Rogue AV software).

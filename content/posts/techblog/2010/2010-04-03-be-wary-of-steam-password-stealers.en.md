@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/04/03/be-wary-of-steam-password-stealers/
 tags:
-  - malware
+  - Malware
   - review
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 There are a couple of programs in circulation at the moment designed to steal [Steam](http://en.wikipedia.org/wiki/Steam_%28content_delivery%29) account login credentials. People can have a lot of money invested in Steam purchases (if you purchase PC games online Steam is probably the best digital delivery service around), and it isn’t really the greatest thing in the world to have one stolen.

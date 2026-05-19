@@ -8,7 +8,7 @@ tags:
   - blippy
   - swipely
 
-categories: 
+categories:
   - TechBlog
 ---
 Macro Monday Theme: Life is Hard

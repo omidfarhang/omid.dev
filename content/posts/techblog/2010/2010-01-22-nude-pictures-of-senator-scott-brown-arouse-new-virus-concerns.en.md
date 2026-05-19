@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/01/22/nude-pictures-of-senator-scott-brown-arouse-new-virus-concerns/
 tags:
   - alert
-  - malware
+  - Malware
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 False images from Cosmopolitan infect computers with fake antivirus product

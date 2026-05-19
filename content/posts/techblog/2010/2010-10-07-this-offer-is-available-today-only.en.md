@@ -12,8 +12,9 @@ tags:
   - review
   - scam
   - YouTube
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Hmmm. That’s not what the source code says**

@@ -8,8 +8,9 @@ tags:
   - iphone
   - Mobile
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs:** Scammers don't just lure you into visiting their websites via email, Facebook and Twitter – you can be targeted on your mobile phone too. 

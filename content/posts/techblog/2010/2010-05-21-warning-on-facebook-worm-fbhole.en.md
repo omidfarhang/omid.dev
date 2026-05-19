@@ -7,9 +7,10 @@ url: 2010/05/21/warning-on-facebook-worm-fbhole/
 tags:
   - alert
   - Facebook
-  - malware
+  - Malware
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 There's a new Facebook worm out there. However, it doesn't seem to be doing anything else than posting a message to people's Facebook walls.

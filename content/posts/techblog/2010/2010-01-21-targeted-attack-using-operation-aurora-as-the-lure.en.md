@@ -8,8 +8,9 @@ tags:
   - Adobe
   - alert
   - Vulnerability
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Now here's an interesting turn of events.

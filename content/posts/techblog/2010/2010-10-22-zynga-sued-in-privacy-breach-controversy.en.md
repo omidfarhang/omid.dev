@@ -10,8 +10,9 @@ tags:
   - news
   - privacy
   - Zynga
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **218 million “class members” probably won’t settle for Farmville dollar**

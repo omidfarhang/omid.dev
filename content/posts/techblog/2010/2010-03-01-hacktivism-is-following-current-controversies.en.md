@@ -8,7 +8,7 @@ tags:
   - news
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 If history is any gauge, this is probably the first of several incidents like this.

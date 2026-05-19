@@ -5,14 +5,15 @@ layout: single
 author_profile: true
 url: 2010/11/06/av-scam-is-it-a-rogue-or-is-it-avgs-free-edition-for-sale/
 tags:
-  - malware
+  - Malware
   - phishing
   - report
   - review
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Tom Kelchner, Sunbelt blog: Alert reader Laurie (my boss actually) forwarded a copy an email she received from a friend. It said the sender was “…pleased to announce the newest version of Antivirus 2010 for Windows.”

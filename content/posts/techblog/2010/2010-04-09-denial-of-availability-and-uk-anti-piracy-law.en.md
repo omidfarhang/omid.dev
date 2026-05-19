@@ -8,7 +8,7 @@ tags:
   - news
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 There could be a denial-of-availability risk to the enterprise in the new anti-piracy law passed by the British Parliament yesterday. Employees using company machines to swap pirated files could trigger a suspension of Internet service.

@@ -8,8 +8,9 @@ tags:
   - phishing
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 The U.S. Federal Trade Commission today announced that next Tuesday they will hold a news conference to make public details of “a law enforcement sweep cracking down on job and work-at-home fraud fueled by the economic downturn.”

@@ -6,6 +6,10 @@ author_profile: true
 url: 2013/07/04/happy-birthday-america/
 shortlink: https://g.omid.dev/21CKTva
 image: /images/sites/2/2013/07/Happy-Birthday-America-Eagle.jpg
+tags:
+  - Technology News
+categories:
+  - TechBlog
 ---
 Happy 4th of july, Let's celebrate USA's 237th birthday!
 

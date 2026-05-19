@@ -7,13 +7,14 @@ url: 2010/02/26/insight-into-fake-av-seo/
 tags:
   - advice
   - alert
-  - malware
+  - Malware
   - phishing
   - report
   - review
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 In this post I want to highlight how SEO attacks are working:

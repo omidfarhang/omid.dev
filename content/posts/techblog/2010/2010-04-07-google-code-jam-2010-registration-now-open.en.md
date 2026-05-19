@@ -9,7 +9,7 @@ tags:
   - Google Code
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 Taken from Official Google:

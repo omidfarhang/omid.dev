@@ -8,8 +8,9 @@ tags:
   - Adobe
   - Patch Tuesday
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Adobe has announced that it will release an updater along with Adobe Reader and Acrobat versions 9.3.2 and 8.2.2 on patch Tuesday next week.

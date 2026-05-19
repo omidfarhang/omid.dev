@@ -6,10 +6,10 @@ author_profile: true
 url: 2011/12/17/visa-looks-into-eastern-european-security-breach/
 tags:
   - review
-  - security
+  - Security
   - visa
 
-categories: 
+categories:
   - TechBlog
 ---
 ![](http://4.bp.blogspot.com/--mLrPg7ykgg/TuzZoYu_FuI/AAAAAAAAEV4/z15bKOp0pXg/s1600/visa-170.jpg)

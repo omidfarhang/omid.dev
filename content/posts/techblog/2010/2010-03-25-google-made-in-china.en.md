@@ -8,7 +8,7 @@ tags:
   - Google
   - Interesting
 
-categories: 
+categories:
   - TechBlog
 ---
 Today at CanSecWest I stopped by the Google booth and picked up a yo-yo.

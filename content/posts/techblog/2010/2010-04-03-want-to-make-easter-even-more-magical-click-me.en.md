@@ -7,8 +7,9 @@ url: 2010/04/03/want-to-make-easter-even-more-magical-click-me/
 tags:
   - alert
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 As Easter approaches, spam related to this upcoming holiday is expected. Spammers didn’t send malicious greetings like last year—they sent out various product promotion ads instead. One particular coupon promotion page offers recipients a free coupon for digital TV service for Easter. A domain attack was observed from this spam attack, and the offer page changed to different product coupons on a daily basis.

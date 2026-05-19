@@ -7,9 +7,9 @@ url: 2012/08/03/microsoft-unleashes-windows-attack-tool/
 tags:
   - Announcement
   - Microsoft
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 TheRegister.co.uk wrote: 

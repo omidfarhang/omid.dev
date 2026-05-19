@@ -6,14 +6,15 @@ author_profile: true
 url: 2010/03/02/not-the-real-virustotal-com/
 tags:
   - alert
-  - malware
+  - Malware
   - phishing
   - report
   - review
   - scam
   - VirusTotal
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 _In Additional to my last Post_: <http://boelectronic.blogspot.com/2010/03/free-fakeav-at-virus-total-thats-not.html>

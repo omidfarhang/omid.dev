@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/03/22/icelandic-volcano-erupts-fake-antivirus-spews-forth/
 tags:
   - ipad
-  - malware
+  - Malware
   - phishing
   - review
   - rogue software
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Yesterday there was a [volcanic eruption in Iceland](http://news.bbc.co.uk/2/hi/europe/8578576.stm), near the Eyjafjallajoekull glacier, that has led the Icelandic authorities to declare a state of emergency in southern Iceland. People living nearby have been evacuated in case of glacial melt water flooding and the airspace near the now active volcano is effectively closed off.  As you have probably already guessed, any event which commands a high level of public interest will be pounced on quickly by the makers of fake antivirus software in order to make a quick buck. This incident is no exception.

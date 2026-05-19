@@ -9,8 +9,9 @@ tags:
   - phishing
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Crime traditionally increases during the holiday season, and cybercrime is no different. The malware writers, spammers and scammers are out in force. They've recently hit “Odnoklassniki” with this message:

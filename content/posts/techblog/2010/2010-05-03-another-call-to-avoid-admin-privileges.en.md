@@ -7,9 +7,9 @@ url: 2010/05/03/another-call-to-avoid-admin-privileges/
 tags:
   - advice
   - report
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 For the second time recently, a security researcher has pointed out that running machines without administrative privileges could significantly improve security.

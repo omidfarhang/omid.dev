@@ -8,8 +8,9 @@ tags:
   - advice
   - hack
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [Älypää](http://alypaa.com/), a popular Finnish game and quiz site, announced a database breach late last night.

@@ -8,12 +8,13 @@ tags:
   - alert
   - Facebook
   - Firefox
-  - malware
+  - Malware
   - phishing
   - scam
   - social networking
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 There are a number of Toolbars out there in the wild with a nasty sting in the tail for anybody using them to login to Facebook. We’ve seen two of these so far; it’s possible there are more.

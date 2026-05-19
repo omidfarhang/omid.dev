@@ -10,7 +10,7 @@ tags:
   - news
   - Oracle
 
-categories: 
+categories:
   - TechBlog
 ---
 **Researcher sees &#8216;unprecedented wave of Java exploitation'**

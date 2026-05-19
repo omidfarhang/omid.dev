@@ -8,12 +8,12 @@ tags:
   - mcafee
   - Microsoft
   - norton
-  - security
+  - Security
   - security essnetials
   - symantec
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 Ed Bott's Microsoft Report posted something interesting in ZDNet:

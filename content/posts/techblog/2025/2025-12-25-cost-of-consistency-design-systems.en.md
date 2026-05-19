@@ -16,7 +16,7 @@ tags:
   - Scalability
   - UI/UX
 
-categories: 
+categories:
   - TechBlog
 ---
 Design systems are promised as the ultimate productivity booster. "Build once, use everywhere." And for the first six months, it's true. You see the velocity of your feature teams skyrocket as they stop arguing about hex codes and start assembling pages from a library of pre-built components.

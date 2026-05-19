@@ -7,11 +7,12 @@ url: 2010/04/07/java-applet-attack-targets-xbox-gamers/
 tags:
   - Apple
   - Firefox
-  - malware
+  - Malware
   - review
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 If you like downloading or installing programs on your PC related to XBox gaming, you might want to take heed of this writeup. There’s a fake application kit in circulation that allows an attacker to create a website claiming to be an XBox Live application that takes the form of a Java install.

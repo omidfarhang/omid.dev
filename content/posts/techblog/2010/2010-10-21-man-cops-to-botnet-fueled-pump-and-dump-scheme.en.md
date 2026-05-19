@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 url: 2010/10/21/man-cops-to-botnet-fueled-pump-and-dump-scheme/
 tags:
-  - malware
+  - Malware
   - report
-  - security
+  - Security
   - Yahoo
 
-categories: 
+categories:
   - TechBlog
 ---
 An Arizona computer specialist has admitted taking part in a conspiracy that used large networks of compromised computers to inflate the value of stocks so they could later be sold at a profit.

@@ -7,13 +7,14 @@ url: 2010/08/29/malicious-warez-site-offers-firefox-4-0-beta-download-scam/
 tags:
   - Firefox
   - Firefox 4.0
-  - malware
+  - Malware
   - Mozilla
   - scam
   - Twitter
   - warning
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Like a lot of seedy stuff, this started with a Twitter post:.

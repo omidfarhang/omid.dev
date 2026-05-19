@@ -11,7 +11,7 @@ tags:
   - Google Chrome
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 Google Chrome Wrote:

@@ -10,7 +10,7 @@ tags:
   - Tests
   - Developments
 
-categories: 
+categories:
   - TechBlog
 ---
 Frontend testing is an essential aspect of modern web development, ensuring that applications perform as expected across various browsers and devices. This guide covers everything you need to know about frontend testing, from its importance to the tools and strategies you can use to implement it effectively.

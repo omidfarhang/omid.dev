@@ -6,11 +6,11 @@ author_profile: true
 url: 2024/05/12/reusable-shared-module-in-angular/
 shortlink: https://g.omid.dev/7PLOaeB
 tags:
-  - frontend
+  - Frontend
   - development
-  - angular
+  - Angular
 
-categories: 
+categories:
   - TechBlog
 ---
 In Angular development, creating reusable shared modules is a powerful way to encapsulate common functionality, UI components, services, and styles that can be used across different projects or repositories. In this guide, we'll walk through the process of creating a reusable shared module from scratch, covering directory structures, component/service/directive creation, shared styles, and both development (`npm link`) and production (`npm publish`) use cases.

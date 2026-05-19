@@ -13,8 +13,9 @@ tags:
   - Mozilla
   - news
   - sopa
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![headertitle](/images/2011/11/headertitle.png)](http://americancensorship.org/)

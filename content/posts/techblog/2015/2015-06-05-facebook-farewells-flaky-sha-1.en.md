@@ -11,7 +11,7 @@ tags:
   - SSL
   - Update
 
-categories: 
+categories:
   - TechBlog
 ---
 ![Facebook](/images/2013/05/Facebook-150x150.png)

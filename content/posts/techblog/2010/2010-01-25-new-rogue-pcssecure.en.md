@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/25/new-rogue-pcssecure/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 PcsSecure is the latest cloned rogue antispyware from the WiniGuard family.

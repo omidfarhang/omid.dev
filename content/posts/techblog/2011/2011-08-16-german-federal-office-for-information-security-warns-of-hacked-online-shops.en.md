@@ -9,10 +9,10 @@ tags:
   - Germany
   - phishing
   - report
-  - security
+  - Security
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-_W2Uf_OCphQ/TkrMsNBWPuI/AAAAAAAAD-Q/s2i4LxOKIJ4/s1600/osCommerce.png)](http://4.bp.blogspot.com/-_W2Uf_OCphQ/TkrMsNBWPuI/AAAAAAAAD-Q/s2i4LxOKIJ4/s1600/osCommerce.png)

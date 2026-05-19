@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Other
 
-categories: 
+categories:
   - TechBlog
 ---
 Security researchers examining the directories of the URLs of some of the latest Koobface runs may stumble upon a Christmas greeting:

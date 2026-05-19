@@ -7,11 +7,12 @@ url: 2010/03/31/running-executables-in-pdf-its-a-feature/
 tags:
   - Adobe
   - Foxit
-  - malware
+  - Malware
   - PDF
   - Vulnerability
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Didier Stevens, security professional and blogger, has found a “feature” in the PDF file format that makes it possible to package an executable in a PDF file which will run in Foxit PDF reader or run in Adobe Reader with a bit of social engineering.

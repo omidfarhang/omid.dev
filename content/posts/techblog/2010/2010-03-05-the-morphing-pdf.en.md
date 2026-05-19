@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/03/05/the-morphing-pdf/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Just when we thought SEO using Flash was as interesting as SEO poisoning can get, it seems it's getting even sneakier…

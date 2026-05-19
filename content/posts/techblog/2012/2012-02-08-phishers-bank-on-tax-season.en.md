@@ -7,10 +7,10 @@ url: 2012/02/08/phishers-bank-on-tax-season/
 tags:
   - alert
   - phishing
-  - security
+  - Security
   - spam
 
-categories: 
+categories:
   - TechBlog
 ---
 **Sunbelt:** With the U.S. currently in **tax season**, online criminals have, once again, sought to take advantage of this. Robert Stetson, one of Sunbelt’s malware researchers, spotted a phishing email posing as [**Intuit Inc.**](http://en.wikipedia.org/wiki/Intuit), a company that “develops financial and tax preparation software”. They developed **_Quicken_** and **_TurboTax_**. Below is a screenshot of the said email: 

@@ -7,12 +7,13 @@ url: 2010/10/20/hacked-kaspersky-download-site-directs-users-to-fake-antivirus/
 tags:
   - hack
   - Kaspersky
-  - malware
+  - Malware
   - news
   - report
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 #### Kaspersky Lab now admits that people attempting to buy Kaspersky's security products on Oct. 17 were redirected by hackers to a scareware site with links to fake antivirus software called Security Tool.

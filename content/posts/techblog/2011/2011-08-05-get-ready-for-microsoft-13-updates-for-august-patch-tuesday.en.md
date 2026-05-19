@@ -6,12 +6,12 @@ author_profile: true
 url: 2011/08/05/get-ready-for-microsoft-13-updates-for-august-patch-tuesday/
 tags:
   - Microsoft
-  - security
+  - Security
   - Updates
   - Vulnerability
   - Windows
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-5eEVmm7z0Rg/Tjv9IVT_YSI/AAAAAAAAD8Y/Z77QkCF_30M/s1600/windows+update.jpg)](http://1.bp.blogspot.com/-5eEVmm7z0Rg/Tjv9IVT_YSI/AAAAAAAAD8Y/Z77QkCF_30M/s1600/windows+update.jpg)

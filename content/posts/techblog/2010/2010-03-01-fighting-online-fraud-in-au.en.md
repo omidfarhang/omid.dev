@@ -9,8 +9,9 @@ tags:
   - news
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4w7K2sT8KI/AAAAAAAABDM/bgG1L2rwyro/s640/ScamWatch-banner.GIF)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4w7K2sT8KI/AAAAAAAABDM/bgG1L2rwyro/s1600-h/ScamWatch-banner.GIF)

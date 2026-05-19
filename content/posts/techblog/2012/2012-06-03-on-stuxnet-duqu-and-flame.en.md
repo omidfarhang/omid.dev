@@ -7,10 +7,11 @@ url: 2012/06/03/on-stuxnet-duqu-and-flame/
 tags:
   - Flame
   - link
-  - malware
+  - Malware
   - Stuxnet
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 F-Secure wrote:

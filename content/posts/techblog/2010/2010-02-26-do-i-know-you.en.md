@@ -5,13 +5,14 @@ layout: single
 author_profile: true
 url: 2010/02/26/do-i-know-you/
 tags:
-  - malware
+  - Malware
   - phishing
   - rogue software
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Imagine that you’re sitting at home catching up on your email backlog. In comes an email from your ISP, FooBarBazCo (some creativity required here, I know). The email seems to be from Technical Support  – ‘From:    FooBarBazCo.com Team’ – and states that you need to update your email settings as a result of a recent security upgrade. Can you trust it?

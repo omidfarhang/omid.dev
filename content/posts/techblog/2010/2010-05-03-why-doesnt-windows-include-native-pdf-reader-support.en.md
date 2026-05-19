@@ -11,7 +11,7 @@ tags:
   - PDF
   - Wishlist
 
-categories: 
+categories:
   - TechBlog
 ---
 Dear Microsoft,

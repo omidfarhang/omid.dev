@@ -7,13 +7,13 @@ url: 2011/08/29/new-worm-targeting-weak-passwords-on-remote-desktop-connections-
 tags:
   - advice
   - analyze
-  - malware
+  - Malware
   - Microsoft
   - Password
   - review
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Microsoft Malware Protection Center:** We've had reports of a new worm in the wild and that generates increased RDP traffic for our users on port 3389. Although the overall numbers of computers reporting detections are low in comparison to more established malware families, the traffic it generates is noticeable. The worm is detected as Worm:Win32/Morto.A and you can see a detailed description of at [http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Worm%3aWin32%2fMorto.A](http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Worm%3AWin32%2FMorto.A).

@@ -8,11 +8,12 @@ tags:
   - advice
   - analyze
   - Android
-  - malware
+  - Malware
   - review
   - Sex
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Cross-posted from Surelist 

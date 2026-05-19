@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/03/23/using-windows-hosts-file-to-cut-off-the-help-line/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We found this interesting and malicious little mechanism.

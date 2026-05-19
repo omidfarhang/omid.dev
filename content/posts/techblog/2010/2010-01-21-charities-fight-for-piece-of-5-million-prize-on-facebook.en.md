@@ -8,7 +8,7 @@ tags:
   - Facebook
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s320/story.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s1600-h/story.jpg)

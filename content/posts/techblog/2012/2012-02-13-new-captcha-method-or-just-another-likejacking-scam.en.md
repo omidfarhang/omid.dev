@@ -7,12 +7,13 @@ url: 2012/02/13/new-captcha-method-or-just-another-likejacking-scam/
 tags:
   - analyze
   - Facebook
-  - malware
+  - Malware
   - review
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Sorin Mustaca wrote at Avira TechBlog: 

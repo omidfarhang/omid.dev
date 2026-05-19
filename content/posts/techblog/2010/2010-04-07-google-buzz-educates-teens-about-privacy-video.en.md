@@ -10,7 +10,7 @@ tags:
   - Google
   - Video
 
-categories: 
+categories:
   - TechBlog
 ---
 ![Google Buzz](/images/2010/04/Google-Buzz.jpg)

@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/01/06/gaming-trojans-because-thats-where-the-money-is/
 tags:
-  - malware
+  - Malware
   - phishing
   - report
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 The massive growth of gold farming – the exchange of real money for virtual goods – might result in an increase in gaming Trojans and other malware aimed at gamers in the future.

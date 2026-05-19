@@ -10,8 +10,9 @@ tags:
   - attack
   - hack
   - warning
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **[<img title="ComodoIran" border="0" alt="ComodoIran" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYsg3P9aj6I/AAAAAAAADyY/YSZlDesbfX4/ComodoIran_thumb%5B4%5D.png?imgmax=800" width="254" height="72" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYsg0zGgJAI/AAAAAAAADyU/wEjvWtDMkwI/s1600-h/ComodoIran%5B6%5D.png)Cnet:** A malicious attacker that appears to be the Iranian government managed to obtain supposedly secure digital certificates that can be used to impersonate Google, Yahoo, Skype, and other major Web sites, the security company affected by the breach said today. 

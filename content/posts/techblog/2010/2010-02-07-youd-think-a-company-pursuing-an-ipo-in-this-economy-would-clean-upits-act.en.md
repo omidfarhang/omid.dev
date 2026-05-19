@@ -7,8 +7,9 @@ url: 2010/02/07/youd-think-a-company-pursuing-an-ipo-in-this-economy-would-clean
 tags:
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 You’d think that a company trying to raise several hundred million with an initial public offering of stock would tell their affiliates to be on their best behavior for a while.

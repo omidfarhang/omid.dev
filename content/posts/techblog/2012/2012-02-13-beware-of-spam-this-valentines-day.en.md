@@ -6,13 +6,14 @@ author_profile: true
 url: 2012/02/13/beware-of-spam-this-valentines-day/
 tags:
   - alert
-  - malware
+  - Malware
   - phishing
   - report
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs:** It's Valentine's Day tomorrow and the spammers are out in force to make the most of unwitting shoppers on the international day of love. 

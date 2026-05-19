@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/02/12/between-a-poc-and-a-hard-place/
 tags:
-  - malware
+  - Malware
   - Mobile
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Several reports have been published detailing a Blackberry proof of concept (PoC) exploit called _txsBBSpy_ that was recently presented at a security conference. Although it may not have been the aim of the original presenter, some reports have framed the PoC as being able to exploit so-called vulnerabilities that the writers believe to be present in the Blackberry platform. The “vulnerabilities” involve secretly forwarding incoming emails, locating devices by way of their GPS capabilities, eavesdropping on conversations by surreptitiously turning on microphones, and other such nefarious behavior.  

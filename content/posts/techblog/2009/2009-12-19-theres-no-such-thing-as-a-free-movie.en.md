@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2009/12/19/theres-no-such-thing-as-a-free-movie/
 tags:
-  - malware
+  - Malware
   - phishing
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Those looking to see the latest 3D blockbuster movie, The Avatar, on the cheap will have to take great care in what they search for. We have become aware of at least one site that has been rigged to redirect users to a page that presents the now-familiar “play video/need codec” screen. In an unusual twist, this time it is offering a new ActiveX update rather than the usual codec or Flash player updates.

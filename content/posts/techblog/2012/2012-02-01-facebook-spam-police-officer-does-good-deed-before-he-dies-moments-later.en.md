@@ -10,8 +10,9 @@ tags:
   - Facebook
   - facebook phishing
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Have you seen this in your or your friends wall? or maybe in a page you “Like”?

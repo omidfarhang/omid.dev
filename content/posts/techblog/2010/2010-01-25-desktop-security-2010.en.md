@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/25/desktop-security-2010/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Desktop Security 2010 is a rogue antispyware program, designed to trick people into thinking it is a legitimate program. Desktop Security 2010 uses fake security warnings and system scans to frighten people into buying the software. If Desktop Security 2010 is installed on your PC, you should remove it immediately as it is a potentially dangerous computer infection.

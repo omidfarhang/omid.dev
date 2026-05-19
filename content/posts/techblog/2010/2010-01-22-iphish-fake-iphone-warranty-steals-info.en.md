@@ -10,8 +10,9 @@ tags:
   - iphone
   - phishing
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This week we’ve seen a spam campaign aimed at separating unsuspecting users from their iPhone details.

@@ -8,8 +8,9 @@ tags:
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 The creators of WiniGuard rogue security software have released their first clone of 2010. This new rogue is called PcsProtector.

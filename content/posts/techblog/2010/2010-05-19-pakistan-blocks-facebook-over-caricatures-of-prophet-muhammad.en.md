@@ -9,7 +9,7 @@ tags:
   - social networking
   - YouTube
 
-categories: 
+categories:
   - TechBlog
 ---
 ![Pakistan People](/images/2010/05/pstanspan.jpg)

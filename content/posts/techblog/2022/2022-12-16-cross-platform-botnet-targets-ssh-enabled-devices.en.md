@@ -6,13 +6,14 @@ author_profile: true
 url: 2022/12/16/cross-platform-botnet-targets-ssh-enabled-devices/
 shortlink: https://g.omid.dev/DlE9qP9
 tags:
-  - malware
+  - Malware
   - windows
   - ssh
-  - linux
+  - Linux
   - botnet
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Microsoft researchers found a cross-platform botnet that originates from malicious software downloads on Windows devices & succeeds in propagating to a variety of Linux-based devices by enumerating default credentials on internet-exposed SSH-enabled devices.

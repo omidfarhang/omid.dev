@@ -10,7 +10,7 @@ tags:
   - Google
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 **Reuters: Google Inc will begin blocking Facebook and other Web services from accessing its users' information, highlighting an intensifying rivalry between the two Internet giants.**

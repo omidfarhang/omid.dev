@@ -7,8 +7,9 @@ url: 2010/05/03/whoops-treasury-still-hacked/
 tags:
   - hack
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I was wrong in my earlier assessment that the three treasury websites had been cleaned… the attack site was simply tracking ip addresses, and would not serve the iframe on subsequent visits.I really should have noticed that earlier, and have no excuse except that it was very early. And pre-caffeine. 

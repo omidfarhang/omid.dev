@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/21/protectdefender/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 ProtectDefender is a new clone of the WiniGuard family.

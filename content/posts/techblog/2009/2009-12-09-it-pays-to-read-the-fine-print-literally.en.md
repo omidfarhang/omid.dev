@@ -6,9 +6,10 @@ author_profile: true
 url: 2009/12/09/it-pays-to-read-the-fine-print-literally/
 shortlink: https://g.omid.dev/1RQWNgo
 tags:
-  - malware
+  - Malware
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This is a new one: bribeware. They’ll pay you a dollar to install their product.

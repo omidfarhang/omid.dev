@@ -11,7 +11,7 @@ tags:
   - picasa
   - Picasa Web Albums
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70GhailHxI/AAAAAAAAB0g/uDWbwZSXVUY/s320/picasa_web_albums.jpeg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70GhailHxI/AAAAAAAAB0g/uDWbwZSXVUY/s1600-h/picasa_web_albums.jpeg)

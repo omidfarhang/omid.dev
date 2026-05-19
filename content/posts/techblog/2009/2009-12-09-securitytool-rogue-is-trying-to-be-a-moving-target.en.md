@@ -7,11 +7,12 @@ url: 2009/12/09/securitytool-rogue-is-trying-to-be-a-moving-target/
 shortlink: https://g.omid.dev/1TbVuMr
 tags:
   - alert
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 The [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue security product, which first turned up early in October, is still active and trying to avoid countermeasures by setting up 12-24 download sites per day.

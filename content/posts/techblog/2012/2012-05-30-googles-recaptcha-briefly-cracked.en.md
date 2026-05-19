@@ -8,8 +8,9 @@ tags:
   - Google
   - hack
   - news
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 ![](http://lh4.ggpht.com/-OAD1xzJSuPI/T8Z3xbxUDUI/AAAAAAAAGJY/3x5jI3--3Kk/s1600-h/recaptcha%25255B2%25255D.png)

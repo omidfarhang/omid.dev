@@ -9,8 +9,9 @@ tags:
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 A day after the disaster that struck the Caribbean nation of Haiti, Rogue perpetrators have once again been busy with their SEO poisoning schemes. Searching for terms related to this earthquake leads to a website that installs a Rogue into the system.

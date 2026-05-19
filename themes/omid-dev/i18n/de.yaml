@@ -53,6 +53,18 @@
 - id: topics
   translation: "Themen"
 
+- id: tech_topics
+  translation: "Tech-Themen"
+
+- id: tech_topics_professional
+  translation: "Engineering & Führung"
+
+- id: tech_topics_technical
+  translation: "Technische Tiefe"
+
+- id: view_all_tech_posts
+  translation: "Alle Tech-Beiträge"
+
 - id: contact
   translation: "Kontakt"
 

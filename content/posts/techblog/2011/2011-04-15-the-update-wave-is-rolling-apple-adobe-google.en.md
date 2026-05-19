@@ -11,10 +11,10 @@ tags:
   - Google
   - Google Chrome
   - iOS
-  - security
+  - Security
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 **Avira TechBlog:** Today some updates need attention – they fix critical security issues and should be installed immediately!

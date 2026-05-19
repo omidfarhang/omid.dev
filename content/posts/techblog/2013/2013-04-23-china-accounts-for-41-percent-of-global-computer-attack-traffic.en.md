@@ -8,7 +8,7 @@ image: /images/2013/04/china-flag1.jpg
 tags:
   - China
 
-categories: 
+categories:
   - TechBlog
 ---
 [![china-flag1](/images/2013/04/china-flag1-150x150.jpg)](/images/2013/04/china-flag1.jpg)A new security report points the finger at China as the main source of malicious computer attacks — and puts the United States in second. 

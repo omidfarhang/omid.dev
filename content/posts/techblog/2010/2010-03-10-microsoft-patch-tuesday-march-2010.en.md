@@ -8,8 +8,9 @@ tags:
   - Microsoft
   - Patch Tuesday
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Hello and welcome to this month’s blog on the Microsoft patch releases. This is a fairly quiet month—the vendor is releasing two bulletins covering a total of eight vulnerabilities.

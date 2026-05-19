@@ -8,11 +8,12 @@ tags:
   - advice
   - Game
   - games
-  - malware
+  - Malware
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We have received reports of a malicious Windows Mobile game that creates significant phone bills to affected users. 

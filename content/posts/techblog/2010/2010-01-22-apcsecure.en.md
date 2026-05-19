@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/22/apcsecure/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 APcSecure is a new rogue from the WiniGuard clone factory.

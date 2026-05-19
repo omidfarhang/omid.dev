@@ -7,7 +7,7 @@ url: 2010/12/31/happy-new-year/
 tags:
   - This Blog Update
 
-categories: 
+categories:
   - TechBlog
 ---
 Hello ‘**Omid’s Blog!**’ readers!

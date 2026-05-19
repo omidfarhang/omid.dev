@@ -7,7 +7,7 @@ url: 2010/05/11/wigig-publishes-7-gbps-wireless-home-networking-spec/
 tags:
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 Exactly one year after making its public debut, the Wireless Gigabit Alliance has published its spec for the unlicensed 60 GHz band, which it is pushing as a new, faster standard for home networking. 

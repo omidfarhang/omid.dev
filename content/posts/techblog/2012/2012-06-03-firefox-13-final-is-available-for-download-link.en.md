@@ -11,7 +11,7 @@ tags:
   - software
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 Mozilla Firefox 13 is available for download on Mozilla FTP servers.

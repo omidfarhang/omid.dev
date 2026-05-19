@@ -7,7 +7,7 @@ url: 2012/04/17/please-support-my-friend-by-your-votes/
 tags:
   - support request
 
-categories: 
+categories:
   - TechBlog
 ---
 Hi Folks

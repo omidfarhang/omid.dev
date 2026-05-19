@@ -10,12 +10,12 @@ tags:
   - phishing
   - review
   - scam
-  - security
+  - Security
   - social networking
   - spam
   - Twitter
 
-categories: 
+categories:
   - TechBlog
 ---
 Sophos Labs: Twitter users are being hit today by messages claiming to link to a new app from Twitter which will track your stalkers.

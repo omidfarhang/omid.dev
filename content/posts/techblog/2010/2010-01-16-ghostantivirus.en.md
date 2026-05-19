@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/16/ghostantivirus/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 GhostAntivirus is a new rogue anti-virus application. It is a clone of InternetAntivirusPro.

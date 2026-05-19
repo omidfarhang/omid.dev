@@ -8,8 +8,9 @@ tags:
   - alert
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Somebody is trying to pose as F-Secure. If you see an email like the one below, just ignore it:

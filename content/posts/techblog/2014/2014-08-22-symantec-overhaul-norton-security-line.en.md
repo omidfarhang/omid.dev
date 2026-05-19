@@ -9,7 +9,7 @@ image: /images/2013/05/Symantec_120.png
 tags:
   - Symantec
 
-categories: 
+categories:
   - TechBlog
 ---
 [![Symantec_logo_horizontal_2010-1](/images/2014/08/Symantec_logo_horizontal_2010-1-300x79.png)](/images/2014/08/Symantec_logo_horizontal_2010-1.png)Symantec is overhauling its Norton security software, going from nine products to just one as the company turns its attention to smartphones and connected devices.

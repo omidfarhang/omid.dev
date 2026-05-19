@@ -7,8 +7,9 @@ url: 2011/09/01/woman-sues-after-firm-tracking-stolen-laptop-records-nude-video-
 tags:
   - hack
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-b0lc6wid4Eg/Tl9Fvkh33YI/AAAAAAAAEAo/Z2znkCpjGA0/s1600/late-night-webcam-170.jpg)](http://1.bp.blogspot.com/-b0lc6wid4Eg/Tl9Fvkh33YI/AAAAAAAAEAo/Z2znkCpjGA0/s1600/late-night-webcam-170.jpg)

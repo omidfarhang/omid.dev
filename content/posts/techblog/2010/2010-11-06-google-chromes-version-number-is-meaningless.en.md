@@ -11,7 +11,7 @@ tags:
   - Updates
   - Yahoo
 
-categories: 
+categories:
   - TechBlog
 ---
 **Google Operation System blog:** 

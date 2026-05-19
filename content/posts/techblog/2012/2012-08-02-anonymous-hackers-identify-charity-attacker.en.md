@@ -8,8 +8,9 @@ tags:
   - Anonymous
   - hack
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **BBC: Hacking group Anonymous has aided a global search for a cyber-vandal who defaced a charity website.** 

@@ -10,7 +10,7 @@ tags:
   - Google CEO
   - steve jobs
 
-categories: 
+categories:
   - TechBlog
 ---
 **Google cofounders Larry Page and Sergey Brin considered hiring Apple CEO Steve Jobs as the company's first CEO, according to a new documentary.**

@@ -7,10 +7,11 @@ url: 2011/04/12/bbc-newsdad-walks-in-on-daughter-facebook-scams/
 tags:
   - Facebook
   - facebook phishing
-  - malware
+  - Malware
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 SophosLabs: Criminals and scammers on Facebook aren't resting on their laurels… in fact, they are branching out and using multiple techniques all rolled into one scam.

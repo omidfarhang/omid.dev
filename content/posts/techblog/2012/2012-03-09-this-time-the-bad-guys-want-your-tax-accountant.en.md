@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2012/03/09/this-time-the-bad-guys-want-your-tax-accountant/
 tags:
-  - malware
+  - Malware
   - phishing
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **avast:** While taxpayers are the regular target of springtime malware schemes, this year the bad guys are aiming for the accountants. 

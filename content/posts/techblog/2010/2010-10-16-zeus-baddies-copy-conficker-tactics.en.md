@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/10/16/zeus-baddies-copy-conficker-tactics/
 tags:
-  - malware
+  - Malware
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Variants of the infamous ZeuS cybercrime toolkit have begun using the tactics of the infamous Conficker worm in a bid to get ahead of security defences.

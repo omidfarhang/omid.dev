@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/05/03/dont-play-with-natural-disasters/
 tags:
-  - malware
+  - Malware
   - review
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We want to warn you of an email message in Spanish we’ve received with the subject **( Urgente ) Posible Terremoto y Tsunami con un 89 % de efectividad** and that is of course false. 

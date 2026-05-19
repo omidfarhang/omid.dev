@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/02/16/the-facebook-team-informs-you/
 tags:
   - Facebook
-  - malware
+  - Malware
   - social networking
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 In the last two days our lab has detected a flood of email messages that seem to have been sent by the Facebook team urging users to submit a new account agreement. We’ve seen around 16,000 since yesterday.

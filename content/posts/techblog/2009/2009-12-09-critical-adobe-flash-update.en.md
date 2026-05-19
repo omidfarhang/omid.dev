@@ -10,7 +10,7 @@ tags:
   - Patch Tuesday
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 It's the second Tuesday of the month and there are important updates being released.

@@ -9,7 +9,7 @@ tags:
   - Firefox Addon
   - Mozilla
 
-categories: 
+categories:
   - TechBlog
 ---
 For those who missed this update on Nov 18:

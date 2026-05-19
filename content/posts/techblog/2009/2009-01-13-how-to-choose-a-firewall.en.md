@@ -10,7 +10,7 @@ tags:
   - Firewall
   - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Three basic types of firewalls are available for you to choose from:  

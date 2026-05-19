@@ -10,7 +10,7 @@ tags:
   - Tor Project
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-jZU7fXtdOi0/TnNOpyrNktI/AAAAAAAAECI/2HuwYeqtLLg/s1600/Tor_Logo200.png)](http://4.bp.blogspot.com/-jZU7fXtdOi0/TnNOpyrNktI/AAAAAAAAECI/2HuwYeqtLLg/s1600/Tor_Logo200.png)

@@ -10,8 +10,9 @@ tags:
   - review
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 In the security industry we often focus heavily on new technologies and shiny new software, and forget that so much of what we see is dependent on the person behind the computer.

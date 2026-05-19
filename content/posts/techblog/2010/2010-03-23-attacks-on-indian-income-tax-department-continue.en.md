@@ -7,8 +7,9 @@ url: 2010/03/23/attacks-on-indian-income-tax-department-continue/
 tags:
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We previously reported a phishing attack on the Indian Income Tax Department. Phishing emails boasting of tax refunds were sent to users in an attempt to entice citizens to enter their credentials on a bogus website. Recently, new attacks have been observed in which the phishing website states that taxes can be paid online. As the fiscal year in India draws to an end, more people are rushing to pay taxes before the deadline.

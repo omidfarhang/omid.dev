@@ -9,7 +9,7 @@ tags:
   - Search
   - Yahoo
 
-categories: 
+categories:
   - TechBlog
 ---
 Yesterday, Yahoo! Inc. announced it would be acquiring Associated Content Inc., and the transaction would cost the search company [an estimated $100 million](http://techcrunch.com/2010/05/18/yahoo-associated-content/). 

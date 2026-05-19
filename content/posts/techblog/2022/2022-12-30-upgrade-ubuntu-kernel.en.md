@@ -7,11 +7,11 @@ url: 2022/12/30/how-to-upgrade-ubuntu-kernel/
 shortlink: https://g.omid.dev/KaQylFt
 tags:
   - How to
-  - linux
+  - Linux
   - Ubuntu
   - Kernel
 
-categories: 
+categories:
   - TechBlog
 ---
 Ubuntu by default uses LTS Kernels:

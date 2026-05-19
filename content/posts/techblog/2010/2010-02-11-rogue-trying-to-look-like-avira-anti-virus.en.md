@@ -8,8 +8,9 @@ tags:
   - alert
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Jerome Segura at ParetoLogic [blogged about this](http://blogs.paretologic.com/malwarediaries/index.php/2010/02/09/avira-look-alike/) yesterday: a rogue security product with a web page that tries to imitate that of the German AV company Avira (check out the red umbrella and the type face.)

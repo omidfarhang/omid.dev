@@ -6,12 +6,12 @@ author_profile: true
 url: 2022/11/27/how-to-use-cloudflare-warp-on-linux/
 shortlink: https://g.omid.dev/sMrrjTP
 tags:
-  - linux
+  - Linux
   - CloudFlare
   - Warp
   - network
 
-categories: 
+categories:
   - TechBlog
 ---
 

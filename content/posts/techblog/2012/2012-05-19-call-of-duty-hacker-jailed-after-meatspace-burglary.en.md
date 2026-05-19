@@ -9,8 +9,9 @@ tags:
   - hack
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 <a href="http://www.theregister.co.uk/" target="_blank">theregister.co.uk</a> wrote: 

@@ -7,8 +7,9 @@ url: 2010/10/22/12seconds-com-shutdown/
 tags:
   - alert
   - news
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Last mail I got from 12Seconds.com:

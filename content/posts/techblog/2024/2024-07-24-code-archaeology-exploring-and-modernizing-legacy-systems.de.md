@@ -13,8 +13,9 @@ tags:
   - Refactoring
   - Software-Engineering
   - Systemmigration
+  - Software Architecture
 
-categories: 
+categories:
   - TechBlog
 ---
 In der schnelllebigen Welt der Softwareentwicklung stehen wir oft auf den Schultern von Giganten – oder genauer gesagt, auf Schichten über Schichten von Legacy-Code (Altsystemen). Diese alternden Systeme, teils Jahrzehnte alt, treiben weiterhin kritische Infrastrukturen in Branchen von der Finanzwirtschaft bis zum Gesundheitswesen an. Auch wenn ihnen der Glanz modernster Technologien fehlen mag, sind diese Altsysteme das Fundament vieler Organisationen und verarbeiten im Stillen täglich Millionen von Transaktionen.

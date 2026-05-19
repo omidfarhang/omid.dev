@@ -8,8 +8,9 @@ shortlink: https://g.omid.dev/5ucOYPI
 tags:
   - Safety Tips
   - Password
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Treat your passwords with as much care as you treat the information that they protect.

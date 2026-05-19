@@ -5,14 +5,15 @@ layout: single
 author_profile: true
 url: 2010/03/01/free-fakeav-at-virus-total-thats-not-virustotal/
 tags:
-  - malware
+  - Malware
   - phishing
   - rogue software
   - scam
   - spam
   - VirusTotal
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [VirusTotal](http://www.virustotal.com/) has been well known to most readers of the blog. It’s a free virus and malware online scan service which allows submitters to test a particular file against a multitude of malware scanners. So, it’s not highly surprising that malware authors would try to use that name to further their gain.  

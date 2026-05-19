@@ -7,11 +7,12 @@ url: 2010/12/06/adobe-update-spam-scam/
 tags:
   - 0-Day
   - Adobe
-  - malware
+  - Malware
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Here’s the latest twist in the “membership” site scam: spam emails that tell potential victims to update their Adobe Reader include links to a web site intended to look like something related to Adobe products, but is selling “memberships.”  

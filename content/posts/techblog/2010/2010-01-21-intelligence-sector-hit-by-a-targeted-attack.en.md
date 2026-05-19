@@ -8,8 +8,9 @@ tags:
   - Adobe
   - alert
   - Vulnerability
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We just blogged about a highly targeted attack against military contractors.

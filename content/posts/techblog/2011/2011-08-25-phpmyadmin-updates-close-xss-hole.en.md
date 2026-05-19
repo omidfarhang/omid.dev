@@ -6,10 +6,10 @@ author_profile: true
 url: 2011/08/25/phpmyadmin-updates-close-xss-hole/
 tags:
   - PHP
-  - security
+  - Security
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-3VBBUJPC5KU/TlaNKEe56zI/AAAAAAAAD_Q/5_ZZYpeogYk/s1600/PhpMyAdmin_logo.png)](http://1.bp.blogspot.com/-3VBBUJPC5KU/TlaNKEe56zI/AAAAAAAAD_Q/5_ZZYpeogYk/s1600/PhpMyAdmin_logo.png)

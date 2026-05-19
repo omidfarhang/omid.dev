@@ -8,11 +8,11 @@ tags:
   - advice
   - alert
   - Mac OS X
-  - malware
+  - Malware
   - report
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Mac: Hi PC, I'm not feeling so hot today…  

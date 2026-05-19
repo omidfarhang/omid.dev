@@ -7,11 +7,12 @@ url: 2010/10/15/fake-stuxnet-cleaner-literally-cleans-up-your-computer/
 tags:
   - advice
   - alert
-  - malware
+  - Malware
   - scam
   - Stuxnet
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 W32.Stuxnet has been a subject of much discussion amongst security researchers and media, and we posted a series of blogs on the subject. As you may already be aware, Stuxnet is hot topic as the threat targets industrial control systems in order to take control of industrial facilities and systems, such as manufacturing assembly lines and even power plants.

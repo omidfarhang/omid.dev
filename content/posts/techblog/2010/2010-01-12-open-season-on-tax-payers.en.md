@@ -7,8 +7,9 @@ url: 2010/01/12/open-season-on-tax-payers/
 tags:
   - alert
   - phishing
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 As any reader of this blog knows, cybercriminals can steal your money not just by putting malware on your machine, but by phishing attacks too. Phishing attacks don't just target online banking and e-payment systems, but almost any site which asks the user to input sensitive data.

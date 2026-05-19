@@ -10,8 +10,9 @@ tags:
   - phishing
   - scam
   - social networking
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Symantec Connect:** Phishers regularly introduce new types of fake applications with the motive of improving their chance to harvest user credentials. In February 2012, Symantec observed a phishing site recommending a fake application that allegedly removes “Timeline” profile for Facebook users. The phishing site was hosted on a free web hosting site. 

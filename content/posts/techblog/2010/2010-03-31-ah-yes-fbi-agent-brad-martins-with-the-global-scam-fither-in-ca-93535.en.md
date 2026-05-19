@@ -6,8 +6,9 @@ author_profile: true
 url: 2010/03/31/ah-yes-fbi-agent-brad-martins-with-the-global-scam-fither-in-ca-93535/
 tags:
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Good God! A 419 scam email from someone in grade school!**

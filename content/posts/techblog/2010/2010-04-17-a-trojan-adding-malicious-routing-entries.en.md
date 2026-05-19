@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/04/17/a-trojan-adding-malicious-routing-entries/
 tags:
-  - malware
+  - Malware
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Backdoor.Rohimafo is a Trojan that has several back door functions. It not only opens a back door and performs the usual functions but it also can perform some decidedly unusual functions.

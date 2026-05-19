@@ -6,10 +6,11 @@ author_profile: true
 url: 2010/10/18/avira-know-better-what-to-put-and-where/
 tags:
   - Interesting
-  - malware
+  - Malware
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Sometimes we encounter childish [messages](/2010/10/02/messages-from-malware-authors-in-malware/) from the authors in the body of malware. A variant of the TDSS family we got recently is even going a step further by offering a convenient location for a malware signature. The samples include the message “Put your signature here”, which is shown when run inside a debugger.

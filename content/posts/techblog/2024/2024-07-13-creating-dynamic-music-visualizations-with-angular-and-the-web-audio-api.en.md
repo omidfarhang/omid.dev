@@ -9,12 +9,12 @@ tags:
   - Angular
   - WebAudio API
   - Music Visualization
-  - Frontend Development
+  - Frontend
   - JavaScript
   - Web Development
   - HTML5 Canvas
 
-categories: 
+categories:
   - TechBlog
 ---
 Music visualization has always been a fascinating way to enhance the auditory experience, offering a visual representation of sound that can be both mesmerizing and informative. With the power of modern web technologies like Angular and the Web Audio API, creating dynamic music visualizations is more accessible than ever. This blog post will guide you through the process of building an engaging music visualization application using Angular and the Web Audio API.

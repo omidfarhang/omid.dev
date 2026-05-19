@@ -8,7 +8,7 @@ tags:
   - Android
   - Google
 
-categories: 
+categories:
   - TechBlog
 ---
 [Google Scribe](http://scribe.googlelabs.com/) may not seem very useful, but it's one of the features that could significantly improve virtual keyboards from mobile phones. Instead of showing suggestions from a dictionary, Google Scribe can provide contextually-relevant suggestions.

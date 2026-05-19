@@ -7,13 +7,13 @@ url: 2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreenca
 shortlink: https://g.omid.dev/xDry1qe
 tags:
   - Angular
-  - Frontend Development
+  - Frontend
   - Web Workers
   - OffscreenCanvas
   - Optimizing
   - Performance
 
-categories: 
+categories:
   - TechBlog
 ---
 In today’s web development landscape, performance is king. Users expect fast, responsive applications that perform smoothly even under heavy loads. This expectation places a significant burden on developers, especially those working with complex front-end frameworks like Angular. One effective strategy for enhancing the performance of Angular applications is to leverage Web Workers and OffscreenCanvas. In this detailed guide, we will explore how to use these technologies to offload heavy computations and rendering tasks, thus optimizing your Angular applications for better performance.

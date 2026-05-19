@@ -13,11 +13,11 @@ tags:
   - KDE5
   - Kubuntu
   - shell
-  - ubuntu
+  - Ubuntu
   - xrandr
   - xsetup
 
-categories: 
+categories:
   - TechBlog
 ---
 ![KDE Logo](/images/2018/05/KDE_Logo_Official_Lineart_Detailed.svg_-150x150.png) After switching from Gnome and Unity to KDE, I had a problem with SDDM and it was that it could not detect correct resolution for my UltraWide monitor and set it to Full HD instead of 2560×1080. I had a similar problem in Ubuntu with another old monitor. Anyway that solution is same in both cases.

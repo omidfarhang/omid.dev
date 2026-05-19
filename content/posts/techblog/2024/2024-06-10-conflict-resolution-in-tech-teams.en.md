@@ -14,8 +14,9 @@ tags:
   - Workplace Communication
   - Team Dynamics
   - Soft Skills
+  - Engineering Leadership
 
-categories: 
+categories:
   - TechBlog
 ---
 Conflict is an inevitable part of any workplace, and tech teams are no exception. Differences in opinions, approaches, and personal styles can lead to friction. However, when managed effectively, conflict can be a catalyst for growth, innovation, and stronger teamwork. This blog post explores advanced techniques for resolving conflicts within tech teams, covering mediation strategies, active listening, and fostering a collaborative environment.

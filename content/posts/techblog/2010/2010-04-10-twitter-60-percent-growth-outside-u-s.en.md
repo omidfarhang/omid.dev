@@ -9,7 +9,7 @@ tags:
   - social networking
   - Twitter
 
-categories: 
+categories:
   - TechBlog
 ---
 Aiming for one billion Twitterers by 2013?

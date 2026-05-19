@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/04/07/number-of-infected-computers-spikes-in-korea/
 tags:
-  - malware
+  - Malware
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Hong Kong-based security firm [Network Box](http://www.network-box.com/home) reported that Korea was the country of origin for 31.1 percent of the malware on the Internet in March. In February the country only pumped out 8.9 percent, leading researchers to theorize that there has been a huge increase in infected machines there pushing out phishing spam.

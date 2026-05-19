@@ -8,8 +8,9 @@ tags:
   - Microsoft
   - Patch Tuesday
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Microsoft has put the PC-using world on notice that next Tuesday there will be 11 bulletins released addressing 25 vulnerabilities in Windows, Exchange and Office.

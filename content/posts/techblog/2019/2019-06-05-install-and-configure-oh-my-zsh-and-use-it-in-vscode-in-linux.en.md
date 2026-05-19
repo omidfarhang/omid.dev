@@ -9,11 +9,11 @@ image: /images/2019/06/Screenshot_20190605_051605.png
 tags:
   - Kubuntu
   - oh my zsh
-  - ubuntu
+  - Ubuntu
   - vscode
   - zsh
 
-categories: 
+categories:
   - TechBlog
 ---
 If you use the simple Bash Terminal in your OS, you may want to give Zsh a try to use a faster and safer terminal with many more features. The simple Bash that exist in the common dist of Linuxes are not changed over years and just received some security fixes, but the community behind Zsh are improving it everyday and bring new useful plugins.

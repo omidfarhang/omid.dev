@@ -6,10 +6,11 @@ author_profile: true
 url: 2010/11/06/no-prn-for-you-naughty-boy/
 tags:
   - Hijack
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 There are always peculiar things malware researchers discover while analyzing new samples.

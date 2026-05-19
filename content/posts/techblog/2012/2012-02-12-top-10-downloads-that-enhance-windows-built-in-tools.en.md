@@ -8,7 +8,7 @@ tags:
   - link
   - suggestion
 
-categories: 
+categories:
   - TechBlog
 ---
 **LifeHacker**:

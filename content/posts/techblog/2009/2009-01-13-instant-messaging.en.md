@@ -8,8 +8,9 @@ shortlink: https://g.omid.dev/xqpKXty
 tags:
   - Safety Tips
   - instant messaging
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Communicating by using an instant messaging (IM) program has some of the same security and privacy risks as e-mail, but there are a few dangers that are unique to IM.

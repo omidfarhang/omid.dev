@@ -7,12 +7,13 @@ url: 2010/10/21/pcworld-links-to-scareware/
 tags:
   - advice
   - Hijack
-  - malware
+  - Malware
   - report
   - review
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I was reading an article on PCWorld’s website about the upcoming Google Chrome OS:

@@ -9,8 +9,9 @@ tags:
   - alert
   - Google
   - Google Chrome
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 With the latest release of their browser, v.4.0, Google has published a long expected feature: Browser Extensions. Now Chrome features what other browsers like Firefox, IE, Opera and so on offer for a long time already.

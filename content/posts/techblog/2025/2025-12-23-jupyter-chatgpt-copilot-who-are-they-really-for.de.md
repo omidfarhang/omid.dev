@@ -18,8 +18,9 @@ tags:
   - Engineering Culture
   - Decision Making
   - Data Science
+  - Data & AI
 
-categories: 
+categories:
   - TechBlog
 ---
 *Dies ist Teil 1 einer dreiteiligen Serie über moderne Entwicklungs-Workflows. In diesem Teil untersuchen wir die konzeptionelle und strategische Rolle von Project Jupyter. [Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/) behandelt die Installation und das Umgebungsmanagement, und [Teil 3: Praxisbeispiele aus der echten Welt](/de/2025/12/23/jupyter-real-world-examples/) zeigt es in Aktion.*

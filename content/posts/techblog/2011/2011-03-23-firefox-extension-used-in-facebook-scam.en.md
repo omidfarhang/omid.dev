@@ -13,8 +13,9 @@ tags:
   - Mozilla
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Symantec Connect:** Not only Facebook is adding new and interesting features to its toolbox; spammers and scammers in Facebook are, too. Currently there is a scam making rounds using a classic “who is viewing your profile” themed bait.

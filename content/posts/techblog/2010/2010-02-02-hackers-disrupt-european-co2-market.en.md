@@ -8,8 +8,9 @@ tags:
   - alert
   - hack
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 In recent weeks, various cybercrime attacks have disrupted the computer systems that allow nations to manage their national greenhouse-gas emissions quotas and their possession of carbon assets according to international agreements (the Kyoto Protocol and the European system). One quota is the right to emit the equivalent of one ton of carbon dioxide during a specified period.

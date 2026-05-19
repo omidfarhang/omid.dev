@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 I'm constantly reminded how slow email actually is.

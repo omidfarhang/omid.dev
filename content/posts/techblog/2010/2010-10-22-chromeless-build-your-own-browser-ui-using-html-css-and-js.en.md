@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Mozilla
 
-categories: 
+categories:
   - TechBlog
 ---
 ### Mozilla Labs:

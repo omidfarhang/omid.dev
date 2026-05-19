@@ -9,7 +9,7 @@ tags:
   - news
   - YouTube
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600/story.google.china.gi.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600-h/story.google.china.gi.jpg)

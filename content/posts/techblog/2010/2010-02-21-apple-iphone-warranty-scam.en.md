@@ -10,8 +10,9 @@ tags:
   - Mobile
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Symantec has recently observed phishing scams targeting Apple iPhones in order to gain serial numbers, IMEI, model, and capacity, etc. 

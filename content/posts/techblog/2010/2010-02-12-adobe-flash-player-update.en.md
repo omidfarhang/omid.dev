@@ -9,7 +9,7 @@ tags:
   - Updates
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3VBx3fmGbI/AAAAAAAAA4o/536UxSd1DLk/s320/logo-flashplayer.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3VBx3fmGbI/AAAAAAAAA4o/536UxSd1DLk/s1600-h/logo-flashplayer.jpg)

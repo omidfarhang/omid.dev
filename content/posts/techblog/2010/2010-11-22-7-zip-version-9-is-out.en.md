@@ -8,7 +8,7 @@ tags:
   - software
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 For those who missed this update on Nov 18:

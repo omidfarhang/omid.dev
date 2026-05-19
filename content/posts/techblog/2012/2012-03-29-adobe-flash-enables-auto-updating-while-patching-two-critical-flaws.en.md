@@ -7,12 +7,12 @@ url: 2012/03/29/adobe-flash-enables-auto-updating-while-patching-two-critical-fl
 tags:
   - Adobe
   - flash player
-  - security
+  - Security
   - software
   - Updates
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 SophosLabs: Adobe released Flash Player version 11.2.202.228 for Windows, OS X and Linux today. In my view this is a milestone release as it finally introduces an automatic, silent updating mechanism to help users stay current with the latest releases from here forward. 

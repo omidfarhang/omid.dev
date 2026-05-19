@@ -7,10 +7,11 @@ url: 2011/09/25/mac-os-x-trojan-hides-behind-malicious-pdf-disguise/
 tags:
   - Apple
   - Mac OS X
-  - malware
+  - Malware
   - PDF
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs:** A fascinating new example of Mac malware has been discovered, that appears to be adopting an old Windows-style disguise to fool users into running it.

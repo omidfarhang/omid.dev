@@ -7,12 +7,12 @@ url: 2024/06/03/building-custom-angular-schematics-automating-code-generation/
 shortlink: https://g.omid.dev/0rt00QY
 tags:
   - Frontend
-  - Frontend Development
   - Custom Angular Schematics
   - Angular Code Generation
   - Angular Schematics
+  - Angular
 
-categories: 
+categories:
   - TechBlog
 ---
 In the fast-paced world of web development, efficiency and consistency are key. Repetitive tasks can slow down productivity, and inconsistent code can lead to maintenance nightmares. Enter Angular Schematics—a powerful tool to automate code generation, enforce architectural standards, and improve code quality. In this comprehensive guide, we'll delve into creating custom Angular schematics, helping you streamline your development workflow and ensure your codebase remains robust and maintainable.

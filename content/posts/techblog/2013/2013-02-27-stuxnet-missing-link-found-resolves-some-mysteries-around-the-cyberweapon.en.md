@@ -7,12 +7,13 @@ url: 2013/02/27/stuxnet-missing-link-found-resolves-some-mysteries-around-the-cy
 tags:
   - Cyber War
   - Iran
-  - malware
+  - Malware
   - news
   - review
   - Stuxnet
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 _Cross-posted from_ [_WIRED_](http://www.wired.com/threatlevel/2013/02/new-stuxnet-variant-found/all/)_._ 

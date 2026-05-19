@@ -9,8 +9,9 @@ tags:
   - report
   - review
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Some domain names make you cringe, some make you smile…

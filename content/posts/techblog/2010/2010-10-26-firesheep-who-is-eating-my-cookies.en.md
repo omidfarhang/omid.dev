@@ -9,10 +9,10 @@ tags:
   - Firefox Addon
   - Offer
   - privacy
-  - security
+  - Security
   - WiFi
 
-categories: 
+categories:
   - TechBlog
 ---
 Internet is great, and everyday millions of people spend their day surfing it, using Google, Gmail, Youtube, Twitter, Facebook, etc. Some people buy at ebay, or Amazon. Even some people use it to work, though these cases maybe not that common![Winking smile](http://lh4.ggpht.com/_vaUVXcmC3OI/TMbhDPTZKhI/AAAAAAAAC6U/xQwJOsqyl9g/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800) 

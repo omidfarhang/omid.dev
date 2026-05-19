@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/03/01/analyzing-pdf-files/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We've been seeing a gradual shift in malicious PDF file coding (no surprise there, we know malware authors can and do adapt their techniques).

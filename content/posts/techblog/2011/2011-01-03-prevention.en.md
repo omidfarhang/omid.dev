@@ -10,8 +10,9 @@ tags:
   - Windows
   - Malware
   - Rescue
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 To help secure your computer against malware:

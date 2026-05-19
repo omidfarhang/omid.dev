@@ -11,7 +11,7 @@ tags:
   - Security
   - Guide
 
-categories: 
+categories:
   - TechBlog
 ---
 If you suspect that you've responded to a phishing scam with personal or financial information, take these steps to minimize any damage.

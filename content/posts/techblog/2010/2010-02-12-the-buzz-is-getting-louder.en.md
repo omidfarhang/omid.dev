@@ -11,10 +11,11 @@ tags:
   - Firefox
   - Google
   - Google Chrome
-  - malware
+  - Malware
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It has been barely two days since Google [announced ](http://googleblog.blogspot.com/2010/02/introducing-google-buzz.html)their new social integration and messaging tool called Google Buzz. Today we saw the first example of malware, W32/Zuggie-A, pretending to be Google Buzz.  

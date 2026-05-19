@@ -10,7 +10,7 @@ tags:
   - news
   - social networking
 
-categories: 
+categories:
   - TechBlog
 ---
 Facebook CEO, Mark Zuckerberg, has announced on their blog that the site [will soon be offering new features and controls](http://blog.facebook.com/blog.php?post=434691727130). The features include New Facebook Groups, a Dashboard for Applications, and the ability to Download Your Information.

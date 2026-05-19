@@ -8,7 +8,7 @@ tags:
   - Mobile
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 Nokia released its first major firmware for **[Nokia C7](http://europe.nokia.com/find-products/devices/nokia-c7-00) (RM 675)** for **all** Versions. 

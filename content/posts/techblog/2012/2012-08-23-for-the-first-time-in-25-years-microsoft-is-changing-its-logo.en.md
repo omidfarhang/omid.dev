@@ -8,7 +8,7 @@ tags:
   - Microsoft
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 In advance of one of the most significant waves of product launches in Microsoft’s history, today they are unveiling a new logo for the company.

@@ -8,8 +8,9 @@ tags:
   - Dropbox
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Symantec Connect:** Recently we noticed spammers abusing Dropbox, a popular cloud-based, file-hosting and synchronization tool, to spread spam. 

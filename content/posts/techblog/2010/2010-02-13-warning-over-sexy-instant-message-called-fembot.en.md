@@ -8,8 +8,9 @@ tags:
   - Instant Messaging
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 ([BBC](http://www.bbc.co.uk/)) **Lonely internet users are being warned about Fembot, a piece of malicious software that poses as a flirtatious woman looking to chat on instant messaging services.**

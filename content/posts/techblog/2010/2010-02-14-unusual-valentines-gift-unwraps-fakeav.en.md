@@ -7,11 +7,12 @@ url: 2010/02/14/unusual-valentines-gift-unwraps-fakeav/
 tags:
   - advice
   - alert
-  - malware
+  - Malware
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 While everyone is searching the web for the unusual gift on Valentine’s Day, Cybercriminals take this opportunity to propagate Rouge Antivirus.

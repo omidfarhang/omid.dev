@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/25/new-rogue-apcsafe/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 APcSafe is another rogue anti-spyware clone of the WiniGuard family.

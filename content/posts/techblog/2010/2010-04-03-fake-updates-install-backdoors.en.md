@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/04/03/fake-updates-install-backdoors/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Our good friends at Hanoi, Viet Nam, -based security firm Bkis have written about an interesting malcode lure: Trojans masquerading as updates for popular applications such as Adobe, Java or Windows.

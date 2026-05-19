@@ -7,10 +7,10 @@ url: 2011/09/01/mail-ru-protects-e-mail-users-with-wot-reputation-data/
 tags:
   - Announcement
   - email
-  - security
+  - Security
   - WOT
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-O7533LeABAw/Tl9UGBy0snI/AAAAAAAAEAw/2uoe49hFgz8/s1600/Mru.png)](http://1.bp.blogspot.com/-O7533LeABAw/Tl9UGBy0snI/AAAAAAAAEAw/2uoe49hFgz8/s1600/Mru.png)

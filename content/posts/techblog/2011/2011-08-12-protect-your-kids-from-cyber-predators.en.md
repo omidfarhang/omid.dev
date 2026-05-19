@@ -6,9 +6,9 @@ author_profile: true
 url: 2011/08/12/protect-your-kids-from-cyber-predators/
 tags:
   - advice
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 _Posted by [the Stop. Think. Connect. Campaign](http://www.dhs.gov/stopthinkconnect) on **Homeland Security**_

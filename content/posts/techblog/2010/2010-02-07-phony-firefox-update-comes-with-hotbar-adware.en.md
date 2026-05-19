@@ -7,11 +7,12 @@ url: 2010/02/07/phony-firefox-update-comes-with-hotbar-adware/
 tags:
   - alert
   - Firefox
-  - malware
+  - Malware
   - report
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Our good friends at Broomfield, Colo., security firm eSoft have found an interesting scam to trick Internet users into installing the Hotbar adware: a fake Firefox download site.

@@ -10,8 +10,9 @@ tags:
   - NATO
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://3.bp.blogspot.com/--DFEWXxheRc/TimQLcSCiAI/AAAAAAAAD6s/1nevkKVqfW4/s400/natotw.JPG)](http://3.bp.blogspot.com/--DFEWXxheRc/TimQLcSCiAI/AAAAAAAAD6s/1nevkKVqfW4/s1600/natotw.JPG)

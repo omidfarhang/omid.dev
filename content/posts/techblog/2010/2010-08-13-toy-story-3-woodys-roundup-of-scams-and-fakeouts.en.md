@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/08/13/toy-story-3-woodys-roundup-of-scams-and-fakeouts/
 tags:
-  - malware
+  - Malware
   - phishing
   - spam
   - YouTube
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Toy Story 3 is romping across cinemas Worldwide, and rightly so – it’s the best of the series by far. I thought it might be worth pointing out that being a product aimed at children doesn’t exclude it from internet shenanigans.

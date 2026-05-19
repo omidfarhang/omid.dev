@@ -8,8 +8,9 @@ tags:
   - business
   - Google
   - VirusTotal
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This is what we read in latest post from VirusTotal in their blog:

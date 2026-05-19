@@ -6,13 +6,13 @@ author_profile: true
 url: 2023/01/10/end-of-microsoft-windows-7-security-updates-since-jan10/
 shortlink: https://g.omid.dev/X4Y3lRF
 tags:
-  - security
+  - Security
   - microsoft
   - windows
   - eol
   - windows 10
 
-categories: 
+categories:
   - TechBlog
 ---
 Starting today, January 10th, Windows 7 Enterprise and Professional operating systems will no longer receive security updates. Thus, computers that still run these OS will no longer be protected against critical vulnerabilities.

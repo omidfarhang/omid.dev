@@ -9,8 +9,9 @@ tags:
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **New rogue borrows massively from AV company sites**

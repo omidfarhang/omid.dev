@@ -7,10 +7,10 @@ url: 2011/08/25/java-6-update-27-released/
 tags:
   - Java
   - Oracle
-  - security
+  - Security
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-sesfTOPXLsg/TlYgLtdj4nI/AAAAAAAAD_I/ATInAlXLwqU/s200/Java.jpg)](http://1.bp.blogspot.com/-sesfTOPXLsg/TlYgLtdj4nI/AAAAAAAAD_I/ATInAlXLwqU/s1600/Java.jpg)

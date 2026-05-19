@@ -15,7 +15,7 @@ tags:
   - Befunge
   - INTERCAL
 
-categories: 
+categories:
   - TechBlog
 ---
 Programmiersprachen sind das Rückgrat der digitalen Welt. Sie ermöglichen es uns, Software zu erstellen, die alles antreibt – von unseren Smartphones bis hin zur Weltraumforschung. Während die meisten Entwickler mit populären Sprachen wie Python, JavaScript und C++ vertraut sind, gibt es einen faszinierenden und weniger bekannten Bereich von Programmiersprachen, die außerhalb des Mainstreams existieren. Diese sind als esoterische Programmiersprachen bekannt, oder kurz „Esolangs“.

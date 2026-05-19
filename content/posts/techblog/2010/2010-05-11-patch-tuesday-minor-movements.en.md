@@ -11,8 +11,9 @@ tags:
   - Patch Tuesday
   - Updates
   - Windows
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Hey Admins…. It’s that time again. The second Tuesday is upon us and May so far hasn’t been demanding as far as patching goes. 

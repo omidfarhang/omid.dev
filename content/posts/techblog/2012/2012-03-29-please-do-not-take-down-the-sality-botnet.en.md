@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2012/03/29/please-do-not-take-down-the-sality-botnet/
 tags:
-  - malware
+  - Malware
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 <a href="http://www.h-online.com/security" target="_blank"><strong>The H-Security:</strong></a> On Tuesday, a user who is known as “lawabidingcitizen” posted an [unusual request](http://seclists.org/fulldisclosure/2012/Mar/315) to the Full Disclosure mailing list, a forum that is mainly used by the security community: “Please do not take down the Sality botnet.” The contributor says that he found a way of dramatically reducing the number of infected computers after analysing the botnet. He adds that the required actions are unlawful, however, but proceeds to describe the method in considerable detail and makes special tools for the task available. 

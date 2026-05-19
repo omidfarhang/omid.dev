@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 

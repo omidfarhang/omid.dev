@@ -9,9 +9,9 @@ tags:
   - Google website optimizer
   - Mail
   - privacy
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Take a look in the Email I got from Google a few minutes ago:

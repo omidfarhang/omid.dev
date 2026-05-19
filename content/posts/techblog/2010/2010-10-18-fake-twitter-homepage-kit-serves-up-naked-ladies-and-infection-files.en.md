@@ -7,15 +7,16 @@ url: 2010/10/18/fake-twitter-homepage-kit-serves-up-naked-ladies-and-infection-f
 tags:
   - advice
   - alert
-  - malware
+  - Malware
   - phishing
   - report
   - scam
   - social networking
   - spam
   - Twitter
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 You might be wondering why the frontpage of Twitter has a big “Edit” line running through it in the screenshot below: 

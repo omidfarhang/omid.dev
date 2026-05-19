@@ -10,7 +10,7 @@ tags:
   - software
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 MSDN: 

@@ -13,7 +13,7 @@ tags:
   - Windows Live
   - WordPress
 
-categories: 
+categories:
   - TechBlog
 ---
 **Microsoft** announced that it has collaborated with **WordPress** and now onwards it will be the default blogging platform for Windows Live users. This means Microsoft is killing it’s own blogging platform and suggesting users to go for better platform called ‘WordPress’.

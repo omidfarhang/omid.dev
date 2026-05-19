@@ -7,11 +7,12 @@ url: 2010/02/26/trojiframe-dy-old-websites-dont-die-they-just-get-infected/
 tags:
   - alert
   - hack
-  - malware
+  - Malware
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Earlier this week Sophos informed a UK [Local Police Authority](http://www.apa.police.uk/APA/About+Police+Authorities/) (Hertfordshire) that a website they owned was infected with [Troj/IFrame-DY](http://www.sophos.com/security/analyses/viruses-and-spyware/trojiframedy.html).

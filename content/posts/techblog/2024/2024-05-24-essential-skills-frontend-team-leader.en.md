@@ -6,12 +6,14 @@ author_profile: true
 url: 2024/05/24/essential-skills-for-a-frontend-team-leader/
 shortlink: https://g.omid.dev/bIIR7zD
 tags:
-  - frontend
+  - Frontend
   - development
   - roadmap
   - essential skills
+  - Engineering Leadership
+  - Career
 
-categories: 
+categories:
   - TechBlog
 ---
 Becoming a Frontend Team Leader is an exciting and challenging career step. It demands a blend of leadership, management, and technical expertise, alongside a robust set of soft skills. While technical prowess is fundamental, excelling in leadership and management and cultivating strong interpersonal skills are paramount for steering your team to success. In this blog post, we will explore the essential skills a Frontend Team Leader should develop, focusing particularly on leadership, management, and soft skills.

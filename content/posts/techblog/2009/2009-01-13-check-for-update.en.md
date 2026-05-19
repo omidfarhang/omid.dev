@@ -13,7 +13,7 @@ tags:
   - maintenance
   - Guide
 
-categories: 
+categories:
   - TechBlog
 ---
 3 Step to make sure your windows is fully updated and patched to have fast, stable and secure windows:

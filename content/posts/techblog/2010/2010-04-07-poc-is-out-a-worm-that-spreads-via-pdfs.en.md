@@ -9,11 +9,12 @@ tags:
   - alert
   - Firefox
   - Foxit
-  - malware
+  - Malware
   - PDF
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 A blog contributor who goes by the name of “jeremy” has continued to research the possibilities inherent in the recently discovered .pdf-file weakness that could enable the execution of code. Jeremy posted earlier this week that he had created a proof of concept .pdf file that could spread to other .pdf files on a system or network (which makes it a worm).

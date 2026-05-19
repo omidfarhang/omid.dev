@@ -6,14 +6,14 @@ author_profile: true
 url: 2024/05/23/transitioning-from-angular-to-java/
 shortlink: https://g.omid.dev/C60fXj9
 tags:
-  - frontend
+  - Frontend
   - backend
   - development
   - java
-  - angular
+  - Angular
   - career
 
-categories: 
+categories:
   - TechBlog
 ---
 As an experienced Angular developer, you might be considering expanding your skill set by learning Java. This transition can be both challenging and rewarding, offering you a broader perspective on software development. In this blog post, we’ll explore how your Angular background can aid your journey into Java, and provide you with a detailed roadmap to get started.

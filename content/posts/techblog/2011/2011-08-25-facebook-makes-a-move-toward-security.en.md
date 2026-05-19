@@ -7,9 +7,9 @@ url: 2011/08/25/facebook-makes-a-move-toward-security/
 tags:
   - advice
   - Facebook
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-ePy-oJJ3a3U/TlaN_30Q4mI/AAAAAAAAD_Y/IF0fUBdFtnM/s1600/facebook_logo+-+small.jpg)](http://1.bp.blogspot.com/-ePy-oJJ3a3U/TlaN_30Q4mI/AAAAAAAAD_Y/IF0fUBdFtnM/s1600/facebook_logo+-+small.jpg)

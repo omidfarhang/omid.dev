@@ -8,8 +8,9 @@ tags:
   - phishing
   - report
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Notable highlights this month include the shift of the regions of message origin, and changes in the average size of spam messages.

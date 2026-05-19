@@ -8,10 +8,10 @@ tags:
   - Fun
   - Interesting
   - Password
-  - security
+  - Security
   - Video
 
-categories: 
+categories:
   - TechBlog
 ---
 How not to manage your passwords…

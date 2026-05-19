@@ -11,7 +11,7 @@ tags:
   - Dropbox
   - AUR
 
-categories: 
+categories:
   - TechBlog
 ---
 ![dropbox-before-after](/images/2024/06/dropbox-before-after.jpg)

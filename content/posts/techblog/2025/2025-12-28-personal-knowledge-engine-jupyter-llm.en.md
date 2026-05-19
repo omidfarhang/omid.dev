@@ -16,8 +16,9 @@ tags:
   - LLM
   - Productivity
   - Knowledge Management
+  - Data & AI
 
-categories: 
+categories:
   - TechBlog
 ---
 We've all used ChatGPT to write a function or debug a regex. But that's just the tip of the iceberg. The real power of Large Language Models (LLMs) isn't in the "chat"; it's in the integration. 

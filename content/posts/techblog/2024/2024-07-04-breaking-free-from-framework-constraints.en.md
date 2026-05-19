@@ -6,12 +6,13 @@ author_profile: true
 url: 2024/07/04/breaking-free-from-framework-constraints/
 shortlink: https://g.omid.dev/aLVNgPn
 tags:
-  - Frontend Development
+  - Frontend
   - Team Leadership
   - Frameworks
   - Micro Frontends
+  - Engineering Leadership
 
-categories: 
+categories:
   - TechBlog
 ---
 As a frontend team leader, one of your most crucial responsibilities is ensuring your team remains adaptable and forward-thinking in an ever-evolving technological landscape. While standardizing on a single framework can provide short-term efficiency, it risks limiting your team's growth and flexibility in the long run. Let's explore strategies to avoid this pitfall, complete with real-world examples.

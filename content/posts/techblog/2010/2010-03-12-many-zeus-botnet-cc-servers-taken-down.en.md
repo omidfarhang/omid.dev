@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/03/12/many-zeus-botnet-cc-servers-taken-down/
 tags:
-  - malware
+  - Malware
   - news
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Swiss security blog Abuse.ch has reported that the worst Zeus botnet hosting ISP was taken off line yesterday, cutting the botnet’s number of servers from 249 to 181 – including the six worse ones.

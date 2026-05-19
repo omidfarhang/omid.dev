@@ -13,7 +13,7 @@ tags:
   - Security
   - Guide
 
-categories: 
+categories:
   - TechBlog
 ---
 There are good reasons to be suspicious of e-mail.

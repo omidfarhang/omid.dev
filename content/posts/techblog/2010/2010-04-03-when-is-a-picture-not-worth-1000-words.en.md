@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/04/03/when-is-a-picture-not-worth-1000-words/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 When it is not actually a picture but an obfuscated malicious VB script!

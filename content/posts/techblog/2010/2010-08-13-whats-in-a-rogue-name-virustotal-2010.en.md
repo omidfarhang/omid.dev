@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/08/13/whats-in-a-rogue-name-virustotal-2010/
 tags:
-  - malware
+  - Malware
   - phishing
   - rogue software
   - VirusTotal
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 There is a well-respected and very useful site that everyone in the anti-virus industry uses – sometimes several times a day: [Virus Total](http://www.virustotal.com/). You can upload suspicious files or their check sums to Virus Total to see if a file is malicious. The makers of a new rogue have picked up on the Virus Total name in an effort to make their malicious creation look like something legitimate:

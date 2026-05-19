@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/03/12/consoles-for-old-games-come-with-new-malcode/
 tags:
   - Hijack
-  - malware
+  - Malware
   - report
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Be on the lookout for websites offering up “free applications” which come with a nasty sting in the tail. Here’s a typical example: Appzkeygen(dot)com

@@ -7,14 +7,14 @@ url: 2024/06/07/advanced-animations-in-frontend-development/
 shortlink: https://g.omid.dev/S7CDGcu
 tags:
   - CSS
-  - Frontend Development
+  - Frontend
   - Sample Code
   - Animations
   - SVG
   - JavaScript
-  - Performance Optimization 
+  - Performance Optimization
 
-categories: 
+categories:
   - TechBlog
 ---
 Animations have become a crucial aspect of modern web design, enhancing user experience and adding a dynamic quality to websites and applications. While basic animations can be achieved with simple CSS transitions, advanced animations often require a combination of CSS, SVG, and JavaScript. This post will delve into advanced techniques for creating animations, focusing on performance optimization, easing functions, and best practices to ensure smooth and engaging animations.

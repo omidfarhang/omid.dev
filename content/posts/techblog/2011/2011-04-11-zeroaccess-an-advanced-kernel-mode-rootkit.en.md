@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2011/04/11/zeroaccess-an-advanced-kernel-mode-rootkit/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Prevx Blog:** In the last couple years there have been three major players who dominated the scene in the field of the kernel mode rootkit development. They are Rustock rootkit – with its latest build discovered in the wild in 2008 – MBR rootkit – firstly discovered in January 2007 – and TDL rootkit, which can be considered the most advanced kernel mode rootkit to date, able to infect both x86 and x64 versions of Windows operating system.

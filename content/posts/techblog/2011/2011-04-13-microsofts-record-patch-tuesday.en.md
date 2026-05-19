@@ -7,11 +7,11 @@ url: 2011/04/13/microsofts-record-patch-tuesday/
 tags:
   - Microsoft Office
   - news
-  - security
+  - Security
   - Updates
   - Windows
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-pyjVS2sbwzo/TaWIDgAvIzI/AAAAAAAAD1E/ePtruraFe4o/s1600/windows+update.jpg)](http://1.bp.blogspot.com/-pyjVS2sbwzo/TaWIDgAvIzI/AAAAAAAAD1E/ePtruraFe4o/s1600/windows+update.jpg)

@@ -8,10 +8,10 @@ shortlink: https://g.omid.dev/wajRQvt
 tags:
   - Chaos Engineering
   - System Resilience
-  - Frontend Development
+  - Frontend
   - Chaos Testing
 
-categories: 
+categories:
   - TechBlog
 ---
 In the dynamic world of web development, ensuring the resilience and reliability of frontend applications has become increasingly critical. As user expectations soar and application complexity grows, developers must adopt robust strategies to maintain high-quality, fault-tolerant systems. Enter Chaos Engineering – a discipline traditionally associated with backend systems and infrastructure, now making significant inroads into frontend development.

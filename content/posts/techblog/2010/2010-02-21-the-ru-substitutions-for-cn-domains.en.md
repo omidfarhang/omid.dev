@@ -6,8 +6,9 @@ author_profile: true
 url: 2010/02/21/the-ru-substitutions-for-cn-domains/
 tags:
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 In the month of January, we [reported a drop in .cn spam](http://boelectronic.blogspot.com/2009/12/cnnic-changes-have-effect-on-spam.html). This was due to changes in the domain registration process introduced by CNNIC. In the first week of February, the .cn spam volume fell further and fluctuated between 0 and 4 percent of total URL spam.

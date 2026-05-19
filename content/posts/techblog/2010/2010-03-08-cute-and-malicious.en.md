@@ -7,12 +7,13 @@ url: 2010/03/08/cute-and-malicious/
 tags:
   - Facebook
   - Hijack
-  - malware
+  - Malware
   - review
   - social networking
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 There’s an angelically tinged infection doing the rounds at the moment that has more than a whiff of sulphur about it.

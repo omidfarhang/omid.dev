@@ -9,8 +9,9 @@ tags:
   - Facebook
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Recently I'm seeing more facebook scams which claim to be very hot videos, but they are nothing but scam, here is 2 samples:

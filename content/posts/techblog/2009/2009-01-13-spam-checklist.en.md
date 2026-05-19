@@ -10,7 +10,7 @@ tags:
   - Security
   - Guide
 
-categories: 
+categories:
   - TechBlog
 ---
 ### Checklist: Protecting your business, your employees and your customers

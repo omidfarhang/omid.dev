@@ -8,7 +8,7 @@ tags:
   - music
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 **Short answer: an infinitesimally small amount.**

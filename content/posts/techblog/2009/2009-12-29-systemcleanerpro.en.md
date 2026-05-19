@@ -7,8 +7,9 @@ url: 2009/12/29/systemcleanerpro/
 tags:
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 SystemCleanerPRO is a rogue antivirus program, or a complete scam. SystemCleanerPRO uses fake security alerts and fictitious system pop-ups that warn or infections to frighten users into buying the software. SystemCleanerPRO is a complete rip-off and should be removed form infected PC's immediately.

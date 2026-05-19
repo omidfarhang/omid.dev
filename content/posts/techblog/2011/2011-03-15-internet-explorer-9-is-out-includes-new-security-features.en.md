@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 [isc.sans.edu](http://isc.sans.edu/): Microsoft released version 9 of its Internet Explorer web browser. You can [download IE 9 from windows.microsoft.com](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie).

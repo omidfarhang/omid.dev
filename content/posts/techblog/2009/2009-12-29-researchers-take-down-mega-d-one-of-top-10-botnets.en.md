@@ -7,8 +7,9 @@ url: 2009/12/29/researchers-take-down-mega-d-one-of-top-10-botnets/
 tags:
   - news
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Atif Mushtaq, a researcher at FireEye security company, has coordinated a global effort to take down of one of the top 10 botnets – Mega-D.

@@ -8,9 +8,9 @@ shortlink: https://g.omid.dev/1OXWITv
 tags:
   - rogue software
   - scam
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [SafetyAntispyware](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware) is a new rogue anti-spyware application. However, the functionality follows the same pattern as other rogues.

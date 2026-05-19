@@ -7,11 +7,12 @@ url: 2012/01/24/facebook-scam-see-who-views-your-profile/
 tags:
   - alert
   - Facebook
-  - malware
+  - Malware
   - report
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
   

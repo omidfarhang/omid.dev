@@ -7,9 +7,9 @@ url: 2011/08/31/kernel-org-compromised/
 tags:
   - kernel.org
   - report
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Read it yourself…

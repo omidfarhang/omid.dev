@@ -7,8 +7,9 @@ url: 2009/12/19/system-adware-scanner-2010/
 tags:
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 System Adware Scanner 2010 is phony security software, made to look and act like legitimate security software. System Adware Scanner 2010 is a potentially very dangerous PC infection that should be removed from infected systems immediately.

@@ -10,8 +10,9 @@ tags:
   - scam
   - social networking
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This morning while I was enjoying my coffee I received an event notification for my personal Facebook account. It was for a group called “See Who’s Spying On Your Profile – GET NOTIFIED -”. and “See Everyone Who Views Your Profile”. Immediately, my security hat went on and I started to investigate.

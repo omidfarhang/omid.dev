@@ -5,13 +5,14 @@ layout: single
 author_profile: true
 url: 2010/03/04/chat-with-malcode/
 tags:
-  - malware
+  - Malware
   - review
   - rogue software
   - scam
   - YouTube
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It’s time for your daily dose of “spot the fake program / avoid the fake program”.

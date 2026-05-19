@@ -9,8 +9,9 @@ tags:
   - BlackBerry
   - hoax
   - Mobile
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I received an interesting IM from a friend via BlackBerry Messenger [BBM] this weekend. She was worried that it could do damage to her shiny new BlackBerry and, as she knew I work for _[a security company]_, she forwarded it to me for my opinion.

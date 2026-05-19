@@ -9,7 +9,7 @@ tags:
   - Beta
   - review
 
-categories: 
+categories:
   - TechBlog
 ---
 ![](/images/2011/08/avira_logo_red_rgb.jpg)

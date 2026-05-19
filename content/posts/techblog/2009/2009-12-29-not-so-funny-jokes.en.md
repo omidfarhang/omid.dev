@@ -8,10 +8,11 @@ shortlink: https://g.omid.dev/1QRkJTP
 tags:
   - alert
   - Facebook
-  - malware
+  - Malware
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 

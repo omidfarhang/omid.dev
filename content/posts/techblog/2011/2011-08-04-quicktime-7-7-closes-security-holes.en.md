@@ -8,11 +8,11 @@ tags:
   - Apple
   - Mac OS X
   - QuickTime
-  - security
+  - Security
   - Updates
   - Windows
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://1.bp.blogspot.com/-c_i3xoOcbiI/TjqgHJPa23I/AAAAAAAAD8Q/d-jgLK-50cI/s1600/quicktime_logo_txt200-56bc9f4a22d1598c.png)](http://1.bp.blogspot.com/-c_i3xoOcbiI/TjqgHJPa23I/AAAAAAAAD8Q/d-jgLK-50cI/s1600/quicktime_logo_txt200-56bc9f4a22d1598c.png)

@@ -8,8 +8,9 @@ tags:
   - Adobe
   - alert
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It's Fat Tuesday — time for an Adobe Update.

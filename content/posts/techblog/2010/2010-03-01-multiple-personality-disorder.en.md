@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/03/01/multiple-personality-disorder/
 tags:
-  - malware
+  - Malware
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4w-xFUgPeI/AAAAAAAABDU/8BKULHF35WE/s640/nose-moustache-glasses2.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4w-xFUgPeI/AAAAAAAABDU/8BKULHF35WE/s1600-h/nose-moustache-glasses2.png)

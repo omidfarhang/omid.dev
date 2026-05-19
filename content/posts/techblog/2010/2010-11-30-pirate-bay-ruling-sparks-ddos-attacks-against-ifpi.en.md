@@ -9,8 +9,9 @@ tags:
   - news
   - report
   - ThePirateBay
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **The Anonymous group takes revenge after legal decision against Pirate Bay founders**

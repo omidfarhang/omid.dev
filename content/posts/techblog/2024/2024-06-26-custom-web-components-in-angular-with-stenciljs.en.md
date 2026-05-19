@@ -7,11 +7,11 @@ url: 2024/06/26/implementing-custom-web-components-in-angular-with-stenciljs/
 shortlink: https://g.omid.dev/oVJBMWJ
 tags:
   - Angular
-  - Frontend Development
+  - Frontend
   - Web Components
   - StencilJs
 
-categories: 
+categories:
   - TechBlog
 ---
 In modern web development, the ability to create reusable components that work across different frameworks and libraries is crucial. This is where Web Components come into play. Web Components allow developers to create custom, reusable HTML elements with encapsulated functionality and styling. However, building Web Components from scratch can be complex and time-consuming. Enter Stencil.js, a powerful tool that simplifies the creation of Web Components.

@@ -6,8 +6,9 @@ author_profile: true
 url: '2014/04/06/محدودیت-های-توییتر/'
 shortlink: https://g.omid.dev/21qKz62
 image: /images/2014/04/twitter-280.jpg
-
-categories: 
+tags:
+  - Technology News
+categories:
   - TechBlog
 ---
 ### چرا محدودیت؟

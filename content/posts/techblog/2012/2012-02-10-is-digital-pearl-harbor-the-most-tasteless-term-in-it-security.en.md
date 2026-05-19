@@ -7,9 +7,9 @@ url: 2012/02/10/is-digital-pearl-harbor-the-most-tasteless-term-in-it-security/
 tags:
   - report
   - review
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 ![](http://lh6.ggpht.com/-bb4cyoOU-ug/TzTsofsosAI/AAAAAAAAEm8/P4R5vKCzGo4/s1600-h/digital-pearl-harbor-170%25255B2%25255D.jpg)

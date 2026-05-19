@@ -8,7 +8,7 @@ tags:
   - Google
   - news
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7MwP9B0VVI/AAAAAAAABbA/gpcdZSZ1lzQ/s200/igoogle-file-transfer.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7MwP9B0VVI/AAAAAAAABbA/gpcdZSZ1lzQ/s1600-h/igoogle-file-transfer.jpg)

@@ -9,8 +9,9 @@ tags:
   - report
   - review
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Resident Evil. Man, those films are terrible.

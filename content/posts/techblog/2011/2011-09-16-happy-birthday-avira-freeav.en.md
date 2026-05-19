@@ -7,7 +7,7 @@ url: 2011/09/16/happy-birthday-avira-freeav/
 tags:
   - Avira
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-DKKiUcJdRhw/TnNzbLmKktI/AAAAAAAAECM/8mFTWXKNTuo/s400/Avira_n.jpg)](http://4.bp.blogspot.com/-DKKiUcJdRhw/TnNzbLmKktI/AAAAAAAAECM/8mFTWXKNTuo/s1600/Avira_n.jpg)

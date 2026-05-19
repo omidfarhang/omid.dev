@@ -7,12 +7,13 @@ url: 2010/04/03/jon-and-kate-plus-eight-plus-fake-codecs/
 tags:
   - advice
   - alert
-  - malware
+  - Malware
   - review
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 One our researchers was reading the comments about Dancing With The Stars, and Kate Gosselin's performance (He's a huge fan … don't ask), when he noticed a link to a URL shortening service. Given that it was advertising a video of Kate Gosselin topless, he astutely realised that was a bit suspicious, and checked it out inside a nice, safe virtual pc. Indeed, the shortening service immediately transferred to a website showing a picture of Kate at the beach…

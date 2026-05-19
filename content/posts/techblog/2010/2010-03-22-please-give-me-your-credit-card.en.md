@@ -9,8 +9,9 @@ tags:
   - phishing
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I won't abuse it, I promise…. cross my heart… spit into the wind… etc.

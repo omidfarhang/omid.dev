@@ -10,7 +10,7 @@ tags:
   - Firefox
   - Internet Explorer
 
-categories: 
+categories:
   - TechBlog
 ---
 Virus Bulletin is reporting that a recent survey it conducted found that about one out of five people are still using the dangerously-out-of-date version six of Microsoft’s Internet Explorer.

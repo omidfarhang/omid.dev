@@ -7,8 +7,9 @@ url: 2011/06/04/the-old-dogs-are-still-in-learning-mode/
 tags:
   - review
   - rogue software
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Norman Security Blog wrote a good article about Fake AVs and their new variants and how to protect ourselves, Credit to my friend, Pondus, for sharing this:

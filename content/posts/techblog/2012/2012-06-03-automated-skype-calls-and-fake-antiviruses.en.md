@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2012/06/03/automated-skype-calls-and-fake-antiviruses/
 tags:
-  - malware
+  - Malware
   - scam
   - Skype
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This is an old story back from September, 2011, but since recently I’ve seen users complaining about this, I want to share it again [Credit to [NakedSecurity](http://nakedsecurity.sophos.com/2011/09/19/automated-skype-calls-spread-fake-anti-virus-warning-video), SophoLabs]:

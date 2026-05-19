@@ -6,10 +6,11 @@ author_profile: true
 url: 2010/01/13/rimecud-and-hamweq-birds-of-a-feather/
 tags:
   - alert
-  - malware
+  - Malware
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Following the addition of Win32/Hamweq to the MSRT last month, MMPC will continue cleaning PCs in 2010 by adding another prevalent worm, Win32/Rimecud, to this month's removal tool.

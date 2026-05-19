@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/03/08/vodafone-distributes-mariposa-botnet/
 tags:
   - Android
-  - malware
+  - Malware
   - Mobile
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Here is yet another example of a company distributing malware to its userbase. Unfortunately it probably won’t be the last.

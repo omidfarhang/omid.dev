@@ -12,9 +12,10 @@ tags:
   - Angular
   - Apollo Server
   - Webentwicklung
-  - Frontend-Entwicklung
+  - Frontend
+  - Case Study
 
-categories: 
+categories:
   - TechBlog
 ---
 In der sich heute rasant entwickelnden Webentwicklungslandschaft hat sich GraphQL als leistungsstarke Alternative zu traditionellen REST-APIs herauskristallisiert. Dieser Blogbeitrag führt Sie durch den Prozess der Migration Ihres Express.js-Backends und Angular-Frontends von REST zu GraphQL und erschließt die Vorteile einer flexibleren und effizienteren API-Architektur.

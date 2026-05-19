@@ -7,10 +7,11 @@ url: 2010/01/13/warning-on-possible-android-mobile-trojans/
 tags:
   - alert
   - Android
-  - malware
+  - Malware
   - Mobile
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Google's Android mobile operating system has been out for a while and is generating more and more interest.

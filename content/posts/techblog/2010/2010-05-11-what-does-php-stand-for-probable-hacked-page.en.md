@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/05/11/what-does-php-stand-for-probable-hacked-page/
 tags:
   - hack
-  - malware
+  - Malware
   - PHP
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Late last week, the wires were buzzing over news that the official site of PHP-Nuke _“**Professional Content Management System**“_ was serving malware. I am frankly amazed to see the site still infected 4 days later.

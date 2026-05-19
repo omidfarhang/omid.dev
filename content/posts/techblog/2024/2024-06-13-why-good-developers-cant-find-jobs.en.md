@@ -11,8 +11,9 @@ tags:
   - Skills
   - Resume
   - Developers
+  - Career
 
-categories: 
+categories:
   - TechBlog
 ---
 In the tech world, it's not uncommon to hear stories of talented developers struggling to land a job, despite their evident skills and passion. Whether you're a junior developer fresh out of a coding bootcamp or a senior developer with years of experience, the job market can be daunting. Let's delve into some reasons why good developers sometimes can't find jobs and explore strategies and tools to help them secure their dream roles.

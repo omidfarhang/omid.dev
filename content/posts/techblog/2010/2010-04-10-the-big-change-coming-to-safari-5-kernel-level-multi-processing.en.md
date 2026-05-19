@@ -15,7 +15,7 @@ tags:
   - Safari
   - Safari 5
 
-categories: 
+categories:
   - TechBlog
 ---
 Apple has been challenging Google on many fronts this week — first with its mobile platform, then with its advertising platform. Earlier today, its developers launched the first volley in the battle's third front, releasing the first public code for the next WebKit rendering and processing kernel that will likely drive the Safari 5 browser. 

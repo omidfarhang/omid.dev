@@ -17,7 +17,7 @@ tags:
   - Reactivity
   - Performance
 
-categories: 
+categories:
   - TechBlog
 ---
 Angular Signals have changed the way we think about reactivity in the frontend. But if you step outside the world of JavaScript, the concept of a "Signal" has a much older, much deeper history in Control Theory and Electrical Engineering.

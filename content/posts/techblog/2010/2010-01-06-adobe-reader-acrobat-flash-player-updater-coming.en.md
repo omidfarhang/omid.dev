@@ -9,7 +9,7 @@ tags:
   - Patch Tuesday
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 There has been extensive news coverage this week of Adobe’s plans for ramped-up security in its popular Reader, Acrobat and Flash Player applications, especially the Reader and Acrobat updates promised next week.

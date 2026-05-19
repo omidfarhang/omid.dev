@@ -7,10 +7,10 @@ url: 2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakabl
 shortlink: https://g.omid.dev/pKkSzB8
 tags:
   - Angular
-  - Frontend Development
+  - Frontend
   - Angular Providers
 
-categories: 
+categories:
   - TechBlog
 ---
 Dependency Injection (DI) is a fundamental design pattern in Angular that allows for the efficient management of dependencies within an application. By using DI, Angular promotes the principle of Inversion of Control (IoC), where the control of creating and managing dependencies is inverted from the component itself to an external framework. This results in more modular, testable, and maintainable code. In this post, we will explore two advanced DI techniques in Angular: Tree-Shakable Providers and Injection Tokens.

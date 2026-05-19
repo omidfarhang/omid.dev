@@ -10,8 +10,9 @@ tags:
   - Microsoft
   - Patch Tuesday
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This Black Tuesday was different as anticipated – Microsoft releases only one security bulletin, but other companies “jumped in” and deliver updates now as well.

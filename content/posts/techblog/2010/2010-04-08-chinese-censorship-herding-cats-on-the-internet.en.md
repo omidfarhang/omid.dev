@@ -8,7 +8,7 @@ tags:
   - news
   - report
 
-categories: 
+categories:
   - TechBlog
 ---
 Search terms that are censored in China:

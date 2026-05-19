@@ -8,8 +8,9 @@ shortlink: https://g.omid.dev/txruZTG
 tags:
   - Safety Tips
   - Password
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Strong passwords are important protections to help you have safer online transactions.

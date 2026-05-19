@@ -7,11 +7,12 @@ url: 2009/12/14/oh-oh-oh-santa-delivering-fakeav-presents/
 shortlink: https://g.omid.dev/1RjHE4D
 tags:
   - Facebook
-  - malware
+  - Malware
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Following on from the latest Captcha techniques used by the W32/Koobface worm, it seems that the malware authors have turned to Santa for help to deliver it’s nasty surprise which awaits Facebook users. The infection drops other trojans such as FakeAlert and leaves the user renderless.

@@ -6,9 +6,10 @@ author_profile: true
 url: 2010/01/25/virus-writers-produce-hardware-damaging-code-with-win32-worm-zimuse/
 tags:
   - alert
-  - malware
+  - Malware
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Disguised IQ test combines virus, rootkit and worm — malicious code for one fatal formula

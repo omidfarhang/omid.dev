@@ -7,8 +7,9 @@ url: 2010/02/14/tigers-play-too-rough-on-valentines-day/
 tags:
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 While most sane people around the world are enjoying a romantic Valentine’s Day today, we at SophosLabs remain vigilant on the front line of the war against malware.

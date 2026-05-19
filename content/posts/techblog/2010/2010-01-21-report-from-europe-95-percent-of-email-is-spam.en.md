@@ -7,8 +7,9 @@ url: 2010/01/21/report-from-europe-95-percent-of-email-is-spam/
 tags:
   - report
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 The European Network and Information Security Agency (ENISA) has released a report that says 95 percent of all email is now spam.

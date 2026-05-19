@@ -7,11 +7,11 @@ url: 2010/11/12/more-than-100-security-fixes-in-mac-os-x-10-6-5/
 tags:
   - Apple
   - Mac OS X
-  - security
+  - Security
   - Updates
   - Vulnerability
 
-categories: 
+categories:
   - TechBlog
 ---
 Apple has issued the latest update to its Mac OS X operating system, bringing Snow Leopard users up to Mac OS X 10.6.5.

@@ -7,8 +7,9 @@ url: 2010/01/21/web-users-still-dont-select-good-passwords/
 tags:
   - advice
   - alert
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Security firm Imperva of Redwood Shores, Calif., found a unique way to gage the quality of the passwords that Web users select: they analyzed the 32 million passwords in the unencrypted file of passwords that miscreants stole from the servers of RockYou.com in December and posted on the Internet.

@@ -6,9 +6,9 @@ author_profile: true
 url: 2012/04/25/facebook-teams-up-with-security-vendors/
 tags:
   - Facebook
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Facebook and security. Is it a marriage that has any legs? 

@@ -6,10 +6,11 @@ author_profile: true
 url: 2009/12/15/the-biggest-rogue-family/
 shortlink: https://g.omid.dev/1TXEo4S
 tags:
-  - malware
+  - Malware
   - rogue software
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **The third generation of WiniGuard gets a new clone every 48 hours**

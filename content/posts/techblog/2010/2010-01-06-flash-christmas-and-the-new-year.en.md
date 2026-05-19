@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/06/flash-christmas-and-the-new-year/
 tags:
-  - malware
+  - Malware
   - report
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We see spam all the time. One of the most dependable things spammers do is to try and exploit various newsworthy events and holidays.

@@ -8,14 +8,15 @@ tags:
   - alert
   - Facebook
   - Hijack
-  - malware
+  - Malware
   - report
   - review
   - social media
   - social networking
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Spam emails such as the one below have been doing the rounds on the Internet hoping to lure recipients into downloading a Facebook toolbar.

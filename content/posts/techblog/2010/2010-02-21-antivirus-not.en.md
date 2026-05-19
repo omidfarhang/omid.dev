@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/02/21/antivirus-not/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 “Dammed thieves. Stole our logo. I suppose we should be flattered, though.”  

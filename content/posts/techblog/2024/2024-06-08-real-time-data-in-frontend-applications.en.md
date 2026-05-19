@@ -6,7 +6,7 @@ author_profile: true
 url: 2024/06/08/real-time-data-in-frontend-applications/
 shortlink: https://g.omid.dev/gcSlsEE
 tags:
-  - Frontend Development
+  - Frontend
   - WebSockets
   - SSE
   - GraphQL
@@ -17,7 +17,7 @@ tags:
   - Apollo Client
   - nginx
 
-categories: 
+categories:
   - TechBlog
 ---
 In today's digital age, the demand for real-time data in frontend applications has surged dramatically. Users expect instantaneous updates, seamless interactions, and dynamic content without the need for manual refreshes. This blog post delves into various methods for handling real-time data in frontend applications, including WebSockets, Server-Sent Events (SSE), and emerging technologies such as HTTP/2 and HTTP/3 Push, WebTransport, GraphQL Subscriptions, and gRPC Streams. We'll explore their implementation patterns, performance considerations, and relevant use cases.

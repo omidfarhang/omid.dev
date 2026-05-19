@@ -7,8 +7,9 @@ url: 2012/03/07/panda-security-cleans-up-defaced-websites-after-lulzsec-arrest-r
 tags:
   - hack
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs/NakedSecurity:** With alleged Anonymous hackers belonging to the LulzSec group arrested and charged yesterday, and the startling relevation that prominent hacker Sabu had been working undercover for the FBI for months, hacktivists defaced a number of websites belonging to anti-virus firm Panda Security overnight. 

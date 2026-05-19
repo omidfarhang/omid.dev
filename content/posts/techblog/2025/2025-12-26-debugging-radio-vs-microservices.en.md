@@ -16,8 +16,9 @@ tags:
   - Microservices
   - Observability
   - Engineering Mentality
+  - Software Architecture
 
-categories: 
+categories:
   - TechBlog
 ---
 When you open up a 1970s radio, you aren't met with logs or stack traces. You're met with voltages, currents, and signals. If the audio is distorted, you don't "grep" for an error; you trace the signal path from the antenna to the speaker.

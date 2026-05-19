@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 url: 2010/03/12/you-dont-want-to-go-looking-for-corey-haim-videos/
 tags:
-  - malware
+  - Malware
   - phishing
   - scam
   - YouTube
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Hollywood celebrity Corey Haim has died in typical tabloid fashion: “under investigation.” And we all know that celebrity death equals Internet scams by the boatload.

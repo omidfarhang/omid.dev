@@ -6,13 +6,13 @@ author_profile: true
 url: 2024/06/10/common-mistakes-frontend-developers-make-and-how-to-avoid-them/
 shortlink: https://g.omid.dev/5iiMUjI
 tags:
-  - Frontend Development
+  - Frontend
   - Coding Best Practices
-  - Web Performance 
+  - Web Performance
   - ResponsiveDesign
   - Accessibility
 
-categories: 
+categories:
   - TechBlog
 ---
 As a frontend developer, creating a seamless, efficient, and visually appealing user experience is the ultimate goal. However, even the most experienced developers can fall into common traps that can impact the overall quality of their work. In this blog post, we'll explore some of the most frequent mistakes made by frontend developers and how to avoid them.

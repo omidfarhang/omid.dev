@@ -11,8 +11,9 @@ tags:
   - social networking
   - Twitter
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 In Additional to my last post: <http://boelectronic.blogspot.com/2010/03/twitter-phished-its-easy-mistake.html>

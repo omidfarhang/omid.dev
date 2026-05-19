@@ -11,7 +11,7 @@ tags:
   - mobile phones
   - Motorola Mobility
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://2.bp.blogspot.com/-OOfejdr2RcI/TklvP6c4C3I/AAAAAAAAD98/PD4COP8t_Yk/s320/Google.jpg)](http://2.bp.blogspot.com/-OOfejdr2RcI/TklvP6c4C3I/AAAAAAAAD98/PD4COP8t_Yk/s1600/Google.jpg)

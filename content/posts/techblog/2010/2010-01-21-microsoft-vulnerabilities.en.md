@@ -7,8 +7,9 @@ url: 2010/01/21/microsoft-vulnerabilities/
 tags:
   - alert
   - Microsoft
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Microsoft is releasing an out-of-band update for their IE vulnerability.

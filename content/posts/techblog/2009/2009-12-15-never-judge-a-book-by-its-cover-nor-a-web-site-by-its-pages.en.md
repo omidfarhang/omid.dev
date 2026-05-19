@@ -6,11 +6,12 @@ author_profile: true
 url: 2009/12/15/never-judge-a-book-by-its-cover-nor-a-web-site-by-its-pages/
 shortlink: https://g.omid.dev/1QsRxgk
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Case in point: findproper[dot]org

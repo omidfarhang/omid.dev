@@ -6,11 +6,12 @@ author_profile: true
 url: 2009/12/17/whos-the-quickest-only-one-way-to-find-out/
 shortlink: https://g.omid.dev/1Lg6V3g
 tags:
-  - malware
+  - Malware
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Earlier on this morning I happened to notice a redirect page used in a meds spam campaign that just happened to also be compromised with a malicious script.

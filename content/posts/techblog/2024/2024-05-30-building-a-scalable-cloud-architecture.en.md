@@ -13,7 +13,7 @@ tags:
   - AWS
   - Azure
 
-categories: 
+categories:
   - TechBlog
 ---
 In today's fast-paced digital landscape, businesses need to ensure that their infrastructure can handle growth and scale effectively. This is where a well-designed, scalable cloud architecture comes into play. Building a scalable cloud architecture involves more than just migrating existing systems to the cloud; it requires thoughtful planning, the right tools, and best practices to ensure your applications and services can grow with your business needs.

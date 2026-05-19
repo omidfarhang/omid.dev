@@ -9,8 +9,9 @@ tags:
   - Microsoft
   - Patch Tuesday
   - Updates
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Microsoft has issued an advance notification for Patch Tuesday next week. The company said it expects to issue two patches, one for Windows and one for Office. Both are intended to patch vulnerabilities that could allow remote code execution and both are rated “important.”

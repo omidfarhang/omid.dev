@@ -9,8 +9,9 @@ tags:
   - news
   - report
   - rogue software
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 For the first time, the FBI has issued a public warning about the threat of rogue anti-virus software, which the agency said has resulted in more than $150 million in losses to victims.

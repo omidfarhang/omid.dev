@@ -8,10 +8,11 @@ tags:
   - advice
   - alert
   - forum
-  - malware
+  - Malware
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://3.bp.blogspot.com/-A3rWc1eyZhU/TqbranNHc3I/AAAAAAAAEK4/eKHtIWE4ow0/s1600/MyBB_logo_200.png)](http://3.bp.blogspot.com/-A3rWc1eyZhU/TqbranNHc3I/AAAAAAAAEK4/eKHtIWE4ow0/s1600/MyBB_logo_200.png)

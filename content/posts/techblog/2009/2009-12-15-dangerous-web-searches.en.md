@@ -7,11 +7,12 @@ url: 2009/12/15/dangerous-web-searches/
 shortlink: https://g.omid.dev/1Y7HoL9
 tags:
   - alert
-  - malware
+  - Malware
   - phishing
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Don’t go there. There are a lot of rogue downloaders hiding in those links.

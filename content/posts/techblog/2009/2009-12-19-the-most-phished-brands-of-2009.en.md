@@ -7,8 +7,9 @@ url: 2009/12/19/the-most-phished-brands-of-2009/
 tags:
   - phishing
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Almost the entire year 2009, the battle for the first place on phishing targets took place between Ebay and Chase Bank. Most of the time, the Chase Bank was on top of the most phished brands.

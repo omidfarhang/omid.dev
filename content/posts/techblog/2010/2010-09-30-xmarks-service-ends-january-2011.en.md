@@ -12,7 +12,7 @@ tags:
   - Safari
   - Xmarks
 
-categories: 
+categories:
   - TechBlog
 ---
 ![xmarks-v-105x122](http://lh5.ggpht.com/_vaUVXcmC3OI/TKRZ4kqeJHI/AAAAAAAACkM/OmAS-VS5tTc/xmarks-v-105x122_thumb%5B1%5D.png?imgmax=800)

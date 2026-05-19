@@ -8,10 +8,10 @@ tags:
   - advice
   - Discontinue
   - news
-  - ubuntu
+  - Ubuntu
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 [![](http://4.bp.blogspot.com/-0yY6IffCBtA/TaWJYhsqm0I/AAAAAAAAD1I/Z6b3mlUFtXw/s1600/Ubuntu_OLD_Logo_200-9a0ec4ffb926b5c0.png)](http://4.bp.blogspot.com/-0yY6IffCBtA/TaWJYhsqm0I/AAAAAAAAD1I/Z6b3mlUFtXw/s1600/Ubuntu_OLD_Logo_200-9a0ec4ffb926b5c0.png)

@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/03/02/60-compromised-sites-with-seo-poisoning/
 tags:
   - hack
-  - malware
+  - Malware
   - phishing
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 More than 60 websites have been found to be hotbeds for SEO poisoning. Each of these domains host hundreds of possible matches for search keys.

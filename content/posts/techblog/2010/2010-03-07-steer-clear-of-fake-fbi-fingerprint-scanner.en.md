@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/03/07/steer-clear-of-fake-fbi-fingerprint-scanner/
 tags:
-  - malware
+  - Malware
   - review
   - YouTube
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Sources on a number of forums tell me that a certain application is going to be released into the wild in a few days, promoted heavily via sites such as Youtube to attract as many potential victims as possible. I thought it might be beneficial to get a head start on the bad guys and get word out before they hit their big green “Go” switch.

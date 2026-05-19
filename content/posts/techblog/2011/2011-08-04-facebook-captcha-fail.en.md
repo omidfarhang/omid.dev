@@ -9,7 +9,7 @@ tags:
   - Fun
   - social networking
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs:** Facebook has taken security to a whole new level.

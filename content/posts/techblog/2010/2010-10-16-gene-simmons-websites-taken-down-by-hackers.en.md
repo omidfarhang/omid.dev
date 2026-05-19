@@ -9,8 +9,9 @@ tags:
   - music
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Some people didn't like his comments about downloading…

@@ -8,7 +8,7 @@ tags:
   - news
   - Yahoo
 
-categories: 
+categories:
   - TechBlog
 ---
 A spokesman for Australian Communications Minister Stephen Conroy has said that legislation that would set up a $120 million Internet censorship system requiring ISPs to block pornography (and information about euthanasia) will not be introduced before Australia’s upcoming elections, possibly October.

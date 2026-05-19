@@ -11,7 +11,7 @@ tags:
   - DevOps
   - Docker Compose
 
-categories: 
+categories:
   - TechBlog
 ---
 In the modern era of software development, Docker has become an indispensable tool for developers and DevOps engineers. It streamlines the process of deploying applications by providing a consistent environment across different stages of development, testing, and production. In this blog post, we'll explore what Docker is, how to install it, and demonstrate a common use case: running a local WordPress site using Docker Compose.

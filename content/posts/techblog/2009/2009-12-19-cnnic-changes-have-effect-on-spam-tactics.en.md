@@ -7,8 +7,9 @@ url: 2009/12/19/cnnic-changes-have-effect-on-spam-tactics/
 tags:
   - report
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 As was announced on Dec 11th, CNNIC (China Internet Network Information Center) now requires a “formal paper based application material when making the online application to the registrar.”

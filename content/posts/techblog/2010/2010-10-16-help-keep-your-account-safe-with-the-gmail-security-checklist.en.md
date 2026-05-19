@@ -9,9 +9,9 @@ tags:
   - gmail
   - Google
   - Hijack
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Posted by Diana Phan, Gmail Support Team

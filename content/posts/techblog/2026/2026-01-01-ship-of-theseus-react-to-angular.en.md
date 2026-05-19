@@ -16,8 +16,9 @@ tags:
   - Migration
   - Frontend Architecture
   - FinTech
+  - Case Study
 
-categories: 
+categories:
   - TechBlog
 ---
 In the software world, the "Ship of Theseus" paradox is a daily reality. We replace parts of a system until, eventually, none of the original code remains. But usually, the industry moves toward the "shiny new thing." 

@@ -9,8 +9,9 @@ tags:
   - hack
   - news
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 _Cross-posted from Gizmodo:_ 

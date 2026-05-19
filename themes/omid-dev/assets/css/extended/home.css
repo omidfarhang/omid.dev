@@ -172,6 +172,34 @@
     color: var(--secondary);
 }
 
+.topics-subtitle {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--secondary);
+    margin: 0 0 20px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.topics-subtitle:not(:first-of-type) {
+    margin-top: 40px;
+}
+
+.topic-card-all {
+    border-style: dashed;
+}
+
+.topic-card-all .topic-icon {
+    background: transparent;
+    border: 2px dashed var(--border);
+}
+
+.topic-card-all:hover .topic-icon {
+    background: var(--accent);
+    border-color: var(--accent);
+    transform: none;
+}
+
 /* Recent Posts Section */
 .posts-grid {
     display: grid;

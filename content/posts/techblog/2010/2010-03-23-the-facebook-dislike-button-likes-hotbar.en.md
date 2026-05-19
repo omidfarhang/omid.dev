@@ -7,10 +7,11 @@ url: 2010/03/23/the-facebook-dislike-button-likes-hotbar/
 tags:
   - Facebook
   - Firefox
-  - malware
+  - Malware
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Not so long ago, examples of fake Firefox websites / downloads were in the news with the sites involved serving Hotbar installs.

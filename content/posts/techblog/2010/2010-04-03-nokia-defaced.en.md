@@ -8,8 +8,9 @@ tags:
   - advice
   - alert
   - hack
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I’m almost certain this shouldn’t be on the Nokia.de webspace, lurking under the “online.nokia.de” subdomain:

@@ -7,11 +7,12 @@ url: 2014/08/22/new-facebook-scams-2014/
 shortlink: https://g.omid.dev/1WRItp7
 image: /images/2014/08/New-Facebook-scams-in-2014.jpg
 tags:
-  - "2014"
+  - 2014
   - Facebook
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 So many Facebook scams in 2014 have been a little worrying even though at first they all seem innocent enough, but these are social scams to lure users in to gain money or access to computers.

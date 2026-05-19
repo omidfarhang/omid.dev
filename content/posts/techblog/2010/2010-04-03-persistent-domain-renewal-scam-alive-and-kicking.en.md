@@ -10,8 +10,9 @@ tags:
   - review
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 A friend of mine forwarded a suspicious email message recently. I’ve replaced the domain, order number, etc. below:

@@ -8,8 +8,9 @@ shortlink: https://g.omid.dev/u5yZHGm
 tags:
   - Safety Tips
   - social networks
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Social networking Web sites like MySpace, Facebook, Twitter, and Windows Live Spaces are services people can use to connect with others to share information like photos, videos, and personal messages.

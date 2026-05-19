@@ -107,6 +107,18 @@
 - id: topics
   translation: "موضوعات"
 
+- id: tech_topics
+  translation: "موضوعات فنی"
+
+- id: tech_topics_professional
+  translation: "مهندسی و رهبری"
+
+- id: tech_topics_technical
+  translation: "عمق فنی"
+
+- id: view_all_tech_posts
+  translation: "همه مطالب فنی"
+
 - id: save_contact
   translation: "ذخیره مخاطب"
 

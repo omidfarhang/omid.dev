@@ -6,12 +6,13 @@ author_profile: true
 url: 2010/12/07/taking-a-look-at-fake-amazon-receipt-generators/
 tags:
   - Amazon
-  - malware
+  - Malware
   - phishing
   - report
   - review
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Sunbelt Blog:** 

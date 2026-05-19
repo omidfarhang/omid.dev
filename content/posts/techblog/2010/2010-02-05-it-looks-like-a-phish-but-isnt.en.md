@@ -7,8 +7,9 @@ url: 2010/02/05/it-looks-like-a-phish-but-isnt/
 tags:
   - phishing
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 This is really bad for so many reasons.  It certainly doesn’t help their security.

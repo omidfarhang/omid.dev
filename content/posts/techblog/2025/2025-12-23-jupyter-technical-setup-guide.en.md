@@ -17,8 +17,9 @@ tags:
   - DevOps
   - Setup
   - VS Code
+  - Data & AI
 
-categories: 
+categories:
   - TechBlog
 ---
 *This is Part 2 of a three-part series. In [Part 1: The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/), we discussed why and when to use Jupyter. Here, we dive into the technical implementation. [Part 3: Real-World Code Examples](/2025/12/23/jupyter-real-world-examples/) covers practical use cases.*

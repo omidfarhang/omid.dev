@@ -11,9 +11,9 @@ tags:
   - Google
   - Linux
   - networking
-  - ubuntu
+  - Ubuntu
 
-categories: 
+categories:
   - TechBlog
 ---
 Recently I had problem with my Ubuntu, Whenever I tried to open a website my Chromium told me that a Network Change has been detected and after 1-2 reload that sites would load and sometimes failed to load fully.

@@ -6,13 +6,14 @@ author_profile: true
 url: 2010/10/06/stuxnet-questions-and-answers/
 tags:
   - 0-Day
-  - malware
+  - Malware
   - Question and Answer
   - report
   - review
   - Stuxnet
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **Stuxnet** continues to be a hot topic. Here are answers to some of the questions we've received.

@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/21/protectsoldier/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 ProtectSoldier is the latest rogue antispyware program released by cyber thieves to terrorize PC users.

@@ -10,7 +10,7 @@ tags:
   - Google Chrome
   - Updates
 
-categories: 
+categories:
   - TechBlog
 ---
 ![](http://2.bp.blogspot.com/-pUE4XhKMyXM/Twnig4IFrtI/AAAAAAAAEY0/9ULf2RnoNNs/s1600/new-chrome-logo.png)

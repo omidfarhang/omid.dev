@@ -7,12 +7,13 @@ url: 2024/06/24/realtime-collaborative-editor-with-angular-firebase-webrtc/
 shortlink: https://g.omid.dev/B5GbSr0
 tags:
   - Angular
-  - Frontend Development
+  - Frontend
   - Firebase
   - WebRTC
   - Real-Time App
+  - Case Study
 
-categories: 
+categories:
   - TechBlog
 ---
 Creating a real-time collaborative text editor can be a challenging but rewarding project. In this guide, we'll walk you through the process of building a real-time collaborative editor using Angular, Firebase, and WebRTC. By the end of this tutorial, you’ll have a working understanding of these technologies and how to integrate them to create a seamless, real-time collaborative experience.

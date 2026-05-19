@@ -8,8 +8,9 @@ tags:
   - AOL
   - phishing
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Today we received some job hiring emails that looked like this:

@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/01/06/thrice-bitten-not-shy/
 tags:
-  - malware
+  - Malware
   - report
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 The one subset of malware which does not immediately seem motivated by financial incentives is the autorun worm. In fact the raison d’etre for this class of malware seems lodged in the annals of yesteryear; summarised in three words it could be “naive script-kiddy kudos”.

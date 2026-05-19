@@ -12,9 +12,9 @@ tags:
   - DOM-Manipulation
   - Komponenten-Interaktion
   - Angular Best Practices
-  - Frontend-Entwicklung
+  - Frontend
 
-categories: 
+categories:
   - TechBlog
 ---
 Die Decorator `@ViewChild` und `@ContentChild` von Angular bieten eine leistungsstarke Möglichkeit, mit Kindkomponenten, DOM-Elementen und projizierten Inhalten innerhalb des Templates einer Komponente zu interagieren. Obwohl sie oft missverstanden oder synonym verwendet werden, hat jeder seinen eigenen spezifischen Zweck und Anwendungsfall.

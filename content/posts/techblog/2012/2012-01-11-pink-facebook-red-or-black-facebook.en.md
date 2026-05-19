@@ -9,8 +9,9 @@ tags:
   - Facebook
   - scam
   - social networking
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Pink Facebook? Red or black Facebook?

@@ -9,12 +9,12 @@ tags:
   - Angular
   - WebAudio API
   - Musikvisualisierung
-  - Frontend-Entwicklung
+  - Frontend
   - JavaScript
   - Webentwicklung
   - HTML5 Canvas
 
-categories: 
+categories:
   - TechBlog
 ---
 Musikvisualisierung war schon immer eine faszinierende Möglichkeit, das Hörerlebnis zu verbessern, indem sie eine visuelle Darstellung von Klang bietet, die sowohl hypnotisierend als auch informativ sein kann. Mit der Leistung moderner Webtechnologien wie Angular und der Web Audio API ist die Erstellung dynamischer Musikvisualisierungen zugänglicher denn je. Dieser Blogbeitrag führt Sie durch den Prozess des Aufbaus einer ansprechenden Musikvisualisierungsanwendung mit Angular und der Web Audio API.

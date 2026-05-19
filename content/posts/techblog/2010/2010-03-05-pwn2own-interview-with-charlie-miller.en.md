@@ -7,7 +7,7 @@ url: 2010/03/05/pwn2own-interview-with-charlie-miller/
 tags:
   - Interview
 
-categories: 
+categories:
   - TechBlog
 ---
 Charlie Miller, the Pwn2Own contest winner for two years in a row, gives his take on Internet security. Guess what — your Mac OS is no less vulnerable than its Microsoft Windows counterpart.

@@ -10,8 +10,9 @@ tags:
   - Instant Messaging
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 I have received a message this morning from an ICQ account with the following text written in UTF-8 and plain text:

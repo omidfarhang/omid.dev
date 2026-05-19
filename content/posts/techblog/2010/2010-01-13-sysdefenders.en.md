@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/01/13/sysdefenders/
 tags:
-  - malware
+  - Malware
   - rogue software
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 SysDefenders is the latest addition to the clones of the WiniGuard rogue anti-spyware family.

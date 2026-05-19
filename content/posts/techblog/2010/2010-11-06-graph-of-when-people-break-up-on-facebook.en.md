@@ -10,7 +10,7 @@ tags:
   - social media
   - social networking
 
-categories: 
+categories:
   - TechBlog
 ---
 **David McCandless** recently gave a **[presentation](http://mathiasmikkelsen.com/2010/10/amazing-facts-about-facebook-and-breakups/)** about data visualization in which he unveiled this graph, which tracked 10,000 Facebook status updates to determine precisely when people in relationships broke up.

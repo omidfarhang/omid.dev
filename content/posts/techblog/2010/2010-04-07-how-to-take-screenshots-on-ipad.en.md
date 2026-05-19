@@ -9,7 +9,7 @@ tags:
   - ipad
   - Tricks
 
-categories: 
+categories:
   - TechBlog
 ---
 **Apple iPad** is launched few days back and many tips and tutorials related to it have started appearing all over the web. We’ve a quick iPad tip – Taking screenshots in iPad.

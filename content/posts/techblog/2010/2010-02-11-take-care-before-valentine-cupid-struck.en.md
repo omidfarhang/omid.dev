@@ -5,10 +5,11 @@ layout: single
 author_profile: true
 url: 2010/02/11/take-care-before-valentine-cupid-struck/
 tags:
-  - malware
+  - Malware
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 It's just a few more days before Valentine's Day. As most people now are already preparing their celebration, malware authors are also getting ready to use this popular event to target users with their malicious intent.

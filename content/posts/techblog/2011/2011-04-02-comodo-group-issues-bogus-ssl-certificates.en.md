@@ -7,9 +7,9 @@ url: 2011/04/02/comodo-group-issues-bogus-ssl-certificates/
 tags:
   - report
   - review
-  - security
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 **from** <a href="http://boelectronic.blogspot.com/www.schneier.com" target="_blank"><strong>Schneier on Security</strong></a> **by Schneier:**

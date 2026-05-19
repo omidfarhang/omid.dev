@@ -6,11 +6,12 @@ author_profile: true
 url: 2010/02/04/microsoft-support-informs-you/
 tags:
   - alert
-  - malware
+  - Malware
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Since yesterday, our lab has detected a flood of email messages that seem to contain a Microsoft Update, but it’s actually malware. We’ve seen around 3,000 in a few hours.

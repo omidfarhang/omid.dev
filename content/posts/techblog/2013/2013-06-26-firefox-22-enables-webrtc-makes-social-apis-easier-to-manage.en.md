@@ -13,7 +13,7 @@ tags:
   - Mozilla
   - social networks
 
-categories: 
+categories:
   - TechBlog
 ---
 ![](/images/2013/06/logo-only.png)

@@ -14,7 +14,7 @@ tags:
   - Safari
   - Yahoo
 
-categories: 
+categories:
   - TechBlog
 ---
 **The Register:** YouPorn nabbed in real-world privacy sting

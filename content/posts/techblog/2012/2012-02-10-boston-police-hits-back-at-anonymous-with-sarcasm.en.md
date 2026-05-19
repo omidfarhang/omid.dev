@@ -8,7 +8,7 @@ tags:
   - Anonymous
   - Video
 
-categories: 
+categories:
   - TechBlog
 ---
 **SophosLabs:** Is it possible to fight Anonymous? 

@@ -5,13 +5,14 @@ layout: single
 author_profile: true
 url: 2010/08/14/my-friend-has-invited-me-to-twitter/
 tags:
-  - malware
+  - Malware
   - social networking
   - spam
   - Twitter
   - Yahoo
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 “What are you doing?  

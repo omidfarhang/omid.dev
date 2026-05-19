@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 url: 2010/02/04/its-lame-ransomware-but-it-could-fool-somebody/
 tags:
-  - malware
+  - Malware
   - phishing
   - scam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 Found this little gem today. It’s distributed with other malware, cracks and drive-by downloads. It purports to be a security warning from your Windows operating system.

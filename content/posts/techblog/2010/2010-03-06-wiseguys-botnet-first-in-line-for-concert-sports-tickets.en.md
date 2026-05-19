@@ -5,13 +5,14 @@ layout: single
 author_profile: true
 url: 2010/03/06/wiseguys-botnet-first-in-line-for-concert-sports-tickets/
 tags:
-  - malware
+  - Malware
   - phishing
   - report
   - scam
   - spam
+  - Security
 
-categories: 
+categories:
   - TechBlog
 ---
 We frequently read stories about spammers who can circumvent CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) authentication. Using bot-infected machines, they can create a vast number of random e-mail accounts for spamming purposes.
