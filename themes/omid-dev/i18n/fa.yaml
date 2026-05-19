@@ -50,6 +50,36 @@
 - id: view_all_posts
   translation: "مشاهده همه پست‌ها"
 
+- id: blog_intro
+  translation: "نوشته‌هایی درباره مهندسی نرم‌افزار، لینوکس، سلامت و چیزهایی که در مسیر یادگیری و ساختن تجربه می‌کنم."
+
+- id: browse_categories
+  translation: "مرور بر اساس موضوع"
+
+- id: all_posts
+  translation: "همه مطالب"
+
+- id: page
+  translation: "صفحه"
+
+- id: no_posts_yet
+  translation: "هنوز مطلبی در این بخش نیست."
+
+- id: pagination
+  translation: "صفحه‌بندی"
+
+- id: pagination_showing
+  translation: "صفحه {{ .page }} از {{ .pages }}"
+
+- id: pagination_first
+  translation: "صفحه اول"
+
+- id: pagination_last
+  translation: "صفحه آخر"
+
+- id: also_see
+  translation: "همچنین ببینید"
+
 - id: contact
   translation: "تماس"
 

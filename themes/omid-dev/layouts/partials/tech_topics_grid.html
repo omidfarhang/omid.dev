@@ -1,0 +1,69 @@
+{{- $techSection := site.GetPage "posts/techblog" }}
+{{- if not $techSection }}{{ return }}{{ end }}
+{{- $techPosts := $techSection.RegularPagesRecursive }}
+{{- if eq (len $techPosts) 0 }}{{ return }}{{ end }}
+
+{{- $showFeatured := .showFeatured | default false }}
+{{- $tagGroups := slice
+    (dict "title" (i18n "tech_topics_professional") "tags" site.Params.homeTechTagsProfessional)
+    (dict "title" (i18n "tech_topics_technical") "tags" site.Params.homeTechTagsTechnical)
+}}
+
+<section class="posts-section topics-section tech-topics-section" aria-labelledby="tech-topics-title">
+  <h2 id="tech-topics-title" class="section-title">{{ i18n "tech_topics" }}</h2>
+
+  {{- if $showFeatured }}
+  <a href="{{ $techSection.Permalink }}" class="tech-blog-featured">
+    <div class="topic-icon">
+      <i class="fa-solid fa-laptop-code"></i>
+    </div>
+    <div class="tech-blog-featured-text">
+      <h3>{{ $techSection.Title }}</h3>
+      {{- with $techSection.Description }}
+      <p class="tech-blog-featured-desc">{{ . }}</p>
+      {{- else }}
+      <p class="tech-blog-featured-desc">{{ $techSection.Content | plainify | truncate 160 }}</p>
+      {{- end }}
+      <p class="tech-blog-featured-meta">{{ T "all" }} {{ len $techPosts }} {{ T "posts" }} →</p>
+    </div>
+  </a>
+  {{- end }}
+
+  {{- range $tagGroups }}
+  {{- $groupTags := .tags | default slice }}
+  {{- $isTechnicalGroup := eq .title (i18n "tech_topics_technical") }}
+  {{- if $groupTags }}
+  <h3 class="topics-subtitle">{{ .title }}</h3>
+  <div class="topics-grid">
+    {{- range $groupTags }}
+    {{- $tagName := . }}
+    {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
+    {{- if gt (len $tagPages) 0 }}
+    {{- range $slug, $_ := site.Taxonomies.tags }}
+    {{- with site.GetPage (printf "/tags/%s" $slug) }}
+    {{- if eq .Title $tagName }}
+    <a href="{{ .RelPermalink }}" class="topic-card">
+      <div class="topic-icon">
+        {{- partial "topic_tag_icon.html" $tagName }}
+      </div>
+      <h3>{{ $tagName }}</h3>
+      <p>{{ T "all" }} {{ len $tagPages }} {{ T "posts" }}</p>
+    </a>
+    {{- end }}
+    {{- end }}
+    {{- end }}
+    {{- end }}
+    {{- end }}
+    {{- if and $isTechnicalGroup $techSection }}
+    <a href="{{ $techSection.Permalink }}" class="topic-card topic-card-all">
+      <div class="topic-icon">
+        <i class="fa-solid fa-table-cells"></i>
+      </div>
+      <h3>{{ i18n "all" }}</h3>
+      <p>{{ i18n "view_all_tech_posts" }}</p>
+    </a>
+    {{- end }}
+  </div>
+  {{- end }}
+  {{- end }}
+</section>

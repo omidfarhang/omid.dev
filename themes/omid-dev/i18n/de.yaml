@@ -50,6 +50,36 @@
 - id: view_all_posts
   translation: "Alle Beiträge ansehen"
 
+- id: blog_intro
+  translation: "Beiträge über Softwareentwicklung, Linux, Gesundheit und das, was ich unterwegs baue und lerne."
+
+- id: browse_categories
+  translation: "Nach Thema stöbern"
+
+- id: all_posts
+  translation: "Alle Artikel"
+
+- id: page
+  translation: "Seite"
+
+- id: no_posts_yet
+  translation: "In diesem Bereich gibt es noch keine Beiträge."
+
+- id: pagination
+  translation: "Seitennavigation"
+
+- id: pagination_showing
+  translation: "Seite {{ .page }} von {{ .pages }}"
+
+- id: pagination_first
+  translation: "Erste Seite"
+
+- id: pagination_last
+  translation: "Letzte Seite"
+
+- id: also_see
+  translation: "Auch ansehen"
+
 - id: topics
   translation: "Themen"
 

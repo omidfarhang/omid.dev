@@ -1,0 +1,501 @@
+/* Blog / posts index */
+
+.posts-list-content {
+    max-width: var(--main-width);
+    margin: 0 auto;
+    padding: 0 var(--gap);
+}
+
+/* Hero */
+.posts-hero {
+    text-align: center;
+    margin-bottom: 56px;
+    padding: 48px 32px 40px;
+    background: var(--theme);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+}
+
+.posts-hero--section {
+    text-align: start;
+    padding: 32px 36px 28px;
+}
+
+.posts-hero--section .posts-hero-inner {
+    max-width: none;
+}
+
+.posts-hero .breadcrumbs {
+    margin-bottom: 16px;
+    justify-content: flex-start;
+}
+
+.posts-hero-inner {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.posts-hero h1 {
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: var(--primary);
+    margin: 0 0 16px;
+    line-height: 1.15;
+}
+
+.posts-hero-lead {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: var(--secondary);
+    margin: 0 0 24px;
+}
+
+.posts-hero-stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 24px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.posts-hero--section .posts-hero-stats {
+    justify-content: flex-start;
+}
+
+.posts-stat {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--secondary);
+    background: var(--quaternary);
+    padding: 8px 16px;
+    border-radius: 50px;
+}
+
+.posts-stat i {
+    color: var(--accent);
+    font-size: 0.85rem;
+}
+
+.posts-hero-rss {
+    display: inline-flex;
+    align-items: center;
+    margin-inline-start: 12px;
+    vertical-align: middle;
+    color: var(--accent);
+    opacity: 0.85;
+    transition: opacity 0.2s ease;
+}
+
+.posts-hero-rss:hover {
+    opacity: 1;
+}
+
+.posts-hero-rss svg {
+    height: 22px;
+    width: 22px;
+}
+
+.posts-list-content .section-title {
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin: 0 0 36px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 16px;
+    color: var(--primary);
+    letter-spacing: -0.02em;
+}
+
+.posts-list-content .section-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 48px;
+    height: 4px;
+    background: var(--accent);
+    border-radius: 10px;
+}
+
+/* TechBlog featured strip */
+.tech-blog-featured {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 28px 32px;
+    margin-bottom: 40px;
+    background: linear-gradient(135deg, var(--theme) 0%, var(--tertiary) 100%);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
+}
+
+.tech-blog-featured:hover {
+    border-color: var(--accent);
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-4px);
+}
+
+.tech-blog-featured .topic-icon {
+    flex-shrink: 0;
+    font-size: 2rem;
+    color: var(--accent);
+    height: 72px;
+    width: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--theme);
+    border-radius: 50%;
+    box-shadow: var(--shadow-sm);
+}
+
+.tech-blog-featured-text h3 {
+    margin: 0 0 8px;
+    font-size: 1.5rem;
+    color: var(--primary);
+}
+
+.tech-blog-featured-desc {
+    margin: 0 0 12px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--secondary);
+}
+
+.tech-blog-featured-meta {
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent);
+}
+
+.posts-list-content .topics-subtitle {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--secondary);
+    margin: 0 0 20px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.posts-list-content .topics-subtitle:not(:first-of-type) {
+    margin-top: 36px;
+}
+
+.posts-list-content .life-topics-section {
+    margin-bottom: 56px;
+}
+
+/* Subsection cross-links (no duplicate cards) */
+.posts-section-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 4px;
+    margin-bottom: 36px;
+    padding: 14px 20px;
+    background: var(--quaternary);
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+}
+
+.posts-section-nav-label {
+    font-weight: 600;
+    color: var(--secondary);
+    margin-inline-end: 8px;
+}
+
+.posts-section-nav-link {
+    color: var(--primary);
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.posts-section-nav-link:hover {
+    background: var(--theme);
+    color: var(--accent);
+}
+
+.posts-section-nav-link:not(:last-child)::after {
+    content: "·";
+    margin-inline-start: 10px;
+    color: var(--border);
+    pointer-events: none;
+}
+
+/* Posts grid */
+.posts-list-section {
+    margin-bottom: 16px;
+}
+
+.posts-list-section .section-title {
+    font-size: 1.5rem;
+    margin-bottom: 28px;
+    text-align: start;
+    padding-bottom: 12px;
+}
+
+.posts-list-section .section-title::after {
+    left: 0;
+    transform: none;
+    width: 40px;
+}
+
+.posts-list-content .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 28px;
+}
+
+.posts-list-content .post-entry {
+    margin: 0;
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    height: 100%;
+    padding: 0;
+    box-shadow: var(--shadow-sm);
+}
+
+.posts-list-content .post-entry:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--accent);
+}
+
+.posts-list-content .post-entry .entry-cover {
+    margin: 0;
+    border-radius: 0;
+}
+
+.posts-list-content .post-entry-inner {
+    padding: 22px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.posts-list-content .post-entry .entry-header {
+    margin-bottom: 10px;
+}
+
+.posts-list-content .post-entry .entry-header h2 {
+    font-size: 1.25rem;
+    line-height: 1.35;
+    margin: 0;
+    color: var(--primary);
+    transition: color 0.2s ease;
+}
+
+.posts-list-content .post-entry:hover .entry-header h2 {
+    color: var(--accent);
+}
+
+.posts-list-content .post-entry .entry-content {
+    margin-bottom: 16px;
+    flex-grow: 1;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    color: var(--secondary);
+    -webkit-line-clamp: 3;
+}
+
+.posts-list-content .post-entry .entry-footer {
+    margin-bottom: 12px;
+    font-size: 0.78rem;
+    opacity: 0.85;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    overflow: hidden;
+    gap: 0;
+}
+
+.posts-list-content .post-entry .entry-footer .meta-item {
+    flex-shrink: 0;
+}
+
+.posts-list-content .post-entry .entry-footer .meta-item + .meta-item::before {
+    margin: 0 6px;
+}
+
+.posts-list-content .post-entry .entry-link {
+    display: inline-flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+    background: none;
+}
+
+[dir="rtl"] .posts-list-content .post-entry .entry-link {
+    letter-spacing: normal;
+}
+
+.posts-list-content .post-entry .entry-link i {
+    margin-inline-start: 8px;
+    transition: transform 0.2s ease;
+}
+
+.posts-list-content .post-entry:hover .entry-link i {
+    transform: translateX(4px);
+}
+
+[dir="rtl"] .posts-list-content .post-entry .entry-link i {
+    transform: scaleX(-1);
+}
+
+[dir="rtl"] .posts-list-content .post-entry:hover .entry-link i {
+    transform: scaleX(-1) translateX(4px);
+}
+
+/* Rich pagination */
+.posts-list-content .pagination-rich {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 8px 12px;
+    background: var(--theme);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+}
+
+.posts-list-content .pagination-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin: 0;
+    padding: 0;
+}
+
+.posts-list-content .pagination-nav .page-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 36px;
+    height: 36px;
+    padding: 0 12px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--primary);
+    background: var(--quaternary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+}
+
+.posts-list-content .pagination-nav .page-btn:hover {
+    background: var(--primary);
+    color: var(--theme);
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+.posts-list-content .pagination-nav .page-num.current {
+    background: var(--accent);
+    color: var(--theme);
+    border-color: var(--accent);
+    cursor: default;
+}
+
+.posts-list-content .pagination-nav .page-prev,
+.posts-list-content .pagination-nav .page-next {
+    padding: 0 16px;
+}
+
+.posts-list-content .pagination-nav .page-first,
+.posts-list-content .pagination-nav .page-last {
+    font-size: 1.1rem;
+    padding: 0 10px;
+}
+
+.posts-list-content .pagination-nav .page-ellipsis {
+    min-width: 28px;
+    text-align: center;
+    color: var(--secondary);
+    font-weight: 700;
+    user-select: none;
+}
+
+/* Empty state */
+.posts-empty {
+    text-align: center;
+    padding: 60px 24px;
+    background: var(--theme);
+    border-radius: var(--radius);
+    border: 1px dashed var(--border);
+    color: var(--secondary);
+}
+
+.posts-empty i {
+    font-size: 2.5rem;
+    color: var(--accent);
+    margin-bottom: 16px;
+    opacity: 0.7;
+}
+
+@media screen and (max-width: 768px) {
+    .posts-hero {
+        padding: 32px 20px 28px;
+        margin-bottom: 40px;
+    }
+
+    .posts-hero--section {
+        padding: 24px 20px;
+    }
+
+    .posts-list-content .posts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .tech-blog-featured {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 24px 20px;
+    }
+
+    .posts-list-content .pagination-nav .page-btn {
+        min-width: 36px;
+        height: 36px;
+        font-size: 0.85rem;
+    }
+}
+
+[dir="rtl"] .posts-list-content .section-title::after {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+[dir="rtl"] .posts-list-section .section-title::after {
+    left: auto;
+    right: 0;
+    transform: none;
+}

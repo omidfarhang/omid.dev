@@ -114,7 +114,12 @@
     color: white;
 }
 
-/* Topics Section */
+/* Topics Section (home + blog index) */
+.home-content .topics-section,
+.posts-list-content .topics-section {
+    margin-bottom: 64px;
+}
+
 .topics-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));

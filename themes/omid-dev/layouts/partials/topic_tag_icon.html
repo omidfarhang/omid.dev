@@ -1,0 +1,21 @@
+{{- $tagName := . -}}
+{{- if eq $tagName "Angular" }}<i class="fa-brands fa-angular"></i>
+{{- else if eq $tagName "Frontend" }}<i class="fa-solid fa-code"></i>
+{{- else if eq $tagName "TypeScript" }}<i class="fa-solid fa-file-code"></i>
+{{- else if eq $tagName "React" }}<i class="fa-brands fa-react"></i>
+{{- else if eq $tagName "Software Architecture" }}<i class="fa-solid fa-sitemap"></i>
+{{- else if eq $tagName "Case Study" }}<i class="fa-solid fa-briefcase"></i>
+{{- else if eq $tagName "DevOps" }}<i class="fa-solid fa-server"></i>
+{{- else if eq $tagName "Security" }}<i class="fa-solid fa-shield-halved"></i>
+{{- else if eq $tagName "Linux" }}<i class="fa-brands fa-linux"></i>
+{{- else if eq $tagName "GraphQL" }}<i class="fa-solid fa-diagram-project"></i>
+{{- else if eq $tagName "Micro Frontends" }}<i class="fa-solid fa-puzzle-piece"></i>
+{{- else if eq $tagName "Engineering Leadership" }}<i class="fa-solid fa-people-group"></i>
+{{- else if eq $tagName "Career" }}<i class="fa-solid fa-compass"></i>
+{{- else if eq $tagName "Data & AI" }}<i class="fa-solid fa-brain"></i>
+{{- else if eq $tagName "Python" }}<i class="fa-brands fa-python"></i>
+{{- else if eq $tagName "Rust" }}<i class="fa-brands fa-rust"></i>
+{{- else if eq $tagName "WebAssembly" }}<i class="fa-solid fa-cube"></i>
+{{- else if eq $tagName "Jupyter" }}<i class="fa-solid fa-book"></i>
+{{- else }}<i class="fa-solid fa-tag"></i>
+{{- end -}}
