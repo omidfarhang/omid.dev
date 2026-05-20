@@ -44,6 +44,9 @@
 - id: recent_posts
   translation: "پست های اخیر"
 
+- id: latest_post
+  translation: "جدیدترین"
+
 - id: posts
   translation: "پست"
 

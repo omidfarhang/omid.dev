@@ -4,13 +4,18 @@
 {{- if eq (len $techPosts) 0 }}{{ return }}{{ end }}
 
 {{- $showFeatured := .showFeatured | default false }}
+{{- $compact := .compact | default false }}
 {{- $tagGroups := slice
     (dict "title" (i18n "tech_topics_professional") "tags" site.Params.homeTechTagsProfessional)
     (dict "title" (i18n "tech_topics_technical") "tags" site.Params.homeTechTagsTechnical)
 }}
 
+{{- if $compact }}
+<div class="tech-topics-block">
+{{- else }}
 <section class="posts-section topics-section tech-topics-section" aria-labelledby="tech-topics-title">
   <h2 id="tech-topics-title" class="section-title">{{ i18n "tech_topics" }}</h2>
+{{- end }}
 
   {{- if $showFeatured }}
   <a href="{{ $techSection.Permalink }}" class="tech-blog-featured">
@@ -32,9 +37,17 @@
   {{- range $tagGroups }}
   {{- $groupTags := .tags | default slice }}
   {{- $isTechnicalGroup := eq .title (i18n "tech_topics_technical") }}
+  {{- $groupClass := "" }}
+  {{- if $compact }}
+    {{- if $isTechnicalGroup }}
+      {{- $groupClass = " topics-grid--technical" }}
+    {{- else }}
+      {{- $groupClass = " topics-grid--professional" }}
+    {{- end }}
+  {{- end }}
   {{- if $groupTags }}
   <h3 class="topics-subtitle">{{ .title }}</h3>
-  <div class="topics-grid">
+  <div class="topics-grid{{ $groupClass }}">
     {{- range $groupTags }}
     {{- $tagName := . }}
     {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
@@ -66,4 +79,8 @@
   </div>
   {{- end }}
   {{- end }}
+{{- if $compact }}
+</div>
+{{- else }}
 </section>
+{{- end }}

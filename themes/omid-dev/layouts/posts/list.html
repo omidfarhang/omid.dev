@@ -64,29 +64,54 @@
 {{- end }}
 
 {{- if $isPostsRoot }}
-  {{- partial "tech_topics_grid.html" (dict "showFeatured" true) }}
-  {{- if $postsSection }}
-  <section class="posts-section topics-section life-topics-section" aria-labelledby="life-topics-title">
-    <h2 id="life-topics-title" class="section-title">{{ i18n "life_interests" }}</h2>
-    <div class="topics-grid">
+  {{- $techSection := site.GetPage "posts/techblog" }}
+  <div class="blog-index-layout">
+    <div class="blog-index-main">
+      {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
+      {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+    </div>
+    <aside class="blog-index-sidebar" aria-labelledby="blog-index-sidebar-title">
+      <h2 id="blog-index-sidebar-title" class="section-title">{{ i18n "browse_categories" }}</h2>
+    {{- if $techSection }}
+    <a href="{{ $techSection.Permalink }}" class="tech-focus-card">
+      <span class="tech-focus-icon"><i class="fa-solid fa-laptop-code"></i></span>
+      <span class="tech-focus-content">
+        <span class="tech-focus-kicker">{{ i18n "tech_topics" }}</span>
+        <span class="tech-focus-title">{{ $techSection.Title }}</span>
+        {{- with $techSection.Description }}
+        <span class="tech-focus-desc">{{ . }}</span>
+        {{- else }}
+        <span class="tech-focus-desc">{{ $techSection.Content | plainify | truncate 120 }}</span>
+        {{- end }}
+        <span class="tech-focus-meta">{{ T "all" }} {{ len $techSection.RegularPagesRecursive }} {{ T "posts" }} →</span>
+      </span>
+    </a>
+    {{- end }}
+    {{- partial "tech_topics_grid.html" (dict "showFeatured" false "compact" true) }}
+    {{- if $postsSection }}
+    <div class="life-links">
+      <h3 class="topics-subtitle">{{ i18n "life_interests" }}</h3>
       {{- range $postsSection.Sections }}
       {{- if ne .Title "TechBlog" }}
-      <a href="{{ .Permalink }}" class="topic-card">
-        <div class="topic-icon">
+      <a href="{{ .Permalink }}" class="life-link">
+        <span class="life-link-icon">
           {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
           {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
           {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
           {{- else }}<i class="fa-solid fa-tag"></i>
           {{- end }}
-        </div>
-        <h3>{{ .Title }}</h3>
-        <p>{{ T "all" }} {{ len .RegularPagesRecursive }} {{ T "posts" }}</p>
+        </span>
+        <span class="life-link-text">
+          <span>{{ .Title }}</span>
+          <small>{{ T "all" }} {{ len .RegularPagesRecursive }} {{ T "posts" }}</small>
+        </span>
       </a>
       {{- end }}
       {{- end }}
     </div>
-  </section>
-  {{- end }}
+    {{- end }}
+    </aside>
+  </div>
 {{- else if $isTechSection }}
   {{- partial "tech_topics_grid.html" (dict "showFeatured" false) }}
 {{- end }}
@@ -103,12 +128,10 @@
 </nav>
 {{- end }}
 
-{{- $listTitle := "" }}
-{{- if $isPostsRoot }}{{ $listTitle = i18n "all_posts" }}{{ else }}{{ $listTitle = .Title }}{{ end }}
-{{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" $listTitle) }}
-
-
+{{- if not $isPostsRoot }}
+{{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" .Title) }}
 {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+{{- end }}
 
 </div>{{/* end posts-list-content */}}
 

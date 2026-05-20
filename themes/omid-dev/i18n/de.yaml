@@ -44,6 +44,9 @@
 - id: recent_posts
   translation: "Aktuelle Beiträge"
 
+- id: latest_post
+  translation: "Neueste"
+
 - id: posts
   translation: "Beiträge"
 
