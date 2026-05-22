@@ -42,7 +42,34 @@
   translation: "Weiterlesen"
 
 - id: recent_posts
-  translation: "Aktuelle Beiträge"
+  translation: "Schriften aus der Praxis"
+
+- id: home_featured_post
+  translation: "Empfohlen"
+
+- id: home_more_posts
+  translation: "Weitere Beiträge"
+
+- id: home_hero_eyebrow
+  translation: "Frontend-Architekt & Engineering Lead"
+
+- id: home_about_eyebrow
+  translation: "Über mich"
+
+- id: home_principles_title
+  translation: "Wie ich arbeite"
+
+- id: home_now_title
+  translation: "Jetzt"
+
+- id: home_now_link
+  translation: "Vollständige Now-Seite"
+
+- id: home_core_stack
+  translation: "Kern-Stack"
+
+- id: home_life_eyebrow
+  translation: "Jenseits von Engineering"
 
 - id: latest_post
   translation: "Neueste"
@@ -87,19 +114,19 @@
   translation: "Themen"
 
 - id: life_interests
-  translation: "Leben & Interessen"
+  translation: "Jenseits der Tastatur"
 
 - id: categories
   translation: "Kategorien"
 
 - id: tech_topics
-  translation: "Tech-Themen"
+  translation: "Worüber ich nachdenke"
 
 - id: current_focus
   translation: "Aktueller Fokus"
 
 - id: how_i_can_help
-  translation: "Wie ich helfen kann"
+  translation: "Wo ich Mehrwert schaffe"
 
 - id: tech_topics_professional
   translation: "Engineering & Führung"

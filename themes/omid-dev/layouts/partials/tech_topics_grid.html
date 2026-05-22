@@ -5,8 +5,10 @@
 
 {{- $showFeatured := .showFeatured | default false }}
 {{- $compact := .compact | default false }}
+{{- $homeBold := .homeBold | default false }}
 {{- $professionalTags := .professionalTags | default site.Params.homeTechTagsProfessional }}
 {{- $technicalTags := .technicalTags | default site.Params.homeTechTagsTechnical }}
+{{- $coreStackTags := .coreStackTags | default site.Params.homeFeaturedTechTagsTechnical }}
 {{- $tagGroups := slice
     (dict "title" (i18n "tech_topics_professional") "tags" $professionalTags)
     (dict "title" (i18n "tech_topics_technical") "tags" $technicalTags)
@@ -15,7 +17,7 @@
 {{- if $compact }}
 <div class="tech-topics-block">
 {{- else }}
-<section class="posts-section topics-section tech-topics-section{{ if .home }} home-section topics-section--home{{ end }}" aria-labelledby="tech-topics-title">
+<section class="posts-section topics-section tech-topics-section{{ if .home }} home-section topics-section--home{{ end }}{{ if $homeBold }} tech-topics-section--bold{{ end }}" aria-labelledby="tech-topics-title">
   <h2 id="tech-topics-title" class="section-title">{{ i18n "tech_topics" }}</h2>
 {{- end }}
 
@@ -36,21 +38,10 @@
   </a>
   {{- end }}
 
-  {{- range $tagGroups }}
-  {{- $groupTags := .tags | default slice }}
-  {{- $isTechnicalGroup := eq .title (i18n "tech_topics_technical") }}
-  {{- $groupClass := "" }}
-  {{- if $compact }}
-    {{- if $isTechnicalGroup }}
-      {{- $groupClass = " topics-grid--technical" }}
-    {{- else }}
-      {{- $groupClass = " topics-grid--professional" }}
-    {{- end }}
-  {{- end }}
-  {{- if $groupTags }}
-  <h3 class="topics-subtitle">{{ .title }}</h3>
-  <div class="topics-grid{{ $groupClass }}">
-    {{- range $groupTags }}
+  {{- if and $homeBold $coreStackTags }}
+  <h3 class="topics-subtitle topics-subtitle--core">{{ i18n "home_core_stack" }}</h3>
+  <div class="topics-grid topics-grid--core">
+    {{- range $coreStackTags }}
     {{- $tagName := . }}
     {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
     {{- $tagPage := "" }}
@@ -61,8 +52,7 @@
         {{- end }}
       {{- end }}
     {{- end }}
-    {{- if or (gt (len $tagPages) 0) $.home $compact }}
-    <a href="{{ if $tagPage }}{{ $tagPage.RelPermalink }}{{ else }}{{ $techSection.RelPermalink }}{{ end }}" class="topic-card">
+    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="topic-card topic-card--core">
       <div class="topic-icon">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
@@ -73,6 +63,56 @@
       <p>{{ i18n "view_all_tech_posts" }}</p>
       {{- end }}
     </a>
+    {{- end }}
+  </div>
+  {{- end }}
+
+  {{- range $tagGroups }}
+  {{- $groupTags := .tags | default slice }}
+  {{- $isTechnicalGroup := eq .title (i18n "tech_topics_technical") }}
+  {{- $groupClass := "" }}
+  {{- if $compact }}
+    {{- if $isTechnicalGroup }}
+      {{- $groupClass = " topics-grid--technical" }}
+    {{- else }}
+      {{- $groupClass = " topics-grid--professional" }}
+    {{- end }}
+  {{- else if $homeBold }}
+    {{- if $isTechnicalGroup }}
+      {{- $groupClass = " topics-grid--bold" }}
+    {{- else }}
+      {{- $groupClass = " topics-grid--bold topics-grid--professional-bold" }}
+    {{- end }}
+  {{- end }}
+  {{- if $groupTags }}
+  <h3 class="topics-subtitle">{{ .title }}</h3>
+  <div class="topics-grid{{ $groupClass }}">
+    {{- range $groupTags }}
+    {{- $tagName := . }}
+    {{- $isDuplicateCore := and $homeBold $isTechnicalGroup (in $coreStackTags $tagName) }}
+    {{- if not $isDuplicateCore }}
+    {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
+    {{- $tagPage := "" }}
+    {{- range $slug, $_ := site.Taxonomies.tags }}
+      {{- with site.GetPage (printf "/tags/%s" $slug) }}
+        {{- if eq .Title $tagName }}
+          {{- $tagPage = . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    {{- if or (gt (len $tagPages) 0) $.home $compact }}
+    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="topic-card">
+      <div class="topic-icon">
+        {{- partial "topic_tag_icon.html" $tagName }}
+      </div>
+      <h3>{{ $tagName }}</h3>
+      {{- if gt (len $tagPages) 0 }}
+      <p>{{ T "all" }} {{ len $tagPages }} {{ T "posts" }}</p>
+      {{- else }}
+      <p>{{ i18n "view_all_tech_posts" }}</p>
+      {{- end }}
+    </a>
+    {{- end }}
     {{- end }}
     {{- end }}
     {{- if and $isTechnicalGroup $techSection }}

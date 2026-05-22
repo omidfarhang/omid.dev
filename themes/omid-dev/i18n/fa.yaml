@@ -42,7 +42,34 @@
   translation: "ادامه مطلب"
 
 - id: recent_posts
-  translation: "پست های اخیر"
+  translation: "نوشته از میدان کار"
+
+- id: home_featured_post
+  translation: "ویژه"
+
+- id: home_more_posts
+  translation: "نوشته‌های بیشتر"
+
+- id: home_hero_eyebrow
+  translation: "معمار فرانت‌اند و لید مهندسی"
+
+- id: home_about_eyebrow
+  translation: "درباره"
+
+- id: home_principles_title
+  translation: "چگونه کار می‌کنم"
+
+- id: home_now_title
+  translation: "الان"
+
+- id: home_now_link
+  translation: "صفحه کامل الان"
+
+- id: home_core_stack
+  translation: "استک اصلی"
+
+- id: home_life_eyebrow
+  translation: "فراتر از مهندسی"
 
 - id: latest_post
   translation: "جدیدترین"
@@ -141,19 +168,19 @@
   translation: "موضوعات"
 
 - id: life_interests
-  translation: "زندگی و علایق"
+  translation: "فراتر از کیبورد"
 
 - id: categories
   translation: "دسته‌بندی‌ها"
 
 - id: tech_topics
-  translation: "موضوعات فنی"
+  translation: "چیزهایی که به آن فکر می‌کنم"
 
 - id: current_focus
   translation: "تمرکز فعلی"
 
 - id: how_i_can_help
-  translation: "چطور می‌توانم کمک کنم"
+  translation: "جایی که ارزش اضافه می‌کنم"
 
 - id: tech_topics_professional
   translation: "مهندسی و رهبری"

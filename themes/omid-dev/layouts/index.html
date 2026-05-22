@@ -1,24 +1,38 @@
 {{- define "main" }}
 
 {{- if site.Params.profileMode.enabled }}
-{{- partial "index_profile.html" . }}
+{{- partial "home_hero.html" . }}
 {{- end }}
 
 <div class="home-content">
     {{- $home := index hugo.Data .Language.Lang "home" }}
 
     <section class="home-section home-identity-panel">
-        {{- if .Content }}
-        <div class="identity-copy post-content">
-            {{- if not (.Param "disableAnchoredHeadings") }}
-            {{- partial "anchored_headings.html" .Content -}}
-            {{- else }}{{ .Content }}{{ end }}
+        <div class="identity-about">
+            <p class="section-eyebrow">{{ i18n "home_about_eyebrow" }}</p>
+            {{- if .Content }}
+            <div class="identity-copy post-content">
+                {{- if not (.Param "disableAnchoredHeadings") }}
+                {{- partial "anchored_headings.html" .Content -}}
+                {{- else }}{{ .Content }}{{ end }}
+            </div>
+            {{- end }}
+
+            {{- if $home.principles }}
+            <div class="identity-principles">
+                <h3 class="identity-principles-title">{{ i18n "home_principles_title" }}</h3>
+                <ul class="principles-list">
+                    {{- range $home.principles }}
+                    <li>{{ . }}</li>
+                    {{- end }}
+                </ul>
+            </div>
+            {{- end }}
         </div>
-        {{- end }}
 
         {{- if $home.focusAreas }}
         <div class="identity-focus">
-            <h2 class="section-title">{{ i18n "how_i_can_help" }}</h2>
+            <h2 class="section-title section-title--compact">{{ i18n "how_i_can_help" }}</h2>
             <div class="focus-grid">
                 {{- range $home.focusAreas }}
                 <div class="focus-card">
@@ -35,42 +49,95 @@
         {{- end }}
     </section>
 
+    {{- if $home.currently }}
+    <section class="home-section home-now home-panel">
+        <div class="home-now-header">
+            <h2 class="section-title section-title--compact">{{ i18n "home_now_title" }}</h2>
+            {{- with site.GetPage "now" }}
+            <a class="home-now-link" href="{{ .Permalink }}">{{ if eq $.Language.Direction "rtl" }}← {{ i18n "home_now_link" }}{{ else }}{{ i18n "home_now_link" }} →{{ end }}</a>
+            {{- end }}
+        </div>
+        <div class="now-cards">
+            {{- range $home.currently }}
+            <article class="now-card">
+                <div class="now-card-icon" aria-hidden="true">
+                    <i class="{{ .icon | default "fa-solid fa-circle-dot" }}"></i>
+                </div>
+                <div class="now-card-body">
+                    <h3>{{ .label }}</h3>
+                    <p>{{ .detail }}</p>
+                </div>
+            </article>
+            {{- end }}
+        </div>
+    </section>
+    {{- end }}
+
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
     {{- $latest_posts := first 6 $pages }}
 
     {{- if gt (len $latest_posts) 0 }}
+    {{- $featured := index $latest_posts 0 }}
+    {{- $more_posts := after 1 $latest_posts }}
     <section class="home-section recent-posts home-panel">
         <h2 class="section-title">{{ i18n "recent_posts" }}</h2>
-        <div class="posts-grid">
-            {{- range $latest_posts }}
-            <article class="post-entry">
-                {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-                {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+
+        <div class="posts-showcase">
+            <article class="post-entry post-entry--featured">
+                {{- $isHidden := ($featured.Param "cover.hiddenInList") | default ($featured.Param "cover.hidden") | default false }}
+                {{- partial "cover.html" (dict "cxt" $featured "IsSingle" false "isHidden" $isHidden) }}
                 <div class="post-entry-inner">
+                    <span class="post-badge">{{ i18n "home_featured_post" }}</span>
                     <header class="entry-header">
-                        <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-                            <h2 class="entry-hint-parent">{{ .Title }}</h2>
+                        <a aria-label="post link to {{ $featured.Title | plainify }}" href="{{ $featured.Permalink }}">
+                            <h2 class="entry-hint-parent">{{ $featured.Title }}</h2>
                         </a>
                     </header>
-                    {{- if not (.Param "hideMeta") }}
+                    {{- if not ($featured.Param "hideMeta") }}
                     <footer class="entry-footer">
-                        {{- partial "post_meta.html" (dict "Context" . "hideAuthor" true "hideTranslations" true "hideShare" true "isCompact" true) -}}
+                        {{- partial "post_meta.html" (dict "Context" $featured "hideAuthor" true "hideTranslations" true "hideShare" true "isCompact" true) -}}
                     </footer>
                     {{- end }}
-                    {{- if (ne (.Param "hideSummary") true) }}
+                    {{- if (ne ($featured.Param "hideSummary") true) }}
                     <div class="entry-content">
-                        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+                        <p>{{ $featured.Summary | plainify | htmlUnescape }}{{ if $featured.Truncated }}...{{ end }}</p>
                     </div>
                     {{- end }}
-                    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+                    <a class="entry-link" aria-label="post link to {{ $featured.Title | plainify }}" href="{{ $featured.Permalink }}">
                         {{- i18n "continue_reading" }}
                         <i class=" fa fa-angle-right" aria-hidden="true" role="img"></i>
                     </a>
                 </div>
             </article>
+
+            {{- if gt (len $more_posts) 0 }}
+            <div class="posts-sidebar">
+                <h3 class="posts-sidebar-title">{{ i18n "home_more_posts" }}</h3>
+                {{- range $more_posts }}
+                <article class="post-entry post-entry--compact">
+                    <div class="post-entry-inner">
+                        <header class="entry-header">
+                            <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+                                <h2 class="entry-hint-parent">{{ .Title }}</h2>
+                            </a>
+                        </header>
+                        {{- if not (.Param "hideMeta") }}
+                        <footer class="entry-footer">
+                            {{- partial "post_meta.html" (dict "Context" . "hideAuthor" true "hideTranslations" true "hideShare" true "isCompact" true) -}}
+                        </footer>
+                        {{- end }}
+                        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+                            {{- i18n "continue_reading" }}
+                            <i class=" fa fa-angle-right" aria-hidden="true" role="img"></i>
+                        </a>
+                    </div>
+                </article>
+                {{- end }}
+            </div>
             {{- end }}
         </div>
+
         <div class="view-all">
             <a class="button" href="{{ "posts" | relLangURL }}">
                 <span class="button-inner">{{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_posts" }}{{ else }}{{ i18n "view_all_posts" }} →{{ end }}</span>
@@ -80,17 +147,17 @@
     {{- end }}
 
     <div class="home-section home-discovery-grid">
-    {{- /* Tech Topics (curated tags from TechBlog posts) */ -}}
     <div class="home-panel home-discovery-panel">
     {{- partial "tech_topics_grid.html" (dict
         "showFeatured" false
         "home" true
+        "homeBold" true
+        "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
         "professionalTags" site.Params.homeTechTagsProfessional
         "technicalTags" site.Params.homeTechTagsTechnical
     ) }}
     </div>
 
-    {{- /* Other site topics (non-TechBlog categories) */ -}}
     {{- $postsSection := site.GetPage "section" "posts" }}
     {{- $techSection := site.GetPage "posts/techblog" }}
     {{- if $postsSection }}
@@ -102,7 +169,8 @@
     {{- end }}
     {{- if $hasOtherTopics }}
     <section class="life-section home-panel home-discovery-panel">
-        <h2 class="section-title">{{ i18n "life_interests" }}</h2>
+        <p class="section-eyebrow">{{ i18n "home_life_eyebrow" }}</p>
+        <h2 class="section-title section-title--compact">{{ i18n "life_interests" }}</h2>
         <div class="life-links-home">
             {{- range $postsSection.Sections }}
             {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
@@ -127,7 +195,6 @@
     {{- end }}
     </div>
 
-    {{- /* Contact CTA Section */ -}}
     <section class="home-section contact-cta home-panel">
         <h2 class="section-title">{{ i18n "contact" }}</h2>
         <div class="contact-card">

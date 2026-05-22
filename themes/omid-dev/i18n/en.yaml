@@ -42,7 +42,34 @@
   translation: "Continue Reading"
 
 - id: recent_posts
-  translation: "Recent Posts"
+  translation: "Writing from the Field"
+
+- id: home_featured_post
+  translation: "Featured"
+
+- id: home_more_posts
+  translation: "More Writing"
+
+- id: home_hero_eyebrow
+  translation: "Frontend Architect & Engineering Lead"
+
+- id: home_about_eyebrow
+  translation: "About"
+
+- id: home_principles_title
+  translation: "How I Work"
+
+- id: home_now_title
+  translation: "Now"
+
+- id: home_now_link
+  translation: "Full now page"
+
+- id: home_core_stack
+  translation: "Core Stack"
+
+- id: home_life_eyebrow
+  translation: "Beyond Engineering"
 
 - id: latest_post
   translation: "Latest"
@@ -141,19 +168,19 @@
   translation: "Topics"
 
 - id: life_interests
-  translation: "Life & Interests"
+  translation: "Beyond the Keyboard"
 
 - id: categories
   translation: "Categories"
 
 - id: tech_topics
-  translation: "Tech Topics"
+  translation: "Things I Think About"
 
 - id: current_focus
   translation: "Current Focus"
 
 - id: how_i_can_help
-  translation: "How I Can Help"
+  translation: "Where I Add Value"
 
 - id: tech_topics_professional
   translation: "Engineering & Leadership"

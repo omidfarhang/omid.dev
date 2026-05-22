@@ -1,3 +1,22 @@
+heroTagline: "Ich baue Frontend-Systeme, in denen Produkt, Architektur und Developer Experience zusammenkommen."
+heroLead: "Angular-Plattformen, Design Systems, Nx-Monorepos und Engineering-Systeme, die Teams zuverlässig liefern lassen."
+principles:
+  - "Architektur soll Risiko reduzieren, nicht Zeremonie hinzufügen."
+  - "Plattformen gewinnen, wenn Entwickler täglich Tempo und Klarheit spüren."
+  - "Starke Teams brauchen Standards, Autonomie und ehrliche technische Debatte."
+currently:
+  - label: "Führen"
+    detail: "Frontend-Team bei Jibit — Plattformqualität, Teamwachstum und nachhaltige Delivery."
+    icon: "fa-solid fa-people-group"
+  - label: "Erkunden"
+    detail: "Architekturmuster, Engineering-Strategie und Tools außerhalb meines üblichen Stacks."
+    icon: "fa-solid fa-compass"
+  - label: "Schreiben"
+    detail: "Notizen zu Angular, Plattformdesign, Linux und dem Handwerk der Softwareentwicklung."
+    icon: "fa-solid fa-pen-nib"
+  - label: "Nebenprojekt"
+    detail: "Eine Idee für einen Real-Life-Assistenten mit moderner KI statt fragiler Regel-Engines neu denken."
+    icon: "fa-solid fa-lightbulb"
 focusAreas:
   - category: "Frontend-Platform-Architektur"
     items: ["Angular-Plattformen", "Designsysteme", "Nx-Monorepos", "Micro-frontends"]
