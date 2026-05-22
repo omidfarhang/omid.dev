@@ -9,9 +9,10 @@
             <h3>{{ i18n "categories" | default "Categories" }}</h3>
             <ul>
                 {{ range .Site.Taxonomies.categories.Alphabetical }}
+                {{- $section := site.GetPage (printf "posts/%s" (.Name | urlize)) }}
                 <li>
                     <i class="fas fa-chevron-right"></i>
-                    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                    <a href="{{ (or $section .Page).Permalink }}">{{ .Page.Title }}</a>
                 </li>
                 {{ end }}
             </ul>
