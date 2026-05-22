@@ -406,8 +406,8 @@
 
 .qr-code img {
     display: block;
-    width: 128px;
-    height: 128px;
+    width: 160px;
+    height: 160px;
 }
 
 .qr-text p {
@@ -421,20 +421,22 @@
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.65rem 1rem;
-    color: var(--primary) !important;
-    background: var(--quaternary);
-    border: 1px solid var(--border);
+    padding: 0.85rem 1.5rem;
+    color: var(--theme) !important;
+    background: var(--primary);
+    border: none;
     border-radius: 999px;
-    font-size: 0.85rem;
+    box-shadow: var(--shadow-md);
+    font-size: 1rem;
     font-weight: 800;
     text-decoration: none !important;
-    transition: border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .vcard-download:hover {
-    color: var(--accent) !important;
-    border-color: var(--accent);
+    color: white !important;
+    background: var(--accent);
+    box-shadow: var(--shadow-lg);
     transform: translateY(-2px);
 }
 
