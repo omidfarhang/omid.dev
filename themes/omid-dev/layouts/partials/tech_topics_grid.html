@@ -6,6 +6,7 @@
 {{- $showFeatured := .showFeatured | default false }}
 {{- $compact := .compact | default false }}
 {{- $homeBold := .homeBold | default false }}
+{{- $showCoreStack := or $homeBold (.showCoreStack | default false) }}
 {{- $professionalTags := .professionalTags | default site.Params.homeTechTagsProfessional }}
 {{- $technicalTags := .technicalTags | default site.Params.homeTechTagsTechnical }}
 {{- $coreStackTags := .coreStackTags | default site.Params.homeFeaturedTechTagsTechnical }}
@@ -38,7 +39,7 @@
   </a>
   {{- end }}
 
-  {{- if and $homeBold $coreStackTags }}
+  {{- if and $showCoreStack $coreStackTags }}
   <h3 class="topics-subtitle topics-subtitle--core">{{ i18n "home_core_stack" }}</h3>
   <div class="topics-grid topics-grid--core">
     {{- range $coreStackTags }}
@@ -89,7 +90,7 @@
   <div class="topics-grid{{ $groupClass }}">
     {{- range $groupTags }}
     {{- $tagName := . }}
-    {{- $isDuplicateCore := and $homeBold $isTechnicalGroup (in $coreStackTags $tagName) }}
+    {{- $isDuplicateCore := and $showCoreStack $isTechnicalGroup (in $coreStackTags $tagName) }}
     {{- if not $isDuplicateCore }}
     {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
     {{- $tagPage := "" }}

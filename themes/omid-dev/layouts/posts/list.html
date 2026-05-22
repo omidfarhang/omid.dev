@@ -87,7 +87,14 @@
       </span>
     </a>
     {{- end }}
-    {{- partial "tech_topics_grid.html" (dict "showFeatured" false "compact" true) }}
+    {{- partial "tech_topics_grid.html" (dict
+      "showFeatured" false
+      "compact" true
+      "showCoreStack" true
+      "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
+      "professionalTags" site.Params.homeTechTagsProfessional
+      "technicalTags" site.Params.homeTechTagsTechnical
+    ) }}
     {{- if $postsSection }}
     <div class="life-links">
       <h3 class="topics-subtitle">{{ i18n "life_interests" }}</h3>
@@ -113,7 +120,13 @@
     </aside>
   </div>
 {{- else if $isTechSection }}
-  {{- partial "tech_topics_grid.html" (dict "showFeatured" false) }}
+  {{- partial "tech_topics_grid.html" (dict
+    "showFeatured" false
+    "showCoreStack" true
+    "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
+    "professionalTags" site.Params.homeTechTagsProfessional
+    "technicalTags" site.Params.homeTechTagsTechnical
+  ) }}
 {{- end }}
 
 {{- if and $postsSection (not $isPostsRoot) }}
