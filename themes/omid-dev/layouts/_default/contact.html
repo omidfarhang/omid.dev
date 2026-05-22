@@ -1,126 +1,102 @@
 {{- define "main" }}
 
-<article class="post-single">
-  <header class="post-header">
+<article class="post-single contact-page">
+  <header class="post-header contact-hero">
     {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title">
-      {{ .Title }}
-    </h1>
-  </header>
-
-  <div class="post-content">
-    {{- if .Content }}
-    <div class="contact-intro">
-      {{ .Content }}
-    </div>
-    {{- end }}
-
-    <section class="contact-methods-section">
-      <h2 class="section-title">{{ i18n "direct_contact" }}</h2>
-      <div class="contact-method-grid">
-        {{- if site.Params.footer.contactEmail }}
-        <div class="contact-method-item">
-          <div class="method-icon"><i class="fa-solid fa-envelope"></i></div>
-          <div class="method-content">
-            <h3>{{ i18n "email" }}</h3>
-            <div class="method-action">
-              <a href="mailto:{{ site.Params.footer.contactEmail }}" class="method-link">{{ site.Params.footer.contactEmail }}</a>
-              <button class="method-copy" onclick="copyToClipboard('{{ site.Params.footer.contactEmail }}', this)" title="{{ i18n "code_copy" | default "Copy" }}">
-                <i class="fa-regular fa-copy"></i>
-              </button>
-            </div>
-          </div>
+    <div class="contact-hero-inner">
+      <div class="contact-hero-copy">
+        <p class="contact-eyebrow">{{ i18n "contact" }}</p>
+        <h1 class="post-title">
+          {{ .Title }}
+        </h1>
+        {{- if .Content }}
+        <div class="contact-intro">
+          {{ .Content }}
         </div>
         {{- end }}
-
-        {{- if site.Params.footer.contactPhone }}
-        <div class="contact-method-item">
-          <div class="method-icon"><i class="fa-solid fa-phone"></i></div>
-          <div class="method-content">
-            <h3>{{ i18n "phone" }}</h3>
-            <div class="method-action">
-              <a href="tel:{{ site.Params.footer.contactPhone }}" class="method-link">{{ site.Params.footer.contactPhone }}</a>
-              <button class="method-copy" onclick="copyToClipboard('{{ site.Params.footer.contactPhone }}', this)" title="{{ i18n "code_copy" | default "Copy" }}">
-                <i class="fa-regular fa-copy"></i>
-              </button>
-            </div>
-          </div>
-        </div>
-        {{- end }}
-
-        <div class="contact-method-item">
-          <div class="method-icon"><i class="fa-solid fa-comments"></i></div>
-          <div class="method-content">
-            <h3>{{ i18n "instant_messaging" }}</h3>
-            <div class="method-im-links">
-              <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-              <span class="method-sep">·</span>
-              <a href="https://t.me/omidfarhang" target="_blank" rel="noopener noreferrer">Telegram</a>
-              <span class="method-sep">·</span>
-              <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" target="_blank" rel="noopener noreferrer">Signal</a>
-            </div>
-          </div>
-        </div>
       </div>
-    </section>
 
-    <section class="contact-methods-section">
-      <h2 class="section-title">{{ i18n "send_message" }}</h2>
-      <form id="contact-form" class="contact-form">
-        <div class="form-group" style="display: none;">
-          <input name="honeypot" tabindex="-1" autocomplete="off" />
-        </div>
-        <div class="form-group">
-          <input name="name" required placeholder="{{ i18n "name" }}" class="form-input" />
-        </div>
-        <div class="form-group">
-          <input name="email" type="email" required placeholder="{{ i18n "email" }}" class="form-input" />
-        </div>
-        <div class="form-group">
-          <textarea name="message" required placeholder="{{ i18n "message" }}" class="form-textarea"></textarea>
-        </div>
-        {{- if site.Params.turnstile.siteKey }}
-        <div class="form-group">
-          <div class="cf-turnstile" data-sitekey="{{ site.Params.turnstile.siteKey }}" data-theme="auto"></div>
-        </div>
-        {{- end }}
-        <button type="submit" class="form-button">
-          <span class="button-text">{{ i18n "send" }}</span>
-          <i class="fa-solid fa-paper-plane"></i>
-        </button>
-        <div id="form-status" class="form-status"></div>
-      </form>
-    </section>
-
-    <section class="contact-methods-section">
-      <h2 class="section-title">{{ i18n "social_media" }}</h2>
-      <div class="social-links-grid">
-        {{- range site.Params.socialIcons }}
-        {{- if and (ne .name "Rss") (ne .name "rss") }}
-        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="social-link-card">
-          <i class="{{ .icon }}"></i>
-          <span>{{ .name | title }}</span>
+      <div class="contact-hero-card" aria-label="{{ i18n "direct_contact" }}">
+        {{- if site.Params.footer.contactEmail }}
+        <a href="mailto:{{ site.Params.footer.contactEmail }}">
+          <i class="fa-solid fa-envelope"></i>
+          <span>{{ site.Params.footer.contactEmail }}</span>
         </a>
         {{- end }}
+        {{- if site.Params.footer.contactPhone }}
+        <a href="tel:{{ site.Params.footer.contactPhone }}">
+          <i class="fa-solid fa-phone"></i>
+          <span>{{ site.Params.footer.contactPhone }}</span>
+        </a>
         {{- end }}
-      </div>
-    </section>
-
-    <section class="contact-methods-section qr-section">
-      <h2 class="section-title">{{ i18n "save_contact" }}</h2>
-      <div class="qr-container">
-        <div class="qr-code">
-          {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
-          <img src="{{ "images/qr-contact.png" | relURL }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
-        </div>
-        <div class="qr-text">
-          <p>{{ i18n "qr_scan_text" }}</p>
-          <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="vcard-download">
-            <i class="fa-solid fa-download"></i> {{ i18n "download_vcard" }}
+        <div class="contact-hero-messaging" aria-label="{{ i18n "instant_messaging" }}">
+          <a href="https://t.me/omidfarhang" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-telegram"></i>
+            <span>Telegram</span>
           </a>
+          {{- if site.Params.footer.contactPhone }}
+          <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-whatsapp"></i>
+            <span>WhatsApp</span>
+          </a>
+          <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-signal-messenger"></i>
+            <span>Signal</span>
+          </a>
+          {{- end }}
         </div>
       </div>
-    </section>
+    </div>
+  </header>
+
+  <div class="post-content contact-page-content">
+    <div class="contact-layout">
+      <section class="contact-methods-section contact-form-section">
+        <h2 class="section-title">{{ i18n "send_message" }}</h2>
+        <form id="contact-form" class="contact-form">
+          <div class="form-group" style="display: none;">
+            <input name="honeypot" tabindex="-1" autocomplete="off" />
+          </div>
+          <div class="form-group">
+            <input name="name" required placeholder="{{ i18n "name" }}" class="form-input" />
+          </div>
+          <div class="form-group">
+            <input name="email" type="email" required placeholder="{{ i18n "email" }}" class="form-input" />
+          </div>
+          <div class="form-group">
+            <textarea name="message" required placeholder="{{ i18n "message" }}" class="form-textarea"></textarea>
+          </div>
+          {{- if site.Params.turnstile.siteKey }}
+          <div class="form-group">
+            <div class="cf-turnstile" data-sitekey="{{ site.Params.turnstile.siteKey }}" data-theme="auto"></div>
+          </div>
+          {{- end }}
+          <button type="submit" class="form-button">
+            <span class="button-text">{{ i18n "send" }}</span>
+            <i class="fa-solid fa-paper-plane"></i>
+          </button>
+          <div id="form-status" class="form-status"></div>
+        </form>
+      </section>
+
+      <aside class="contact-side-panel">
+        <section class="contact-methods-section qr-section">
+          <h2 class="section-title">{{ i18n "save_contact" }}</h2>
+          <div class="qr-container">
+            <div class="qr-code">
+              {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
+              <img src="{{ "images/qr-contact.png" | relURL }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
+            </div>
+            <div class="qr-text">
+              <p>{{ i18n "qr_scan_text" }}</p>
+              <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="vcard-download">
+                <i class="fa-solid fa-download"></i> {{ i18n "download_vcard" }}
+              </a>
+            </div>
+          </div>
+        </section>
+      </aside>
+    </div>
 
     {{- if site.Params.turnstile.siteKey }}
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
