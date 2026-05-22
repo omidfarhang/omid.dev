@@ -309,6 +309,19 @@ params:
     - WebAssembly
     - Jupyter
 
+  # A smaller homepage set. The full TechBlog index can stay more granular.
+  homeFeaturedTechTagsProfessional:
+    - Engineering Leadership
+    - Software Architecture
+    - Case Study
+  homeFeaturedTechTagsTechnical:
+    - Angular
+    - Frontend
+    - Micro Frontends
+    - DevOps
+    - Security
+    - Data & AI
+
   displayFullLangName: true
   comments: true
   ShowReadingTime: true

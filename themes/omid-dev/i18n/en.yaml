@@ -149,6 +149,12 @@
 - id: tech_topics
   translation: "Tech Topics"
 
+- id: current_focus
+  translation: "Current Focus"
+
+- id: how_i_can_help
+  translation: "How I Can Help"
+
 - id: tech_topics_professional
   translation: "Engineering & Leadership"
 

@@ -5,15 +5,17 @@
 
 {{- $showFeatured := .showFeatured | default false }}
 {{- $compact := .compact | default false }}
+{{- $professionalTags := .professionalTags | default site.Params.homeTechTagsProfessional }}
+{{- $technicalTags := .technicalTags | default site.Params.homeTechTagsTechnical }}
 {{- $tagGroups := slice
-    (dict "title" (i18n "tech_topics_professional") "tags" site.Params.homeTechTagsProfessional)
-    (dict "title" (i18n "tech_topics_technical") "tags" site.Params.homeTechTagsTechnical)
+    (dict "title" (i18n "tech_topics_professional") "tags" $professionalTags)
+    (dict "title" (i18n "tech_topics_technical") "tags" $technicalTags)
 }}
 
 {{- if $compact }}
 <div class="tech-topics-block">
 {{- else }}
-<section class="posts-section topics-section tech-topics-section" aria-labelledby="tech-topics-title">
+<section class="posts-section topics-section tech-topics-section{{ if .home }} home-section topics-section--home{{ end }}" aria-labelledby="tech-topics-title">
   <h2 id="tech-topics-title" class="section-title">{{ i18n "tech_topics" }}</h2>
 {{- end }}
 
@@ -51,20 +53,26 @@
     {{- range $groupTags }}
     {{- $tagName := . }}
     {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
-    {{- if gt (len $tagPages) 0 }}
+    {{- $tagPage := "" }}
     {{- range $slug, $_ := site.Taxonomies.tags }}
-    {{- with site.GetPage (printf "/tags/%s" $slug) }}
-    {{- if eq .Title $tagName }}
-    <a href="{{ .RelPermalink }}" class="topic-card">
+      {{- with site.GetPage (printf "/tags/%s" $slug) }}
+        {{- if eq .Title $tagName }}
+          {{- $tagPage = . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    {{- if or (gt (len $tagPages) 0) $.home }}
+    <a href="{{ if $tagPage }}{{ $tagPage.RelPermalink }}{{ else }}{{ $techSection.RelPermalink }}{{ end }}" class="topic-card">
       <div class="topic-icon">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
       <h3>{{ $tagName }}</h3>
+      {{- if gt (len $tagPages) 0 }}
       <p>{{ T "all" }} {{ len $tagPages }} {{ T "posts" }}</p>
+      {{- else }}
+      <p>{{ i18n "view_all_tech_posts" }}</p>
+      {{- end }}
     </a>
-    {{- end }}
-    {{- end }}
-    {{- end }}
     {{- end }}
     {{- end }}
     {{- if and $isTechnicalGroup $techSection }}

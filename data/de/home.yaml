@@ -1,0 +1,8 @@
+focusAreas:
+  - category: "Frontend-Platform-Architektur"
+    items: ["Angular-Plattformen", "Designsysteme", "Nx-Monorepos", "Micro-frontends"]
+  - category: "Technische Richtung"
+    items: ["Architektur-Reviews", "Codebase-Modernisierung", "Frontend-Standards", "Migrationsplanung"]
+  - category: "Engineering-Systeme"
+    items: ["CI/CD-Optimierung", "Performance", "Teststrategie", "Developer Experience"]
+contactCta: "Gibt es ein ernsthaftes Problem in Frontend-Architektur, Angular-Plattformen, Migrationen oder Engineering-Systemen, das ein Gespraech wert ist?"

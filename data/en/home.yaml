@@ -1,0 +1,8 @@
+focusAreas:
+  - category: "Frontend Platform Architecture"
+    items: ["Angular platforms", "Design systems", "Nx monorepos", "Micro-frontends"]
+  - category: "Technical Direction"
+    items: ["Architecture reviews", "Codebase modernization", "Frontend standards", "Migration planning"]
+  - category: "Engineering Systems"
+    items: ["CI/CD optimization", "Performance", "Testing strategy", "Developer experience"]
+contactCta: "Have a serious frontend architecture, Angular platform, migration, or engineering-systems problem worth discussing?"

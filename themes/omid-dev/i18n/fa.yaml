@@ -149,6 +149,12 @@
 - id: tech_topics
   translation: "موضوعات فنی"
 
+- id: current_focus
+  translation: "تمرکز فعلی"
+
+- id: how_i_can_help
+  translation: "چطور می‌توانم کمک کنم"
+
 - id: tech_topics_professional
   translation: "مهندسی و رهبری"
 
