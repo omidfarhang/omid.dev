@@ -6,7 +6,8 @@
 
 {{- $postsSection := site.GetPage "section" "posts" }}
 {{- $isPostsRoot := and $postsSection (eq . $postsSection) }}
-{{- $isTechSection := eq .Title "TechBlog" }}
+{{- $techSection := site.GetPage "posts/techblog" }}
+{{- $isTechSection := and $techSection (eq .RelPermalink $techSection.RelPermalink) }}
 
 {{- $pages := .RegularPagesRecursive }}
 {{- if .IsHome }}
@@ -64,7 +65,6 @@
 {{- end }}
 
 {{- if $isPostsRoot }}
-  {{- $techSection := site.GetPage "posts/techblog" }}
   <div class="blog-index-layout">
     <div class="blog-index-main">
       {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
@@ -92,7 +92,7 @@
     <div class="life-links">
       <h3 class="topics-subtitle">{{ i18n "life_interests" }}</h3>
       {{- range $postsSection.Sections }}
-      {{- if ne .Title "TechBlog" }}
+      {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
       <a href="{{ .Permalink }}" class="life-link">
         <span class="life-link-icon">
           {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>

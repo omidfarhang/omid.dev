@@ -61,7 +61,7 @@
         {{- end }}
       {{- end }}
     {{- end }}
-    {{- if or (gt (len $tagPages) 0) $.home }}
+    {{- if or (gt (len $tagPages) 0) $.home $compact }}
     <a href="{{ if $tagPage }}{{ $tagPage.RelPermalink }}{{ else }}{{ $techSection.RelPermalink }}{{ end }}" class="topic-card">
       <div class="topic-icon">
         {{- partial "topic_tag_icon.html" $tagName }}
