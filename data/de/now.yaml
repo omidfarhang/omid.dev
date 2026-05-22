@@ -1,0 +1,34 @@
+last_updated: 2026-02-03
+location: Teheran, Iran
+status: "Frontend Lead bei Jibit; ich unterstütze ein Team, beobachte neue Tech-Trends und tauche in Gesundheitsthemen ein."
+focuses:
+  - title: "Arbeit"
+    icon: "fa-solid fa-people-group"
+    summary: "Leitung des Frontend-Teams bei Jibit mit Fokus auf Plattformqualität und Teamwachstum."
+    content: |
+      Derzeit leite ich das Frontend-Team bei **Jibit**. Mein Ansatz konzentriert sich darauf, Teammitglieder zu unterstützen und zu befähigen, statt klassisch von oben nach unten zu steuern.
+  - title: "Erkunden"
+    icon: "fa-solid fa-compass"
+    summary: "Blick über ein einzelnes Ökosystem hinaus: Architektur, Strategie, Soft Skills und neue Tools."
+    content: |
+      Ich suche aktiv nach Themen, die ich noch nicht erkundet habe. Statt tief in ein einzelnes Framework einzutauchen, lese ich mehr über Softwarestrategien, Soft Skills, Architekturmuster sowie neue Tools und Stacks. Mein Ziel ist es, die Perspektive breit zu halten und nicht in einem einzelnen Ökosystem oder Denkmodell steckenzubleiben.
+  - title: "Nebenprojekt"
+    icon: "fa-solid fa-lightbulb"
+    summary: "Eine alte Idee für einen Real-Life-Assistenten mit moderner KI neu denken."
+    content: |
+      Vor Jahren plante ich ein Startup für einen "Real-Life Assistant" - eine Entscheidungshilfe für den Alltag. Vor der Zeit von LLMs und GPT baute ich daran mit komplexer Logik und Datenstrukturen. Dieser manuelle Ansatz ist durch KI weitgehend überholt, aber der Weg hat mir viel über Business und Technologie beigebracht. Aufgegeben habe ich die Idee nicht; ich denke sie mit den Möglichkeiten moderner KI neu.
+  - title: "Gesundheit"
+    icon: "fa-solid fa-heart-pulse"
+    summary: "Gesundheits- und Medizinthemen verfolgen, von Software bis praktischer Alltagsversorgung."
+    content: |
+      Die Welt von Gesundheit und Medizin fasziniert mich, von aktuellen Nachrichten bis zu Hausmitteln und dem sinnvollen Einsatz rezeptfreier Medikamente. Der Coursera-Kurs "Introduction to Medical Software" der Yale University war eine sehr angenehme Erfahrung.
+  - title: "Lesen"
+    icon: "fa-solid fa-book-open"
+    summary: "Gerade kein einzelnes Buch, sondern Artikel zu Tech, Gesundheit und Politik."
+    content: |
+      Im Moment lese ich kein bestimmtes Buch. Stattdessen verfolge ich Artikel über Technik, Gesundheit und Politik, um vielseitig zu bleiben und kein "eindimensionaler Mensch" zu werden.
+  - title: "Hören"
+    icon: "fa-solid fa-music"
+    summary: "Musik aus den 1940er- und 1950er-Jahren, auch wegen der Atmosphäre von Fallout 4."
+    content: |
+      Ich bin offen für alle Genres, aber Musik aus den 1940er- und 1950er-Jahren gibt mir in letzter Zeit eine besondere Stimmung. Das kommt vor allem von den Playlists und Umgebungen in **Fallout 4**.

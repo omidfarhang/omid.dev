@@ -6,6 +6,7 @@
 
 <div class="home-content">
     {{- $home := index hugo.Data .Language.Lang "home" }}
+    {{- $now := index hugo.Data .Language.Lang "now" }}
 
     <section class="home-section home-identity-panel">
         <div class="identity-about">
@@ -49,7 +50,7 @@
         {{- end }}
     </section>
 
-    {{- if $home.currently }}
+    {{- if $now.focuses }}
     <section class="home-section home-now home-panel">
         <div class="home-now-header">
             <h2 class="section-title section-title--compact">{{ i18n "home_now_title" }}</h2>
@@ -58,14 +59,14 @@
             {{- end }}
         </div>
         <div class="now-cards">
-            {{- range $home.currently }}
+            {{- range first 4 $now.focuses }}
             <article class="now-card">
                 <div class="now-card-icon" aria-hidden="true">
                     <i class="{{ .icon | default "fa-solid fa-circle-dot" }}"></i>
                 </div>
                 <div class="now-card-body">
-                    <h3>{{ .label }}</h3>
-                    <p>{{ .detail }}</p>
+                    <h3>{{ .title }}</h3>
+                    <p>{{ .summary }}</p>
                 </div>
             </article>
             {{- end }}

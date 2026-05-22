@@ -4,19 +4,6 @@ principles:
   - "Architecture should reduce risk, not add ceremony."
   - "Platforms win when developers feel speed and clarity every day."
   - "Strong teams need standards, autonomy, and honest technical debate."
-currently:
-  - label: "Leading"
-    detail: "Frontend team at Jibit — platform quality, team growth, and sustainable delivery."
-    icon: "fa-solid fa-people-group"
-  - label: "Exploring"
-    detail: "Architecture patterns, engineering strategy, and tools outside my usual stack."
-    icon: "fa-solid fa-compass"
-  - label: "Writing"
-    detail: "Notes on Angular, platform design, Linux, and the craft of building software."
-    icon: "fa-solid fa-pen-nib"
-  - label: "Side project"
-    detail: "Reimagining a real-life assistant idea with modern AI instead of brittle rule engines."
-    icon: "fa-solid fa-lightbulb"
 focusAreas:
   - category: "Frontend Platform Architecture"
     items: ["Angular platforms", "Design systems", "Nx monorepos", "Micro-frontends"]

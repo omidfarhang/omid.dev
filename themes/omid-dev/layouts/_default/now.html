@@ -1,4 +1,5 @@
 {{- define "main" }}
+{{- $now := index hugo.Data .Language.Lang "now" }}
 
 <article class="post-single now-page page-shell">
   <header class="post-header now-hero page-hero">
@@ -19,16 +20,16 @@
         {{- end }}
       </div>
       <div class="now-hero-card page-hero-card">
-        <p class="now-status-text">{{ hugo.Data.now.status | markdownify }}</p>
+        <p class="now-status-text">{{ $now.status | markdownify }}</p>
         <div class="page-metadata">
           <span class="meta-badge">
             <i class="fa-solid fa-clock-rotate-left"></i>
-            {{ i18n "last_updated" }}: {{ hugo.Data.now.last_updated }}
+            {{ i18n "last_updated" }}: {{ $now.last_updated }}
           </span>
-          {{- if hugo.Data.now.location }}
+          {{- if $now.location }}
           <span class="meta-location">
             <i class="fa-solid fa-location-dot"></i>
-            {{ hugo.Data.now.location }}
+            {{ $now.location }}
           </span>
           {{- end }}
         </div>
@@ -38,9 +39,12 @@
 
   <div class="now-page-content">
     <div class="now-focus-list" aria-label="{{ i18n "now_page_eyebrow" }}">
-      {{- range hugo.Data.now.focuses }}
+      {{- range $now.focuses }}
       <section class="now-panel now-focus-panel">
-        <h2 class="now-section-title">{{ .title }}</h2>
+        <h2 class="now-section-title">
+          {{- if .icon }}<i class="{{ .icon }}" aria-hidden="true"></i>{{ end }}
+          <span>{{ .title }}</span>
+        </h2>
         <div class="now-section-content post-content">
           {{ .content | markdownify }}
         </div>

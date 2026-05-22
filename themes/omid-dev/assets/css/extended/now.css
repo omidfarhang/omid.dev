@@ -63,6 +63,9 @@
 }
 
 .now-section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
     margin: 0 0 14px;
     font-size: 1.35rem;
     font-weight: 800;
@@ -70,6 +73,11 @@
     letter-spacing: -0.02em;
     line-height: 1.25;
     position: relative;
+}
+
+.now-section-title i {
+    color: var(--accent);
+    font-size: 0.95rem;
 }
 
 .now-section-title::before {

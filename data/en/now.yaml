@@ -2,21 +2,33 @@ last_updated: 2026-02-03
 location: Tehran, Iran
 status: "Frontend Lead at Jibit, supporting a team, exploring new tech trends, and diving into the world of health."
 focuses:
-  - title: 🛠️ Working
+  - title: "Working"
+    icon: "fa-solid fa-people-group"
+    summary: "Leading the frontend team at Jibit with a focus on platform quality and team growth."
     content: |
       Currently leading the frontend team at **Jibit**. My approach is focused on supporting and empowering my teammates rather than traditional top-down leadership and control.
-  - title: 🚀 Exploring
+  - title: "Exploring"
+    icon: "fa-solid fa-compass"
+    summary: "Looking beyond a single ecosystem: architecture, strategy, soft skills, and emerging tools."
     content: |
       I'm actively looking around to discover topics I haven't explored yet. Rather than deep-diving into a single framework, I'm dedicating my time to reading about new software strategies, soft skills, architectural patterns, and emerging tools and stacks. My goal is to broaden my perspective and avoid getting "locked-in" to a single ecosystem or way of thinking - staying away from my own isolated island.
-  - title: 💡 Side Project
+  - title: "Side Project"
+    icon: "fa-solid fa-lightbulb"
+    summary: "Reimagining an old real-life assistant idea with modern AI instead of brittle rule engines."
     content: |
       Years ago, I planned a startup for a "real-life assistant" - a decision maker for daily life. Before the era of LLMs and GPT, I was building it with complex logic and data structures. While that manual approach is now obsolete thanks to AI, the journey taught me invaluable lessons about business and tech. I haven't given up; instead, I'm reimagining the concept by leveraging the massive potential of modern AI.
-  - title: 🏥 Health
+  - title: "Health"
+    icon: "fa-solid fa-heart-pulse"
+    summary: "Following health and medical topics, from software to practical everyday care."
     content: |
       I'm fascinated by the health and medical world, from following the latest news to practical home remedies and OTC medication usage. Completing Yale University's "Introduction to Medical Software" course on Coursera was a very pleasant experience.
-  - title: 📖 Reading
+  - title: "Reading"
+    icon: "fa-solid fa-book-open"
+    summary: "Keeping up with articles across tech, health, and politics rather than one book."
     content: |
       I'm not reading a specific book at the moment. Instead, I'm keeping up with articles on tech, health, and politics to stay well-rounded and avoid becoming a "One-Dimensional Man."
-  - title: 🎵 Listening
+  - title: "Listening"
+    icon: "fa-solid fa-music"
+    summary: "Enjoying music from the 1940s and 1950s, partly through the atmosphere of Fallout 4."
     content: |
       I'm open to all genres, but music from the 1940s and 1950s has been giving me a special vibe lately. This mostly comes from the playlists and environments found in **Fallout 4**.
