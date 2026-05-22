@@ -111,7 +111,7 @@
       <div class="qr-container">
         <div class="qr-code">
           {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
-          <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={{ $vcard | urlquery }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
+          <img src="{{ "images/qr-contact.png" | relURL }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
         </div>
         <div class="qr-text">
           <p>{{ i18n "qr_scan_text" }}</p>
