@@ -1,0 +1,108 @@
+/* Shared internal page shell and hero patterns. */
+
+.page-shell.post-single {
+    padding: 0;
+    overflow: hidden;
+}
+
+.page-hero {
+    margin: 0;
+    padding: 34px 40px 38px;
+    background:
+        radial-gradient(circle at 12% 18%, rgba(13, 148, 136, 0.16), transparent 30%),
+        radial-gradient(circle at 88% 22%, rgba(13, 148, 136, 0.08), transparent 34%),
+        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 190%),
+        var(--theme);
+    border-bottom: 1px solid var(--border);
+}
+
+.page-hero .breadcrumbs {
+    margin-bottom: 22px;
+}
+
+.page-hero-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+    gap: 32px;
+    align-items: end;
+}
+
+.page-hero-copy {
+    min-width: 0;
+}
+
+.page-hero .post-title {
+    margin: 0 0 14px;
+    font-size: clamp(2.2rem, 5vw, 3.2rem);
+    letter-spacing: -0.04em;
+}
+
+.page-hero-lead {
+    max-width: 62ch;
+    margin: 0 0 14px;
+    color: var(--secondary);
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+.page-hero-note {
+    max-width: 62ch;
+    margin-top: 4px;
+    color: var(--content);
+    font-size: 0.98rem;
+    line-height: 1.75;
+}
+
+.page-hero-note p:first-child {
+    margin-top: 0;
+}
+
+.page-hero-note p:last-child {
+    margin-bottom: 0;
+}
+
+.page-hero-card {
+    padding: 18px;
+    background: rgba(var(--theme-rgb), 0.72);
+    border: 1px solid rgba(13, 148, 136, 0.22);
+    border-radius: calc(var(--radius) * 1.5);
+    box-shadow: var(--shadow-md);
+    backdrop-filter: blur(10px);
+}
+
+.section-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0 0 10px;
+    color: var(--accent);
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.section-eyebrow::before {
+    content: "";
+    width: 22px;
+    height: 2px;
+    background: var(--accent);
+    border-radius: 999px;
+    flex-shrink: 0;
+}
+
+[dir="rtl"] .section-eyebrow {
+    letter-spacing: normal;
+}
+
+@media screen and (max-width: 900px) {
+    .page-hero-inner {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page-hero {
+        padding: 24px;
+    }
+}

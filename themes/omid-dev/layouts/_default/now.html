@@ -1,58 +1,65 @@
 {{- define "main" }}
 
-<div class="page-single">
-  <header class="post-header">
+<article class="post-single now-page page-shell">
+  <header class="post-header now-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title entry-hint-parent">
-      {{ .Title }}
-    </h1>
-    <div class="page-metadata">
-      <span class="meta-badge">
-        <i class="fa-solid fa-clock-rotate-left"></i>
-        {{ T "last_updated" | default "Last updated" }}: {{ hugo.Data.now.last_updated }}
-      </span>
-      {{- if hugo.Data.now.location -}}
-      <span class="meta-location">
-        <i class="fa-solid fa-location-dot"></i>
-        {{ hugo.Data.now.location }}
-      </span>
-      {{- end -}}
+    <div class="now-hero-inner page-hero-inner">
+      <div class="now-hero-copy page-hero-copy">
+        <p class="section-eyebrow">{{ i18n "now_page_eyebrow" }}</p>
+        <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
+        {{- with .Summary }}
+        <p class="now-hero-lead page-hero-lead">{{ . }}</p>
+        {{- end }}
+        {{- if .Content }}
+        <div class="now-hero-note page-hero-note post-content">
+          {{- if not (.Param "disableAnchoredHeadings") }}
+          {{- partial "anchored_headings.html" .Content -}}
+          {{- else }}{{ .Content }}{{ end }}
+        </div>
+        {{- end }}
+      </div>
+      <div class="now-hero-card page-hero-card">
+        <p class="now-status-text">{{ hugo.Data.now.status | markdownify }}</p>
+        <div class="page-metadata">
+          <span class="meta-badge">
+            <i class="fa-solid fa-clock-rotate-left"></i>
+            {{ i18n "last_updated" }}: {{ hugo.Data.now.last_updated }}
+          </span>
+          {{- if hugo.Data.now.location }}
+          <span class="meta-location">
+            <i class="fa-solid fa-location-dot"></i>
+            {{ hugo.Data.now.location }}
+          </span>
+          {{- end }}
+        </div>
+      </div>
     </div>
   </header>
 
-  <div class="now-status-box">
-    <p>{{ hugo.Data.now.status | markdownify }}</p>
-  </div>
-
-  {{- if .Content }}
-  <div class="post-content now-intro">
-    {{- .Content }}
-  </div>
-  {{- end }}
-
-  <div class="now-grid">
-    {{- range hugo.Data.now.focuses }}
-    <div class="now-section">
-      <h2 class="now-section-title">{{ .title }}</h2>
-      <div class="now-section-content">
-        {{ .content | markdownify }}
-      </div>
+  <div class="now-page-content">
+    <div class="now-focus-list" aria-label="{{ i18n "now_page_eyebrow" }}">
+      {{- range hugo.Data.now.focuses }}
+      <section class="now-panel now-focus-panel">
+        <h2 class="now-section-title">{{ .title }}</h2>
+        <div class="now-section-content post-content">
+          {{ .content | markdownify }}
+        </div>
+      </section>
+      {{- end }}
     </div>
-    {{- end }}
-  </div>
 
-  <div class="now-footer">
-    <hr>
-    <p class="now-inspiration">
-      {{ if eq .Lang "fa" }}
-      ایده این صفحه از <a href="https://nownownow.com/about" target="_blank" rel="noopener">پروژه nownownow</a> گرفته شده است.
-      {{ else if eq .Lang "de" }}
-      Inspiriert durch das <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow-Projekt</a>.
-      {{ else }}
-      Inspired by the <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow project</a>.
-      {{ end }}
-    </p>
+    <footer class="now-panel now-footer-panel">
+      <p class="now-inspiration">
+        {{ if eq .Lang "fa" }}
+        ایده این صفحه از <a href="https://nownownow.com/about" target="_blank" rel="noopener">پروژه nownownow</a> گرفته شده است.
+        {{ else if eq .Lang "de" }}
+        Inspiriert durch das <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow-Projekt</a>.
+        {{ else }}
+        Inspired by the <a href="https://nownownow.com/about" target="_blank" rel="noopener">nownownow project</a>.
+        {{ end }}
+      </p>
+    </footer>
   </div>
-</div>
+</article>
 
-{{- end }}{{/* end main */}}
+{{- end }}

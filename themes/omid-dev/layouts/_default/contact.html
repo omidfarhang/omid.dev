@@ -1,22 +1,22 @@
 {{- define "main" }}
 
-<article class="post-single contact-page">
-  <header class="post-header contact-hero">
+<article class="post-single contact-page page-shell">
+  <header class="post-header contact-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
-    <div class="contact-hero-inner">
-      <div class="contact-hero-copy">
-        <p class="contact-eyebrow">{{ i18n "contact" }}</p>
+    <div class="contact-hero-inner page-hero-inner">
+      <div class="contact-hero-copy page-hero-copy">
+        <p class="section-eyebrow">{{ i18n "contact" }}</p>
         <h1 class="post-title">
           {{ .Title }}
         </h1>
         {{- if .Content }}
-        <div class="contact-intro">
+        <div class="contact-intro page-hero-note">
           {{ .Content }}
         </div>
         {{- end }}
       </div>
 
-      <div class="contact-hero-card" aria-label="{{ i18n "direct_contact" }}">
+      <div class="contact-hero-card page-hero-card" aria-label="{{ i18n "direct_contact" }}">
         {{- if site.Params.footer.contactEmail }}
         <a href="mailto:{{ site.Params.footer.contactEmail }}">
           <i class="fa-solid fa-envelope"></i>

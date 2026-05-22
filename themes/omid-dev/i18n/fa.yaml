@@ -65,6 +65,12 @@
 - id: home_now_link
   translation: "صفحه کامل الان"
 
+- id: now_page_eyebrow
+  translation: "الان"
+
+- id: uses_page_eyebrow
+  translation: "ابزارها"
+
 - id: home_core_stack
   translation: "استک اصلی"
 

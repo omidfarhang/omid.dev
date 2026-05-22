@@ -84,15 +84,6 @@
     max-width: none;
 }
 
-.section-eyebrow {
-    margin: 0 0 6px;
-    font-size: 0.72rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--accent);
-}
-
 .section-title--compact {
     margin-bottom: 20px;
     font-size: 1.2rem;

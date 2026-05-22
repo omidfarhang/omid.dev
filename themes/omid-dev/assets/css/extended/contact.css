@@ -1,81 +1,13 @@
 /* Contact Page Styles */
 
-.contact-page {
-    overflow: hidden;
-    padding: 0;
-}
-
-.contact-hero {
-    margin: 0;
-    padding: 34px 40px 38px;
-    background:
-        radial-gradient(circle at 12% 18%, rgba(13, 148, 136, 0.16), transparent 30%),
-        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 190%),
-        var(--theme);
-    border-bottom: 1px solid var(--border);
-}
-
-.contact-hero .breadcrumbs {
-    margin-bottom: 22px;
-}
-
-.contact-hero-inner {
-    display: grid;
+.contact-hero .page-hero-inner {
     grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
-    gap: 32px;
-    align-items: end;
-}
-
-.contact-eyebrow {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    margin: 0 0 10px;
-    color: var(--accent);
-    font-size: 0.82rem;
-    font-weight: 800;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-}
-
-.contact-eyebrow::before {
-    content: "";
-    width: 22px;
-    height: 2px;
-    background: var(--accent);
-    border-radius: 999px;
-}
-
-.contact-page .post-title {
-    margin: 0 0 18px;
-    font-size: clamp(2.2rem, 5vw, 3.2rem);
-    letter-spacing: -0.04em;
-}
-
-.contact-intro {
-    max-width: 760px;
-    color: var(--content);
-    font-size: 1.05rem;
-    line-height: 1.75;
-}
-
-.contact-intro p:first-child {
-    margin-top: 0;
-}
-
-.contact-intro p:last-child {
-    margin-bottom: 0;
 }
 
 .contact-hero-card {
     display: grid;
     gap: 10px;
     padding: 16px;
-    background: rgba(var(--theme-rgb), 0.72);
-    border: 1px solid rgba(13, 148, 136, 0.22);
-    border-radius: calc(var(--radius) * 1.5);
-    box-shadow: var(--shadow-md);
-    backdrop-filter: blur(10px);
 }
 
 .contact-hero-card a {
@@ -440,10 +372,6 @@
     transform: translateY(-2px);
 }
 
-[dir="rtl"] .contact-eyebrow {
-    letter-spacing: normal;
-}
-
 [dir="rtl"] .form-button {
     align-self: flex-start;
 }
@@ -453,7 +381,7 @@
 }
 
 @media screen and (max-width: 960px) {
-    .contact-hero-inner,
+    .contact-hero .page-hero-inner,
     .contact-layout {
         grid-template-columns: 1fr;
     }
@@ -468,7 +396,6 @@
 }
 
 @media screen and (max-width: 700px) {
-    .contact-hero,
     .contact-page-content {
         padding: 24px;
     }

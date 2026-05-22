@@ -1,61 +1,11 @@
-.post-single.about-page {
-  overflow: hidden;
-  padding: 0;
-}
-
-.post-single.about-page .about-hero {
-  margin: 0;
-  padding: 34px 40px 38px;
-  background:
-    radial-gradient(circle at 12% 18%, rgba(13, 148, 136, 0.16), transparent 30%),
-    linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 190%),
-    var(--theme);
-  border-bottom: 1px solid var(--border);
-}
-
-.about-hero .breadcrumbs {
-  margin-bottom: 22px;
-}
-
-.about-hero-inner {
-  display: grid;
+.about-hero .page-hero-inner {
   grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
-  gap: 32px;
   align-items: center;
-}
-
-.about-eyebrow {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  margin: 0 0 10px;
-  color: var(--accent);
-  font-size: 0.82rem;
-  font-weight: 800;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-}
-
-.about-eyebrow::before {
-  content: "";
-  width: 22px;
-  height: 2px;
-  background: var(--accent);
-  border-radius: 999px;
-}
-
-.about-page .post-title {
-  margin: 0 0 18px;
-  font-size: clamp(2.2rem, 5vw, 3.2rem);
-  letter-spacing: -0.04em;
 }
 
 .about-summary {
   max-width: 820px;
   margin: 0;
-  color: var(--content);
-  font-size: 1.05rem;
-  line-height: 1.75;
 }
 
 .about-profile-card {
@@ -64,11 +14,6 @@
   align-items: start;
   gap: 18px;
   padding: 18px;
-  background: rgba(var(--theme-rgb), 0.72);
-  border: 1px solid rgba(13, 148, 136, 0.22);
-  border-radius: calc(var(--radius) * 1.5);
-  box-shadow: var(--shadow-md);
-  backdrop-filter: blur(10px);
 }
 
 .about-page .profile-photo-wrapper {
@@ -327,17 +272,13 @@
   transform: translateY(-2px);
 }
 
-[dir="rtl"] .about-eyebrow {
-  letter-spacing: normal;
-}
-
 [dir="rtl"] .about-me-content h3::after,
 [dir="rtl"] .about-side-card .section-title::after {
   margin-right: 0;
 }
 
 @media screen and (max-width: 960px) {
-  .about-hero-inner,
+  .about-hero .page-hero-inner,
   .about-me-container {
     grid-template-columns: 1fr;
   }
@@ -348,7 +289,6 @@
 }
 
 @media screen and (max-width: 700px) {
-  .post-single.about-page .about-hero,
   .about-page-content {
     padding: 24px;
   }

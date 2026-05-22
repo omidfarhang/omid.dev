@@ -1,18 +1,18 @@
 {{- define "main" }}
 {{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
-<article class="post-single about-page">
-  <header class="post-header about-hero">
+<article class="post-single about-page page-shell">
+  <header class="post-header about-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
-    <div class="about-hero-inner">
-      <div class="about-hero-copy">
-        <p class="about-eyebrow">{{ $resume.title }}</p>
+    <div class="about-hero-inner page-hero-inner">
+      <div class="about-hero-copy page-hero-copy">
+        <p class="section-eyebrow">{{ $resume.title }}</p>
         <h1 class="post-title">{{ .Title }}</h1>
         {{- with $resume.summary }}
-        <p class="about-summary">{{ . }}</p>
+        <p class="about-summary page-hero-lead">{{ . }}</p>
         {{- end }}
       </div>
 
-      <div class="about-profile-card">
+      <div class="about-profile-card page-hero-card">
         <div class="profile-photo-wrapper">
           <img src="{{ "images/bio-photo.jpg" | relURL }}" alt="{{ $resume.name }}" class="profile-photo">
         </div>

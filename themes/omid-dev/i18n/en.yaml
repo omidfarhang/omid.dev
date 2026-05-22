@@ -65,6 +65,12 @@
 - id: home_now_link
   translation: "Full now page"
 
+- id: now_page_eyebrow
+  translation: "Now"
+
+- id: uses_page_eyebrow
+  translation: "Uses"
+
 - id: home_core_stack
   translation: "Core Stack"
 
