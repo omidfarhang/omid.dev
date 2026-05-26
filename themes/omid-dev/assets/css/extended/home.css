@@ -16,7 +16,7 @@
     grid-template-columns: minmax(220px, 0.72fr) minmax(0, 1.28fr);
     gap: 48px;
     align-items: center;
-    max-width: 1120px;
+    max-width: var(--main-width);
     margin: 0 auto;
 }
 
@@ -86,9 +86,9 @@
 }
 
 .home-content {
-    max-width: 1120px;
+    max-width: var(--main-width);
     margin: 0 auto;
-    padding: 48px var(--gap) 0;
+    padding: 48px 0 0;
 }
 
 .home-section {
@@ -461,6 +461,13 @@
 
 .recent-posts .post-entry--list {
     background: transparent;
+}
+
+.recent-posts .post-entry--featured {
+    background:
+        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 65%, var(--surface-tint-strong) 100%),
+        var(--theme);
+    border-color: var(--accent-border-soft);
 }
 
 .recent-posts .post-entry--list .entry-cover {
