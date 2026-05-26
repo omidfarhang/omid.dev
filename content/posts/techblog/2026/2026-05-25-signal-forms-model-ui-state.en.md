@@ -1,7 +1,6 @@
 ---
 title: "Signal Forms Aren't Just a Forms API Update: They Change How You Model UI State"
 date: 2026-05-25T02:48:00+03:30
-# draft: true
 description: "Signal Forms push Angular forms toward explicit state modeling, where validation, submission, async work, and derived UI state live in the same reactive graph."
 layout: single
 author_profile: true

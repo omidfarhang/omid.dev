@@ -1,7 +1,6 @@
 ---
 title: "The Hidden Cost of Nice Syntax: When Angular's New Template Features Make Code Harder to Reason About"
 date: 2026-05-26T02:48:00+03:30
-# draft: false
 description: "Angular's newer template syntax is powerful, but spread/rest, arrow functions, multi-case switches, and richer control flow need team rules before clever templates become maintenance debt."
 layout: single
 author_profile: true
