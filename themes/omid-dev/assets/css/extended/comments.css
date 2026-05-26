@@ -1,22 +1,53 @@
 .comments-container {
-    margin-top: 3rem;
-    margin-bottom: 2rem;
-    padding: 2rem;
-    background: var(--code-bg);
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
+    margin: 3.5rem 0 2rem;
+    padding: 0;
+    overflow: hidden;
+    background:
+        linear-gradient(135deg, var(--theme) 0%, var(--surface-tint) 100%),
+        var(--theme);
+    border: 1px solid var(--accent-border-soft);
+    border-radius: calc(var(--radius) * 2);
+    box-shadow: var(--shadow-sm);
 }
+
+.social-discussion {
+    padding: 28px;
+}
+
+.discussion-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.discussion-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 46px;
+    height: 46px;
+    color: var(--accent);
+    background: var(--accent-light);
+    border: 1px solid var(--accent-border-soft);
+    border-radius: 50%;
+}
+
 .discussion-header h3 {
-    margin: 0 0 0.5rem 0;
-    font-size: 1.4rem;
-    font-weight: 700;
+    margin: 0 0 0.45rem 0;
+    color: var(--primary);
+    font-size: clamp(1.35rem, 3vw, 1.7rem);
+    font-weight: 800;
+    letter-spacing: -0.025em;
 }
 [dir="rtl"] .discussion-header h3 {
     font-family: inherit;
 }
 .discussion-header p {
-    margin: 0 0 1rem 0;
+    margin: 0;
     font-size: 1rem;
+    line-height: 1.65;
     color: var(--secondary);
 }
 .discussion-note {
@@ -27,7 +58,7 @@
 }
 .share-links {
     display: flex;
-    gap: 12px;
+    gap: 10px;
     flex-wrap: wrap;
 }
 [dir="rtl"] .share-links {
@@ -37,34 +68,47 @@
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    padding: 8px 16px;
-    border-radius: 10px;
-    text-decoration: none;
+    padding: 10px 14px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    text-decoration: none !important;
     font-size: 14px;
-    font-weight: 600;
-    transition: all 0.2s ease;
-    color: #ffffff !important;
+    font-weight: 750;
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    color: var(--primary) !important;
+    background: var(--theme);
 }
 [dir="rtl"] .share-btn {
     flex-direction: row-reverse;
 }
 .share-btn:hover {
     transform: translateY(-2px);
-    filter: brightness(1.1);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    text-decoration: none;
+    border-color: var(--accent);
+    box-shadow: var(--shadow-sm);
+    text-decoration: none !important;
 }
-.x-btn { background-color: #000000; }
-.mastodon-btn { background-color: #6364ff; }
-.bluesky-btn { background-color: #0560ff; }
-.reddit-btn { background-color: #ff4500; }
-.hn-btn { background-color: #ff6600; }
+
+.share-btn i {
+    color: var(--accent);
+}
+
+.x-btn:hover,
+.x-btn:hover i { color: var(--primary) !important; }
+.mastodon-btn:hover,
+.mastodon-btn:hover i { color: #6364ff !important; }
+.bluesky-btn:hover,
+.bluesky-btn:hover i { color: #0560ff !important; }
+.reddit-btn:hover,
+.reddit-btn:hover i { color: #ff4500 !important; }
+.hn-btn:hover,
+.hn-btn:hover i { color: #ff6600 !important; }
 
 /* Webmentions */
 .webmentions-container {
-    margin-top: 2.5rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--border);
+    margin-top: 0;
+    padding: 24px 28px 28px;
+    background: rgba(var(--theme-rgb), 0.58);
+    border-top: 1px solid var(--accent-border-soft);
 }
 
 .webmentions-header {
@@ -74,6 +118,7 @@
 .webmentions-stats {
     display: flex;
     gap: 1.5rem;
+    flex-wrap: wrap;
     font-size: 0.95rem;
     margin-bottom: 1rem;
     color: var(--secondary);
@@ -90,10 +135,10 @@
 }
 
 .webmentions-facepile img {
-    width: 40px;
-    height: 40px;
+    width: 42px;
+    height: 42px;
     border-radius: 50%;
-    border: 2px solid var(--entry);
+    border: 2px solid var(--theme);
     box-shadow: var(--shadow-sm);
     transition: transform 0.2s;
 }
@@ -110,10 +155,11 @@
 }
 
 .webmention-item {
-    background: var(--entry);
+    background: var(--theme);
     padding: 1.2rem;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
+    border-radius: calc(var(--radius) * 1.5);
+    border: 1px solid var(--accent-border-soft);
+    box-shadow: var(--shadow-sm);
 }
 
 .webmention-author {
@@ -154,10 +200,10 @@
 }
 
 .no-mentions {
-    text-align: center;
+    margin: 0;
+    text-align: start;
     color: var(--secondary);
-    font-style: italic;
-    padding: 1rem 0;
+    padding: 0;
 }
 
 [dir="rtl"] .webmention-author {
@@ -166,5 +212,25 @@
 
 [dir="rtl"] .webmention-author a {
     flex-direction: row;
+}
+
+@media screen and (max-width: 768px) {
+    .social-discussion,
+    .webmentions-container {
+        padding: 22px;
+    }
+
+    .discussion-header {
+        flex-direction: column;
+    }
+
+    .share-links {
+        flex-direction: column;
+    }
+
+    .share-btn {
+        width: 100%;
+        justify-content: center;
+    }
 }
 

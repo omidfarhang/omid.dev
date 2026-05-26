@@ -38,6 +38,15 @@
 - id: share_my_post
   translation: "پست من را به اشتراک بگذارید"
 
+- id: share
+  translation: "اشتراک‌گذاری"
+
+- id: share_native
+  translation: "اشتراک‌گذاری سیستم"
+
+- id: copy_link
+  translation: "کپی لینک"
+
 - id: continue_reading
   translation: "ادامه مطلب"
 

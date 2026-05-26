@@ -38,6 +38,15 @@
 - id: share_my_post
   translation: "Meinen Beitrag teilen"
 
+- id: share
+  translation: "Teilen"
+
+- id: share_native
+  translation: "Systemfreigabe"
+
+- id: copy_link
+  translation: "Link kopieren"
+
 - id: continue_reading
   translation: "Weiterlesen"
 

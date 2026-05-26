@@ -69,7 +69,7 @@
 </div>
 {{- end }}
 
-{{- if and (and $context.Site.Params.ShowShareButtons (ne $context.Params.disableShare true)) (not $isCompact) }}
+{{- if and (and (and $context.Site.Params.ShowShareButtons (ne $context.Params.disableShare true)) (not $hideShare)) (not $isCompact) }}
 <div class="meta-item meta-share dropdown">
     <button class="dropdown-btn" aria-label="Share" onclick="this.parentElement.classList.toggle('active'); event.stopPropagation();">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
@@ -80,6 +80,7 @@
         {{- $pageurl := $context.Permalink }}
         {{- $shortpageurl := ($context.Param "shortlink") | default $context.Permalink }}
         {{- $title := $context.Title }}
+        {{- $shareText := printf "%s %s" $title $shortpageurl }}
 
         {{- $tags := "" }}
         {{- with $context.Params.Tags }}
@@ -96,31 +97,47 @@
             <i class="fas fa-link"></i>
             <span>{{ i18n "copy_link" | default "Copy Link" }}</span>
         </a>
-        <a href="https://x.com/intent/post/?text={{ $title }}&amp;url={{ $shortpageurl }}{{ with $tags }}&amp;hashtags={{ . }}{{ end }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-x-twitter"></i>
-            <span>X (Twitter)</span>
+        <a href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-bluesky"></i>
+            <span>Bluesky</span>
         </a>
-        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl }}&amp;title={{ $title }}" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.threads.net/intent/post?text={{ $shareText | urlquery }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-threads"></i>
+            <span>Threads</span>
+        </a>
+        <a href="https://mastodon.social/share?text={{ $shareText | urlquery }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-mastodon"></i>
+            <span>Mastodon</span>
+        </a>
+        <a href="https://x.com/intent/post/?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}{{ with $tags }}&amp;hashtags={{ . | urlquery }}{{ end }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-x-twitter"></i>
+            <span>X</span>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl | urlquery }}&amp;title={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
         </a>
-        <a href="https://reddit.com/submit?url={{ $shortpageurl }}&title={{ $title }}" target="_blank" rel="noopener noreferrer">
+        <a href="https://reddit.com/submit?url={{ $shortpageurl | urlquery }}&title={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-reddit-alien"></i>
             <span>Reddit</span>
         </a>
-        <a href="https://telegram.me/share/url?text={{ $title }}&amp;url={{ $shortpageurl }}" target="_blank" rel="noopener noreferrer">
+        <a href="https://telegram.me/share/url?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-telegram"></i>
             <span>Telegram</span>
         </a>
-        <a href="https://api.whatsapp.com/send?text={{ $title }}%20-%20{{ $shortpageurl }}" target="_blank" rel="noopener noreferrer">
+        <a href="https://api.whatsapp.com/send?text={{ $shareText | urlquery }}" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-whatsapp"></i>
             <span>WhatsApp</span>
         </a>
-        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl }}" target="_blank" rel="noopener noreferrer">
+        <a href="mailto:?subject={{ $title | urlquery }}&amp;body={{ $shareText | urlquery }}">
+            <i class="fas fa-envelope"></i>
+            <span>Email</span>
+        </a>
+        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl | urlquery }}" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-facebook"></i>
             <span>Facebook</span>
         </a>
-        <a href="https://news.ycombinator.com/submitlink?t={{ $title }}&u={{ $pageurl }}" target="_blank" rel="noopener noreferrer">
+        <a href="https://news.ycombinator.com/submitlink?t={{ $title | urlquery }}&u={{ $pageurl | urlquery }}" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-y-combinator"></i>
             <span>Hacker News</span>
         </a>

@@ -1,11 +1,16 @@
 {{- if .Site.Params.comments -}}
-<div class="comments-container">
+<section class="comments-container" aria-labelledby="discussion-title">
     <div class="social-discussion">
         <div class="discussion-header">
-            <h3>{{ i18n "discussion_title" }}</h3>
-            <p>{{ i18n "discussion_desc" }}</p>
+            <span class="discussion-icon" aria-hidden="true">
+                <i class="fa-solid fa-comments"></i>
+            </span>
+            <div class="discussion-copy">
+                <h3 id="discussion-title">{{ i18n "discussion_title" }}</h3>
+                <p>{{ i18n "discussion_desc" }}</p>
+            </div>
         </div>
-        <div class="share-links">
+        <div class="share-links discussion-links">
             {{- $search_query := .Permalink -}}
             {{- if .Params.shortlink -}}
                 {{- $search_query = .Params.shortlink -}}
@@ -51,7 +56,7 @@
         </div>
         <div id="webmentions-list" class="webmentions-list"></div>
     </div>
-</div>
+</section>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

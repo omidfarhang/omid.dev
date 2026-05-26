@@ -1,10 +1,16 @@
 {{- $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content -}}
 {{- $has_headers := ge (len $headers) 1 -}}
 {{- if $has_headers -}}
-<div class="toc">
+<div class="toc article-toc">
     <details {{if (.Param "TocOpen") }} open{{ end }}>
         <summary accesskey="c" title="(Alt + C)">
-            <span class="details">{{- i18n "toc" | default "Table of Contents" }}</span>
+            <span class="details">
+                <i class="fa-solid fa-list-ul" aria-hidden="true"></i>
+                <span>{{- i18n "toc" | default "Table of Contents" }}</span>
+            </span>
+            <span class="toc-toggle-icon" aria-hidden="true">
+                <i class="fa-solid fa-chevron-down"></i>
+            </span>
         </summary>
 
         <div class="inner">
