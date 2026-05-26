@@ -10,47 +10,8 @@
   {{- end }}
   <div class="posts-grid">
     {{- range $i, $page := $paginator.Pages }}
-    {{- $class := "post-entry" }}
-    {{- if $term }}{{ $class = "post-entry tag-entry" }}{{ end }}
     {{- $isFeatured := and (eq $i 0) (eq $className "posts-list-section--featured-first") }}
-    {{- $isHidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false }}
-    {{- $hasCover := and (not $isHidden) (or $page.Params.cover.image $page.Params.image) }}
-    <article class="{{ $class }}{{ if $isFeatured }} post-entry--featured{{ end }}{{ if $hasCover }} post-entry--has-cover{{ end }}">
-      {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
-      <div class="post-entry-inner">
-        {{- if $isFeatured }}
-        <span class="entry-badge">{{ i18n "latest_post" }}</span>
-        {{- end }}
-        <header class="entry-header">
-          <a aria-label="post link to {{ $page.Title | plainify }}" href="{{ $page.Permalink }}">
-            <h2 class="entry-hint-parent">
-              {{- $page.Title }}
-              {{- if $page.Draft }}
-              <span class="entry-hint" title="Draft">
-                <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-                  <path d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-                </svg>
-              </span>
-              {{- end }}
-            </h2>
-          </a>
-        </header>
-        {{- if not ($page.Param "hideMeta") }}
-        <footer class="entry-footer">
-          {{- partial "post_meta.html" (dict "Context" $page "isCompact" true "hideShare" true "hideAuthor" true "hideTranslations" true) -}}
-        </footer>
-        {{- end }}
-        {{- if (ne ($page.Param "hideSummary") true) }}
-        <div class="entry-content">
-          <p>{{ $page.Summary | plainify | htmlUnescape }}{{ if $page.Truncated }}...{{ end }}</p>
-        </div>
-        {{- end }}
-        <a class="entry-link" aria-label="post link to {{ $page.Title | plainify }}" href="{{ $page.Permalink }}">
-          {{- i18n "continue_reading" }}
-          <i class="fa fa-angle-right" aria-hidden="true" role="img"></i>
-        </a>
-      </div>
-    </article>
+    {{- partial "post_entry_card.html" (dict "page" $page "term" $term "featured" $isFeatured) }}
     {{- end }}
   </div>
 </section>

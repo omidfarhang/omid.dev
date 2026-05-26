@@ -338,11 +338,6 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.blog-index-sidebar .topic-card--core {
-    background: linear-gradient(145deg, var(--accent-light), var(--theme));
-    border-color: var(--accent-border-soft);
-}
-
 .blog-index-sidebar .topics-grid--technical {
     grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -506,18 +501,8 @@
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
-.posts-list-content .topics-section--compact .topic-card--core {
-    background: linear-gradient(145deg, var(--accent-light), var(--theme));
-    border-color: var(--accent-border-soft);
-}
-
 .posts-list-content .tech-topics-section > .topics-grid--core {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-}
-
-.posts-list-content .tech-topics-section .topic-card--core {
-    background: linear-gradient(145deg, var(--accent-light), var(--theme));
-    border-color: var(--accent-border-soft);
 }
 
 .posts-list-content .topics-section--compact .topic-card {
@@ -629,116 +614,13 @@
     gap: 28px;
 }
 
-.posts-list-content .post-entry {
-    margin: 0;
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    transition: all 0.3s ease;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    height: 100%;
-    padding: 0;
-    box-shadow: var(--shadow-sm);
-}
-
-.posts-list-content .post-entry:hover {
+.posts-list-content .post-entry--list:hover {
     transform: translateY(-5px);
-    box-shadow: var(--shadow-lg);
-    border-color: var(--accent);
-}
-
-.posts-list-content .post-entry .entry-cover {
-    margin: 0;
-    border-radius: 0;
-}
-
-.posts-list-content .post-entry-inner {
-    padding: 22px 24px 24px;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-}
-
-.posts-list-content .post-entry .entry-header {
-    margin-bottom: 10px;
-}
-
-.posts-list-content .post-entry .entry-header h2 {
-    font-size: 1.25rem;
-    line-height: 1.35;
-    margin: 0;
-    color: var(--primary);
-    transition: color 0.2s ease;
-}
-
-.posts-list-content .post-entry:hover .entry-header h2 {
-    color: var(--accent);
-}
-
-.posts-list-content .post-entry .entry-content {
-    margin-bottom: 16px;
-    flex-grow: 1;
-    font-size: 0.92rem;
-    line-height: 1.6;
-    color: var(--secondary);
-    -webkit-line-clamp: 3;
-}
-
-.posts-list-content .post-entry .entry-footer {
-    margin-bottom: 12px;
-    font-size: 0.78rem;
-    opacity: 0.85;
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    overflow: hidden;
-    gap: 0;
-}
-
-.posts-list-content .post-entry .entry-footer .meta-item {
-    flex-shrink: 0;
-}
-
-.posts-list-content .post-entry .entry-footer .meta-item + .meta-item::before {
-    margin: 0 6px;
-}
-
-.posts-list-content .post-entry .entry-link {
-    display: inline-flex;
-    align-items: center;
-    font-weight: 700;
-    font-size: 0.85rem;
-    color: var(--accent);
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    border: none;
-    padding: 0;
-    border-radius: 0;
-    background: none;
-}
-
-[dir="rtl"] .posts-list-content .post-entry .entry-link {
-    letter-spacing: normal;
-}
-
-.posts-list-content .post-entry .entry-link i {
-    margin-inline-start: 8px;
-    transition: transform 0.2s ease;
-}
-
-.posts-list-content .post-entry:hover .entry-link i {
-    transform: translateX(4px);
 }
 
 .posts-list-section--featured-first .post-entry--featured {
     grid-column: 1 / -1;
     min-height: 240px;
-    background:
-        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 65%, var(--surface-tint-strong) 100%),
-        var(--theme);
-    border-color: var(--accent-border-soft);
 }
 
 .posts-list-section--featured-first .post-entry--featured.post-entry--has-cover {
@@ -756,42 +638,6 @@
     height: 100%;
     width: 100%;
     object-fit: cover;
-}
-
-.posts-list-section--featured-first .post-entry--featured .post-entry-inner {
-    justify-content: center;
-    padding: 32px 36px;
-}
-
-.posts-list-section--featured-first .entry-badge {
-    align-self: flex-start;
-    margin-bottom: 14px;
-    padding: 6px 12px;
-    border-radius: 999px;
-    background: var(--accent);
-    color: var(--theme);
-    font-size: 0.72rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-}
-
-.posts-list-section--featured-first .post-entry--featured .entry-header h2 {
-    font-size: clamp(1.6rem, 3vw, 2.3rem);
-    letter-spacing: -0.03em;
-}
-
-.posts-list-section--featured-first .post-entry--featured .entry-content {
-    font-size: 1rem;
-    -webkit-line-clamp: 4;
-}
-
-[dir="rtl"] .posts-list-content .post-entry .entry-link i {
-    transform: scaleX(-1);
-}
-
-[dir="rtl"] .posts-list-content .post-entry:hover .entry-link i {
-    transform: scaleX(-1) translateX(4px);
 }
 
 /* Rich pagination */

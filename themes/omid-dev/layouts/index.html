@@ -82,58 +82,16 @@
     {{- $featured := index $latest_posts 0 }}
     {{- $more_posts := after 1 $latest_posts }}
     <section class="home-section recent-posts home-panel">
-        <h2 class="section-title">{{ i18n "recent_posts" }}</h2>
+        <h2 class="section-title section-title--underline">{{ i18n "recent_posts" }}</h2>
 
         <div class="posts-showcase">
-            <article class="post-entry post-entry--featured">
-                {{- $isHidden := ($featured.Param "cover.hiddenInList") | default ($featured.Param "cover.hidden") | default false }}
-                {{- partial "cover.html" (dict "cxt" $featured "IsSingle" false "isHidden" $isHidden) }}
-                <div class="post-entry-inner">
-                    <span class="entry-badge">{{ i18n "latest_post" }}</span>
-                    <header class="entry-header">
-                        <a aria-label="post link to {{ $featured.Title | plainify }}" href="{{ $featured.Permalink }}">
-                            <h2 class="entry-hint-parent">{{ $featured.Title }}</h2>
-                        </a>
-                    </header>
-                    {{- if not ($featured.Param "hideMeta") }}
-                    <footer class="entry-footer">
-                        {{- partial "post_meta.html" (dict "Context" $featured "hideAuthor" true "hideTranslations" true "hideShare" true "isCompact" true) -}}
-                    </footer>
-                    {{- end }}
-                    {{- if (ne ($featured.Param "hideSummary") true) }}
-                    <div class="entry-content">
-                        <p>{{ $featured.Summary | plainify | htmlUnescape }}{{ if $featured.Truncated }}...{{ end }}</p>
-                    </div>
-                    {{- end }}
-                    <a class="entry-link" aria-label="post link to {{ $featured.Title | plainify }}" href="{{ $featured.Permalink }}">
-                        {{- i18n "continue_reading" }}
-                        <i class=" fa fa-angle-right" aria-hidden="true" role="img"></i>
-                    </a>
-                </div>
-            </article>
+            {{- partial "post_entry_card.html" (dict "page" $featured "featured" true) }}
 
             {{- if gt (len $more_posts) 0 }}
             <div class="posts-sidebar">
                 <h3 class="posts-sidebar-title">{{ i18n "home_more_posts" }}</h3>
                 {{- range $more_posts }}
-                <article class="post-entry post-entry--compact">
-                    <div class="post-entry-inner">
-                        <header class="entry-header">
-                            <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-                                <h2 class="entry-hint-parent">{{ .Title }}</h2>
-                            </a>
-                        </header>
-                        {{- if not (.Param "hideMeta") }}
-                        <footer class="entry-footer">
-                            {{- partial "post_meta.html" (dict "Context" . "hideAuthor" true "hideTranslations" true "hideShare" true "isCompact" true) -}}
-                        </footer>
-                        {{- end }}
-                        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
-                            {{- i18n "continue_reading" }}
-                            <i class=" fa fa-angle-right" aria-hidden="true" role="img"></i>
-                        </a>
-                    </div>
-                </article>
+                {{- partial "post_entry_card.html" (dict "page" . "compact" true) }}
                 {{- end }}
             </div>
             {{- end }}
@@ -197,7 +155,7 @@
     </div>
 
     <section class="home-section contact-cta home-panel">
-        <h2 class="section-title">{{ i18n "contact" }}</h2>
+        <h2 class="section-title section-title--underline">{{ i18n "contact" }}</h2>
         <div class="contact-card">
             <p>{{ $home.contactCta }}</p>
             <a href="{{ "contact-me" | relLangURL }}" class="button">

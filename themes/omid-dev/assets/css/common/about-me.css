@@ -172,24 +172,6 @@
   padding: 24px;
 }
 
-.about-side-card .section-title {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  margin: 0 0 18px;
-  padding: 0;
-  color: var(--primary);
-  font-size: 1.05rem;
-  font-weight: 800;
-  letter-spacing: -0.01em;
-}
-
-.about-side-card .section-title::after {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background: var(--border);
-}
 
 .about-skill-groups {
   display: grid;
@@ -272,8 +254,7 @@
   transform: translateY(-2px);
 }
 
-[dir="rtl"] .about-me-content h3::after,
-[dir="rtl"] .about-side-card .section-title::after {
+[dir="rtl"] .about-me-content h3::after {
   margin-right: 0;
 }
 

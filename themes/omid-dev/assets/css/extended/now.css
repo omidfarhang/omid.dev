@@ -124,38 +124,6 @@
     font-weight: 600;
 }
 
-/* Shared page metadata (now + uses) */
-.page-metadata {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin: 0;
-}
-
-.meta-badge,
-.meta-location {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 6px 14px;
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    font-size: 0.82rem;
-    font-weight: 600;
-    color: var(--secondary);
-}
-
-.meta-badge i,
-.meta-location i {
-    color: var(--accent);
-    opacity: 0.9;
-}
-
-[dir="rtl"] .page-metadata {
-    flex-direction: row-reverse;
-}
-
 [dir="rtl"] .now-status-panel {
     border-inline-start: none;
     border-inline-end: 4px solid var(--accent);

@@ -81,24 +81,6 @@
     margin: 0;
 }
 
-.contact-methods-section .section-title {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    margin: 0 0 18px;
-    color: var(--primary);
-    font-size: 1.05rem;
-    font-weight: 800;
-    letter-spacing: -0.01em;
-}
-
-.contact-methods-section .section-title::after {
-    content: "";
-    flex: 1;
-    height: 1px;
-    background: var(--border);
-}
-
 /* Direct Contact Grid */
 .contact-method-grid {
     display: grid;

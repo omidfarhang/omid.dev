@@ -61,7 +61,7 @@
 
       <aside class="about-me-sidebar">
         <section class="about-side-card resume-cta">
-          <h2 class="section-title">{{ T "resume" | default "Resume" }}</h2>
+          <h2 class="section-title section-title--rule">{{ T "resume" | default "Resume" }}</h2>
           <p>{{ T "resume_cta_desc" | default "View my full professional history or download the PDF version for offline reading." }}</p>
           <div class="cta-buttons">
             <a href="{{ "resume" | relLangURL }}" class="cta-button primary">
@@ -84,7 +84,7 @@
 
         {{- with $resume.skills }}
         <section class="about-side-card about-skills-card">
-          <h2 class="section-title">{{ T "skills" | default "Skills" }}</h2>
+          <h2 class="section-title section-title--rule">{{ T "skills" | default "Skills" }}</h2>
           <div class="about-skill-groups">
             {{- range first 3 . }}
             <div class="about-skill-group">

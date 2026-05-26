@@ -1,0 +1,60 @@
+/* Section heading variants */
+
+.section-title--rule {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 0 0 18px;
+    padding: 0;
+    color: var(--primary);
+    font-size: 1.05rem;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+}
+
+.section-title--rule::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+    position: static;
+    width: auto;
+    transform: none;
+    border-radius: 0;
+}
+
+.section-title--underline {
+    font-size: 1.35rem;
+    font-weight: 800;
+    margin: 0 0 28px;
+    text-align: start;
+    position: relative;
+    padding-bottom: 14px;
+    color: var(--primary);
+    letter-spacing: -0.02em;
+}
+
+.section-title--underline::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    inset-inline-start: 0;
+    width: 42px;
+    height: 3px;
+    background: var(--accent);
+    border-radius: 10px;
+}
+
+.section-title--compact {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.home-content > .home-section > .section-eyebrow + .section-title--underline {
+    margin-top: -4px;
+}
+
+[dir="rtl"] .section-title--underline::after {
+    right: 0;
+    left: auto;
+}

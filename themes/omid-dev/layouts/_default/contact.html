@@ -52,7 +52,7 @@
   <div class="post-content contact-page-content">
     <div class="contact-layout">
       <section class="contact-methods-section contact-form-section">
-        <h2 class="section-title">{{ i18n "send_message" }}</h2>
+        <h2 class="section-title section-title--rule">{{ i18n "send_message" }}</h2>
         <form id="contact-form" class="contact-form">
           <div class="form-group" style="display: none;">
             <input name="honeypot" tabindex="-1" autocomplete="off" />
@@ -81,7 +81,7 @@
 
       <aside class="contact-side-panel">
         <section class="contact-methods-section qr-section">
-          <h2 class="section-title">{{ i18n "save_contact" }}</h2>
+          <h2 class="section-title section-title--rule">{{ i18n "save_contact" }}</h2>
           <div class="qr-container">
             <div class="qr-code">
               {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
