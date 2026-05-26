@@ -16,6 +16,29 @@
   ]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.Title }},
+  "url": {{ site.Home.Permalink }},
+  "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
+  "inLanguage": {{ .Language.Locale | default "en-US" }},
+  "publisher": {
+    "@type": "{{- ( site.Params.schema.publisherType | default "Person") | title -}}",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink }}
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": {{ printf "%s?q={search_term_string}" ("search" | absLangURL) | safeHTML }}
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 {{- else if (or .IsPage .IsSection) }}
 {{/* BreadcrumbList */}}
 {{- $url := replace .Parent.Permalink ( printf "%s" site.Home.Permalink) "" }}

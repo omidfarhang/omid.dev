@@ -1,8 +1,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
+{{- $noindex := or .Params.robotsNoIndex (eq .Kind "404") -}}
+{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (not $noindex) }}
 <meta name="robots" content="index, follow">
+{{- else if $noindex }}
+<meta name="robots" content="noindex, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
@@ -23,14 +26,16 @@
     {{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
 <link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
-{{- if site.Params.analytics.google.SiteVerificationTag }}
-<meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
+{{- $googleVerify := or site.Params.analytics.google.SiteVerificationTag (getenv "GOOGLE_SITE_VERIFICATION") -}}
+{{- if $googleVerify }}
+<meta name="google-site-verification" content="{{ $googleVerify }}">
 {{- end }}
 {{- if site.Params.analytics.yandex.SiteVerificationTag }}
 <meta name="yandex-verification" content="{{ site.Params.analytics.yandex.SiteVerificationTag }}">
 {{- end }}
-{{- if site.Params.analytics.bing.SiteVerificationTag }}
-<meta name="msvalidate.01" content="{{ site.Params.analytics.bing.SiteVerificationTag }}">
+{{- $bingVerify := or site.Params.analytics.bing.SiteVerificationTag (getenv "BING_SITE_VERIFICATION") -}}
+{{- if $bingVerify }}
+<meta name="msvalidate.01" content="{{ $bingVerify }}">
 {{- end }}
 {{- if site.Params.analytics.naver.SiteVerificationTag }}
 <meta name="naver-site-verification" content="{{ site.Params.analytics.naver.SiteVerificationTag }}">
@@ -111,9 +116,29 @@
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
+{{- if .IsHome -}}
+<link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
+{{- range site.Home.AllTranslations -}}
+<link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
+{{- end -}}
+{{- $xDefaultHome := .Permalink -}}
+{{- range site.Home.AllTranslations -}}
+{{- if eq .Lang "en" -}}{{- $xDefaultHome = .Permalink -}}{{- end -}}
+{{- end -}}
+{{- if eq site.Language.Lang "en" -}}{{- $xDefaultHome = .Permalink -}}{{- end -}}
+<link rel="alternate" hreflang="x-default" href="{{ $xDefaultHome }}">
+{{- else if .IsTranslated -}}
 {{- range .AllTranslations -}}
-<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-{{ end -}}
+<link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
+{{- end -}}
+<link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
+{{- $xDefault := . -}}
+{{- range .AllTranslations -}}
+{{- if eq .Lang "en" -}}{{- $xDefault = . -}}{{- end -}}
+{{- end -}}
+{{- if eq .Lang "en" -}}{{- $xDefault = . -}}{{- end -}}
+<link rel="alternate" hreflang="x-default" href="{{ $xDefault.Permalink }}">
+{{- end -}}
 
 <noscript>
     <style>

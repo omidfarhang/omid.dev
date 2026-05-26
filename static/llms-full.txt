@@ -1,0 +1,55 @@
+# omid.dev — Extended LLM site guide
+# https://omid.dev/llms-full.txt
+
+See also the concise guide: https://omid.dev/llms.txt
+
+## About the author
+
+Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ years building and scaling web platforms. Primary stack: Angular, TypeScript, Nx monorepos, design systems, CI/CD, and platform governance. Background includes Linux, networking, and DevOps.
+
+## Site structure
+
+| Section | URL | Notes |
+|---------|-----|-------|
+| Home | https://omid.dev/ | Profile, featured posts, topic tags |
+| Posts | https://omid.dev/posts/ | Tech blog archive (~1800+ posts, mostly English) |
+| Categories | https://omid.dev/categories/ | Taxonomy |
+| Tags | https://omid.dev/tags/ | Taxonomy |
+| About | https://omid.dev/about-me/ | Bio and background |
+| Resume | https://omid.dev/resume/ | Structured CV (JSON-LD Person on page) |
+| Contact | https://omid.dev/contact-me/ | Contact form |
+| Now | https://omid.dev/now/ | Current focus |
+| Uses | https://omid.dev/uses/ | Tools and setup |
+| Search | https://omid.dev/search/ | Client-side search over index.json |
+
+Persian (`/fa/`) and German (`/de/`) mirror key pages; most blog posts are English-only. Paired translations exist for select pages and ~90+ posts.
+
+## Post URL pattern
+
+English posts: `https://omid.dev/{year}/{month}/{day}/{slug}/`
+
+Many posts include a `shortlink` (g.omid.dev) in front matter; the canonical URL for indexing is always the omid.dev permalink.
+
+## Feeds and indexes
+
+- RSS: https://omid.dev/index.xml (20 most recent items per language home)
+- Search JSON: https://omid.dev/index.json — array of `{title, permalink, summary, tags, categories, date}` for Fuse.js search
+- Sitemap: https://omid.dev/sitemap.xml — multilingual with hreflang alternates
+
+## Structured data (production pages)
+
+- Home: schema.org Person + WebSite with SearchAction
+- Blog posts: BlogPosting + BreadcrumbList
+- Resume: Person with credentials and roles
+
+## Social profiles (sameAs)
+
+- LinkedIn: https://linkedin.com/in/omidfarhang
+- GitHub: https://github.com/omidfarhang
+- X: https://x.com/omidfarhangen
+- Bluesky: https://bsky.app/profile/omid.dev
+- Mastodon: https://mastodon.social/@omidfarhang
+
+## AI usage
+
+See https://omid.dev/ai.txt for licensing and training preferences.

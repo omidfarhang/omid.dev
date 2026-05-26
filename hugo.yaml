@@ -204,6 +204,17 @@ languages:
           weight: 4
 
 params:
+  # Default Open Graph / Twitter Card image when a page has no cover or featured image
+  images:
+    - /images/bio-photo-150x150.jpg
+
+  # Search engine ownership verification (set values or use env vars in deploy)
+  analytics:
+    google:
+      SiteVerificationTag: ''
+    bing:
+      SiteVerificationTag: ''
+
   social:
     twitter: 'omidfarhangen'
   footer:
@@ -352,3 +363,12 @@ sitemap:
   priority: -1
 
 enableRobotsTXT: true
+
+# Allow getenv in head.html for search-console verification tags (see params.analytics)
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^GOOGLE_SITE_VERIFICATION$'
+      - '^BING_SITE_VERIFICATION$'

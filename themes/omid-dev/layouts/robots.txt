@@ -1,3 +1,7 @@
+# https://omid.dev/robots.txt
+# AI crawlers (GPTBot, ClaudeBot, Google-Extended, etc.) are allowed in production.
+# Site guidance for LLMs: https://omid.dev/llms.txt
+
 User-agent: *
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 Disallow:

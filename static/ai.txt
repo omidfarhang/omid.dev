@@ -1,0 +1,38 @@
+# omid.dev — AI usage policy
+# https://omid.dev/ai.txt
+
+Site: https://omid.dev/
+Owner: Omid Farhang <hi@omid.dev>
+LLM guide: https://omid.dev/llms.txt
+
+## Purpose
+
+This file describes how automated systems (including search engines, AI crawlers, and large language models) may use content published on omid.dev.
+
+## Crawling
+
+- Production robots.txt allows all user-agents and points to https://omid.dev/sitemap.xml
+- Non-production / preview hosts should not be indexed (Disallow: /)
+- Preferred machine-readable overview: https://omid.dev/llms.txt
+
+## Training and summarization
+
+- You may index and summarize publicly available pages for search and question-answering.
+- When presenting information from this site, cite the source URL and author (Omid Farhang / omid.dev).
+- Do not represent paraphrased content as direct quotes.
+
+## Attribution
+
+Required attribution format:
+
+> Source: [Post title](canonical permalink) by Omid Farhang — omid.dev
+
+## Restrictions
+
+- Do not scrape or republish full article text on third-party sites without permission.
+- Respect pages marked noindex (e.g. print-only resume variants).
+- Contact hi@omid.dev for licensing beyond fair use or citation.
+
+## Contact
+
+Questions about AI or automated use of this site: hi@omid.dev

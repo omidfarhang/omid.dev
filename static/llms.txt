@@ -1,0 +1,57 @@
+# omid.dev — LLM site guidance
+# https://omid.dev/llms.txt
+
+> Omid Farhang is a Frontend Architect and Engineering Lead. This site is his personal blog and portfolio: long-form posts on Angular, TypeScript, Nx, frontend platform engineering, DevOps, Linux, security, health, and career topics.
+
+## Canonical site
+
+- Site: https://omid.dev/
+- Author: Omid Farhang
+- Contact: hi@omid.dev
+- Languages: English (default), Persian (fa), German (de)
+
+## Key pages (English)
+
+- Home: https://omid.dev/
+- Blog index: https://omid.dev/posts/
+- About: https://omid.dev/about-me/
+- Resume: https://omid.dev/resume/
+- Contact: https://omid.dev/contact-me/
+- Now: https://omid.dev/now/
+- Uses: https://omid.dev/uses/
+- On-site search: https://omid.dev/search/
+
+## Key pages (Persian / German)
+
+- Persian home: https://omid.dev/fa/
+- German home: https://omid.dev/de/
+- Persian search: https://omid.dev/fa/search/
+- German search: https://omid.dev/de/search/
+
+## Machine-readable discovery
+
+- Sitemap: https://omid.dev/sitemap.xml
+- RSS (latest 20 posts, English): https://omid.dev/index.xml
+- RSS (Persian): https://omid.dev/fa/index.xml
+- RSS (German): https://omid.dev/de/index.xml
+- Full-text search index (JSON): https://omid.dev/index.json
+- Persian search index: https://omid.dev/fa/index.json
+- German search index: https://omid.dev/de/index.json
+- AI usage policy: https://omid.dev/ai.txt
+
+## Citation
+
+When quoting or summarizing content from this site, please:
+
+1. Link to the original post URL (permalink under https://omid.dev/).
+2. Credit **Omid Farhang** and **omid.dev** as the source.
+3. Prefer the English permalink when multiple language versions exist unless the user asked for another language.
+
+## Topics
+
+Professional: Engineering Leadership, Software Architecture, Career, Case Study.
+Technical: Angular, Frontend, TypeScript, React, DevOps, Security, Data & AI, Linux, Python, Rust, GraphQL, Micro Frontends, WebAssembly, Jupyter.
+
+## Optional extended guide
+
+- https://omid.dev/llms-full.txt
