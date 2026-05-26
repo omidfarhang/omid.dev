@@ -1,7 +1,7 @@
 baseURL: 'https://omid.dev/'
 title: Omid Farhang
 theme: omid-dev
-copyright: '© 2025 Omid Farhang | All rights reserved.'
+copyright: '© 2026 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
 
 # Permalinks
@@ -93,7 +93,21 @@ languages:
           - name: View My Resume
             url: /resume
       footer:
-        bio: "Software engineer, systems thinker, and lifelong learner. I work mainly in frontend engineering with Angular, alongside Linux, networking, and DevOps practices. This blog is where I explore technology, problem-solving, and health topics that shape how we live and work."
+        kicker: "Stay close to the work"
+        title: "Engineering notes, systems thinking, and practical web craft."
+        bio: "I write about frontend architecture, Angular, Linux, DevOps, and the everyday habits that make technical work more humane and durable."
+        status: "Open to thoughtful frontend architecture, platform, and leadership conversations."
+        ctaPrimaryText: "Start a conversation"
+        ctaPrimaryUrl: /contact-me
+        ctaSecondaryText: "Read the resume"
+        ctaSecondaryUrl: /resume
+        focus:
+          - icon: fa-solid fa-layer-group
+            label: "Frontend architecture"
+          - icon: fa-solid fa-people-group
+            label: "Engineering leadership"
+          - icon: fa-solid fa-terminal
+            label: "Linux & DevOps"
       # homeInfoParams:
       #   Title: "Hi, I’m Omid Farhang"
       #   Content: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
@@ -139,7 +153,21 @@ languages:
           - name: رزومه من
             url: /resume
       footer:
-        bio: "مهندس نرم‌افزار، متفکر سیستم‌ها و یادگیرنده مادام‌العمر. من عمدتاً در مهندسی فرانت‌اند با آنگولار، در کنار لینوکس، شبکه و شیوه‌های دواپس فعالیت می‌کنم. این وبلاگ جایی است که من در آن به کاوش در تکنولوژی، حل مسئله و موضوعات سلامتی می‌پردازم که نحوه زندگی و کار ما را شکل می‌دهند."
+        kicker: "نزدیک به کار واقعی"
+        title: "یادداشت‌هایی درباره مهندسی، تفکر سیستمی و وب کاربردی."
+        bio: "درباره معماری فرانت‌اند، آنگولار، لینوکس، دواپس و عادت‌های روزمره‌ای می‌نویسم که کار فنی را انسانی‌تر و پایدارتر می‌کنند."
+        status: "آماده گفت‌وگو درباره معماری فرانت‌اند، پلتفرم و رهبری مهندسی."
+        ctaPrimaryText: "شروع گفتگو"
+        ctaPrimaryUrl: /contact-me
+        ctaSecondaryText: "مشاهده رزومه"
+        ctaSecondaryUrl: /resume
+        focus:
+          - icon: fa-solid fa-layer-group
+            label: "معماری فرانت‌اند"
+          - icon: fa-solid fa-people-group
+            label: "رهبری مهندسی"
+          - icon: fa-solid fa-terminal
+            label: "لینوکس و دواپس"
     # Persian Menu
     menu:
       main:
@@ -182,7 +210,21 @@ languages:
           - name: Lebenslauf ansehen
             url: /resume
       footer:
-        bio: "Softwareentwickler, Systemdenker und lebenslang Lernender. Ich arbeite hauptsächlich im Frontend-Engineering mit Angular, zusammen mit Linux, Networking und DevOps-Praktiken. In diesem Blog erforsche ich Technologie, Problemlösung und Gesundheitsthemen, die unsere Art zu leben und zu arbeiten prägen."
+        kicker: "Nah an der Arbeit"
+        title: "Notizen zu Engineering, Systemdenken und praktischer Webarbeit."
+        bio: "Ich schreibe über Frontend-Architektur, Angular, Linux, DevOps und die Gewohnheiten, die technische Arbeit menschlicher und tragfähiger machen."
+        status: "Offen für Gespräche über Frontend-Architektur, Plattformen und Engineering Leadership."
+        ctaPrimaryText: "Gespräch starten"
+        ctaPrimaryUrl: /contact-me
+        ctaSecondaryText: "Lebenslauf lesen"
+        ctaSecondaryUrl: /resume
+        focus:
+          - icon: fa-solid fa-layer-group
+            label: "Frontend-Architektur"
+          - icon: fa-solid fa-people-group
+            label: "Engineering Leadership"
+          - icon: fa-solid fa-terminal
+            label: "Linux & DevOps"
     # German Menu
     menu:
       main:
@@ -223,25 +265,35 @@ params:
     contactEmail: "hi@omid.dev"
     contactPhone: "+989195038545"
     social:
-      - icon: fa-brands fa-linkedin
+      - name: LinkedIn
+        icon: fa-brands fa-linkedin
         url: 'https://linkedin.com/in/omidfarhang'
-      - icon: fa-brands fa-xing
+      - name: Xing
+        icon: fa-brands fa-xing
         url: 'https://www.xing.com/profile/Omid_Farhang/'
-      - icon: fa-brands fa-x-twitter
+      - name: X
+        icon: fa-brands fa-x-twitter
         url: 'https://x.com/omidfarhangen'
-      - icon: fa-brands fa-bluesky
+      - name: Bluesky
+        icon: fa-brands fa-bluesky
         url: 'https://bsky.app/profile/omid.dev'
-      - icon: fa-brands fa-github
+      - name: GitHub
+        icon: fa-brands fa-github
         url: 'https://github.com/omidfarhang'
-      - icon: fa-brands fa-mastodon
+      - name: Mastodon
+        icon: fa-brands fa-mastodon
         url: 'https://mastodon.social/@omidfarhang'
-      - icon: fa-brands fa-instagram
+      - name: Instagram
+        icon: fa-brands fa-instagram
         url: 'https://instagram.com/omidfarhang'
-      - icon: fa-brands fa-facebook
+      - name: Facebook
+        icon: fa-brands fa-facebook
         url: 'https://facebook.com/omidfarhang'
-      - icon: fa-brands fa-telegram
+      - name: Telegram
+        icon: fa-brands fa-telegram
         url: 'https://t.me/omidfarhang'
-      - icon: fa-brands fa-google
+      - name: Google Developer Profile
+        icon: fa-brands fa-google
         url: 'https://g.dev/omidfarhang'
   # profileMode:
   #     enabled: true
