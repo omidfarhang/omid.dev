@@ -11,7 +11,7 @@
 
 .searchbox input:focus {
     border-color: var(--accent);
-    box-shadow: var(--shadow-md);
+    box-shadow: var(--focus-ring), var(--shadow-md);
     outline: none;
 }
 

@@ -9,9 +9,10 @@
     margin: 0;
     padding: 34px 40px 38px;
     background:
-        radial-gradient(circle at 12% 18%, rgba(13, 148, 136, 0.16), transparent 30%),
-        radial-gradient(circle at 88% 22%, rgba(13, 148, 136, 0.08), transparent 34%),
-        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 190%),
+        radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
+        radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
+        radial-gradient(circle at 50% 100%, var(--hero-glow-faint), transparent 40%),
+        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 140%, var(--surface-tint) 100%),
         var(--theme);
     border-bottom: 1px solid var(--border);
 }
@@ -64,7 +65,7 @@
 .page-hero-card {
     padding: 18px;
     background: rgba(var(--theme-rgb), 0.72);
-    border: 1px solid rgba(13, 148, 136, 0.22);
+    border: 1px solid var(--accent-border);
     border-radius: calc(var(--radius) * 1.5);
     box-shadow: var(--shadow-md);
     backdrop-filter: blur(10px);

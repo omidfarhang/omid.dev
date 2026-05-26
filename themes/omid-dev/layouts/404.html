@@ -92,11 +92,11 @@
     const title = document.querySelector('.not-found-title');
     title.addEventListener('click', () => {
         const colors = [
-            ['#0f172a', '#0d9488'],
-            ['#1e293b', '#3b82f6'],
-            ['#312e81', '#8b5cf6'],
-            ['#4c1d95', '#ec4899'],
-            ['#7c2d12', '#f59e0b']
+            ['#0f172a', '#2563eb'],
+            ['#1e3a8a', '#60a5fa'],
+            ['#312e81', '#4f46e5'],
+            ['#1e1b4b', '#818cf8'],
+            ['#0c4a6e', '#22d3ee']
         ];
         const randomColor = colors[Math.floor(Math.random() * colors.length)];
         title.style.background = `linear-gradient(135deg, ${randomColor[0]} 0%, ${randomColor[1]} 100%)`;
@@ -126,7 +126,7 @@
 
     function animate() {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
-        const color = getComputedStyle(document.documentElement).getPropertyValue('--secondary').trim() || '#64748b';
+        const color = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#2563eb';
         
         particles.forEach((p, i) => {
             // Mouse attraction

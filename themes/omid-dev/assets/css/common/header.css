@@ -211,7 +211,7 @@ body.theme-system #sun {
     bottom: 0;
     inset-inline-start: 0;
     height: 3px;
-    background: linear-gradient(to right, var(--accent), var(--accent-hover));
+    background: linear-gradient(to right, var(--accent), var(--accent-2), var(--accent-3));
     width: 0%;
     transition: width 0.1s ease;
 }

@@ -46,8 +46,8 @@
 
 .post-entry:hover {
     transform: translateY(-4px);
-    box-shadow: var(--shadow-lg);
-    border-color: var(--accent-light);
+    box-shadow: var(--shadow-accent);
+    border-color: var(--accent);
 }
 
 .post-entry:active {
@@ -121,7 +121,7 @@
     align-items: center;
   font-size: 11px;
   line-height: 1;
-  border: 1px solid #ddd;
+  border: 1px solid var(--accent-border-soft);
   padding: 10px 16px;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;

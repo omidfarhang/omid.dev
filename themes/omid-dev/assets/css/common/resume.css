@@ -46,7 +46,7 @@
     letter-spacing: -0.05em;
     color: var(--primary);
     line-height: 1.1;
-    background: linear-gradient(to bottom right, var(--primary), var(--accent));
+    background: linear-gradient(to bottom right, var(--primary), var(--accent), var(--accent-2));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding-bottom: 0.1em;
@@ -279,7 +279,7 @@
 .resume-experience-item:hover::before {
     background: var(--accent);
     transform: scale(1.2);
-    box-shadow: 0 0 0 4px var(--quaternary);
+    box-shadow: 0 0 0 4px var(--accent-light);
 }
 
 .resume-experience-item:last-child {

@@ -4,8 +4,8 @@
     "description": "Omid Farhang - Senior Fullstack Engineer & Systems Architect",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#2e2e33",
-    "theme_color": "#2e2e33",
+    "background_color": "#0f172a",
+    "theme_color": "#1d4ed8",
     "icons": [
         {
             "src": "/logo/android-chrome-192x192.png",

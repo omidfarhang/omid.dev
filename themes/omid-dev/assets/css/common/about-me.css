@@ -21,7 +21,7 @@
   width: 112px;
   height: 112px;
   padding: 4px;
-  background: linear-gradient(135deg, var(--accent), var(--accent-hover));
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
   border-radius: 50%;
 }
 

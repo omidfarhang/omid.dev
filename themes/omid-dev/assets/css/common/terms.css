@@ -53,7 +53,7 @@
 
 #terms-search:focus {
     border-color: var(--accent);
-    box-shadow: 0 0 0 4px var(--accent-light);
+    box-shadow: var(--focus-ring);
 }
 
 #view-alphabetical, #view-count {

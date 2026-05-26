@@ -14,9 +14,9 @@
 				:root {
 					--primary: #0f172a;
 					--secondary: #64748b;
-					--accent: #0d9488;
-					--page-bg: #f8fafc;
-					--border: #e2e8f0;
+					--accent: #2563eb;
+					--page-bg: #f0f4fc;
+					--border: #dbe4f0;
 					--content: #334155;
 					--entry: #ffffff;
 				}
@@ -24,7 +24,7 @@
 					:root {
 						--primary: #f1f5f9;
 						--secondary: #94a3b8;
-						--accent: #14b8a6;
+						--accent: #60a5fa;
 						--page-bg: #020617;
 						--border: #334155;
 						--content: #cbd5e1;

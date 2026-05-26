@@ -166,8 +166,8 @@
     height: 36px;
     font-size: 1rem;
     color: var(--accent);
-    background: var(--quaternary);
-    border: 1px solid var(--border);
+    background: var(--accent-light);
+    border: 1px solid var(--accent-border-soft);
     border-radius: 50%;
     flex-shrink: 0;
 }
@@ -179,8 +179,8 @@
 }
 
 .uses-card {
-    background: var(--quaternary);
-    border: 1px solid var(--border);
+    background: linear-gradient(145deg, var(--quaternary) 0%, var(--surface-tint) 100%);
+    border: 1px solid var(--accent-border-soft);
     border-radius: var(--radius);
     overflow: hidden;
     transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;

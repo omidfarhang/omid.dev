@@ -89,7 +89,7 @@
     height: 9px;
     background: var(--accent);
     border-radius: 50%;
-    box-shadow: 0 0 0 4px var(--theme);
+    box-shadow: 0 0 0 4px var(--theme), 0 0 12px var(--hero-glow-soft);
 }
 
 .now-section-content {

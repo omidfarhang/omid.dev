@@ -230,8 +230,9 @@
     min-height: 100%;
     padding: 28px;
     background:
-        linear-gradient(135deg, var(--theme) 0%, var(--quaternary) 150%),
+        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 80%, var(--surface-tint) 100%),
         var(--theme);
+    border-color: var(--accent-border-soft);
     border: 1px solid var(--border);
     border-radius: calc(var(--radius) * 2);
     box-shadow: var(--shadow-sm);
@@ -264,7 +265,7 @@
 .form-textarea:focus {
     outline: none;
     border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.14);
+    box-shadow: var(--focus-ring);
 }
 
 .form-textarea {
