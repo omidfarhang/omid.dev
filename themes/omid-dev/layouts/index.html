@@ -76,7 +76,7 @@
 
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-    {{- $latest_posts := first 6 $pages }}
+    {{- $latest_posts := first 7 $pages }}
 
     {{- if gt (len $latest_posts) 0 }}
     {{- $featured := index $latest_posts 0 }}
@@ -89,7 +89,7 @@
                 {{- $isHidden := ($featured.Param "cover.hiddenInList") | default ($featured.Param "cover.hidden") | default false }}
                 {{- partial "cover.html" (dict "cxt" $featured "IsSingle" false "isHidden" $isHidden) }}
                 <div class="post-entry-inner">
-                    <span class="post-badge">{{ i18n "home_featured_post" }}</span>
+                    <span class="entry-badge">{{ i18n "latest_post" }}</span>
                     <header class="entry-header">
                         <a aria-label="post link to {{ $featured.Title | plainify }}" href="{{ $featured.Permalink }}">
                             <h2 class="entry-hint-parent">{{ $featured.Title }}</h2>
