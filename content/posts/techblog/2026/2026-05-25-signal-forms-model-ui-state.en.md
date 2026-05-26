@@ -4,6 +4,11 @@ date: 2026-05-25T02:48:00+03:30
 description: "Signal Forms push Angular forms toward explicit state modeling, where validation, submission, async work, and derived UI state live in the same reactive graph."
 layout: single
 author_profile: true
+shortlink: https://g.omid.dev/12wzapy
+# x_link: 
+# mastodon_link: 
+# bluesky_link: 
+# linkedin_link: 
 url: 2026/05/25/signal-forms-model-ui-state/
 tags:
   - Angular

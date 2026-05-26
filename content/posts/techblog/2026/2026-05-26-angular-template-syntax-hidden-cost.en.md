@@ -4,6 +4,11 @@ date: 2026-05-26T02:48:00+03:30
 description: "Angular's newer template syntax is powerful, but spread/rest, arrow functions, multi-case switches, and richer control flow need team rules before clever templates become maintenance debt."
 layout: single
 author_profile: true
+shortlink: https://g.omid.dev/5O8Qglh
+# x_link: 
+# mastodon_link: 
+# bluesky_link: 
+# linkedin_link: 
 url: 2026/05/26/angular-template-syntax-hidden-cost/
 tags:
   - Angular

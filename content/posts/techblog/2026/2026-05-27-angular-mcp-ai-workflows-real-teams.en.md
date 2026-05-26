@@ -4,6 +4,11 @@ date: 2026-05-27T02:48:00+03:30
 description: "Angular's MCP Server tooling is not just an AI demo. It changes how teams can connect framework knowledge, local code, and coding assistants without losing their conventions."
 layout: single
 author_profile: true
+shortlink: https://g.omid.dev/Hr8b0Ur
+# x_link: 
+# mastodon_link: 
+# bluesky_link: 
+# linkedin_link: 
 url: 2026/05/27/angular-mcp-ai-workflows-real-teams/
 tags:
   - Angular
