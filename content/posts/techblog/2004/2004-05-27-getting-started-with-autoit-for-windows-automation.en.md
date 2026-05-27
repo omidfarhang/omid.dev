@@ -260,7 +260,7 @@ Test on the same Windows version and application version you plan to automate. G
 
 Keep scripts small. AutoIt is wonderful for practical automation, but if a script grows into a large application, it may be time to rethink the design.
 
-## Final Thoughts
+## A Good First Target
 
 AutoIt is one of those tools that pays for itself quickly. You do not need to automate everything. Start with one repetitive job: opening the same files, copying logs, filling out a dull dialog, or clicking through a setup program in a test environment.
 
