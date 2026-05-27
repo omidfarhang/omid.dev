@@ -5,9 +5,9 @@ description: "Angular's newer template syntax is powerful, but spread/rest, arro
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/5O8Qglh
-# x_link: 
-# mastodon_link: 
-# bluesky_link: 
+x_link: https://x.com/OmidFarhangEn/status/2059424163752980733
+mastodon_link: https://mastodon.social/@omidfarhang/116643611903464265
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mms7nleoe224
 # linkedin_link: 
 url: 2026/05/26/angular-template-syntax-hidden-cost/
 tags:

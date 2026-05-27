@@ -5,9 +5,9 @@ description: "Signal Forms push Angular forms toward explicit state modeling, wh
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/12wzapy
-# x_link: 
-# mastodon_link: 
-# bluesky_link: 
+x_link: https://x.com/OmidFarhangEn/status/2059424019028508748
+mastodon_link: https://mastodon.social/@omidfarhang/116643605409212820
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mms7nbvtwc2u
 # linkedin_link: 
 url: 2026/05/25/signal-forms-model-ui-state/
 tags:
