@@ -101,13 +101,6 @@ languages:
         ctaPrimaryUrl: /contact-me
         ctaSecondaryText: "Read the resume"
         ctaSecondaryUrl: /resume
-        focus:
-          - icon: fa-solid fa-layer-group
-            label: "Frontend architecture"
-          - icon: fa-solid fa-people-group
-            label: "Engineering leadership"
-          - icon: fa-solid fa-terminal
-            label: "Linux & DevOps"
       # homeInfoParams:
       #   Title: "Hi, I’m Omid Farhang"
       #   Content: "I'm a Senior Developer and Also a network administrator, Working freelance and hunting for linux stuff"
@@ -161,13 +154,6 @@ languages:
         ctaPrimaryUrl: /contact-me
         ctaSecondaryText: "مشاهده رزومه"
         ctaSecondaryUrl: /resume
-        focus:
-          - icon: fa-solid fa-layer-group
-            label: "معماری فرانت‌اند"
-          - icon: fa-solid fa-people-group
-            label: "رهبری مهندسی"
-          - icon: fa-solid fa-terminal
-            label: "لینوکس و دواپس"
     # Persian Menu
     menu:
       main:
@@ -218,13 +204,6 @@ languages:
         ctaPrimaryUrl: /contact-me
         ctaSecondaryText: "Lebenslauf lesen"
         ctaSecondaryUrl: /resume
-        focus:
-          - icon: fa-solid fa-layer-group
-            label: "Frontend-Architektur"
-          - icon: fa-solid fa-people-group
-            label: "Engineering Leadership"
-          - icon: fa-solid fa-terminal
-            label: "Linux & DevOps"
     # German Menu
     menu:
       main:

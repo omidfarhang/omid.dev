@@ -90,7 +90,7 @@
   translation: "نوشته‌های بیشتر"
 
 - id: home_hero_eyebrow
-  translation: "معمار فرانت‌اند و لید مهندسی"
+  translation: "سیستم‌های فرانت‌اند مقیاس‌پذیر"
 
 - id: home_about_eyebrow
   translation: "درباره"
@@ -220,9 +220,6 @@
 
 - id: tech_topics
   translation: "چیزهایی که به آن فکر می‌کنم"
-
-- id: current_focus
-  translation: "تمرکز فعلی"
 
 - id: how_i_can_help
   translation: "جایی که ارزش اضافه می‌کنم"

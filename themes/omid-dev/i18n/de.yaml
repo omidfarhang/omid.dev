@@ -90,7 +90,7 @@
   translation: "Weitere Beiträge"
 
 - id: home_hero_eyebrow
-  translation: "Frontend-Architekt & Engineering Lead"
+  translation: "Frontend-Systeme, die skalieren"
 
 - id: home_about_eyebrow
   translation: "Über mich"
@@ -166,9 +166,6 @@
 
 - id: tech_topics
   translation: "Worüber ich nachdenke"
-
-- id: current_focus
-  translation: "Aktueller Fokus"
 
 - id: how_i_can_help
   translation: "Wo ich Mehrwert schaffe"

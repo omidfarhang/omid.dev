@@ -32,14 +32,6 @@
         </div>
     </section>
 
-    {{- with $footer.focus }}
-    <p class="footer-focus" role="list" aria-label="{{ i18n "current_focus" }}">
-        {{- range . }}
-        <span role="listitem">{{ .label }}</span>
-        {{- end }}
-    </p>
-    {{- end }}
-
     <div class="footer-columns">
         <section class="footer-column footer-topics">
             <h3>{{ i18n "categories" | default "Categories" }}</h3>
