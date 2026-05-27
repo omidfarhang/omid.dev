@@ -330,6 +330,14 @@
     text-align: start;
 }
 
+.tech-topics-section--bold .topics-subtitle--core {
+    color: var(--secondary);
+    font-size: 1.1rem;
+    letter-spacing: 0.02em;
+    text-transform: none;
+    margin: 24px 0 20px;
+}
+
 .tech-topics-section--bold .topics-grid--core {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
