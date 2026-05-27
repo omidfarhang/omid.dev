@@ -340,8 +340,22 @@ params:
     - Frontend
     - TypeScript
     - React
+    - Signals
+    - Design Systems
+    - Web Components
+    - CSS
+    - Web Performance
+    - API Design
+    - Event Driven Architecture
+    - Web Workers
+    - WebRTC
     - DevOps
     - Security
+    - Docker
+    - Kubernetes
+    - Cloud Computing
+    - OpenTelemetry
+    - Database
     - Data & AI
     - Linux
     - Python
@@ -349,6 +363,7 @@ params:
     - GraphQL
     - Micro Frontends
     - WebAssembly
+    - Web3
     - Jupyter
 
   # A smaller homepage set. The full TechBlog index can stay more granular.
