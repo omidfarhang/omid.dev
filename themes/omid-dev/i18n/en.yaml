@@ -47,6 +47,36 @@
 - id: copy_link
   translation: "Copy Link"
 
+- id: share_bluesky
+  translation: "Bluesky"
+
+- id: share_threads
+  translation: "Threads"
+
+- id: share_mastodon
+  translation: "Mastodon"
+
+- id: share_x
+  translation: "X"
+
+- id: share_linkedin
+  translation: "LinkedIn"
+
+- id: share_reddit
+  translation: "Reddit"
+
+- id: share_telegram
+  translation: "Telegram"
+
+- id: share_whatsapp
+  translation: "WhatsApp"
+
+- id: share_facebook
+  translation: "Facebook"
+
+- id: share_hacker_news
+  translation: "Hacker News"
+
 - id: continue_reading
   translation: "Continue Reading"
 

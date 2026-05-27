@@ -47,6 +47,36 @@
 - id: copy_link
   translation: "کپی لینک"
 
+- id: share_bluesky
+  translation: "بلوسکی"
+
+- id: share_threads
+  translation: "تردز"
+
+- id: share_mastodon
+  translation: "ماستودون"
+
+- id: share_x
+  translation: "ایکس"
+
+- id: share_linkedin
+  translation: "لینکدین"
+
+- id: share_reddit
+  translation: "ردیت"
+
+- id: share_telegram
+  translation: "تلگرام"
+
+- id: share_whatsapp
+  translation: "واتساپ"
+
+- id: share_facebook
+  translation: "فیسبوک"
+
+- id: share_hacker_news
+  translation: "هکر نیوز"
+
 - id: continue_reading
   translation: "ادامه مطلب"
 

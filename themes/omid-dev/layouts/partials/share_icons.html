@@ -35,7 +35,7 @@
             <a class="x-twitter" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on x"
                 href="https://x.com/intent/post/?text={{ $title }}&amp;url={{ $shortpageurl }}&amp;hashtags={{- $.Scratch.Get "tags" -}}">
                 <i class="fa-brands fa-x-twitter"></i>
-                <span>X</span>
+                <span>{{ i18n "share_x" | default "X" }}</span>
             </a>
         </li>
         {{- end }}
@@ -44,7 +44,7 @@
             <a class="linkedin" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on linkedin"
                 href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl }}&amp;title={{ $title }}&amp;summary={{ $title }}&amp;source={{ $shortpageurl }}">
                 <i class="fa-brands fa-linkedin"></i>
-                <span>LinkedIn</span>
+                <span>{{ i18n "share_linkedin" | default "LinkedIn" }}</span>
             </a>
         </li>
         {{- end }}
@@ -53,7 +53,7 @@
             <a class="reddit" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on reddit"
                 href="https://reddit.com/submit?url={{ $shortpageurl }}&title={{ $title }}">
                 <i class="fa-brands fa-reddit"></i>
-                <span>Reddit</span>
+                <span>{{ i18n "share_reddit" | default "Reddit" }}</span>
             </a>
         </li>
         {{- end }}
@@ -62,7 +62,7 @@
             <a class="facebook" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on facebook"
                 href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl }}">
                 <i class="fa-brands fa-facebook"></i>
-                <span>Facebook</span>
+                <span>{{ i18n "share_facebook" | default "Facebook" }}</span>
             </a>
         </li>
         {{- end }}
@@ -71,7 +71,7 @@
             <a class="whatsapp" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on whatsapp"
                 href="https://api.whatsapp.com/send?text={{ $title }}%20-%20{{ $shortpageurl }}">
                 <i class="fa-brands fa-whatsapp"></i>
-                <span>WhatsApp</span>
+                <span>{{ i18n "share_whatsapp" | default "WhatsApp" }}</span>
             </a>
         </li>
         {{- end }}
@@ -80,7 +80,7 @@
             <a class="telegram" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on telegram"
                 href="https://telegram.me/share/url?text={{ $title }}&amp;url={{ $shortpageurl }}">
                 <i class="fa-brands fa-telegram"></i>
-                <span>Telegram</span>
+                <span>{{ i18n "share_telegram" | default "Telegram" }}</span>
             </a>
         </li>
         {{- end }}
@@ -89,7 +89,7 @@
             <a class="y-combinator" target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on ycombinator"
                 href="https://news.ycombinator.com/submitlink?t={{ $title }}&u={{ $pageurl }}">
                 <i class="fa-brands fa-y-combinator"></i>
-                <span>Hacker News</span>
+                <span>{{ i18n "share_hacker_news" | default "Hacker News" }}</span>
             </a>
         </li>
         {{- end }}
