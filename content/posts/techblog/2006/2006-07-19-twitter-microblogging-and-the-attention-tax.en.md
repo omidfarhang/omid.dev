@@ -58,7 +58,7 @@ The same skepticism we apply to email applies here: **verify before you click.**
 
 ## Is This a Fad?
 
-Maybe. FriendFeed, Jaiku, and a dozen other microblogging experiments exist or are coming. Twitter's advantage is simplicity — one box, one button, one timeline.
+Maybe. Dodgeball, TXTmob, Jaiku, and other mobile/status experiments already exist or are emerging. Twitter's advantage is simplicity — one box, one button, one timeline.
 
 Whether it becomes mainstream or stays a niche tool for tech conferences, the format — short public status updates — is worth watching. News breaks fast when thousands of people can publish from their phones.
 

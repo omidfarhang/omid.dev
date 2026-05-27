@@ -4,8 +4,8 @@
     display: inline-block;
     position: relative;
     flex: 0 0 auto;
-    width: 1.6rem;
-    height: 1.6rem;
+    width: 1.1rem;
+    height: 1.1rem;
     color: currentColor;
 }
 
@@ -14,11 +14,6 @@
     content: "";
     position: absolute;
     display: block;
-}
-
-.css-icon--autoit {
-    width: 1.7rem;
-    height: 1.7rem;
 }
 
 .css-icon--autoit::before {
