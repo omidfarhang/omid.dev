@@ -50,7 +50,7 @@ When quoting or summarizing content from this site, please:
 ## Topics
 
 Professional: Engineering Leadership, Software Architecture, Career, Case Study.
-Technical: Angular, Frontend, TypeScript, React, DevOps, Security, Data & AI, Linux, Python, Rust, GraphQL, Micro Frontends, WebAssembly, Jupyter.
+Technical: Angular, Frontend, TypeScript, React, DevOps, Security, Data & AI, Linux, Python, Rust, gRPC, GraphQL, Micro Frontends, WebAssembly, Jupyter.
 
 ## Optional extended guide
 
