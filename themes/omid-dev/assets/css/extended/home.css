@@ -354,6 +354,10 @@
     gap: 12px;
 }
 
+.tech-topics-section--bold .topics-grid--professional-bold {
+    grid-template-columns: repeat(auto-fit, minmax(148px, 1fr));
+}
+
 .tech-topics-section--bold .topics-grid--bold .topic-card {
     padding: 18px 12px;
 }
