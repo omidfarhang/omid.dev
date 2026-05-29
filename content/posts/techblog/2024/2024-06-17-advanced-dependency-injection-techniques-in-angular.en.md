@@ -15,6 +15,8 @@ categories:
 ---
 Dependency Injection (DI) is a fundamental design pattern in Angular that allows for the efficient management of dependencies within an application. By using DI, Angular promotes the principle of Inversion of Control (IoC), where the control of creating and managing dependencies is inverted from the component itself to an external framework. This results in more modular, testable, and maintainable code. In this post, we will explore two advanced DI techniques in Angular: Tree-Shakable Providers and Injection Tokens.
 
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-patterns-and-di](https://github.com/omidfarhang/example-projects/tree/main/angular-patterns-and-di)
+
 ## Introduction to Dependency Injection in Angular
 
 Angular's DI framework is a key feature that helps manage how components and services are instantiated and used. Instead of a class creating its dependencies, Angular's DI system injects these dependencies at runtime, promoting loose coupling and enhancing testability.

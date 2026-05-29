@@ -18,6 +18,8 @@ categories:
 ---
 We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). But now let's explorer a working example to understand it better.
 
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust](https://github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust)
+
 ## Building a Micro Frontend Architecture with Qwik, Angular, and React
 
 Micro frontend architecture is gaining popularity as a way to develop scalable and modular web applications. By breaking down a monolithic frontend into smaller, independently deployable modules, teams can work more efficiently and scale their applications with ease. In this tutorial, we'll explore how to build a micro frontend architecture using Qwik as the shell application and integrating Angular and React components as micro frontends. We'll also utilize Redux for communication between the micro frontends.

@@ -20,6 +20,8 @@ categories:
 ---
 In today's rapidly evolving web development landscape, GraphQL has emerged as a powerful alternative to traditional REST APIs. This blog post will guide you through the process of migrating your Express.js backend and Angular frontend from REST to GraphQL, unlocking the benefits of a more flexible and efficient API architecture.
 
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/graphql-express-angular-migration](https://github.com/omidfarhang/example-projects/tree/main/graphql-express-angular-migration)
+
 ## 1. Introduction
 
 REST (Representational State Transfer) has been the go-to architectural style for building web APIs for many years. However, GraphQL, developed by Facebook, offers several advantages:

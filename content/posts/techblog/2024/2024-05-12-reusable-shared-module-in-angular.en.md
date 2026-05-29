@@ -15,6 +15,8 @@ categories:
 ---
 In Angular development, creating reusable shared modules is a powerful way to encapsulate common functionality, UI components, services, and styles that can be used across different projects or repositories. In this guide, we'll walk through the process of creating a reusable shared module from scratch, covering directory structures, component/service/directive creation, shared styles, and both development (`npm link`) and production (`npm publish`) use cases.
 
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-shared-library-workspace](https://github.com/omidfarhang/example-projects/tree/main/angular-shared-library-workspace)
+
 ## Step 1: Generate a Library
 
 The first step is to generate an Angular library project within your workspace using the Angular CLI:
