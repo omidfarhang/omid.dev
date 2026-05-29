@@ -17,7 +17,10 @@ categories:
 ---
 In the fast-paced world of web development, efficiency and consistency are key. Repetitive tasks can slow down productivity, and inconsistent code can lead to maintenance nightmares. Enter Angular Schematics—a powerful tool to automate code generation, enforce architectural standards, and improve code quality. In this comprehensive guide, we'll delve into creating custom Angular schematics, helping you streamline your development workflow and ensure your codebase remains robust and maintainable.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/master/angular-custom-schematics](https://github.com/omidfarhang/example-projects/tree/master/angular-custom-schematics)
+{{< source-code
+  repo="omidfarhang/example-projects"
+  path="angular-custom-schematics"
+>}}
 
 ## What are Angular Schematics?
 

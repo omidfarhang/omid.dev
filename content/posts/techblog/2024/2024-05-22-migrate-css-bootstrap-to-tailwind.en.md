@@ -17,7 +17,10 @@ categories:
 ---
 Migrating a project from Pure CSS and Bootstrap to Tailwind CSS can be a daunting task, but with careful planning and execution, it can also lead to a more efficient, scalable, and maintainable codebase. In this blog post, we’ll explore the pros and cons of Tailwind CSS, compare it with Bootstrap, and provide a detailed guide on how to migrate your project, complete with sample code and tool recommendations.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/master/bootstrap-to-tailwind-migration](https://github.com/omidfarhang/example-projects/tree/master/bootstrap-to-tailwind-migration)
+{{< source-code
+  repo="omidfarhang/example-projects"
+  path="bootstrap-to-tailwind-migration"
+>}}
 
 ### Why Migrate to Tailwind CSS?
 

@@ -1,0 +1,84 @@
+{{- $url := .Get "url" -}}
+{{- $provider := lower (.Get "provider" | default "github") -}}
+{{- $host := .Get "host" -}}
+{{- $title := .Get "title" | default "Full Source Code" -}}
+{{- $repo := .Get "repo" -}}
+{{- $path := .Get "path" -}}
+{{- $branch := .Get "branch" | default "master" -}}
+{{- if not $host -}}
+  {{- if eq $provider "github" -}}
+    {{- $host = "github.com" -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $host = "gitlab.com" -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $host = "bitbucket.org" -}}
+  {{- else if eq $provider "codeberg" -}}
+    {{- $host = "codeberg.org" -}}
+  {{- end -}}
+{{- end -}}
+{{- $providerName := .Get "providerName" -}}
+{{- if not $providerName -}}
+  {{- if eq $provider "github" -}}
+    {{- $providerName = "GitHub" -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $providerName = "GitLab" -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $providerName = "Bitbucket" -}}
+  {{- else if eq $provider "codeberg" -}}
+    {{- $providerName = "Codeberg" -}}
+  {{- else -}}
+    {{- $providerName = "repository" -}}
+  {{- end -}}
+{{- end -}}
+{{- $description := .Get "description" | default (printf "Explore the complete working example on %s." $providerName) -}}
+{{- $label := .Get "label" | default (printf "View on %s" $providerName) -}}
+{{- if and (not $url) $repo $path -}}
+  {{- if eq $provider "github" -}}
+    {{- $url = printf "https://%s/%s/tree/%s/%s" $host $repo $branch $path -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $url = printf "https://%s/%s/-/tree/%s/%s" $host $repo $branch $path -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $url = printf "https://%s/%s/src/%s/%s" $host $repo $branch $path -}}
+  {{- else if or (eq $provider "codeberg") (eq $provider "gitea") -}}
+    {{- $url = printf "https://%s/%s/src/branch/%s/%s" $host $repo $branch $path -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $url -}}
+  {{- warnf "missing value for param 'url' or supported 'provider', 'repo', and 'path': %s" .Position -}}
+{{- end -}}
+{{- $display := .Get "display" -}}
+{{- if not $display -}}
+  {{- if and $host $repo $path -}}
+    {{- $display = printf "%s/%s/%s" $host $repo $path -}}
+  {{- else if and $repo $path -}}
+    {{- $display = printf "%s/%s" $repo $path -}}
+  {{- else -}}
+    {{- $display = replaceRE "^https?://(www\\.)?" "" $url -}}
+  {{- end -}}
+{{- end -}}
+{{- $icon := .Get "icon" -}}
+{{- if not $icon -}}
+  {{- if eq $provider "github" -}}
+    {{- $icon = "fa-brands fa-github" -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $icon = "fa-brands fa-gitlab" -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $icon = "fa-brands fa-bitbucket" -}}
+  {{- else -}}
+    {{- $icon = "fa-solid fa-code-branch" -}}
+  {{- end -}}
+{{- end -}}
+
+<a class="source-code-card" href="{{ $url | safeURL }}" target="_blank" rel="noopener noreferrer">
+  <span class="source-code-card__icon" aria-hidden="true">
+    <i class="{{ $icon }}"></i>
+  </span>
+  <span class="source-code-card__content">
+    <span class="source-code-card__title">{{ $title }}</span>
+    <span class="source-code-card__description">{{ $description }}</span>
+    <code class="source-code-card__path">{{ $display }}</code>
+  </span>
+  <span class="source-code-card__action">
+    {{ $label }} <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+  </span>
+</a>
