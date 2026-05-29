@@ -46,22 +46,11 @@ mkdir -p ~/.local/opt/cursor
 
 ## Download the Latest Cursor AppImage
 
-Ask Cursor's official API for the latest stable Linux x64 AppImage URL, then download it into that directory:
+Download the Cursor AppImage into that directory:
 
 ```shell
-CURSOR_API_URL="https://www.cursor.com/api/download?platform=linux-x64&releaseTrack=stable"
-CURSOR_API_RESPONSE="$(curl --fail --silent --show-error --location "$CURSOR_API_URL")"
-CURSOR_DOWNLOAD_URL="${CURSOR_API_RESPONSE#*\"downloadUrl\":\"}"
-
-if [[ "$CURSOR_DOWNLOAD_URL" == "$CURSOR_API_RESPONSE" ]]; then
-  echo "Cursor API did not return a downloadUrl." >&2
-  exit 1
-fi
-
-CURSOR_DOWNLOAD_URL="${CURSOR_DOWNLOAD_URL%%\"*}"
-
-curl --fail --location "$CURSOR_DOWNLOAD_URL" \
-  --output ~/.local/opt/cursor/cursor.AppImage
+curl -L "https://api2.cursor.sh/updates/download/golden/linux-x64/cursor/" \
+  -o ~/.local/opt/cursor/cursor.AppImage
 ```
 
 Then make it executable:
