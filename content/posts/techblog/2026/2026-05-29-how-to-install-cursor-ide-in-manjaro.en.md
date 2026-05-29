@@ -5,9 +5,9 @@ description: "A practical AppImage-based Cursor IDE installation guide for Manja
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/yAXBVd2
-# x_link: 
-# mastodon_link: 
-# bluesky_link: 
+x_link: https://x.com/OmidFarhangEn/status/2060358981831602255
+mastodon_link: https://mastodon.social/@omidfarhang/116658204889356987
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mmyorvy3fc26
 # linkedin_link: 
 url: 2026/05/29/how-to-install-cursor-ide-in-manjaro/
 tags:
