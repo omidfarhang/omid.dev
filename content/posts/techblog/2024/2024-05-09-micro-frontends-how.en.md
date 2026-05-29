@@ -11,6 +11,7 @@ tags:
   - Angular
   - qwik
   - react
+  - rust
   - Micro Frontends
 
 categories:
@@ -24,7 +25,7 @@ Micro Frontends extend the microservices idea to the frontend world. They allow 
 
 ### Advantages of Micro Frontends
 
-1. **Framework Agnostic**: Integrate Frameworks (e.g. Qwik, Angular and React) seamlessly, allowing teams to choose the best tool for each task.
+1. **Framework Agnostic**: Integrate Frameworks (e.g. Qwik, Angular, React, or Rust through WebAssembly) seamlessly, allowing teams to choose the best tool for each task.
 2. **Incremental Upgrades**: Refactor parts of your application gradually without rewriting everything at once.
 3. **Team Autonomy**: Different teams can work on separate parts of the application independently, improving productivity.
 4. **Scalability**: Scale parts of the application independently to enhance performance and responsiveness.
@@ -63,6 +64,6 @@ Adopt a deployment strategy where each Micro Frontend can be deployed independen
 
 ## Working Example
 
-The companion sample uses client-side composition: a Qwik shell loads Angular and React bundles as Web Components and shares state through a small DOM event contract.
+The companion sample uses client-side composition: a Qwik shell loads Angular and React bundles as Web Components, optionally imports a Rust WebAssembly helper, and shares state through a small DOM event contract.
 
 Read in next post: [Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)

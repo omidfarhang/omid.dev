@@ -11,6 +11,7 @@ tags:
   - Angular
   - qwik
   - react
+  - rust
   - Micro Frontends
 
 categories:
@@ -20,11 +21,11 @@ We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-w
 
 **Full source code:** [github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust](https://github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust)
 
-## Building a Micro Frontend Architecture with Qwik, Angular, and React
+## Building a Micro Frontend Architecture with Qwik, Angular, React, and Rust
 
 Micro frontend architecture is a practical way to develop scalable and modular web applications. By breaking down a monolithic frontend into smaller, independently deployable modules, teams can work more efficiently and scale their applications with ease.
 
-In this example, Qwik acts as the shell application. Angular and React are built as separate micro frontends, exposed as Web Components, and loaded into the shell at runtime. The shell owns shared state and passes it down through custom element attributes. Micro frontends can send messages back to the shell through a small DOM event contract.
+In this example, Qwik acts as the shell application. Angular and React are built as separate micro frontends, exposed as Web Components, and loaded into the shell at runtime. A small Rust WebAssembly module is included as an optional non-UI helper. The shell owns shared state and passes it down through custom element attributes. Micro frontends can send messages back to the shell through a small DOM event contract.
 
 ### Project Structure
 
@@ -37,7 +38,7 @@ qwik-angular-react-rust/
 └── scripts/               # Shared build helpers
 ```
 
-Each micro frontend builds into `qwik-micro-frontend/public/mfes/`. The shell serves those bundles and composes them on one page.
+Each micro frontend builds into `qwik-micro-frontend/public/mfes/`. The optional Rust WASM package is emitted there too, so the shell can serve every independently built piece from one public asset folder.
 
 ### Angular Micro Frontend
 
@@ -234,6 +235,6 @@ The sample also includes a small Rust WASM helper. When `wasm-pack` is installed
 
 ### Conclusion
 
-In this example, we built a micro frontend architecture using Qwik as the shell and integrated Angular and React through Web Components. Instead of forcing every framework into one shared Redux store, the shell and micro frontends communicate through a small, explicit contract.
+In this example, we built a micro frontend architecture using Qwik as the shell, integrated Angular and React through Web Components, and included Rust WebAssembly for a small helper module. Instead of forcing every framework into one shared Redux store, the shell and micro frontends communicate through a small, explicit contract.
 
 That keeps each micro frontend independently buildable and deployable while still giving users one cohesive page.

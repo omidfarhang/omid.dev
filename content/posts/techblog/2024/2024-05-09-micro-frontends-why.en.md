@@ -11,6 +11,7 @@ tags:
   - Angular
   - qwik
   - react
+  - rust
   - Micro Frontends
 
 categories:
@@ -36,7 +37,7 @@ Overall, micro frontends provide a flexible and scalable approach to frontend de
 
 ## Common Use Cases
 
-Micro frontends offer several benefits, and combining Qwik, Angular, and React in a micro frontend architecture can be particularly useful in certain scenarios:
+Micro frontends offer several benefits, and combining Qwik, Angular, React, and even a small Rust WebAssembly module in a micro frontend architecture can be particularly useful in certain scenarios:
 
 1. **Legacy Integration**: If you have a legacy application built with Qwik but want to introduce new features or modules using modern frameworks like Angular or React, micro frontends allow you to gradually migrate parts of the application without rewriting the entire codebase.
 
@@ -50,11 +51,11 @@ Micro frontends offer several benefits, and combining Qwik, Angular, and React i
 
 6. **Dynamic Composition**: Micro frontends enable dynamic composition of your application, allowing you to assemble and reassemble different parts of the user interface based on user roles, permissions, or other factors. This provides greater flexibility in tailoring the user experience to specific use cases or user segments.
 
-Overall, the use case for integrating Qwik, Angular, and React in a micro frontend architecture revolves around achieving flexibility, scalability, maintainability, and interoperability in your frontend development process. It allows you to leverage the strengths of each framework while mitigating their respective limitations, resulting in a more robust and adaptable application architecture.
+Overall, the use case for integrating Qwik, Angular, React, and Rust-powered WebAssembly in a micro frontend architecture revolves around achieving flexibility, scalability, maintainability, and interoperability in your frontend development process. It allows you to leverage the strengths of each tool while mitigating their respective limitations, resulting in a more robust and adaptable application architecture.
 
 ## What does it look like?
 
-In this setup, the Qwik shell application acts as the main container, while the Angular and React micro frontends represent different parts of the application.
+In this setup, the Qwik shell application acts as the main container, while the Angular and React micro frontends represent different parts of the application. Rust is optional here, but it shows how a shell can also load a WebAssembly helper for focused, non-UI work.
 
 ```bash
 qwik-angular-react-rust/
