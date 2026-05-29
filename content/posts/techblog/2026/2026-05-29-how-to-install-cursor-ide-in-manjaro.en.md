@@ -149,6 +149,8 @@ You should now be able to find Cursor in your application launcher.
 If you want a single command for future updates, create a small `update-cursor` script:
 
 ```shell
+mkdir -p ~/.local/bin
+
 cat > ~/.local/bin/update-cursor <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
@@ -159,24 +161,36 @@ CURSOR_ICON="$CURSOR_DIR/cursor.png"
 DESKTOP_FILE="$HOME/.local/share/applications/cursor.desktop"
 DOWNLOAD_URL="https://api2.cursor.sh/updates/download/golden/linux-x64/cursor/"
 
+if ! command -v curl >/dev/null 2>&1; then
+  echo "curl is required. Install it with: sudo pacman -S curl" >&2
+  exit 1
+fi
+
 mkdir -p "$CURSOR_DIR" "$HOME/.local/bin" "$HOME/.local/share/applications"
 
-echo "Downloading latest Cursor AppImage..."
-TMP_APPIMAGE="$(mktemp "$CURSOR_DIR/cursor.AppImage.tmp.XXXXXX")"
-trap 'rm -f "$TMP_APPIMAGE"' EXIT
+TMP_DIR="$(mktemp -d)"
+TMP_APPIMAGE="$TMP_DIR/cursor.AppImage"
 
-curl --fail -L "$DOWNLOAD_URL" -o "$TMP_APPIMAGE"
+cleanup() {
+  rm -rf "$TMP_DIR"
+}
+trap cleanup EXIT
+
+echo "Downloading latest Cursor AppImage..."
+curl --fail --location --show-error "$DOWNLOAD_URL" --output "$TMP_APPIMAGE"
 chmod +x "$TMP_APPIMAGE"
-mv -f "$TMP_APPIMAGE" "$CURSOR_APPIMAGE"
-chmod +x "$CURSOR_APPIMAGE"
-ln -sf "$CURSOR_APPIMAGE" "$HOME/.local/bin/cursor"
 
 echo "Extracting Cursor icon..."
-cd "$CURSOR_DIR"
-rm -rf squashfs-root
-"$CURSOR_APPIMAGE" --appimage-extract >/dev/null
-cp "$CURSOR_DIR/squashfs-root/usr/share/icons/hicolor/512x512/apps/cursor.png" "$CURSOR_ICON"
-rm -rf squashfs-root
+(
+  cd "$TMP_DIR"
+  "$TMP_APPIMAGE" --appimage-extract >/dev/null
+)
+install -m 644 \
+  "$TMP_DIR/squashfs-root/usr/share/icons/hicolor/512x512/apps/cursor.png" \
+  "$CURSOR_ICON"
+
+mv -f "$TMP_APPIMAGE" "$CURSOR_APPIMAGE"
+ln -sfn "$CURSOR_APPIMAGE" "$HOME/.local/bin/cursor"
 
 cat > "$DESKTOP_FILE" <<DESKTOP
 [Desktop Entry]
@@ -190,6 +204,10 @@ StartupNotify=true
 DESKTOP
 
 chmod +x "$DESKTOP_FILE"
+
+if command -v update-desktop-database >/dev/null 2>&1; then
+  update-desktop-database "$HOME/.local/share/applications" >/dev/null 2>&1 || true
+fi
 
 echo "Cursor has been installed or updated."
 echo "Run it with: cursor"
