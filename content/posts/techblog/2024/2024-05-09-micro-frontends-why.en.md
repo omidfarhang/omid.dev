@@ -57,30 +57,25 @@ Overall, the use case for integrating Qwik, Angular, and React in a micro fronte
 In this setup, the Qwik shell application acts as the main container, while the Angular and React micro frontends represent different parts of the application.
 
 ```bash
-project/
+qwik-angular-react-rust/
 │
-├── shell-app/               # Qwik Shell Application
+├── qwik-micro-frontend/     # Qwik shell application
 │   ├── src/
-│   │   ├── components/      # Qwik Components
-│   │   ├── services/        # Shared Services
+│   │   ├── routes/          # Shell routes and composition
 │   │   └── ...
+│   └── public/mfes/         # Built micro frontend bundles
+│
+├── angular-app/             # Angular micro frontend
+│   ├── src/
+│   │   └── app/             # Angular components and custom element setup
 │   └── ...
 │
-├── angular-microfrontend/   # Angular Microfrontend
+├── react-app/               # React micro frontend
 │   ├── src/
-│   │   ├── app/             # Angular Components
-│   │   ├── services/        # Shared Services (if any)
-│   │   └── ...
+│   │   └── ...              # React UI and custom element wrapper
 │   └── ...
 │
-├── react-microfrontend/     # React Microfrontend
-│   ├── src/
-│   │   ├── components/      # React Components
-│   │   ├── services/        # Shared Services (if any)
-│   │   └── ...
-│   └── ...
-│
-└── ...
+└── rust-wasm/               # Optional Rust WebAssembly module
 ```
 
 ## How to do it?

@@ -16,213 +16,224 @@ tags:
 categories:
   - TechBlog
 ---
-We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). But now let's explorer a working example to understand it better.
+We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). Now let's explore a working example to understand it better.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust](https://github.com/omidfarhang/example-projects/tree/master/qwik-angular-react-rust)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust](https://github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust)
 
 ## Building a Micro Frontend Architecture with Qwik, Angular, and React
 
-Micro frontend architecture is gaining popularity as a way to develop scalable and modular web applications. By breaking down a monolithic frontend into smaller, independently deployable modules, teams can work more efficiently and scale their applications with ease. In this tutorial, we'll explore how to build a micro frontend architecture using Qwik as the shell application and integrating Angular and React components as micro frontends. We'll also utilize Redux for communication between the micro frontends.
+Micro frontend architecture is a practical way to develop scalable and modular web applications. By breaking down a monolithic frontend into smaller, independently deployable modules, teams can work more efficiently and scale their applications with ease.
 
-### Setting Up the Project
+In this example, Qwik acts as the shell application. Angular and React are built as separate micro frontends, exposed as Web Components, and loaded into the shell at runtime. The shell owns shared state and passes it down through custom element attributes. Micro frontends can send messages back to the shell through a small DOM event contract.
 
-First, let's set up the project structure and install the necessary dependencies.
+### Project Structure
 
 ```bash
-# Create a new Qwik project
-npx create-qwik my-micro-frontend-app
-cd my-micro-frontend-app
-
-# Install Redux for state management
-npm install redux react-redux @reduxjs/toolkit
-
-# Create Angular and React micro frontend projects
-ng new angular-microfrontend
-npx create-react-app react-microfrontend
+qwik-angular-react-rust/
+├── qwik-micro-frontend/   # Qwik shell application
+├── angular-app/           # Angular micro frontend
+├── react-app/             # React micro frontend
+├── rust-wasm/             # Optional Rust WebAssembly module
+└── scripts/               # Shared build helpers
 ```
 
-### Integrating Angular and React Micro Frontends
+Each micro frontend builds into `qwik-micro-frontend/public/mfes/`. The shell serves those bundles and composes them on one page.
 
-Next, let's integrate the Angular and React micro frontends into our Qwik shell application using Web Components.
+### Angular Micro Frontend
 
-#### Angular Microfrontend
-
-In the Angular micro frontend project (`angular-microfrontend`), let's create a Web Component to encapsulate the Angular component.
+In the Angular project, register the root component as a custom element:
 
 ```typescript
-// angular-microfrontend/src/app/angular-web-component.component.ts
+// angular-app/src/app/app.module.ts
+import { Injector, NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { createCustomElement } from '@angular/elements';
+import { AppComponent } from './app.component';
+
+@NgModule({
+  declarations: [AppComponent],
+  imports: [BrowserModule],
+  bootstrap: [],
+})
+export class AppModule {
+  constructor(private injector: Injector) {}
+
+  ngDoBootstrap() {
+    if (!customElements.get('angular-microfrontend')) {
+      const appElement = createCustomElement(AppComponent, {
+        injector: this.injector,
+      });
+
+      customElements.define('angular-microfrontend', appElement);
+    }
+  }
+}
+```
+
+The Angular component accepts input from the shell through a standard `@Input()`:
+
+```typescript
+// angular-app/src/app/app.component.ts
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'angular-web-component',
-  template: `<h2>Hello from Angular!</h2>`,
+  selector: 'app-root',
+  templateUrl: './app.component.html',
 })
-export class AngularWebComponentComponent {
-  @Input() message: string;
+export class AppComponent {
+  @Input() message = '';
+
+  sendMessage() {
+    window.dispatchEvent(
+      new CustomEvent('microfrontend:message', {
+        detail: {
+          source: 'Angular',
+          message: 'Angular handled the shared contract',
+        },
+      }),
+    );
+  }
 }
 ```
 
-Then, build the Angular project and export the Web Component.
+Build the Angular bundle into the shell's public assets:
 
 ```bash
-cd angular-microfrontend
-ng build --prod --output-hashing none
+cd angular-app
+npm install
+npm run build
 ```
 
-#### React Microfrontend
+### React Micro Frontend
 
-In the React micro frontend project (`react-microfrontend`), let's create a Web Component to encapsulate the React component.
+In the React project, wrap the UI in a custom element and react to attribute changes:
 
 ```jsx
-// react-microfrontend/src/ReactWebComponent.js
+// react-app/src/index.jsx
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
+import { ReactMicroFrontend } from './ReactMicroFrontend.jsx';
 
-const ReactWebComponent = ({ message }) => (
-  <div>
-    <h2>Hello from React!</h2>
-    <p>{message}</p>
-  </div>
-);
+class ReactMicroFrontendElement extends HTMLElement {
+  static get observedAttributes() {
+    return ['message'];
+  }
 
-class ReactWebComponentElement extends HTMLElement {
   connectedCallback() {
-    const message = this.getAttribute('message');
-    ReactDOM.render(<ReactWebComponent message={message} />, this);
+    this.render();
+  }
+
+  attributeChangedCallback() {
+    this.render();
+  }
+
+  render() {
+    this.root ??= createRoot(this);
+    this.root.render(
+      <ReactMicroFrontend message={this.getAttribute('message') ?? ''} />,
+    );
   }
 }
 
-customElements.define('react-web-component', ReactWebComponentElement);
+customElements.define('react-microfrontend', ReactMicroFrontendElement);
 ```
 
-### Integrating Redux for Communication
+Build the React bundle into the shell's public assets:
 
-To enable communication between the micro frontends, let's set up Redux and define actions and reducers.
+```bash
+cd react-app
+npm install
+npm run build
+```
 
-```javascript
-// redux/actions.js
-export const setMessage = (message) => ({
-  type: 'SET_MESSAGE',
-  payload: message,
+### Shared Contract in the Qwik Shell
+
+The shell loads the micro frontend bundles and keeps the shared message in Qwik state:
+
+```tsx
+// qwik-micro-frontend/src/routes/index.tsx
+import { $, component$, useSignal, useVisibleTask$ } from '@builder.io/qwik';
+
+export default component$(() => {
+  const assetsReady = useSignal(false);
+  const message = useSignal('Hello from the Qwik shell');
+
+  useVisibleTask$(({ cleanup }) => {
+    const handleMicroFrontendMessage = (event: Event) => {
+      const { source, message: nextMessage } = (event as CustomEvent).detail;
+      message.value = `${source}: ${nextMessage}`;
+    };
+
+    window.addEventListener('microfrontend:message', handleMicroFrontendMessage);
+
+    Promise.all([
+      loadScript('/mfes/angular/polyfills.js'),
+      loadScript('/mfes/angular/main.js'),
+      loadScript('/mfes/react/react-microfrontend.js'),
+    ]).then(() => {
+      assetsReady.value = true;
+    });
+
+    cleanup(() => {
+      window.removeEventListener('microfrontend:message', handleMicroFrontendMessage);
+    });
+  });
+
+  const updateFromShell = $(() => {
+    message.value = 'Qwik updated the contract for every micro frontend';
+  });
+
+  return (
+    <main>
+      <button type="button" onClick$={updateFromShell}>
+        Update shared message from Qwik
+      </button>
+
+      {assetsReady.value ? (
+        <>
+          <angular-microfrontend message={message.value}></angular-microfrontend>
+          <react-microfrontend message={message.value}></react-microfrontend>
+        </>
+      ) : (
+        <p>Loading micro frontend bundles...</p>
+      )}
+    </main>
+  );
 });
-
-// redux/reducers.js
-const initialState = { message: '' };
-
-export const messageReducer = (state = initialState, action) => {
-  switch (action.type) {
-    case 'SET_MESSAGE':
-      return { ...state, message: action.payload };
-    default:
-      return state;
-  }
-};
 ```
 
-### Setting Up Routing in Qwik
+This keeps the integration simple:
 
-Finally, let's set up routing in the Qwik shell application to navigate between the micro frontends.
+- **Shell to micro frontend:** pass data through custom element attributes
+- **Micro frontend to shell:** dispatch a `microfrontend:message` DOM event
 
-```typescript
-// app.qwik.json
-{
-  "route": "/",
-  "import": "./src/components/Home/HomeComponent",
-  "type": "component"
-},
-{
-  "route": "/angular",
-  "import": "./src/components/Angular/AngularComponent",
-  "type": "component"
-},
-{
-  "route": "/react",
-  "import": "./src/components/React/ReactComponent",
-  "type": "component"
-}
-```
-
-### Putting It All Together
-
-Now that we have our micro frontends and Redux set up, we can integrate them into the Qwik shell application.
-
-```typescript
-// src/components/Home/HomeComponent.tsx
-import { h } from 'qwik';
-import { useDispatch } from 'react-redux';
-import { setMessage } from '../../../redux/actions';
-
-export default function HomeComponent() {
-  const dispatch = useDispatch();
-
-  const handleClick = () => {
-    dispatch(setMessage('Message from Qwik Shell'));
-  };
-
-  return (
-    <div>
-      <h1>Welcome to Qwik Shell Application</h1>
-      <button onClick={handleClick}>Set Message</button>
-      <a href="/angular">Go to Angular Microfrontend</a>
-      <a href="/react">Go to React Microfrontend</a>
-    </div>
-  );
-}
-```
-
-```typescript
-// src/components/Angular/AngularComponent.tsx
-import { h } from 'qwik';
-import { useSelector } from 'react-redux';
-
-export default function AngularComponent() {
-  const message = useSelector((state) => state.message);
-
-  return (
-    <div>
-      <h1>Angular Microfrontend</h1>
-      <angular-web-component message={message}></angular-web-component>
-    </div>
-  );
-}
-```
-
-```typescript
-// src/components/React/ReactComponent.tsx
-import { h } from 'qwik';
-import { useSelector } from 'react-redux';
-
-export default function ReactComponent() {
-  const message = useSelector((state) => state.message);
-
-  return (
-    <div>
-      <h1>React Microfrontend</h1>
-      <react-web-component message={message}></react-web-component>
-    </div>
-  );
-}
-```
+That is enough for a small demo and keeps each app loosely coupled.
 
 ### Running the Application
 
-Now, let's run the Qwik shell application along with the Angular and React micro frontends.
+From the project root:
 
 ```bash
-# Start the Qwik shell application
-npm start
-
-# Start the Angular micro frontend
-cd angular-microfrontend
-npm start
-
-# Start the React micro frontend
-cd react-microfrontend
-npm start
+npm install --prefix qwik-micro-frontend
+npm install --prefix angular-app
+npm install --prefix react-app
+npm run dev
 ```
 
-Visit `http://localhost:8080` to see the Qwik shell application with integrated Angular and React micro frontends. You can navigate between the micro frontends and observe Redux communication in action.
+Visit `http://localhost:5173`. You should see the Qwik shell with Angular and React micro frontends on the same page. Click the shell button to push a new message to both micro frontends, then click a button inside Angular or React to send a message back to the shell.
+
+To build everything for production:
+
+```bash
+npm run build
+```
+
+### Optional Rust WebAssembly Module
+
+The sample also includes a small Rust WASM helper. When `wasm-pack` is installed, the shell can import it from `/mfes/rust-wasm/rust_wasm.js` and display a formatted message from Rust.
 
 ### Conclusion
 
-In this tutorial, we've learned how to build a micro frontend architecture using Qwik as the shell application and integrating Angular and React components as micro frontends. We've also utilized Redux for communication between the micro frontends. By adopting a micro frontend architecture, teams can work more efficiently, scale their applications with ease, and provide a seamless user experience.
+In this example, we built a micro frontend architecture using Qwik as the shell and integrated Angular and React through Web Components. Instead of forcing every framework into one shared Redux store, the shell and micro frontends communicate through a small, explicit contract.
+
+That keeps each micro frontend independently buildable and deployable while still giving users one cohesive page.

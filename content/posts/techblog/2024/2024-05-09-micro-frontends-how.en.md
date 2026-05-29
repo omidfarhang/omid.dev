@@ -63,4 +63,6 @@ Adopt a deployment strategy where each Micro Frontend can be deployed independen
 
 ## Working Example
 
+The companion sample uses client-side composition: a Qwik shell loads Angular and React bundles as Web Components and shares state through a small DOM event contract.
+
 Read in next post: [Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)
