@@ -17,7 +17,7 @@ categories:
 ---
 GraphQL is a powerful query language for APIs, providing a flexible and efficient alternative to REST. Combining it with Angular, a robust front-end framework, can lead to highly dynamic and responsive web applications. In this guide, we'll explore how to integrate GraphQL with Angular, leveraging the Apollo Client for seamless data management.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-graphql-apollo](https://github.com/omidfarhang/example-projects/tree/master/angular-graphql-apollo)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/master/angular-graphql-apollo](https://github.com/omidfarhang/example-projects/tree/master/angular-graphql-apollo)
 
 ## 1. Introduction to GraphQL and Angular
 

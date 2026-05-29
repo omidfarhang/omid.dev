@@ -19,7 +19,7 @@ categories:
 ---
 We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). Now let's explore a working example to understand it better.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust](https://github.com/omidfarhang/example-projects/tree/main/qwik-angular-react-rust)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/master/qwik-angular-react-rust](https://github.com/omidfarhang/example-projects/tree/master/qwik-angular-react-rust)
 
 ## Building a Micro Frontend Architecture with Qwik, Angular, React, and Rust
 
