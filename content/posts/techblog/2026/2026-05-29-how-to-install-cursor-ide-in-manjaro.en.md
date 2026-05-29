@@ -24,13 +24,13 @@ Cursor is distributed for Linux as an AppImage, which works well on Manjaro beca
 
 Before writing this post, I tried installing Cursor from the AUR, but it was not stable enough for me. I also did not love the extra Electron dependency, although that was not the main reason I moved away from that method. At the time of writing, there is no official Snap release, no official Manjaro or Arch package for Cursor either.
 
-So this guide uses the AppImage directly from Cursor's own update endpoint. I usually prefer keeping AppImages under `~/.local/opt` and exposing only a small launcher command from `~/.local/bin`.
+So this guide uses Cursor's official download API to find the current stable AppImage. I usually prefer keeping AppImages under `~/.local/opt` and exposing only a small launcher command from `~/.local/bin`.
 
 This keeps the installation local to your user, easy to update, and easy to remove.
 
 ## Install the Required Packages
 
-First make sure `curl` is installed. On Manjaro, it is also useful to have `fuse2` available because many AppImages still depend on it.
+First make sure `curl` and `fuse2` are installed. `fuse2` is useful because many AppImages still depend on it.
 
 ```shell
 sudo pacman -Syu curl fuse2
@@ -46,11 +46,22 @@ mkdir -p ~/.local/opt/cursor
 
 ## Download the Latest Cursor AppImage
 
-Download the latest Cursor build into that directory:
+Ask Cursor's official API for the latest stable Linux x64 AppImage URL, then download it into that directory:
 
 ```shell
-curl -L "https://api2.cursor.sh/updates/download/golden/linux-x64/cursor/" \
-  -o ~/.local/opt/cursor/cursor.AppImage
+CURSOR_API_URL="https://www.cursor.com/api/download?platform=linux-x64&releaseTrack=stable"
+CURSOR_API_RESPONSE="$(curl --fail --silent --show-error --location "$CURSOR_API_URL")"
+CURSOR_DOWNLOAD_URL="${CURSOR_API_RESPONSE#*\"downloadUrl\":\"}"
+
+if [[ "$CURSOR_DOWNLOAD_URL" == "$CURSOR_API_RESPONSE" ]]; then
+  echo "Cursor API did not return a downloadUrl." >&2
+  exit 1
+fi
+
+CURSOR_DOWNLOAD_URL="${CURSOR_DOWNLOAD_URL%%\"*}"
+
+curl --fail --location "$CURSOR_DOWNLOAD_URL" \
+  --output ~/.local/opt/cursor/cursor.AppImage
 ```
 
 Then make it executable:
@@ -159,7 +170,32 @@ CURSOR_DIR="$HOME/.local/opt/cursor"
 CURSOR_APPIMAGE="$CURSOR_DIR/cursor.AppImage"
 CURSOR_ICON="$CURSOR_DIR/cursor.png"
 DESKTOP_FILE="$HOME/.local/share/applications/cursor.desktop"
-DOWNLOAD_URL="https://api2.cursor.sh/updates/download/golden/linux-x64/cursor/"
+VERSION_FILE="$CURSOR_DIR/version.txt"
+API_URL="https://www.cursor.com/api/download?platform=linux-x64&releaseTrack=stable"
+FORCE=0
+
+for arg in "$@"; do
+  case "$arg" in
+    --force|-f)
+      FORCE=1
+      ;;
+    -h|--help)
+      cat <<'HELP'
+Usage: update-cursor [--force|-f]
+
+Install or update Cursor from the official stable API.
+Skips download when the installed version is already the same or newer.
+Use --force to reinstall even when no update is needed.
+HELP
+      exit 0
+      ;;
+    *)
+      echo "Unknown option: $arg" >&2
+      echo "Usage: update-cursor [--force|-f]" >&2
+      exit 1
+      ;;
+  esac
+done
 
 if ! command -v curl >/dev/null 2>&1; then
   echo "curl is required. Install it with: sudo pacman -S curl" >&2
@@ -167,6 +203,76 @@ if ! command -v curl >/dev/null 2>&1; then
 fi
 
 mkdir -p "$CURSOR_DIR" "$HOME/.local/bin" "$HOME/.local/share/applications"
+
+json_value() {
+  local json="$1"
+  local key="$2"
+  local value="${json#*\"$key\":\"}"
+
+  if [[ "$value" == "$json" ]]; then
+    return 1
+  fi
+
+  value="${value%%\"*}"
+  printf '%s\n' "$value"
+}
+
+# Exit 0 if equal, 1 if $1 > $2, 2 if $1 < $2
+version_compare() {
+  local IFS=.
+  local -a left=($1) right=($2)
+  local i max=${#left[@]}
+
+  if ((${#right[@]} > max)); then
+    max=${#right[@]}
+  fi
+
+  for ((i = 0; i < max; i++)); do
+    local a=${left[i]:-0}
+    local b=${right[i]:-0}
+
+    if ((10#$a > 10#$b)); then
+      return 1
+    fi
+    if ((10#$a < 10#$b)); then
+      return 2
+    fi
+  done
+
+  return 0
+}
+
+echo "Checking latest Cursor stable release..."
+API_RESPONSE="$(curl --fail --silent --show-error --location "$API_URL")"
+
+if ! DOWNLOAD_URL="$(json_value "$API_RESPONSE" "downloadUrl")"; then
+  echo "Cursor API did not return a downloadUrl." >&2
+  exit 1
+fi
+
+CURSOR_VERSION="$(json_value "$API_RESPONSE" "version" || printf 'unknown')"
+INSTALLED_VERSION=""
+
+if [[ -f "$VERSION_FILE" ]]; then
+  INSTALLED_VERSION="$(tr -d '[:space:]' < "$VERSION_FILE")"
+fi
+
+if [[ "$FORCE" -eq 0 && -n "$INSTALLED_VERSION" && "$INSTALLED_VERSION" != "unknown" && "$CURSOR_VERSION" != "unknown" ]]; then
+  cmp=2
+  version_compare "$INSTALLED_VERSION" "$CURSOR_VERSION" && cmp=0 || cmp=$?
+
+  case "$cmp" in
+    0)
+      echo "Cursor ${INSTALLED_VERSION} is already up to date."
+      exit 0
+      ;;
+    1)
+      echo "Cursor ${INSTALLED_VERSION} is newer than stable ${CURSOR_VERSION}. Skipping update."
+      echo "Use update-cursor --force to reinstall anyway."
+      exit 0
+      ;;
+  esac
+fi
 
 TMP_DIR="$(mktemp -d)"
 TMP_APPIMAGE="$TMP_DIR/cursor.AppImage"
@@ -176,7 +282,7 @@ cleanup() {
 }
 trap cleanup EXIT
 
-echo "Downloading latest Cursor AppImage..."
+echo "Downloading Cursor ${CURSOR_VERSION}..."
 curl --fail --location --show-error "$DOWNLOAD_URL" --output "$TMP_APPIMAGE"
 chmod +x "$TMP_APPIMAGE"
 
@@ -190,6 +296,7 @@ install -m 644 \
   "$CURSOR_ICON"
 
 mv -f "$TMP_APPIMAGE" "$CURSOR_APPIMAGE"
+printf '%s\n' "$CURSOR_VERSION" > "$VERSION_FILE"
 ln -sfn "$CURSOR_APPIMAGE" "$HOME/.local/bin/cursor"
 
 cat > "$DESKTOP_FILE" <<DESKTOP
@@ -209,7 +316,7 @@ if command -v update-desktop-database >/dev/null 2>&1; then
   update-desktop-database "$HOME/.local/share/applications" >/dev/null 2>&1 || true
 fi
 
-echo "Cursor has been installed or updated."
+echo "Cursor ${CURSOR_VERSION} has been installed or updated."
 echo "Run it with: cursor"
 EOF
 
@@ -220,6 +327,12 @@ After that, installing or updating Cursor is just:
 
 ```shell
 update-cursor
+```
+
+The script compares the installed version in `~/.local/opt/cursor/version.txt` with the latest stable release from Cursor's API. If you already have the same version, or a newer one, it skips the download. To reinstall anyway:
+
+```shell
+update-cursor --force
 ```
 
 If Cursor is open while you update it, close it first, run `update-cursor`, and then start it again.
