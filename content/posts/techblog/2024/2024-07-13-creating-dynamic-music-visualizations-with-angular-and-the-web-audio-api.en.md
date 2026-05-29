@@ -19,7 +19,7 @@ categories:
 ---
 Music visualization has always been a fascinating way to enhance the auditory experience, offering a visual representation of sound that can be both mesmerizing and informative. With the power of modern web technologies like Angular and the Web Audio API, creating dynamic music visualizations is more accessible than ever. This blog post will guide you through the process of building an engaging music visualization application using Angular and the Web Audio API.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-web-audio-visualizer](https://github.com/omidfarhang/example-projects/tree/main/angular-web-audio-visualizer)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-web-audio-visualizer](https://github.com/omidfarhang/example-projects/tree/master/angular-web-audio-visualizer)
 
 ## Prerequisites
 

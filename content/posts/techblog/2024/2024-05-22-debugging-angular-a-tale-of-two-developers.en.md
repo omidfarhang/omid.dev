@@ -15,7 +15,7 @@ categories:
 ---
 In any software development project, encountering bugs and issues is inevitable. How we approach these problems often distinguishes a junior developer from a senior one. Today, we’ll walk through a more complex and challenging issue in an Angular project and compare how a junior and a senior developer might handle it.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-dynamic-form-debugging](https://github.com/omidfarhang/example-projects/tree/main/angular-dynamic-form-debugging)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/angular-dynamic-form-debugging](https://github.com/omidfarhang/example-projects/tree/master/angular-dynamic-form-debugging)
 
 ## The Issue
 

@@ -17,7 +17,7 @@ categories:
 ---
 In today's fast-paced digital world, the performance of web applications has never been more critical. Users demand instant responses, seamless interactions, and rich functionalities. To meet these demands, developers are constantly exploring new technologies that promise to enhance the performance and capabilities of web applications. One such powerful combination is WebAssembly (Wasm) and Rust. This blog post will delve into how to build high-performance web applications by leveraging WebAssembly and Rust, highlighting the benefits, use cases, integration strategies, and real-world examples.
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/rust-wasm-performance-demo](https://github.com/omidfarhang/example-projects/tree/main/rust-wasm-performance-demo)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/rust-wasm-performance-demo](https://github.com/omidfarhang/example-projects/tree/master/rust-wasm-performance-demo)
 
 ## Understanding WebAssembly and Rust
 

@@ -24,7 +24,7 @@ categories:
 ---
 *This is Part 3 of a series on modern development workflows. [Part 1: The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) and [Part 2: The Technical Guide to Jupyter Setup](/2025/12/23/jupyter-technical-setup-guide/) set the stage. Now, let's look at actual code.*
 
-**Full source code:** [github.com/omidfarhang/example-projects/tree/main/jupyter-blog-starter](https://github.com/omidfarhang/example-projects/tree/main/jupyter-blog-starter)
+**Full source code:** [github.com/omidfarhang/example-projects/tree/main/jupyter-blog-starter](https://github.com/omidfarhang/example-projects/tree/master/jupyter-blog-starter)
 
 In the previous parts, we discussed why Jupyter is a "thinking environment." In this final part, we'll walk through four concrete scenarios where a notebook outperforms a traditional IDE for a senior engineer.
 
