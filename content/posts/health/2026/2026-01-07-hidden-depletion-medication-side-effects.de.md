@@ -4,7 +4,7 @@ date: 2026-01-07T01:30:14+03:30
 description: "Wie jahrelange Standardmedikamente gegen Bluthochdruck und Diabetes zu stillen Nährstoffmängeln führten und wie ich meine Gesundheit durch Forschung und Supplementierung zurückgewann."
 layout: single
 author_profile: true
-url: de/2026/01/07/hidden-depletion-medication-side-effects/
+url: 2026/01/07/hidden-depletion-medication-side-effects/
 shortlink: https://g.omid.dev/9TmOC3c
 tags:
   - Gesundheit
