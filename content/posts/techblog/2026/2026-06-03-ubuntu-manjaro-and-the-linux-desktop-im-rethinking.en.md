@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
 shortlink: https://g.omid.dev/MlHE7cZ
+x_link: https://x.com/OmidFarhangEn/status/2061938024435560747
+mastodon_link: https://mastodon.social/@omidfarhang/116682880286083467
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mndnidxlsc27
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_stop-modeling-angular-screens-with-five-booleans-share-7467351377959112705-PGT_/
 tags:
   - Linux
   - Ubuntu
