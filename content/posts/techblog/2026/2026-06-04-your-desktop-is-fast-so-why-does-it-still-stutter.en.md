@@ -21,27 +21,21 @@ tags:
 categories:
   - TechBlog
 ---
-My Linux desktop is not slow.
+I wanted an excuse to build a small real Linux app.
 
-That is the annoying part.
+Not a shell script. Not a giant desktop application. Not a kernel module. Just a focused program that talks to Linux through the interfaces the system already exposes, gives that data a shape, and presents it as something a normal desktop user can run.
 
-The machine has a modern CPU, fast NVMe storage, plenty of RAM, KDE Plasma on Wayland, and a kernel new enough that I cannot blame the usual "old distro packages" story. Most of the time it feels excellent. Then, once in a while, the pointer hesitates, a window animation misses a beat, audio gets a tiny crackle, the browser pauses while a package update or build is running, or the desktop feels heavy for two seconds even though no single graph looks dramatic.
+Desktop stutter turned out to be a good excuse.
 
-That is the kind of performance problem that makes desktop Linux interesting in 2026.
+My own machine is not slow: modern CPU, fast NVMe storage, plenty of RAM, KDE Plasma on Wayland, and a current kernel. Most of the time it feels excellent. Then, once in a while, the pointer hesitates, a window animation misses a beat, audio gets a tiny crackle, or the browser pauses while a package update or build is running.
 
-Not "can Linux run on a laptop?" It can.
+The developer question behind that moment is useful:
 
-Not "is Wayland usable yet?" For many of us, yes.
+**Can we build a tiny Linux app that asks what the desktop was waiting for?**
 
-The more interesting question is:
+That is the shape of this post. We will use desktop stutter as the problem, Linux Pressure Stall Information as the kernel signal, and Rust as the language for turning `/proc` and `/sys` data into a small TUI called **Latency Lens**.
 
-**When the desktop stutters, what was the system waiting for?**
-
-This post is partly about that question.
-
-But it is also about something more practical: **how to write a small real Linux app in 2026 without starting from a giant framework, a kernel module, or a pile of shell scripts.**
-
-The app is intentionally tiny. It is not here to outclass Linux's serious observability tools. It is here to show the path: choose a useful kernel interface, read it, parse it, interpret it, and present it as a tool a normal desktop user can run.
+The app is intentionally tiny. It is not here to outclass Linux's serious observability tools. It is here to show the path: choose a useful kernel interface, read it, parse it, interpret it, and present it as a user-facing tool.
 
 {{< source-code
   repo="omidfarhang/example-projects"
@@ -445,37 +439,34 @@ The code keeps the door open with a sampler boundary and a hidden `--experimenta
 
 That is the right tradeoff for a companion app.
 
-## What I want desktop users to take away
+## What I want developers to take away
 
-The modern Linux desktop is not just a collection of apps running on a fast kernel.
+The important part of Latency Lens is not that it is the best way to debug a Linux desktop. It is not.
 
-It is a mixed latency workload:
+The important part is the path:
 
-- compositor frames;
-- audio deadlines;
-- browser bursts;
-- IDE indexing;
-- package updates;
-- filesystem activity;
-- memory reclaim;
-- GPU coordination;
-- background services;
-- user slices and cgroups.
+```text
+kernel signal -> typed parser -> snapshot -> diagnosis -> CLI/TUI
+```
 
-When it feels bad, the important question is often not:
+That path is approachable.
 
-**What is using the most CPU?**
+A small Linux app does not have to start with privileged tracing, D-Bus, a packaging system, or a full graphical toolkit. It can start with a real question and one readable kernel interface.
 
-It is:
+In this case, the question was:
 
 **What did my interactive work wait behind?**
 
-PSI does not answer every question. It will not tell you which exact app caused a frame miss. It will not replace tracing, profiling, or careful debugging. But it gives desktop users and Linux developers a better first signal than vibes and screenshots of system monitors.
+And the interface was PSI:
 
-That is why I think this is a topic worth writing about in 2026.
+```text
+/proc/pressure/cpu
+/proc/pressure/io
+/proc/pressure/memory
+```
 
-Desktop Linux has mostly won the old "can I use it?" argument for many of us. The next layer is subtler:
+PSI will not tell you which exact app caused a frame miss. It will not replace `perf`, ftrace, `bpftrace`, profiling, or careful debugging. But it is enough to build a useful first version and, more importantly for this post, enough to show how a Linux app can grow from a kernel pseudo-file into a user-facing tool.
 
-**Can the system explain its bad moments?**
+That is the lesson I wanted from this companion project: Linux app development does not have to begin as something huge.
 
-Latency Lens is a tiny step in that direction.
+Start by reading the system honestly. Then give what you read a shape.
