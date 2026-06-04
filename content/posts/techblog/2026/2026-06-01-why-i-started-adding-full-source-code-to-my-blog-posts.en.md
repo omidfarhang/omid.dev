@@ -25,7 +25,7 @@ A post can explain an idea clearly, but if the code is only a few isolated snipp
 
 That is why I started collecting companion source code for suitable posts in a separate repository:
 
-{{< source-code
+{{< companion
   repo="omidfarhang/example-projects"
   path="."
   title="Companion Source Code"

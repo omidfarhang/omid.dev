@@ -15,16 +15,11 @@ categories:
 ---
 In any software development project, encountering bugs and issues is inevitable. How we approach these problems often distinguishes a junior developer from a senior one. Today, we’ll walk through a more complex and challenging issue in an Angular project and compare how a junior and a senior developer might handle it.
 
-<div class="companion-callouts">
-
-{{< source-code
+{{< companion
   repo="omidfarhang/example-projects"
   path="angular-dynamic-form-debugging"
+  demoSlug="angular-dynamic-form-debugging"
 >}}
-
-{{< live-demo slug="angular-dynamic-form-debugging" >}}
-
-</div>
 
 ## The Issue
 

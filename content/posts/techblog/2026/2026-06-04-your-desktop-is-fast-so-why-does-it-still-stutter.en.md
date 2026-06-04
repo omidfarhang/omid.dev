@@ -37,7 +37,7 @@ That is the shape of this post. We will use desktop stutter as the problem, Linu
 
 The app is intentionally tiny. It is not here to outclass Linux's serious observability tools. It is here to show the path: choose a useful kernel interface, read it, parse it, interpret it, and present it as a user-facing tool.
 
-{{< source-code
+{{< companion
   repo="omidfarhang/example-projects"
   path="latency-lens"
   title="Latency Lens Companion App"

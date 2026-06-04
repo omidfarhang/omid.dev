@@ -18,16 +18,11 @@ categories:
 ---
 Angular, one of the most popular frameworks for building robust web applications, provides a comprehensive toolkit for developers. However, to truly harness its power, understanding and applying design patterns is crucial. Design patterns offer proven solutions to common problems, making your code more organized, reusable, and maintainable. In this blog post, we’ll delve into some advanced design patterns and their application in Angular, helping you enhance your code quality and maintainability.
 
-<div class="companion-callouts">
-
-{{< source-code
+{{< companion
   repo="omidfarhang/example-projects"
   path="angular-patterns-and-di"
+  demoSlug="angular-patterns-and-di"
 >}}
-
-{{< live-demo slug="angular-patterns-and-di" >}}
-
-</div>
 
 ## Introduction to Design Patterns
 

@@ -1,0 +1,120 @@
+{{- $repo := .Get "repo" -}}
+{{- $path := .Get "path" -}}
+{{- $branch := .Get "branch" | default "master" -}}
+{{- $provider := lower (.Get "provider" | default "github") -}}
+{{- $host := .Get "host" -}}
+{{- if not $host -}}
+  {{- if eq $provider "github" -}}
+    {{- $host = "github.com" -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $host = "gitlab.com" -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $host = "bitbucket.org" -}}
+  {{- else if eq $provider "codeberg" -}}
+    {{- $host = "codeberg.org" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $providerName := .Get "providerName" -}}
+{{- if not $providerName -}}
+  {{- if eq $provider "github" -}}
+    {{- $providerName = "GitHub" -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $providerName = "GitLab" -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $providerName = "Bitbucket" -}}
+  {{- else if eq $provider "codeberg" -}}
+    {{- $providerName = "Codeberg" -}}
+  {{- else -}}
+    {{- $providerName = "repository" -}}
+  {{- end -}}
+{{- end -}}
+{{- $sourceIcon := .Get "sourceIcon" -}}
+{{- if not $sourceIcon -}}
+  {{- if eq $provider "github" -}}
+    {{- $sourceIcon = "fa-brands fa-github" -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $sourceIcon = "fa-brands fa-gitlab" -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $sourceIcon = "fa-brands fa-bitbucket" -}}
+  {{- else -}}
+    {{- $sourceIcon = "fa-solid fa-code-branch" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $sourceUrl := .Get "sourceUrl" | default (.Get "url") -}}
+{{- if and (not $sourceUrl) $repo $path -}}
+  {{- if eq $provider "github" -}}
+    {{- $sourceUrl = printf "https://%s/%s/tree/%s/%s" $host $repo $branch $path -}}
+  {{- else if eq $provider "gitlab" -}}
+    {{- $sourceUrl = printf "https://%s/%s/-/tree/%s/%s" $host $repo $branch $path -}}
+  {{- else if eq $provider "bitbucket" -}}
+    {{- $sourceUrl = printf "https://%s/%s/src/%s/%s" $host $repo $branch $path -}}
+  {{- else if or (eq $provider "codeberg") (eq $provider "gitea") -}}
+    {{- $sourceUrl = printf "https://%s/%s/src/branch/%s/%s" $host $repo $branch $path -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $demoSlug := .Get "demoSlug" | default (.Get "slug") -}}
+{{- $demoUrl := .Get "demoUrl" -}}
+{{- if and (not $demoUrl) $demoSlug -}}
+  {{- $demoUrl = printf "https://playground.omid.dev/examples/%s/" $demoSlug -}}
+{{- end -}}
+
+{{- if or $sourceUrl $demoUrl -}}
+  {{- $title := .Get "title" | default "Companion Project" -}}
+  {{- $description := .Get "description" -}}
+  {{- if not $description -}}
+    {{- if and $sourceUrl $demoUrl -}}
+      {{- $description = "Try the working example in your browser or inspect the full source code behind this article." -}}
+    {{- else if $demoUrl -}}
+      {{- $description = "Try the companion project in your browser without cloning the repository." -}}
+    {{- else -}}
+      {{- $description = printf "Explore the complete working example on %s." $providerName -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $eyebrow := .Get "eyebrow" | default "Companion resource" -}}
+  {{- $sourceLabel := .Get "sourceLabel" | default (.Get "label") | default (printf "View on %s" $providerName) -}}
+  {{- $demoLabel := .Get "demoLabel" | default "Open live demo" -}}
+  {{- $display := .Get "display" -}}
+  {{- if and (not $display) $sourceUrl -}}
+    {{- if and $host $repo $path -}}
+      {{- $display = printf "%s/%s/%s" $host $repo $path -}}
+    {{- else if and $repo $path -}}
+      {{- $display = printf "%s/%s" $repo $path -}}
+    {{- else -}}
+      {{- $display = replaceRE "^https?://(www\\.)?" "" $sourceUrl -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $icon := .Get "icon" | default "fa-solid fa-cubes-stacked" -}}
+
+<aside class="companion-card">
+  <span class="companion-card__icon" aria-hidden="true">
+    <i class="{{ $icon }}"></i>
+  </span>
+  <span class="companion-card__content">
+    <span class="companion-card__eyebrow">{{ $eyebrow }}</span>
+    <strong class="companion-card__title">{{ $title }}</strong>
+    <span class="companion-card__description">{{ $description }}</span>
+    {{- with $display }}
+      <code class="companion-card__path">{{ . }}</code>
+    {{- end }}
+  </span>
+  <span class="companion-card__actions">
+    {{- with $demoUrl }}
+      <a class="companion-card__button companion-card__button--primary" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+        <i class="fa-solid fa-play" aria-hidden="true"></i>
+        {{ $demoLabel }}
+      </a>
+    {{- end }}
+    {{- with $sourceUrl }}
+      <a class="companion-card__button{{ if $demoUrl }} companion-card__button--secondary{{ else }} companion-card__button--primary{{ end }}" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+        <i class="{{ $sourceIcon }}" aria-hidden="true"></i>
+        {{ $sourceLabel }}
+      </a>
+    {{- end }}
+  </span>
+</aside>
+{{- else -}}
+  {{- warnf "missing companion destination: provide sourceUrl/url or provider, repo, and path; optionally demoUrl or demoSlug: %s" .Position -}}
+{{- end -}}
