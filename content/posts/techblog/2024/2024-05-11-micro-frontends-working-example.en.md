@@ -19,10 +19,16 @@ categories:
 ---
 We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). Now let's explore a working example to understand it better.
 
+<div class="companion-callouts">
+
 {{< source-code
   repo="omidfarhang/example-projects"
   path="qwik-angular-react-rust"
 >}}
+
+{{< live-demo slug="qwik-angular-react-rust" >}}
+
+</div>
 
 ## Building a Micro Frontend Architecture with Qwik, Angular, React, and Rust
 

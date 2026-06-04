@@ -19,10 +19,16 @@ categories:
 ---
 Managing state in React applications has evolved significantly, from simple state hooks to sophisticated libraries that handle complex state scenarios. Recoil is a powerful state management library for React that addresses many limitations of traditional state management approaches. It provides a flexible and scalable way to handle state, particularly in large applications. This blog post will explore advanced state management techniques using Recoil, focusing on atom families, selectors, and handling asynchronous queries.
 
+<div class="companion-callouts">
+
 {{< source-code
   repo="omidfarhang/example-projects"
   path="react-recoil-advanced-state"
 >}}
+
+{{< live-demo slug="react-recoil-advanced-state" >}}
+
+</div>
 
 ## What is Recoil?
 
