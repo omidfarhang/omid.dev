@@ -29,8 +29,10 @@ That is why I started collecting companion source code for suitable posts in a s
   repo="omidfarhang/example-projects"
   path="."
   title="Companion Source Code"
-  description="Browse runnable examples and focused snippets that support posts on omid.dev."
+  description="Browse runnable examples and focused snippets that support posts on omid.dev. Browser-only projects are also published as live demos on playground.omid.dev."
   display="github.com/omidfarhang/example-projects"
+  demoUrl="https://playground.omid.dev/"
+  demoLabel="Open live demos"
   label="Open the repository"
 >}}
 
@@ -59,15 +61,22 @@ So the repository is intentionally mixed:
 
 The common goal is not size. The common goal is usefulness.
 
+## Live Demos For Browser-Only Examples
+
+For companions that can run entirely in the browser, I also publish live demos at [playground.omid.dev](https://playground.omid.dev/). That gives readers a faster path than cloning first: open the demo, interact with it, then read the article for the reasoning behind the implementation.
+
+Demos that need Firebase, a local API server, native Linux tooling, or other non-browser setup stay source-only in the repository for now.
+
 ## What I Want Readers to Be Able to Do
 
 When a post has companion source code, I want readers to be able to move beyond passive reading:
 
-1. Clone the example.
-2. Run it locally when it is meant to be runnable.
-3. Inspect the project structure.
-4. Change something and see what happens.
-5. Reuse the idea in their own project with fewer missing pieces.
+1. Open the live demo when one exists.
+2. Clone the example.
+3. Run it locally when it is meant to be runnable.
+4. Inspect the project structure.
+5. Change something and see what happens.
+6. Reuse the idea in their own project with fewer missing pieces.
 
 That last point matters most to me. Technical writing should help someone build a better mental model, but code often does that faster than another paragraph can.
 

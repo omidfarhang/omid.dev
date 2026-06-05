@@ -317,6 +317,7 @@
 .home-discovery-panel,
 .recent-posts.home-panel,
 .home-now.home-panel,
+.home-playground.home-panel,
 .contact-cta.home-panel {
     padding: 34px;
 }
@@ -539,6 +540,79 @@
     box-shadow: var(--shadow-lg);
 }
 
+/* Playground CTA */
+.home-playground-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.home-playground-header .section-title--compact {
+    margin-bottom: 0;
+}
+
+.home-playground-link {
+    flex-shrink: 0;
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: var(--accent);
+    text-decoration: none !important;
+    white-space: nowrap;
+}
+
+.home-playground-link:hover {
+    text-decoration: underline !important;
+}
+
+.home-playground-card {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 18px;
+    align-items: center;
+    padding: 24px;
+    background:
+        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 70%, var(--surface-tint-strong) 100%),
+        var(--theme);
+    border: 1px solid var(--accent-border-soft);
+    border-radius: var(--radius);
+}
+
+.home-playground-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: white;
+    font-size: 1rem;
+    box-shadow: var(--shadow-accent);
+}
+
+.home-playground-lede {
+    margin: 0;
+    color: var(--secondary);
+    font-size: 0.98rem;
+    line-height: 1.65;
+}
+
+.home-playground-card .button {
+    flex-shrink: 0;
+    background: var(--primary);
+    color: var(--theme) !important;
+    padding: 12px 24px;
+    font-size: 0.92rem;
+    font-weight: 700;
+}
+
+.home-playground-card .button:hover {
+    background: var(--accent);
+    color: white !important;
+}
+
 /* Contact CTA */
 .contact-cta {
     text-align: start;
@@ -632,8 +706,18 @@
     .home-discovery-panel,
     .recent-posts.home-panel,
     .home-now.home-panel,
+    .home-playground.home-panel,
     .contact-cta.home-panel {
         padding: 24px;
+    }
+
+    .home-playground-card {
+        grid-template-columns: 1fr;
+    }
+
+    .home-playground-header {
+        flex-direction: column;
+        align-items: flex-start;
     }
 
     .home-now-header {

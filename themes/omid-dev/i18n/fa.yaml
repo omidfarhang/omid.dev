@@ -116,6 +116,15 @@
 - id: home_life_eyebrow
   translation: "فراتر از مهندسی"
 
+- id: home_playground_eyebrow
+  translation: "دموهای زنده"
+
+- id: home_playground_link
+  translation: "باز کردن پلی‌گراند"
+
+- id: home_playground_cta
+  translation: "امتحان دموهای زنده"
+
 - id: latest_post
   translation: "جدیدترین"
 

@@ -120,6 +120,9 @@ languages:
         - name: Posts
           url: /posts
           weight: 1
+        - name: Playground
+          url: https://playground.omid.dev/
+          weight: 2
         - name: Resume
           url: /resume
           weight: 4
@@ -170,6 +173,9 @@ languages:
         - name: بلاگ
           url: /posts
           weight: 1
+        - name: پلی‌گراند
+          url: https://playground.omid.dev/
+          weight: 2
         - name: رزومه
           url: /resume
           weight: 4
@@ -220,11 +226,17 @@ languages:
         - name: Beiträge
           url: /posts
           weight: 1
+        - name: Playground
+          url: https://playground.omid.dev/
+          weight: 2
         - name: Lebenslauf
           url: /resume
           weight: 4
 
 params:
+  playground:
+    baseURL: https://playground.omid.dev
+    examplesPath: examples
   # Default Open Graph / Twitter Card image when a page has no cover or featured image
   images:
     - /images/bio-photo-150x150.jpg

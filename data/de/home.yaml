@@ -11,4 +11,7 @@ focusAreas:
     items: ["Architektur-Reviews", "Codebase-Modernisierung", "Frontend-Standards", "Migrationsplanung"]
   - category: "Engineering-Systeme"
     items: ["CI/CD-Optimierung", "Performance", "Teststrategie", "Developer Experience"]
+playground:
+  title: "Begleitprojekte direkt im Browser testen"
+  lede: "Ausgewaehlte technische Beitraege haben jetzt Live-Demos auf playground.omid.dev — oeffne das Beispiel, und lies danach den Artikel fuer den vollstaendigen Kontext."
 contactCta: "Gibt es ein ernsthaftes Problem in Frontend-Architektur, Angular-Plattformen, Migrationen oder Engineering-Systemen, das ein Gespraech wert ist?"

@@ -116,6 +116,15 @@
 - id: home_life_eyebrow
   translation: "Jenseits von Engineering"
 
+- id: home_playground_eyebrow
+  translation: "Live-Demos"
+
+- id: home_playground_link
+  translation: "Playground öffnen"
+
+- id: home_playground_cta
+  translation: "Live-Demos testen"
+
 - id: latest_post
   translation: "Neueste"
 

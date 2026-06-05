@@ -58,7 +58,9 @@
 {{- $demoSlug := .Get "demoSlug" | default (.Get "slug") -}}
 {{- $demoUrl := .Get "demoUrl" -}}
 {{- if and (not $demoUrl) $demoSlug -}}
-  {{- $demoUrl = printf "https://playground.omid.dev/examples/%s/" $demoSlug -}}
+  {{- $playgroundBase := site.Params.playground.baseURL | default "https://playground.omid.dev" -}}
+  {{- $examplesPath := site.Params.playground.examplesPath | default "examples" -}}
+  {{- $demoUrl = printf "%s/%s/%s/" (strings.TrimSuffix "/" $playgroundBase) $examplesPath $demoSlug -}}
 {{- end -}}
 
 {{- if or $sourceUrl $demoUrl -}}
