@@ -97,7 +97,7 @@ You'll be prompted to enter the name of your component. Type "my-button" and pre
 Open the generated component file (`src/components/my-button/my-button.tsx`) and define your component:
 
 ```tsx
-import { Component, Prop, h } from '@stencil/core';
+import { Component, Event, EventEmitter, Prop, h } from '@stencil/core';
 
 @Component({
   tag: 'my-button',
@@ -105,17 +105,25 @@ import { Component, Prop, h } from '@stencil/core';
   shadow: true,
 })
 export class MyButton {
-  @Prop() text: string;
+  @Prop() text = 'Click Me';
+
+  @Event() buttonClick: EventEmitter<void>;
+
+  private handleClick = () => {
+    this.buttonClick.emit();
+  };
 
   render() {
     return (
-      <button>
+      <button type="button" onClick={this.handleClick}>
         {this.text}
       </button>
     );
   }
 }
 ```
+
+The `@Event()` decorator exposes a DOM custom event named `buttonClick`. When the user clicks the button, Stencil emits that event so host applications (including Angular) can react to it.
 
 ### Step 3: Add Styles
 
@@ -221,10 +229,29 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 
 ### Step 4: Use the Custom Web Component in Your Angular Template
 
-Now you can use the custom Web Component in your Angular templates. Open the `app.component.html` file and add the following:
+Now you can use the custom Web Component in your Angular templates. Bind to the Stencil `buttonClick` event with Angular's event syntax—the event name matches the `@Event()` property in camelCase.
+
+In `app.component.html`:
 
 ```html
-<my-button text="Click Me"></my-button>
+<my-button text="Click Me" (buttonClick)="onButtonClick()"></my-button>
+@if (clickCount > 0) {
+  <p role="status">
+    Button clicked {{ clickCount }} time{{ clickCount === 1 ? '' : 's' }}.
+  </p>
+}
+```
+
+In `app.component.ts`, handle the event and track how many times the button was clicked:
+
+```typescript
+export class AppComponent {
+  clickCount = 0;
+
+  onButtonClick(): void {
+    this.clickCount += 1;
+  }
+}
 ```
 
 ### Step 5: Serve Your Angular Application
@@ -235,7 +262,7 @@ Serve your Angular application to see the custom Web Component in action:
 ng serve
 ```
 
-Open your browser and navigate to `http://localhost:4200`. You should see the custom button component rendered with the text "Click Me".
+Open your browser and navigate to `http://localhost:4200`. You should see the custom button with the text "Click Me". Each click increments the message below the button, showing how Angular listens to events from a Stencil-built custom element.
 
 ## References
 
@@ -244,7 +271,7 @@ Open your browser and navigate to `http://localhost:4200`. You should see the cu
 
 ## Conclusion
 
-In this guide, we covered how to create custom Web Components using Stencil.js and integrate them into an Angular application. Stencil.js provides a powerful and flexible way to build reusable components that can work across different frameworks, making it an excellent tool for modern web development.
+In this guide, we covered how to create custom Web Components using Stencil.js, emit custom events from them, and integrate them into an Angular application. Stencil.js provides a powerful and flexible way to build reusable components that can work across different frameworks, making it an excellent tool for modern web development.
 
 By leveraging the power of Stencil.js and Angular, you can create highly performant and reusable components that enhance the modularity and maintainability of your codebase. For more information on Stencil.js, visit the [official Stencil documentation](https://stenciljs.com/docs), and for Angular, check out the [official Angular documentation](https://angular.dev).
 
