@@ -5,6 +5,7 @@ description: "A practical guide to reducing flaky frontend tests by improving is
 layout: single
 author_profile: true
 url: 2026/06/08/why-your-frontend-tests-flake-and-how-to-fix-them-for-good/
+shortlink: https://g.omid.dev/8ECJvZO
 # x_link:
 # mastodon_link:
 # bluesky_link:

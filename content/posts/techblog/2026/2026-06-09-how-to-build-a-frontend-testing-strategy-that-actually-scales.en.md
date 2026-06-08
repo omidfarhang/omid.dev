@@ -5,6 +5,7 @@ description: "A practical frontend testing strategy for large teams: how to choo
 layout: single
 author_profile: true
 url: 2026/06/09/how-to-build-a-frontend-testing-strategy-that-actually-scales/
+shortlink: https://g.omid.dev/PUSlWc0
 # x_link:
 # mastodon_link:
 # bluesky_link:
