@@ -126,6 +126,17 @@ languages:
         - name: Resume
           url: /resume
           weight: 4
+    outputs:
+      home:
+        - HTML
+        - RSS
+        - JSON
+        - Sitemap
+        - SitemapPages
+        - SitemapPosts
+        - SitemapTaxonomies
+        - SitemapCategories
+        - SitemapTags
   # Persian
   fa:
     title: امید فرهنگ
@@ -179,6 +190,11 @@ languages:
         - name: رزومه
           url: /resume
           weight: 4
+    outputs:
+      home:
+        - HTML
+        - RSS
+        - JSON
   # German
   de:
     title: Omid Farhang
@@ -232,6 +248,11 @@ languages:
         - name: Lebenslauf
           url: /resume
           weight: 4
+    outputs:
+      home:
+        - HTML
+        - RSS
+        - JSON
 
 params:
   playground:
@@ -407,20 +428,54 @@ params:
   showtoc: true
   tocopen: false
 
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON 
+mediaTypes:
+  application/xml:
+    suffixes:
+      - xml
+
+outputFormats:
+  Sitemap:
+    mediaType: application/xml
+    baseName: sitemap
+    isPlainText: true
+    notAlternative: true
+  SitemapPages:
+    mediaType: application/xml
+    baseName: sitemap-pages
+    isPlainText: true
+    notAlternative: true
+  SitemapPosts:
+    mediaType: application/xml
+    baseName: sitemap-posts
+    isPlainText: true
+    notAlternative: true
+  SitemapTaxonomies:
+    mediaType: application/xml
+    baseName: sitemap-taxonomies
+    isPlainText: true
+    notAlternative: true
+  SitemapCategories:
+    mediaType: application/xml
+    baseName: sitemap-categories
+    isPlainText: true
+    notAlternative: true
+  SitemapTags:
+    mediaType: application/xml
+    baseName: sitemap-tags
+    isPlainText: true
+    notAlternative: true
+  SitemapPostsLang:
+    mediaType: application/xml
+    baseName: sitemap-posts
+    isPlainText: true
+    notAlternative: true
 
 services:
   rss:
     limit: 20
 
 sitemap:
-  disable: false
-  filename: sitemap.xml
-  priority: -1
+  disable: true
 
 enableRobotsTXT: true
 

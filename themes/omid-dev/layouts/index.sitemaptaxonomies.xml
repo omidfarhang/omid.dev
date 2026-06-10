@@ -1,0 +1,9 @@
+{{ partial "sitemap/xml-header.html" . }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ "sitemap-categories.xml" | absURL }}</loc>
+  </sitemap>
+  <sitemap>
+    <loc>{{ "sitemap-tags.xml" | absURL }}</loc>
+  </sitemap>
+</sitemapindex>
