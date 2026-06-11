@@ -18,14 +18,14 @@
         </div>
         {{- end }}
       </div>
-      <div class="uses-hero-card page-hero-card">
-        <div class="page-metadata">
-          <span class="meta-badge">
+      <div class="uses-hero-card panel panel--hero page-hero-card">
+        <div class="chip-group page-metadata">
+          <span class="chip chip--pill">
             <i class="fa-solid fa-clock-rotate-left"></i>
             {{ i18n "last_updated" }}: {{ hugo.Data.uses.date }}
           </span>
           {{- if hugo.Data.uses.location }}
-          <span class="meta-location">
+          <span class="chip chip--pill">
             <i class="fa-solid fa-location-dot"></i>
             {{ hugo.Data.uses.location }}
           </span>

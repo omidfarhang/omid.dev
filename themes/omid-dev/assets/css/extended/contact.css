@@ -188,55 +188,15 @@
     color: var(--border);
 }
 
-/* Contact Form Styles */
-.contact-form {
+/* Contact Form — composes with .panel.panel--form */
+.contact-form.panel--form {
     display: flex;
     flex-direction: column;
     gap: 1rem;
     min-height: 100%;
-    padding: 28px;
     background:
         linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 80%, var(--surface-tint) 100%),
         var(--theme);
-    border-color: var(--accent-border-soft);
-    border: 1px solid var(--border);
-    border-radius: calc(var(--radius) * 2);
-    box-shadow: var(--shadow-sm);
-}
-
-.form-group {
-    display: flex;
-    flex-direction: column;
-}
-
-.form-input,
-.form-textarea {
-    width: 100%;
-    padding: 0.95rem 1rem;
-    color: var(--primary);
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    font-family: inherit;
-    font-size: 0.98rem;
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
-}
-
-.form-input::placeholder,
-.form-textarea::placeholder {
-    color: var(--secondary);
-}
-
-.form-input:focus,
-.form-textarea:focus {
-    outline: none;
-    border-color: var(--accent);
-    box-shadow: var(--focus-ring);
-}
-
-.form-textarea {
-    min-height: 210px;
-    resize: vertical;
 }
 
 .contact-form .btn {
@@ -251,37 +211,12 @@
     transform: scaleX(-1);
 }
 
-.form-status {
-    min-height: 1.2em;
-    margin-top: 0.25rem;
-    font-size: 0.9rem;
-    font-weight: 700;
-}
-
-.form-status.success {
-    color: #16a34a;
-}
-
-.form-status.error {
-    color: #dc2626;
-}
-
 /* QR Section */
-.qr-container {
-    display: grid;
-    gap: 18px;
-    padding: 22px;
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: calc(var(--radius) * 1.5);
-    box-shadow: var(--shadow-sm);
-}
-
 .qr-code {
     justify-self: start;
     padding: 10px;
     background: white;
-    border-radius: 12px;
+    border-radius: var(--radius-lg);
     box-shadow: var(--shadow-sm);
 }
 

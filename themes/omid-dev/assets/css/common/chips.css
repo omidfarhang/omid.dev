@@ -1,0 +1,149 @@
+/* Chip / tag / badge design system */
+
+.chip-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    border-radius: var(--radius-pill);
+    font-weight: 600;
+    line-height: 1.2;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        color 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.chip--default {
+    padding: 7px 10px;
+    color: var(--secondary);
+    background: var(--quaternary);
+    border-color: var(--border);
+    font-size: 0.82rem;
+    font-weight: 700;
+}
+
+.chip--pill {
+    padding: 8px 14px;
+    color: var(--primary);
+    background: var(--theme);
+    border-color: var(--border);
+    font-size: 0.82rem;
+    box-shadow: var(--shadow-sm);
+}
+
+.chip--pill:hover {
+    color: var(--accent);
+    background: var(--quaternary);
+    border-color: var(--accent);
+}
+
+.chip--tag {
+    padding: 0 12px;
+    color: var(--secondary);
+    background: var(--entry);
+    border-color: var(--border);
+    border-radius: var(--radius);
+    font-size: 0.8125rem;
+    line-height: 30px;
+}
+
+.chip--tag::before {
+    content: "#";
+    margin-inline-end: 4px;
+    font-weight: 600;
+    opacity: 0.7;
+}
+
+.chip--tag:hover {
+    color: var(--accent);
+    background: var(--accent-light);
+    border-color: var(--accent);
+}
+
+.chip--sm {
+    padding: 0.3rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border-radius: var(--radius);
+}
+
+.chip--accent {
+    padding: 6px 12px;
+    color: var(--theme);
+    background: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.chip__count {
+    padding: 2px 8px;
+    color: var(--theme);
+    background: var(--content);
+    border-radius: 10px;
+    font-size: 0.75rem;
+    opacity: 0.8;
+}
+
+.chip--pill:hover .chip__count,
+.chip--terms:hover .chip__count {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    opacity: 1;
+}
+
+.chip--terms {
+    padding: 8px 16px;
+    gap: 8px;
+    color: var(--primary);
+    background: var(--tertiary);
+    font-size: 0.95rem;
+    font-weight: 500;
+    box-shadow: var(--shadow-sm);
+}
+
+.chip--terms:hover {
+    color: white !important;
+    background: var(--accent);
+    box-shadow: var(--shadow-md);
+}
+
+.chip i {
+    color: var(--accent);
+    opacity: 0.9;
+}
+
+.chip--accent i,
+.chip--terms:hover i {
+    color: inherit;
+    opacity: 1;
+}
+
+.chip--text {
+    padding: 0;
+    color: var(--secondary);
+    background: none;
+    border: none;
+    border-radius: 0;
+    font-size: 0.86rem;
+    font-weight: 500;
+    white-space: normal;
+}
+
+.chip--text::before {
+    color: var(--accent);
+    content: "#";
+    margin-inline-end: 2px;
+}

@@ -58,3 +58,80 @@
     right: 0;
     left: auto;
 }
+
+/* Kicker / eyebrow labels */
+.section-kicker,
+.section-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0 0 10px;
+    color: var(--accent);
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.section-kicker::before,
+.section-eyebrow::before {
+    content: "";
+    width: 22px;
+    height: 2px;
+    background: var(--accent);
+    border-radius: var(--radius-pill);
+    flex-shrink: 0;
+}
+
+.section-kicker--subtle {
+    color: var(--secondary);
+    font-size: 0.74rem;
+    letter-spacing: 0.08em;
+}
+
+.section-kicker--subtle::before {
+    content: none;
+}
+
+.section-title--sidebar {
+    margin: 0;
+    padding: 20px 22px 18px;
+    text-align: start;
+    font-size: 1.15rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.section-title--sidebar::after {
+    content: none;
+}
+
+.section-title--page {
+    font-size: 1.5rem;
+    margin-bottom: 28px;
+    text-align: start;
+    padding-bottom: 12px;
+    position: relative;
+    color: var(--primary);
+    font-weight: 800;
+}
+
+.section-title--page::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    inset-inline-start: 0;
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    border-radius: 10px;
+}
+
+[dir="rtl"] .section-eyebrow,
+[dir="rtl"] .section-kicker {
+    letter-spacing: normal;
+}
+
+[dir="rtl"] .section-title--page::after {
+    right: 0;
+    left: auto;
+}

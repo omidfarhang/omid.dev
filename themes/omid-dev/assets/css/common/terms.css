@@ -39,23 +39,6 @@
     box-shadow: var(--shadow-sm);
 }
 
-#terms-search {
-    width: 100%;
-    padding: 12px 20px;
-    font-size: 1rem;
-    border: 2px solid var(--border);
-    border-radius: 25px;
-    background: var(--theme);
-    color: var(--primary);
-    transition: all 0.3s;
-    outline: none;
-}
-
-#terms-search:focus {
-    border-color: var(--accent);
-    box-shadow: var(--focus-ring);
-}
-
 #view-alphabetical, #view-count {
     animation: fadeIn 0.3s ease-in-out;
 }
@@ -128,42 +111,4 @@
 .terms-tags li {
     margin: 8px;
     font-weight: 500;
-}
-
-.terms-tags a {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 8px 16px;
-    background: var(--tertiary);
-    border-radius: 20px;
-    transition: all 0.3s ease;
-    box-shadow: var(--shadow-sm);
-    font-size: 0.95rem;
-}
-
-.term-count {
-    background: var(--content);
-    color: var(--theme);
-    font-size: 0.75rem;
-    padding: 2px 8px;
-    border-radius: 10px;
-    opacity: 0.8;
-}
-
-.terms-tags a:hover {
-    background: var(--accent);
-    color: white !important;
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
-}
-
-.terms-tags a:hover .term-count {
-    background: rgba(255, 255, 255, 0.2);
-    color: white;
-    opacity: 1;
-}
-
-.terms-tags a:active {
-    transform: translateY(0);
 }

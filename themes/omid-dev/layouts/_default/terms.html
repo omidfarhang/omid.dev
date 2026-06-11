@@ -18,7 +18,7 @@
 {{- if $terms }}
 <div class="terms-controls">
     <div class="terms-search-wrapper">
-        <input type="text" id="terms-search" placeholder="Filter {{ .Type }}..." aria-label="Filter {{ .Type }}">
+        <input type="text" id="terms-search" class="input input--pill" placeholder="Filter {{ .Type }}..." aria-label="Filter {{ .Type }}">
     </div>
     <div class="terms-sort-wrapper">
         <button id="sort-alphabetical" class="active" title="Sort Alphabetically">A-Z</button>
@@ -58,8 +58,8 @@
                         {{- $count := .Count -}}
                         {{- with site.GetPage (printf "/%s/%s" $type $name) -}}
                         <li>
-                            <a href="{{ .Permalink }}">
-                                {{ .Name }} <span class="term-count">{{ $count }}</span>
+                            <a href="{{ .Permalink }}" class="chip chip--terms">
+                                {{ .Name }} <span class="chip__count">{{ $count }}</span>
                             </a>
                         </li>
                         {{- end -}}
@@ -78,8 +78,8 @@
             {{- $count := .Count -}}
             {{- with site.GetPage (printf "/%s/%s" $type $name) -}}
             <li>
-                <a href="{{ .Permalink }}">
-                    {{ .Name }} <span class="term-count">{{ $count }}</span>
+                <a href="{{ .Permalink }}" class="chip chip--terms">
+                    {{ .Name }} <span class="chip__count">{{ $count }}</span>
                 </a>
             </li>
             {{- end -}}

@@ -331,24 +331,6 @@
     margin-top: 1.5rem;
 }
 
-.tech-tag {
-    background: var(--quaternary);
-    color: var(--primary);
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    border: 1px solid var(--border);
-    transition: all 0.2s ease;
-}
-
-.tech-tag:hover {
-    background: var(--accent);
-    color: #fff;
-    border-color: var(--accent);
-    transform: translateY(-2px);
-}
-
 /* Sidebar Styles */
 .sidebar-section {
     background: var(--quaternary);
@@ -387,29 +369,6 @@
     letter-spacing: 0.05em;
 }
 
-.sidebar-skill-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-}
-
-.sidebar-skill-tag {
-    background: var(--theme);
-    color: var(--primary);
-    padding: 0.3rem 0.75rem;
-    border-radius: 6px;
-    font-size: 0.8rem;
-    font-weight: 500;
-    border: 1px solid var(--border);
-    transition: all 0.2s ease;
-}
-
-.sidebar-skill-tag:hover {
-    border-color: var(--accent);
-    color: var(--accent);
-    transform: scale(1.05);
-}
-
 .sidebar-cert-item {
     margin-bottom: 1.25rem;
     padding-bottom: 1.25rem;
@@ -445,8 +404,7 @@ body:lang(fa) h1,
 body:lang(fa) h2,
 body:lang(fa) h3,
 body:lang(fa) h4,
-body:lang(fa) .tech-tag,
-body:lang(fa) .sidebar-skill-tag,
+body:lang(fa) .chip,
 body:lang(fa) .period {
     letter-spacing: normal !important;
     text-transform: none !important;

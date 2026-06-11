@@ -57,26 +57,14 @@
 }
 
 .recommendation-card {
-    background: var(--entry);
-    border-radius: 12px;
-    padding: 24px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s ease-in-out;
-    display: flex;
-    flex-direction: column;
-    border: 1px solid var(--border);
-    flex: 0 0 calc(50% - 10px); /* Show 2 cards */
-    min-width: 0; /* Allow shrinking */
+    flex: 0 0 calc(50% - 10px);
+    min-width: 0;
 }
 
 @media screen and (max-width: 768px) {
     .recommendation-card {
         flex: 0 0 100%;
     }
-}
-
-.recommendation-card:hover {
-    transform: translateY(-5px);
 }
 
 .recommendation-header {

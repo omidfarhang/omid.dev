@@ -12,7 +12,7 @@
         {{- end }}
       </div>
 
-      <div class="about-profile-card page-hero-card">
+      <div class="about-profile-card panel panel--hero page-hero-card">
         <div class="profile-photo-wrapper">
           <img src="{{ "images/bio-photo.jpg" | relURL }}" alt="{{ $resume.name }}" class="profile-photo">
         </div>
@@ -55,12 +55,12 @@
 
   <div class="post-content about-page-content">
     <div class="about-me-container">
-      <article class="about-me-content">
+      <article class="about-me-content panel">
         {{ .Content }}
       </article>
 
       <aside class="about-me-sidebar">
-        <section class="about-side-card resume-cta">
+        <section class="panel about-side-card resume-cta">
           <h2 class="section-title section-title--rule">{{ T "resume" | default "Resume" }}</h2>
           <p>{{ T "resume_cta_desc" | default "View my full professional history or download the PDF version for offline reading." }}</p>
           <div class="btn-group btn-group--column">
@@ -83,15 +83,15 @@
         </section>
 
         {{- with $resume.skills }}
-        <section class="about-side-card about-skills-card">
+        <section class="panel about-side-card about-skills-card">
           <h2 class="section-title section-title--rule">{{ T "skills" | default "Skills" }}</h2>
           <div class="about-skill-groups">
             {{- range first 3 . }}
             <div class="about-skill-group">
               <h3>{{ .category }}</h3>
-              <div class="about-skill-tags">
+              <div class="chip-group about-skill-tags">
                 {{- range first 5 .items }}
-                <span>{{ . }}</span>
+                <span class="chip chip--pill">{{ . }}</span>
                 {{- end }}
               </div>
             </div>

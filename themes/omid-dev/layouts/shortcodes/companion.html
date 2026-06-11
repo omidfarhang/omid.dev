@@ -90,12 +90,12 @@
   {{- end -}}
   {{- $icon := .Get "icon" | default "fa-solid fa-cubes-stacked" -}}
 
-<aside class="companion-card">
-  <span class="companion-card__icon" aria-hidden="true">
+<aside class="card card--accent companion-card">
+  <span class="icon-circle icon-circle--lg icon-circle--gradient companion-card__icon" aria-hidden="true">
     <i class="{{ $icon }}"></i>
   </span>
   <span class="companion-card__content">
-    <span class="companion-card__eyebrow">{{ $eyebrow }}</span>
+    <span class="section-kicker companion-card__eyebrow">{{ $eyebrow }}</span>
     <strong class="companion-card__title">{{ $title }}</strong>
     <span class="companion-card__description">{{ $description }}</span>
     {{- with $display }}

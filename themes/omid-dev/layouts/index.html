@@ -8,7 +8,7 @@
     {{- $home := index hugo.Data .Language.Lang "home" }}
     {{- $now := index hugo.Data .Language.Lang "now" }}
 
-    <section class="home-section home-identity-panel">
+    <section class="home-section home-identity-panel panel panel--tinted panel--xl">
         <div class="identity-about">
             <p class="section-eyebrow">{{ i18n "home_about_eyebrow" }}</p>
             {{- if .Content }}
@@ -38,9 +38,9 @@
                 {{- range $home.focusAreas }}
                 <div class="focus-card">
                     <h3>{{ .category }}</h3>
-                    <div class="focus-tags">
+                    <div class="chip-group focus-tags">
                         {{- range .items }}
-                        <span>{{ . }}</span>
+                        <span class="chip chip--text">{{ . }}</span>
                         {{- end }}
                     </div>
                 </div>
@@ -51,7 +51,7 @@
     </section>
 
     {{- if $now.focuses }}
-    <section class="home-section home-now home-panel">
+    <section class="home-section home-now panel panel--tinted panel--xl">
         <div class="home-now-header">
             <h2 class="section-title section-title--compact">{{ i18n "home_now_title" }}</h2>
             {{- with site.GetPage "now" }}
@@ -60,8 +60,8 @@
         </div>
         <div class="now-cards">
             {{- range first 4 $now.focuses }}
-            <article class="now-card">
-                <div class="now-card-icon" aria-hidden="true">
+            <article class="card card--interactive card--horizontal card--tinted card--now now-card">
+                <div class="icon-circle icon-circle--sm now-card-icon" aria-hidden="true">
                     <i class="{{ .icon | default "fa-solid fa-circle-dot" }}"></i>
                 </div>
                 <div class="now-card-body">
@@ -81,7 +81,7 @@
     {{- if gt (len $latest_posts) 0 }}
     {{- $featured := index $latest_posts 0 }}
     {{- $more_posts := after 1 $latest_posts }}
-    <section class="home-section recent-posts home-panel">
+    <section class="home-section recent-posts panel panel--tinted panel--xl">
         <h2 class="section-title section-title--underline">{{ i18n "recent_posts" }}</h2>
 
         <div class="posts-showcase">
@@ -108,7 +108,7 @@
     {{- $playground := $home.playground }}
     {{- $playgroundUrl := site.Params.playground.baseURL | default "https://playground.omid.dev" }}
     {{- if $playground }}
-    <section class="home-section home-playground home-panel">
+    <section class="home-section home-playground panel panel--tinted panel--xl">
         <div class="home-playground-header">
             <div>
                 <p class="section-eyebrow">{{ i18n "home_playground_eyebrow" }}</p>
@@ -118,8 +118,8 @@
                 {{ if eq .Language.Direction "rtl" }}← {{ i18n "home_playground_link" }}{{ else }}{{ i18n "home_playground_link" }} →{{ end }}
             </a>
         </div>
-        <div class="home-playground-card">
-            <div class="home-playground-icon" aria-hidden="true">
+        <div class="home-playground-card panel panel--accent">
+            <div class="icon-circle icon-circle--sm icon-circle--filled home-playground-icon" aria-hidden="true">
                 <i class="fa-solid fa-play"></i>
             </div>
             <p class="home-playground-lede">{{ $playground.lede }}</p>
@@ -139,7 +139,7 @@
     {{- end }}
 
     <div class="home-section home-discovery-grid">
-    <div class="home-panel home-discovery-panel">
+    <div class="panel panel--tinted panel--xl home-panel home-discovery-panel">
     {{- partial "tech_topics_grid.html" (dict
         "showFeatured" false
         "home" true
@@ -160,14 +160,14 @@
         {{- end }}
     {{- end }}
     {{- if $hasOtherTopics }}
-    <section class="life-section home-panel home-discovery-panel">
+    <section class="life-section panel panel--tinted panel--xl home-panel home-discovery-panel">
         <p class="section-eyebrow">{{ i18n "home_life_eyebrow" }}</p>
         <h2 class="section-title section-title--compact">{{ i18n "life_interests" }}</h2>
         <div class="life-links-home">
             {{- range $postsSection.Sections }}
             {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
-            <a href="{{ .Permalink }}" class="life-link-home">
-                <span class="life-link-home-icon">
+            <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link-home">
+                <span class="icon-circle icon-circle--sm life-link-home-icon">
                     {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
                     {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
                     {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
@@ -187,9 +187,9 @@
     {{- end }}
     </div>
 
-    <section class="home-section contact-cta home-panel">
+    <section class="home-section contact-cta panel panel--tinted panel--xl">
         <h2 class="section-title section-title--underline">{{ i18n "contact" }}</h2>
-        <div class="contact-card">
+        <div class="contact-card panel panel--accent">
             <p>{{ $home.contactCta }}</p>
             <a href="{{ "contact-me" | relLangURL }}" class="btn btn--primary">
                 <span class="btn-inner">{{ i18n "contact" }}</span>

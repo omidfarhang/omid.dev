@@ -65,20 +65,20 @@
       {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
       {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
     </div>
-    <aside class="blog-index-sidebar" aria-labelledby="blog-index-sidebar-title">
-      <h2 id="blog-index-sidebar-title" class="section-title">{{ i18n "browse_categories" }}</h2>
+    <aside class="panel panel--tinted blog-index-sidebar" aria-labelledby="blog-index-sidebar-title">
+      <h2 id="blog-index-sidebar-title" class="section-title section-title--sidebar">{{ i18n "browse_categories" }}</h2>
     {{- if $techSection }}
-    <a href="{{ $techSection.Permalink }}" class="tech-focus-card">
-      <span class="tech-focus-icon"><i class="fa-solid fa-laptop-code"></i></span>
-      <span class="tech-focus-content">
-        <span class="tech-focus-kicker">{{ i18n "tech_topics" }}</span>
+    <a href="{{ $techSection.Permalink }}" class="card card--interactive card--horizontal card--promo tech-focus-card">
+      <span class="icon-circle icon-circle--sm icon-circle--filled tech-focus-icon"><i class="fa-solid fa-laptop-code"></i></span>
+      <span class="card--promo-content tech-focus-content">
+        <span class="section-kicker section-kicker--subtle tech-focus-kicker">{{ i18n "tech_topics" }}</span>
         <span class="tech-focus-title">{{ $techSection.Title }}</span>
         {{- with $techSection.Description }}
         <span class="tech-focus-desc">{{ . }}</span>
         {{- else }}
         <span class="tech-focus-desc">{{ $techSection.Content | plainify | truncate 120 }}</span>
         {{- end }}
-        <span class="tech-focus-meta">{{ T "all" }} {{ len $techSection.RegularPagesRecursive }} {{ T "posts" }} →</span>
+        <span class="card__cta tech-focus-meta">{{ T "all" }} {{ len $techSection.RegularPagesRecursive }} {{ T "posts" }} →</span>
       </span>
     </a>
     {{- end }}
@@ -95,8 +95,8 @@
       <h3 class="topics-subtitle">{{ i18n "life_interests" }}</h3>
       {{- range $postsSection.Sections }}
       {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
-      <a href="{{ .Permalink }}" class="life-link">
-        <span class="life-link-icon">
+      <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link">
+        <span class="icon-circle icon-circle--xs life-link-icon">
           {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
           {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
           {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
@@ -125,12 +125,12 @@
 {{- end }}
 
 {{- if and $postsSection (not $isPostsRoot) }}
-<nav class="posts-section-nav" aria-label="{{ i18n "browse_categories" }}">
+<nav class="posts-section-nav panel panel--tinted" aria-label="{{ i18n "browse_categories" }}">
   <span class="posts-section-nav-label">{{ i18n "also_see" }}:</span>
-  <a href="{{ $postsSection.Permalink }}" class="posts-section-nav-link">{{ i18n "all" }}</a>
+  <a href="{{ $postsSection.Permalink }}" class="chip chip--pill">{{ i18n "all" }}</a>
   {{- range $postsSection.Sections }}
   {{- if ne .Title $.Title }}
-  <a href="{{ .Permalink }}" class="posts-section-nav-link">{{ .Title }}</a>
+  <a href="{{ .Permalink }}" class="chip chip--pill">{{ .Title }}</a>
   {{- end }}
   {{- end }}
 </nav>

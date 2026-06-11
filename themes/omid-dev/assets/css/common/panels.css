@@ -1,0 +1,55 @@
+/* Surface panel design system */
+
+.panel {
+    box-sizing: border-box;
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+}
+
+.panel--tinted {
+    background:
+        linear-gradient(145deg, var(--theme) 0%, var(--surface-tint) 100%),
+        var(--theme);
+    border-color: var(--accent-border-soft);
+}
+
+.panel--hero {
+    padding: 18px;
+    background: rgba(var(--theme-rgb), 0.72);
+    border-color: var(--accent-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    backdrop-filter: blur(10px);
+}
+
+.panel--accent {
+    background:
+        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 70%, var(--surface-tint-strong) 100%),
+        var(--theme);
+    border-color: var(--accent-border-soft);
+}
+
+.panel--xl {
+    border-radius: var(--radius-xl);
+}
+
+.panel--form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    padding: 28px;
+    background:
+        linear-gradient(145deg, var(--theme) 0%, var(--surface-tint) 100%),
+        var(--theme);
+    border-color: var(--accent-border-soft);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-sm);
+}
+
+.panel--qr {
+    display: grid;
+    gap: 18px;
+    padding: 22px;
+}

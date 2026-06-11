@@ -19,15 +19,15 @@
         </div>
         {{- end }}
       </div>
-      <div class="now-hero-card page-hero-card">
+      <div class="now-hero-card panel panel--hero page-hero-card">
         <p class="now-status-text">{{ $now.status | markdownify }}</p>
-        <div class="page-metadata">
-          <span class="meta-badge">
+        <div class="chip-group page-metadata">
+          <span class="chip chip--pill">
             <i class="fa-solid fa-clock-rotate-left"></i>
             {{ i18n "last_updated" }}: {{ $now.last_updated }}
           </span>
           {{- if $now.location }}
-          <span class="meta-location">
+          <span class="chip chip--pill">
             <i class="fa-solid fa-location-dot"></i>
             {{ $now.location }}
           </span>

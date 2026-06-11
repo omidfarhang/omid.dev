@@ -62,40 +62,6 @@
     margin-bottom: 0;
 }
 
-.page-hero-card {
-    padding: 18px;
-    background: rgba(var(--theme-rgb), 0.72);
-    border: 1px solid var(--accent-border);
-    border-radius: calc(var(--radius) * 1.5);
-    box-shadow: var(--shadow-md);
-    backdrop-filter: blur(10px);
-}
-
-.section-eyebrow {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    margin: 0 0 10px;
-    color: var(--accent);
-    font-size: 0.82rem;
-    font-weight: 800;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-}
-
-.section-eyebrow::before {
-    content: "";
-    width: 22px;
-    height: 2px;
-    background: var(--accent);
-    border-radius: 999px;
-    flex-shrink: 0;
-}
-
-[dir="rtl"] .section-eyebrow {
-    letter-spacing: normal;
-}
-
 @media screen and (max-width: 900px) {
     .page-hero-inner {
         grid-template-columns: 1fr;

@@ -116,17 +116,13 @@
   align-items: start;
 }
 
-.about-me-content,
-.about-side-card {
-  background: var(--theme);
-  border: 1px solid var(--border);
-  border-radius: calc(var(--radius) * 1.5);
-  box-shadow: var(--shadow-sm);
-}
-
 .about-me-content {
   padding: 34px;
   color: var(--content);
+}
+
+.about-me-sidebar .panel {
+  padding: 24px;
 }
 
 .about-me-content > :first-child {
@@ -185,23 +181,6 @@
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-}
-
-.about-skill-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.about-skill-tags span {
-  display: inline-flex;
-  padding: 7px 10px;
-  color: var(--secondary);
-  background: var(--quaternary);
-  border: 1px solid transparent;
-  border-radius: 999px;
-  font-size: 0.82rem;
-  font-weight: 700;
 }
 
 .about-page .resume-cta {

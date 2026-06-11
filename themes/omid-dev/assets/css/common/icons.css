@@ -1,0 +1,73 @@
+/* Icon circle design system */
+
+.icon-circle {
+    display: inline-flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1px solid var(--accent-border-soft);
+    background: var(--accent-light);
+    color: var(--accent);
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        color 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.icon-circle--xs {
+    width: var(--icon-xs);
+    height: var(--icon-xs);
+    font-size: 0.75rem;
+}
+
+.icon-circle--sm {
+    width: var(--icon-sm);
+    height: var(--icon-sm);
+    font-size: 1rem;
+}
+
+.icon-circle--md {
+    width: var(--icon-md);
+    height: var(--icon-md);
+    font-size: 1.4rem;
+}
+
+.icon-circle--lg {
+    width: var(--icon-lg);
+    height: var(--icon-lg);
+    font-size: 1.35rem;
+}
+
+.icon-circle--filled {
+    color: var(--theme);
+    background: var(--accent);
+    border-color: var(--accent);
+}
+
+.icon-circle--gradient {
+    color: var(--theme);
+    background: linear-gradient(135deg, var(--accent), color-mix(in srgb, var(--accent) 58%, #22c55e));
+    border: none;
+    border-radius: 18px;
+    box-shadow: var(--shadow-accent);
+}
+
+.icon-circle--ghost {
+    background: transparent;
+    border: 2px dashed var(--border);
+}
+
+.card--interactive:hover .icon-circle:not(.icon-circle--filled):not(.icon-circle--gradient) {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: white;
+}
+
+.card--dashed:hover .icon-circle--ghost {
+    background: var(--accent);
+    border-color: var(--accent);
+    border-style: solid;
+    color: white;
+}

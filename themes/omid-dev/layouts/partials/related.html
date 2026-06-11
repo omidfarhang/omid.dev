@@ -4,7 +4,7 @@
     <h3 class="related-title">{{ i18n "related_posts" | default "Related Posts" }}</h3>
     <div class="related-grid">
         {{- range . }}
-        <a class="related-card" href="{{ .Permalink }}">
+        <a class="related-card card card--interactive card--related" href="{{ .Permalink }}">
             <div class="related-card-content">
                 <h4 class="related-card-title">{{ .Title }}</h4>
                 {{- if .Date }}

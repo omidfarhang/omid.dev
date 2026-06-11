@@ -23,8 +23,8 @@
 {{- end }}
 
   {{- if $showFeatured }}
-  <a href="{{ $techSection.Permalink }}" class="tech-blog-featured">
-    <div class="topic-icon">
+  <a href="{{ $techSection.Permalink }}" class="card card--interactive card--horizontal card--accent tech-blog-featured">
+    <div class="icon-circle icon-circle--md">
       <i class="fa-solid fa-laptop-code"></i>
     </div>
     <div class="tech-blog-featured-text">
@@ -34,7 +34,7 @@
       {{- else }}
       <p class="tech-blog-featured-desc">{{ $techSection.Content | plainify | truncate 160 }}</p>
       {{- end }}
-      <p class="tech-blog-featured-meta">{{ T "all" }} {{ len $techPosts }} {{ T "posts" }} →</p>
+      <p class="card__cta tech-blog-featured-meta">{{ T "all" }} {{ len $techPosts }} {{ T "posts" }} →</p>
     </div>
   </a>
   {{- end }}
@@ -49,8 +49,8 @@
     {{- if $tagPage }}
       {{- $tagPages = intersect $tagPage.Pages $techPosts }}
     {{- end }}
-    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="topic-card topic-card--core">
-      <div class="topic-icon">
+    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic card--accent">
+      <div class="icon-circle icon-circle--md">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
       <h3>{{ $tagName }}</h3>
@@ -94,8 +94,8 @@
       {{- $tagPages = intersect $tagPage.Pages $techPosts }}
     {{- end }}
     {{- if or (gt (len $tagPages) 0) $.home $compact }}
-    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="topic-card">
-      <div class="topic-icon">
+    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic">
+      <div class="icon-circle icon-circle--md">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
       <h3>{{ $tagName }}</h3>
@@ -109,8 +109,8 @@
     {{- end }}
     {{- end }}
     {{- if and $isTechnicalGroup $techSection }}
-    <a href="{{ $techSection.Permalink }}" class="topic-card topic-card-all">
-      <div class="topic-icon">
+    <a href="{{ $techSection.Permalink }}" class="card card--interactive card--topic card--dashed">
+      <div class="icon-circle icon-circle--md icon-circle--ghost">
         <i class="fa-solid fa-table-cells"></i>
       </div>
       <h3>{{ i18n "all" }}</h3>

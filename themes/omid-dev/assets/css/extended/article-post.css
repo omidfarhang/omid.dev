@@ -343,23 +343,8 @@
         radial-gradient(circle at top left, color-mix(in srgb, var(--accent) 20%, transparent) 0, transparent 34%),
         linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 58%, var(--surface-tint) 100%),
         var(--theme);
-    border: 1px solid var(--accent-border-soft);
     border-inline-start: 4px solid var(--accent);
     border-radius: calc(var(--radius) * 1.8);
-    box-shadow: var(--shadow-sm);
-}
-
-.companion-card__icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 54px;
-    height: 54px;
-    color: var(--theme);
-    background: linear-gradient(135deg, var(--accent), color-mix(in srgb, var(--accent) 58%, #22c55e));
-    border-radius: 18px;
-    box-shadow: var(--shadow-accent);
-    font-size: 1.35rem;
 }
 
 .companion-card__content {
@@ -367,15 +352,6 @@
     min-width: 0;
     flex-direction: column;
     gap: 5px;
-}
-
-.companion-card__eyebrow {
-    color: var(--accent);
-    font-size: 0.74rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    line-height: 1.2;
-    text-transform: uppercase;
 }
 
 .companion-card__title {

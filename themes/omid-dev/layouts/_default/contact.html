@@ -16,7 +16,7 @@
         {{- end }}
       </div>
 
-      <div class="contact-hero-card page-hero-card" aria-label="{{ i18n "direct_contact" }}">
+      <div class="contact-hero-card panel panel--hero page-hero-card" aria-label="{{ i18n "direct_contact" }}">
         {{- if site.Params.footer.contactEmail }}
         <a href="mailto:{{ site.Params.footer.contactEmail }}" class="btn btn--secondary btn--sm">
           <i class="fa-solid fa-envelope"></i>
@@ -53,18 +53,18 @@
     <div class="contact-layout">
       <section class="contact-methods-section contact-form-section">
         <h2 class="section-title section-title--rule">{{ i18n "send_message" }}</h2>
-        <form id="contact-form" class="contact-form">
+        <form id="contact-form" class="contact-form panel panel--form">
           <div class="form-group" style="display: none;">
             <input name="honeypot" tabindex="-1" autocomplete="off" />
           </div>
           <div class="form-group">
-            <input name="name" required placeholder="{{ i18n "name" }}" class="form-input" />
+            <input name="name" required placeholder="{{ i18n "name" }}" class="input" />
           </div>
           <div class="form-group">
-            <input name="email" type="email" required placeholder="{{ i18n "email" }}" class="form-input" />
+            <input name="email" type="email" required placeholder="{{ i18n "email" }}" class="input" />
           </div>
           <div class="form-group">
-            <textarea name="message" required placeholder="{{ i18n "message" }}" class="form-textarea"></textarea>
+            <textarea name="message" required placeholder="{{ i18n "message" }}" class="input input--textarea"></textarea>
           </div>
           {{- if site.Params.turnstile.siteKey }}
           <div class="form-group">
@@ -82,7 +82,7 @@
       <aside class="contact-side-panel">
         <section class="contact-methods-section qr-section">
           <h2 class="section-title section-title--rule">{{ i18n "save_contact" }}</h2>
-          <div class="qr-container">
+          <div class="qr-container panel panel--qr">
             <div class="qr-code">
               {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
               <img src="{{ "images/qr-contact.png" | relURL }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />

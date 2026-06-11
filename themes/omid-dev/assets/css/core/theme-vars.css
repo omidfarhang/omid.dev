@@ -6,6 +6,14 @@
     --header-height: 40px;
     --footer-height: 60px;
     --radius: 8px;
+    --radius-pill: 999px;
+    --radius-lg: calc(var(--radius) * 1.5);
+    --radius-xl: calc(var(--radius) * 2);
+    --icon-xs: 24px;
+    --icon-sm: 40px;
+    --icon-md: 52px;
+    --icon-lg: 54px;
+    --lift-hover: -2px;
     --theme: #ffffff;
     --theme-rgb: 255, 255, 255;
     --entry: #ffffff;
