@@ -105,8 +105,9 @@
     overflow: hidden;
 }
 
-.home-panel:not(.home-identity-panel) {
-    padding: 28px;
+.home-content .home-section.panel:not(.home-identity-panel),
+.home-content .home-panel.panel {
+    padding: 34px;
 }
 
 .home-identity-panel::before {
@@ -226,16 +227,30 @@
     align-items: start;
 }
 
-.home-discovery-panel,
-.recent-posts.home-panel,
-.home-now.home-panel,
-.home-playground.home-panel,
-.contact-cta.home-panel {
-    padding: 34px;
-}
-
 .home-discovery-panel .tech-topics-section {
     margin: 0;
+}
+
+.home-discovery-panel .section-title--centered {
+    text-align: start;
+    font-size: 1.35rem;
+    margin: 0 0 28px;
+    padding-bottom: 14px;
+}
+
+.home-discovery-panel .section-title--centered::after {
+    inset-inline-start: 0;
+    left: 0;
+    transform: none;
+    width: 42px;
+    height: 3px;
+}
+
+[dir="rtl"] .home-discovery-panel .section-title--centered::after {
+    inset-inline-start: 0;
+    right: auto;
+    left: 0;
+    transform: none;
 }
 
 /* Bold tech topics on home */
@@ -487,11 +502,8 @@
     }
 
     .home-identity-panel,
-    .home-discovery-panel,
-    .recent-posts.home-panel,
-    .home-now.home-panel,
-    .home-playground.home-panel,
-    .contact-cta.home-panel {
+    .home-content .home-section.panel:not(.home-identity-panel),
+    .home-content .home-panel.panel {
         padding: 24px;
     }
 
