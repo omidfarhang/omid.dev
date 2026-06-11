@@ -24,6 +24,18 @@ Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ ye
 
 Persian (`/fa/`) and German (`/de/`) mirror key pages; most blog posts are English-only. Paired translations exist for select pages and ~90+ posts.
 
+## Companion code & live demos
+
+Many technical posts on omid.dev link to runnable companion projects. This is separate from the blog itself but tightly coupled to it.
+
+| Resource | URL | Notes |
+|----------|-----|-------|
+| Source repository | https://github.com/omidfarhang/example-projects | 20+ self-contained examples and labs with READMEs and run instructions |
+| Live playground | https://playground.omid.dev/ | Browser-only demos at `/examples/<slug>/` and interactive labs at `/labs/<slug>/` |
+| Announcement post | https://omid.dev/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/ | Explains the companion-code approach |
+
+Not every post has a full app. Some companions are source-only (Firebase, API servers, native Linux tools, notebooks). Posts that support live demos use a companion shortcode linking to the repo and, when applicable, playground.omid.dev.
+
 ## Post URL pattern
 
 English posts: `https://omid.dev/{year}/{month}/{day}/{slug}/`

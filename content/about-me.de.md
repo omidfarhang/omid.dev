@@ -13,6 +13,7 @@ Mein Weg in der Technologie war geprägt von einer einzigartigen Mischung aus Fr
 - **Frontend-Architektur:** Bei [JIBit](https://jibit.ir) leite ich das Frontend-Team und habe die Entwicklung proprietärer Angular-basierter Frameworks sowie den Übergang zu einheitlichen Monorepo-Architekturen angeführt, was die Entwicklungseffizienz um 40 % gesteigert hat.
 - **Architektonische Führung:** Ich biete technische Aufsicht über verschiedene Frontend-Ökosysteme, einschließlich Angular, React und Vue, und gewährleiste skalierbare Lösungen und hohe Codequalität durch SOLID-Prinzipien und Design-Systeme.
 - **DevOps & Administration:** Mit einem starken Hintergrund in der Linux-Administration (Arch, Debian) optimiere ich Serverkonfigurationen und stelle nahtlose CI/CD-Pipelines mit Docker und modernen DevOps-Praktiken sicher.
+- **Schreiben & Begleitcode:** Auf [omid.dev](https://omid.dev) veröffentliche ich technische Artikel mit lauffähigen Begleitprojekten in [example-projects](https://github.com/omidfarhang/example-projects). Browser-taugliche Demos sind live auf [playground.omid.dev](https://playground.omid.dev/) verfügbar.
 
 ### Meine Philosophie
 

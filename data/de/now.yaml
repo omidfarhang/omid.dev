@@ -1,12 +1,17 @@
-last_updated: 2026-02-03
+last_updated: 2026-06-12
 location: Teheran, Iran
-status: "Frontend Lead bei Jibit; ich unterstütze ein Team, beobachte neue Tech-Trends und tauche in Gesundheitsthemen ein."
+status: "Frontend Lead bei Jibit; ich pflege Begleitcode für omid.dev und beobachte weiter Gesundheits- und Tech-Themen."
 focuses:
   - title: "Arbeit"
     icon: "fa-solid fa-people-group"
     summary: "Leitung des Frontend-Teams bei Jibit mit Fokus auf Plattformqualität und Teamwachstum."
     content: |
       Derzeit leite ich das Frontend-Team bei **Jibit**. Mein Ansatz konzentriert sich darauf, Teammitglieder zu unterstützen und zu befähigen, statt klassisch von oben nach unten zu steuern.
+  - title: "Begleitprojekte"
+    icon: "fa-solid fa-flask"
+    summary: "Lauffähige Begleitprojekte und Live-Demos für technische Artikel auf omid.dev."
+    content: |
+      Ich pflege **[example-projects](https://github.com/omidfarhang/example-projects)** — lauffähigen Code für passende Artikel auf omid.dev. Browser-taugliche Demos landen auf **[playground.omid.dev](https://playground.omid.dev/)**, damit Leser die Idee ausprobieren können, bevor sie das Repository klonen.
   - title: "Erkunden"
     icon: "fa-solid fa-compass"
     summary: "Blick über ein einzelnes Ökosystem hinaus: Architektur, Strategie, Soft Skills und neue Tools."

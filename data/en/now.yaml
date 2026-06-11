@@ -1,12 +1,17 @@
-last_updated: 2026-02-03
+last_updated: 2026-06-12
 location: Tehran, Iran
-status: "Frontend Lead at Jibit, supporting a team, exploring new tech trends, and diving into the world of health."
+status: "Frontend Lead at Jibit, publishing companion code for omid.dev, and still exploring health and broader tech topics."
 focuses:
   - title: "Working"
     icon: "fa-solid fa-people-group"
     summary: "Leading the frontend team at Jibit with a focus on platform quality and team growth."
     content: |
       Currently leading the frontend team at **Jibit**. My approach is focused on supporting and empowering my teammates rather than traditional top-down leadership and control.
+  - title: "Companion projects"
+    icon: "fa-solid fa-flask"
+    summary: "Building runnable companions and live demos for technical posts on omid.dev."
+    content: |
+      I'm maintaining **[example-projects](https://github.com/omidfarhang/example-projects)** — runnable code that backs suitable articles on omid.dev. Browser-friendly demos ship to **[playground.omid.dev](https://playground.omid.dev/)** so readers can try the idea before cloning the repo. The goal is to close the gap between explanation and code you can actually explore.
   - title: "Exploring"
     icon: "fa-solid fa-compass"
     summary: "Looking beyond a single ecosystem: architecture, strategy, soft skills, and emerging tools."
