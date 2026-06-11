@@ -1,0 +1,11 @@
+{{- $result := false -}}
+{{- if or (eq .Kind "term") (eq .Kind "section") (eq .Section "posts") -}}
+  {{- with try .Paginator -}}
+    {{- if eq .Err nil -}}
+      {{- if gt .Value.PageNumber 1 -}}
+        {{- $result = true -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

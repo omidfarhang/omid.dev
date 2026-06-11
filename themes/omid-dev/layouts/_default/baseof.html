@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Language.Locale | default site.Language }}" dir="{{ .Language.Direction | default "auto" }}">
 
+{{- block "prepare" . }}{{- partial "paginate_archive.html" . }}{{- end }}
 <head>
     {{- partial "head.html" . }}
 </head>

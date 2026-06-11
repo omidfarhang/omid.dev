@@ -1,0 +1,11 @@
+{{- if or (eq .Kind "term") (and (eq .Kind "section") (eq .Section "posts")) -}}
+  {{- if not (and site.Params.profileMode.enabled .IsHome) -}}
+    {{- $pages := slice -}}
+    {{- if eq .Section "posts" -}}
+      {{- $pages = .RegularPagesRecursive -}}
+    {{- else -}}
+      {{- $pages = union .RegularPages .Sections -}}
+    {{- end -}}
+    {{- .Paginate $pages -}}
+  {{- end -}}
+{{- end -}}

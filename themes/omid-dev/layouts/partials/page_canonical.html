@@ -1,0 +1,11 @@
+{{- $canonical := .Permalink -}}
+{{- if .Params.canonicalURL -}}
+  {{- $canonical = trim .Params.canonicalURL " " -}}
+{{- else -}}
+  {{- with try .Paginator -}}
+    {{- if and (eq .Err nil) (gt .Value.PageNumber 1) -}}
+      {{- $canonical = .Value.First.URL | absURL -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $canonical -}}

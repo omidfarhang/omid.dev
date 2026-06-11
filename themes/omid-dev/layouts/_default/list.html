@@ -4,12 +4,7 @@
 {{- partial "index_profile.html" . }}
 {{- else }}
 
-{{- $pages := union .RegularPages .Sections }}
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-{{- end }}
-{{- $paginator := .Paginate $pages }}
+{{- $paginator := .Paginator }}
 {{- $isTerm := or (eq .Kind "term") .Data.Term }}
 {{- $contentInHero := false }}
 

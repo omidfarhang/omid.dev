@@ -9,12 +9,7 @@
 {{- $techSection := site.GetPage "posts/techblog" }}
 {{- $isTechSection := and $techSection (eq .RelPermalink $techSection.RelPermalink) }}
 
-{{- $pages := .RegularPagesRecursive }}
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-{{- end }}
-{{- $paginator := .Paginate $pages }}
+{{- $paginator := .Paginator }}
 {{- $contentInHero := false }}
 
 <div class="posts-list-content">

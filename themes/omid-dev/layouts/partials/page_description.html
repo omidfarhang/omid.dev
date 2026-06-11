@@ -1,0 +1,12 @@
+{{- $description := "" -}}
+{{- if .Description -}}
+  {{- $description = .Description -}}
+{{- else if or .IsPage .IsSection -}}
+  {{- $description = .Summary | default (printf "%s - %s" .Title site.Title) -}}
+{{- else if site.Params.description -}}
+  {{- $description = site.Params.description -}}
+{{- end -}}
+{{- if and (eq .Kind "term") (eq .Type "tags") (partial "is_curated_tech_tag.html" .) (not (partial "is_paginated_archive.html" .)) -}}
+  {{- $description = printf "Articles about %s — topics, guides, and notes from the TechBlog." .Title -}}
+{{- end -}}
+{{- return $description -}}

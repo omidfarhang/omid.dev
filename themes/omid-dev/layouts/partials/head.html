@@ -4,7 +4,8 @@
 {{- $noindex := or
   .Params.robotsNoIndex
   (eq .Kind "404")
-  (and (eq .Kind "term") (not (partial "is_curated_tech_tag.html" .)))
+  (and (eq .Kind "term") (eq .Type "tags") (not (partial "is_curated_tech_tag.html" .)))
+  (partial "is_paginated_archive.html" .)
 -}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") | and (not $noindex) }}
 <meta name="robots" content="index, follow">
@@ -25,11 +26,9 @@
     {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
     {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
 {{- end }}
-<meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
-    {{- .Summary | default (printf "%s - %s" .Title  site.Title) }}{{- else }}
-    {{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
+<meta name="description" content="{{ partial "page_description.html" . }}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
-<link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
+<link rel="canonical" href="{{ partial "page_canonical.html" . }}">
 {{- $googleVerify := or site.Params.analytics.google.SiteVerificationTag (getenv "GOOGLE_SITE_VERIFICATION") -}}
 {{- if $googleVerify }}
 <meta name="google-site-verification" content="{{ $googleVerify }}">
