@@ -341,57 +341,6 @@
     box-shadow: var(--shadow-sm);
 }
 
-/* Brand colors for footer social icons */
-.footer-social-links a[href*="linkedin.com"]:hover,
-.footer-social-links a[href*="linkedin.com"]:hover i { color: #0A66C2; }
-
-.footer-social-links a[href*="xing.com"]:hover,
-.footer-social-links a[href*="xing.com"]:hover i { color: #006567; }
-
-.footer-social-links a[href*="x.com"]:hover,
-.footer-social-links a[href*="twitter.com"]:hover,
-.footer-social-links a[href*="x.com"]:hover i,
-.footer-social-links a[href*="twitter.com"]:hover i { color: #000000; }
-
-.footer-social-links a[href*="bsky.app"]:hover,
-.footer-social-links a[href*="bluesky"]:hover,
-.footer-social-links a[href*="bsky.app"]:hover i,
-.footer-social-links a[href*="bluesky"]:hover i { color: #0085ff; }
-
-.footer-social-links a[href*="github.com"]:hover,
-.footer-social-links a[href*="github.com"]:hover i { color: #181717; }
-
-.footer-social-links a[href*="mastodon"]:hover,
-.footer-social-links a[href*="mastodon"]:hover i { color: #6364FF; }
-
-.footer-social-links a[href*="instagram.com"]:hover,
-.footer-social-links a[href*="instagram.com"]:hover i { color: #E4405F; }
-
-.footer-social-links a[href*="facebook.com"]:hover,
-.footer-social-links a[href*="facebook.com"]:hover i { color: #1877F2; }
-
-.footer-social-links a[href*="t.me"]:hover,
-.footer-social-links a[href*="telegram"]:hover,
-.footer-social-links a[href*="t.me"]:hover i,
-.footer-social-links a[href*="telegram"]:hover i { color: #0088cc; }
-
-.footer-social-links a[href*="google.com"]:hover,
-.footer-social-links a[href*="g.dev"]:hover,
-.footer-social-links a[href*="google.com"]:hover i,
-.footer-social-links a[href*="g.dev"]:hover i { color: #4285F4; }
-
-.footer-social-links a[href*="rss"]:hover,
-.footer-social-links a[href*=".xml"]:hover,
-.footer-social-links a[href*="rss"]:hover i,
-.footer-social-links a[href*=".xml"]:hover i { color: #FFA500; }
-
-.dark .footer-social-links a[href*="x.com"]:hover,
-.dark .footer-social-links a[href*="twitter.com"]:hover,
-.dark .footer-social-links a[href*="x.com"]:hover i,
-.dark .footer-social-links a[href*="twitter.com"]:hover i,
-.dark .footer-social-links a[href*="github.com"]:hover,
-.dark .footer-social-links a[href*="github.com"]:hover i { color: #ffffff; }
-
 .footer-bottom {
     display: flex;
     justify-content: space-between;

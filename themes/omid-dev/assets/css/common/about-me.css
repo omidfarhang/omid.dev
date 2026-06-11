@@ -73,9 +73,9 @@
 }
 
 .about-page .social-links a:hover {
-  color: var(--primary);
-  border-color: var(--accent);
+  border-color: currentColor;
   transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
 }
 
 .about-profile-highlights {

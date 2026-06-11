@@ -78,55 +78,131 @@ body {
 
 /* Brand colors for social icons */
 .social-icons a[href*="linkedin.com"]:hover,
-.social-icons a[href*="linkedin.com"]:hover i { color: #0A66C2; }
+.social-icons a[href*="linkedin.com"]:hover i,
+.social-links a[href*="linkedin.com"]:hover,
+.social-links a[href*="linkedin.com"]:hover i,
+.footer-social-links a[href*="linkedin.com"]:hover,
+.footer-social-links a[href*="linkedin.com"]:hover i { color: #0A66C2; }
 
 .social-icons a[href*="xing.com"]:hover,
-.social-icons a[href*="xing.com"]:hover i { color: #006567; }
+.social-icons a[href*="xing.com"]:hover i,
+.social-links a[href*="xing.com"]:hover,
+.social-links a[href*="xing.com"]:hover i,
+.footer-social-links a[href*="xing.com"]:hover,
+.footer-social-links a[href*="xing.com"]:hover i { color: #006567; }
 
 .social-icons a[href*="x.com"]:hover,
 .social-icons a[href*="twitter.com"]:hover,
 .social-icons a[href*="x.com"]:hover i,
-.social-icons a[href*="twitter.com"]:hover i { color: #000000; }
+.social-icons a[href*="twitter.com"]:hover i,
+.social-links a[href*="x.com"]:hover,
+.social-links a[href*="twitter.com"]:hover,
+.social-links a[href*="x.com"]:hover i,
+.social-links a[href*="twitter.com"]:hover i,
+.footer-social-links a[href*="x.com"]:hover,
+.footer-social-links a[href*="twitter.com"]:hover,
+.footer-social-links a[href*="x.com"]:hover i,
+.footer-social-links a[href*="twitter.com"]:hover i { color: #000000; }
 
 .social-icons a[href*="bsky.app"]:hover,
 .social-icons a[href*="bluesky"]:hover,
 .social-icons a[href*="bsky.app"]:hover i,
-.social-icons a[href*="bluesky"]:hover i { color: #0085ff; }
+.social-icons a[href*="bluesky"]:hover i,
+.social-links a[href*="bsky.app"]:hover,
+.social-links a[href*="bluesky"]:hover,
+.social-links a[href*="bsky.app"]:hover i,
+.social-links a[href*="bluesky"]:hover i,
+.footer-social-links a[href*="bsky.app"]:hover,
+.footer-social-links a[href*="bluesky"]:hover,
+.footer-social-links a[href*="bsky.app"]:hover i,
+.footer-social-links a[href*="bluesky"]:hover i { color: #0085ff; }
 
 .social-icons a[href*="github.com"]:hover,
-.social-icons a[href*="github.com"]:hover i { color: #181717; }
+.social-icons a[href*="github.com"]:hover i,
+.social-links a[href*="github.com"]:hover,
+.social-links a[href*="github.com"]:hover i,
+.footer-social-links a[href*="github.com"]:hover,
+.footer-social-links a[href*="github.com"]:hover i { color: #181717; }
 
 .social-icons a[href*="mastodon"]:hover,
-.social-icons a[href*="mastodon"]:hover i { color: #6364FF; }
+.social-icons a[href*="mastodon"]:hover i,
+.social-links a[href*="mastodon"]:hover,
+.social-links a[href*="mastodon"]:hover i,
+.footer-social-links a[href*="mastodon"]:hover,
+.footer-social-links a[href*="mastodon"]:hover i { color: #6364FF; }
 
 .social-icons a[href*="instagram.com"]:hover,
-.social-icons a[href*="instagram.com"]:hover i { color: #E4405F; }
+.social-icons a[href*="instagram.com"]:hover i,
+.social-links a[href*="instagram.com"]:hover,
+.social-links a[href*="instagram.com"]:hover i,
+.footer-social-links a[href*="instagram.com"]:hover,
+.footer-social-links a[href*="instagram.com"]:hover i { color: #E4405F; }
 
 .social-icons a[href*="facebook.com"]:hover,
-.social-icons a[href*="facebook.com"]:hover i { color: #1877F2; }
+.social-icons a[href*="facebook.com"]:hover i,
+.social-links a[href*="facebook.com"]:hover,
+.social-links a[href*="facebook.com"]:hover i,
+.footer-social-links a[href*="facebook.com"]:hover,
+.footer-social-links a[href*="facebook.com"]:hover i { color: #1877F2; }
 
 .social-icons a[href*="t.me"]:hover,
 .social-icons a[href*="telegram"]:hover,
 .social-icons a[href*="t.me"]:hover i,
-.social-icons a[href*="telegram"]:hover i { color: #0088cc; }
+.social-icons a[href*="telegram"]:hover i,
+.social-links a[href*="t.me"]:hover,
+.social-links a[href*="telegram"]:hover,
+.social-links a[href*="t.me"]:hover i,
+.social-links a[href*="telegram"]:hover i,
+.footer-social-links a[href*="t.me"]:hover,
+.footer-social-links a[href*="telegram"]:hover,
+.footer-social-links a[href*="t.me"]:hover i,
+.footer-social-links a[href*="telegram"]:hover i { color: #0088cc; }
 
 .social-icons a[href*="google.com"]:hover,
 .social-icons a[href*="g.dev"]:hover,
 .social-icons a[href*="google.com"]:hover i,
-.social-icons a[href*="g.dev"]:hover i { color: #4285F4; }
+.social-icons a[href*="g.dev"]:hover i,
+.social-links a[href*="google.com"]:hover,
+.social-links a[href*="g.dev"]:hover,
+.social-links a[href*="google.com"]:hover i,
+.social-links a[href*="g.dev"]:hover i,
+.footer-social-links a[href*="google.com"]:hover,
+.footer-social-links a[href*="g.dev"]:hover,
+.footer-social-links a[href*="google.com"]:hover i,
+.footer-social-links a[href*="g.dev"]:hover i { color: #4285F4; }
 
 .social-icons a[href*="rss"]:hover,
 .social-icons a[href*=".xml"]:hover,
 .social-icons a[href*="rss"]:hover i,
-.social-icons a[href*=".xml"]:hover i { color: #FFA500; }
+.social-icons a[href*=".xml"]:hover i,
+.social-links a[href*="rss"]:hover,
+.social-links a[href*=".xml"]:hover,
+.social-links a[href*="rss"]:hover i,
+.social-links a[href*=".xml"]:hover i,
+.footer-social-links a[href*="rss"]:hover,
+.footer-social-links a[href*=".xml"]:hover,
+.footer-social-links a[href*="rss"]:hover i,
+.footer-social-links a[href*=".xml"]:hover i { color: #FFA500; }
 
 .dark .social-icons a[href*="x.com"]:hover,
 .dark .social-icons a[href*="twitter.com"]:hover,
 .dark .social-icons a[href*="x.com"]:hover i,
-.dark .social-icons a[href*="twitter.com"]:hover i { color: #ffffff; }
+.dark .social-icons a[href*="twitter.com"]:hover i,
+.dark .social-links a[href*="x.com"]:hover,
+.dark .social-links a[href*="twitter.com"]:hover,
+.dark .social-links a[href*="x.com"]:hover i,
+.dark .social-links a[href*="twitter.com"]:hover i,
+.dark .footer-social-links a[href*="x.com"]:hover,
+.dark .footer-social-links a[href*="twitter.com"]:hover,
+.dark .footer-social-links a[href*="x.com"]:hover i,
+.dark .footer-social-links a[href*="twitter.com"]:hover i { color: #ffffff; }
 
 .dark .social-icons a[href*="github.com"]:hover,
-.dark .social-icons a[href*="github.com"]:hover i { color: #ffffff; }
+.dark .social-icons a[href*="github.com"]:hover i,
+.dark .social-links a[href*="github.com"]:hover,
+.dark .social-links a[href*="github.com"]:hover i,
+.dark .footer-social-links a[href*="github.com"]:hover,
+.dark .footer-social-links a[href*="github.com"]:hover i { color: #ffffff; }
 
 .social-icons a svg {
     height: 26px;
