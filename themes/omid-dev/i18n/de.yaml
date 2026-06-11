@@ -189,7 +189,7 @@
   translation: "Alle Tech-Beiträge"
 
 - id: curated_tag_description
-  translation: "Artikel über {{ .tag }} — Themen, Anleitungen und Notizen aus dem TechBlog."
+  translation: "Artikel über {{ .tag }} auf omid.dev — Anleitungen, Themen und Notizen aus der Praxis."
 
 - id: contact
   translation: "Kontakt"
