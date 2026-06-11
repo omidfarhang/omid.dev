@@ -1,0 +1,12 @@
+{{- $tagName := . -}}
+{{- $want := lower $tagName | replaceRE "[^a-z0-9]" "" -}}
+{{- $found := "" -}}
+{{- range site.Taxonomies.tags }}
+  {{- with .Page }}
+    {{- $pageNorm := lower .Title | replaceRE "[^a-z0-9]" "" -}}
+    {{- if eq $pageNorm $want }}
+      {{- $found = . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- return $found -}}

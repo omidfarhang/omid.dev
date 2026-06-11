@@ -44,14 +44,10 @@
   <div class="topics-grid topics-grid--core">
     {{- range $coreStackTags }}
     {{- $tagName := . }}
-    {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
-    {{- $tagPage := "" }}
-    {{- range site.Taxonomies.tags }}
-      {{- with .Page }}
-        {{- if eq .Title $tagName }}
-          {{- $tagPage = . }}
-        {{- end }}
-      {{- end }}
+    {{- $tagPage := partial "tag_page_for.html" $tagName }}
+    {{- $tagPages := slice }}
+    {{- if $tagPage }}
+      {{- $tagPages = intersect $tagPage.Pages $techPosts }}
     {{- end }}
     <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="topic-card topic-card--core">
       <div class="topic-icon">
@@ -92,14 +88,10 @@
     {{- $tagName := . }}
     {{- $isDuplicateCore := and $showCoreStack $isTechnicalGroup (in $coreStackTags $tagName) }}
     {{- if not $isDuplicateCore }}
-    {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
-    {{- $tagPage := "" }}
-    {{- range site.Taxonomies.tags }}
-      {{- with .Page }}
-        {{- if eq .Title $tagName }}
-          {{- $tagPage = . }}
-        {{- end }}
-      {{- end }}
+    {{- $tagPage := partial "tag_page_for.html" $tagName }}
+    {{- $tagPages := slice }}
+    {{- if $tagPage }}
+      {{- $tagPages = intersect $tagPage.Pages $techPosts }}
     {{- end }}
     {{- if or (gt (len $tagPages) 0) $.home $compact }}
     <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="topic-card">
