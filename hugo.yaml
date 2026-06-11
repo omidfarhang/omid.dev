@@ -258,6 +258,7 @@ params:
   playground:
     baseURL: https://playground.omid.dev
     examplesPath: examples
+    sourceRoot: examples
   # Default Open Graph / Twitter Card image when a page has no cover or featured image
   images:
     - /images/bio-photo-150x150.jpg

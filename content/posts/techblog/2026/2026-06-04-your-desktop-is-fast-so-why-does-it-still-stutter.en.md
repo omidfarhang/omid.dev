@@ -42,7 +42,7 @@ The app is intentionally tiny. It is not here to outclass Linux's serious observ
   path="latency-lens"
   title="Latency Lens Companion App"
   description="A tiny Rust/Linux TUI example that reads /proc and /sys, parses PSI, and turns kernel signals into a user-facing explanation."
-  display="github.com/omidfarhang/example-projects/tree/master/latency-lens"
+  demoSlug="latency-lens"
   label="Open the companion app"
 >}}
 

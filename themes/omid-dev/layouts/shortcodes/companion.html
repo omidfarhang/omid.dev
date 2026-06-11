@@ -1,6 +1,11 @@
 {{- $repo := .Get "repo" -}}
 {{- $path := .Get "path" -}}
 {{- $branch := .Get "branch" | default "master" -}}
+{{- $sourceRoot := .Get "sourceRoot" | default site.Params.playground.sourceRoot -}}
+{{- $sourcePath := $path -}}
+{{- if and $sourceRoot $path (ne $path ".") -}}
+  {{- $sourcePath = printf "%s/%s" $sourceRoot $path -}}
+{{- end -}}
 {{- $provider := lower (.Get "provider" | default "github") -}}
 {{- $host := .Get "host" -}}
 {{- if not $host -}}
@@ -45,13 +50,13 @@
 {{- $sourceUrl := .Get "sourceUrl" | default (.Get "url") -}}
 {{- if and (not $sourceUrl) $repo $path -}}
   {{- if eq $provider "github" -}}
-    {{- $sourceUrl = printf "https://%s/%s/tree/%s/%s" $host $repo $branch $path -}}
+    {{- $sourceUrl = printf "https://%s/%s/tree/%s/%s" $host $repo $branch $sourcePath -}}
   {{- else if eq $provider "gitlab" -}}
-    {{- $sourceUrl = printf "https://%s/%s/-/tree/%s/%s" $host $repo $branch $path -}}
+    {{- $sourceUrl = printf "https://%s/%s/-/tree/%s/%s" $host $repo $branch $sourcePath -}}
   {{- else if eq $provider "bitbucket" -}}
-    {{- $sourceUrl = printf "https://%s/%s/src/%s/%s" $host $repo $branch $path -}}
+    {{- $sourceUrl = printf "https://%s/%s/src/%s/%s" $host $repo $branch $sourcePath -}}
   {{- else if or (eq $provider "codeberg") (eq $provider "gitea") -}}
-    {{- $sourceUrl = printf "https://%s/%s/src/branch/%s/%s" $host $repo $branch $path -}}
+    {{- $sourceUrl = printf "https://%s/%s/src/branch/%s/%s" $host $repo $branch $sourcePath -}}
   {{- end -}}
 {{- end -}}
 
@@ -81,9 +86,9 @@
   {{- $display := .Get "display" -}}
   {{- if and (not $display) $sourceUrl -}}
     {{- if and $host $repo $path -}}
-      {{- $display = printf "%s/%s/%s" $host $repo $path -}}
+      {{- $display = printf "%s/%s/%s" $host $repo $sourcePath -}}
     {{- else if and $repo $path -}}
-      {{- $display = printf "%s/%s" $repo $path -}}
+      {{- $display = printf "%s/%s" $repo $sourcePath -}}
     {{- else -}}
       {{- $display = replaceRE "^https?://(www\\.)?" "" $sourceUrl -}}
     {{- end -}}
