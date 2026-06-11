@@ -1,6 +1,6 @@
 <div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
     {{- range site.Params.socialIcons }}
-    <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+    <a class="social-icon-link" data-brand="{{ partial "brand_slug.html" .icon }}" href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
         title="{{ (.title | default .name) | title }}">
         <i class="{{ .icon }}"></i>
     </a>

@@ -19,24 +19,24 @@
         <div class="profile-copy">
           <h2>{{ $resume.name }}</h2>
           <p class="profile-title">{{ $resume.title }}</p>
-          <div class="social-links">
+          <div class="social-icons social-icons--circle">
             {{ if $resume.contact.linkedin }}
-            <a href="{{ $resume.contact.linkedin }}" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn">
+            <a class="social-icon-link" data-brand="linkedin" href="{{ $resume.contact.linkedin }}" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn">
               <i class="fab fa-linkedin"></i>
             </a>
             {{ end }}
             {{ if $resume.contact.github }}
-            <a href="{{ $resume.contact.github }}" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub">
+            <a class="social-icon-link" data-brand="github" href="{{ $resume.contact.github }}" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub">
               <i class="fab fa-github"></i>
             </a>
             {{ end }}
             {{ if $resume.contact.xing }}
-            <a href="{{ $resume.contact.xing }}" target="_blank" rel="noopener noreferrer" title="Xing" aria-label="Xing">
+            <a class="social-icon-link" data-brand="xing" href="{{ $resume.contact.xing }}" target="_blank" rel="noopener noreferrer" title="Xing" aria-label="Xing">
               <i class="fab fa-xing"></i>
             </a>
             {{ end }}
             {{ if $resume.contact.email }}
-            <a href="mailto:{{ $resume.contact.email }}" title="Email" aria-label="Email">
+            <a class="social-icon-link" href="mailto:{{ $resume.contact.email }}" title="Email" aria-label="Email">
               <i class="fas fa-envelope"></i>
             </a>
             {{ end }}

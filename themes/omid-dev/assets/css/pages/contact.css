@@ -40,6 +40,12 @@
     font-size: 0.78rem;
 }
 
+.contact-hero-messaging .btn[data-brand]:hover,
+.contact-hero-messaging .btn[data-brand]:hover i {
+    color: var(--brand-color);
+    border-color: var(--brand-color);
+}
+
 .contact-page-content {
     padding: 40px;
 }

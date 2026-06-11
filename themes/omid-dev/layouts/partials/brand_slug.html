@@ -1,0 +1,32 @@
+{{- $aliases := dict
+    "x-twitter" "x"
+    "square-x-twitter" "x"
+    "square-twitter" "x"
+    "twitter" "x"
+    "reddit-alien" "reddit"
+    "y-combinator" "hacker-news"
+    "hacker-news-square" "hacker-news"
+    "square-threads" "threads"
+    "css3-alt" "css3"
+    "signal-messenger" "signal"
+    "facebook-messenger" "messenger"
+    "facebook-f" "facebook"
+    "linkedin-in" "linkedin"
+    "telegram-plane" "telegram"
+    "git-alt" "git"
+    "js-square" "javascript"
+    "js" "javascript"
+    "vuejs" "vue"
+    "digital-ocean" "digitalocean"
+    "weixin" "wechat"
+    "google-play" "google"
+    "google-drive" "google"
+    "google-scholar" "google"
+    "chrome" "google"
+    "app-store-ios" "apple"
+    "aws" "amazon"
+-}}
+{{- $parts := split . " " -}}
+{{- $iconClass := index $parts (sub (len $parts) 1) -}}
+{{- $slug := replace $iconClass "fa-" "" -}}
+{{- index $aliases $slug | default $slug -}}

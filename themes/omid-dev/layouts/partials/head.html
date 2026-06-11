@@ -59,7 +59,7 @@
 
 {{- /* CSS layers — themes/omid-dev/assets/css/
      vendor/     third-party (fonts, fontawesome)
-     core/       tokens, reset, responsive overrides
+     core/       tokens, brand colors, reset, responsive overrides
      system/     design-system primitives (btn, card, chip, form, icon, panel)
      layout/     site shell (main grid, page-content)
      components/ shared UI blocks (header, footer, post cards, …)
@@ -70,6 +70,7 @@
 {{- $fonts := (resources.Get "css/vendor/fonts.css") }}
 {{- $fontawesome := (resources.Get "css/vendor/fontawesome.css") }}
 {{- $theme_vars := (resources.Get "css/core/theme-vars.css") }}
+{{- $brand_colors := (resources.Get "css/core/brand-colors.css") }}
 {{- $reset := (resources.Get "css/core/reset.css") }}
 {{- $system := (resources.Match "css/system/*.css") | resources.Concat "assets/css/system.css" }}
 {{- $layout := (resources.Get "css/layout/main.css") }}
@@ -82,7 +83,7 @@
 {{- $chroma_mod := (resources.Get "css/includes/chroma-mod.css") }}
 
 {{- /* order is important */}}
-{{- $core := (slice $fonts $fontawesome $theme_vars $reset $system $layout $components $chroma_styles $chroma_mod $includes_all $media) | resources.Concat "assets/css/core.css" | resources.Minify }}
+{{- $core := (slice $fonts $fontawesome $theme_vars $brand_colors $reset $system $layout $components $chroma_styles $chroma_mod $includes_all $media) | resources.Concat "assets/css/core.css" | resources.Minify }}
 {{- $pages := (resources.Match "css/pages/*.css") | resources.Concat "assets/css/pages.css" | resources.Minify }}
 
 {{- /* bundle all required css */}}

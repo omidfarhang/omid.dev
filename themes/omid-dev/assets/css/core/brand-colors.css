@@ -1,0 +1,247 @@
+/* Third-party brand colors — single source of truth */
+
+:root {
+    /* Social */
+    --brand-linkedin: #0a66c2;
+    --brand-xing: #006567;
+    --brand-x: #000000;
+    --brand-bluesky: #0085ff;
+    --brand-mastodon: #6364ff;
+    --brand-instagram: #e4405f;
+    --brand-facebook: #1877f2;
+    --brand-threads: #000000;
+    --brand-youtube: #ff0000;
+    --brand-tiktok: #010101;
+    --brand-pinterest: #e60023;
+    --brand-snapchat: #fffc00;
+    --brand-reddit: #ff4500;
+    --brand-hacker-news: #ff6600;
+    --brand-twitch: #9146ff;
+    --brand-vimeo: #1ab7ea;
+    --brand-tumblr: #36465d;
+    --brand-flickr: #ff0084;
+    --brand-medium: #000000;
+    --brand-patreon: #ff424d;
+    --brand-substack: #ff6719;
+    --brand-behance: #1769ff;
+    --brand-dribbble: #ea4c89;
+
+    /* Messaging */
+    --brand-telegram: #0088cc;
+    --brand-whatsapp: #25d366;
+    --brand-signal: #3a76f0;
+    --brand-messenger: #0084ff;
+    --brand-discord: #5865f2;
+    --brand-slack: #4a154b;
+    --brand-skype: #00aff0;
+    --brand-zoom: #2d8cff;
+    --brand-line: #00c300;
+    --brand-wechat: #07c160;
+    --brand-vk: #0077ff;
+    --brand-qq: #12b7f5;
+    --brand-gitea: #609926;
+
+    /* Dev & code hosting */
+    --brand-github: #181717;
+    --brand-gitlab: #fc6d26;
+    --brand-bitbucket: #0052cc;
+    --brand-codeberg: #2185d0;
+    --brand-git: #f05032;
+    --brand-dev: #0a0a0a;
+    --brand-stack-overflow: #f48024;
+    --brand-stack-exchange: #1e5397;
+
+    /* Languages & frameworks */
+    --brand-docker: #2496ed;
+    --brand-npm: #cb3837;
+    --brand-node-js: #339933;
+    --brand-angular: #dd0031;
+    --brand-react: #61dafb;
+    --brand-vue: #42b883;
+    --brand-svelte: #ff3e00;
+    --brand-python: #3776ab;
+    --brand-rust: #000000;
+    --brand-java: #ed8b00;
+    --brand-php: #777bb4;
+    --brand-javascript: #f7df1e;
+    --brand-html5: #e34f26;
+    --brand-css3: #1572b6;
+    --brand-bootstrap: #7952b3;
+    --brand-sass: #cc6699;
+
+    /* Platforms & cloud */
+    --brand-google: #4285f4;
+    --brand-apple: #000000;
+    --brand-microsoft: #5e5e5e;
+    --brand-amazon: #ff9900;
+    --brand-azure: #0078d4;
+    --brand-digitalocean: #0080ff;
+    --brand-cloudflare: #f38020;
+    --brand-wordpress: #21759b;
+    --brand-linux: #fcc628;
+    --brand-ubuntu: #e95420;
+    --brand-redhat: #ee0000;
+    --brand-android: #3ddc84;
+    --brand-firefox: #ff7139;
+    --brand-chrome: #4285f4;
+    --brand-figma: #f24e1e;
+    --brand-jira: #0052cc;
+
+    /* Media & misc */
+    --brand-spotify: #1db954;
+    --brand-soundcloud: #ff5500;
+    --brand-rss: #ffa500;
+    --brand-paypal: #003087;
+    --brand-ethereum: #627eea;
+    --brand-bitcoin: #f7931a;
+}
+
+.dark {
+    --brand-x: #ffffff;
+    --brand-github: #ffffff;
+    --brand-threads: #ffffff;
+    --brand-tiktok: #ffffff;
+    --brand-medium: #ffffff;
+    --brand-dev: #ffffff;
+    --brand-rust: #ffffff;
+    --brand-apple: #ffffff;
+}
+
+/* Map data-brand slugs to --brand-color for use in components */
+[data-brand="linkedin"],
+[data-brand="linkedin-in"] { --brand-color: var(--brand-linkedin); }
+
+[data-brand="xing"] { --brand-color: var(--brand-xing); }
+
+[data-brand="x"],
+[data-brand="x-twitter"],
+[data-brand="twitter"],
+[data-brand="square-x-twitter"],
+[data-brand="square-twitter"] { --brand-color: var(--brand-x); }
+
+[data-brand="bluesky"] { --brand-color: var(--brand-bluesky); }
+[data-brand="mastodon"] { --brand-color: var(--brand-mastodon); }
+[data-brand="instagram"] { --brand-color: var(--brand-instagram); }
+
+[data-brand="facebook"],
+[data-brand="facebook-f"] { --brand-color: var(--brand-facebook); }
+
+[data-brand="threads"],
+[data-brand="square-threads"] { --brand-color: var(--brand-threads); }
+
+[data-brand="youtube"] { --brand-color: var(--brand-youtube); }
+[data-brand="tiktok"] { --brand-color: var(--brand-tiktok); }
+[data-brand="pinterest"] { --brand-color: var(--brand-pinterest); }
+[data-brand="snapchat"] { --brand-color: var(--brand-snapchat); }
+
+[data-brand="reddit"],
+[data-brand="reddit-alien"] { --brand-color: var(--brand-reddit); }
+
+[data-brand="hacker-news"],
+[data-brand="y-combinator"],
+[data-brand="hacker-news-square"] { --brand-color: var(--brand-hacker-news); }
+
+[data-brand="twitch"] { --brand-color: var(--brand-twitch); }
+[data-brand="vimeo"] { --brand-color: var(--brand-vimeo); }
+[data-brand="tumblr"] { --brand-color: var(--brand-tumblr); }
+[data-brand="flickr"] { --brand-color: var(--brand-flickr); }
+[data-brand="medium"] { --brand-color: var(--brand-medium); }
+[data-brand="patreon"] { --brand-color: var(--brand-patreon); }
+[data-brand="substack"] { --brand-color: var(--brand-substack); }
+[data-brand="behance"] { --brand-color: var(--brand-behance); }
+[data-brand="dribbble"] { --brand-color: var(--brand-dribbble); }
+
+[data-brand="telegram"],
+[data-brand="telegram-plane"] { --brand-color: var(--brand-telegram); }
+
+[data-brand="whatsapp"] { --brand-color: var(--brand-whatsapp); }
+
+[data-brand="signal"],
+[data-brand="signal-messenger"] { --brand-color: var(--brand-signal); }
+
+[data-brand="messenger"],
+[data-brand="facebook-messenger"] { --brand-color: var(--brand-messenger); }
+
+[data-brand="discord"] { --brand-color: var(--brand-discord); }
+[data-brand="slack"] { --brand-color: var(--brand-slack); }
+[data-brand="skype"] { --brand-color: var(--brand-skype); }
+[data-brand="zoom"] { --brand-color: var(--brand-zoom); }
+[data-brand="line"] { --brand-color: var(--brand-line); }
+[data-brand="wechat"],
+[data-brand="weixin"] { --brand-color: var(--brand-wechat); }
+
+[data-brand="vk"] { --brand-color: var(--brand-vk); }
+[data-brand="qq"] { --brand-color: var(--brand-qq); }
+[data-brand="gitea"] { --brand-color: var(--brand-gitea); }
+
+[data-brand="github"] { --brand-color: var(--brand-github); }
+[data-brand="gitlab"] { --brand-color: var(--brand-gitlab); }
+[data-brand="bitbucket"] { --brand-color: var(--brand-bitbucket); }
+[data-brand="codeberg"] { --brand-color: var(--brand-codeberg); }
+[data-brand="git"],
+[data-brand="git-alt"] { --brand-color: var(--brand-git); }
+
+[data-brand="dev"] { --brand-color: var(--brand-dev); }
+
+[data-brand="stack-overflow"] { --brand-color: var(--brand-stack-overflow); }
+[data-brand="stack-exchange"] { --brand-color: var(--brand-stack-exchange); }
+
+[data-brand="docker"] { --brand-color: var(--brand-docker); }
+[data-brand="npm"] { --brand-color: var(--brand-npm); }
+[data-brand="node-js"] { --brand-color: var(--brand-node-js); }
+[data-brand="angular"] { --brand-color: var(--brand-angular); }
+[data-brand="react"] { --brand-color: var(--brand-react); }
+[data-brand="vuejs"],
+[data-brand="vue"] { --brand-color: var(--brand-vue); }
+[data-brand="svelte"] { --brand-color: var(--brand-svelte); }
+[data-brand="python"] { --brand-color: var(--brand-python); }
+[data-brand="rust"] { --brand-color: var(--brand-rust); }
+[data-brand="java"] { --brand-color: var(--brand-java); }
+[data-brand="php"] { --brand-color: var(--brand-php); }
+
+[data-brand="javascript"],
+[data-brand="js"],
+[data-brand="js-square"] { --brand-color: var(--brand-javascript); }
+
+[data-brand="html5"] { --brand-color: var(--brand-html5); }
+
+[data-brand="css3"],
+[data-brand="css3-alt"] { --brand-color: var(--brand-css3); }
+
+[data-brand="bootstrap"] { --brand-color: var(--brand-bootstrap); }
+[data-brand="sass"] { --brand-color: var(--brand-sass); }
+
+[data-brand="google"],
+[data-brand="google-play"],
+[data-brand="google-drive"],
+[data-brand="google-scholar"],
+[data-brand="chrome"] { --brand-color: var(--brand-google); }
+
+[data-brand="apple"],
+[data-brand="app-store-ios"] { --brand-color: var(--brand-apple); }
+
+[data-brand="microsoft"] { --brand-color: var(--brand-microsoft); }
+
+[data-brand="amazon"],
+[data-brand="aws"] { --brand-color: var(--brand-amazon); }
+
+[data-brand="azure"] { --brand-color: var(--brand-azure); }
+[data-brand="digitalocean"],
+[data-brand="digital-ocean"] { --brand-color: var(--brand-digitalocean); }
+
+[data-brand="cloudflare"] { --brand-color: var(--brand-cloudflare); }
+[data-brand="wordpress"] { --brand-color: var(--brand-wordpress); }
+[data-brand="linux"] { --brand-color: var(--brand-linux); }
+[data-brand="ubuntu"] { --brand-color: var(--brand-ubuntu); }
+[data-brand="redhat"] { --brand-color: var(--brand-redhat); }
+[data-brand="android"] { --brand-color: var(--brand-android); }
+[data-brand="firefox"] { --brand-color: var(--brand-firefox); }
+[data-brand="figma"] { --brand-color: var(--brand-figma); }
+[data-brand="jira"] { --brand-color: var(--brand-jira); }
+
+[data-brand="spotify"] { --brand-color: var(--brand-spotify); }
+[data-brand="soundcloud"] { --brand-color: var(--brand-soundcloud); }
+[data-brand="rss"] { --brand-color: var(--brand-rss); }
+[data-brand="paypal"] { --brand-color: var(--brand-paypal); }
+[data-brand="ethereum"] { --brand-color: var(--brand-ethereum); }
+[data-brand="bitcoin"] { --brand-color: var(--brand-bitcoin); }

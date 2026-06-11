@@ -278,31 +278,6 @@
     letter-spacing: normal;
 }
 
-.footer-social-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 9px;
-}
-
-.footer-social-links a {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 38px;
-    height: 38px;
-    color: var(--secondary);
-    font-size: 1.05rem;
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: 50%;
-}
-
-.footer-social-links a:hover {
-    border-color: currentColor;
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-sm);
-}
-
 .footer-bottom {
     display: flex;
     justify-content: space-between;

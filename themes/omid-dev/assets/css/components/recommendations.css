@@ -129,10 +129,13 @@
     transition: opacity 0.2s;
 }
 
-.recommendation-link .fa-linkedin { color: #0077b5; }
-.recommendation-link .fa-twitter { color: #1da1f2; }
-.recommendation-link .fa-github { color: var(--primary); }
-.recommendation-link .fa-external-link-alt { color: var(--secondary); }
+.recommendation-link[data-brand] i {
+    color: var(--brand-color);
+}
+
+.recommendation-link:not([data-brand]) i {
+    color: var(--secondary);
+}
 
 .recommendation-link:hover {
     opacity: 0.8;
@@ -180,7 +183,7 @@
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background: #0077b5;
+    background: var(--brand-color, var(--brand-linkedin));
     color: #fff !important;
     padding: 10px 24px;
     border-radius: 30px;
@@ -190,7 +193,7 @@
 }
 
 .add-recommendation-btn:hover {
-    background: #005582;
+    background: color-mix(in srgb, var(--brand-color, var(--brand-linkedin)) 85%, black);
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 119, 181, 0.3);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--brand-color, var(--brand-linkedin)) 30%, transparent);
 }

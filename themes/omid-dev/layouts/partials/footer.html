@@ -86,9 +86,9 @@
             </a>
             <div class="footer-social-wrapper">
                 <span class="follow-me">{{ i18n "follow_me" | default "Follow Me" }}</span>
-                <div class="footer-social-links">
+                <div class="social-icons social-icons--circle social-icons--footer">
                     {{ range $footer.social }}
-                    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name | default .url }}">
+                    <a class="social-icon-link" data-brand="{{ partial "brand_slug.html" .icon }}" href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name | default .url }}">
                         <i class="{{ .icon }}" aria-hidden="true"></i>
                     </a>
                     {{ end }}

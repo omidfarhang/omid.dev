@@ -30,16 +30,16 @@
         </a>
         {{- end }}
         <div class="contact-hero-messaging" aria-label="{{ i18n "instant_messaging" }}">
-          <a href="https://t.me/omidfarhang" class="btn btn--secondary btn--sm" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/omidfarhang" class="btn btn--secondary btn--sm" data-brand="telegram" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-telegram"></i>
             <span>Telegram</span>
           </a>
           {{- if site.Params.footer.contactPhone }}
-          <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" class="btn btn--secondary btn--sm" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" class="btn btn--secondary btn--sm" data-brand="whatsapp" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-whatsapp"></i>
             <span>WhatsApp</span>
           </a>
-          <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" class="btn btn--secondary btn--sm" target="_blank" rel="noopener noreferrer">
+          <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" class="btn btn--secondary btn--sm" data-brand="signal" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-signal-messenger"></i>
             <span>Signal</span>
           </a>

@@ -188,14 +188,18 @@
     text-align: center;
 }
 
-.meta-share .dropdown-content i.fa-x-twitter { color: var(--primary); }
-.meta-share .dropdown-content i.fa-linkedin { color: #0077b5; }
-.meta-share .dropdown-content i.fa-telegram { color: #0088cc; }
-.meta-share .dropdown-content i.fa-whatsapp { color: #25d366; }
-.meta-share .dropdown-content i.fa-reddit-alien { color: #ff4500; }
-.meta-share .dropdown-content i.fa-facebook { color: #1877f2; }
-.meta-share .dropdown-content i.fa-y-combinator { color: #ff6600; }
-.meta-share .dropdown-content i.fa-share-nodes { color: var(--accent); }
+.meta-share .dropdown-content i.fa-share-nodes {
+    color: var(--accent);
+}
+
+.meta-share .dropdown-content [data-brand] i {
+    color: var(--brand-color);
+}
+
+.meta-share .dropdown-content a[data-brand]:hover,
+.meta-share .dropdown-content a[data-brand]:hover i {
+    color: var(--brand-color);
+}
 
 .lang-flag {
     font-size: 18px;

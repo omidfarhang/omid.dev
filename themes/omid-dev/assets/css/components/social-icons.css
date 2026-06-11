@@ -1,0 +1,69 @@
+/* Social profile / footer icon rows */
+
+.social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.social-icon-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--secondary);
+    text-decoration: none;
+    transition:
+        border-color 0.2s ease,
+        color 0.2s ease,
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+/* Home / profile — plain icon links */
+.social-icons:not(.social-icons--circle) .social-icon-link {
+    padding: 10px;
+    transition: all 0.3s ease;
+}
+
+.social-icons:not(.social-icons--circle) .social-icon-link:hover {
+    transform: translateY(-3px) scale(1.1);
+}
+
+.social-icons:not(.social-icons--circle) .social-icon-link i {
+    font-size: 26px;
+}
+
+.social-icons:not(.social-icons--circle) .social-icon-link svg {
+    width: 26px;
+    height: 26px;
+}
+
+/* About / footer — circular buttons */
+.social-icons--circle .social-icon-link {
+    width: 34px;
+    height: 34px;
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: 50%;
+}
+
+.social-icons--footer {
+    gap: 9px;
+}
+
+.social-icons--footer .social-icon-link {
+    width: 38px;
+    height: 38px;
+    font-size: 1.05rem;
+}
+
+.social-icons--circle .social-icon-link:hover {
+    border-color: currentColor;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+.social-icon-link[data-brand]:hover,
+.social-icon-link[data-brand]:hover i {
+    color: var(--brand-color);
+}

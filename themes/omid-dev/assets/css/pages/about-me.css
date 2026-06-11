@@ -51,32 +51,6 @@
   line-height: 1.45;
 }
 
-.about-page .social-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.about-page .social-links a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 34px;
-  height: 34px;
-  color: var(--accent);
-  background: var(--theme);
-  border: 1px solid var(--border);
-  border-radius: 50%;
-  text-decoration: none !important;
-  transition: border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
-}
-
-.about-page .social-links a:hover {
-  border-color: currentColor;
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-sm);
-}
-
 .about-profile-highlights {
   display: grid;
   grid-column: 1 / -1;

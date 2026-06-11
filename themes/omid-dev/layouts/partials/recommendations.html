@@ -31,7 +31,7 @@
                         {{- end }}
                     </div>
                     {{- if .link }}
-                    <a href="{{ .link }}" class="recommendation-link" target="_blank" rel="noopener noreferrer" title="{{ .source | default "Link" }}">
+                    <a href="{{ .link }}" class="recommendation-link" data-brand="{{ .source }}" target="_blank" rel="noopener noreferrer" title="{{ .source | default "Link" }}">
                         {{- if eq .source "linkedin" }}<i class="fab fa-linkedin"></i>
                         {{- else if eq .source "twitter" }}<i class="fab fa-twitter"></i>
                         {{- else if eq .source "github" }}<i class="fab fa-github"></i>
@@ -49,7 +49,7 @@
     </div>
     <div class="recommendations-footer">
         <p>{{ i18n "add_recommendation_desc" }}</p>
-        <a href="https://linkedin.com/in/omidfarhang" target="_blank" rel="noopener noreferrer" class="add-recommendation-btn">
+        <a href="https://linkedin.com/in/omidfarhang" target="_blank" rel="noopener noreferrer" class="add-recommendation-btn" data-brand="linkedin">
             <i class="fab fa-linkedin"></i> {{ i18n "add_recommendation" }}
         </a>
     </div>

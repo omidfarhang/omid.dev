@@ -106,35 +106,35 @@
             <i class="fas fa-link"></i>
             <span>{{ i18n "copy_link" | default "Copy Link" }}</span>
         </a>
-        <a href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}" class="chip chip--pill" data-brand="bluesky" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-bluesky"></i>
             <span>{{ i18n "share_bluesky" | default "Bluesky" }}</span>
         </a>
-        <a href="https://www.threads.net/intent/post?text={{ $shareText | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.threads.net/intent/post?text={{ $shareText | urlquery }}" class="chip chip--pill" data-brand="threads" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-threads"></i>
             <span>{{ i18n "share_threads" | default "Threads" }}</span>
         </a>
-        <a href="https://mastodon.social/share?text={{ $shareText | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://mastodon.social/share?text={{ $shareText | urlquery }}" class="chip chip--pill" data-brand="mastodon" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-mastodon"></i>
             <span>{{ i18n "share_mastodon" | default "Mastodon" }}</span>
         </a>
-        <a href="https://x.com/intent/post/?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}{{ with $tags }}&amp;hashtags={{ . | urlquery }}{{ end }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://x.com/intent/post/?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}{{ with $tags }}&amp;hashtags={{ . | urlquery }}{{ end }}" class="chip chip--pill" data-brand="x" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-x-twitter"></i>
             <span>{{ i18n "share_x" | default "X" }}</span>
         </a>
-        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl | urlquery }}&amp;title={{ $title | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl | urlquery }}&amp;title={{ $title | urlquery }}" class="chip chip--pill" data-brand="linkedin" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-linkedin"></i>
             <span>{{ i18n "share_linkedin" | default "LinkedIn" }}</span>
         </a>
-        <a href="https://reddit.com/submit?url={{ $shortpageurl | urlquery }}&title={{ $title | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://reddit.com/submit?url={{ $shortpageurl | urlquery }}&title={{ $title | urlquery }}" class="chip chip--pill" data-brand="reddit" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-reddit-alien"></i>
             <span>{{ i18n "share_reddit" | default "Reddit" }}</span>
         </a>
-        <a href="https://telegram.me/share/url?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://telegram.me/share/url?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}" class="chip chip--pill" data-brand="telegram" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-telegram"></i>
             <span>{{ i18n "share_telegram" | default "Telegram" }}</span>
         </a>
-        <a href="https://api.whatsapp.com/send?text={{ $shareText | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://api.whatsapp.com/send?text={{ $shareText | urlquery }}" class="chip chip--pill" data-brand="whatsapp" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-whatsapp"></i>
             <span>{{ i18n "share_whatsapp" | default "WhatsApp" }}</span>
         </a>
@@ -142,11 +142,11 @@
             <i class="fas fa-envelope"></i>
             <span>{{ i18n "email" | default "Email" }}</span>
         </a>
-        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl | urlquery }}" class="chip chip--pill" data-brand="facebook" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-facebook"></i>
             <span>{{ i18n "share_facebook" | default "Facebook" }}</span>
         </a>
-        <a href="https://news.ycombinator.com/submitlink?t={{ $title | urlquery }}&u={{ $pageurl | urlquery }}" class="chip chip--pill" target="_blank" rel="noopener noreferrer">
+        <a href="https://news.ycombinator.com/submitlink?t={{ $title | urlquery }}&u={{ $pageurl | urlquery }}" class="chip chip--pill" data-brand="hacker-news" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-y-combinator"></i>
             <span>{{ i18n "share_hacker_news" | default "Hacker News" }}</span>
         </a>

@@ -53,16 +53,10 @@
     flex-direction: row-reverse;
 }
 
-.x-btn:hover,
-.x-btn:hover i { color: var(--primary) !important; }
-.mastodon-btn:hover,
-.mastodon-btn:hover i { color: #6364ff !important; }
-.bluesky-btn:hover,
-.bluesky-btn:hover i { color: #0560ff !important; }
-.reddit-btn:hover,
-.reddit-btn:hover i { color: #ff4500 !important; }
-.hn-btn:hover,
-.hn-btn:hover i { color: #ff6600 !important; }
+.share-btn[data-brand]:hover,
+.share-btn[data-brand]:hover i {
+    color: var(--brand-color);
+}
 
 /* Webmentions */
 .webmentions-container {
