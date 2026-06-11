@@ -1,0 +1,12 @@
+{{- $curatedTags := partial "curated_tech_tags.html" . -}}
+{{- $result := false -}}
+{{- if eq .Type "tags" -}}
+  {{- $pageNorm := lower .Title | replaceRE "[^a-z0-9]" "" -}}
+  {{- range $curatedTags -}}
+    {{- $tagNorm := lower . | replaceRE "[^a-z0-9]" "" -}}
+    {{- if eq $pageNorm $tagNorm -}}
+      {{- $result = true -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

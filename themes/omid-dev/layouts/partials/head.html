@@ -1,7 +1,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- $noindex := or .Params.robotsNoIndex (eq .Kind "404") -}}
+{{- $noindex := or
+  .Params.robotsNoIndex
+  (eq .Kind "404")
+  (and (eq .Kind "term") (not (partial "is_curated_tech_tag.html" .)))
+-}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") | and (not $noindex) }}
 <meta name="robots" content="index, follow">
 {{- else if $noindex }}

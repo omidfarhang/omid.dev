@@ -1,0 +1,7 @@
+{{- $curated := union
+  (site.Params.homeTechTagsProfessional | default slice)
+  (site.Params.homeTechTagsTechnical | default slice)
+-}}
+{{- $curated = union $curated (site.Params.homeFeaturedTechTagsProfessional | default slice) -}}
+{{- $curated = union $curated (site.Params.homeFeaturedTechTagsTechnical | default slice) -}}
+{{- return $curated -}}

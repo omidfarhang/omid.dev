@@ -3,7 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {{- range site.Taxonomies.tags -}}
   {{- with .Page -}}
-    {{- partial "sitemap/url-entry.html" . -}}
+    {{- if partial "is_curated_tech_tag.html" . -}}
+      {{- partial "sitemap/url-entry.html" . -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 </urlset>

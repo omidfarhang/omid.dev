@@ -10,7 +10,7 @@ tags:
   - WebSockets
   - SSE
   - GraphQL
-  - GRPC
+  - gRPC
   - HTTP2
   - HTTP3
   - HTTP Push
