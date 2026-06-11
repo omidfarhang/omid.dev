@@ -24,8 +24,8 @@
 
 .article-hero .post-title {
     margin-bottom: 16px;
-    font-size: clamp(2.35rem, 5.8vw, 4rem);
-    letter-spacing: -0.04em;
+    font-size: var(--text-display-lg);
+    letter-spacing: var(--tracking-display);
 }
 
 .article-hero .post-description {
@@ -61,8 +61,8 @@
     background: var(--theme);
     border: 1px solid var(--border);
     border-radius: var(--radius-pill);
-    font-size: 0.82rem;
-    font-weight: 650;
+    font-size: var(--text-ui-sm);
+    font-weight: var(--font-semibold);
 }
 
 .article-meta .meta-item i {
@@ -117,8 +117,8 @@
 
 .article-meta .meta-share .dropdown-content a {
     min-width: 0;
-    font-size: 0.82rem;
-    font-weight: 750;
+    font-size: var(--text-ui-sm);
+    font-weight: var(--font-bold);
 }
 
 .article-meta .meta-share .dropdown-content a:not([data-brand]):hover {
@@ -169,7 +169,7 @@
 .article-body > .entry-cover p {
     margin: 12px 0 0;
     color: var(--secondary);
-    font-size: 0.9rem;
+    font-size: var(--text-ui);
     text-align: center;
 }
 
@@ -266,9 +266,9 @@
     display: block;
     padding: 7px 0;
     color: var(--secondary);
-    font-size: 0.92rem;
-    font-weight: 650;
-    line-height: 1.45;
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    line-height: var(--leading-compact);
     box-shadow: none;
     text-decoration: none !important;
 }
@@ -282,19 +282,19 @@
 .article-body .post-content {
     max-width: 78ch;
     margin: 0 auto;
-    font-size: 1.02rem;
-    line-height: 1.82;
+    font-size: var(--text-prose-body);
+    line-height: var(--leading-prose);
 }
 
 .article-body .post-content h2 {
     margin-top: 44px;
-    font-size: clamp(1.55rem, 3vw, 2rem);
-    letter-spacing: -0.025em;
+    font-size: var(--text-prose-h2-fluid);
+    letter-spacing: var(--tracking-heading);
 }
 
 .article-body .post-content h3 {
     margin-top: 34px;
-    font-size: 1.28rem;
+    font-size: var(--text-prose-h3-lg);
 }
 
 .article-body .post-content blockquote {

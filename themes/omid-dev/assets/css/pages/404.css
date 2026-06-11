@@ -34,7 +34,7 @@
 }
 
 .not-found-title {
-    font-size: 14rem;
+    font-size: var(--text-display-404);
     font-weight: 900;
     margin: 0;
     line-height: 0.9;
@@ -92,7 +92,7 @@
 }
 
 .not-found-text {
-    font-size: 1.8rem;
+    font-size: var(--text-headline-md);
     margin-bottom: 3rem;
     color: var(--secondary);
     min-height: 1.5em;
@@ -112,7 +112,7 @@
     font-style: italic;
     color: var(--secondary);
     margin-bottom: 2.5rem;
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
     opacity: 0.8;
     max-width: 500px;
     margin-left: auto;
@@ -146,7 +146,7 @@
     border: none;
     box-shadow: none;
     padding: 0.8rem 1.2rem;
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
 }
 
 .search-container-404 .input:focus {
@@ -178,7 +178,7 @@
 
 .recent-posts-404 h3 {
     margin-bottom: 1.5rem;
-    font-size: 1.2rem;
+    font-size: var(--text-section-md);
     color: var(--primary);
 }
 
@@ -219,7 +219,7 @@
 }
 
 .recent-posts-404 .date {
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     color: var(--secondary);
     opacity: 0.8;
     white-space: nowrap;
@@ -229,10 +229,10 @@
 
 @media (max-width: 600px) {
     .not-found-title {
-        font-size: 5rem;
+        font-size: var(--text-display-404-sm);
     }
     .not-found-text {
-        font-size: 1.1rem;
+        font-size: var(--text-subtitle-lg);
         white-space: normal;
         border-right: none;
         animation: none;

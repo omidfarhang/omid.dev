@@ -1,0 +1,60 @@
+/* Typography utilities — opt-in classes for templates and one-off markup */
+
+.text-2xs { font-size: var(--text-2xs); }
+.text-xs { font-size: var(--text-xs); }
+.text-sm { font-size: var(--text-sm); }
+.text-base { font-size: var(--text-base); }
+.text-md { font-size: var(--text-md); }
+.text-lg { font-size: var(--text-lg); }
+.text-xl { font-size: var(--text-xl); }
+.text-2xl { font-size: var(--text-2xl); }
+.text-3xl { font-size: var(--text-3xl); }
+.text-4xl { font-size: var(--text-4xl); }
+.text-5xl { font-size: var(--text-5xl); }
+.text-6xl { font-size: var(--text-6xl); }
+
+.text-ui-sm { font-size: var(--text-ui-sm); }
+.text-ui { font-size: var(--text-ui); }
+.text-lead { font-size: var(--text-lead); }
+.text-caption { font-size: var(--text-caption); }
+.text-subtitle { font-size: var(--text-subtitle); }
+.text-subtitle-lg { font-size: var(--text-subtitle-lg); }
+.text-title-sm { font-size: var(--text-title-sm); }
+.text-title-md { font-size: var(--text-title-md); }
+.text-body-sm { font-size: var(--text-body-sm); }
+.text-body-md { font-size: var(--text-body-md); }
+.text-compact { font-size: var(--text-compact); }
+.text-micro { font-size: var(--text-micro); }
+
+.font-normal { font-weight: var(--font-normal); }
+.font-medium { font-weight: var(--font-medium); }
+.font-semibold { font-weight: var(--font-semibold); }
+.font-bold { font-weight: var(--font-bold); }
+.font-extrabold { font-weight: var(--font-extrabold); }
+.font-black { font-weight: var(--font-black); }
+
+.leading-tight { line-height: var(--leading-tight); }
+.leading-snug { line-height: var(--leading-snug); }
+.leading-normal { line-height: var(--leading-normal); }
+.leading-relaxed { line-height: var(--leading-relaxed); }
+.leading-body { line-height: var(--leading-body); }
+.leading-prose { line-height: var(--leading-prose); }
+
+.tracking-snug { letter-spacing: var(--tracking-snug); }
+.tracking-tight { letter-spacing: var(--tracking-tight); }
+.tracking-wide { letter-spacing: var(--tracking-wide); }
+
+.text-kicker-style {
+    font-size: var(--text-kicker);
+    font-weight: var(--font-extrabold);
+    letter-spacing: var(--tracking-widest);
+    text-transform: uppercase;
+}
+
+.text-muted {
+    color: var(--secondary);
+}
+
+.text-balance {
+    text-wrap: balance;
+}

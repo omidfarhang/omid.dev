@@ -22,7 +22,7 @@
 .discussion-header h3 {
     margin: 0 0 0.45rem 0;
     color: var(--primary);
-    font-size: clamp(1.35rem, 3vw, 1.7rem);
+    font-size: var(--text-display-comments);
     font-weight: 800;
     letter-spacing: -0.025em;
 }
@@ -31,12 +31,12 @@
 }
 .discussion-header p {
     margin: 0;
-    font-size: 1rem;
+    font-size: var(--text-base);
     line-height: 1.65;
     color: var(--secondary);
 }
 .discussion-note {
-    font-size: 0.85rem !important;
+    font-size: var(--text-sm) !important;
     font-style: italic;
     opacity: 0.8;
     margin-bottom: 1.5rem !important;
@@ -74,7 +74,7 @@
     display: flex;
     gap: 1.5rem;
     flex-wrap: wrap;
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     margin-bottom: 1rem;
     color: var(--secondary);
 }
@@ -122,7 +122,7 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 0.8rem;
-    font-size: 0.9rem;
+    font-size: var(--text-ui);
 }
 
 .webmention-author a {
@@ -141,11 +141,11 @@
 
 .webmention-author time {
     color: var(--secondary);
-    font-size: 0.8rem;
+    font-size: var(--text-compact);
 }
 
 .webmention-content {
-    font-size: 1rem;
+    font-size: var(--text-base);
     line-height: 1.5;
     color: var(--content);
 }

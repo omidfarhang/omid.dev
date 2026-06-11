@@ -9,7 +9,7 @@
     border: 1px solid var(--border);
     border-radius: var(--radius);
     font-family: inherit;
-    font-size: 0.98rem;
+    font-size: var(--text-input);
     transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
     outline: none;
 }
@@ -32,7 +32,7 @@
     padding: 12px 20px;
     border-width: 2px;
     border-radius: var(--radius-pill);
-    font-size: 1rem;
+    font-size: var(--text-base);
 }
 
 .input-group {
@@ -69,8 +69,8 @@
 .form-status {
     min-height: 1.2em;
     margin-top: 0.25rem;
-    font-size: 0.9rem;
-    font-weight: 700;
+    font-size: var(--text-ui);
+    font-weight: var(--font-bold);
 }
 
 .form-status.success {

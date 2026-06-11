@@ -14,7 +14,7 @@
 
 .now-status-text {
     margin: 0;
-    font-size: 0.98rem;
+    font-size: var(--text-input);
     line-height: 1.65;
     color: var(--primary);
     font-weight: 600;
@@ -36,7 +36,7 @@
     align-items: center;
     gap: 10px;
     margin: 0 0 14px;
-    font-size: 1.35rem;
+    font-size: var(--text-2xl);
     font-weight: 800;
     color: var(--primary);
     letter-spacing: -0.02em;
@@ -45,12 +45,12 @@
 
 .now-section-title i {
     color: var(--accent);
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
 }
 
 .now-section-content {
     color: var(--content);
-    font-size: 1.02rem;
+    font-size: var(--text-prose-body);
     line-height: 1.75;
 }
 
@@ -70,7 +70,7 @@
 
 .now-inspiration {
     margin: 0;
-    font-size: 0.88rem;
+    font-size: var(--text-ui-md);
     color: var(--secondary);
     line-height: 1.6;
 }
@@ -93,7 +93,7 @@
 
 @media screen and (max-width: 768px) {
     .now-status-text {
-        font-size: 1.05rem;
+        font-size: var(--text-lead);
     }
 
     .page-metadata {

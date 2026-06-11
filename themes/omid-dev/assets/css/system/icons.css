@@ -19,37 +19,37 @@
 .icon-circle--2xs {
     width: var(--icon-2xs);
     height: var(--icon-2xs);
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
 }
 
 .icon-circle--compact {
     width: var(--icon-compact);
     height: var(--icon-compact);
-    font-size: 1rem;
+    font-size: var(--text-base);
 }
 
 .icon-circle--xs {
     width: var(--icon-xs);
     height: var(--icon-xs);
-    font-size: 0.75rem;
+    font-size: var(--text-2xs);
 }
 
 .icon-circle--sm {
     width: var(--icon-sm);
     height: var(--icon-sm);
-    font-size: 1rem;
+    font-size: var(--text-base);
 }
 
 .icon-circle--md {
     width: var(--icon-md);
     height: var(--icon-md);
-    font-size: 1.4rem;
+    font-size: var(--text-icon-lg);
 }
 
 .icon-circle--lg {
     width: var(--icon-lg);
     height: var(--icon-lg);
-    font-size: 1.35rem;
+    font-size: var(--text-2xl);
 }
 
 .icon-circle--filled {

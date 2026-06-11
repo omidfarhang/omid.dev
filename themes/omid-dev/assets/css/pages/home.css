@@ -40,7 +40,7 @@
 }
 
 .home-hero-visual h1 {
-    font-size: 1.75rem;
+    font-size: var(--text-4xl);
     font-weight: 800;
     margin: 0;
     color: var(--primary);
@@ -49,7 +49,7 @@
 }
 
 .home-hero-visual .profile-subtitle {
-    font-size: 1rem;
+    font-size: var(--text-base);
     color: var(--secondary);
     max-width: none;
     line-height: 1.45;
@@ -64,7 +64,7 @@
 
 .home-hero-tagline {
     margin: 0;
-    font-size: clamp(1.65rem, 3.2vw, 2.35rem);
+    font-size: var(--text-display-home);
     font-weight: 800;
     line-height: 1.15;
     letter-spacing: -0.03em;
@@ -73,7 +73,7 @@
 
 .home-hero-lead {
     margin: 0;
-    font-size: 1.08rem;
+    font-size: var(--text-subtitle);
     line-height: 1.7;
     color: var(--secondary);
     max-width: 52ch;
@@ -127,7 +127,7 @@
 
 .identity-principles-title {
     margin: 0 0 14px;
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     font-weight: 700;
     color: var(--primary);
 }
@@ -145,7 +145,7 @@
     position: relative;
     padding-inline-start: 18px;
     color: var(--secondary);
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     line-height: 1.55;
 }
 
@@ -162,7 +162,7 @@
 
 .identity-copy {
     color: var(--secondary);
-    font-size: 1.08rem;
+    font-size: var(--text-subtitle);
     line-height: 1.85;
 }
 
@@ -209,7 +209,7 @@
 
 .focus-card h3 {
     margin: 0 0 12px;
-    font-size: 1.05rem;
+    font-size: var(--text-lead);
     color: var(--primary);
     line-height: 1.3;
 }
@@ -233,7 +233,7 @@
 
 .home-discovery-panel .section-title--centered {
     text-align: start;
-    font-size: 1.35rem;
+    font-size: var(--text-2xl);
     margin: 0 0 28px;
     padding-bottom: 14px;
 }
@@ -260,7 +260,7 @@
 
 .tech-topics-section--bold .topics-subtitle--core {
     color: var(--secondary);
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
     letter-spacing: 0.02em;
     text-transform: none;
     margin: 24px 0 20px;
@@ -280,7 +280,7 @@
 .tech-topics-section--bold .card--topic.card--accent .icon-circle {
     width: 44px;
     height: 44px;
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
     margin-bottom: 10px;
 }
 
@@ -301,16 +301,16 @@
 .tech-topics-section--bold .topics-grid--bold .icon-circle {
     width: 44px;
     height: 44px;
-    font-size: 1rem;
+    font-size: var(--text-base);
     margin-bottom: 10px;
 }
 
 .tech-topics-section--bold .topics-grid--bold .card--topic h3 {
-    font-size: 0.88rem;
+    font-size: var(--text-ui-md);
 }
 
 .tech-topics-section--bold .topics-grid--bold .card--topic p {
-    font-size: 0.72rem;
+    font-size: var(--text-badge);
 }
 
 /* Life & Interests */
@@ -338,7 +338,7 @@
     grid-column: 1 / -1;
     margin: 0;
     padding-bottom: 12px;
-    font-size: 0.82rem;
+    font-size: var(--text-ui-sm);
     font-weight: 700;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -373,7 +373,7 @@
 .recent-posts .post-entry--compact .entry-footer {
     order: -1;
     margin-bottom: 8px;
-    font-size: 0.74rem;
+    font-size: var(--text-kicker-sm);
     opacity: 0.8;
 }
 
@@ -404,7 +404,7 @@
 .home-playground-icon {
     width: 48px;
     height: 48px;
-    font-size: 1rem;
+    font-size: var(--text-base);
 }
 
 .contact-card .btn {
@@ -427,7 +427,7 @@
 .home-playground-lede {
     margin: 0;
     color: var(--secondary);
-    font-size: 0.98rem;
+    font-size: var(--text-input);
     line-height: 1.65;
 }
 
@@ -450,7 +450,7 @@
 .contact-card p {
     max-width: 760px;
     color: var(--content);
-    font-size: 1rem;
+    font-size: var(--text-base);
     font-weight: 500;
     line-height: 1.65;
     margin: 0;
@@ -489,7 +489,7 @@
     }
 
     .section-title {
-        font-size: 1.25rem;
+        font-size: var(--text-xl);
     }
 
     .home-content {

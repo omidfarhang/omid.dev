@@ -3,7 +3,7 @@
 .section-title {
     margin: 0;
     color: var(--primary);
-    font-weight: 800;
+    font-weight: var(--font-extrabold);
 }
 
 .section-title--rule {
@@ -13,9 +13,9 @@
     margin: 0 0 18px;
     padding: 0;
     color: var(--primary);
-    font-size: 1.05rem;
-    font-weight: 800;
-    letter-spacing: -0.01em;
+    font-size: var(--text-lead);
+    font-weight: var(--font-extrabold);
+    letter-spacing: var(--tracking-tight);
 }
 
 .section-title--rule::after {
@@ -30,14 +30,14 @@
 }
 
 .section-title--underline {
-    font-size: 1.35rem;
-    font-weight: 800;
+    font-size: var(--text-2xl);
+    font-weight: var(--font-extrabold);
     margin: 0 0 28px;
     text-align: start;
     position: relative;
     padding-bottom: 14px;
     color: var(--primary);
-    letter-spacing: -0.02em;
+    letter-spacing: var(--tracking-snug);
 }
 
 .section-title--underline::after {
@@ -53,7 +53,7 @@
 
 .section-title--compact {
     margin-bottom: 20px;
-    font-size: 1.2rem;
+    font-size: var(--text-section-md);
 }
 
 .home-content > .home-section > .section-eyebrow + .section-title--underline {
@@ -73,9 +73,9 @@
     gap: 8px;
     margin: 0 0 10px;
     color: var(--accent);
-    font-size: 0.82rem;
-    font-weight: 800;
-    letter-spacing: 0.12em;
+    font-size: var(--text-kicker);
+    font-weight: var(--font-extrabold);
+    letter-spacing: var(--tracking-widest);
     text-transform: uppercase;
 }
 
@@ -91,8 +91,8 @@
 
 .section-kicker--subtle {
     color: var(--secondary);
-    font-size: 0.74rem;
-    letter-spacing: 0.08em;
+    font-size: var(--text-kicker-sm);
+    letter-spacing: var(--tracking-wider);
 }
 
 .section-kicker--subtle::before {
@@ -103,7 +103,7 @@
     margin: 0;
     padding: 20px 22px 18px;
     text-align: start;
-    font-size: 1.15rem;
+    font-size: var(--text-title-sm);
     border-bottom: 1px solid var(--border);
 }
 
@@ -112,13 +112,13 @@
 }
 
 .section-title--page {
-    font-size: 1.5rem;
+    font-size: var(--text-3xl);
     margin-bottom: 28px;
     text-align: start;
     padding-bottom: 12px;
     position: relative;
     color: var(--primary);
-    font-weight: 800;
+    font-weight: var(--font-extrabold);
 }
 
 .section-title--page::after {
@@ -143,12 +143,12 @@
 }
 
 .section-title--centered {
-    font-size: 1.75rem;
+    font-size: var(--text-4xl);
     margin: 0 0 36px;
     text-align: center;
     position: relative;
     padding-bottom: 16px;
-    letter-spacing: -0.02em;
+    letter-spacing: var(--tracking-snug);
 }
 
 .section-title--centered::after {
@@ -166,7 +166,7 @@
 .topics-section--compact .section-title--centered,
 .topics-section--compact .section-title--underline {
     text-align: start;
-    font-size: 1.25rem;
+    font-size: var(--text-xl);
     margin-bottom: 22px;
     padding-bottom: 10px;
 }
@@ -210,8 +210,8 @@
     align-items: center;
     gap: 6px;
     color: var(--accent);
-    font-size: 0.88rem;
-    font-weight: 700;
+    font-size: var(--text-sm);
+    font-weight: var(--font-bold);
     text-decoration: none !important;
     white-space: nowrap;
     transition: opacity 0.2s ease;

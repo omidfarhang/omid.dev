@@ -29,7 +29,7 @@
     font-weight: 600;
     border-radius: 20px;
     transition: all 0.2s;
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     white-space: nowrap;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .terms-group-title {
-    font-size: 1.8rem;
+    font-size: var(--text-headline-md);
     border-bottom: 2px solid var(--tertiary);
     margin-bottom: 20px;
     padding-bottom: 5px;

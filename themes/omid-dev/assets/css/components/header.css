@@ -54,7 +54,7 @@ body.dark .header.scrolled {
 }
 
 .logo a {
-    font-size: 24px;
+    font-size: var(--text-logo);
     font-weight: 800;
     letter-spacing: -0.5px;
     transition: transform 0.3s ease;
@@ -92,7 +92,7 @@ body.dark .header.scrolled {
 }
 
 #menu a {
-    font-size: 15px;
+    font-size: var(--text-base-sm);
     font-weight: 500;
     transition: all 0.3s ease;
     display: inline-block;
@@ -134,7 +134,7 @@ body.dark .header.scrolled {
 
 button#theme-toggle,
 .search-button {
-    font-size: 20px;
+    font-size: var(--text-nav-icon);
     padding: 8px;
     border-radius: 10px;
     transition: all 0.3s ease;
@@ -314,7 +314,7 @@ body.theme-system #sun {
     .mobile-menu.active #mobile-menu-list li:nth-child(5) { transition-delay: 0.3s; }
 
     #mobile-menu-list a {
-        font-size: 32px;
+        font-size: var(--text-logo-lg);
         font-weight: 700;
         letter-spacing: -1px;
         color: var(--primary);

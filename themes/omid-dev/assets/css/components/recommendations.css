@@ -89,7 +89,7 @@
 
 .recommendation-avatar.placeholder i {
     color: var(--primary);
-    font-size: 1.2rem;
+    font-size: var(--text-section-md);
 }
 
 .recommendation-avatar img {
@@ -104,20 +104,20 @@
 
 .recommendation-name {
     margin: 0;
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
     font-weight: 600;
     color: var(--primary);
 }
 
 .recommendation-title {
     margin: 0;
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     color: var(--secondary);
     line-height: 1.2;
 }
 
 .recommendation-date {
-    font-size: 0.75rem;
+    font-size: var(--text-2xs);
     color: var(--tertiary);
 }
 
@@ -125,7 +125,7 @@
     position: absolute;
     top: 0;
     inset-inline-end: 0;
-    font-size: 1.2rem;
+    font-size: var(--text-section-md);
     transition: opacity 0.2s;
 }
 
@@ -142,7 +142,7 @@
 }
 
 .recommendation-content {
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     line-height: 1.6;
     color: var(--content);
     font-style: italic;
@@ -154,13 +154,13 @@
 
 .recommendation-content p::before {
     content: '"';
-    font-size: 1.2rem;
+    font-size: var(--text-section-md);
     color: var(--tertiary);
 }
 
 .recommendation-content p::after {
     content: '"';
-    font-size: 1.2rem;
+    font-size: var(--text-section-md);
     color: var(--tertiary);
 }
 
@@ -176,7 +176,7 @@
 .recommendations-footer p {
     margin: 0 0 20px;
     color: var(--secondary);
-    font-size: 1rem;
+    font-size: var(--text-base);
 }
 
 .add-recommendation-btn {

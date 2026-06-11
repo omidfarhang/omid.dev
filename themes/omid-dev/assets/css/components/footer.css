@@ -1,7 +1,7 @@
 .footer,
 .top-link {
     color: var(--secondary);
-    font-size: 0.88rem;
+    font-size: var(--text-ui-md);
 }
 
 .footer {
@@ -72,7 +72,7 @@
     display: inline-flex;
     margin-bottom: 8px;
     color: var(--accent);
-    font-size: 0.75rem;
+    font-size: var(--text-2xs);
     font-weight: 800;
     letter-spacing: 0.08em;
     line-height: 1.2;
@@ -86,7 +86,7 @@
 .footer h2 {
     margin: 0;
     color: var(--primary);
-    font-size: clamp(1.55rem, 2.4vw, 2.15rem);
+    font-size: var(--text-display-footer);
     font-weight: 800;
     letter-spacing: -0.03em;
     line-height: 1.15;
@@ -96,7 +96,7 @@
     max-width: 68ch;
     margin: 12px 0 0;
     color: var(--content);
-    font-size: 0.98rem;
+    font-size: var(--text-input);
     line-height: 1.7;
 }
 
@@ -117,7 +117,7 @@
     gap: 10px;
     margin: 0;
     color: var(--primary);
-    font-size: 0.9rem;
+    font-size: var(--text-ui);
     font-weight: 700;
     line-height: 1.45;
 }
@@ -156,7 +156,7 @@
     margin: 0 0 16px;
     padding-bottom: 12px;
     color: var(--primary);
-    font-size: 0.78rem;
+    font-size: var(--text-caption-sm);
     font-weight: 800;
     letter-spacing: 0.08em;
     line-height: 1.2;
@@ -238,7 +238,7 @@
 
 .footer-recent-posts .post-date {
     color: var(--secondary);
-    font-size: 0.75rem;
+    font-size: var(--text-2xs);
     font-weight: 600;
 }
 
@@ -267,7 +267,7 @@
     display: block;
     margin-bottom: 12px;
     color: var(--secondary);
-    font-size: 0.68rem;
+    font-size: var(--text-micro);
     font-weight: 800;
     letter-spacing: 0.14em;
     line-height: 1.2;
@@ -287,7 +287,7 @@
     margin-top: 22px;
     border-top: 1px solid var(--border);
     color: var(--secondary);
-    font-size: 0.8rem;
+    font-size: var(--text-compact);
 }
 
 .footer-copyright {
@@ -316,7 +316,7 @@
     min-height: 30px;
     padding: 5px 9px;
     border-radius: 999px;
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     font-weight: 600;
     opacity: 0.72;
     transition: opacity 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;

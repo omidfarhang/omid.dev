@@ -21,7 +21,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    font-size: 0.9rem;
+    font-size: var(--text-ui);
 }
 
 .contact-hero-messaging {
@@ -37,7 +37,7 @@
 }
 
 .contact-hero-messaging .btn span {
-    font-size: 0.78rem;
+    font-size: var(--text-caption-sm);
 }
 
 .contact-hero-messaging .btn[data-brand]:hover,
@@ -91,7 +91,7 @@
 .method-content h3 {
     margin: 0 0 8px;
     color: var(--secondary);
-    font-size: 0.76rem;
+    font-size: var(--text-caption-xs);
     font-weight: 800;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -108,7 +108,7 @@
     max-width: 100%;
     overflow: hidden;
     color: var(--primary) !important;
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     font-weight: 700;
     text-decoration: none;
     text-overflow: ellipsis;
@@ -152,7 +152,7 @@
     gap: 6px;
     align-items: center;
     color: var(--secondary);
-    font-size: 0.9rem;
+    font-size: var(--text-ui);
     font-weight: 700;
 }
 
@@ -210,7 +210,7 @@
 .qr-text p {
     margin: 0 0 1rem;
     color: var(--content);
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     line-height: 1.6;
 }
 

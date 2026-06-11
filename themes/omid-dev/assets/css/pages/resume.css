@@ -41,7 +41,7 @@
 
 .resume-header-info h1 {
     margin: 0;
-    font-size: 3.5rem;
+    font-size: var(--text-display-name);
     font-weight: 900;
     letter-spacing: -0.05em;
     color: var(--primary);
@@ -54,7 +54,7 @@
 
 .resume-header-info h2 {
     margin: 1rem 0 0 0;
-    font-size: 1.4rem;
+    font-size: var(--text-icon-lg);
     font-weight: 600;
     color: var(--secondary);
     text-transform: uppercase;
@@ -74,7 +74,7 @@
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
     color: var(--secondary);
     transition: all 0.2s ease;
 }
@@ -92,7 +92,7 @@
     color: var(--accent);
     width: 20px;
     text-align: center;
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
 }
 
 .resume-header-contact a {
@@ -122,7 +122,7 @@
 }
 
 .utility-label {
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     font-weight: 700;
     color: var(--secondary);
     text-transform: uppercase;
@@ -182,7 +182,7 @@
 
 .resume-section-header h2 {
     margin: 0;
-    font-size: 1.25rem;
+    font-size: var(--text-xl);
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -191,11 +191,11 @@
 
 .resume-section-header i {
     color: var(--accent);
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
 }
 
 .summary-text {
-    font-size: 1.15rem !important;
+    font-size: var(--text-title-sm) !important;
     line-height: 1.8 !important;
     color: var(--content) !important;
     max-width: 900px;
@@ -258,14 +258,14 @@
 }
 
 .experience-header strong {
-    font-size: 1.35rem;
+    font-size: var(--text-2xl);
     font-weight: 800;
     color: var(--primary);
     line-height: 1.2;
 }
 
 .experience-header .period {
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     color: var(--accent);
     font-weight: 600;
     text-transform: uppercase;
@@ -274,7 +274,7 @@
 }
 
 .resume-experience-item .company {
-    font-size: 1.1rem;
+    font-size: var(--text-subtitle-lg);
     color: var(--secondary);
     font-weight: 600;
     margin-bottom: 1rem;
@@ -290,7 +290,7 @@
 }
 
 .experience-description {
-    font-size: 1rem !important;
+    font-size: var(--text-base) !important;
     color: var(--content) !important;
     margin-bottom: 1.25rem !important;
     line-height: 1.7 !important;
@@ -309,7 +309,7 @@
     margin-bottom: 0.75rem;
     line-height: 1.6;
     color: var(--content);
-    font-size: 0.95rem;
+    font-size: var(--text-body-md);
 }
 
 .responsibilities li::before {
@@ -340,7 +340,7 @@
 }
 
 .sidebar-section h3 {
-    font-size: 0.9rem;
+    font-size: var(--text-ui);
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.15em;
@@ -361,7 +361,7 @@
 }
 
 .sidebar-skill-group h4 {
-    font-size: 0.8rem;
+    font-size: var(--text-compact);
     font-weight: 700;
     color: var(--accent);
     margin-bottom: 1rem;
@@ -383,14 +383,14 @@
 
 .sidebar-cert-item strong {
     display: block;
-    font-size: 1rem;
+    font-size: var(--text-base);
     color: var(--primary);
     line-height: 1.4;
     margin-bottom: 0.25rem;
 }
 
 .sidebar-cert-item span {
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     color: var(--secondary);
     font-weight: 500;
 }
@@ -468,7 +468,7 @@ body:lang(fa) .summary-text {
 
     .resume-header-contact li {
         justify-content: flex-start;
-        font-size: 0.85rem;
+        font-size: var(--text-sm);
         white-space: nowrap;
     }
 
@@ -478,11 +478,11 @@ body:lang(fa) .summary-text {
     }
     
     .resume-header-info h1 {
-        font-size: 2.25rem;
+        font-size: var(--text-headline-xl);
     }
 
     .resume-header-info h2 {
-        font-size: 1.25rem;
+        font-size: var(--text-xl);
     }
 
     .resume-sidebar {
@@ -503,7 +503,7 @@ body:lang(fa) .summary-text {
     .experience-header .period {
         font-weight: 600;
         color: var(--accent);
-        font-size: 0.8rem;
+        font-size: var(--text-compact);
     }
 
     .resume-section {
@@ -511,7 +511,7 @@ body:lang(fa) .summary-text {
     }
 
     .resume-section-header h2 {
-        font-size: 1.1rem;
+        font-size: var(--text-subtitle-lg);
     }
     
     .experience .resume-section-content::before {
@@ -531,7 +531,7 @@ body:lang(fa) .summary-text {
 
 @media (max-width: 480px) {
     .resume-header-info h1 {
-        font-size: 1.8rem;
+        font-size: var(--text-headline-md);
     }
 }
 

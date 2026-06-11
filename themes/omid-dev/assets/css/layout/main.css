@@ -25,8 +25,8 @@ body {
     clip-path: inset(50%);
     height: 1px;
     margin: -1px;
-    font-size: 14px !important;
-    font-weight: 400;
+    font-size: var(--text-sm) !important;
+    font-weight: var(--font-normal);
     overflow: hidden;
     padding: 0;
     position: absolute !important;
@@ -35,9 +35,9 @@ body {
 }
 
 .page-header h1 {
-    font-size: 48px;
-    font-weight: 700;
-    letter-spacing: -0.03em;
+    font-size: var(--text-6xl);
+    font-weight: var(--font-bold);
+    letter-spacing: var(--tracking-heading);
 }
 
 .pagination {
@@ -46,7 +46,7 @@ body {
 
 .pagination a:not(.btn) {
     color: var(--theme);
-    font-size: 13px;
+    font-size: var(--text-xs);
     line-height: 36px;
     background: var(--primary);
     border-radius: calc(36px / 2);
@@ -83,7 +83,7 @@ pre {
     background: rgba(78, 78, 78, 0.8);
     border-radius: var(--radius);
     padding: 0 5px;
-    font-size: 14px;
+    font-size: var(--text-sm);
     user-select: none;
     cursor: pointer;
     transition: all 0.2s ease;
@@ -121,7 +121,7 @@ ul.meta li {
 }
 
 .meta-item i {
-    font-size: 14px;
+    font-size: var(--text-sm);
 }
 
 .meta-item + .meta-item::before {

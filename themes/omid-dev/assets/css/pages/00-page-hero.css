@@ -38,24 +38,24 @@
 
 .page-hero .post-title {
     margin: 0 0 14px;
-    font-size: clamp(2.2rem, 5vw, 3.2rem);
-    letter-spacing: -0.04em;
+    font-size: var(--text-display-md);
+    letter-spacing: var(--tracking-display);
 }
 
 .page-hero-lead {
     max-width: 62ch;
     margin: 0 0 14px;
     color: var(--secondary);
-    font-size: 1.05rem;
-    line-height: 1.7;
+    font-size: var(--text-lead);
+    line-height: var(--leading-body);
 }
 
 .page-hero-note {
     max-width: 62ch;
     margin-top: 4px;
     color: var(--content);
-    font-size: 0.98rem;
-    line-height: 1.75;
+    font-size: var(--text-input);
+    line-height: var(--leading-body);
 }
 
 .page-hero-note p:first-child {

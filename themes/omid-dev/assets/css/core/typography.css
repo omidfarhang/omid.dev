@@ -1,0 +1,142 @@
+/* Typography tokens — single source of truth for type across the site.
+ *
+ * Layer: core (tokens + base element defaults)
+ * Utilities: system/typography.css
+ *
+ * Scale uses 1rem = 16px. Semantic role tokens preserve established UI sizes
+ * where they fall between scale steps.
+ */
+
+:root {
+    /* Font families */
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', sans-serif, Vazirmatn;
+    --font-sans-fa: Vazirmatn, 'Inter', 'Open Sans', sans-serif;
+
+    /* Numeric type scale */
+    --text-2xs: 0.75rem;       /* 12px */
+    --text-xs: 0.8125rem;      /* 13px */
+    --text-sm: 0.875rem;       /* 14px */
+    --text-base: 1rem;         /* 16px */
+    --text-md: 1.0625rem;      /* 17px */
+    --text-lg: 1.125rem;       /* 18px */
+    --text-xl: 1.25rem;        /* 20px */
+    --text-2xl: 1.35rem;       /* 21.6px */
+    --text-3xl: 1.5rem;        /* 24px */
+    --text-4xl: 1.75rem;       /* 28px */
+    --text-5xl: 2.375rem;      /* 38px */
+    --text-6xl: 3rem;          /* 48px */
+
+    /* Extended scale steps (sizes between main steps) */
+    --text-3xs: 0.6875rem;     /* 11px */
+    --text-micro: 0.68rem;
+    --text-caption-xs: 0.76rem;
+    --text-compact: 0.8rem;
+    --text-ui-md: 0.88rem;
+    --text-body-sm: 0.92rem;
+    --text-body-md: 0.95rem;
+    --text-base-sm: 0.9375rem; /* 15px */
+    --text-subtitle: 1.08rem;
+    --text-subtitle-lg: 1.1rem;
+    --text-title-sm: 1.15rem;
+    --text-title-md: 1.18rem;
+    --text-section-md: 1.2rem;
+    --text-prose-h3-lg: 1.28rem;
+    --text-icon-lg: 1.4rem;
+    --text-headline-sm: 1.45rem;
+    --text-headline-md: 1.8rem;
+    --text-headline-lg: 2rem;
+    --text-headline-xl: 2.25rem;
+    --text-headline-2xl: 2.5rem;
+    --text-display-name: 3.5rem;
+    --text-logo: 1.5rem;           /* 24px */
+    --text-logo-lg: 2rem;          /* 32px */
+    --text-nav-icon: 1.25rem;      /* 20px */
+    --text-entry-featured: 2.125rem; /* 34px */
+    --text-icon-xl: 1.625rem;      /* 26px */
+    --text-display-404: 14rem;
+    --text-display-404-sm: 5rem;
+
+    /* Semantic roles (recurring UI patterns) */
+    --text-ui-sm: 0.82rem;
+    --text-ui: 0.9rem;
+    --text-lead: 1.05rem;
+    --text-caption: 0.86rem;
+    --text-caption-sm: 0.78rem;
+    --text-kicker: 0.82rem;
+    --text-kicker-sm: 0.74rem;
+    --text-badge: 0.72rem;
+    --text-input: 0.98rem;
+
+    /* Prose / markdown content */
+    --text-prose-body: 1.02rem;
+    --text-prose-h1: 1.4375rem;  /* 23px */
+    --text-prose-h2: 1.25rem;
+    --text-prose-h3: 1.125rem;
+    --text-prose-h4: 1.0625rem;
+    --text-prose-h5: 0.9375rem;
+    --text-prose-h6: 0.875rem;
+
+    /* Fluid display (hero / archive titles) */
+    --text-display-sm: clamp(2rem, 5vw, 2.75rem);
+    --text-display-md: clamp(2.2rem, 5vw, 3.2rem);
+    --text-display-lg: clamp(2.35rem, 5.8vw, 4rem);
+    --text-display-home: clamp(1.65rem, 3.2vw, 2.35rem);
+    --text-display-footer: clamp(1.55rem, 2.4vw, 2.15rem);
+    --text-display-featured: clamp(1.6rem, 3vw, 2.3rem);
+    --text-display-comments: clamp(1.35rem, 3vw, 1.7rem);
+    --text-prose-h2-fluid: clamp(1.55rem, 3vw, 2rem);
+
+    /* Font weights */
+    --font-normal: 400;
+    --font-medium: 500;
+    --font-semibold: 600;
+    --font-bold: 700;
+    --font-extrabold: 800;
+    --font-black: 900;
+
+    /* Line heights */
+    --leading-none: 1;
+    --leading-tight: 1.2;
+    --leading-snug: 1.3;
+    --leading-snug-plus: 1.35;
+    --leading-compact: 1.45;
+    --leading-normal: 1.55;
+    --leading-relaxed: 1.6;
+    --leading-body: 1.7;
+    --leading-prose: 1.82;
+
+    /* Letter spacing */
+    --tracking-display: -0.04em;
+    --tracking-heading: -0.025em;
+    --tracking-snug: -0.02em;
+    --tracking-tight: -0.01em;
+    --tracking-normal: 0;
+    --tracking-wide: 0.02em;
+    --tracking-wider: 0.08em;
+    --tracking-widest: 0.12em;
+}
+
+/* Base heading scale — overridden by component/page styles where needed */
+h1 {
+    font-size: var(--text-5xl);
+}
+
+h2 {
+    font-size: var(--text-3xl);
+}
+
+h3 {
+    font-size: var(--text-xl);
+}
+
+h4 {
+    font-size: var(--text-lg);
+}
+
+h5 {
+    font-size: var(--text-base);
+}
+
+h6 {
+    font-size: var(--text-sm);
+}

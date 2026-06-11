@@ -1,6 +1,6 @@
 .archive-posts {
     width: 100%;
-    font-size: 16px;
+    font-size: var(--text-base);
 }
 
 .archive-year {
@@ -57,7 +57,7 @@
 .archive-count,
 .archive-meta {
     color: var(--secondary);
-    font-size: 14px;
+    font-size: var(--text-sm);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
