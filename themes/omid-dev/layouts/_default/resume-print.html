@@ -262,8 +262,8 @@
             }
         }
     </style>
-    {{- $fontawesome := resources.Get "css/fontawesome.css" | minify | fingerprint }}
-    {{- $roboto := resources.Get "css/fonts.css" | minify | fingerprint }}
+    {{- $fontawesome := resources.Get "css/vendor/fontawesome.css" | minify | fingerprint }}
+    {{- $roboto := resources.Get "css/vendor/fonts.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $fontawesome.RelPermalink }}">
     <link rel="stylesheet" href="{{ $roboto.RelPermalink }}">
 </head>
