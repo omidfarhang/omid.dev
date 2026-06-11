@@ -10,14 +10,14 @@
 
 <div class="posts-list-content">
 {{- if not .IsHome | and .Title }}
-<header class="posts-hero panel--hero-gradient posts-hero--section">
+<header class="page-hero--contained panel--hero-gradient page-hero--section">
   {{- partial "breadcrumbs.html" . }}
-  <div class="posts-hero-inner">
-    <h1>
+  <div class="page-hero-inner">
+    <h1 class="post-title">
       {{ .Title }}
       {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
       {{- with .OutputFormats.Get "rss" }}
-      <a class="posts-hero-rss" href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
+      <a class="page-hero-rss" href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
           stroke-linecap="round" stroke-linejoin="round">
           <path d="M4 11a9 9 0 0 1 9 9" />
@@ -39,7 +39,7 @@
       {{- end }}
     {{- end }}
     {{- if $lead }}
-    <p class="posts-hero-lead">{{ $lead }}</p>
+    <p class="page-hero-lead">{{ $lead }}</p>
     {{- end }}
   </div>
 </header>

@@ -16,7 +16,7 @@
 }}
 
 {{- if $compact }}
-<div class="tech-topics-block">
+<div class="tech-topics-block topics-sidebar">
 {{- else }}
 <section class="posts-section topics-section tech-topics-section{{ if .home }} home-section topics-section--home{{ end }}{{ if $homeBold }} tech-topics-section--bold{{ end }}" aria-labelledby="tech-topics-title">
   <h2 id="tech-topics-title" class="section-title section-title--centered">{{ i18n "tech_topics" }}</h2>
@@ -40,7 +40,7 @@
   {{- end }}
 
   {{- if and $showCoreStack $coreStackTags }}
-  <h3 class="topics-subtitle topics-subtitle--core">{{ i18n "home_core_stack" }}</h3>
+  <h3 class="topics-subtitle topics-subtitle--core{{ if $compact }} topics-subtitle--rule{{ end }}">{{ i18n "home_core_stack" }}</h3>
   <div class="topics-grid topics-grid--core">
     {{- range $coreStackTags }}
     {{- $tagName := . }}
@@ -49,7 +49,7 @@
     {{- if $tagPage }}
       {{- $tagPages = intersect $tagPage.Pages $techPosts }}
     {{- end }}
-    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic card--accent">
+    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }} card--accent">
       <div class="icon-circle icon-circle--md">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
@@ -70,9 +70,9 @@
   {{- $groupClass := "" }}
   {{- if $compact }}
     {{- if $isTechnicalGroup }}
-      {{- $groupClass = " topics-grid--technical" }}
+      {{- $groupClass = " topics-grid--sidebar-tech" }}
     {{- else }}
-      {{- $groupClass = " topics-grid--professional" }}
+      {{- $groupClass = " topics-grid--sidebar-pro" }}
     {{- end }}
   {{- else if $homeBold }}
     {{- if $isTechnicalGroup }}
@@ -82,7 +82,7 @@
     {{- end }}
   {{- end }}
   {{- if $groupTags }}
-  <h3 class="topics-subtitle">{{ .title }}</h3>
+  <h3 class="topics-subtitle{{ if $compact }} topics-subtitle--rule{{ end }}">{{ .title }}</h3>
   <div class="topics-grid{{ $groupClass }}">
     {{- range $groupTags }}
     {{- $tagName := . }}
@@ -94,7 +94,7 @@
       {{- $tagPages = intersect $tagPage.Pages $techPosts }}
     {{- end }}
     {{- if or (gt (len $tagPages) 0) $.home $compact }}
-    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic">
+    <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }}">
       <div class="icon-circle icon-circle--md">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
@@ -109,7 +109,7 @@
     {{- end }}
     {{- end }}
     {{- if and $isTechnicalGroup $techSection }}
-    <a href="{{ $techSection.Permalink }}" class="card card--interactive card--topic card--dashed">
+    <a href="{{ $techSection.Permalink }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }} card--dashed">
       <div class="icon-circle icon-circle--md icon-circle--ghost">
         <i class="fa-solid fa-table-cells"></i>
       </div>

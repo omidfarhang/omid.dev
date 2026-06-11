@@ -14,16 +14,16 @@
 
 <div class="posts-list-content">
 {{- if not .IsHome | and .Title }}
-<header class="posts-hero panel--hero-gradient{{ if not $isPostsRoot }} posts-hero--section{{ end }}">
+<header class="page-hero--contained panel--hero-gradient{{ if not $isPostsRoot }} page-hero--section{{ end }}">
   {{- if not $isPostsRoot }}
   {{- partial "breadcrumbs.html" . }}
   {{- end }}
-  <div class="posts-hero-inner">
-    <h1>
+  <div class="page-hero-inner">
+    <h1 class="post-title">
       {{ .Title }}
       {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
       {{- with .OutputFormats.Get "rss" }}
-      <a class="posts-hero-rss" href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
+      <a class="page-hero-rss" href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
           stroke-linecap="round" stroke-linejoin="round">
           <path d="M4 11a9 9 0 0 1 9 9" />
@@ -45,7 +45,7 @@
     {{- $lead = i18n "blog_intro" }}
     {{- end }}
     {{- if $lead }}
-    <p class="posts-hero-lead">{{ $lead }}</p>
+    <p class="page-hero-lead">{{ $lead }}</p>
     {{- end }}
   </div>
 </header>
@@ -65,7 +65,7 @@
       {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
       {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
     </div>
-    <aside class="panel panel--tinted blog-index-sidebar" aria-labelledby="blog-index-sidebar-title">
+    <aside class="panel panel--tinted blog-index-sidebar topics-sidebar" aria-labelledby="blog-index-sidebar-title">
       <h2 id="blog-index-sidebar-title" class="section-title section-title--sidebar">{{ i18n "browse_categories" }}</h2>
     {{- if $techSection }}
     <a href="{{ $techSection.Permalink }}" class="card card--interactive card--horizontal card--promo tech-focus-card">
@@ -92,7 +92,7 @@
     ) }}
     {{- if $postsSection }}
     <div class="life-links">
-      <h3 class="topics-subtitle">{{ i18n "life_interests" }}</h3>
+      <h3 class="topics-subtitle topics-subtitle--rule">{{ i18n "life_interests" }}</h3>
       {{- range $postsSection.Sections }}
       {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
       <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link">

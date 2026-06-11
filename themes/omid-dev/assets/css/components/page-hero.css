@@ -1,0 +1,180 @@
+/* Shared page shell and hero patterns */
+
+.page-hero {
+    margin: 0;
+    padding: var(--space-hero-y) var(--space-10) var(--space-10);
+    background:
+        radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
+        radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
+        radial-gradient(circle at 50% 100%, var(--hero-glow-faint), transparent 40%),
+        var(--surface-gradient-hero),
+        var(--theme);
+    border-bottom: 1px solid var(--border);
+}
+
+body.dark .page-hero {
+    background:
+        radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
+        radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
+        linear-gradient(
+            180deg,
+            color-mix(in srgb, var(--entry) 86%, var(--accent) 14%) 0%,
+            var(--theme) 72%
+        ),
+        var(--theme);
+}
+
+.page-hero .breadcrumbs {
+    margin-bottom: var(--space-5);
+}
+
+.page-hero-inner {
+    /* grid from .layout-split; modifiers set column widths */
+}
+
+.page-hero:not(.page-hero--contained) .page-hero-inner:not(.layout-split) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+    gap: var(--space-8);
+    align-items: end;
+}
+
+.page-hero-copy {
+    min-width: 0;
+}
+
+.page-hero .post-title {
+    margin: 0 0 var(--space-4);
+    font-size: var(--text-display-md);
+    letter-spacing: var(--tracking-display);
+}
+
+.page-hero-lead {
+    max-width: 62ch;
+    margin: 0 0 var(--space-4);
+    color: var(--secondary);
+    font-size: var(--text-lead);
+    line-height: var(--leading-body);
+}
+
+.page-hero-note {
+    max-width: 62ch;
+    margin-top: var(--space-1);
+    color: var(--content);
+    font-size: var(--text-input);
+    line-height: var(--leading-body);
+}
+
+.page-hero-note p:first-child {
+    margin-top: 0;
+}
+
+.page-hero-note p:last-child {
+    margin-bottom: 0;
+}
+
+/* Contained list/section hero — composes with .panel--hero-gradient */
+.page-hero--contained {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+    margin-bottom: var(--space-10);
+    padding: var(--space-9) var(--space-8);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--accent-border-soft);
+    box-shadow: var(--shadow-sm);
+}
+
+.page-hero--contained.page-hero--section {
+    padding: var(--space-8) var(--space-9) var(--space-7);
+}
+
+.page-hero--contained .page-hero-inner {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    min-width: 0;
+}
+
+.page-hero--contained:not(.page-hero--section) .page-hero-inner {
+    align-items: center;
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.page-hero--contained.page-hero--section .page-hero-inner {
+    align-items: flex-start;
+    text-align: start;
+    max-width: none;
+    width: 100%;
+}
+
+.page-hero--contained .breadcrumbs {
+    margin-bottom: var(--space-4);
+}
+
+.page-hero--contained .breadcrumbs ol {
+    justify-content: flex-start;
+}
+
+.page-hero--contained h1,
+.page-hero--contained .post-title {
+    font-size: var(--text-display-sm);
+    font-weight: var(--font-extrabold);
+    letter-spacing: -0.03em;
+    color: var(--primary);
+    margin: 0;
+    line-height: var(--leading-display-sm);
+}
+
+.page-hero--contained .page-hero-lead {
+    max-width: 62ch;
+    margin: 0;
+    font-size: var(--text-subtitle-lg);
+    line-height: var(--leading-body);
+    color: var(--secondary);
+}
+
+.page-hero--contained:not(.page-hero--section) .page-hero-lead {
+    max-width: 52ch;
+}
+
+.page-hero-rss {
+    display: inline-flex;
+    align-items: center;
+    margin-inline-start: var(--space-3);
+    vertical-align: middle;
+    color: var(--accent);
+    opacity: 0.85;
+    transition: opacity var(--duration-fast) var(--ease-default);
+}
+
+.page-hero-rss:hover {
+    opacity: 1;
+}
+
+.page-hero-rss svg {
+    height: 22px;
+    width: 22px;
+}
+
+@media screen and (max-width: 900px) {
+    .page-hero:not(.page-hero--contained) .page-hero-inner:not(.layout-split) {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page-hero {
+        padding: var(--space-6);
+    }
+
+    .page-hero--contained {
+        padding: var(--space-8) var(--space-5) var(--space-7);
+    }
+
+    .page-hero--contained.page-hero--section {
+        padding: var(--space-6) var(--space-5);
+    }
+}

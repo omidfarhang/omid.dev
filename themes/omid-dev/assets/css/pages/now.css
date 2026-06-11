@@ -31,23 +31,6 @@
     padding-top: var(--space-2);
 }
 
-.now-section-title {
-    display: flex;
-    align-items: center;
-    gap: var(--space-3);
-    margin: 0 0 var(--space-4);
-    font-size: var(--text-2xl);
-    font-weight: var(--font-extrabold);
-    color: var(--primary);
-    letter-spacing: -0.02em;
-    line-height: var(--leading-heading);
-}
-
-.now-section-title i {
-    color: var(--accent);
-    font-size: var(--text-body-md);
-}
-
 .now-section-content {
     color: var(--content);
     font-size: var(--text-prose-body);
