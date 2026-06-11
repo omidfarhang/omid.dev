@@ -6,6 +6,6 @@
     {{- else -}}
       {{- $pages = union .RegularPages .Sections -}}
     {{- end -}}
-    {{- .Paginate $pages -}}
+    {{- $_ := .Paginate $pages -}}
   {{- end -}}
 {{- end -}}
