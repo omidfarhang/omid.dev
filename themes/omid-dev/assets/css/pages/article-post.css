@@ -309,7 +309,7 @@
     margin: var(--space-8) 0 var(--space-9);
 }
 
-.article-body .post-content table:not(.highlighttable) {
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) {
     display: block;
     width: 100%;
     overflow-x: auto;
@@ -318,13 +318,13 @@
     box-shadow: var(--shadow-sm);
 }
 
-.article-body .post-content table:not(.highlighttable) th {
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) th {
     color: var(--primary);
     background: var(--surface-tint);
 }
 
-.article-body .post-content table:not(.highlighttable) th,
-.article-body .post-content table:not(.highlighttable) td {
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) th,
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) td {
     padding: var(--space-3) var(--space-4);
 }
 
