@@ -3,14 +3,14 @@
 .input {
     width: 100%;
     box-sizing: border-box;
-    padding: 0.95rem 1rem;
+    padding: 0.95rem var(--space-4);
     color: var(--primary);
     background: var(--theme);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     font-family: inherit;
     font-size: var(--text-input);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    transition: var(--transition-form);
     outline: none;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .input--pill {
-    padding: 12px 20px;
+    padding: var(--space-3) var(--space-5);
     border-width: 2px;
     border-radius: var(--radius-pill);
     font-size: var(--text-base);
@@ -42,7 +42,7 @@
     border: 2px solid var(--border);
     border-radius: var(--radius-lg);
     background: var(--theme);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    transition: var(--transition-form-focus);
 }
 
 .input-group:focus-within {
@@ -68,7 +68,7 @@
 
 .form-status {
     min-height: 1.2em;
-    margin-top: 0.25rem;
+    margin-top: var(--space-1);
     font-size: var(--text-ui);
     font-weight: var(--font-bold);
 }

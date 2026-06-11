@@ -1,0 +1,67 @@
+/* Pagination — prev/next post navigation */
+
+.paginav {
+    display: flex;
+    gap: var(--space-5);
+    background: transparent;
+    border: none;
+    margin-top: var(--space-3);
+}
+
+.paginav a {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-4);
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: var(--transition-surface);
+    text-decoration: none !important;
+    box-shadow: var(--shadow-sm);
+}
+
+.paginav a:hover {
+    border-color: var(--accent);
+    box-shadow: var(--shadow-md);
+    transform: translateY(var(--lift-hover));
+}
+
+.paginav .title {
+    font-size: var(--text-3xs);
+    font-weight: var(--font-bold);
+    text-transform: uppercase;
+    color: var(--secondary);
+    margin-bottom: var(--space-1);
+}
+
+.paginav .prev {
+    text-align: left;
+}
+
+.paginav .next {
+    text-align: right;
+    margin-inline-start: 0;
+}
+
+.paginav span:not(.title) {
+    font-size: var(--text-base-sm);
+    font-weight: var(--font-medium);
+    color: var(--primary);
+    line-height: var(--leading-snug-loose);
+}
+
+.paginav a:hover .title {
+    color: var(--accent);
+}
+
+@media screen and (max-width: 768px) {
+    .paginav {
+        flex-direction: column;
+        gap: var(--space-3);
+    }
+
+    .paginav .next {
+        text-align: left;
+    }
+}

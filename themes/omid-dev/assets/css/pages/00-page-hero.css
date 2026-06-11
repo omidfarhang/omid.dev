@@ -7,18 +7,30 @@
 
 .page-hero {
     margin: 0;
-    padding: 34px 40px 38px;
+    padding: var(--space-hero-y) var(--space-10) var(--space-10);
     background:
         radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
         radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
         radial-gradient(circle at 50% 100%, var(--hero-glow-faint), transparent 40%),
-        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 140%, var(--surface-tint) 100%),
+        var(--surface-gradient-hero),
         var(--theme);
     border-bottom: 1px solid var(--border);
 }
 
+body.dark .page-hero {
+    background:
+        radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
+        radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
+        linear-gradient(
+            180deg,
+            color-mix(in srgb, var(--entry) 86%, var(--accent) 14%) 0%,
+            var(--theme) 72%
+        ),
+        var(--theme);
+}
+
 .page-hero .breadcrumbs {
-    margin-bottom: 22px;
+    margin-bottom: var(--space-5);
 }
 
 .page-hero-inner {
@@ -28,7 +40,7 @@
 .page-hero-inner:not(.layout-split) {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
-    gap: 32px;
+    gap: var(--space-8);
     align-items: end;
 }
 
@@ -37,14 +49,14 @@
 }
 
 .page-hero .post-title {
-    margin: 0 0 14px;
+    margin: 0 0 var(--space-4);
     font-size: var(--text-display-md);
     letter-spacing: var(--tracking-display);
 }
 
 .page-hero-lead {
     max-width: 62ch;
-    margin: 0 0 14px;
+    margin: 0 0 var(--space-4);
     color: var(--secondary);
     font-size: var(--text-lead);
     line-height: var(--leading-body);
@@ -52,7 +64,7 @@
 
 .page-hero-note {
     max-width: 62ch;
-    margin-top: 4px;
+    margin-top: var(--space-1);
     color: var(--content);
     font-size: var(--text-input);
     line-height: var(--leading-body);
@@ -74,6 +86,6 @@
 
 @media screen and (max-width: 768px) {
     .page-hero {
-        padding: 24px;
+        padding: var(--space-6);
     }
 }

@@ -9,7 +9,7 @@
 }
 
 .card--interactive {
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+    transition: var(--transition-interactive);
     text-decoration: none !important;
 }
 
@@ -44,7 +44,7 @@
 
 .card--horizontal {
     display: flex;
-    gap: 14px;
+    gap: var(--space-4);
     align-items: flex-start;
 }
 
@@ -52,24 +52,24 @@
 .topics-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 16px;
+    gap: var(--space-4);
 }
 
 .card--topic {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 24px 16px;
+    padding: var(--space-6) var(--space-4);
     border-radius: var(--radius);
     text-align: center;
 }
 
 .card--topic .icon-circle {
-    margin-bottom: 14px;
+    margin-bottom: var(--space-4);
 }
 
 .card--topic h3 {
-    margin: 0 0 8px;
+    margin: 0 0 var(--space-2);
     font-size: var(--text-base);
     color: var(--primary);
     line-height: var(--leading-snug);
@@ -82,20 +82,20 @@
 }
 
 .card--dashed .icon-circle--ghost {
-    margin-bottom: 14px;
+    margin-bottom: var(--space-4);
 }
 
 .topics-subtitle {
     font-size: var(--text-lg);
     font-weight: var(--font-bold);
     color: var(--secondary);
-    margin: 0 0 20px;
+    margin: 0 0 var(--space-5);
     text-align: start;
     letter-spacing: var(--tracking-wide);
 }
 
 .topics-subtitle:not(:first-of-type) {
-    margin-top: 32px;
+    margin-top: var(--space-8);
 }
 
 .topics-subtitle--core {
@@ -111,13 +111,13 @@
 }
 
 .card--now {
-    padding: 18px;
+    padding: var(--space-5);
     border-radius: var(--radius);
 }
 
 .card--now h3,
 .card--now .now-card-body h3 {
-    margin: 0 0 6px;
+    margin: 0 0 var(--space-2);
     font-size: var(--text-md);
     font-weight: var(--font-bold);
     color: var(--primary);
@@ -133,7 +133,7 @@
 
 .card--life {
     align-items: center;
-    padding: 16px 18px;
+    padding: var(--space-4) var(--space-5);
     border-radius: var(--radius);
     color: var(--primary);
 }
@@ -153,8 +153,8 @@
 /* Related & recommendation cards */
 .card--related {
     display: block;
-    padding: 20px;
-    background: var(--entry);
+    padding: var(--space-5);
+    background: var(--surface-raised);
     border-radius: var(--radius);
 }
 
@@ -165,7 +165,7 @@
 .card--recommendation {
     display: flex;
     flex-direction: column;
-    padding: 24px;
+    padding: var(--space-6);
     background: var(--entry);
     border-radius: var(--radius-lg);
     flex: 0 0 calc(50% - 10px);
@@ -180,8 +180,8 @@
 
 /* Tech focus promo card */
 .card--promo {
-    padding: 18px;
-    margin: 18px;
+    padding: var(--space-5);
+    margin: var(--space-5);
     border-radius: calc(var(--radius) - 2px);
     background:
         linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 70%, var(--surface-tint-strong) 100%),
@@ -198,8 +198,8 @@
 .card__cta {
     display: inline-flex;
     align-self: flex-start;
-    margin-top: 12px;
-    padding: 6px 12px;
+    margin-top: var(--space-3);
+    padding: var(--space-2) var(--space-3);
     color: var(--accent) !important;
     background: var(--theme);
     border: 1px solid var(--accent-border);
@@ -222,32 +222,56 @@
 /* Featured tech blog link */
 .tech-blog-featured {
     display: flex;
-    gap: 16px;
+    gap: var(--space-4);
     align-items: flex-start;
-    padding: 20px;
-    margin-bottom: 24px;
+    padding: var(--space-5);
+    margin-bottom: var(--space-6);
     text-decoration: none !important;
 }
 
 .tech-blog-featured-text h3 {
-    margin: 0 0 8px;
+    margin: 0 0 var(--space-2);
     font-size: var(--text-xl);
     color: var(--primary);
 }
 
 .tech-blog-featured-desc {
-    margin: 0 0 8px;
+    margin: 0 0 var(--space-2);
     color: var(--secondary);
     font-size: var(--text-ui);
     line-height: var(--leading-normal);
+}
+
+body.dark .card--companion {
+    background:
+        radial-gradient(circle at top left, color-mix(in srgb, var(--accent) 14%, transparent) 0, transparent 34%),
+        linear-gradient(
+            135deg,
+            color-mix(in srgb, var(--entry) 78%, var(--accent) 22%) 0%,
+            var(--entry) 58%,
+            var(--theme) 100%
+        ),
+        var(--entry);
+}
+
+body.dark .card--featured,
+body.dark .card--promo {
+    background:
+        linear-gradient(
+            135deg,
+            color-mix(in srgb, var(--entry) 75%, var(--accent) 25%) 0%,
+            var(--theme) 65%,
+            color-mix(in srgb, var(--theme) 90%, var(--accent) 10%) 100%
+        ),
+        var(--entry);
 }
 
 .card--companion {
     display: grid;
     grid-template-columns: auto minmax(0, 1fr) auto;
     align-items: center;
-    gap: 20px;
-    padding: 22px;
+    gap: var(--space-5);
+    padding: var(--space-5);
     color: var(--primary);
     background:
         radial-gradient(circle at top left, color-mix(in srgb, var(--accent) 20%, transparent) 0, transparent 34%),
@@ -261,7 +285,7 @@
     display: flex;
     min-width: 0;
     flex-direction: column;
-    gap: 5px;
+    gap: var(--space-1);
 }
 
 .companion-card__title {
@@ -283,8 +307,8 @@
     overflow: hidden;
     width: fit-content;
     max-width: 100%;
-    margin-top: 4px;
-    padding: 4px 8px;
+    margin-top: var(--space-1);
+    padding: var(--space-1) var(--space-2);
     color: var(--accent);
     background: var(--code-bg);
     border-radius: var(--radius);

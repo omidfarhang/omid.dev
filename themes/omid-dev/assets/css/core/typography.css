@@ -95,15 +95,25 @@
     --font-black: 900;
 
     /* Line heights */
+    --leading-display: 0.9;
+    --leading-tight-plus: 1.1;
+    --leading-display-sm: 1.15;
     --leading-none: 1;
+    --leading-heading: 1.25;
     --leading-tight: 1.2;
     --leading-snug: 1.3;
+    --leading-snug-loose: 1.4;
     --leading-snug-plus: 1.35;
+    --leading-medium: 1.5;
     --leading-compact: 1.45;
     --leading-normal: 1.55;
     --leading-relaxed: 1.6;
+    --leading-body-plus: 1.65;
     --leading-body: 1.7;
+    --leading-loose: 1.75;
+    --leading-prose-loose: 1.8;
     --leading-prose: 1.82;
+    --leading-prose-wide: 1.85;
 
     /* Letter spacing */
     --tracking-display: -0.04em;

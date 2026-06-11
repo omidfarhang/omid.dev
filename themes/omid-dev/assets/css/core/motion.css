@@ -1,0 +1,36 @@
+/* Motion tokens — durations, easing, and common transition presets */
+
+:root {
+    --duration-instant: 0.1s;
+    --duration-fast: 0.2s;
+    --duration-normal: 0.3s;
+    --duration-slow: 0.4s;
+    --duration-menu: 0.5s;
+    --ease-default: ease;
+    --ease-out: cubic-bezier(0.33, 1, 0.68, 1);
+    --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+
+    --transition-base: all var(--duration-fast) var(--ease-default);
+    --transition-surface: all var(--duration-normal) var(--ease-default);
+    --transition-nav: all var(--duration-normal) var(--ease-standard);
+    --transition-nav-slow: all var(--duration-slow) var(--ease-standard);
+    --transition-color: color var(--duration-fast) var(--ease-default);
+    --transition-form:
+        border-color var(--duration-fast) var(--ease-default),
+        box-shadow var(--duration-fast) var(--ease-default),
+        background var(--duration-fast) var(--ease-default);
+    --transition-form-focus:
+        border-color var(--duration-fast) var(--ease-default),
+        box-shadow var(--duration-fast) var(--ease-default);
+    --transition-interactive:
+        border-color var(--duration-fast) var(--ease-default),
+        box-shadow var(--duration-fast) var(--ease-default),
+        transform var(--duration-fast) var(--ease-default);
+    --transition-lift:
+        transform var(--duration-normal) var(--ease-default),
+        box-shadow var(--duration-normal) var(--ease-default);
+    --transition-header:
+        background-color var(--duration-slow) var(--ease-default),
+        box-shadow var(--duration-slow) var(--ease-default),
+        border-bottom var(--duration-slow) var(--ease-default);
+}

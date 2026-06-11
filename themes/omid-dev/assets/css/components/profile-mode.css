@@ -12,13 +12,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px;
+    gap: var(--space-4);
 }
 
 .profile img {
     border-radius: 50%;
     box-shadow: var(--shadow-md);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: var(--transition-lift);
     border: 4px solid var(--theme);
 }
 
@@ -29,8 +29,8 @@
 
 .profile h1 {
     font-size: var(--text-6xl);
-    font-weight: 800;
-    margin: 10px 0 0;
+    font-weight: var(--font-extrabold);
+    margin: var(--space-3) 0 0;
     color: var(--primary);
     letter-spacing: -0.03em;
 }
@@ -39,12 +39,12 @@
     font-size: var(--text-icon-lg);
     color: var(--secondary);
     max-width: 600px;
-    line-height: 1.4;
+    line-height: var(--leading-snug-loose);
 }
 
 .profile .btn-group {
     flex-wrap: wrap;
     justify-content: center;
     max-width: 500px;
-    margin-top: 10px;
+    margin-top: var(--space-3);
 }

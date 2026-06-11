@@ -21,7 +21,7 @@
 }
 
 .panel--hero {
-    padding: 18px;
+    padding: var(--space-5);
     background: rgba(var(--theme-rgb), 0.72);
     border-color: var(--accent-border);
     border-radius: var(--radius-lg);
@@ -43,8 +43,8 @@
 .panel--form {
     display: flex;
     flex-direction: column;
-    gap: 18px;
-    padding: 28px;
+    gap: var(--space-5);
+    padding: var(--space-7);
     background: var(--surface-gradient-tinted), var(--theme);
     border-color: var(--accent-border-soft);
     border-radius: var(--radius-xl);
@@ -53,8 +53,8 @@
 
 .panel--qr {
     display: grid;
-    gap: 18px;
-    padding: 22px;
+    gap: var(--space-5);
+    padding: var(--space-5);
 }
 
 .panel--flush {

@@ -1,19 +1,19 @@
 .post-filter {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 30px;
-    padding: 15px 0;
+    gap: var(--space-3);
+    margin-bottom: var(--space-8);
+    padding: var(--space-4) 0;
     border-bottom: 1px solid var(--border);
 }
 
 .filter-item {
-    padding: 6px 16px;
+    padding: var(--space-2) var(--space-4);
     border-radius: 20px;
     background: var(--code-bg);
     color: var(--secondary);
     font-size: var(--text-sm);
-    transition: all 0.2s ease;
+    transition: var(--transition-base);
     border: 1px solid transparent;
 }
 
@@ -25,9 +25,9 @@
 .filter-item.active {
     background: var(--primary);
     color: var(--theme);
-    font-weight: 500;
+    font-weight: var(--font-medium);
 }
 
 [dir="rtl"] .post-filter {
-    gap: 10px;
+    gap: var(--space-3);
 }

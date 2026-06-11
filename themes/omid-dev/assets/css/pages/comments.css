@@ -1,5 +1,5 @@
 .comments-container {
-    margin: 3.5rem 0 2rem;
+    margin: 3.5rem 0 var(--space-8);
     padding: 0;
     overflow: hidden;
     background: var(--surface-gradient-tinted), var(--theme);
@@ -9,21 +9,21 @@
 }
 
 .social-discussion {
-    padding: 28px;
+    padding: var(--space-7);
 }
 
 .discussion-header {
     display: flex;
     align-items: flex-start;
-    gap: 16px;
-    margin-bottom: 20px;
+    gap: var(--space-4);
+    margin-bottom: var(--space-5);
 }
 
 .discussion-header h3 {
     margin: 0 0 0.45rem 0;
     color: var(--primary);
     font-size: var(--text-display-comments);
-    font-weight: 800;
+    font-weight: var(--font-extrabold);
     letter-spacing: -0.025em;
 }
 [dir="rtl"] .discussion-header h3 {
@@ -32,18 +32,18 @@
 .discussion-header p {
     margin: 0;
     font-size: var(--text-base);
-    line-height: 1.65;
+    line-height: var(--leading-body-plus);
     color: var(--secondary);
 }
 .discussion-note {
     font-size: var(--text-sm) !important;
     font-style: italic;
     opacity: 0.8;
-    margin-bottom: 1.5rem !important;
+    margin-bottom: var(--space-6) !important;
 }
 .share-links {
     display: flex;
-    gap: 10px;
+    gap: var(--space-3);
     flex-wrap: wrap;
 }
 [dir="rtl"] .share-links {
@@ -61,21 +61,21 @@
 /* Webmentions */
 .webmentions-container {
     margin-top: 0;
-    padding: 24px 28px 28px;
+    padding: var(--space-6) var(--space-7) var(--space-7);
     background: rgba(var(--theme-rgb), 0.58);
     border-top: 1px solid var(--accent-border-soft);
 }
 
 .webmentions-header {
-    margin-bottom: 2rem;
+    margin-bottom: var(--space-8);
 }
 
 .webmentions-stats {
     display: flex;
-    gap: 1.5rem;
+    gap: var(--space-6);
     flex-wrap: wrap;
     font-size: var(--text-body-md);
-    margin-bottom: 1rem;
+    margin-bottom: var(--space-4);
     color: var(--secondary);
 }
 
@@ -86,7 +86,7 @@
 .webmentions-facepile {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: var(--space-2);
 }
 
 .webmentions-facepile img {
@@ -95,7 +95,7 @@
     border-radius: 50%;
     border: 2px solid var(--theme);
     box-shadow: var(--shadow-sm);
-    transition: transform 0.2s;
+    transition: transform var(--duration-fast) var(--ease-default);
 }
 
 .webmentions-facepile a:hover img {
@@ -106,7 +106,7 @@
 .webmentions-list {
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+    gap: var(--space-6);
 }
 
 .webmention-item {
@@ -128,8 +128,8 @@
 .webmention-author a {
     display: flex;
     align-items: center;
-    gap: 10px;
-    font-weight: 600;
+    gap: var(--space-3);
+    font-weight: var(--font-semibold);
     color: var(--primary);
 }
 
@@ -146,7 +146,7 @@
 
 .webmention-content {
     font-size: var(--text-base);
-    line-height: 1.5;
+    line-height: var(--leading-medium);
     color: var(--content);
 }
 
@@ -172,7 +172,7 @@
 @media screen and (max-width: 768px) {
     .social-discussion,
     .webmentions-container {
-        padding: 22px;
+        padding: var(--space-5);
     }
 
     .discussion-header {

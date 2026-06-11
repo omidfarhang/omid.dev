@@ -35,9 +35,12 @@
 
 .leading-tight { line-height: var(--leading-tight); }
 .leading-snug { line-height: var(--leading-snug); }
+.leading-medium { line-height: var(--leading-medium); }
 .leading-normal { line-height: var(--leading-normal); }
 .leading-relaxed { line-height: var(--leading-relaxed); }
+.leading-body-plus { line-height: var(--leading-body-plus); }
 .leading-body { line-height: var(--leading-body); }
+.leading-loose { line-height: var(--leading-loose); }
 .leading-prose { line-height: var(--leading-prose); }
 
 .tracking-snug { letter-spacing: var(--tracking-snug); }

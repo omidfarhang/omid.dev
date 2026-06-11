@@ -4,7 +4,7 @@
 }
 
 .archive-year {
-    margin-top: 40px;
+    margin-top: var(--space-10);
 }
 
 .archive-year:not(:last-of-type) {
@@ -14,11 +14,11 @@
 .archive-month {
     display: flex;
     align-items: flex-start;
-    padding: 10px 0;
+    padding: var(--space-3) 0;
 }
 
 .archive-month-header {
-    margin: 25px 0;
+    margin: var(--space-6) 0;
     width: 200px;
 }
 
@@ -28,10 +28,10 @@
 
 .archive-entry {
     position: relative;
-    padding: 8px;
-    margin: 10px 0;
+    padding: var(--space-2);
+    margin: var(--space-3) 0;
     border-radius: 6px;
-    transition: all 0.2s ease;
+    transition: var(--transition-base);
 }
 
 .archive-entry:hover {
@@ -45,9 +45,9 @@
 }
 
 .archive-entry-title {
-    margin: 5px 0;
-    font-weight: 400;
-    transition: color 0.2s ease;
+    margin: var(--space-1) 0;
+    font-weight: var(--font-normal);
+    transition: var(--transition-color);
 }
 
 .archive-entry:hover .archive-entry-title {
@@ -61,5 +61,5 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 4px;
+    gap: var(--space-1);
 }

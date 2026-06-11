@@ -3,7 +3,7 @@
 .social-icons {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: var(--space-2);
 }
 
 .social-icon-link {
@@ -21,8 +21,8 @@
 
 /* Home / profile — plain icon links */
 .social-icons:not(.social-icons--circle) .social-icon-link {
-    padding: 10px;
-    transition: all 0.3s ease;
+    padding: var(--space-3);
+    transition: var(--transition-surface);
 }
 
 .social-icons:not(.social-icons--circle) .social-icon-link:hover {

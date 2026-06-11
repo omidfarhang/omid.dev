@@ -1,6 +1,6 @@
 .recommendations-section {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: var(--space-10);
+    margin-bottom: var(--space-10);
     overflow: hidden;
 }
 
@@ -8,18 +8,18 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 40px;
+    margin-bottom: var(--space-10);
     position: relative;
 }
 
 .recommendations-section .section-title {
-    margin-bottom: 20px;
+    margin-bottom: var(--space-5);
 }
 
 .slider-controls {
     display: flex;
-    gap: 10px;
-    margin-top: 10px;
+    gap: var(--space-3);
+    margin-top: var(--space-3);
 }
 
 .slider-controls button {
@@ -33,7 +33,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.2s;
+    transition: var(--transition-base);
 }
 
 .slider-controls button:hover:not(:disabled) {
@@ -52,8 +52,8 @@
 
 .recommendations-slider {
     display: flex;
-    gap: 20px;
-    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    gap: var(--space-5);
+    transition: transform var(--duration-slow) var(--ease-standard);
 }
 
 .recommendation-card {
@@ -70,7 +70,7 @@
 .recommendation-header {
     display: flex;
     align-items: center;
-    margin-bottom: 16px;
+    margin-bottom: var(--space-4);
     position: relative;
 }
 
@@ -79,7 +79,7 @@
     height: 50px;
     border-radius: 50%;
     overflow: hidden;
-    margin-inline-end: 12px;
+    margin-inline-end: var(--space-3);
     flex-shrink: 0;
     background: var(--tertiary);
     display: flex;
@@ -105,7 +105,7 @@
 .recommendation-name {
     margin: 0;
     font-size: var(--text-subtitle-lg);
-    font-weight: 600;
+    font-weight: var(--font-semibold);
     color: var(--primary);
 }
 
@@ -113,7 +113,7 @@
     margin: 0;
     font-size: var(--text-sm);
     color: var(--secondary);
-    line-height: 1.2;
+    line-height: var(--leading-tight);
 }
 
 .recommendation-date {
@@ -126,7 +126,7 @@
     top: 0;
     inset-inline-end: 0;
     font-size: var(--text-section-md);
-    transition: opacity 0.2s;
+    transition: opacity var(--duration-fast) var(--ease-default);
 }
 
 .recommendation-link[data-brand] i {
@@ -143,7 +143,7 @@
 
 .recommendation-content {
     font-size: var(--text-body-md);
-    line-height: 1.6;
+    line-height: var(--leading-relaxed);
     color: var(--content);
     font-style: italic;
 }
@@ -165,16 +165,16 @@
 }
 
 .recommendations-footer {
-    margin-top: 40px;
+    margin-top: var(--space-10);
     text-align: center;
-    padding: 30px;
+    padding: var(--space-8);
     background: var(--entry);
     border-radius: 12px;
     border: 1px dashed var(--border);
 }
 
 .recommendations-footer p {
-    margin: 0 0 20px;
+    margin: 0 0 var(--space-5);
     color: var(--secondary);
     font-size: var(--text-base);
 }
@@ -182,13 +182,13 @@
 .add-recommendation-btn {
     display: inline-flex;
     align-items: center;
-    gap: 10px;
+    gap: var(--space-3);
     background: var(--brand-color, var(--brand-linkedin));
     color: #fff !important;
-    padding: 10px 24px;
+    padding: var(--space-3) var(--space-6);
     border-radius: 30px;
-    font-weight: 600;
-    transition: all 0.2s;
+    font-weight: var(--font-semibold);
+    transition: var(--transition-base);
     text-decoration: none;
 }
 

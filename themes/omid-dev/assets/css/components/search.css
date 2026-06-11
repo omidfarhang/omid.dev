@@ -1,12 +1,12 @@
 .searchbox input {
-    padding: 8px 12px;
+    padding: var(--space-2) var(--space-3);
     width: 100%;
     color: var(--primary);
-    font-weight: bold;
+    font-weight: var(--font-bold);
     border: 2px solid var(--border);
     border-radius: var(--radius);
     box-shadow: var(--shadow-sm);
-    transition: all 0.3s ease;
+    transition: var(--transition-surface);
 }
 
 .searchbox input:focus {
@@ -18,8 +18,8 @@
 .search-loading {
     display: flex;
     align-items: center;
-    gap: 10px;
-    margin-top: 10px;
+    gap: var(--space-3);
+    margin-top: var(--space-3);
     color: var(--secondary);
     font-size: 0.9em;
 }
@@ -44,28 +44,28 @@
 }
 
 .search-results-count {
-    margin-bottom: 10px;
+    margin-bottom: var(--space-3);
 }
 
 #searchResults .post-entry .entry-footer {
-    margin-top: 10px;
-    margin-bottom: 15px;
+    margin-top: var(--space-3);
+    margin-bottom: var(--space-4);
 }
 
 .pagination {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 8px;
-    margin-top: 30px;
-    padding: 20px 0;
+    gap: var(--space-2);
+    margin-top: var(--space-8);
+    padding: var(--space-5) 0;
     flex-wrap: wrap;
 }
 
 .page-btn.btn--page,
 .page-num.btn--page {
     min-width: 40px;
-    padding: 8px 14px;
+    padding: var(--space-2) var(--space-4);
     font-size: 0.9em;
 }
 
@@ -76,7 +76,7 @@
 
 .page-dots {
     color: var(--secondary);
-    padding: 0 4px;
+    padding: 0 var(--space-1);
 }
 
 .page-info {

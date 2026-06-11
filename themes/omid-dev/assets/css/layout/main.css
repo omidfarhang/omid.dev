@@ -14,7 +14,7 @@ body {
 .page-content {
     background: var(--theme);
     border-radius: var(--radius);
-    padding: 48px;
+    padding: var(--space-11);
     box-shadow: var(--shadow-md);
     border: 0.5px solid var(--border);
 }
@@ -50,8 +50,8 @@ body {
     line-height: 36px;
     background: var(--primary);
     border-radius: calc(36px / 2);
-    padding: 0 16px;
-    transition: all 0.3s ease;
+    padding: 0 var(--space-4);
+    transition: var(--transition-surface);
     box-shadow: var(--shadow-sm);
 }
 
@@ -82,11 +82,11 @@ pre {
     color: rgba(255, 255, 255, 0.8);
     background: rgba(78, 78, 78, 0.8);
     border-radius: var(--radius);
-    padding: 0 5px;
+    padding: 0 var(--space-1);
     font-size: var(--text-sm);
     user-select: none;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: var(--transition-base);
 }
 
 .copy-code:hover {
@@ -102,7 +102,7 @@ pre:hover .copy-code {
 .meta-item {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
+    gap: var(--space-2);
     white-space: nowrap;
 }
 
@@ -126,7 +126,7 @@ ul.meta li {
 
 .meta-item + .meta-item::before {
     content: "•";
-    margin: 0 8px;
+    margin: 0 var(--space-2);
     color: var(--tertiary);
 }
 
@@ -141,7 +141,7 @@ ul.meta li {
     border-radius: 50%;
     vertical-align: middle;
     object-fit: cover;
-    margin-right: 4px;
+    margin-right: var(--space-1);
 }
 
 .toast-message {
@@ -151,7 +151,7 @@ ul.meta li {
     transform: translateX(-50%);
     background-color: #333;
     color: #fff;
-    padding: 10px 20px;
+    padding: var(--space-3) var(--space-5);
     border-radius: 5px;
     z-index: 1000;
 }
@@ -183,32 +183,32 @@ ul.meta li {
 
 .layout-split--hero {
     grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
-    gap: 32px;
+    gap: var(--space-8);
     align-items: end;
 }
 
 .layout-split--hero-wide {
     grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
-    gap: 32px;
+    gap: var(--space-8);
     align-items: end;
 }
 
 .layout-split--hero-sidebar-340 {
     grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
-    gap: 32px;
+    gap: var(--space-8);
     align-items: end;
 }
 
 .layout-split--hero-narrow {
     grid-template-columns: minmax(0, 1fr) minmax(240px, 320px);
-    gap: 32px;
+    gap: var(--space-8);
     align-items: end;
 }
 
 .page-shell {
     max-width: 1120px;
     margin: 0 auto;
-    padding: 38px 40px 56px;
+    padding: var(--space-10) var(--space-10) 56px;
 }
 
 .hover-lift {
@@ -237,6 +237,6 @@ ul.meta li {
     }
 
     .page-shell {
-        padding: 28px 24px 40px;
+        padding: var(--space-7) var(--space-6) var(--space-10);
     }
 }
