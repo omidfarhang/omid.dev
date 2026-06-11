@@ -30,7 +30,7 @@
     </h1>
     {{- $lead := .Description }}
     {{- if and (not $lead) $isTerm (partial "is_curated_tech_tag.html" .) }}
-      {{- $lead = printf "Articles about %s — topics, guides, and notes from the TechBlog." .Title }}
+      {{- $lead = partial "curated_tag_description.html" . }}
     {{- end }}
     {{- if not $lead }}
       {{- with .Content }}

@@ -242,6 +242,9 @@
 - id: view_all_tech_posts
   translation: "Browse all tech posts"
 
+- id: curated_tag_description
+  translation: "Articles about {{ .tag }} — topics, guides, and notes from the TechBlog."
+
 - id: save_contact
   translation: "Save Contact"
 

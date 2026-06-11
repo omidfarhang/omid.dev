@@ -188,6 +188,9 @@
 - id: view_all_tech_posts
   translation: "Alle Tech-Beiträge"
 
+- id: curated_tag_description
+  translation: "Artikel über {{ .tag }} — Themen, Anleitungen und Notizen aus dem TechBlog."
+
 - id: contact
   translation: "Kontakt"
 

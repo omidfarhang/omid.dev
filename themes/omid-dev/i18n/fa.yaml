@@ -242,6 +242,9 @@
 - id: view_all_tech_posts
   translation: "همه مطالب فنی"
 
+- id: curated_tag_description
+  translation: "مقالات درباره {{ .tag }} — موضوعات، راهنماها و یادداشت‌هایی از بلاگ فنی."
+
 - id: save_contact
   translation: "ذخیره مخاطب"
 

@@ -7,6 +7,6 @@
   {{- $description = site.Params.description -}}
 {{- end -}}
 {{- if and (eq .Kind "term") (eq .Type "tags") (partial "is_curated_tech_tag.html" .) (not (partial "is_paginated_archive.html" .)) -}}
-  {{- $description = printf "Articles about %s — topics, guides, and notes from the TechBlog." .Title -}}
+  {{- $description = partial "curated_tag_description.html" . -}}
 {{- end -}}
 {{- return $description -}}

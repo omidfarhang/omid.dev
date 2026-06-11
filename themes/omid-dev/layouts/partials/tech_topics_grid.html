@@ -46,8 +46,8 @@
     {{- $tagName := . }}
     {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
     {{- $tagPage := "" }}
-    {{- range $slug, $_ := site.Taxonomies.tags }}
-      {{- with site.GetPage (printf "/tags/%s" $slug) }}
+    {{- range site.Taxonomies.tags }}
+      {{- with .Page }}
         {{- if eq .Title $tagName }}
           {{- $tagPage = . }}
         {{- end }}
@@ -94,8 +94,8 @@
     {{- if not $isDuplicateCore }}
     {{- $tagPages := where $techPosts "Params.tags" "intersect" (slice $tagName) }}
     {{- $tagPage := "" }}
-    {{- range $slug, $_ := site.Taxonomies.tags }}
-      {{- with site.GetPage (printf "/tags/%s" $slug) }}
+    {{- range site.Taxonomies.tags }}
+      {{- with .Page }}
         {{- if eq .Title $tagName }}
           {{- $tagPage = . }}
         {{- end }}
