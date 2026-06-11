@@ -16,6 +16,18 @@
         box-shadow 0.2s ease;
 }
 
+.icon-circle--2xs {
+    width: var(--icon-2xs);
+    height: var(--icon-2xs);
+    font-size: 0.85rem;
+}
+
+.icon-circle--compact {
+    width: var(--icon-compact);
+    height: var(--icon-compact);
+    font-size: 1rem;
+}
+
 .icon-circle--xs {
     width: var(--icon-xs);
     height: var(--icon-xs);

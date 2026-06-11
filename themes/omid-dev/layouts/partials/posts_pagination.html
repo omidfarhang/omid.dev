@@ -7,8 +7,8 @@
 <footer class="page-footer pagination-rich">
   <nav class="pagination pagination-nav" aria-label="{{ i18n "pagination" }}">
     {{- if $p.HasPrev }}
-    <a href="{{ $p.First.URL }}" class="page-btn page-first" aria-label="{{ i18n "pagination_first" }}">«</a>
-    <a href="{{ $p.Prev.URL }}" class="page-btn page-prev">{{ i18n "prev_page" }}</a>
+    <a href="{{ $p.First.URL }}" class="btn btn--page page-btn page-first" aria-label="{{ i18n "pagination_first" }}">«</a>
+    <a href="{{ $p.Prev.URL }}" class="btn btn--page page-btn page-prev">{{ i18n "prev_page" }}</a>
     {{- end }}
 
     {{- range $p.Pagers }}
@@ -19,17 +19,17 @@
       <span class="page-ellipsis" aria-hidden="true">…</span>
       {{- end }}
       {{- if eq $n $cur }}
-      <span class="page-btn page-num current" aria-current="page">{{ $n }}</span>
+      <span class="btn btn--page page-btn page-num current" aria-current="page">{{ $n }}</span>
       {{- else }}
-      <a href="{{ .URL }}" class="page-btn page-num">{{ $n }}</a>
+      <a href="{{ .URL }}" class="btn btn--page page-btn page-num">{{ $n }}</a>
       {{- end }}
       {{- $prevShown = $n }}
     {{- end }}
     {{- end }}
 
     {{- if $p.HasNext }}
-    <a href="{{ $p.Next.URL }}" class="page-btn page-next">{{ i18n "next_page" }}</a>
-    <a href="{{ $p.Last.URL }}" class="page-btn page-last" aria-label="{{ i18n "pagination_last" }}">»</a>
+    <a href="{{ $p.Next.URL }}" class="btn btn--page page-btn page-next">{{ i18n "next_page" }}</a>
+    <a href="{{ $p.Last.URL }}" class="btn btn--page page-btn page-last" aria-label="{{ i18n "pagination_last" }}">»</a>
     {{- end }}
   </nav>
 </footer>

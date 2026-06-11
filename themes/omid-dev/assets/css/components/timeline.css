@@ -1,0 +1,101 @@
+/* Timeline — vertical line + dot markers */
+
+.timeline {
+    position: relative;
+}
+
+.timeline--track {
+    padding-inline-start: 24px;
+}
+
+.timeline--track::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: 0;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--border);
+}
+
+.timeline--track-top::before {
+    top: 0.62rem;
+}
+
+.timeline__item {
+    position: relative;
+}
+
+.timeline__item::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    background: var(--theme);
+    border: 2px solid var(--accent);
+    transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.timeline__item--dot {
+    padding-inline-start: 24px;
+}
+
+.timeline__item--dot::before {
+    inset-inline-start: -29px;
+    top: 0.45em;
+    width: 9px;
+    height: 9px;
+    box-shadow: 0 0 0 4px var(--theme), 0 0 12px var(--hero-glow-soft);
+}
+
+.timeline__item--marker {
+    margin-bottom: 28px;
+}
+
+.timeline__item--marker::before {
+    inset-inline-start: -30px;
+    top: 6px;
+    width: 10px;
+    height: 10px;
+}
+
+.timeline__item--marker:last-child {
+    margin-bottom: 0;
+}
+
+.timeline__item:hover::before {
+    background: var(--accent);
+    transform: scale(1.15);
+}
+
+.timeline__item--dot:hover::before {
+    transform: scale(1.15);
+}
+
+.timeline__item--dot-filled::before {
+    background: var(--accent);
+    border: none;
+}
+
+.timeline__item--dot-filled:hover::before {
+    transform: scale(1.15);
+}
+
+[dir="rtl"] .timeline--track {
+    padding-inline-start: 0;
+    padding-inline-end: 24px;
+}
+
+[dir="rtl"] .timeline--track::before {
+    inset-inline-start: auto;
+    inset-inline-end: 0;
+}
+
+[dir="rtl"] .timeline__item--dot::before {
+    inset-inline-start: auto;
+    inset-inline-end: -29px;
+}
+
+[dir="rtl"] .timeline__item--marker::before {
+    inset-inline-start: auto;
+    inset-inline-end: -30px;
+}

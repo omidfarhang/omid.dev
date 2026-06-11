@@ -14,7 +14,7 @@
 
 <div class="posts-list-content">
 {{- if not .IsHome | and .Title }}
-<header class="posts-hero{{ if not $isPostsRoot }} posts-hero--section{{ end }}">
+<header class="posts-hero panel--hero-gradient{{ if not $isPostsRoot }} posts-hero--section{{ end }}">
   {{- if not $isPostsRoot }}
   {{- partial "breadcrumbs.html" . }}
   {{- end }}
@@ -60,7 +60,7 @@
 {{- end }}
 
 {{- if $isPostsRoot }}
-  <div class="blog-index-layout">
+  <div class="layout-split layout-split--sidebar-340 blog-index-layout">
     <div class="blog-index-main">
       {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
       {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}

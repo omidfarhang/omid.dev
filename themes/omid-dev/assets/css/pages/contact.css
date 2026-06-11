@@ -1,9 +1,5 @@
 /* Contact Page Styles */
 
-.contact-hero .page-hero-inner {
-    grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
-}
-
 .contact-hero-card {
     display: grid;
     gap: 10px;
@@ -49,10 +45,7 @@
 }
 
 .contact-layout {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(300px, 360px);
     gap: 28px;
-    align-items: start;
 }
 
 .contact-side-panel {
@@ -77,29 +70,11 @@
     gap: 14px;
     min-width: 0;
     padding: 18px;
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: calc(var(--radius) * 1.5);
-    box-shadow: var(--shadow-sm);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.contact-method-item:hover {
-    border-color: var(--accent);
-    box-shadow: var(--shadow-md);
-    transform: translateY(-2px);
-}
-
-.method-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    width: 42px;
-    height: 42px;
-    color: var(--accent);
+.method-icon.icon-circle {
     background: var(--quaternary);
-    border-radius: 50%;
+    border-color: transparent;
 }
 
 .method-content {
@@ -235,11 +210,6 @@
 
 
 @media screen and (max-width: 960px) {
-    .contact-hero .page-hero-inner,
-    .contact-layout {
-        grid-template-columns: 1fr;
-    }
-
     .contact-hero-card {
         max-width: 440px;
     }

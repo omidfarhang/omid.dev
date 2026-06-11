@@ -1,5 +1,4 @@
 .about-hero .page-hero-inner {
-  grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
   align-items: center;
 }
 
@@ -110,10 +109,7 @@
 }
 
 .about-me-container {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(300px, 360px);
   gap: 28px;
-  align-items: start;
 }
 
 .about-me-content {
@@ -207,11 +203,6 @@
 }
 
 @media screen and (max-width: 960px) {
-  .about-hero .page-hero-inner,
-  .about-me-container {
-    grid-template-columns: 1fr;
-  }
-
   .about-profile-card {
     max-width: 480px;
   }

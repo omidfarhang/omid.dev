@@ -2,7 +2,7 @@
 <section class="comments-container" aria-labelledby="discussion-title">
     <div class="social-discussion">
         <div class="discussion-header">
-            <span class="discussion-icon" aria-hidden="true">
+            <span class="icon-circle icon-circle--compact discussion-icon" aria-hidden="true">
                 <i class="fa-solid fa-comments"></i>
             </span>
             <div class="discussion-copy">
@@ -18,31 +18,31 @@
             {{- $search_query = replace (replace $search_query "https://" "") "http://" "" -}}
             
             {{- $x_url := .Params.x_link | default (printf "https://x.com/search?q=%s" $search_query) -}}
-            <a class="share-btn x-btn" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn x-btn" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-x-twitter"></i> 
                 <span>{{ if .Params.x_link }}{{ i18n "reply_on" (dict "Platform" "X") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "X") }}{{ end }}</span>
             </a>
 
             {{- $mastodon_url := .Params.mastodon_link | default (printf "https://mastodon.social/search?q=%s" $search_query) -}}
-            <a class="share-btn mastodon-btn" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn mastodon-btn" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-mastodon"></i> 
                 <span>{{ if .Params.mastodon_link }}{{ i18n "reply_on" (dict "Platform" "Mastodon") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Mastodon") }}{{ end }}</span>
             </a>
 
             {{- $bluesky_url := .Params.bluesky_link | default (printf "https://bsky.app/search?q=%s" $search_query) -}}
-            <a class="share-btn bluesky-btn" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn bluesky-btn" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-bluesky"></i> 
                 <span>{{ if .Params.bluesky_link }}{{ i18n "reply_on" (dict "Platform" "Bluesky") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Bluesky") }}{{ end }}</span>
             </a>
 
             {{- $reddit_url := .Params.reddit_link | default (printf "https://www.reddit.com/search?q=%s" $search_query) -}}
-            <a class="share-btn reddit-btn" href="{{ $reddit_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn reddit-btn" href="{{ $reddit_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-reddit"></i> 
                 <span>{{ if .Params.reddit_link }}{{ i18n "reply_on" (dict "Platform" "Reddit") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Reddit") }}{{ end }}</span>
             </a>
 
             {{- $hn_url := .Params.hn_link | default (printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" .Permalink .Title) -}}
-            <a class="share-btn hn-btn" href="{{ $hn_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn hn-btn" href="{{ $hn_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-hacker-news"></i> 
                 <span>{{ if .Params.hn_link }}{{ i18n "discuss_on_hn" }}{{ else }}{{ i18n "submit_to_hn" }}{{ end }}</span>
             </a>

@@ -22,6 +22,10 @@
 }
 
 .page-hero-inner {
+    /* grid from .layout-split; modifiers set column widths */
+}
+
+.page-hero-inner:not(.layout-split) {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
     gap: 32px;
@@ -63,7 +67,7 @@
 }
 
 @media screen and (max-width: 900px) {
-    .page-hero-inner {
+    .page-hero-inner:not(.layout-split) {
         grid-template-columns: 1fr;
     }
 }

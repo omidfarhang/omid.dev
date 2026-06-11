@@ -46,6 +46,22 @@
     color: var(--accent);
     background: var(--quaternary);
     border-color: var(--accent);
+    transform: translateY(var(--lift-hover));
+    box-shadow: var(--shadow-md);
+}
+
+.chip--stat {
+    padding: 8px 16px;
+    color: var(--secondary);
+    background: var(--quaternary);
+    border-color: transparent;
+    font-size: 0.9rem;
+    font-weight: 600;
+    box-shadow: none;
+}
+
+.chip--stat i {
+    font-size: 0.85rem;
 }
 
 .chip--tag {

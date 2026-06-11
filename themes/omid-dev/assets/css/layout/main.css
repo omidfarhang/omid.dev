@@ -44,7 +44,7 @@ body {
     display: flex;
 }
 
-.pagination a {
+.pagination a:not(.btn) {
     color: var(--theme);
     font-size: 13px;
     line-height: 36px;
@@ -55,7 +55,7 @@ body {
     box-shadow: var(--shadow-sm);
 }
 
-.pagination a:hover {
+.pagination a:not(.btn):hover {
     background: var(--accent);
     transform: translateY(-2px) scale(1.05);
     box-shadow: var(--shadow-md);
@@ -302,4 +302,89 @@ ul.meta li {
     padding: 10px 20px;
     border-radius: 5px;
     z-index: 1000;
+}
+
+/* Layout utilities */
+
+.layout-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(280px, 360px);
+    gap: var(--content-gap);
+    align-items: start;
+}
+
+.layout-split--narrow-sidebar {
+    grid-template-columns: minmax(0, 1fr) minmax(240px, 320px);
+}
+
+.layout-split--wide-sidebar {
+    grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
+}
+
+.layout-split--sidebar-340 {
+    grid-template-columns: minmax(0, 1fr) minmax(300px, 340px);
+}
+
+.layout-split--sidebar-360 {
+    grid-template-columns: minmax(0, 1fr) minmax(300px, 360px);
+}
+
+.layout-split--hero {
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+    gap: 32px;
+    align-items: end;
+}
+
+.layout-split--hero-wide {
+    grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
+    gap: 32px;
+    align-items: end;
+}
+
+.layout-split--hero-sidebar-340 {
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
+    gap: 32px;
+    align-items: end;
+}
+
+.layout-split--hero-narrow {
+    grid-template-columns: minmax(0, 1fr) minmax(240px, 320px);
+    gap: 32px;
+    align-items: end;
+}
+
+.page-shell {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 38px 40px 56px;
+}
+
+.hover-lift {
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.hover-lift:hover {
+    transform: translateY(var(--lift-hover));
+    box-shadow: var(--shadow-md);
+}
+
+@media (max-width: 960px) {
+    .layout-split,
+    .layout-split--narrow-sidebar,
+    .layout-split--wide-sidebar,
+    .layout-split--sidebar-340,
+    .layout-split--sidebar-360,
+    .layout-split--hero,
+    .layout-split--hero-wide,
+    .layout-split--hero-sidebar-340,
+    .layout-split--hero-narrow {
+        grid-template-columns: 1fr;
+    }
+
+    .page-shell {
+        padding: 28px 24px 40px;
+    }
 }

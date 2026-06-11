@@ -1,5 +1,11 @@
 /* Section heading variants */
 
+.section-title {
+    margin: 0;
+    color: var(--primary);
+    font-weight: 800;
+}
+
 .section-title--rule {
     display: flex;
     align-items: center;
@@ -134,4 +140,84 @@
 [dir="rtl"] .section-title--page::after {
     right: 0;
     left: auto;
+}
+
+.section-title--centered {
+    font-size: 1.75rem;
+    margin: 0 0 36px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 16px;
+    letter-spacing: -0.02em;
+}
+
+.section-title--centered::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 48px;
+    height: 4px;
+    background: var(--accent);
+    border-radius: 10px;
+}
+
+.topics-section--compact .section-title--centered,
+.topics-section--compact .section-title--underline {
+    text-align: start;
+    font-size: 1.25rem;
+    margin-bottom: 22px;
+    padding-bottom: 10px;
+}
+
+.topics-section--compact .section-title--centered::after,
+.topics-section--compact .section-title--underline::after {
+    left: 0;
+    inset-inline-start: 0;
+    transform: none;
+    width: 36px;
+    height: 3px;
+}
+
+[dir="rtl"] .section-title--centered::after {
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+}
+
+[dir="rtl"] .topics-section--compact .section-title--centered::after,
+[dir="rtl"] .topics-section--compact .section-title--underline::after {
+    left: 0;
+    right: auto;
+    transform: none;
+}
+
+.section-header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.section-header-row .section-title {
+    margin: 0;
+}
+
+.section-header-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--accent);
+    font-size: 0.88rem;
+    font-weight: 700;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: opacity 0.2s ease;
+}
+
+.section-header-link:hover {
+    opacity: 0.85;
+    text-decoration: underline !important;
 }

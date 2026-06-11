@@ -62,36 +62,16 @@
     flex-wrap: wrap;
 }
 
-.page-btn, .page-num {
-    padding: 8px 14px;
-    background: var(--code-bg);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    color: var(--primary);
-    cursor: pointer;
-    transition: all 0.2s ease;
-    font-size: 0.9em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.page-btn.btn--page,
+.page-num.btn--page {
     min-width: 40px;
-}
-
-.page-btn:hover:not(:disabled), .page-num:hover:not(.active) {
-    background: var(--border);
-    border-color: var(--secondary);
+    padding: 8px 14px;
+    font-size: 0.9em;
 }
 
 .page-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-}
-
-.page-num.active {
-    background: var(--accent);
-    color: #fff;
-    border-color: var(--accent);
-    cursor: default;
 }
 
 .page-dots {

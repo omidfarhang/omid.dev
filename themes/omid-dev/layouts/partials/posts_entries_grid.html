@@ -6,7 +6,7 @@
 {{- if gt (len $paginator.Pages) 0 }}
 <section class="posts-section posts-list-section{{ with $className }} {{ . }}{{ end }}"{{ with .listTitle }} aria-labelledby="posts-list-title"{{ end }}>
   {{- with $listTitle }}
-  <h2 id="posts-list-title" class="section-title">{{ . }}</h2>
+  <h2 id="posts-list-title" class="section-title section-title--page">{{ . }}</h2>
   {{- end }}
   <div class="posts-grid">
     {{- range $i, $page := $paginator.Pages }}

@@ -3,7 +3,7 @@
 <article class="post-single uses-page page-shell">
   <header class="post-header uses-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
-    <div class="uses-hero-inner page-hero-inner">
+    <div class="uses-hero-inner layout-split layout-split--hero-narrow page-hero-inner">
       <div class="uses-hero-copy page-hero-copy">
         <p class="section-eyebrow">{{ i18n "uses_page_eyebrow" }}</p>
         <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
@@ -35,7 +35,7 @@
     </div>
   </header>
 
-  <div class="uses-page-content">
+  <div class="page-shell uses-page-content">
     <div class="uses-layout-panel">
       <nav class="uses-nav" aria-label="{{ i18n "uses_page_eyebrow" }}">
         {{- if hugo.Data.uses.current }}
@@ -64,7 +64,7 @@
       <div class="uses-content">
         {{- if hugo.Data.uses.current }}
         <div class="uses-group">
-          <h2 class="uses-group-title">{{ i18n "current_setup" }}</h2>
+          <h2 class="section-title section-title--underline">{{ i18n "current_setup" }}</h2>
           {{- range hugo.Data.uses.current }}
           <section id="{{ .name | urlize }}" class="uses-section">
             <h3 class="uses-section-title">
@@ -73,7 +73,7 @@
             </h3>
             <div class="uses-grid">
               {{- range .items }}
-              <div class="uses-card">
+              <div class="card card--interactive card--tinted uses-card">
                 {{- if .link }}
                 <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="uses-card-link-wrapper">
                 {{- end }}
@@ -101,7 +101,7 @@
 
         {{- if hugo.Data.uses.history }}
         <div class="uses-group">
-          <h2 class="uses-group-title">{{ i18n "history_memories" }}</h2>
+          <h2 class="section-title section-title--underline">{{ i18n "history_memories" }}</h2>
           {{- range hugo.Data.uses.history }}
           <section id="{{ .name | urlize }}" class="uses-section">
             <h3 class="uses-section-title">
@@ -110,14 +110,14 @@
             </h3>
 
             {{- if eq .layout "timeline" }}
-            <div class="uses-timeline">
+            <div class="uses-timeline timeline timeline--track">
               {{- range .items }}
-              <div class="uses-timeline-item">
+              <div class="uses-timeline-item timeline__item timeline__item--marker">
                 <div class="uses-timeline-content">
                   <div class="uses-timeline-header">
                     <h4 class="uses-timeline-title">{{ .name }}</h4>
                     {{- if .period }}
-                    <span class="uses-timeline-period">{{ .period }}</span>
+                    <span class="chip chip--default chip--sm uses-timeline-period">{{ .period }}</span>
                     {{- end }}
                   </div>
                   {{- if .description }}
@@ -130,7 +130,7 @@
             {{- else }}
             <div class="uses-grid">
               {{- range .items }}
-              <div class="uses-card">
+              <div class="card card--interactive card--tinted uses-card">
                 {{- if .link }}
                 <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="uses-card-link-wrapper">
                 {{- end }}

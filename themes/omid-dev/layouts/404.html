@@ -13,9 +13,9 @@
         <div class="not-found-quote" id="random-quote"></div>
 
         <div class="search-container-404">
-            <form action="{{ "search" | absLangURL }}" method="get">
-                <input type="text" name="q" placeholder="{{ i18n "search" | default "Search..." }}" aria-label="search">
-                <button type="submit">
+            <form action="{{ "search" | absLangURL }}" method="get" class="input-group">
+                <input type="text" name="q" class="input" placeholder="{{ i18n "search" | default "Search..." }}" aria-label="search">
+                <button type="submit" class="btn btn--primary btn--sm" aria-label="{{ i18n "search" | default "Search" }}">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                 </button>
             </form>

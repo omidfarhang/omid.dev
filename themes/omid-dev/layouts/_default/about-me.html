@@ -3,7 +3,7 @@
 <article class="post-single about-page page-shell">
   <header class="post-header about-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
-    <div class="about-hero-inner page-hero-inner">
+    <div class="about-hero-inner layout-split layout-split--hero-wide page-hero-inner">
       <div class="about-hero-copy page-hero-copy">
         <p class="section-eyebrow">{{ $resume.title }}</p>
         <h1 class="post-title">{{ .Title }}</h1>
@@ -54,7 +54,7 @@
   </header>
 
   <div class="post-content about-page-content">
-    <div class="about-me-container">
+    <div class="layout-split layout-split--sidebar-360 about-me-container">
       <article class="about-me-content panel">
         {{ .Content }}
       </article>
