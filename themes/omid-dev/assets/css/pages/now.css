@@ -31,22 +31,6 @@
     padding-top: 8px;
 }
 
-/* Vertical timeline — classic /now page feel */
-.now-focus-panel {
-    position: relative;
-    padding-inline-start: 24px;
-}
-
-.now-focus-panel::before {
-    content: "";
-    position: absolute;
-    inset-inline-start: 0;
-    top: 0.62rem;
-    bottom: 0;
-    width: 1px;
-    background: var(--border);
-}
-
 .now-section-title {
     display: flex;
     align-items: center;
@@ -57,24 +41,11 @@
     color: var(--primary);
     letter-spacing: -0.02em;
     line-height: 1.25;
-    position: relative;
 }
 
 .now-section-title i {
     color: var(--accent);
     font-size: 0.95rem;
-}
-
-.now-section-title::before {
-    content: "";
-    position: absolute;
-    inset-inline-start: -29px;
-    top: 0.45em;
-    width: 9px;
-    height: 9px;
-    background: var(--accent);
-    border-radius: 50%;
-    box-shadow: 0 0 0 4px var(--theme), 0 0 12px var(--hero-glow-soft);
 }
 
 .now-section-content {
@@ -112,21 +83,6 @@
 [dir="rtl"] .now-status-panel {
     border-inline-start: none;
     border-inline-end: 4px solid var(--accent);
-}
-
-[dir="rtl"] .now-focus-panel {
-    padding-inline-start: 0;
-    padding-inline-end: 24px;
-}
-
-[dir="rtl"] .now-focus-panel::before {
-    inset-inline-start: auto;
-    inset-inline-end: 0;
-}
-
-[dir="rtl"] .now-section-title::before {
-    inset-inline-start: auto;
-    inset-inline-end: -29px;
 }
 
 @media screen and (max-width: 900px) {

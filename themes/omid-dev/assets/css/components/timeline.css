@@ -39,6 +39,11 @@
     padding-inline-start: 24px;
 }
 
+/* Sole item in a track — track padding already provides the gutter */
+.timeline--track > .timeline__item--dot:only-child {
+    padding-inline-start: 0;
+}
+
 .timeline__item--dot::before {
     inset-inline-start: -29px;
     top: 0.45em;
