@@ -21,11 +21,11 @@
                 {{ . }}
             </p>
             {{- end }}
-            <div class="footer-actions">
-                <a class="footer-button footer-button--primary" href="{{ ($footer.ctaPrimaryUrl | default "/contact-me") | absLangURL }}">
+            <div class="footer-actions btn-group">
+                <a class="btn btn--primary" href="{{ ($footer.ctaPrimaryUrl | default "/contact-me") | absLangURL }}">
                     {{ $footer.ctaPrimaryText | default (i18n "get_in_touch") }}
                 </a>
-                <a class="footer-button footer-button--secondary" href="{{ ($footer.ctaSecondaryUrl | default "/resume") | absLangURL }}">
+                <a class="btn btn--secondary" href="{{ ($footer.ctaSecondaryUrl | default "/resume") | absLangURL }}">
                     {{ $footer.ctaSecondaryText | default (i18n "view_resume") }}
                 </a>
             </div>

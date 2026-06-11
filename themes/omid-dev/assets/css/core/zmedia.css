@@ -67,7 +67,7 @@
 @media (prefers-reduced-motion) {
     /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
     .terms-tags a:active,
-    .button:active,
+    .btn:active,
     .post-entry:active,
     .top-link,
     #searchResults .focus,

@@ -35,14 +35,14 @@
         {{- partial "social_icons.html" -}}
 
         {{- with .buttons }}
-        <div class="buttons">
+        <div class="btn-group">
             {{- range . }}
             {{- $button_url := .url }}
             {{- if (findRE "^/" $button_url) }}
                 {{- $button_url = $button_url | relLangURL }}
             {{- end }}
-            <a class="button" href="{{ $button_url }}" rel="noopener" title="{{ .name }}">
-                <span class="button-inner">
+            <a class="btn btn--primary" href="{{ $button_url }}" rel="noopener" title="{{ .name }}">
+                <span class="btn-inner">
                     {{ .name }}
                     {{- if (findRE "://" .url) }}&nbsp;
                     <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"

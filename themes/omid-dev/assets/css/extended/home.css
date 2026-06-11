@@ -523,21 +523,12 @@
     margin-bottom: 0;
 }
 
-.view-all .button {
-    padding: 10px 24px;
-    font-weight: 700;
-    font-size: 0.95rem;
-    background: var(--primary);
-    color: var(--theme) !important;
-    border-radius: 50px;
-    transition: all 0.3s ease;
-    box-shadow: var(--shadow-md);
+.home-playground-card .btn {
+    flex-shrink: 0;
 }
 
-.view-all .button:hover {
-    background: var(--accent);
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
+.contact-card .btn {
+    flex-shrink: 0;
 }
 
 /* Playground CTA */
@@ -599,20 +590,6 @@
     line-height: 1.65;
 }
 
-.home-playground-card .button {
-    flex-shrink: 0;
-    background: var(--primary);
-    color: var(--theme) !important;
-    padding: 12px 24px;
-    font-size: 0.92rem;
-    font-weight: 700;
-}
-
-.home-playground-card .button:hover {
-    background: var(--accent);
-    color: white !important;
-}
-
 /* Contact CTA */
 .contact-cta {
     text-align: start;
@@ -642,19 +619,6 @@
     font-weight: 500;
     line-height: 1.65;
     margin: 0;
-}
-
-.contact-card .button {
-    background: var(--primary);
-    color: var(--theme) !important;
-    flex-shrink: 0;
-    padding: 12px 28px;
-    font-size: 0.95rem;
-}
-
-.contact-card .button:hover {
-    background: var(--accent);
-    color: white !important;
 }
 
 /* Responsive adjustments */

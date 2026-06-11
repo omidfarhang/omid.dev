@@ -18,28 +18,28 @@
 
       <div class="contact-hero-card page-hero-card" aria-label="{{ i18n "direct_contact" }}">
         {{- if site.Params.footer.contactEmail }}
-        <a href="mailto:{{ site.Params.footer.contactEmail }}">
+        <a href="mailto:{{ site.Params.footer.contactEmail }}" class="btn btn--secondary btn--sm">
           <i class="fa-solid fa-envelope"></i>
           <span>{{ site.Params.footer.contactEmail }}</span>
         </a>
         {{- end }}
         {{- if site.Params.footer.contactPhone }}
-        <a href="tel:{{ site.Params.footer.contactPhone }}">
+        <a href="tel:{{ site.Params.footer.contactPhone }}" class="btn btn--secondary btn--sm">
           <i class="fa-solid fa-phone"></i>
           <span>{{ site.Params.footer.contactPhone }}</span>
         </a>
         {{- end }}
         <div class="contact-hero-messaging" aria-label="{{ i18n "instant_messaging" }}">
-          <a href="https://t.me/omidfarhang" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/omidfarhang" class="btn btn--secondary btn--sm" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-telegram"></i>
             <span>Telegram</span>
           </a>
           {{- if site.Params.footer.contactPhone }}
-          <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/{{ replace site.Params.footer.contactPhone "+" "" }}" class="btn btn--secondary btn--sm" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-whatsapp"></i>
             <span>WhatsApp</span>
           </a>
-          <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" target="_blank" rel="noopener noreferrer">
+          <a href="https://signal.me/#p/{{ site.Params.footer.contactPhone }}" class="btn btn--secondary btn--sm" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-signal-messenger"></i>
             <span>Signal</span>
           </a>
@@ -71,8 +71,8 @@
             <div class="cf-turnstile" data-sitekey="{{ site.Params.turnstile.siteKey }}" data-theme="auto"></div>
           </div>
           {{- end }}
-          <button type="submit" class="form-button">
-            <span class="button-text">{{ i18n "send" }}</span>
+          <button type="submit" class="btn btn--primary">
+            <span class="btn-inner">{{ i18n "send" }}</span>
             <i class="fa-solid fa-paper-plane"></i>
           </button>
           <div id="form-status" class="form-status"></div>
@@ -89,7 +89,7 @@
             </div>
             <div class="qr-text">
               <p>{{ i18n "qr_scan_text" }}</p>
-              <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="vcard-download">
+              <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="btn btn--primary">
                 <i class="fa-solid fa-download"></i> {{ i18n "download_vcard" }}
               </a>
             </div>
@@ -122,7 +122,7 @@
         const form = e.target;
         const status = document.getElementById("form-status");
         const button = form.querySelector('button');
-        const buttonText = button.querySelector('.button-text');
+        const buttonText = button.querySelector('.btn-inner');
         
         const originalText = buttonText.textContent;
         buttonText.textContent = '{{ i18n "sending" }}';

@@ -1,0 +1,118 @@
+/* Button design system — shared CTA styles across the site */
+
+.btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.btn-group--column {
+    flex-direction: column;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 42px;
+    padding: 0.625rem 1.25rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    box-sizing: border-box;
+    background: none;
+    color: inherit;
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none !important;
+    white-space: nowrap;
+    cursor: pointer;
+    box-shadow: var(--shadow-sm);
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        color 0.2s ease,
+        box-shadow 0.2s ease,
+        filter 0.2s ease;
+}
+
+.btn:hover {
+    box-shadow: var(--shadow-md);
+}
+
+.btn:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring), var(--shadow-sm);
+}
+
+.btn:active {
+    box-shadow: var(--shadow-sm);
+}
+
+.btn:disabled,
+.btn[aria-disabled="true"] {
+    opacity: 0.6;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.btn--primary {
+    color: var(--theme) !important;
+    background: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn--primary:hover {
+    color: var(--theme) !important;
+    background: var(--accent);
+    border-color: var(--accent);
+}
+
+.btn--secondary {
+    color: var(--primary) !important;
+    background: var(--theme);
+    border-color: var(--border);
+    box-shadow: none;
+}
+
+.btn--secondary:hover {
+    color: var(--accent) !important;
+    background: var(--quaternary);
+    border-color: var(--accent);
+}
+
+.btn--accent {
+    color: var(--theme) !important;
+    background: var(--accent);
+    border-color: var(--accent);
+}
+
+.btn--accent:hover {
+    filter: brightness(1.08);
+}
+
+.btn--sm {
+    min-height: 36px;
+    padding: 0.5rem 1rem;
+    font-size: 0.82rem;
+}
+
+.btn--block {
+    width: 100%;
+}
+
+.btn-inner {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.btn-inner svg {
+    flex-shrink: 0;
+}
+
+[dir="rtl"] .btn-inner svg {
+    transform: scaleX(-1);
+}

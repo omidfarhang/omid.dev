@@ -215,43 +215,12 @@
   line-height: 1.6;
 }
 
-.about-page .cta-buttons {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
+.about-page .resume-cta .btn-group--column {
+  align-items: stretch;
 }
 
-.about-page .cta-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.6rem;
-  padding: 0.85rem 1.25rem;
-  border-radius: 999px;
-  font-weight: 800;
-  font-size: 0.95rem;
-  text-decoration: none !important;
-  transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, transform 0.2s ease;
-}
-
-.about-page .cta-button.primary {
-  color: var(--theme) !important;
-  background: var(--primary);
-  box-shadow: var(--shadow-md);
-}
-
-.about-page .cta-button.secondary {
-  color: var(--primary) !important;
-  background: var(--quaternary);
-  border: 1px solid var(--border);
-}
-
-.about-page .cta-button:hover {
-  color: white !important;
-  background: var(--accent);
-  border-color: var(--accent);
-  box-shadow: var(--shadow-lg);
-  transform: translateY(-2px);
+.about-page .resume-cta .btn {
+  width: 100%;
 }
 
 [dir="rtl"] .about-me-content h3::after {

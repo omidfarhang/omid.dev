@@ -171,41 +171,10 @@
     background: var(--accent);
 }
 
-.not-found-actions {
-    display: flex;
+.not-found-actions.btn-group {
     gap: 1.5rem;
     margin-bottom: 6rem;
     justify-content: center;
-    flex-wrap: wrap;
-}
-
-.not-found-actions .button {
-    padding: 1rem 2rem;
-    background: var(--primary);
-    color: var(--theme);
-    border-radius: 14px;
-    text-decoration: none;
-    font-weight: 600;
-    border: none;
-    cursor: pointer;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: var(--shadow-md);
-    font-size: 1rem;
-}
-
-.not-found-actions .button:hover {
-    transform: translateY(-4px) scale(1.05);
-    box-shadow: var(--shadow-lg);
-}
-
-.not-found-actions .secondary-button {
-    background: var(--quaternary);
-    color: var(--primary);
-}
-
-.not-found-actions .accent-button {
-    background: var(--accent);
-    color: var(--theme);
 }
 
 .recent-posts-404 {

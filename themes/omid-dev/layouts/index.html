@@ -98,8 +98,8 @@
         </div>
 
         <div class="view-all">
-            <a class="button" href="{{ "posts" | relLangURL }}">
-                <span class="button-inner">{{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_posts" }}{{ else }}{{ i18n "view_all_posts" }} →{{ end }}</span>
+            <a class="btn btn--primary" href="{{ "posts" | relLangURL }}">
+                <span class="btn-inner">{{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_posts" }}{{ else }}{{ i18n "view_all_posts" }} →{{ end }}</span>
             </a>
         </div>
     </section>
@@ -123,8 +123,8 @@
                 <i class="fa-solid fa-play"></i>
             </div>
             <p class="home-playground-lede">{{ $playground.lede }}</p>
-            <a class="button" href="{{ $playgroundUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
-                <span class="button-inner">
+            <a class="btn btn--primary" href="{{ $playgroundUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
+                <span class="btn-inner">
                     {{ i18n "home_playground_cta" }}
                     <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
                         stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
@@ -191,8 +191,8 @@
         <h2 class="section-title section-title--underline">{{ i18n "contact" }}</h2>
         <div class="contact-card">
             <p>{{ $home.contactCta }}</p>
-            <a href="{{ "contact-me" | relLangURL }}" class="button">
-                <span class="button-inner">{{ i18n "contact" }}</span>
+            <a href="{{ "contact-me" | relLangURL }}" class="btn btn--primary">
+                <span class="btn-inner">{{ i18n "contact" }}</span>
             </a>
         </div>
     </section>

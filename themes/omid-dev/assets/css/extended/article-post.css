@@ -409,44 +409,7 @@
 }
 
 .companion-card__actions {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: flex-end;
-    gap: 10px;
-}
-
-.article-body .post-content .companion-card__button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    min-height: 42px;
-    padding: 10px 14px;
-    border: 1px solid transparent;
-    border-radius: 999px;
-    font-size: 0.88rem;
-    font-weight: 800;
-    line-height: 1.2;
-    text-decoration: none !important;
-    white-space: nowrap;
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, background 0.2s ease;
-}
-
-.article-body .post-content .companion-card__button:hover {
-    box-shadow: var(--shadow-accent);
-    transform: translateY(-2px);
-}
-
-.article-body .post-content .companion-card__button--primary {
-    color: var(--theme);
-    background: var(--accent);
-    border-color: var(--accent);
-}
-
-.article-body .post-content .companion-card__button--secondary {
-    color: var(--accent);
-    background: color-mix(in srgb, var(--theme) 86%, transparent);
-    border-color: var(--accent-border-soft);
 }
 
 .article-body .post-content table:not(.highlighttable) {

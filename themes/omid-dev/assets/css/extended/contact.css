@@ -10,38 +10,22 @@
     padding: 16px;
 }
 
-.contact-hero-card a {
-    display: flex;
-    align-items: center;
-    gap: 10px;
+.contact-hero-card .btn {
     min-width: 0;
-    padding: 10px 12px;
-    color: var(--primary);
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    text-decoration: none !important;
-    transition: border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    justify-content: flex-start;
+    font-weight: 700;
 }
 
-.contact-hero-card > a:hover,
-.contact-hero-messaging a:hover {
-    color: var(--accent);
-    border-color: var(--accent);
-    transform: translateY(-2px);
-}
-
-.contact-hero-card i {
+.contact-hero-card .btn i {
     color: var(--accent);
     flex-shrink: 0;
 }
 
-.contact-hero-card span {
+.contact-hero-card .btn span {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
     font-size: 0.9rem;
-    font-weight: 700;
 }
 
 .contact-hero-messaging {
@@ -50,13 +34,13 @@
     gap: 8px;
 }
 
-.contact-hero-messaging a {
+.contact-hero-messaging .btn {
     justify-content: center;
     gap: 6px;
-    padding: 9px 8px;
+    padding-inline: 8px;
 }
 
-.contact-hero-messaging span {
+.contact-hero-messaging .btn span {
     font-size: 0.78rem;
 }
 
@@ -255,34 +239,16 @@
     resize: vertical;
 }
 
-.form-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.6rem;
+.contact-form .btn {
     align-self: flex-start;
-    padding: 0.85rem 1.5rem;
-    color: var(--theme) !important;
-    background: var(--primary);
-    border: none;
-    border-radius: 999px;
-    box-shadow: var(--shadow-md);
-    cursor: pointer;
-    font-size: 1rem;
-    font-weight: 800;
-    transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.form-button:hover:not(:disabled) {
-    background: var(--accent);
-    color: white !important;
-    box-shadow: var(--shadow-lg);
-    transform: translateY(-2px);
+[dir="rtl"] .contact-form .btn {
+    align-self: flex-start;
 }
 
-.form-button:disabled {
-    opacity: 0.6;
-    cursor: not-allowed;
+[dir="rtl"] .contact-form .btn i {
+    transform: scaleX(-1);
 }
 
 .form-status {
@@ -332,36 +298,6 @@
     line-height: 1.6;
 }
 
-.vcard-download {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.85rem 1.5rem;
-    color: var(--theme) !important;
-    background: var(--primary);
-    border: none;
-    border-radius: 999px;
-    box-shadow: var(--shadow-md);
-    font-size: 1rem;
-    font-weight: 800;
-    text-decoration: none !important;
-    transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
-}
-
-.vcard-download:hover {
-    color: white !important;
-    background: var(--accent);
-    box-shadow: var(--shadow-lg);
-    transform: translateY(-2px);
-}
-
-[dir="rtl"] .form-button {
-    align-self: flex-start;
-}
-
-[dir="rtl"] .form-button i {
-    transform: scaleX(-1);
-}
 
 @media screen and (max-width: 960px) {
     .contact-hero .page-hero-inner,
@@ -391,7 +327,7 @@
         padding: 22px;
     }
 
-    .form-button {
+    .contact-form .btn {
         width: 100%;
     }
 

@@ -102,15 +102,15 @@
       <code class="companion-card__path">{{ . }}</code>
     {{- end }}
   </span>
-  <span class="companion-card__actions">
+  <span class="companion-card__actions btn-group">
     {{- with $demoUrl }}
-      <a class="companion-card__button companion-card__button--primary" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+      <a class="btn btn--accent btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
         <i class="fa-solid fa-play" aria-hidden="true"></i>
         {{ $demoLabel }}
       </a>
     {{- end }}
     {{- with $sourceUrl }}
-      <a class="companion-card__button{{ if $demoUrl }} companion-card__button--secondary{{ else }} companion-card__button--primary{{ end }}" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+      <a class="btn{{ if $demoUrl }} btn--secondary{{ else }} btn--accent{{ end }} btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
         <i class="{{ $sourceIcon }}" aria-hidden="true"></i>
         {{ $sourceLabel }}
       </a>
