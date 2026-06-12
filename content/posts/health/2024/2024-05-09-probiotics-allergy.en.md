@@ -18,6 +18,17 @@ Allergies occur when the immune system overreacts to a typically harmless substa
 
 > Read before: [Unlocking the World of Prebiotics, Probiotics, and Postbiotics: The Complete Guide](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Microbiome Sandbox"
+  description="Explore the allergy scenario on a 3D body map—stress nasal barriers with allergens, then run probiotic inoculations to watch commensal competition and barrier recovery."
+  eyebrow="Interactive lab"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=allergy&region=nose"
+  demoLabel="Open interactive lab"
+>}}
+
 ## 1. **Regulating the Immune System**
 
 Probiotics play a significant role in **modulating the immune system**, which is critical in managing allergies. In allergies, the immune system tends to skew towards a **Th2-dominant** response, leading to an overproduction of antibodies like **IgE**, which trigger allergic reactions. Probiotics, especially strains like **Lactobacillus rhamnosus** and **Bifidobacterium longum**, can shift the immune response towards a **Th1-dominant** response, which reduces the production of IgE and thus alleviates allergic symptoms.

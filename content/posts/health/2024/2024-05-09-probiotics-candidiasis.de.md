@@ -19,6 +19,17 @@ Candidose ist eine Infektion, die durch ein übermäßiges Wachstum von Candida 
 
 > Vorab lesen: [Die Welt der Präbiotika, Probiotika und Postbiotika verstehen: Der komplette Leitfaden](/2024/09/10/praebiotika-probiotika-postbiotika/)
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Mikrobiom-Sandbox"
+  description="Erkunden Sie pH- und Feuchtigkeitsverschiebungen an Mund-, Vaginal-, Haut- oder Darmgewebe—lösen Sie candidafreundliche Bedingungen aus und testen Sie ansäuernde Inokulationen zur Wiederherstellung des Gleichgewichts."
+  eyebrow="Interaktives Labor"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=candida&region=vaginal"
+  demoLabel="Interaktives Labor öffnen"
+>}}
+
 ## 1. **Wiederherstellung des Gleichgewichts im Darmmikrobiom**
 
 **Ausgleich des Darmmikrobioms**  

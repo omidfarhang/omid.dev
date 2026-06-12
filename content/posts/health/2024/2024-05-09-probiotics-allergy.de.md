@@ -18,6 +18,17 @@ Allergien treten auf, wenn das Immunsystem übermäßig auf eine normalerweise h
 
 > Vorab lesen: [Die Welt der Präbiotika, Probiotika und Postbiotika verstehen: Der komplette Leitfaden](/2024/09/10/praebiotika-probiotika-postbiotika/)
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Mikrobiom-Sandbox"
+  description="Erkunden Sie das Allergie-Szenario auf einer 3D-Körperkarte: Belasten Sie die Nasenschleimhaut mit Allergenen und testen Sie probiotische Inokulationen, um Wettbewerb und Barrierewiederherstellung zu sehen."
+  eyebrow="Interaktives Labor"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=allergy&region=nose"
+  demoLabel="Interaktives Labor öffnen"
+>}}
+
 ## 1. **Regulierung des Immunsystems**
 
 Probiotika spielen eine wichtige Rolle bei der **Modulation des Immunsystems**, was für die Bewältigung von Allergien entscheidend ist. Bei Allergien neigt das Immunsystem zu einer **Th2-dominanten** Antwort, was zu einer Überproduktion von Antikörpern wie **IgE** führt, die allergische Reaktionen auslösen. Probiotika, insbesondere Stämme wie **Lactobacillus rhamnosus** und **Bifidobacterium longum**, können die Immunantwort in Richtung einer **Th1-dominanten** Antwort verschieben, was die Produktion von IgE verringert und somit allergische Symptome lindert.

@@ -18,6 +18,17 @@ categories:
 
 > قبل از این بخوانید: [رمزگشایی از دنیای پری‌بیوتیک‌ها، پروبیوتیک‌ها و پست‌بیوتیک‌ها: راهنمای کامل](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Microbiome Sandbox"
+  description="سناریوی آلرژی را روی نقشه سه‌بعدی بدن امتحان کنید—سد بینی را با آلرژن تحت فشار بگذارید، سپس با اینوکولاسیون پروبیوتیک رقابت باکتری‌های مفید و بهبود سد را ببینید."
+  eyebrow="آزمایشگاه تعاملی"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=allergy&region=nose"
+  demoLabel="باز کردن آزمایشگاه تعاملی"
+>}}
+
 ## ۱. **تنظیم سیستم ایمنی**
 
 پروبیوتیک‌ها نقش مهمی در **تنظیم سیستم ایمنی** ایفا می‌کنند که در مدیریت آلرژی حیاتی است. در آلرژی، سیستم ایمنی تمایل دارد به سمت پاسخ **Th2-dominant** متمایل شود که منجر به تولید بیش از حد آنتی‌بادی‌هایی مانند **IgE** می‌شود که واکنش‌های آلرژیک را تحریک می‌کنند. پروبیوتیک‌ها، به ویژه سویه‌هایی مانند **Lactobacillus rhamnosus** و **Bifidobacterium longum**، می‌توانند پاسخ ایمنی را به سمت پاسخ **Th1-dominant** سوق دهند که تولید IgE را کاهش داده و در نتیجه علائم آلرژیک را تسکین می‌دهد.

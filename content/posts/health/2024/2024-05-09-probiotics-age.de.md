@@ -15,6 +15,17 @@ categories:
 ---
 Probiotika, lebende nützliche Bakterien und Hefen, bieten in verschiedenen Lebensphasen erhebliche gesundheitliche Vorteile. Vom Säuglingsalter bis ins hohe Alter können Probiotika die Verdauungsgesundheit unterstützen, das Immunsystem stärken, das psychische Wohlbefinden fördern und sogar bei der Hautgesundheit helfen. Aber wie entwickelt sich ihre Rolle mit zunehmendem Alter und welche Probiotika sollten in den verschiedenen Lebensphasen eingenommen werden?
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Mikrobiom-Sandbox"
+  description="Sehen Sie, wie frühes Mikrobiom-Training die Barrieredefense prägt—erkunden Sie Lebensphasen-Kontext auf dem Nasengewebe-Sandbox mit regionsspezifischen Inokulationen."
+  eyebrow="Interaktives Labor"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=allergy&context=lifestage&region=nose"
+  demoLabel="Interaktives Labor öffnen"
+>}}
+
 ## Säuglinge (0-2 Jahre)
 
 ### Probiotika für Säuglinge

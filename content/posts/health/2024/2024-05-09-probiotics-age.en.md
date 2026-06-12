@@ -15,6 +15,17 @@ categories:
 ---
 Probiotics, live beneficial bacteria and yeasts, offer significant health benefits across various stages of life. From infancy to old age, probiotics can support digestive health, boost the immune system, promote mental well-being, and even help with skin health. But how does their role evolve as we age, and which probiotics should be taken at different life stages?
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Microbiome Sandbox"
+  description="See how early-life microbiome training shapes barrier defense—explore life-stage context on the nasal tissue sandbox with region-specific inoculations."
+  eyebrow="Interactive lab"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=allergy&context=lifestage&region=nose"
+  demoLabel="Open interactive lab"
+>}}
+
 ## Infants (0-2 Years)
 
 ### Probiotics for Infants

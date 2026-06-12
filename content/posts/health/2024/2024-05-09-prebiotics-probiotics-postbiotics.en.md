@@ -15,6 +15,17 @@ categories:
 ---
 In recent years, the terms *prebiotics*, *probiotics*, and *postbiotics* have gained widespread attention in discussions about health and well-being. These compounds, derived from food and supplements, play a significant role in maintaining gut health and extend benefits to multiple bodily systems. In this comprehensive guide, we’ll explore what each one is, their categories, the range of health benefits they offer, sources for each, and how they help with common health issues such as allergies, candidiasis, and lactose intolerance.
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  sourceRoot=""
+  path="labs/microbiome-sandbox"
+  title="Bio-Dynamics: Microbiome Sandbox"
+  description="Free-play across body regions: add prebiotic fiber on gut tissue, watch probiotics ferment it into SCFAs, and trace the pre/pro/postbiotic lifecycle."
+  eyebrow="Interactive lab"
+  demoUrl="https://playground.omid.dev/labs/microbiome-sandbox/?preset=lifecycle&region=gut"
+  demoLabel="Open interactive lab"
+>}}
+
 ## Introduction to Prebiotics, Probiotics, and Postbiotics
 
 **Prebiotics** are non-digestible compounds that promote the growth of beneficial bacteria in the gut. Unlike probiotics, they do not contain live microorganisms, but rather serve as “food” for the good bacteria already residing in the digestive system. Prebiotics are primarily found in fiber-rich foods and help support the overall health of the gut microbiome.
