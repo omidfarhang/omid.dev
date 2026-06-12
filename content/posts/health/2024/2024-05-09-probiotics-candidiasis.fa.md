@@ -20,9 +20,6 @@ categories:
 > قبل از این بخوانید: [رمزگشایی از دنیای پری‌بیوتیک‌ها، پروبیوتیک‌ها و پست‌بیوتیک‌ها: راهنمای کامل](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
 {{< companion
-  repo="omidfarhang/example-projects"
-  sourceRoot=""
-  path="labs/microbiome-sandbox"
   title="Bio-Dynamics: Microbiome Sandbox"
   description="تغییرات pH و رطوبت را روی بافت دهان، واژن، پوست یا روده امتحان کنید—شرایط مساعد کاندیدا را ایجاد کنید، سپس با اینوکولاسیون‌های اسیدی‌کننده تعادل را بازگردانید."
   eyebrow="آزمایشگاه تعاملی"

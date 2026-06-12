@@ -19,9 +19,6 @@ Allergies occur when the immune system overreacts to a typically harmless substa
 > Read before: [Unlocking the World of Prebiotics, Probiotics, and Postbiotics: The Complete Guide](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
 {{< companion
-  repo="omidfarhang/example-projects"
-  sourceRoot=""
-  path="labs/microbiome-sandbox"
   title="Bio-Dynamics: Microbiome Sandbox"
   description="Explore the allergy scenario on a 3D body map—stress nasal barriers with allergens, then run probiotic inoculations to watch commensal competition and barrier recovery."
   eyebrow="Interactive lab"

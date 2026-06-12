@@ -20,9 +20,6 @@ Candidiasis is an infection caused by an overgrowth of Candida, a type of yeast 
 > Read before: [Unlocking the World of Prebiotics, Probiotics, and Postbiotics: The Complete Guide](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
 {{< companion
-  repo="omidfarhang/example-projects"
-  sourceRoot=""
-  path="labs/microbiome-sandbox"
   title="Bio-Dynamics: Microbiome Sandbox"
   description="Explore pH and moisture shifts on oral, vaginal, skin, or gut tissue—trigger Candida-friendly conditions, then acidifying inoculations to restore balance."
   eyebrow="Interactive lab"

@@ -19,9 +19,6 @@ categories:
 > قبل از این بخوانید: [رمزگشایی از دنیای پری‌بیوتیک‌ها، پروبیوتیک‌ها و پست‌بیوتیک‌ها: راهنمای کامل](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
 {{< companion
-  repo="omidfarhang/example-projects"
-  sourceRoot=""
-  path="labs/microbiome-sandbox"
   title="Bio-Dynamics: Microbiome Sandbox"
   description="سناریوی آلرژی را روی نقشه سه‌بعدی بدن امتحان کنید—سد بینی را با آلرژن تحت فشار بگذارید، سپس با اینوکولاسیون پروبیوتیک رقابت باکتری‌های مفید و بهبود سد را ببینید."
   eyebrow="آزمایشگاه تعاملی"

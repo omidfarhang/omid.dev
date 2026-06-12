@@ -16,9 +16,6 @@ categories:
 In den letzten Jahren haben die Begriffe *Präbiotika*, *Probiotika* und *Postbiotika* in Diskussionen über Gesundheit und Wohlbefinden große Aufmerksamkeit erlangt. Diese aus Lebensmitteln und Nahrungsergänzungsmitteln gewonnenen Verbindungen spielen eine wichtige Rolle bei der Aufrechterhaltung der Darmgesundheit und bieten Vorteile für mehrere Körpersysteme. In diesem umfassenden Leitfaden untersuchen wir, was jeder dieser Begriffe bedeutet, ihre Kategorien, die Bandbreite der gesundheitlichen Vorteile, die sie bieten, Quellen für jeden einzelnen und wie sie bei häufigen Gesundheitsproblemen wie Allergien, Candidose und Laktoseintoleranz helfen.
 
 {{< companion
-  repo="omidfarhang/example-projects"
-  sourceRoot=""
-  path="labs/microbiome-sandbox"
   title="Bio-Dynamics: Mikrobiom-Sandbox"
   description="Freies Erkunden über Körperregionen: Präbiotische Ballaststoffe auf Darmgewebe hinzufügen, Probiotika zu SCFA fermentieren sehen und den Prä/Pro/Postbiotik-Lebenszyklus nachvollziehen."
   eyebrow="Interaktives Labor"

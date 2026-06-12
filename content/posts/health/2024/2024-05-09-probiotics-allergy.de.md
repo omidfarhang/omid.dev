@@ -19,9 +19,6 @@ Allergien treten auf, wenn das Immunsystem übermäßig auf eine normalerweise h
 > Vorab lesen: [Die Welt der Präbiotika, Probiotika und Postbiotika verstehen: Der komplette Leitfaden](/2024/09/10/praebiotika-probiotika-postbiotika/)
 
 {{< companion
-  repo="omidfarhang/example-projects"
-  sourceRoot=""
-  path="labs/microbiome-sandbox"
   title="Bio-Dynamics: Mikrobiom-Sandbox"
   description="Erkunden Sie das Allergie-Szenario auf einer 3D-Körperkarte: Belasten Sie die Nasenschleimhaut mit Allergenen und testen Sie probiotische Inokulationen, um Wettbewerb und Barrierewiederherstellung zu sehen."
   eyebrow="Interaktives Labor"
