@@ -132,7 +132,7 @@
     border: 1px solid transparent;
     border-radius: 50%;
     cursor: pointer;
-    transition: var(--transition-interactive), color var(--duration-fast) var(--ease-default), background var(--duration-fast) var(--ease-default);
+    transition: var(--transition-interactive);
 }
 
 .method-copy:hover {

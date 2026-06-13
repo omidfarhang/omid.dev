@@ -57,7 +57,6 @@ body {
 
 .pagination a:not(.btn):hover {
     background: var(--accent);
-    transform: translateY(-2px) scale(1.05);
     box-shadow: var(--shadow-md);
 }
 
@@ -210,18 +209,6 @@ ul.meta li {
     width: 100%;
     margin: 0 auto;
     padding: var(--space-10) var(--space-10) 56px;
-}
-
-.hover-lift {
-    transition:
-        transform 0.2s ease,
-        box-shadow 0.2s ease,
-        border-color 0.2s ease;
-}
-
-.hover-lift:hover {
-    transform: translateY(var(--lift-hover));
-    box-shadow: var(--shadow-md);
 }
 
 @media (max-width: 960px) {

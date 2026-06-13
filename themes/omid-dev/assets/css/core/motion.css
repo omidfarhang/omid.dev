@@ -23,9 +23,10 @@
         border-color var(--duration-fast) var(--ease-default),
         box-shadow var(--duration-fast) var(--ease-default);
     --transition-interactive:
+        color var(--duration-fast) var(--ease-default),
+        background var(--duration-fast) var(--ease-default),
         border-color var(--duration-fast) var(--ease-default),
-        box-shadow var(--duration-fast) var(--ease-default),
-        transform var(--duration-fast) var(--ease-default);
+        box-shadow var(--duration-fast) var(--ease-default);
     --transition-lift:
         transform var(--duration-normal) var(--ease-default),
         box-shadow var(--duration-normal) var(--ease-default);
@@ -33,4 +34,14 @@
         background-color var(--duration-slow) var(--ease-default),
         box-shadow var(--duration-slow) var(--ease-default),
         border-bottom var(--duration-slow) var(--ease-default);
+}
+
+/* Opt-in lift — add to surfaces that should nudge up on hover/focus */
+.effect-lift {
+    transition: var(--transition-lift);
+}
+
+.effect-lift:hover,
+.effect-lift:focus-within {
+    transform: translateY(var(--lift-hover));
 }

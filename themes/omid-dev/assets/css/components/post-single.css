@@ -752,7 +752,7 @@ img.in-text {
     background: var(--surface-panel);
     border: 1px solid var(--border);
     border-radius: 50%;
-    transition: var(--transition-interactive), color var(--duration-fast) var(--ease-default);
+    transition: var(--transition-interactive);
 }
 
 .article-toc details[open] .toc-toggle-icon {

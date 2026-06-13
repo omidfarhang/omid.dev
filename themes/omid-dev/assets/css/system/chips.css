@@ -46,7 +46,6 @@
     color: var(--accent);
     background: var(--quaternary);
     border-color: var(--accent);
-    transform: translateY(var(--lift-hover));
     box-shadow: var(--shadow-md);
 }
 

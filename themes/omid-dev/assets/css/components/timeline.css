@@ -32,7 +32,7 @@
     border-radius: 50%;
     background: var(--theme);
     border: 2px solid var(--accent);
-    transition: var(--transition-interactive), background var(--duration-fast) var(--ease-default);
+    transition: var(--transition-interactive);
 }
 
 .timeline__item--dot {

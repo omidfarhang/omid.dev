@@ -24,7 +24,6 @@
 .paginav a:hover {
     border-color: var(--accent);
     box-shadow: var(--shadow-md);
-    transform: translateY(var(--lift-hover));
 }
 
 .paginav .title {

@@ -115,7 +115,6 @@
     color: var(--theme) !important;
     background: var(--primary) !important;
     border-color: var(--primary);
-    transform: translateY(var(--lift-hover));
     box-shadow: var(--shadow-sm);
 }
 
@@ -125,7 +124,6 @@
     background: var(--accent) !important;
     border-color: var(--accent);
     cursor: default;
-    transform: none;
     box-shadow: none;
 }
 
@@ -134,7 +132,6 @@
     color: var(--theme) !important;
     background: var(--accent) !important;
     border-color: var(--accent);
-    transform: none;
 }
 
 .btn-inner {

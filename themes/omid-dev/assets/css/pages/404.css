@@ -133,12 +133,11 @@
     width: 100%;
     background: var(--quaternary);
     box-shadow: var(--shadow-md);
-    transition: var(--transition-lift);
+    transition: var(--transition-form);
 }
 
 .search-container-404 .input-group:focus-within {
     box-shadow: var(--focus-ring), var(--shadow-lg);
-    transform: translateY(var(--lift-hover));
 }
 
 .search-container-404 .input {

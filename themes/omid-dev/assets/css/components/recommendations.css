@@ -194,6 +194,5 @@
 
 .add-recommendation-btn:hover {
     background: color-mix(in srgb, var(--brand-color, var(--brand-linkedin)) 85%, black);
-    transform: translateY(-2px);
     box-shadow: 0 4px 12px color-mix(in srgb, var(--brand-color, var(--brand-linkedin)) 30%, transparent);
 }
