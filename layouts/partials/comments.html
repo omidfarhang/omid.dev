@@ -1,5 +1,21 @@
 {{- if .Site.Params.comments -}}
 <section class="comments-container" aria-labelledby="discussion-title">
+    {{- /* POSSE syndication links for Bridgy / posse-post-discovery */ -}}
+    <div id="syndication-links" hidden aria-hidden="true">
+        {{- with .Params.x_link -}}
+        <a class="u-syndication" data-platform="x" href="{{ . }}">X</a>
+        {{- end -}}
+        {{- with .Params.mastodon_link -}}
+        <a class="u-syndication" data-platform="mastodon" href="{{ . }}">Mastodon</a>
+        {{- end -}}
+        {{- with .Params.bluesky_link -}}
+        <a class="u-syndication" data-platform="bluesky" href="{{ . }}">Bluesky</a>
+        {{- end -}}
+        {{- with .Params.linkedin_link -}}
+        <a class="u-syndication" data-platform="linkedin" href="{{ . }}">LinkedIn</a>
+        {{- end -}}
+    </div>
+
     <div class="social-discussion">
         <div class="discussion-header">
             <span class="icon-circle icon-circle--compact discussion-icon" aria-hidden="true">
@@ -18,19 +34,19 @@
             {{- $search_query = replace (replace $search_query "https://" "") "http://" "" -}}
             
             {{- $x_url := .Params.x_link | default (printf "https://x.com/search?q=%s" $search_query) -}}
-            <a class="chip chip--pill share-btn" data-brand="x" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn" data-brand="x" data-platform="x" data-manual="{{ if .Params.x_link }}true{{ else }}false{{ end }}" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-x-twitter"></i> 
                 <span>{{ if .Params.x_link }}{{ i18n "reply_on" (dict "Platform" "X") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "X") }}{{ end }}</span>
             </a>
 
             {{- $mastodon_url := .Params.mastodon_link | default (printf "https://mastodon.social/search?q=%s" $search_query) -}}
-            <a class="chip chip--pill share-btn" data-brand="mastodon" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn" data-brand="mastodon" data-platform="mastodon" data-manual="{{ if .Params.mastodon_link }}true{{ else }}false{{ end }}" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-mastodon"></i> 
                 <span>{{ if .Params.mastodon_link }}{{ i18n "reply_on" (dict "Platform" "Mastodon") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Mastodon") }}{{ end }}</span>
             </a>
 
             {{- $bluesky_url := .Params.bluesky_link | default (printf "https://bsky.app/search?q=%s" $search_query) -}}
-            <a class="chip chip--pill share-btn" data-brand="bluesky" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer">
+            <a class="chip chip--pill share-btn" data-brand="bluesky" data-platform="bluesky" data-manual="{{ if .Params.bluesky_link }}true{{ else }}false{{ end }}" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-bluesky"></i> 
                 <span>{{ if .Params.bluesky_link }}{{ i18n "reply_on" (dict "Platform" "Bluesky") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Bluesky") }}{{ end }}</span>
             </a>
@@ -68,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const facepileContainer = document.getElementById('webmentions-facepile');
     const listContainer = document.getElementById('webmentions-list');
 
-    // i18n strings
     const labels = {
         likes: '{{ i18n "webmentions_likes" }}',
         reposts: '{{ i18n "webmentions_reposts" }}',
@@ -76,31 +91,137 @@ document.addEventListener('DOMContentLoaded', function() {
         none: '{{ i18n "no_webmentions" }}'
     };
 
-    fetch(`https://webmention.io/api/mentions.jf2?target=${targetUrl}`)
-        .then(response => response.json())
-        .then(data => {
+    const replyLabels = {
+        x: '{{ i18n "reply_on" (dict "Platform" "X") }}',
+        mastodon: '{{ i18n "reply_on" (dict "Platform" "Mastodon") }}',
+        bluesky: '{{ i18n "reply_on" (dict "Platform" "Bluesky") }}'
+    };
+
+    const PLATFORM_PATTERNS = {
+        bluesky: /https:\/\/bsky\.app\/profile\/[^/#?]+\/post\/[^/#?]+/,
+        mastodon: /https:\/\/[^/]+\/@[^/#?]+\/\d+/,
+        x: /https:\/\/(?:x|twitter)\.com\/[^/#?]+\/status\/\d+/
+    };
+
+    function parseBridgyMastodon(raw) {
+        const match = raw.match(/brid\.gy\/(?:like|repost|publish)\/mastodon\/@([^@]+)@([^/]+)\/(\d+)/);
+        if (!match) return null;
+        return `https://${match[2]}/@${match[1]}/${match[3]}`;
+    }
+
+    function extractSyndicationUrls(mentions) {
+        const found = {};
+        const earliest = {};
+
+        mentions.forEach(function(m) {
+            const received = m['wm-received'] ? new Date(m['wm-received']).getTime() : Infinity;
+            const candidates = [
+                m.url,
+                m['wm-source'],
+                m['mention-of'],
+                m['in-reply-to'],
+                m['repost-of']
+            ].filter(Boolean);
+
+            if (Array.isArray(m.syndication)) {
+                candidates.push.apply(candidates, m.syndication);
+            }
+
+            candidates.forEach(function(raw) {
+                Object.keys(PLATFORM_PATTERNS).forEach(function(platform) {
+                    const match = raw.match(PLATFORM_PATTERNS[platform]);
+                    if (match && (!earliest[platform] || received < earliest[platform])) {
+                        found[platform] = match[0];
+                        earliest[platform] = received;
+                    }
+                });
+
+                const bridgyMastodon = parseBridgyMastodon(raw);
+                if (bridgyMastodon && (!earliest.mastodon || received < earliest.mastodon)) {
+                    found.mastodon = bridgyMastodon;
+                    earliest.mastodon = received;
+                }
+            });
+        });
+
+        return found;
+    }
+
+    const syndicationLabels = {
+        x: 'X',
+        mastodon: 'Mastodon',
+        bluesky: 'Bluesky',
+        linkedin: 'LinkedIn'
+    };
+
+    function syncSyndicationLinks(urls) {
+        const container = document.getElementById('syndication-links');
+        if (!container) return;
+
+        Object.keys(urls).forEach(function(platform) {
+            const url = urls[platform];
+            if (!url) return;
+
+            let link = container.querySelector('.u-syndication[data-platform="' + platform + '"]');
+            if (link) return;
+
+            link = document.createElement('a');
+            link.className = 'u-syndication';
+            link.setAttribute('data-platform', platform);
+            link.href = url;
+            link.textContent = syndicationLabels[platform] || platform;
+            container.appendChild(link);
+        });
+    }
+
+    function applySyndicationLinks(urls) {
+        document.querySelectorAll('.share-btn[data-platform]').forEach(function(chip) {
+            if (chip.getAttribute('data-manual') === 'true') return;
+
+            const platform = chip.getAttribute('data-platform');
+            const url = urls[platform];
+            if (!url) return;
+
+            chip.href = url;
+            const label = chip.querySelector('span');
+            if (label && replyLabels[platform]) {
+                label.textContent = replyLabels[platform];
+            }
+        });
+
+        syncSyndicationLinks(urls);
+    }
+
+    fetch(`https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}`)
+        .then(function(response) { return response.json(); })
+        .then(function(data) {
             const mentions = data.children || [];
+
+            applySyndicationLinks(extractSyndicationUrls(mentions));
+
             if (mentions.length === 0) {
                 statsContainer.innerHTML = `<p class="no-mentions">${labels.none}</p>`;
                 return;
             }
 
-            const likes = mentions.filter(m => m['wm-property'] === 'like-of');
-            const reposts = mentions.filter(m => m['wm-property'] === 'repost-of' || m['wm-property'] === 'bookmark-of');
-            const replies = mentions.filter(m => ['in-reply-to', 'mention-of', 'rsvp'].includes(m['wm-property']));
+            const likes = mentions.filter(function(m) { return m['wm-property'] === 'like-of'; });
+            const reposts = mentions.filter(function(m) {
+                return m['wm-property'] === 'repost-of' || m['wm-property'] === 'bookmark-of';
+            });
+            const replies = mentions.filter(function(m) {
+                return ['in-reply-to', 'mention-of', 'rsvp'].includes(m['wm-property']);
+            });
 
-            // Render Stats
             let statsHtml = '';
             if (likes.length) statsHtml += `<span><strong>${likes.length}</strong> ${labels.likes}</span>`;
             if (reposts.length) statsHtml += `<span><strong>${reposts.length}</strong> ${labels.reposts}</span>`;
             if (replies.length) statsHtml += `<span><strong>${replies.length}</strong> ${labels.mentions}</span>`;
             statsContainer.innerHTML = statsHtml;
 
-            // Render Facepile (Likes + Reposts)
-            const pile = [...likes, ...reposts];
+            const pile = likes.concat(reposts);
             const uniquePile = [];
             const seen = new Set();
-            pile.forEach(m => {
+            pile.forEach(function(m) {
                 if (!seen.has(m.author.url)) {
                     seen.add(m.author.url);
                     uniquePile.push(m);
@@ -108,16 +229,17 @@ document.addEventListener('DOMContentLoaded', function() {
             });
 
             if (uniquePile.length) {
-                facepileContainer.innerHTML = uniquePile.map(m => `
+                facepileContainer.innerHTML = uniquePile.map(function(m) {
+                    return `
                     <a href="${m.author.url}" target="_blank" rel="noopener noreferrer" title="${m.author.name}">
                         <img src="${m.author.photo}" alt="${m.author.name}" loading="lazy">
-                    </a>
-                `).join('');
+                    </a>`;
+                }).join('');
             }
 
-            // Render Replies
             if (replies.length) {
-                listContainer.innerHTML = replies.map(m => `
+                listContainer.innerHTML = replies.map(function(m) {
+                    return `
                     <div class="webmention-item">
                         <div class="webmention-author">
                             <a href="${m.author.url}" target="_blank" rel="noopener noreferrer">
@@ -129,11 +251,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         <div class="webmention-content">
                             ${m.content ? (m.content.html || m.content.text) : ''}
                         </div>
-                    </div>
-                `).join('');
+                    </div>`;
+                }).join('');
             }
         })
-        .catch(err => {
+        .catch(function(err) {
             console.error('Error fetching webmentions:', err);
         });
 });
