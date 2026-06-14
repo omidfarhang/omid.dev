@@ -45,6 +45,7 @@
     background: var(--theme);
     border: 1px solid var(--border);
     border-radius: 50%;
+    box-shadow: none;
 }
 
 .social-icons--footer {
@@ -59,7 +60,6 @@
 
 .social-icons--circle .social-icon-link:hover {
     border-color: currentColor;
-    transform: translateY(-2px);
     box-shadow: var(--shadow-sm);
 }
 
