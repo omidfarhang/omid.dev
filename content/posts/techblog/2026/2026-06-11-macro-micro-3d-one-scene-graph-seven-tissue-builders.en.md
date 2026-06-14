@@ -5,6 +5,7 @@ description: "How Bio-Dynamics uses Three.js to fly from a rotatable body map in
 layout: single
 author_profile: true
 url: 2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/
+shortlink: https://g.omid.dev/IyBb76G
 tags:
   - TypeScript
   - Frontend

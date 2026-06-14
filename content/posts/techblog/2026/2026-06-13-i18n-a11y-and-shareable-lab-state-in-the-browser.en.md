@@ -5,6 +5,7 @@ description: "How Bio-Dynamics supports English, German, and Persian, keeps keyb
 layout: single
 author_profile: true
 url: 2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/
+shortlink: https://g.omid.dev/x2HIy7k
 tags:
   - TypeScript
   - Frontend

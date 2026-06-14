@@ -5,6 +5,7 @@ description: "How Bio-Dynamics models barrier integrity, emergent inflammation, 
 layout: single
 author_profile: true
 url: 2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/
+shortlink: https://g.omid.dev/boyAWHy
 tags:
   - TypeScript
   - Frontend

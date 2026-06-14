@@ -5,6 +5,7 @@ description: "Why I built a full-body microbiome sandbox — for education, open
 layout: single
 author_profile: true
 url: 2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
+shortlink: https://g.omid.dev/Efv0PTa
 tags:
   - Case Study
   - Frontend

@@ -5,6 +5,7 @@ description: "How Bio-Dynamics keeps 82 stressors, 20 strains, and four catalog 
 layout: single
 author_profile: true
 url: 2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/
+shortlink: https://g.omid.dev/uHLGE6i
 tags:
   - TypeScript
   - Frontend

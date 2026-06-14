@@ -5,6 +5,7 @@ description: 'Step-by-step classroom paths for the Bio-Dynamics microbiome sandb
 layout: single
 author_profile: true
 url: 2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/
+shortlink: https://g.omid.dev/W1MKU4S
 tags:
   - Probiotics
   - Prebiotics
