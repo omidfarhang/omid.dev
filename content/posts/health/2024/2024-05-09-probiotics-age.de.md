@@ -23,6 +23,8 @@ Probiotika, lebende nützliche Bakterien und Hefen, bieten in verschiedenen Lebe
   demoLabel="Interaktives Labor öffnen"
 >}}
 
+> **Workshop?** [15-Minuten-Leitfaden für Lehrende (Lebensphase) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#lifestage)
+
 ## Säuglinge (0-2 Jahre)
 
 ### Probiotika für Säuglinge

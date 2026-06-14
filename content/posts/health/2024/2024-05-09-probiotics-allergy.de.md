@@ -26,6 +26,8 @@ Allergien treten auf, wenn das Immunsystem übermäßig auf eine normalerweise h
   demoLabel="Interaktives Labor öffnen"
 >}}
 
+> **Workshop?** [15-Minuten-Leitfaden für Lehrende (Allergie) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#allergy)
+
 ## 1. **Regulierung des Immunsystems**
 
 Probiotika spielen eine wichtige Rolle bei der **Modulation des Immunsystems**, was für die Bewältigung von Allergien entscheidend ist. Bei Allergien neigt das Immunsystem zu einer **Th2-dominanten** Antwort, was zu einer Überproduktion von Antikörpern wie **IgE** führt, die allergische Reaktionen auslösen. Probiotika, insbesondere Stämme wie **Lactobacillus rhamnosus** und **Bifidobacterium longum**, können die Immunantwort in Richtung einer **Th1-dominanten** Antwort verschieben, was die Produktion von IgE verringert und somit allergische Symptome lindert.

@@ -23,6 +23,8 @@ In den letzten Jahren haben die Begriffe *Präbiotika*, *Probiotika* und *Postbi
   demoLabel="Interaktives Labor öffnen"
 >}}
 
+> **Workshop?** [15-Minuten-Leitfaden für Lehrende (Biotik-Zyklus) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#lifecycle)
+
 ## Einführung in Präbiotika, Probiotika und Postbiotika
 
 **Präbiotika** sind unverdauliche Verbindungen, die das Wachstum nützlicher Bakterien im Darm fördern. Im Gegensatz zu Probiotika enthalten sie keine lebenden Mikroorganismen, sondern dienen vielmehr als „Nahrung“ für die guten Bakterien, die bereits im Verdauungssystem leben. Präbiotika finden sich hauptsächlich in ballaststoffreichen Lebensmitteln und unterstützen die allgemeine Gesundheit des Darmmikrobioms.

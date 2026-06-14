@@ -23,6 +23,8 @@ Probiotics, live beneficial bacteria and yeasts, offer significant health benefi
   demoLabel="Open interactive lab"
 >}}
 
+> **Running a session?** [15-minute educator guide (life-stage) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#lifestage)
+
 ## Infants (0-2 Years)
 
 ### Probiotics for Infants

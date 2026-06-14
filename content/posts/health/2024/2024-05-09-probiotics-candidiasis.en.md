@@ -27,6 +27,8 @@ Candidiasis is an infection caused by an overgrowth of Candida, a type of yeast 
   demoLabel="Open interactive lab"
 >}}
 
+> **Running a session?** [15-minute educator guide (Candida) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#candida)
+
 ## 1. **Restoring Gut Microbiome Balance**
 
 **Balancing the Gut Microbiome**  

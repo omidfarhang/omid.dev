@@ -23,6 +23,8 @@ In recent years, the terms *prebiotics*, *probiotics*, and *postbiotics* have ga
   demoLabel="Open interactive lab"
 >}}
 
+> **Running a session?** [15-minute educator guide (biotic lifecycle) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#lifecycle)
+
 ## Introduction to Prebiotics, Probiotics, and Postbiotics
 
 **Prebiotics** are non-digestible compounds that promote the growth of beneficial bacteria in the gut. Unlike probiotics, they do not contain live microorganisms, but rather serve as “food” for the good bacteria already residing in the digestive system. Prebiotics are primarily found in fiber-rich foods and help support the overall health of the gut microbiome.

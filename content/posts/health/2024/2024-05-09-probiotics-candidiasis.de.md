@@ -27,6 +27,8 @@ Candidose ist eine Infektion, die durch ein übermäßiges Wachstum von Candida 
   demoLabel="Interaktives Labor öffnen"
 >}}
 
+> **Workshop?** [15-Minuten-Leitfaden für Lehrende (Candida) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#candida)
+
 ## 1. **Wiederherstellung des Gleichgewichts im Darmmikrobiom**
 
 **Ausgleich des Darmmikrobioms**  

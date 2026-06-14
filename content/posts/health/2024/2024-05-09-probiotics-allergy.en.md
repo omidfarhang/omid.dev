@@ -26,6 +26,8 @@ Allergies occur when the immune system overreacts to a typically harmless substa
   demoLabel="Open interactive lab"
 >}}
 
+> **Running a session?** [15-minute educator guide (allergy) →](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/#allergy)
+
 ## 1. **Regulating the Immune System**
 
 Probiotics play a significant role in **modulating the immune system**, which is critical in managing allergies. In allergies, the immune system tends to skew towards a **Th2-dominant** response, leading to an overproduction of antibodies like **IgE**, which trigger allergic reactions. Probiotics, especially strains like **Lactobacillus rhamnosus** and **Bifidobacterium longum**, can shift the immune response towards a **Th1-dominant** response, which reduces the production of IgE and thus alleviates allergic symptoms.
