@@ -21,6 +21,10 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/05/25/signal-forms-model-ui-state/
+  - /2026/05/26/angular-template-syntax-hidden-cost/
+  - /2025/12/24/angular-signals-control-theory/
 ---
 Open almost any mature Angular screen and you will find the same shape:
 
@@ -424,8 +428,5 @@ Then delete them.
 
 ## Further Reading & References
 
-- [Signal Forms Aren't Just a Forms API Update](/2026/05/25/signal-forms-model-ui-state/)
-- [The Hidden Cost of Nice Syntax](/2026/05/26/angular-template-syntax-hidden-cost/)
-- [Angular Signals and Control Theory](/2025/12/24/angular-signals-control-theory/)
 - [Angular template control flow](https://angular.dev/guide/templates/control-flow)
 - [Angular signals overview](https://angular.dev/guide/signals)

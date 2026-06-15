@@ -28,6 +28,10 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
+  - /2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/
+  - /2022/11/27/how-to-use-cloudflare-warp-on-linux/
 howToSteps:
   - name: Install Zsh and dependencies
     text: Install zsh, git, curl, wget, unzip, and fontconfig with apt on Ubuntu or pacman on Manjaro/Arch.
@@ -265,9 +269,3 @@ Now configure VS Code or Cursor to use Zsh. Add the following lines to `settings
   "terminal.integrated.fontFamily": "'MesloLGS Nerd Font Mono', 'MesloLGS NF', monospace"
 }
 ```
-
-## See also
-
-- [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)
-- [Advanced Shell Scripting Techniques with Bash](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
-- [How To Use Cloudflare WARP On Linux](/2022/11/27/how-to-use-cloudflare-warp-on-linux/)

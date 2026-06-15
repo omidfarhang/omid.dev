@@ -70,6 +70,9 @@
       {{- partial "series_nav.html" (dict "Page" . "Placement" "footer" "Mode" (.Params.seriesNav.mode | default "list")) -}}
       {{- end -}}
       {{- end }}
+      {{- if .Params.seeAlso -}}
+      {{- partial "see_also.html" . -}}
+      {{- end -}}
       <div class="post-footer-top">
         {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
         <ul class="post-tags">

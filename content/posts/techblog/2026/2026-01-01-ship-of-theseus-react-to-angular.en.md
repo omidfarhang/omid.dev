@@ -20,6 +20,9 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2025/12/25/cost-of-consistency-design-systems/
+  - /2025/12/24/angular-signals-control-theory/
 ---
 In the software world, the "Ship of Theseus" paradox is a daily reality. We replace parts of a system until, eventually, none of the original code remains. But usually, the industry moves toward the "shiny new thing." 
 
@@ -75,6 +78,4 @@ Sometimes, the "Ship of Theseus" needs a new hull, not just a new coat of paint.
 
 - **"Angular: Up and Running" by Shyam Seshadri:** A great guide for those transitioning from other frameworks.
 - **[Nx Monorepo Documentation](https://nx.dev/):** The tool that made our migration possible.
-- **[The Cost of Consistency: When Your Design System Becomes a Bottleneck](/2025/12/25/cost-of-consistency-design-systems/):** Lessons learned from building our Angular design system.
-- **[The 'Signal' and the 'Noise': Applying Control Theory to Angular's New Reactivity Model](/2025/12/24/angular-signals-control-theory/):** A deep dive into Angular's performance model.
 - **"Micro Frontends in Action" by Michael Geers:** Techniques for running multiple frameworks side-by-side.

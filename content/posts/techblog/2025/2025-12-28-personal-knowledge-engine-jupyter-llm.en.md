@@ -20,6 +20,8 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
 ---
 We've all used ChatGPT to write a function or debug a regex. But that's just the tip of the iceberg. The real power of Large Language Models (LLMs) isn't in the "chat"; it's in the integration. 
 
@@ -73,7 +75,6 @@ By using Jupyter as your "workbench" and local LLMs as your "advisor," you can b
 
 ## Further Reading & References
 
-- **[Jupyter, ChatGPT, Copilot (Part 1): The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/):** My original series on the conceptual role of Jupyter.
 - **[Ollama](https://ollama.com/):** The easiest way to get up and running with local LLMs on macOS, Linux, and Windows.
 - **"Generative AI in Action" by Amit Bahree:** A great look at how to build real-world applications with LLMs.
 - **[LangChain Documentation](https://python.langchain.com/):** The standard library for building LLM-powered applications.

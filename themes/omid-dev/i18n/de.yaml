@@ -418,3 +418,6 @@
 
 - id: series_intro_also
   translation: "Weitere Teile dieser Serie:"
+
+- id: see_also_title
+  translation: "Siehe auch"

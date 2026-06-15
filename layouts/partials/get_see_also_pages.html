@@ -1,0 +1,65 @@
+{{- $page := . -}}
+{{- $entries := slice -}}
+{{- $fallbackLang := "en" -}}
+{{- range site.Languages -}}
+  {{- if eq .Weight 1 -}}
+    {{- $fallbackLang = .Lang -}}
+  {{- end -}}
+{{- end -}}
+{{- $allPages := slice -}}
+{{- range site.Sites -}}
+  {{- $allPages = $allPages | append .RegularPages -}}
+{{- end -}}
+{{- if lt (len $allPages) 1 -}}
+  {{- $allPages = site.RegularPages -}}
+{{- end -}}
+{{- range $page.Params.seeAlso -}}
+  {{- $path := . -}}
+  {{- $label := "" -}}
+  {{- if reflect.IsMap . -}}
+    {{- with index . "path" -}}{{- $path = . -}}{{- end -}}
+    {{- with index . "label" -}}{{- $label = . -}}{{- end -}}
+  {{- end -}}
+  {{- if not $path -}}{{- continue -}}{{- end -}}
+  {{- $needle := strings.TrimSuffix "/" (strings.TrimPrefix "/" (printf "%v" $path)) -}}
+  {{- if hasPrefix $needle (printf "%s/" $page.Lang) -}}
+    {{- $needle = strings.TrimPrefix (printf "%s/" $page.Lang) $needle -}}
+  {{- end -}}
+  {{- if hasPrefix $needle (printf "%s/" $fallbackLang) -}}
+    {{- $needle = strings.TrimPrefix (printf "%s/" $fallbackLang) $needle -}}
+  {{- end -}}
+  {{- $candidates := slice -}}
+  {{- range $allPages -}}
+    {{- $postURL := strings.TrimSuffix "/" (.Params.url | default "") -}}
+    {{- if and $postURL (eq $postURL $needle) -}}
+      {{- $candidates = $candidates | append . -}}
+    {{- else -}}
+      {{- $suffix := printf "/%s/" $needle -}}
+      {{- if strings.Contains .RelPermalink $suffix -}}
+        {{- $candidates = $candidates | append . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $target := false -}}
+  {{- range $candidates -}}
+    {{- if eq .Lang $page.Lang -}}
+      {{- $target = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $target -}}
+    {{- range $candidates -}}
+      {{- if eq .Lang $fallbackLang -}}
+        {{- $target = . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and (not $target) $candidates -}}
+    {{- $target = index $candidates 0 -}}
+  {{- end -}}
+  {{- if $target -}}
+    {{- $entries = $entries | append (dict "Page" $target "Label" $label) -}}
+  {{- else -}}
+    {{- warnf "seeAlso path not found (%s) in %s" $path $page.File.Path -}}
+  {{- end -}}
+{{- end -}}
+{{- $page.Scratch.Set "seeAlsoEntries" $entries -}}

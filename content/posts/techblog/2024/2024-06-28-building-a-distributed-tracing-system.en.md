@@ -21,6 +21,10 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2024/06/08/real-time-data-in-frontend-applications/
+  - /2024/07/01/chaos-engineering-in-frontend-development/
+  - /2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/
 faq:
   - question: How do I add OpenTelemetry to an Angular application?
     answer: Install the OpenTelemetry Web SDK packages, configure a TracerProvider with an OTLP or Jaeger exporter, initialize tracing in main.ts before bootstrapping Angular, and instrument your HTTP interceptors and services so each request creates spans.
@@ -251,9 +255,3 @@ Backend tracing follows requests across microservices on the server. **Angular O
 ### Which exporter should I use for OpenTelemetry in Angular?
 
 For local development, export spans to Jaeger or the OpenTelemetry Collector via OTLP. In production, send traces to your observability backend using the same OTLP endpoint pattern shown above.
-
-## See also
-
-- [Real-Time Data in Frontend Applications](/2024/06/08/real-time-data-in-frontend-applications/)
-- [Chaos Engineering in Frontend Development](/2024/07/01/chaos-engineering-in-frontend-development/)
-- [Advanced Dependency Injection in Angular](/2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/)

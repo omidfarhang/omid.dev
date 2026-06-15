@@ -1,0 +1,24 @@
+{{- partial "get_see_also_pages.html" . -}}
+{{- $entries := .Scratch.Get "seeAlsoEntries" -}}
+{{- if not $entries -}}{{- return -}}{{- end -}}
+
+<div class="see-also-posts">
+  <h3 class="see-also-title">{{ i18n "see_also_title" }}</h3>
+  <div class="see-also-grid related-grid">
+    {{- range $entries -}}
+    {{- $target := .Page -}}
+    {{- $title := .Label | default $target.Title -}}
+    <a class="see-also-card related-card card card--interactive card--related" href="{{ $target.Permalink }}">
+      <div class="related-card-content">
+        <h4 class="related-card-title">{{ $title }}</h4>
+        {{- if $target.Date -}}
+        <div class="related-card-meta">
+          <i class="far fa-calendar-alt" aria-hidden="true"></i>
+          <span>{{ $target.Date.Format "Jan 2, 2006" }}</span>
+        </div>
+        {{- end -}}
+      </div>
+    </a>
+    {{- end -}}
+  </div>
+</div>

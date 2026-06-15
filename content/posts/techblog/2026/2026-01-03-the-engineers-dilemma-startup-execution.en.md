@@ -24,6 +24,24 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2024/07/08/from-concept-to-reality-launching-a-tech-startup-in-2024/
+  - /2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
+  - /2024/05/28/software-architecture-and-design-principles/
+  - /2024/06/20/choosing-the-right-tech-stack-for-your-project-a-comprehensive-guide/
+  - /2025/12/25/cost-of-consistency-design-systems/
+  - /2024/06/05/advanced-api-design-rest-graphql-and-grpc/
+  - /2024/05/29/a-comprehensive-guide-to-frontend-testing/
+  - /2024/06/16/advanced-security-practices-for-web-applications-implementing-csp-hsts-and-sri/
+  - /2025/12/26/debugging-radio-vs-microservices/
+  - /2025/12/28/personal-knowledge-engine-jupyter-llm/
+  - /2024/05/28/introduction-to-docker-simplifying-application-deployment/
+  - /2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/
+  - /2024/06/06/chaos-engineering/
+  - /2024/05/31/effective-task-management-in-small-large-and-multi-team-development-environments/
+  - /2024/06/27/bridging-the-gap-between-technical-and-non-technical-teams/
+  - /2024/06/06/building-resilient-teams/
+  - /2025/12/27/ethics-of-legacy-code/
 ---
 You have a startup idea, and you have the skills to build it. As a senior developer, you’ve likely spent years mastering the art of turning requirements into robust, scalable systems. But when you decide to build your own company, you realize that the code is the easy part. The hard part is everything *around* the code: validation, prioritization, distribution, operations, and leadership.
 
@@ -153,14 +171,3 @@ For more on team dynamics, see [Effective Task Management](/2024/05/31/effective
 As a senior developer, you know how to build a ship that can cross the ocean. But a startup starts as a raft. Your goal is to find water, see if it floats, and then slowly replace the logs with a hull, the bedsheet with a sail.
 
 The execution gap is closed not by working harder, but by working on the right things. Stop over-engineering the solution and start over-validating the problem.
-
----
-
-### Further Reading (The 2024-2025 Playbook)
-
-- **Startup Strategy:** [From Concept to Reality](/2024/07/08/from-concept-to-reality-launching-a-tech-startup-in-2024/), [The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/)
-- **Architecture:** [Software Architecture Principles](/2024/05/28/software-architecture-and-design-principles/), [Choosing the Right Tech Stack](/2024/06/20/choosing-the-right-tech-stack-for-your-project-a-comprehensive-guide/), [The Cost of Consistency](/2025/12/25/cost-of-consistency-design-systems/)
-- **Engineering Hygiene:** [API Design](/2024/06/05/advanced-api-design-rest-graphql-and-grpc/), [Frontend Testing](/2024/05/29/a-comprehensive-guide-to-frontend-testing/), [Security Practices](/2024/06/16/advanced-security-practices-for-web-applications-implementing-csp-hsts-and-sri/), [Lessons from Debugging 1970s Radios](/2025/12/26/debugging-radio-vs-microservices/)
-- **AI & Knowledge:** [Building a Personal Knowledge Engine](/2025/12/28/personal-knowledge-engine-jupyter-llm/)
-- **Operations:** [Docker Intro](/2024/05/28/introduction-to-docker-simplifying-application-deployment/), [Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/), [Chaos Engineering](/2024/06/06/chaos-engineering/)
-- **Leadership:** [Task Management](/2024/05/31/effective-task-management-in-small-large-and-multi-team-development-environments/), [Bridging the Gap](/2024/06/27/bridging-the-gap-between-technical-and-non-technical-teams/), [Resilient Teams](/2024/06/06/building-resilient-teams/), [The Ethics of Legacy Code](/2025/12/27/ethics-of-legacy-code/)

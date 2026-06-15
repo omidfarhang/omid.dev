@@ -486,6 +486,19 @@ img.in-text {
     border-top: 1px solid var(--border);
 }
 
+.see-also-posts {
+    margin: 0 0 var(--space-8);
+    padding: var(--space-6) 0 0;
+    border-top: 1px solid var(--border);
+}
+
+.see-also-title {
+    margin-bottom: var(--space-5);
+    font-size: var(--text-xl);
+    font-weight: var(--font-bold);
+    color: var(--primary);
+}
+
 .related-title {
     margin-bottom: var(--space-6);
     font-size: var(--text-2xl);

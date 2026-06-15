@@ -18,6 +18,8 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/01/01/ship-of-theseus-react-to-angular/
 ---
 Design systems are promised as the ultimate productivity booster. "Build once, use everywhere." And for the first six months, it's true. You see the velocity of your feature teams skyrocket as they stop arguing about hex codes and start assembling pages from a library of pre-built components.
 
@@ -77,5 +79,4 @@ As we saw in our [migration from React to Angular](/2026/01/01/ship-of-theseus-r
 - **"Design Systems" by Alla Kholmatova:** A foundational book on the philosophy and practice of building systems.
 - **"Atomic Design" by Brad Frost:** The methodology that started it all.
 - **The "Leaky Abstractions" Essay by Joel Spolsky:** Essential reading for understanding the cost of complex components.
-- **[The 'Ship of Theseus' Migration](/2026/01/01/ship-of-theseus-react-to-angular/):** Context on the environment where we built our Angular design system.
 - **Nathan Curtis on Medium:** One of the best resources for design system governance and team structures.

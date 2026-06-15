@@ -20,6 +20,9 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/01/01/troubleshooting-intermittent-faults-electronics/
+  - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
 ---
 When you open up a 1970s radio, you aren't met with logs or stack traces. You're met with voltages, currents, and signals. If the audio is distorted, you don't "grep" for an error; you trace the signal path from the antenna to the speaker.
 
@@ -69,6 +72,4 @@ The next time you are stuck on a "Heisenbug" in your Kubernetes cluster, take a 
 
 - **"The Art of Electronics" by Horowitz and Hill:** The definitive guide to understanding how signals move through physical components.
 - **"Site Reliability Engineering" (The Google SRE Book):** Specifically the chapters on monitoring and observability.
-- **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/):** My deep dive into the physical reality of hardware failure.
 - **"Distributed Systems Observability" by Cindy Sridharan:** A modern look at tracing, metrics, and logging.
-- **[Code Archaeology: Exploring and Modernizing Legacy Systems](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/):** How to apply these principles to aging software.

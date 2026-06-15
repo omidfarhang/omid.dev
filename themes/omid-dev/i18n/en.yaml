@@ -403,3 +403,6 @@
 
 - id: series_intro_also
   translation: "Also in this series:"
+
+- id: see_also_title
+  translation: "See also"

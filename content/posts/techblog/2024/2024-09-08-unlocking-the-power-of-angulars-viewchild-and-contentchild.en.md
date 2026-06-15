@@ -23,6 +23,11 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2024/05/12/reusable-shared-module-in-angular/
+  - /2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
+  - /2024/06/03/building-custom-angular-schematics-automating-code-generation/
+  - /2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreencanvas/
 faq:
   - question: What is ViewChild in Angular?
     answer: ViewChild is a decorator that queries a child component, directive, or DOM element defined in the component's own template. Resolve it in ngAfterViewInit.
@@ -279,10 +284,3 @@ Overusing `@ViewChild` and `@ContentChild` can lead to performance issues, espec
 ## 7. Conclusion
 
 Both `@ViewChild` and `@ContentChild` are essential tools in the Angular developer’s toolbox, offering a seamless way to interact with the DOM, child components, and projected content. By understanding their differences, use cases, and advanced applications, you can unlock the full potential of these decorators and create more dynamic, flexible, and powerful Angular applications.
-
-## See also
-
-- [Reusable Shared Module in Angular](/2024/05/12/reusable-shared-module-in-angular/)
-- [Design Patterns in Angular](/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/)
-- [Building Custom Angular Schematics](/2024/06/03/building-custom-angular-schematics-automating-code-generation/)
-- [Optimizing Angular with Web Workers and OffscreenCanvas](/2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreencanvas/)

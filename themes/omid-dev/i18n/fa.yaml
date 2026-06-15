@@ -403,3 +403,6 @@
 
 - id: series_intro_also
   translation: "دیگر بخش‌های این مجموعه:"
+
+- id: see_also_title
+  translation: "همچنین ببینید"

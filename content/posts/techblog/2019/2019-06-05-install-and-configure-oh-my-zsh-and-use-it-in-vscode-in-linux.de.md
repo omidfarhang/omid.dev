@@ -27,6 +27,10 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
+  - /2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/
+  - /2022/11/27/how-to-use-cloudflare-warp-on-linux/
 howToSteps:
   - name: Zsh und Abhängigkeiten installieren
     text: Installiere zsh, git, curl, wget, unzip und fontconfig mit apt unter Ubuntu oder pacman unter Manjaro/Arch.
@@ -205,9 +209,3 @@ In `settings.json`:
   "terminal.integrated.fontFamily": "'MesloLGS Nerd Font Mono', 'MesloLGS NF', monospace"
 }
 ```
-
-## Siehe auch
-
-- [Cursor IDE auf Manjaro Linux installieren](/de/2026/05/29/how-to-install-cursor-ide-in-manjaro/)
-- [Fortgeschrittenes Shell-Scripting mit Bash](/de/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
-- [Cloudflare WARP unter Linux nutzen](/de/2022/11/27/how-to-use-cloudflare-warp-on-linux/)

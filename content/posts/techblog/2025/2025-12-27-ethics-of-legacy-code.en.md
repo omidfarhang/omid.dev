@@ -19,6 +19,8 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
 ---
 Every developer has been there: you inherit a codebase that looks like a bowl of spaghetti, and your first instinct is to say, "We need to rewrite this." You see the outdated libraries, the inconsistent naming conventions, and the lack of unit tests, and you think, "I could do this so much better from scratch."
 
@@ -72,6 +74,5 @@ The next time you feel the urge to "delete it all and start over," take a breath
 
 - **"Working Effectively with Legacy Code" by Michael Feathers:** The "bible" of refactoring and testing old systems.
 - **"Refactoring" by Martin Fowler:** The foundational text on how to improve the design of existing code.
-- **[Code Archaeology: Exploring and Modernizing Legacy Systems](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/):** My deep dive into the methodology of exploring old codebases.
 - **"The Mythical Man-Month" by Fred Brooks:** Specifically the chapters on the "Second-System Effect."
 - **"Chesterton's Fence" (The Collected Works of G.K. Chesterton):** The philosophical origin of the concept.

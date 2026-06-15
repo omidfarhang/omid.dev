@@ -24,6 +24,9 @@ tags:
   - AppImage
 categories:
   - TechBlog
+seeAlso:
+  - /2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/
+  - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
 howToSteps:
   - name: Install required packages
     text: Install curl and fuse2 with pacman on Manjaro.
@@ -191,8 +194,3 @@ update-cursor --uninstall
 ```
 
 If Cursor is open while you update it, close it first, run `update-cursor`, and then start it again.
-
-## See also
-
-- [Install and Configure Oh My Zsh in VS Code or Cursor](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)
-- [Ubuntu, Manjaro, and the Linux Desktop I'm Rethinking](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/)

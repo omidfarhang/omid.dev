@@ -19,6 +19,8 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/01/01/ship-of-theseus-react-to-angular/
 ---
 Angular Signals have changed the way we think about reactivity in the frontend. But if you step outside the world of JavaScript, the concept of a "Signal" has a much older, much deeper history in Control Theory and Electrical Engineering.
 
@@ -70,5 +72,4 @@ Whether you are debugging a [1970s radio](/2025/12/26/debugging-radio-vs-microse
 - **"Feedback Control of Dynamic Systems" by Franklin, Powell, and Emami-Naeini:** The classic textbook on control theory.
 - **Angular Signals Documentation:** The official guide to the new reactivity model.
 - **"Signals/Slots" in Qt:** A look at how other frameworks have handled signal-based communication for decades.
-- **[The 'Ship of Theseus' Migration](/2026/01/01/ship-of-theseus-react-to-angular/):** How we applied these architectural principles during a major framework swap.
 - **"A Mathematical Theory of Communication" by Claude Shannon:** The foundation of information theory and signal processing.

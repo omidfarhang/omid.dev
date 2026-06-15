@@ -22,6 +22,9 @@ tags:
   - Package Management
 categories:
   - TechBlog
+seeAlso:
+  - /2022/12/30/how-to-upgrade-ubuntu-kernel/
+  - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
 ---
 
 I have not switched back to Kubuntu yet.
@@ -287,9 +290,7 @@ I will post a follow-up if I do the bare-metal trial. If you have switched eithe
 
 ---
 
-### References and further reading
+### References
 
 - [Kubuntu 26.04 LTS release notes](https://kubuntu.org/news/kubuntu-26-04-release-notes/)
 - [Arch Wiki: PRIME](https://wiki.archlinux.org/title/PRIME)
-- [My earlier post: How to Upgrade Ubuntu Kernel (Mainline)](/2022/12/30/how-to-upgrade-ubuntu-kernel/)
-- [My earlier post: How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)
