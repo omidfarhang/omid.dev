@@ -419,7 +419,7 @@ params:
   comments: true
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
