@@ -5,6 +5,7 @@ description: "After 15 years on Linux, I discovered zswap had been compressing i
 layout: single
 author_profile: true
 url: 2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/
+shortlink: https://g.omid.dev/g7MNIQt
 keywords:
   - zswap linux
   - linux memory compression
