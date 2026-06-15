@@ -1,18 +1,34 @@
 ---
 title: How To Use Cloudflare WARP On Linux
 date: 2022-11-27T01:33:51+03:30
+description: "Install and configure Cloudflare WARP on Ubuntu and Manjaro Linux: Zero Trust client setup, systemd service, and connecting through Cloudflare's network."
 layout: single
 author_profile: true
 url: 2022/11/27/how-to-use-cloudflare-warp-on-linux/
 shortlink: https://g.omid.dev/sMrrjTP
+keywords:
+  - cloudflare warp linux
+  - warp linux
+  - install warp ubuntu
+  - cloudflare warp ubuntu
+  - warp ubuntu
 tags:
   - Linux
   - CloudFlare
   - Warp
   - network
+  - Manjaro
+  - Ubuntu
 
 categories:
   - TechBlog
+howToSteps:
+  - name: Install the Cloudflare WARP client
+    text: Install cloudflare-warp from your package manager or AUR on Arch-based distros.
+  - name: Register and connect
+    text: Run warp-cli register and warp-cli connect to join Cloudflare's network.
+  - name: Enable the systemd service
+    text: Enable warp-svc so WARP starts automatically on boot.
 ---
 
 ## What is WARP?

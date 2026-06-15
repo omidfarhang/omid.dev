@@ -1,14 +1,23 @@
 ---
-title: 'Mastering Concurrency in Rust: Advanced Patterns with Async/Await and Tokio'
+title: 'Mastering Concurrency in Rust: Tokio Structured Concurrency and Async Patterns'
 date: 2024-06-15T18:12:21+03:30
+lastmod: 2026-06-16T12:00:00+03:30
+description: "Learn Rust structured concurrency with Tokio: async/await patterns, task scopes, JoinSet, and advanced concurrency techniques for high-performance Rust applications."
 layout: single
 author_profile: true
 url: 2024/06/15/mastering-concurrency-in-rust/
 shortlink: https://g.omid.dev/XrIzoQD
+keywords:
+  - rust structured concurrency
+  - tokio structured concurrency
+  - structured concurrency rust
+  - rust concurrency patterns
+  - tokio rust
 tags:
   - Rust
-  - Tokio Rust patterns
+  - Tokio
   - Rust Concurrency
+  - Linux
 
 categories:
   - TechBlog
@@ -67,7 +76,7 @@ By using Tokio, you can build highly concurrent applications that efficiently ma
 
 Now that we have a basic understanding of async/await and the Tokio runtime, let's explore some advanced patterns for mastering concurrency in Rust.
 
-### Pattern 1: Structured Concurrency with Tokio Tasks
+### Pattern 1: Tokio Structured Concurrency with Task Scopes
 
 Structured concurrency ensures that all spawned tasks are properly managed and that resources are cleaned up when tasks complete. Tokio provides several mechanisms for achieving structured concurrency, such as using `tokio::spawn` to create tasks and managing their lifetimes with scopes.
 

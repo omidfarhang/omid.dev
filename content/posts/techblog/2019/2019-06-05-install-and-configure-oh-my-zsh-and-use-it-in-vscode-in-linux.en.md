@@ -1,12 +1,20 @@
 ---
 title: Install and Configure Oh My Zsh and use it in VSCode or Cursor
 date: 2019-06-05T00:45:20+00:00
-lastmod: 2026-05-29T15:45:00+03:30
+lastmod: 2026-06-16T12:00:00+03:30
+description: "Install Oh My Zsh on Ubuntu, Manjaro, or Arch Linux, then use Zsh as the integrated terminal in VS Code or Cursor IDE with Powerlevel10k, Nerd Fonts, and useful plugins."
 layout: single
 author_profile: true
 url: 2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/
 shortlink: https://g.omid.dev/31b2bWc
-image: /images/2019/06/Screenshot_20190605_051605.png
+keywords:
+  - oh my zsh
+  - vscode terminal
+  - zsh
+  - cursor ide
+  - manjaro
+  - arch linux
+  - install oh my zsh
 tags:
   - Kubuntu
   - Manjaro
@@ -16,19 +24,38 @@ tags:
   - Cursor
   - vscode
   - zsh
+  - Linux
 
 categories:
   - TechBlog
+howToSteps:
+  - name: Install Zsh and dependencies
+    text: Install zsh, git, curl, wget, unzip, and fontconfig with apt on Ubuntu or pacman on Manjaro/Arch.
+  - name: Install Oh My Zsh
+    text: Run the official Oh My Zsh install script via curl or wget, then set zsh as your default shell with chsh.
+  - name: Configure Oh My Zsh
+    text: Edit ~/.zshrc to enable plugins, set Powerlevel10k as the theme, and install a Nerd Font.
+  - name: Use Zsh in VS Code or Cursor
+    text: Set terminal.integrated.defaultProfile.linux to zsh and configure the Meslo Nerd Font in settings.json.
 ---
+**TL;DR**
+
+- Install `zsh`, then run the [Oh My Zsh](https://ohmyz.sh/) installer on Ubuntu, Manjaro, or Arch.
+- Enable the `vscode` plugin, add Powerlevel10k, and install a Meslo Nerd Font.
+- Point the **VS Code integrated terminal** or **Cursor IDE terminal** at `/usr/bin/zsh` in `settings.json`.
+- On Manjaro, also see [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/).
+
 If you use the simple Bash Terminal in your OS, you may want to give Zsh a try to use a faster and safer terminal with many more features. The simple Bash that exist in the common dist of Linuxes are not changed over years and just received some security fixes, but the community behind Zsh are improving it everyday and bring new useful plugins.
 
 I use 'Oh my Zsh', Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
 
 ![Screenshot of Oh My ZSH in Yakuake](/images/2019/06/Screenshot_20190605_040118.png)
 
-Installing it is easy, here we go:
+## Install Oh My Zsh on Ubuntu, Manjaro, or Arch
 
-## First we install zsh itself
+This section is the fastest path if you searched for **install oh my zsh** and only need the commands. The rest of the post covers fonts, themes, plugins, and the VS Code / Cursor integrated terminal.
+
+### Step 1 — Install Zsh
 
 On Ubuntu/Kubuntu:
 
@@ -43,7 +70,7 @@ On Manjaro/Arch:
 sudo pacman -Syu zsh git curl wget unzip fontconfig
 ```
 
-## And then &#8216;Oh my Zsh' framework
+### Step 2 — Install the Oh My Zsh framework
 
 ### Via Curl
 
@@ -215,13 +242,17 @@ source ~/.zshrc
 
 You can also just open a new terminal.
 
-## Change the default terminal in VSCode or Cursor
+## Change the default terminal in VS Code or Cursor IDE
 
 ![Screenshot of OhMyZSH in VSCode](/images/2019/06/Screenshot_20190605_051605.png)
 
-Ok so by now we have installed and configured Zsh, set Powerlevel10k as the theme, and installed a compatible font. VSCode or Cursor may still use the default Bash as the integrated terminal, so we want to change it to Zsh. After installing the font, restart VSCode or Cursor so it can detect it.
+By now we have installed and configured Zsh, set Powerlevel10k as the theme, and installed a compatible font. **VS Code** and **Cursor IDE** may still use Bash as the integrated terminal, so we want to switch the **vscode terminal** (or Cursor terminal) to Zsh. After installing the font, restart VS Code or Cursor so it can detect it.
 
-Now we can configure VSCode or Cursor to use Zsh. Add the following lines to `settings.json` or find them one by one in settings and apply them:
+If you are setting up Cursor on Manjaro first, follow [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/) and use the `update-cursor` script from [omid.dev/scripts/update-cursor.sh](/scripts/update-cursor.sh) to keep the AppImage current.
+
+The Oh My Zsh `vscode` plugin also improves the integrated terminal experience inside the editor. Enable it in your `plugins=(...)` list in `~/.zshrc` as shown in the configuration section above.
+
+Now configure VS Code or Cursor to use Zsh. Add the following lines to `settings.json` or find them one by one in settings and apply them:
 
 ```json
 {
@@ -234,3 +265,9 @@ Now we can configure VSCode or Cursor to use Zsh. Add the following lines to `se
   "terminal.integrated.fontFamily": "'MesloLGS Nerd Font Mono', 'MesloLGS NF', monospace"
 }
 ```
+
+## See also
+
+- [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)
+- [Advanced Shell Scripting Techniques with Bash](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
+- [How To Use Cloudflare WARP On Linux](/2022/11/27/how-to-use-cloudflare-warp-on-linux/)

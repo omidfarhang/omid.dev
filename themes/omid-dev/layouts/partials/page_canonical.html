@@ -8,4 +8,5 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+{{- $canonical = index (split $canonical "#") 0 -}}
 {{- return $canonical -}}

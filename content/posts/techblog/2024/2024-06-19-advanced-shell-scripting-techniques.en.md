@@ -1,10 +1,18 @@
 ---
 title: 'Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash'
 date: 2024-06-19T01:34:32+03:30
+lastmod: 2026-06-16T12:00:00+03:30
+description: "Advanced bash scripting examples for Linux admins: script optimization, error handling, parallel processing, and copy-paste automation patterns for complex tasks."
 layout: single
 author_profile: true
 url: 2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/
 shortlink: https://g.omid.dev/1Phd085
+keywords:
+  - advanced shell script examples
+  - advanced bash scripting examples
+  - bash automation
+  - shell scripting advanced
+  - linux automation scripts
 tags:
   - Bash
   - Linux
@@ -280,6 +288,59 @@ EOF
 }
 
 configure_network "eth0" "192.168.1.100" "192.168.1.1"
+```
+
+## Copy-paste advanced bash scripting examples
+
+These three scripts are ready to adapt. They cover the queries people most often land on this page with: log rotation, bulk file processing, and a guarded deploy hook.
+
+### Rotate and compress logs
+
+```bash
+#!/bin/bash
+set -euo pipefail
+
+LOG_DIR="${1:-/var/log/myapp}"
+KEEP_DAYS="${2:-14}"
+
+find "$LOG_DIR" -name '*.log' -mtime +"$KEEP_DAYS" -print0 |
+  while IFS= read -r -d '' file; do
+    gzip -9 "$file"
+  done
+```
+
+### Process files in parallel with a worker limit
+
+```bash
+#!/bin/bash
+set -euo pipefail
+
+MAX_JOBS=4
+job_count=0
+
+for file in "$@"; do
+  (
+    convert "$file" "${file%.png}.webp"
+  ) &
+  ((++job_count >= MAX_JOBS)) && wait -n
+done
+wait
+```
+
+### Safe deploy hook with rollback
+
+```bash
+#!/bin/bash
+set -euo pipefail
+
+APP_DIR="/opt/myapp"
+RELEASE="$1"
+
+trap 'echo "Deploy failed — check logs"; exit 1' ERR
+
+rsync -a --delete "$RELEASE/" "$APP_DIR/current/"
+systemctl restart myapp
+curl -fsS http://127.0.0.1:8080/health
 ```
 
 ## Further Reading

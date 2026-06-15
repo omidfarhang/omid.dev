@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2015/10/09/all-the-worlds-a-stagefright/
 shortlink: https://g.omid.dev/21qAHcD
-image: /images/2015/10/stagefright_bug_logo.png
 tags:
   - Android
   - Stagefright

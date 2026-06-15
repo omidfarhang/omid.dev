@@ -4,7 +4,7 @@
   <lastmod>{{ safeHTML ($page.Lastmod.Format "2006-01-02T15:04:05-07:00") }}</lastmod>{{ end }}{{ if $page.IsTranslated }}{{ range $page.AllTranslations }}
   <xhtml:link
               rel="alternate"
-              hreflang="{{ .Language.Lang }}"
+              hreflang="{{ .Language.Locale | default .Language.Lang }}"
               href="{{ .Permalink }}"
               />{{ end }}{{ end }}
 </url>

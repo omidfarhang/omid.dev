@@ -1,12 +1,17 @@
 ---
 title: 'Advanced Networking in Linux: VLANs, Bonding, and Bridging'
 date: 2024-06-21T21:30:37+03:30
-lastmod: 2026-06-09T01:37:26+03:30
 description: "A practical guide to Linux VLANs, bonding, and bridging: how to layer interfaces, avoid common mistakes, and build a resilient server or virtualization-host network."
 layout: single
 author_profile: true
 url: 2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/
 shortlink: https://g.omid.dev/9uI2ZBh
+keywords:
+  - linux bridge vs bond
+  - linux bond vs bridge
+  - network bonding in linux
+  - linux vlan
+  - linux bridging
 tags:
   - Networking
   - Linux

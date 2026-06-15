@@ -144,6 +144,48 @@
   }
 }
 </script>
+{{- if .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $item := .Params.faq }}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.question | plainify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.answer | plainify }}
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{- end }}
+{{- if .Params.howToSteps }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description }}{{ . | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }},
+  "step": [
+    {{- range $i, $step := .Params.howToSteps }}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "position": {{ add 1 $i }},
+      "name": {{ $step.name | plainify }},
+      "text": {{ $step.text | plainify }}
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{- end }}
 {{- end }}{{/* .IsPage end */}}
 
 {{- end -}}

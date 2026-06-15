@@ -1,10 +1,15 @@
 ---
-title: "Die Macht von Angulars `@ViewChild` und `@ContentChild` entfesseln"
+title: "ViewChild Angular: Vollständiger Leitfaden zu @ViewChild und @ContentChild"
 date: 2024-09-08T12:56:55+03:30
+description: "ViewChild Angular Leitfaden mit @ViewChild- und @ContentChild-Beispielen, Vergleichstabelle und Best Practices für DOM-Zugriff."
 layout: single
 author_profile: true
 url: 2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/
 shortlink: https://g.omid.dev/7bkjYyz
+keywords:
+  - viewchild angular
+  - angular viewchild
+  - contentchild vs viewchild
 tags:
   - Angular
   - ViewChild

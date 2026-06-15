@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2014/09/25/need-know-berserk-mozilla/
 shortlink: https://g.omid.dev/212WQIC
-image: /images/2014/09/nss-1024x686.png
 tags:
   - browsers
   - Google

@@ -5,6 +5,11 @@ description: "A practical AppImage-based Cursor IDE installation guide for Manja
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/yAXBVd2
+keywords:
+  - cursor ide manjaro
+  - install cursor linux
+  - cursor appimage
+  - manjaro cursor
 x_link: https://x.com/OmidFarhangEn/status/2060358981831602255
 mastodon_link: https://mastodon.social/@omidfarhang/116658204889356987
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mmyorvy3fc26
@@ -19,6 +24,15 @@ tags:
   - AppImage
 categories:
   - TechBlog
+howToSteps:
+  - name: Install required packages
+    text: Install curl and fuse2 with pacman on Manjaro.
+  - name: Download the Cursor AppImage
+    text: Download the latest stable AppImage from Cursor's API into ~/.local/opt/cursor.
+  - name: Create launcher and desktop entry
+    text: Symlink the AppImage to ~/.local/bin/cursor and create a .desktop file with the extracted icon.
+  - name: Keep Cursor updated
+    text: Use the update-cursor script from omid.dev/scripts/update-cursor.sh for install, update, and uninstall.
 ---
 Cursor is distributed for Linux as an AppImage, which works well on Manjaro because you do not need to wait for a package in the official repositories or the AUR.
 
@@ -177,3 +191,8 @@ update-cursor --uninstall
 ```
 
 If Cursor is open while you update it, close it first, run `update-cursor`, and then start it again.
+
+## See also
+
+- [Install and Configure Oh My Zsh in VS Code or Cursor](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)
+- [Ubuntu, Manjaro, and the Linux Desktop I'm Rethinking](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/)

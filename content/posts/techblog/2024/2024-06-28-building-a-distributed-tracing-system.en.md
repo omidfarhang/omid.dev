@@ -1,10 +1,17 @@
 ---
-title: 'Building a Distributed Tracing System with OpenTelemetry in Angular Applications'
+title: 'OpenTelemetry in Angular: Distributed Tracing Setup Guide'
 date: 2024-06-28T12:31:41+03:30
+description: "Step-by-step OpenTelemetry Angular tutorial: instrument an Angular app for distributed tracing, export spans to Jaeger, and monitor microservices performance."
 layout: single
 author_profile: true
 url: 2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/
 shortlink: https://g.omid.dev/8UHHZZ8
+keywords:
+  - opentelemetry angular
+  - angular opentelemetry
+  - distributed tracing angular
+  - otel angular
+  - angular telemetry
 tags:
   - OpenTelemetry
   - Distributed Tracing System
@@ -14,6 +21,13 @@ tags:
 
 categories:
   - TechBlog
+faq:
+  - question: How do I add OpenTelemetry to an Angular application?
+    answer: Install the OpenTelemetry Web SDK packages, configure a TracerProvider with an OTLP or Jaeger exporter, initialize tracing in main.ts before bootstrapping Angular, and instrument your HTTP interceptors and services so each request creates spans.
+  - question: What is the difference between Angular OTEL and backend tracing?
+    answer: Backend tracing follows requests across microservices on the server. Angular OpenTelemetry captures client-side spans for page loads, route changes, and API calls, then propagates trace context headers so frontend and backend traces join in the same trace ID.
+  - question: Which exporter should I use for OpenTelemetry in Angular?
+    answer: For local development, export spans to Jaeger or the OpenTelemetry Collector via OTLP. In production, send traces to your observability backend (Grafana Tempo, Honeycomb, Datadog, etc.) using the same OTLP endpoint pattern shown in this guide.
 ---
 In today's complex microservices architectures, understanding the flow of requests and pinpointing performance bottlenecks can be challenging. This is where distributed tracing comes into play, and OpenTelemetry provides a powerful toolkit for implementing it. In this post, we'll explore how to build a distributed tracing system for Angular applications using OpenTelemetry, with a focus on microservices architecture and performance monitoring.
 
@@ -223,3 +237,23 @@ By following these practices, you can effectively leverage OpenTelemetry and dis
 ## Conclusion
 
 Implementing a distributed tracing system using OpenTelemetry in Angular applications provides powerful insights into application performance and behavior. By following the steps outlined in this post, you can set up a robust tracing infrastructure that will help you monitor, troubleshoot, and optimize your Angular applications in complex microservices environments.
+
+## FAQ
+
+### How do I add OpenTelemetry to an Angular application?
+
+Install the OpenTelemetry Web SDK packages, configure a `TracerProvider` with an OTLP or Jaeger exporter, initialize tracing in `main.ts` before bootstrapping Angular, and instrument your HTTP interceptors and services so each request creates spans.
+
+### What is the difference between Angular OTEL and backend tracing?
+
+Backend tracing follows requests across microservices on the server. **Angular OpenTelemetry** captures client-side spans for page loads, route changes, and API calls, then propagates trace context headers so frontend and backend traces share the same trace ID.
+
+### Which exporter should I use for OpenTelemetry in Angular?
+
+For local development, export spans to Jaeger or the OpenTelemetry Collector via OTLP. In production, send traces to your observability backend using the same OTLP endpoint pattern shown above.
+
+## See also
+
+- [Real-Time Data in Frontend Applications](/2024/06/08/real-time-data-in-frontend-applications/)
+- [Chaos Engineering in Frontend Development](/2024/07/01/chaos-engineering-in-frontend-development/)
+- [Advanced Dependency Injection in Angular](/2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/)

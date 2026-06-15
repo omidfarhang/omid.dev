@@ -1,10 +1,17 @@
 ---
-title: "Unlocking the Power of Angular's `@ViewChild` and `@ContentChild`"
+title: "ViewChild Angular: Complete Guide to @ViewChild and @ContentChild"
 date: 2024-09-08T12:56:55+03:30
+description: "ViewChild Angular guide with @ViewChild and @ContentChild examples, a comparison table vs ContentChild and signal queries, and best practices for DOM access."
 layout: single
 author_profile: true
 url: 2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/
 shortlink: https://g.omid.dev/7bkjYyz
+keywords:
+  - viewchild angular
+  - viewchild
+  - angular viewchild
+  - contentchild vs viewchild
+  - "@viewchild"
 tags:
   - Angular
   - ViewChild
@@ -16,6 +23,13 @@ tags:
 
 categories:
   - TechBlog
+faq:
+  - question: What is ViewChild in Angular?
+    answer: ViewChild is a decorator that queries a child component, directive, or DOM element defined in the component's own template. Resolve it in ngAfterViewInit.
+  - question: What is the difference between ViewChild and ContentChild?
+    answer: ViewChild accesses elements in the component template. ContentChild accesses projected content passed via ng-content from a parent component, resolved in ngAfterContentInit.
+  - question: Should I use ViewChild or signal queries in modern Angular?
+    answer: Signal-based viewChild() and contentChild() are preferred in new Angular code for reactive, type-safe queries. @ViewChild remains valid and widely used in existing codebases.
 ---
 Angular's `@ViewChild` and `@ContentChild` decorators provide a powerful way to interact with child components, DOM elements, and projected content within a component's template. While they are often misunderstood or used interchangeably, each has its own specific purpose and use cases.
 
@@ -216,6 +230,16 @@ While `@ViewChild` and `@ContentChild` might seem similar, they have distinct di
 | **When Resolved**     | After the view has been initialized (`ngAfterViewInit`) | After the content has been initialized (`ngAfterContentInit`) |
 | **Use Case**          | Accessing template elements                    | Accessing elements projected through `<ng-content>` |
 
+### ViewChild vs ContentChild vs signal queries
+
+| Approach | API | When to use |
+|----------|-----|-------------|
+| `@ViewChild` | Decorator on a class property | Existing Angular apps; resolved in `ngAfterViewInit` |
+| `@ContentChild` | Decorator on a class property | Access `<ng-content>` projections; resolved in `ngAfterContentInit` |
+| `viewChild()` / `contentChild()` | Signal-based query functions | New Angular 17+ code; reactive, works with `computed()` and templates |
+
+Signal queries are the long-term direction in Angular, but **`viewchild angular`** searches still map to the decorator API in most production codebases. Use signals for new components; keep `@ViewChild` when maintaining legacy modules.
+
 ## 5. Best Practices for Using `@ViewChild` and `@ContentChild`
 
 Here are some best practices to follow when working with these decorators:
@@ -255,3 +279,10 @@ Overusing `@ViewChild` and `@ContentChild` can lead to performance issues, espec
 ## 7. Conclusion
 
 Both `@ViewChild` and `@ContentChild` are essential tools in the Angular developer’s toolbox, offering a seamless way to interact with the DOM, child components, and projected content. By understanding their differences, use cases, and advanced applications, you can unlock the full potential of these decorators and create more dynamic, flexible, and powerful Angular applications.
+
+## See also
+
+- [Reusable Shared Module in Angular](/2024/05/12/reusable-shared-module-in-angular/)
+- [Design Patterns in Angular](/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/)
+- [Building Custom Angular Schematics](/2024/06/03/building-custom-angular-schematics-automating-code-generation/)
+- [Optimizing Angular with Web Workers and OffscreenCanvas](/2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreencanvas/)
