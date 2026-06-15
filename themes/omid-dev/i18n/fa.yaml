@@ -364,3 +364,42 @@
 
 - id: last_updated
   translation: "آخرین به‌روزرسانی"
+
+- id: series_eyebrow
+  translation: "مجموعه"
+
+- id: series_nav_label
+  translation: "نوشته‌های {{ .Title }}"
+
+- id: series_you_are_here
+  translation: "شما اینجا هستید"
+
+- id: series_read_next
+  translation: "بعدی"
+
+- id: series_read_prev
+  translation: "قبلی"
+
+- id: series_intro_anchor
+  translation: "این نوشته نمای کلی مجموعه {{ .Title }} است. {{ .Count }} پست فنی عمیق در این مجموعه دنبال می‌شود."
+
+- id: series_intro_part
+  translation: "این بخش {{ .Part }} از مجموعه {{ .Count }}‌بخشی درباره {{ .Title }} است."
+
+- id: series_intro_deep_dive
+  translation: "این پست فنی عمیق {{ .Part }} از {{ .Count }} در مجموعه {{ .Title }} است ({{ .Total }} نوشته در مجموع)."
+
+- id: series_footer_summary
+  translation: "{{ .Total }} نوشته · ۱ نمای کلی · {{ .Count }} پست عمیق"
+
+- id: series_group_overview
+  translation: "نمای کلی"
+
+- id: series_group_deep_dives
+  translation: "پست‌های فنی عمیق ({{ .Count }})"
+
+- id: series_intro_start_anchor
+  translation: "با <a href=\"{{ .Link }}\">{{ .Label }}</a> شروع کنید."
+
+- id: series_intro_also
+  translation: "دیگر بخش‌های این مجموعه:"
