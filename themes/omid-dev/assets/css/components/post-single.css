@@ -846,22 +846,37 @@ img.in-text {
 }
 
 .article-body .post-content table:not(.highlighttable, .highlight table, .lntable) {
-    display: block;
+    display: table;
     width: 100%;
-    overflow-x: auto;
+    table-layout: auto;
+    border-collapse: separate;
+    border-spacing: 0;
     border: 1px solid var(--border);
     border-radius: var(--radius);
     box-shadow: var(--shadow-sm);
 }
 
-.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) th {
-    color: var(--primary);
-    background: var(--surface-tint);
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) thead {
+    display: table-header-group;
+}
+
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) tbody {
+    display: table-row-group;
+}
+
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) tr {
+    display: table-row;
 }
 
 .article-body .post-content table:not(.highlighttable, .highlight table, .lntable) th,
 .article-body .post-content table:not(.highlighttable, .highlight table, .lntable) td {
+    display: table-cell;
     padding: var(--space-3) var(--space-4);
+}
+
+.article-body .post-content table:not(.highlighttable, .highlight table, .lntable) th {
+    color: var(--primary);
+    background: var(--surface-tint);
 }
 
 .article-body .post-footer,

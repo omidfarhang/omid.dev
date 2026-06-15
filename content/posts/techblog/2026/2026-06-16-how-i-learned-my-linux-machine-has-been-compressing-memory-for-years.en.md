@@ -150,6 +150,39 @@ Alternative setup (common on some distros):
 
 These commands are safe read-only inspection. Run them on your own machine and compare.
 
+If you want the fastest clue before opening `/proc`, start with **htop**.
+
+### The fast visual check: htop
+
+Modern **htop** (3.x on Arch/Manjaro) color-codes memory in the top bar. Press **`F1`** or **`h`** for the legend:
+
+![htop memory bar legend showing used, shared, compressed, buffers, and cache colors](/images/2026/06/htop-memory-bar-legend.png)
+
+The **Memory** bar breaks down like this:
+
+| Color | Meaning |
+| --- | --- |
+| Green | Used by processes |
+| Purple | Shared |
+| **Gray** | **Compressed** |
+| Blue | Buffers |
+| Brown / orange | Cache |
+
+That yellow **compressed** slice is the visual hint that the kernel is holding compressed pages in RAM — the same class of work zswap and zram do, surfaced without reading sysfs.
+
+The **Swap** bar has its own useful label: **frontswap** (gray). That is the front-end swap cache zswap plugs into. If zswap is active and holding pages, you may see frontswap usage here even when disk swap looks barely touched.
+
+On my laptop at the time of the screenshot:
+
+![htop showing compressed memory in yellow on the Mem bar and 103M swap used of 39.1G](/images/2026/06/htop-memory-compressed-bar.png)
+
+- **Mem:** 11.3G / 22.9G — with a visible compressed segment in the bar
+- **Swp:** 91.3M / 39.1G — almost nothing on disk, while compression is doing work in RAM
+
+That gap between "memory pressure exists" and "swap file barely used" is exactly the kind of clue that sent me digging into zswap in the first place.
+
+For the exact numbers behind the colors, keep going with the checks below.
+
 ### 1. Is zswap enabled?
 
 ```shell
