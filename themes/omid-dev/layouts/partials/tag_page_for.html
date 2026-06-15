@@ -1,12 +1,13 @@
 {{- $tagName := . -}}
+{{- if not (site.Store.Get "tagPageByNorm") -}}
+  {{- $lookup := dict -}}
+  {{- range site.Taxonomies.tags -}}
+    {{- with .Page -}}
+      {{- $key := lower .Title | replaceRE "[^a-z0-9]" "" -}}
+      {{- $lookup = merge $lookup (dict $key .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- site.Store.Set "tagPageByNorm" $lookup -}}
+{{- end -}}
 {{- $want := lower $tagName | replaceRE "[^a-z0-9]" "" -}}
-{{- $found := "" -}}
-{{- range site.Taxonomies.tags }}
-  {{- with .Page }}
-    {{- $pageNorm := lower .Title | replaceRE "[^a-z0-9]" "" -}}
-    {{- if eq $pageNorm $want }}
-      {{- $found = . }}
-    {{- end }}
-  {{- end }}
-{{- end }}
-{{- return $found -}}
+{{- return index (site.Store.Get "tagPageByNorm") $want -}}

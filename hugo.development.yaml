@@ -1,0 +1,27 @@
+# Development-only overrides (loaded automatically by `hugo server`).
+# Keeps production config in hugo.yaml unchanged.
+
+# Fewer output formats during local dev — skips 7 custom sitemap variants per language.
+languages:
+  en:
+    outputs:
+      home:
+        - HTML
+        - RSS
+  fa:
+    outputs:
+      home:
+        - HTML
+        - RSS
+  de:
+    outputs:
+      home:
+        - HTML
+        - RSS
+
+# Reuse generated image assets aggressively between rebuilds.
+build:
+  useResourceCacheWhen: always
+
+# Slightly larger pages = fewer paginator pages to render locally.
+paginate: 15

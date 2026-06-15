@@ -1,12 +1,14 @@
-{{- $curatedTags := partial "curated_tech_tags.html" . -}}
+{{- if not (site.Store.Get "curatedTechTagNorms") -}}
+  {{- $norms := slice -}}
+  {{- $curated := partial "curated_tech_tags.html" . -}}
+  {{- range $curated -}}
+    {{- $norms = $norms | append (lower . | replaceRE "[^a-z0-9]" "") -}}
+  {{- end -}}
+  {{- site.Store.Set "curatedTechTagNorms" $norms -}}
+{{- end -}}
 {{- $result := false -}}
 {{- if eq .Type "tags" -}}
   {{- $pageNorm := lower .Title | replaceRE "[^a-z0-9]" "" -}}
-  {{- range $curatedTags -}}
-    {{- $tagNorm := lower . | replaceRE "[^a-z0-9]" "" -}}
-    {{- if eq $pageNorm $tagNorm -}}
-      {{- $result = true -}}
-    {{- end -}}
-  {{- end -}}
+  {{- $result = in (site.Store.Get "curatedTechTagNorms") $pageNorm -}}
 {{- end -}}
 {{- return $result -}}

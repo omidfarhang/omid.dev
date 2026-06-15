@@ -3,6 +3,19 @@
 {{- $techPosts := $techSection.RegularPagesRecursive }}
 {{- if eq (len $techPosts) 0 }}{{ return }}{{ end }}
 
+{{- if not (site.Store.Get "techTagPostCounts") -}}
+  {{- $counts := dict -}}
+  {{- range site.Taxonomies.tags -}}
+    {{- $termPages := .Pages -}}
+    {{- with .Page -}}
+      {{- $key := lower .Title | replaceRE "[^a-z0-9]" "" -}}
+      {{- $counts = merge $counts (dict $key (len (intersect $termPages $techPosts))) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- site.Store.Set "techTagPostCounts" $counts -}}
+{{- end -}}
+{{- $techTagCounts := site.Store.Get "techTagPostCounts" -}}
+
 {{- $showFeatured := .showFeatured | default false }}
 {{- $compact := .compact | default false }}
 {{- $homeBold := .homeBold | default false }}
@@ -45,17 +58,15 @@
     {{- range $coreStackTags }}
     {{- $tagName := . }}
     {{- $tagPage := partial "tag_page_for.html" $tagName }}
-    {{- $tagPages := slice }}
-    {{- if $tagPage }}
-      {{- $tagPages = intersect $tagPage.Pages $techPosts }}
-    {{- end }}
+    {{- $tagNorm := lower $tagName | replaceRE "[^a-z0-9]" "" -}}
+    {{- $tagPostCount := index $techTagCounts $tagNorm | default 0 -}}
     <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }} card--accent">
       <div class="icon-circle icon-circle--md">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
       <h3>{{ $tagName }}</h3>
-      {{- if gt (len $tagPages) 0 }}
-      <p>{{ T "all" }} {{ len $tagPages }} {{ T "posts" }}</p>
+      {{- if gt $tagPostCount 0 }}
+      <p>{{ T "all" }} {{ $tagPostCount }} {{ T "posts" }}</p>
       {{- else }}
       <p>{{ i18n "view_all_tech_posts" }}</p>
       {{- end }}
@@ -89,18 +100,16 @@
     {{- $isDuplicateCore := and $showCoreStack $isTechnicalGroup (in $coreStackTags $tagName) }}
     {{- if not $isDuplicateCore }}
     {{- $tagPage := partial "tag_page_for.html" $tagName }}
-    {{- $tagPages := slice }}
-    {{- if $tagPage }}
-      {{- $tagPages = intersect $tagPage.Pages $techPosts }}
-    {{- end }}
-    {{- if or (gt (len $tagPages) 0) $.home $compact }}
+    {{- $tagNorm := lower $tagName | replaceRE "[^a-z0-9]" "" -}}
+    {{- $tagPostCount := index $techTagCounts $tagNorm | default 0 -}}
+    {{- if or (gt $tagPostCount 0) $.home $compact }}
     <a href="{{ if $tagPage }}{{ $tagPage.Permalink }}{{ else }}{{ $techSection.Permalink }}{{ end }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }}">
       <div class="icon-circle icon-circle--md">
         {{- partial "topic_tag_icon.html" $tagName }}
       </div>
       <h3>{{ $tagName }}</h3>
-      {{- if gt (len $tagPages) 0 }}
-      <p>{{ T "all" }} {{ len $tagPages }} {{ T "posts" }}</p>
+      {{- if gt $tagPostCount 0 }}
+      <p>{{ T "all" }} {{ $tagPostCount }} {{ T "posts" }}</p>
       {{- else }}
       <p>{{ i18n "view_all_tech_posts" }}</p>
       {{- end }}

@@ -1,17 +1,23 @@
 {{- $page := . -}}
+{{- if .Scratch.Get "seeAlsoResolved" -}}{{- return -}}{{- end -}}
+
 {{- $entries := slice -}}
 {{- $fallbackLang := "en" -}}
-{{- range site.Languages -}}
-  {{- if eq .Weight 1 -}}
-    {{- $fallbackLang = .Lang -}}
+{{- range hugo.Sites -}}
+  {{- if .Language.IsDefault -}}
+    {{- $fallbackLang = .Language.Lang -}}
   {{- end -}}
 {{- end -}}
-{{- $allPages := slice -}}
-{{- range site.Sites -}}
-  {{- $allPages = $allPages | append .RegularPages -}}
-{{- end -}}
-{{- if lt (len $allPages) 1 -}}
-  {{- $allPages = site.RegularPages -}}
+{{- $allPages := site.Store.Get "seeAlsoAllPages" -}}
+{{- if not $allPages -}}
+  {{- $allPages = slice -}}
+  {{- range hugo.Sites -}}
+    {{- $allPages = $allPages | append .RegularPages -}}
+  {{- end -}}
+  {{- if lt (len $allPages) 1 -}}
+    {{- $allPages = site.RegularPages -}}
+  {{- end -}}
+  {{- site.Store.Set "seeAlsoAllPages" $allPages -}}
 {{- end -}}
 {{- range $page.Params.seeAlso -}}
   {{- $path := . -}}
@@ -63,3 +69,4 @@
   {{- end -}}
 {{- end -}}
 {{- $page.Scratch.Set "seeAlsoEntries" $entries -}}
+{{- $page.Scratch.Set "seeAlsoResolved" true -}}
