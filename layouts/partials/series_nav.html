@@ -1,0 +1,167 @@
+{{- $page := .Page -}}
+{{- $placement := .Placement | default "footer" -}}
+{{- $mode := .Mode | default "list" -}}
+{{- partial "get_series_pages.html" $page -}}
+{{- $seriesPages := $page.Scratch.Get "seriesPages" -}}
+{{- if lt (len $seriesPages) 2 -}}{{- return -}}{{- end -}}
+
+{{- $seriesMeta := $page.Params.series -}}
+{{- $seriesTitle := $seriesMeta.title | default $seriesMeta.id -}}
+{{- $role := $seriesMeta.role | default "part" -}}
+
+{{- $anchor := false -}}
+{{- $parts := slice -}}
+{{- range $seriesPages -}}
+  {{- $pageRole := .Params.series.role | default "part" -}}
+  {{- if eq $pageRole "anchor" -}}
+    {{- $anchor = . -}}
+  {{- else -}}
+    {{- $parts = $parts | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $partCount := len $parts -}}
+
+{{- $partIndex := 0 -}}
+{{- range $i, $p := $parts -}}
+  {{- if eq $p $page -}}
+    {{- $partIndex = add $i 1 -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if eq $placement "intro" -}}
+<p class="series-nav series-nav--intro">
+  <em>
+    {{- if eq $role "anchor" -}}
+      {{- i18n "series_intro_anchor" (dict "Title" $seriesTitle "Count" $partCount) -}}
+    {{- else if gt $partCount 0 -}}
+      {{- if $anchor -}}
+        {{- i18n "series_intro_start_anchor" (dict "Link" $anchor.RelPermalink "Label" ($anchor.Params.series.label | default $anchor.Title)) | safeHTML -}}
+        {{ " " }}
+        {{- i18n "series_intro_deep_dive" (dict "Part" $partIndex "Count" $partCount "Title" $seriesTitle "Total" (len $seriesPages)) -}}
+      {{- else -}}
+        {{- i18n "series_intro_part" (dict "Part" $partIndex "Count" $partCount "Title" $seriesTitle) -}}
+      {{- end -}}
+      {{ " " }}
+      {{- i18n "series_intro_also" -}}
+      {{ " " }}
+      {{- $others := slice -}}
+      {{- range $seriesPages -}}
+        {{- if ne . $page -}}
+          {{- $others = $others | append . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- range $i, $p := $others -}}
+        {{- if gt $i 0 -}}, {{ end -}}
+        <a href="{{ $p.RelPermalink }}">{{ $p.Params.series.label | default $p.Title }}</a>
+      {{- end -}}
+      .
+    {{- end -}}
+  </em>
+</p>
+{{- else if eq $placement "footer" -}}
+{{- $currentIndex := -1 -}}
+{{- range $i, $p := $seriesPages -}}
+  {{- if eq $p $page -}}
+    {{- $currentIndex = $i -}}
+  {{- end -}}
+{{- end -}}
+{{- $prevPage := false -}}
+{{- $nextPage := false -}}
+{{- if ge $currentIndex 0 -}}
+  {{- if gt $currentIndex 0 -}}
+    {{- $prevPage = index $seriesPages (sub $currentIndex 1) -}}
+  {{- end -}}
+  {{- if lt $currentIndex (sub (len $seriesPages) 1) -}}
+    {{- $nextPage = index $seriesPages (add $currentIndex 1) -}}
+  {{- end -}}
+{{- end -}}
+
+<aside class="card card--accent series-nav series-nav--footer series-nav-card" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
+  <div class="series-nav-card__header">
+    <span class="section-kicker series-nav-card__eyebrow">{{ i18n "series_eyebrow" }}</span>
+    <strong class="series-nav-card__title">{{ $seriesTitle }}</strong>
+    {{- if $anchor -}}
+    <span class="series-nav-card__summary">{{ i18n "series_footer_summary" (dict "Total" (len $seriesPages) "Count" $partCount) }}</span>
+    {{- end -}}
+  </div>
+
+  {{- if eq $mode "prev-next" -}}
+  <nav class="series-nav__linear paginav">
+    {{- with $prevPage -}}
+    <a class="prev" href="{{ .RelPermalink }}">
+      <span class="title">« {{ i18n "series_read_prev" }}</span>
+      <br>
+      <span>{{ .Params.series.label | default .Title }}</span>
+    </a>
+    {{- end -}}
+    {{- with $nextPage -}}
+    <a class="next" href="{{ .RelPermalink }}">
+      <span class="title">{{ i18n "series_read_next" }} »</span>
+      <br>
+      <span>{{ .Params.series.label | default .Title }}</span>
+    </a>
+    {{- end -}}
+  </nav>
+  {{- else -}}
+  {{- if $anchor -}}
+  <div class="series-nav__group">
+    <p class="series-nav__group-label">{{ i18n "series_group_overview" }}</p>
+    <ul class="series-nav__list">
+      <li class="series-nav__item{{ if eq $anchor $page }} series-nav__item--current{{ end }}">
+        {{- if eq $anchor $page -}}
+        <span class="series-nav__current">
+          <strong>{{ $anchor.Params.series.label | default $anchor.Title }}</strong>
+          <span class="series-nav__here">{{ i18n "series_you_are_here" }}</span>
+        </span>
+        {{- else -}}
+        <a href="{{ $anchor.RelPermalink }}">{{ $anchor.Params.series.label | default $anchor.Title }}</a>
+        {{- end -}}
+      </li>
+    </ul>
+  </div>
+  <div class="series-nav__group">
+    <p class="series-nav__group-label">{{ i18n "series_group_deep_dives" (dict "Count" $partCount) }}</p>
+    <ol class="series-nav__list">
+      {{- range $parts -}}
+      <li class="series-nav__item{{ if eq . $page }} series-nav__item--current{{ end }}">
+        {{- if eq . $page -}}
+        <span class="series-nav__current">
+          <strong>{{ .Params.series.label | default .Title }}</strong>
+          <span class="series-nav__here">{{ i18n "series_you_are_here" }}</span>
+        </span>
+        {{- else -}}
+        <a href="{{ .RelPermalink }}">{{ .Params.series.label | default .Title }}</a>
+        {{- end -}}
+      </li>
+      {{- end -}}
+    </ol>
+  </div>
+  {{- else -}}
+  <ol class="series-nav__list">
+    {{- range $seriesPages -}}
+    <li class="series-nav__item{{ if eq . $page }} series-nav__item--current{{ end }}">
+      {{- if eq . $page -}}
+      <span class="series-nav__current">
+        <strong>{{ .Params.series.label | default .Title }}</strong>
+        <span class="series-nav__here">{{ i18n "series_you_are_here" }}</span>
+      </span>
+      {{- else -}}
+      <a href="{{ .RelPermalink }}">{{ .Params.series.label | default .Title }}</a>
+      {{- end -}}
+    </li>
+    {{- end -}}
+  </ol>
+  {{- end -}}
+  {{- if and $prevPage $nextPage -}}
+  <nav class="series-nav__linear series-nav__linear--compact paginav">
+    <a class="prev" href="{{ $prevPage.RelPermalink }}">
+      <span class="title">« {{ i18n "series_read_prev" }}</span>
+    </a>
+    <a class="next" href="{{ $nextPage.RelPermalink }}">
+      <span class="title">{{ i18n "series_read_next" }} »</span>
+    </a>
+  </nav>
+  {{- end -}}
+  {{- end -}}
+</aside>
+{{- end -}}

@@ -16,8 +16,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: micro-frontends
+  title: "Micro Frontends"
+  order: 3
+  label: "Micro Frontends: Working Example"
+  role: part
+seriesNav:
+  footer: false
 ---
-We already talked about [Why using Micro Frontend](/2024/05/09/micro-frontends-why/) and [How to use it](/2024/05/09/micro-frontends-how/). Now let's explore a working example to understand it better.
+Now let's explore a working example to understand it better.
 
 {{< companion
   repo="omidfarhang/example-projects"

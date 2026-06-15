@@ -16,6 +16,12 @@ tags:
   - Open Source
 categories:
   - TechBlog
+series:
+  id: bio-dynamics-lab
+  title: "Bio-Dynamics Lab"
+  order: 2
+  label: "Macro/micro 3D: one scene graph, seven tissue builders"
+  role: part
 ---
 Most microbiome diagrams are flat. Bio-Dynamics tries the opposite: a single Three.js scene that starts as a rotatable body map, then animates into a tissue cross-section when you pick a region — with microbe meshes, SCFA particles, and fog density tied to live simulation state.
 
@@ -91,9 +97,3 @@ The gut lifecycle preset is the clearest demo: apply prebiotics, watch substrate
 Bio-Dynamics has no React, no R3F, no scene graph framework. The lab is a Vite + TypeScript app where `App.ts` orchestrates engine, dashboard, and scene in one frame loop. That kept the educational bundle dependency-light — `three` is the only runtime npm dependency.
 
 System overview: [architecture/system-overview.md](https://github.com/omidfarhang/example-projects/blob/master/labs/microbiome-sandbox/docs/architecture/system-overview.md)
-
-## Read next in this series
-
-- [Designing a deterministic microbiome simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)
-- [Catalog-driven dashboard: strains, stressors, and action impact](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)
-- [i18n, a11y, and shareable lab state in the browser](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)

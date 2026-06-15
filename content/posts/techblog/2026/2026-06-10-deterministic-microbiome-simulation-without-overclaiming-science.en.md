@@ -16,10 +16,16 @@ tags:
   - Open Source
 categories:
   - TechBlog
+series:
+  id: bio-dynamics-lab
+  title: "Bio-Dynamics Lab"
+  order: 1
+  label: "Designing a deterministic microbiome simulation"
+  role: part
 ---
 Bio-Dynamics is an educational 3D lab, not a clinical simulator. That constraint shaped every decision in the simulation layer: reproducible ticks, scalar tissue state, capped agent counts, and inflammation that emerges from pressure instead of jumping on every button press.
 
-This post walks through the engine design. Start with the [anchor case study](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/) if you want the project context first.
+This post walks through the engine design.
 
 {{< companion
   repo="omidfarhang/example-projects"
@@ -96,9 +102,3 @@ The [assumptions doc](https://github.com/omidfarhang/example-projects/blob/maste
 - Postbiotics as individual agents (they stay a scalar `postbioticLevel`)
 
 Saying "educational abstraction" in the UI disclaimer is not modesty — it is architecture.
-
-## Read next in this series
-
-- [Macro/micro 3D: one scene graph, seven tissue builders](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)
-- [Catalog-driven dashboard: strains, stressors, and action impact](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)
-- [i18n, a11y, and shareable lab state in the browser](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)

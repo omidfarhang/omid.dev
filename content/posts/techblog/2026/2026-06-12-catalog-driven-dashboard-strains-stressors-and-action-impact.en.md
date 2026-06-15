@@ -16,6 +16,12 @@ tags:
   - Open Source
 categories:
   - TechBlog
+series:
+  id: bio-dynamics-lab
+  title: "Bio-Dynamics Lab"
+  order: 3
+  label: "Catalog-driven dashboard: strains, stressors, and action impact"
+  role: part
 ---
 The Bio-Dynamics dashboard exposes a lot of buttons: regional stressors, inoculations, environment sliders, and four catalog tabs for strains, prebiotics, postbiotics, and products. The trick is not rendering HTML — it is keeping the catalog honest as content grows.
 
@@ -111,9 +117,3 @@ That matters at 82 stressors. Without it, a button would render but no-op silent
 Adding a new region or action is documented step-by-step: [development/extending.md](https://github.com/omidfarhang/example-projects/blob/master/labs/microbiome-sandbox/docs/development/extending.md)
 
 The pattern is always: **catalog entry → engine handler → dashboard iteration → optional impact builder → golden test checkpoint if behavior is critical**.
-
-## Read next in this series
-
-- [Designing a deterministic microbiome simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)
-- [Macro/micro 3D: one scene graph, seven tissue builders](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)
-- [i18n, a11y, and shareable lab state in the browser](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)

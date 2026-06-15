@@ -1,0 +1,6 @@
+{{- $page := .Page -}}
+{{- if not $page.Params.series.id -}}
+  {{- warnf "series-nav shortcode used without series frontmatter: %s" $page.File.Path -}}
+  {{- return -}}
+{{- end -}}
+{{- partial "series_nav.html" (dict "Page" $page "Placement" (.Get "placement" | default "footer") "Mode" (.Get "mode" | default "list")) -}}

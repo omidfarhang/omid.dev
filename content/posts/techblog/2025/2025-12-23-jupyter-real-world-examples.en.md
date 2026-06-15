@@ -21,8 +21,13 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: jupyter-copilot
+  title: "Jupyter, ChatGPT, Copilot"
+  order: 3
+  label: "Part 3: Real-World Code Examples"
+  role: part
 ---
-*This is Part 3 of a series on modern development workflows. [Part 1: The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) and [Part 2: The Technical Guide to Jupyter Setup](/2025/12/23/jupyter-technical-setup-guide/) set the stage. Now, let's look at actual code.*
 
 {{< companion
   repo="omidfarhang/example-projects"
@@ -145,11 +150,3 @@ Jupyter isn't a replacement for your IDE; it's a companion. It's where you do th
 When implementing these examples, remember to keep them organized in a proper project hierarchy (as discussed in [Part 2](/2025/12/23/jupyter-technical-setup-guide/)). Keeping your data, notebooks, and source code separated is the key to a maintainable research workflow.
 
 Use **ChatGPT** to brainstorm the logic, **Jupyter** to prove it works with real data, and **Copilot** to help you write the production-grade implementation.
-
----
-
-## Series Wrap-up
-
-*   **Part 1:** [The Strategic Value of Thinking in Notebooks](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/)
-*   **Part 2:** [The Technical Guide to Jupyter Setup](/2025/12/23/jupyter-technical-setup-guide/)
-*   **Part 3:** You are here!

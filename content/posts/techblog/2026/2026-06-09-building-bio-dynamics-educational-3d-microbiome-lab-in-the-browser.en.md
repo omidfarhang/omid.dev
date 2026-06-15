@@ -18,6 +18,12 @@ tags:
   - Data & AI
 categories:
   - TechBlog
+series:
+  id: bio-dynamics-lab
+  title: "Bio-Dynamics Lab"
+  order: 0
+  label: "Building Bio-Dynamics: Overview"
+  role: anchor
 ---
 I write a lot about Angular platforms, monorepos, and production frontends. Bio-Dynamics is different: a browser-only educational lab where you rotate a 3D body map, zoom into tissue, and run deterministic probiotic scenarios tied to health articles on [omid.dev](https://omid.dev).
 
@@ -101,13 +107,6 @@ Saying "educational abstraction" in the UI is an architectural constraint, not f
 - **7 regions**, **3 presets**, **82 stressors**, **20 strains**, golden tests + CI
 - **Shareable lab state** via `?lab=` URL encoding and localStorage resume
 - **Open source** in [example-projects](https://github.com/omidfarhang/example-projects/tree/master/labs/microbiome-sandbox)
-
-## Technical deep-dives (series)
-
-1. [Designing a deterministic microbiome simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/) — tick engine, emergent inflammation, golden tests
-2. [Macro/micro 3D: one scene graph, seven tissue builders](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/) — Three.js visualization
-3. [Catalog-driven dashboard: strains, stressors, and action impact](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/) — data-first UI
-4. [i18n, a11y, and shareable lab state](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/) — locales, keyboard paths, URL checkpoints
 
 ## Health article companions
 

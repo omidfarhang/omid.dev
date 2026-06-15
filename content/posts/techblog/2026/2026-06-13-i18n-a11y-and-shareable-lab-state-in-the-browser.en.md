@@ -17,6 +17,12 @@ tags:
   - Open Source
 categories:
   - TechBlog
+series:
+  id: bio-dynamics-lab
+  title: "Bio-Dynamics Lab"
+  order: 4
+  label: "i18n, a11y, and shareable lab state in the browser"
+  role: part
 ---
 Shipping an educational lab to a global audience means more than translation strings. Bio-Dynamics adds RTL layout for Persian, keyboard region shortcuts, ARIA live announcements, touch gesture hints, and URL-encoded lab checkpoints so teachers can share a mid-simulation state without a backend.
 
@@ -102,11 +108,5 @@ Bio-Dynamics has no accounts, no database, no sync service. For an educational s
 - Privacy-friendly — no health data leaves the browser
 
 The trade-off is payload size limits in URLs and no cross-device sync. Acceptable for 400 capped nodes with compact tuple encoding.
-
-## Read the rest of this series
-
-- [Designing a deterministic microbiome simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)
-- [Macro/micro 3D: one scene graph, seven tissue builders](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)
-- [Catalog-driven dashboard: strains, stressors, and action impact](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)
 
 Full documentation index: [docs/README.md](https://github.com/omidfarhang/example-projects/blob/master/labs/microbiome-sandbox/docs/README.md)

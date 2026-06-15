@@ -21,9 +21,12 @@ tags:
 
 categories:
   - TechBlog
----
-*Dies ist Teil 2 einer dreiteiligen Serie. In [Teil 1: Der strategische Wert des Denkens in Notebooks](/de/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) haben wir besprochen, warum und wann man Jupyter einsetzt. Hier tauchen wir in die technische Umsetzung ein. [Teil 3: Praxisbeispiele aus der echten Welt](/de/2025/12/23/jupyter-real-world-examples/) behandelt praktische Anwendungsfälle.*
-
+series:
+  id: jupyter-copilot
+  title: "Jupyter, ChatGPT, Copilot"
+  order: 2
+  label: "Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung"
+  role: part
 ---
 
 ## Der moderne Jupyter-Stack
@@ -155,4 +158,3 @@ Denken Sie daran: Jupyter ist nicht der Ort, an dem Sie Ihre App schreiben; es i
 *   **VS Code Integration:** [Arbeiten mit Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 *   **Versionskontrolle:** [Jupytext: Jupyter Notebooks als Markdown oder Python-Skripte](https://github.com/mwouts/jupytext)
 *   **Saubere Diffs:** [nbstripout: Ausgaben aus Jupyter- und IPython-Notebooks entfernen](https://github.com/kynan/nbstripout)
-*   **Praxisbeispiele:** [Teil 3: Praxisbeispiele aus der echten Welt](/de/2025/12/23/jupyter-real-world-examples/)

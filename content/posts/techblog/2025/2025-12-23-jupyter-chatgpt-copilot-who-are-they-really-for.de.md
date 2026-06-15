@@ -22,8 +22,13 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: jupyter-copilot
+  title: "Jupyter, ChatGPT, Copilot"
+  order: 1
+  label: "Teil 1: Der strategische Wert des Denkens in Notebooks"
+  role: part
 ---
-*Dies ist Teil 1 einer dreiteiligen Serie über moderne Entwicklungs-Workflows. In diesem Teil untersuchen wir die konzeptionelle und strategische Rolle von Project Jupyter. [Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/) behandelt die Installation und das Umgebungsmanagement, und [Teil 3: Praxisbeispiele aus der echten Welt](/de/2025/12/23/jupyter-real-world-examples/) zeigt es in Aktion.*
 
 Wenn Sie aus einem traditionellen Software-Engineering-Hintergrund kommen (Frontend, Backend, Systeme), haben Sie **Project Jupyter** wahrscheinlich schon überall gesehen, von Notebooks und Erweiterungen bis hin zu Cloud-Plattformen, und sich gedacht:
 
@@ -276,5 +281,3 @@ Sobald man es als „Denkumgebung“ statt als „Programmierumgebung“ betrach
 *   **Project Jupyter:** [GitHub](https://github.com/jupyter)
 *   **Project Jupyter:** [Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter)
 *   **Die Philosophie der Notebooks:** [Literate Programming von Donald Knuth](https://en.wikipedia.org/wiki/Literate_programming)
-*   **Moderne Workflows:** [Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/)
-*   **Moderne Workflows:** [Teil 3: Praxisbeispiele aus der echten Welt](/de/2025/12/23/jupyter-real-world-examples/)

@@ -1,0 +1,7 @@
+{{- $page := . -}}
+{{- $pages := slice -}}
+{{- with $page.Params.series.id -}}
+  {{- $pages = where (where site.RegularPages "Params.series.id" .) "Lang" $page.Lang -}}
+  {{- $pages = sort $pages "Params.series.order" "asc" -}}
+{{- end -}}
+{{- $page.Scratch.Set "seriesPages" $pages -}}

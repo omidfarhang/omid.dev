@@ -21,8 +21,13 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: jupyter-copilot
+  title: "Jupyter, ChatGPT, Copilot"
+  order: 3
+  label: "Teil 3: Praxisbeispiele aus der echten Welt"
+  role: part
 ---
-*Dies ist Teil 3 einer Serie über moderne Entwicklungs-Workflows. [Teil 1: Der strategische Wert des Denkens in Notebooks](/de/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) und [Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/) haben die Grundlage geschaffen. Schauen wir uns nun konkreten Code an.*
 
 In den vorangegangenen Teilen haben wir besprochen, warum Jupyter eine „Denkumgebung“ ist. In diesem abschließenden Teil werden wir vier konkrete Szenarien durchgehen, in denen ein Notebook für einen Senior Engineer besser abschneidet als eine traditionelle IDE.
 
@@ -140,11 +145,3 @@ Jupyter ist kein Ersatz für Ihre IDE; es ist ein Begleiter. Es ist der Ort, an 
 Wenn Sie diese Beispiele umsetzen, denken Sie daran, sie in einer ordentlichen Projekthierarchie zu organisieren (wie in [Teil 2](/de/2025/12/23/jupyter-technical-setup-guide/) besprochen). Die Trennung von Daten, Notebooks und Quellcode ist der Schlüssel zu einem wartbaren Forschungs-Workflow.
 
 Nutzen Sie **ChatGPT**, um die Logik zu brainstormen, **Jupyter**, um zu beweisen, dass sie mit echten Daten funktioniert, und **Copilot**, um Ihnen bei der produktionsreifen Implementierung zu helfen.
-
----
-
-## Zusammenfassung der Serie
-
-*   **Teil 1:** [Der strategische Wert des Denkens in Notebooks](/de/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/)
-*   **Teil 2:** [Der technische Leitfaden zur Jupyter-Einrichtung](/de/2025/12/23/jupyter-technical-setup-guide/)
-*   **Teil 3:** Sie sind hier!

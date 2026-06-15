@@ -16,9 +16,13 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: micro-frontends
+  title: "Micro Frontends"
+  order: 2
+  label: "Micro Frontends: How?"
+  role: part
 ---
-We already talked about [Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)
-
 As web applications grow in complexity, maintaining a consistent tech stack becomes crucial for efficiency and scalability. If you have multiple projects using different frameworks, like Angular and React, unifying them can seem daunting. However, Micro Frontends offer a modern solution to this challenge, allowing you to integrate diverse projects seamlessly. Here’s how you can leverage Micro Frontends to unify your Angular and React projects.
 
 Micro Frontends extend the microservices idea to the frontend world. They allow different teams to develop and deploy their frontend applications independently. Each part of the application can be built using different frameworks or libraries and then integrated into a larger application.
@@ -65,5 +69,3 @@ Adopt a deployment strategy where each Micro Frontend can be deployed independen
 ## Working Example
 
 The companion sample uses client-side composition: a Qwik shell loads Angular and React bundles as Web Components, optionally imports a Rust WebAssembly helper, and shares state through a small DOM event contract.
-
-Read in next post: [Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)

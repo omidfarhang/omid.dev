@@ -379,3 +379,42 @@
 
 - id: last_updated
   translation: "Zuletzt aktualisiert"
+
+- id: series_eyebrow
+  translation: "Serie"
+
+- id: series_nav_label
+  translation: "Beiträge in {{ .Title }}"
+
+- id: series_you_are_here
+  translation: "Sie sind hier"
+
+- id: series_read_next
+  translation: "Weiterlesen"
+
+- id: series_read_prev
+  translation: "Zurück"
+
+- id: series_intro_anchor
+  translation: "Dieser Beitrag ist die Übersicht zur Serie {{ .Title }}. {{ .Count }} technische Deep-Dives folgen in dieser Serie."
+
+- id: series_intro_part
+  translation: "Dies ist Teil {{ .Part }} einer {{ .Count }}-teiligen Serie über {{ .Title }}."
+
+- id: series_intro_deep_dive
+  translation: "Dies ist technischer Deep-Dive {{ .Part }} von {{ .Count }} in der Serie {{ .Title }} ({{ .Total }} Beiträge insgesamt)."
+
+- id: series_footer_summary
+  translation: "{{ .Total }} Beiträge · 1 Übersicht · {{ .Count }} Deep-Dives"
+
+- id: series_group_overview
+  translation: "Übersicht"
+
+- id: series_group_deep_dives
+  translation: "Technische Deep-Dives ({{ .Count }})"
+
+- id: series_intro_start_anchor
+  translation: "Beginnen Sie mit der <a href=\"{{ .Link }}\">{{ .Label }}</a>."
+
+- id: series_intro_also
+  translation: "Weitere Teile dieser Serie:"
