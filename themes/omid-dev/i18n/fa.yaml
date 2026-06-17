@@ -406,3 +406,45 @@
 
 - id: see_also_title
   translation: "همچنین ببینید"
+
+- id: archive_breadcrumb
+  translation: "ناوبری آرشیو"
+
+- id: archive_breadcrumb_home
+  translation: "آرشیو"
+
+- id: archive_years
+  translation: "سال‌ها"
+
+- id: archive_months
+  translation: "ماه‌ها"
+
+- id: archive_days
+  translation: "روزها"
+
+- id: archive_posts
+  translation: "نوشته"
+
+- id: archive_post
+  translation: "نوشته"
+
+- id: archive_all_days
+  translation: "همه روزها"
+
+- id: archive_loading
+  translation: "در حال بارگذاری نوشته‌ها…"
+
+- id: archive_empty
+  translation: "نوشته‌ای برای این بازه پیدا نشد."
+
+- id: archive_prev
+  translation: "قبلی"
+
+- id: archive_next
+  translation: "بعدی"
+
+- id: archive_showing
+  translation: "نمایش"
+
+- id: archive_of
+  translation: "از"

@@ -406,3 +406,45 @@
 
 - id: see_also_title
   translation: "See also"
+
+- id: archive_breadcrumb
+  translation: "Archive navigation"
+
+- id: archive_breadcrumb_home
+  translation: "Archives"
+
+- id: archive_years
+  translation: "Years"
+
+- id: archive_months
+  translation: "Months"
+
+- id: archive_days
+  translation: "Days"
+
+- id: archive_posts
+  translation: "posts"
+
+- id: archive_post
+  translation: "post"
+
+- id: archive_all_days
+  translation: "All days"
+
+- id: archive_loading
+  translation: "Loading posts…"
+
+- id: archive_empty
+  translation: "No posts found for this period."
+
+- id: archive_prev
+  translation: "Previous"
+
+- id: archive_next
+  translation: "Next"
+
+- id: archive_showing
+  translation: "Showing"
+
+- id: archive_of
+  translation: "of"

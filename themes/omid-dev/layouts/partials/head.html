@@ -113,6 +113,19 @@
 <script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
 {{- end }}
 {{- end -}}
+{{- /* Archives */}}
+{{- if (eq .Layout `archives`) -}}
+<link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
+{{- $archiveBrowser := resources.Get "js/archive-browser.js" | js.Build | resources.Minify }}
+{{- $archiveLicense := resources.Get "js/license.js" }}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $archives := (slice $archiveLicense $archiveBrowser) | resources.Concat "assets/js/archives.js" | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $archives.RelPermalink }}" integrity="{{ $archives.Data.Integrity }}"></script>
+{{- else }}
+{{- $archives := (slice $archiveBrowser) | resources.Concat "assets/js/archives.js" }}
+<script defer crossorigin="anonymous" src="{{ $archives.RelPermalink }}"></script>
+{{- end }}
+{{- end -}}
 
 {{- /* Favicons */}}
 <link rel="icon" href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}">
