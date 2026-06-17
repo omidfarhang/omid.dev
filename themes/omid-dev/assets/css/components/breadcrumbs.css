@@ -1,0 +1,117 @@
+/* Breadcrumbs — shared component; hero/archive layout polish stays in page-hero.css / archive.css */
+
+.breadcrumbs {
+    margin: 0 0 var(--space-6);
+}
+
+.breadcrumbs ol {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: var(--text-caption);
+    letter-spacing: var(--tracking-normal);
+    color: var(--secondary);
+}
+
+.breadcrumbs li {
+    display: inline-flex;
+    align-items: center;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+    content: "/";
+    font-family: inherit;
+    font-weight: var(--font-normal);
+    font-size: var(--text-caption-sm);
+    margin: 0 var(--space-2);
+    color: var(--secondary);
+}
+
+[dir="rtl"] .breadcrumbs li:not(:last-child)::after {
+    content: "/";
+}
+
+.breadcrumbs a {
+    color: var(--secondary);
+    font-weight: var(--font-medium);
+    transition: var(--transition-color);
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-1);
+    text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+    color: var(--accent);
+}
+
+.breadcrumbs a:focus-visible {
+    outline: none;
+    color: var(--accent);
+    border-radius: var(--radius);
+    box-shadow: var(--focus-ring);
+}
+
+.breadcrumbs li:last-child {
+    color: var(--content);
+    font-weight: var(--font-normal);
+}
+
+.breadcrumbs li.breadcrumb-item-current {
+    display: none;
+}
+
+.breadcrumbs li:has(+ .breadcrumb-item-current)::after {
+    display: none;
+}
+
+.breadcrumbs i {
+    font-size: 0.9em;
+    color: var(--accent);
+    opacity: 0.85;
+}
+
+.breadcrumbs a:hover i {
+    opacity: 1;
+}
+
+[dir="rtl"] .breadcrumbs i {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.archive-breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+    margin: 0 0 var(--space-5);
+    color: var(--secondary);
+    font-size: var(--text-sm);
+}
+
+.archive-crumb {
+    color: var(--accent);
+    font-weight: var(--font-bold);
+    text-decoration: none;
+}
+
+.archive-crumb:hover {
+    text-decoration: underline;
+}
+
+.archive-crumb--current {
+    color: var(--primary);
+    font-weight: var(--font-semibold);
+}
+
+.archive-crumb-sep {
+    color: var(--tertiary);
+}
+
+[dir="rtl"] .archive-crumb-sep {
+    transform: scaleX(-1);
+}

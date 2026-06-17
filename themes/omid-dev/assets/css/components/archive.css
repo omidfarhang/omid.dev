@@ -1,41 +1,8 @@
 /* Archive browser — shared component
-   Composes: .card, .chip (from system/)
-   Layout/polish in: page-hero.css (breadcrumb alignment)
+   Composes: .card, .chip (from system/); breadcrumbs in breadcrumbs.css
+   Layout/polish in: page-hero.css
    Promote to system/ when: used in 2+ templates with explicit classes + variant API
 */
-
-.archive-breadcrumb {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: var(--space-2);
-    margin: 0 0 var(--space-5);
-    color: var(--secondary);
-    font-size: var(--text-sm);
-}
-
-.archive-crumb {
-    color: var(--accent);
-    font-weight: var(--font-bold);
-    text-decoration: none;
-}
-
-.archive-crumb:hover {
-    text-decoration: underline;
-}
-
-.archive-crumb--current {
-    color: var(--primary);
-    font-weight: var(--font-semibold);
-}
-
-.archive-crumb-sep {
-    color: var(--tertiary);
-}
-
-[dir="rtl"] .archive-crumb-sep {
-    transform: scaleX(-1);
-}
 
 .archive-loading {
     display: flex;
