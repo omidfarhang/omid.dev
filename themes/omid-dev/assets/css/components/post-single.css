@@ -1,3 +1,9 @@
+/* Post single — shared component
+   Composes: .chip (meta); prose/table polish extends system/prose.css, system/tables.css
+   Layout/polish in: page-metadata.css (.meta-item base)
+   Promote to system/ when: used in 2+ templates with explicit classes + variant API
+*/
+
 .post-single,
 .page-single {
     background: var(--surface-article-shell);

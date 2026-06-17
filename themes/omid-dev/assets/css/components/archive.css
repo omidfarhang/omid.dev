@@ -1,4 +1,8 @@
-/* Archives browser — layout only; cards/chips/post-entry come from the design system */
+/* Archive browser — shared component
+   Composes: .card, .chip (from system/)
+   Layout/polish in: page-hero.css (breadcrumb alignment)
+   Promote to system/ when: used in 2+ templates with explicit classes + variant API
+*/
 
 .archive-breadcrumb {
     display: flex;

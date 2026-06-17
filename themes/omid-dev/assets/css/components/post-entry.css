@@ -1,3 +1,8 @@
+/* Post entry — shared component
+   Composes: .card
+   Promote to system/ when: used in 2+ templates with explicit classes + variant API
+*/
+
 .first-entry {
     position: relative;
     display: flex;

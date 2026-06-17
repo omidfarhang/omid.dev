@@ -1,4 +1,7 @@
-/* Social profile / footer icon rows */
+/* Social icons — shared component
+   Layout/polish in: footer.css, profile-mode.css
+   Promote to system/ when: icons used as standalone primitive without row wrapper
+*/
 
 .social-icons {
     display: flex;

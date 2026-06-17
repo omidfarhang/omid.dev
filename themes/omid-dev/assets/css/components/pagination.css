@@ -1,4 +1,7 @@
-/* Pagination — prev/next post navigation */
+/* Pagination — shared component
+   Composes: .card, .card--interactive (paginav links)
+   Promote to system/ when: used in 2+ templates with explicit classes + variant API
+*/
 
 .paginav {
     display: flex;

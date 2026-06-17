@@ -1,4 +1,7 @@
-/* Section heading variants */
+/* Section heading — shared component
+   Layout/polish in: home.css (home section eyebrow + underline)
+   Promote to system/ when: used in 2+ templates with explicit classes + variant API
+*/
 
 .section-title {
     margin: 0;

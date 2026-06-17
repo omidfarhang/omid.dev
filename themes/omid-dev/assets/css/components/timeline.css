@@ -1,4 +1,7 @@
-/* Timeline — vertical line + dot markers */
+/* Timeline — shared component
+   Related: resume.css (bespoke resume timeline variant)
+   Promote to system/ when: resume/uses converge on .timeline BEM + variant API
+*/
 
 .timeline {
     position: relative;

@@ -60,11 +60,24 @@
 {{- /* CSS layers — themes/omid-dev/assets/css/
      vendor/     third-party (fonts, fontawesome)
      core/       tokens, typography, brand colors, reset, responsive overrides
-     system/     design-system primitives (btn, card, chip, form, icon, panel, table, typography utils)
-     layout/     site shell (main grid, page-content)
-     components/ shared UI blocks (header, footer, post cards, …)
+
+     system/     opt-in primitives — btn, card, chip, form, icon, panel, table, typography, prose
+                 Add here when: used in 2+ templates with explicit BEM classes; has modifier
+                 variants; not tied to one page layout. Compose in templates with class names.
+
+     components/ shared UI blocks — header, footer, post cards, timeline, …
+                 Compose system/ classes; page-specific polish stays in pages/ or sibling
+                 component files. Each file starts with a standard header (name, composes,
+                 layout/polish refs, promotion criteria).
+
+     layout/     site shell + layout utilities (page grid, global chrome)
+
+     pages/      page-specific overrides only — spacing, one-off tweaks scoped to a wrapper
+
      includes/   optional extras (scrollbar, syntax highlighting)
-     pages/      page-specific styles (home, contact, resume, …)
+
+     Promotion: move components/ → system/ when a pattern has explicit class usage in 2+
+     templates AND behaves like a primitive (variant API, no page wrapper required).
 */ -}}
 
 {{- $fonts := (resources.Get "css/vendor/fonts.css") }}
