@@ -222,16 +222,27 @@
     font-size: var(--text-caption-sm);
 }
 
-/* Related & recommendation cards */
-.card--related {
-    display: block;
+/* Related, nav & recommendation cards */
+.card--related,
+.card--nav {
     padding: var(--space-5);
     background: var(--surface-raised);
     border-radius: var(--radius);
 }
 
-.card--related:hover {
+.card--related {
+    display: block;
+}
+
+.card--related:hover,
+.card--nav:hover {
     box-shadow: var(--shadow-lg);
+}
+
+.card--nav {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .card--recommendation {

@@ -763,12 +763,10 @@ img.in-text {
 }
 
 .post-tags a,
-.paginav a,
 .related-card {
     border-radius: var(--radius-lg);
 }
 
-.paginav a,
 .related-card {
     background: var(--surface-raised);
     border-color: var(--accent-border-soft);
