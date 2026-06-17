@@ -52,13 +52,13 @@ window.onload = function () {
 
     if (query) {
         sInput.value = query;
-        if (sLoading) sLoading.style.display = 'flex';
+        if (sLoading) sLoading.hidden = false;
     }
 
     let xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
-            if (sLoading) sLoading.style.display = 'none';
+            if (sLoading) sLoading.hidden = true;
             if (xhr.status === 200) {
                 let data = JSON.parse(xhr.responseText);
                 if (data) {
@@ -151,7 +151,7 @@ function executeSearch(term) {
         renderResults();
         updateURL(term);
     } else {
-        if (sLoading) sLoading.style.display = 'flex';
+        if (sLoading) sLoading.hidden = false;
         updateURL(term);
     }
 }

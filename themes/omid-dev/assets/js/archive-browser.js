@@ -110,34 +110,35 @@ function monthLabel(year, month) {
 }
 
 function renderBreadcrumb(state) {
-  const parts = [
-    `<a href="${window.location.pathname}" class="archive-crumb" data-reset="1">${escapeHtml(labels.home || 'Archives')}</a>`,
+  const items = [
+    `<li><a href="${window.location.pathname}" data-reset="1">${escapeHtml(labels.home || 'Archives')}</a></li>`,
   ];
 
   if (state.year) {
-    parts.push(
-      `<a href="?year=${state.year}" class="archive-crumb" data-year="${state.year}">${state.year}</a>`
+    items.push(
+      `<li><a href="?year=${state.year}" data-year="${state.year}">${state.year}</a></li>`
     );
   }
 
   if (state.year && state.month) {
     const monthUrl = `?year=${state.year}&month=${state.month}`;
-    parts.push(
-      `<a href="${monthUrl}" class="archive-crumb" data-year="${state.year}" data-month="${state.month}">${escapeHtml(monthLabel(state.year, state.month))}</a>`
+    items.push(
+      `<li><a href="${monthUrl}" data-year="${state.year}" data-month="${state.month}">${escapeHtml(monthLabel(state.year, state.month))}</a></li>`
     );
   }
 
   if (state.year && state.month && state.day) {
-    parts.push(
-      `<span class="archive-crumb archive-crumb--current">${escapeHtml(dayFormatter.format(new Date(state.year, state.month - 1, state.day)))}</span>`
+    items.push(
+      `<li><span aria-current="page">${escapeHtml(dayFormatter.format(new Date(state.year, state.month - 1, state.day)))}</span></li>`
     );
   } else if (state.year && state.month) {
-    parts.push(`<span class="archive-crumb archive-crumb--current">${escapeHtml(labels.posts || 'posts')}</span>`);
+    items.push(`<li><span aria-current="page">${escapeHtml(labels.posts || 'posts')}</span></li>`);
   } else if (state.year) {
-    parts.push(`<span class="archive-crumb archive-crumb--current">${escapeHtml(labels.months || 'Months')}</span>`);
+    items.push(`<li><span aria-current="page">${escapeHtml(labels.months || 'Months')}</span></li>`);
   }
 
-  breadcrumbEl.innerHTML = parts.join('<span class="archive-crumb-sep" aria-hidden="true">›</span>');
+  breadcrumbEl.className = 'breadcrumbs';
+  breadcrumbEl.innerHTML = `<ol>${items.join('')}</ol>`;
 }
 
 function renderPicker(title, items) {
@@ -221,32 +222,46 @@ function renderDayPicker(state) {
 function renderPagination(totalPages, state) {
   if (totalPages <= 1) return '';
 
-  let html = '<div class="pagination archive-pagination">';
-  const prevDisabled = state.page <= 1 ? 'disabled' : '';
-  const nextDisabled = state.page >= totalPages ? 'disabled' : '';
-  html += `<button type="button" class="btn btn--secondary btn--sm page-btn" data-page="${state.page - 1}" ${prevDisabled}>${escapeHtml(labels.prev || 'Previous')}</button>`;
+  const page = state.page;
+  let html = `
+    <footer class="page-footer pagination-rich">
+      <nav class="pagination pagination-nav" aria-label="${escapeHtml(labels.pagination || 'Pagination')}">
+  `;
 
-  let startPage = Math.max(1, state.page - 2);
+  if (page > 1) {
+    html += `<button type="button" class="btn btn--page page-btn page-prev" data-page="${page - 1}">${escapeHtml(labels.prev || 'Previous')}</button>`;
+  }
+
+  let startPage = Math.max(1, page - 2);
   let endPage = Math.min(totalPages, startPage + 4);
   if (endPage - startPage < 4) startPage = Math.max(1, endPage - 4);
 
   if (startPage > 1) {
-    html += `<button type="button" class="btn btn--secondary btn--sm page-num" data-page="1">1</button>`;
-    if (startPage > 2) html += '<span class="page-dots">…</span>';
+    html += `<button type="button" class="btn btn--page page-btn page-num" data-page="1">1</button>`;
+    if (startPage > 2) html += '<span class="page-ellipsis" aria-hidden="true">…</span>';
   }
 
   for (let i = startPage; i <= endPage; i += 1) {
-    const active = i === state.page ? 'btn--primary' : 'btn--secondary';
-    html += `<button type="button" class="btn btn--sm page-num ${active}" data-page="${i}">${i}</button>`;
+    if (i === page) {
+      html += `<span class="btn btn--page page-btn page-num current" aria-current="page">${i}</span>`;
+    } else {
+      html += `<button type="button" class="btn btn--page page-btn page-num" data-page="${i}">${i}</button>`;
+    }
   }
 
   if (endPage < totalPages) {
-    if (endPage < totalPages - 1) html += '<span class="page-dots">…</span>';
-    html += `<button type="button" class="btn btn--secondary btn--sm page-num" data-page="${totalPages}">${totalPages}</button>`;
+    if (endPage < totalPages - 1) html += '<span class="page-ellipsis" aria-hidden="true">…</span>';
+    html += `<button type="button" class="btn btn--page page-btn page-num" data-page="${totalPages}">${totalPages}</button>`;
   }
 
-  html += `<button type="button" class="btn btn--secondary btn--sm page-btn" data-page="${state.page + 1}" ${nextDisabled}>${escapeHtml(labels.next || 'Next')}</button>`;
-  html += '</div>';
+  if (page < totalPages) {
+    html += `<button type="button" class="btn btn--page page-btn page-next" data-page="${page + 1}">${escapeHtml(labels.next || 'Next')}</button>`;
+  }
+
+  html += `
+      </nav>
+    </footer>
+  `;
   return html;
 }
 
@@ -360,7 +375,7 @@ function bindEvents() {
       return;
     }
 
-    const link = event.target.closest('.archive-card, .chip, .archive-crumb');
+    const link = event.target.closest('.archive-card, .chip, .breadcrumbs a');
     if (link && link.href) {
       event.preventDefault();
       const url = new URL(link.href, window.location.origin);

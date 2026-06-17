@@ -1,4 +1,6 @@
-/* Breadcrumbs — shared component; hero/archive layout polish stays in page-hero.css / archive.css */
+/* Breadcrumbs — shared component (static partial + archive JS drill-down)
+   Layout/polish in: page-hero.css
+*/
 
 .breadcrumbs {
     margin: 0 0 var(--space-6);
@@ -81,37 +83,4 @@
 [dir="rtl"] .breadcrumbs i {
     margin-right: 0;
     margin-left: 0;
-}
-
-.archive-breadcrumb {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: var(--space-2);
-    margin: 0 0 var(--space-5);
-    color: var(--secondary);
-    font-size: var(--text-sm);
-}
-
-.archive-crumb {
-    color: var(--accent);
-    font-weight: var(--font-bold);
-    text-decoration: none;
-}
-
-.archive-crumb:hover {
-    text-decoration: underline;
-}
-
-.archive-crumb--current {
-    color: var(--primary);
-    font-weight: var(--font-semibold);
-}
-
-.archive-crumb-sep {
-    color: var(--tertiary);
-}
-
-[dir="rtl"] .archive-crumb-sep {
-    transform: scaleX(-1);
 }

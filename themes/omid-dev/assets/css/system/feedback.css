@@ -136,6 +136,21 @@
     gap: var(--space-3);
     color: var(--secondary);
     font-size: var(--text-sm);
+    font-weight: var(--font-medium);
+}
+
+.loading--panel {
+    margin: var(--space-4) 0;
+    padding: var(--space-5) var(--space-6);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    background: var(--quaternary);
+    box-shadow: var(--shadow-sm);
+}
+
+.loading[hidden],
+.loading.is-hidden {
+    display: none !important;
 }
 
 .skeleton {

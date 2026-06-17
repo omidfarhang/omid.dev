@@ -112,7 +112,40 @@
     opacity: 0.8;
 }
 
-.chip--pill:hover .chip__count,
+.chip.is-active,
+.chip--active {
+    color: var(--theme) !important;
+    background: var(--accent) !important;
+    border-color: var(--accent) !important;
+    box-shadow: var(--shadow-sm);
+}
+
+.chip.is-active .chip__count,
+.chip--active .chip__count {
+    color: var(--accent);
+    background: var(--theme);
+    opacity: 1;
+}
+
+.chip.is-active i,
+.chip--active i {
+    color: inherit;
+    opacity: 1;
+}
+
+.chip--pill:hover .chip__count {
+    color: var(--accent);
+    background: var(--accent-light);
+    opacity: 1;
+}
+
+.chip--pill.is-active:hover .chip__count,
+.chip--pill.chip--active:hover .chip__count {
+    color: var(--accent);
+    background: var(--theme);
+    opacity: 1;
+}
+
 .chip--terms:hover .chip__count {
     background: rgba(255, 255, 255, 0.2);
     color: white;

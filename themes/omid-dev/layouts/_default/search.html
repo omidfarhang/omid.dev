@@ -24,9 +24,9 @@
 <div id="searchbox" class="searchbox">
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
-    <div id="searchLoading" class="search-loading" style="display: none;">
-        <div class="spinner"></div>
-        <span>Loading search index...</span>
+    <div id="searchLoading" class="loading loading--panel" hidden>
+        <div class="spinner spinner--lg" aria-hidden="true"></div>
+        <span>{{ i18n "search_loading" | default "Loading search index…" }}</span>
     </div>
 </div>
 </div>{{/* end page-content */}}
@@ -44,6 +44,7 @@
   "next" (i18n "next_page" | default "Next")
   "pagination" (i18n "pagination" | default "Pagination")
   "empty" (i18n "search_empty" | default "No results found.")
+  "loading" (i18n "search_loading" | default "Loading search index…")
 -}}
 {{- $searchConfig := dict "locale" (.Language.Lang | default "en") "labels" $searchLabels -}}
 {{ $searchConfig | jsonify }}

@@ -15,13 +15,8 @@
     outline: none;
 }
 
-.search-loading {
-    display: flex;
-    align-items: center;
-    gap: var(--space-3);
+.searchbox .loading--panel {
     margin-top: var(--space-3);
-    color: var(--secondary);
-    font-size: 0.9em;
 }
 
 .search-results {

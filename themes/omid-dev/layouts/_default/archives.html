@@ -23,10 +23,10 @@
     {{- end -}}
   </header>
 
-  <nav id="archiveBreadcrumb" class="archive-breadcrumb" aria-label="{{ i18n "archive_breadcrumb" | default "Archive navigation" }}"></nav>
+  <nav id="archiveBreadcrumb" class="breadcrumbs" aria-label="{{ i18n "archive_breadcrumb" | default "Archive navigation" }}"></nav>
 
-  <div id="archiveLoading" class="archive-loading" role="status">
-    <div class="spinner" aria-hidden="true"></div>
+  <div id="archiveLoading" class="loading loading--panel" role="status">
+    <div class="spinner spinner--lg" aria-hidden="true"></div>
     <span>{{ i18n "archive_loading" | default "Loading posts…" }}</span>
   </div>
 
@@ -47,6 +47,7 @@
   "empty" (i18n "archive_empty" | default "No posts found for this period.")
   "prev" (i18n "archive_prev" | default "Previous")
   "next" (i18n "archive_next" | default "Next")
+  "pagination" (i18n "pagination" | default "Pagination")
   "home" (i18n "archive_breadcrumb_home" | default "Archives")
   "showing" (i18n "archive_showing" | default "Showing")
   "of" (i18n "archive_of" | default "of")
