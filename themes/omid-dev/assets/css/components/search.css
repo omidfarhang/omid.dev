@@ -38,48 +38,73 @@
     100% { transform: rotate(360deg); }
 }
 
-#searchResults {
-    margin-top: var(--gap);
+.search-results {
     width: 100%;
+    max-width: var(--main-width);
+    margin: var(--gap) auto 0;
 }
 
-.search-results-count {
+.search-results-header {
+    display: flex;
+    align-items: center;
+    margin-top: var(--space-3);
     margin-bottom: var(--space-3);
 }
 
-#searchResults .post-entry .entry-footer {
-    margin-top: var(--space-3);
-    margin-bottom: var(--space-4);
+.search-results-count {
+    margin: 0;
 }
 
-.pagination {
+.search-post-grid {
+    margin-bottom: var(--space-5);
+}
+
+.search-results .pagination-rich {
+    margin-top: var(--space-2);
+    margin-bottom: 0;
+    padding: var(--space-2) var(--space-3);
+    background: var(--theme);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+}
+
+.search-results .pagination-nav {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: var(--space-2);
-    margin-top: var(--space-8);
-    padding: var(--space-5) 0;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    margin: 0;
+    padding: 0;
 }
 
-.page-btn.btn--page,
-.page-num.btn--page {
-    min-width: 40px;
-    padding: var(--space-2) var(--space-4);
-    font-size: 0.9em;
+.search-results .pagination-nav .btn--page {
+    line-height: var(--leading-tight);
+    white-space: nowrap;
 }
 
-.page-btn:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
+.search-results .pagination-nav .page-prev,
+.search-results .pagination-nav .page-next {
+    padding: 0 var(--space-4);
 }
 
-.page-dots {
+.search-results .pagination-nav .page-ellipsis {
+    min-width: 28px;
+    text-align: center;
     color: var(--secondary);
-    padding: 0 var(--space-1);
+    font-weight: var(--font-bold);
+    user-select: none;
 }
 
-.page-info {
-    font-size: 0.9em;
-    color: var(--secondary);
+@media screen and (max-width: 768px) {
+    .search-results .posts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .search-results .pagination-nav .page-btn {
+        min-width: 36px;
+        height: 36px;
+        font-size: var(--text-sm);
+    }
 }

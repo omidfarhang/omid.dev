@@ -31,6 +31,22 @@
 </div>
 </div>{{/* end page-content */}}
 
-<div id="searchResults" aria-label="search results"></div>
+<div id="searchResults" class="search-results posts-list-content" aria-live="polite" hidden></div>
+
+<script type="application/json" id="search-config">
+{{- $searchLabels := dict
+  "showing" (i18n "archive_showing" | default "Showing")
+  "of" (i18n "archive_of" | default "of")
+  "published" (i18n "published" | default "Published")
+  "categories" (i18n "categories" | default "Categories")
+  "continueReading" (i18n "continue_reading" | default "Continue Reading")
+  "prev" (i18n "prev_page" | default "Previous")
+  "next" (i18n "next_page" | default "Next")
+  "pagination" (i18n "pagination" | default "Pagination")
+  "empty" (i18n "search_empty" | default "No results found.")
+-}}
+{{- $searchConfig := dict "locale" (.Language.Lang | default "en") "labels" $searchLabels -}}
+{{ $searchConfig | jsonify }}
+</script>
 
 {{- end }}{{/* end main */}}

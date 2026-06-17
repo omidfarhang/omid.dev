@@ -1,3 +1,5 @@
+import { escapeHtml, prepareDisplayText } from './text-utils.js';
+
 const configEl = document.getElementById('archive-config');
 const breadcrumbEl = document.getElementById('archiveBreadcrumb');
 const loadingEl = document.getElementById('archiveLoading');
@@ -28,18 +30,6 @@ const dateFormatter = new Intl.DateTimeFormat(locale, {
   month: 'long',
   day: 'numeric',
 });
-
-function escapeHtml(value) {
-  return String(value)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
-}
-
-function stripHtml(value) {
-  return String(value || '').replace(/<[^>]*>/g, '').trim();
-}
 
 function hideLoading() {
   if (!loadingEl) return;
@@ -261,14 +251,15 @@ function renderPagination(totalPages, state) {
 }
 
 function renderPostCard(post) {
+  const title = prepareDisplayText(post.title);
   const categories = Array.isArray(post.categories) ? post.categories : [];
   const categoryMeta = categories.length
-    ? `<span class="meta-item"><span class="screen-reader-text">${escapeHtml(labels.categories)}:</span><i class="fas fa-folder" aria-hidden="true"></i><span>${escapeHtml(categories.join(', '))}</span></span>`
+    ? `<span class="meta-item"><span class="screen-reader-text">${escapeHtml(labels.categories)}:</span><i class="fas fa-folder" aria-hidden="true"></i><span>${escapeHtml(categories.map(prepareDisplayText).join(', '))}</span></span>`
     : '';
   const readingMeta = post.readingTime
     ? `<span class="meta-item meta-reading-time"><span class="screen-reader-text">Reading time:</span><i class="fa-solid fa-stopwatch" aria-hidden="true"></i><span>${post.readingTime} min</span></span>`
     : '';
-  const summaryText = stripHtml(post.summary);
+  const summaryText = prepareDisplayText(post.summary);
   const summary = summaryText
     ? `<div class="entry-content"><p>${escapeHtml(summaryText)}</p></div>`
     : '';
@@ -277,8 +268,8 @@ function renderPostCard(post) {
     <article class="card card--interactive post-entry post-entry--list">
       <div class="post-entry-inner">
         <header class="entry-header">
-          <a aria-label="post link to ${escapeHtml(post.title)}" href="${escapeHtml(post.permalink)}">
-            <h2 class="entry-hint-parent">${escapeHtml(post.title)}</h2>
+          <a aria-label="post link to ${escapeHtml(title)}" href="${escapeHtml(post.permalink)}">
+            <h2 class="entry-hint-parent">${escapeHtml(title)}</h2>
           </a>
         </header>
         <footer class="entry-footer">
@@ -291,7 +282,7 @@ function renderPostCard(post) {
           ${readingMeta}
         </footer>
         ${summary}
-        <a class="entry-link entry-link--text" aria-label="post link to ${escapeHtml(post.title)}" href="${escapeHtml(post.permalink)}">
+        <a class="entry-link entry-link--text" aria-label="post link to ${escapeHtml(title)}" href="${escapeHtml(post.permalink)}">
           ${escapeHtml(labels.continueReading || 'Continue Reading')}
           <i class="fa fa-angle-right" aria-hidden="true" role="img"></i>
         </a>
