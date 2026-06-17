@@ -1,78 +1,93 @@
 ---
 title: Datenschutzrichtlinie
 layout: page
+description: "Wie omid.dev mit Analytics, dem Kontaktformular, Webmentions und anderen Datenschutzthemen umgeht."
 author_profile: true
 ---
-**Welche Informationen sammeln wir?**
 
-Wir sammeln Informationen von Ihnen, wenn Sie sich auf unserer Website registrieren, unseren Newsletter abonnieren, auf eine Umfrage antworten oder ein Formular ausfüllen.
+**Zuletzt aktualisiert:** 17. Juni 2026
 
-Bei der Bestellung oder Registrierung auf unserer Website werden Sie gegebenenfalls gebeten, Ihren Namen, Ihre E-Mail-Adresse, Ihre Postanschrift oder Ihre Telefonnummer einzugeben. Sie können unsere Website jedoch auch anonym besuchen.
+Diese Richtlinie beschreibt, wie **omid.dev** (betrieben von **Omid Farhang**) mit Informationen umgeht, wenn Sie die Website besuchen, das Kontaktformular nutzen oder Blog-Funktionen verwenden.
 
-**Wofür verwenden wir Ihre Informationen?**
+Es gibt **keine Registrierung**, **keinen Newsletter** und **keinen Online-Shop** auf dieser Website.
 
-Alle von uns gesammelten Informationen können auf eine der folgenden Arten verwendet werden:
+## Verantwortlicher
 
-; Um Ihre Erfahrung zu personalisieren  
-(Ihre Informationen helfen uns, besser auf Ihre individuellen Bedürfnisse einzugehen)
+**Verantwortlich:** Omid Farhang  
+**Website:** [https://omid.dev/de/](https://omid.dev/de/)  
+**Kontakt:** [hi@omid.dev](mailto:hi@omid.dev)
 
-; Um unsere Website zu verbessern  
-(wir bemühen uns ständig, unser Website-Angebot basierend auf den Informationen und dem Feedback, das wir von Ihnen erhalten, zu verbessern)
+## Welche Daten erhoben werden
 
-; Um den Kundenservice zu verbessern  
-(Ihre Informationen helfen uns, effektiver auf Ihre Kundenservice-Anfragen und Support-Bedürfnisse zu reagieren)
+### 1. Web-Analyse (Matomo)
 
-; Um ein Gewinnspiel, eine Werbeaktion, eine Umfrage oder eine andere Website-Funktion zu verwalten
+omid.dev nutzt **Matomo**, selbst gehostet unter [analytics.omid.dev](https://analytics.omid.dev/), um aggregierten Traffic zu verstehen (aufgerufene Seiten, Referrer, allgemeine Geräte-/Browser-Informationen).
 
-; Um periodische E-Mails zu versenden
+- Die Analyse läuft auf einer First-Party-Subdomain (`*.omid.dev`).
+- Matomo ist so konfiguriert, dass **Do Not Track** respektiert wird, wenn Ihr Browser dieses Signal sendet.
+- Matomo kann Cookies oder ähnliche Speicher verwenden, um wiederkehrende Besuche zu unterscheiden. Sie können Cookies in Ihren Browser-Einstellungen blockieren.
 
-> Die E-Mail-Adresse, die Sie für die Bestellabwicklung angeben, kann verwendet werden, um Ihnen Informationen und Aktualisierungen zu Ihrer Bestellung zuzusenden, zusätzlich zum Erhalt gelegentlicher Unternehmensnachrichten, Aktualisierungen, verwandter Produkt- oder Serviceinformationen usw.
+Matomo-Datenschutz: [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/)
 
-Hinweis: Wenn Sie sich zu irgendeinem Zeitpunkt vom Erhalt zukünftiger E-Mails abmelden möchten, fügen wir am Ende jeder E-Mail detaillierte Anweisungen zur Abmeldung bei.
+### 2. Kontaktformular
 
-**Wie schützen wir Ihre Informationen?**
+Wenn Sie das [Kontaktformular](/de/contact-me/) nutzen, können Sie übermitteln:
 
-Wir setzen eine Vielzahl von Sicherheitsmaßnahmen ein, um die Sicherheit Ihrer persönlichen Daten zu gewährleisten, wenn Sie Ihre persönlichen Daten eingeben, übermitteln oder darauf zugreifen.
+- **Name**
+- **E-Mail-Adresse**
+- **Nachricht**
 
-**Verwenden wir Cookies?**
+Das Formular verwendet außerdem:
 
-Ja (Cookies sind kleine Dateien, die eine Website oder ihr Dienstanbieter über Ihren Webbrowser auf die Festplatte Ihres Computers überträgt (sofern Sie dies zulassen), wodurch die Systeme der Website oder des Dienstanbieters Ihren Browser erkennen und bestimmte Informationen erfassen und speichern können).
+- **Cloudflare Turnstile** — ein Challenge-Widget von Cloudflare gegen Spam. Cloudflare kann technische Daten (z. B. IP-Adresse und Browser-Signale) gemäß der [Cloudflare-Datenschutzrichtlinie](https://www.cloudflare.com/privacypolicy/) verarbeiten.
+- Ein **Honeypot-Feld** — für Menschen unsichtbar; wird es ausgefüllt, wird die Nachricht ignoriert.
 
-Wir verwenden Cookies, um Ihre Präferenzen für zukünftige Besuche zu verstehen und zu speichern und aggregierte Daten über den Website-Verkehr und die Website-Interaktion zusammenzustellen, damit wir in Zukunft bessere Website-Erlebnisse und Tools anbieten können. Wir können Verträge mit Drittanbietern abschließen, die uns helfen, unsere Website-Besucher besser zu verstehen. Diesen Dienstanbietern ist es nicht gestattet, die in unserem Auftrag gesammelten Informationen zu verwenden, außer um uns bei der Durchführung und Verbesserung unseres Geschäfts zu unterstützen.
+Nachrichten werden an einen Backend-Endpunkt (`/api/contact`) gesendet, damit ich antworten kann. Ich nutze diese Angaben **nur zur Beantwortung** und für eine angemessene Korrespondenz-Dokumentation. Kontaktdaten werden nicht verkauft oder für Marketinglisten verwendet.
 
-Wenn Sie es vorziehen, können Sie Ihren Computer so einstellen, dass er Sie jedes Mal warnt, wenn ein Cookie gesendet wird, oder Sie können alle Cookies über Ihre Browsereinstellungen deaktivieren. Wie bei den meisten Websites funktionieren einige unserer Dienste möglicherweise nicht ordnungsgemäß, wenn Sie Ihre Cookies deaktivieren. Sie können jedoch weiterhin Bestellungen telefonisch oder über den Kundenservice aufgeben.
+### 3. Theme-Einstellung
 
-**Geben wir Informationen an Dritte weiter?**
+Wenn Sie Hell/Dunkel/System wählen, kann die Einstellung im **localStorage** Ihres Browsers gespeichert werden (`pref-theme`). Sie bleibt auf Ihrem Gerät und wird nicht an einen Server gesendet.
 
-Wir verkaufen, tauschen oder übertragen Ihre personenbezogenen Daten nicht an Dritte. Dies gilt nicht für vertrauenswürdige Dritte, die uns beim Betrieb unserer Website, bei der Durchführung unserer Geschäfte oder bei der Betreuung Ihrer Person unterstützen, sofern diese Parteien zustimmen, diese Informationen vertraulich zu behandeln. Wir können Ihre Informationen auch freigeben, wenn wir der Meinung sind, dass die Freigabe angemessen ist, um das Gesetz einzuhalten, unsere Website-Richtlinien durchzusetzen oder unsere Rechte, unser Eigentum oder unsere Sicherheit oder die anderer zu schützen. Nicht personenbezogene Besucherinformationen können jedoch anderen Parteien für Marketing, Werbung oder andere Zwecke zur Verfügung gestellt werden.
+### 4. Suche auf der Website
 
-**Links zu Drittanbietern**
+Die Suche lädt einen statischen JSON-Index von dieser Website und läuft **vollständig in Ihrem Browser**. Suchanfragen werden nicht an einen Drittanbieter gesendet.
 
-Gelegentlich können wir nach eigenem Ermessen Produkte oder Dienstleistungen von Drittanbietern auf unserer Website einschließen oder anbieten. Diese Websites von Drittanbietern haben separate und unabhängige Datenschutzrichtlinien. Wir übernehmen daher keine Verantwortung oder Haftung für den Inhalt und die Aktivitäten dieser verlinkten Websites. Dennoch bemühen wir uns, die Integrität unserer Website zu schützen, und freuen uns über jedes Feedback zu diesen Websites.
+### 5. Diskussion und Webmentions
 
-**Einhaltung des California Online Privacy Protection Act**
+Bei vielen Beiträgen verlinkt ein **Diskussions**-Bereich auf Gespräche bei Drittanbietern (z. B. X, Mastodon, Bluesky, Reddit oder Hacker News). Was Sie dort posten, unterliegt den **Richtlinien dieser Plattform**.
 
-Da uns Ihre Privatsphäre wichtig ist, haben wir die notwendigen Vorkehrungen getroffen, um dem California Online Privacy Protection Act zu entsprechen. Wir werden daher Ihre persönlichen Daten nicht ohne Ihre Zustimmung an Dritte weitergeben.
+Einige Beiträge zeigen **Webmentions** von [webmention.io](https://webmention.io/) — öffentliche Interaktionen (Likes, Reposts, Antworten), die auf die Beitrags-URL verweisen.
 
-**Einhaltung des Childrens Online Privacy Protection Act**
+### 6. Eingebettete Inhalte und externe Links
 
-Wir erfüllen die Anforderungen von COPPA (Childrens Online Privacy Protection Act) und sammeln keine Informationen von Personen unter 13 Jahren. Unsere Website, Produkte und Dienstleistungen richten sich alle an Personen, die mindestens 13 Jahre alt oder älter sind.
+Artikel können Medien einbetten (z. B. YouTube oder Vimeo) oder auf externe Seiten wie [playground.omid.dev](https://playground.omid.dev/) oder GitHub verlinken. Diese Dienste können bei Interaktion eigene Daten erheben.
 
-**Ihre Zustimmung**
+## Was nicht erhoben wird
 
-Durch die Nutzung unserer Website stimmen Sie unserer [Datenschutzrichtlinie](/privacy-policy/ "Datenschutzrichtlinie") zu.
+- Kein Kontosystem oder Passwort-Speicher auf omid.dev
+- Keine Newsletter-Anmeldung oder Marketing-Automation
+- Kein Verkauf personenbezogener Daten an Werbetreibende
 
-**Änderungen an unserer Datenschutzrichtlinie**
+## Speicherdauer
 
-Wenn wir uns entscheiden, unsere Datenschutzrichtlinie zu ändern, werden wir diese Änderungen auf dieser Seite veröffentlichen und/oder das Änderungsdatum der Datenschutzrichtlinie unten aktualisieren.
+- **Analytics:** gemäß Matomo-Einstellungen auf analytics.omid.dev (aggregierte Statistiken).
+- **Kontaktnachrichten:** so lange wie für Antwort und angemessene Dokumentation nötig, danach Löschung.
+- **Webmentions:** werden live von webmention.io angezeigt; keine separate Speicherung auf diesem Server.
 
-Diese Richtlinie wurde zuletzt am 25. Dezember 2025 geändert.
+## Ihre Wahlmöglichkeiten
 
-**Kontakt**
+- Cookies blockieren oder Do Not Track im Browser aktivieren.
+- localStorage löschen, um die Theme-Einstellung zurückzusetzen.
+- Mich kontaktieren, wenn Sie Fragen zu übermittelten Kontaktdaten haben.
 
-Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, können Sie uns über die unten stehenden Informationen kontaktieren.
+## Kinder
 
-> [Startseite](/)
-  
-hi@omid.dev  
-+98 919 503 8545
+Diese Website richtet sich nicht an Kinder unter 13 Jahren; ich erhebe wissentlich keine Daten von Kindern.
+
+## Änderungen
+
+Diese Richtlinie kann aktualisiert werden. Das Datum „Zuletzt aktualisiert“ oben ändert sich entsprechend.
+
+## Fragen
+
+E-Mail an [hi@omid.dev](mailto:hi@omid.dev) oder [Kontaktformular](/de/contact-me/).

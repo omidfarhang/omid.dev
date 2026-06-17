@@ -1,47 +1,70 @@
 ---
 title: Terms of Use
 layout: page
+description: "Terms for using omid.dev, its content, contact form, and discussion features."
 author_profile: true
 ---
-### 1. Terms
 
-By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.
+**Last updated:** June 17, 2026
 
-### 2. Use License
+These terms apply to your use of **omid.dev**, a personal website operated by **Omid Farhang** (blog, resume, portfolio links, and related pages).
 
-a. Permission is granted to temporarily download one copy of the materials (information or software) on omid.dev's web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-    i. modify or copy the materials;
-    ii. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-    iii. attempt to decompile or reverse engineer any software contained on omid.dev's web site;
-    iv. remove any copyright or other proprietary notations from the materials; or
-    v. transfer the materials to another person or “mirror” the materials on any other server.
-b. This license shall automatically terminate if you violate any of these restrictions and may be terminated by omid.dev at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+If you do not agree, please do not use the site.
 
-### 3. Disclaimer
+## 1. The site
 
-a. The materials on omid.dev's web site are provided “as is”. omid.dev makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, omid.dev does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+omid.dev is provided for **informational and personal branding purposes** — articles, resume material, project links, and ways to get in touch. It is not a commercial platform, SaaS product, or social network hosted by me.
 
-### 4. Limitations
+## 2. Acceptable use
 
-In no event shall omid.dev or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on omid.dev's Internet site, even if omid.dev or a omid.dev authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+You agree not to:
 
-### 5. Revisions and Errata
+- Attempt to break, overload, or scrape the site in ways that harm availability
+- Submit unlawful, abusive, or spam content through the contact form
+- Misrepresent your identity when contacting me
+- Use automated means to bypass Turnstile or other anti-abuse measures
 
-The materials appearing on omid.dev's web site could include technical, typographical, or photographic errors. omid.dev does not warrant that any of the materials on its web site are accurate, complete, or current. omid.dev may make changes to the materials contained on its web site at any time without notice. omid.dev does not, however, make any commitment to update the materials.
+## 3. Content and copyright
 
-### 6. Links
+Unless otherwise noted, **text, layout, and original media on omid.dev are © Omid Farhang**. You may:
 
-omid.dev has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by omid.dev of the site. Use of any such linked web site is at the user's own risk.
+- Read and link to pages with attribution
+- Quote short excerpts with a link to the source URL
 
-### 7. Site Terms of Use Modifications
+You may **not** republish full articles, mirror the site, or use content commercially without prior permission.
 
-omid.dev may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+Some posts reference **companion code** in separate repositories (for example [example-projects on GitHub](https://github.com/omidfarhang/example-projects)). That code may be under its own license — check each repository.
 
-### 8. Governing Law
+## 4. No professional advice
 
-Any claim relating to omid.dev's web site shall be governed by the laws of the State of CA without regard to its conflict of law provisions.
+Posts about engineering, health, career, or other topics reflect personal experience and opinion. They are **not** legal, medical, financial, or professional advice. Use your own judgment and consult qualified professionals when needed.
 
-&nbsp;
+## 5. Contact form
 
-Terms of Use.  
-Last updated on: December 25, 2025
+By submitting the [contact form](/contact-me/), you confirm that the information you provide is accurate to the best of your knowledge and that you consent to me using it to respond. See the [Privacy Policy](/privacy-policy/) for how that data is handled.
+
+## 6. Discussion and third-party platforms
+
+Blog posts may link to threads on X, Mastodon, Bluesky, Reddit, Hacker News, or other services. **Those platforms have their own terms and moderation.** I am not responsible for content or conduct on third-party sites.
+
+Webmentions shown on posts are public interactions collected via webmention.io and linked sources.
+
+## 7. Disclaimer
+
+The site and all materials are provided **“as is”** without warranties of any kind. I do not guarantee that content is complete, current, or error-free.
+
+## 8. Limitation of liability
+
+To the fullest extent permitted by law, I am not liable for any indirect, incidental, or consequential damages arising from your use of omid.dev or linked external services.
+
+## 9. External links
+
+Links to third-party sites (playground demos, GitHub, social profiles, etc.) are provided for convenience. I do not control those sites and am not responsible for their content or policies.
+
+## 10. Changes
+
+I may revise these terms at any time. The “Last updated” date will reflect changes. Your continued use of the site constitutes acceptance of the current terms.
+
+## 11. Contact
+
+Questions about these terms: [hi@omid.dev](mailto:hi@omid.dev)
