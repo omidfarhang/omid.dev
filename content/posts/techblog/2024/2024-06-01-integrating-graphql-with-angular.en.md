@@ -20,6 +20,7 @@ GraphQL is a powerful query language for APIs, providing a flexible and efficien
 {{< companion
   repo="omidfarhang/example-projects"
   path="angular-graphql-apollo"
+  demoSlug="angular-graphql-apollo"
 >}}
 
 ## 1. Introduction to GraphQL and Angular

@@ -25,6 +25,7 @@ In today's digital age, the demand for real-time data in frontend applications h
 {{< companion
   repo="omidfarhang/example-projects"
   path="realtime-frontend-patterns"
+  demoSlug="realtime-frontend-patterns"
 >}}
 
 ## Understanding Real-Time Data
