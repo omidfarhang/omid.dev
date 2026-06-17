@@ -24,7 +24,7 @@
 <div id="searchbox" class="searchbox">
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
-    <div id="searchLoading" class="loading loading--panel" hidden>
+    <div id="searchLoading" class="loading loading--panel" role="status">
         <div class="spinner spinner--lg" aria-hidden="true"></div>
         <span>{{ i18n "search_loading" | default "Loading search index…" }}</span>
     </div>

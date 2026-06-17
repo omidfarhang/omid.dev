@@ -45,6 +45,18 @@ function showResults(html) {
     resList.innerHTML = html;
 }
 
+function showLoading() {
+    if (!sLoading) return;
+    sLoading.hidden = false;
+    sLoading.classList.remove('is-hidden');
+}
+
+function hideLoading() {
+    if (!sLoading) return;
+    sLoading.hidden = true;
+    sLoading.classList.add('is-hidden');
+}
+
 // load our search index
 window.onload = function () {
     const urlParams = new URLSearchParams(window.location.search);
@@ -52,13 +64,14 @@ window.onload = function () {
 
     if (query) {
         sInput.value = query;
-        if (sLoading) sLoading.hidden = false;
     }
+
+    showLoading();
 
     let xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
-            if (sLoading) sLoading.hidden = true;
+            hideLoading();
             if (xhr.status === 200) {
                 let data = JSON.parse(xhr.responseText);
                 if (data) {
@@ -151,7 +164,7 @@ function executeSearch(term) {
         renderResults();
         updateURL(term);
     } else {
-        if (sLoading) sLoading.hidden = false;
+        showLoading();
         updateURL(term);
     }
 }
