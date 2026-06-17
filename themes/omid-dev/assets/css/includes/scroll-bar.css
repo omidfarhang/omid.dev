@@ -48,10 +48,6 @@
     background: rgb(112, 112, 112);
 }
 
-.post-content table::-webkit-scrollbar-thumb {
-    border-width: 2px;
-}
-
 /* from zmedia */
 @media screen and (min-width: 768px) {
 

@@ -1,0 +1,71 @@
+/* Table design system — prose/markdown content tables in .post-content */
+
+.post-content table {
+    margin-bottom: var(--content-gap);
+}
+
+.post-content table:not(.highlighttable, .highlight table, .lntable) {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    table-layout: auto;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.post-content table:not(.highlighttable, .highlight table, .lntable) thead {
+    display: table-header-group;
+}
+
+.post-content table:not(.highlighttable, .highlight table, .lntable) tbody {
+    display: table-row-group;
+}
+
+.post-content table:not(.highlighttable, .highlight table, .lntable) tr {
+    display: table-row;
+}
+
+.post-content table th,
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    display: table-cell;
+    min-width: 80px;
+    padding: var(--space-2) var(--space-1);
+    line-height: var(--leading-medium);
+    border-bottom: 1px solid var(--border);
+}
+
+.post-content table th {
+    text-align: start;
+}
+
+.post-content table:not(.highlighttable) td code:only-child {
+    margin: auto 0;
+}
+
+/* Chroma / syntax-highlight line-number tables */
+.post-content .highlight table {
+    border-radius: var(--radius);
+}
+
+.post-content .highlighttable {
+    table-layout: fixed;
+}
+
+.post-content .highlighttable td:first-child {
+    width: 40px;
+}
+
+.post-content .highlighttable td .linenodiv {
+    padding-inline-end: 0 !important;
+}
+
+.post-content .highlighttable td .highlight,
+.post-content .highlighttable td .linenodiv pre {
+    margin-bottom: 0;
+}
+
+.post-content table::-webkit-scrollbar-thumb {
+    border-width: 2px;
+}
