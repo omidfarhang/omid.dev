@@ -269,6 +269,16 @@
 {{- end }}
 
 <script>
+    document.querySelectorAll('.post-content table:not(.highlighttable, .lntable, .highlight table)').forEach((table) => {
+        if (table.closest('.table-scroll')) return;
+        const wrap = document.createElement('div');
+        wrap.className = 'table-scroll';
+        table.parentNode.insertBefore(wrap, table);
+        wrap.appendChild(table);
+    });
+</script>
+
+<script>
     const copyContent = async (text) => {
         try {
             await navigator.clipboard.writeText(text);

@@ -1,33 +1,35 @@
 /* Table design system — prose/markdown content tables in .post-content
    Article polish: post-single.css (.article-body .post-content table)
+   Wide tables scroll inside .table-scroll; keep table display:table (not display:block).
 */
 
-/* Prose/markdown tables — base; article polish in post-single.css */
-.post-content table {
+.post-content .table-scroll {
+    max-width: 100%;
     margin-bottom: var(--content-gap);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.post-content .table-scroll::-webkit-scrollbar-thumb {
+    border-width: 2px;
 }
 
 .post-content table:not(.highlighttable, .highlight table, .lntable) {
-    display: block;
     width: 100%;
-    max-width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
     table-layout: auto;
     border-collapse: separate;
     border-spacing: 0;
 }
 
-.post-content table:not(.highlighttable, .highlight table, .lntable) thead {
-    display: table-header-group;
+/* Narrow tables fill the column; wide tables grow and scroll inside .table-scroll */
+.post-content .table-scroll > table:not(.highlighttable, .highlight table, .lntable) {
+    width: max-content;
+    min-width: 100%;
+    margin-bottom: 0;
 }
 
-.post-content table:not(.highlighttable, .highlight table, .lntable) tbody {
-    display: table-row-group;
-}
-
-.post-content table:not(.highlighttable, .highlight table, .lntable) tr {
-    display: table-row;
+.post-content table {
+    margin-bottom: var(--content-gap);
 }
 
 .post-content table th,
@@ -67,8 +69,4 @@
 .post-content .highlighttable td .highlight,
 .post-content .highlighttable td .linenodiv pre {
     margin-bottom: 0;
-}
-
-.post-content table::-webkit-scrollbar-thumb {
-    border-width: 2px;
 }
