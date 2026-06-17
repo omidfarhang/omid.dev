@@ -1,5 +1,6 @@
 /* Post entry — shared component
-   Composes: .card
+   Composes: .card, .chip
+   Layout/polish in: home.css (recent posts showcase)
    Promote to system/ when: used in 2+ templates with explicit classes + variant API
 */
 

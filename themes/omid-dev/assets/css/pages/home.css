@@ -95,6 +95,11 @@
     margin-bottom: 56px;
 }
 
+/* Section heading — page override */
+.home-content > .home-section > .section-eyebrow + .section-title--underline {
+    margin-top: -4px;
+}
+
 .home-identity-panel {
     display: grid;
     grid-template-columns: minmax(0, 1.08fr) minmax(300px, 0.92fr);
