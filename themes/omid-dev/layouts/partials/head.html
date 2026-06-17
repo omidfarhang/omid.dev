@@ -61,7 +61,8 @@
      vendor/     third-party (fonts, fontawesome)
      core/       tokens, typography, brand colors, reset, responsive overrides
 
-     system/     opt-in primitives — btn, card, chip, form, icon, panel, table, typography, prose
+     system/     opt-in primitives — btn, card, chip, form, icon, panel, table, typography, prose,
+                 feedback (toast, alert, spinner, skeleton), menus, avatars, disclosure, tabs, modal, tooltip
                  Add here when: used in 2+ templates with explicit BEM classes; has modifier
                  variants; not tied to one page layout. Compose in templates with class names.
 
@@ -70,7 +71,7 @@
                  component files. Each file starts with a standard header (name, composes,
                  layout/polish refs, promotion criteria).
 
-     layout/     site shell + layout utilities (page grid, global chrome)
+     layout/     site shell + layout utilities (page grid, global chrome, stack/cluster/gap/divider)
 
      pages/      page-specific overrides only — spacing, one-off tweaks scoped to a wrapper
 
@@ -89,7 +90,9 @@
 {{- $brand_colors := (resources.Get "css/core/brand-colors.css") }}
 {{- $reset := (resources.Get "css/core/reset.css") }}
 {{- $system := (resources.Match "css/system/*.css") | resources.Concat "assets/css/system.css" }}
-{{- $layout := (resources.Get "css/layout/main.css") }}
+{{- $layout_main := (resources.Get "css/layout/main.css") }}
+{{- $layout_utilities := (resources.Get "css/layout/utilities.css") }}
+{{- $layout := (slice $layout_main $layout_utilities) | resources.Concat "assets/css/layout.css" }}
 {{- $components := (resources.Match "css/components/*.css") | resources.Concat "assets/css/components.css" }}
 {{- $media := (resources.Get "css/core/zmedia.css") }}
 {{- $license_css := (resources.Get "css/core/license.css") }}

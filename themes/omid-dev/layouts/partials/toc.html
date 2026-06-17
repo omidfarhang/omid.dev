@@ -2,8 +2,8 @@
 {{- $has_headers := ge (len $headers) 1 -}}
 {{- if $has_headers -}}
 <div class="toc article-toc">
-    <details {{if (.Param "TocOpen") }} open{{ end }}>
-        <summary accesskey="c" title="(Alt + C)">
+    <details class="disclosure"{{if (.Param "TocOpen") }} open{{ end }}>
+        <summary class="disclosure__summary" accesskey="c" title="(Alt + C)">
             <span class="details">
                 <i class="fa-solid fa-list-ul" aria-hidden="true"></i>
                 <span>{{- i18n "toc" | default "Table of Contents" }}</span>
@@ -13,7 +13,7 @@
             </span>
         </summary>
 
-        <div class="inner">
+        <div class="inner disclosure__body">
             {{- if (.Param "UseHugoToc") }}
             {{- .TableOfContents -}}
             {{- else }}

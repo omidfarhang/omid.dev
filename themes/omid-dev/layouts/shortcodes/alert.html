@@ -1,0 +1,23 @@
+{{- $type := .Get "type" | default "info" -}}
+{{- $validTypes := slice "info" "success" "warning" "error" "tip" -}}
+{{- if not (in $validTypes $type) -}}
+  {{- warnf "alert shortcode: unknown type %q (use info, success, warning, error, tip): %s" $type .Position -}}
+  {{- $type = "info" -}}
+{{- end -}}
+{{- $title := .Get "title" -}}
+{{- $icons := dict
+  "info" "fa-solid fa-circle-info"
+  "success" "fa-solid fa-circle-check"
+  "warning" "fa-solid fa-triangle-exclamation"
+  "error" "fa-solid fa-circle-xmark"
+  "tip" "fa-solid fa-lightbulb"
+-}}
+<aside class="alert alert--{{ $type }}" role="note">
+  <i class="{{ index $icons $type }} alert__icon" aria-hidden="true"></i>
+  <div class="alert__body">
+    {{- with $title }}
+    <strong class="alert__title">{{ . }}</strong>
+    {{- end }}
+    {{ .Inner | markdownify }}
+  </div>
+</aside>

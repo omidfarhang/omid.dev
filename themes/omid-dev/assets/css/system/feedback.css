@@ -1,5 +1,5 @@
-/* Feedback — site-wide opt-in primitive (toast)
-   Used by: footer copy-to-clipboard (`.toast-message`)
+/* Feedback — site-wide opt-in primitives (toast, alert, spinner, skeleton)
+   Used by: footer toast, content callouts, search/archives loading
 */
 
 .toast-message {
@@ -14,4 +14,203 @@
     color: var(--theme);
     box-shadow: var(--shadow-md);
     font-size: var(--text-sm);
+}
+
+.alert {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-3);
+    margin: var(--space-5) 0;
+    padding: var(--space-4) var(--space-5);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    background: var(--theme);
+    color: var(--content);
+    font-size: var(--text-body-sm);
+    line-height: var(--leading-body);
+}
+
+.alert__icon {
+    flex-shrink: 0;
+    margin-top: 0.1em;
+    font-size: var(--text-lg);
+    line-height: 1;
+}
+
+.alert__body {
+    flex: 1;
+    min-width: 0;
+}
+
+.alert__body > :first-child {
+    margin-top: 0;
+}
+
+.alert__body > :last-child {
+    margin-bottom: 0;
+}
+
+.alert__title {
+    display: block;
+    margin-bottom: var(--space-1);
+    color: var(--primary);
+    font-size: var(--text-ui);
+    font-weight: var(--font-bold);
+    line-height: var(--leading-tight);
+}
+
+.alert--info {
+    color: var(--status-info);
+    background: var(--status-info-bg);
+    border-color: var(--status-info-border);
+}
+
+.alert--info .alert__title {
+    color: var(--status-info);
+}
+
+.alert--success {
+    color: var(--status-success);
+    background: var(--status-success-bg);
+    border-color: var(--status-success-border);
+}
+
+.alert--success .alert__title {
+    color: var(--status-success);
+}
+
+.alert--warning {
+    color: var(--status-warning);
+    background: var(--status-warning-bg);
+    border-color: var(--status-warning-border);
+}
+
+.alert--warning .alert__title {
+    color: var(--status-warning);
+}
+
+.alert--error {
+    color: var(--status-error);
+    background: var(--status-error-bg);
+    border-color: var(--status-error-border);
+}
+
+.alert--error .alert__title {
+    color: var(--status-error);
+}
+
+.alert--tip {
+    color: var(--status-tip);
+    background: var(--status-tip-bg);
+    border-color: var(--status-tip-border);
+}
+
+.alert--tip .alert__title {
+    color: var(--status-tip);
+}
+
+.spinner {
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: ds-spin 1s linear infinite;
+}
+
+.spinner--sm {
+    width: 14px;
+    height: 14px;
+    border-width: 2px;
+}
+
+.spinner--lg {
+    width: 24px;
+    height: 24px;
+    border-width: 3px;
+}
+
+.loading {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    color: var(--secondary);
+    font-size: var(--text-sm);
+}
+
+.skeleton {
+    display: block;
+    border-radius: var(--radius);
+    background: linear-gradient(
+        90deg,
+        var(--quaternary) 0%,
+        var(--border) 50%,
+        var(--quaternary) 100%
+    );
+    background-size: 200% 100%;
+    animation: ds-shimmer 1.4s ease-in-out infinite;
+}
+
+.skeleton--text {
+    height: 0.9em;
+    width: 100%;
+}
+
+.skeleton--title {
+    height: 1.4em;
+    width: 60%;
+}
+
+.skeleton--avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.skeleton--card {
+    min-height: 120px;
+    width: 100%;
+    border-radius: var(--radius-lg);
+}
+
+.skeleton-group {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.skeleton-group .skeleton--text:nth-child(2) {
+    width: 92%;
+}
+
+.skeleton-group .skeleton--text:nth-child(3) {
+    width: 78%;
+}
+
+@keyframes ds-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes ds-shimmer {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .spinner {
+        animation: none;
+        border-top-color: var(--accent);
+    }
+
+    .skeleton {
+        animation: none;
+        background: var(--quaternary);
+    }
 }

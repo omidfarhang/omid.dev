@@ -98,15 +98,6 @@ pre:hover .copy-code {
     display: block;
 }
 
-.post-meta-avatar {
-    height: 24px;
-    width: 24px;
-    border-radius: 50%;
-    vertical-align: middle;
-    object-fit: cover;
-    margin-right: var(--space-1);
-}
-
 /* Layout utilities */
 
 .layout-split {

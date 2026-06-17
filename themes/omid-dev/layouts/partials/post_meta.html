@@ -17,7 +17,7 @@
 <span class="meta-item meta-author">
     <span class="screen-reader-text">{{ i18n "author" | default "Author" }}:</span>
     {{- if $context.Site.Params.footer.avatar }}
-    <img src="{{ $context.Site.Params.footer.avatar }}" alt="{{ $context.Site.Params.author }}" class="post-meta-avatar">
+    <img src="{{ $context.Site.Params.footer.avatar }}" alt="{{ $context.Site.Params.author }}" class="avatar avatar--xs">
     {{- else }}
     <i class="fas fa-user-circle" aria-hidden="true" role="img"></i>
     {{- end }}

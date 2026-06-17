@@ -15,13 +15,11 @@
             <div class="card card--interactive card--recommendation recommendation-card">
                 <div class="recommendation-header">
                     {{- if .avatar }}
-                    <div class="recommendation-avatar">
-                        <img src="{{ .avatar | relURL }}" alt="{{ .name }}">
-                    </div>
+                    <img src="{{ .avatar | relURL }}" alt="{{ .name }}" class="avatar avatar--md">
                     {{- else }}
-                    <div class="recommendation-avatar placeholder">
+                    <span class="avatar avatar--md avatar--placeholder" aria-hidden="true">
                         <i class="fas fa-user"></i>
-                    </div>
+                    </span>
                     {{- end }}
                     <div class="recommendation-meta">
                         <h3 class="recommendation-name">{{ .name }}</h3>

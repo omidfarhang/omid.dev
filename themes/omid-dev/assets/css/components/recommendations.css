@@ -74,28 +74,8 @@
     position: relative;
 }
 
-.recommendation-avatar {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    overflow: hidden;
+.recommendation-header .avatar {
     margin-inline-end: var(--space-3);
-    flex-shrink: 0;
-    background: var(--tertiary);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.recommendation-avatar.placeholder i {
-    color: var(--primary);
-    font-size: var(--text-section-md);
-}
-
-.recommendation-avatar img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
 }
 
 .recommendation-meta {

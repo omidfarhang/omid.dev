@@ -114,9 +114,7 @@
     content: none;
 }
 
-.entry-footer .post-meta-avatar {
-    height: 24px;
-    width: 24px;
+.entry-footer .avatar--2xs {
     margin-right: 0;
     border: 1px solid var(--border);
 }

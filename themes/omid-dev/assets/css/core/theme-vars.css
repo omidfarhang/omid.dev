@@ -58,6 +58,26 @@
     --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.08), 0 2px 4px -1px rgba(15, 23, 42, 0.05);
     --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.1), 0 4px 6px -2px rgba(15, 23, 42, 0.06);
     --shadow-accent: 0 8px 24px -6px rgba(var(--accent-rgb), 0.28);
+    --status-info: #2563eb;
+    --status-info-rgb: 37, 99, 235;
+    --status-info-bg: #eff6ff;
+    --status-info-border: rgba(var(--status-info-rgb), 0.28);
+    --status-success: #16a34a;
+    --status-success-rgb: 22, 163, 74;
+    --status-success-bg: #f0fdf4;
+    --status-success-border: rgba(var(--status-success-rgb), 0.28);
+    --status-warning: #d97706;
+    --status-warning-rgb: 217, 119, 6;
+    --status-warning-bg: #fffbeb;
+    --status-warning-border: rgba(var(--status-warning-rgb), 0.32);
+    --status-error: #dc2626;
+    --status-error-rgb: 220, 38, 38;
+    --status-error-bg: #fef2f2;
+    --status-error-border: rgba(var(--status-error-rgb), 0.28);
+    --status-tip: var(--accent);
+    --status-tip-rgb: var(--accent-rgb);
+    --status-tip-bg: var(--accent-light);
+    --status-tip-border: var(--accent-border-soft);
 }
 
 .dark {
@@ -113,4 +133,24 @@
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.35), 0 2px 4px -1px rgba(0, 0, 0, 0.25);
     --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -2px rgba(0, 0, 0, 0.3);
     --shadow-accent: 0 8px 24px -6px rgba(var(--accent-rgb), 0.35);
+    --status-info: #60a5fa;
+    --status-info-rgb: 96, 165, 250;
+    --status-info-bg: rgba(var(--status-info-rgb), 0.12);
+    --status-info-border: rgba(var(--status-info-rgb), 0.32);
+    --status-success: #4ade80;
+    --status-success-rgb: 74, 222, 128;
+    --status-success-bg: rgba(var(--status-success-rgb), 0.1);
+    --status-success-border: rgba(var(--status-success-rgb), 0.28);
+    --status-warning: #fbbf24;
+    --status-warning-rgb: 251, 191, 36;
+    --status-warning-bg: rgba(var(--status-warning-rgb), 0.1);
+    --status-warning-border: rgba(var(--status-warning-rgb), 0.32);
+    --status-error: #f87171;
+    --status-error-rgb: 248, 113, 113;
+    --status-error-bg: rgba(var(--status-error-rgb), 0.1);
+    --status-error-border: rgba(var(--status-error-rgb), 0.28);
+    --status-tip: var(--accent);
+    --status-tip-rgb: var(--accent-rgb);
+    --status-tip-bg: rgba(var(--accent-rgb), 0.14);
+    --status-tip-border: var(--accent-border-soft);
 }

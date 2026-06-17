@@ -1,0 +1,94 @@
+/* Tooltip — site-wide opt-in primitive (CSS-only)
+   Usage: <button data-tooltip="Copy link" data-tooltip-pos="top">…</button>
+   Hidden on touch devices; respects prefers-reduced-motion
+*/
+
+[data-tooltip] {
+    position: relative;
+}
+
+[data-tooltip]::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    z-index: 200;
+    max-width: 220px;
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius);
+    background: var(--primary);
+    color: var(--theme);
+    font-size: var(--text-2xs);
+    font-weight: var(--font-medium);
+    line-height: var(--leading-tight);
+    white-space: nowrap;
+    pointer-events: none;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--duration-fast) var(--ease-default),
+        visibility var(--duration-fast) var(--ease-default),
+        transform var(--duration-fast) var(--ease-default);
+}
+
+[data-tooltip]:hover::after,
+[data-tooltip]:focus-visible::after {
+    opacity: 1;
+    visibility: visible;
+}
+
+[data-tooltip-pos="top"]::after,
+[data-tooltip]:not([data-tooltip-pos])::after {
+    bottom: calc(100% + var(--space-2));
+    left: 50%;
+    transform: translateX(-50%) translateY(var(--space-1));
+}
+
+[data-tooltip-pos="top"]:hover::after,
+[data-tooltip-pos="top"]:focus-visible::after,
+[data-tooltip]:not([data-tooltip-pos]):hover::after,
+[data-tooltip]:not([data-tooltip-pos]):focus-visible::after {
+    transform: translateX(-50%) translateY(0);
+}
+
+[data-tooltip-pos="bottom"]::after {
+    top: calc(100% + var(--space-2));
+    left: 50%;
+    transform: translateX(-50%) translateY(calc(-1 * var(--space-1)));
+}
+
+[data-tooltip-pos="bottom"]:hover::after,
+[data-tooltip-pos="bottom"]:focus-visible::after {
+    transform: translateX(-50%) translateY(0);
+}
+
+[data-tooltip-pos="left"]::after {
+    top: 50%;
+    right: calc(100% + var(--space-2));
+    transform: translateY(-50%) translateX(var(--space-1));
+}
+
+[data-tooltip-pos="left"]:hover::after,
+[data-tooltip-pos="left"]:focus-visible::after {
+    transform: translateY(-50%) translateX(0);
+}
+
+[data-tooltip-pos="right"]::after {
+    top: 50%;
+    left: calc(100% + var(--space-2));
+    transform: translateY(-50%) translateX(calc(-1 * var(--space-1)));
+}
+
+[data-tooltip-pos="right"]:hover::after,
+[data-tooltip-pos="right"]:focus-visible::after {
+    transform: translateY(-50%) translateX(0);
+}
+
+@media (hover: none) {
+    [data-tooltip]::after {
+        content: none;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    [data-tooltip]::after {
+        transition: none;
+    }
+}

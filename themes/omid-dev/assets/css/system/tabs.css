@@ -1,0 +1,70 @@
+/* Tabs — site-wide opt-in primitive
+   Expects: role="tablist" on `.tabs__list`, role="tab" on `.tabs__tab`,
+            role="tabpanel" on `.tabs__panel`, aria-selected on active tab
+   No template usage yet — ready for generic tab UIs
+*/
+
+.tabs {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+}
+
+.tabs__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    padding: var(--space-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    background: var(--quaternary);
+}
+
+.tabs__tab {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 36px;
+    padding: var(--space-2) var(--space-4);
+    border: 1px solid transparent;
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--secondary);
+    font-family: inherit;
+    font-size: var(--text-ui-sm);
+    font-weight: var(--font-bold);
+    line-height: var(--leading-tight);
+    cursor: pointer;
+    transition: var(--transition-interactive);
+}
+
+.tabs__tab:hover {
+    color: var(--primary);
+    background: var(--theme);
+}
+
+.tabs__tab:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+}
+
+.tabs__tab[aria-selected="true"] {
+    color: var(--theme);
+    background: var(--accent);
+    border-color: var(--accent);
+    box-shadow: var(--shadow-sm);
+}
+
+.tabs__panel {
+    margin: 0;
+}
+
+.tabs__panel[hidden] {
+    display: none;
+}
+
+.tabs__panel:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+    border-radius: var(--radius);
+}

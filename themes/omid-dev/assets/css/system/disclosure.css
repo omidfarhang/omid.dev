@@ -1,0 +1,61 @@
+/* Disclosure — site-wide opt-in primitive (native details/summary)
+   Used by: collapse shortcode, article TOC
+   Layout/polish in: post-single.css (article-toc, toc list spacing)
+*/
+
+.disclosure {
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface-raised);
+}
+
+.disclosure__summary {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-4) var(--space-5);
+    color: var(--primary);
+    font-weight: var(--font-medium);
+    list-style: none;
+    cursor: pointer;
+    transition: var(--transition-color);
+}
+
+.disclosure__summary::-webkit-details-marker {
+    display: none;
+}
+
+.disclosure__summary:hover {
+    color: var(--accent);
+}
+
+.disclosure__summary:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+}
+
+.disclosure__body {
+    padding: 0 var(--space-5) var(--space-5);
+}
+
+.disclosure__body > :first-child {
+    margin-top: 0;
+}
+
+.disclosure__body > :last-child {
+    margin-bottom: 0;
+}
+
+.disclosure--borderless {
+    border: none;
+    background: transparent;
+}
+
+.disclosure--borderless .disclosure__summary {
+    padding-inline: 0;
+}
+
+.disclosure--borderless .disclosure__body {
+    padding-inline: 0;
+}
