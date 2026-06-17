@@ -143,18 +143,6 @@ ul.meta li {
     margin-right: var(--space-1);
 }
 
-.toast-message {
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #333;
-    color: #fff;
-    padding: var(--space-3) var(--space-5);
-    border-radius: 5px;
-    z-index: 1000;
-}
-
 /* Layout utilities */
 
 .layout-split {

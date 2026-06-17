@@ -1,0 +1,17 @@
+/* Feedback — site-wide opt-in primitive (toast)
+   Used by: footer copy-to-clipboard (`.toast-message`)
+*/
+
+.toast-message {
+    position: fixed;
+    bottom: var(--space-5);
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    padding: var(--space-3) var(--space-5);
+    border-radius: var(--radius);
+    background-color: var(--primary);
+    color: var(--theme);
+    box-shadow: var(--shadow-md);
+    font-size: var(--text-sm);
+}
