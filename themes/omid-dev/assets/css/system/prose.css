@@ -1,4 +1,6 @@
-/* Prose system — long-form markdown / article body content */
+/* Prose system — long-form markdown / article body content in .post-content
+   Article polish: post-single.css (.article-body .post-content blockquote, h2, h3)
+*/
 
 .post-content {
     color: var(--content);
@@ -18,6 +20,7 @@
     font-size: var(--text-prose-h1);
 }
 
+/* Headings — base scale; h2/h3 article polish in post-single.css */
 .post-content h2 {
     margin: var(--space-8) auto var(--space-6);
     font-size: var(--text-prose-h2);
@@ -145,6 +148,7 @@
     word-break: break-all;
 }
 
+/* Blockquotes — base; article polish in post-single.css */
 .post-content blockquote {
     font-style: italic;
     margin: var(--space-5) 0;

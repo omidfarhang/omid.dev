@@ -1,5 +1,8 @@
-/* Table design system — prose/markdown content tables in .post-content */
+/* Table design system — prose/markdown content tables in .post-content
+   Article polish: post-single.css (.article-body .post-content table)
+*/
 
+/* Prose/markdown tables — base; article polish in post-single.css */
 .post-content table {
     margin-bottom: var(--content-gap);
 }

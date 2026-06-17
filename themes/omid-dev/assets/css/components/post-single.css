@@ -1,5 +1,6 @@
 /* Post single — shared component
-   Composes: .chip (meta); prose/table polish extends system/prose.css, system/tables.css
+   Composes: .chip (meta); article prose polish (headings, blockquotes) extends system/prose.css;
+   article table polish extends system/tables.css
    Layout/polish in: page-metadata.css (.meta-item base)
    Promote to system/ when: used in 2+ templates with explicit classes + variant API
 */
@@ -709,12 +710,16 @@ img.in-text {
     box-shadow: none;
 }
 
+/* Article prose — polish only; base elements from system/prose.css, tables from system/tables.css */
+
+/* Article prose column — layout polish (max-width); not in system/ */
 .article-body .post-content {
     max-width: 78ch;
     margin: 0 auto;
     min-width: 0;
 }
 
+/* Article headings — polish only; base scale from system/prose.css */
 .article-body .post-content h2 {
     margin-top: 44px;
     font-size: var(--text-prose-h2-fluid);
@@ -726,6 +731,7 @@ img.in-text {
     font-size: var(--text-prose-h3-lg);
 }
 
+/* Article blockquotes — polish only; base blockquotes from system/prose.css */
 .article-body .post-content blockquote {
     padding: 1.2rem var(--space-5);
     color: var(--content);
