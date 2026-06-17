@@ -98,42 +98,6 @@ pre:hover .copy-code {
     display: block;
 }
 
-.meta-item {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-2);
-    white-space: nowrap;
-}
-
-/* Legacy support for ul.meta if still in cache */
-ul.meta {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-ul.meta li {
-    display: inline-flex;
-    align-items: center;
-}
-
-.meta-item i {
-    font-size: var(--text-sm);
-}
-
-.meta-item + .meta-item::before {
-    content: "•";
-    margin: 0 var(--space-2);
-    color: var(--tertiary);
-}
-
-[dir=rtl] .meta-item i {
-    padding-right: 0;
-    padding-left: 0;
-}
-
 .post-meta-avatar {
     height: 24px;
     width: 24px;

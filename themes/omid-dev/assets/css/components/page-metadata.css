@@ -1,4 +1,8 @@
-/* Metadata row layout (chips defined in chips.css) */
+/* Page metadata — shared component
+   Composes: .chip (via chip-group / page-metadata rows)
+   Layout/polish in: post-single.css (.post-meta, .article-meta), post-entry.css (.entry-footer)
+   Promote to system/ when: used in 2+ templates with explicit classes + variant API
+*/
 
 .page-metadata {
     display: flex;
@@ -9,4 +13,51 @@
 
 [dir="rtl"] .page-metadata {
     flex-direction: row-reverse;
+}
+
+.meta-item {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    white-space: nowrap;
+}
+
+.meta-item i {
+    font-size: var(--text-sm);
+    color: var(--tertiary);
+}
+
+.meta-item a {
+    color: inherit;
+    text-decoration: none;
+    transition: var(--transition-color);
+}
+
+.meta-item a:hover {
+    color: var(--accent);
+}
+
+.meta-item + .meta-item::before {
+    content: "•";
+    margin: 0 var(--space-2);
+    color: var(--tertiary);
+}
+
+[dir="rtl"] .meta-item i {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+/* Legacy support for ul.meta if still in cache */
+ul.meta {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.meta li {
+    display: inline-flex;
+    align-items: center;
 }
