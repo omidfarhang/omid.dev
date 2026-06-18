@@ -1,4 +1,5 @@
 import * as params from '@params';
+import Fuse from './fuse.basic.min.mjs';
 import { escapeHtml, prepareDisplayText } from './text-utils.js';
 
 const configEl = document.getElementById('search-config');
@@ -17,6 +18,7 @@ const labels = config.labels || {};
 const locale = config.locale || document.documentElement.lang || 'en';
 
 let fuse;
+let searchData = [];
 let resList = document.getElementById('searchResults');
 let sInput = document.getElementById('searchInput');
 let sLoading = document.getElementById('searchLoading');
@@ -75,30 +77,30 @@ window.onload = function () {
             if (xhr.status === 200) {
                 let data = JSON.parse(xhr.responseText);
                 if (data) {
+                    searchData = data;
+                    const defaultKeys = [
+                        { name: 'title', weight: 3 },
+                        { name: 'tags', weight: 2 },
+                        { name: 'summary', weight: 1 },
+                    ];
                     let options = {
                         distance: 100,
-                        threshold: 0.4,
+                        threshold: 0.2,
                         ignoreLocation: true,
-                        keys: [
-                            'title',
-                            'permalink',
-                            'summary',
-                            'categories',
-                            'date',
-                            'tags'
-                        ]
+                        includeScore: true,
+                        keys: defaultKeys,
                     };
                     if (params.fuseOpts) {
                         options = {
                             isCaseSensitive: params.fuseOpts.iscasesensitive ?? false,
-                            includeScore: params.fuseOpts.includescore ?? false,
+                            includeScore: true,
                             includeMatches: params.fuseOpts.includematches ?? false,
-                            minMatchCharLength: params.fuseOpts.minmatchcharlength ?? 1,
+                            minMatchCharLength: params.fuseOpts.minmatchcharlength ?? 2,
                             shouldSort: params.fuseOpts.shouldsort ?? true,
                             findAllMatches: params.fuseOpts.findallmatches ?? false,
-                            keys: params.fuseOpts.keys ?? ['title', 'permalink', 'summary', 'categories', 'tags', 'date'],
+                            keys: params.fuseOpts.keys ?? defaultKeys,
                             location: params.fuseOpts.location ?? 0,
-                            threshold: params.fuseOpts.threshold ?? 0.4,
+                            threshold: params.fuseOpts.threshold ?? 0.2,
                             distance: params.fuseOpts.distance ?? 100,
                             ignoreLocation: params.fuseOpts.ignorelocation ?? true
                         };
@@ -141,6 +143,74 @@ function reset() {
     sInput.focus();
 }
 
+function getSearchableText(item) {
+    return [item.title, item.summary, ...(item.tags || [])]
+        .join(' ')
+        .toLowerCase();
+}
+
+function queryVariants(query) {
+    const variants = new Set([query]);
+    if (query.length < 3) return [...variants];
+
+    if (query.endsWith('ies') && query.length > 4) {
+        variants.add(`${query.slice(0, -3)}y`);
+    } else if (query.endsWith('es') && query.length > 4) {
+        variants.add(query.slice(0, -2));
+        variants.add(query.slice(0, -1));
+    } else if (query.endsWith('s') && !query.endsWith('ss') && query.length > 3) {
+        variants.add(query.slice(0, -1));
+    } else {
+        variants.add(`${query}s`);
+        if (query.endsWith('y') && query.length > 2) {
+            variants.add(`${query.slice(0, -1)}ies`);
+        } else if (/[sxz]$/.test(query) || /(?:ch|sh)$/.test(query)) {
+            variants.add(`${query}es`);
+        }
+    }
+
+    return [...variants];
+}
+
+function textIncludesVariant(text, variants) {
+    return variants.some((variant) => text.includes(variant));
+}
+
+function rankMatch(item, variants) {
+    const title = (item.title || '').toLowerCase();
+    const tags = (item.tags || []).join(' ').toLowerCase();
+    const summary = (item.summary || '').toLowerCase();
+    let best = 3;
+
+    for (const variant of variants) {
+        if (title.includes(variant)) best = Math.min(best, 0);
+        else if (tags.includes(variant)) best = Math.min(best, 1);
+        else if (summary.includes(variant)) best = Math.min(best, 2);
+    }
+
+    return best;
+}
+
+function searchIndex(term) {
+    const query = term.trim().toLowerCase();
+    if (!query) return [];
+
+    const variants = queryVariants(query);
+    const variantMatches = searchData.filter((item) => textIncludesVariant(getSearchableText(item), variants));
+
+    if (variantMatches.length > 0) {
+        return variantMatches
+            .map((item) => ({ item, score: rankMatch(item, variants) }))
+            .sort((a, b) => a.score - b.score || a.item.title.localeCompare(b.item.title));
+    }
+
+    if (!fuse) return [];
+
+    const fuzzyLimit = params.fuseOpts?.limit ?? 20;
+    const maxScore = params.fuseOpts?.maxscore ?? 0.35;
+    return fuse.search(term, { limit: fuzzyLimit }).filter((result) => result.score <= maxScore);
+}
+
 function executeSearch(term) {
     if (term.trim() === '') {
         allResults = [];
@@ -150,15 +220,8 @@ function executeSearch(term) {
         return;
     }
 
-    if (fuse) {
-        let results;
-        if (params.fuseOpts) {
-            results = fuse.search(term, { limit: params.fuseOpts.limit });
-        } else {
-            results = fuse.search(term);
-        }
-
-        allResults = results;
+    if (searchData.length > 0) {
+        allResults = searchIndex(term);
         currentPage = 1;
         resultsAvailable = allResults.length !== 0;
         renderResults();
