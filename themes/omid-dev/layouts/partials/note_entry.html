@@ -1,0 +1,65 @@
+{{- $page := .page | default . -}}
+{{- $standalone := .standalone | default false -}}
+{{- $avatar := site.Params.footer.avatar | default site.Params.profileMode.imageUrl | default "/images/bio-photo-150x150.jpg" -}}
+{{- $author := partial "author.html" $page | default site.Params.author | default site.Title -}}
+
+<article class="note-entry{{ if $standalone }} note-entry--standalone{{ end }}">
+  <div class="note-entry-layout">
+    <a class="note-entry-avatar" href="{{ "about-me" | absLangURL }}" aria-hidden="true" tabindex="-1">
+      <img src="{{ $avatar | relURL }}" alt="" class="avatar avatar--md" width="48" height="48">
+    </a>
+    <div class="note-entry-main">
+      <header class="note-entry-header">
+        <div class="note-entry-meta">
+          <span class="note-entry-author">{{ $author }}</span>
+          {{- if $page.Date }}
+          <span class="note-entry-sep" aria-hidden="true">·</span>
+          {{- if $standalone }}
+          <time class="note-entry-date" datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ $page.Date.Format "Jan 2, 2006 · 15:04" }}
+          </time>
+          {{- else }}
+          <a class="note-entry-date" href="{{ $page.Permalink }}" title="{{ $page.Title | plainify }}">
+            <time datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}">
+              {{ $page.Date.Format "Jan 2, 2006 · 15:04" }}
+            </time>
+          </a>
+          {{- end }}
+          {{- end }}
+          {{- if $page.Draft }}
+          <span class="chip chip--pill note-entry-draft">{{ i18n "draft" | default "Draft" }}</span>
+          {{- end }}
+        </div>
+        {{- if and (not ($page.Param "hideTitle")) $page.Title }}
+        <h2 class="note-entry-title">
+          {{- if $standalone -}}
+          {{ $page.Title }}
+          {{- else -}}
+          <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
+          {{- end -}}
+        </h2>
+        {{- end }}
+      </header>
+
+      {{- if $page.Content }}
+      {{- $limit := $page.Param "indexLimit" | default site.Params.notesIndexMaxChars | default 420 | int -}}
+      {{- $plain := $page.Content | plainify | strings.TrimSpace -}}
+      {{- $isLong := and (not $standalone) (gt (len $plain) $limit) -}}
+      {{- if $isLong }}
+      <div class="note-entry-body note-entry-body--preview post-content">
+        <p>{{ $plain | truncate $limit "…" }}</p>
+      </div>
+      <p class="note-entry-more">
+        <a href="{{ $page.Permalink }}">{{ i18n "continue_reading" | default "Continue reading" }}</a>
+      </p>
+      {{- else }}
+      <div class="note-entry-body post-content">
+        {{- if not ($page.Param "disableAnchoredHeadings") }}
+        {{- partial "anchored_headings.html" $page.Content -}}
+        {{- else }}{{ $page.Content }}{{ end }}
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+</article>

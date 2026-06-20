@@ -38,6 +38,8 @@
 {{- else }}
 {{- $pages = $pctx.Pages }}
 {{- end }}
+{{- $notesSection := site.Params.notesSection | default "notes" }}
+{{- $pages = where $pages "Section" "ne" $notesSection }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
 {{- $pages = $pages | first $limit }}

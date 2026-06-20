@@ -1,0 +1,14 @@
+{{- define "main" }}
+
+<article class="note-single page-shell">
+  <p class="note-back">
+    <a href="{{ "notes" | absLangURL }}">
+      <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+      {{ i18n "notes" | default "Notes" }}
+    </a>
+  </p>
+
+  {{ partial "note_entry.html" (dict "page" . "standalone" true) }}
+</article>
+
+{{- end }}

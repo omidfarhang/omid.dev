@@ -463,3 +463,24 @@
 
 - id: archive_of
   translation: "von"
+
+- id: notes
+  translation: "Notizen"
+
+- id: notes_rss
+  translation: "Notizen-Feed"
+
+- id: notes_rss_description
+  translation: "Kurze Notizen und schnelle Gedanken"
+
+- id: notes_empty
+  translation: "Noch keine Notizen."
+
+- id: open_note
+  translation: "Notiz öffnen"
+
+- id: permalink
+  translation: "Permalink"
+
+- id: draft
+  translation: "Entwurf"

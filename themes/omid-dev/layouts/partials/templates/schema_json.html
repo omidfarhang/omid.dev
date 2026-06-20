@@ -40,6 +40,28 @@
 }
 </script>
 {{- else if (or .IsPage .IsSection) }}
+{{- $isNote := partial "is_note.html" . -}}
+{{- if $isNote }}
+{{- if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SocialMediaPosting",
+  "headline": {{ .Title | plainify | jsonify }},
+  "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.Params.author | default site.Title | plainify | jsonify }},
+    "url": {{ "about-me" | absLangURL | jsonify }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify }}
+  }
+}
+</script>
+{{- end }}
+{{- else }}
 {{/* BreadcrumbList */}}
 {{- $url := replace .Parent.Permalink ( printf "%s" site.Home.Permalink) "" }}
 {{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
@@ -187,5 +209,7 @@
 </script>
 {{- end }}
 {{- end }}{{/* .IsPage end */}}
+
+{{- end }}{{/* end non-note branch */}}
 
 {{- end -}}

@@ -1,4 +1,5 @@
-{{- $related := site.RegularPages.Related . | first 3 }}
+{{- if eq .Section (site.Params.notesSection | default "notes") }}{{- else -}}
+{{- $related := where (site.RegularPages.Related .) "Section" "ne" (site.Params.notesSection | default "notes") | first 3 }}
 {{- with $related }}
 <div class="related-posts">
     <h3 class="related-title">{{ i18n "related_posts" | default "Related Posts" }}</h3>
@@ -18,4 +19,5 @@
         {{- end }}
     </div>
 </div>
+{{- end }}
 {{- end }}

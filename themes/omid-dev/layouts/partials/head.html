@@ -15,13 +15,15 @@
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
+{{- $isNote := partial "is_note.html" . -}}
+
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+<title>{{ if .IsHome }}{{ site.Title }}{{ else if and $isNote .IsPage }}{{ .Title }} · {{ i18n "notes" | default "Notes" }}{{ else if $isNote }}{{ .Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
 {{ with site.Params.keywords -}}<meta name="keywords" content="{{- range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
-{{- else }}
+{{- else if not $isNote }}
 <meta name="keywords" content="{{ if .Params.keywords -}}
     {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
     {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
@@ -231,8 +233,15 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+{{- if not $isNote }}
 {{- template "partials/templates/opengraph.html" . }}
 {{- template "partials/templates/twitter_cards.html" . }}
+{{- else }}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ partial "page_description.html" . }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{- end }}
 {{- template "partials/templates/schema_json.html" . }}
 {{- template "partials/templates/matomo.html" . }}
 {{- end -}}

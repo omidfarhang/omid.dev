@@ -448,3 +448,24 @@
 
 - id: archive_of
   translation: "از"
+
+- id: notes
+  translation: "یادداشت‌ها"
+
+- id: notes_rss
+  translation: "فید یادداشت‌ها"
+
+- id: notes_rss_description
+  translation: "یادداشت‌های کوتاه و افکار سریع"
+
+- id: notes_empty
+  translation: "هنوز یادداشتی منتشر نشده."
+
+- id: open_note
+  translation: "باز کردن یادداشت"
+
+- id: permalink
+  translation: "پیوند مستقیم"
+
+- id: draft
+  translation: "پیش‌نویس"

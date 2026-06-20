@@ -7,6 +7,7 @@ defaultContentLanguage: en
 # Permalinks
 permalinks:
   posts: /:year/:month/:day/:slug/
+  notes: /notes/:slug/
 
 # Taxonomies
 taxonomies:
@@ -378,6 +379,10 @@ params:
   mainSections:
     - posts
 
+  # Short-form notes — excluded from main RSS, search index, related posts, and per-note sitemaps
+  notesSection: notes
+  notesIndexMaxChars: 420
+
   # Curated tags on the home page (must match post front matter exactly)
   homeTechTagsProfessional:
     - Engineering Leadership
@@ -448,6 +453,11 @@ mediaTypes:
   application/xml:
     suffixes:
       - xml
+
+outputs:
+  section:
+    - HTML
+    - RSS
 
 outputFormats:
   Sitemap:

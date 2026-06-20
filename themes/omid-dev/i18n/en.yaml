@@ -448,3 +448,24 @@
 
 - id: archive_of
   translation: "of"
+
+- id: notes
+  translation: "Notes"
+
+- id: notes_rss
+  translation: "Notes feed"
+
+- id: notes_rss_description
+  translation: "Short notes and quick thoughts"
+
+- id: notes_empty
+  translation: "No notes yet."
+
+- id: open_note
+  translation: "Open note"
+
+- id: permalink
+  translation: "Permalink"
+
+- id: draft
+  translation: "Draft"
