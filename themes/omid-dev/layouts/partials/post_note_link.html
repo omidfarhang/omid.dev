@@ -1,19 +1,13 @@
 {{- $relatedNote := .Param "relatedNote" -}}
 {{- if not $relatedNote }}{{ return }}{{ end -}}
 {{- $resolved := partial "note_resolve_url.html" (dict "url" $relatedNote) -}}
+{{- $notePage := $resolved.page -}}
+{{- if not $notePage }}{{ return }}{{ end -}}
 
-<aside class="post-note-link panel panel--tinted">
+<section class="post-note-link" aria-label="{{ i18n "post_related_note" | default "Originated from note" }}">
   <p class="post-note-link-label">
     <i class="fa-solid fa-note-sticky" aria-hidden="true"></i>
-    {{ i18n "post_related_note" | default "Related note" }}
+    {{ i18n "post_related_note" | default "Originated from note" }}
   </p>
-  <p class="post-note-link-body">
-    <a href="{{ $resolved.href }}">
-      {{- with $resolved.page -}}
-        {{ partial "note_display_title.html" . }}
-      {{- else -}}
-        {{ $resolved.raw }}
-      {{- end -}}
-    </a>
-  </p>
-</aside>
+  {{ partial "note_entry.html" (dict "page" $notePage "embedded" true) }}
+</section>

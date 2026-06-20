@@ -5,6 +5,7 @@ description: "Untersuche die konzeptionelle und strategische Rolle von Project J
 layout: single
 author_profile: true
 url: 2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
+relatedNote: notes/178199000262829204/
 shortlink: https://g.omid.dev/I84gYZ4
 x_link: https://x.com/OmidFarhangEn/status/2003242150402883883
 mastodon_link: https://mastodon.social/@omidfarhang/115765736961111842

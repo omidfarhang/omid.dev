@@ -58,6 +58,7 @@
     {{- end }}
 
     <footer class="post-footer">
+      {{- partial "post_note_link.html" . }}
       {{- if (.Param "comments") }}
       {{- partial "comments.html" . }}
       {{- end }}
@@ -90,5 +91,9 @@
     {{- partial "related.html" . }}
   </div>
 </article>
+
+{{- if .Param "relatedNote" }}
+{{- partial "note_scripts.html" . }}
+{{- end }}
 
 {{- end }}{{/* end main */}}

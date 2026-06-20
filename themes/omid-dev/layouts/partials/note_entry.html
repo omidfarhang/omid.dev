@@ -1,10 +1,11 @@
 {{- $page := .page | default . -}}
 {{- $standalone := .standalone | default false -}}
+{{- $embedded := .embedded | default false -}}
 {{- $avatar := site.Params.footer.avatar | default site.Params.profileMode.imageUrl | default "/images/bio-photo-150x150.jpg" -}}
 {{- $author := partial "author.html" $page | default site.Params.author | default site.Title -}}
 {{- $absoluteDate := $page.Date.Format "Jan 2, 2006 · 15:04" -}}
 
-<article class="note-entry{{ if $standalone }} note-entry--standalone{{ end }}">
+<article class="note-entry{{ if $standalone }} note-entry--standalone{{ end }}{{ if $embedded }} note-entry--embedded{{ end }}">
   <div class="note-entry-layout">
     <a class="note-entry-avatar" href="{{ "about-me" | absLangURL }}" aria-hidden="true" tabindex="-1">
       <img src="{{ $avatar | relURL }}" alt="" class="avatar avatar--md" width="48" height="48">
@@ -33,7 +34,9 @@
         </div>
       </header>
 
+      {{- if not $embedded }}
       {{ partial "note_links.html" $page }}
+      {{- end }}
 
       {{- if $page.Content }}
       {{- $limit := $page.Param "indexLimit" | default site.Params.notesIndexMaxChars | default 420 | int -}}

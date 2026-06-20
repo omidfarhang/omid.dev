@@ -8,6 +8,15 @@
 {{- else -}}
   {{- $path := strings.TrimPrefix "/" $raw -}}
   {{- $page = site.GetPage $path -}}
+  {{- if not $page -}}
+    {{- range site.AllPages -}}
+      {{- $pageUrl := .Param "url" | default "" -}}
+      {{- if or (eq $path $pageUrl) (eq (printf "/%s" $pageUrl) $raw) -}}
+        {{- $page = . -}}
+        {{- break -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
   {{- if $page -}}
     {{- $href = $page.Permalink -}}
   {{- else -}}
