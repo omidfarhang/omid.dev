@@ -1,3 +1,4 @@
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
 {{- if or (eq .Kind "term") (and (eq .Kind "section") (eq .Section "posts")) -}}
   {{- if not (and site.Params.profileMode.enabled .IsHome) -}}
     {{- $pages := slice -}}
@@ -8,4 +9,7 @@
     {{- end -}}
     {{- $_ := .Paginate $pages -}}
   {{- end -}}
+{{- else if and (eq .Kind "section") (eq .Section $notesSection) -}}
+  {{- $perPage := site.Params.notesPerPage | default 20 | int -}}
+  {{- $_ := .Paginate (.RegularPages.ByDate.Reverse) $perPage -}}
 {{- end -}}

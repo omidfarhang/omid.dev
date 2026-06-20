@@ -111,6 +111,9 @@ languages:
         - name: Posts
           url: /posts
           weight: 1
+        - name: Notes
+          url: /notes
+          weight: 2
         - name: About me
           url: /about-me
           weight: 4
@@ -175,6 +178,9 @@ languages:
         - name: بلاگ
           url: /posts
           weight: 1
+        - name: یادداشت‌ها
+          url: /notes
+          weight: 2
         - name: درباره من
           url: /about-me
           weight: 4
@@ -233,6 +239,9 @@ languages:
         - name: Beiträge
           url: /posts
           weight: 1
+        - name: Notizen
+          url: /notes
+          weight: 2
         - name: Über mich
           url: /about-me
           weight: 4
@@ -381,6 +390,7 @@ params:
 
   # Short-form notes — excluded from main RSS, search index, related posts, and per-note sitemaps
   notesSection: notes
+  notesPerPage: 20
   notesIndexMaxChars: 420
 
   # Curated tags on the home page (must match post front matter exactly)

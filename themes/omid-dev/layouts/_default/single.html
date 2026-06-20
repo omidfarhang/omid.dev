@@ -49,6 +49,7 @@
     {{- end }}
 
     <footer class="post-footer">
+      {{- partial "post_note_link.html" . }}
       {{- if (.Param "comments") }}
       {{- partial "comments.html" . }}
       {{- end }}

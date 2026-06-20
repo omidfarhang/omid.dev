@@ -1,0 +1,9 @@
+{{- $relativeTime := resources.Get "js/note-relative-time.js" | js.Build | resources.Minify -}}
+{{- $noteActions := resources.Get "js/note-actions.js" | js.Build | resources.Minify -}}
+{{- $bundle := slice $noteActions $relativeTime | resources.Concat "assets/js/note-feed-bundle.js" -}}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $bundle = $bundle | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}"></script>
+{{- else }}
+<script defer crossorigin="anonymous" src="{{ $bundle.RelPermalink }}"></script>
+{{- end }}

@@ -461,6 +461,33 @@
 - id: notes_empty
   translation: "No notes yet."
 
+- id: recent_notes
+  translation: "Recent Notes"
+
+- id: footer_explore
+  translation: "Explore"
+
+- id: footer_more
+  translation: "More"
+
+- id: note_links
+  translation: "Note links"
+
+- id: note_in_reply_to
+  translation: "In reply to"
+
+- id: note_related_post
+  translation: "Related article"
+
+- id: post_related_note
+  translation: "Related note"
+
+- id: webmentions_title
+  translation: "Reactions & replies"
+
+- id: webmentions_loading
+  translation: "Loading replies…"
+
 - id: open_note
   translation: "Open note"
 

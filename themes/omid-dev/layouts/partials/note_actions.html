@@ -1,0 +1,18 @@
+{{- $page := .page -}}
+{{- $standalone := .standalone | default false -}}
+{{- $permalink := $page.Permalink -}}
+
+<div class="note-actions">
+  <button type="button" class="note-action note-action--copy" data-copy-url="{{ $permalink }}"
+    title="{{ i18n "copy_link" | default "Copy link" }}"
+    aria-label="{{ i18n "copy_link" | default "Copy link" }}">
+    <i class="fa-solid fa-link" aria-hidden="true"></i>
+  </button>
+  {{- if not $standalone }}
+  <a class="note-action note-action--open" href="{{ $permalink }}"
+    title="{{ i18n "open_note" | default "Open note" }}"
+    aria-label="{{ i18n "open_note" | default "Open note" }}">
+    <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+  </a>
+  {{- end }}
+</div>

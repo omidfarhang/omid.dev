@@ -2,7 +2,9 @@
 {{- $footer := .Site.Params.footer -}}
 {{- $avatar := $footer.avatar | default (site.Params.profileMode.imageUrl) | default "/images/bio-photo-150x150.jpg" -}}
 {{- $mainSections := site.Params.mainSections | default (slice "posts") -}}
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
 {{- $recentPosts := where site.RegularPages "Type" "in" $mainSections -}}
+{{- $recentNotes := where site.RegularPages "Section" $notesSection -}}
 <footer class="footer" aria-labelledby="footer-title">
     <section class="footer-cta">
         <div class="footer-identity">
@@ -32,69 +34,111 @@
         </div>
     </section>
 
-    <div class="footer-columns">
-        <section class="footer-column footer-topics">
-            <h3>{{ i18n "categories" | default "Categories" }}</h3>
-            <ul>
-                {{- with .Site.Taxonomies.categories }}
-                {{ range first 5 .ByCount }}
-                {{- $section := site.GetPage (printf "posts/%s" (.Name | urlize)) }}
-                <li>
-                    <a href="{{ (or $section .Page).Permalink }}">
-                        <span>{{ .Page.Title }}</span>
-                        <small>{{ .Count }}</small>
-                    </a>
-                </li>
-                {{ end }}
-                {{- end }}
-            </ul>
-        </section>
-
-        <section class="footer-column footer-recent-posts">
-            <h3>{{ i18n "recent_posts" | default "Recent Posts" }}</h3>
-            <ul>
-                {{ range first 3 $recentPosts.ByDate.Reverse }}
-                <li>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span class="post-date">{{ .Date | time.Format ":date_medium" }}</span>
-                </li>
-                {{ end }}
-            </ul>
-        </section>
-
-        <section class="footer-column footer-links">
-            <h3>{{ i18n "quick_links" | default "Quick Links" }}</h3>
-            <ul>
-                {{- $seenLinks := dict -}}
-                {{ range .Site.Menus.main }}
-                {{- $seenLinks = merge $seenLinks (dict .URL true) -}}
-                <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-                {{ end }}
-                {{ range .Site.Menus.quick_links }}
-                {{- if not (index $seenLinks .URL) }}
-                <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-                {{- end }}
-                {{ end }}
-            </ul>
-        </section>
-
-        <section class="footer-column footer-connect">
-            <h3>{{ i18n "contact" | default "Contact" }}</h3>
-            <a class="footer-email" href="mailto:{{ $footer.contactEmail }}">
-                <i class="fas fa-envelope" aria-hidden="true"></i>
-                {{ $footer.contactEmail }}
-            </a>
-            <div class="footer-social-wrapper">
-                <span class="follow-me">{{ i18n "follow_me" | default "Follow Me" }}</span>
-                <div class="social-icons social-icons--circle social-icons--footer">
-                    {{ range $footer.social }}
-                    <a class="social-icon-link" data-brand="{{ partial "brand_slug.html" .icon }}" href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name | default .url }}">
-                        <i class="{{ .icon }}" aria-hidden="true"></i>
-                    </a>
+    <div class="footer-grid">
+        <div class="footer-row footer-row--feed{{ if gt (len $recentNotes) 0 }} footer-row--feed-has-notes{{ end }}">
+            <section class="footer-column footer-recent-posts">
+                <h3>{{ i18n "recent_posts" | default "Recent Posts" }}</h3>
+                <ul>
+                    {{ range first 3 $recentPosts.ByDate.Reverse }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <span class="post-date">{{ .Date | time.Format ":date_medium" }}</span>
+                    </li>
                     {{ end }}
+                </ul>
+                <p class="footer-column-more">
+                    <a href="{{ "posts" | absLangURL }}">{{ i18n "posts" | default "Posts" }} →</a>
+                </p>
+            </section>
+
+            {{- if gt (len $recentNotes) 0 }}
+            <section class="footer-column footer-recent-notes">
+                <h3>{{ i18n "recent_notes" | default "Recent Notes" }}</h3>
+                <ul>
+                    {{ range first 3 $recentNotes.ByDate.Reverse }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Content | plainify | truncate 120 "…" }}</a>
+                        <span class="post-date">
+                            <time class="note-relative-time" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ .Date.Format "Jan 2, 2006 · 15:04" }}">
+                                {{ .Date.Format "Jan 2, 2006 · 15:04" }}
+                            </time>
+                        </span>
+                    </li>
+                    {{ end }}
+                </ul>
+                <p class="footer-column-more">
+                    <a href="{{ "notes" | absLangURL }}">{{ i18n "notes" | default "Notes" }} →</a>
+                </p>
+            </section>
+            {{- end }}
+        </div>
+
+        <div class="footer-row footer-row--nav">
+            <section class="footer-column footer-topics">
+                <h3>{{ i18n "categories" | default "Categories" }}</h3>
+                <ul>
+                    {{- with .Site.Taxonomies.categories }}
+                    {{ range first 5 .ByCount }}
+                    {{- $section := site.GetPage (printf "posts/%s" (.Name | urlize)) }}
+                    <li>
+                        <a href="{{ (or $section .Page).Permalink }}">
+                            <span>{{ .Page.Title }}</span>
+                            <small>{{ .Count }}</small>
+                        </a>
+                    </li>
+                    {{ end }}
+                    {{- end }}
+                </ul>
+            </section>
+
+            <section class="footer-column footer-explore">
+                <h3>{{ i18n "footer_explore" | default "Explore" }}</h3>
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </section>
+
+            <section class="footer-column footer-more">
+                <h3>{{ i18n "footer_more" | default "More" }}</h3>
+                <ul>
+                    {{- $seenLinks := dict -}}
+                    {{- range .Site.Menus.main -}}
+                    {{- $seenLinks = merge $seenLinks (dict .URL true) -}}
+                    {{- end -}}
+                    {{- with site.GetPage "now" -}}
+                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{- end -}}
+                    {{- with site.GetPage "uses" -}}
+                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{- end -}}
+                    {{- range .Site.Menus.quick_links -}}
+                    {{- if not (index $seenLinks .URL) -}}
+                    <li><a href="{{ .URL | absLangURL }}"{{ if strings.HasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Name }}</a></li>
+                    {{- end -}}
+                    {{- end -}}
+                </ul>
+            </section>
+
+            <section class="footer-column footer-connect">
+                <h3>{{ i18n "contact" | default "Contact" }}</h3>
+                <a class="footer-email" href="mailto:{{ $footer.contactEmail }}">
+                    <i class="fas fa-envelope" aria-hidden="true"></i>
+                    {{ $footer.contactEmail }}
+                </a>
+                <div class="footer-social-wrapper">
+                    <span class="follow-me">{{ i18n "follow_me" | default "Follow Me" }}</span>
+                    <div class="social-icons social-icons--circle social-icons--footer">
+                        {{ range $footer.social }}
+                        <a class="social-icon-link" data-brand="{{ partial "brand_slug.html" .icon }}" href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name | default .url }}">
+                            <i class="{{ .icon }}" aria-hidden="true"></i>
+                        </a>
+                        {{ end }}
+                    </div>
                 </div>
-            </div>
-        </section>
+            </section>
+        </div>
     </div>
 
     <div class="footer-bottom">
@@ -298,3 +342,15 @@
         }, 3000);
     };
 </script>
+
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- $hasNotes := gt (len (where site.RegularPages "Section" $notesSection)) 0 -}}
+{{- if $hasNotes -}}
+{{- $relativeTime := resources.Get "js/note-relative-time.js" | js.Build | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting -}}
+{{- $relativeTime = $relativeTime | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $relativeTime.RelPermalink }}" integrity="{{ $relativeTime.Data.Integrity }}"></script>
+{{- else -}}
+<script defer crossorigin="anonymous" src="{{ $relativeTime.RelPermalink }}"></script>
+{{- end -}}
+{{- end -}}

@@ -9,6 +9,9 @@
   </p>
 
   {{ partial "note_entry.html" (dict "page" . "standalone" true) }}
+  {{ partial "webmentions.html" . }}
 </article>
+
+{{- partial "note_scripts.html" . -}}
 
 {{- end }}

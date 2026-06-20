@@ -1,0 +1,36 @@
+{{- $page := . -}}
+{{- $inReplyTo := $page.Param "inReplyTo" -}}
+{{- $relatedPost := or ($page.Param "relatedPost") ($page.Param "related") -}}
+{{- if or $inReplyTo $relatedPost -}}
+<aside class="note-links" aria-label="{{ i18n "note_links" | default "Note links" }}">
+  {{- with $inReplyTo }}
+  {{- $resolved := partial "note_resolve_url.html" (dict "url" .) }}
+  <p class="note-links-item note-links-item--reply">
+    <i class="fa-solid fa-reply" aria-hidden="true"></i>
+    <span>{{ i18n "note_in_reply_to" | default "In reply to" }}</span>
+    <a href="{{ $resolved.href }}">
+      {{- with $resolved.page -}}
+        {{- partial "note_display_title.html" . -}}
+      {{- else -}}
+        {{ $resolved.raw }}
+      {{- end -}}
+    </a>
+  </p>
+  {{- end }}
+
+  {{- with $relatedPost }}
+  {{- $resolved := partial "note_resolve_url.html" (dict "url" .) }}
+  <p class="note-links-item note-links-item--related">
+    <i class="fa-solid fa-newspaper" aria-hidden="true"></i>
+    <span>{{ i18n "note_related_post" | default "Related article" }}</span>
+    <a href="{{ $resolved.href }}">
+      {{- with $resolved.page -}}
+        {{ .Title }}
+      {{- else -}}
+        {{ $resolved.raw }}
+      {{- end -}}
+    </a>
+  </p>
+  {{- end }}
+</aside>
+{{- end -}}

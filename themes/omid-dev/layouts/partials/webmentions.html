@@ -1,0 +1,23 @@
+<div class="comments-container note-webmentions-wrap">
+  <section class="webmentions-container" data-webmentions="{{ .Permalink }}"
+    data-label-likes="{{ i18n "webmentions_likes" | default "likes" }}"
+    data-label-reposts="{{ i18n "webmentions_reposts" | default "reposts" }}"
+    data-label-mentions="{{ i18n "webmentions_mentions" | default "mentions" }}"
+    data-label-empty="{{ i18n "no_webmentions" | default "No replies yet." }}"
+    data-label-loading="{{ i18n "webmentions_loading" | default "Loading replies…" }}">
+    <header class="webmentions-header">
+      <h3>{{ i18n "webmentions_title" | default "Reactions & replies" }}</h3>
+      <div class="webmentions-stats" data-webmentions-stats></div>
+      <div class="webmentions-facepile" data-webmentions-facepile></div>
+    </header>
+    <div class="webmentions-list" data-webmentions-list></div>
+  </section>
+</div>
+
+{{- $webmentions := resources.Get "js/note-webmentions.js" | js.Build | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $webmentions = $webmentions | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $webmentions.RelPermalink }}" integrity="{{ $webmentions.Data.Integrity }}"></script>
+{{- else }}
+<script defer crossorigin="anonymous" src="{{ $webmentions.RelPermalink }}"></script>
+{{- end }}

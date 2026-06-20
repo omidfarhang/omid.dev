@@ -23,16 +23,19 @@
     </div>
   </header>
 
-  {{- $pages := .RegularPages.ByDate.Reverse }}
-  {{- if gt (len $pages) 0 }}
+  {{- $paginator := .Paginator }}
+  {{- if gt (len $paginator.Pages) 0 }}
   <div class="notes-feed" role="feed" aria-label="{{ i18n "notes" | default "Notes" }}">
-    {{- range $pages }}
+    {{- range $paginator.Pages }}
     {{ partial "note_entry.html" (dict "page" .) }}
     {{- end }}
   </div>
+  {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
   {{- else }}
   <p class="notes-empty panel panel--tinted">{{ i18n "notes_empty" | default "No notes yet." }}</p>
   {{- end }}
 </div>
+
+{{- partial "note_scripts.html" . -}}
 
 {{- end }}

@@ -1,0 +1,18 @@
+{{- /* Resolve a front-matter URL/path to an absolute href and optional page. */ -}}
+{{- $raw := .url -}}
+{{- $href := $raw -}}
+{{- $page := false -}}
+
+{{- if or (hasPrefix $raw "http://") (hasPrefix $raw "https://") -}}
+  {{- $href = $raw -}}
+{{- else -}}
+  {{- $path := strings.TrimPrefix "/" $raw -}}
+  {{- $page = site.GetPage $path -}}
+  {{- if $page -}}
+    {{- $href = $page.Permalink -}}
+  {{- else -}}
+    {{- $href = $raw | absLangURL -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return (dict "href" $href "page" $page "raw" $raw) -}}
