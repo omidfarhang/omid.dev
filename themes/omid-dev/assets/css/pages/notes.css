@@ -116,7 +116,7 @@
     margin-bottom: var(--space-3);
     padding: var(--space-3);
     border-radius: var(--radius-md);
-    background: var(--surface-gradient-tinted);
+    background: var(--surface-tint);
     border: 1px solid var(--accent-border-soft);
 }
 
@@ -266,9 +266,6 @@ a.note-entry-date:hover {
 .note-entry--standalone {
     padding: var(--space-6);
     border-color: var(--accent-border-soft);
-    background:
-        radial-gradient(ellipse 70% 50% at 50% 0%, var(--hero-glow-soft), transparent 60%),
-        var(--surface-gradient-hero);
 }
 
 .note-single {
