@@ -260,6 +260,24 @@
 - id: search
   translation: "Search"
 
+- id: search_scope_label
+  translation: "Search in"
+
+- id: search_scope_site
+  translation: "Site"
+
+- id: search_scope_notes
+  translation: "Notes"
+
+- id: search_loading
+  translation: "Loading search index…"
+
+- id: search_loading_notes
+  translation: "Loading notes index…"
+
+- id: search_empty
+  translation: "No results found."
+
 - id: page_not_found
   translation: "Oops! The page you're looking for doesn't exist."
 

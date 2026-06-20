@@ -1,0 +1,16 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- range where site.RegularPages "Section" $notesSection -}}
+    {{- $summary := .Content | plainify | htmlUnescape | strings.TrimSpace -}}
+    {{- if gt (len $summary) 500 -}}
+        {{- $summary = $summary | truncate 500 "…" -}}
+    {{- end -}}
+    {{- $.Scratch.Add "index" (dict
+        "title" (partial "note_display_title.html" . | plainify | htmlUnescape)
+        "permalink" .Permalink
+        "summary" $summary
+        "date" .Date
+        "section" $notesSection
+    ) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

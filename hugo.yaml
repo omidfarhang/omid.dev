@@ -388,7 +388,7 @@ params:
   mainSections:
     - posts
 
-  # Short-form notes — excluded from main RSS, search index, related posts, and per-note sitemaps
+  # Short-form notes — own search index and RSS; excluded from main search, main RSS, related posts, and per-note sitemaps
   notesSection: notes
   notesPerPage: 20
   notesIndexMaxChars: 420
@@ -498,6 +498,11 @@ outputFormats:
   SitemapTags:
     mediaType: application/xml
     baseName: sitemap-tags
+    isPlainText: true
+    notAlternative: true
+  NotesIndex:
+    mediaType: application/json
+    baseName: search-index
     isPlainText: true
     notAlternative: true
   SitemapPostsLang:

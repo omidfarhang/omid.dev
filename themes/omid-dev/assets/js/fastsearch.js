@@ -4,24 +4,32 @@ import { escapeHtml, prepareDisplayText } from './text-utils.js';
 
 const configEl = document.getElementById('search-config');
 const config = (() => {
-    if (!configEl) return { locale: 'en', labels: {} };
+    if (!configEl) return { locale: 'en', labels: {}, indexes: { site: '../index.json' } };
     try {
         let parsed = JSON.parse(configEl.textContent.trim());
         if (typeof parsed === 'string') parsed = JSON.parse(parsed);
         return parsed;
     } catch (error) {
         console.error(error);
-        return { locale: 'en', labels: {} };
+        return { locale: 'en', labels: {}, indexes: { site: '../index.json' } };
     }
 })();
 const labels = config.labels || {};
 const locale = config.locale || document.documentElement.lang || 'en';
+const indexUrls = config.indexes || { site: '../index.json' };
+const notesSection = 'notes';
 
-let fuse;
-let searchData = [];
+let fuseByScope = { site: null, notes: null };
+let searchDataByScope = { site: [], notes: [] };
+let indexLoaded = { site: false, notes: false };
+let indexLoading = { site: false, notes: false };
+let currentScope = 'site';
+
 let resList = document.getElementById('searchResults');
 let sInput = document.getElementById('searchInput');
 let sLoading = document.getElementById('searchLoading');
+let sLoadingText = document.getElementById('searchLoadingText');
+let scopeInputs = document.querySelectorAll('input[name="searchScope"]');
 let first, last, current_elem = null;
 let resultsAvailable = false;
 let searchTimeout = null;
@@ -47,8 +55,9 @@ function showResults(html) {
     resList.innerHTML = html;
 }
 
-function showLoading() {
+function showLoading(message) {
     if (!sLoading) return;
+    if (sLoadingText && message) sLoadingText.textContent = message;
     sLoading.hidden = false;
     sLoading.classList.remove('is-hidden');
 }
@@ -59,66 +68,153 @@ function hideLoading() {
     sLoading.classList.add('is-hidden');
 }
 
-// load our search index
+function buildFuseOptions() {
+    const defaultKeys = [
+        { name: 'title', weight: 3 },
+        { name: 'tags', weight: 2 },
+        { name: 'summary', weight: 1 },
+    ];
+    const noteKeys = [
+        { name: 'summary', weight: 3 },
+        { name: 'title', weight: 1 },
+    ];
+
+    let options = {
+        distance: 100,
+        threshold: 0.2,
+        ignoreLocation: true,
+        includeScore: true,
+        keys: defaultKeys,
+    };
+
+    if (params.fuseOpts) {
+        options = {
+            isCaseSensitive: params.fuseOpts.iscasesensitive ?? false,
+            includeScore: true,
+            includeMatches: params.fuseOpts.includematches ?? false,
+            minMatchCharLength: params.fuseOpts.minmatchcharlength ?? 2,
+            shouldSort: params.fuseOpts.shouldsort ?? true,
+            findAllMatches: params.fuseOpts.findallmatches ?? false,
+            keys: params.fuseOpts.keys ?? defaultKeys,
+            location: params.fuseOpts.location ?? 0,
+            threshold: params.fuseOpts.threshold ?? 0.2,
+            distance: params.fuseOpts.distance ?? 100,
+            ignoreLocation: params.fuseOpts.ignorelocation ?? true,
+        };
+    }
+
+    return { site: options, notes: { ...options, keys: noteKeys } };
+}
+
+const fuseOptions = buildFuseOptions();
+
+function loadIndex(scope) {
+    return new Promise((resolve, reject) => {
+        if (indexLoaded[scope]) {
+            resolve(searchDataByScope[scope]);
+            return;
+        }
+        if (indexLoading[scope]) {
+            const wait = () => {
+                if (indexLoaded[scope]) resolve(searchDataByScope[scope]);
+                else if (!indexLoading[scope]) reject(new Error(`Failed to load ${scope} index`));
+                else setTimeout(wait, 50);
+            };
+            wait();
+            return;
+        }
+
+        const url = indexUrls[scope];
+        if (!url) {
+            reject(new Error(`Missing index URL for scope: ${scope}`));
+            return;
+        }
+
+        indexLoading[scope] = true;
+        const xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState !== 4) return;
+            indexLoading[scope] = false;
+            if (xhr.status === 200) {
+                try {
+                    const data = JSON.parse(xhr.responseText) || [];
+                    searchDataByScope[scope] = data;
+                    fuseByScope[scope] = new Fuse(data, fuseOptions[scope]);
+                    indexLoaded[scope] = true;
+                    resolve(data);
+                } catch (error) {
+                    reject(error);
+                }
+            } else {
+                reject(new Error(xhr.responseText || `HTTP ${xhr.status}`));
+            }
+        };
+        xhr.open('GET', url);
+        xhr.send();
+    });
+}
+
+function ensureScopeIndex(scope) {
+    const loadingMessage = scope === 'notes'
+        ? (labels.loadingNotes || labels.loading || 'Loading notes index…')
+        : (labels.loading || 'Loading search index…');
+    showLoading(loadingMessage);
+    return loadIndex(scope)
+        .then((data) => {
+            hideLoading();
+            return data;
+        })
+        .catch((error) => {
+            hideLoading();
+            console.error(error);
+            return [];
+        });
+}
+
+function setScope(scope, { updateUrl = true, rerun = true } = {}) {
+    if (!indexUrls[scope]) scope = 'site';
+    currentScope = scope;
+
+    scopeInputs.forEach((input) => {
+        input.checked = input.value === scope;
+    });
+
+    if (updateUrl) {
+        const url = new URL(window.location);
+        if (scope === 'notes') url.searchParams.set('scope', 'notes');
+        else url.searchParams.delete('scope');
+        window.history.replaceState({}, '', url);
+    }
+
+    if (rerun && sInput.value.trim()) {
+        executeSearch(sInput.value.trim());
+    }
+}
+
 window.onload = function () {
     const urlParams = new URLSearchParams(window.location.search);
     const query = urlParams.get('q');
+    const scope = urlParams.get('scope') === 'notes' ? 'notes' : 'site';
 
-    if (query) {
-        sInput.value = query;
-    }
+    if (query) sInput.value = query;
+    if (scope === 'notes') setScope('notes', { updateUrl: false, rerun: false });
 
-    showLoading();
-
-    let xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4) {
-            hideLoading();
-            if (xhr.status === 200) {
-                let data = JSON.parse(xhr.responseText);
-                if (data) {
-                    searchData = data;
-                    const defaultKeys = [
-                        { name: 'title', weight: 3 },
-                        { name: 'tags', weight: 2 },
-                        { name: 'summary', weight: 1 },
-                    ];
-                    let options = {
-                        distance: 100,
-                        threshold: 0.2,
-                        ignoreLocation: true,
-                        includeScore: true,
-                        keys: defaultKeys,
-                    };
-                    if (params.fuseOpts) {
-                        options = {
-                            isCaseSensitive: params.fuseOpts.iscasesensitive ?? false,
-                            includeScore: true,
-                            includeMatches: params.fuseOpts.includematches ?? false,
-                            minMatchCharLength: params.fuseOpts.minmatchcharlength ?? 2,
-                            shouldSort: params.fuseOpts.shouldsort ?? true,
-                            findAllMatches: params.fuseOpts.findallmatches ?? false,
-                            keys: params.fuseOpts.keys ?? defaultKeys,
-                            location: params.fuseOpts.location ?? 0,
-                            threshold: params.fuseOpts.threshold ?? 0.2,
-                            distance: params.fuseOpts.distance ?? 100,
-                            ignoreLocation: params.fuseOpts.ignorelocation ?? true
-                        };
-                    }
-                    fuse = new Fuse(data, options);
-
-                    const currentQuery = sInput.value || query;
-                    if (currentQuery) {
-                        executeSearch(currentQuery);
-                    }
-                }
-            } else {
-                console.log(xhr.responseText);
-            }
+    ensureScopeIndex('site').then(() => {
+        if (scope === 'notes') {
+            return ensureScopeIndex('notes');
         }
-    };
-    xhr.open('GET', '../index.json');
-    xhr.send();
+        return null;
+    }).then(() => {
+        const currentQuery = sInput.value || query;
+        if (currentQuery) executeSearch(currentQuery);
+    });
+
+    scopeInputs.forEach((input) => {
+        input.addEventListener('change', () => {
+            if (!input.checked) return;
+            setScope(input.value);
+        });
+    });
 };
 
 function activeToggle(ae) {
@@ -128,7 +224,7 @@ function activeToggle(ae) {
     if (ae) {
         ae.focus();
         document.activeElement = current_elem = ae;
-        const card = ae.closest('.post-entry');
+        const card = ae.closest('.post-entry, .note-search-entry');
         if (card) card.classList.add('focus');
     }
 }
@@ -195,13 +291,15 @@ function searchIndex(term) {
     const query = term.trim().toLowerCase();
     if (!query) return [];
 
+    const data = searchDataByScope[currentScope] || [];
+    const fuse = fuseByScope[currentScope];
     const variants = queryVariants(query);
-    const variantMatches = searchData.filter((item) => textIncludesVariant(getSearchableText(item), variants));
+    const variantMatches = data.filter((item) => textIncludesVariant(getSearchableText(item), variants));
 
     if (variantMatches.length > 0) {
         return variantMatches
             .map((item) => ({ item, score: rankMatch(item, variants) }))
-            .sort((a, b) => a.score - b.score || a.item.title.localeCompare(b.item.title));
+            .sort((a, b) => a.score - b.score || (a.item.title || '').localeCompare(b.item.title || ''));
     }
 
     if (!fuse) return [];
@@ -220,16 +318,21 @@ function executeSearch(term) {
         return;
     }
 
-    if (searchData.length > 0) {
+    ensureScopeIndex(currentScope).then((data) => {
+        if (!data.length && term.trim() !== '') {
+            allResults = [];
+            resultsAvailable = false;
+            hideResults();
+            updateURL(term);
+            return;
+        }
+
         allResults = searchIndex(term);
         currentPage = 1;
         resultsAvailable = allResults.length !== 0;
         renderResults();
         updateURL(term);
-    } else {
-        showLoading();
-        updateURL(term);
-    }
+    });
 }
 
 function updateURL(term) {
@@ -239,6 +342,8 @@ function updateURL(term) {
     } else {
         url.searchParams.delete('q');
     }
+    if (currentScope === 'notes') url.searchParams.set('scope', 'notes');
+    else url.searchParams.delete('scope');
     window.history.replaceState({}, '', url);
 }
 
@@ -288,6 +393,40 @@ function renderPostCard(result) {
             </div>
         </article>
     `;
+}
+
+function renderNoteCard(result) {
+    const permalink = result.permalink || '#';
+    const summaryText = prepareDisplayText(result.summary || result.title || '');
+    const date = result.date || '';
+    const noteLabel = labels.notes || 'Notes';
+
+    let dateMeta = '';
+    if (date) {
+        const dateObj = new Date(date);
+        dateMeta = `<time datetime="${escapeHtml(date)}" class="note-search-date">${escapeHtml(dateFormatter.format(dateObj))}</time>`;
+    }
+
+    const body = summaryText
+        ? `<div class="note-search-body"><p>${escapeHtml(summaryText)}</p></div>`
+        : '';
+
+    return `
+        <article class="card card--interactive note-search-entry">
+            <a class="note-search-link" href="${escapeHtml(permalink)}" aria-label="${escapeHtml(noteLabel)}">
+                <header class="note-search-header">
+                    <span class="note-search-label">${escapeHtml(noteLabel)}</span>
+                    ${dateMeta}
+                </header>
+                ${body}
+            </a>
+        </article>
+    `;
+}
+
+function renderResultCard(result) {
+    if (result.section === notesSection) return renderNoteCard(result);
+    return renderPostCard(result);
 }
 
 function renderPagination(totalPages) {
@@ -387,17 +526,18 @@ function renderResults() {
     const end = Math.min(start + resultsPerPage, totalResults);
     const pageResults = allResults.slice(start, end);
     const summaryLabel = `${labels.showing || 'Showing'} ${start + 1}–${end} ${labels.of || 'of'} ${totalResults}`;
-    const cards = pageResults.map((item) => renderPostCard(item.item)).join('');
+    const cards = pageResults.map((item) => renderResultCard(item.item)).join('');
+    const gridClass = currentScope === 'notes' ? 'search-notes-grid' : 'posts-grid search-post-grid';
 
     showResults(`
         <div class="search-results-header">
             <span class="chip chip--stat search-results-count">${escapeHtml(summaryLabel)}</span>
         </div>
-        <div class="posts-grid search-post-grid">${cards}</div>
+        <div class="${gridClass}">${cards}</div>
         ${renderPagination(totalPages)}
     `);
 
-    const articles = resList.querySelectorAll('.post-entry');
+    const articles = resList.querySelectorAll('.post-entry, .note-search-entry');
     if (articles.length > 0) {
         first = articles[0];
         last = articles[articles.length - 1];
@@ -409,7 +549,6 @@ function renderResults() {
     bindPagination(totalPages);
 }
 
-// execute search as each character is typed
 sInput.onkeyup = function () {
     if (searchTimeout) {
         clearTimeout(searchTimeout);
@@ -424,7 +563,6 @@ sInput.addEventListener('search', function () {
     if (!this.value) reset();
 });
 
-// kb bindings
 document.onkeydown = function (e) {
     let key = e.key;
     let ae = document.activeElement;
@@ -447,23 +585,24 @@ document.onkeydown = function (e) {
     } else if (key === 'ArrowDown') {
         e.preventDefault();
         if (ae === sInput) {
-            activeToggle(first.querySelector('.entry-link'));
+            const link = first.querySelector('.entry-link, .note-search-link');
+            activeToggle(link);
         } else {
-            const card = ae.closest('.post-entry');
+            const card = ae.closest('.post-entry, .note-search-entry');
             const nextCard = card && card.nextElementSibling;
             if (nextCard) {
-                activeToggle(nextCard.querySelector('.entry-link'));
+                activeToggle(nextCard.querySelector('.entry-link, .note-search-link'));
             }
         }
     } else if (key === 'ArrowUp') {
         e.preventDefault();
-        const card = ae.closest('.post-entry');
+        const card = ae.closest('.post-entry, .note-search-entry');
         if (card === first) {
             activeToggle(sInput);
         } else if (card) {
             const prevCard = card.previousElementSibling;
             if (prevCard) {
-                activeToggle(prevCard.querySelector('.entry-link'));
+                activeToggle(prevCard.querySelector('.entry-link, .note-search-link'));
             }
         }
     } else if (key === 'ArrowRight') {

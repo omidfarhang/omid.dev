@@ -260,6 +260,24 @@
 - id: search
   translation: "جستجو"
 
+- id: search_scope_label
+  translation: "جستجو در"
+
+- id: search_scope_site
+  translation: "سایت"
+
+- id: search_scope_notes
+  translation: "یادداشت‌ها"
+
+- id: search_loading
+  translation: "در حال بارگذاری ایندکس جستجو…"
+
+- id: search_loading_notes
+  translation: "در حال بارگذاری ایندکس یادداشت‌ها…"
+
+- id: search_empty
+  translation: "نتیجه‌ای یافت نشد."
+
 - id: page_not_found
   translation: "اوه! صفحه‌ای که به دنبال آن هستید وجود ندارد."
 

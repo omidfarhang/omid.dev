@@ -22,11 +22,21 @@
 </header>
 
 <div id="searchbox" class="searchbox">
+    <div class="search-scope" role="radiogroup" aria-label="{{ i18n "search_scope_label" | default "Search in" }}">
+        <label class="search-scope-option">
+            <input type="radio" name="searchScope" value="site" checked>
+            <span>{{ i18n "search_scope_site" | default "Site" }}</span>
+        </label>
+        <label class="search-scope-option">
+            <input type="radio" name="searchScope" value="notes">
+            <span>{{ i18n "search_scope_notes" | default "Notes" }}</span>
+        </label>
+    </div>
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
-    <div id="searchLoading" class="loading loading--panel" role="status">
+    <div id="searchLoading" class="loading loading--panel" role="status" hidden>
         <div class="spinner spinner--lg" aria-hidden="true"></div>
-        <span>{{ i18n "search_loading" | default "Loading search index…" }}</span>
+        <span id="searchLoadingText">{{ i18n "search_loading" | default "Loading search index…" }}</span>
     </div>
 </div>
 </div>{{/* end page-content */}}
@@ -34,6 +44,8 @@
 <div id="searchResults" class="search-results posts-list-content" aria-live="polite" hidden></div>
 
 <script type="application/json" id="search-config">
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- $notesIndexPage := site.GetPage $notesSection -}}
 {{- $searchLabels := dict
   "showing" (i18n "archive_showing" | default "Showing")
   "of" (i18n "archive_of" | default "of")
@@ -45,8 +57,17 @@
   "pagination" (i18n "pagination" | default "Pagination")
   "empty" (i18n "search_empty" | default "No results found.")
   "loading" (i18n "search_loading" | default "Loading search index…")
+  "loadingNotes" (i18n "search_loading_notes" | default "Loading notes index…")
+  "notes" (i18n "notes" | default "Notes")
 -}}
-{{- $searchConfig := dict "locale" (.Language.Lang | default "en") "labels" $searchLabels -}}
+{{- $searchConfig := dict
+  "locale" (.Language.Lang | default "en")
+  "labels" $searchLabels
+  "indexes" (dict
+    "site" "../index.json"
+    "notes" (printf "%ssearch-index.json" ($notesIndexPage.RelPermalink | default "/notes/"))
+  )
+-}}
 {{ $searchConfig | jsonify }}
 </script>
 

@@ -257,6 +257,24 @@
 - id: search
   translation: "Suche"
 
+- id: search_scope_label
+  translation: "Suchen in"
+
+- id: search_scope_site
+  translation: "Website"
+
+- id: search_scope_notes
+  translation: "Notizen"
+
+- id: search_loading
+  translation: "Suchindex wird geladen…"
+
+- id: search_loading_notes
+  translation: "Notizen-Index wird geladen…"
+
+- id: search_empty
+  translation: "Keine Ergebnisse gefunden."
+
 - id: page_not_found
   translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
 

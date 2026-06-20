@@ -1,6 +1,10 @@
 ---
 title: "Notes"
 description: Short thoughts and quick notes — not full blog posts.
+outputs:
+  - HTML
+  - RSS
+  - NotesIndex
 cascade:
   params:
     ShowBreadCrumbs: false
