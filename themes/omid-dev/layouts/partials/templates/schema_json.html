@@ -47,7 +47,7 @@
 {
   "@context": "https://schema.org",
   "@type": "SocialMediaPosting",
-  "headline": {{ .Title | plainify | jsonify }},
+  "headline": {{ partial "note_display_title.html" . | plainify | jsonify }},
   "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | jsonify }},
   "author": {
     "@type": "Person",

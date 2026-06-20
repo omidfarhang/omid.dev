@@ -1,0 +1,6 @@
+{{- /* Auto label for notes — derived from date, not front matter title */ -}}
+{{- with .Date -}}
+{{- .Format "Jan 2, 2006 · 15:04" -}}
+{{- else -}}
+{{- i18n "notes" | default "Note" -}}
+{{- end -}}

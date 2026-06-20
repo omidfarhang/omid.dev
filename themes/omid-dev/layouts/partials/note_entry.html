@@ -19,7 +19,7 @@
             {{ $page.Date.Format "Jan 2, 2006 · 15:04" }}
           </time>
           {{- else }}
-          <a class="note-entry-date" href="{{ $page.Permalink }}" title="{{ $page.Title | plainify }}">
+          <a class="note-entry-date" href="{{ $page.Permalink }}">
             <time datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}">
               {{ $page.Date.Format "Jan 2, 2006 · 15:04" }}
             </time>
@@ -30,15 +30,6 @@
           <span class="chip chip--pill note-entry-draft">{{ i18n "draft" | default "Draft" }}</span>
           {{- end }}
         </div>
-        {{- if and (not ($page.Param "hideTitle")) $page.Title }}
-        <h2 class="note-entry-title">
-          {{- if $standalone -}}
-          {{ $page.Title }}
-          {{- else -}}
-          <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
-          {{- end -}}
-        </h2>
-        {{- end }}
       </header>
 
       {{- if $page.Content }}

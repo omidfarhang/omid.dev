@@ -11,7 +11,6 @@ cascade:
     ShowWordCount: false
     comments: false
     hideMeta: true
-    hideTitle: true
     minimalSEO: true
     searchHidden: true
 ---

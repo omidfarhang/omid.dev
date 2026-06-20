@@ -86,23 +86,6 @@ a.note-entry-date:hover {
     font-size: var(--text-ui-xs);
 }
 
-.note-entry-title {
-    margin: var(--space-2) 0 0;
-    font-size: var(--text-title-sm);
-    line-height: var(--leading-snug);
-    font-weight: var(--font-bold);
-    color: var(--primary);
-}
-
-.note-entry-title a {
-    color: inherit;
-    text-decoration: none;
-}
-
-.note-entry-title a:hover {
-    color: var(--accent);
-}
-
 .note-entry-body {
     color: var(--content);
     font-size: var(--text-prose-body);
