@@ -187,6 +187,10 @@
     flex: 1 1 auto;
 }
 
+.footer-connect .footer-email {
+    margin-bottom: var(--space-5);
+}
+
 .footer-connect .footer-social-wrapper {
     margin-top: auto;
 }
@@ -314,7 +318,7 @@
 }
 
 .footer-email {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     gap: var(--space-3);
     width: 100%;
