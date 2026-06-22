@@ -1,9 +1,8 @@
 {{- $relatedNote := .Param "relatedNote" -}}
-{{- if not $relatedNote }}{{ return }}{{ end -}}
+{{- if $relatedNote -}}
 {{- $resolved := partial "note_resolve_url.html" (dict "url" $relatedNote) -}}
 {{- $notePage := $resolved.page -}}
-{{- if not $notePage }}{{ return }}{{ end -}}
-
+{{- if $notePage -}}
 <section class="post-note-link" aria-label="{{ i18n "post_related_note" | default "Originated from note" }}">
   <p class="post-note-link-label">
     <i class="fa-solid fa-note-sticky" aria-hidden="true"></i>
@@ -11,3 +10,5 @@
   </p>
   {{ partial "note_entry.html" (dict "page" $notePage "embedded" true) }}
 </section>
+{{- end -}}
+{{- end -}}
