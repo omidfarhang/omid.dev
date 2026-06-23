@@ -19,6 +19,13 @@ seeAlso:
 ---
 In the dynamic world of web development, ensuring the resilience and reliability of frontend applications has become increasingly critical. As user expectations soar and application complexity grows, developers must adopt robust strategies to maintain high-quality, fault-tolerant systems. Enter Chaos Engineering — a discipline traditionally associated with backend systems and infrastructure, now making significant inroads into frontend development.
 
+{{< companion
+  repo="omidfarhang/example-projects"
+  path="chaos-resilience-lab"
+  demoSlug="chaos-resilience-lab"
+  description="Inject slow APIs, 503 errors, corrupt cache, and double-clicks — compare fragile vs resilient checkout live."
+>}}
+
 This guide explores how applying Chaos Engineering principles to frontend applications can uncover hidden weaknesses, improve user experience under failure, and help teams build web applications that degrade gracefully instead of breaking silently.
 
 ## Understanding Chaos Engineering
