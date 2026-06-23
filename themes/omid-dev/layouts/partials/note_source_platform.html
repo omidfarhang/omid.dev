@@ -1,0 +1,27 @@
+{{- /* Map an external post URL to a Font Awesome brand icon and short label. */ -}}
+{{- $url := .url -}}
+{{- $icon := "fa-solid fa-arrow-up-right-from-square" -}}
+{{- $label := i18n "note_source" | default "Original post" -}}
+
+{{- with urls.Parse $url -}}
+  {{- $host := .Host | lower -}}
+  {{- $path := .Path -}}
+  {{- if or (eq $host "x.com") (eq $host "twitter.com") (hasSuffix $host ".twitter.com") -}}
+    {{- $icon = "fa-brands fa-x-twitter" -}}
+    {{- $label = "X" -}}
+  {{- else if or (eq $host "bsky.app") (hasSuffix $host ".bsky.app") -}}
+    {{- $icon = "fa-brands fa-bluesky" -}}
+    {{- $label = "Bluesky" -}}
+  {{- else if or (eq $host "threads.net") (hasSuffix $host ".threads.net") -}}
+    {{- $icon = "fa-brands fa-threads" -}}
+    {{- $label = "Threads" -}}
+  {{- else if or (strings.Contains $host "mastodon") (findRE `^/@[^/]+/\d+` $path) -}}
+    {{- $icon = "fa-brands fa-mastodon" -}}
+    {{- $label = "Mastodon" -}}
+  {{- else if or (eq $host "linkedin.com") (hasSuffix $host ".linkedin.com") -}}
+    {{- $icon = "fa-brands fa-linkedin" -}}
+    {{- $label = "LinkedIn" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return (dict "icon" $icon "label" $label) -}}

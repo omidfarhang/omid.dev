@@ -524,6 +524,12 @@
 - id: open_note
   translation: "Notiz öffnen"
 
+- id: note_source
+  translation: "Originalbeitrag"
+
+- id: note_source_on
+  translation: "Original auf {{ .platform }}"
+
 - id: permalink
   translation: "Permalink"
 

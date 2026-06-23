@@ -1,8 +1,17 @@
 {{- $page := .page -}}
 {{- $standalone := .standalone | default false -}}
 {{- $permalink := $page.Permalink -}}
+{{- $source := or ($page.Param "source") ($page.Param "sourceUrl") -}}
 
 <div class="note-actions">
+  {{- with $source }}
+  {{- $platform := partial "note_source_platform.html" (dict "url" .) }}
+  <a class="note-action note-action--source" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer"
+    title="{{ i18n "note_source_on" (dict "platform" $platform.label) | default (printf "Original on %s" $platform.label) }}"
+    aria-label="{{ i18n "note_source_on" (dict "platform" $platform.label) | default (printf "Original on %s" $platform.label) }}">
+    <i class="{{ $platform.icon }}" aria-hidden="true"></i>
+  </a>
+  {{- end }}
   <button type="button" class="note-action note-action--copy" data-copy-url="{{ $permalink }}"
     title="{{ i18n "copy_link" | default "Copy link" }}"
     aria-label="{{ i18n "copy_link" | default "Copy link" }}">

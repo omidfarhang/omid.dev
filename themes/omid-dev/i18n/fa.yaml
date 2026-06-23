@@ -509,6 +509,12 @@
 - id: open_note
   translation: "باز کردن یادداشت"
 
+- id: note_source
+  translation: "پست اصلی"
+
+- id: note_source_on
+  translation: "نسخه اصلی در {{ .platform }}"
+
 - id: permalink
   translation: "پیوند مستقیم"
 
