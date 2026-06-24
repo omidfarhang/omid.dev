@@ -14,8 +14,12 @@ tags:
   - Chaos Testing
 categories:
   - TechBlog
-seeAlso:
-  - /2024/06/06/chaos-engineering/
+series:
+  id: chaos-engineering
+  title: "Chaos Engineering"
+  order: 2
+  label: "Chaos Engineering for Frontend Applications"
+  role: part
 ---
 In the dynamic world of web development, ensuring the resilience and reliability of frontend applications has become increasingly critical. As user expectations soar and application complexity grows, developers must adopt robust strategies to maintain high-quality, fault-tolerant systems. Enter Chaos Engineering — a discipline traditionally associated with backend systems and infrastructure, now making significant inroads into frontend development.
 

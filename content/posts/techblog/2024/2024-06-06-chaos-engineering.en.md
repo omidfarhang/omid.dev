@@ -19,8 +19,12 @@ tags:
 
 categories:
   - TechBlog
-seeAlso:
-  - /2024/07/01/chaos-engineering-in-frontend-development/
+series:
+  id: chaos-engineering
+  title: "Chaos Engineering"
+  order: 1
+  label: "Chaos Engineering for Backend and Infrastructure"
+  role: part
 ---
 Distributed systems fail in ways unit tests never simulate. A replica set lags behind, a dependency times out under load, a deployment rolls out to half the cluster before someone notices the new health check is wrong. Monitoring tells you something broke after the fact. Load tests tell you how the system behaves when everything is working but busy. Chaos engineering asks a sharper question: *when this specific component fails, does the rest of the system absorb it?*
 
