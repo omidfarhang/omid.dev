@@ -9,11 +9,15 @@
   {{- $path := strings.TrimPrefix "/" $raw -}}
   {{- $page = site.GetPage $path -}}
   {{- if not $page -}}
-    {{- range site.AllPages -}}
-      {{- $pageUrl := .Param "url" | default "" -}}
-      {{- if or (eq $path $pageUrl) (eq (printf "/%s" $pageUrl) $raw) -}}
-        {{- $page = . -}}
-        {{- break -}}
+    {{- range hugo.Sites -}}
+      {{- if not $page -}}
+        {{- range .RegularPages -}}
+          {{- $pageUrl := .Param "url" | default "" -}}
+          {{- if or (eq $path $pageUrl) (eq (printf "/%s" $pageUrl) $raw) -}}
+            {{- $page = . -}}
+            {{- break -}}
+          {{- end -}}
+        {{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
