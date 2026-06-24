@@ -6,6 +6,7 @@ description: "Run backend chaos experiments with steady-state hypotheses, failur
 layout: single
 author_profile: true
 url: 2024/07/07/chaos-engineering-backend-and-infrastructure/
+shortlink: https://g.omid.dev/UhhOJIL
 tags:
   - Chaos Engineering
   - System Resilience
