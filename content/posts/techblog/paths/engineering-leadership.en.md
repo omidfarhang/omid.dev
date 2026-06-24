@@ -11,11 +11,11 @@ build:
 
 For tech leads, architects, and senior engineers who want practical guidance on skills, communication, and the judgment calls that shape teams — beyond pure technical depth.
 
-## Essential skills series
+## Essential skills
 
-Start with the overview, then read the role-specific deep dives in order:
+Pick the guide that matches your role — each stands alone:
 
-1. **[Essential Skills for a Senior Frontend Developer](/2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/)** — Anchor post: the baseline skills that separate senior frontend engineers from the rest.
+1. **[Essential Skills for a Senior Frontend Developer](/2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/)** — The baseline skills that separate senior frontend engineers from the rest.
 2. **[Essential Skills for a Senior Full-Stack Developer](/2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/)** — What changes when you own the full stack.
 3. **[Essential Skills for a Frontend Team Leader](/2024/05/24/essential-skills-for-a-frontend-team-leader/)** — Leadership skills on top of senior engineering craft.
 
@@ -27,10 +27,10 @@ Start with the overview, then read the role-specific deep dives in order:
 
 ## Essays and architecture judgment
 
-7. **[The Ethics of Legacy Code](/2025/12/27/ethics-of-legacy-code/)** — Why rewriting is often the wrong answer — and what to do instead.
-8. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
-9. **[The Engineer’s Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
+7. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
+8. **[The Engineer’s Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
+9. **[The Zoom-Out: Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/)** — When 15 years of depth meets the tooling you never had time to learn.
 
 ## Related series
 
-- **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology, ethics, and ecosystem blind spots (3 posts).
+- **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2 posts).

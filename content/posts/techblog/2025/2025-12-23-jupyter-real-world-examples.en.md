@@ -24,7 +24,7 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 3
+  order: 2
   label: "Part 3: Real-World Code Examples"
   role: part
 ---

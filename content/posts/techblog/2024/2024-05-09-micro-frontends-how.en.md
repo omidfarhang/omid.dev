@@ -19,7 +19,7 @@ categories:
 series:
   id: micro-frontends
   title: "Micro Frontends"
-  order: 2
+  order: 1
   label: "Micro Frontends: How?"
   role: part
 ---

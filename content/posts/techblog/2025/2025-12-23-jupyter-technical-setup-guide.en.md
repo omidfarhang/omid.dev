@@ -24,7 +24,7 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 2
+  order: 1
   label: "Part 2: The Technical Guide to Jupyter Setup"
   role: part
 ---

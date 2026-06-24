@@ -28,7 +28,7 @@ categories:
 series:
   id: linux-desktop-lab
   title: "Linux Desktop Lab"
-  order: 3
+  order: 2
   label: "Memory Compression on Linux"
   role: part
 seeAlso:

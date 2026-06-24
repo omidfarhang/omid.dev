@@ -26,9 +26,9 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 1
+  order: 0
   label: "Teil 1: Der strategische Wert des Denkens in Notebooks"
-  role: part
+  role: anchor
 ---
 
 Wenn Sie aus einem traditionellen Software-Engineering-Hintergrund kommen (Frontend, Backend, Systeme), haben Sie **Project Jupyter** wahrscheinlich schon überall gesehen, von Notebooks und Erweiterungen bis hin zu Cloud-Plattformen, und sich gedacht:

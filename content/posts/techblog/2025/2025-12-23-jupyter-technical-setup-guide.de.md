@@ -24,7 +24,7 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 2
+  order: 1
   label: "Teil 2: Der technische Leitfaden zur Jupyter-Einrichtung"
   role: part
 ---

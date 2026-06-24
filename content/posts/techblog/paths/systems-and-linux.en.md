@@ -13,12 +13,15 @@ For frontend leads who want to understand the machines their apps run on — des
 
 ## Linux Desktop Lab series
 
-Start with the anchor, then follow the lab notes in order:
+Start with the anchor, then follow the lab notes in order (3 posts):
 
 1. **[Ubuntu, Manjaro, and the Linux Desktop](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/)** — Why I rethought my desktop stack and what I learned comparing distros.
 2. **[Your Desktop Is Fast — Why Does It Still Stutter?](/2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/)** — Building a tiny app to explain desktop stutter on Linux.
-3. **[How to Install Cursor IDE on Manjaro](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)** — Practical setup notes for a modern editor on Arch-based distros.
-4. **[Memory Compression on Linux](/2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/)** — zswap, zram, and what “free memory” actually means.
+3. **[Memory Compression on Linux](/2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/)** — zswap, zram, and what “free memory” actually means.
+
+## Tools and setup
+
+4. **[How to Install Cursor IDE on Manjaro](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)** — Practical setup notes for a modern editor on Arch-based distros.
 
 ## Containers and orchestration
 
@@ -30,6 +33,7 @@ Start with the anchor, then follow the lab notes in order:
 7. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr`.
 8. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
 
-## Related series
+## Observability reads
 
-- **[Observability](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — OpenTelemetry in Angular and debugging distributed systems (2 posts).
+- **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
+- **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.

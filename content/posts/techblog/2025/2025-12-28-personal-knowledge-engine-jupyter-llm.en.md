@@ -23,7 +23,7 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 4
+  order: 3
   label: "Part 4: Building a Personal Knowledge Engine"
   role: part
 seeAlso:

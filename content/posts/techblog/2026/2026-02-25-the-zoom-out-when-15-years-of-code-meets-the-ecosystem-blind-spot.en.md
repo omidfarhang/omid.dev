@@ -20,12 +20,6 @@ tags:
 
 categories:
   - TechBlog
-series:
-  id: legacy-and-modernization
-  title: "Legacy and Modernization"
-  order: 2
-  label: "The Zoom-Out: Ecosystem Blind Spot"
-  role: part
 seeAlso:
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
   - /2025/12/27/ethics-of-legacy-code/

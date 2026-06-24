@@ -24,7 +24,7 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 3
+  order: 2
   label: "Teil 3: Praxisbeispiele aus der echten Welt"
   role: part
 ---

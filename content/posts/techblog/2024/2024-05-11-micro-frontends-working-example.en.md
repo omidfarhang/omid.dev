@@ -19,7 +19,7 @@ categories:
 series:
   id: micro-frontends
   title: "Micro Frontends"
-  order: 3
+  order: 2
   label: "Micro Frontends: Working Example"
   role: part
 seriesNav:

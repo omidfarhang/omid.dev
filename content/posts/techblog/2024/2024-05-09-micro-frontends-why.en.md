@@ -19,9 +19,9 @@ categories:
 series:
   id: micro-frontends
   title: "Micro Frontends"
-  order: 1
+  order: 0
   label: "Micro Frontends: Why?"
-  role: part
+  role: anchor
 ---
 Micro frontends is an architectural pattern for building web applications as a composition of loosely coupled, independently deployable frontend modules. It extends the principles of microservices to the frontend, allowing teams to develop, deploy, and scale parts of the user interface independently. In essence, micro frontends break down a large, monolithic frontend application into smaller, more manageable pieces, each with its own technology stack, development team, and deployment pipeline.
 

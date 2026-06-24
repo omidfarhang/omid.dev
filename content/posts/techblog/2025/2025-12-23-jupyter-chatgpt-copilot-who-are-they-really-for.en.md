@@ -26,9 +26,9 @@ categories:
 series:
   id: jupyter-copilot
   title: "Jupyter, ChatGPT, Copilot"
-  order: 1
+  order: 0
   label: "Part 1: The Strategic Value of Thinking in Notebooks"
-  role: part
+  role: anchor
 ---
 
 If you come from a traditional software engineering background (frontend, backend, systems), chances are you’ve seen **Project Jupyter** everywhere, from notebooks and extensions to cloud platforms, and thought:
