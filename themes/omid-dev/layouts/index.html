@@ -139,6 +139,43 @@
     {{- end }}
 
     <div class="home-section home-discovery-grid">
+    {{- partial "get_all_series.html" . -}}
+    {{- $allSeries := .Scratch.Get "allSeriesList" -}}
+    {{- if and $allSeries site.Params.homeFeaturedSeries }}
+    <section class="home-section home-active-series panel panel--tinted panel--xl home-panel" aria-labelledby="home-active-series-title">
+        <div class="section-header-row home-active-series-header">
+            <div>
+                <p class="section-eyebrow">{{ i18n "series_eyebrow" }}</p>
+                <h2 id="home-active-series-title" class="section-title section-title--compact">{{ i18n "active_series_title" }}</h2>
+            </div>
+            <a class="section-header-link home-active-series-link" href="{{ relLangURL "/series/" }}">
+                {{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_series" }}{{ else }}{{ i18n "view_all_series" }} →{{ end }}
+            </a>
+        </div>
+        {{- partial "series_cards.html" (dict
+            "series" $allSeries
+            "featuredIds" site.Params.homeFeaturedSeries
+            "compact" true
+            "className" "series-cards--home"
+        ) }}
+    </section>
+    {{- end }}
+
+    <section class="home-section home-reading-paths panel panel--tinted panel--xl home-panel" aria-labelledby="home-reading-paths-title">
+        <div class="section-header-row home-reading-paths-header">
+            <div>
+                <p class="section-eyebrow">{{ i18n "reading_paths_eyebrow" }}</p>
+                <h2 id="home-reading-paths-title" class="section-title section-title--compact">{{ i18n "reading_paths_title" }}</h2>
+            </div>
+            {{- with site.GetPage "posts/techblog" }}
+            <a class="section-header-link home-reading-paths-link" href="{{ .Permalink }}">
+                {{ if eq $.Language.Direction "rtl" }}← {{ .Title }}{{ else }}{{ .Title }} →{{ end }}
+            </a>
+            {{- end }}
+        </div>
+        {{- partial "reading_path_cards.html" . }}
+    </section>
+
     <div class="panel panel--tinted panel--xl home-panel home-discovery-panel">
     {{- partial "tech_topics_grid.html" (dict
         "showFeatured" false

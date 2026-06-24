@@ -406,12 +406,12 @@ body.dark .card--promo {
 }
 
 /* Post series navigation */
-/* Series index page */
+/* Series cards (index, TechBlog strip, home featured) */
 .series-index-section {
     margin: var(--space-8) 0 var(--space-10);
 }
 
-.series-index-card {
+.series-card {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -419,11 +419,19 @@ body.dark .card--promo {
     padding: var(--space-6);
 }
 
-.series-index-card .icon-circle {
+.series-card .icon-circle {
     margin-bottom: var(--space-4);
 }
 
-.series-index-card h3 {
+.series-card__body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    min-width: 0;
+}
+
+.series-card h3 {
     margin: 0 0 var(--space-2);
     font-size: var(--text-lg);
     color: var(--primary);
@@ -431,7 +439,7 @@ body.dark .card--promo {
     text-align: left;
 }
 
-.series-index-card__count {
+.series-card__count {
     margin: 0 0 var(--space-2);
     font-size: var(--text-caption-sm);
     font-weight: 600;
@@ -439,7 +447,7 @@ body.dark .card--promo {
     text-align: left;
 }
 
-.series-index-card__desc {
+.series-card__desc {
     margin: 0 0 var(--space-4);
     font-size: var(--text-caption-sm);
     color: var(--secondary);
@@ -447,10 +455,38 @@ body.dark .card--promo {
     text-align: left;
 }
 
-.series-index-card .card__cta {
+.series-card .card__cta {
     font-size: var(--text-caption-sm);
     font-weight: 600;
     color: var(--accent);
+}
+
+.series-grid--compact {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.series-card--compact {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: var(--space-4);
+    padding: var(--space-5);
+}
+
+.series-card--compact .icon-circle {
+    margin-bottom: 0;
+    flex-shrink: 0;
+}
+
+.series-card--compact h3 {
+    font-size: var(--text-title-md);
+}
+
+.series-card--compact .series-card__count {
+    margin-bottom: var(--space-1);
+}
+
+.series-card--compact .card__cta {
+    margin-top: var(--space-1);
 }
 
 .series-nav--intro {

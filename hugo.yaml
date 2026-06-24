@@ -445,6 +445,12 @@ params:
     - Security
     - Data & AI
 
+  # Featured multi-part series on the home page (must match Params.series.id)
+  homeFeaturedSeries:
+    - modern-angular
+    - bio-dynamics-lab
+    - frontend-testing
+
   displayFullLangName: true
   comments: true
   ShowReadingTime: true

@@ -425,6 +425,12 @@
 - id: series_index_heading
   translation: "All series"
 
+- id: series_index_title
+  translation: "Series"
+
+- id: active_series_title
+  translation: "Active series"
+
 - id: series_index_post_count
   translation: "{{ .Count }} posts"
 

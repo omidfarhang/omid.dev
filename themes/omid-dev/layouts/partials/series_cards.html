@@ -1,0 +1,40 @@
+{{- $seriesList := .series | default slice -}}
+{{- $featuredIds := .featuredIds | default slice -}}
+{{- if gt (len $featuredIds) 0 -}}
+  {{- $filtered := slice -}}
+  {{- range $featuredIds -}}
+    {{- $wantId := . -}}
+    {{- range $seriesList -}}
+      {{- if eq .id $wantId -}}
+        {{- $filtered = $filtered | append . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $seriesList = $filtered -}}
+{{- end -}}
+{{- $limit := .limit | default 0 -}}
+{{- if gt $limit 0 -}}
+  {{- $seriesList = first $limit $seriesList -}}
+{{- end -}}
+{{- if eq (len $seriesList) 0 }}{{ return }}{{ end -}}
+{{- $compact := .compact | default false -}}
+
+<div class="series-grid topics-grid{{ if $compact }} series-grid--compact{{ end }}{{ with .className }} {{ . }}{{ end }}">
+  {{- range $seriesList }}
+  <a href="{{ .anchor.RelPermalink }}" class="card card--interactive card--topic card--accent series-card{{ if $compact }} series-card--compact card--horizontal{{ end }}">
+    <span class="icon-circle icon-circle--{{ if $compact }}sm{{ else }}md{{ end }}">
+      <i class="fa-solid fa-layer-group" aria-hidden="true"></i>
+    </span>
+    <span class="series-card__body">
+      <h3>{{ .title }}</h3>
+      <p class="series-card__count">{{ i18n "series_index_post_count" (dict "Count" .count) }}</p>
+      {{- if not $compact }}
+      {{- with .description }}
+      <p class="series-card__desc">{{ . | plainify | truncate 140 }}</p>
+      {{- end }}
+      {{- end }}
+      <span class="card__cta">{{ i18n "series_index_start_reading" }} →</span>
+    </span>
+  </a>
+  {{- end }}
+</div>

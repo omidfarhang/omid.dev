@@ -127,7 +127,7 @@
       <h2 id="tech-series-strip-title" class="section-title section-title--page">{{ i18n "series_index_heading" }}</h2>
       <a href="{{ relLangURL "/series/" }}" class="hub-section__link">{{ i18n "view_all_series" }} →</a>
     </div>
-    {{- partial "series_index_cards.html" (dict "series" $allSeries "limit" 6) }}
+    {{- partial "series_cards.html" (dict "series" $allSeries "limit" 6) }}
   </section>
 
   {{- partial "tech_topics_grid.html" (dict

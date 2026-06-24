@@ -440,6 +440,12 @@
 - id: series_index_heading
   translation: "Alle Serien"
 
+- id: series_index_title
+  translation: "Serien"
+
+- id: active_series_title
+  translation: "Aktive Serien"
+
 - id: series_index_post_count
   translation: "{{ .Count }} Beiträge"
 

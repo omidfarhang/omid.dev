@@ -425,6 +425,12 @@
 - id: series_index_heading
   translation: "همه مجموعه‌ها"
 
+- id: series_index_title
+  translation: "مجموعه‌ها"
+
+- id: active_series_title
+  translation: "مجموعه‌های فعال"
+
 - id: series_index_post_count
   translation: "{{ .Count }} پست"
 
