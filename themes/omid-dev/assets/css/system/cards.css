@@ -406,6 +406,53 @@ body.dark .card--promo {
 }
 
 /* Post series navigation */
+/* Series index page */
+.series-index-section {
+    margin: var(--space-8) 0 var(--space-10);
+}
+
+.series-index-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: var(--space-6);
+}
+
+.series-index-card .icon-circle {
+    margin-bottom: var(--space-4);
+}
+
+.series-index-card h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+    color: var(--primary);
+    line-height: var(--leading-snug);
+    text-align: left;
+}
+
+.series-index-card__count {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-caption-sm);
+    font-weight: 600;
+    color: var(--accent);
+    text-align: left;
+}
+
+.series-index-card__desc {
+    margin: 0 0 var(--space-4);
+    font-size: var(--text-caption-sm);
+    color: var(--secondary);
+    line-height: var(--leading-normal);
+    text-align: left;
+}
+
+.series-index-card .card__cta {
+    font-size: var(--text-caption-sm);
+    font-weight: 600;
+    color: var(--accent);
+}
+
 .series-nav--intro {
     margin: 0 0 var(--space-5);
     color: var(--secondary);

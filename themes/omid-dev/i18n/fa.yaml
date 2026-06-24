@@ -422,6 +422,51 @@
 - id: series_intro_also
   translation: "دیگر بخش‌های این مجموعه:"
 
+- id: series_index_heading
+  translation: "همه مجموعه‌ها"
+
+- id: series_index_post_count
+  translation: "{{ .Count }} پست"
+
+- id: series_index_start_reading
+  translation: "شروع مطالعه"
+
+- id: reading_paths_title
+  translation: "از اینجا شروع کنید"
+
+- id: reading_paths_eyebrow
+  translation: "مسیر مطالعه"
+
+- id: reading_path_view
+  translation: "مشاهده مسیر"
+
+- id: reading_path_angular_title
+  translation: "پلتفرم Angular"
+
+- id: reading_path_angular_desc
+  translation: "Signals، فرم‌ها، الگوهای migration و ابزار پلتفرم برای توسعه‌دهندگان ارشد Angular."
+
+- id: reading_path_leadership_title
+  translation: "رهبری مهندسی"
+
+- id: reading_path_leadership_desc
+  translation: "مهارت‌های ضروری، مهارت‌های نرم و مقالات درباره رهبری تیم و معماری."
+
+- id: reading_path_systems_title
+  translation: "سیستم‌ها و Linux"
+
+- id: reading_path_systems_desc
+  translation: "دسکتاپ Linux، کانتینرها، شبکه و اتوماسیون shell برای لیدهای فرانت‌اند علاقه‌مند به infra."
+
+- id: view_all_series
+  translation: "همه مجموعه‌ها"
+
+- id: back_to_techblog
+  translation: "بازگشت به تک‌بلاگ"
+
+- id: recent_highlights
+  translation: "هایلایت‌های اخیر"
+
 - id: see_also_title
   translation: "همچنین ببینید"
 

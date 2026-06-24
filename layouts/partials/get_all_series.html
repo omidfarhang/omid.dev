@@ -1,0 +1,43 @@
+{{- $page := . -}}
+{{- $lang := $page.Lang -}}
+{{- $withPages := where site.RegularPages "Params.series.id" "!=" nil -}}
+{{- $pages := where $withPages "Lang" $lang -}}
+{{- $scratch := newScratch -}}
+
+{{- range $pages -}}
+  {{- $id := .Params.series.id -}}
+  {{- if not ($scratch.Get $id) -}}
+    {{- $seriesPages := where (where $withPages "Params.series.id" $id) "Lang" $lang -}}
+    {{- $seriesPages = sort $seriesPages "Params.series.order" "asc" -}}
+    {{- $anchor := false -}}
+    {{- range $seriesPages -}}
+      {{- if eq (.Params.series.role | default "part") "anchor" -}}
+        {{- $anchor = . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not $anchor -}}
+      {{- $anchor = index $seriesPages 0 -}}
+    {{- end -}}
+    {{- $title := $anchor.Params.series.title | default $id -}}
+    {{- $description := $anchor.Description | default "" -}}
+    {{- if not $description -}}
+      {{- $description = $anchor.Summary | default "" -}}
+    {{- end -}}
+    {{- $scratch.Set $id (dict
+      "id" $id
+      "title" $title
+      "pages" $seriesPages
+      "anchor" $anchor
+      "count" (len $seriesPages)
+      "description" $description
+      "date" $anchor.Date
+    ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $seriesList := slice -}}
+{{- range $scratch.Values -}}
+  {{- $seriesList = $seriesList | append . -}}
+{{- end -}}
+{{- $seriesList = sort $seriesList "date" "desc" -}}
+{{- $page.Scratch.Set "allSeriesList" $seriesList -}}

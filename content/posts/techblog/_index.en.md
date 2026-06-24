@@ -1,6 +1,7 @@
 ---
 title: TechBlog
-
+description: Frontend architecture, Angular platform work, engineering leadership, and Linux systems — organized into reading paths and ordered series.
 hidemeta: true
 ---
-Join me as I explore the fascinating world of technology. This TechBlog is where I share my knowledge and insights on topics like Linux, frontend and backend development, and more. Whether you're a beginner or an experienced tech enthusiast, there's something here for you.
+
+Writing on Angular platform engineering, software architecture, team leadership, and the Linux desktop. Pick a reading path or series below, browse topics by tag, or scroll the chronological archive.

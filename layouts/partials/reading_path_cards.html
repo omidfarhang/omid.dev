@@ -1,0 +1,35 @@
+{{- $paths := slice
+  (dict
+    "url" "/posts/techblog/paths/angular-platform/"
+    "title" (i18n "reading_path_angular_title")
+    "description" (i18n "reading_path_angular_desc")
+    "icon" "fa-brands fa-angular"
+  )
+  (dict
+    "url" "/posts/techblog/paths/engineering-leadership/"
+    "title" (i18n "reading_path_leadership_title")
+    "description" (i18n "reading_path_leadership_desc")
+    "icon" "fa-solid fa-people-group"
+  )
+  (dict
+    "url" "/posts/techblog/paths/systems-and-linux/"
+    "title" (i18n "reading_path_systems_title")
+    "description" (i18n "reading_path_systems_desc")
+    "icon" "fa-solid fa-terminal"
+  )
+-}}
+
+<div class="reading-paths-grid topics-grid">
+  {{- range $paths }}
+  <a href="{{ .url | relLangURL }}" class="card card--interactive card--horizontal card--accent reading-path-card">
+    <span class="icon-circle icon-circle--md">
+      <i class="{{ .icon }}" aria-hidden="true"></i>
+    </span>
+    <span class="reading-path-card__body">
+      <h3>{{ .title }}</h3>
+      <p>{{ .description }}</p>
+      <span class="card__cta">{{ i18n "reading_path_view" }} →</span>
+    </span>
+  </a>
+  {{- end }}
+</div>

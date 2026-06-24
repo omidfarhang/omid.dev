@@ -115,6 +115,21 @@
     </aside>
   </div>
 {{- else if $isTechSection }}
+  <section class="hub-section reading-paths-section" aria-labelledby="tech-reading-paths-title">
+    <h2 id="tech-reading-paths-title" class="section-title section-title--page">{{ i18n "reading_paths_title" }}</h2>
+    {{- partial "reading_path_cards.html" . }}
+  </section>
+
+  {{- partial "get_all_series.html" . -}}
+  {{- $allSeries := .Scratch.Get "allSeriesList" -}}
+  <section class="hub-section series-strip-section" aria-labelledby="tech-series-strip-title">
+    <div class="hub-section__header">
+      <h2 id="tech-series-strip-title" class="section-title section-title--page">{{ i18n "series_index_heading" }}</h2>
+      <a href="{{ relLangURL "/series/" }}" class="hub-section__link">{{ i18n "view_all_series" }} →</a>
+    </div>
+    {{- partial "series_index_cards.html" (dict "series" $allSeries "limit" 6) }}
+  </section>
+
   {{- partial "tech_topics_grid.html" (dict
     "showFeatured" false
     "showCoreStack" true
@@ -137,7 +152,11 @@
 {{- end }}
 
 {{- if not $isPostsRoot }}
-{{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" .Title) }}
+{{- $listTitle := .Title }}
+{{- if $isTechSection }}
+  {{- $listTitle = i18n "recent_highlights" }}
+{{- end }}
+{{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" $listTitle) }}
 {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
 {{- end }}
 

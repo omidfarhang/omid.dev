@@ -1,0 +1,50 @@
+{{- define "main" }}
+
+{{- partial "get_all_series.html" . -}}
+{{- $allSeries := .Scratch.Get "allSeriesList" -}}
+
+<div class="posts-list-content">
+<header class="page-hero--contained panel--hero-gradient page-hero--section">
+  <nav class="breadcrumbs" aria-label="breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="{{ "" | absLangURL }}">
+          <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+        <span itemprop="name" aria-current="page">{{ .Title }}</span>
+        <meta itemprop="position" content="2" />
+      </li>
+    </ol>
+  </nav>
+  <div class="page-hero-inner">
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- $lead := .Description }}
+    {{- if not $lead }}
+      {{- with .Content }}
+      {{- $lead = . | plainify }}
+      {{- end }}
+    {{- end }}
+    {{- if $lead }}
+    <p class="page-hero-lead">{{ $lead }}</p>
+    {{- end }}
+  </div>
+</header>
+
+{{- if .Content }}
+<div class="post-content posts-intro-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+<section class="series-index-section" aria-labelledby="series-index-title">
+  <h2 id="series-index-title" class="section-title section-title--page">{{ i18n "series_index_heading" }}</h2>
+  {{- partial "series_index_cards.html" (dict "series" $allSeries) }}
+</section>
+</div>
+
+{{- end }}{{/* end main */}}

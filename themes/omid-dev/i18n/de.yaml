@@ -437,6 +437,51 @@
 - id: series_intro_also
   translation: "Weitere Teile dieser Serie:"
 
+- id: series_index_heading
+  translation: "Alle Serien"
+
+- id: series_index_post_count
+  translation: "{{ .Count }} Beiträge"
+
+- id: series_index_start_reading
+  translation: "Jetzt lesen"
+
+- id: reading_paths_title
+  translation: "Start hier"
+
+- id: reading_paths_eyebrow
+  translation: "Lesepfad"
+
+- id: reading_path_view
+  translation: "Pfad ansehen"
+
+- id: reading_path_angular_title
+  translation: "Angular Platform"
+
+- id: reading_path_angular_desc
+  translation: "Signals, Forms, Migration und Platform-Tooling für Senior Angular-Entwickler."
+
+- id: reading_path_leadership_title
+  translation: "Engineering Leadership"
+
+- id: reading_path_leadership_desc
+  translation: "Essential Skills, Soft Skills und Essays über Team- und Architektur-Führung."
+
+- id: reading_path_systems_title
+  translation: "Systems & Linux"
+
+- id: reading_path_systems_desc
+  translation: "Linux Desktop, Container, Networking und Shell-Automation für infra-neugierige Frontend-Leads."
+
+- id: view_all_series
+  translation: "Alle Serien"
+
+- id: back_to_techblog
+  translation: "Zurück zum TechBlog"
+
+- id: recent_highlights
+  translation: "Neueste Highlights"
+
 - id: see_also_title
   translation: "Siehe auch"
 

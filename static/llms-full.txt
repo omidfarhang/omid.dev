@@ -13,6 +13,9 @@ Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ ye
 |---------|-----|-------|
 | Home | https://omid.dev/ | Profile, featured posts, topic tags |
 | Posts | https://omid.dev/posts/ | Tech blog archive (~1800+ posts, mostly English) |
+| TechBlog hub | https://omid.dev/posts/techblog/ | Reading paths, series highlights, chronological archive |
+| Series index | https://omid.dev/series/ | All ordered post series (overview + deep dives) |
+| Reading paths | https://omid.dev/posts/techblog/paths/ | Curated lists: Angular Platform, Engineering Leadership, Systems & Linux |
 | Categories | https://omid.dev/categories/ | Taxonomy |
 | Tags | https://omid.dev/tags/ | Taxonomy |
 | About | https://omid.dev/about-me/ | Bio and background |

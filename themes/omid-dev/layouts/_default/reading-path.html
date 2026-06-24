@@ -1,0 +1,33 @@
+{{- define "main" }}
+
+<article class="post-single reading-path-page page-shell">
+  <header class="post-header reading-path-hero page-hero">
+    {{ partial "breadcrumbs.html" . }}
+    <div class="reading-path-hero-inner page-hero-inner">
+      <div class="reading-path-hero-copy page-hero-copy">
+        <p class="section-eyebrow">{{ i18n "reading_paths_eyebrow" }}</p>
+        <h1 class="post-title">{{ .Title }}</h1>
+        {{- with .Description }}
+        <p class="reading-path-lead page-hero-lead">{{ . }}</p>
+        {{- end }}
+      </div>
+    </div>
+  </header>
+
+  {{- if .Content }}
+  <div class="reading-path-content post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  <footer class="reading-path-footer">
+    <a href="{{ relLangURL "/series/" }}" class="chip chip--pill">{{ i18n "series_index_heading" }}</a>
+    {{- with site.GetPage "posts/techblog" }}
+    <a href="{{ .Permalink }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
+    {{- end }}
+  </footer>
+</article>
+
+{{- end }}{{/* end main */}}
