@@ -23,6 +23,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: frontend-testing
+  title: "Frontend Testing"
+  order: 1
+  label: "Why Your Frontend Tests Flake and How to Fix Them"
+  role: part
+seeAlso:
+  - /2024/05/29/a-comprehensive-guide-to-frontend-testing/
+  - /2026/06/09/how-to-build-a-frontend-testing-strategy-that-actually-scales/
 ---
 Flaky tests are worse than failing tests.
 

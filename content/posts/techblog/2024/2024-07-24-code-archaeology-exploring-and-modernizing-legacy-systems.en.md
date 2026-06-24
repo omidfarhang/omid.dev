@@ -17,6 +17,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: legacy-and-modernization
+  title: "Legacy and Modernization"
+  order: 0
+  label: "Code Archaeology: Exploring and Modernizing Legacy Systems"
+  role: anchor
+seeAlso:
+  - /2025/12/27/ethics-of-legacy-code/
+  - /2026/01/01/ship-of-theseus-react-to-angular/
+  - /2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/
 ---
 In the fast-paced world of software development, we often find ourselves standing on the shoulders of giants – or more accurately, on top of layers upon layers of legacy code. These aging systems, some decades old, continue to power critical infrastructure in industries ranging from finance to healthcare. While they may lack the glamour of cutting-edge technologies, these legacy systems are the bedrock of many organizations, silently processing millions of transactions every day.
 

@@ -24,6 +24,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2025/12/24/angular-signals-control-theory/
   - /2024/05/12/reusable-shared-module-in-angular/
   - /2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
   - /2024/06/03/building-custom-angular-schematics-automating-code-generation/

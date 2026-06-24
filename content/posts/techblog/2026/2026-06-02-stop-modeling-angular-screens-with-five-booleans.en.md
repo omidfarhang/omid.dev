@@ -21,10 +21,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: modern-angular
+  title: "Modern Angular"
+  order: 4
+  label: "Stop Modeling Angular Screens with Five Booleans"
+  role: part
 seeAlso:
+  - /2025/12/24/angular-signals-control-theory/
   - /2026/05/25/signal-forms-model-ui-state/
   - /2026/05/26/angular-template-syntax-hidden-cost/
-  - /2025/12/24/angular-signals-control-theory/
 ---
 Open almost any mature Angular screen and you will find the same shape:
 

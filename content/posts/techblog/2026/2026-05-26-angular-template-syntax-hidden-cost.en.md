@@ -21,6 +21,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: modern-angular
+  title: "Modern Angular"
+  order: 2
+  label: "The Hidden Cost of Angular Template Syntax"
+  role: part
+seeAlso:
+  - /2025/12/24/angular-signals-control-theory/
+  - /2026/06/02/stop-modeling-angular-screens-with-five-booleans/
 ---
 Every framework eventually discovers the same truth: developers love nice syntax until nice syntax becomes a hiding place.
 

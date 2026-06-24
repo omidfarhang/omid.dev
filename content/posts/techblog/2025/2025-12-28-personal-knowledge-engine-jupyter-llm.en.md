@@ -20,8 +20,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: jupyter-copilot
+  title: "Jupyter, ChatGPT, Copilot"
+  order: 4
+  label: "Part 4: Building a Personal Knowledge Engine"
+  role: part
 seeAlso:
   - /2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
+  - /2025/12/23/jupyter-technical-setup-guide/
+  - /2025/12/23/jupyter-real-world-examples/
 ---
 We've all used ChatGPT to write a function or debug a regex. But that's just the tip of the iceberg. The real power of Large Language Models (LLMs) isn't in the "chat"; it's in the integration. 
 

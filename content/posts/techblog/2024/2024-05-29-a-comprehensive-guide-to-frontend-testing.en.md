@@ -19,6 +19,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: frontend-testing
+  title: "Frontend Testing"
+  order: 0
+  label: "Frontend Testing: A Comprehensive Guide"
+  role: anchor
+seeAlso:
+  - /2026/06/08/why-your-frontend-tests-flake-and-how-to-fix-them-for-good/
+  - /2026/06/09/how-to-build-a-frontend-testing-strategy-that-actually-scales/
 ---
 Frontend testing is an essential aspect of modern web development, helping teams verify that applications behave as expected across browsers, devices, and user scenarios. This guide covers the main frontend testing categories, common tools, and practical planning steps you can use to build a healthier test suite.
 

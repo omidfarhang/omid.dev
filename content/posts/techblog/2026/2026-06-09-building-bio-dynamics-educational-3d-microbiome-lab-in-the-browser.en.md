@@ -24,6 +24,8 @@ series:
   order: 0
   label: "Building Bio-Dynamics: Overview"
   role: anchor
+seeAlso:
+  - /2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/
 ---
 I write a lot about Angular platforms, monorepos, and production frontends. Bio-Dynamics is different: a browser-only educational lab where you rotate a 3D body map, zoom into tissue, and run deterministic probiotic scenarios tied to health articles on [omid.dev](https://omid.dev).
 

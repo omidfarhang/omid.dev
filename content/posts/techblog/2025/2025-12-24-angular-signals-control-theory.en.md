@@ -19,8 +19,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: modern-angular
+  title: "Modern Angular"
+  order: 0
+  label: "Angular Signals and Control Theory"
+  role: anchor
 seeAlso:
+  - /2026/05/25/signal-forms-model-ui-state/
   - /2026/01/01/ship-of-theseus-react-to-angular/
+  - /2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/
 ---
 Angular Signals have changed the way we think about reactivity in the frontend. But if you step outside the world of JavaScript, the concept of a "Signal" has a much older, much deeper history in Control Theory and Electrical Engineering.
 

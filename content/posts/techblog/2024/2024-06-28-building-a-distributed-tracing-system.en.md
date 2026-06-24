@@ -21,10 +21,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: observability
+  title: "Observability"
+  order: 0
+  label: "OpenTelemetry in Angular: Distributed Tracing"
+  role: anchor
 seeAlso:
+  - /2025/12/26/debugging-radio-vs-microservices/
   - /2024/06/08/real-time-data-in-frontend-applications/
   - /2024/07/01/chaos-engineering-in-frontend-development/
-  - /2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/
 faq:
   - question: How do I add OpenTelemetry to an Angular application?
     answer: Install the OpenTelemetry Web SDK packages, configure a TracerProvider with an OTLP or Jaeger exporter, initialize tracing in main.ts before bootstrapping Angular, and instrument your HTTP interceptors and services so each request creates spans.

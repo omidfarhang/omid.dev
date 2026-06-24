@@ -20,6 +20,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: legacy-and-modernization
+  title: "Legacy and Modernization"
+  order: 2
+  label: "The Zoom-Out: Ecosystem Blind Spot"
+  role: part
+seeAlso:
+  - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
+  - /2025/12/27/ethics-of-legacy-code/
+  - /2026/01/01/ship-of-theseus-react-to-angular/
 ---
 It happened to me this morning. After 15 years in the trenches—building frontend architectures, dipping into the backend, leading teams, and surviving countless framework wars—I hit a wall. Not a technical wall, but a conceptual one.
 

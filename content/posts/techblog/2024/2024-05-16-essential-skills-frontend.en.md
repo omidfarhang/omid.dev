@@ -14,6 +14,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: essential-skills
+  title: "Essential Skills"
+  order: 0
+  label: "Essential Skills for a Senior Frontend Developer"
+  role: anchor
+seeAlso:
+  - /2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/
+  - /2024/05/24/essential-skills-for-a-frontend-team-leader/
 ---
 As the web development landscape continually evolves, a successful senior frontend developer must keep pace with both technological advancements and shifting industry standards. Here’s a comprehensive guide to the skills and knowledge areas essential for any senior frontend developer aiming to stay at the top of their game, divided into Technical Skills, Soft Skills, Best Practices and Concepts, and Advanced Topics.
 

@@ -19,6 +19,15 @@ tags:
   - AI Tools
 categories:
   - TechBlog
+series:
+  id: modern-angular
+  title: "Modern Angular"
+  order: 3
+  label: "Angular MCP Server and AI Workflows"
+  role: part
+seeAlso:
+  - /2025/12/24/angular-signals-control-theory/
+  - /2026/05/25/signal-forms-model-ui-state/
 ---
 Angular has always had a complicated relationship with tooling. People call it “heavy” when they want something lighter, but that same weight is often what helps large teams keep moving without reinventing the architecture every sprint.
 

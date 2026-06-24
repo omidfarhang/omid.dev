@@ -19,8 +19,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: legacy-and-modernization
+  title: "Legacy and Modernization"
+  order: 1
+  label: "The Ethics of Legacy Code"
+  role: part
 seeAlso:
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
+  - /2026/01/01/ship-of-theseus-react-to-angular/
+  - /2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/
 ---
 Every developer has been there: you inherit a codebase that looks like a bowl of spaghetti, and your first instinct is to say, "We need to rewrite this." You see the outdated libraries, the inconsistent naming conventions, and the lack of unit tests, and you think, "I could do this so much better from scratch."
 

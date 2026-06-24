@@ -15,6 +15,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: essential-skills
+  title: "Essential Skills"
+  order: 1
+  label: "Essential Skills for a Senior Full-Stack Developer"
+  role: part
+seeAlso:
+  - /2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/
+  - /2024/05/24/essential-skills-for-a-frontend-team-leader/
 ---
 We already talked about [latest trends for Angular Development](/2024/05/16/latest-trends-for-angular-developers-in-2024/) and then about [Essential Skills for a Frontend Developer](/2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/), but what if you want to grow your stack to backend too and become a full stack developer?
 

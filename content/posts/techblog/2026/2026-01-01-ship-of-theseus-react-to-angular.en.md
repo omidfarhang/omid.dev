@@ -20,9 +20,16 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: modern-angular
+  title: "Modern Angular"
+  order: 5
+  label: "Ship of Theseus: React to Angular Migration"
+  role: part
 seeAlso:
   - /2025/12/25/cost-of-consistency-design-systems/
   - /2025/12/24/angular-signals-control-theory/
+  - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
 ---
 In the software world, the "Ship of Theseus" paradox is a daily reality. We replace parts of a system until, eventually, none of the original code remains. But usually, the industry moves toward the "shiny new thing." 
 

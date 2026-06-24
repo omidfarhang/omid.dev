@@ -20,6 +20,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: modern-angular
+  title: "Modern Angular"
+  order: 1
+  label: "Signal Forms and UI State Modeling"
+  role: part
+seeAlso:
+  - /2025/12/24/angular-signals-control-theory/
+  - /2026/06/02/stop-modeling-angular-screens-with-five-booleans/
 ---
 Most forms discussions start in the wrong place. They compare syntax.
 

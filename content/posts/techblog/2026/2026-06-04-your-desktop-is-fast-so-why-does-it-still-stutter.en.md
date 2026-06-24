@@ -20,6 +20,15 @@ tags:
   - cgroups
 categories:
   - TechBlog
+series:
+  id: linux-desktop-lab
+  title: "Linux Desktop Lab"
+  order: 1
+  label: "Building a Tiny Linux App to Explain Desktop Stutter"
+  role: part
+seeAlso:
+  - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
+  - /2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/
 ---
 I wanted an excuse to build a small real Linux app.
 

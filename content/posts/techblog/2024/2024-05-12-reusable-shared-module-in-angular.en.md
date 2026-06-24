@@ -12,6 +12,11 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/
+  - /2024/05/09/micro-frontends-why/
+  - /2024/05/09/micro-frontends-how/
+  - /2024/05/11/micro-frontends-working-example/
 ---
 In Angular development, creating reusable shared modules is a powerful way to encapsulate common functionality, UI components, services, and styles that can be used across different projects or repositories. In this guide, we'll walk through the process of creating a reusable shared module from scratch, covering directory structures, component/service/directive creation, shared styles, and both development (`npm link`) and production (`npm publish`) use cases.
 

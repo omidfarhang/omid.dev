@@ -22,6 +22,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: frontend-testing
+  title: "Frontend Testing"
+  order: 2
+  label: "How to Build a Frontend Testing Strategy That Scales"
+  role: part
+seeAlso:
+  - /2024/05/29/a-comprehensive-guide-to-frontend-testing/
+  - /2026/06/08/why-your-frontend-tests-flake-and-how-to-fix-them-for-good/
 ---
 Most frontend teams do not have a testing problem because they lack tests. They have a testing problem because nobody can explain why a specific test exists.
 
