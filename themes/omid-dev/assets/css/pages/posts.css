@@ -234,6 +234,29 @@
     opacity: 0.7;
 }
 
+/* Hub detail pages — reading paths, series index */
+.reading-path-page .page-hero--contained,
+.series-index-page .page-hero--contained {
+    margin-bottom: var(--space-8);
+}
+
+.hub-page-body.post-single.page-shell {
+    border-color: var(--accent-border-soft);
+    border-radius: var(--radius-xl);
+}
+
+.hub-page-body > .article-body {
+    padding-bottom: var(--space-8);
+}
+
+.hub-page-body .series-index-section {
+    margin: 0;
+}
+
+.hub-page-body .post-content + .series-index-section {
+    margin-top: var(--space-8);
+}
+
 /* TechBlog hub — reading paths and series strip */
 .hub-section {
     margin-bottom: var(--space-10);

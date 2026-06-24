@@ -280,6 +280,8 @@
 
 .card__cta {
     display: inline-flex;
+    align-items: center;
+    justify-content: center;
     align-self: flex-start;
     margin-top: var(--space-3);
     padding: var(--space-2) var(--space-3);
@@ -419,6 +421,10 @@ body.dark .card--promo {
     padding: var(--space-6);
 }
 
+.series-card:not(.series-card--compact) {
+    height: 100%;
+}
+
 .series-card .icon-circle {
     margin-bottom: var(--space-4);
 }
@@ -429,6 +435,10 @@ body.dark .card--promo {
     align-items: flex-start;
     width: 100%;
     min-width: 0;
+}
+
+.series-card:not(.series-card--compact) .series-card__body {
+    flex: 1;
 }
 
 .series-card h3 {
@@ -448,11 +458,15 @@ body.dark .card--promo {
 }
 
 .series-card__desc {
-    margin: 0 0 var(--space-4);
+    margin: 0;
     font-size: var(--text-caption-sm);
     color: var(--secondary);
     line-height: var(--leading-normal);
     text-align: left;
+}
+
+.series-card:not(.series-card--compact) .card__cta {
+    margin-top: auto;
 }
 
 .series-card .card__cta {

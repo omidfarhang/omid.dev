@@ -1,67 +1,178 @@
-/* Curated reading path pages */
+/* Curated reading path pages — shell composes with .hub-page-body in posts.css */
 
-.reading-path-page.page-shell {
-    padding-top: 0;
-}
-
-.reading-path-hero.page-hero {
-    margin: 0 calc(-1 * var(--space-10)) var(--space-8);
-    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+.hub-page-body .reading-path-content {
+    padding-bottom: var(--space-6);
 }
 
 .reading-path-content {
-    padding: var(--space-6) var(--space-2) var(--space-4);
+    max-width: none;
 }
 
-.reading-path-content > p:first-child {
+.reading-path-content > p:first-of-type {
+    max-width: 65ch;
+    margin-bottom: var(--space-6);
     font-size: var(--text-lead);
-    color: var(--secondary);
     line-height: var(--leading-body);
+    color: var(--secondary);
 }
 
 .reading-path-content h2 {
-    margin-top: var(--space-8);
-    margin-bottom: var(--space-4);
-    font-size: var(--text-title-lg);
+    margin: var(--space-9) 0 var(--space-4);
+    font-size: var(--text-3xl);
+    font-weight: var(--font-extrabold);
+    color: var(--primary);
 }
 
-.reading-path-content ol {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+.reading-path-content h2:first-of-type {
+    margin-top: 0;
+}
+
+.reading-path-content h2 + p {
+    margin-bottom: var(--space-4);
+    color: var(--secondary);
+}
+
+/* Step cards — badge is absolute so title + description stay in one text flow */
+.reading-path-content ol,
+.reading-path-content ul {
     display: flex;
     flex-direction: column;
     gap: var(--space-3);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.reading-path-content ol {
+    counter-reset: path-step 0;
+}
+
+.reading-path-content ol[start="2"] { counter-reset: path-step 1; }
+.reading-path-content ol[start="3"] { counter-reset: path-step 2; }
+.reading-path-content ol[start="4"] { counter-reset: path-step 3; }
+.reading-path-content ol[start="5"] { counter-reset: path-step 4; }
+.reading-path-content ol[start="6"] { counter-reset: path-step 5; }
+.reading-path-content ol[start="7"] { counter-reset: path-step 6; }
+.reading-path-content ol[start="8"] { counter-reset: path-step 7; }
+.reading-path-content ol[start="9"] { counter-reset: path-step 8; }
+
+.reading-path-content ol li,
+.reading-path-content ul li {
+    position: relative;
+    padding: var(--space-5);
+    padding-inline-start: calc(var(--space-5) + 2.5rem + var(--space-4));
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+    font-size: var(--text-sm);
+    color: var(--secondary);
+    line-height: var(--leading-relaxed);
+    transition:
+        border-color var(--duration-fast) var(--ease-default),
+        box-shadow var(--duration-fast) var(--ease-default);
+}
+
+.reading-path-content ol li:hover,
+.reading-path-content ul li:hover {
+    border-color: var(--accent-border);
+    box-shadow: var(--shadow-md);
 }
 
 .reading-path-content ol li {
-    padding: var(--space-4) var(--space-5);
-    background: var(--quaternary);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    line-height: var(--leading-normal);
+    counter-increment: path-step;
 }
 
-.reading-path-content ol li strong a {
+.reading-path-content ol li::before,
+.reading-path-content ul li::before {
+    position: absolute;
+    inset-inline-start: var(--space-5);
+    top: var(--space-5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    flex-shrink: 0;
+    font-size: var(--text-ui-sm);
+    font-weight: var(--font-extrabold);
+    color: var(--accent);
+    background: var(--accent-light);
+    border: 1px solid var(--accent-border-soft);
+    border-radius: 50%;
+}
+
+.reading-path-content ol li::before {
+    content: counter(path-step);
+}
+
+.reading-path-content ul li::before {
+    content: "\f5fd";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+}
+
+.reading-path-content ol li strong,
+.reading-path-content ul li strong {
+    display: block;
+    margin-bottom: var(--space-1);
+}
+
+.reading-path-content ol li strong a,
+.reading-path-content ul li strong a {
     color: var(--primary);
-    font-weight: var(--font-bold);
+    font-size: var(--text-title-md);
+    font-weight: var(--font-extrabold);
+    line-height: var(--leading-snug);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.reading-path-content ol li strong a:hover,
+.reading-path-content ul li strong a:hover {
+    color: var(--accent);
+    box-shadow: none;
+}
+
+.reading-path-content a {
+    box-shadow: none;
+    text-decoration: none;
+}
+
+.reading-path-content a:hover {
+    box-shadow: none;
+}
+
+.reading-path-content ol li code,
+.reading-path-content ul li code {
+    font-size: 0.92em;
 }
 
 .reading-path-footer {
     display: flex;
     flex-wrap: wrap;
     gap: var(--space-3);
-    padding: var(--space-6) var(--space-2) var(--space-2);
+    margin: 0;
+    padding: var(--space-6) var(--space-10) var(--space-8);
     border-top: 1px solid var(--border);
-    margin-top: var(--space-6);
 }
 
 @media screen and (max-width: 768px) {
-    .reading-path-hero.page-hero {
-        margin: 0 calc(-1 * var(--space-6)) var(--space-6);
+    .reading-path-footer {
+        padding: var(--space-5) var(--space-6) var(--space-7);
     }
 
-    .reading-path-content {
-        padding: var(--space-4) 0;
+    .reading-path-content ol li,
+    .reading-path-content ul li {
+        padding: var(--space-4);
+        padding-inline-start: calc(var(--space-4) + 2.25rem + var(--space-3));
+    }
+
+    .reading-path-content ol li::before,
+    .reading-path-content ul li::before {
+        inset-inline-start: var(--space-4);
+        top: var(--space-4);
+        width: 2.25rem;
+        height: 2.25rem;
     }
 }
