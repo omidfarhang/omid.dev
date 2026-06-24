@@ -381,10 +381,6 @@
     display: none;
 }
 
-.recent-posts .post-entry--compact:last-child {
-    border-bottom: 1px solid var(--border);
-}
-
 .recent-posts .post-entry--compact:hover {
     box-shadow: var(--shadow-sm);
 }

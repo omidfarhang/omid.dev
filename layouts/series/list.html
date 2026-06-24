@@ -45,7 +45,7 @@
 
       <section class="series-index-section" aria-labelledby="series-index-title">
         <h2 id="series-index-title" class="section-title section-title--page">{{ i18n "series_index_heading" }}</h2>
-        {{- partial "series_cards.html" (dict "series" $allSeries) }}
+        {{- partial "series_cards.html" (dict "series" $allSeries "horizontal" true) }}
       </section>
     </div>
   </article>

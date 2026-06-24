@@ -74,37 +74,6 @@
     </section>
     {{- end }}
 
-    {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-    {{- $latest_posts := first 7 $pages }}
-
-    {{- if gt (len $latest_posts) 0 }}
-    {{- $featured := index $latest_posts 0 }}
-    {{- $more_posts := after 1 $latest_posts }}
-    <section class="home-section recent-posts panel panel--tinted panel--xl">
-        <h2 class="section-title section-title--underline">{{ i18n "recent_posts" }}</h2>
-
-        <div class="posts-showcase">
-            {{- partial "post_entry_card.html" (dict "page" $featured "featured" true) }}
-
-            {{- if gt (len $more_posts) 0 }}
-            <div class="posts-sidebar">
-                <h3 class="posts-sidebar-title">{{ i18n "home_more_posts" }}</h3>
-                {{- range $more_posts }}
-                {{- partial "post_entry_card.html" (dict "page" . "compact" true) }}
-                {{- end }}
-            </div>
-            {{- end }}
-        </div>
-
-        <div class="view-all">
-            <a class="btn btn--primary" href="{{ "posts" | relLangURL }}">
-                <span class="btn-inner">{{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_posts" }}{{ else }}{{ i18n "view_all_posts" }} →{{ end }}</span>
-            </a>
-        </div>
-    </section>
-    {{- end }}
-
     {{- $playground := $home.playground }}
     {{- $playgroundUrl := site.Params.playground.baseURL | default "https://playground.omid.dev" }}
     {{- if $playground }}
@@ -223,6 +192,37 @@
     {{- end }}
     {{- end }}
     </div>
+
+    {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+    {{- $latest_posts := first 7 $pages }}
+
+    {{- if gt (len $latest_posts) 0 }}
+    {{- $featured := index $latest_posts 0 }}
+    {{- $more_posts := after 1 $latest_posts }}
+    <section class="home-section recent-posts panel panel--tinted panel--xl">
+        <h2 class="section-title section-title--underline">{{ i18n "recent_posts" }}</h2>
+
+        <div class="posts-showcase">
+            {{- partial "post_entry_card.html" (dict "page" $featured "featured" true) }}
+
+            {{- if gt (len $more_posts) 0 }}
+            <div class="posts-sidebar">
+                <h3 class="posts-sidebar-title">{{ i18n "home_more_posts" }}</h3>
+                {{- range $more_posts }}
+                {{- partial "post_entry_card.html" (dict "page" . "compact" true) }}
+                {{- end }}
+            </div>
+            {{- end }}
+        </div>
+
+        <div class="view-all">
+            <a class="btn btn--primary" href="{{ "posts" | relLangURL }}">
+                <span class="btn-inner">{{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_posts" }}{{ else }}{{ i18n "view_all_posts" }} →{{ end }}</span>
+            </a>
+        </div>
+    </section>
+    {{- end }}
 
     <section class="home-section contact-cta panel panel--tinted panel--xl">
         <h2 class="section-title section-title--underline">{{ i18n "contact" }}</h2>
