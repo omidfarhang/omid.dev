@@ -23,7 +23,7 @@ seeAlso:
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
   - /2024/05/17/essential-skills-fullstack/
 ---
-In January I wrote about moving our frontend from AngularJS to Angular. That migration is still running — we are on **Angular 4** now, which shipped last month and turned out to be a painless bump from 2.4. The bigger shift landed on the backend: our APIs used to live in **Laravel**, and we are rewriting them in **Java** with **Spring Boot 1.5.3**.
+In January I wrote about moving our frontend from AngularJS to Angular. That migration is still running — we are on **Angular 4** now, which shipped in March and turned out to be a painless bump from 2.4. The bigger shift landed on the backend: our APIs used to live in **Laravel**, and we are rewriting them in **Java** with **Spring Boot 1.5.3**.
 
 This is my first real Java project. I have years of PHP — mostly Laravel — and a few months of TypeScript from the Angular work. I also wrote C# in college, which turns out to matter more than I expected. Java does not feel like learning a foreign language. It feels like meeting someone who speaks a dialect you half understand.
 
@@ -235,7 +235,7 @@ PHP and AngularJS did not quite rhyme. `$scope` and Blade templates lived in dif
 
 When we ported the quote screen, the Angular `Quote` interface and the Java `Quote` entity started from the same JSON sample. We diff them when the API changes. That workflow did not exist between AngularJS and Laravel — too much was implicit.
 
-Angular 4’s smaller bundles and `HttpClient` module (we are migrating off `@angular/http` finally) helped the exchange UI feel snappier on rate refresh. Backend latency dropped too once quotes were served from tuned JPA queries instead of the old Eloquent path that loaded relations we did not need. Full-stack migration wins show up in demos, not slide decks.
+Angular 4’s smaller bundles helped the exchange UI feel snappier on rate refresh; we are still migrating off `@angular/http`. Backend latency dropped too once quotes were served from tuned JPA queries instead of the old Eloquent path that loaded relations we did not need. Full-stack migration wins show up in demos, not slide decks.
 
 ## Spring Boot 1.5.3 in production shoes
 
@@ -269,7 +269,7 @@ The getter/setter noise is real. The IntelliJ + types + tests combo is real too.
 I will not pretend one post can carry the whole migration. This is the **backend and full-stack framing** chapter. Still on the shelf:
 
 - **Spring Security** vs Laravel Passport and our old token middleware — different post, still being written.
-- **Angular 4 frontend cutover** specifics beyond my January Angular 2 notes — especially `HttpClient`, lazy routes, and quote-screen performance.
+- **Angular 4 frontend cutover** specifics beyond my January Angular 2 notes — especially leaving `@angular/http`, lazy routes, and quote-screen performance.
 - **Money-domain modeling** — decimals, rounding policies, idempotent order submission, audit tables.
 - **Running both stacks in parallel** — feature flags, dual writes, the week we almost shipped the wrong settlement batch.
 
