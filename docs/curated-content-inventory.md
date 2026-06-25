@@ -33,6 +33,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 ## Angular satellites (not in modern-angular series)
 
 - Six Months with Angular 2 After Years of AngularJS (2017 migration field report; Angular Platform → Migration context)
+- From Laravel and AngularJS to Spring Boot and Angular (2017 full-stack migration field report; Angular Platform → Migration context)
 - ViewChild / ContentChild
 - Design Patterns in Angular
 - Advanced Dependency Injection

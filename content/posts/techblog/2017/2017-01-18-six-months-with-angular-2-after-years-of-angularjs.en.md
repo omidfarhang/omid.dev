@@ -16,6 +16,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2017/05/22/laravel-and-angularjs-to-spring-boot-and-angular/
   - /2026/01/01/ship-of-theseus-react-to-angular/
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
   - /2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/
