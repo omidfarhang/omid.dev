@@ -5,6 +5,7 @@ description: "An honest field report on what improved, what hurt, and side-by-si
 layout: single
 author_profile: true
 url: 2017/01/18/six-months-with-angular-2-after-years-of-angularjs/
+shortlink: https://g.omid.dev/iBdQdrh
 tags:
   - Angular
   - AngularJS
