@@ -5,6 +5,7 @@ description: "First weeks with Java and Spring Boot 1.5 after years of Laravel A
 layout: single
 author_profile: true
 url: 2017/05/22/laravel-and-angularjs-to-spring-boot-and-angular/
+shortlink: https://g.omid.dev/neNEXWC
 tags:
   - Angular
   - AngularJS
