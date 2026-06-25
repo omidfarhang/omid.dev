@@ -243,6 +243,7 @@
 }
 
 .home-active-series .series-grid--compact,
+.home-reading-paths .series-grid,
 .home-reading-paths .reading-paths-grid {
     margin: 0;
 }

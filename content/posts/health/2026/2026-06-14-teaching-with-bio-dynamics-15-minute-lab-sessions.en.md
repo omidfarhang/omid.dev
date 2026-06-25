@@ -15,6 +15,8 @@ tags:
 
 categories:
   - Health
+seeAlso:
+  - /2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
 ---
 Use this guide when you want to **run a short session** with [Bio-Dynamics](https://playground.omid.dev/labs/microbiome-sandbox/) — a browser-only 3D lab linked from the probiotic articles on omid.dev. Each path below takes about **5 minutes**; all three presets together fill a **15-minute** workshop.
 

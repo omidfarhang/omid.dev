@@ -20,6 +20,12 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: observability
+  title: "Observability"
+  order: 1
+  label: "Debugging Radio vs Microservices"
+  role: part
 seeAlso:
   - /2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/
   - /2026/01/01/troubleshooting-intermittent-faults-electronics/

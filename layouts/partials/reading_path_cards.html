@@ -17,17 +17,35 @@
     "description" (i18n "reading_path_systems_desc")
     "icon" "fa-solid fa-terminal"
   )
+  (dict
+    "url" "/posts/techblog/paths/frontend-quality/"
+    "title" (i18n "reading_path_quality_title")
+    "description" (i18n "reading_path_quality_desc")
+    "icon" "fa-solid fa-vial"
+  )
+  (dict
+    "url" "/posts/techblog/paths/ai-data-tools/"
+    "title" (i18n "reading_path_ai_title")
+    "description" (i18n "reading_path_ai_desc")
+    "icon" "fa-solid fa-flask"
+  )
+  (dict
+    "url" "/posts/techblog/paths/frontend-architecture/"
+    "title" (i18n "reading_path_architecture_title")
+    "description" (i18n "reading_path_architecture_desc")
+    "icon" "fa-solid fa-sitemap"
+  )
 -}}
 
-<div class="reading-paths-grid topics-grid">
+<div class="series-grid series-grid--horizontal topics-grid reading-paths-grid">
   {{- range $paths }}
-  <a href="{{ .url | relLangURL }}" class="card card--interactive card--horizontal card--accent reading-path-card">
+  <a href="{{ .url | relLangURL }}" class="card card--interactive card--topic card--accent series-card series-card--horizontal card--horizontal reading-path-card">
     <span class="icon-circle icon-circle--md">
       <i class="{{ .icon }}" aria-hidden="true"></i>
     </span>
-    <span class="reading-path-card__body">
+    <span class="series-card__body">
       <h3>{{ .title }}</h3>
-      <p>{{ .description }}</p>
+      <p class="series-card__desc">{{ .description }}</p>
       <span class="card__cta">{{ i18n "reading_path_view" }} →</span>
     </span>
   </a>

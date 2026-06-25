@@ -12,6 +12,12 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: micro-frontends
+  title: "Micro Frontends"
+  order: 4
+  label: "Reusable Shared Module in Angular"
+  role: part
 seeAlso:
   - /2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/
   - /2024/05/09/micro-frontends-why/

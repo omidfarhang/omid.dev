@@ -18,6 +18,15 @@ tags:
 
 categories: 
   - Electronics
+series:
+  id: hardware-debugging
+  title: "Hardware Debugging"
+  order: 1
+  label: "Troubleshooting Intermittent Faults"
+  role: part
+seeAlso:
+  - /2024/10/14/how-to-debug-an-electronic-device-that-wont-power-up-a-step-by-step-guide-for-board-level-repair/
+  - /2025/12/26/debugging-radio-vs-microservices/
 ---
 There is nothing more frustrating than a device that works perfectly until you try to show someone else. In the world of vintage electronics, these "intermittent faults" are the ultimate test of an engineer's patience and methodology.
 

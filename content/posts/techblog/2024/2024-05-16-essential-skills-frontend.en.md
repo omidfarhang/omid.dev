@@ -14,6 +14,12 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: essential-skills
+  title: "Essential Skills"
+  order: 0
+  label: "Senior Frontend Developer"
+  role: anchor
 seeAlso:
   - /2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/
   - /2024/05/24/essential-skills-for-a-frontend-team-leader/

@@ -1,0 +1,63 @@
+{{- define "main" }}
+
+<div class="posts-list-content reading-paths-index-page">
+  <header class="page-hero--contained panel--hero-gradient page-hero--section">
+    <nav class="breadcrumbs" aria-label="breadcrumbs">
+      <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "" | absLangURL }}">
+            <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "/posts/techblog/" | absLangURL }}">
+            <span itemprop="name">{{ i18n "techblog" | default "TechBlog" }}</span>
+          </a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+          <span itemprop="name" aria-current="page">{{ .Title }}</span>
+          <meta itemprop="position" content="3" />
+        </li>
+      </ol>
+    </nav>
+    <div class="page-hero-inner">
+      <p class="section-eyebrow">{{ i18n "reading_paths_eyebrow" }}</p>
+      <h1 class="post-title">{{ .Title }}</h1>
+      {{- $lead := .Description }}
+      {{- if not $lead }}
+        {{- with .Content }}
+        {{- $lead = . | plainify }}
+        {{- end }}
+      {{- end }}
+      {{- if $lead }}
+      <p class="page-hero-lead">{{ $lead }}</p>
+      {{- end }}
+    </div>
+  </header>
+
+  <article class="hub-page-body post-single page-shell">
+    <div class="reading-paths-index-content article-body">
+      {{- if .Content }}
+      <div class="post-content reading-paths-index-intro">
+        {{- if not (.Param "disableAnchoredHeadings") }}
+        {{- partial "anchored_headings.html" .Content -}}
+        {{- else }}{{ .Content }}{{ end }}
+      </div>
+      {{- end }}
+
+      <section class="reading-paths-index-section" aria-labelledby="reading-paths-index-title">
+        <h2 id="reading-paths-index-title" class="section-title section-title--page">{{ i18n "reading_paths_title" }}</h2>
+        {{- partial "reading_path_cards.html" . }}
+      </section>
+
+      <footer class="reading-path-footer">
+        <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} →</a>
+        <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "techblog" | default "TechBlog" }} →</a>
+      </footer>
+    </div>
+  </article>
+</div>
+
+{{- end }}{{/* end main */}}

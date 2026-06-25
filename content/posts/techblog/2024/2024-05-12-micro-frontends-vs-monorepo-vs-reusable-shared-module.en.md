@@ -14,6 +14,12 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: micro-frontends
+  title: "Micro Frontends"
+  order: 3
+  label: "Micro Frontends vs Monorepo vs Shared Module"
+  role: part
 seeAlso:
   - /2024/05/09/micro-frontends-why/
   - /2024/05/09/micro-frontends-how/

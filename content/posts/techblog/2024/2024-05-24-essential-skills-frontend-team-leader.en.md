@@ -15,6 +15,12 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: essential-skills
+  title: "Essential Skills"
+  order: 2
+  label: "Frontend Team Leader"
+  role: part
 seeAlso:
   - /2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/
   - /2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/

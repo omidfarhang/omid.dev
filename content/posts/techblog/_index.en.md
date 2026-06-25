@@ -4,4 +4,4 @@ description: Frontend architecture, Angular platform work, engineering leadershi
 hidemeta: true
 ---
 
-Writing on Angular platform engineering, software architecture, team leadership, and the Linux desktop. Pick a reading path or series below, browse topics by tag, or scroll the chronological archive.
+Writing on Angular platform engineering, software architecture, team leadership, and the Linux desktop. Six reading paths cover Angular, leadership, systems, frontend quality, AI & data tools, and architecture — plus ordered series on the [Series](/series/) index. Browse topics by tag or scroll the chronological archive.

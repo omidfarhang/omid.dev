@@ -286,40 +286,6 @@
     text-decoration: underline;
 }
 
-.reading-path-card.card--horizontal {
-    align-items: flex-start;
-    padding: var(--space-5);
-}
-
-.reading-path-card__body {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-2);
-    min-width: 0;
-}
-
-.reading-path-card__body h3 {
-    margin: 0;
-    font-size: var(--text-title-md);
-    font-weight: var(--font-extrabold);
-    color: var(--primary);
-    line-height: var(--leading-snug);
-}
-
-.reading-path-card__body p {
-    margin: 0;
-    font-size: var(--text-sm);
-    color: var(--secondary);
-    line-height: var(--leading-normal);
-}
-
-.reading-path-card__body .card__cta {
-    margin-top: var(--space-1);
-    font-size: var(--text-caption-sm);
-    font-weight: var(--font-semibold);
-    color: var(--accent);
-}
-
 @media screen and (max-width: 768px) {
     .blog-index-sidebar {
         position: static;

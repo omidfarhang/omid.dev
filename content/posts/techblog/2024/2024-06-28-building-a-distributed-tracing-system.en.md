@@ -21,6 +21,12 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: observability
+  title: "Observability"
+  order: 0
+  label: "OpenTelemetry in Angular"
+  role: anchor
 seeAlso:
   - /2025/12/26/debugging-radio-vs-microservices/
   - /2024/06/08/real-time-data-in-frontend-applications/

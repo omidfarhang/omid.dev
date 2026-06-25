@@ -16,6 +16,15 @@ tags:
 
 categories: 
   - Electronics
+series:
+  id: hardware-debugging
+  title: "Hardware Debugging"
+  order: 0
+  label: "Debug a Device That Won't Power Up"
+  role: anchor
+seeAlso:
+  - /2026/01/01/troubleshooting-intermittent-faults-electronics/
+  - /2025/12/26/debugging-radio-vs-microservices/
 ---
 When an electronic device refuses to power up, it can be frustrating for anyone, but for someone with a bit of electronics knowledge, it becomes a challenge to solve. The issue could be as simple as a faulty capacitor or as complex as a damaged integrated circuit (IC). This guide provides an in-depth, step-by-step approach for debugging a device at the board level. We'll walk you through checking key components such as capacitors, transistors, diodes, and integrated circuits (ICs), explaining what each does, how to test them, and how to interpret the results. By the end, you should have a clear process for diagnosing and potentially fixing a dead device.
 

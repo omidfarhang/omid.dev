@@ -505,6 +505,13 @@ body.dark .card--promo {
 
 .series-card--horizontal h3 {
     font-size: var(--text-title-md);
+    overflow-wrap: break-word;
+    word-break: normal;
+}
+
+.series-card--horizontal .series-card__desc {
+    overflow-wrap: break-word;
+    word-break: normal;
 }
 
 .series-card--horizontal .series-card__count {

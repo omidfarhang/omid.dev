@@ -450,6 +450,8 @@ params:
     - modern-angular
     - bio-dynamics-lab
     - frontend-testing
+    - linux-desktop-lab
+    - jupyter-copilot
 
   displayFullLangName: true
   comments: true

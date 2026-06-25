@@ -464,6 +464,24 @@
 - id: reading_path_systems_desc
   translation: "دسکتاپ Linux، کانتینرها، شبکه و اتوماسیون shell برای لیدهای فرانت‌اند علاقه‌مند به infra."
 
+- id: reading_path_quality_title
+  translation: "کیفیت فرانت‌اند"
+
+- id: reading_path_quality_desc
+  translation: "استراتژی تست، مهندسی آشوب و مهارت دیباگ برای تیم‌هایی که کیفیت را مالک می‌شوند."
+
+- id: reading_path_ai_title
+  translation: "ابزارهای AI و داده"
+
+- id: reading_path_ai_desc
+  translation: "جریان‌های کاری Jupyter، LLMهای محلی و پروژه‌های داده تعاملی مثل Bio-Dynamics."
+
+- id: reading_path_architecture_title
+  translation: "معماری فرانت‌اند"
+
+- id: reading_path_architecture_desc
+  translation: "میکرو فرانت‌اند، توسعه‌پذیری پلتفرم و الگوهای real-time در مقیاس."
+
 - id: view_all_series
   translation: "همه مجموعه‌ها"
 

@@ -464,6 +464,24 @@
 - id: reading_path_systems_desc
   translation: "Desktop Linux, containers, networking, and shell automation for infra-curious frontend leads."
 
+- id: reading_path_quality_title
+  translation: "Frontend Quality"
+
+- id: reading_path_quality_desc
+  translation: "Testing strategy, chaos engineering, and debugging craft for teams that own quality."
+
+- id: reading_path_ai_title
+  translation: "AI & Data Tools"
+
+- id: reading_path_ai_desc
+  translation: "Jupyter workflows, local LLMs, and interactive data projects like Bio-Dynamics."
+
+- id: reading_path_architecture_title
+  translation: "Frontend Architecture"
+
+- id: reading_path_architecture_desc
+  translation: "Micro frontends, platform extensibility, and real-time patterns at scale."
+
 - id: view_all_series
   translation: "View all series"
 
