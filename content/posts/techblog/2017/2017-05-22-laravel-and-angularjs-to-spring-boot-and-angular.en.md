@@ -21,7 +21,7 @@ categories:
 seeAlso:
   - /2017/01/18/six-months-with-angular-2-after-years-of-angularjs/
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
-  - /2024/05/17/essential-skills-fullstack/
+  - /2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/
 ---
 In January I wrote about moving our frontend from AngularJS to Angular. That migration is still running — we are on **Angular 4** now, which shipped in March and turned out to be a painless bump from 2.4. The bigger shift landed on the backend: our APIs used to live in **Laravel**, and we are rewriting them in **Java** with **Spring Boot 1.5.3**.
 
