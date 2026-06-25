@@ -20,7 +20,14 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: ecosystem-blind-spot
+  title: "The Ecosystem Blind Spot"
+  order: 0
+  label: "The Zoom-Out"
+  role: anchor
 seeAlso:
+  - /2026/06/25/after-the-zoom-out-a-playbook-for-staying-current/
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
   - /2025/12/27/ethics-of-legacy-code/
   - /2026/01/01/ship-of-theseus-react-to-angular/
@@ -94,3 +101,5 @@ You can’t learn it all. If you try, you’ll burn out in a month. Instead, try
 It’s okay to feel sad when you realize the world has moved while you were working hard. But remember: **Your 15 years of experience gave you the wisdom to use these tools correctly.** A junior might know how to run a test-manager, but you know *what* to test to keep a multi-million dollar business running.
 
 Zooming out is painful because the view is so big. But once your eyes adjust, you'll realize you're not behind—you're just getting started on the next level.
+
+**Continue reading:** [After the Zoom-Out: A Playbook for Staying Current Without Burning Out](/2026/06/25/after-the-zoom-out-a-playbook-for-staying-current/) — the follow-up with the reconnaissance habits, pattern-recognition framework, and growth map for what comes after you've named the blind spot.
