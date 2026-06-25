@@ -24,6 +24,7 @@ series:
   label: "Code Archaeology: Exploring and Modernizing Legacy Systems"
   role: anchor
 seeAlso:
+  - /2017/01/18/six-months-with-angular-2-after-years-of-angularjs/
   - /2025/12/27/ethics-of-legacy-code/
   - /2026/01/01/ship-of-theseus-react-to-angular/
   - /2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/

@@ -27,6 +27,7 @@ series:
   label: "Ship of Theseus: React to Angular Migration"
   role: part
 seeAlso:
+  - /2017/01/18/six-months-with-angular-2-after-years-of-angularjs/
   - /2025/12/25/cost-of-consistency-design-systems/
   - /2025/12/24/angular-signals-control-theory/
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/

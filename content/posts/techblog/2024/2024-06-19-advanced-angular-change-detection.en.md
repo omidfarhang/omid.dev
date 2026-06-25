@@ -14,6 +14,9 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2017/01/18/six-months-with-angular-2-after-years-of-angularjs/
+  - /2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/
 ---
 When it comes to building high-performance applications with Angular, understanding and optimizing change detection is crucial. This blog post will delve into advanced change detection strategies that can help you optimize the performance of your Angular applications. We will cover the OnPush change detection strategy, the importance of immutability, and techniques for manual change detection.
 

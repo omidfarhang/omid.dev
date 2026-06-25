@@ -15,6 +15,10 @@ tags:
 
 categories:
   - TechBlog
+seeAlso:
+  - /2026/01/01/ship-of-theseus-react-to-angular/
+  - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
+  - /2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/
 ---
 Angular 2.0 shipped in September. We are on **2.4** now, and the release train is already moving — Angular 4 is being talked about openly. I have been building with it since October, migrating a medium-sized internal dashboard that lived in AngularJS for three years. This is not a tutorial and not a verdict. It is a field report from someone who still dreams in `$scope` sometimes.
 
