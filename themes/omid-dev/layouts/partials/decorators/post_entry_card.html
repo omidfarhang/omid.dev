@@ -1,0 +1,23 @@
+{{- $page := .page -}}
+{{- $compact := .compact | default false -}}
+{{- $isHidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false -}}
+{{- $hasCover := and (not $compact) (not $isHidden) (or $page.Params.cover.image $page.Params.image) -}}
+{{- if isset . "showCover" -}}
+  {{- $hasCover = and .showCover (not $isHidden) (or $page.Params.cover.image $page.Params.image) -}}
+{{- end -}}
+
+{{- $class := "card card--interactive post-entry post-entry--list" -}}
+{{- if .term }}{{ $class = printf "%s tag-entry" $class }}{{ end -}}
+{{- if .featured }}{{ $class = printf "%s card--featured post-entry--featured" $class }}{{ end -}}
+{{- if $compact }}{{ $class = printf "%s post-entry--compact" $class }}{{ end -}}
+{{- if $hasCover }}{{ $class = printf "%s post-entry--has-cover" $class }}{{ end -}}
+{{- with .extraClass }}{{ $class = printf "%s %s" $class . }}{{ end -}}
+
+<article class="{{ $class }}">
+  {{- if not $compact }}
+    {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
+  {{- end }}
+  <div class="post-entry-inner">
+    {{ templates.Inner . }}
+  </div>
+</article>

@@ -1,0 +1,7 @@
+{{- with partial "decorators/btn_group.html" (dict "class" (.class | default "") "buttons" .buttons) -}}
+  {{- range .buttons -}}
+    {{- with partial "decorators/btn_primary.html" . -}}
+      {{- .name -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

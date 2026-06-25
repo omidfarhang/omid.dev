@@ -46,29 +46,7 @@
             {{- with $home.heroLead }}
             <p class="home-hero-lead">{{ . }}</p>
             {{- end }}
-            {{- with .buttons }}
-            <div class="btn-group home-hero-buttons">
-                {{- range . }}
-                {{- $button_url := .url }}
-                {{- if (findRE "^/" $button_url) }}
-                    {{- $button_url = $button_url | relLangURL }}
-                {{- end }}
-                <a class="btn btn--primary" href="{{ $button_url }}" rel="noopener" title="{{ .name }}">
-                    <span class="btn-inner">
-                        {{ .name }}
-                        {{- if (findRE "://" .url) }}&nbsp;
-                        <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                            stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
-                            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                            <path d="M15 3h6v6"></path>
-                            <path d="M10 14L21 3"></path>
-                        </svg>
-                        {{- end }}
-                    </span>
-                </a>
-                {{- end }}
-            </div>
-            {{- end }}
+            {{- partial "profile_mode_buttons.html" (dict "buttons" .buttons "class" "home-hero-buttons") }}
         </div>
     </div>
 </section>

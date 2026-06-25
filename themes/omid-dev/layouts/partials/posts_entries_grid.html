@@ -1,23 +1,19 @@
-{{- $paginator := .paginator }}
-{{- $term := .term | default false }}
-{{- $listTitle := .listTitle | default "" }}
-{{- $className := .className | default "" }}
+{{- $paginator := .paginator -}}
+{{- $term := .term | default false -}}
+{{- $listTitle := .listTitle | default "" -}}
+{{- $className := .className | default "" -}}
 
-{{- if gt (len $paginator.Pages) 0 }}
-<section class="posts-section posts-list-section{{ with $className }} {{ . }}{{ end }}"{{ with .listTitle }} aria-labelledby="posts-list-title"{{ end }}>
-  {{- with $listTitle }}
-  <h2 id="posts-list-title" class="section-title section-title--page">{{ . }}</h2>
-  {{- end }}
-  <div class="posts-grid">
-    {{- range $i, $page := $paginator.Pages }}
-    {{- $isFeatured := and (eq $i 0) (eq $className "posts-list-section--featured-first") }}
-    {{- partial "post_entry_card.html" (dict "page" $page "term" $term "featured" $isFeatured) }}
-    {{- end }}
-  </div>
-</section>
-{{- else }}
+{{- if gt (len $paginator.Pages) 0 -}}
+  {{- with partial "decorators/posts_list_section.html" (dict "listTitle" $listTitle "className" $className "pages" $paginator.Pages "term" $term) -}}
+    {{- $ctx := . -}}
+    {{- range $i, $page := .pages -}}
+      {{- $isFeatured := and (eq $i 0) (eq $ctx.className "posts-list-section--featured-first") -}}
+      {{- partial "post_entry_card.html" (dict "page" $page "term" $ctx.term "featured" $isFeatured) -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
 <div class="posts-empty">
   <p><i class="fa-solid fa-inbox" aria-hidden="true"></i></p>
   <p>{{ i18n "no_posts_yet" }}</p>
 </div>
-{{- end }}
+{{- end -}}
