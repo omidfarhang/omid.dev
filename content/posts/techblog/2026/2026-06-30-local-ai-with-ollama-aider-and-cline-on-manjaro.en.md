@@ -1,6 +1,6 @@
 ---
 title: "Local AI on Manjaro: Ollama, Aider, and Cline Without Another Subscription"
-date: 2026-06-30T10:00:00+03:30
+date: 2026-06-30T01:14:50+03:30
 description: "A follow-up to the split Cursor workflow: install Ollama on Manjaro with CUDA, pull coding models, wire up Aider and Cline for scoped local work — with honest limits on tool reliability, privacy, and when to fall back to cloud models."
 layout: single
 author_profile: true
