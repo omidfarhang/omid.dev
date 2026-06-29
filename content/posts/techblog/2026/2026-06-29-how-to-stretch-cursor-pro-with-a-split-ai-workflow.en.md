@@ -1,7 +1,7 @@
 ---
 title: "How to Stretch Cursor Pro Further: A Split AI Workflow"
 date: 2026-06-29T10:00:00+03:30
-description: "Cursor Pro is best when it edits code, not when it thinks out loud. A practical split workflow — ChatGPT for planning, Claude for review, Ollama for cheap tasks, and Cursor for multi-file execution — plus what actually counts against your quota."
+description: "Cursor Pro is best when it edits code, not when it thinks out loud. A practical split workflow — Perplexity for current research, ChatGPT for planning, Claude for review, Ollama for cheap tasks, and Cursor for multi-file execution — plus what actually counts against your quota."
 layout: single
 author_profile: true
 url: 2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/
@@ -11,6 +11,7 @@ tags:
   - Cursor IDE
   - AI Tools
   - Ollama
+  - Perplexity
   - Manjaro
   - Linux
   - Software Engineering
@@ -55,6 +56,7 @@ Those jobs are fine. They just do not need an IDE-native agent burning premium r
 A useful mental model:
 
 ```
+Perplexity  → research (current docs, citations)
 ChatGPT     → plan
 Claude      → critique
 Local model → small utilities
@@ -72,10 +74,27 @@ For my kind of work — Nx migrations at the day job, shared libraries, platform
 
 | Tool | Best use |
 | --- | --- |
+| **Perplexity** | Current docs, release notes, "what changed in X," library comparisons, tech research with citations — I use this daily |
 | **ChatGPT** | Architecture, migration strategy, Angular discussions, debugging complex behavior |
 | **Claude** (or any long-context model) | Code review, refactoring ideas, finding hidden issues — Claude tends to shine on long diffs, but GPT-class models are comparable for structured review |
 | **Cursor** | Editing files, implementing a predefined plan, agent mode |
 | **Ollama (local)** | Shell commands, commit messages, documentation, boilerplate, small code generation |
+
+### Use Perplexity when the answer must be current
+
+Cursor and ChatGPT both carry training cutoffs and repo-local blind spots. When I need **today's** answer — an API that shipped last month, whether a Manjaro package moved, how a library handles a breaking change in the current major — I reach for [Perplexity](https://www.perplexity.ai/) first.
+
+Typical questions:
+
+- "What is the recommended way to configure X in Angular 21?"
+- "Did Cursor change how BYO API keys work?"
+- "Compare Ollama coding model benchmarks from the last six months"
+
+Perplexity searches the web and returns cited sources. That makes it better than burning a Cursor turn on research that does not touch your codebase, and better than trusting a chat model's memory on fast-moving tooling.
+
+It does not write diffs. It does not know your monorepo. Use it to **ground** the plan, then hand the decision to ChatGPT or straight to Cursor with a spec.
+
+Like ChatGPT Plus and Claude Pro, **Perplexity Pro does not plug into Cursor** — it stays in the browser (or its apps). That is fine. Research is not an IDE job.
 
 ### Use ChatGPT for planning, Cursor for execution
 
@@ -188,11 +207,11 @@ MCP servers are **tools**, not models. They let the selected model query structu
 
 But the reasoning still runs on whichever AI model you picked. **Using MCP does not by itself avoid AI request usage.**
 
-### ChatGPT Plus and Claude Pro do not plug into Cursor
+### ChatGPT Plus, Claude Pro, and Perplexity Pro do not plug into Cursor
 
-If you pay for ChatGPT Plus or Claude Pro, those subscriptions work only inside their own apps.
+If you pay for ChatGPT Plus, Claude Pro, or Perplexity Pro, those subscriptions work only inside their own apps.
 
-Cursor cannot "borrow" your personal ChatGPT or Claude subscription. There is no backend API that exposes Plus/Pro accounts to third-party editors.
+Cursor cannot "borrow" your personal subscriptions. There is no backend API that exposes Plus/Pro accounts to third-party editors.
 
 The practical offload is manual: plan in the browser, implement in Cursor.
 
@@ -433,7 +452,7 @@ On a memory-tight machine, run Ollama in a terminal when you need it and stop it
 
 These patterns have held up across weeks of real monorepo work — not just theory.
 
-**Paste compiler and test output elsewhere first.** TypeScript errors, Jest failures, ESLint noise, and CI log snippets are ideal for ChatGPT, Claude, or a local model. You get an explanation and a suggested fix without burning a Cursor agent turn on diagnosis.
+**Paste compiler and test output elsewhere first.** TypeScript errors, Jest failures, ESLint noise, and CI log snippets are ideal for Perplexity (when the issue might be a known upstream bug), ChatGPT, Claude, or a local model. You get an explanation and a suggested fix without burning a Cursor agent turn on diagnosis.
 
 **Use Cursor Rules for project context that never changes.** Nx boundaries, standalone-component policy, OnPush defaults, testing conventions, forbidden imports — put them in `.cursor/rules` or project rules once. That beats re-attaching half the repo or re-explaining your stack every session. This pairs well with the prompt files mentioned earlier.
 
@@ -477,7 +496,7 @@ Avoid these — they are the most common ways I have seen developers (including 
 
 **Open-ended agent loops.** "Keep going until it works" without tests or scope is the fastest path to thirty messages and a broken branch. Set a stopping condition: files touched, tests passing, or one specific error resolved.
 
-**Using agent mode to learn a concept.** "Explain how Angular signals work" belongs in ChatGPT or a local model. Agent mode will wander the codebase, attach random files, and act like it is implementing something.
+**Using agent mode to learn a concept.** "Explain how Angular signals work" belongs in Perplexity, ChatGPT, or a local model — especially when you want current docs cited. Agent mode will wander the codebase, attach random files, and act like it is implementing something.
 
 **Attaching the whole monorepo.** `@Codebase` or huge folder context on every prompt is expensive and often noisy. Start narrow; widen only when the task proves it needs more.
 
@@ -491,7 +510,7 @@ Avoid these — they are the most common ways I have seen developers (including 
 
 **Trusting "AI PC" marketing over hardware reality.** The NPU will not save you. RAM and CUDA will. Do not delay a useful RAM upgrade because the spec sheet already says "AI."
 
-**Expecting ChatGPT Plus to integrate.** It will not. Manually copying plans is the workflow. Fighting that fact leads to half-built automations that break every month.
+**Expecting cloud subscriptions to integrate.** ChatGPT Plus, Claude Pro, and Perplexity Pro do not plug into Cursor. Manually copying research and plans is the workflow. Fighting that fact leads to half-built automations that break every month.
 
 ---
 
@@ -534,12 +553,12 @@ Local models are not automatically safer — they still see what you paste — b
 ## The workflow in one picture
 
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│  ChatGPT    │     │   Claude    │     │   Ollama    │
-│  (plan)     │────▶│  (review)   │     │  (cheap)    │
-└─────────────┘     └─────────────┘     └──────┬──────┘
-        │                    │                  │
-        └────────────────────┴──────────────────┘
+┌──────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│ Perplexity   │     │  ChatGPT    │     │   Claude    │     │   Ollama    │
+│ (research)   │────▶│  (plan)     │────▶│  (review)   │     │  (cheap)    │
+└──────────────┘     └─────────────┘     └─────────────┘     └──────┬──────┘
+        │                    │                  │                  │
+        └────────────────────┴──────────────────┴──────────────────┘
                              │
                              ▼
                     ┌─────────────────┐
