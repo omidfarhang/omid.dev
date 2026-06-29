@@ -25,6 +25,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/
   - /2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/
   - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
   - /2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/

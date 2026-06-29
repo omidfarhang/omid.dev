@@ -20,19 +20,27 @@ Follow the [Jupyter, ChatGPT, Copilot](/2025/12/23/jupyter-the-strategic-value-o
 3. **[Jupyter, ChatGPT, Copilot (Part 3): Real-World Examples](/2025/12/23/jupyter-real-world-examples/)** — Concrete notebook patterns for daily work.
 4. **[Building a Personal Knowledge Engine with Jupyter and Local LLMs](/2025/12/28/personal-knowledge-engine-jupyter-llm/)** — Local LLM integration for a private knowledge base.
 
+## IDE & local AI workflow
+
+For day-to-day coding in the editor — splitting work across cloud assistants, local models, and Cursor without burning premium quota:
+
+5. **[How to Stretch Cursor Pro Further: A Split AI Workflow](/2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/)** — ChatGPT for planning, Claude for review, Ollama for cheap tasks, Cursor for multi-file execution; quota mechanics and 2026 local model picks.
+
+Pair with the Jupyter series above for the **thinking** side (notebooks, research) and item 4 for **notebook-local LLM** integration. This post covers the **IDE execution** side.
+
 ## Interactive projects
 
 Follow the [Bio-Dynamics Lab](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/) series in order:
 
-5. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
-6. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
-7. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
-8. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
-9. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
+6. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
+7. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
+8. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
+9. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
+10. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
 
 ## Teaching companion
 
-10. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
+11. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
 
 ## Health context
 
@@ -46,3 +54,4 @@ Background reading on probiotics and the science the lab illustrates — browse 
 ## Related paths
 
 - **[Angular Platform](/posts/techblog/paths/angular-platform/)** — Companion code patterns and MCP workflows for production Angular teams.
+- **[Systems & Linux](/posts/techblog/paths/systems-and-linux/)** — Cursor install on Manjaro and desktop Linux context for local AI setup.
