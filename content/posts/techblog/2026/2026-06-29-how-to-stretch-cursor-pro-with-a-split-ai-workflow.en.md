@@ -22,7 +22,14 @@ tags:
   - Angular
 categories:
   - TechBlog
+series:
+  id: split-ai-workflow
+  title: "Split AI Workflow"
+  order: 0
+  label: "Strategy & Quota"
+  role: anchor
 seeAlso:
+  - /2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
   - /2026/05/27/angular-mcp-ai-workflows-real-teams/
   - /2025/12/28/personal-knowledge-engine-jupyter-llm/
@@ -421,6 +428,8 @@ On 24 GB, local models work — I just manage concurrent load more carefully. A 
 ---
 
 ## Getting started on Manjaro
+
+For full install steps (CUDA, systemd, Aider, Cline, and agent workflows), see the follow-up: [Local AI on Manjaro: Ollama, Aider, and Cline Without Another Subscription](/2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/).
 
 Install Ollama, then pull a coding-oriented model. On my hardware I would start with one of these:
 

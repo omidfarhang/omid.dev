@@ -22,25 +22,26 @@ Follow the [Jupyter, ChatGPT, Copilot](/2025/12/23/jupyter-the-strategic-value-o
 
 ## IDE & local AI workflow
 
-For day-to-day coding in the editor — splitting work across cloud assistants, local models, and Cursor without burning premium quota:
+For day-to-day coding in the editor — splitting work across cloud assistants, local models, and Cursor without burning premium quota. Follow the [Split AI Workflow](/2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/) series in order (use in-post series navigation between parts):
 
 5. **[How to Stretch Cursor Pro Further: A Split AI Workflow](/2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/)** — ChatGPT for planning, Claude for review, Ollama for cheap tasks, Cursor for multi-file execution; quota mechanics and 2026 local model picks.
+6. **[Local AI on Manjaro: Ollama, Aider, and Cline](/2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/)** — Install Ollama with CUDA, pull coding models, and wire Aider and Cline for repo-wide local work without another subscription.
 
-Pair with the Jupyter series above for the **thinking** side (notebooks, research) and item 4 for **notebook-local LLM** integration. This post covers the **IDE execution** side.
+Pair with the Jupyter series above for the **thinking** side (notebooks, research) and item 4 for **notebook-local LLM** integration. Items 5–6 cover the **IDE execution** side — cloud split first, then hands-on local setup.
 
 ## Interactive projects
 
 Follow the [Bio-Dynamics Lab](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/) series in order:
 
-6. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
-7. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
-8. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
-9. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
-10. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
+7. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
+8. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
+9. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
+10. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
+11. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
 
 ## Teaching companion
 
-11. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
+12. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
 
 ## Health context
 

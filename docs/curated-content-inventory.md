@@ -11,6 +11,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | frontend-testing | 3 | Frontend Quality |
 | bio-dynamics-lab | 5 (+ teaching) | AI & Data Tools |
 | jupyter-copilot | 4 EN / 3 DE | AI & Data Tools |
+| split-ai-workflow | 2 | AI & Data Tools, Systems & Linux |
 | micro-frontends | 5 | Frontend Architecture, Angular Platform (related) |
 | chaos-engineering | 3 | Frontend Quality, Systems & Linux (related) |
 | legacy-and-modernization | 2 | Engineering Leadership, Frontend Architecture |
@@ -27,7 +28,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | Engineering Leadership | Tech leads, architects | essential-skills, team-communication, essays, legacy |
 | Systems & Linux | Infra-curious frontend leads | linux-desktop-lab, DevOps, observability, resilience |
 | Frontend Quality | QA-minded seniors | frontend-testing, chaos-engineering, debugging |
-| AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, bio-dynamics-lab, Health context |
+| AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, bio-dynamics-lab, Health context |
 | Frontend Architecture | Architects at scale | micro-frontends, platform extensibility, real-time |
 
 ## Angular satellites (not in modern-angular series)

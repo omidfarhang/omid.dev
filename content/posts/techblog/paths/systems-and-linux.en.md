@@ -23,30 +23,31 @@ Start with the anchor, then follow the lab notes in order (3 posts):
 
 4. **[How to Install Cursor IDE on Manjaro](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)** — Practical setup notes for a modern editor on Arch-based distros.
 5. **[How to Stretch Cursor Pro Further: A Split AI Workflow](/2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/)** — After install: split work across ChatGPT, Claude, Ollama, and Cursor; quota mechanics and local model picks on Linux.
-6. **[Install oh-my-zsh in VS Code on Linux](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)** — Shell and editor setup companion to the scripting posts below.
+6. **[Local AI on Manjaro: Ollama, Aider, and Cline](/2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/)** — Follow-up to item 5: install Ollama with CUDA and wire local agents (Aider, Cline) for repo work without cloud API costs.
+7. **[Install oh-my-zsh in VS Code on Linux](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)** — Shell and editor setup companion to the scripting posts below.
 
 ## Containers and orchestration
 
-7. **[Introduction to Docker](/2024/05/28/introduction-to-docker-simplifying-application-deployment/)** — Container basics for developers who deploy their own apps.
-8. **[Getting Started with Kubernetes](/2024/05/27/getting-started-with-kubernetes-a-beginners-guide/)** — A beginner's map to orchestration concepts frontend leads encounter in production.
-9. **[Beyond Kubernetes](/2024/06/12/advanced-container-orchestration-beyond-kubernetes-basic/)** — What comes after the basics when orchestration gets real.
+8. **[Introduction to Docker](/2024/05/28/introduction-to-docker-simplifying-application-deployment/)** — Container basics for developers who deploy their own apps.
+9. **[Getting Started with Kubernetes](/2024/05/27/getting-started-with-kubernetes-a-beginners-guide/)** — A beginner's map to orchestration concepts frontend leads encounter in production.
+10. **[Beyond Kubernetes](/2024/06/12/advanced-container-orchestration-beyond-kubernetes-basic/)** — What comes after the basics when orchestration gets real.
 
 ## Networking and automation
 
-10. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr`.
-11. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
+11. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr`.
+12. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
 
 ## Observability
 
 Follow the [Observability](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/) series, then the hardware-debugging pair:
 
-12. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
-13. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
-14. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
+13. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
+14. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
+15. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
 
 ## Resilience
 
-15. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
+16. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
 
 ## Related paths
 
