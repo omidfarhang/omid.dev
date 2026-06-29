@@ -33,7 +33,7 @@ seeAlso:
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
   - /2026/05/27/angular-mcp-ai-workflows-real-teams/
   - /2025/12/28/personal-knowledge-engine-jupyter-llm/
-  - /2025/12/23/jupyter-chatgpt-copilot-who-are-they-really-for/
+  - /2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/
 ---
 I use Cursor every day across a lot of codebases — not just one repo. At work that is mostly a large Angular/Nx monorepo plus many smaller web projects. At home it is broader still: [playground companion repos](https://github.com/omidfarhang/example-projects) tied to omid.dev articles, browser demos on [playground.omid.dev](https://playground.omid.dev), Rust/WASM experiments, Linux tooling, and whatever the next post needs. Agent mode, multi-file refactors, and inline edits are genuinely faster than doing the same work by hand on any of them.
 
