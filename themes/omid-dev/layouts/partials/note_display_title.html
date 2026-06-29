@@ -1,6 +1,19 @@
-{{- /* Auto label for notes — derived from date, not front matter title */ -}}
-{{- with .Date -}}
-{{- .Format "Jan 2, 2006 · 15:04" -}}
+{{- /* Label for a note — explicit title, else first paragraph of content (like X/Mastodon permalinks). */ -}}
+{{- with strings.TrimSpace .Title -}}
+{{- . -}}
+{{- else -}}
+{{- $raw := .RawContent | strings.TrimSpace -}}
+{{- $block := $raw -}}
+{{- if strings.Contains $raw "\n\n" -}}
+{{- $block = index (split $raw "\n\n") 0 | strings.TrimSpace -}}
+{{- end -}}
+{{- $plain := $block | markdownify | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " -}}
+{{- if $plain -}}
+{{- $limit := site.Params.notesTitleMaxChars | default 60 | int -}}
+{{- $plain | truncate $limit "…" -}}
+{{- else if .Date -}}
+{{- .Date.Format "Jan 2, 2006" -}}
 {{- else -}}
 {{- i18n "notes" | default "Note" -}}
+{{- end -}}
 {{- end -}}

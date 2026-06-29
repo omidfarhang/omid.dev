@@ -392,6 +392,7 @@ params:
   notesSection: notes
   notesPerPage: 20
   notesIndexMaxChars: 420
+  notesTitleMaxChars: 60
 
   # Curated tags on the home page (must match post front matter exactly)
   homeTechTagsProfessional:

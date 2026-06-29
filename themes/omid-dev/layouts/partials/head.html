@@ -18,7 +18,7 @@
 {{- $isNote := partial "is_note.html" . -}}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ site.Title }}{{ else if and $isNote .IsPage }}{{ partial "note_display_title.html" . }} · {{ i18n "notes" | default "Notes" }}{{ else if $isNote }}{{ .Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Title }}{{ else if and $isNote .IsPage }}{{ partial "note_display_title.html" . }} | {{ i18n "notes" | default "Notes" }} | {{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
