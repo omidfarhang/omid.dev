@@ -1,0 +1,124 @@
+{{- /* Inline and front-matter images/videos for note structured data. Skips avatars and site defaults. */ -}}
+{{- $images := slice -}}
+{{- $videos := slice -}}
+{{- $avatarPaths := slice
+  (site.Params.footer.avatar | default "")
+  (site.Params.profileMode.imageUrl | default "")
+  "/images/bio-photo-150x150.jpg"
+-}}
+
+{{- range .Params.images -}}
+  {{- $src := strings.TrimSpace . -}}
+  {{- if $src -}}
+    {{- $parsed := urls.Parse $src -}}
+    {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+    {{- $skip := false -}}
+    {{- range $avatarPaths -}}
+      {{- if and . (strings.Contains $url .) -}}
+        {{- $skip = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if and (not $skip) (not (in $images $url)) -}}
+      {{- $images = $images | append $url -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range .Params.videos -}}
+  {{- $src := strings.TrimSpace . -}}
+  {{- if $src -}}
+    {{- $parsed := urls.Parse $src -}}
+    {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+    {{- $exists := false -}}
+    {{- range $videos -}}
+      {{- if eq .contentUrl $url -}}
+        {{- $exists = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not $exists -}}
+      {{- $video := dict "@type" "VideoObject" "contentUrl" $url -}}
+      {{- with $.PublishDate -}}
+        {{- $video = merge $video (dict "uploadDate" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+      {{- end -}}
+      {{- $videos = $videos | append $video -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range findRE `!\[[^\]]*\]\(([^)]+)\)` .RawContent -}}
+  {{- $src := strings.TrimSpace (replaceRE `!\[[^\]]*\]\(([^)]+)\)` "$1" .) -}}
+  {{- if $src -}}
+    {{- $parsed := urls.Parse $src -}}
+    {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+    {{- $skip := false -}}
+    {{- range $avatarPaths -}}
+      {{- if and . (strings.Contains $url .) -}}
+        {{- $skip = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if and (not $skip) (not (in $images $url)) -}}
+      {{- $images = $images | append $url -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range findRE `<img[^>]+src=["']([^"']+)["']` .Content -}}
+  {{- $src := strings.TrimSpace (replaceRE `<img[^>]+src=["']([^"']+)["']` "$1" .) -}}
+  {{- if $src -}}
+    {{- $parsed := urls.Parse $src -}}
+    {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+    {{- $skip := false -}}
+    {{- range $avatarPaths -}}
+      {{- if and . (strings.Contains $url .) -}}
+        {{- $skip = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if and (not $skip) (not (in $images $url)) -}}
+      {{- $images = $images | append $url -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range findRE `<(?:video|source)[^>]+src=["']([^"']+)["']` .Content -}}
+  {{- $src := strings.TrimSpace (replaceRE `<(?:video|source)[^>]+src=["']([^"']+)["']` "$1" .) -}}
+  {{- if $src -}}
+    {{- $parsed := urls.Parse $src -}}
+    {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+    {{- $exists := false -}}
+    {{- range $videos -}}
+      {{- if eq .contentUrl $url -}}
+        {{- $exists = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not $exists -}}
+      {{- $video := dict "@type" "VideoObject" "contentUrl" $url -}}
+      {{- with $.PublishDate -}}
+        {{- $video = merge $video (dict "uploadDate" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+      {{- end -}}
+      {{- $videos = $videos | append $video -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range findRE `https?://[^\s"'<>)]+\.(?:mp4|webm|ogg|ogv|mov|m4v)|/[^\s"'<>)]+\.(?:mp4|webm|ogg|ogv|mov|m4v)` .RawContent -}}
+  {{- $src := strings.TrimSpace . -}}
+  {{- if $src -}}
+    {{- $parsed := urls.Parse $src -}}
+    {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+    {{- $exists := false -}}
+    {{- range $videos -}}
+      {{- if eq .contentUrl $url -}}
+        {{- $exists = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not $exists -}}
+      {{- $video := dict "@type" "VideoObject" "contentUrl" $url -}}
+      {{- with $.PublishDate -}}
+        {{- $video = merge $video (dict "uploadDate" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+      {{- end -}}
+      {{- $videos = $videos | append $video -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return dict "images" $images "videos" $videos -}}

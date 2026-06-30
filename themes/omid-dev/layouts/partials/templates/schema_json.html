@@ -43,22 +43,51 @@
 {{- $isNote := partial "is_note.html" . -}}
 {{- if $isNote }}
 {{- if .IsPage }}
+{{- $noteText := .Content | plainify | strings.TrimSpace -}}
+{{- if not $noteText -}}
+{{- $noteText = .RawContent | markdownify | plainify | htmlUnescape | strings.TrimSpace -}}
+{{- end -}}
+{{- $media := partial "templates/_funcs/get-note-media" . -}}
+{{- $images := $media.images -}}
+{{- $videos := $media.videos -}}
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- $notesIndex := site.GetPage $notesSection -}}
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@type" "SocialMediaPosting"
+  "headline" (partial "note_display_title.html" . | plainify)
+  "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")
+  "url" .Permalink
+  "author" (dict
+    "@type" "Person"
+    "name" (site.Params.author | default site.Title | plainify)
+    "url" ("about-me" | absLangURL)
+  )
+  "mainEntityOfPage" (dict
+    "@type" "WebPage"
+    "@id" .Permalink
+  )
+-}}
+{{- with $notesIndex -}}
+{{- $schema = merge $schema (dict "isPartOf" (dict
+  "@type" "WebPage"
+  "name" (.Title | plainify)
+  "url" .Permalink
+)) -}}
+{{- end -}}
+{{- with $noteText -}}
+{{- $schema = merge $schema (dict "text" .) -}}
+{{- end -}}
+{{- if gt (len $images) 0 -}}
+{{- $imageValue := cond (eq (len $images) 1) (index $images 0) $images -}}
+{{- $schema = merge $schema (dict "image" $imageValue) -}}
+{{- end -}}
+{{- if gt (len $videos) 0 -}}
+{{- $videoValue := cond (eq (len $videos) 1) (index $videos 0) $videos -}}
+{{- $schema = merge $schema (dict "video" $videoValue) -}}
+{{- end -}}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SocialMediaPosting",
-  "headline": {{ partial "note_display_title.html" . | plainify | jsonify }},
-  "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | jsonify }},
-  "author": {
-    "@type": "Person",
-    "name": {{ site.Params.author | default site.Title | plainify | jsonify }},
-    "url": {{ "about-me" | absLangURL | jsonify }}
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": {{ .Permalink | jsonify }}
-  }
-}
+{{ $schema | jsonify | safeJS }}
 </script>
 {{- end }}
 {{- else }}
