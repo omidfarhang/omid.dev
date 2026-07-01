@@ -138,6 +138,7 @@ languages:
         - Sitemap
         - SitemapPages
         - SitemapPosts
+        - SitemapNotes
         - SitemapTaxonomies
         - SitemapCategories
         - SitemapTags
@@ -388,7 +389,7 @@ params:
   mainSections:
     - posts
 
-  # Short-form notes — own search index and RSS; excluded from main search, main RSS, related posts, and per-note sitemaps
+  # Short-form notes — own search index, RSS, and sitemap; excluded from main search, main RSS, and related posts
   notesSection: notes
   notesPerPage: 20
   notesIndexMaxChars: 420
@@ -492,6 +493,11 @@ outputFormats:
   SitemapPosts:
     mediaType: application/xml
     baseName: sitemap-posts
+    isPlainText: true
+    notAlternative: true
+  SitemapNotes:
+    mediaType: application/xml
+    baseName: sitemap-notes
     isPlainText: true
     notAlternative: true
   SitemapTaxonomies:

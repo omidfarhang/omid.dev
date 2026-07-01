@@ -1,7 +1,7 @@
 # Development-only overrides (loaded automatically by `hugo server`).
 # Keeps production config in hugo.yaml unchanged.
 
-# Fewer output formats during local dev — skips 7 custom sitemap variants per language.
+# Fewer output formats during local dev — skips 8 custom sitemap variants per language.
 languages:
   en:
     outputs:
