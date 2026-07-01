@@ -1,0 +1,53 @@
+{{- /* Absolute image URLs for sitemap image:image entries (no site-default OG fallback). */ -}}
+{{- $page := . -}}
+{{- $images := slice -}}
+{{- if partial "is_note.html" $page -}}
+  {{- with partial "templates/_funcs/get-note-media" $page -}}
+    {{- $images = .images -}}
+  {{- end -}}
+{{- else -}}
+  {{- $imgParams := $page.Params.images -}}
+  {{- $resources := $page.Resources.ByType "image" -}}
+  {{- if not $imgParams -}}
+    {{- $featured := $resources.GetMatch "*feature*" -}}
+    {{- if not $featured }}{{ $featured = $resources.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+    {{- with $featured -}}
+      {{- $images = $images | append .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $imgParams -}}
+    {{- $img := . -}}
+    {{- $url := urls.Parse $img -}}
+    {{- if eq $url.Scheme "" -}}
+      {{- with $resources.GetMatch $img -}}
+        {{- $images = $images | append .Permalink -}}
+      {{- else -}}
+        {{- $images = $images | append ($img | absURL) -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $images = $images | append $img -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $coverImage := "" -}}
+  {{- with $page.Params.cover.image -}}
+    {{- $coverImage = . -}}
+  {{- else -}}
+    {{- with $page.Params.image -}}
+      {{- $coverImage = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $coverImage -}}
+    {{- $url := "" -}}
+    {{- if ne (urls.Parse .).Scheme "" -}}
+      {{- $url = . -}}
+    {{- else if $page.Params.cover.relative -}}
+      {{- $url = (path.Join $page.RelPermalink .) | absURL -}}
+    {{- else -}}
+      {{- $url = . | absURL -}}
+    {{- end -}}
+    {{- if and $url (not (in $images $url)) -}}
+      {{- $images = $images | append $url -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $images -}}
