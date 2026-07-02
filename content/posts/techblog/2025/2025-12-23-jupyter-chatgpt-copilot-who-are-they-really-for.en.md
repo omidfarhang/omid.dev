@@ -53,9 +53,69 @@ If you try to use it as any of those, it *will* feel awkward.
 
 ---
 
+## If You Come From Software Engineering
+
+When you see a new tool, the subconscious question is:
+
+> "What can't I already do with VS Code and a Python script?"
+
+If the answer isn't obvious, the tool feels unnecessary. That's the gap most Jupyter articles never bridge — they assume you already spend your day exploring data.
+
+### Script vs. notebook
+
+A script looks like this:
+
+```text
+edit → save → run → scroll terminal → edit → save → run again
+```
+
+A notebook looks like this:
+
+```text
+Run Cell 1 → output appears
+Run Cell 2 → graph appears
+Edit Cell 3 → run only Cell 3 → continue
+```
+
+You're having a conversation with your program, not repeatedly rebuilding the whole experiment.
+
+### Discovering vs. executing
+
+> **A Python script is for executing a known process.**
+>
+> **A Jupyter notebook is for discovering the process.**
+
+Or even shorter:
+
+> **Jupyter is where you figure out what the code should be. VS Code is where you write the code you'll keep.**
+
+### An image editor, not a cropper app
+
+You wouldn't scaffold a React app with Cropper.js just to crop three images for a quick check. You'd open an image editor, try things, see the result immediately, and move on.
+
+Jupyter is that kind of workspace — but for code. When the goal is to *understand* something (an API shape, a latency spike, a dataset), you use a notebook. When the goal is to *ship* something, you move to your IDE.
+
+### Sequential, not parallel
+
+You often don't need another IDE for exploration. The notebook *is* where you write exploratory code.
+
+```text
+Question
+    ↓
+Jupyter (experiment)
+    ↓
+Answer
+    ↓
+VS Code (build the feature)
+```
+
+They're sequential, not parallel.
+
+---
+
 ## What Jupyter Actually Is
 
-Jupyter is a **thinking and execution environment**.
+Jupyter is a **thinking and execution environment** — interactive computing for when you don't know the answer yet.
 
 It lets you:
 

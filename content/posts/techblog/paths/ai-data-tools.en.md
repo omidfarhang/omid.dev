@@ -15,7 +15,7 @@ For developers who want to think in notebooks, run local LLMs, and build interac
 
 Follow the [Jupyter, ChatGPT, Copilot](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/) series in order:
 
-1. **[Jupyter, ChatGPT, Copilot (Part 1): Strategic Value](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/)** — Why notebooks change how you think about code and research.
+1. **[Jupyter, ChatGPT, Copilot (Part 1): Strategic Value](/2025/12/23/jupyter-the-strategic-value-of-thinking-in-notebooks/)** — Why notebooks exist for software engineers: discovery vs. execution, and when to reach for Jupyter instead of VS Code.
 2. **[Jupyter, ChatGPT, Copilot (Part 2): Technical Setup](/2025/12/23/jupyter-technical-setup-guide/)** — Environment setup for productive notebook workflows.
 3. **[Jupyter, ChatGPT, Copilot (Part 3): Real-World Examples](/2025/12/23/jupyter-real-world-examples/)** — Concrete notebook patterns for daily work.
 4. **[Building a Personal Knowledge Engine with Jupyter and Local LLMs](/2025/12/28/personal-knowledge-engine-jupyter-llm/)** — Local LLM integration for a private knowledge base.

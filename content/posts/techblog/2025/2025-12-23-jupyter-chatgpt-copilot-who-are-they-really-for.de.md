@@ -53,9 +53,69 @@ Wenn Sie versuchen, es als eines dieser Dinge zu verwenden, wird es sich *unbequ
 
 ---
 
+## Wenn Sie aus dem Software-Engineering kommen
+
+Wenn man ein neues Tool sieht, lautet die unbewusste Frage:
+
+> „Was kann ich damit nicht schon mit VS Code und einem Python-Skript?“
+
+Wenn die Antwort nicht offensichtlich ist, wirkt das Tool überflüssig. Genau diese Lücke schließen die meisten Jupyter-Artikel nicht — sie setzen voraus, dass Sie den ganzen Tag Daten erkunden.
+
+### Skript vs. Notebook
+
+Ein Skript sieht so aus:
+
+```text
+bearbeiten → speichern → ausführen → Terminal scrollen → bearbeiten → speichern → erneut ausführen
+```
+
+Ein Notebook sieht so aus:
+
+```text
+Zelle 1 ausführen → Ausgabe erscheint
+Zelle 2 ausführen → Diagramm erscheint
+Zelle 3 bearbeiten → nur Zelle 3 ausführen → weitermachen
+```
+
+Sie führen ein Gespräch mit Ihrem Programm, statt das ganze Experiment immer wieder neu aufzubauen.
+
+### Entdecken vs. Ausführen
+
+> **Ein Python-Skript ist zum Ausführen eines bekannten Prozesses da.**
+>
+> **Ein Jupyter-Notebook ist zum Entdecken des Prozesses da.**
+
+Oder noch kürzer:
+
+> **In Jupyter finden Sie heraus, was der Code sein sollte. In VS Code schreiben Sie den Code, den Sie behalten.**
+
+### Ein Bildeditor, keine Cropper-App
+
+Sie würden keine React-App mit Cropper.js aufsetzen, nur um drei Bilder für eine schnelle Prüfung zuzuschneiden. Sie würden einen Bildeditor öffnen, Dinge ausprobieren, das Ergebnis sofort sehen und weitermachen.
+
+Jupyter ist diese Art von Arbeitsbereich — nur für Code. Wenn das Ziel ist, etwas zu *verstehen* (eine API-Struktur, einen Latenz-Spike, einen Datensatz), nutzen Sie ein Notebook. Wenn das Ziel ist, etwas zu *liefern*, wechseln Sie in Ihre IDE.
+
+### Nacheinander, nicht parallel
+
+Für die Erkundung brauchen Sie oft keine zweite IDE. Das Notebook *ist* der Ort, an dem Sie explorativen Code schreiben.
+
+```text
+Frage
+    ↓
+Jupyter (Experiment)
+    ↓
+Antwort
+    ↓
+VS Code (Feature bauen)
+```
+
+Sie arbeiten nacheinander, nicht parallel.
+
+---
+
 ## Was Jupyter tatsächlich ist
 
-Jupyter ist eine **Denk- und Ausführungsumgebung**.
+Jupyter ist eine **Denk- und Ausführungsumgebung** — interaktives Rechnen für den Fall, dass Sie die Antwort noch nicht kennen.
 
 Es ermöglicht Ihnen:
 
