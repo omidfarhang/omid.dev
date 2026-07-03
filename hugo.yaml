@@ -533,6 +533,9 @@ services:
 sitemap:
   disable: true
 
+disableKinds:
+  - sitemap
+
 enableRobotsTXT: true
 
 # Allow getenv in head.html for search-console verification tags (see params.analytics)

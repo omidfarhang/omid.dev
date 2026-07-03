@@ -26,6 +26,15 @@
 - id: all
   translation: "All"
 
+- id: author
+  translation: "Author"
+
+- id: published
+  translation: "Published"
+
+- id: reading_time
+  translation: "Reading time"
+
 - id: edit_post
   translation: "Edit"
 
@@ -130,6 +139,9 @@
 
 - id: posts
   translation: "Posts"
+
+- id: techblog
+  translation: "TechBlog"
 
 - id: view_all_posts
   translation: "View All Posts"

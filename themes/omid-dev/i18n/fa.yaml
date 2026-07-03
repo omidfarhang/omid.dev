@@ -26,6 +26,15 @@
 - id: all
   translation: "همه"
 
+- id: author
+  translation: "نویسنده"
+
+- id: published
+  translation: "منتشر شده"
+
+- id: reading_time
+  translation: "زمان مطالعه"
+
 - id: edit_post
   translation: "ویرایش"
 

@@ -26,6 +26,15 @@
 - id: all
   translation: "Alle"
 
+- id: author
+  translation: "Autor"
+
+- id: published
+  translation: "Veröffentlicht"
+
+- id: reading_time
+  translation: "Lesezeit"
+
 - id: edit_post
   translation: "Bearbeiten"
 
@@ -322,6 +331,9 @@
 
 - id: print_pdf
   translation: "Druck / PDF-Version"
+
+- id: print_save_pdf
+  translation: "Drucken / als PDF speichern"
 
 - id: download_pdf
   translation: "PDF herunterladen"
