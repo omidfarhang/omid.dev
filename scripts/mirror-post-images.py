@@ -28,8 +28,12 @@ FILENAME_DATE_RE = re.compile(r"(\d{4})-(\d{2})-\d{2}")
 FRONT_MATTER_IMAGE_RE = re.compile(
     r"^(?:image|cover\.image|images):\s*(.+)$", re.MULTILINE
 )
+MARKDOWN_TITLE_SUFFIX_RE = re.compile(r'\s+["\'][^"\']*["\']\s*$')
+_MARKDOWN_IMAGE_TITLE = r'(?:\s+(?:"[^"]*"|\'[^\']*\'))?'
+_MARKDOWN_IMAGE_DEST = rf'(?:<[^>]+>|[^\s\)]+{_MARKDOWN_IMAGE_TITLE})'
 MARKDOWN_IMAGE_RE = re.compile(
-    r"!\[[^\]]*\]\(([^)]+)\)|" r"\[!\[[^\]]*\]\(([^)]+)\)\]\(([^)]+)\)"
+    rf'!\[[^\]]*\]\(({_MARKDOWN_IMAGE_DEST})\)|'
+    rf'\[!\[[^\]]*\]\(({_MARKDOWN_IMAGE_DEST})\)\]\(({_MARKDOWN_IMAGE_DEST})\)'
 )
 HTML_IMAGE_RE = re.compile(r"""<img[^>]+src=["']([^"']+)["']""", re.IGNORECASE)
 HTML_PAGE_IMG_RE = re.compile(
@@ -73,7 +77,11 @@ def parse_post_date(path: Path, content: str) -> tuple[str, str]:
 
 
 def normalize_url(url: str) -> str:
-    return url.strip().rstrip(".,;:")
+    url = url.strip().rstrip(".,;:")
+    if url.startswith("<") and url.endswith(">"):
+        url = url[1:-1].strip()
+    url = MARKDOWN_TITLE_SUFFIX_RE.sub("", url)
+    return url.strip()
 
 
 def is_external_url(url: str) -> bool:
@@ -598,7 +606,7 @@ def fetch_image_data(url: str, timeout: float, *, depth: int = 0) -> bytes:
     if depth > 4:
         raise ValueError("too many hops while resolving image URL")
 
-    fetch_url = normalize_image_url(url)
+    fetch_url = normalize_image_url(normalize_url(url))
     data, content_type = fetch_url_bytes(fetch_url, timeout)
     return resolve_fetched_bytes(
         data,
