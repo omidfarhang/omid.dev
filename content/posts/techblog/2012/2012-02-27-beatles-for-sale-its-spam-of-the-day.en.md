@@ -14,9 +14,11 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="beatles-170" border="0" alt="beatles-170" align="right" src="http://lh6.ggpht.com/-pxb0j4qqpWA/T0uRzNlW2nI/AAAAAAAAE-o/i8nCsHzTlXI/beatles-170_thumb.jpg?imgmax=800" width="174" height="129" />](http://lh6.ggpht.com/-cqy7RKTDxdg/T0uRt1N_JXI/AAAAAAAAE-g/0liQmX2uRoM/s1600-h/beatles-170%25255B2%25255D.jpg)I've owned up to some of the great loves of my life in the past. 
+![beatles-170](http://lh6.ggpht.com/-cqy7RKTDxdg/T0uRt1N_JXI/AAAAAAAAE-g/0liQmX2uRoM/s1600-h/beatles-170%25255B2%25255D.jpg)
 
-For instance, I'm a <a href="http://www.last.fm/user/omidfarhang" target="_blank">music lover</a> and I'm very partial to board games (even during a denial-of-service attack). 
+I've owned up to some of the great loves of my life in the past. 
+
+For instance, I'm a [music lover](http://www.last.fm/user/omidfarhang) and I'm very partial to board games (even during a denial-of-service attack). 
 
 Today I can also share that I like The Beatles. In particular, anything from “Rubber Soul” and later when the “Yeah yeah yeah” turned into something rather more “Yeah man. Dig it”. 
 
@@ -24,13 +26,13 @@ I've simply never come across a more talented combination of musicianship and so
 
 So, perhaps I was the right person to receive the following spam message about a box set of remastered Beatles CDs and mini-documentaries. 
 
-[<img title="beatles-email" border="0" alt="beatles-email" src="http://lh5.ggpht.com/-KqdIRMHds60/T0uR9KPN2qI/AAAAAAAAE-4/iKNhQNZxThc/beatles-email_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="371" />](http://lh4.ggpht.com/-tHjnOmSm6xs/T0uR3RGz8yI/AAAAAAAAE-w/6xzoYepUwKQ/s1600-h/beatles-email%25255B4%25255D.jpg) 
+![beatles-email](http://lh4.ggpht.com/-tHjnOmSm6xs/T0uR3RGz8yI/AAAAAAAAE-w/6xzoYepUwKQ/s1600-h/beatles-email%25255B4%25255D.jpg) 
 
 If you click further on the email, which has clearly been written with a Spanish-speaking audience in mind, you discover – ¡Ay, caramba! – that whoever is touting this “box set” has actually shoved every Beatles track onto one DVD. 
 
 They've even gone to the effort of adding a mini-documentary for each official album from “Please Please Me” to “Abbey Road”. 
 
-[<img title="beatles-web" border="0" alt="beatles-web" src="http://lh5.ggpht.com/-8D96iBRdQX0/T0uSEcF8slI/AAAAAAAAE_I/Pckde8ao7r0/beatles-web_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="356" />](http://lh4.ggpht.com/-ZdibHHQvZAg/T0uSBGjc-xI/AAAAAAAAE_A/1omNpNx3i1A/s1600-h/beatles-web%25255B4%25255D.jpg) 
+![beatles-web](http://lh4.ggpht.com/-ZdibHHQvZAg/T0uSBGjc-xI/AAAAAAAAE_A/1omNpNx3i1A/s1600-h/beatles-web%25255B4%25255D.jpg) 
 
 It's beginning to sound suspiciously like these tracks and the video content might be somewhat similar to what Apple announced for its iTunes store to great fanfare late last year. 
 

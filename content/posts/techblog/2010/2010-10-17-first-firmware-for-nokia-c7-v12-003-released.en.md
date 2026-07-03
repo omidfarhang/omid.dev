@@ -13,7 +13,7 @@ categories:
 ---
 Nokia released its first major firmware for **[Nokia C7](http://europe.nokia.com/find-products/devices/nokia-c7-00) (RM 675)** for **all** Versions. 
 
-[<img title="C7" border="0" alt="C7" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TLqqwww0y5I/AAAAAAAACsc/JH29ZRH439o/C7_thumb%5B4%5D.jpg?imgmax=800" width="300" height="128" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TLqqvk6IDsI/AAAAAAAACsY/W22a8DnonbA/s1600-h/C7%5B6%5D.jpg)
+![C7](http://lh5.ggpht.com/_vaUVXcmC3OI/TLqqvk6IDsI/AAAAAAAACsY/W22a8DnonbA/s1600-h/C7%5B6%5D.jpg)
 
 The new firmware should be available in a few days via **[NSU](http://www.nokia.de/service-und-software/software/nokia-software-updater)** or **OTA.**
 

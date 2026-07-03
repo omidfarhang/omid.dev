@@ -1,5 +1,5 @@
 ---
-title: "I can always say: &#8216;It's gonna be better tomorrow'"
+title: "I can always say: ‘It's gonna be better tomorrow'"
 date: 2011-11-22T21:01:00+00:00
 layout: single
 author_profile: true
@@ -25,7 +25,7 @@ _That's when, I would say._
 _I flirt with suicide._  
 _Sometimes kill the pain._  
 _I can always say._  
-_&#8216;It's gonna be better tomorrow'._  
+_‘It's gonna be better tomorrow'._  
 _Falling away from me._  
 _Falling away from me._
 

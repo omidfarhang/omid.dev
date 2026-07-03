@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="cialogo" border="0" alt="cialogo" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TRN2pHkHrzI/AAAAAAAADhw/lJCojJqeRWs/cialogo_thumb%5B2%5D.jpg?imgmax=800" width="148" height="200" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TRN2ngRK73I/AAAAAAAADhs/2tBO2jKzCVs/s1600-h/cialogo%5B4%5D.jpg)Washington Post:** The CIA has launched a task force to assess the impact of the exposure of thousands of U.S. diplomatic cables and military files by WikiLeaks.
+**![cialogo](http://lh4.ggpht.com/_vaUVXcmC3OI/TRN2ngRK73I/AAAAAAAADhs/2tBO2jKzCVs/s1600-h/cialogo%5B4%5D.jpg)Washington Post:** The CIA has launched a task force to assess the impact of the exposure of thousands of U.S. diplomatic cables and military files by WikiLeaks.
 
 Officially, the panel is called the WikiLeaks Task Force. But at CIA headquarters, it's mainly known by its all-too-apt acronym: **W.T.F**.
 

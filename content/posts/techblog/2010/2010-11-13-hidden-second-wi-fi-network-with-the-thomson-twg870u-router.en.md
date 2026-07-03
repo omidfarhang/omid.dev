@@ -17,7 +17,9 @@ categories:
 ---
 Righard Zwienenberg from Norman Security Center Blog posted something interesting, Thanks to Mr. Fagerlid for Sharing:
 
-[<img class="size-medium wp-image-6523 alignright" alt="Thomson TWG870U router" src="/images/2010/11/Thomson-TWG870U-router-300x169.jpg" width="300" height="169" srcset="/images/2010/11/Thomson-TWG870U-router-300x169.jpg 300w, /images/2010/11/Thomson-TWG870U-router.jpg 386w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2010/11/Thomson-TWG870U-router.jpg)There is some commotion in The Netherlands. Telecom/ISP provider UPC is providing its customers with the Thomson TWG870U router, a Docsis 3.0 router. On the [tweakers.net](http://gathering.tweakers.net/forum/list_message/34995564#34995564) forum (Dutch language), a user discovered that the router, which is also providing Wireless Access, has a second **hidden** wireless network. Problem here is that:
+![Thomson TWG870U router](/images/2010/11/Thomson-TWG870U-router.jpg)
+
+There is some commotion in The Netherlands. Telecom/ISP provider UPC is providing its customers with the Thomson TWG870U router, a Docsis 3.0 router. On the [tweakers.net](http://gathering.tweakers.net/forum/list_message/34995564#34995564) forum (Dutch language), a user discovered that the router, which is also providing Wireless Access, has a second **hidden** wireless network. Problem here is that:
 
   * It is enabled by default when Wireless Access is enabled
   * You can not turn it off, unless you switch off all Wireless Access

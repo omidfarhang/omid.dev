@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="googlemaps" border="0" alt="googlemaps" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQKqPRxmjCI/AAAAAAAADe8/q2p4LxOiOd8/googlemaps_thumb%5B1%5D.jpg?imgmax=800" width="229" height="227" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKqMbdzzoI/AAAAAAAADe4/jG3Pj2PmYOo/s1600-h/googlemaps%5B3%5D.jpg)**Mashable:** Get ready, folks with no sense of direction; Google Maps 5.0 app for Android is looking to make your life a lot easier with 3D graphics, more accurate orientation and the ability to function offline.  
+![googlemaps](http://lh3.ggpht.com/_vaUVXcmC3OI/TQKqMbdzzoI/AAAAAAAADe4/jG3Pj2PmYOo/s1600-h/googlemaps%5B3%5D.jpg)
+
+**Mashable:** Get ready, folks with no sense of direction; Google Maps 5.0 app for Android is looking to make your life a lot easier with 3D graphics, more accurate orientation and the ability to function offline.  
 According to [_Gizmodo_](http://gizmodo.com/5707782/), the app — which was demoed at D: Dive Into Mobile conference in San Francisco — is much faster than the previous iteration and renders in real time. 
 
 3D buildings are visible at street-level view, which lets you tilt the image and check out your virtual surroundings. The map will also adjust as you move, dictated by the compass, or you can rotate the map yourself if you want to check out various views.

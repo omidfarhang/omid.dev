@@ -20,4 +20,4 @@ Google Chrome Wrote:
 
 Continue reading in their blog: <http://chrome.blogspot.com/2012/02/introducing-chrome-for-android.html>
 
-[<img title="Phone_vert_tabs" border="0" alt="Phone_vert_tabs" src="http://lh5.ggpht.com/-r62vIe2F0eU/TzF6u6swv9I/AAAAAAAAEik/Ki2ok1jtVPM/Phone_vert_tabs_thumb%25255B4%25255D.png?imgmax=800" width="405" height="768" />](http://lh3.ggpht.com/-B9YCETyCUd4/TzF6RqX_H8I/AAAAAAAAEic/tKVu2fiTIxs/s1600-h/Phone_vert_tabs%25255B6%25255D.png)
+![Phone_vert_tabs](http://lh3.ggpht.com/-B9YCETyCUd4/TzF6RqX_H8I/AAAAAAAAEic/tKVu2fiTIxs/s1600-h/Phone_vert_tabs%25255B6%25255D.png)

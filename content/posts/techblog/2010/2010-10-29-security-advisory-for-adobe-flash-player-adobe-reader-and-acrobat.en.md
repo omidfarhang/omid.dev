@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="" border="0" alt="" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMq990s4SMI/AAAAAAAAC-k/K5cqSz3qejg/adobe-logo_thumb%5B7%5D.jpg?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMq95bVLgLI/AAAAAAAAC-g/kEyx90tEy8M/s1600-h/adobe-logo%5B5%5D.jpg)Adobe have published [details](http://www.adobe.com/support/security/advisories/apsa10-05.html) of a critical vulnerability the following applications.
+![adobe-logo%5B5%5D](http://lh3.ggpht.com/_vaUVXcmC3OI/TMq95bVLgLI/AAAAAAAAC-g/kEyx90tEy8M/s1600-h/adobe-logo%5B5%5D.jpg)
+
+Adobe have published [details](http://www.adobe.com/support/security/advisories/apsa10-05.html) of a critical vulnerability the following applications.
 
 Adobe Flash Player 10.1.85.3 and earlier versions  
 Adobe Reader 9.4 and earlier 9.x versions  

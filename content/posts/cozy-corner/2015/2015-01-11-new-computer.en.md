@@ -24,7 +24,7 @@ Here is configuration of my new computer _(Click on images to see full size)_:
 
 [![MB](/images/2015/01/MB-300x218.png)](/images/2015/01/MB.png) [![MB](/images/2015/01/MB2-300x202.jpg)](/images/2015/01/MB2.jpg)
 
-&nbsp;
+
 
 This motherboard offer a very good performance and support high speed RAM and also support Intel Extreme CPU series. It has on-board graphic card with HDMI, DVI and VGA output which is useless for me since I got a good graphic card too. It has several SATA 6G, 4 USB3 and Turbo LAN ports. also using the front-panel ports you get more USB and Audio ports.
 
@@ -50,7 +50,7 @@ Two 4GB RAM of G.SKILL (8GB Total) RAM. Dual Channel.
 
 [![HDD](/images/2015/01/western-digital-1tb-bluewd10ezex-3824-600x600-1-150x150.jpg)](/images/2015/01/western-digital-1tb-bluewd10ezex-3824-600x600-1.jpg)
 
-&nbsp;
+
 
 I did not need much space as I use several external hard disk to save my files. a SSD hard will be added soon as they had not any available on the day I went to store.
 
@@ -66,7 +66,7 @@ A very heavy and stable power supply to feed all those devices, Powerful and ele
 
 Working perfectly on WiFi A/B/G/N 300
 
-&nbsp;
+
 
 And I'm using above configuration with my old devices:
 
@@ -76,6 +76,6 @@ And I'm using above configuration with my old devices:
 
 22 Inch, HD1080 and no viewing angel problem, perfect quality and colors with VGA, DVI and HDMI connectors.
 
-&nbsp;
+
 
 I'm having fun, hope you do too 🙂

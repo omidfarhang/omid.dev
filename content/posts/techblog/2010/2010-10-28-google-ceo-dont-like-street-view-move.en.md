@@ -1,5 +1,5 @@
 ---
-title: "Google CEO: Don't Like &#8216;Street View'? Move"
+title: "Google CEO: Don't Like ‘Street View'? Move"
 date: 2010-10-28T14:47:00+00:00
 layout: single
 author_profile: true
@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="1027" border="0" alt="1027" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMmGDJFG_8I/AAAAAAAAC84/F6F9WCsN7BY/1027_thumb.jpg?imgmax=800" width="304" height="203" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMmGAufzYFI/AAAAAAAAC80/nzOrZrz1QqU/s1600-h/1027%5B2%5D.jpg)In a CNN interview Monday, Google CEO Eric Schmidt responded to questions about what Google knows about people by saying that if people don't like having their homes photographed for Google Street View for the world to see, they can “just move.”
+![1027](http://lh3.ggpht.com/_vaUVXcmC3OI/TMmGAufzYFI/AAAAAAAAC80/nzOrZrz1QqU/s1600-h/1027%5B2%5D.jpg)
+
+In a CNN interview Monday, Google CEO Eric Schmidt responded to questions about what Google knows about people by saying that if people don't like having their homes photographed for Google Street View for the world to see, they can “just move.”
 
 The comment came during an interview on the Parker Spitzer show. “With Street View, we drive by exactly once, so you can just move,” said Schmidt, eliciting uncomfortable laughter from interviewer Kathleen Parker. “The point is, we only do it once. This is not a monitoring situation.”
 

@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![wdlogo_c](http://lh6.ggpht.com/_vaUVXcmC3OI/TYKXiV6SQCI/AAAAAAAADvw/LsE60NewE7U/wdlogo_c_thumb%5B4%5D.gif?imgmax=800 "wdlogo_c")](http://lh4.ggpht.com/_vaUVXcmC3OI/TYKXdQxoNUI/AAAAAAAADvs/oPXDsSkUcwA/s1600-h/wdlogo_c%5B6%5D.gif)IRVINE, Calif., March 17, 2011 /PRNewswire/ — Western Digital® (NYSE: WDC), the world's leader in external storage solutions, today introduced its My Book® Studio Edition™ II dual-drive storage system with a massive 6 terabytes (TB) of storage to meet the capacity needs of today's creative pros and Mac® enthusiasts who create, store, edit and archive large HD video and photo files. The new capacity provides users 33 percent more storage than the previous capacity, while maintaining the same footprint.
+[![wdlogo_c](http://lh6.ggpht.com/_vaUVXcmC3OI/TYKXiV6SQCI/AAAAAAAADvw/LsE60NewE7U/wdlogo_c_thumb%5B4%5D.gif?imgmax=800 "wdlogo_c")](http://lh4.ggpht.com/_vaUVXcmC3OI/TYKXdQxoNUI/AAAAAAAADvs/oPXDsSkUcwA/s1600-h/wdlogo_c%5B6%5D.gif)
+
+IRVINE, Calif., March 17, 2011 /PRNewswire/ — Western Digital® (NYSE: WDC), the world's leader in external storage solutions, today introduced its My Book® Studio Edition™ II dual-drive storage system with a massive 6 terabytes (TB) of storage to meet the capacity needs of today's creative pros and Mac® enthusiasts who create, store, edit and archive large HD video and photo files. The new capacity provides users 33 percent more storage than the previous capacity, while maintaining the same footprint.
 
 Combining its extended 6 TB storage capacity and compatibility with Apple® Time Machine®, the new My Book Studio Edition II drive becomes an instant storage solution for a variety of professions including art and design, photography, legal and medical, and a host of other small businesses.
 

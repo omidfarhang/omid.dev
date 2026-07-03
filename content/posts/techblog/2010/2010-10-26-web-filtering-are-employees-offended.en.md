@@ -20,7 +20,7 @@ One of Mah’s readers said he dutifully “practices self-censorship to enhance
 
 GFI’s survey last year found that 47 percent of U.S. SMEs had the means to monitor or filter HTTP traffic. The GFI survey released in September (631 respondents), showed an increase in the number monitoring or filtering HTTP traffic (69.9 percent).
 
-[<img title="SME_Web_filtering" border="0" alt="SME_Web_filtering" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMbo_QfNjVI/AAAAAAAAC6w/52izQbZT-cg/SME_Web_filtering_thumb%5B1%5D.png?imgmax=800" width="304" height="216" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbo910Qn9I/AAAAAAAAC6s/4dTjFc-kWQg/s1600-h/SME_Web_filtering%5B3%5D.png)
+![SME_Web_filtering](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbo910Qn9I/AAAAAAAAC6s/4dTjFc-kWQg/s1600-h/SME_Web_filtering%5B3%5D.png)
 
 (GFI graphic — click to enlarge)
 

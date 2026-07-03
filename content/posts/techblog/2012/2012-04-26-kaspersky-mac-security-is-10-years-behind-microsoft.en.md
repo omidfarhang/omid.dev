@@ -14,11 +14,11 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://news.cnet.com/8301-13579_3-57421513-37/kaspersky-mac-security-is-10-years-behind-microsoft/?ttag=fbw" target="_blank"><img title="MacVSWindowsTabair_270x189" border="0" alt="MacVSWindowsTabair_270x189" align="right" src="http://lh5.ggpht.com/-ocUmnxvKZkU/T5jtb4lh-pI/AAAAAAAAFsc/fKP3k97ZrIk/MacVSWindowsTabair_270x189%25255B4%25255D.jpg?imgmax=800" width="270" height="189" />Cnet</a>: Forrester's CEO isn't the only one spouting [doom and gloom for Apple](http://news.cnet.com/8301-13579_3-57421283-37/why-has-forresters-ceo-become-an-apple-doomsayer/) today. 
+[![MacVSWindowsTabair_270x189](http://lh5.ggpht.com/-ocUmnxvKZkU/T5jtb4lh-pI/AAAAAAAAFsc/fKP3k97ZrIk/MacVSWindowsTabair_270x189%25255B4%25255D.jpg?imgmax=800)Cnet](http://news.cnet.com/8301-13579_3-57421513-37/kaspersky-mac-security-is-10-years-behind-microsoft/?ttag=fbw): Forrester's CEO isn't the only one spouting [doom and gloom for Apple](http://news.cnet.com/8301-13579_3-57421283-37/why-has-forresters-ceo-become-an-apple-doomsayer/) today. 
 
 Now Eugene Kaspersky, the CEO of security firm Kaspersky Lab, says Apple is headed for a rough patch. However, this one's in the world of computer security, and he says Apple is already getting into the thick of it. 
 
-Speaking to Computer Business Review at Info Security 2012 show in London this week, Kaspersky said that when it comes to computer security, [Apple's Mac platform was a decade behind Microsoft](http://malware.cbronline.com/news/apple-10-years-behind-microsoft-on-security-kaspersky-250412)&#8216;s, and that it's got some things to learn from its rival. 
+Speaking to Computer Business Review at Info Security 2012 show in London this week, Kaspersky said that when it comes to computer security, [Apple's Mac platform was a decade behind Microsoft](http://malware.cbronline.com/news/apple-10-years-behind-microsoft-on-security-kaspersky-250412)‘s, and that it's got some things to learn from its rival. 
 
 “They will understand very soon that they have the same problems Microsoft had 10 or 12 years ago,” Kaspersky said in an interview. “They will have to make changes in terms of the cycle of updates and so on and will be forced to invest more into their security audits for the software.” 
 

@@ -18,7 +18,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="linux" border="0" alt="linux" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMIBLZZN6GI/AAAAAAAAC4Q/gxs8QR9pC68/linux_thumb%5B1%5D.jpg?imgmax=800" width="150" height="180" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMIBJuihtFI/AAAAAAAAC4M/ymxu7NKIv0k/s1600-h/linux%5B3%5D.jpg)The author of this article seems to think Linux in the desktop is dead, with so many missed opportunities, especially during the failure of Windows Vista, they will never break into the market now that Win 7 is so successful.
+![linux](http://lh6.ggpht.com/_vaUVXcmC3OI/TMIBJuihtFI/AAAAAAAAC4M/ymxu7NKIv0k/s1600-h/linux%5B3%5D.jpg)
+
+The author of this article seems to think Linux in the desktop is dead, with so many missed opportunities, especially during the failure of Windows Vista, they will never break into the market now that Win 7 is so successful.
 
 In some ways I agree, but personally, I never thought Linux even had a chance with the average user on a home system. Being in IT, like most peeps in my field, I have become the “help desk” for family and friends; I really do not think the average user is ready for it. Add in the lack of applications and games that are available, it really did not stand a chance. I design and write software, the development costs these days are huge, and the money peeps want a good ROI to out weigh the risks, developing from scratch or even porting an existing app is just too risky.
 

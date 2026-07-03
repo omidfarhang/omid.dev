@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="3597_01" border="0" alt="3597_01" align="left" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMH9snviadI/AAAAAAAAC4I/_M8vhXTtPeQ/3597_01_thumb%5B1%5D.png?imgmax=800" width="150" height="179" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMH9rGCXVII/AAAAAAAAC4E/9yuSM3hpktw/s1600-h/3597_01%5B3%5D.png)Rules were made to be broken; that whole 55 MPH thing happens to be my favorite. Western Digital had larger aspirations; the kinds that considered milestones. Reaching the 750GB per platter mark is definitely in the milestone category and that is what Western Digital is releasing today.
+![3597_01](http://lh5.ggpht.com/_vaUVXcmC3OI/TMH9rGCXVII/AAAAAAAAC4E/9yuSM3hpktw/s1600-h/3597_01%5B3%5D.png)
+
+Rules were made to be broken; that whole 55 MPH thing happens to be my favorite. Western Digital had larger aspirations; the kinds that considered milestones. Reaching the 750GB per platter mark is definitely in the milestone category and that is what Western Digital is releasing today.
 
 On the surface 750GB per platter doesn’t really sound all that impressive unless you are really into the whole storage technology scene. Those on the outside will be more excited to hear about the milestone this way; 3TB hard drives that upon launch cost just a little over 200 USD. Do I have your attention now?
 

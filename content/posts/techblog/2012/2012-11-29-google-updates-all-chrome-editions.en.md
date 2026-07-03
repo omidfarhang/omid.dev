@@ -15,7 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh4.ggpht.com/-jf_RJKSlvmw/ULfDIl4eitI/AAAAAAAAHoY/ok_C5icwWyQ/s1600-h/new-chrome-logo%25255B2%25255D.png" target="_blank"><img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh6.ggpht.com/-JukPshaZbqU/ULfDLTK54XI/AAAAAAAAHog/ZK1LjYQppaQ/new-chrome-logo_thumb.png?imgmax=800" width="128" height="125" /></a>h-online: Google has updated the Stable, Beta and Developer Channels of the desktop version of its Chrome browser with a number of bug fixes and improvements. The Stable Channel update closes seven security vulnerabilities, three of them rated High, and includes bug fixes. New stable Chrome versions for iOS and Android have also been released and include minor improvements. The iOS version of the browser now supports Apple's Passbook application. 
+![new-chrome-logo](http://lh4.ggpht.com/-jf_RJKSlvmw/ULfDIl4eitI/AAAAAAAAHoY/ok_C5icwWyQ/s1600-h/new-chrome-logo%25255B2%25255D.png)
+
+h-online: Google has updated the Stable, Beta and Developer Channels of the desktop version of its Chrome browser with a number of bug fixes and improvements. The Stable Channel update closes seven security vulnerabilities, three of them rated High, and includes bug fixes. New stable Chrome versions for iOS and Android have also been released and include minor improvements. The iOS version of the browser now supports Apple's Passbook application. 
 
 The [update](http://googlechromereleases.blogspot.com/2012/11/stable-channel-update.html) to the Stable version of Chrome for Windows, Mac OS X, Linux and Chrome Frame (for running Chrome inside of Internet Explorer) brings it to version 23.0.1271.91. The update closes a security vulnerability in the Mac OS X version of the browser that is caused by a severe rendering bug with the operating system's driver for Intel graphics cards. This problem was rated by Google as High priority, as was a buffer underflow problem in libxml and a use-after-free bug in the browser's SVG filters, which have also been fixed. 
 
@@ -27,4 +29,4 @@ Chrome for iOS has been [updated](http://googlechromereleases.blogspot.co.uk/201
 
 An [overview](http://www.chromium.org/getting-involved/dev-channel) over the different desktop Chrome release channels and platform is available from the Chromium Project, the open source upstream of Chrome. The listing includes download links for the different versions of the browser. All versions of Chrome should update themselves automatically; on some mobile platforms the user will be prompted to perform the update. 
 
-<a title="http://h-online.com/-1758946" href="http://h-online.com/-1758946" target="_blank">Source</a>
+[Source](http://h-online.com/-1758946)

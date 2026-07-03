@@ -17,7 +17,7 @@ tags:
 categories:
   - TechBlog
 ---
-**Mashable:** [<img title="twitter_logo_header" border="0" alt="twitter_logo_header" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP4tTZ7w4WI/AAAAAAAADZ0/_jeNgwTGh4A/twitter_logo_header_thumb.png?imgmax=800" width="155" height="36" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4tRyc1e1I/AAAAAAAADZw/1YzOxTkeRRA/s1600-h/twitter_logo_header%5B2%5D.png)A large number of messages containing only the link “_goo.gl/R7f68_” has appeared on Twitter today, redirecting the users to various malware-laden sites.
+**Mashable:** ![twitter_logo_header](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4tRyc1e1I/AAAAAAAADZw/1YzOxTkeRRA/s1600-h/twitter_logo_header%5B2%5D.png)A large number of messages containing only the link “_goo.gl/R7f68_” has appeared on Twitter today, redirecting the users to various malware-laden sites.
 
 The messages are mostly coming from disposable accounts, but they also appear on some [accounts](https://search.twitter.com/search?q=http%3A%2F%2Fgoo.gl%2FR7f68) that appear to be genuine, which indicates that there’s a worm spreading and sending the messages from infected accounts. Furthermore, all of the messages containing the link are sent from the mobile version of Twitter.
 

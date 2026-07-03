@@ -24,8 +24,7 @@ Data from the social web can also be merged with internal data to create even mo
 
 [![ibm-social-analytics-1](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lkzBqbrOI/AAAAAAAACIg/XVggIlYOgLc/ibm-social-analytics-1_thumb%5B2%5D.jpg?imgmax=800 "ibm-social-analytics-1")](http://lh5.ggpht.com/_vaUVXcmC3OI/S-lkwiuhaVI/AAAAAAAACIc/WT8MXz4kCgA/s1600-h/ibm-social-analytics-1%5B4%5D.jpg)
 
-[![ibm-social-analytics-2](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lk3_QfaGI/AAAAAAAACIo/aIAFi_lKS20/ibm-social-analytics-2_thumb%5B2%5D.jpg?imgmax=800 "ibm-social-analytics-2")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lk1c0BOFI/AAAAAAAACIk/CJAy1vHyjf8/s1600-h/ibm-social-analytics-2%5B4%5D.jpg) </p> 
-
+[![ibm-social-analytics-2](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lk3_QfaGI/AAAAAAAACIo/aIAFi_lKS20/ibm-social-analytics-2_thumb%5B2%5D.jpg?imgmax=800 "ibm-social-analytics-2")](http://lh4.ggpht.com/_vaUVXcmC3OI/S-lk1c0BOFI/AAAAAAAACIk/CJAy1vHyjf8/s1600-h/ibm-social-analytics-2%5B4%5D.jpg)
 Companies already using IBM’s application have used this data to improve CRM and make better-informed choices about products and marketing. 
 
 Rosetta Stone’s VP of Strategic Research and Analysis Nino Ninov said, “Predictive analytics allows us to leverage unsolicited and unbiased customer feedback and strategically improve our business. We now can also monitor competitor and industry websites[…] to maintain a current view and better understand how the public perceives our competition.” 

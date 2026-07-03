@@ -21,8 +21,8 @@ Something humorous I’ve noticed across many web-based proxies recently is that
 _  
 Type in a URL, hit the “Go” button on the proxy and you’ll see one of these:
 
-[<img title="proxsurvey" border="0" alt="proxsurvey" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP1EYY1h_QI/AAAAAAAADXM/eLD9SUpPJzU/proxsurvey_thumb%5B1%5D.gif?imgmax=800" width="504" height="257" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TP1EVg7cCUI/AAAAAAAADXI/cihl2vrGBBE/s1600-h/proxsurvey%5B3%5D.gif)
+![proxsurvey](http://lh4.ggpht.com/_vaUVXcmC3OI/TP1EVg7cCUI/AAAAAAAADXI/cihl2vrGBBE/s1600-h/proxsurvey%5B3%5D.gif)
 
-[<img title="proxsurvey2" border="0" alt="proxsurvey2" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP1Eb2erVLI/AAAAAAAADXU/7NFmki4u3Vg/proxsurvey2_thumb%5B1%5D.gif?imgmax=800" width="504" height="496" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP1EaGQXD0I/AAAAAAAADXQ/4f4jLbLRrr8/s1600-h/proxsurvey2%5B3%5D.gif)
+![proxsurvey2](http://lh5.ggpht.com/_vaUVXcmC3OI/TP1EaGQXD0I/AAAAAAAADXQ/4f4jLbLRrr8/s1600-h/proxsurvey2%5B3%5D.gif)
 
 One of the stranger marketing tactics I’ve seen…

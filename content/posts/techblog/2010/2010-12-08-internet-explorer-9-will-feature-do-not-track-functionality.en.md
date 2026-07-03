@@ -1,5 +1,5 @@
 ---
-title: "Internet Explorer 9 will feature &quot;do not track&quot; functionality"
+title: "Internet Explorer 9 will feature \"do not track\" functionality"
 date: 2010-12-08T00:04:00+00:00
 layout: single
 author_profile: true
@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="internetexplorer9logo" border="0" alt="internetexplorer9logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP7EiQJdyQI/AAAAAAAADcU/TxIahxlnwBM/internetexplorer9logo_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP7EeokiiCI/AAAAAAAADcQ/QxckLRYqehM/s1600-h/internetexplorer9logo%5B3%5D.png)BetaNews:** In light of the recent rash of [“history sniffing” bugs](http://blogs.forbes.com/kashmirhill/2010/11/30/history-sniffing-how-youporn-checks-what-other-porn-sites-youve-visited-and-ad-networks-test-the-quality-of-their-data/) and the Federal Trade Commission's [proposed “do not track” list](http://www.ftc.gov/opa/2010/12/privacyreport.shtm), Microsoft today announced that release candidate of Internet Explorer 9 will feature a new tracking protection setting that will keep a user's browsing habits private from sites looking to harvest browser histories.
+**![internetexplorer9logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TP7EeokiiCI/AAAAAAAADcQ/QxckLRYqehM/s1600-h/internetexplorer9logo%5B3%5D.png)BetaNews:** In light of the recent rash of [“history sniffing” bugs](http://blogs.forbes.com/kashmirhill/2010/11/30/history-sniffing-how-youporn-checks-what-other-porn-sites-youve-visited-and-ad-networks-test-the-quality-of-their-data/) and the Federal Trade Commission's [proposed “do not track” list](http://www.ftc.gov/opa/2010/12/privacyreport.shtm), Microsoft today announced that release candidate of Internet Explorer 9 will feature a new tracking protection setting that will keep a user's browsing habits private from sites looking to harvest browser histories.
 
 The new feature of IE9 will let users opt out of sharing their browser information with sites they may not know or necessarily trust. It includes a Tracking Protection List of Web addresses that the browser will call only if the user specifically types the URL into the browser bar. That means any content from a URL that the user has blocked will also not show up in the browser.
 

@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="abc-ipad-app" border="0" alt="abc-ipad-app" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S8ZGLhTjd-I/AAAAAAAAB9g/HiglodUf-Nk/abc-ipad-app_thumb%5B1%5D.jpg?imgmax=800" width="244" height="179" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8ZGJkmTy0I/AAAAAAAAB9c/FR1mlCFYlSU/s1600-h/abc-ipad-app%5B3%5D.jpg) Disney’s ABC television network was the first in the industry to market on the iPad with their impressive app. Downloaders can stream TV episodes free of charge and early data is showing that they’re doing so in droves. 
+![abc-ipad-app](http://lh4.ggpht.com/_vaUVXcmC3OI/S8ZGJkmTy0I/AAAAAAAAB9c/FR1mlCFYlSU/s1600-h/abc-ipad-app%5B3%5D.jpg) Disney’s ABC television network was the first in the industry to market on the iPad with their impressive app. Downloaders can stream TV episodes free of charge and early data is showing that they’re doing so in droves. 
 
 According to data shared with the [Wall Street Journal](http://blogs.wsj.com/digits/2010/04/13/abc-sees-success-in-ipad-app/), the ABC iPad app has been **downloaded 205,000 times and users have already streamed 650,000 television episodes.** Those streams have translated into several million ad impressions for the network’s iPad advertisers, including AT&T, Sears and Target. 
 

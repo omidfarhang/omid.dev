@@ -27,4 +27,4 @@ With straight faces, police officers explain how they were in Dunkin' Donuts whe
 
 BPDNews.com – The Boston Police Virtual Community
 
-As one officer explains, “My reaction was, &#8216;Why would anybody want to destroy a perfectly good KRS-One song?'”
+As one officer explains, “My reaction was, ‘Why would anybody want to destroy a perfectly good KRS-One song?'”

@@ -12,9 +12,11 @@ tags:
 categories:
   - TechBlog
 ---
-[![Symantec_logo_horizontal_2010-1](/images/2014/08/Symantec_logo_horizontal_2010-1-300x79.png)](/images/2014/08/Symantec_logo_horizontal_2010-1.png)Symantec is overhauling its Norton security software, going from nine products to just one as the company turns its attention to smartphones and connected devices.
+[![Symantec_logo_horizontal_2010-1](/images/2014/08/Symantec_logo_horizontal_2010-1-300x79.png)](/images/2014/08/Symantec_logo_horizontal_2010-1.png)
 
-&nbsp;
+Symantec is overhauling its Norton security software, going from nine products to just one as the company turns its attention to smartphones and connected devices.
+
+
 
 The new product, called Norton Security, doubles down on the company's renewed focus on subscription models. In its most recent quarter, when Symantec reported a $236 million profit on a 2% gain in revenue to $1.74 billion, [the company said it planned](http://online.wsj.com/articles/symantec-earnings-rise-on-lower-operating-costs-1407357006) to optimize the Norton business while streamlining product support.
 
@@ -24,7 +26,7 @@ The new product can be used across a family's Windows and Mac computers, as well
 
 [![norton-2015](/images/2014/08/norton-2015-300x200.png)](/images/2014/08/norton-2015.png)
 
-&nbsp;
+
 
 The one-size-fits-all approach to PCs makes sense for Symantec at a time when security concerns are broadening beyond the traditional battlegrounds to smartphones, tablets and other connected devices, Fran Rosch, Symantec's executive vice president in charge of the Norton business, said in a briefing with The Wall Street Journal.
 

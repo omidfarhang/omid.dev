@@ -15,9 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-Cross-copied from <a href="http://betanews.com/2012/08/28/download-firefox-15-and-thunderbird-15-now/" target="_blank">BetaNews</a>: 
+Cross-copied from [BetaNews](http://betanews.com/2012/08/28/download-firefox-15-and-thunderbird-15-now/): 
 
-<a href="http://lh4.ggpht.com/-ZoPErUioMCk/UDzwx4iIvGI/AAAAAAAAHQU/GW5FEZuXKq4/s1600-h/Firefox-15%25255B5%25255D.jpg" target="_blank"><img title="Firefox-15" border="0" alt="Firefox-15" src="http://lh3.ggpht.com/-_JKv3l5urpc/UDzw4AUagTI/AAAAAAAAHQc/2_55EkWK5sA/Firefox-15_thumb%25255B3%25255D.jpg?imgmax=800" width="500" height="382" /></a> 
+![Firefox-15](http://lh4.ggpht.com/-ZoPErUioMCk/UDzwx4iIvGI/AAAAAAAAHQU/GW5FEZuXKq4/s1600-h/Firefox-15%25255B5%25255D.jpg) 
 
 Mozilla has quietly placed major new versions of its open-source, cross-platform web browser and email client onto its download servers ahead of an official release. 
 

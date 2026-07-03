@@ -39,4 +39,3 @@ No.     Title     Writer(s)     Length
 6.     “The Ghost in You” – The Psychedelic Furs – 7:57  
 Total length: 53:19
 
-&nbsp;

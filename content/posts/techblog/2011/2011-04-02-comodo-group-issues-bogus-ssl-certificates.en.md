@@ -12,9 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-**from** <a href="http://boelectronic.blogspot.com/www.schneier.com" target="_blank"><strong>Schneier on Security</strong></a> **by Schneier:**
+**from** [**Schneier on Security**](http://boelectronic.blogspot.com/www.schneier.com) **by Schneier:**
 
-[<img title="Comodo_ssl" border="0" alt="Comodo_ssl" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TZbataFG2ZI/AAAAAAAADzg/n-Zbjz-v6rA/Comodo_ssl%5B5%5D.jpg?imgmax=800" width="152" height="119" />This](http://www.wired.com/threatlevel/2011/03/comodo-compromise/) isn't good:
+[![Comodo_ssl](http://lh6.ggpht.com/_vaUVXcmC3OI/TZbataFG2ZI/AAAAAAAADzg/n-Zbjz-v6rA/Comodo_ssl%5B5%5D.jpg?imgmax=800)This](http://www.wired.com/threatlevel/2011/03/comodo-compromise/) isn't good:
 
 > The hacker, whose March 15 attack was traced to an IP address in Iran, compromised a partner account at the respected certificate authority Comodo Group, which he used to request eight SSL certificates for six domains: mail.google.com, www.google.com, login.yahoo.com, login.skype.com, addons.mozilla.org and login.live.com. 
 > 

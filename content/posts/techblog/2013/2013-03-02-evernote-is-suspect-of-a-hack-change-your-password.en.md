@@ -16,7 +16,9 @@ categories:
 ---
 Cross-posted from Evernote blog:
 
-[![evernote](http://lh4.ggpht.com/-_8i90WEpYrY/UTJZhX3knQI/AAAAAAAAH7E/s4XJA8Y3sqA/evernote_thumb.jpg?imgmax=800 "evernote")](http://lh3.ggpht.com/-ewIxoQhArCg/UTJZV4kRbdI/AAAAAAAAH68/yhn70b2wdyw/s1600-h/evernote%25255B2%25255D.jpg)Evernote's Operations & Security team has discovered and blocked suspicious activity on the Evernote network that appears to have been a coordinated attempt to access secure areas of the Evernote Service. 
+[![evernote](http://lh4.ggpht.com/-_8i90WEpYrY/UTJZhX3knQI/AAAAAAAAH7E/s4XJA8Y3sqA/evernote_thumb.jpg?imgmax=800 "evernote")](http://lh3.ggpht.com/-ewIxoQhArCg/UTJZV4kRbdI/AAAAAAAAH68/yhn70b2wdyw/s1600-h/evernote%25255B2%25255D.jpg)
+
+Evernote's Operations & Security team has discovered and blocked suspicious activity on the Evernote network that appears to have been a coordinated attempt to access secure areas of the Evernote Service. 
 
 **As a precaution to protect your data, we have decided to implement a password reset. Please read below for details and instructions.** 
 
@@ -34,7 +36,7 @@ There are also several important steps that you can take to ensure that your dat
 
   * Avoid using simple passwords based on dictionary words 
   * Never use the same password on multiple sites or services 
-  * Never click on &#8216;reset password' requests in emails — instead go directly to the service
+  * Never click on ‘reset password' requests in emails — instead go directly to the service
 
 Thank you for taking the time to read this. We apologize for the annoyance of having to change your password, but, ultimately, we believe this simple step will result in a more secure Evernote experience. If you have any questions, please do not hesitate to contact [Evernote Support](http://evernote.com/contact/support/). 
 

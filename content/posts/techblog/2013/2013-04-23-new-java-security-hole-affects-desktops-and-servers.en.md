@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![Java](/images/2013/04/Java-300x300.jpg)](/images/2013/04/Java.jpg)Adam Gowdiak, who has made a name for himself by finding flaws in Java, has [reported](http://seclists.org/fulldisclosure/2013/Apr/194) a new vulnerability. Security issue 61, according to Gowdiak's tally, affects current versions of Java SE 7, including the very latest release version 1.7.0_21-b11.
+[![Java](/images/2013/04/Java-300x300.jpg)](/images/2013/04/Java.jpg)
+
+Adam Gowdiak, who has made a name for himself by finding flaws in Java, has [reported](http://seclists.org/fulldisclosure/2013/Apr/194) a new vulnerability. Security issue 61, according to Gowdiak's tally, affects current versions of Java SE 7, including the very latest release version 1.7.0_21-b11.
 
 The hole is once again present in the [Reflection API](http://docs.oracle.com/javase/tutorial/reflect/) and allows attackers to completely bypass the language's sandbox to access the underlying system. Gowdiak has not published any further details about the vulnerability in order to give Oracle time to patch the problem. This means that there are now three vulnerabilities discovered by Gowdiak that still require fixes: problems 54, 56 and 61 as numbered by him.
 

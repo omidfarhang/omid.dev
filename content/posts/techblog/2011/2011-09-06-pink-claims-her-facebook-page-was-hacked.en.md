@@ -1,5 +1,5 @@
 ---
-title: "Pink claims her Facebook page was &#8216;hacked'"
+title: "Pink claims her Facebook page was ‘hacked'"
 date: 2011-09-06T20:31:00+00:00
 layout: single
 author_profile: true

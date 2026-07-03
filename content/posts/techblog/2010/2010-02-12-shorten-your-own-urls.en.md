@@ -16,8 +16,7 @@ _“YOURLS is a small set of PHP scripts that will allow you to run your own URL
 
 It’s installed on your web server (needs PHP 4.3 or better and MYSQL 4.1 with mod_rewrite enabled.)
 
- _“Benefits:</p> 
-
+ _“Benefits:
 1. Not reliant on third party service  
 2. Sends link juice to your domain, not a service provider  
 3. Customize your short links  

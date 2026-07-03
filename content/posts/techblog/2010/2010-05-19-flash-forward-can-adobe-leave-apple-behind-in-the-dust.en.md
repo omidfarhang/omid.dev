@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="2651" border="0" alt="2651" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S_P1RDkJlnI/AAAAAAAACPM/K3CmvzsjQe4/2651_thumb%5B2%5D.jpg?imgmax=800" width="190" height="120" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S_P1PK_aQvI/AAAAAAAACPI/6rpgnZzio9M/s1600-h/2651%5B4%5D.jpg) Flash, sharply rejected by Jobs and Company, has moved on to Apple's competitors, hoping for a warm welcome and the promise of a place in the mobile market. While Apple CEO Steve Jobs' recent open letter deploring Adobe's Flash managed to do little in terms of settling the argument as to who was right in the debate, it did point out many of the problems with the oft-buggy software that may indeed plague the smartphone experience. 
+![2651](http://lh6.ggpht.com/_vaUVXcmC3OI/S_P1PK_aQvI/AAAAAAAACPI/6rpgnZzio9M/s1600-h/2651%5B4%5D.jpg) Flash, sharply rejected by Jobs and Company, has moved on to Apple's competitors, hoping for a warm welcome and the promise of a place in the mobile market. While Apple CEO Steve Jobs' recent open letter deploring Adobe's Flash managed to do little in terms of settling the argument as to who was right in the debate, it did point out many of the problems with the oft-buggy software that may indeed plague the smartphone experience. 
 
 With Flash Player 10.1 set to debut later this year and a slew of Flash alternatives moving into the forefront, the need for compatibility between third-party developers and designers has grown significantly. In 2009, Avi Greengart, the research director of consumer devices at Current Analysis, predicted that if Apple were to leave Flash out of its lineup, then it must be coming up with its own video support setup since it would end up being a disadvantage. 
 

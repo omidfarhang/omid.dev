@@ -13,7 +13,9 @@ categories:
 ---
 For those who missed this update on Nov 18:
 
-[<img title="7ziplogo" border="0" alt="7ziplogo" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TOmyR3JjWNI/AAAAAAAADMY/7bD0gUEQdUo/7ziplogo_thumb%5B1%5D.png?imgmax=800" width="110" height="63" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TOmyO7vKyrI/AAAAAAAADMU/vdhHUycKUqs/s1600-h/7ziplogo%5B3%5D.png)7-Zip 9.20 was released.
+![7ziplogo](http://lh3.ggpht.com/_vaUVXcmC3OI/TOmyO7vKyrI/AAAAAAAADMU/vdhHUycKUqs/s1600-h/7ziplogo%5B3%5D.png)
+
+7-Zip 9.20 was released.
 
 7-Zip for 32-bit Windows:  
 <http://downloads.sourceforge.net/sevenzip/7z920.exe>  

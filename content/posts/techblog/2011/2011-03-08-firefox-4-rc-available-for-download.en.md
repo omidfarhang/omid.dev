@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="firefox_4" border="0" alt="firefox_4" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TXYJaG6SzHI/AAAAAAAADmw/qrxP49IMZ0k/firefox_4_thumb%5B2%5D.jpg?imgmax=800" width="500" height="283" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TXYJX9tuLxI/AAAAAAAADms/ygRI9ovDlyg/s1600-h/firefox_4%5B4%5D.jpg)
+![firefox_4](http://lh4.ggpht.com/_vaUVXcmC3OI/TXYJX9tuLxI/AAAAAAAADms/ygRI9ovDlyg/s1600-h/firefox_4%5B4%5D.jpg)
 
 labnol.org wrote: If you are a fan of Firefox, you may want to get this one.
 

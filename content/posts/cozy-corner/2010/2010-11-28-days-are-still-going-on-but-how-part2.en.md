@@ -10,7 +10,7 @@ tags:
 categories: 
   - Cozy Corner
 ---
-In continue from: [Part 1 of &#8216;Life is going on But how?'](/2010/11/28/days-are-still-going-on-but-how-part1/ "Days are still going on, but how?–Part1")
+In continue from: [Part 1 of ‘Life is going on But how?'](/2010/11/28/days-are-still-going-on-but-how-part1/ "Days are still going on, but how?–Part1")
 
 Next day, I went to hospital again, I went for ‘Heart’, This damned doctor is not here again, so I went upper floor again asking for doctor for the ‘Thyroid’, Oh, That Doctor is in the room next to the doctor I met yesterday, again same secretary!
 

@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="avast" border="0" alt="avast" align="right" src="http://lh6.ggpht.com/-oYFr8vNLzaY/T8TnFIhxHfI/AAAAAAAAGJE/YGwCUxrhoSQ/avast_thumb%25255B4%25255D.png?imgmax=800" width="149" height="55" />](http://lh6.ggpht.com/-E-Av7oSSnT0/T8Tm_bSMxOI/AAAAAAAAGI8/vW_iLJehqSo/s1600-h/avast%25255B6%25255D.png)Petr Chocholous in response to Iranian users contacting avast saying they are unable to open website or update their antivirus said: 
+![avast](http://lh6.ggpht.com/-E-Av7oSSnT0/T8Tm_bSMxOI/AAAAAAAAGI8/vW_iLJehqSo/s1600-h/avast%25255B6%25255D.png)
+
+Petr Chocholous in response to Iranian users contacting avast saying they are unable to open website or update their antivirus said: 
 
 > _AVAST Software a.s. is currently blocking access to port 80 (that effectively means websites and updates of avast! software) of its servers from following countries: Iran, Sudan, Cuba, Syria, North Korea and Burma/Myanmar. AVAST Software a.s. [and its subsidiaries/sister companies] must not provide any services in these countries because of policies and regulations that are applicable to AVAST Software a.s._
 > 

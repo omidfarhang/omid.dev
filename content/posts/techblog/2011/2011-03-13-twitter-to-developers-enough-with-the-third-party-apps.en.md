@@ -11,7 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="twitter_logo_header" border="0" alt="twitter_logo_header" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TXzMnAkNjMI/AAAAAAAADrc/EbkCawqnhtc/twitter_logo_header_thumb%5B2%5D.png?imgmax=800" width="155" height="36" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TXzMlaissqI/AAAAAAAADrY/ez6sy3tUx0U/s1600-h/twitter_logo_header%5B4%5D.png)Twitter has issued a statement to its mailing list encouraging third-party developers to cease creating applications that use the Twitter API solely to duplicate the functionality offered by Twitter's own official clients. Citing an effort to improve consistency of the Twitter user experience, the social networking behemoth is exercising more control over how its service is utilized.
+![twitter_logo_header](http://lh6.ggpht.com/_vaUVXcmC3OI/TXzMlaissqI/AAAAAAAADrY/ez6sy3tUx0U/s1600-h/twitter_logo_header%5B4%5D.png)
+
+Twitter has issued a statement to its mailing list encouraging third-party developers to cease creating applications that use the Twitter API solely to duplicate the functionality offered by Twitter's own official clients. Citing an effort to improve consistency of the Twitter user experience, the social networking behemoth is exercising more control over how its service is utilized.
 
 Developers who already have an established audience, such as those who create such popular clients as TweetDeck and Seesmic, may continue developing their applications and supporting their user bases. However, developers are encouraged to cease creating new applications that duplicate existing functionality. With 750,000 applications in existence that already use the Twitter API, it is quite clear why Twitter wants to stop the tide of new apps and grab the reins of its users' experience: it wants to own the user experience.
 

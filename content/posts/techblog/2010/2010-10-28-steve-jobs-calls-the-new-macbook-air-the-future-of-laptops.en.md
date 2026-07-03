@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="apple-macbook-air_BY3IL_48" border="0" alt="apple-macbook-air_BY3IL_48" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMl_7fzrdFI/AAAAAAAAC8I/9dcEB88hJoA/apple-macbook-air_BY3IL_48_thumb%5B1%5D.jpg?imgmax=800" width="300" height="161" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMl_5pv1cDI/AAAAAAAAC8E/9uruVGdw-Js/s1600-h/apple-macbook-air_BY3IL_48%5B3%5D.jpg)
+![apple-macbook-air_BY3IL_48](http://lh5.ggpht.com/_vaUVXcmC3OI/TMl_5pv1cDI/AAAAAAAAC8E/9uruVGdw-Js/s1600-h/apple-macbook-air_BY3IL_48%5B3%5D.jpg)
 
 During a 90-minute presentation on Wednesday at Apple headquarters, Steve Jobs unveiled Apple’s latest thinner [MacBook Air](http://www.apple.com/macbookair/) 11-inch and 13-inch models, along with the new operating system. The redesigned Mac notebook combines features from the iPhone and iPad with those of a MacBook. The new MacBook Air features a multi-touch that offers you an iPad/iPhone-like experience. Instead of a hard drive, the new thinner, lighter and expensive Mac laptop uses flash storage. Jobs said that all notebooks will be like this someday and added that the Air is the future of the MacBook and all laptops.
 
@@ -58,6 +58,8 @@ While the 11-inch Air with a 64GB memory will set you back £999, the 13-inch ve
 
 ##### Apple New MacBook Air Picture Gallery
 
-[<img title="apple-macbook-air_1_52" border="0" alt="apple-macbook-air_1_52" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMl__RggNeI/AAAAAAAAC8Q/evf5sTsAhko/apple-macbook-air_1_52_thumb.jpg?imgmax=800" width="304" height="148" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMl_8_sGcwI/AAAAAAAAC8M/OlTMYwDVQjE/s1600-h/apple-macbook-air_1_52%5B2%5D.jpg)[<img title="apple-macbook-air_3_52" border="0" alt="apple-macbook-air_3_52" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMmADHMu3EI/AAAAAAAAC8Y/DdD-jqPDKaY/apple-macbook-air_3_52_thumb.jpg?imgmax=800" width="304" height="154" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMmAAgntVAI/AAAAAAAAC8U/qV4RfgKPZZA/s1600-h/apple-macbook-air_3_52%5B2%5D.jpg)[<img title="apple-macbook-air_4_52" border="0" alt="apple-macbook-air_4_52" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMmAG22yBLI/AAAAAAAAC8g/SGt2zocHJ2w/apple-macbook-air_4_52_thumb.jpg?imgmax=800" width="304" height="165" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMmAFAGme2I/AAAAAAAAC8c/Nb1JR9GhkXc/s1600-h/apple-macbook-air_4_52%5B2%5D.jpg)[<img title="apple-macbook-air_52" border="0" alt="apple-macbook-air_52" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMmAK_OKVeI/AAAAAAAAC8o/5b7Xlkq-g7E/apple-macbook-air_52_thumb.jpg?imgmax=800" width="304" height="159" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMmAIozd9iI/AAAAAAAAC8k/cGFWUq9H5Qg/s1600-h/apple-macbook-air_52%5B2%5D.jpg)[<img title="apple-macbook-air_2_52" border="0" alt="apple-macbook-air_2_52" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMmAONa4U2I/AAAAAAAAC8w/4VL1nSYHBqY/apple-macbook-air_2_52_thumb.jpg?imgmax=800" width="304" height="159" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMmAMrIe42I/AAAAAAAAC8s/Nl0Pwoka8Ys/s1600-h/apple-macbook-air_2_52%5B2%5D.jpg)
+![apple-macbook-air_1_52](http://lh3.ggpht.com/_vaUVXcmC3OI/TMl_8_sGcwI/AAAAAAAAC8M/OlTMYwDVQjE/s1600-h/apple-macbook-air_1_52%5B2%5D.jpg)
+
+![apple-macbook-air_3_52](http://lh5.ggpht.com/_vaUVXcmC3OI/TMmAAgntVAI/AAAAAAAAC8U/qV4RfgKPZZA/s1600-h/apple-macbook-air_3_52%5B2%5D.jpg)![apple-macbook-air_4_52](http://lh4.ggpht.com/_vaUVXcmC3OI/TMmAFAGme2I/AAAAAAAAC8c/Nb1JR9GhkXc/s1600-h/apple-macbook-air_4_52%5B2%5D.jpg)![apple-macbook-air_52](http://lh5.ggpht.com/_vaUVXcmC3OI/TMmAIozd9iI/AAAAAAAAC8k/cGFWUq9H5Qg/s1600-h/apple-macbook-air_52%5B2%5D.jpg)![apple-macbook-air_2_52](http://lh6.ggpht.com/_vaUVXcmC3OI/TMmAMrIe42I/AAAAAAAAC8s/Nl0Pwoka8Ys/s1600-h/apple-macbook-air_2_52%5B2%5D.jpg)
 
 _Credit to bornrich.org_

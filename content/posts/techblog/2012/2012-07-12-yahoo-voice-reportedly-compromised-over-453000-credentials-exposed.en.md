@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh4.ggpht.com/-gVQEO5lHFc0/T_6GN1uqvfI/AAAAAAAAGa8/UP3m7Jys0zk/s1600-h/compromised_passwords%25255B4%25255D.jpg" target="_blank"><img title="compromised_passwords" border="0" alt="compromised_passwords" src="http://lh6.ggpht.com/-WQeBY6BPI2M/T_6GR8gQDDI/AAAAAAAAGbE/3R83YkmSU-c/compromised_passwords_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="236" /></a> 
+![compromised_passwords](http://lh4.ggpht.com/-gVQEO5lHFc0/T_6GN1uqvfI/AAAAAAAAGa8/UP3m7Jys0zk/s1600-h/compromised_passwords%25255B4%25255D.jpg) 
 
 <cite>Übergizmo wrote: </cite>If you use Yahoo! Voice a lot – Yahoo’s VoIP service via its Yahoo! Messenger instant messaging application, then you will definitely need to hear this report. Earlier today, more than 453,000 user accounts from an unidentified service owned by Yahoo were posted on a hacker site. The hackers reportedly said that they infiltrated the subdomain by using a union-based [SQL injection](http://hakipedia.com/index.php/SQL_Injection). But the group responsible for the security breach added that the data breach was intended to be a wake-up call for Yahoo. 
 
@@ -23,4 +23,4 @@ categories:
 
 If you have a Yahoo account you should change your password as soon as possible. 
 
-Source: <a href="http://www.ubergizmo.com/2012/07/yahoo-voice-reportedly-compromised-453000-credentials-exposed/" target="_blank">Übergizmo</a>
+Source: [Übergizmo](http://www.ubergizmo.com/2012/07/yahoo-voice-reportedly-compromised-453000-credentials-exposed/)

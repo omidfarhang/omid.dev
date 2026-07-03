@@ -12,7 +12,9 @@ categories:
 ---
 Hi Folks
 
-<a href="http://www.hitmeister.de/superblogs/2012/technik/" target="_blank"><img title="270px-merged-technik" border="0" alt="270px-merged-technik" align="right" src="http://lh3.ggpht.com/-zDIJ2ibTjDs/T43UU9JSJ4I/AAAAAAAAFh8/oYgpwxReSCk/270px-merged-technik%25255B5%25255D.png?imgmax=800" width="270" height="252" /></a>My friend’s blog, <a href="http://www.feldstudie.net/" target="_blank">Feldstudie.net</a>, is now nominated as best blog in Technical category and he needs your support to with all hard competitors he has.
+![270px-merged-technik](http://www.hitmeister.de/superblogs/2012/technik/)
+
+My friend’s blog, [Feldstudie.net](http://www.feldstudie.net/), is now nominated as best blog in Technical category and he needs your support to with all hard competitors he has.
 
 Please visit this link and choose FeldStudie as your nominee: [http://www.hitmeister.de/superblogs/2012/technik/](http://www.hitmeister.de/superblogs/2012/technik/ "http://www.hitmeister.de/superblogs/2012/technik/")
 

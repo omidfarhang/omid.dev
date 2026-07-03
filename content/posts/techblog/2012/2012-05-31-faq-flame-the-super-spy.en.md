@@ -1,5 +1,5 @@
 ---
-title: "FAQ: Flame, the &quot;super spy&quot;"
+title: "FAQ: Flame, the \"super spy\""
 date: 2012-05-31T12:51:00+00:00
 layout: single
 author_profile: true
@@ -14,9 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-Copied from H-Online: <a href="http://www.h-online.com/security/features/FAQ-Flame-the-super-spy-1587063.html" target="_blank">Source</a>
+Copied from H-Online: [Source](http://www.h-online.com/security/features/FAQ-Flame-the-super-spy-1587063.html)
 
-**[<img title="FAQ_flame_kicker" border="0" alt="FAQ_flame_kicker" align="right" src="http://lh6.ggpht.com/-iSvtBbZ6D7E/T8diC1WvPAI/AAAAAAAAGKU/ztNk_M_At_I/FAQ_flame_kicker_thumb.png?imgmax=800" width="220" height="80" />](http://lh3.ggpht.com/-QpyIQWVm1c0/T8diAgxhefI/AAAAAAAAGKM/9IpyOe4KSgU/s1600-h/FAQ_flame_kicker%25255B2%25255D.png)The spyware worm Flame is being billed as a “deadly cyber weapon”, but a calmer analysis reveals it to be a tool by professionals for professionals that doesn't actually have that many new features compared to, say, the widespread online-banking trojan Zeus.** 
+**![FAQ_flame_kicker](http://lh3.ggpht.com/-QpyIQWVm1c0/T8diAgxhefI/AAAAAAAAGKM/9IpyOe4KSgU/s1600-h/FAQ_flame_kicker%25255B2%25255D.png)The spyware worm Flame is being billed as a “deadly cyber weapon”, but a calmer analysis reveals it to be a tool by professionals for professionals that doesn't actually have that many new features compared to, say, the widespread online-banking trojan Zeus.** 
 
 **What is Flame?**
 
@@ -34,7 +34,9 @@ Another unique feature is the LUA interpreter that is included, which can be use
 
 **A modular concept, sophisticated spying features – we've already seen that with Zeus and SpyEye. How is Flame different from those online-banking trojan kits?**
 
-[<img title="flame-infection" border="0" alt="flame-infection" align="right" src="http://lh4.ggpht.com/-LCVcoPpN0x8/T8diKRUbb_I/AAAAAAAAGKk/jIPZzjwELCA/flame-infection_thumb%25255B1%25255D.png?imgmax=800" width="240" height="223" />](http://lh3.ggpht.com/-WpSXMytdxik/T8diGoilLsI/AAAAAAAAGKc/-3EbdLVZvNE/s1600-h/flame-infection%25255B3%25255D.png)Unlike with banking trojans, the individuals behind this program are not interested in spreading it as far and fast as possible – quite the opposite, in fact. As far as we know at this time, the worm didn't try to spread itself at all at first, and if an initial analysis did not come up with anything useful on a system, Flame would even be deleted. Only when it received orders to do so – if the information it found looked promising – did Flame try to infect other systems using local networks, USB sticks, or other methods. And this would typically only infect up to a dozen computers. The final total of about 1,000 infected systems over the course of several years is minimal compared to Zeus and SpyEye, which each worked their way into millions of machines. 
+![flame-infection](http://lh3.ggpht.com/-WpSXMytdxik/T8diGoilLsI/AAAAAAAAGKc/-3EbdLVZvNE/s1600-h/flame-infection%25255B3%25255D.png)
+
+Unlike with banking trojans, the individuals behind this program are not interested in spreading it as far and fast as possible – quite the opposite, in fact. As far as we know at this time, the worm didn't try to spread itself at all at first, and if an initial analysis did not come up with anything useful on a system, Flame would even be deleted. Only when it received orders to do so – if the information it found looked promising – did Flame try to infect other systems using local networks, USB sticks, or other methods. And this would typically only infect up to a dozen computers. The final total of about 1,000 infected systems over the course of several years is minimal compared to Zeus and SpyEye, which each worked their way into millions of machines. 
 
 **And how did Flame get onto the infected computers in the first place?**
 

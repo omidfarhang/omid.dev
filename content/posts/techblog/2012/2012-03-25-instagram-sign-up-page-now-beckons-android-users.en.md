@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="android-instagram-275x171" border="0" alt="android-instagram-275x171" align="right" src="http://lh6.ggpht.com/-r1etv9dnm-g/T294JyL7UoI/AAAAAAAAFTw/CIqMH_dLu4Q/android-instagram-275x171_thumb.jpg?imgmax=800" width="244" height="153" />](http://lh5.ggpht.com/-DevrCx-qMnQ/T294FqZTNlI/AAAAAAAAFTo/3X81Z-wfjuA/s1600-h/android-instagram-275x171%25255B2%25255D.jpg)**Mashable:** The day when Android users will first lay hands on the red hot photo-sharing app Instagram just got even closer. Late Saturday, a [sign-up page](http://instagr.am/android/) appeared on Instagram’s website, inviting all those of the Android persuasion to sign up to be notified when the app is first available for that OS. 
+![android-instagram-275x171](http://lh5.ggpht.com/-DevrCx-qMnQ/T294FqZTNlI/AAAAAAAAFTo/3X81Z-wfjuA/s1600-h/android-instagram-275x171%25255B2%25255D.jpg)
+
+**Mashable:** The day when Android users will first lay hands on the red hot photo-sharing app Instagram just got even closer. Late Saturday, a [sign-up page](http://instagr.am/android/) appeared on Instagram’s website, inviting all those of the Android persuasion to sign up to be notified when the app is first available for that OS. 
 
 The company still isn’t saying when the long-awaited Android Instagram app will actually become available. But now, at least those eager to try out the free app can take some sort of action that brings them closer to Instagram. 
 

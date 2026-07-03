@@ -1,5 +1,5 @@
 ---
-title: "How the fake &#8216;iCade' could become real"
+title: "How the fake ‘iCade' could become real"
 date: 2010-04-02T21:36:00+00:00
 layout: single
 author_profile: true

@@ -16,7 +16,9 @@ categories:
 ---
 Eric Jackson in Forbes Wrote:
 
-<a href="http://lh6.ggpht.com/-t0zdDVWPZgE/UAlrcjD2gPI/AAAAAAAAGhg/DL0GS5gRRGo/s1600-h/Marissa_Mayer%25255B5%25255D.jpg" target="_blank"><img title="Marissa_Mayer" border="0" alt="Marissa_Mayer" align="right" src="http://lh3.ggpht.com/-CVg021NsM_s/UAlrfGFJMzI/AAAAAAAAGho/yFAbs3QZEQQ/Marissa_Mayer_thumb%25255B2%25255D.jpg?imgmax=800" width="160" height="240" /></a>There are so many intriguing aspects of [Marissa Mayer](http://www.forbes.com/profile/marissa-mayer/)‘s hiring at [Yahoo](http://www.forbes.com/companies/yahoo/)! (YHOO). 
+![Marissa_Mayer](http://lh6.ggpht.com/-t0zdDVWPZgE/UAlrcjD2gPI/AAAAAAAAGhg/DL0GS5gRRGo/s1600-h/Marissa_Mayer%25255B5%25255D.jpg)
+
+There are so many intriguing aspects of [Marissa Mayer](http://www.forbes.com/profile/marissa-mayer/)‘s hiring at [Yahoo](http://www.forbes.com/companies/yahoo/)! (YHOO). 
 
 However, what intrigues me the most is the what the future strategic direction of Yahoo! will be under her watch and what this means for the company’s future relationships with [Google](http://www.forbes.com/companies/google/) (GOOG) and [Facebook](http://www.forbes.com/companies/facebook/)(FB) (not to mention [Microsoft](http://www.forbes.com/companies/microsoft/)(MSFT)). 
 

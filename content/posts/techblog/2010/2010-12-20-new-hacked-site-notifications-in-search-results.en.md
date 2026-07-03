@@ -16,7 +16,7 @@ categories:
 Today we’ve added a new notification to our search results that helps people know when a site may have been hacked. We’ve provided [notices for malware](http://www.google.com/support/websearch/bin/answer.py?hl=en&answer=45449) for years, which also involve a separate warning page. Now we’re expanding the search results notifications to help people avoid sites that may have been compromised and altered by a third party, typically for spam. When a user visits a site, we want her to be confident the information on that site comes from the original publisher.  
 Here’s what the notification looks like:
 
-[<img title="hacked-site-full" border="0" alt="hacked-site-full" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQ-rShyMe-I/AAAAAAAADg8/z7uOQ_B40W4/hacked-site-full_thumb%5B1%5D.png?imgmax=800" width="504" height="253" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TQ-rOkQBh0I/AAAAAAAADg4/MgbsUOskgfc/s1600-h/hacked-site-full%5B3%5D.png)
+![hacked-site-full](http://lh3.ggpht.com/_vaUVXcmC3OI/TQ-rOkQBh0I/AAAAAAAADg4/MgbsUOskgfc/s1600-h/hacked-site-full%5B3%5D.png)
 
 Clicking the “This site may be compromised” link brings you to an [article in our Help Center](http://www.google.com/support/websearch/bin/answer.py?answer=190597) which explains more about the notice. Meanwhile, clicking the result itself brings you to the target website, as expected.
 

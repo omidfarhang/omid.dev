@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-**v3.co.uk:** [<img title="credit-card-payment-original-370x229" border="0" alt="credit-card-payment-original-370x229" align="right" src="http://lh6.ggpht.com/-kGITzYVmQwA/TzF_aOFMLzI/AAAAAAAAEi0/KCCNFI2EXfk/credit-card-payment-original-370x229_thumb.jpg?imgmax=800" width="244" height="153" />](http://lh3.ggpht.com/-ljGOC_nJq6w/TzF-4hEvNEI/AAAAAAAAEis/3z6etAgEnlM/s1600-h/credit-card-payment-original-370x229%25255B2%25255D.jpg)The uniform infrastructure and predictable behaviors are making corporate retail and restaurant chains the choice targets for cybercriminals. 
+**v3.co.uk:** ![credit-card-payment-original-370x229](http://lh3.ggpht.com/-ljGOC_nJq6w/TzF-4hEvNEI/AAAAAAAAEis/3z6etAgEnlM/s1600-h/credit-card-payment-original-370x229%25255B2%25255D.jpg)The uniform infrastructure and predictable behaviors are making corporate retail and restaurant chains the choice targets for cybercriminals. 
 
 A report from security firm Trustwave found that attackers favor companies with chains of outlets, such as those commonly found in the food and retail industries, when launching targeted attacks. 
 
@@ -35,7 +35,7 @@ The stolen data is then transmitted over a secured HTTP protection to avoid iden
 
 Users, meanwhile, are still maintaining poor password practices despite the best efforts of administrators and vendors. 
 
-Trustwave found that one of the most commonly-used passwords was &#8216;Password1.' The phrase is among the simplest passwords which meets Windows' requirements for a &#8216;secure' passcode. 
+Trustwave found that one of the most commonly-used passwords was ‘Password1.' The phrase is among the simplest passwords which meets Windows' requirements for a ‘secure' passcode. 
 
 Rather than rely on secure password settings, Percoco recommends that administrators consider the use of two-factor authentication. 
 

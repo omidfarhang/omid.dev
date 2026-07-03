@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://nakedsecurity.sophos.com/" target="_blank"><img title="shutterstock_creditcardterminal250" border="0" alt="shutterstock_creditcardterminal250" align="right" src="http://lh6.ggpht.com/-GS6pgJqypS0/T3do58HXZGI/AAAAAAAAFZM/9p6l8KX0NOQ/shutterstock_creditcardterminal250%25255B9%25255D.jpg?imgmax=800" width="238" height="244" />SophosLabs</a>: Brian Krebs is reporting that [MasterCard and Visa are warning member-banks](http://krebsonsecurity.com/2012/03/mastercard-visa-warn-of-processor-breach/#more-14393) of a payment processor breach that may impact more than 10,000,000 credit cards. 
+[![shutterstock_creditcardterminal250](http://lh6.ggpht.com/-GS6pgJqypS0/T3do58HXZGI/AAAAAAAAFZM/9p6l8KX0NOQ/shutterstock_creditcardterminal250%25255B9%25255D.jpg?imgmax=800)SophosLabs](http://nakedsecurity.sophos.com/): Brian Krebs is reporting that [MasterCard and Visa are warning member-banks](http://krebsonsecurity.com/2012/03/mastercard-visa-warn-of-processor-breach/#more-14393) of a payment processor breach that may impact more than 10,000,000 credit cards. 
 
 It is important to note that MasterCard and Visa's own networks were not involved in the attack, it appears to be related to payment processor Global Payments. 
 
@@ -30,7 +30,9 @@ It is being reported that the attackers got “full Track 1 and Track 2 data”.
 
 Strangely, law enforcement contacts told Krebs they believe the breach is related to a Dominican gang in New York and primarily targeted corporate credit and debit cards. 
 
-[<img title="shutterstock_cardstatement250" border="0" alt="shutterstock_cardstatement250" align="right" src="http://lh4.ggpht.com/-MFITpR1-q0k/T3dpCJaQ3yI/AAAAAAAAFZc/0hi04xONGtk/shutterstock_cardstatement250_thumb.jpg?imgmax=800" width="244" height="165" />](http://lh6.ggpht.com/-poKh_Fr8sIE/T3do-mNYeMI/AAAAAAAAFZU/34h6cVZbe2U/s1600-h/shutterstock_cardstatement250%25255B2%25255D.jpg)Fortunately consumers don't need to worry too much. Card issuing banks (Bank of America, Chase, etc.) are cancelling cards that are involved in the theft and card holders will not be held responsible for any fraudulent activity. 
+![shutterstock_cardstatement250](http://lh6.ggpht.com/-poKh_Fr8sIE/T3do-mNYeMI/AAAAAAAAFZU/34h6cVZbe2U/s1600-h/shutterstock_cardstatement250%25255B2%25255D.jpg)
+
+Fortunately consumers don't need to worry too much. Card issuing banks (Bank of America, Chase, etc.) are cancelling cards that are involved in the theft and card holders will not be held responsible for any fraudulent activity. 
 
 I wouldn't cancel my card or ask for a new one, but it would certainly be prudent to keep a close eye on your statements to be sure nothing suspicious shows up. 
 

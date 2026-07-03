@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh4.ggpht.com/-BGnuq49K5g0/UBf-JJ6gRpI/AAAAAAAAGpM/A6rrfozM0i8/s1600-h/logotype3%25255B2%25255D.png" target="_blank"><img title="logotype3" border="0" alt="logotype3" align="right" src="http://lh4.ggpht.com/-7thbdKMk1CI/UBf-LAtMwlI/AAAAAAAAGpU/B51HHYmUpk8/logotype3_thumb.png?imgmax=800" width="200" height="41" /></a>h-online: At the [Black Hat](http://www.blackhat.com/) hacker conference in Las Vegas, encryption expert Moxie Marlinspike promised that his [CloudCracker](https://www.cloudcracker.com/) web service was able to crack any VPN or WiFi connection secured using [MS-CHAPv2](http://technet.microsoft.com/en-en/library/cc731462%28v=ws.10%29.aspx) within 24 hours. The cost? Around $200. 
+![logotype3](http://lh4.ggpht.com/-BGnuq49K5g0/UBf-JJ6gRpI/AAAAAAAAGpM/A6rrfozM0i8/s1600-h/logotype3%25255B2%25255D.png)
+
+h-online: At the [Black Hat](http://www.blackhat.com/) hacker conference in Las Vegas, encryption expert Moxie Marlinspike promised that his [CloudCracker](https://www.cloudcracker.com/) web service was able to crack any VPN or WiFi connection secured using [MS-CHAPv2](http://technet.microsoft.com/en-en/library/cc731462%28v=ws.10%29.aspx) within 24 hours. The cost? Around $200. 
 
 MS-CHAPv2 is based on the eminently crackable encryption algorithm DES. The problem was first [documented](http://www.schneier.com/paper-pptpv2.html) in 1999 by Bruce Schneier working with two other researchers. A large number of processor cores are still required to crack the encryption within a reasonable time – the number of possible keys makes trying to perform a brute force attack on a normal PC a hopeless task. 
 

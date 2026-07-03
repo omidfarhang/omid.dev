@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="WordPressStats_610x431" border="0" alt="WordPressStats_610x431" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TXYMhnFqC_I/AAAAAAAADm4/fDMyycapOVM/WordPressStats_610x431_thumb%5B1%5D.png?imgmax=800" width="504" height="357" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TXYMehLgrLI/AAAAAAAADm0/NIGbUdDoRYU/s1600-h/WordPressStats_610x431%5B3%5D.png)
+![WordPressStats_610x431](http://lh5.ggpht.com/_vaUVXcmC3OI/TXYMehLgrLI/AAAAAAAADm0/NIGbUdDoRYU/s1600-h/WordPressStats_610x431%5B3%5D.png)
 
 **CNET wrote:** The popular blogging-site hoster [WordPress](http://status.automattic.com/) was hit with another distributed denial-of-service attack this morning, the second in two days.
 

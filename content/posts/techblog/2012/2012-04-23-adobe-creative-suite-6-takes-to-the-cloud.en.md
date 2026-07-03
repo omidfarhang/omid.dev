@@ -11,7 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="hand-cloud-frame-300x229" border="0" alt="hand-cloud-frame-300x229" align="right" src="http://lh3.ggpht.com/-iNPy6kWuucY/T5WksfZo0HI/AAAAAAAAFnw/p7mviOUoawE/hand-cloud-frame-300x229_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="183" />](http://lh4.ggpht.com/-lsw8U_nxjUY/T5WkqBqKddI/AAAAAAAAFno/hiVl5JK3-eE/s1600-h/hand-cloud-frame-300x229%25255B3%25255D.jpg)Cross-posted from BetaNews.com: Adobe took the wraps off Creative Suite 6 on Monday, introducing the largest release to date of the content-creation platform. CS6 now includes up to 12 programs and two companion applications, Bridge and Encore, and is available in four editions: Design Standard, Design and Web Premium, Production Premium, and Master Collection.
+![hand-cloud-frame-300x229](http://lh4.ggpht.com/-lsw8U_nxjUY/T5WkqBqKddI/AAAAAAAAFno/hiVl5JK3-eE/s1600-h/hand-cloud-frame-300x229%25255B3%25255D.jpg)
+
+Cross-posted from BetaNews.com: Adobe took the wraps off Creative Suite 6 on Monday, introducing the largest release to date of the content-creation platform. CS6 now includes up to 12 programs and two companion applications, Bridge and Encore, and is available in four editions: Design Standard, Design and Web Premium, Production Premium, and Master Collection.
 
 The CS6 beta is one of the most successful in the company's history, with one million downloads over [the past month of availability](http://betanews.com/2012/03/22/adobe-releases-photoshop-cs6-beta-get-it-now/) alone, a record for Adobe. The move was slightly unusual considering the company typically does not offer large-scale betas of its products. 
 

@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh5.ggpht.com/-zKsyHPDHvv0/UBFLPzocjUI/AAAAAAAAGm8/1Jk8ivb-Egg/s1600-h/meetone200%25255B2%25255D.png" target="_blank"><img title="meetone200" border="0" alt="meetone200" align="right" src="http://lh3.ggpht.com/-RbdlT_F7rhI/UBFLWOY99VI/AAAAAAAAGnE/g3dX84g8R5Y/meetone200_thumb.png?imgmax=800" width="200" height="40" /></a>h-online: A data leak at the [meetOne](http://de.meetone.com/) dating site allowed anyone to access private data including the plaintext passwords, email addresses and real names of the site's approximately 900,000 members. To obtain the data, an attacker simply needed to increment a URL parameter. After they were informed by **The H**&#8216;s associates at heise Security, the operators soon closed the hole. 
+![meetone200](http://lh5.ggpht.com/-zKsyHPDHvv0/UBFLPzocjUI/AAAAAAAAGm8/1Jk8ivb-Egg/s1600-h/meetone200%25255B2%25255D.png)
+
+h-online: A data leak at the [meetOne](http://de.meetone.com/) dating site allowed anyone to access private data including the plaintext passwords, email addresses and real names of the site's approximately 900,000 members. To obtain the data, an attacker simply needed to increment a URL parameter. After they were informed by **The H**‘s associates at heise Security, the operators soon closed the hole. 
 
 When news of a data leak in one of the dating portal's custom APIs was disclosed to heise Security, the editors managed to reproduce the problem and access the data of a specially created test profile. The API disclosed information including the email address and password of the test user, which allowed access to the user's profile. 
 

@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="predator" border="0" alt="predator" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMBAdpaXS8I/AAAAAAAAC0A/Ku9cLQDIkpE/predator%5B4%5D.jpg?imgmax=800" width="304" height="192" />This](http://www.fastcompany.com/1695219/cia-predator-drones-facing-ip-lawsuit) isn't good:
+[![predator](http://lh6.ggpht.com/_vaUVXcmC3OI/TMBAdpaXS8I/AAAAAAAAC0A/Ku9cLQDIkpE/predator%5B4%5D.jpg?imgmax=800)This](http://www.fastcompany.com/1695219/cia-predator-drones-facing-ip-lawsuit) isn't good:
 
 > _Intelligent Integration Systems (IISi), a small Boston-based software development firm, alleges that their Geospatial Toolkit and Extended SQL Toolkit were pirated by Massachusetts-based Netezza for use by a government client. Subsequent evidence and court proceedings revealed that the “government client” seeking assistance with Predator drones was none other than the Central Intelligence Agency._ 
 > 

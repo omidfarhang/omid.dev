@@ -16,7 +16,7 @@ categories:
 ---
 I just read this and I decided to share with you: 
 
-<a href="http://lh6.ggpht.com/-rxSvJyUeLGM/UHrtIE_jhnI/AAAAAAAAHhM/98q2e7uYTGg/s1600-h/panetta%25255B2%25255D.jpg" target="_blank"><img title="panetta" border="0" alt="panetta" src="http://lh5.ggpht.com/-p8vF4Ptr3LI/UHrtK7zfeYI/AAAAAAAAHhU/NM6DEXxF0uE/panetta_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="337" /></a> 
+![panetta](http://lh6.ggpht.com/-rxSvJyUeLGM/UHrtIE_jhnI/AAAAAAAAHhM/98q2e7uYTGg/s1600-h/panetta%25255B2%25255D.jpg) 
 
 In the hour-long session with the magazine’s editors, he said: 
 

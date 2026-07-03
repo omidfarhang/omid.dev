@@ -14,7 +14,7 @@ categories:
 ---
 Though it is primarily known as a social networking site, Facebook is actually one of the top destinations for photo sharing, and a new user profile design change unveiled Monday ups the visibility of Facebook photos and encourages users to share personal information in a more visual way.
 
-[<img title="5520" border="0" alt="5520" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP0zPe2iYVI/AAAAAAAADVQ/ZtrIg3heBfs/5520_thumb%5B4%5D.jpg?imgmax=800" width="472" height="217" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TP0zNoYokNI/AAAAAAAADVM/CyA5_GE2CCw/s1600-h/5520%5B6%5D.jpg)
+![5520](http://lh4.ggpht.com/_vaUVXcmC3OI/TP0zNoYokNI/AAAAAAAADVM/CyA5_GE2CCw/s1600-h/5520%5B6%5D.jpg)
 
 Two years ago, Facebook came forward with some staggering figures about the photo sharing taking place on its sites, which amounted to between 2-3 Terabytes of photos being updated daily with a peak of 300,000 images per second. Facebook would serve about 15 billion photos, and the storage dedicated just to photography amounted to more than a petabyte.
 

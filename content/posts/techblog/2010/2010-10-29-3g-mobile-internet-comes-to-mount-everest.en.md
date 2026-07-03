@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="mount_everest" border="0" alt="mount_everest" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMqrAhqml5I/AAAAAAAAC90/eHy_tx-i6dM/mount_everest_thumb.jpg?imgmax=800" width="304" height="204" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMqq-89SyBI/AAAAAAAAC9w/cCQus1D8QCk/s1600-h/mount_everest%5B2%5D.jpg)Nepali mobile network operator Ncell has installed the first 3G base station at the summit of Mount Everest, giving visitors, climbers and people living in the Khumbu Valley the ability to make calls and wirelessly connect to the Internet.
+![mount_everest](http://lh4.ggpht.com/_vaUVXcmC3OI/TMqq-89SyBI/AAAAAAAAC9w/cCQus1D8QCk/s1600-h/mount_everest%5B2%5D.jpg)
+
+Nepali mobile network operator Ncell has installed the first 3G base station at the summit of Mount Everest, giving visitors, climbers and people living in the Khumbu Valley the ability to make calls and wirelessly connect to the Internet.
 
 To test out the new facility, Ncell also made the world’s highest video call at 17,388 feet.
 

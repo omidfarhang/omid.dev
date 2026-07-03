@@ -70,14 +70,14 @@ At this time, we have noted that the masked URLs end up at either mybuger.info o
 
 The ljivore.info site hosts several exploits including:
 
-  * [Adobe Reader &#8216;util.printf()' JavaScript Function Stack Buffer Overflow Vulnerability](http://www.securityfocus.com/bid/30035)
+  * [Adobe Reader ‘util.printf()' JavaScript Function Stack Buffer Overflow Vulnerability](http://www.securityfocus.com/bid/30035)
   * [Adobe Acrobat and Reader Multiple Arbitrary Code Execution and Security Vulnerabilities](http://www.securityfocus.com/bid/27641)
-  * [Adobe Acrobat and Reader Collab &#8216;getIcon()' JavaScript Method Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/34169)
-  * [Adobe Reader and Acrobat &#8216;newplayer()' JavaScript Method Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/37331)
-  * [Adobe Reader &#8216;CoolType.dll' TTF Font Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/43057)
+  * [Adobe Acrobat and Reader Collab ‘getIcon()' JavaScript Method Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/34169)
+  * [Adobe Reader and Acrobat ‘newplayer()' JavaScript Method Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/37331)
+  * [Adobe Reader ‘CoolType.dll' TTF Font Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/43057)
   * [Oracle Java SE and Java for Business Unspecified Vulnerabilities](http://www.securityfocus.com/bid/39492)
   * [Oracle Java SE and Java for Business JRE Trusted Method Chaining Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/39065)
-  * [Apple QuickTime &#8216;\_Marshaled\_pUnk' Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/42841)
+  * [Apple QuickTime ‘\_Marshaled\_pUnk' Remote Code Execution Vulnerability](http://www.securityfocus.com/bid/42841)
 
 Successful exploitation will result in the download and installation of the same executable file as found on mybuger.info.
 

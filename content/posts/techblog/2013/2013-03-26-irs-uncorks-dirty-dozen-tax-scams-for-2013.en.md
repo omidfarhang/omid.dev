@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img class="alignright size-medium wp-image-6489" alt="tax[6]" src="/images/2013/03/tax6-300x300.jpg" width="300" height="300" srcset="/images/2013/03/tax6-300x300.jpg 300w, /images/2013/03/tax6-150x150.jpg 150w, /images/2013/03/tax6.jpg 347w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/tax6.jpg)The Internal Revenue Service today reminded taxpayers that there are plenty of scam artists and cybercriminals that want your money.
+![tax](/images/2013/03/tax6.jpg)
+
+The Internal Revenue Service today reminded taxpayers that there are plenty of scam artists and cybercriminals that want your money.
 
 The tax collection agency issued its “Dirty Dozen” list of tax scams that it says peak at this time of year and include:
 
@@ -22,7 +24,7 @@ The tax collection agency issued its “Dirty Dozen” list of tax scams that it
 
 Tax fraud through the use of identity theft tops this year's Dirty Dozen list. Identity theft occurs when someone uses personal information such as your name, Social Security number (SSN) or other identifying information, without your permission, to commit fraud or other crimes. In many cases, an identity thief uses a legitimate taxpayer's identity to fraudulently file a tax return and claim a refund, the IRS said.
 
-&nbsp;
+
 
 The IRS is trying to battle the rising tide of identity theft and in January completed what it called a massive national sweep targeting 389 suspects in 32 states and Puerto Rico. The IRS Criminal Investigation unit the total number of identity theft investigations to more than 1,460 since the start of the federal 2012 fiscal year on Oct. 1, 2011. The identity theft fight reflects a wider effort underway at the IRS. Among the highlights:
 
@@ -80,4 +82,4 @@ For years, unscrupulous promoters have urged taxpayers to transfer assets into t
 
 Over the years, numerous individuals have been identified as evading U.S. taxes by hiding income in offshore banks, brokerage accounts or nominee entities, using debit cards, credit cards or wire transfers to access the funds. Others have employed foreign trusts, employee-leasing schemes, private annuities or insurance plans for the same purpose. The IRS uses information gained from its investigations to pursue taxpayers with undeclared accounts, as well as the banks and bankers suspected of helping clients hide their assets overseas. The IRS said it works closely with the Department of Justice (DOJ) to prosecute tax evasion cases.
 
-_Cross-posted from_ <a href="http://www.networkworld.com/" target="_blank"><em>networkworld.com</em></a>
+_Cross-posted from_ [_networkworld.com_](http://www.networkworld.com/)

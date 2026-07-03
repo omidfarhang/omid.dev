@@ -25,11 +25,11 @@ First, of course, comes the pilot program, which will test the viability of a �
 
 What will testers be handling? An unbranded notebook computer called the Cr-48.
 
-[<img title="5524" border="0" alt="5524" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP7FiW-LR2I/AAAAAAAADck/YOl1-K9xOYA/5524_thumb.jpg?imgmax=800" width="468" height="306" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7FfpXQdaI/AAAAAAAADcg/rk7En-8g9sw/s1600-h/5524%5B2%5D.jpg)
+![5524](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7FfpXQdaI/AAAAAAAADcg/rk7En-8g9sw/s1600-h/5524%5B2%5D.jpg)
 
-It's got a 12.1&#8243; display, full sized keyboard, oversized touchpad, World Mode 3G connectivity via the Qualcomm Gobi chipset, 802.11n dual-band Wi-Fi, an 8+ hour active battery life with an estimated 8+ hours of standby, a built-in webcam, no spinning hard drives, and a built-in “jailbreaking mode.” Google today announced Acer and Samsung as OEM partners, and they will be releasing Chrome OS notebooks in mid-2011. They're all powered by Intel chips, so there's no ARM-based instruction sets here. Unfortunately, the exact chip family and power ratings weren't disclosed today.
+It's got a 12.1″ display, full sized keyboard, oversized touchpad, World Mode 3G connectivity via the Qualcomm Gobi chipset, 802.11n dual-band Wi-Fi, an 8+ hour active battery life with an estimated 8+ hours of standby, a built-in webcam, no spinning hard drives, and a built-in “jailbreaking mode.” Google today announced Acer and Samsung as OEM partners, and they will be releasing Chrome OS notebooks in mid-2011. They're all powered by Intel chips, so there's no ARM-based instruction sets here. Unfortunately, the exact chip family and power ratings weren't disclosed today.
 
- [<img title="5523" border="0" alt="5523" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP7Fn6uv3hI/AAAAAAAADcs/Sljn0DYYJh0/5523_thumb.jpg?imgmax=800" width="450" height="255" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7FlUxdYEI/AAAAAAAADco/aE-AYAlAW-s/s1600-h/5523%5B2%5D.jpg)<small>Sundar Pichai, Vice President of Google Chrome Product Management holds one of the notebooks used in the pilot program.</small>
+ ![5523](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7FlUxdYEI/AAAAAAAADco/aE-AYAlAW-s/s1600-h/5523%5B2%5D.jpg)<small>Sundar Pichai, Vice President of Google Chrome Product Management holds one of the notebooks used in the pilot program.</small>
 
 One of the most interesting parts of the Chrome OS notebook will be its focus on connectivity…FREE connectivity. Google has partnered with Verizon Wireless to offer Chrome notebook users special no-contract data plans. The Verizon Wireless Chrome OS data plan will have 100MB of free data per month per user. Daily unlimited data passes will go for $9.99 per day, and other plans will be sold 1GB at a time.
 

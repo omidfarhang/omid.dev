@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="firstaid" border="0" alt="firstaid" src="http://lh4.ggpht.com/_vaUVXcmC3OI/THpoCgEjeKI/AAAAAAAACbU/SRd0dxXIx68/firstaid_thumb%5B1%5D.gif?imgmax=800" width="240" height="240" />](http://lh4.ggpht.com/_vaUVXcmC3OI/THpn_9QaUDI/AAAAAAAACbQ/qd8KRO66liE/s1600-h/firstaid%5B3%5D.gif)The following internet advice which may have a subject title such as above could just get you killed.
+![firstaid](http://lh4.ggpht.com/_vaUVXcmC3OI/THpn_9QaUDI/AAAAAAAACbQ/qd8KRO66liE/s1600-h/firstaid%5B3%5D.gif)
+
+The following internet advice which may have a subject title such as above could just get you killed.
 
 Like any other middle aged, balding, over-weight chap my mother still worries about me. So when her friend sent this to her and many other people, she forwarded it to me first:-
 
@@ -41,8 +43,7 @@ Like any other middle aged, balding, over-weight chap my mother still worries ab
 > 
 > _Rather than sending jokes (not sure I agree with this part keep on sending them are probably stopping me getting a heart attack) please contribute by forwarding this mail which can save a person’s life….If this message comes around you ……more than once…..please don’t get irritated…..U need to be happy that you are being reminded of how to tackle….Heart attacks….AGAIN…_
 
-   _</p> 
-
+   _
 * * *_ 
 
 It sounds very plausible and if true would be worth spreading to as many people as possible. But I told my mother not to send it on to anyone until I checked it out.  I went straight to the British Heart Foundation website and other sources which revealed that this is dangerous advice and to all intents and purposes not true (except in the most extremely limited of contexts):-
@@ -51,8 +52,7 @@ It sounds very plausible and if true would be worth spreading to as many people 
 
 * * *
 
-[<img title="bhf_logo" border="0" alt="bhf_logo" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/THpoIsI6t6I/AAAAAAAACbc/6Ou8Krjqtbk/bhf_logo_thumb.gif?imgmax=800" width="189" height="244" />](http://lh3.ggpht.com/_vaUVXcmC3OI/THpoFa97QvI/AAAAAAAACbY/P0JfJsjZqcA/s1600-h/bhf_logo%5B2%5D.gif) </p> 
-
+![bhf_logo](http://lh3.ggpht.com/_vaUVXcmC3OI/THpoFa97QvI/AAAAAAAACbY/P0JfJsjZqcA/s1600-h/bhf_logo%5B2%5D.gif)
 > **_Cough cardiopulmonary resuscitation_**
 > 
 > _What is ‘cough cardiopulmonary resuscitation’?  
@@ -97,4 +97,4 @@ It sounds very plausible and if true would be worth spreading to as many people 
 > _Resuscitation UK Council  
 >_ [_www.resus.org.uk_](http://www.resus.org.uk/)
 
-* * *So remember, always verify internet advice if it is not directly from a trusted source.</p>
+* * *So remember, always verify internet advice if it is not directly from a trusted source.

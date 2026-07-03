@@ -11,14 +11,16 @@ tags:
 categories:
   - TechBlog
 ---
-   
-[<img title="pounds" border="0" alt="pounds" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO0rUNgXikI/AAAAAAAADMs/FqysEOP11UE/pounds_thumb%5B1%5D.jpg?imgmax=800" width="170" height="170" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0rS-IVlxI/AAAAAAAADMo/pGrIonDBnvk/s1600-h/pounds%5B3%5D.jpg)The Information Commissioner's Office (ICO) has fined two organizations for serious breaches of the Data Protection Act – the first to be issued under new tougher guidelines in the UK.
+
+![pounds](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0rS-IVlxI/AAAAAAAADMo/pGrIonDBnvk/s1600-h/pounds%5B3%5D.jpg)
+
+The Information Commissioner's Office (ICO) has fined two organizations for serious breaches of the Data Protection Act – the first to be issued under new tougher guidelines in the UK.
 
 The security breach at Sheffield-based firm A4e happened in June 2010, after the company issued an unencrypted laptop to an employee in order to do work from home. The laptop was subsequently stolen from the employee's house.
 
 That wouldn't have mattered too much, of course, if the laptop hadn't contained sensitive information. Unfortunately it carried personal data relating to 24,000 people who had used community legal advice centers in Hull and Leicester.
 
-[<img title="a4e" border="0" alt="a4e" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TO0rYEntwFI/AAAAAAAADM0/S7hCWsK2qcA/a4e_thumb%5B4%5D.jpg?imgmax=800" width="393" height="304" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TO0rWftxiTI/AAAAAAAADMw/jFHnRneu6i0/s1600-h/a4e%5B6%5D.jpg)
+![a4e](http://lh4.ggpht.com/_vaUVXcmC3OI/TO0rWftxiTI/AAAAAAAADMw/jFHnRneu6i0/s1600-h/a4e%5B6%5D.jpg)
 
 Personal details recorded on the laptop included full names, dates of birth, postcodes, employment status, income level, information about alleged criminal activity and whether an individual had been a victim of violence.
 
@@ -28,7 +30,7 @@ The ICO have now fined A4e a total of £60,000, saying that the data loss could 
 
 And that's the point, of course. The entire problem and the subsequent fine was entirely avoidable – if the laptop had been properly encrypted, as Information Commissioner Christopher Graham noted:
 
-> <tt>"Thousands of people's privacy was potentially compromised by the company’s failure to take the simple step of encrypting the data".</tt>
+> `"Thousands of people's privacy was potentially compromised by the company’s failure to take the simple step of encrypting the data".`
 
 In a separate incident, Hertfordshire County Council has also been fined £100,000 by the ICO after it [faxed details of a child sex abuse case](http://www.bbc.co.uk/news/uk-11821203) to a member of the public.
 

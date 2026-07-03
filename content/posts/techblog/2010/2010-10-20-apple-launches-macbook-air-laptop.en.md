@@ -15,7 +15,9 @@ categories:
 ---
 **Apple is cashing in on the popularity of its iPhone and iPad to boost demand for its oldest product, the Macintosh.**
 
-[<img title="_49592447_010460311-1" border="0" alt="_49592447_010460311-1" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL9jzt_f76I/AAAAAAAACyw/vMhhGVR36no/_49592447_010460311-1_thumb%5B3%5D.jpg?imgmax=800" width="308" height="175" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TL9jtcvH_bI/AAAAAAAACys/KuLcYl8VWbY/s1600-h/_49592447_010460311-1%5B7%5D.jpg)The company launched a revamped MacBook Air at an event dubbed “Back to the Mac” at its Cupertino headquarters.
+![_49592447_010460311-1](http://lh4.ggpht.com/_vaUVXcmC3OI/TL9jtcvH_bI/AAAAAAAACys/KuLcYl8VWbY/s1600-h/_49592447_010460311-1%5B7%5D.jpg)
+
+The company launched a revamped MacBook Air at an event dubbed “Back to the Mac” at its Cupertino headquarters.
 
 The computer is seen as a marriage of what Apple has learned from desktop computing and mobile devices. Like the iPad, the Air will have no hard drive and rely on flash memory.
 
@@ -33,7 +35,9 @@ On sale
 
 The new MacBook Air is 0.11 inches thick at its thinnest point. Apple said the computer's battery life lets users surf the web for seven hours. In standby mode, the battery can last 30 days.
 
-[<img title="_49590504_img_6714" border="0" alt="_49590504_img_6714" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TL9kBxL5v9I/AAAAAAAACy4/7U0xCfZ3rI0/_49590504_img_6714_thumb%5B3%5D.jpg?imgmax=800" width="308" height="175" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TL9j56tD5mI/AAAAAAAACy0/xlo_YkeC5uI/s1600-h/_49590504_img_6714%5B5%5D.jpg)Models start at $999 and are now shipping.
+![_49590504_img_6714](http://lh6.ggpht.com/_vaUVXcmC3OI/TL9j56tD5mI/AAAAAAAACy0/xlo_YkeC5uI/s1600-h/_49590504_img_6714%5B5%5D.jpg)
+
+Models start at $999 and are now shipping.
 
 In an overview, Apple said the Macintosh accounted for a third of the company's revenue or $22bn in the fiscal year that has just ended.
 

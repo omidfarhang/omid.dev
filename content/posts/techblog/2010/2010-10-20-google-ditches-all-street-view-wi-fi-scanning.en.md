@@ -15,7 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="GoogleWiFi" border="0" alt="GoogleWiFi" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL7eS-1pEzI/AAAAAAAACyI/PT4zfOk_N4w/GoogleWiFi_thumb%5B1%5D.jpg?imgmax=800" width="188" height="142" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL7eRHeWY-I/AAAAAAAACyE/TrjozHFk5js/s1600-h/GoogleWiFi%5B3%5D.jpg)Google has no plans to resume using its Street View cars to collect information about the location of Wi-Fi networks, a practice that led to a flurry of privacy probes after the company said it unintentionally captured fragments of unencrypted data.
+![GoogleWiFi](http://lh5.ggpht.com/_vaUVXcmC3OI/TL7eRHeWY-I/AAAAAAAACyE/TrjozHFk5js/s1600-h/GoogleWiFi%5B3%5D.jpg)
+
+Google has no plans to resume using its Street View cars to collect information about the location of Wi-Fi networks, a practice that led to a flurry of privacy probes after the company said it unintentionally captured fragments of unencrypted data.
 
 The disclosure appeared in a [report](http://www.priv.gc.ca/media/nr-c/2010/let_101019_e.cfm) on Street View released today by Canadian privacy commissioner Jennifer Stoddart, who said that “collection is discontinued and Google has no plans to resume it.” Assembling an extensive list of the location of Wi-Fi access points can aid in geolocation, especially in areas where connections to cell towers are unreliable.
 

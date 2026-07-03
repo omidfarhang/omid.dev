@@ -16,7 +16,7 @@ categories:
 ---
 Apple has issued the latest update to its Mac OS X operating system, bringing Snow Leopard users up to Mac OS X 10.6.5.
 
-[<img title="mac-os-x-10-6-5-update" border="0" alt="mac-os-x-10-6-5-update" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TN01tWs2lGI/AAAAAAAADIQ/GTxFgnXl56E/mac-os-x-10-6-5-update_thumb%5B1%5D.jpg?imgmax=800" width="300" height="313" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TN01rNSOUEI/AAAAAAAADIM/9CYtgTnCaJY/s1600-h/mac-os-x-10-6-5-update%5B3%5D.jpg)
+![mac-os-x-10-6-5-update](http://lh4.ggpht.com/_vaUVXcmC3OI/TN01rNSOUEI/AAAAAAAADIM/9CYtgTnCaJY/s1600-h/mac-os-x-10-6-5-update%5B3%5D.jpg)
 
 Enhancements include improved Microsoft Exchange reliability, and a variety of performance and stability improvements. But what's probably most interesting to you is that the update also includes important security fixes.
 

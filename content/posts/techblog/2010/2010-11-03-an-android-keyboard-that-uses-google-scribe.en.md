@@ -15,7 +15,9 @@ categories:
 
 [Scrybe](http://www.appidio.com/apps/scrybe/) is a free Android keyboard that uses Google Scribe to generate suggestions. It's not developed by Google and it uses an unofficial Google Scribe API, but it's an interesting application.
 
-[<img title="scrybe-keyboard" border="0" alt="scrybe-keyboard" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNGTxONSHYI/AAAAAAAAC_8/P4YGEotsgbQ/scrybe-keyboard_thumb%5B3%5D.png?imgmax=800" width="284" height="471" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNGTvQ5ywRI/AAAAAAAAC_4/zwrVxMbYE10/s1600-h/scrybe-keyboard%5B5%5D.png)[<img title="scrybe-keyboard-2" border="0" alt="scrybe-keyboard-2" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNGT0nOizPI/AAAAAAAADAE/p2lYCqrz8zw/scrybe-keyboard-2_thumb.png?imgmax=800" width="284" height="471" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNGTyTIWTmI/AAAAAAAADAA/rBUuX2oatY4/s1600-h/scrybe-keyboard-2%5B2%5D.png)
+![scrybe-keyboard](http://lh5.ggpht.com/_vaUVXcmC3OI/TNGTvQ5ywRI/AAAAAAAAC_4/zwrVxMbYE10/s1600-h/scrybe-keyboard%5B5%5D.png)
+
+![scrybe-keyboard-2](http://lh5.ggpht.com/_vaUVXcmC3OI/TNGTyTIWTmI/AAAAAAAADAA/rBUuX2oatY4/s1600-h/scrybe-keyboard-2%5B2%5D.png)
 
 Scrybe needs to fix many issues to become really useful. If you delete some letters from word, Scrybe is not able to detect that you're not writing a new word. Another problem is that you can't type very fast because Scrybe tries to fetch the suggestions.
 

@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="t1larg.jumo.grab" border="0" alt="t1larg.jumo.grab" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TPUlXlH2kfI/AAAAAAAADRo/FPmO0JfBu9Q/t1larg.jumo.grab_thumb%5B2%5D.jpg?imgmax=800" width="500" height="281" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TPUlVnE_avI/AAAAAAAADRk/XcDzuyoTDlo/s1600-h/t1larg.jumo.grab%5B4%5D.jpg)CNN – Mashable:** Today, users can start connecting with all their favorite social causes in one online sphere, as Facebook co-founder Chris Hughes has launched his much-buzzed-about social network, Jumo.
+**![t1larg.jumo.grab](http://lh3.ggpht.com/_vaUVXcmC3OI/TPUlVnE_avI/AAAAAAAADRk/XcDzuyoTDlo/s1600-h/t1larg.jumo.grab%5B4%5D.jpg)CNN – Mashable:** Today, users can start connecting with all their favorite social causes in one online sphere, as Facebook co-founder Chris Hughes has launched his much-buzzed-about social network, Jumo.
 
 Hughes, who left Facebook in 2007 to become the Obama campaign's director of online organizing, soft-launched Jumo last March.
 
@@ -66,6 +66,6 @@ On Facebook, it's more about the connections you make with friends than those yo
 
 At this juncture, you're probably thinking: “So what does this site actually do? Isn't this just another form of the infamous slacktivism?”
 
-“I think that when people click a &#8216;Like' button of follow something on Twitter or sign up for an e-mail list, it's the first statement of support for any interest,” Hughes says. “It doesn't mean that they don't then go out and do things like knock on doors and go to protests or go to rallies or go volunteer or donate. They do do these things.”
+“I think that when people click a ‘Like' button of follow something on Twitter or sign up for an e-mail list, it's the first statement of support for any interest,” Hughes says. “It doesn't mean that they don't then go out and do things like knock on doors and go to protests or go to rallies or go volunteer or donate. They do do these things.”
 
 “We can make it easier for people to connect with the professionals working in a lot of fields in order to make change happen. There are a million different groups out there working day in, day out to provide healthcare or education services, or do good government work and I think that our challenge is not to use social media to reinvent the engagement paradigm, but instead to support the work of the people who are out there getting the job done, day in, day out.”

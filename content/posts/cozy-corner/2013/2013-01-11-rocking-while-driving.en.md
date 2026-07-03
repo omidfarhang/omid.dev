@@ -11,7 +11,9 @@ tags:
 categories: 
   - Cozy Corner
 ---
-[<img class="alignright size-thumbnail wp-image-136" alt="music-equalizer-800" src="/images/2013/01/music-equalizer-800-150x150.jpg" width="150" height="150" />](/images/2013/01/music-equalizer-800.jpg)Hey GuysI've been playing some random music from my favorite playlist to spend some time and I found these stuff perfect for rocking while driving! here we go!
+![music-equalizer-800](/images/2013/01/music-equalizer-800.jpg)
+
+Hey GuysI've been playing some random music from my favorite playlist to spend some time and I found these stuff perfect for rocking while driving! here we go!
 
 {{< youtube yBkjwxoQEh8 >}}
 TAI/Steve Aoki – Beat Down (Original Mix)

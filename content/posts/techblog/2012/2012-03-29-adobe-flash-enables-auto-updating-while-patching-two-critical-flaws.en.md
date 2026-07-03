@@ -21,7 +21,7 @@ Google Chrome users may consider themselves spoiled, as they have been enjoying 
 
 To obtain the latest Flash Player you should visit <http://get.adobe.com/flashplayer>. Windows users will be presented with a new dialog box during installation prompting them to enable automatic updating. 
 
-[<img title="adobeflashplayerupdating500" border="0" alt="adobeflashplayerupdating500" src="http://lh5.ggpht.com/-79_71Hfyzvc/T3RvP-GNlpI/AAAAAAAAFVI/nrXxBkcsJLQ/adobeflashplayerupdating500_thumb%25255B2%25255D.png?imgmax=800" width="504" height="211" />](http://lh4.ggpht.com/-YNUwoFhB2vI/T3RvL7tctoI/AAAAAAAAFVA/RLt2vhkWlWc/s1600-h/adobeflashplayerupdating500%25255B4%25255D.png) 
+![adobeflashplayerupdating500](http://lh4.ggpht.com/-YNUwoFhB2vI/T3RvL7tctoI/AAAAAAAAFVA/RLt2vhkWlWc/s1600-h/adobeflashplayerupdating500%25255B4%25255D.png) 
 
 I highly recommend choosing the option “Install updates automatically when available (recommended)” as there is nearly no downside with keeping your Flash Player up to date. 
 

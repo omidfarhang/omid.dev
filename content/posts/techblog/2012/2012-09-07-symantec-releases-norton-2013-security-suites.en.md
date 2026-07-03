@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh5.ggpht.com/-_Ue0jCvK8cQ/UEoLsNDKH8I/AAAAAAAAHWQ/OlK97LYx0hc/s1600-h/Norton-Internet-Security-2013-600x450%25255B3%25255D.jpg" target="_blank"><img title="Norton-Internet-Security-2013-600x450" border="0" alt="Norton-Internet-Security-2013-600x450" src="http://lh4.ggpht.com/-iKQi8DkF5gI/UEoLyXGoNaI/AAAAAAAAHWY/B570Q2NlJRY/Norton-Internet-Security-2013-600x450_thumb%25255B1%25255D.jpg?imgmax=800" width="500" height="375" /></a> 
+![Norton-Internet-Security-2013-600x450](http://lh5.ggpht.com/-_Ue0jCvK8cQ/UEoLsNDKH8I/AAAAAAAAHWQ/OlK97LYx0hc/s1600-h/Norton-Internet-Security-2013-600x450%25255B3%25255D.jpg) 
 
 BetaNews: Symantec has released brand new versions of its Norton security packages for Windows, Norton Anti-Virus 2013, Norton Internet Security 2013 and Norton 360 2013. It’s the first time all three packages have been updated simultaneously, while the branding has also been amended to remove all references to a date, simply naming each Norton Anti-Virus, Norton Internet Security and Norton 360, respectively. 
 

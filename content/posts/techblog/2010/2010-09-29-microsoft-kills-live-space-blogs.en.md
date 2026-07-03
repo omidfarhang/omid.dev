@@ -18,7 +18,7 @@ categories:
 ---
 **Microsoft** announced that it has collaborated with **WordPress** and now onwards it will be the default blogging platform for Windows Live users. This means Microsoft is killing it’s own blogging platform and suggesting users to go for better platform called ‘WordPress’.
 
-[<img title="8321.ConnectWordPress.comtoMessenger_thumb_5A730F1A" border="0" alt="8321.ConnectWordPress.comtoMessenger_thumb_5A730F1A" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TKKFkLxlgEI/AAAAAAAACkE/GcuDJhxDQB0/8321.ConnectWordPress.comtoMessenger_thumb_5A730F1A_thumb%5B2%5D.jpg?imgmax=800" width="304" height="252" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TKKFjAj9CDI/AAAAAAAACkA/37VMzIFp_BQ/s1600-h/8321.ConnectWordPress.comtoMessenger_thumb_5A730F1A%5B4%5D.jpg)
+![8321.ConnectWordPress.comtoMessenger_thumb_5A730F1A](http://lh4.ggpht.com/_vaUVXcmC3OI/TKKFjAj9CDI/AAAAAAAACkA/37VMzIFp_BQ/s1600-h/8321.ConnectWordPress.comtoMessenger_thumb_5A730F1A%5B4%5D.jpg)
 
 In [TechCrunch Disrupt](http://disrupt.techcrunch.com/2010-sf/) conference, Windows Live Director ‘Dharmesh Mehta’ announced that all existing [Windows Live Spaces](http://spaces.live.com/) users will be migrated over to an account at [WordPress.com](http://wordpress.com/).
 

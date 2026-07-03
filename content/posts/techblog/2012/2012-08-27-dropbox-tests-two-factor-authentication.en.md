@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh3.ggpht.com/-VmPK3Uxbkus/UDvEJU2-llI/AAAAAAAAHOE/JTxTlkYWbAA/s1600-h/Dropbox-Logo-BG%25255B7%25255D.jpg" target="_blank"><img title="Dropbox-Logo-BG" border="0" alt="Dropbox-Logo-BG" align="right" src="http://lh4.ggpht.com/-SaLnXJbCELY/UDvEZX9baWI/AAAAAAAAHOM/700tNOzAoOU/Dropbox-Logo-BG_thumb%25255B5%25255D.jpg?imgmax=800" width="269" height="100" /></a>h-online: Cloud backup provider [Dropbox](https://www.dropbox.com/) says [it has begun](https://forums.dropbox.com/topic.php?id=66910) a public test of two-factor authentication for its service. Dropbox had announced it would start offering the security measure after the service experienced a data leak at the beginning of the month. 
+![Dropbox-Logo-BG](http://lh3.ggpht.com/-VmPK3Uxbkus/UDvEJU2-llI/AAAAAAAAHOE/JTxTlkYWbAA/s1600-h/Dropbox-Logo-BG%25255B7%25255D.jpg)
+
+h-online: Cloud backup provider [Dropbox](https://www.dropbox.com/) says [it has begun](https://forums.dropbox.com/topic.php?id=66910) a public test of two-factor authentication for its service. Dropbox had announced it would start offering the security measure after the service experienced a data leak at the beginning of the month. 
 
 Users who activate two factor authentication will have to enter a security code after logging in with their username and password. The security code can only be used once and is sent to the user's mobile phone in a text message. To generate security codes, users can also use a variety of smartphone applications such as Google Authenticator. Details of the process are given on the [two-step verification help page](https://www.dropbox.com/help/363/en). 
 

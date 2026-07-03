@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMqoVtOj8kI/AAAAAAAAC9s/ZF8oFalNqwk/Google_thumb%5B1%5D.png?imgmax=800" width="300" height="109" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMqoSNu0lII/AAAAAAAAC9o/tBdjpf6qDIw/s1600-h/Google%5B3%5D.png)Google search engine’s latest innovation technology that allows users to search for information in real time does not come without its own challenges. For example, how do you prevent children from seeing adult related content while conducting a live search? Howbeit controversial, the solution, it appears, is by restricting a group of search terms so that they do not function with the new instant search feature.
+![Google](http://lh3.ggpht.com/_vaUVXcmC3OI/TMqoSNu0lII/AAAAAAAAC9o/tBdjpf6qDIw/s1600-h/Google%5B3%5D.png)
+
+Google search engine’s latest innovation technology that allows users to search for information in real time does not come without its own challenges. For example, how do you prevent children from seeing adult related content while conducting a live search? Howbeit controversial, the solution, it appears, is by restricting a group of search terms so that they do not function with the new instant search feature.
 
 Consequently, users will not be exposed to viewing pornographic, hate, violent or disturbing results when conducting searches. This means that inasmuch as Google Instant was designed to simplify search and make finding information quicker on Google, no one will see results deemed to be offensive in nature by the Google team, unless they want to. Users will therefore have to hit enter to confirm a search query once Instant search stops delivering new results due to these restrictions.
 

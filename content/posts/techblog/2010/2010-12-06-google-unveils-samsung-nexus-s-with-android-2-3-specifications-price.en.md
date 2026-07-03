@@ -1,5 +1,5 @@
 ---
-title: "Google unveils Samsung Nexus S with Android 2.3 [Specifications &amp; Price]"
+title: "Google unveils Samsung Nexus S with Android 2.3 [Specifications & Price]"
 date: 2010-12-06T20:30:00+00:00
 layout: single
 author_profile: true
@@ -37,7 +37,7 @@ Google has finally announced its new phone ‘Nexus S’ manufactured by Samsung
 
 ###### Display
 
-  * 4.0&#8243; WVGA (480×800) 
+  * 4.0″ WVGA (480×800) 
   * Contour Display with curved glass screen 
   * Super AMOLED 
   * 235 ppi 

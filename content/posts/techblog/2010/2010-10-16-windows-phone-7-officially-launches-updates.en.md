@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![windowsphone_logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TLoCBMRojwI/AAAAAAAACqw/1heUsofqf9o/windowsphone_logo%5B5%5D.png?imgmax=800 "windowsphone_logo")](http://www.windowsphone7.com/)Windows Phone 7 officially launched 11Oct at a press event in NYC Monday morning.  You can check out more here – [http://www.windowsphone7.com](http://www.windowsphone7.com/)
+[![windowsphone_logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TLoCBMRojwI/AAAAAAAACqw/1heUsofqf9o/windowsphone_logo%5B5%5D.png?imgmax=800 "windowsphone_logo")](http://www.windowsphone7.com/)
+
+Windows Phone 7 officially launched 11Oct at a press event in NYC Monday morning.  You can check out more here – [http://www.windowsphone7.com](http://www.windowsphone7.com/)
 
 By the way, if you have any doubts about the platform or it’s responsiveness, you should really watch this video here – [http://www.microsoft.com/presspass/presskits/windowsphone/videoGallery.aspx?contentID=wp7\_unveil03&WT.z\_convert=Share](http://www.microsoft.com/presspass/presskits/windowsphone/videoGallery.aspx?contentID=wp7_unveil03&WT.z_convert=Share)
 

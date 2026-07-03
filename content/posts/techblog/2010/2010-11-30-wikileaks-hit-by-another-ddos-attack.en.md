@@ -15,9 +15,11 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="wikileaks-225" border="0" alt="wikileaks-225" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TPVvgpLpPxI/AAAAAAAADTI/v4sw5fK44tY/wikileaks-225_thumb.jpg?imgmax=800" width="225" height="225" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TPVveG5q6YI/AAAAAAAADTE/sjB6Cwbko9c/s1600-h/wikileaks-225%5B3%5D.jpg)Controversial whistleblower website WikiLeaks was hit by another massive distributed denial of service (DDoS) attack earlier this morning. On Sunday, the site was taken down for several hours via a sustained <a href="http://boelectronic.blogspot.com/2010/11/wikileaks-targeted-in-ddos-attack-as.html" target="_blank">DDoS attack</a>, just hours before the release of thousands of secret U.S. documents. 
+![wikileaks-225](http://lh4.ggpht.com/_vaUVXcmC3OI/TPVveG5q6YI/AAAAAAAADTE/sjB6Cwbko9c/s1600-h/wikileaks-225%5B3%5D.jpg)
 
-Responsibility for Sunday’s attack was <a href="http://boelectronic.blogspot.com/2010/12/hacker-takes-responsibility-for.html" target="_blank">claimed by a single hacker</a>, the Jester, though many are skeptical that it was the work of just one person.
+Controversial whistleblower website WikiLeaks was hit by another massive distributed denial of service (DDoS) attack earlier this morning. On Sunday, the site was taken down for several hours via a sustained [DDoS attack](http://boelectronic.blogspot.com/2010/11/wikileaks-targeted-in-ddos-attack-as.html), just hours before the release of thousands of secret U.S. documents. 
+
+Responsibility for Sunday’s attack was [claimed by a single hacker](http://boelectronic.blogspot.com/2010/12/hacker-takes-responsibility-for.html), the Jester, though many are skeptical that it was the work of just one person.
 
 Today’s attack, which was initially focused on <http://cablegate.wikileaks.org/>, has been much more intense. At 9:00 a.m. ET, WikiLeaks [tweeted](http://twitter.com/#!/wikileaks/status/9609091915718656), “DDOS attack now exceeding 10 Gigabits a second.”
 

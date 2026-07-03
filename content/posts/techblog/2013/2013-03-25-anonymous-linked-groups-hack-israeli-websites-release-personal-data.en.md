@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img class="alignright size-medium wp-image-6493" alt="anony" src="/images/2013/03/anony-300x200.jpg" width="300" height="200" srcset="/images/2013/03/anony-300x200.jpg 300w, /images/2013/03/anony.jpg 540w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2013/03/anony.jpg)An anti-Israel hacking collective affiliated with Anonymous says it has initiated a widespread cyber attack against the Jewish state, penetrating websites affiliated with the Mossad security service and a slew of related entities.
+![anony](/images/2013/03/anony.jpg)
+
+An anti-Israel hacking collective affiliated with Anonymous says it has initiated a widespread cyber attack against the Jewish state, penetrating websites affiliated with the Mossad security service and a slew of related entities.
 
 The hackers [claimed](https://twitter.com/YourAnonNews/status/315608983023013888) late Friday that they have obtained and [released](http://pastebin.com/Q9Gapf8z) personal information relating to 35,000 Israeli government officials, including politicians, military leaders, and police officers, according to a [Twitter feed](https://twitter.com/YourAnonNews/status/315611499278266368) associated with the hackers.
 

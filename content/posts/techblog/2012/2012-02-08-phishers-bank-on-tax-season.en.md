@@ -15,7 +15,7 @@ categories:
 ---
 **Sunbelt:** With the U.S. currently in **tax season**, online criminals have, once again, sought to take advantage of this. Robert Stetson, one of Sunbelt’s malware researchers, spotted a phishing email posing as [**Intuit Inc.**](http://en.wikipedia.org/wiki/Intuit), a company that “develops financial and tax preparation software”. They developed **_Quicken_** and **_TurboTax_**. Below is a screenshot of the said email: 
 
-[<img title="Intuit-phish_img01" border="0" alt="Intuit-phish_img01" src="http://lh3.ggpht.com/-4HNpvZdO7vQ/TzKZrrKWBbI/AAAAAAAAEjU/2hrZCHYGmOU/Intuit-phish_img01_thumb%25255B1%25255D.png?imgmax=800" width="504" height="197" />](http://lh4.ggpht.com/-WTtSWt-JWAg/TzKZk0COMGI/AAAAAAAAEjM/Ly8oyRUDnL8/s1600-h/Intuit-phish_img01%25255B3%25255D.png) 
+![Intuit-phish_img01](http://lh4.ggpht.com/-WTtSWt-JWAg/TzKZk0COMGI/AAAAAAAAEjM/Ly8oyRUDnL8/s1600-h/Intuit-phish_img01%25255B3%25255D.png) 
 
 Email details are as follows: 
 

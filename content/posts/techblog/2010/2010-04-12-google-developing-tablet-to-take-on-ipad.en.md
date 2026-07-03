@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="googletablet" border="0" alt="googletablet" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8NVsKZ7wCI/AAAAAAAAB6A/NeR-_MBvozs/googletablet_thumb%5B1%5D.jpg?imgmax=800" width="244" height="164" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S8NVqcPbVwI/AAAAAAAAB58/XZymF-g1tWY/s1600-h/googletablet%5B3%5D.jpg) Google CEO Eric Schmidt has confirmed that his company is developing a tablet device based on the Android operating system, according to friends that spoke to the executive at a recent event in Los Angeles. The New York Times [reports](http://www.nytimes.com/2010/04/12/technology/12slate.html?pagewanted=2) that Google has “been working with several hardware manufacturers,” and “hopes to make its own apps marketplace available for new slate-like devices.” 
+![googletablet](http://lh4.ggpht.com/_vaUVXcmC3OI/S8NVqcPbVwI/AAAAAAAAB58/XZymF-g1tWY/s1600-h/googletablet%5B3%5D.jpg) Google CEO Eric Schmidt has confirmed that his company is developing a tablet device based on the Android operating system, according to friends that spoke to the executive at a recent event in Los Angeles. The New York Times [reports](http://www.nytimes.com/2010/04/12/technology/12slate.html?pagewanted=2) that Google has “been working with several hardware manufacturers,” and “hopes to make its own apps marketplace available for new slate-like devices.” 
 
 Although Google is yet to publicly announce such a device, many signs point to its likely launch. For starters, Google has been rumored to be developing a slate device with HTC – the same company it brought Nexus One to market with – since January. Moreover, the company has already announced plans for an e-book store expected to launch within the next few months. 
 

@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="facebookgraph" border="0" alt="facebookgraph" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S-nB0XpA-YI/AAAAAAAACME/7O95qjOI-c0/facebookgraph_thumb%5B1%5D.jpg?imgmax=800" width="264" height="194" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S-nByVVYI9I/AAAAAAAACMA/Qix8AB6LYrU/s1600-h/facebookgraph%5B3%5D.jpg) Despite ongoing questions about privacy, Facebook’s new social plugins continue to expand their footprint across the web, with the company announcing on Tuesday that more than 100,000 websites have now deployed them. 
+![facebookgraph](http://lh3.ggpht.com/_vaUVXcmC3OI/S-nByVVYI9I/AAAAAAAACMA/Qix8AB6LYrU/s1600-h/facebookgraph%5B3%5D.jpg) Despite ongoing questions about privacy, Facebook’s new social plugins continue to expand their footprint across the web, with the company announcing on Tuesday that more than 100,000 websites have now deployed them. 
 
 The plugins –- which allow websites to add Facebook-powered social features without requiring users to log in –- were announced less than a month ago at Facebook’s developer conference, and attracted more than 50,000 publishers in the first week. 
 

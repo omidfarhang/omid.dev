@@ -17,7 +17,7 @@ categories:
 
 In one spam campaign, we observed it sending out the email seen below to only Russian target email addresses. 
 
-[<img title="russian_mail" border="0" alt="russian_mail" src="http://lh4.ggpht.com/-A9_Bw5SkQys/TzUeiA9CraI/AAAAAAAAEp0/6bKVIcTON_Y/russian_mail_thumb%25255B1%25255D.jpg?imgmax=800" width="504" height="361" />](http://lh6.ggpht.com/-kd6UW2UQ4m4/TzUedx01I0I/AAAAAAAAEps/cWqeSHcIbGc/s1600-h/russian_mail%25255B3%25255D.jpg) 
+![russian_mail](http://lh6.ggpht.com/-kd6UW2UQ4m4/TzUedx01I0I/AAAAAAAAEps/cWqeSHcIbGc/s1600-h/russian_mail%25255B3%25255D.jpg) 
 
 Email translation (Rough translation) 
 
@@ -29,6 +29,6 @@ _With best wishes, Ruspres._
 
 The Rospres.com link seen in the spam email leads to a slanderous article hosted on the Rospres.com site and can be seen in the picture below. We have found no evidence that the link contained in the spam email is used to propagate the threat. The site Rospres.com seems to contain numerous articles on high profile Russian individuals such as politicians and businessmen that could be considered slanderous. 
 
-[<img title="russian_mail_2" border="0" alt="russian_mail_2" src="http://lh6.ggpht.com/-w4hww9dadtg/TzUem4BtJiI/AAAAAAAAEqE/23VqxSlizNA/russian_mail_2_thumb%25255B1%25255D.jpg?imgmax=800" width="504" height="410" />](http://lh5.ggpht.com/-JCBJ0PIn5yU/TzUekaBedbI/AAAAAAAAEp8/hYWrpWfMcv8/s1600-h/russian_mail_2%25255B3%25255D.jpg) 
+![russian_mail_2](http://lh5.ggpht.com/-JCBJ0PIn5yU/TzUekaBedbI/AAAAAAAAEp8/hYWrpWfMcv8/s1600-h/russian_mail_2%25255B3%25255D.jpg) 
 
 The individual in this article is [Mikhail Prokhorov](http://en.wikipedia.org/wiki/Mikhail_Prokhorov) a Russian billionaire [oligarch](http://en.wikipedia.org/wiki/Oligarch) and an independent candidate in the [Russian 2012 elections](http://en.wikipedia.org/wiki/Russian_presidential_election,_2012) this March.  While it is not clear whether the intent of this Waledac spam campaign has been to push the site Rospres.com or to smear the election campaign of any individual, it does question the exact motivation of the malware gang controlling the [W32.Waledac.C](http://www.symantec.com/security_response/writeup.jsp?docid=2012-020814-3639-99&om_rssid=sr-latestthreats30days) variant.

@@ -18,7 +18,7 @@ TechSpot wrote: Microsoft this week reportedly signed off the Release to Manufac
 
 A user by the name of sp3ciali5t has managed to post an image of the IE9 about screen for this build on [Twitter](http://twitter.com/#!/sp3ciali5t/status/45587083791831041). It's in Turkish, but you can still the build number:
 
-[<img title="ie9_rtm" border="0" alt="ie9_rtm" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TXv3HsLJdPI/AAAAAAAADrM/u5l5NrQwiQ0/ie9_rtm_thumb%5B3%5D.jpg?imgmax=800" width="391" height="341" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TXv3EtttLpI/AAAAAAAADrI/pVCSI1ZB1_U/s1600-h/ie9_rtm%5B5%5D.jpg)
+![ie9_rtm](http://lh3.ggpht.com/_vaUVXcmC3OI/TXv3EtttLpI/AAAAAAAADrI/pVCSI1ZB1_U/s1600-h/ie9_rtm%5B5%5D.jpg)
 
 Earlier this week, Microsoft confirmed that IE9 would be launching on March 14, 2011 at 9:00 AM PST. The company will hold a launch party in Austin, Texas during the South by Southwest Interactive Festival (SXSWi), but not before a press briefing where IE senior director Ryan Gavin said there will still be “a few surprises.”
 

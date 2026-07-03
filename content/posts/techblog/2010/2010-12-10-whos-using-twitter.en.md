@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="twitter_logo_header" border="0" alt="twitter_logo_header" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TQKopBkdl4I/AAAAAAAADes/EzSwYDx2tFc/twitter_logo_header_thumb.png?imgmax=800" width="155" height="36" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TQKonKX--eI/AAAAAAAADeo/4oQfatILvtw/s1600-h/twitter_logo_header%5B2%5D.png)Mashable:** The Pew Center is out with a new report that focuses on Twitter usage in the U.S., and it reveals that 6% of the entire U.S. adult population uses Twitter. 
+**![twitter_logo_header](http://lh5.ggpht.com/_vaUVXcmC3OI/TQKonKX--eI/AAAAAAAADeo/4oQfatILvtw/s1600-h/twitter_logo_header%5B2%5D.png)Mashable:** The Pew Center is out with a new report that focuses on Twitter usage in the U.S., and it reveals that 6% of the entire U.S. adult population uses Twitter. 
 
 Young adults ages 18 to 29, minority groups — 13% black and 18% Hispanic — and urban dwellers are among the groups with the highest level of Twitter use. The report reveals that women and those with college educations are also slightly more likely than other groups to tweet.
 

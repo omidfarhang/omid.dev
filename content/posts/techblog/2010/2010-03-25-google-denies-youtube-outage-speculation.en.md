@@ -28,7 +28,7 @@ The source said it's Google's default policy to not discuss the details on the c
 
 The search-engine giant has been embroiled in a public feud with the communist nation since January, when Google said it was the target of a “highly sophisticated and targeted attack” originating in China.
 
-“I think many people are, understandably, looking for China to take some unique and extraordinary technical measures to &#8216;punish' Google,” said Ron Deibert, director of the Citizen Lab at the University of Toronto's Munk Centre for International Studies.
+“I think many people are, understandably, looking for China to take some unique and extraordinary technical measures to ‘punish' Google,” said Ron Deibert, director of the Citizen Lab at the University of Toronto's Munk Centre for International Studies.
 
 But he said that nothing along those lines has been made public.
 

@@ -17,7 +17,7 @@ categories:
 
 The results look like this:
 
-[<img title="Breakup-Graph" border="0" alt="Breakup-Graph" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TNWUhQTojQI/AAAAAAAADGI/ChpFWQSx-g0/Breakup-Graph_thumb.jpg?imgmax=800" width="304" height="131" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNWUf46p9bI/AAAAAAAADGE/_WJ8bTIPYZo/s1600-h/Breakup-Graph%5B2%5D.jpg)
+![Breakup-Graph](http://lh6.ggpht.com/_vaUVXcmC3OI/TNWUf46p9bI/AAAAAAAADGE/_WJ8bTIPYZo/s1600-h/Breakup-Graph%5B2%5D.jpg)
 
 Note the huge surges around Spring Break, the beginning of Summer, and two weeks before Christmas, as well as the sharp decline on Christmas Day itself. The majority of the breakups are announced on Mondays (Garfield was right – lasagna _is_ awesome. Non sequitor.) The graph also doesn’t show what happens when someone in a relationship makes a detailed graph about ending relationships, but I’m guessing that’s been an instant breakup one out of one times.
 

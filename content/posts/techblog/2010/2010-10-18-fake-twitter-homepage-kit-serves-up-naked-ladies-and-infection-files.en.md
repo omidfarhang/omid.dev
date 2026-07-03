@@ -21,15 +21,15 @@ categories:
 ---
 You might be wondering why the frontpage of Twitter has a big “Edit” line running through it in the screenshot below: 
 
-[<img title="twiteditthis1" border="0" alt="twiteditthis1" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TLzHRe5eOjI/AAAAAAAACuE/McNkCb2fOFA/twiteditthis1_thumb%5B1%5D.gif?imgmax=800" width="304" height="177" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TLzHOvpC0eI/AAAAAAAACuA/r3FRHHnt8CQ/s1600-h/twiteditthis1%5B3%5D.gif)
+![twiteditthis1](http://lh5.ggpht.com/_vaUVXcmC3OI/TLzHOvpC0eI/AAAAAAAACuA/r3FRHHnt8CQ/s1600-h/twiteditthis1%5B3%5D.gif)
 
 The answer, of course, is that this is not the real Twitter page at all. It’s part of an increasingly popular kit used for shenanigans:
 
-[<img title="twiteditthis2" border="0" alt="twiteditthis2" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TLzHVfPVgUI/AAAAAAAACuM/6x7gPGCKDnU/twiteditthis2_thumb%5B3%5D.gif?imgmax=800" width="291" height="72" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TLzHTFrD9iI/AAAAAAAACuI/zPsX0o9t__o/s1600-h/twiteditthis2%5B5%5D.gif)
+![twiteditthis2](http://lh4.ggpht.com/_vaUVXcmC3OI/TLzHTFrD9iI/AAAAAAAACuI/zPsX0o9t__o/s1600-h/twiteditthis2%5B5%5D.gif)
 
 The scammer downloads the zip, edits the links in the .htm file and places something likely to catch the attention of an end-user underneath the “Edit” line. The fact that the fake content is sitting directly underneath the “New Twitter” promotional text is not a coincidence.
 
-[<img title="twiteditthis3" border="0" alt="twiteditthis3" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TLzHfv8e0MI/AAAAAAAACuU/vMl4pLnHbEQ/twiteditthis3_thumb%5B1%5D.jpg?imgmax=800" width="304" height="224" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TLzHYVDw6JI/AAAAAAAACuQ/wD40s7SDJdc/s1600-h/twiteditthis3%5B3%5D.jpg)
+![twiteditthis3](http://lh6.ggpht.com/_vaUVXcmC3OI/TLzHYVDw6JI/AAAAAAAACuQ/wD40s7SDJdc/s1600-h/twiteditthis3%5B3%5D.jpg)
 
 _“Hey look, semi-naked ladies are part of the new Twitter experience! Yay! Oh wait, I have to run some sort of Sun Java update…and now my computer is sending Viagra spam to my mother.”  
 _  

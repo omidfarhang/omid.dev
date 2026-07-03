@@ -13,4 +13,4 @@ categories:
 ---
 I wish Lady Liberty a Happy 125th Birthday today!
 
-[<img class="aligncenter size-full wp-image-209" alt="new-york-statue-of-liberty" src="/images/2011/10/new-york-statue-of-liberty.jpg" width="415" height="332" srcset="/images/sites/2/2011/10/new-york-statue-of-liberty.jpg 415w, /images/sites/2/2011/10/new-york-statue-of-liberty-300x240.jpg 300w" sizes="(max-width: 415px) 100vw, 415px" />](/images/2011/10/new-york-statue-of-liberty.jpg)
+![new-york-statue-of-liberty](/images/2011/10/new-york-statue-of-liberty.jpg)

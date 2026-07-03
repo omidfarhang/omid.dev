@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh5.ggpht.com/-ksUPgy2ECpU/UBuS13_u1KI/AAAAAAAAG3s/ybwO195whCo/s1600-h/google-wallet.top%25255B2%25255D.jpg" target="_blank"><img title="google-wallet.top" border="0" alt="google-wallet.top" src="http://lh4.ggpht.com/-91p_yBSz4KU/UBuS36xRaFI/AAAAAAAAG30/LE5-Or5eBcc/google-wallet.top_thumb.jpg?imgmax=800" width="475" height="307" /></a> 
+![google-wallet.top](http://lh5.ggpht.com/-ksUPgy2ECpU/UBuS13_u1KI/AAAAAAAAG3s/ybwO195whCo/s1600-h/google-wallet.top%25255B2%25255D.jpg) 
 
 NEW YORK (CNNMoney) — Google just took your phone a step closer to replacing your wallet in the mobile payment revolution. 
 
@@ -20,4 +20,4 @@ The company expanded its mobile payments platform, Google Wallet, to accept mult
 
 Instead of swiping a card, users enter their card info into the service and are able to tap their phones at venues accepting Google Wallet payments. It's a step forward for the company looking to delve into the mobile payment realm – an increasingly crowded space. 
 
-Continue Reading in CNNMoney: <a href="http://money.cnn.com/2012/08/02/technology/google-wallet/" target="_blank">http://money.cnn.com/2012/08/02/technology/google-wallet/</a>
+Continue Reading in CNNMoney: [http://money.cnn.com/2012/08/02/technology/google-wallet/](http://money.cnn.com/2012/08/02/technology/google-wallet/)

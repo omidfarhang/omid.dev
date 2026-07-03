@@ -16,6 +16,6 @@ Now 23 Years old (I know I know, I’m getting old…![Winking smile](http://lh4
 
 So here I want to share my birthday cake with you!
 
-[<img class="aligncenter size-full wp-image-220" alt="DSC00098" src="/images/2011/03/DSC00098.jpg" width="500" height="400" srcset="/images/sites/2/2011/03/DSC00098.jpg 500w, /images/sites/2/2011/03/DSC00098-300x240.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/images/2011/03/DSC00098.jpg)
+![DSC00098](/images/2011/03/DSC00098.jpg)
 
 Also here I want to Thank all my friends who sent so lovely and kind birthday wishes to me.

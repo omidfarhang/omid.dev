@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="tumblr" border="0" alt="tumblr" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP5M4WxHziI/AAAAAAAADbM/rWnI8AyJlTo/tumblr_thumb%5B1%5D.png?imgmax=800" width="229" height="229" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TP5M2k5F9HI/AAAAAAAADbI/RlnDmwHoyjo/s1600-h/tumblr%5B3%5D.png)**Mashable:** Tumblr has returned to the web after a full day’s, err, vacation. 
+![tumblr](http://lh6.ggpht.com/_vaUVXcmC3OI/TP5M2k5F9HI/AAAAAAAADbI/RlnDmwHoyjo/s1600-h/tumblr%5B3%5D.png)
+
+**Mashable:** Tumblr has returned to the web after a full day’s, err, vacation. 
 
 The popular blogging/reblogging platform went down yesterday afternoon during some planned maintenance; the exact reasons for the outage are unknown, but Tumblr has mentioned database cluster issues.
 

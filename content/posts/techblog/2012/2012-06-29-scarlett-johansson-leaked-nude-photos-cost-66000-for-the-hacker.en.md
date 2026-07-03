@@ -17,7 +17,9 @@ categories:
 ---
 Copied from LA-Times: 
 
-<a href="http://lh3.ggpht.com/-rRL8loL-R2o/T-4F4L0EK4I/AAAAAAAAGZ0/A9AVSf-hZyc/s1600-h/hacker%25255B4%25255D.jpg" target="_blank"><img title="hacker" border="0" alt="hacker" align="right" src="http://lh4.ggpht.com/-Ebu-RKTSiTc/T-4F6IsVtXI/AAAAAAAAGZ8/x8lvfVkvIhI/hacker_thumb%25255B2%25255D.jpg?imgmax=800" width="240" height="178" /></a>A man who hacked the email accounts of celebrities should pay movie star Scarlett Johansson $66,179.46 in compensation, federal prosecutors said. 
+![hacker](http://lh3.ggpht.com/-rRL8loL-R2o/T-4F4L0EK4I/AAAAAAAAGZ0/A9AVSf-hZyc/s1600-h/hacker%25255B4%25255D.jpg)
+
+A man who hacked the email accounts of celebrities should pay movie star Scarlett Johansson $66,179.46 in compensation, federal prosecutors said. 
 
 The hacker also should serve 71 months in prison and pay a total of $150,000 in compensation to all his victims, prosecutors said in court papers filed this week. 
 
@@ -28,8 +30,6 @@ Prosecutors in a sentencing memorandum say Chaney took naked images of Christina
 Prosecutors want Chaney to compensate some of his victims. In addition to Johansson, they are asking a judge to order him to pay $7,500 to Aguilera; $76,767.35 to Olstead, an actress best known for the TV show “The Secret Life of American Teenager,” and $10,374.59 to Aftra Health Fund. 
 
 Assistant U.S. attorneys Lisa Feldman and Wesley Hsu, in seeking the sentencing and compensation, wrote Chaney did not stop even after being caught. 
-
-<a name="more"></a> 
 
 “Indeed, it was apparently such a rush that he continued to do it after the FBI had come and searched his home and seized his computer,” Feldman  wrote, arguing for the 71-month sentence. “At least once, on an occasion after defendant’s residence had already been searched by the FBI, the recipient of the email, a secondary victim, complied.” 
 

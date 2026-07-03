@@ -17,7 +17,9 @@ categories:
 
 ##### Oslo, Norway — December 16, 2010
 
-[<img title="Opera-logo-JPG" border="0" alt="Opera-logo-JPG" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TQt-TGFSIAI/AAAAAAAADgk/3TgB7XgKsfQ/Opera-logo-JPG_thumb%5B4%5D.jpg?imgmax=800" width="250" height="88" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TQt-RcEwZFI/AAAAAAAADgg/obSKmxznErk/s1600-h/Opera-logo-JPG%5B7%5D.jpg)Opera Software debuted the newest version of its award-winning browser today. Opera 11 combines elegant design, smart updates to some of our most popular features and new ways to customize Opera to your preferences. Download it today for Windows, Mac and Linux computers from <http://www.opera.com/>.
+![Opera-logo-JPG](http://lh5.ggpht.com/_vaUVXcmC3OI/TQt-RcEwZFI/AAAAAAAADgg/obSKmxznErk/s1600-h/Opera-logo-JPG%5B7%5D.jpg)
+
+Opera Software debuted the newest version of its award-winning browser today. Opera 11 combines elegant design, smart updates to some of our most popular features and new ways to customize Opera to your preferences. Download it today for Windows, Mac and Linux computers from <http://www.opera.com/>.
 
 ##### What’s new
 

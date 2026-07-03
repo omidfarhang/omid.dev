@@ -19,11 +19,11 @@ categories:
 
 Speculation surrounded Stone’s mysterious “tweet and delete” spree over the past few months.
 
-Emma addressed the rumors on an <a href="http://ryanseacrest.com/2013/03/21/emma-stone-clarifies-twitter-shailene-woodley-andrew-garfield-rumors/" target="_blank">On Air with Ryan Seacrest</a> radio interview.
+Emma addressed the rumors on an [On Air with Ryan Seacrest](http://ryanseacrest.com/2013/03/21/emma-stone-clarifies-twitter-shailene-woodley-andrew-garfield-rumors/) radio interview.
 
-One tweet in particular on her <a href="http://www.twitter.com/stonenobrien" target="_blank">Twitter</a> appeared to be an anagram that solved to read, “Andrew and Shailene sitting in a tree.”
+One tweet in particular on her [Twitter](http://www.twitter.com/stonenobrien) appeared to be an anagram that solved to read, “Andrew and Shailene sitting in a tree.”
 
-Other posts included, “Andrew doesn’t smash, btw. Silly boy” and “Love you guys,” reports <a href="http://perezhilton.com/2013-03-09-emma-stone-twitter-message-andrew-garfield-deleted" target="_blank">Perez Hilton</a>.
+Other posts included, “Andrew doesn’t smash, btw. Silly boy” and “Love you guys,” reports [Perez Hilton](http://perezhilton.com/2013-03-09-emma-stone-twitter-message-andrew-garfield-deleted).
 
 Fans were left wondering whether there was trouble in paradise for the _Amazing Spiderman_ couple off-screen.
 
@@ -33,4 +33,4 @@ In fact, Stone has been hacked and locked out of her account every other time a 
 
 The person changed her email and password, but since the incident, she and her team have been able to permanently delete the Twitter to prevent any further mischief.
 
-_Cross-posted from_ <a href="http://thecelebritycafe.com/" target="_blank"><em>thecelebritycafe.com</em></a>
+_Cross-posted from_ [_thecelebritycafe.com_](http://thecelebritycafe.com/)

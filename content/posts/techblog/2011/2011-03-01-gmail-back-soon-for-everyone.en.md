@@ -15,7 +15,9 @@ categories:
 ---
 Gmail Blog posted:
 
-[<img title="Gmail_logo" border="0" alt="Gmail_logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TWzdcwKx_fI/AAAAAAAADk8/MuiJov5tynI/Gmail_logo_thumb.png?imgmax=800" width="143" height="59" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TWzdbngYTdI/AAAAAAAADk4/wZWGC7jqIWI/s1600-h/Gmail_logo%5B2%5D.png)Posted by Ben Treynor, VP Engineering and Site Reliability Czar (24&#215;7)
+![Gmail_logo](http://lh3.ggpht.com/_vaUVXcmC3OI/TWzdbngYTdI/AAAAAAAADk4/wZWGC7jqIWI/s1600-h/Gmail_logo%5B2%5D.png)
+
+Posted by Ben Treynor, VP Engineering and Site Reliability Czar (24×7)
 
 Imagine the sinking feeling of logging in to your Gmail account and finding it empty. That’s what happened to 0.02% of Gmail users yesterday, and we’re very sorry. The good news is that email was never lost and we’ve restored access for many of those affected. Though it may take longer than we originally expected, we're making good progress and things should be back to normal for everyone soon.
 

@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="Microsoft" border="0" alt="Microsoft" src="http://lh6.ggpht.com/-jwiqn7tsUbo/TzvhoF3mkcI/AAAAAAAAEyA/7sgA3lghI5k/Microsoft_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="222" />](http://lh5.ggpht.com/-tyZvt7vnyI4/TzvhhYJAlYI/AAAAAAAAEx4/1eEQDD7t5nY/s1600-h/Microsoft%25255B5%25255D.jpg) 
+![Microsoft](http://lh5.ggpht.com/-tyZvt7vnyI4/TzvhhYJAlYI/AAAAAAAAEx4/1eEQDD7t5nY/s1600-h/Microsoft%25255B5%25255D.jpg) 
 
 **The H-Online:** As expected, Microsoft has [released](http://blogs.technet.com/b/msrc/archive/2012/02/14/msrc-looks-back-at-ten-years-and-the-february-2012-bulletins.aspx) nine bulletins to close a total of 21 holes in its products. Four of the bulletins close critical vulnerabilities in Windows, Internet Explorer, .NET and Silverlight, including an issue in the Windows kernel-mode drivers that became publicly known in December of last year. 
 

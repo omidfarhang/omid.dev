@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**<a href="http://lh6.ggpht.com/-o4dwmV4JJmc/UDDr_8SKtgI/AAAAAAAAHCM/HIL97pkDTsA/s1600-h/iPhone3GS%25255B5%25255D.jpg" target="_blank"><img title="A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating." border="0" alt="A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating." align="right" src="http://lh3.ggpht.com/-wALB8CwfadM/UDDsBrXgOBI/AAAAAAAAHCU/hMp1ZLp-y5g/iPhone3GS_thumb%25255B3%25255D.jpg?imgmax=800" width="280" height="220" /></a>FirstPost:** A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating. 
+**![A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating.](http://lh6.ggpht.com/-o4dwmV4JJmc/UDDr_8SKtgI/AAAAAAAAHCM/HIL97pkDTsA/s1600-h/iPhone3GS%25255B5%25255D.jpg)FirstPost:** A hacker Friday revealed a security flaw that he claimed could make Apple’s iPhone particularly vulnerable to text message cheating. 
 
 The flaw has existed since iPhone was first launched in 2007, and is still not solved in the beta version of iOS 6, the next operating system for iPhone, the hacker under the name “Pod2g” said in a blog post, reported _Xinhua._ 
 
@@ -32,4 +32,4 @@ Pod2g called the security flaw “severe” and urged Apple to fix it before the
 
 Apple Inc could not be reached for comments. 
 
-<a href="http://www.firstpost.com/tech/not-so-secure-text-messaging-on-iphone-can-be-hacked-422446.html" target="_blank">Source.</a>
+[Source.](http://www.firstpost.com/tech/not-so-secure-text-messaging-on-iphone-can-be-hacked-422446.html)

@@ -23,7 +23,7 @@ It was the perfect amalgamation of Russian stereotypes and fears: The subtext is
 
 “Malicious software hijacked our phone before we even finished our coffee, stealing my information and giving hackers the ability to record my phone calls,” says Engel in the segment, incredulous. The implied follow-up to the report is obvious: Not only is Russia so inept that it hosted the Winter Olympics at a beach, you can't even walk into the country without getting spied on!
 
-The irresistible mix of the “Russia is sketchy” storyline with Sochi and the specter of Cold War-era spycraft (how about those [hotel shower cameras](http://www.slate.com/blogs/the_slatest/2014/02/06/russia_olympic_shower_cams_hosts_dismiss_hotel_complaints_by_citing_video.html)?) sent the report bounding around the internet. “Report: Nearly all visitors to Sochi Winter Olympics will be hacked,” reads a [perfectly representative headline](http://www.itproportal.com/2014/02/06/report-nearly-all-visitors-to-sochi-winter-olympics-will-be-hacked/), while [NBC's own post](http://www.nbcnews.com/storyline/sochi-olympics/richard-engel-sochi-open-hunting-season-hackers-n22346) about it says Sochi is “&#8216;open hunting season for hackers.”
+The irresistible mix of the “Russia is sketchy” storyline with Sochi and the specter of Cold War-era spycraft (how about those [hotel shower cameras](http://www.slate.com/blogs/the_slatest/2014/02/06/russia_olympic_shower_cams_hosts_dismiss_hotel_complaints_by_citing_video.html)?) sent the report bounding around the internet. “Report: Nearly all visitors to Sochi Winter Olympics will be hacked,” reads a [perfectly representative headline](http://www.itproportal.com/2014/02/06/report-nearly-all-visitors-to-sochi-winter-olympics-will-be-hacked/), while [NBC's own post](http://www.nbcnews.com/storyline/sochi-olympics/richard-engel-sochi-open-hunting-season-hackers-n22346) about it says Sochi is “‘open hunting season for hackers.”
 
 Nevermind the fact that Engel was actually in Moscow, which is about a 1,000 mile drive from the shores of Sochi. And ignore the fact that malware was only downloaded to Engel's devices after deliberately clicking on the same kind of malware-laden crap everyone in the world knows to avoid. It was too good a story to pass up.
 
@@ -33,7 +33,7 @@ But a story it was. Things started to unravel last night when a [post on the Err
 
 One of the malicious websites visited in the NBC report. Image: Kyle Wilhoit/Trend Micro 
 
-&nbsp;
+
 
 Today, Wilhoit explained that every attack involved a user interaction, could have happened anywhere, and happened on brand new devices without OS updates. Rather than a story about visitors being immediately hacked upon visiting Sochi, the story was about using internet best practices and not opening suspicious emails—which is hardly groundbreaking.
 

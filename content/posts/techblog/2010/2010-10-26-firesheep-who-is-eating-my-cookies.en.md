@@ -29,11 +29,11 @@ This has been shown in Toorcon last weekend by Ian Gallager and Eric Butler, in 
 
 A screenshot od the add-on working, with stolen sessions from Google, Facebook, Twitter and Flickr:
 
-[<img title="Mozilla-Firefox" border="0" alt="Mozilla-Firefox" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMbhMstI74I/AAAAAAAAC6g/l0RnM7_ode4/Mozilla-Firefox_thumb%5B1%5D.jpg?imgmax=800" width="304" height="255" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbhJLR3ilI/AAAAAAAAC6c/E-m_3jhhczc/s1600-h/Mozilla-Firefox%5B3%5D.jpg)
+![Mozilla-Firefox](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbhJLR3ilI/AAAAAAAAC6c/E-m_3jhhczc/s1600-h/Mozilla-Firefox%5B3%5D.jpg)
 
 Don’t panic. Yes, this is bad, but there are some countermeasures to take. The best solution would be to use SSL encryption in all communications, but this has to be supported in the server side, so that won’t be happening (at least massively) anytime soon. Meanwhile, you should use [HTTPS Everywhere](https://www.eff.org/https-everywhere), which will force to use https when connecting to some mayor websites, such as Twitter or Facebook:
 
-[<img title="HTTPS-Everywhere-Preferences" border="0" alt="HTTPS-Everywhere-Preferences" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMbhTuMG1bI/AAAAAAAAC6o/G5yK5F-fYbY/HTTPS-Everywhere-Preferences_thumb%5B1%5D.jpg?imgmax=800" width="304" height="192" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbhP0AQnwI/AAAAAAAAC6k/pLu1U-JjhNw/s1600-h/HTTPS-Everywhere-Preferences%5B3%5D.jpg)
+![HTTPS-Everywhere-Preferences](http://lh6.ggpht.com/_vaUVXcmC3OI/TMbhP0AQnwI/AAAAAAAAC6k/pLu1U-JjhNw/s1600-h/HTTPS-Everywhere-Preferences%5B3%5D.jpg)
 
 I installed it since it went public and it is always on.
 

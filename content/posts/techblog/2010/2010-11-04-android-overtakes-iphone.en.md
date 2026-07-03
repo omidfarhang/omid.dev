@@ -18,7 +18,9 @@ categories:
 ---
 **Wall Street Journal**: It looks like Steve Jobs may have something to be nervous about after all.
 
-[<img title="OB-KR300_androi_D_20101101153036" border="0" alt="OB-KR300_androi_D_20101101153036" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNLq_nnw9bI/AAAAAAAADCQ/42z6UrcQsbw/OB-KR300_androi_D_20101101153036_thumb%5B5%5D.jpg?imgmax=800" width="246" height="87" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNLq-OrJNbI/AAAAAAAADCM/iyuDnDJVfxg/s1600-h/OB-KR300_androi_D_20101101153036%5B4%5D.jpg)Google Inc.’s Android platform has taken the lead in the U.S. smartphone market, according to several new reports by technology research firms.
+![OB-KR300_androi_D_20101101153036](http://lh4.ggpht.com/_vaUVXcmC3OI/TNLq-OrJNbI/AAAAAAAADCM/iyuDnDJVfxg/s1600-h/OB-KR300_androi_D_20101101153036%5B4%5D.jpg)
+
+Google Inc.’s Android platform has taken the lead in the U.S. smartphone market, according to several new reports by technology research firms.
 
 In the third quarter, devices with the Android operating system were installed in 44% of smartphones, while Apple Inc.’s iPhone came in second place with 23%, according to market research firm, NPD Group. RIM’s BlackBerry trailed behind in third place with 22%. One big caveat: NPD tracks consumer activity, but doesn’t measure corporate cellphone purchases.
 

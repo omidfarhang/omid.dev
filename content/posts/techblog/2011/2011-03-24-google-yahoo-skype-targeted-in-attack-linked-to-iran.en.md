@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="ComodoIran" border="0" alt="ComodoIran" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TYsg3P9aj6I/AAAAAAAADyY/YSZlDesbfX4/ComodoIran_thumb%5B4%5D.png?imgmax=800" width="254" height="72" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TYsg0zGgJAI/AAAAAAAADyU/wEjvWtDMkwI/s1600-h/ComodoIran%5B6%5D.png)Cnet:** A malicious attacker that appears to be the Iranian government managed to obtain supposedly secure digital certificates that can be used to impersonate Google, Yahoo, Skype, and other major Web sites, the security company affected by the breach said today. 
+**![ComodoIran](http://lh3.ggpht.com/_vaUVXcmC3OI/TYsg0zGgJAI/AAAAAAAADyU/wEjvWtDMkwI/s1600-h/ComodoIran%5B6%5D.png)Cnet:** A malicious attacker that appears to be the Iranian government managed to obtain supposedly secure digital certificates that can be used to impersonate Google, Yahoo, Skype, and other major Web sites, the security company affected by the breach said today. 
 
 Comodo, a Jersey City, N.J.-based firm that issues digital certificates, said the nine certificates were fraudulently obtained, including one for Microsoft's Live.com, have already been revoked. A fraudulent certificate allows someone to impersonate the secure versions of those Web sites–the ones that are used when encrypted connections are enabled–in some circumstances.
 
@@ -45,4 +45,4 @@ Jacob Appelbaum, a [Tor Project](http://www.torproject.org/about/overview.html.e
 
 “This should serve as a wake-up call to the Internet,” he said. “We need to research, build, and share new methods for ensuring trust, identity, authenticity, and confidentiality.”
 
-Read More here: <a href="http://news.google.com/news/more?q=comodo&#038;hl=en&#038;prmd=ivnsu&#038;bav=on.2,or.r_gc.r_pw.&#038;um=1&#038;ie=UTF-8&#038;ncl=dEa1v8UYADeE1vMb29TbS90APoTjM&#038;ei=AWOLTfzrCIfPsgbP-tSkCg&#038;sa=X&#038;oi=news_result&#038;ct=more-results&#038;resnum=1&#038;ved=0CCsQqgIwAA" target="_blank">Google News</a>
+Read More here: [Google News](http://news.google.com/news/more?q=comodo&hl=en&prmd=ivnsu&bav=on.2,or.r_gc.r_pw.&um=1&ie=UTF-8&ncl=dEa1v8UYADeE1vMb29TbS90APoTjM&ei=AWOLTfzrCIfPsgbP-tSkCg&sa=X&oi=news_result&ct=more-results&resnum=1&ved=0CCsQqgIwAA)

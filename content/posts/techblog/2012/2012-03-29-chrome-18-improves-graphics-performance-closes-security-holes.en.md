@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="new-chrome-logo" border="0" alt="new-chrome-logo" align="right" src="http://lh4.ggpht.com/-5rGDEem1_34/T3RqDf3SHiI/AAAAAAAAFU0/7pZpQFaNyUI/new-chrome-logo_thumb%25255B1%25255D.png?imgmax=800" width="128" height="125" />](http://lh5.ggpht.com/-BfPid33cfng/T3RqBXoTN2I/AAAAAAAAFUs/CswboIa19-g/s1600-h/new-chrome-logo%25255B3%25255D.png)Google has released version 18 of Chrome, the company's own extended version of the open source Chromium web browser. The new [Stable channel](http://www.chromium.org/getting-involved/dev-channel#TOC-How-do-I-choose-which-channel-to-us) release, labeled 18.0.1025.142, fixes several security vulnerabilities, and improves graphics and drawing performance on systems with capable hardware. 
+![new-chrome-logo](http://lh5.ggpht.com/-BfPid33cfng/T3RqBXoTN2I/AAAAAAAAFUs/CswboIa19-g/s1600-h/new-chrome-logo%25255B3%25255D.png)
+
+Google has released version 18 of Chrome, the company's own extended version of the open source Chromium web browser. The new [Stable channel](http://www.chromium.org/getting-involved/dev-channel#TOC-How-do-I-choose-which-channel-to-us) release, labeled 18.0.1025.142, fixes several security vulnerabilities, and improves graphics and drawing performance on systems with capable hardware. 
 
 This is done by adding support for GPU-accelerated rendering of 2D Canvas content on Windows and Mac OS X systems. [According to the developers](http://blog.chromium.org/2012/02/gpu-accelerating-2d-canvas-and-enabling.html), the GPU acceleration should improve the overall performance of graphics-intensive web applications, making canvas-based animations and games “run faster and feel smoother”. For older systems that can't make use of of the GPU, Chrome can now display 3D content using the [SwiftShader](http://transgaming.com/business/swiftshader) software rasterizer, which Google licensed from TransGaming, Inc. However, the developers note that “a software-backed WebGL implementation is never going to perform as well as one running on a real GPU, but now more users will have access to basic 3D content on the web”. 
 

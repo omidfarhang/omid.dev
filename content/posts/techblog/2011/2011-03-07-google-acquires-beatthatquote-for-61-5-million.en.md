@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="google-api-console" border="0" alt="google-api-console" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TXUga2B-boI/AAAAAAAADmQ/e46ih7T9X5Y/google-api-console_thumb.jpg?imgmax=800" width="225" height="225" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TXUgY2G_nvI/AAAAAAAADmM/lxHI-DBZ09g/s1600-h/google-api-console%5B2%5D.jpg)Mashable wrote: Google has broken new ground in the personal finance realm with the purchase of UK price comparison website BeatThatQuote for $61.5 million ($37.7 million GBP). 
+![google-api-console](http://lh4.ggpht.com/_vaUVXcmC3OI/TXUgY2G_nvI/AAAAAAAADmM/lxHI-DBZ09g/s1600-h/google-api-console%5B2%5D.jpg)
+
+Mashable wrote: Google has broken new ground in the personal finance realm with the purchase of UK price comparison website BeatThatQuote for $61.5 million ($37.7 million GBP). 
 
 [BeatThatQuote](http://beatthatquote.com/), launched in 2005, provides price comparisons for UK loans, insurance, legal services, utilities and other financial products. It was named one of the UK’s [fastest-growing websites](http://www.brandrepublic.com/News/784257/Facebook-loses-BeatThatQuotecom-fastest-growing-website/) by Nielsen in 2007.
 

@@ -1,5 +1,5 @@
 ---
-title: "&quot;Please do not take down the Sality botnet&quot;"
+title: "\"Please do not take down the Sality botnet\""
 date: 2012-03-29T15:12:00+00:00
 layout: single
 author_profile: true
@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://www.h-online.com/security" target="_blank"><strong>The H-Security:</strong></a> On Tuesday, a user who is known as “lawabidingcitizen” posted an [unusual request](http://seclists.org/fulldisclosure/2012/Mar/315) to the Full Disclosure mailing list, a forum that is mainly used by the security community: “Please do not take down the Sality botnet.” The contributor says that he found a way of dramatically reducing the number of infected computers after analysing the botnet. He adds that the required actions are unlawful, however, but proceeds to describe the method in considerable detail and makes special tools for the task available. 
+[**The H-Security:**](http://www.h-online.com/security) On Tuesday, a user who is known as “lawabidingcitizen” posted an [unusual request](http://seclists.org/fulldisclosure/2012/Mar/315) to the Full Disclosure mailing list, a forum that is mainly used by the security community: “Please do not take down the Sality botnet.” The contributor says that he found a way of dramatically reducing the number of infected computers after analysing the botnet. He adds that the required actions are unlawful, however, but proceeds to describe the method in considerable detail and makes special tools for the task available. 
 
 Essentially, the method involves exploiting the botnet update feature to inject a scrubbing tool that causes the trojans to remove themselves from the zombie computers. The author has also released an adapted version of AVG's Sality Removal Tool. In addition, lawabidingcitizen has developed a Python script that produces a list of the URLs that are currently used for updating the bot code. When tested by The H's associates at heise Security, the script did display URLs that deploy malicious code. Virus scanners such as Avast, G Data and Ikarus detected the Win32.Eldorado malware, which has connections to Sality. 
 

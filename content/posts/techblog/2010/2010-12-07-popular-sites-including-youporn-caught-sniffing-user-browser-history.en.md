@@ -19,7 +19,9 @@ categories:
 ---
 **The Register:** YouPorn nabbed in real-world privacy sting
 
-[<img title="logo" border="0" alt="logo" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TP4ZED_pVRI/AAAAAAAADZU/Z-K0uBv2Fm0/logo_thumb%5B9%5D.png?imgmax=800" width="251" height="140" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4ZCAqGYcI/AAAAAAAADZQ/JMAMXV1GsnU/s1600-h/logo%5B11%5D.png)Boffins from Southern California have caught YouPorn.com and 45 other sites pilfering visitors' surfing habits in what is believed to be the first study to measure in-the-wild exploits of a decade-old browser vulnerability.
+![logo](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4ZCAqGYcI/AAAAAAAADZQ/JMAMXV1GsnU/s1600-h/logo%5B11%5D.png)
+
+Boffins from Southern California have caught YouPorn.com and 45 other sites pilfering visitors' surfing habits in what is believed to be the first study to measure in-the-wild exploits of a decade-old browser vulnerability.
 
 YouPorn, which fancies itself the YouTube of smut, uses JavaScript to detect whether visitors have recently browsed to PornHub.com, tube8.com and 21 other sites, according to the study. It tracked the 50,000 most popular websites and found a total of 46 other offenders, including news sites charter.net and newsmax.com, finance site morningstar.com and sports site espnf1.com.
 
@@ -37,4 +39,4 @@ The study also detected code on sites maintained by Microsoft, YouTube, Yahoo an
 
 A PDF of the paper, which was written by Dongseok Jang, Ranjit Jhala, Sorin Lerner, and Hovav Shacham, is [here](http://cseweb.ucsd.edu/~d1jang/papers/ccs10.pdf).
 
-To see what they see from your History, visit this site: <a href="http://startpanic.com/" target="_blank">Start Panic</a>
+To see what they see from your History, visit this site: [Start Panic](http://startpanic.com/)

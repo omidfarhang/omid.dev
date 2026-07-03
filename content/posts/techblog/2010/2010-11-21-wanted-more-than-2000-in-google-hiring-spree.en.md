@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="main-google-sydney" border="0" alt="main-google-sydney" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TOlsvLbnKFI/AAAAAAAADL8/3s_GLpxljXI/main-google-sydney_thumb.jpg?imgmax=800" width="292" height="196" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TOlssb5-h2I/AAAAAAAADL4/C-bNBJDF4to/s1600-h/main-google-sydney%5B2%5D.jpg)**Reuters**: Google Inc plans to hire more than 2,000 people around the globe, bumping up its workforce as it expands into new markets and battles for talent with faster-growing rivals.
+![main-google-sydney](http://lh5.ggpht.com/_vaUVXcmC3OI/TOlssb5-h2I/AAAAAAAADL4/C-bNBJDF4to/s1600-h/main-google-sydney%5B2%5D.jpg)
+
+**Reuters**: Google Inc plans to hire more than 2,000 people around the globe, bumping up its workforce as it expands into new markets and battles for talent with faster-growing rivals.
 
 The world's largest Internet search engine, whose finance chief told investors in September that the Internet industry was waging a “war for talent,” has job openings listed for 2,076 positions on its website, according to a Reuters tally on Thursday.
 

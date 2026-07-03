@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-Righard Zwienenberg, Chief Research Officer at Norman posted this on <a href="http://www.norman.com/security_center/blog/righard_zwienenberg/130919/en" target="_blank">Norman Security Blog</a>, Thanks to Mr.Fagerlid for sharing: 
+Righard Zwienenberg, Chief Research Officer at Norman posted this on [Norman Security Blog](http://www.norman.com/security_center/blog/righard_zwienenberg/130919/en), Thanks to Mr.Fagerlid for sharing: 
 
 I have been a user of PayPal for many years, actually ever since PayPal opened its services for international users. PayPal, originally only for US citizens, is now used worldwide with local offices in many countries.
 
@@ -52,4 +52,4 @@ So why this message from the Dutch affiliate of PayPal? I assume it has somethin
 
 I will stick to using a dedicated credit card with a firm limit for my PayPal payments. It does give me a much more secure feeling…
 
-[<img title="Paypal.large" border="0" alt="Paypal.large" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TPZXb2hzm4I/AAAAAAAADUQ/iH1VVbkhlMQ/Paypal.large_thumb.jpg?imgmax=800" width="466" height="500" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TPZXZPvdMyI/AAAAAAAADUM/gYucBLfj8T0/s1600-h/Paypal.large%5B2%5D.jpg)
+![Paypal.large](http://lh4.ggpht.com/_vaUVXcmC3OI/TPZXZPvdMyI/AAAAAAAADUM/gYucBLfj8T0/s1600-h/Paypal.large%5B2%5D.jpg)

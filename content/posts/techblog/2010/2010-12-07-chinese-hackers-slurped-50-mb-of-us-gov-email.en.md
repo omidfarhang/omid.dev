@@ -1,5 +1,5 @@
 ---
-title: "Chinese hackers &#8216;slurped 50 MB of US gov email'"
+title: "Chinese hackers ‘slurped 50 MB of US gov email'"
 date: 2010-12-07T11:37:00+00:00
 layout: single
 author_profile: true
@@ -17,15 +17,17 @@ categories:
 ---
 **The Register:** Windows source code tapped, say WikiLeaked docs
 
-[<img title="250px-Microsoft_wordmark.svg" border="0" alt="250px-Microsoft_wordmark.svg" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP4VUqfqvDI/AAAAAAAADZE/56tRoYezWtw/250px-Microsoft_wordmark.svg_thumb.png?imgmax=800" width="250" height="43" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4VTNAE8zI/AAAAAAAADZA/oCE6s2RhQc4/250px-Microsoft_wordmark.svg%5B2%5D.png?imgmax=800)The Chinese government may have used its access to Microsoft source code to develop attacks that exploited weaknesses in the Windows operating system, according to a US diplomatic memo recently published by WikiLeaks.
+![250px-Microsoft_wordmark.svg](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4VTNAE8zI/AAAAAAAADZA/oCE6s2RhQc4/250px-Microsoft_wordmark.svg%5B2%5D.png?imgmax=800)
+
+The Chinese government may have used its access to Microsoft source code to develop attacks that exploited weaknesses in the Windows operating system, according to a US diplomatic memo recently published by WikiLeaks.
 
 The June 29, 2009 diplomatic cable claims that a Chinese security firm with close ties to the People's Republic of China, got access to the Windows source under a 2003 agreement designed to help companies improve the security of the Microsoft operating system. Topsec allegedly worked with a government organization known as CNITSEC, short for the China Information Technology Security Center, which actively worked with “private sector” hackers to develop exploits.
 
-“Additionally, CNITSEC enterprises has recruited Chinese hackers in support of nationally-funded &#8216;network attack scientific research projects,'” the [cable](http://213.251.145.96/cable/2009/06/09STATE67105.html) stated. “From June 2002 to March 2003, TOPSEC employed a known Chinese hacker, Lin Yong (a.k.a. Lion and owner of the Honker Union of CHINA), as senior security service engineer to manage security service and training.”
+“Additionally, CNITSEC enterprises has recruited Chinese hackers in support of nationally-funded ‘network attack scientific research projects,'” the [cable](http://213.251.145.96/cable/2009/06/09STATE67105.html) stated. “From June 2002 to March 2003, TOPSEC employed a known Chinese hacker, Lin Yong (a.k.a. Lion and owner of the Honker Union of CHINA), as senior security service engineer to manage security service and training.”
 
 The memo continues:
 
-“While links between top Chinese companies and the PRC are not uncommon, it illustrates the PRC's use of its &#8216;private sector' in support of governmental information warfare objectives, especially in its ability to gather, process, and exploit information. As evidenced with TOPSEC, there is a strong possibility the PRC is harvesting the talents of its private sector in order to bolster offensive and defensive computer network operations capabilities.”
+“While links between top Chinese companies and the PRC are not uncommon, it illustrates the PRC's use of its ‘private sector' in support of governmental information warfare objectives, especially in its ability to gather, process, and exploit information. As evidenced with TOPSEC, there is a strong possibility the PRC is harvesting the talents of its private sector in order to bolster offensive and defensive computer network operations capabilities.”
 
 Topsec Chairman, He Weidong, allegedly told a Chinese news outlet that half of his company's start-up capital came from that country's government. Topsec started out in 1995 with funding of just $4,400, and by 2002, had earnings about $440 million. It is now China's largest provider of information security products and services, according to the cable.
 

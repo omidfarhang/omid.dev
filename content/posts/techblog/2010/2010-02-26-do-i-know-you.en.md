@@ -19,7 +19,7 @@ Imagine that you’re sitting at home catching up on your email backlog. In come
 
 Today we observed an increase in spam messages containing links to a particular malicious URL. The messages masquerade as having come from mail administrators, with the ‘from’ address spoofed so that they appear to have come from the same network domain as the address to which the mails are sent (the ‘from’ and ‘to’ addresses are actually identical, although this will not be visible in most email programs).
 
-The received messages state that mailbox &#8216;settings were changed' and urge users to &#8216;apply the new set of settings' by clicking a link to an executable, which unsurprisingly turns out to be malicious:
+The received messages state that mailbox ‘settings were changed' and urge users to ‘apply the new set of settings' by clicking a link to an executable, which unsurprisingly turns out to be malicious:
 
 [![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s640/image1.jpeg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s1600-h/image1.jpeg)
 

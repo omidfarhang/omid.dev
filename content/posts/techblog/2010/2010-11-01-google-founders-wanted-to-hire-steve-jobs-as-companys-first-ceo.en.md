@@ -15,7 +15,9 @@ categories:
 ---
 **Google cofounders Larry Page and Sergey Brin considered hiring Apple CEO Steve Jobs as the company's first CEO, according to a new documentary.**
 
-[<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TM8e7f9DYtI/AAAAAAAAC_E/UMBKiM9Zi8U/Google_thumb%5B1%5D.png?imgmax=800" width="300" height="109" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TM8e5pgEpoI/AAAAAAAAC_A/Rs7d0UOepGo/s1600-h/Google%5B3%5D.png)After interviewing a dozen unsuitable candidates during Google's early years, Page and Brin went to meet Jobs, a personal “hero” of theirs. The pair then asked investor John Doerr, “Why can't he be our CEO?”
+![Google](http://lh6.ggpht.com/_vaUVXcmC3OI/TM8e5pgEpoI/AAAAAAAAC_A/Rs7d0UOepGo/s1600-h/Google%5B3%5D.png)
+
+After interviewing a dozen unsuitable candidates during Google's early years, Page and Brin went to meet Jobs, a personal “hero” of theirs. The pair then asked investor John Doerr, “Why can't he be our CEO?”
 
 The anecdote comes from an episode on Page and Brin from the _Bloomberg_ documentary series “Bloomberg Game Changers.” Earlier this month, the _Bloomberg_ series, which looks at “today's most influential leaders,” aired an episode on Jobs.
 

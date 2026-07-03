@@ -19,9 +19,9 @@ This techno-fair will be attended in large numbers by leading media businesses, 
 
 Here is an example of this Russian spam observed by Symantec: 
 
-[<img title="Russian_Spam_1" border="0" alt="Russian_Spam_1" src="http://lh4.ggpht.com/-Twt8--ra6ys/TzLRXbvISTI/AAAAAAAAEl0/Yfq3ZBqHM5I/Russian_Spam_1_thumb%25255B1%25255D.jpg?imgmax=800" width="504" height="369" />](http://lh5.ggpht.com/-U_Y6RxJQhBg/TzLRJexxmAI/AAAAAAAAEls/qf2SPvoyz68/s1600-h/Russian_Spam_1%25255B3%25255D.jpg) 
+![Russian_Spam_1](http://lh5.ggpht.com/-U_Y6RxJQhBg/TzLRJexxmAI/AAAAAAAAEls/qf2SPvoyz68/s1600-h/Russian_Spam_1%25255B3%25255D.jpg) 
 
-[<img title="Russian_Spam_2" border="0" alt="Russian_Spam_2" src="http://lh5.ggpht.com/-VDK1BoscN0E/TzLR1ObSocI/AAAAAAAAEmE/DV3ltYtElfY/Russian_Spam_2_thumb%25255B3%25255D.jpg?imgmax=800" width="504" height="457" />](http://lh3.ggpht.com/-9jdmuUD_Iu0/TzLRqJf4cII/AAAAAAAAEl8/Pe6rtGM2ePA/s1600-h/Russian_Spam_2%25255B5%25255D.jpg) 
+![Russian_Spam_2](http://lh3.ggpht.com/-9jdmuUD_Iu0/TzLRqJf4cII/AAAAAAAAEl8/Pe6rtGM2ePA/s1600-h/Russian_Spam_2%25255B5%25255D.jpg) 
 
 Here are the subject lines observed in the Russian spam attack: 
 

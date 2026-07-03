@@ -40,7 +40,9 @@ Facebook's vice-president of partnerships Dan Rose said the sharing of informati
 
 Is this partnership an illustration that MySpace has conceded supremacy to Facebook?
 
-[<img title="_50044594_mashup-facebook-2" border="0" alt="_50044594_mashup-facebook-2" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TOaHbNWFrYI/AAAAAAAADLA/5jwCFYjVS4A/_50044594_mashup-facebook-2_thumb%5B1%5D.gif?imgmax=800" width="304" height="173" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TOaHZZLOh_I/AAAAAAAADK8/myZZVTc9gK8/s1600-h/_50044594_mashup-facebook-2%5B3%5D.gif)Industry analyst Augie Ray of Forrester Research told BBC News there were gains for both companies with this deal.
+![_50044594_mashup-facebook-2](http://lh6.ggpht.com/_vaUVXcmC3OI/TOaHZZLOh_I/AAAAAAAADK8/myZZVTc9gK8/s1600-h/_50044594_mashup-facebook-2%5B3%5D.gif)
+
+Industry analyst Augie Ray of Forrester Research told BBC News there were gains for both companies with this deal.
 
 “People have come to think of MySpace in a certain way and while I don't think this deal will help them attract a lot of users it is necessary that those people on the site enjoy the MySpace experience and I think this helps.
 

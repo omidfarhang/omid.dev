@@ -28,6 +28,6 @@ Social Networks (e.g. Facebook): This one is another story, its more public and 
 
 Ok, now does it make sense? I hope it will change your mind about me.
 
-All of you always feel free to <a href="/contact-me" target="_blank">contact me</a>, your messages, emails and calls are always welcome and never bother me, so if I don’t ping you often  its not mean I don’t care about you, its mean I care about you and don’t want to bother you in bad time.
+All of you always feel free to [contact me](/contact-me), your messages, emails and calls are always welcome and never bother me, so if I don’t ping you often  its not mean I don’t care about you, its mean I care about you and don’t want to bother you in bad time.
 
 Regards!

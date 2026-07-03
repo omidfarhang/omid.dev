@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="article_img" border="0" alt="article_img" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMmOF36YeZI/AAAAAAAAC9A/VQJm6gFSUoo/article_img_thumb%5B5%5D.jpg?imgmax=800" width="159" height="203" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMmOEnm6x8I/AAAAAAAAC88/E7_AFNtOMBo/s1600-h/article_img%5B4%5D.jpg)Microsoft has announced the launch of the Release Candidate version of Windows 7 Service Pack 1, the last test version prior to its official release.
+![article_img](http://lh6.ggpht.com/_vaUVXcmC3OI/TMmOEnm6x8I/AAAAAAAAC88/E7_AFNtOMBo/s1600-h/article_img%5B4%5D.jpg)
+
+Microsoft has announced the launch of the Release Candidate version of Windows 7 Service Pack 1, the last test version prior to its official release.
 
 While the service pack, which is shared between Windows 7 and Windows Server 2008 R2, comprises a collection of all the latest bug fixes and security patches to have been released since the launch of the operating system, Microsoft's Brandon LeBlanc has confirmed that Windows 7 users won't be getting any new features if they choose to install the update.
 

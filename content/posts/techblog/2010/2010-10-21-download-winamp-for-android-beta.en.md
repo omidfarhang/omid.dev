@@ -17,7 +17,7 @@ My favorite music player in old days ‘Winamp’ has now [released](http://blog
 
 **Winamp** media player is a nice app for Android. It offers a complete media management solution by seamlessly syncing with the Winamp desktop library. In addition to high quality playback and persistent player controls, Winamp for Android offers wireless desktop sync with your Winamp desktop application.
 
-[<img title="WinampforAndroid" border="0" alt="WinampforAndroid" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMCnOH25MkI/AAAAAAAAC1Y/krHv31yzDOs/WinampforAndroid_thumb%5B6%5D.jpg?imgmax=800" width="122" height="240" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMCnMdDy-qI/AAAAAAAAC1U/hdaJTKZ9HaE/s1600-h/WinampforAndroid%5B8%5D.jpg)
+![WinampforAndroid](http://lh4.ggpht.com/_vaUVXcmC3OI/TMCnMdDy-qI/AAAAAAAAC1U/hdaJTKZ9HaE/s1600-h/WinampforAndroid%5B8%5D.jpg)
 
 > Mobilize Your Library  
 > A complete Android media management solution, that seamlessly syncs with your Winamp desktop library (USB or Wi-Fi).
@@ -44,6 +44,6 @@ Requires: Android 2.1 OS and above
 
 **To download** Winamp for Android, you can either scan the below QR code with your phone or search for Winamp in the Android Market.
 
-[<img title="qrcodebitlywinampandroidl" border="0" alt="qrcodebitlywinampandroidl" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMCnQmDFMCI/AAAAAAAAC1g/IJ3BWtsnXPo/qrcodebitlywinampandroidl_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMCnPG5w4TI/AAAAAAAAC1c/WH5MSIXdnDw/s1600-h/qrcodebitlywinampandroidl%5B3%5D.png)
+![qrcodebitlywinampandroidl](http://lh5.ggpht.com/_vaUVXcmC3OI/TMCnPG5w4TI/AAAAAAAAC1c/WH5MSIXdnDw/s1600-h/qrcodebitlywinampandroidl%5B3%5D.png)
 
 _Taken from Web Trickz_

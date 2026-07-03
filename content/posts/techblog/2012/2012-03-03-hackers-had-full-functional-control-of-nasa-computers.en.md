@@ -1,5 +1,5 @@
 ---
-title: "Hackers had &#8216;full functional control' of Nasa computers"
+title: "Hackers had ‘full functional control' of Nasa computers"
 date: 2012-03-03T20:15:00+00:00
 layout: single
 author_profile: true
@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="_58837246_spacestationreutersnasa" border="0" alt="_58837246_spacestationreutersnasa" align="right" src="http://lh5.ggpht.com/-NT8Za4zQPPk/T1J0638nUSI/AAAAAAAAFDc/F21nAUJ8vOE/_58837246_spacestationreutersnasa_thumb%25255B1%25255D.jpg?imgmax=800" width="308" height="175" />](http://lh3.ggpht.com/-fnmJA2A1z9E/T1J0rcanuSI/AAAAAAAAFDU/u8e4saPH2Zs/s1600-h/_58837246_spacestationreutersnasa%25255B3%25255D.jpg)BBC:** Hackers gained “full functional control” of key Nasa computers in 2011, the agency's inspector general has told US lawmakers. 
+**![_58837246_spacestationreutersnasa](http://lh3.ggpht.com/-fnmJA2A1z9E/T1J0rcanuSI/AAAAAAAAFDU/u8e4saPH2Zs/s1600-h/_58837246_spacestationreutersnasa%25255B3%25255D.jpg)BBC:** Hackers gained “full functional control” of key Nasa computers in 2011, the agency's inspector general has told US lawmakers. 
 
 Paul K Martin said hackers took over Jet Propulsion Laboratory (JPL) computers and “compromised the accounts of the most privileged JPL users”. 
 

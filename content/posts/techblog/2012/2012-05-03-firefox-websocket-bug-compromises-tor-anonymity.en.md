@@ -15,7 +15,7 @@ categories:
 ---
 The current versions of the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) (TBB) include [a bug](https://blog.torproject.org/blog/firefox-security-bug-proxy-bypass-current-tbbs) that makes it possible for information about visited web sites to leak out of the anonymising layer. On version 2.2.35-9 of TBB for Windows and version 2.2.35-10 for Mac OS X and Linux, the included version of Firefox does not send DNS requests over the [Tor](https://www.torproject.org/) network if the browser is using the [WebSocket](https://en.wikipedia.org/wiki/WebSocket) protocol. This means that an attacker listening in on the connection will be able to identify the servers the user is visiting. 
 
-[<img title="ff-disable-websockets" border="0" alt="ff-disable-websockets" src="http://lh4.ggpht.com/-XJRuy4wq-gY/T6KOvMQFaPI/AAAAAAAAF3I/4Ad6Qd26Rp0/ff-disable-websockets_thumb%25255B1%25255D.png?imgmax=800" width="500" height="246" />](http://lh6.ggpht.com/-NJ68KMUisnk/T6KOsiHtmCI/AAAAAAAAF3A/C4FhgvY0gmM/s1600-h/ff-disable-websockets%25255B3%25255D.png) 
+![ff-disable-websockets](http://lh6.ggpht.com/-NJ68KMUisnk/T6KOsiHtmCI/AAAAAAAAF3A/C4FhgvY0gmM/s1600-h/ff-disable-websockets%25255B3%25255D.png) 
 
 The only workaround for the problem currently is to completely disable the use of WebSocket in the browser. Users can do this by accessing Firefox's advanced configuration options by entering `about:config` in the address bar and changing the network.websocket.enabled option to “false”. 
 

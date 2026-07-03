@@ -32,7 +32,7 @@ Answers to this question can be found in the official video for Tarja's first si
 
 It is exclusively available for preorder on iTunes: [http://bit.ly/16isUeN](http://bit.ly/16isUeN "http://bit.ly/16isUeN").
 
-“Victim Of Ritual” will be released as download, CD single and 7&#8243; vinyl on July 12th, 2013 via earMUSIC. Both physical releases will surely become rare collector's items, being made available in strictly limited quantities. The 4-songs digipak CD-single is limited to 3.000 copies worldwide, whereas the 2-track 7&#8243; vinyl is limited to only 1.500 units worldwide.
+“Victim Of Ritual” will be released as download, CD single and 7″ vinyl on July 12th, 2013 via earMUSIC. Both physical releases will surely become rare collector's items, being made available in strictly limited quantities. The 4-songs digipak CD-single is limited to 3.000 copies worldwide, whereas the 2-track 7″ vinyl is limited to only 1.500 units worldwide.
 
 Tarja's forthcoming new album “Colours In The Dark” will be released on August 30th, 2013 via earMUSIC. Mixed by Tim Palmer (Pearl Jam, U2) in Austin, Texas, the album is definitely going to be one of the brightest moments for rock in 2013.
 

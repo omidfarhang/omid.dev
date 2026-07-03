@@ -14,9 +14,11 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://www.theregister.co.uk/" target="_blank">theregister.co.uk</a> wrote: 
+[theregister.co.uk](http://www.theregister.co.uk/) wrote: 
 
-[<img title="call-of-duty" border="0" alt="call-of-duty" align="right" src="http://lh5.ggpht.com/-UXkGlW5EtlI/T7fdgk_zSwI/AAAAAAAAGB0/oDukuUaM564/call-of-duty_thumb%25255B2%25255D.jpg?imgmax=800" width="240" height="148" />](http://lh6.ggpht.com/-9sk_toBFSvQ/T7fdeDuKXdI/AAAAAAAAGBs/hte71xp8ShI/s1600-h/call-of-duty%25255B2%25255D.jpg)A Brit who distributed a Trojan horse that posed as a patch for popular shoot-em-up game_Call of Duty_ has been jailed for 18 months. 
+![call-of-duty](http://lh6.ggpht.com/-9sk_toBFSvQ/T7fdeDuKXdI/AAAAAAAAGBs/hte71xp8ShI/s1600-h/call-of-duty%25255B2%25255D.jpg)
+
+A Brit who distributed a Trojan horse that posed as a patch for popular shoot-em-up game_Call of Duty_ has been jailed for 18 months. 
 
 Lewys Martin, 20, of Deal in Kent, used the malware to harvest bank login credentials, credit card details and internet passwords from the compromised Windows PCs of his victims. Martin then apparently laundered the credentials via underground cybercrime forums, earning $5 or less for every credential, directing proceeds of his criminal activity towards an offshore account in Costa Rica, funds which remain beyond the reach of UK police. 
 

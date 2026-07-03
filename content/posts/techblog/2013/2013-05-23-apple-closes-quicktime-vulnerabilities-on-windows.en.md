@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![apple](/images/2013/05/apple.jpg)](/images/2013/05/apple.jpg)Apple has [released](http://prod.lists.apple.com/archives/security-announce/2013/May/msg00001.html) a security update for its QuickTime media framework for Windows. Version 7.7.4 of the software closes 12 critical security holes causing memory corruption and buffer overflows when processing a number of media formats. The vulnerabilities affect Windows 7, Vista and XP SP2 or later and could be exploited to cause arbitrary code execution and application crashes.
+[![apple](/images/2013/05/apple.jpg)](/images/2013/05/apple.jpg)
+
+Apple has [released](http://prod.lists.apple.com/archives/security-announce/2013/May/msg00001.html) a security update for its QuickTime media framework for Windows. Version 7.7.4 of the software closes 12 critical security holes causing memory corruption and buffer overflows when processing a number of media formats. The vulnerabilities affect Windows 7, Vista and XP SP2 or later and could be exploited to cause arbitrary code execution and application crashes.
 
 The vulnerabilities affected the playback of MP3, H.263, H.264, TeXML, JPEG, QTIF, Sorenson Video and FPX files as well as the handling of dref, enof and mvhd atoms within the program. All of the problems were reported by researchers working with HP's Zero Day Initiative, five of them by Tom Gallagher and Paul Bates from Microsoft.
 

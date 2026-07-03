@@ -11,7 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![china-flag1](/images/2013/04/china-flag1-150x150.jpg)](/images/2013/04/china-flag1.jpg)A new security report points the finger at China as the main source of malicious computer attacks — and puts the United States in second. 
+[![china-flag1](/images/2013/04/china-flag1-150x150.jpg)](/images/2013/04/china-flag1.jpg)
+
+A new security report points the finger at China as the main source of malicious computer attacks — and puts the United States in second. 
 
 In a report due to be released today by Akamai Technologies, the security firm says that the Asian country is accountable for 41 percent of all global computer-attack traffic. As [reported by _Bloomberg_](http://www.bloomberg.com/news/2013-04-23/china-based-cyber-attacks-rise-at-meteoric-pace.html), the latest statistic suggests that cyberattacks from China have risen over three times from last year. In addition, there has been a 33 percent hike from the last quarter.
 

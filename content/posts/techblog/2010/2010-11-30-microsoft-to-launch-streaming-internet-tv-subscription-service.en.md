@@ -16,7 +16,7 @@ Microsoft appears to be preparing themselves to step into the streaming media fi
 
 According to two anonymous sources quoted by Reuters in a report published on Monday, Microsoft is holding talks with media conglomerates in an attempt to license networks for a new subscription service they are planning to offer via Xbox, PC, and other devices.
 
-[<img title="Microsoft-TV-Movies-Bl" border="0" alt="Microsoft-TV-Movies-Bl" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TPV_71PLi3I/AAAAAAAADT4/QqmquLnvd8E/Microsoft-TV-Movies-Bl_thumb.jpg?imgmax=800" width="433" height="244" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TPV_4iLVVzI/AAAAAAAADT0/c8B73GfusG4/s1600-h/Microsoft-TV-Movies-Bl%5B2%5D.jpg)
+![Microsoft-TV-Movies-Bl](http://lh5.ggpht.com/_vaUVXcmC3OI/TPV_4iLVVzI/AAAAAAAADT0/c8B73GfusG4/s1600-h/Microsoft-TV-Movies-Bl%5B2%5D.jpg)
 
 And it seems the software giant is not intimidated by the amount of competition they will be facing. “We think the more competition the better, we will price and package it in such a way that we still make the dual revenue stream,” one of the sources told [Reuters](http://finance.yahoo.com/news/Microsoft-in-talks-for-new-TV-rb-1155559107.html?x=0&.v=1). “We could probably charge more for interactive advertising.”
 

@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="download" border="0" alt="download" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMB2nEP0wyI/AAAAAAAAC1I/sAkYgUt9zw8/download_thumb%5B2%5D.jpg?imgmax=800" width="304" height="207" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMB2lrsKUNI/AAAAAAAAC1E/t3MoPrzMEwI/s1600-h/download%5B4%5D.jpg)BERLIN — Google on Thursday said 244,000 people in Germany had asked the company to remove images of their houses and apartments from its Street View maps, but that the requests would not derail its plans to activate the service this year.
+![download](http://lh5.ggpht.com/_vaUVXcmC3OI/TMB2lrsKUNI/AAAAAAAAC1E/t3MoPrzMEwI/s1600-h/download%5B4%5D.jpg)
+
+BERLIN — Google on Thursday said 244,000 people in Germany had asked the company to remove images of their houses and apartments from its Street View maps, but that the requests would not derail its plans to activate the service this year.
 
 The figure was in line with what German data protection officials had previously estimated. The officials predicted that several hundred thousand people would opt out.
 

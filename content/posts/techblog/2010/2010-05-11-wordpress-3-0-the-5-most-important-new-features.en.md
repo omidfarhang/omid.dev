@@ -63,7 +63,7 @@ Another example would be real estate listing websites.  In addition to photos a
 
 #### 4. New Default Theme: “Twentyten”
 
-[<img title="twentyten" border="0" alt="twentyten" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S-laQr5DeSI/AAAAAAAACHI/NCjZTlFK584/twentyten_thumb%5B2%5D.jpg?imgmax=800" width="504" height="345" />](http://lh3.ggpht.com/_vaUVXcmC3OI/S-laN0fysvI/AAAAAAAACHE/-zXRh5oG1QU/s1600-h/twentyten%5B4%5D.jpg) 
+![twentyten](http://lh3.ggpht.com/_vaUVXcmC3OI/S-laN0fysvI/AAAAAAAACHE/-zXRh5oG1QU/s1600-h/twentyten%5B4%5D.jpg) 
 
 Twentyten is the long-overdue default theme packaged with new installations of WordPress 3.0.  It features a clean, yet bold design and introduces some nice functionality not found in many themes.  Two features built into Twentyten are particularly useful if you’re new to WordPress and don’t have the coding skills to customize your theme.  They are: 
 

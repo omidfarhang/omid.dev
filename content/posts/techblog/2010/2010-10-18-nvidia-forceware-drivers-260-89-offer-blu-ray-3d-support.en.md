@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![nvidia](http://lh5.ggpht.com/_vaUVXcmC3OI/TLy1F5UdI3I/AAAAAAAACtU/Pq8kYdoXiVI/nvidia_thumb%5B1%5D.gif?imgmax=800 "nvidia")](http://lh6.ggpht.com/_vaUVXcmC3OI/TLy1EfxYkEI/AAAAAAAACtQ/hQSniQDgeRE/s1600-h/nvidia%5B3%5D.gif)Just last week NVidia distributed a beta version of their Forceware drivers 260.89. The main feature was support for their recently launched GeForce GT 430, and although a few other improvements were mentioned there was nothing really outstanding. This time around the company offers the final release of these drivers with pretty much the same improvements, plus support for playing back Blu-ray 3D discs when connecting your GPU to a 3D TV through HDMI.
+[![nvidia](http://lh5.ggpht.com/_vaUVXcmC3OI/TLy1F5UdI3I/AAAAAAAACtU/Pq8kYdoXiVI/nvidia_thumb%5B1%5D.gif?imgmax=800 "nvidia")](http://lh6.ggpht.com/_vaUVXcmC3OI/TLy1EfxYkEI/AAAAAAAACtQ/hQSniQDgeRE/s1600-h/nvidia%5B3%5D.gif)
+
+Just last week NVidia distributed a beta version of their Forceware drivers 260.89. The main feature was support for their recently launched GeForce GT 430, and although a few other improvements were mentioned there was nothing really outstanding. This time around the company offers the final release of these drivers with pretty much the same improvements, plus support for playing back Blu-ray 3D discs when connecting your GPU to a 3D TV through HDMI.
 
 There is also HD audio for Blu-ray movies, NVidia 3D Vision improvements and SLI performance enhancements for a couple of games. These drivers, like most NVidia final releases, have WHQL certification – in other words Microsoft has approved them for compatibility by tests done through their Windows Hardware Quality Labs.
 

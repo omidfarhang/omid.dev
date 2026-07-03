@@ -47,7 +47,7 @@ Terrible! How many people did we lose?
 
 0, that's right, we lost zero. All pr0f did was post images showing that he had access to the water supply SCADA.
 
-<a href="http://lh6.ggpht.com/-EYQi6A0bl8w/TzTswKrBsVI/AAAAAAAAEnU/xHmlXhraUNg/s1600-h/houston-plant%25255B4%25255D.jpg"><img title="houston-plant" border="0" alt="houston-plant" src="http://lh4.ggpht.com/-mSwVGz71ceM/TzTsy3P8VoI/AAAAAAAAEnc/YJyqh6bmao4/houston-plant_thumb%25255B2%25255D.jpg?imgmax=800" width="498" height="381" /></a>
+![houston-plant](http://lh6.ggpht.com/-EYQi6A0bl8w/TzTswKrBsVI/AAAAAAAAEnU/xHmlXhraUNg/s1600-h/houston-plant%25255B4%25255D.jpg)
 
 Embarrassing to U.S. government security people? Yes. Resulting in carnage? No. Here's what pr0f had to say about his choice to keep South Houston hydrated:
 

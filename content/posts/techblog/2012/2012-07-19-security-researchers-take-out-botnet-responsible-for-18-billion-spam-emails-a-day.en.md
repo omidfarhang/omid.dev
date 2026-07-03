@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh5.ggpht.com/-N9STBulhiHw/UAiKWOJglHI/AAAAAAAAGhI/hPNE0ZwAHoc/s1600-h/mail-spam%25255B3%25255D.jpg" target="_blank"><img title="mail-spam" border="0" alt="mail-spam" align="right" src="http://lh3.ggpht.com/-KT4_JnQSS5Y/UAiKcAICXpI/AAAAAAAAGhQ/sN_9LB8mjyw/mail-spam_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="180" /></a><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/security-researchers-take-out-botnet-responsible-for-18-billion-spam-emails-a-day-7959463.html" target="_blank">Independent</a>: If you're a fan of fake Rolex watches and cheap Viagra look away now. 
+![mail-spam](http://lh5.ggpht.com/-N9STBulhiHw/UAiKWOJglHI/AAAAAAAAGhI/hPNE0ZwAHoc/s1600-h/mail-spam%25255B3%25255D.jpg)
+
+[Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/security-researchers-take-out-botnet-responsible-for-18-billion-spam-emails-a-day-7959463.html): If you're a fan of fake Rolex watches and cheap Viagra look away now. 
 
 A huge spam botnet responsible for an estimated 18 billion messages a day has been taken out by security researchers. 
 
@@ -44,7 +46,7 @@ On Tuesday command and control servers based out of Panama were also shut.
 
 However, the good news didn't last long as the bot herders – who scan networks to find weak or vulnerable systems to install their bot program – started pointing the command and control servers to secondary servers located in Ukraine. 
 
-Mushtaq says that in the past Ukraine had been something of a &#8216;safe haven' for bot herders and that shutting down servers there had “never been easy.” 
+Mushtaq says that in the past Ukraine had been something of a ‘safe haven' for bot herders and that shutting down servers there had “never been easy.” 
 
 Around 20,000 computers are thought to be still part of the botnet but are now ineffective without active control and command servers. 
 
@@ -56,7 +58,7 @@ Mushtaq is however clear about the scale of the problems involved in taking down
 
 “When the appropriate channels are used, even ISPs within Russia and Ukraine can be pressured to end their cooperation with bot herders. There are no longer any safe havens.” 
 
-<u><strong>FireEye Grum Takedown Q&A</strong></u> 
+<u>**FireEye Grum Takedown Q&A**</u> 
 
 **How significant is the takedown of Grum?** 
 

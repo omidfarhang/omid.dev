@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="chirp-260" border="0" alt="chirp-260" align="left" src="http://lh5.ggpht.com/_vaUVXcmC3OI/S8Y_1RDdJGI/AAAAAAAAB84/SmA1Zaha3ps/chirp-260_thumb%5B1%5D.jpg?imgmax=800" width="244" height="179" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8Y_zoeJgLI/AAAAAAAAB80/Bk0aMvLM654/s1600-h/chirp-260%5B3%5D.jpg) Earlier this year we predicted that Twitter would use geotagging to identify physical places via Twitter, and today Evan Williams announced at the Chirp conference that the company is doing just that with its new Points of Interest feature. 
+![chirp-260](http://lh6.ggpht.com/_vaUVXcmC3OI/S8Y_zoeJgLI/AAAAAAAAB80/Bk0aMvLM654/s1600-h/chirp-260%5B3%5D.jpg) Earlier this year we predicted that Twitter would use geotagging to identify physical places via Twitter, and today Evan Williams announced at the Chirp conference that the company is doing just that with its new Points of Interest feature. 
 
 The feature doesn’t appear to be live yet, but soon users will have the ability to click on a place name — included in geotagged tweets — to view the particular place on a map. Next to the map, Twitter users will see a stream of nearby tweets, giving them a real-time view of what’s happening in a particular place at a particular time. 
 

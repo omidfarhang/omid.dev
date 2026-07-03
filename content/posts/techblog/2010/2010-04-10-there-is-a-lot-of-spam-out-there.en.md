@@ -27,6 +27,6 @@ The distinction between the spam marketing and newsletter email and regular spam
 
 An example of one of these spam marketing and newsletter emails is displayed below: 
 
-[<img title="Screen shot 2010-04-10 at 12.03.02 AM" border="0" alt="Screen shot 2010-04-10 at 12.03.02 AM" src="http://lh3.ggpht.com/_vaUVXcmC3OI/S8BSr7VjXlI/AAAAAAAAB5g/Rdk_UWtZaB8/Screen%20shot%202010-04-10%20at%2012.03.02%20AM_thumb%5B2%5D.png?imgmax=800" width="504" height="149" />](http://lh6.ggpht.com/_vaUVXcmC3OI/S8BSpNI1upI/AAAAAAAAB5c/LKBWWQPCvl0/s1600-h/Screen%20shot%202010-04-10%20at%2012.03.02%20AM%5B4%5D.png)  
+![Screen shot 2010-04-10 at 12.03.02 AM](http://lh6.ggpht.com/_vaUVXcmC3OI/S8BSpNI1upI/AAAAAAAAB5c/LKBWWQPCvl0/s1600-h/Screen%20shot%202010-04-10%20at%2012.03.02%20AM%5B4%5D.png)  
 
 In today’s difficult economy, legitimate organizations are increasingly turning to email as an economic mechanism to advertise and distribute information about their products and services. While the intentions of legitimate marketing and newsletter email should be preserved, it is important that end users be equipped so that they can be able to distinguish between the legitimate marketing and newsletter emails and the spam version. Some anti-spam vendors have become more aggressive against these types of messages and most likely will continue to provide options for end users to take more aggressive filtering options against this type of spam.

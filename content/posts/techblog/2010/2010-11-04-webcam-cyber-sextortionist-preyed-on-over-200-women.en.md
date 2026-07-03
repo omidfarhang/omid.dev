@@ -23,7 +23,7 @@ The FBI's Los Angeles cyber division, who investigated the case, described the c
 
 According to a [report on the FBI's website](http://www.fbi.gov/news/stories/2010/november/web-of-victims/web-of-victims), the attacks were spread by the hacker who posed as a young woman on a social networking website:
 
-> <tt>In several instances, the hacker posed online as a young woman’s friend or sister and sent messages with attachments asking if the victim wanted to see a scary video. Because the messages appeared to be from a trusted source, the victims usually didn’t think twice about opening the attachment. When they did, the virus secretly installed itself, and the hacker had total control over their computers - including all files and folders, webcams, and microphones.</tt>
+> `In several instances, the hacker posed online as a young woman’s friend or sister and sent messages with attachments asking if the victim wanted to see a scary video. Because the messages appeared to be from a trusted source, the victims usually didn’t think twice about opening the attachment. When they did, the virus secretly installed itself, and the hacker had total control over their computers - including all files and folders, webcams, and microphones.`
 
 We've seen many other cases in the past where innocent users' webcams have been remotely controlled by hackers for sexual kicks.
 
@@ -42,31 +42,31 @@ The hacker in the latest webcam-spying case used a variety of screen names and e
 
 **Screen names**:
 
-  * <tt>gui_blt</tt>
-  * <tt>Woods05</tt>
-  * <tt>CoFfEkId014</tt>
-  * <tt>ELEvatrHZrD03</tt>
-  * <tt>Pimpcess03666</tt>
-  * <tt>Your3name3here03</tt>
-  * <tt>Bri23nice</tt>
-  * <tt>Dmagecntr137</tt>
-  * <tt>H2IOW14</tt>
-  * <tt>ELEvATrhRZd03</tt>
-  * <tt>Playgrl37</tt>
-  * <tt>Your3name3here3</tt>
-  * <tt>goldlion14</tt>
-  * <tt>Hotchit13w</tt>
+  * `gui_blt`
+  * `Woods05`
+  * `CoFfEkId014`
+  * `ELEvatrHZrD03`
+  * `Pimpcess03666`
+  * `Your3name3here03`
+  * `Bri23nice`
+  * `Dmagecntr137`
+  * `H2IOW14`
+  * `ELEvATrhRZd03`
+  * `Playgrl37`
+  * `Your3name3here3`
+  * `goldlion14`
+  * `Hotchit13w`
 
 **Email address:**
 
-  * <tt>yousoylammer@hotmail.com</tt>
-  * <tt>christ@yahoo.com</tt>
-  * <tt>gui_blt@live.com</tt>
-  * <tt>mistahxxxrightme@aim.com</tt>
-  * <tt>zapotin@hotmail.com</tt>
-  * <tt>guich_x@aim.com</tt>
-  * <tt>guicho_1.1@roadrunner.com</tt>
-  * <tt>mijangos3@msn.com</tt>
+  * `yousoylammer@hotmail.com`
+  * `christ@yahoo.com`
+  * `gui_blt@live.com`
+  * `mistahxxxrightme@aim.com`
+  * `zapotin@hotmail.com`
+  * `guich_x@aim.com`
+  * `guicho_1.1@roadrunner.com`
+  * `mijangos3@msn.com`
 
 There are some more details of this case on [Gary Warner's Cybercrime & Doing Time blog](http://garwarner.blogspot.com/2010/11/sextortion-hacker-victims-sought-by-fbi.html).
 

@@ -31,7 +31,7 @@ But Kid Rock's reservations represent another faction. Rather than a philosophic
 
 Bob Seger and Kid Rock share the same management, which could explain why Seger, who was inducted into the Rock and Roll Hall of Fame in 2004, can't be found on iTunes either.  
 
-In 2007, Kid Rock's sixth album “Rock &#8216;n' Roll Jesus,” debuted at number one on the Billboard top 200 chart, despite its absence from iTunes. But that was a different era, when holdouts still included big names like Radiohead.  
+In 2007, Kid Rock's sixth album “Rock ‘n' Roll Jesus,” debuted at number one on the Billboard top 200 chart, despite its absence from iTunes. But that was a different era, when holdouts still included big names like Radiohead.  
 
 In 2007, Radiohead made its album “In Rainbows” available on the Web; allowing fans to name their price. In 2008, Radiohead made its full catalogue available on iTunes, according to [Billboard.](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003811052#/bbcom/news/article_display.jsp?vnu_content_id=1003811052).  
 

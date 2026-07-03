@@ -16,7 +16,9 @@ categories:
 ---
 Take a look in the Email I got from Google a few minutes ago:
 
-[![website_optimizer_logo_sm](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4mTOCIvlI/AAAAAAAADZk/ZdPdNLXmLvc/website_optimizer_logo_sm_thumb.gif?imgmax=800 "website_optimizer_logo_sm")](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4mR6AImVI/AAAAAAAADZg/NuIjBac0rnM/s1600-h/website_optimizer_logo_sm%5B2%5D.gif)Dear Website Optimizer user,
+[![website_optimizer_logo_sm](http://lh3.ggpht.com/_vaUVXcmC3OI/TP4mTOCIvlI/AAAAAAAADZk/ZdPdNLXmLvc/website_optimizer_logo_sm_thumb.gif?imgmax=800 "website_optimizer_logo_sm")](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4mR6AImVI/AAAAAAAADZg/NuIjBac0rnM/s1600-h/website_optimizer_logo_sm%5B2%5D.gif)
+
+Dear Website Optimizer user,
 
 We are writing to inform you of a potential security issue with Website Optimizer. By exploiting a vulnerability in the Website Optimizer Control Script, an attacker might be able to execute malicious code on your site using a Cross-Site Scripting (XSS) attack. This attack can only take place if a website or browser has already been compromised by a separate attack. While the immediate probability of this attack is low, we urge you to take action to protect your site.
 

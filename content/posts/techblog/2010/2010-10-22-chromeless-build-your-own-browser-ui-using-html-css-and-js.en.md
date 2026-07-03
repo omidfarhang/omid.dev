@@ -21,7 +21,7 @@ Have you ever had an idea to improve the user interface of your browser? Have yo
 
 It’s questions like these that have motivated us to start a new Mozilla Labs experiment, codenamed “chromeless”. We intend to create an experimental toolkit which will allow developers to build their own Web browser using standard Web technologies: HTML, CSS, and JavaScript. The following screenshot is an example of a very simple browser application with page thumbnails used for tab handlers:
 
-[<img title="chromeless" border="0" alt="chromeless" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMDSHS91wSI/AAAAAAAAC2Q/VTGiJXHw3OI/chromeless_thumb%5B1%5D.jpg?imgmax=800" width="304" height="238" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMDSEMZwiDI/AAAAAAAAC2M/0oaHSoS1x_4/s1600-h/chromeless%5B3%5D.jpg)
+![chromeless](http://lh5.ggpht.com/_vaUVXcmC3OI/TMDSEMZwiDI/AAAAAAAAC2M/0oaHSoS1x_4/s1600-h/chromeless%5B3%5D.jpg)
 
 #### Overview
 
@@ -31,7 +31,7 @@ The [current implementation](http://github.com/mozilla/chromeless) is a remix of
 
 Instead of loading XUL, the application’s main execution point is an HTML file. This page is granted extra privileges (i.e., it can access CommonJS modules made available by the Jetpack platform). Our goal is to expose the basic functionality required to write a browser to this HTML entry point, via CommonJS modules and as lightweight conventions on top of the DOM. For example, the HTML author might interact with an “application” interface module in order to set the labels and handlers for OS-specific window menus, or to invoke an OS-specific notification mechanism. The title of the HTML document might be the name of the running process. The height and width of the document may be linked to the size of the main application’s window. The following diagram shows a high level visualization of this “chromeless toolkit”
 
-[<img title="chromeless1" border="0" alt="chromeless1" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMDSTe3f67I/AAAAAAAAC2Y/ZYhv6JFS4nY/chromeless1_thumb%5B1%5D.jpg?imgmax=800" width="304" height="252" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TMDSLPzBNXI/AAAAAAAAC2U/E4_97pKdFZs/s1600-h/chromeless1%5B3%5D.jpg)
+![chromeless1](http://lh6.ggpht.com/_vaUVXcmC3OI/TMDSLPzBNXI/AAAAAAAAC2U/E4_97pKdFZs/s1600-h/chromeless1%5B3%5D.jpg)
 
 #### Where are We Now?
 

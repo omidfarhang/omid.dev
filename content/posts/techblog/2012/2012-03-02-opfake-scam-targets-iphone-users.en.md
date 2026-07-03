@@ -16,7 +16,9 @@ categories:
 ---
 Symantec Connect:
 
-[<img title="op1" border="0" alt="op1" align="right" src="http://lh3.ggpht.com/-TZfpilX7lAU/T1E3wCMdiXI/AAAAAAAAFBs/iodl4qF6l_8/op1_thumb%25255B5%25255D.jpg?imgmax=800" width="164" height="244" />](http://lh4.ggpht.com/-S1VCJ7YGjGw/T1E3sQolgWI/AAAAAAAAFBk/etd418Wg1nE/s1600-h/op1%25255B9%25255D.jpg)The Opfake gang has been [targeting Android mobile devices](http://www.symantec.com/connect/blogs/androidopfakeb-adopts-bot-tactics), as well as Symbian, but that does not mean they are limiting their targets to these platforms. Where there is money to be made, they are willing to invest time and resources. This includes scams designed for iPhone users. We have come across a couple of Opfake websites that, while hosting malicious apps that Symantec detects as [Android.Opfake](http://www.symantec.com/security_response/writeup.jsp?docid=2012-012709-2732-99), are also designed to perform social engineering attacks on iPhone users. 
+![op1](http://lh4.ggpht.com/-S1VCJ7YGjGw/T1E3sQolgWI/AAAAAAAAFBk/etd418Wg1nE/s1600-h/op1%25255B9%25255D.jpg)
+
+The Opfake gang has been [targeting Android mobile devices](http://www.symantec.com/connect/blogs/androidopfakeb-adopts-bot-tactics), as well as Symbian, but that does not mean they are limiting their targets to these platforms. Where there is money to be made, they are willing to invest time and resources. This includes scams designed for iPhone users. We have come across a couple of Opfake websites that, while hosting malicious apps that Symantec detects as [Android.Opfake](http://www.symantec.com/security_response/writeup.jsp?docid=2012-012709-2732-99), are also designed to perform social engineering attacks on iPhone users. 
 
 The iPhone is designed to prevent the installation of applications outside of the Apple App Store. This makes life difficult for bad guys attempting to fool users into installing malicious apps in a similar manner to Android and Symbian devices.  To get around this, the Opfake gang have developed a social engineering trick that does not require apps to scam site visitors. 
 

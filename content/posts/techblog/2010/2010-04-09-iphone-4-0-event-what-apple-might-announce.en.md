@@ -23,8 +23,7 @@ Take a look at some of the features Apple might just unveil today:
 
 ## Multitasking
 
-* * *Last year, it was all about copy and paste; this year, it’s all about multitasking. While native iPhone applications like iPod, Mail and Safari can take advantage of backgrounding or multitasking (i.e., you can listen to music using the iPod app while playing a game or surfing the web), third-party applications can’t do this.</p> 
-
+* * *Last year, it was all about copy and paste; this year, it’s all about multitasking. While native iPhone applications like iPod, Mail and Safari can take advantage of backgrounding or multitasking (i.e., you can listen to music using the iPod app while playing a game or surfing the web), third-party applications can’t do this.
 While there are specific reasons that multitasking or backgrounding hasn’t been implemented on a system-wide level, that hasn’t stopped complaints from users and pundits alike. Since January we’ve been hearing rumors about multitasking coming to the next iPhone OS.
 
 While we’re not sure how Apple will implement this feature, we have a strong feeling that it is coming.
@@ -33,22 +32,19 @@ While we’re not sure how Apple will implement this feature, we have a strong f
 
 ## iAd
 
-* * *With the FTC reportedly close to investigating Google/AdMob, this might end up being the perfect time for Apple to announce its iAd mobile ad network. Depending on how the system works and how well it integrates with the iPhone SDK, Apple might even have a chance to beat Google in mobile advertising.</p> 
-
+* * *With the FTC reportedly close to investigating Google/AdMob, this might end up being the perfect time for Apple to announce its iAd mobile ad network. Depending on how the system works and how well it integrates with the iPhone SDK, Apple might even have a chance to beat Google in mobile advertising.
 * * *
 
 ## Printing
 
 * * *Yesterday, 
 
-[AppleInsider reported](http://www.appleinsider.com/articles/10/04/06/apple_ipad_iphone_os_4_may_gain_direct_printing_support.html) that direct printing support might be coming to iPhone 4.0 OS. If this is true, it will likely work like Bonjour currently works on Mac OS X systems (or on Windows computers that have Bonjour installed).</p> 
-
+[AppleInsider reported](http://www.appleinsider.com/articles/10/04/06/apple_ipad_iphone_os_4_may_gain_direct_printing_support.html) that direct printing support might be coming to iPhone 4.0 OS. If this is true, it will likely work like Bonjour currently works on Mac OS X systems (or on Windows computers that have Bonjour installed).
 While printing isn’t an activity I ever feel the need to do on my iPhone, the larger screen of the iPad might make it more compelling.
 
 * * *
 
 ## Front-Facing Camera Support
 
-* * *While Apple usually leaves its OS announcements to talk about software exclusively — leaving the hardware unveils to WWDC or other events — if video chat is on a list of upcoming features, it might just be because the next iPhone will be sporting a front-facing camera.</p> 
-
+* * *While Apple usually leaves its OS announcements to talk about software exclusively — leaving the hardware unveils to WWDC or other events — if video chat is on a list of upcoming features, it might just be because the next iPhone will be sporting a front-facing camera.
 Of course, this begs the question: Why not put a camera on the iPad?

@@ -12,9 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="yahoo_purple_large" border="0" alt="yahoo_purple_large" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TX4dnVfEl8I/AAAAAAAADsk/d_1wozbN-HQ/yahoo_purple_large_thumb%5B1%5D.gif?imgmax=800" width="150" height="28" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TX4dlz9_dhI/AAAAAAAADsg/2piNuB4cbgI/s1600-h/yahoo_purple_large%5B3%5D.gif)Yahoo Mail Blog wrote:**
+**![yahoo_purple_large](http://lh5.ggpht.com/_vaUVXcmC3OI/TX4dlz9_dhI/AAAAAAAADsg/2piNuB4cbgI/s1600-h/yahoo_purple_large%5B3%5D.gif)Yahoo Mail Blog wrote:**
 
-[<img title="train4blog3-e1299888550102" border="0" alt="train4blog3-e1299888550102" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TX4dx2pMbpI/AAAAAAAADss/WmS0q7n5uWU/train4blog3-e1299888550102_thumb%5B1%5D.png?imgmax=800" width="504" height="332" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TX4dsqJjQuI/AAAAAAAADso/hbxxOtuVhJ8/s1600-h/train4blog3-e1299888550102%5B3%5D.png)
+![train4blog3-e1299888550102](http://lh4.ggpht.com/_vaUVXcmC3OI/TX4dsqJjQuI/AAAAAAAADso/hbxxOtuVhJ8/s1600-h/train4blog3-e1299888550102%5B3%5D.png)
 
 Greetings, Yahoo! Mail Beta users!
 

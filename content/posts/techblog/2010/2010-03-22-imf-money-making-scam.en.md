@@ -23,7 +23,7 @@ In the email. the IMF (supposedly) wants to transfer $10 Million into the reader
 
 _Name: Mr. Donald Miller (Co-founder)_  
 _Office Address: 11 El Shams Bldgs., 8th District Nasr City_  
-_E-mail: Bernisecharityfoundationimf &#8216;at' gmail.com_  
+_E-mail: Bernisecharityfoundationimf ‘at' gmail.com_  
 _Tel: (+44) 7031-939-750_  
 _Fax: (+44) 7011830323_
 

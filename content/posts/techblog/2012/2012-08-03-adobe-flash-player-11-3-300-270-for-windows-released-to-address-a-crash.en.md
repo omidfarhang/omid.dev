@@ -15,7 +15,9 @@ categories:
 ---
 Adobe wrote: 
 
-<a href="http://lh4.ggpht.com/-_CrJFp4sO6k/UBuPL-gtLWI/AAAAAAAAG2k/LNOJO4JslDk/s1600-h/Adobe_Flash_120%25255B2%25255D.png" target="_blank"><img title="Adobe_Flash_120" border="0" alt="Adobe_Flash_120" align="right" src="http://lh3.ggpht.com/-UPBOlKGRcXU/UBuPN588N1I/AAAAAAAAG2s/WtVU71xIp7E/Adobe_Flash_120_thumb.png?imgmax=800" width="120" height="120" /></a>Today, Flash Player 11.3.300.270 for Windows was released to address a crash that was occurring in the Adobe Flash Player Update Service (FlashPlayerUpdateService.exe).  There are no other fixes or changes provided with this build.  This release is available for Windows only, and affects the Active X and Plug-in installers, uninstaller, and msi's (available on the distribution page.)  No other platforms are affected. 
+![Adobe_Flash_120](http://lh4.ggpht.com/-_CrJFp4sO6k/UBuPL-gtLWI/AAAAAAAAG2k/LNOJO4JslDk/s1600-h/Adobe_Flash_120%25255B2%25255D.png)
+
+Today, Flash Player 11.3.300.270 for Windows was released to address a crash that was occurring in the Adobe Flash Player Update Service (FlashPlayerUpdateService.exe).  There are no other fixes or changes provided with this build.  This release is available for Windows only, and affects the Active X and Plug-in installers, uninstaller, and msi's (available on the distribution page.)  No other platforms are affected. 
 
 Please be aware that this release is not available from the Product Download Center (<http://get.adobe.com/flashplayer>) which will continue to provide 11.3.300.268.  We realize that this might cause confusion for some users.  Due to the severity of this issue, we decided to make this build available immediately to help customers affected by this bug.  Due to logistical issues and time constraints, we were unable to update the release on the Product Download Center.  The next release of Flash Player will correct this disparity.  Please note that unless you have been affected by the FlashPlayerUpdateService.exe crash, both 11.3.300.270 and 11.3.300.268 will be functionally identical. 
 

@@ -22,4 +22,4 @@ Seesmic currently has a web client, Windows and AIR desktop apps, and mobile app
 
 In the meantime, Seesmic does many things that Twitter will likely never do. For one thing, it integrates multiple platforms including Facebook and LinkedIn. Its all-in-one dashboard solution is something that power users (and perhaps, one day, average end users) need and love, if it’s done correctly. 
 
-Le Meur’s confident position is one Seesmic needs right now. With a shaky ecosystem of third-party apps and an uncertain future for Twitter app developers, his be-awesome-or-get-out-of-the-way stance is refreshing, the flip side of the capitalistic coin that Twitter has tossed to developers as it grows from a startup into a profitable company. </p>
+Le Meur’s confident position is one Seesmic needs right now. With a shaky ecosystem of third-party apps and an uncertain future for Twitter app developers, his be-awesome-or-get-out-of-the-way stance is refreshing, the flip side of the capitalistic coin that Twitter has tossed to developers as it grows from a startup into a profitable company.

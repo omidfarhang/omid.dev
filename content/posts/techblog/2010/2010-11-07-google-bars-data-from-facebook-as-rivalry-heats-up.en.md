@@ -15,7 +15,9 @@ categories:
 ---
 **Reuters: Google Inc will begin blocking Facebook and other Web services from accessing its users' information, highlighting an intensifying rivalry between the two Internet giants.**
 
-[<img title="Google" border="0" alt="Google" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNaNbTEgAZI/AAAAAAAADGs/TItnLHMLLM4/Google_thumb%5B3%5D.png?imgmax=800" width="300" height="109" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TNaNXpBYYKI/AAAAAAAADGo/4uSFmglkuRg/s1600-h/Google%5B5%5D.png)Google will no longer let other services automatically import its users' email contact data for their own purposes, unless the information flows both ways. It accused Facebook in particular of siphoning up Google contact data, without allowing for the automatic import and export of Facebook users' information.
+![Google](http://lh5.ggpht.com/_vaUVXcmC3OI/TNaNXpBYYKI/AAAAAAAADGo/4uSFmglkuRg/s1600-h/Google%5B5%5D.png)
+
+Google will no longer let other services automatically import its users' email contact data for their own purposes, unless the information flows both ways. It accused Facebook in particular of siphoning up Google contact data, without allowing for the automatic import and export of Facebook users' information.
 
 Facebook, with more than 500 million users, relies on email services such as Google's Gmail to help new users find friends already on the network. When a person joins, they are asked to import their Gmail contact list into the social network service. Facebook then tells the user which email contacts are also on the social network.
 

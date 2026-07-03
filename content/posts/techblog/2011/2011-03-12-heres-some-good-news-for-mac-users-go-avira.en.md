@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-### [<img title="Avira-Logo-Final-RGB" border="0" alt="Avira-Logo-Final-RGB" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TXtUiZu_cNI/AAAAAAAADqc/GHbv4i_EMKM/new-avira-logo_thumb%5B13%5D.png?imgmax=800" width="167" height="45" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TXtUgsErgNI/AAAAAAAADqY/DVu9aU5HjaY/s1600-h/new-avira-logo%5B19%5D.png)Avira’s Anti-Virus Technology Used by ZeoBIT in New System Utility – MacKeeper
+### ![Avira-Logo-Final-RGB](http://lh5.ggpht.com/_vaUVXcmC3OI/TXtUgsErgNI/AAAAAAAADqY/DVu9aU5HjaY/s1600-h/new-avira-logo%5B19%5D.png)Avira’s Anti-Virus Technology Used by ZeoBIT in New System Utility – MacKeeper
 
 _Avira provides anti-malware scanning engine to MacKeeper App_
 
@@ -33,13 +33,13 @@ The licensing agreement allows ZeoBIT to use Avira’s Secure Anti-Virus API, th
 
 “Since our launch last fall with MacKeeper 1.0, ZeoBIT has been busy making our security product for Macs the best it can be and we’re certainly pleased to add the security prowess of Avira to our product,” said Slava Kolomiychuk, CEO, ZeoBIT LLC. “Mac users are facing increasing amounts of malware and our goal is to protect them so they never have to worry about being compromised.”
 
- 
+
 
 #### About ZeoBIT
 
 Since 2008, ZeoBIT LLC has been developing, promoting and supporting software for Mac OS and Windows platforms. ZeoBIT LLC is located in the US (headquarters) and in Ukraine (development center).
 
- 
+
 
 #### About Avira
 

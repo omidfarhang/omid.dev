@@ -22,6 +22,5 @@ A Facebook spokesperson confirmed the hack to [PEHub](http://www.pehub.com/71201
 
 Breyer’s compromised Facebook account is another blemish on the company’s muddied reputation concerning user privacy and safety. There’s currently a swell of negative Facebook sentiment concerning the opt-in settings of Instant Personalization. In addition, Facebook recently had to disable chat following a privacy blunder that exposed users’ live Facebook chat sessions. 
 
-Still the majority of Facebook’s more than 400 million members — many of whom are not all that concerned with their privacy — won’t restrict their status update behavior following the hack. But it’s certainly an embarrassing moment for the company, and one that does highlight the fallibility of the world’s most popular social network.</p> 
-
+Still the majority of Facebook’s more than 400 million members — many of whom are not all that concerned with their privacy — won’t restrict their status update behavior following the hack. But it’s certainly an embarrassing moment for the company, and one that does highlight the fallibility of the world’s most popular social network.
 [![breyerfacebook_610x147](http://lh6.ggpht.com/_vaUVXcmC3OI/S-lpOem_BgI/AAAAAAAACJA/6QQICV6iBAw/breyerfacebook_610x147_thumb%5B3%5D.png?imgmax=800 "breyerfacebook_610x147")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-lpMKVRzKI/AAAAAAAACI8/Nn7oLwtdBCU/s1600-h/breyerfacebook_610x147%5B5%5D.png)

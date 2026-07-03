@@ -10,7 +10,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="sad" border="0" alt="sad" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S9NPIDIWRXI/AAAAAAAACCA/rXrOnRaFAlM/sad_thumb%5B4%5D.jpg?imgmax=800" width="260" height="260" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S9NPD75pP0I/AAAAAAAACB8/k4puES1sR60/s1600-h/sad%5B6%5D.jpg) Hi dear visitors,
+![sad](http://lh4.ggpht.com/_vaUVXcmC3OI/S9NPD75pP0I/AAAAAAAACB8/k4puES1sR60/s1600-h/sad%5B6%5D.jpg) Hi dear visitors,
 
 I’m sorry I’ve not been here for a while, there are some personal problems here in my life and I could not keep up updating my blog **🙁** , I guess it would take up to one more week, so I hope I can back here updating my blog from next week **🙂**
 

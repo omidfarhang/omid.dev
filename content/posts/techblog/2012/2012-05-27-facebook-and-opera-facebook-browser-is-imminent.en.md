@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh6.ggpht.com/-cvo0l9jdkD8/T8IOacKePBI/AAAAAAAAGGo/Kh7k0PIcXMo/facebook%252528low%252529_thumb.jpg?imgmax=800" width="191" height="55" />](http://lh3.ggpht.com/-EL02lym5yAQ/T8IOXJ08DEI/AAAAAAAAGGg/tO_7IiTuM_4/s1600-h/facebook%252528low%252529%25255B2%25255D.jpg)Mashable: Are you ready for a Facebook browser that integrates the social networking behemoth into your online life more than ever? That’s exactly what could be on the way soon, according to one report. 
+![facebook(low)](http://lh3.ggpht.com/-EL02lym5yAQ/T8IOXJ08DEI/AAAAAAAAGGg/tO_7IiTuM_4/s1600-h/facebook%252528low%252529%25255B2%25255D.jpg)
+
+Mashable: Are you ready for a Facebook browser that integrates the social networking behemoth into your online life more than ever? That’s exactly what could be on the way soon, according to one report. 
 
 A Friday [_Pocket-lint_](http://www.pocket-lint.com/news/45795/facebook-browser-opera-software-buyout) report cites a “trusted source” that Facebook wants to buy Opera Software — manufacturers of the Opera web browser, which claims more than 200 million users worldwide. The Facebook browser would include default menu bar plugins, further permeating Facebook into users’ general web experience, according to the report. 
 
@@ -27,4 +29,4 @@ We’ll see if the Opera rumors are true, but if _Pocket-lint_‘s “man in the
 
 How could a Facebook browser help the company take over the web — or can it? Share your perspective in the comments. 
 
-Source: <a href="http://mashable.com/2012/05/25/facebook-browser/" target="_blank">Mashable</a>
+Source: [Mashable](http://mashable.com/2012/05/25/facebook-browser/)

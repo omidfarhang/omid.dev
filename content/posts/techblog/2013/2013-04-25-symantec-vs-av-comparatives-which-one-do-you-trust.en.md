@@ -16,7 +16,9 @@ categories:
 ---
 Cross-posted from PCMag SecurityWatch:
 
-[![symantec-calls-test-misleading](/images/2013/04/symantec-calls-test-misleading-300x236.jpg)](/images/2013/04/symantec-calls-test-misleading.jpg)Last week independent antivirus lab AV-Comparatives released the results of an on-demand antivirus detection test. The fact that Microsoft came in near the bottom wasn't big news; the fact that [Symantec scored even lower](http://securitywatch.pcmag.com/security-software/310201-microsoft-outperforms-symantec-in-antivirus-test) was surprising indeed. In a [blog post](http://community.norton.com/t5/Norton-Protection-Blog/Beyond-the-Headlines-Don-t-be-fooled-by-misleading-security/ba-p/943843) released today, Symantec decried the entire practice of performing on-demand malware scanning tests, calling it “misleading.”
+[![symantec-calls-test-misleading](/images/2013/04/symantec-calls-test-misleading-300x236.jpg)](/images/2013/04/symantec-calls-test-misleading.jpg)
+
+Last week independent antivirus lab AV-Comparatives released the results of an on-demand antivirus detection test. The fact that Microsoft came in near the bottom wasn't big news; the fact that [Symantec scored even lower](http://securitywatch.pcmag.com/security-software/310201-microsoft-outperforms-symantec-in-antivirus-test) was surprising indeed. In a [blog post](http://community.norton.com/t5/Norton-Protection-Blog/Beyond-the-Headlines-Don-t-be-fooled-by-misleading-security/ba-p/943843) released today, Symantec decried the entire practice of performing on-demand malware scanning tests, calling it “misleading.”
 
 In the early years of antivirus testing, every test was an on-demand scanning test. Researchers would assemble a collection of known malware, run a full scan, and record the percentage of samples detected. Modern labs work hard to devise tests that more closely reflect a user's real-world experience, taking into account the fact that the vast majority of infections enter the computer from the Internet. Symantec contends that only the real-world sort of test is valid; I don't entirely agree.
 

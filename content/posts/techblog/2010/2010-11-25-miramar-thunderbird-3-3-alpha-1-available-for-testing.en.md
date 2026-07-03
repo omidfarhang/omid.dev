@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="thunderbird" border="0" alt="thunderbird" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TO6-jlMygJI/AAAAAAAADOU/DMrWTTjhb0U/thunderbird_thumb%5B1%5D.png?imgmax=800" width="148" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TO6-gpfohrI/AAAAAAAADOQ/uZzTRYBBh2E/s1600-h/thunderbird%5B3%5D.png)Mozilla announced Miramar Alpha 1, an early version of their next Thunderbird.
+![thunderbird](http://lh5.ggpht.com/_vaUVXcmC3OI/TO6-gpfohrI/AAAAAAAADOQ/uZzTRYBBh2E/s1600-h/thunderbird%5B3%5D.png)
+
+Mozilla announced Miramar Alpha 1, an early version of their next Thunderbird.
 
 Miramar Alpha 1, [available here for download](http://www.mozillamessaging.com/en-US/thunderbird/early_releases/downloads/), is for testers, extension developers, and other friends who are curious to follow the development of the next release of Thunderbird.
 

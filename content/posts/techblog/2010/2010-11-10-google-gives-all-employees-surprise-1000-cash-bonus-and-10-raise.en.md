@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="eric-schmidt-hands-togetherjpg" border="0" alt="eric-schmidt-hands-togetherjpg" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TNqRhuJXtwI/AAAAAAAADHM/4Qt1jRhFsxI/eric-schmidt-hands-togetherjpg_thumb.jpg?imgmax=800" width="304" height="229" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TNqRekQt1wI/AAAAAAAADHI/afzaAMGj90w/s1600-h/eric-schmidt-hands-togetherjpg%5B2%5D.jpg)
+![eric-schmidt-hands-togetherjpg](http://lh6.ggpht.com/_vaUVXcmC3OI/TNqRekQt1wI/AAAAAAAADHI/afzaAMGj90w/s1600-h/eric-schmidt-hands-togetherjpg%5B2%5D.jpg)
 
 Google has given all of its employees $1,000 cash “holiday bonuses” and 2011 salary increases of at least 10%, a loyal reader tells us.
 
@@ -48,6 +48,6 @@ Googlers, you are what makes this company great, and our goal here is to recogni
 
 Eric
 
- 
+
 
 _from SAI: Silicon Alley Insider by Henry Blodget_

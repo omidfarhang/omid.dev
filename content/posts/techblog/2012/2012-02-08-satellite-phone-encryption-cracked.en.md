@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-**H-Online:** [<img title="Thuraya-SO-2510" border="0" alt="Thuraya-SO-2510" align="right" src="http://lh6.ggpht.com/-oC-e5wTZMv8/TzKXW-Q8wHI/AAAAAAAAEjE/9wFbJFxkmvI/Thuraya-SO-2510_thumb%25255B1%25255D.jpg?imgmax=800" width="122" height="200" />](http://lh3.ggpht.com/-oXsATnJtETg/TzKXGI5EugI/AAAAAAAAEi8/ZlQsCyEYhA4/s1600-h/Thuraya-SO-2510%25255B1%25255D.jpg)Researchers at Ruhr-Universität Bochum in Germany have announced that they have [cracked](http://gmr.crypto.rub.de/) the A5-GMR-1 and A5-GMR-2 encryption algorithms used in satellite phones. Satellite phones are mainly used in areas with insufficient mobile network coverage and in the maritime sector. 
+**H-Online:** ![Thuraya-SO-2510](http://lh3.ggpht.com/-oXsATnJtETg/TzKXGI5EugI/AAAAAAAAEi8/ZlQsCyEYhA4/s1600-h/Thuraya-SO-2510%25255B1%25255D.jpg)Researchers at Ruhr-Universität Bochum in Germany have announced that they have [cracked](http://gmr.crypto.rub.de/) the A5-GMR-1 and A5-GMR-2 encryption algorithms used in satellite phones. Satellite phones are mainly used in areas with insufficient mobile network coverage and in the maritime sector. 
 
 The researchers obtained the proprietary, and previously undocumented, algorithms by reverse engineering phone firmware updates. Ideally this, in itself, should not compromise the security of the transmitted data. Data security should not depend on the secrecy of the encryption methods, it should only depend on the non-disclosure of the secret key that is being used. 
 

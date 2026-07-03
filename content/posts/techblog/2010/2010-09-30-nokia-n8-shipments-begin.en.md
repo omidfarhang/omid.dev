@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="N8-factory-08" border="0" alt="N8-factory-08" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TKRufyQ_7OI/AAAAAAAACkY/k_sp7Egs4AY/N8-factory-08_thumb%5B1%5D.jpg?imgmax=800" width="304" height="204" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TKRueGKM5iI/AAAAAAAACkU/Ea-eTuStQjI/s1600-h/N8-factory-08%5B3%5D.jpg)
+![N8-factory-08](http://lh5.ggpht.com/_vaUVXcmC3OI/TKRueGKM5iI/AAAAAAAACkU/Ea-eTuStQjI/s1600-h/N8-factory-08%5B3%5D.jpg)
 
 Nokia would like the world to know that its upcoming smartphone, the N8, is finished. The first batch of devices has left the factories in Finland and China, and these N8s will soon end in the hands of customers all over the world.
 

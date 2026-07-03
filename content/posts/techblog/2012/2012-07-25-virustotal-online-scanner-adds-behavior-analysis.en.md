@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh5.ggpht.com/-JN7a_qRtjw8/UA_4uoKn_zI/AAAAAAAAGl0/751-1KLyXu0/s1600-h/VirusTotal-logo%25255B2%25255D.png" target="_blank"><img title="VirusTotal-logo" border="0" alt="VirusTotal-logo" align="right" src="http://lh4.ggpht.com/-_OC-wz-iq2Y/UA_4wrKiZyI/AAAAAAAAGl8/Rb3JEynawXw/VirusTotal-logo_thumb.png?imgmax=800" width="252" height="107" /></a>h-Online: The developers of the [VirusTotal](https://www.virustotal.com/) online virus scanner service are currently testing a new sandbox feature to provide users with more meaningful scan results. In a [post](http://blog.virustotal.com/2012/07/virustotal-behavioural-information.html) on the company's blog, software architect and developer Emiliano Martinez says that, for this purpose, samples uploaded to the service are executed in a controlled sandbox environment where their actions can be “recorded in order to give the analyst a high level overview of what the sample is doing”. 
+![VirusTotal-logo](http://lh5.ggpht.com/-JN7a_qRtjw8/UA_4uoKn_zI/AAAAAAAAGl0/751-1KLyXu0/s1600-h/VirusTotal-logo%25255B2%25255D.png)
+
+h-Online: The developers of the [VirusTotal](https://www.virustotal.com/) online virus scanner service are currently testing a new sandbox feature to provide users with more meaningful scan results. In a [post](http://blog.virustotal.com/2012/07/virustotal-behavioural-information.html) on the company's blog, software architect and developer Emiliano Martinez says that, for this purpose, samples uploaded to the service are executed in a controlled sandbox environment where their actions can be “recorded in order to give the analyst a high level overview of what the sample is doing”. 
 
 An analysis of the uploaded file's behavior is then displayed in a new “Behavioral information” tab as part of the scan results. VirusTotal logs file and registry activities as well as new processes and code injections. The scanner also issues a notification when a file directly sends commands to certain device drivers. 
 

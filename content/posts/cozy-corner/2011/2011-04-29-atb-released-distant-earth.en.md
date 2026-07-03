@@ -16,7 +16,7 @@ categories:
 
 The first CD is an ATB-standard tracks CD, which contains tracks featuring artists like Josh Gallahan, Amurai, Dash Berlin, Sean Ryan, Rea Garvey, Melissa Loretta or JanSoon. The second CD is an ambient / lounge CD which brings us a surprising collaboration with Armin van Buuren for the track called “Vice Versa”, and, finally, the third CD contains the club versions of the tracks found on the first CD.
 
-[<img class="alignnone size-medium wp-image-396" alt="Distant_Earth_official_cover" src="/images/2011/04/Distant_Earth_official_cover-300x268.jpg" width="300" height="268" srcset="/images/sites/4/2011/04/Distant_Earth_official_cover-300x268.jpg 300w, /images/sites/4/2011/04/Distant_Earth_official_cover.jpg 423w" sizes="(max-width: 300px) 100vw, 300px" />](/images/2011/04/Distant_Earth_official_cover.jpg)
+![Distant_Earth_official_cover](/images/2011/04/Distant_Earth_official_cover.jpg)
 
 Track Listing:
 
@@ -63,6 +63,5 @@ Disc Three
   8. Apollo Road (Club Version) (with Dash Berlin)
   9. Chapter One (Club Version) (with Josh Gallahan)
 
-&nbsp;
 
-&nbsp;
+

@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="ipad_switch" border="0" alt="ipad_switch" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TMVl0x-DZYI/AAAAAAAAC5g/UCj363Zgw3Q/ipad_switch_thumb%5B7%5D.jpg?imgmax=800" width="304" height="164" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TMVly73CJMI/AAAAAAAAC5c/M7vHH9PsJXo/s1600-h/ipad_switch%5B9%5D.jpg)
+![ipad_switch](http://lh3.ggpht.com/_vaUVXcmC3OI/TMVly73CJMI/AAAAAAAAC5c/M7vHH9PsJXo/s1600-h/ipad_switch%5B9%5D.jpg)
 
 Mashable: After iOS 4.2, iPad’s screen rotation lock switch, located on the upper-right edge of the device, will become a mute switch, similar to the mute switch on the iPhone.
 

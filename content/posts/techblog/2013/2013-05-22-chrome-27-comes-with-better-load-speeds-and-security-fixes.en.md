@@ -11,7 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![new-chrome-logo](/images/2013/05/new-chrome-logo.png)](/images/2013/05/new-chrome-logo.png)The Chrome developers at Google have [released](http://googlechromereleases.blogspot.co.uk/2013/05/stable-channel-release.html) version 27 of their browser to the Stable release channel for Windows, Mac OS X, Linux, and Chrome Frame for Internet Explorer. The new version, Chrome 27.0.1453.93, includes performance improvements with a new scheduler and fixes a number of security vulnerabilities – most of them rated as High – that Google's bug bounty program rewarded with almost $15,000 in total.
+[![new-chrome-logo](/images/2013/05/new-chrome-logo.png)](/images/2013/05/new-chrome-logo.png)
+
+The Chrome developers at Google have [released](http://googlechromereleases.blogspot.co.uk/2013/05/stable-channel-release.html) version 27 of their browser to the Stable release channel for Windows, Mac OS X, Linux, and Chrome Frame for Internet Explorer. The new version, Chrome 27.0.1453.93, includes performance improvements with a new scheduler and fixes a number of security vulnerabilities – most of them rated as High – that Google's bug bounty program rewarded with almost $15,000 in total.
 
 Chrome 27 also introduces a [filesystem API](http://developer.chrome.com/trunk/apps/app_storage.html) that allows the browser to synchronise application data through the Google Drive service. Among the bug fixes, a [dependency problem](https://code.google.com/p/chromium/issues/detail?id=226002) which stopped Chrome being easily installed on Ubuntu 13.04 has also been fixed, one release earlier than Canonical was expecting.
 

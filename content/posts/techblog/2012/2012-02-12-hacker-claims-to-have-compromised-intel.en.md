@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://www.theinquirer.net/" target="_blank"><img title="Intel Hack Proof" border="0" alt="Intel Hack Proof" align="right" src="http://lh4.ggpht.com/-HRcVXBGqzXE/Tzf7QB18ILI/AAAAAAAAEsg/SDMspoExzuk/intel-hack-proof-270x270%25255B5%25255D.png?imgmax=800" width="274" height="274" />The Inquirer</a>: A Hacker using the pseudonyms &#8216;Weedgrower' or &#8216;X-pOSed' claims that he has compromised Intel and obtained sensitive data. 
+[![Intel Hack Proof](http://lh4.ggpht.com/-HRcVXBGqzXE/Tzf7QB18ILI/AAAAAAAAEsg/SDMspoExzuk/intel-hack-proof-270x270%25255B5%25255D.png?imgmax=800)The Inquirer](http://www.theinquirer.net/): A Hacker using the pseudonyms ‘Weedgrower' or ‘X-pOSed' claims that he has compromised Intel and obtained sensitive data. 
 
 The solo hacker claims to have found a flaw in the subscriber segment of Intel's web site, according to [The Hacker News](http://thehackernews.com/2012/02/hackers-claims-to-compromise-intels.html). He said that he has access to sensitive data that includes credit card numbers, email addresses and passwords. 
 

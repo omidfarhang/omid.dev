@@ -10,7 +10,9 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh4.ggpht.com/-vYOM9zr2l78/UAffPyi1bOI/AAAAAAAAGgU/jyMklJHEveU/s1600-h/78480004_XS%25255B3%25255D.jpg" target="_blank"><img title="78480004_XS" border="0" alt="78480004_XS" align="right" src="http://lh5.ggpht.com/-1FotOZyW4Cc/UAffTe-UFwI/AAAAAAAAGgc/kRYBsrrWExQ/78480004_XS_thumb%25255B1%25255D.jpg?imgmax=800" width="240" height="160" /></a><a href="http://www.zdnet.com/indonesia-blocks-porn-sites-during-ramadan-7000001178/" target="_blank">ZDNet</a>: Indonesia's communications and information ministry has shut down more than one million pornographic Web sites ahead of Islamic holy month of Ramadan commencing Jul. 19, according to a newswire. Observers of the Muslim month of fasting refrain from eating, drinking and sexual relations from dawn until sunset. 
+![78480004_XS](http://lh4.ggpht.com/-vYOM9zr2l78/UAffPyi1bOI/AAAAAAAAGgU/jyMklJHEveU/s1600-h/78480004_XS%25255B3%25255D.jpg)
+
+[ZDNet](http://www.zdnet.com/indonesia-blocks-porn-sites-during-ramadan-7000001178/): Indonesia's communications and information ministry has shut down more than one million pornographic Web sites ahead of Islamic holy month of Ramadan commencing Jul. 19, according to a newswire. Observers of the Muslim month of fasting refrain from eating, drinking and sexual relations from dawn until sunset. 
 
 All of the sites were reportedly outside the country and more will be clamped down this month, [XBIZ newswire reported Wednesday](http://newswire.xbiz.com/view.php?id=151402). However, this does not mean that such sites will be allowed to operate during the rest of the year, Indonesia's communication and information minister, Tifatul Sembiring said. 
 

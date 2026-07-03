@@ -1,5 +1,5 @@
 ---
-title: "&#8216;Naked' scanners fooled by creased clothing"
+title: "‘Naked' scanners fooled by creased clothing"
 date: 2010-11-17T21:34:00+00:00
 layout: single
 author_profile: true

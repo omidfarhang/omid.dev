@@ -15,7 +15,7 @@ categories:
 ---
 Google's Knowledge Graph will display summaries of topics when your query is related to one of the 500 million items in Google's new database of things. 
 
-[<img title="Google_Knowledge-screen" border="0" alt="Google_Knowledge-screen" src="http://lh6.ggpht.com/-9h59z2Wzuq0/T7P1rMMWawI/AAAAAAAAF_o/TKWyYnY5QB4/Google_Knowledge-screen_thumb%25255B1%25255D.png?imgmax=800" width="500" height="403" />](http://lh3.ggpht.com/-KHzgPfNrsOs/T7P1mtNJh7I/AAAAAAAAF_g/V5LWrbiICBk/s1600-h/Google_Knowledge-screen%25255B3%25255D.png) 
+![Google_Knowledge-screen](http://lh3.ggpht.com/-KHzgPfNrsOs/T7P1mtNJh7I/AAAAAAAAF_g/V5LWrbiICBk/s1600-h/Google_Knowledge-screen%25255B3%25255D.png) 
 
 Google has long sought to index the world's information — and it's now taking things a step farther with an effort to create “a database of everything in the world.” And it's bringing this effort to your search results pages. 
 
@@ -25,4 +25,4 @@ You'll be able to meander through lists of facts and connections when you are se
 
 Google has both personnel and technology to curate what results appear in these fact boxes. 
 
-Continue Reading at Cnet: <a href="http://news.cnet.com/8301-1023_3-57435114-93/google-bringing-new-smarts-to-search-with-knowledge-graph/?ttag=fbw" target="_blank">Google bringing new smarts to Search with Knowledge Graph</a>
+Continue Reading at Cnet: [Google bringing new smarts to Search with Knowledge Graph](http://news.cnet.com/8301-1023_3-57435114-93/google-bringing-new-smarts-to-search-with-knowledge-graph/?ttag=fbw)

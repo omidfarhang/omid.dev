@@ -15,7 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="article_img" border="0" alt="article_img" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TLwq6kQg2cI/AAAAAAAACs8/v0PrQ7CTHUk/article_img_thumb%5B3%5D.jpg?imgmax=800" width="154" height="129" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TLwq5QEWbAI/AAAAAAAACs4/1lQWhMu5ATw/s1600-h/article_img%5B5%5D.jpg)While NVidia's big news may have been its upcoming budget-range GeForce GT 430 1GB cards which leaked out earlier this month, it seems that the company has been hiding another secret: the GeForce GT 440 range.
+![article_img](http://lh4.ggpht.com/_vaUVXcmC3OI/TLwq5QEWbAI/AAAAAAAACs4/1lQWhMu5ATw/s1600-h/article_img%5B5%5D.jpg)
+
+While NVidia's big news may have been its upcoming budget-range GeForce GT 430 1GB cards which leaked out earlier this month, it seems that the company has been hiding another secret: the GeForce GT 440 range.
 
 Quietly detailed on the company's website, the NVidia GeForce GT 440 range of cards is designed to offer OEMs a DirectX 11-compatible card for adding in to their mid-range machines.
 

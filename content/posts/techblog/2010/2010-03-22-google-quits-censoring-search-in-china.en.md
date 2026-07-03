@@ -32,7 +32,7 @@ Google said it would be carefully monitoring to see if access to the site is blo
 
 Early reports from China on Monday suggested that the Chinese government was already restricting access to Google's Hong Kong-based site, said Eddan Katz, International Affairs Director of the Electronic Frontier Foundation.
 
-“We've already heard indications that visitors to Google.hk are getting &#8216;can't find page' errors,” he said.
+“We've already heard indications that visitors to Google.hk are getting ‘can't find page' errors,” he said.
 
 The company on Monday also launched a [dashboard page](http://www.google.com/prc/report.html#hl=en), which it promises to update regularly each day, that will show which Google services are available in China. According to the page, YouTube, Google Sites and Google's Blogger apps were blocked Monday afternoon.
 

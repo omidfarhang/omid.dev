@@ -11,7 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![miley-cyrus](http://lh3.ggpht.com/_vaUVXcmC3OI/TO0yjIfBZaI/AAAAAAAADNM/tpXjfuKA4_A/miley-cyrus_thumb.jpg?imgmax=800 "miley-cyrus")](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0yhmgqINI/AAAAAAAADNI/RpiH8nHRt3Y/s1600-h/miley-cyrus%5B2%5D.jpg)Miley Cyrus is eighteen years old since yesterday.
+[![miley-cyrus](http://lh3.ggpht.com/_vaUVXcmC3OI/TO0yjIfBZaI/AAAAAAAADNM/tpXjfuKA4_A/miley-cyrus_thumb.jpg?imgmax=800 "miley-cyrus")](http://lh6.ggpht.com/_vaUVXcmC3OI/TO0yhmgqINI/AAAAAAAADNI/RpiH8nHRt3Y/s1600-h/miley-cyrus%5B2%5D.jpg)
+
+Miley Cyrus is eighteen years old since yesterday.
 
 I don't know if her father, legendary “Achy Breaky Heart” singer Billy Ray Cyrus, will be joining in her birthday celebrations, but I imagine he'll be quietly wiping away a tear as his daughter finally becomes officially an adult (at least as far as the age of consent in her home state of Tennessee is concerned).
 

@@ -33,7 +33,9 @@ He had believed in his younger days that he was mainly Irish and partially Nativ
 
 ##### Early life
 
-[![June Carter and Johnny Cash, Bride and Groom](/images/2013/03/young-june_carter_johnny_cash.jpg)](/images/2013/03/young-june_carter_johnny_cash.jpg)Johnny Cash was born J. R. Cash in Kingsland, Arkansas to Ray and Carrie (née Rivers) Cash, and raised in Dyess, Arkansas.
+[![June Carter and Johnny Cash, Bride and Groom](/images/2013/03/young-june_carter_johnny_cash.jpg)](/images/2013/03/young-june_carter_johnny_cash.jpg)
+
+Johnny Cash was born J. R. Cash in Kingsland, Arkansas to Ray and Carrie (née Rivers) Cash, and raised in Dyess, Arkansas.
 
 Cash was reportedly given the name “J.R.” because his parents could not agree on a name, only on initials. When he enlisted in the United States Air Force, the military would not accept initials as his name, so he adopted John R. Cash as his legal name. In 1955, when signing with Sun Records, he took Johnny Cash as his stage name. His friends and in-laws generally called him John, while his blood relatives usually continued to call him J.R.
 
@@ -55,7 +57,9 @@ While in Air Force training, Cash met Vivian Liberto on July 18, 1951 at a rolle
 
 ##### Early career
 
-[![johnny-cash](/images/2013/03/johnny-cash.jpg)](/images/2013/03/johnny-cash.jpg)In 1954, the couple moved to Memphis, Tennessee, where he sold appliances while studying to be a radio announcer. At night he played with guitarist Luther Perkins and bassist Marshall Grant. Perkins and Grant were known as the Tennessee Two. Cash worked up the courage to visit the Sun Records studio, hoping to get a recording contract. After auditioning for Sam Phillips, singing mostly gospel songs, Phillips told him to “go home and sin, then come back with a song I can sell.” Cash eventually won over Phillips with new songs delivered in his early frenetic style. His first recordings at Sun, “Hey Porter” and “Cry Cry Cry”, were released in 1955 and met with reasonable success on the country hit parade.
+[![johnny-cash](/images/2013/03/johnny-cash.jpg)](/images/2013/03/johnny-cash.jpg)
+
+In 1954, the couple moved to Memphis, Tennessee, where he sold appliances while studying to be a radio announcer. At night he played with guitarist Luther Perkins and bassist Marshall Grant. Perkins and Grant were known as the Tennessee Two. Cash worked up the courage to visit the Sun Records studio, hoping to get a recording contract. After auditioning for Sam Phillips, singing mostly gospel songs, Phillips told him to “go home and sin, then come back with a song I can sell.” Cash eventually won over Phillips with new songs delivered in his early frenetic style. His first recordings at Sun, “Hey Porter” and “Cry Cry Cry”, were released in 1955 and met with reasonable success on the country hit parade.
 
 Cash's next record, _Folsom Prison Blues_, made the country Top 5, and “I Walk the Line” became No. 1 on the country charts and entered the pop charts Top 20. Following “I Walk the Line” was “Home of the Blues”, recorded in July 1957. That same year Cash became the first Sun artist to release a long-playing album. Although he was Sun's most consistently best-selling and prolific artist at that time, Cash felt constrained by his contract with the small label. Elvis Presley had already left Sun, and Phillips was focusing most of his attention and promotion on Jerry Lee Lewis. The following year Cash left the label to sign a lucrative offer with Columbia Records, where his single “Don't Take Your Guns to Town” became one of his biggest hits.
 
@@ -65,7 +69,9 @@ In the early 1960s, Cash toured with the Carter Family, which by this time regul
 
 As his career was taking off in the early 1960s, Cash started drinking heavily and became addicted to amphetamines and barbiturates. For a brief time, he shared an apartment in Nashville with Waylon Jennings, who was heavily addicted to amphetamines. Cash used the uppers to stay awake during tours. Friends joked about his “nervousness” and erratic behavior, many ignoring the warning signs of his worsening drug addiction. In a behind the scenes look at _The Johnny Cash Show_, Cash claims to have “tried every drug there was to try.”
 
-[![cash-and-june_250](/images/2013/03/cash-and-june_250.jpg?w=218)](/images/2013/03/cash-and-june_250.jpg)Although in many ways spiraling out of control, Cash's frenetic creativity was still delivering hits. His rendition of “Ring of Fire” was a crossover hit, reaching No. 1 on the country charts and entering the Top 20 on the pop charts. The song was written by June Carter and Merle Kilgore. The song was originally performed by Carter's sister, but the signature mariachi-style horn arrangement was provided by Cash, who said that it had come to him in a dream.
+[![cash-and-june_250](/images/2013/03/cash-and-june_250.jpg?w=218)](/images/2013/03/cash-and-june_250.jpg)
+
+Although in many ways spiraling out of control, Cash's frenetic creativity was still delivering hits. His rendition of “Ring of Fire” was a crossover hit, reaching No. 1 on the country charts and entering the Top 20 on the pop charts. The song was written by June Carter and Merle Kilgore. The song was originally performed by Carter's sister, but the signature mariachi-style horn arrangement was provided by Cash, who said that it had come to him in a dream.
 
 In June 1965, his truck caught fire due to an overheated wheel bearing, triggering a forest fire that burnt several hundred acres in Los Padres National Forest in California. When the judge asked Cash why he did it, Cash said, “I didn't do it, my truck did, and it's dead, so you can't question it.” The fire destroyed 508 acres (2.06 km2), burning the foliage off three mountains and killing 49 of the refuge's 53 endangered condors. Cash was unrepentant: “I don't care about your damn yellow buzzards.” The federal government sued him and was awarded $125,127. Johnny eventually settled the case and paid $82,001. Cash said he was the only person ever sued by the government for starting a forest fire.
 
@@ -89,7 +95,9 @@ In addition to his performances at U.S. prisons, Cash also performed at the Öst
 
 ##### “The Man in Black”
 
-[![Johnny And June](/images/2013/03/02-johnny-cash-082707.jpg?w=300)](/images/2013/03/02-johnny-cash-082707.jpg)From 1969 to 1971, Cash starred in his own television show, _The Johnny Cash Show_, on the ABC network. The Statler Brothers opened up for him in every episode; the Carter Family and rockabilly legend Carl Perkins were also part of the regular show entourage. However, Cash also enjoyed booking more contemporary performers as guests; such notables included Neil Young, Louis Armstrong, James Taylor, Ray Charles, Eric Clapton (then leading Derek and the Dominos), and Bob Dylan.
+[![Johnny And June](/images/2013/03/02-johnny-cash-082707.jpg?w=300)](/images/2013/03/02-johnny-cash-082707.jpg)
+
+From 1969 to 1971, Cash starred in his own television show, _The Johnny Cash Show_, on the ABC network. The Statler Brothers opened up for him in every episode; the Carter Family and rockabilly legend Carl Perkins were also part of the regular show entourage. However, Cash also enjoyed booking more contemporary performers as guests; such notables included Neil Young, Louis Armstrong, James Taylor, Ray Charles, Eric Clapton (then leading Derek and the Dominos), and Bob Dylan.
 
 Cash had met with Dylan in the mid 1960s and became closer friends when they were neighbors in the late 1960s in Woodstock, New York. Cash was enthusiastic about reintroducing the reclusive Dylan to his audience. Cash sang a duet with Dylan on Dylan's country album _Nashville Skyline_ and also wrote the album's Grammy-winning liner notes.
 
@@ -109,7 +117,9 @@ When invited to perform at the White House for the first time in 1972, President
 
 ##### Highwaymen
 
-[![cash_narrowweb__300x413,0](/images/2013/03/cash_narrowweb__300x4130.jpg?w=217)](/images/2013/03/cash_narrowweb__300x4130.jpg)In 1980, Cash became the Country Music Hall of Fame's youngest living inductee at age forty-eight, but during the 1980s his records failed to make a major impact on the country charts, although he continued to tour successfully. In the mid 1980s, he recorded and toured with Waylon Jennings, Willie Nelson, and Kris Kristofferson as The Highwaymen, making two hit albums.
+[![cash_narrowweb__300x413,0](/images/2013/03/cash_narrowweb__300x4130.jpg?w=217)](/images/2013/03/cash_narrowweb__300x4130.jpg)
+
+In 1980, Cash became the Country Music Hall of Fame's youngest living inductee at age forty-eight, but during the 1980s his records failed to make a major impact on the country charts, although he continued to tour successfully. In the mid 1980s, he recorded and toured with Waylon Jennings, Willie Nelson, and Kris Kristofferson as The Highwaymen, making two hit albums.
 
 During this period, Cash appeared as an actor in a number of television films. In 1981, he starred in _The Pride of Jesse Hallam_. Cash won fine reviews for his work in this film that called attention to adult illiteracy. In 1983, Cash also appeared as a heroic sheriff in _Murder In Coweta County_, which co-starred Andy Griffith as his nemesis. This film was based on a real-life Georgia murder case. Cash had tried for years to make the film, for which he won acclaim.
 
@@ -119,7 +129,9 @@ At a hospital visit in 1988, this time to watch over Waylon Jennings (who was re
 
 Cash's recording career and his general relationship with the Nashville establishment were at an all-time low in the 1980s. He realized that his record label of nearly 30 years, Columbia, was growing indifferent to him and wasn't properly marketing him (he was “invisible” during that time, as he said in his autobiography). Cash recorded an intentionally awful song to protest, a self-parody. “Chicken in Black” was about Johnny's brain being transplanted into a chicken. Ironically, the song turned out to be a larger commercial success than any of his other recent material. Nevertheless, he was hoping to kill the relationship with the label before they did, and it was not long after “Chicken in Black” that Columbia and Cash parted ways.
 
-[![JohnnyCash elvis](/images/2013/03/johnnycash-elvis.jpg?w=229)](/images/2013/03/johnnycash-elvis.jpg)In 1986, Cash returned to Sun Studios in Memphis to team up with Roy Orbison, Jerry Lee Lewis, and Carl Perkins to create the album _Class of '55_. This was not the first time he had teamed up with Lewis and Perkins at Sun Studios. On December 4, 1956, Elvis Presley dropped in on Phillips to pay a social visit while Perkins was in the studio cutting new tracks, with Lewis backing him on piano. Cash was also in the studio and the four started an impromptu jam session. Phillips left the tapes running and the recordings, almost half of which were gospel songs, survived and have been released on CD under the title _Million Dollar Quartet_. Tracks also include Chuck Berry's “Brown Eyed Handsome Man”, Pat Boone's “Don't Forbid Me”, and Elvis doing an impersonation of Jackie Wilson (who was then with Billy Ward and the Dominoes) singing “Don't Be Cruel”.
+[![JohnnyCash elvis](/images/2013/03/johnnycash-elvis.jpg?w=229)](/images/2013/03/johnnycash-elvis.jpg)
+
+In 1986, Cash returned to Sun Studios in Memphis to team up with Roy Orbison, Jerry Lee Lewis, and Carl Perkins to create the album _Class of '55_. This was not the first time he had teamed up with Lewis and Perkins at Sun Studios. On December 4, 1956, Elvis Presley dropped in on Phillips to pay a social visit while Perkins was in the studio cutting new tracks, with Lewis backing him on piano. Cash was also in the studio and the four started an impromptu jam session. Phillips left the tapes running and the recordings, almost half of which were gospel songs, survived and have been released on CD under the title _Million Dollar Quartet_. Tracks also include Chuck Berry's “Brown Eyed Handsome Man”, Pat Boone's “Don't Forbid Me”, and Elvis doing an impersonation of Jackie Wilson (who was then with Billy Ward and the Dominoes) singing “Don't Be Cruel”.
 
 In 1986, Cash published his only novel, _Man in White_, a book about Saul and his conversion to become the Apostle Paul. He also recorded _Johnny Cash Reads The Complete New Testament_ in 1990.
 
@@ -137,7 +149,9 @@ Cash and his wife appeared on a number of episodes of the popular television ser
 
 #### Last years and death
 
-[![music_johnny_cash_1_400](/images/2013/03/music_johnny_cash_1_400.jpg?w=225)](/images/2013/03/music_johnny_cash_1_400.jpg)In 1997, Cash was diagnosed with the neurodegenerative disease Shy-Drager syndrome. The diagnosis was later altered to autonomic neuropathy associated with diabetes. This illness forced Cash to curtail his touring. He was hospitalized in 1998 with severe pneumonia, which damaged his lungs. The albums _American III: Solitary Man_ (2000) and _American IV: The Man Comes Around_ (2002) contained Cash's response to his illness in the form of songs of a slightly more somber tone than the first two American albums. The video that was released for “Hurt”, a song by Trent Reznor of Nine Inch Nails, fit Cash's view of his past and feelings of regret. The video for the song is now generally recognized as “his epitaph,” from _American IV_; and received particular critical and popular acclaim.
+[![music_johnny_cash_1_400](/images/2013/03/music_johnny_cash_1_400.jpg?w=225)](/images/2013/03/music_johnny_cash_1_400.jpg)
+
+In 1997, Cash was diagnosed with the neurodegenerative disease Shy-Drager syndrome. The diagnosis was later altered to autonomic neuropathy associated with diabetes. This illness forced Cash to curtail his touring. He was hospitalized in 1998 with severe pneumonia, which damaged his lungs. The albums _American III: Solitary Man_ (2000) and _American IV: The Man Comes Around_ (2002) contained Cash's response to his illness in the form of songs of a slightly more somber tone than the first two American albums. The video that was released for “Hurt”, a song by Trent Reznor of Nine Inch Nails, fit Cash's view of his past and feelings of regret. The video for the song is now generally recognized as “his epitaph,” from _American IV_; and received particular critical and popular acclaim.
 
 June Carter Cash died on May 15, 2003, at the age of seventy-three. June had told Cash to keep working, so he continued to record and even performed a couple of surprise shows at the Carter Family Fold outside Bristol, Virginia. (The July 5, 2003 concert was his final public appearance.) At the June 21, 2003 concert, before singing “Ring of Fire”, Cash read a statement about his late wife that he had written shortly before taking the stage. He spoke of how June's spirit was watching over him and how she had come to visit him before going on stage. He barely made it through the song. Despite his poor health, he spoke of looking forward to the day when he could walk again and toss his wheelchair into the river near his home.
 
@@ -153,7 +167,9 @@ One of Johnny Cash's final collaborations with producer Rick Rubin, entitled _Am
 
 #### Legacy
 
-[![jcash](/images/2013/03/jcash.jpg?w=266)](/images/2013/03/jcash.jpg)From his early days as a pioneer of rockabilly and rock and roll in the 1950s, to his decades as an international representative of country music, to his resurgence to fame in the 1990s as a living legend and an alternative country icon, Cash influenced countless artists and left a large body of work. Upon his death, Cash was revered by the greatest popular musicians of his time.
+[![jcash](/images/2013/03/jcash.jpg?w=266)](/images/2013/03/jcash.jpg)
+
+From his early days as a pioneer of rockabilly and rock and roll in the 1950s, to his decades as an international representative of country music, to his resurgence to fame in the 1990s as a living legend and an alternative country icon, Cash influenced countless artists and left a large body of work. Upon his death, Cash was revered by the greatest popular musicians of his time.
 
 Among Johnny Cash's children, his daughter Rosanne Cash (by first wife Vivian Liberto) and his son John Carter Cash (by June Carter Cash) are notable country-music musicians in their own right.
 
@@ -173,7 +189,9 @@ On November 2 – November 4, 2007 the Johnny Cash Flower Pickin' Festival was h
 
 ##### Portrayals
 
-[![JohnnyCash-Unearthed](/images/2013/03/johnnycash-unearthed.jpg?w=300)](/images/2013/03/johnnycash-unearthed.jpg)In 1998, country singer Mark Collie portrayed Cash for the first time in a short film, “I Still Miss Someone”. Shot mostly in black and white, it attempts to capture a moment in time for Cash during his darkest years, the mid 1960s.
+[![JohnnyCash-Unearthed](/images/2013/03/johnnycash-unearthed.jpg?w=300)](/images/2013/03/johnnycash-unearthed.jpg)
+
+In 1998, country singer Mark Collie portrayed Cash for the first time in a short film, “I Still Miss Someone”. Shot mostly in black and white, it attempts to capture a moment in time for Cash during his darkest years, the mid 1960s.
 
 _Walk the Line_, an Academy Award-winning biopic about Johnny Cash's life starring Joaquin Phoenix as Johnny and Reese Witherspoon as June (for which she won the 2005 Best Actress Oscar), was released in the United States on November 18, 2005 to considerable commercial success and critical acclaim. Both Phoenix and Witherspoon have won various other awards for their roles, including the Golden Globe for Best Actor in a Musical or Comedy and Best Actress in a Musical or Comedy, respectively. They both performed their own vocals in the film, and Phoenix learned to play guitar for his role as Johnny Cash. Phoenix received the Grammy Award for his contributions to the _Walk the Line_ soundtrack. John Carter Cash, the only child of Johnny and June, was an executive producer on the film.
 
@@ -181,7 +199,9 @@ _Ring of Fire_, a jukebox musical of the Cash oeuvre, debuted on Broadway on Mar
 
 #### Discography
 
-[![johnnyCash-americanRecordings-716x706](/images/2013/03/johnnycash-americanrecordings-716x706.jpg?w=300)](/images/2013/03/johnnycash-americanrecordings-716x706.jpg)The **Johnny Cash discography** chronicles the output of one of the most prolific recorded music artists of all time, country music singer Johnny Cash. His lengthy career, spanning 1954 to 2003, saw the release of countless albums and singles on several record labels. Over the years, Cash also collaborated with many of the industry's most notable artists, and received many awards and accolades from different organizations.
+[![johnnyCash-americanRecordings-716x706](/images/2013/03/johnnycash-americanrecordings-716x706.jpg?w=300)](/images/2013/03/johnnycash-americanrecordings-716x706.jpg)
+
+The **Johnny Cash discography** chronicles the output of one of the most prolific recorded music artists of all time, country music singer Johnny Cash. His lengthy career, spanning 1954 to 2003, saw the release of countless albums and singles on several record labels. Over the years, Cash also collaborated with many of the industry's most notable artists, and received many awards and accolades from different organizations.
 
 Please see [http://en.wikipedia.org/wiki/Johnny\_Cash\_discography](http://en.wikipedia.org/wiki/Johnny_Cash_discography "http://en.wikipedia.org/wiki/Johnny_Cash_discography") for **Johnny Cash discography  
 **and [http://en.wikipedia.org/wiki/Johnny\_Cash\_Sun_discography](http://en.wikipedia.org/wiki/Johnny_Cash_Sun_discography "http://en.wikipedia.org/wiki/Johnny_Cash_Sun_discography") for **Johnny Cash Sun discography**

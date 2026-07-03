@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="mozilla-rainbow" border="0" alt="mozilla-rainbow" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TMqvRZQjmBI/AAAAAAAAC98/ZPfapGAIHFo/mozilla-rainbow_thumb%5B1%5D.jpg?imgmax=800" width="225" height="225" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMqvP2WK0dI/AAAAAAAAC94/trZKQdZwwTg/s1600-h/mozilla-rainbow%5B3%5D.jpg)Mozilla Labs has been working hard on browser-based audio and video — not just for playback, but also for recording. Labs’ newest creation, called Rainbow, lets developers access your hardware’s video and audio recording capabilities with a few lines of JavaScript. 
+![mozilla-rainbow](http://lh4.ggpht.com/_vaUVXcmC3OI/TMqvP2WK0dI/AAAAAAAAC94/trZKQdZwwTg/s1600-h/mozilla-rainbow%5B3%5D.jpg)
+
+Mozilla Labs has been working hard on browser-based audio and video — not just for playback, but also for recording. Labs’ newest creation, called Rainbow, lets developers access your hardware’s video and audio recording capabilities with a few lines of JavaScript. 
 
 The files created are all in open-source formats, including Theora, Vorbis and Ogg (support for WebM and other formats are planned in the product’s roadmap). Once media is captured, files can be accessed via the DOM with HTML5 File APIs.
 

@@ -14,7 +14,9 @@ categories:
 ---
 **Avira started shipping the Service Pack 1 (SP1) for Avira AntiVir 10 yesterday! This Service Pack fixes plenty of minor bugs we found in version 10 and thus makes AntiVir 10 more stable. Also, the developers added some optimizations to improve the speed a little. After installing SP1, all currently known issues should be gone.**
 
-[<img title="avira_antivir_rgb" border="0" alt="avira_antivir_rgb" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TNGSbcuD4eI/AAAAAAAAC_0/rI7ZNTUpVqU/avira_antivir_rgb_thumb%5B4%5D.jpg?imgmax=800" width="300" height="70" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TNGSZ43aZSI/AAAAAAAAC_w/CBOsBBi_JEw/s1600-h/avira_antivir_rgb%5B7%5D.jpg)Since yesterday at 11:30 O'clock a product update is available for AntiVir Personal Free, Premium and Premium Security Suite in English and German over the automatic update.
+![avira_antivir_rgb](http://lh3.ggpht.com/_vaUVXcmC3OI/TNGSZ43aZSI/AAAAAAAAC_w/CBOsBBi_JEw/s1600-h/avira_antivir_rgb%5B7%5D.jpg)
+
+Since yesterday at 11:30 O'clock a product update is available for AntiVir Personal Free, Premium and Premium Security Suite in English and German over the automatic update.
 
 This update has an size of round about 7.6 MB and needs a system restart after the installation. The restart will be announced before the executed update.
 

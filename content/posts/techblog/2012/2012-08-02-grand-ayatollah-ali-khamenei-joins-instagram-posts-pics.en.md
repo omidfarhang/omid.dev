@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-<a href="http://lh5.ggpht.com/-dtiAoEukghg/UBp0sry4YII/AAAAAAAAGq8/5bRr5cT3vFg/s1600-h/Ayatollah%25255B4%25255D.jpg" target="_blank"><img title="Ayatollah" border="0" alt="Ayatollah" src="http://lh3.ggpht.com/-uibzAXOLE2o/UBp0u_H10lI/AAAAAAAAGrE/zFBHHnm8gyc/Ayatollah_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="429" /></a> 
+![Ayatollah](http://lh5.ggpht.com/-dtiAoEukghg/UBp0sry4YII/AAAAAAAAGq8/5bRr5cT3vFg/s1600-h/Ayatollah%25255B4%25255D.jpg) 
 
 Mashable: Iran’s Grand Ayatollah Ali Khamenei joined Instagram last week and so far has posted four photos. Iran’s supreme leader since 1989 chose to share shots that likely show scenes of Ramadan. 
 

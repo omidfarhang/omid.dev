@@ -26,8 +26,7 @@ The app, which is free through the end of May, provides many of the features tha
   * Update your own status and post comments or likes to the statuses of others. 
   * View recent photo albums from your friends and family members.
 
-[![sobees-fb-home](http://lh4.ggpht.com/_vaUVXcmC3OI/S-m_E6x3giI/AAAAAAAACLc/ue01GgxdNbw/sobees-fb-home_thumb%5B2%5D.jpg?imgmax=800 "sobees-fb-home")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-m_B8Ny-kI/AAAAAAAACLY/0wd8dWWzTgM/s1600-h/sobees-fb-home%5B4%5D.jpg) </p> 
-
+[![sobees-fb-home](http://lh4.ggpht.com/_vaUVXcmC3OI/S-m_E6x3giI/AAAAAAAACLc/ue01GgxdNbw/sobees-fb-home_thumb%5B2%5D.jpg?imgmax=800 "sobees-fb-home")](http://lh3.ggpht.com/_vaUVXcmC3OI/S-m_B8Ny-kI/AAAAAAAACLY/0wd8dWWzTgM/s1600-h/sobees-fb-home%5B4%5D.jpg)
 Check out this video which shows off the app in action:
 
 Given the dearth of good Facebook options for the iPad, we’re glad that an app like [sobees for Facebook](http://itunes.apple.com/app/sobees-for-facebook/id370382132?mt=8) is available. It’s a good example of how third-party tools can still offer a valuable — and sometimes superior — experiences in their own right.

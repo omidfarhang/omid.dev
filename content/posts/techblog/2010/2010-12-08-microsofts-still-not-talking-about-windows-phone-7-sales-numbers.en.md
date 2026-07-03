@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="windows-phone-71" border="0" alt="windows-phone-71" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TP7HYCYv3WI/AAAAAAAADc8/hiBdUEAvazo/windows-phone-71_thumb%5B1%5D.jpg?imgmax=800" width="150" height="150" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TP7HWOb35fI/AAAAAAAADc4/Z84DUUClHEY/s1600-h/windows-phone-71%5B3%5D.jpg)Mashable:** Windows Phone 7 has been on the market for a little more than a month, but the company still isn’t disclosing how many devices featuring its revamped mobile OS have been sold. 
+**![windows-phone-71](http://lh6.ggpht.com/_vaUVXcmC3OI/TP7HWOb35fI/AAAAAAAADc4/Z84DUUClHEY/s1600-h/windows-phone-71%5B3%5D.jpg)Mashable:** Windows Phone 7 has been on the market for a little more than a month, but the company still isn’t disclosing how many devices featuring its revamped mobile OS have been sold. 
 
 Pressed on the issue by _The Wall Street Journal’s_ Walt Mossberg at _All Things Digital’s_ D: Dive Into Mobile conference on Tuesday, Microsoft Corporate VP for Windows Phone Joe Belfiore would say only that “It’s just too soon to talk about numbers,” though he admitted it will likely take years before Microsoft is near the top of the mobile market share discussion.
 

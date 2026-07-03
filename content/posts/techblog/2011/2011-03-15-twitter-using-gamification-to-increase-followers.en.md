@@ -17,4 +17,4 @@ I just signed up for a new Twitter account and as I was going through the on-boa
 
 They use a simple progress-bar metaphor to encourage you to follow 10 people. I like it.
 
-[<img title="20110315-9k8dpsc5c6kx6c839mdkkrbbe" border="0" alt="20110315-9k8dpsc5c6kx6c839mdkkrbbe" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TX84rUj-h8I/AAAAAAAADtM/eYkOIZsbImo/20110315-9k8dpsc5c6kx6c839mdkkrbbe_thumb%5B1%5D.jpg?imgmax=800" width="502" height="504" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TX84pK9_6QI/AAAAAAAADtI/H1siP9XNMiY/s1600-h/20110315-9k8dpsc5c6kx6c839mdkkrbbe%5B3%5D.jpg)
+![20110315-9k8dpsc5c6kx6c839mdkkrbbe](http://lh3.ggpht.com/_vaUVXcmC3OI/TX84pK9_6QI/AAAAAAAADtI/H1siP9XNMiY/s1600-h/20110315-9k8dpsc5c6kx6c839mdkkrbbe%5B3%5D.jpg)

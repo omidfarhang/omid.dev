@@ -15,7 +15,7 @@ categories:
 ---
 Take a look in the email I got from AOL:
 
-[<img title="lockup" border="0" alt="lockup" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TOhBB_86ZSI/AAAAAAAADL0/gN_Je9qm8I4/lockup_thumb%5B1%5D.gif?imgmax=800" width="428" height="55" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TOhBAGHkQkI/AAAAAAAADLw/vXNWl04upNA/s1600-h/lockup%5B3%5D.gif)
+![lockup](http://lh5.ggpht.com/_vaUVXcmC3OI/TOhBAGHkQkI/AAAAAAAADLw/vXNWl04upNA/s1600-h/lockup%5B3%5D.gif)
 
 Hi!
 

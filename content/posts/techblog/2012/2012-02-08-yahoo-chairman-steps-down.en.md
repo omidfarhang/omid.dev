@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="yahoo-building-600-275x171" border="0" alt="yahoo-building-600-275x171" align="right" src="http://lh5.ggpht.com/-_Vd7z5H8raM/TzKfofjt-3I/AAAAAAAAEkk/8tKtVfQG5Mc/yahoo-building-600-275x171_thumb%25255B1%25255D.jpg?imgmax=800" width="279" height="175" />](http://lh6.ggpht.com/-I2yX8vKXe5w/TzKfiwtoltI/AAAAAAAAEkc/bWRmVqYjAN0/s1600-h/yahoo-building-600-275x171%25255B3%25255D.jpg)**Mashable:** Yahoo‘s chairman of the board, Roy Bostock, is leaving the company. Bostock has been chairman since 2008. 
+![yahoo-building-600-275x171](http://lh6.ggpht.com/-I2yX8vKXe5w/TzKfiwtoltI/AAAAAAAAEkc/bWRmVqYjAN0/s1600-h/yahoo-building-600-275x171%25255B3%25255D.jpg)
+
+**Mashable:** Yahoo‘s chairman of the board, Roy Bostock, is leaving the company. Bostock has been chairman since 2008. 
 
 Bostock revealed the news to shareholders in a long letter describing the company’s recent re-strategizing. A far cry from a resignation letter, Bostock is upbeat about Yahoo’s future and its recent moves, saying that, since the company is in a position to “drive innovation and growth going forward,” he will not seek re-election at the next shareholders’ meeting. 
 

@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="windows update" border="0" alt="windows update" align="right" src="http://lh5.ggpht.com/-a-SEXRgBozo/Tzf8RZZg1aI/AAAAAAAAEsw/dHbcMi6Af3s/windows%252520update_thumb%25255B8%25255D.jpg?imgmax=800" width="184" height="240" />](http://lh3.ggpht.com/-1TfDlfTBE8w/Tzf8NNmzcSI/AAAAAAAAEso/HWiOFdO66rI/s1600-h/windows%252520update%25255B6%25255D.jpg)The Register:** Microsoft plans to publish nine updates next Tuesday – four of which are critical – as part of a Valentine's Day edition of its Patch Tuesday update cycle. 
+**![windows update](http://lh3.ggpht.com/-1TfDlfTBE8w/Tzf8NNmzcSI/AAAAAAAAEso/HWiOFdO66rI/s1600-h/windows%252520update%25255B6%25255D.jpg)The Register:** Microsoft plans to publish nine updates next Tuesday – four of which are critical – as part of a Valentine's Day edition of its Patch Tuesday update cycle. 
 
 Highlights of the batch, which collectively address 21 vulnerabilities, include a critical update for Internet Explorer. 
 
@@ -26,7 +26,7 @@ Patching IE ought to be be the highest priority, according to vulnerability scan
 
 Andrew Storms, director of security operations at net security firm nCircle, said all supported versions of Windows will need patching. Oddly the most recent versions of Windows – which normally need the least patching – are the most affected by the February 2012 patch batch, he added. 
 
-“Microsoft is planning to deliver a big &#8216;Valentine' next Tuesday. Their advance notification indicated they plan to release nine bulletins, and 21 CVEs next Tuesday. This is very consistent with last year's &#8216;Valentine delivery' that included 12 bulletins and 22 CVEs.” 
+“Microsoft is planning to deliver a big ‘Valentine' next Tuesday. Their advance notification indicated they plan to release nine bulletins, and 21 CVEs next Tuesday. This is very consistent with last year's ‘Valentine delivery' that included 12 bulletins and 22 CVEs.” 
 
 “It's surprising that this month's patch affects almost every Windows operating system – each OS is affected by five of the eight applicable bulletins. That's kind of weird because newer OS versions are generally more secure.” 
 

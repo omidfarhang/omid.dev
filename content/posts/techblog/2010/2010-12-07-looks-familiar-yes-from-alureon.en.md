@@ -30,7 +30,7 @@ Since the spoolsv.exe is a trusted system process, it makes Alureon difficult to
 
 [![Img_3](http://lh6.ggpht.com/_vaUVXcmC3OI/TP4ug9sgNPI/AAAAAAAADaM/oOhDa5gbwMs/Img_3_thumb%5B1%5D.jpg?imgmax=800 "Img_3")](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4ufuoQ33I/AAAAAAAADaI/-6mhA_fBp-Y/s1600-h/Img_3%5B3%5D.jpg)
 
-We often see parallels in the application of &#8216;new' techniques by malware authors, seeking to evade detection.
+We often see parallels in the application of ‘new' techniques by malware authors, seeking to evade detection.
 
 So, a technique pioneered by Alureon is now being used by Bamital – does this mean that can we expect to see more of Alureon's particular brand of nastiness in other malware families in the wild?
 

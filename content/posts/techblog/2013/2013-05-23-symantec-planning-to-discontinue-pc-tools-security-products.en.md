@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![Symantec_120](/images/2013/05/Symantec_120.png)](/images/2013/05/Symantec_120.png)Symantec has stopped selling the security-related products in its [PC Tools portfolio](http://www.pctools.com/), according to an [announcement](http://www.pctools.com/norton-offer/pctEOL/) on the company's web site. Customers using the affected programs – Spyware Doctor, Spyware Doctor with AntiVirus, and Internet Security – can continue to use them until their subscription runs out.
+[![Symantec_120](/images/2013/05/Symantec_120.png)](/images/2013/05/Symantec_120.png)
+
+Symantec has stopped selling the security-related products in its [PC Tools portfolio](http://www.pctools.com/), according to an [announcement](http://www.pctools.com/norton-offer/pctEOL/) on the company's web site. Customers using the affected programs – Spyware Doctor, Spyware Doctor with AntiVirus, and Internet Security – can continue to use them until their subscription runs out.
 
 Symantec [says](http://www.pctools.com/kb/article/why-is-symantec-retiring-the-pc-tools-security-portfolio-567.html) that the decision is related to consolidating its product range in order to offer customers fewer but higher quality products. To that end, the company suggests that customers looking to replace the discontinued products consider Norton Internet Security.
 

@@ -16,7 +16,7 @@ categories:
 ---
 Time Techland wrote: 
 
-<a href="http://lh3.ggpht.com/-26X6vVPyXCU/UAxrjnbMBXI/AAAAAAAAGjc/cCpYqNVfKRA/s1600-h/wpid-photo-jul-20-2012-405-pm%25255B3%25255D.jpg" target="_blank"><img title="wpid-photo-jul-20-2012-405-pm" border="0" alt="wpid-photo-jul-20-2012-405-pm" src="http://lh6.ggpht.com/-DwgihvbL1i4/UAxrmH4hL0I/AAAAAAAAGjk/qMd2kdNwWw0/wpid-photo-jul-20-2012-405-pm_thumb%25255B1%25255D.jpg?imgmax=800" width="500" height="333" /></a> 
+![wpid-photo-jul-20-2012-405-pm](http://lh3.ggpht.com/-26X6vVPyXCU/UAxrjnbMBXI/AAAAAAAAGjc/cCpYqNVfKRA/s1600-h/wpid-photo-jul-20-2012-405-pm%25255B3%25255D.jpg) 
 
 _When I learned this morning, via Twitter, that the small company behind Mac/iOS e-mail app Sparrow was being bought by Google, I almost didn’t need to read the startup’s_ [_announcement_](http://sparrowapp.com/) _to know the upshot._ 
 

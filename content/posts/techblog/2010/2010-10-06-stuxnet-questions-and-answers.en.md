@@ -30,7 +30,7 @@ categories:
 **Q:** What does it do with Simatic?  
 **A:** It modifies commands sent from the Windows computer to the PLC. Once running on the PLC, it looks for a specific factory environment. If this is **not** found, it does nothing. 
 
-[<img title="simatic" border="0" alt="simatic" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TKzxW9QBDEI/AAAAAAAACl0/CXuiKvsnc1A/simatic_thumb%5B1%5D.png?imgmax=800" width="304" height="128" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TKzxLi6zuhI/AAAAAAAAClw/5r30llZlu4o/s1600-h/simatic%5B3%5D.png)
+![simatic](http://lh6.ggpht.com/_vaUVXcmC3OI/TKzxLi6zuhI/AAAAAAAAClw/5r30llZlu4o/s1600-h/simatic%5B3%5D.png)
 
 **Q:** Which factory is it looking for?  
 **A:** We don't know. 
@@ -141,7 +141,7 @@ Privilege escalation via Task Scheduler
 
 **** 
 
-**[<img title="mission-impossible" border="0" alt="mission-impossible" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TKzx4B_LaVI/AAAAAAAACl8/zCFzoZtHACE/mission-impossible_thumb%5B1%5D.jpg?imgmax=800" width="304" height="205" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TKzxlSKbHaI/AAAAAAAACl4/dASgmrViRyI/s1600-h/mission-impossible%5B3%5D.jpg)**
+**![mission-impossible](http://lh5.ggpht.com/_vaUVXcmC3OI/TKzxlSKbHaI/AAAAAAAACl4/dASgmrViRyI/s1600-h/mission-impossible%5B3%5D.jpg)**
 
 **Q:** Did Stuxnet sink **Deepwater Horizon** and cause the Mexican oil spill?  
 **A:** No, we do not think so. Although it does seem Deepwater Horizon indeed did have some Siemens PLC systems on it. 

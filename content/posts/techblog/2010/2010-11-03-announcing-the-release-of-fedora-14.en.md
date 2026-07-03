@@ -14,7 +14,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="fedora-logo" border="0" alt="fedora-logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TNGuvXJabjI/AAAAAAAADAM/XkJnGk-5ibo/fedora-logo_thumb%5B1%5D.png?imgmax=800" width="155" height="45" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TNGut4hHRyI/AAAAAAAADAI/2Bk3eWzTWDw/s1600-h/fedora-logo%5B3%5D.png)**Jared Smith**: It's here! It's here! It's really here! Fedora 14 has been officially released! Fedora is a leading edge, free and open source operating system that continues to deliver innovative features to many users, with a new release approximately every six months. 
+![fedora-logo](http://lh4.ggpht.com/_vaUVXcmC3OI/TNGut4hHRyI/AAAAAAAADAI/2Bk3eWzTWDw/s1600-h/fedora-logo%5B3%5D.png)
+
+**Jared Smith**: It's here! It's here! It's really here! Fedora 14 has been officially released! Fedora is a leading edge, free and open source operating system that continues to deliver innovative features to many users, with a new release approximately every six months. 
 
 Fedora 14, codename Laughlin, is now available for download. Join us and share the joy of free software and the community with friends and family. 
 
@@ -45,7 +47,7 @@ A universe of new features for end users:
   * libjpeg-turbo: Users can load and save images faster in Fedora 14 than in previous releases. 
   * Spice: Spice (Simple Protocol for Independent Computing Environments) provides users with an enhanced remote desktop experience. Currently, it provides the rudimentary foundation to take advantage of things like Accelerated 2D graphics, encryption, and hardware cursor support. 
 
- 
+
 
 #### For developers
 

@@ -20,7 +20,7 @@ The U.S. Census Bureau is warning of phishing and other scams that are using the
 
 **Phishing:**
 
-&#8216;Phishing' is the criminally fraudulent process of attempting to acquire sensitive information such as usernames, passwords, social security numbers, bank account or credit card details by masquerading as a trustworthy entity in an electronic communication. Phishing is typically carried out by email and it often directs users to enter sensitive information at a fake web site whose look and feel are almost identical to the legitimate one.
+‘Phishing' is the criminally fraudulent process of attempting to acquire sensitive information such as usernames, passwords, social security numbers, bank account or credit card details by masquerading as a trustworthy entity in an electronic communication. Phishing is typically carried out by email and it often directs users to enter sensitive information at a fake web site whose look and feel are almost identical to the legitimate one.
 
 **Other Scams:**
 

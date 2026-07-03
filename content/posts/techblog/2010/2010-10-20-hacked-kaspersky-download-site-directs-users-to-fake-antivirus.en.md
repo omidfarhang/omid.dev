@@ -18,7 +18,9 @@ categories:
 ---
 #### Kaspersky Lab now admits that people attempting to buy Kaspersky's security products on Oct. 17 were redirected by hackers to a scareware site with links to fake antivirus software called Security Tool.
 
-[<img title="kaspersky-logo" border="0" alt="kaspersky-logo" align="left" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL7bg52JkII/AAAAAAAACyA/onkXP1XWVC0/kaspersky-logo_thumb%5B2%5D.jpg?imgmax=800" width="154" height="48" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TL7bfEthduI/AAAAAAAACx8/o33DmDYao7k/s1600-h/kaspersky-logo%5B4%5D.jpg)Hackers have caused serious embarrassment for a major security technology company. Kaspersky Lab's Website was hacked over the weekend, sending customers looking for security software to an external download page pushing counterfeit software.
+![kaspersky-logo](http://lh4.ggpht.com/_vaUVXcmC3OI/TL7bfEthduI/AAAAAAAACx8/o33DmDYao7k/s1600-h/kaspersky-logo%5B4%5D.jpg)
+
+Hackers have caused serious embarrassment for a major security technology company. Kaspersky Lab's Website was hacked over the weekend, sending customers looking for security software to an external download page pushing counterfeit software.
 
 When users tried to download software from Kaspersky on Oct. 17, they were redirected to a malware site that tricked users into downloading fake antivirus software called Security Tool. Once executed, Security Tool displays pop-ups reporting a number of vulnerabilities and threats “found” to scare users into buying what it says is a full version in order to fix these problems.
 

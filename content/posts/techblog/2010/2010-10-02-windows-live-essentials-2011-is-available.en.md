@@ -26,7 +26,7 @@ This package contain most essential programs needed for your digital life:
 
 ### Windows Live Essentials 2011
 
-<img title="e43e7c17-7624-4f78-a6a6-d66570159861" border="0" alt="e43e7c17-7624-4f78-a6a6-d66570159861" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TKcXd2aKb_I/AAAAAAAAClo/UILRFCdML18/e43e7c17-7624-4f78-a6a6-d66570159861%5B6%5D.jpg?imgmax=800" width="600" height="178" /> 
+![e43e7c17-7624-4f78-a6a6-d66570159861](http://lh5.ggpht.com/_vaUVXcmC3OI/TKcXd2aKb_I/AAAAAAAAClo/UILRFCdML18/e43e7c17-7624-4f78-a6a6-d66570159861%5B6%5D.jpg?imgmax=800) 
 
 ### Advanced made easy
 

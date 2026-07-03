@@ -11,7 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="piratebay" border="0" alt="piratebay" align="right" src="http://lh4.ggpht.com/-WC790H6MDTc/T7UTT9HvofI/AAAAAAAAGBQ/e0PXGB68wz8/piratebay_thumb.jpg?imgmax=800" width="304" height="171" />](http://lh5.ggpht.com/-L2JzaxuJvhU/T7UTRMw3e-I/AAAAAAAAGBI/kbXywxXzkxA/s1600-h/piratebay%25255B2%25255D.jpg)**File-sharing website The Pirate Bay (TPB) has been hit by a Distributed Denial of Service (DDoS) attack.** 
+![piratebay](http://lh5.ggpht.com/-L2JzaxuJvhU/T7UTRMw3e-I/AAAAAAAAGBI/kbXywxXzkxA/s1600-h/piratebay%25255B2%25255D.jpg)
+
+**File-sharing website The Pirate Bay (TPB) has been hit by a Distributed Denial of Service (DDoS) attack.** 
 
 The site has been largely inaccessible for the last 24 hours, and the service is intermittent in the UK. 
 
@@ -55,4 +57,4 @@ But TPB criticized Anonymous for the attack, writing on its Facebook page that i
 
 “Even if we strongly disagree with them and even if they hate us. So don't fight them using their ugly methods. DDoS and blocks are both forms of censorship.” 
 
-Source: <a href="http://www.bbc.com/news/technology-18095370" target="_blank">BBC</a>
+Source: [BBC](http://www.bbc.com/news/technology-18095370)

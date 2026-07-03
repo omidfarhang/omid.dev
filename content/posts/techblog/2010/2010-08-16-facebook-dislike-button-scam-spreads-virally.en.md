@@ -20,7 +20,7 @@ Have you seen a message like this on Facebook?
 
 [![dislike-updates-shadow](http://lh5.ggpht.com/_vaUVXcmC3OI/TGk_93xkbpI/AAAAAAAACX4/FvctHV98_EE/dislike-updates-shadow_thumb%5B3%5D.jpg?imgmax=800 "dislike-updates-shadow")](http://lh3.ggpht.com/_vaUVXcmC3OI/TGk_4ZMwwTI/AAAAAAAACX0/YLumXwnHTLM/s1600-h/dislike-updates-shadow%5B5%5D.jpg) 
 
-> <tt>I just got the Dislike button, so now I can dislike all of your dumb posts lol!!</tt>
+> `I just got the Dislike button, so now I can dislike all of your dumb posts lol!!`
 
 If so, don't click on the link. 
 
@@ -28,8 +28,7 @@ It's the latest survey scam spreading virally across Facebook, using the tried-a
 
 We've also seen slightly different wording – but pointing to the same scam. 
 
-[![dislike-get-button](http://lh6.ggpht.com/_vaUVXcmC3OI/TGlAO1vlHhI/AAAAAAAACYA/8u6b5Gf6RLk/dislike-get-button_thumb%5B3%5D.jpg?imgmax=800 "dislike-get-button")](http://lh5.ggpht.com/_vaUVXcmC3OI/TGlAC_GgFsI/AAAAAAAACX8/czHSSkcFtmU/dislike-get-button%5B5%5D.jpg?imgmax=800) </p> 
-
+[![dislike-get-button](http://lh6.ggpht.com/_vaUVXcmC3OI/TGlAO1vlHhI/AAAAAAAACYA/8u6b5Gf6RLk/dislike-get-button_thumb%5B3%5D.jpg?imgmax=800 "dislike-get-button")](http://lh5.ggpht.com/_vaUVXcmC3OI/TGlAC_GgFsI/AAAAAAAACX8/czHSSkcFtmU/dislike-get-button%5B5%5D.jpg?imgmax=800)
 Falling for any of these scams (which promise some lurid or eye-popping or exclusive content) typically trick you into giving a rogue Facebook application permission to access your profile, posting spam messages from your account and asking you to complete an online survey. 
 
 And the same is true with this latest scam, which tempts you with the offer of a “dislike” button (as opposed to the normal “like” button) so you can express your opinions on other users' posts, links and uploads. 

@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="power_outage_brazil1" border="0" alt="power_outage_brazil1" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP4V6Idi5HI/AAAAAAAADZM/g0V3z0qDf1U/power_outage_brazil1_thumb%5B1%5D.jpg?imgmax=800" width="504" height="390" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4V4RTJyEI/AAAAAAAADZI/1dIhj9p3JwY/s1600-h/power_outage_brazil1%5B3%5D.jpg)Wired:** SAO PAULO — Despite widespread speculation at the time, a massive power outage that left 18 out of the 26 Brazilian states in the dark for up to six hours last year was not the result of a cyber attack, according to a classified diplomatic cable published by WikiLeaks last week.
+**![power_outage_brazil1](http://lh5.ggpht.com/_vaUVXcmC3OI/TP4V4RTJyEI/AAAAAAAADZI/1dIhj9p3JwY/s1600-h/power_outage_brazil1%5B3%5D.jpg)Wired:** SAO PAULO — Despite widespread speculation at the time, a massive power outage that left 18 out of the 26 Brazilian states in the dark for up to six hours last year was not the result of a cyber attack, according to a classified diplomatic cable published by WikiLeaks last week.
 
 The Nov. 10, 2009, blackout came just two days after the CBS News magazine _60 Minutes_ reported that an earlier outage in the Brazilian state of Espirito Santo in 2007 was the work of hackers. And it came just one day after Threat Level reported that, no, it wasn’t.
 

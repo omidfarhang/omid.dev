@@ -17,9 +17,9 @@ No reason other than that is provided, but it is likely that the decision is lin
 
 The announcement on the BTJunkie website reads: 
 
-> <tt>This is the end of the line my friends. The decision does not come easy, but we’ve decided to voluntarily shut down. We’ve been fighting for years for your right to communicate, but it’s time to move on. It’s been an experience of a lifetime, we wish you all the best!</tt>
+> `This is the end of the line my friends. The decision does not come easy, but we’ve decided to voluntarily shut down. We’ve been fighting for years for your right to communicate, but it’s time to move on. It’s been an experience of a lifetime, we wish you all the best!`
 
-[<img title="btjunkie" border="0" alt="btjunkie" src="http://lh5.ggpht.com/-dp2wqOqoxfE/Ty_195wyW8I/AAAAAAAAEfI/cSwenNyENEo/btjunkie_thumb3.jpg?imgmax=800" width="426" height="240" />](http://lh3.ggpht.com/-X8DaSkMEfJA/Ty_11jItFZI/AAAAAAAAEfA/TRi5WYyO49o/s1600-h/btjunkie5.jpg)
+![btjunkie](http://lh3.ggpht.com/-X8DaSkMEfJA/Ty_11jItFZI/AAAAAAAAEfA/TRi5WYyO49o/s1600-h/btjunkie5.jpg)
 
 BTJunkie, according to [Alexa](http://www.alexa.com/siteinfo/btjunkie.org) web statistics, was one of the top 400 Internet websites that was visited by millions of visitors per month. Much of the appeal of the site came from the fact that all of the site’s contents were publicly accessible. 
 

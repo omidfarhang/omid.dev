@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="The_First_Thanksgiving_cph.3g04961" border="0" alt="The_First_Thanksgiving_cph.3g04961" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TO0pMoLdIoI/AAAAAAAADMk/MRW_Yz7P1b8/The_First_Thanksgiving_cph.3g04961_thumb.jpg?imgmax=800" width="304" height="195" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TO0pLLyGmTI/AAAAAAAADMg/SsFeXba6N20/s1600-h/The_First_Thanksgiving_cph.3g04961%5B2%5D.jpg)Avira TechBlog:** Thanksgiving and according holidays are very close – a time in which many people have the time to do (online) shopping. The cyber criminals are eager for their share, so it’s time to remember some safety measures.
+**![The_First_Thanksgiving_cph.3g04961](http://lh4.ggpht.com/_vaUVXcmC3OI/TO0pLLyGmTI/AAAAAAAADMg/SsFeXba6N20/s1600-h/The_First_Thanksgiving_cph.3g04961%5B2%5D.jpg)Avira TechBlog:** Thanksgiving and according holidays are very close – a time in which many people have the time to do (online) shopping. The cyber criminals are eager for their share, so it’s time to remember some safety measures.
 
 We are expecting to see spam and phishing campaigns luring the recipients to visit malicious web sites. These web sites usually look quite legal and official. As precaution, don’t follow links from emails to online stores and online payment systems, but use bookmarks or type in the addresses directly into the browser’s address bar. And of course just visit shops which you already know. Some scams can be identified by very low prices – if they look too good to be true, they usually are!
 

@@ -23,13 +23,13 @@ With Chrome 10, our first cut of the previously announced [Flash sandboxing init
 
 As we [previously mentioned](http://blog.chromium.org/2010/06/improving-plug-in-security.html), we believe that some of the most significant opportunities to increase user security revolve around plugins. We’ve made a number of improvements in this area, including actively encouraging users to update their plug-ins to the most secure version. Chrome now detects when a plug-in is out of date and blocks it with a simple infobar. This infobar helps guide the user towards updating their plug-in with the latest security fixes.
 
-[<img title="out of date plugin" border="0" alt="out of date plugin" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TXf3dBkVwcI/AAAAAAAADoA/oFN9eDWViQw/out%20of%20date%20plugin_thumb%5B1%5D.png?imgmax=800" width="504" height="186" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TXf3Z5GDq5I/AAAAAAAADn8/rNmUtTVffyM/s1600-h/out%20of%20date%20plugin%5B3%5D.png)
+![out of date plugin](http://lh6.ggpht.com/_vaUVXcmC3OI/TXf3Z5GDq5I/AAAAAAAADn8/rNmUtTVffyM/s1600-h/out%20of%20date%20plugin%5B3%5D.png)
 
 **Chrome 10: Plug-in blocking enhancements**
 
 Some of our more advanced users prefer fine-grained control over which plug-ins they wish to run — which can have security and privacy benefits. Chrome has long had a feature which blocks plug-ins by default (Wrench menu -> Preferences -> Under the hood -> Content Settings -> Plug-ins). We’ve improved this feature by adding a context menu to the blocked plug-in placeholder. This menu lets users control which plug-ins do and do not run. Using a context menu helps prevent clickjacking attacks that try to bypass the block. Plug-in placeholders can also be hidden (for example, if they are floating over and obscuring real content), and the actual plug-in that wishes to run is made apparent.
 
-[<img title="blocked plugin" border="0" alt="blocked plugin" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TXf3jX3eViI/AAAAAAAADoI/eGzEpkjII0s/blocked%20plugin_thumb%5B1%5D.png?imgmax=800" width="504" height="135" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TXf3faJUVyI/AAAAAAAADoE/XRxKcQ5I3FY/s1600-h/blocked%20plugin%5B3%5D.png)
+![blocked plugin](http://lh5.ggpht.com/_vaUVXcmC3OI/TXf3faJUVyI/AAAAAAAADoE/XRxKcQ5I3FY/s1600-h/blocked%20plugin%5B3%5D.png)
 
 **Chromium Security Rewards program still going strong**
 

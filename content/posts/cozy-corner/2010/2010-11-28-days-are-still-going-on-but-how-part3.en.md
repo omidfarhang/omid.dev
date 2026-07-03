@@ -11,7 +11,7 @@ tags:
 categories: 
   - Cozy Corner
 ---
-In continue from: [Part 2 of &#8216;Life is going on But how?'](/2010/11/28/days-are-still-going-on-but-how-part2/ "Days are still going on, but how?–Part2")
+In continue from: [Part 2 of ‘Life is going on But how?'](/2010/11/28/days-are-still-going-on-but-how-part2/ "Days are still going on, but how?–Part2")
 
 Next day and time to connect that Holter Monitor (Not for Heart rhythm, for Blood Pressure, a few different from what you might know).
 

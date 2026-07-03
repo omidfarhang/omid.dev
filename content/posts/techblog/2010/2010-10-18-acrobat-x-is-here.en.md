@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**<img title="Acrobat_X_Pro_boxshot_3in_viewimage" border="0" alt="Acrobat_X_Pro_boxshot_3in_viewimage" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TLzJEP8ounI/AAAAAAAACug/7I8sRN0fUNs/Acrobat_X_Pro_boxshot_3in_viewimage%5B5%5D.jpg?imgmax=800" width="144" height="144" />The New Acrobat X is finally here!**
+**![Acrobat_X_Pro_boxshot_3in_viewimage](http://lh5.ggpht.com/_vaUVXcmC3OI/TLzJEP8ounI/AAAAAAAACug/7I8sRN0fUNs/Acrobat_X_Pro_boxshot_3in_viewimage%5B5%5D.jpg?imgmax=800)The New Acrobat X is finally here!**
 
 What can it do for education? Here is a quick list of new and improved features:
 
@@ -72,6 +72,6 @@ _Enterprise deployment for Windows and Macintosh environments._
   * Windows deployment is made easier with an improved customization wizard 
   * Macintosh clients can now be deployed using the popular Remote Desktop application.
 
- 
+
 
 In the coming weeks check back for more previews including tips, tricks, and tutorials!

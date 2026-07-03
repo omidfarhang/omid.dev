@@ -13,6 +13,6 @@ categories:
 ---
 Today's Tip:
 
-[<img class="aligncenter size-full wp-image-205" alt="Smile Always-1299327702" src="/images/2011/11/Smile-Always-1299327702.jpg" width="240" height="320" srcset="/images/sites/2/2011/11/Smile-Always-1299327702.jpg 240w, /images/sites/2/2011/11/Smile-Always-1299327702-225x300.jpg 225w" sizes="(max-width: 240px) 100vw, 240px" />](/images/2011/11/Smile-Always-1299327702.jpg)
+![Smile Always-1299327702](/images/2011/11/Smile-Always-1299327702.jpg)
 
 Smile Always….

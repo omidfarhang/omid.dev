@@ -30,4 +30,4 @@ The program’s being promoted both on MySpace and off — for instance, anyone 
 
 Hijack has launched just a little more than a month after MySpace first announced plans for a completely overhauled design, with the intention of being “the leading entertainment destination that is socially powered by the passions of fans and curators.”
 
-[<img title="MySpaceBEP" border="0" alt="MySpaceBEP" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TQKn17DvWbI/AAAAAAAADec/Pevivl_D22Q/MySpaceBEP_thumb%5B1%5D.jpg?imgmax=800" width="504" height="452" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TQKnywJrCdI/AAAAAAAADeY/j6HrgXhOVeo/s1600-h/MySpaceBEP%5B3%5D.jpg)
+![MySpaceBEP](http://lh5.ggpht.com/_vaUVXcmC3OI/TQKnywJrCdI/AAAAAAAADeY/j6HrgXhOVeo/s1600-h/MySpaceBEP%5B3%5D.jpg)

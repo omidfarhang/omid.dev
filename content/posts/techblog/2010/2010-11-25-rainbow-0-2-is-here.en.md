@@ -14,7 +14,9 @@ categories:
 ---
 For those who missed this update on Nov 18:
 
-[<img title="rainbow-header" border="0" alt="rainbow-header" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TO6_wClnWtI/AAAAAAAADOc/-gxKZLT9WI0/rainbow-header_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TO6_uhc56xI/AAAAAAAADOY/nqsDsOX3tQ0/s1600-h/rainbow-header%5B3%5D.png)In the spirit of releasing early and releasing often – Mozilla bring you [version 0.2](https://addons.mozilla.org/en-US/firefox/addon/247491/) of Rainbow – an experimental Firefox add-on from Mozilla Labs that exposes audio and video recording capabilities to web pages.
+![rainbow-header](http://lh6.ggpht.com/_vaUVXcmC3OI/TO6_uhc56xI/AAAAAAAADOY/nqsDsOX3tQ0/s1600-h/rainbow-header%5B3%5D.png)
+
+In the spirit of releasing early and releasing often – Mozilla bring you [version 0.2](https://addons.mozilla.org/en-US/firefox/addon/247491/) of Rainbow – an experimental Firefox add-on from Mozilla Labs that exposes audio and video recording capabilities to web pages.
 
 ##### What’s new in this release?
 

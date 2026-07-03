@@ -19,23 +19,23 @@ Microsoft discontinued support for Windows XP Service Pack 2 on July 13th, and t
 
 However, even today, [the download for Windows XP](http://www.microsoft.com/downloads/details.aspx?familyid=12361875-B453-45E8-852B-90F2727894FD&displaylang=en) still includes SP2 in the file properties. 
 
-[<img title="KB2286198_Properties" border="0" alt="KB2286198_Properties" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TGb4iCN6cuI/AAAAAAAACXE/EDQGCjHTNA8/KB2286198_Properties_thumb%5B3%5D.png?imgmax=800" width="413" height="506" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TGb4f55xiPI/AAAAAAAACXA/AGT82SSUM4o/s1600-h/KB2286198_Properties%5B5%5D.png) 
+![KB2286198_Properties](http://lh3.ggpht.com/_vaUVXcmC3OI/TGb4f55xiPI/AAAAAAAACXA/AGT82SSUM4o/s1600-h/KB2286198_Properties%5B5%5D.png) 
 
 But if you try to install the update on an SP2 system, you'll get this error message: 
 
-[<img title="KB2286198_Setup_Error" border="0" alt="KB2286198_Setup_Error" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TGb4mUoEzKI/AAAAAAAACXM/p4WRvu3Z_UI/KB2286198_Setup_Error_thumb%5B3%5D.png?imgmax=800" width="445" height="143" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TGb4j609W2I/AAAAAAAACXI/h5WdK0AZM70/s1600-h/KB2286198_Setup_Error%5B5%5D.png) 
+![KB2286198_Setup_Error](http://lh3.ggpht.com/_vaUVXcmC3OI/TGb4j609W2I/AAAAAAAACXI/h5WdK0AZM70/s1600-h/KB2286198_Setup_Error%5B5%5D.png) 
 
 “Setup has detected that the version of the Service Pack installed on your system is lower than what is necessary to apply this hotfix. At minimum, you must have Service Pack 2 installed.” 
 
 This minimum requirement reminded us of some other software that required SP3… Grand Theft Auto IV. 
 
-[<img title="GTA_IV" border="0" alt="GTA_IV" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TGb4rL1zYhI/AAAAAAAACXU/IWr6hQoCjd8/GTA_IV_thumb%5B3%5D.jpg?imgmax=800" width="355" height="348" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TGb4o9NzZYI/AAAAAAAACXQ/LXNMvhbcd84/s1600-h/GTA_IV%5B5%5D.jpg) 
+![GTA_IV](http://lh5.ggpht.com/_vaUVXcmC3OI/TGb4o9NzZYI/AAAAAAAACXQ/LXNMvhbcd84/s1600-h/GTA_IV%5B5%5D.jpg) 
 
 GTA IV wouldn't install on SP2 systems when it was released in December of 2008. 
 
 And so some determined gamers came up with a registry hack. 
 
-[<img title="KB2286198_Reg_Hack" border="0" alt="KB2286198_Reg_Hack" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TGb4uiEj_0I/AAAAAAAACXc/s1Chlpq4b44/KB2286198_Reg_Hack_thumb%5B3%5D.png?imgmax=800" width="444" height="224" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TGb4s1wzgbI/AAAAAAAACXY/V-zVsBQQQCs/s1600-h/KB2286198_Reg_Hack%5B5%5D.png) 
+![KB2286198_Reg_Hack](http://lh5.ggpht.com/_vaUVXcmC3OI/TGb4s1wzgbI/AAAAAAAACXY/V-zVsBQQQCs/s1600-h/KB2286198_Reg_Hack%5B5%5D.png) 
 
 It turns out that an SP2 system will think its SP3 if you edit this key: HKLM\System\CurrentControlSet\Control\Windows, and edit the DWORD value CSDVersion from 200 to 300 (and reboot).
 

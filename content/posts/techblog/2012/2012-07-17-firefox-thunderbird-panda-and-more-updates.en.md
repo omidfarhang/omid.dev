@@ -24,7 +24,7 @@ categories:
 
 [![thunderbird](http://lh5.ggpht.com/-pxx2TLyseXs/UAWxXLdProI/AAAAAAAAGeE/PAuN4To1GlM/thunderbird_thumb%25255B3%25255D.jpg?imgmax=800 "thunderbird")](http://lh4.ggpht.com/-3l8sdBPQ-Kk/UAWxU2fPh6I/AAAAAAAAGd8/rU7_BWXW3gE/s1600-h/thunderbird%25255B5%25255D.jpg)
 
-**Mozilla SeaMonkey:** SeaMonkey updated to 2.11, This version is common update for Security, stability and performance update. Release note is available in <a href="http://www.seamonkey-project.org/releases/seamonkey2.11/" target="_blank">SeaMonkey Project website</a>.
+**Mozilla SeaMonkey:** SeaMonkey updated to 2.11, This version is common update for Security, stability and performance update. Release note is available in [SeaMonkey Project website](http://www.seamonkey-project.org/releases/seamonkey2.11/).
 
 [![79164355539025135019](http://lh3.ggpht.com/-MGcTK1K32Bg/UAXBAuJnroI/AAAAAAAAGes/ZRY96BovGdM/79164355539025135019_thumb%25255B1%25255D.png?imgmax=800 "79164355539025135019")](http://lh5.ggpht.com/-5287u6TPGDQ/UAXA-BbnzPI/AAAAAAAAGek/QXBYcrTJSG4/s1600-h/79164355539025135019%25255B3%25255D.png)
 

@@ -16,7 +16,9 @@ categories:
 ---
 **A German source is signaling that those who haven’t downloaded FaceTime for Mac just yet may want to hold back on the desire to video chat with their iPhone-wielding friends, as there may be some serious security risks involved.**
 
-[<img title="FaceTime-for-Mac-OS-X-Has-a-Serious-Security-Flaw-Report-2" border="0" alt="FaceTime-for-Mac-OS-X-Has-a-Serious-Security-Flaw-Report-2" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMB0eoF_yAI/AAAAAAAAC1A/3te8UHJBMJk/FaceTime-for-Mac-OS-X-Has-a-Serious-Security-Flaw-Report-2_thumb%5B4%5D.jpg?imgmax=800" width="150" height="109" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMB0ddqKBgI/AAAAAAAAC08/clLDLwtc5ZQ/s1600-h/FaceTime-for-Mac-OS-X-Has-a-Serious-Security-Flaw-Report-2%5B6%5D.jpg)During yesterday’s **Back to the Mac special event** held in Cupertino, California, Apple’s CEO confirmed the availability of FaceTime for Mac.
+![FaceTime-for-Mac-OS-X-Has-a-Serious-Security-Flaw-Report-2](http://lh4.ggpht.com/_vaUVXcmC3OI/TMB0ddqKBgI/AAAAAAAAC08/clLDLwtc5ZQ/s1600-h/FaceTime-for-Mac-OS-X-Has-a-Serious-Security-Flaw-Report-2%5B6%5D.jpg)
+
+During yesterday’s **Back to the Mac special event** held in Cupertino, California, Apple’s CEO confirmed the availability of FaceTime for Mac.
 
 The application effectively enables anyone with a mac running Snow Leopard to use their computer’s iSight camera and mic to talk to their iPhone, iPod touch-equipped friends.
 

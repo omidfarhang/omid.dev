@@ -14,7 +14,7 @@ Hey Folks
 
 How are you? I hope you will have a good weekend!
 
-Many of you have had sent me messages asking me how you can pay for my services, even that I offered all my services free of charge for everyone _(and yet its free, and will be free)_, but since you requested it often, I made it available at my site for everyone from every side of world to pay, now you can go to “<a href="/contact-me/payment-options" target="_blank">Payment Options</a>” page and fill the form to receive the required info for your payments.
+Many of you have had sent me messages asking me how you can pay for my services, even that I offered all my services free of charge for everyone _(and yet its free, and will be free)_, but since you requested it often, I made it available at my site for everyone from every side of world to pay, now you can go to “[Payment Options](/contact-me/payment-options)” page and fill the form to receive the required info for your payments.
 
 Thank you all for your support!  
 -Omid

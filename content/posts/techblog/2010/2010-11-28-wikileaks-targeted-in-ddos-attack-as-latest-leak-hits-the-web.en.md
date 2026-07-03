@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="wikileaks-225" border="0" alt="wikileaks-225" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TPK5D9hxMXI/AAAAAAAADQE/mfs03G_wKSU/wikileaks-225_thumb.jpg?imgmax=800" width="225" height="225" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TPK5CEB7zBI/AAAAAAAADQA/1ZFlhQHdN7M/s1600-h/wikileaks-225%5B3%5D.jpg)**Mashable:** Controversial whistleblower website WikiLeaks is reporting that it’s under a “mass distributed denial of service attack” just as its much-hyped leak of secret embassy cables has been leaked early on Twitter. 
+![wikileaks-225](http://lh6.ggpht.com/_vaUVXcmC3OI/TPK5CEB7zBI/AAAAAAAADQA/1ZFlhQHdN7M/s1600-h/wikileaks-225%5B3%5D.jpg)
+
+**Mashable:** Controversial whistleblower website WikiLeaks is reporting that it’s under a “mass distributed denial of service attack” just as its much-hyped leak of secret embassy cables has been leaked early on Twitter. 
 
 According to [a tweet](http://twitter.com/#!/wikileaks/status/8920530488926208) from the website’s official Twitter account, WikiLeaks is experiencing a DDoS attack. The reported attackers are not yet known. [Several reports](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2010/11/28/businessinsider-wikileaks-suffering-denial-of-service-attack-2010-11.DTL) state that the website has been experiencing intermittent downtime. We are currently attempting to verify that WikiLeaks is indeed under attack.
 
@@ -24,4 +26,4 @@ Unfortunately for the whistleblower website though, it looks like the leak [has 
 
 It’s safe to say that WikiLeaks is not having a good day.
 
-[<img title="wikileaks-dos" border="0" alt="wikileaks-dos" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TPK5I2eFIpI/AAAAAAAADQM/YZQni-XDAV8/wikileaks-dos_thumb.jpg?imgmax=800" width="500" height="304" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TPK5FsWinNI/AAAAAAAADQI/eH8wc-R6bOI/s1600-h/wikileaks-dos%5B2%5D.jpg)
+![wikileaks-dos](http://lh3.ggpht.com/_vaUVXcmC3OI/TPK5FsWinNI/AAAAAAAADQI/eH8wc-R6bOI/s1600-h/wikileaks-dos%5B2%5D.jpg)

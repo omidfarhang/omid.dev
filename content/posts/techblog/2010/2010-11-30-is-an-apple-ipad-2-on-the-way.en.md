@@ -15,7 +15,9 @@ categories:
 ---
 **An iPad 2 could hit shelves as early as next year, according to at least one source.**
 
-[<img title="1127-appleipad2_full_380" border="0" alt="1127-appleipad2_full_380" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TPWCJIaCwOI/AAAAAAAADUI/KdjC_mL6Qv8/1127-appleipad2_full_380_thumb%5B1%5D.jpg?imgmax=800" width="250" height="166" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TPWCGvX7ivI/AAAAAAAADUE/wu0acJSW0Ic/s1600-h/1127-appleipad2_full_380%5B3%5D.jpg)An Apple iPad 2 will go into production beginning in December – and hit shelves as soon as Q1 of 2011. That's the news this week from Economic News Daily, an English-language Taiwanese paper. According to News Daily staff, the new iPad will include FaceTime functionality, fresh display tech, a pair of cameras – one forward-facing – and a USB port.
+![1127-appleipad2_full_380](http://lh3.ggpht.com/_vaUVXcmC3OI/TPWCGvX7ivI/AAAAAAAADUE/wu0acJSW0Ic/s1600-h/1127-appleipad2_full_380%5B3%5D.jpg)
+
+An Apple iPad 2 will go into production beginning in December – and hit shelves as soon as Q1 of 2011. That's the news this week from Economic News Daily, an English-language Taiwanese paper. According to News Daily staff, the new iPad will include FaceTime functionality, fresh display tech, a pair of cameras – one forward-facing – and a USB port.
 
 As Dan Nystedt of IDG News points out, there is reason to trust the News Daily report.
 

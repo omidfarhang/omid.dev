@@ -17,7 +17,9 @@ categories:
 ---
 **218 million “class members” probably won’t settle for Farmville dollar**
 
-[<img title="logo" border="0" alt="logo" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TMHmHYaSzoI/AAAAAAAAC2s/GMjxWe2sF64/logo_thumb%5B5%5D.png?imgmax=800" width="150" height="37" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TMHmF58jRGI/AAAAAAAAC2o/obPDDZvWSro/s1600-h/logo%5B7%5D.png)A suit has been filed in U.S. District Court in San Francisco on behalf of a Minnesota woman charging game maker Zynga with leaking the personal information of 218 million Facebook members in violation of federal law. The suit seeks class action status.
+![logo](http://lh4.ggpht.com/_vaUVXcmC3OI/TMHmF58jRGI/AAAAAAAAC2o/obPDDZvWSro/s1600-h/logo%5B7%5D.png)
+
+A suit has been filed in U.S. District Court in San Francisco on behalf of a Minnesota woman charging game maker Zynga with leaking the personal information of 218 million Facebook members in violation of federal law. The suit seeks class action status.
 
 The action follows by three days an investigative story by The Wall Street Journal that found a large number of Facebook's apps – including Zynga games such as Farmville and Mafia Wars  – leaked the user IDs of Facebook players and their friends to outside companies.
 

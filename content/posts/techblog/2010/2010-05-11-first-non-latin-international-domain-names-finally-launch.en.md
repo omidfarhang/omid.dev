@@ -22,8 +22,7 @@ You can already visit [http://موقع.وزارة-الأتصالات.مصر/](ht
 
 Using Mozilla Firefox 3.6.3 and Google Chrome Developer Build 5.0.375.29 for Mac, I was able to visit that web address but it displayed incorrectly in the address bar. When I visited the site in Apple Safari 4.0.5, it was written out correctly. 
 
-[<img title="arabicdomain" border="0" alt="arabicdomain" src="http://lh6.ggpht.com/_vaUVXcmC3OI/S-mNHRpD35I/AAAAAAAACKo/UqZ--Z-QVNY/arabicdomain_thumb%5B2%5D.jpg?imgmax=800" width="504" height="338" />](http://lh5.ggpht.com/_vaUVXcmC3OI/S-mNDC2HdpI/AAAAAAAACKk/RWsBUo2XO8I/s1600-h/arabicdomain%5B4%5D.jpg) </p> 
-
+![arabicdomain](http://lh5.ggpht.com/_vaUVXcmC3OI/S-mNDC2HdpI/AAAAAAAACKk/RWsBUo2XO8I/s1600-h/arabicdomain%5B4%5D.jpg)
 This change was expected. Obviously this doesn’t matter to you if you’re a native English speaker living in an English-speaking society, but for those of you who are not, this is a big day. Web users whose native languages do not employ Latin-based writing had to acquire some familiarity with a new script in order to visit web addresses previously. The computer keyboard use involved got messy in some cases, too. Now those users can type in the scripts they are most familiar with. Arabic domains can even be written right to left. 
 
 This isn’t an under-the-hood change, though. The core functions and features in the domain system are all the same, but only browsers that support the new scripts will be able to work with the international domains.

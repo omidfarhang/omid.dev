@@ -17,9 +17,9 @@ The social networking giant today [announced](https://www.facebook.com/notes/fac
 
 A Facebook blogger writes: 
 
-> <tt>Nothing is more important to us than the safety of the people who use Facebook, and the security of their data...That’s why we’re thrilled to announce the Antivirus Marketplace and welcome Microsoft, McAfee, TrendMicro, Sophos, and Symantec to the Facebook Security family.</tt>
+> `Nothing is more important to us than the safety of the people who use Facebook, and the security of their data...That’s why we’re thrilled to announce the Antivirus Marketplace and welcome Microsoft, McAfee, TrendMicro, Sophos, and Symantec to the Facebook Security family.`
 
-[<img title="fbav" border="0" alt="fbav" src="http://lh6.ggpht.com/-tCQjDxzrvUA/T5hUyGftouI/AAAAAAAAFsA/Lt42yWWSDtQ/fbav_thumb%25255B2%25255D.jpg?imgmax=800" width="500" height="368" />](http://lh6.ggpht.com/-6R0hfNpc2cc/T5hUvtpXAgI/AAAAAAAAFr4/3nIpstco1iw/s1600-h/fbav%25255B4%25255D.jpg) 
+![fbav](http://lh6.ggpht.com/-6R0hfNpc2cc/T5hUvtpXAgI/AAAAAAAAFr4/3nIpstco1iw/s1600-h/fbav%25255B4%25255D.jpg) 
 
 No matter how in love we are with Facebook, many of us would have kicked it to the curb if the bad outweighed the good, and some baddies started to dent Facebook's armor. 
 
@@ -43,7 +43,7 @@ Think about it this way: even the sexiest of cars provide many safety features l
 
 To better safeguard your account, make sure you choose a strong unique password for your Facebook account, and don't tell it to ANYONE. Look over the privacy settings regularly and carefully choose your configuration. Take care when downloading applications. Only befriend people you know. Report suspicious activity to Facebook. 
 
-And the Omid’s TechBlog will continue to do its part, alerting its community — via <a href="https://www.facebook.com/omidsnetwork/" target="_blank">its Facebook page</a> and its award — to bad stuff that sneaks up on Facebook. 
+And the Omid’s TechBlog will continue to do its part, alerting its community — via [its Facebook page](https://www.facebook.com/omidsnetwork/) and its award — to bad stuff that sneaks up on Facebook. 
 
 Ultimately, both Facebook and security vendors want users safe and happy. And this partnership might mean that we are in a better place to achieve that aim, but only if we all do our part. 
 

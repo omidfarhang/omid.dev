@@ -13,9 +13,11 @@ tags:
 categories:
   - TechBlog
 ---
-**Researcher sees &#8216;unprecedented wave of Java exploitation'**
+**Researcher sees ‘unprecedented wave of Java exploitation'**
 
-[<img title="" border="0" alt="" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TL7f49Q5AOI/AAAAAAAACyQ/_s6wSVnhw1Q/adobe-logo_thumb.jpg?imgmax=800" width="154" height="154" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TL7f21tN5KI/AAAAAAAACyM/Dlv4DusDdXw/s1600-h/adobe-logo%5B2%5D.jpg)[<img title="Java" border="0" alt="Java" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TL7f786efmI/AAAAAAAACyY/zPde-wdyXqQ/Java_thumb.jpg?imgmax=800" width="154" height="154" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TL7f6JUSFZI/AAAAAAAACyU/tLMWhhYGqSw/s1600-h/Java%5B2%5D.jpg)Oracle's Java framework has surpassed Adobe applications as the most attacked software package, according to a Microsoft researcher who warned she was seeing “an unprecedented wave of Java exploitation.”
+![adobe-logo%5B2%5D](http://lh3.ggpht.com/_vaUVXcmC3OI/TL7f21tN5KI/AAAAAAAACyM/Dlv4DusDdXw/s1600-h/adobe-logo%5B2%5D.jpg)
+
+![Java](http://lh5.ggpht.com/_vaUVXcmC3OI/TL7f6JUSFZI/AAAAAAAACyU/tLMWhhYGqSw/s1600-h/Java%5B2%5D.jpg)Oracle's Java framework has surpassed Adobe applications as the most attacked software package, according to a Microsoft researcher who warned she was seeing “an unprecedented wave of Java exploitation.”
 
 The spike began in the third-quarter of last year and has climbed steadily since, according to data [reported on Monday](http://blogs.technet.com/b/mmpc/archive/2010/10/18/have-you-checked-the-java.aspx) by Holly Stewart, a member of the Microsoft Malware Protection Center. By the beginning of this year, the number of Java exploits “had well surpassed the total number of Adobe-related exploits we monitored,” she said.
 

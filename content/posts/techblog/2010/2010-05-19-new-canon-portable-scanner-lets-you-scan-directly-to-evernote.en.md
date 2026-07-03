@@ -15,8 +15,7 @@ categories:
 
 The scanner, which is also available for Windows, uses embedded drivers to start up and scan quickly, effectively decreasing the time it takes to initialize the device. Using what Canon calls CaptureOnTouch, documents can be routed automatically to apps like iPhoto or Evernote. This can be really useful, especially for business users who want to have a way to easily scan and upload lots of documents quickly. 
 
-[![canon-p150m-640](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RHz0JxgOI/AAAAAAAACQc/thcPln-7il8/canon-p150m-640_thumb%5B2%5D.jpg?imgmax=800 "canon-p150m-640")](http://lh3.ggpht.com/_vaUVXcmC3OI/S_RHxpogKWI/AAAAAAAACQY/X_T9qQmJIvo/s1600-h/canon-p150m-640%5B4%5D.jpg) </p> 
-
+[![canon-p150m-640](http://lh5.ggpht.com/_vaUVXcmC3OI/S_RHz0JxgOI/AAAAAAAACQc/thcPln-7il8/canon-p150m-640_thumb%5B2%5D.jpg?imgmax=800 "canon-p150m-640")](http://lh3.ggpht.com/_vaUVXcmC3OI/S_RHxpogKWI/AAAAAAAACQY/X_T9qQmJIvo/s1600-h/canon-p150m-640%5B4%5D.jpg)
 The scanner is powered by USB and comes with a 20-page automatic document feeder. It can scan up to 15 pages per minute and it’s designed to fit easily into a briefcase. The suggested retail price is $295, which isn’t cheap, but well within the range of other professional portable document scanners. 
 
 If you’re a home user who wants a scanner that can easily communicate with cloud services like Evernote, check out [Doxie](http://getdoxie.com/), a compact document and photos scanner that can directly route scans to Google Docs, Flickr, Evernote, Tumblr, iPhoto, Picasa, Acrobat and more. Doxie is $129 and works on Windows and Mac. 

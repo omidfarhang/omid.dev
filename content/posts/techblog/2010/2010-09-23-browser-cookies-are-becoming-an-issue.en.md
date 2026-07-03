@@ -36,7 +36,7 @@ On the New York Times site, someone who called him or herself “Blue Sun” fro
 
 Blue Sun recommends using Firefox because it has lots of add-ons and lists a number that are useful:
 
-— Ghostery, blocks invisible trackers such as web &#8216;bugs', pixels and beacons used by behavioral data providers and ad networks.  
+— Ghostery, blocks invisible trackers such as web ‘bugs', pixels and beacons used by behavioral data providers and ad networks.  
 — BetterPrivacy, identifies and enables you to delete locally shared objects (described above).  
 — Click&Clean  
 — Eraser  
@@ -49,22 +49,22 @@ In the Firefox menu: Tools | Privacy | Remove Individual Cookies
 
 It’s impressive just to look in there and see the number of cookies that you’ve accumulated. If you “remove all cookies” keep in mind that you’re going to be required to use your log-in name and password on those pages on which you’ve “saved passwords” in the past.
 
-[<img title="Block Cookies_1" border="0" alt="Block Cookies_1" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TJu2YQAI-FI/AAAAAAAACfg/oE0RtIIRf8U/Block%20Cookies_1_thumb%5B2%5D.png?imgmax=800" width="269" height="251" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2Xe5tN-I/AAAAAAAACfc/sBit9slQuuM/s1600-h/Block%20Cookies_1%5B4%5D.png)
+![Block Cookies_1](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2Xe5tN-I/AAAAAAAACfc/sBit9slQuuM/s1600-h/Block%20Cookies_1%5B4%5D.png)
 
-[<img title="Block Cookies_2" border="0" alt="Block Cookies_2" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TJu2b9VoThI/AAAAAAAACfo/gSuATxlQwIs/Block%20Cookies_2_thumb%5B2%5D.png?imgmax=800" width="304" height="375" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2Z98D8mI/AAAAAAAACfk/r5MbvHVsipA/s1600-h/Block%20Cookies_2%5B4%5D.png)
+![Block Cookies_2](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2Z98D8mI/AAAAAAAACfk/r5MbvHVsipA/s1600-h/Block%20Cookies_2%5B4%5D.png)
 
 The Firefox add-on Adblock Plus is another little helper that will simply stop ads from appearing when you visit pages that contain them. (Tools | Add-ons | Get Add-ons).
 
-[<img title="Block Cookies_3" border="0" alt="Block Cookies_3" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TJu2d1ZITDI/AAAAAAAACfw/Ip8J-pllXWo/Block%20Cookies_3_thumb%5B2%5D.png?imgmax=800" width="304" height="132" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TJu2cjrXoXI/AAAAAAAACfs/j5qnvfZou6A/s1600-h/Block%20Cookies_3%5B4%5D.png)
+![Block Cookies_3](http://lh5.ggpht.com/_vaUVXcmC3OI/TJu2cjrXoXI/AAAAAAAACfs/j5qnvfZou6A/s1600-h/Block%20Cookies_3%5B4%5D.png)
 
 Those who would like a strong dose of Web security can also disable JavaScripting. Unfortunately that kills a lot of very useful functionality on web pages, including logins and shopping.
 
-[<img title="Block Cookies_4" border="0" alt="Block Cookies_4" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TJu2giVaj0I/AAAAAAAACf4/MUn9OQXKOvw/Block%20Cookies_4_thumb%5B2%5D.png?imgmax=800" width="304" height="298" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2fG5i6cI/AAAAAAAACf0/PL_0QXBZflU/s1600-h/Block%20Cookies_4%5B4%5D.png)
+![Block Cookies_4](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2fG5i6cI/AAAAAAAACf0/PL_0QXBZflU/s1600-h/Block%20Cookies_4%5B4%5D.png)
 
 Macromedia's help page that describes how to use Flash Player security settings is [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
 
-[<img title="Block Cookies_5" border="0" alt="Block Cookies_5" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TJu2i4n-GyI/AAAAAAAACgA/NehGzshRjmw/Block%20Cookies_5_thumb%5B1%5D.png?imgmax=800" width="304" height="227" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2hTIp_AI/AAAAAAAACf8/A-ODEG4DMXQ/s1600-h/Block%20Cookies_5%5B3%5D.png)
+![Block Cookies_5](http://lh6.ggpht.com/_vaUVXcmC3OI/TJu2hTIp_AI/AAAAAAAACf8/A-ODEG4DMXQ/s1600-h/Block%20Cookies_5%5B3%5D.png)
 
 The Firefox add-on NoScript also is an excellent option for controlling Javascript running in your browser. It gives you the option of letting it run or not. That's a much more graceful way of doing it than simply shutting it off in Firefox options.
 
-[<img title="NoScript" border="0" alt="NoScript" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TJu2m_3UgGI/AAAAAAAACgI/OAtowmzYWEk/NoScript_thumb%5B1%5D.png?imgmax=800" width="304" height="79" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TJu2lx4eIcI/AAAAAAAACgE/Y7kmxoW6AaM/s1600-h/NoScript%5B3%5D.png)
+![NoScript](http://lh5.ggpht.com/_vaUVXcmC3OI/TJu2lx4eIcI/AAAAAAAACgE/Y7kmxoW6AaM/s1600-h/NoScript%5B3%5D.png)

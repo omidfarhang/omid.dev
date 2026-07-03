@@ -15,7 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="Yahoo_Corp_Building" border="0" alt="Yahoo_Corp_Building" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TXzNpcukTkI/AAAAAAAADrk/zkSwyTn3d0g/Yahoo_Corp_Building_thumb%5B4%5D.jpg?imgmax=800" width="250" height="166" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TXzNnt7adAI/AAAAAAAADrg/ZXY3-FeMCVo/s1600-h/Yahoo_Corp_Building%5B7%5D.jpg)TheNextWeb wrote: We’ve received a solid report from a reliable and proven source that [Yahoo](http://yahoo.com/) has sold social bookmarking site [Delicious](http://delicious.com/) for $5m+.
+![Yahoo_Corp_Building](http://lh5.ggpht.com/_vaUVXcmC3OI/TXzNnt7adAI/AAAAAAAADrg/ZXY3-FeMCVo/s1600-h/Yahoo_Corp_Building%5B7%5D.jpg)
+
+TheNextWeb wrote: We’ve received a solid report from a reliable and proven source that [Yahoo](http://yahoo.com/) has sold social bookmarking site [Delicious](http://delicious.com/) for $5m+.
 
 The service was placed on the market in December after a [meeting](http://thenextweb.com/industry/2010/12/16/looks-like-yahoos-about-to-have-a-massive-clean-up/) to discuss Yahoo’s future direction. After a heated bidding process, the site has reportedly been sold to a rival bookmarking service – who exactly we’re unsure of but we’ll update once we have confirmation. We do know its been sold to an existing competitor with “strong user base.”
 

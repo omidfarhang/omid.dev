@@ -18,7 +18,7 @@ categories:
 
 Facebook Messages' main goal is to ensure users “see the messages that matter”. Facebook has 500 million users (more than any other e-mail service) and all of them will eventually be offered a @facebook.com e-mail address. That being said, the new system will be closer to chat (messages get sent when you hit the Enter key) than traditional e-mail: there will be no subject lines, nor cc or bcc fields. Incoming message will be placed in one of three folders: Friends, Other (for things like bank statements), and Junk. Users can choose to store conversations so that they can have a complete archive of communications with a given person.
 
-[<img title="facebook_messages" border="0" alt="facebook_messages" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TOQ_7203yEI/AAAAAAAADKc/aNEwylafTHI/facebook_messages_thumb.jpg?imgmax=800" width="304" height="175" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TOQ_6nlLiwI/AAAAAAAADKY/WhN_j4H2Lxs/s1600-h/facebook_messages%5B2%5D.jpg)
+![facebook_messages](http://lh6.ggpht.com/_vaUVXcmC3OI/TOQ_6nlLiwI/AAAAAAAADKY/WhN_j4H2Lxs/s1600-h/facebook_messages%5B2%5D.jpg)
 
 The new product will be introduced slowly over the next few months. Once you receive an invitation, you'll be able to get started and also invite friends.
 

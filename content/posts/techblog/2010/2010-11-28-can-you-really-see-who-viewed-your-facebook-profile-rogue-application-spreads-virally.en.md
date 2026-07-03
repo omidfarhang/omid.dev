@@ -49,6 +49,6 @@ I've informed the security teams at both bit.ly and Facebook about these links, 
 
 Always think before you add an unknown application on Facebook, and ask yourself if you're really comfortable with ceding such power to complete strangers. Rogue application attacks like this, spreading virally, are becoming increasingly common – and do no good for anyone apart from the scammers behind them.
 
-If you've been hit by a scam like this, remove references to it from your newsfeed, and revoke the right of rogue applications to access your profile via <tt>Account/ Privacy Settings/ Applications and Websites</tt>.
+If you've been hit by a scam like this, remove references to it from your newsfeed, and revoke the right of rogue applications to access your profile via `Account/ Privacy Settings/ Applications and Websites`.
 
 And don't forget to warn your friends about scams like this and teach them not to trust every link that is placed in front of them. You can learn more about security threats by joining the thriving community on the [Omid's Network Facebook page](https://www.facebook.com/omidsnetwork).

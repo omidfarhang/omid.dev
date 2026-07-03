@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="Reddit-Image1-275x204" border="0" alt="Reddit-Image1-275x204" align="right" src="http://lh5.ggpht.com/-Nwam7e-WsoQ/Tzk3GGTXCeI/AAAAAAAAEvg/KK_ZAiDnvu4/Reddit-Image1-275x204_thumb.jpg?imgmax=800" width="244" height="182" />](http://lh4.ggpht.com/-Y-ovaw-WtAI/Tzk3C5z3FdI/AAAAAAAAEvY/cz4MEDKeTXA/s1600-h/Reddit-Image1-275x204%25255B2%25255D.jpg)Mashable:** Reddit, known for its freewheeling approach to content management, instituted a new rule over the weekend that banned suggestive or sexual content featuring minors. 
+**![Reddit-Image1-275x204](http://lh4.ggpht.com/-Y-ovaw-WtAI/Tzk3C5z3FdI/AAAAAAAAEvY/cz4MEDKeTXA/s1600-h/Reddit-Image1-275x204%25255B2%25255D.jpg)Mashable:** Reddit, known for its freewheeling approach to content management, instituted a new rule over the weekend that banned suggestive or sexual content featuring minors. 
 
 “We have very few rules here on Reddit; no spamming, no cheating, no personal info, nothing illegal, and no interfering the site’s functions,” read a post on the site’s [blog](http://www.reddit.com/r/blog/comments/pmj7f/a_necessary_change_in_policy/) Sunday. “Today we are adding another rule.” 
 

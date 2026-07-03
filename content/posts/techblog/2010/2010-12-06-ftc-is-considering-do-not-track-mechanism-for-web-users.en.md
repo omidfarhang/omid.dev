@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="federal-trade-commission-ftc-logo" border="0" alt="federal-trade-commission-ftc-logo" align="right" src="http://lh3.ggpht.com/_vaUVXcmC3OI/TP1TdQ3I8II/AAAAAAAADYU/tADO-Z0pa9k/federal-trade-commission-ftc-logo_thumb%5B1%5D.png?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP1TbY8euiI/AAAAAAAADYQ/B7408d17rnA/s1600-h/federal-trade-commission-ftc-logo%5B3%5D.png)The U.S. Federal Trade Commission (FTC) has accepted a preliminary staff report that lays out a framework for Internet privacy and suggests a “do not track” mechanism – possibly a persistent cookie installed on browsers.
+![federal-trade-commission-ftc-logo](http://lh5.ggpht.com/_vaUVXcmC3OI/TP1TbY8euiI/AAAAAAAADYQ/B7408d17rnA/s1600-h/federal-trade-commission-ftc-logo%5B3%5D.png)
+
+The U.S. Federal Trade Commission (FTC) has accepted a preliminary staff report that lays out a framework for Internet privacy and suggests a “do not track” mechanism – possibly a persistent cookie installed on browsers.
 
 The agency was careful to point out that the commissioners see privacy measures as a balancing act. The news release quotes FTC chairman Jon Leibowitz:
 

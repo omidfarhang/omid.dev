@@ -50,7 +50,9 @@ The first release on Beat Club was the debut album by Bubba Sparxxx in September
 
 ##### 2003–2005
 
-[![11736047-11736049-large](/images/2008/04/11736047-11736049-large.jpg)](/images/2008/04/11736047-11736049-large.jpg)Timbaland contributed three tracks to Tweet’s debut album, _Southern Hummingbird,_ and produced most of Elliott’s fourth and fifth LPs, _Under Construction_ and _This Is Not A Test!_. He also produced tracks for artists such as Lil’ Kim (“The Jump Off”) and southern rapper Pastor Troy during this period. Collaborating with fellow producer Scott Storch, Timbaland also worked on a number of tracks on former *NSYNC lead singer Justin Timberlake’s solo debut, _Justified_, including the song “Cry Me a River”.
+[![11736047-11736049-large](/images/2008/04/11736047-11736049-large.jpg)](/images/2008/04/11736047-11736049-large.jpg)
+
+Timbaland contributed three tracks to Tweet’s debut album, _Southern Hummingbird,_ and produced most of Elliott’s fourth and fifth LPs, _Under Construction_ and _This Is Not A Test!_. He also produced tracks for artists such as Lil’ Kim (“The Jump Off”) and southern rapper Pastor Troy during this period. Collaborating with fellow producer Scott Storch, Timbaland also worked on a number of tracks on former *NSYNC lead singer Justin Timberlake’s solo debut, _Justified_, including the song “Cry Me a River”.
 
 Late in 2003, Timbaland delivered the second Bubba Sparxxx album, _Deliverance_, and the third Timbaland & Magoo album, _Under Construction, Part II._ Both albums were released to little fanfare or acclaim even though _Deliverance_ was praised by reviews and embraced by the internet community.
 
@@ -66,7 +68,9 @@ In early 2007, Timbaland was accused of plagiarism regarding his work on the Nel
 
 Timbaland provides vocals on the singles the Pussycat Dolls's “Wait a Minute”, Nelly Furtado's “Promiscuous” and “Ice Box” by Omarion, all of which climbed the U.S. charts. In an interview published in August 2006 in the UK, Timbaland revealed he was working on a new LP by Jay-Z and that he had been working on tracks with Coldplay’s Chris Martin.
 
-[![timbaland-nelly-furtado-justin-timberlake-400a](/images/2008/04/timbaland-nelly-furtado-justin-timberlake-400a-300x300.jpg)](/images/2008/04/timbaland-nelly-furtado-justin-timberlake-400a.jpg)Timbaland worked on seven songs for Björk’s new album, including “Earth Intruders”, “Hope”, and “Innocence”, and he later worked on tracks for the new Duran Duran album, _Red Carpet Massacre_, including one featuring his frequent collaborator Justin Timberlake. Later in the year, Timbaland produced songs for Bone Thugs N Harmony's LP, _Strength & Loyalty_ and the song “Ayo Technology” on 50 Cent’s album _Curtis_. Timbaland also produced most of the tracks on Ashlee Simpson's third CD, _Bittersweet World_, including the song “Outta My Head (Ay Ya Ya)”.
+[![timbaland-nelly-furtado-justin-timberlake-400a](/images/2008/04/timbaland-nelly-furtado-justin-timberlake-400a-300x300.jpg)](/images/2008/04/timbaland-nelly-furtado-justin-timberlake-400a.jpg)
+
+Timbaland worked on seven songs for Björk’s new album, including “Earth Intruders”, “Hope”, and “Innocence”, and he later worked on tracks for the new Duran Duran album, _Red Carpet Massacre_, including one featuring his frequent collaborator Justin Timberlake. Later in the year, Timbaland produced songs for Bone Thugs N Harmony's LP, _Strength & Loyalty_ and the song “Ayo Technology” on 50 Cent’s album _Curtis_. Timbaland also produced most of the tracks on Ashlee Simpson's third CD, _Bittersweet World_, including the song “Outta My Head (Ay Ya Ya)”.
 
 On April 3, 2007, Timbaland released a collaboration album featuring artists such as 50 Cent, Dr. Dre, Elton John, Fall Out Boy, Nelly Furtado, Missy Elliott, and others called _Timbaland Presents Shock Value_. The first single, “Give It to Me” featuring Nelly Furtado and Timberlake, topped Billboard’s Hot 100 chart and received a nomination for the Grammy Award for Best Pop Collaboration with Vocals. The fourth single from the album, a remix of the OneRepublic song “Apologize”, was on the Billboard Hot 100 for 28 weeks.
 
@@ -76,7 +80,9 @@ In November 2007, it was confirmed that Timbaland has become a father to a baby 
 
 ##### 2008–present
 
-[![blog9-madonna-timbaland](/images/2008/04/blog9-madonna-timbaland-283x300.jpg)](/images/2008/04/blog9-madonna-timbaland.jpg)Timbaland helped produce Madonna's new album, _Hard Candy_. _Bittersweet World_ by Ashlee Simpson, and other untitled albums and songs by such artists as Chris Cornell, Beyonce, Teairra Mari, Keithian, The Pussycat Dolls, Nicole Scherzinger, Missy Elliott, Jennifer Hudson, and Sugababes. He produced several songs for Usher's new album, _Here I Stand_. Timbaland also produced some of the tracks on Swedish singer Robyn's self-titled album set for released on April 29, 2008 in the United States.
+[![blog9-madonna-timbaland](/images/2008/04/blog9-madonna-timbaland-283x300.jpg)](/images/2008/04/blog9-madonna-timbaland.jpg)
+
+Timbaland helped produce Madonna's new album, _Hard Candy_. _Bittersweet World_ by Ashlee Simpson, and other untitled albums and songs by such artists as Chris Cornell, Beyonce, Teairra Mari, Keithian, The Pussycat Dolls, Nicole Scherzinger, Missy Elliott, Jennifer Hudson, and Sugababes. He produced several songs for Usher's new album, _Here I Stand_. Timbaland also produced some of the tracks on Swedish singer Robyn's self-titled album set for released on April 29, 2008 in the United States.
 
 On February 8, 2008, it was announced that Timbaland would be releasing an album solely on a mobile platform for Verizon Wireless's V CAST cell phone service and was designated its very first “Mobile Producer in Residence.” Timbaland will be joined by Mosley Music Group/Zone 4 singer/songwriter Keri Hilson to begin work on the mobile album’s first track aboard the fully-equipped Mobile Recording Studio. The only track to surface so far is “Get It Girl.” In his first effort within the video game industry, he is working with Rockstar Games to produce _Beaterator_, a music mixing game for the PlayStation Portable to be released in the summer of 2009.
 

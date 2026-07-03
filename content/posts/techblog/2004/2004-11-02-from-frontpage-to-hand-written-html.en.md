@@ -66,7 +66,7 @@ You do not need to abandon FrontPage. You need to read what it generates:
 </head>
 <body>
   <h1>Services</h1>
-  <p>Clear structure now means easier redesign later.</p>
+  <p>Clear structure now means easier redesign later.
 </body>
 </html>
 ```

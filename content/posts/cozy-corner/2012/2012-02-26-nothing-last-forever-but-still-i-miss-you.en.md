@@ -11,7 +11,9 @@ tags:
 categories: 
   - Cozy Corner
 ---
-[<img class="alignright  wp-image-127" alt="passfail-small[10]" src="/images/2013/03/passfail-small10.jpg" width="215" height="176" srcset="/images/sites/2/2013/03/passfail-small10.jpg 307w, /images/sites/2/2013/03/passfail-small10-300x245.jpg 300w" sizes="(max-width: 215px) 100vw, 215px" />](/images/2013/03/passfail-small10.jpg)Finally first level of my German class at Goethe-Institut finished (<a href="/2011/11/finally-goethe.html" target="_blank">Read here when it begin</a>) and I’m so sad, I will miss all my great classmate and teacher, we have been a great group, really a perfect group together and it was not easy to say Bye.
+![passfail-small](/images/2013/03/passfail-small10.jpg)
+
+Finally first level of my German class at Goethe-Institut finished ([Read here when it begin](/2011/11/finally-goethe.html)) and I’m so sad, I will miss all my great classmate and teacher, we have been a great group, really a perfect group together and it was not easy to say Bye.
 
 I passed the A1.1 level with “satisfactory” score (Evaluation), yeah I know I could do better but… I will try to practice at home too for the next level.
 

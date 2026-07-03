@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="tpb" border="0" alt="tpb" align="left" src="http://lh4.ggpht.com/_vaUVXcmC3OI/S_RMRwHMd9I/AAAAAAAACRE/oVQlTX0QcrI/tpb_thumb%5B2%5D.jpg?imgmax=800" width="260" height="182" />](http://lh4.ggpht.com/_vaUVXcmC3OI/S_RMPZZmdFI/AAAAAAAACRA/ncH8aHHVIH0/s1600-h/tpb%5B4%5D.jpg) Yesterday, the Pirate Bay [went down](http://torrentfreak.com/the-pirate-bay-goes-down-following-legal-pressure-100517/) following pressure from the RIAA, which threatened to slap TPB’s hosting provider with huge fines. 
+![tpb](http://lh4.ggpht.com/_vaUVXcmC3OI/S_RMPZZmdFI/AAAAAAAACRA/ncH8aHHVIH0/s1600-h/tpb%5B4%5D.jpg) Yesterday, the Pirate Bay [went down](http://torrentfreak.com/the-pirate-bay-goes-down-following-legal-pressure-100517/) following pressure from the RIAA, which threatened to slap TPB’s hosting provider with huge fines. 
 
 We predicted The Pirate Bay’s downfall ages ago, but it still hasn’t happened. Things have been looking grim for the file-sharing service for a while. First, there was the lawsuit from the entertainment industry that left the Pirate Bay’s team scattered and [struggling](http://thepiratebay.org/blog/151) to stay the course it charted for itself. Then the news that the entire service was to be sold (the sale never happened) to a Swedish Gaming Company seemed to have scattered the Pirate Bay’s fans, too. 
 

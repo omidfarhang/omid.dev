@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="IE-9" border="0" alt="IE-9" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TVR5K475weI/AAAAAAAADkI/DrkcpPyoybs/IE-9_thumb%5B1%5D.jpg?imgmax=800" width="504" height="303" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TVR5HrhiSAI/AAAAAAAADkE/DMKm4_M6_x4/s1600-h/IE-9%5B3%5D.jpg)
+![IE-9](http://lh5.ggpht.com/_vaUVXcmC3OI/TVR5HrhiSAI/AAAAAAAADkE/DMKm4_M6_x4/s1600-h/IE-9%5B3%5D.jpg)
 
 Before IE developers held a press conference in San Francisco to unveil the RC version of IE 9 this morning, Microsoft has released the RC for download [here](http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-Windows7-x86-enu.exe) (x86) and [here](http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-Windows7-x64-enu.exe) (x64).
 

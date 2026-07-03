@@ -1,5 +1,5 @@
 ---
-title: "It takes only one &#8216;nice' person"
+title: "It takes only one ‘nice' person"
 date: 2010-03-25T11:13:00+00:00
 layout: single
 author_profile: true

@@ -16,7 +16,9 @@ TheRegister.co.uk wrote:
 
 **Attack Surface Analyzer explains what apps do to your beautiful Windows installation** 
 
-<a href="http://lh5.ggpht.com/-64E9pqTXNWI/UBuJZs836OI/AAAAAAAAG1c/r--4tl4zuhA/s1600-h/Microsoft_Logo%25255B2%25255D.png" target="_blank"><img title="Microsoft_Logo" border="0" alt="Microsoft_Logo" align="right" src="http://lh3.ggpht.com/-qwRgg8oNmPg/UBuJbGGfJOI/AAAAAAAAG1k/NCj1WHctelE/Microsoft_Logo_thumb.png?imgmax=800" width="200" height="34" /></a>Developers, developers …. *&^%%!!# developers who break Windows! 
+![Microsoft_Logo](http://lh5.ggpht.com/-64E9pqTXNWI/UBuJZs836OI/AAAAAAAAG1c/r--4tl4zuhA/s1600-h/Microsoft_Logo%25255B2%25255D.png)
+
+Developers, developers …. *&^%%!!# developers who break Windows! 
 
 That may well be a refrain that motivated Redmond to release a new software tool, Surface Analyzer 1.0, which explains how new apps impact Windows’ ability to repel the various varieties of naughtyware. 
 

@@ -22,7 +22,7 @@ The spam email has subject line “IRAN Nuclear BOMB!” and spoofed headers. Th
 
 Below is screenshot of the email and website that downloads the threat:
 
-[<img title="WikiLeaks" border="0" alt="WikiLeaks" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TP7CZ-4_yrI/AAAAAAAADcE/hxAO98LFWPU/WikiLeaks_thumb%5B2%5D.jpg?imgmax=800" width="500" height="493" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7CWkbUIaI/AAAAAAAADcA/CA_CViCY1ps/s1600-h/WikiLeaks%5B4%5D.jpg)
+![WikiLeaks](http://lh5.ggpht.com/_vaUVXcmC3OI/TP7CWkbUIaI/AAAAAAAADcA/CA_CViCY1ps/s1600-h/WikiLeaks%5B4%5D.jpg)
 
 W32.Spyrat opens a backdoor using a predetermined port and IP address, allowing an attacker to perform the following actions on the compromised computer:
 

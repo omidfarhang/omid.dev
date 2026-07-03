@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="binary-iran-170" border="0" alt="binary-iran-170" align="right" src="http://lh3.ggpht.com/-7L9s3XfQD9E/T6KMjC3EhSI/AAAAAAAAF2o/h1w9qgvmPW4/binary-iran-170_thumb.jpg?imgmax=800" width="170" height="170" />](http://lh4.ggpht.com/-2K9ieOBJfOA/T6KMgu5z8KI/AAAAAAAAF2g/UECmXPSazoA/s1600-h/binary-iran-170%25255B2%25255D.jpg)<a href="http://nakedsecurity.sophos.com/2012/05/03/iran-builds-anti-virus-software/" target="_blank">SophosLabs</a>: According to [reports](http://en.trend.az/regions/iran/2021650.html), Iran has started making its own anti-virus software. 
+![binary-iran-170](http://lh4.ggpht.com/-2K9ieOBJfOA/T6KMgu5z8KI/AAAAAAAAF2g/UECmXPSazoA/s1600-h/binary-iran-170%25255B2%25255D.jpg)
+
+[SophosLabs](http://nakedsecurity.sophos.com/2012/05/03/iran-builds-anti-virus-software/): According to [reports](http://en.trend.az/regions/iran/2021650.html), Iran has started making its own anti-virus software. 
 
 It is said that experts from Shiraz Computer Emergency Response Team of APA (Academic Protection and Awareness) of Iran have been working on the project to help better protect the country's digital defenses. 
 
@@ -21,7 +23,7 @@ Of course, Iran is no stranger to malware. It found itself thrust into the spotl
 
 This understandably led to some excitable – but not always accurate – headlines. 
 
-[<img title="standard-stuxnet1" border="0" alt="standard-stuxnet1" src="http://lh4.ggpht.com/-RzFGtnmbr6c/T6KMmxXC1nI/AAAAAAAAF24/qNjZcnC2Dg8/standard-stuxnet1_thumb.jpg?imgmax=800" width="499" height="220" />](http://lh3.ggpht.com/-SemWoYYvFZk/T6KMk67ZTPI/AAAAAAAAF2w/rausV6dvXnM/s1600-h/standard-stuxnet1%25255B2%25255D.jpg) 
+![standard-stuxnet1](http://lh3.ggpht.com/-SemWoYYvFZk/T6KMk67ZTPI/AAAAAAAAF2w/rausV6dvXnM/s1600-h/standard-stuxnet1%25255B2%25255D.jpg) 
 
 According to Mohammad Hossein Sheikhi, assistant professor of the Department of Electrical and Computer Engineering at the University of Shiraz, work on the anti-virus software began in 2010 after the Stuxnet crisis, and has since undergone testing. 
 

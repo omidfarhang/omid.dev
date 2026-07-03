@@ -12,7 +12,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="" border="0" alt="" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TMHkhS73PnI/AAAAAAAAC2k/6B6Q1Nlff_4/adobe-logo_thumb%5B3%5D.jpg?imgmax=800" width="150" height="150" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TMHkfTreoxI/AAAAAAAAC2g/JqzGGzgydoo/s1600-h/adobe-logo%5B5%5D.jpg)Windows is an attractive platform for the malware writers, in part, because of the sheer number of users. As Microsoft creep towards making their offerings more secure, applications are increasingly becoming the focus for vulnerability exploitation.
+![adobe-logo%5B5%5D](http://lh5.ggpht.com/_vaUVXcmC3OI/TMHkfTreoxI/AAAAAAAAC2g/JqzGGzgydoo/s1600-h/adobe-logo%5B5%5D.jpg)
+
+Windows is an attractive platform for the malware writers, in part, because of the sheer number of users. As Microsoft creep towards making their offerings more secure, applications are increasingly becoming the focus for vulnerability exploitation.
 
 Like Windows, Adobe products are a default software choice for most users. The bad guys know this and realize that its profitable to scrutinize their applications for exploitable vulnerabilities and create malware to take advantage of the fact.
 

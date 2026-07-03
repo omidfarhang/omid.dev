@@ -23,13 +23,13 @@ The “**Robin Williams goodbye video**” started to circulate on Facebook and 
 
 [![Robin Williams goodbye video](/images/2014/08/Robin-Williams-goodbye-video.jpg)](/images/2014/08/Robin-Williams-goodbye-video.jpg)
 
-&nbsp;
+
 
 Do not open any app offering to change your Facebook’s color because it is a scam. The Facebook color blue may be getting a little boring for some and may like a change; this is where a new web app could come in handy.
 
 If you come across the “[Facebook color changer](http://www.onlinesocialmedia.net/20140808/facebook-profile-color-changer-scam-awareness/)” or “**Facebook Colour Changer**” DO NOT open this at all, it will hijack peoples Facebook accounts. It has already been reported it has accessed over 10,000 FB accounts so far; this is malicious software done in two steps. The first step process is when users click to allow the app access to the users Facebook profile, the second step is where the first step has been declined and asks the user to download anti-virus software.
 
-&nbsp;
+
 
 [![Facebook profile color changer scam](/images/2014/08/Facebook-profile-color-changer-scam.jpg)](/images/2014/08/Facebook-profile-color-changer-scam.jpg)
 

@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="facebook(low)" border="0" alt="facebook(low)" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TN07vI5LcPI/AAAAAAAADIo/6BIoX-XbFTI/facebook%28low%29_thumb.jpg?imgmax=800" width="195" height="59" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TN07tQwI1LI/AAAAAAAADIk/pMAWtekJTUE/s1600-h/facebook%28low%29%5B2%5D.jpg)Mashable:** Facebook’s running out of servers to handle its [500+ million users](http://mashable.com/2010/07/21/facebook-500-million-2/), so it has decided to build a new data center in North Carolina that will cost a whopping $450 million to complete. 
+**![facebook(low)](http://lh3.ggpht.com/_vaUVXcmC3OI/TN07tQwI1LI/AAAAAAAADIk/pMAWtekJTUE/s1600-h/facebook%28low%29%5B2%5D.jpg)Mashable:** Facebook’s running out of servers to handle its [500+ million users](http://mashable.com/2010/07/21/facebook-500-million-2/), so it has decided to build a new data center in North Carolina that will cost a whopping $450 million to complete. 
 
 The announcement was made by North Carolina Gov. Bev Perdue, who said that the facility will take 18 months to complete and will employ 35 to 45 workers to operate (not including the 250 jobs that will be created during its construction). It is being built in Rutherford County, which is to the west of Charlotte.
 

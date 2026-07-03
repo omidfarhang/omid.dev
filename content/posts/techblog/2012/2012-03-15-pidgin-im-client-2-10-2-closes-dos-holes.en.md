@@ -13,7 +13,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="pidgin_logo200" border="0" alt="pidgin_logo200" align="right" src="http://lh3.ggpht.com/-5c4OwKVk6VM/T2JPFLrUE_I/AAAAAAAAFLE/oj96farkQS4/pidgin_logo200_thumb%25255B1%25255D.png?imgmax=800" width="200" height="92" />](http://lh4.ggpht.com/-icxB_nzfGWo/T2JPAe00III/AAAAAAAAFK8/J2efVwuok8Q/s1600-h/pidgin_logo200%25255B3%25255D.png)The H-Online: Version 2.10.2 of the open source [Pidgin](http://pidgin.im/) instant messaging program has been released. According to its developers, the maintenance and security update brings a number of changes and addresses two denial-of-service (DoS) vulnerabilities that could be exploited by an attacker to cause the application to be terminated. 
+![pidgin_logo200](http://lh4.ggpht.com/-icxB_nzfGWo/T2JPAe00III/AAAAAAAAFK8/J2efVwuok8Q/s1600-h/pidgin_logo200%25255B3%25255D.png)
+
+The H-Online: Version 2.10.2 of the open source [Pidgin](http://pidgin.im/) instant messaging program has been released. According to its developers, the maintenance and security update brings a number of changes and addresses two denial-of-service (DoS) vulnerabilities that could be exploited by an attacker to cause the application to be terminated. 
 
 These remote crashes are caused when the MSN server sends messages that are not [UTF-8](http://en.wikipedia.org/wiki/UTF-8) encoded and also when some types of nickname changes occur in chat rooms using the [XMPP](http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) protocol. Versions up to and including 2.10.1 are affected. Pidgin 2.10.2 fixes these issues and all users are advised to upgrade. 
 

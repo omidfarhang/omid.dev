@@ -22,4 +22,4 @@ Evian’s wildly successful viral campaign has surpassed 100 million total views
 
 Now according to [Social Times](http://www.socialtimes.com/2010/04/evian%E2%80%99s-roller-babies-viral-campaign-headed-for-television/), the campaign has debuted on Los Angeles TV stations and will run in New York sometime this summer. The company will also air the commercials in other countries, including France and the UK. 
 
-The Evian Roller Babies showed advertisers that viral videos have tremendous reach. Hopefully we’ll see more advertisers take their ads to the YouTube masses first before pushing them out on the far more expensive TV airwaves. </p>
+The Evian Roller Babies showed advertisers that viral videos have tremendous reach. Hopefully we’ll see more advertisers take their ads to the YouTube masses first before pushing them out on the far more expensive TV airwaves.

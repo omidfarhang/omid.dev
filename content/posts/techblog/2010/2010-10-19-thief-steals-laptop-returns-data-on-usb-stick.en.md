@@ -13,7 +13,9 @@ categories:
 ---
 **A university professor in Sweden has “hope for humanity” after the thief who stole his laptop backed up all his data and mailed it to him on a USB stick.**
 
-[<img title="25564" border="0" alt="25564" align="right" src="http://lh5.ggpht.com/_vaUVXcmC3OI/TL37W5qYlpI/AAAAAAAACxU/F02AnkPKKOk/25564_thumb%5B2%5D.jpg?imgmax=800" width="154" height="114" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TL37Ubul27I/AAAAAAAACxQ/xGEyLohnWjg/s1600-h/25564%5B4%5D.jpg)Having your laptop stolen sucks, but what really hurts is the loss of everything on it. Whether it's family vacation photos or the sum total of your life's work, that's stuff that you just can't get back unless you're seriously conscientious about making backups. And come on, who does that? So when a Swedish professor discovered that somebody had swiped his laptop, he was understandably crushed.
+![25564](http://lh4.ggpht.com/_vaUVXcmC3OI/TL37Ubul27I/AAAAAAAACxQ/xGEyLohnWjg/s1600-h/25564%5B4%5D.jpg)
+
+Having your laptop stolen sucks, but what really hurts is the loss of everything on it. Whether it's family vacation photos or the sum total of your life's work, that's stuff that you just can't get back unless you're seriously conscientious about making backups. And come on, who does that? So when a Swedish professor discovered that somebody had swiped his laptop, he was understandably crushed.
 
 The anonymous professor, who'd recently undergone surgery, decided to leave his backpack, containing keys, credit cards, various documents and his laptop, behind a door in the stairwell of his building while he popped into the laundry room. Bad move: When he returned, it was gone.
 

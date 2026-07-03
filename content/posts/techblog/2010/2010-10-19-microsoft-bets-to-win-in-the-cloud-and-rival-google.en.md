@@ -15,7 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-[<img title="_49573585_img_7021" border="0" alt="_49573585_img_7021" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TL30eyvFUXI/AAAAAAAACw8/ekvoJCPQX4I/_49573585_img_7021_thumb%5B3%5D.jpg?imgmax=800" width="308" height="175" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TL30dUGxfqI/AAAAAAAACw4/UnV6wKicWRk/s1600-h/_49573585_img_7021%5B5%5D.jpg)Microsoft has ramped up its battle with Google in wooing business customers with its next generation cloud-based product.
+![_49573585_img_7021](http://lh4.ggpht.com/_vaUVXcmC3OI/TL30dUGxfqI/AAAAAAAACw4/UnV6wKicWRk/s1600-h/_49573585_img_7021%5B5%5D.jpg)
+
+Microsoft has ramped up its battle with Google in wooing business customers with its next generation cloud-based product.
 
 While the software giant dominates the office space with a 94% market share it has been facing increased competition from Google.
 
@@ -43,7 +45,7 @@ For the smallest customer, Office 365 will be available for $6 per user a month.
 
 “They only get paid when people upgrade and this product allows them to get paid on a more consistent basis,” added Ms Fried.
 
-**&#8216;Head to head'**
+**‘Head to head'**
 
 The battle for the office software market has intensified with Google offering its own suite of networked applications.
 

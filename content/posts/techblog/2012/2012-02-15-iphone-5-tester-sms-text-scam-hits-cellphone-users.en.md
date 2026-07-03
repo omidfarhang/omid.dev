@@ -17,9 +17,9 @@ categories:
 
 For instance, there have been numerous people on the internet who have reported receiving messages like the following: 
 
-[<img title="iphone5-text-spam1" border="0" alt="iphone5-text-spam1" src="http://lh3.ggpht.com/-PfAOqe1sX-w/Tzvi5pFZgII/AAAAAAAAEyQ/7Nc3WKrmvTM/iphone5-text-spam1_thumb%25255B6%25255D.jpg?imgmax=800" width="285" height="234" />](http://lh6.ggpht.com/-zCNu0JLGpVw/TzvizTl1WPI/AAAAAAAAEyI/0EQa9aG0Fus/s1600-h/iphone5-text-spam1%25255B5%25255D.jpg) 
+![iphone5-text-spam1](http://lh6.ggpht.com/-zCNu0JLGpVw/TzvizTl1WPI/AAAAAAAAEyI/0EQa9aG0Fus/s1600-h/iphone5-text-spam1%25255B5%25255D.jpg) 
 
-> <tt>Apple needs iPhone5 testers! The first 1000 users who visit [LINK] and enter code 4444 will get to test & keep the new iPhone5.</tt>
+> `Apple needs iPhone5 testers! The first 1000 users who visit [LINK] and enter code 4444 will get to test & keep the new iPhone5.`
 
 Of course, the promotion has nothing to do with Apple (who do not do public tests of their upcoming products), and – as the iPhone 5 hasn't even been announced yet – you have close to zero chance of receiving a free smartphone. 
 

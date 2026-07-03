@@ -18,7 +18,7 @@ Imagine loading Gmail and noticing that all your messages have been deleted. Thi
 
 [The Google Apps Status page](http://www.google.com/appsstatus#rm=1&di=1&hl=en) mentions that “this issue affects less than 0.08% of the Google Mail userbase” and “Google engineers are working to restore full access”. The users that are affected “will be temporarily unable to sign in”.
 
-[<img title="gmail-outage-feb2011" border="0" alt="gmail-outage-feb2011" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TWzc_1l86tI/AAAAAAAADk0/eu89Kq3FdSI/gmail-outage-feb2011_thumb%5B1%5D.png?imgmax=800" width="504" height="289" />](http://lh5.ggpht.com/_vaUVXcmC3OI/TWzc7z0BnbI/AAAAAAAADkw/wEB3SJEPQX4/s1600-h/gmail-outage-feb2011%5B3%5D.png)
+![gmail-outage-feb2011](http://lh5.ggpht.com/_vaUVXcmC3OI/TWzc7z0BnbI/AAAAAAAADkw/wEB3SJEPQX4/s1600-h/gmail-outage-feb2011%5B3%5D.png)
 
 This is a really important problem for Google and one of the biggest Gmail issues ever since Google's email service was released, back in 2004.
 

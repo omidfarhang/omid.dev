@@ -81,7 +81,7 @@ _Affects: Microsoft Office Excel 2002 SP3, Microsoft Office 2004 for Mac, Micros
 **2. [MS10-017](http://www.microsoft.com/technet/security/Bulletin/MS10-017.mspx) Vulnerability in Microsoft Movie Maker Could Allow Remote Code Execution (975561)**  
 **  
 **  
-**CVE-2010-0265**  Microsoft Windows Movie Maker and Producer &#8216;.mswmm' Buffer Overflow Vulnerability (MS Rating: Important)
+**CVE-2010-0265**  Microsoft Windows Movie Maker and Producer ‘.mswmm' Buffer Overflow Vulnerability (MS Rating: Important)
 
 A remote code-execution vulnerability affects Movie Maker and Microsoft Producer when processing specially crafted Movie Maker project files (‘.mswmm’). An attacker can exploit this issue by tricking an unsuspecting victim into opening a malicious Movie Maker project file with the affected application. A successful exploit will result in the execution of arbitrary attacker-supplied code in the context of the currently logged-in user.
 

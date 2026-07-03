@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-**[<img title="ipo" border="0" alt="ipo" align="right" src="http://lh6.ggpht.com/_vaUVXcmC3OI/TL7axeNuYuI/AAAAAAAACx4/jB-IiTBvrj8/ipo_thumb%5B1%5D.jpg?imgmax=800" width="204" height="145" />](http://lh4.ggpht.com/_vaUVXcmC3OI/TL7av1JqYMI/AAAAAAAACx0/4zl-uo2iov8/s1600-h/ipo%5B3%5D.jpg)HAVOC CAUSING** hacker activist group Operation Payback has extended its reach and strangled the life out of the UK Intellectual Property Office's website.
+**![ipo](http://lh4.ggpht.com/_vaUVXcmC3OI/TL7av1JqYMI/AAAAAAAACx0/4zl-uo2iov8/s1600-h/ipo%5B3%5D.jpg)HAVOC CAUSING** hacker activist group Operation Payback has extended its reach and strangled the life out of the UK Intellectual Property Office's website.
 
 Yesterday they apparently took down the MPAA's website in the US, and today, though already busy, they have widened their focus and laid a smackdown on the UK IPO, knocking its website offline.
 

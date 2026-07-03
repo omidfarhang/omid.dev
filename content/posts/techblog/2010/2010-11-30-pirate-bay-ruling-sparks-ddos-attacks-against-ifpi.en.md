@@ -16,7 +16,7 @@ categories:
 ---
 **The Anonymous group takes revenge after legal decision against Pirate Bay founders**
 
-**[<img title="thepiratebay" border="0" alt="thepiratebay" align="right" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TPV7T2l_uhI/AAAAAAAADTY/kigfSBJWUww/thepiratebay_thumb%5B1%5D.png?imgmax=800" width="137" height="150" />](http://lh6.ggpht.com/_vaUVXcmC3OI/TPV7Qus2b6I/AAAAAAAADTU/WW9bXat_-Bs/s1600-h/thepiratebay%5B3%5D.png)v3.co.uk:** An online collective known as Anonymous has carried out a distributed denial-of-service (DDoS) attack on the International Federation of the Phonographic Industry (IFPI) after the trade body welcomed the new court ruling against the founders of The Pirate Bay.
+**![thepiratebay](http://lh6.ggpht.com/_vaUVXcmC3OI/TPV7Qus2b6I/AAAAAAAADTU/WW9bXat_-Bs/s1600-h/thepiratebay%5B3%5D.png)v3.co.uk:** An online collective known as Anonymous has carried out a distributed denial-of-service (DDoS) attack on the International Federation of the Phonographic Industry (IFPI) after the trade body welcomed the new court ruling against the founders of The Pirate Bay.
 
 The [Swedish appeals court decision](http://www.v3.co.uk/v3/news/2273504/pirate-bay-founders-appeal-lose) saw the jail terms of the men reduced but their fines increased in a move that IFPI chief executive Frances Moore argued should be the end of the debate around the issue.
 

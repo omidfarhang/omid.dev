@@ -26,7 +26,7 @@ So what exactly is all the fuss about? Let’s have a look at this example [repo
 
 [![FB](/images/2013/06/FB.png)](/images/2013/06/FB.png)
 
-&nbsp;
+
 
 The fraudulent/spammy posts appear to be from either fake Facebook accounts or ones that were hijacked. The links all seem to have a similar pattern, where the country-code top-level domain name (ccTLD) is “tk”. This ccTLD belongs to Tokelau, a small territory part of New Zealand that’s regarded as a hotbed for all sorts of online fraud. Suricata/Emerging Threats even has a detection rule for “.tk” domains: “ET CURRENT_EVENTS DNS Query to a .tk domain – Likely Hostile”, which sums their trustworthiness rather well.
 

@@ -18,7 +18,7 @@ categories:
 ---
 **LifeHacker:**
 
-[<img title="browsersspeed" border="0" alt="browsersspeed" src="http://lh4.ggpht.com/-WCz-gZj_sYg/TzqjFGQtbCI/AAAAAAAAExQ/HjxtZnO1XpQ/browsersspeed_thumb%25255B2%25255D.jpg?imgmax=800" width="504" height="285" />](http://lh5.ggpht.com/-TmC0LmQo7pM/Tzqi_tv4ZyI/AAAAAAAAExI/_FbbqTNSWko/s1600-h/browsersspeed%25255B4%25255D.jpg)
+![browsersspeed](http://lh5.ggpht.com/-TmC0LmQo7pM/Tzqi_tv4ZyI/AAAAAAAAExI/_FbbqTNSWko/s1600-h/browsersspeed%25255B4%25255D.jpg)
 
 Chrome 17 is out with a new pre-rendering feature designed to make your pages load faster, and both Firefox and Opera have also released speedy new versions since our [last round of speed tests](http://lifehacker.com/5844150/browser-speed-tests-firefox-7-chrome-14-internet-explorer-9-and-more). So, we've once again pitted the four most popular web browsers against each other in a battle of startup times, tab loading times, and more, with more surprising results.
 

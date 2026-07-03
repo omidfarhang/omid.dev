@@ -24,7 +24,7 @@ Messages like the following are being seen:
 
 [![bieber-1](http://lh3.ggpht.com/_vaUVXcmC3OI/TO01QTQ4a0I/AAAAAAAADNs/8Gx9kVBDhGM/bieber-1_thumb%5B2%5D.jpg?imgmax=800 "bieber-1")](http://lh3.ggpht.com/_vaUVXcmC3OI/TO01Nf7w2MI/AAAAAAAADNo/Y-INvyJT7tw/s1600-h/bieber-1%5B4%5D.jpg)
 
-> <tt>WTF !! I just saw that Justin Bieber got erection in a public interview.lol</tt>
+> `WTF !! I just saw that Justin Bieber got erection in a public interview.lol`
 
 Probably not the type of message you would typically click on from your office computer, but maybe a young teenybopping music fan in your household would find the subject matter irresistible to investigate further.
 

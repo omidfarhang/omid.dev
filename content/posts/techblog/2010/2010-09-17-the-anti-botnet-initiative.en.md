@@ -15,7 +15,7 @@ The [Anti-Botnet Initiative](http://www.botfrei.de/) has now been started. The i
 
 There are also two antivirus solutions offered for free to clean up the infected computers. There is an online scanner from Symantec, called DE-Cleaner and there is the Computer Bild Magazine’s DE-Cleaner Rescue system using the Avira anti-malware Technology.
 
-[<img title="anti-botnet-initiative" border="0" alt="anti-botnet-initiative" src="http://lh4.ggpht.com/_vaUVXcmC3OI/TJMYTWYXhGI/AAAAAAAACdM/uegP5Xrx_Nw/anti-botnet-initiative_thumb%5B1%5D.png?imgmax=800" width="304" height="266" />](http://lh3.ggpht.com/_vaUVXcmC3OI/TJMYPzEQjDI/AAAAAAAACdI/4jQpP9ViG-E/s1600-h/anti-botnet-initiative%5B3%5D.png)
+![anti-botnet-initiative](http://lh3.ggpht.com/_vaUVXcmC3OI/TJMYPzEQjDI/AAAAAAAACdI/4jQpP9ViG-E/s1600-h/anti-botnet-initiative%5B3%5D.png)
 
 The difference between the two solutions is pretty straight forward: The first one is a windows program which scans the hard drives while Windows is active, while the other one is a bootable Linux CD which allows the user to start a scan and clean all harddisk partitions while Windows is not running. The advantage of the second method is that it offers the possibility to detect for example rootkits that might be running within Windows and hide malware inside the operating system. While running the Linux from the rescue system, Windows is completely inactive (not as in Safe mode) so the rootkits are also not active. This is actually the only reliable possibility to detect rootkits.
 
