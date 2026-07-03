@@ -343,6 +343,14 @@
     };
 </script>
 
+{{- $dropdown := resources.Get "js/dropdown.js" | js.Build | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting -}}
+{{- $dropdown = $dropdown | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $dropdown.RelPermalink }}" integrity="{{ $dropdown.Data.Integrity }}"></script>
+{{- else -}}
+<script defer crossorigin="anonymous" src="{{ $dropdown.RelPermalink }}"></script>
+{{- end -}}
+
 {{- $notesSection := site.Params.notesSection | default "notes" -}}
 {{- $hasNotes := gt (len (where site.RegularPages "Section" $notesSection)) 0 -}}
 {{- if $hasNotes -}}

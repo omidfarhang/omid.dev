@@ -1,20 +1,18 @@
 /* Menus — site-wide opt-in primitive (dropdown)
    Used by: post meta share/translations (`.dropdown`)
-   Layout/polish in: post-single.css (article-meta share grid)
+   Layout/polish in: post-single.css (article-meta chip menus)
 */
 
 .dropdown {
     position: relative;
 }
 
-.dropdown__trigger,
-.dropdown-btn {
+.dropdown__trigger {
     cursor: pointer;
     font-family: inherit;
 }
 
-.dropdown__trigger:not(.chip),
-.dropdown-btn:not(.chip) {
+.dropdown__trigger:not(.chip) {
     display: flex;
     align-items: center;
     gap: var(--space-2);
@@ -27,26 +25,25 @@
     transition: var(--transition-base);
 }
 
-.dropdown__trigger:not(.chip):hover,
-.dropdown-btn:not(.chip):hover {
+.dropdown__trigger:not(.chip):hover {
     background: var(--border);
     border-color: var(--secondary);
 }
 
-.dropdown__trigger i:first-child,
-.dropdown-btn i:first-child {
+.dropdown__trigger:not(.chip) i:first-child {
     color: var(--accent);
     font-size: var(--text-base);
 }
 
-.dropdown__menu,
-.dropdown-content {
+.dropdown__menu {
     display: none;
     position: absolute;
-    top: calc(100% + 10px);
-    right: 0;
+    top: calc(100% + var(--space-2));
+    inset-inline-end: 0;
     z-index: 100;
-    min-width: 180px;
+    width: max-content;
+    min-width: 200px;
+    max-width: min(330px, calc(100vw - var(--space-6)));
     padding: var(--space-2) 0;
     overflow: hidden;
     border: 1px solid var(--border);
@@ -55,20 +52,17 @@
     box-shadow: var(--shadow-lg);
 }
 
-.dropdown.active .dropdown__menu,
-.dropdown.active .dropdown-content {
+[dir="rtl"] .dropdown__menu {
+    inset-inline-start: 0;
+    inset-inline-end: auto;
+}
+
+.dropdown.active .dropdown__menu {
     display: block;
     animation: dropdown-slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-[dir="rtl"] .dropdown__menu,
-[dir="rtl"] .dropdown-content {
-    right: auto;
-    left: 0;
-}
-
-.dropdown__item,
-.dropdown-content a:not(.chip) {
+.dropdown__item:not(.chip) {
     display: flex;
     align-items: center;
     gap: var(--space-3);
@@ -79,16 +73,39 @@
     transition: var(--transition-base);
 }
 
-.dropdown__item:hover,
-.dropdown-content a:not(.chip):hover {
+.dropdown__item:not(.chip):hover {
     background-color: var(--quaternary);
     color: var(--accent);
 }
 
-.dropdown__menu .chip,
-.dropdown-content .chip {
+/* Chip-based menu variant — grid/flex layout set by consumer context */
+.dropdown__menu--chips {
+    display: none;
+    gap: var(--space-2);
+    padding: var(--space-3);
+    overflow: visible;
+}
+
+.dropdown.active .dropdown__menu--chips {
+    display: grid;
+    grid-template-columns: 1fr;
+    animation: dropdown-slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.dropdown__menu--chips .chip {
     justify-content: flex-start;
     width: 100%;
+    min-width: 0;
+}
+
+.dropdown__chevron {
+    font-size: 10px;
+    opacity: 0.7;
+    transition: transform 0.2s ease;
+}
+
+.dropdown.active .dropdown__chevron {
+    transform: rotate(180deg);
 }
 
 @keyframes dropdown-slide-up {

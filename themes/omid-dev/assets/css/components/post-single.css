@@ -116,21 +116,21 @@
     position: relative;
 }
 
-.meta-share .dropdown-content i {
+.meta-share .dropdown__menu i {
     width: 20px;
     text-align: center;
 }
 
-.meta-share .dropdown-content i.fa-share-nodes {
+.meta-share .dropdown__menu i.fa-share-nodes {
     color: var(--accent);
 }
 
-.meta-share .dropdown-content [data-brand] i {
+.meta-share .dropdown__menu [data-brand] i {
     color: var(--brand-color);
 }
 
-.meta-share .dropdown-content a[data-brand]:hover,
-.meta-share .dropdown-content a[data-brand]:hover i {
+.meta-share .dropdown__menu a[data-brand]:hover,
+.meta-share .dropdown__menu a[data-brand]:hover i {
     color: var(--brand-color);
 }
 
@@ -419,64 +419,55 @@ img.in-text {
     border: 0;
 }
 
-.article-meta .meta-share .dropdown-content {
-    display: none;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: var(--space-2);
+.article-meta .dropdown__menu--chips {
     inset-inline-end: 0;
     inset-inline-start: auto;
-    right: 0;
-    left: auto;
-    min-width: 330px;
+    min-width: 220px;
     max-width: min(330px, calc(100vw - 48px));
-    padding: var(--space-3);
-    overflow: visible;
     background: var(--surface-raised);
     border-color: var(--accent-border-soft);
     border-radius: var(--radius-lg);
 }
 
-[dir="rtl"] .article-meta .meta-share .dropdown-content {
+[dir="rtl"] .article-meta .dropdown__menu--chips {
     inset-inline-start: 0;
     inset-inline-end: auto;
-    left: 0;
-    right: auto;
 }
 
-.article-meta .meta-share.dropdown.active .dropdown-content {
-    display: grid;
+.article-meta .meta-share .dropdown__menu--chips {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.article-meta .meta-share .dropdown-content a {
+.article-meta .dropdown__menu--chips .chip {
     min-width: 0;
     font-size: var(--text-ui-sm);
     font-weight: var(--font-bold);
 }
 
-.article-meta .meta-share .dropdown-content a:not([data-brand]):hover {
+.article-meta .meta-share .dropdown__menu--chips .chip:not([data-brand]):hover {
     color: var(--accent);
 }
 
-.article-meta .meta-share .dropdown-content a[data-brand]:hover,
-.article-meta .meta-share .dropdown-content a[data-brand]:hover i {
+.article-meta .meta-share .dropdown__menu--chips .chip[data-brand]:hover,
+.article-meta .meta-share .dropdown__menu--chips .chip[data-brand]:hover i {
     color: var(--brand-color);
 }
 
-.article-meta .meta-share .dropdown-content i {
+.article-meta .meta-share .dropdown__menu--chips i {
     flex-shrink: 0;
     width: 18px;
     text-align: center;
 }
 
-.article-meta .meta-share .dropdown-content a:not([data-brand]) i {
+.article-meta .meta-share .dropdown__menu--chips .chip:not([data-brand]) i {
     color: var(--accent);
 }
 
-.article-meta .meta-share .dropdown-content [data-brand] i {
+.article-meta .meta-share .dropdown__menu--chips [data-brand] i {
     color: var(--brand-color);
 }
 
-.article-meta .meta-share .dropdown-content span {
+.article-meta .dropdown__menu--chips span {
     flex: 1 1 auto;
     min-width: 0;
     overflow: hidden;
@@ -732,24 +723,30 @@ img.in-text {
         position: relative;
     }
 
-    .article-meta .meta-share {
-        flex: 1 1 100%;
+    .article-meta .meta-right .dropdown {
+        position: static;
     }
 
-    .article-meta .meta-share .dropdown-content {
+    .article-meta .meta-translations,
+    .article-meta .meta-share {
+        flex: 1 1 auto;
+    }
+
+    .article-meta .meta-right .dropdown.active .dropdown__menu--chips {
+        position: absolute;
+        top: 100%;
         inset-inline: 0;
-        left: 0;
-        right: 0;
-        width: 100%;
+        margin-top: var(--space-2);
+        width: auto;
         min-width: 0;
         max-width: none;
         grid-template-columns: 1fr;
     }
 
-    [dir="rtl"] .article-meta .meta-share .dropdown-content {
-        inset-inline: 0;
-        left: 0;
-        right: 0;
+    .article-meta .dropdown__menu--chips span {
+        overflow: visible;
+        text-overflow: unset;
+        white-space: normal;
     }
 
     .article-body .post-content .card--companion {
@@ -760,12 +757,6 @@ img.in-text {
     .companion-card__actions {
         grid-column: 2;
         justify-content: flex-start;
-    }
-
-    .article-meta .meta-share .dropdown-content span {
-        overflow: visible;
-        text-overflow: unset;
-        white-space: normal;
     }
 }
 
