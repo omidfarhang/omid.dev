@@ -49,5 +49,26 @@
       {{- $images = $images | append $url -}}
     {{- end -}}
   {{- end -}}
+  {{- /* Inline markdown and HTML images from post content. */ -}}
+  {{- range findRE `!\[[^\]]*\]\(([^)]+)\)` $page.RawContent -}}
+    {{- $src := strings.TrimSpace (replaceRE `!\[[^\]]*\]\(([^)]+)\)` "$1" .) -}}
+    {{- if $src -}}
+      {{- $parsed := urls.Parse $src -}}
+      {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+      {{- if not (in $images $url) -}}
+        {{- $images = $images | append $url -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range findRE `<img[^>]+src=["']([^"']+)["']` $page.Content -}}
+    {{- $src := strings.TrimSpace (replaceRE `<img[^>]+src=["']([^"']+)["']` "$1" .) -}}
+    {{- if $src -}}
+      {{- $parsed := urls.Parse $src -}}
+      {{- $url := cond (ne $parsed.Scheme "") $src ($src | absURL) -}}
+      {{- if not (in $images $url) -}}
+        {{- $images = $images | append $url -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 {{- return $images -}}
