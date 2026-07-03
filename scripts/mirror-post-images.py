@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import gzip
 import hashlib
 import json
 import os
@@ -39,6 +40,8 @@ IMAGE_EXT_RE = re.compile(r"\.(jpe?g|png|gif|webp|svg|bmp|tiff?)(\?|#|$)", re.IG
 BLOGGER_SIZE_H_RE = re.compile(r"/s(\d+)-h/")
 KNOWN_IMAGE_HOSTS = ("ggpht.com", "blogspot.com", "googleusercontent.com", "imgur.com")
 USER_AGENT = "omid.dev-image-mirror/1.0 (+https://omid.dev)"
+WAYBACK_AVAILABLE_API = "https://archive.org/wayback/available?url={url}"
+WAYBACK_CDX_API = "http://web.archive.org/cdx/search/cdx"
 
 
 @dataclass(frozen=True)
@@ -423,22 +426,149 @@ def is_valid_image_file(path: Path) -> bool:
     return is_image_bytes(header)
 
 
-def fetch_image_data(url: str, timeout: float, *, depth: int = 0) -> bytes:
-    if depth > 3:
-        raise ValueError("too many hops while resolving image URL")
+_wayback_cache: dict[str, tuple[str | None, str | None]] = {}
+_cdx_cache: dict[str, list[tuple[str, str]]] = {}
 
-    fetch_url = normalize_image_url(url)
+
+def to_wayback_raw_url(snapshot_url: str) -> str:
+    """Request the archived document without the Wayback toolbar wrapper."""
+    prefix = "://web.archive.org/web/"
+    idx = snapshot_url.find(prefix)
+    if idx == -1:
+        return snapshot_url
+
+    rest = snapshot_url[idx + len(prefix) :]
+    timestamp, _, original = rest.partition("/")
+    if not timestamp.isdigit() or not original:
+        return snapshot_url
+    if timestamp.endswith("id_"):
+        return snapshot_url
+    return f"http://web.archive.org/web/{timestamp}id_/{original}"
+
+
+def wayback_embedded_url(timestamp: str, original_url: str) -> str:
+    return f"http://web.archive.org/web/{timestamp}id_/{original_url}"
+
+
+def decompress_if_gzip(data: bytes) -> bytes:
+    if len(data) >= 2 and data[:2] == b"\x1f\x8b":
+        try:
+            return gzip.decompress(data)
+        except OSError:
+            return data
+    return data
+
+
+def cdx_image_snapshots(url: str, timeout: float, *, limit: int = 8) -> list[tuple[str, str]]:
+    """Return archived (timestamp, mimetype) pairs where CDX recorded an image."""
+    if url in _cdx_cache:
+        return _cdx_cache[url]
+
+    params = urllib.parse.urlencode(
+        {
+            "url": url,
+            "output": "json",
+            "filter": "statuscode:200",
+            "limit": str(limit),
+            "fl": "timestamp,mimetype",
+            "collapse": "digest",
+        }
+    )
     request = urllib.request.Request(
-        fetch_url,
+        f"{WAYBACK_CDX_API}?{params}",
+        headers={"User-Agent": USER_AGENT},
+    )
+    snapshots: list[tuple[str, str]] = []
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            rows = json.load(response)
+        for row in rows[1:]:
+            if len(row) < 2:
+                continue
+            timestamp, mimetype = row[0], row[1]
+            if mimetype.startswith("image/"):
+                snapshots.append((timestamp, mimetype))
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, ValueError):
+        snapshots = []
+
+    _cdx_cache[url] = snapshots
+    return snapshots
+
+
+def fetch_image_from_cdx(url: str, timeout: float) -> bytes:
+    fetch_url = normalize_url(url)
+    for timestamp, _mimetype in cdx_image_snapshots(fetch_url, timeout):
+        snapshot_url = wayback_embedded_url(timestamp, fetch_url)
+        try:
+            data, _content_type = fetch_url_bytes(snapshot_url, timeout)
+        except (urllib.error.URLError, TimeoutError):
+            continue
+        if is_image_bytes(data):
+            return data
+    raise ValueError(f"no archived image snapshots in CDX for {fetch_url}")
+
+
+def lookup_wayback_snapshot(url: str, timeout: float) -> tuple[str | None, str | None]:
+    """Return (raw_snapshot_url, timestamp) for the closest archived copy."""
+    if url in _wayback_cache:
+        return _wayback_cache[url]
+
+    api = WAYBACK_AVAILABLE_API.format(url=urllib.parse.quote(url, safe=""))
+    request = urllib.request.Request(api, headers={"User-Agent": USER_AGENT})
+    snapshot_url: str | None = None
+    timestamp: str | None = None
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            payload = json.load(response)
+        closest = payload.get("archived_snapshots", {}).get("closest")
+        if closest and closest.get("available"):
+            timestamp = str(closest.get("timestamp", "")) or None
+            snapshot_url = to_wayback_raw_url(str(closest.get("url", "")))
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, ValueError):
+        snapshot_url = None
+        timestamp = None
+
+    _wayback_cache[url] = (snapshot_url, timestamp)
+    return snapshot_url, timestamp
+
+
+def fetch_url_bytes(url: str, timeout: float) -> tuple[bytes, str]:
+    request = urllib.request.Request(
+        url,
         headers={
             "User-Agent": USER_AGENT,
             "Accept": "image/*,*/*;q=0.8",
         },
     )
     with urllib.request.urlopen(request, timeout=timeout) as response:
-        data = response.read()
+        data = decompress_if_gzip(response.read())
         content_type = response.headers.get("Content-Type", "")
+    return data, content_type
 
+
+def wayback_lookup_candidates(url: str) -> list[str]:
+    original = normalize_url(url)
+    normalized = normalize_image_url(original)
+    parsed = urllib.parse.urlparse(original)
+    without_query = urllib.parse.urlunparse(parsed._replace(query="", fragment=""))
+
+    candidates: list[str] = [original]
+    for candidate in (without_query, normalized):
+        if candidate not in candidates:
+            candidates.append(candidate)
+    return candidates
+
+
+def resolve_fetched_bytes(
+    data: bytes,
+    content_type: str,
+    fetch_url: str,
+    timeout: float,
+    *,
+    depth: int,
+    via_wayback: bool,
+    wayback_timestamp: str | None = None,
+) -> bytes:
     if not data:
         raise ValueError("empty response")
 
@@ -447,13 +577,112 @@ def fetch_image_data(url: str, timeout: float, *, depth: int = 0) -> bytes:
 
     if is_html_bytes(data, content_type):
         nested_url = extract_image_url_from_html(data)
-        if nested_url:
-            if nested_url != fetch_url:
-                return fetch_image_data(nested_url, timeout, depth=depth + 1)
+        if not nested_url:
+            raise ValueError("HTML response without embedded image URL")
+        nested_url = normalize_url(nested_url)
+        if nested_url == fetch_url:
             raise ValueError("HTML wrapper points to the same URL")
-        raise ValueError("HTML response without embedded image URL")
+        if via_wayback:
+            return fetch_image_via_wayback(
+                nested_url,
+                timeout,
+                depth=depth + 1,
+                parent_timestamp=wayback_timestamp,
+            )
+        return fetch_image_data(nested_url, timeout, depth=depth + 1)
 
     raise ValueError(f"response is not an image ({content_type or 'unknown type'})")
+
+
+def fetch_image_data(url: str, timeout: float, *, depth: int = 0) -> bytes:
+    if depth > 4:
+        raise ValueError("too many hops while resolving image URL")
+
+    fetch_url = normalize_image_url(url)
+    data, content_type = fetch_url_bytes(fetch_url, timeout)
+    return resolve_fetched_bytes(
+        data,
+        content_type,
+        fetch_url,
+        timeout,
+        depth=depth,
+        via_wayback=False,
+    )
+
+
+def fetch_image_via_wayback(
+    url: str,
+    timeout: float,
+    *,
+    depth: int = 0,
+    parent_timestamp: str | None = None,
+) -> bytes:
+    if depth > 4:
+        raise ValueError("too many wayback hops while resolving image URL")
+
+    fetch_url = normalize_url(url)
+    errors: list[str] = []
+
+    if parent_timestamp is None:
+        for candidate in wayback_lookup_candidates(fetch_url):
+            try:
+                return fetch_image_from_cdx(candidate, timeout)
+            except ValueError as error:
+                errors.append(str(error))
+
+    snapshot_url: str | None = None
+    timestamp: str | None = parent_timestamp
+
+    for candidate in wayback_lookup_candidates(fetch_url):
+        snapshot_url, candidate_timestamp = lookup_wayback_snapshot(candidate, timeout)
+        if snapshot_url:
+            timestamp = candidate_timestamp
+            fetch_url = candidate
+            break
+
+    if snapshot_url:
+        try:
+            data, content_type = fetch_url_bytes(snapshot_url, timeout)
+            return resolve_fetched_bytes(
+                data,
+                content_type,
+                fetch_url,
+                timeout,
+                depth=depth,
+                via_wayback=True,
+                wayback_timestamp=timestamp,
+            )
+        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+            errors.append(str(error))
+
+    if parent_timestamp:
+        try:
+            data, content_type = fetch_url_bytes(
+                wayback_embedded_url(parent_timestamp, fetch_url),
+                timeout,
+            )
+            if is_image_bytes(data):
+                return data
+            if is_html_bytes(data, content_type):
+                nested_url = extract_image_url_from_html(data)
+                if nested_url:
+                    return fetch_image_via_wayback(
+                        normalize_url(nested_url),
+                        timeout,
+                        depth=depth + 1,
+                        parent_timestamp=parent_timestamp,
+                    )
+        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+            errors.append(str(error))
+
+    for candidate in wayback_lookup_candidates(fetch_url):
+        try:
+            return fetch_image_from_cdx(candidate, timeout)
+        except ValueError as error:
+            errors.append(str(error))
+
+    detail = errors[-1] if errors else f"no wayback snapshot for {fetch_url}"
+    raise ValueError(detail)
 
 
 def write_image_file(dest: Path, data: bytes) -> None:
@@ -470,9 +699,40 @@ def write_image_file(dest: Path, data: bytes) -> None:
             temp_dest.unlink(missing_ok=True)
 
 
-def download_image(url: str, dest: Path, timeout: float) -> None:
-    data = fetch_image_data(url, timeout)
-    write_image_file(dest, data)
+def download_image(
+    url: str,
+    dest: Path,
+    timeout: float,
+    *,
+    wayback: str = "off",
+) -> str:
+    """Download image bytes. Returns 'live' or 'wayback'."""
+    modes: list[str]
+    if wayback == "only":
+        modes = ["wayback"]
+    elif wayback == "fallback":
+        modes = ["live", "wayback"]
+    else:
+        modes = ["live"]
+
+    last_error: Exception | None = None
+    for mode in modes:
+        try:
+            if mode == "live":
+                data = fetch_image_data(url, timeout)
+            else:
+                data = fetch_image_via_wayback(url, timeout)
+            write_image_file(dest, data)
+            return mode
+        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+            last_error = error
+            if mode == "live" and "wayback" in modes:
+                print(f"live failed, trying wayback: {url}", file=sys.stderr)
+            continue
+
+    if last_error is None:
+        raise ValueError("download failed")
+    raise last_error
 
 
 def filter_refs(refs: list[ImageRef], patterns: list[str]) -> list[ImageRef]:
@@ -526,8 +786,10 @@ def mirror_images(
     skip_existing: bool,
     timeout: float,
     delay: float,
-) -> tuple[int, int, int]:
+    wayback: str = "off",
+) -> tuple[int, int, int, int]:
     downloaded = 0
+    wayback_downloaded = 0
     skipped = 0
     failed = 0
 
@@ -568,14 +830,15 @@ def mirror_images(
             print(f"replacing invalid file: {dest}")
 
         if dry_run:
-            print(f"would download: {url}")
+            source = "wayback" if wayback == "only" else ("live+wayback" if wayback == "fallback" else "live")
+            print(f"would download ({source}): {url}")
             print(f"         -> {dest}")
             update_posts_for_url(url, relative, refs_by_url, dry_run=dry_run)
             downloaded += 1
             continue
 
         try:
-            download_image(url, dest, timeout)
+            source = download_image(url, dest, timeout, wayback=wayback)
         except (urllib.error.URLError, TimeoutError, ValueError) as error:
             print(f"failed: {url}\n       {error}", file=sys.stderr)
             failed += 1
@@ -585,14 +848,18 @@ def mirror_images(
 
         manifest[url] = relative
         save_manifest(static_dir, manifest)
-        downloaded += 1
-        print(f"saved: {dest}")
+        if source == "wayback":
+            wayback_downloaded += 1
+            print(f"saved (wayback): {dest}")
+        else:
+            downloaded += 1
+            print(f"saved: {dest}")
         update_posts_for_url(url, relative, refs_by_url, dry_run=dry_run)
 
         if delay:
             time.sleep(delay)
 
-    return downloaded, skipped, failed
+    return downloaded, wayback_downloaded, skipped, failed
 
 
 def repair_invalid_images(
@@ -634,7 +901,10 @@ def repair_invalid_images(
             continue
 
         try:
-            image_data = fetch_image_data(source_url, timeout)
+            try:
+                image_data = fetch_image_data(source_url, timeout)
+            except (urllib.error.URLError, TimeoutError, ValueError):
+                image_data = fetch_image_via_wayback(source_url, timeout)
             write_image_file(path, image_data)
         except (urllib.error.URLError, TimeoutError, ValueError) as error:
             print(f"failed: {path}\n       {error}", file=sys.stderr)
@@ -663,7 +933,8 @@ def build_parser() -> argparse.ArgumentParser:
             "Examples:\n"
             "  mirror-post-images.py scan\n"
             "  mirror-post-images.py mirror --domain ggpht.com\n"
-            "  mirror-post-images.py mirror --domain bp.blogspot.com --dry-run\n"
+            "  mirror-post-images.py mirror --domain ggpht.com --wayback-only\n"
+            "  mirror-post-images.py mirror --domain bp.blogspot.com --wayback --dry-run\n"
             "  mirror-post-images.py mirror\n"
             "  mirror-post-images.py repair\n"
         ),
@@ -721,6 +992,17 @@ def build_parser() -> argparse.ArgumentParser:
         type=float,
         default=0.25,
         help="delay between downloads in seconds (default: 0.25)",
+    )
+    wayback_group = mirror.add_mutually_exclusive_group()
+    wayback_group.add_argument(
+        "--wayback",
+        action="store_true",
+        help="try Internet Archive when a live download fails",
+    )
+    wayback_group.add_argument(
+        "--wayback-only",
+        action="store_true",
+        help="skip live download and fetch from Internet Archive only",
     )
 
     repair = subparsers.add_parser(
@@ -804,18 +1086,32 @@ def main() -> int:
         f"{len({ref.post_path for ref in selected_refs})} post(s)."
     )
 
-    downloaded, skipped, failed = mirror_images(
+    if args.wayback_only:
+        wayback_mode = "only"
+    elif args.wayback:
+        wayback_mode = "fallback"
+    else:
+        wayback_mode = "off"
+
+    if wayback_mode != "off" and args.delay == 0.25:
+        args.delay = 1.0
+        print("Using 1.0s delay for Wayback requests (override with --delay).")
+
+    downloaded, wayback_downloaded, skipped, failed = mirror_images(
         selected_refs,
         static_dir,
         dry_run=args.dry_run,
         skip_existing=not args.force,
         timeout=args.timeout,
         delay=args.delay,
+        wayback=wayback_mode,
     )
 
     prefix = "would process" if args.dry_run else "processed"
     print(
-        f"\n{prefix}: {downloaded} download(s), {skipped} skipped existing, {failed} failed."
+        f"\n{prefix}: {downloaded} live download(s), "
+        f"{wayback_downloaded} wayback download(s), "
+        f"{skipped} skipped existing, {failed} failed."
     )
     return 1 if failed else 0
 
