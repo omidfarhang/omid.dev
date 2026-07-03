@@ -46,6 +46,7 @@ KNOWN_IMAGE_HOSTS = ("ggpht.com", "blogspot.com", "googleusercontent.com", "imgu
 USER_AGENT = "omid.dev-image-mirror/1.0 (+https://omid.dev)"
 WAYBACK_AVAILABLE_API = "https://archive.org/wayback/available?url={url}"
 WAYBACK_CDX_API = "http://web.archive.org/cdx/search/cdx"
+NETWORK_ERRORS = (urllib.error.URLError, TimeoutError, ConnectionError)
 
 
 @dataclass(frozen=True)
@@ -458,7 +459,28 @@ def wayback_embedded_url(timestamp: str, original_url: str) -> str:
     return f"http://web.archive.org/web/{timestamp}id_/{original_url}"
 
 
-def decompress_if_gzip(data: bytes) -> bytes:
+def urlopen_with_retry(
+    request: urllib.request.Request,
+    timeout: float,
+    *,
+    retries: int = 3,
+    backoff: float = 1.0,
+):
+    last_error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            return urllib.request.urlopen(request, timeout=timeout)
+        except NETWORK_ERRORS as error:
+            last_error = error
+            if attempt + 1 < retries:
+                time.sleep(backoff * (attempt + 1))
+                continue
+            raise
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError("urlopen_with_retry failed without an error")
+
+
     if len(data) >= 2 and data[:2] == b"\x1f\x8b":
         try:
             return gzip.decompress(data)
@@ -488,7 +510,7 @@ def cdx_image_snapshots(url: str, timeout: float, *, limit: int = 8) -> list[tup
     )
     snapshots: list[tuple[str, str]] = []
     try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
+        with urlopen_with_retry(request, timeout) as response:
             rows = json.load(response)
         for row in rows[1:]:
             if len(row) < 2:
@@ -496,7 +518,7 @@ def cdx_image_snapshots(url: str, timeout: float, *, limit: int = 8) -> list[tup
             timestamp, mimetype = row[0], row[1]
             if mimetype.startswith("image/"):
                 snapshots.append((timestamp, mimetype))
-    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, ValueError):
+    except (*NETWORK_ERRORS, json.JSONDecodeError, ValueError):
         snapshots = []
 
     _cdx_cache[url] = snapshots
@@ -509,7 +531,7 @@ def fetch_image_from_cdx(url: str, timeout: float) -> bytes:
         snapshot_url = wayback_embedded_url(timestamp, fetch_url)
         try:
             data, _content_type = fetch_url_bytes(snapshot_url, timeout)
-        except (urllib.error.URLError, TimeoutError):
+        except (*NETWORK_ERRORS,):
             continue
         if is_image_bytes(data):
             return data
@@ -526,13 +548,13 @@ def lookup_wayback_snapshot(url: str, timeout: float) -> tuple[str | None, str |
     snapshot_url: str | None = None
     timestamp: str | None = None
     try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
+        with urlopen_with_retry(request, timeout) as response:
             payload = json.load(response)
         closest = payload.get("archived_snapshots", {}).get("closest")
         if closest and closest.get("available"):
             timestamp = str(closest.get("timestamp", "")) or None
             snapshot_url = to_wayback_raw_url(str(closest.get("url", "")))
-    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, ValueError):
+    except (*NETWORK_ERRORS, json.JSONDecodeError, ValueError):
         snapshot_url = None
         timestamp = None
 
@@ -548,7 +570,7 @@ def fetch_url_bytes(url: str, timeout: float) -> tuple[bytes, str]:
             "Accept": "image/*,*/*;q=0.8",
         },
     )
-    with urllib.request.urlopen(request, timeout=timeout) as response:
+    with urlopen_with_retry(request, timeout) as response:
         data = decompress_if_gzip(response.read())
         content_type = response.headers.get("Content-Type", "")
     return data, content_type
@@ -660,7 +682,7 @@ def fetch_image_via_wayback(
                 via_wayback=True,
                 wayback_timestamp=timestamp,
             )
-        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+        except (*NETWORK_ERRORS, ValueError) as error:
             errors.append(str(error))
 
     if parent_timestamp:
@@ -680,7 +702,7 @@ def fetch_image_via_wayback(
                         depth=depth + 1,
                         parent_timestamp=parent_timestamp,
                     )
-        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+        except (*NETWORK_ERRORS, ValueError) as error:
             errors.append(str(error))
 
     for candidate in wayback_lookup_candidates(fetch_url):
@@ -732,7 +754,7 @@ def download_image(
                 data = fetch_image_via_wayback(url, timeout)
             write_image_file(dest, data)
             return mode
-        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+        except (*NETWORK_ERRORS, ValueError) as error:
             last_error = error
             if mode == "live" and "wayback" in modes:
                 print(f"live failed, trying wayback: {url}", file=sys.stderr)
@@ -847,7 +869,7 @@ def mirror_images(
 
         try:
             source = download_image(url, dest, timeout, wayback=wayback)
-        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+        except (*NETWORK_ERRORS, ValueError) as error:
             print(f"failed: {url}\n       {error}", file=sys.stderr)
             failed += 1
             if delay:
@@ -911,10 +933,10 @@ def repair_invalid_images(
         try:
             try:
                 image_data = fetch_image_data(source_url, timeout)
-            except (urllib.error.URLError, TimeoutError, ValueError):
+            except (*NETWORK_ERRORS, ValueError):
                 image_data = fetch_image_via_wayback(source_url, timeout)
             write_image_file(path, image_data)
-        except (urllib.error.URLError, TimeoutError, ValueError) as error:
+        except (*NETWORK_ERRORS, ValueError) as error:
             print(f"failed: {path}\n       {error}", file=sys.stderr)
             failed += 1
             if delay:
