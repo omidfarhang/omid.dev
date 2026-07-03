@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-yE_g7QL5k-A/TlaMsjrhwjI/AAAAAAAAD_M/mJ6JO_Ow1HI/s1600/jobs_economist_cover.jpg)](http://4.bp.blogspot.com/-yE_g7QL5k-A/TlaMsjrhwjI/AAAAAAAAD_M/mJ6JO_Ow1HI/s1600/jobs_economist_cover.jpg)
+[![](/images/2011/08/jobs_economist_cover.jpg)](/images/2011/08/jobs_economist_cover.jpg)
 
   
 **SophosLabs:** Steve Jobs has now done what many of us thought would happen sooner or later – stepped off the very prestigious CEO plinth, taking a less taxing role as chairman of the Apple board. The new CEO will be Jobs' right-hand man Tim Cook.

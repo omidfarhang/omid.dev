@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70OKAVXNEI/AAAAAAAAB1E/R6lO_bYVqWM/s200/vs_cropped-bberry.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70OKAVXNEI/AAAAAAAAB1E/R6lO_bYVqWM/s1600-h/vs_cropped-bberry.png)
+[![](/images/2010/04/vs_cropped-bberry.png)](/images/2010/04/vs_cropped-bberry-49963acb.png)
 
 BlackBerry users rejoice, Google Maps for mobile just got a [huge update](http://googlemobile.blogspot.com/2010/04/google-maps-40-for-blackberry-adds.html) that adds support for voice search, Google Buzz and more.
 
@@ -28,7 +28,7 @@ Here are some of the highlights of the new version:
   * **Labs:** Google Maps 4.0 supports Labs features like the terrain layer and scale adjustments.
   * **Find nearby businesses:** You can view nearby businesses by selecting a point on a map or your current location.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70OUMOdlJI/AAAAAAAAB1I/UUi0fiiusE4/s320/buzz3_cropped-bberry.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70OUMOdlJI/AAAAAAAAB1I/UUi0fiiusE4/s1600-h/buzz3_cropped-bberry.png)
+[![](/images/2010/04/buzz3_cropped-bberry.png)](/images/2010/04/buzz3_cropped-bberry-07244ea4.png)
 
 To install Google Maps 4.0 for BlackBerry, visit [m.google.com/maps](http://m.google.com/maps) in your BlackBerry’s web browser and install the update.
 

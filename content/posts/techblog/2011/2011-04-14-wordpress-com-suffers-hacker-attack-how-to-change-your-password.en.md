@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s200/wordpress.png)](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s1600/wordpress.png)
+[![](/images/2011/04/wordpress.png)](/images/2011/04/wordpress-7a24556e.png)
 
 **Sophos Labs:** Millions of blog owners around the world are being advised to consider their password security, after WordPress.com was hacked.
 
@@ -33,11 +33,11 @@ Here's how you change your WordPress.com password, if you think it might not be 
 
 1\. Go to Users / Personal settings
 
-[![](http://4.bp.blogspot.com/-Flvm3bAqWl0/TaabP99CAjI/AAAAAAAAD1o/wbJVweCGNNQ/s1600/wordpress-personal-settings.jpg)](http://4.bp.blogspot.com/-Flvm3bAqWl0/TaabP99CAjI/AAAAAAAAD1o/wbJVweCGNNQ/s1600/wordpress-personal-settings.jpg)
+[![](/images/2011/04/wordpress-personal-settings.jpg)](/images/2011/04/wordpress-personal-settings.jpg)
 
 2. Choose a strong, unique password. ([How to choose a good password and take care of it?](/en/knowledge-base/security/passwords))
 
-[![](http://4.bp.blogspot.com/-fok5lmB1eDs/TaabOjljRoI/AAAAAAAAD1k/Tnunft1egRc/s1600/wordpress-password.jpg)](http://4.bp.blogspot.com/-fok5lmB1eDs/TaabOjljRoI/AAAAAAAAD1k/Tnunft1egRc/s1600/wordpress-password.jpg)
+[![](/images/2011/04/wordpress-password.jpg)](/images/2011/04/wordpress-password.jpg)
 
 We don't know that the WordPress.com security breach gave the hackers access to bloggers' passwords, but we do know that many internet users have chosen to use the same password on multiple websites. So if your password was stolen from one website, it could then be used to unlock many other online accounts – and potentially cause a bigger problem for you.
 

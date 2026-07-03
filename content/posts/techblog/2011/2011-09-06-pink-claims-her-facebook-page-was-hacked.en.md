@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-phnlSGGI6Rc/TmZ64m5ogYI/AAAAAAAAEBY/QeIPTeOu8go/s1600/pink-170.jpg)](http://4.bp.blogspot.com/-phnlSGGI6Rc/TmZ64m5ogYI/AAAAAAAAEBY/QeIPTeOu8go/s1600/pink-170.jpg)
+[![](/images/2011/09/pink-170.jpg)](/images/2011/09/pink-170.jpg)
 
 **SophosLabs:** Pop singer Pink has posted an angry message to hackers, who she claims stole photographs from her Facebook page.  
 But was Pink's Facebook page really hacked, or was she just one of the many people who have been careless with their privacy settings?
@@ -24,13 +24,13 @@ The Grammy award-winning singer, famous for hit records such as “Get the party
 
 My first thought was that the photo may be of her baby daughter Willow, after the singer recently railed against [“intrusive paparazzi behaviour”](http://www.bbc.co.uk/newsbeat/13887625) as the media clamoured for the first pictures of her child.
 
-[![](http://2.bp.blogspot.com/-Yqpsnrt4nWk/TmZ64P-epvI/AAAAAAAAEBU/QBpQ0d7Trfs/s1600/pink-1.jpg)](http://2.bp.blogspot.com/-Yqpsnrt4nWk/TmZ64P-epvI/AAAAAAAAEBU/QBpQ0d7Trfs/s1600/pink-1.jpg)
+[![](/images/2011/09/pink-1.jpg)](/images/2011/09/pink-1.jpg)
 
 TO ALL THE PEOPLE I DON'T KNOW HACKING INTO MY PRIVATE PICTURES ON FACEBOOK, PLEASE STOP. HAVE SOME RESPECT FOR PRIVACY.
 
 Interestingly, Pink seems to be blaming herself for uploading the photograph to Facebook in the first place.
 
-[![](http://4.bp.blogspot.com/-vwNncDaoIck/TmZ7UlVjabI/AAAAAAAAEBc/ZMtII-QJrGw/s1600/pink-2.jpg)](http://4.bp.blogspot.com/-vwNncDaoIck/TmZ7UlVjabI/AAAAAAAAEBc/ZMtII-QJrGw/s1600/pink-2.jpg)
+[![](/images/2011/09/pink-2.jpg)](/images/2011/09/pink-2.jpg)
 
 it's my own fault 4 posting a picture. i should know better.anyways,there are way more important things in the world than my facebook page.
 
@@ -38,7 +38,7 @@ This is quite astute of Pink. As we've said many time times before, if you want 
 
 Without further information it's hard to clarify whether Pink's Facebook account really was hacked, or whether she was simply sloppy with her privacy settings – allowing people who weren't friends of hers to view what were presumably private photographs.
 
-[![](http://2.bp.blogspot.com/-zyfQa8xUYeg/TmZ7mwFfyaI/AAAAAAAAEBg/HjlDRBudcVk/s1600/privacy-levels.jpg)](http://2.bp.blogspot.com/-zyfQa8xUYeg/TmZ7mwFfyaI/AAAAAAAAEBg/HjlDRBudcVk/s1600/privacy-levels.jpg)
+[![](/images/2011/09/privacy-levels.jpg)](/images/2011/09/privacy-levels.jpg)
 
 Last month, Facebook announced it was revamping its privacy settings, making it more obvious to users how their uploaded photos, status updates and personal information was being shared.
 

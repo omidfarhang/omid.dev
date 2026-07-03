@@ -21,18 +21,18 @@ Also, the topics in one domain overlap with that of the other domain, thus makin
 
 When an unsuspecting user happens to input a particular search key that matches one of those being served by the compromised sites, the search results will be full of malicious links. Moreover, unlike before where there are only a few rogue links in the results, there are more than 60 this time, and a lot of them are in the top 10. This strategy increases their chances of being clicked by the user.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4xhHbjVEsI/AAAAAAAABEk/t7fPN4hgtX4/s640/seo.PNG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4xhHbjVEsI/AAAAAAAABEk/t7fPN4hgtX4/s1600-h/seo.PNG)
+[![](/images/2010/03/seo.png)](/images/2010/03/seo-68042f1b.png)
 
 After the user clicks on the link, a page will open, pretending to scan your system. Afterwards, it displays a supposed system infection and offers a “solution”…
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xhJwFGn2I/AAAAAAAABEs/1Q4gFfV_wPI/s640/seo2.PNG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xhJwFGn2I/AAAAAAAABEs/1Q4gFfV_wPI/s1600-h/seo2.PNG)
+[![](/images/2010/03/seo2.png)](/images/2010/03/seo2-632b1426.png)
 
 If you execute it, you welcome a Rogue downloader onto the system…
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4xhGbWriTI/AAAAAAAABEc/uMuSq3ZYucE/s640/downloader.PNG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4xhGbWriTI/AAAAAAAABEc/uMuSq3ZYucE/s1600-h/downloader.PNG)
+[![](/images/2010/03/downloader.png)](/images/2010/03/downloader-37d5b54f.png)
 
 And afterwards, the rogue itself…
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4xhMbzl3tI/AAAAAAAABE0/6xzcwwvPFn4/s640/seo3.PNG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4xhMbzl3tI/AAAAAAAABE0/6xzcwwvPFn4/s1600-h/seo3.PNG)
+[![](/images/2010/03/seo3.png)](/images/2010/03/seo3-3f2f5250.png)
 
 Rogue distribution seems to be playing the numbers game. The more websites they can compromise, and the more search keys they employ, the more chances of getting their webpages matched en route to getting the scamware onto the user's system. It's pretty devious, and it seems to be working.

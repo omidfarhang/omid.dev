@@ -23,7 +23,7 @@ The link that is provided is titled “**Tax Refund Online Form**” and it lead
 
 Below is a screenshot of one such phishing site:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4GMSGvL85I/AAAAAAAAA-w/gqPZV6t0geE/s640/tax+scam.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4GMSGvL85I/AAAAAAAAA-w/gqPZV6t0geE/s1600-h/tax+scam.jpg)
+[![](/images/2010/02/tax-scam.jpg)](/images/2010/02/tax-scam-675156b6.jpg)
 
 After submitting the information the page redirects to the legitimate site of the Indian Tax Department. The domain name of the fraudulent site is hosted on U.S.-based servers.
 

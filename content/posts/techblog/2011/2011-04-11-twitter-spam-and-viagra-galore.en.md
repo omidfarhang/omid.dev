@@ -15,13 +15,13 @@ categories:
 ---
 Spam mails claiming to be from Twitter that send you to pharmacy sites are a [popular wheeze](http://www.hoax-slayer.com/pharmacy-spam-twitter-messages.shtml) for spammers, and here we go again.
 
-[![](http://2.bp.blogspot.com/-hh2BnedIABI/TaNEs-5awwI/AAAAAAAAD0A/xEMAaDnGQy4/s320/twtprmcn1.jpg)](http://2.bp.blogspot.com/-hh2BnedIABI/TaNEs-5awwI/AAAAAAAAD0A/xEMAaDnGQy4/s1600/twtprmcn1.jpg)
+[![](/images/2011/04/twtprmcn1.jpg)](/images/2011/04/twtprmcn1-e5b7e366.jpg)
 
 It seems I have “two PR messages from Twitter”. If that wasn't enough to get me clicking (it isn't), I can also join in on sports conversations, argue with bloggers and tell the World when I stumble into some form of natural disaster.
 
 Hammering one of the many links will actually take me to 219(dot)84(dot)119(dot)56/afternoon(dot)html, which will send me to pharmacydrugstorehealthprofessionals(dot)net.
 
-[![](http://1.bp.blogspot.com/-yFpIYJCLitQ/TaNE25aw0KI/AAAAAAAAD0E/98496OFruvU/s320/twtprmcn2.jpg)](http://1.bp.blogspot.com/-yFpIYJCLitQ/TaNE25aw0KI/AAAAAAAAD0E/98496OFruvU/s1600/twtprmcn2.jpg)
+[![](/images/2011/04/twtprmcn2.jpg)](/images/2011/04/twtprmcn2-7a5a70e3.jpg)
 
 All the Cialis you can eat!
 

@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79fJA9oYqI/AAAAAAAAB2s/jk3IvzNVIIQ/s1600/farmville-peanuts.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79fJA9oYqI/AAAAAAAAB2s/jk3IvzNVIIQ/s1600/farmville-peanuts.jpg)
+[![](/images/2010/04/farmville-peanuts.jpg)](/images/2010/04/farmville-peanuts.jpg)
 
 Next week, FarmVille players will have the ability to grow peanuts, thanks to ad agency [Saatchi and Saatchi](http://www.saatchi.com/) and an Israeli candy brand.
 

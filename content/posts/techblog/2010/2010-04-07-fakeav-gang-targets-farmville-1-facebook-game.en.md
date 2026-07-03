@@ -33,9 +33,9 @@ Fake AV gang launches its attack to the Farmville users by poisoning Yahoo and G
 
 Clicking the highlighted links may lead to fake antivirus pop-up alert (see Image 2) that will lead to fake scanning page (see Image 3) showing false detections and lately will ask to download Malicious Executable file (detected as [W32/FraudPack.E!Generic](http://www.virustotal.com/analisis/0b73dac5f19689660d8671111a478e1eedfa3ed1ac9aa5494effbf14a99cc1a8-1270549447)) that will download Fake AV to your system.
 
-![Image 2. Fake Antivirus Alert](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70KWg7DfSI/AAAAAAAAB0o/W_J9auU9nGA/s1600-h/fakealert.jpg)
+![Image 2. Fake Antivirus Alert](/images/2010/04/fakealert-5224d114.jpg)
 
-![Image 3. Fake Scanning Page and download save file window](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70KY5IbhrI/AAAAAAAAB0s/Mc3LBJU3xq8/s1600-h/fakescanning.jpg)
+![Image 3. Fake Scanning Page and download save file window](/images/2010/04/fakescanning-f52d7e48.jpg)
 
 We recommend users to do the following whenever you encounter the above infection.
 

@@ -18,6 +18,6 @@ Spammers have decided that in order for Apple to meet sky-high growth expectatio
 
 The spam looks similar to the following message below:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7eZnrzTR6I/AAAAAAAABew/rs7bsT3thEw/s400/applescam.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7eZnrzTR6I/AAAAAAAABew/rs7bsT3thEw/s1600-h/applescam.JPG)
+[![](/images/2010/04/applescam.jpg)](/images/2010/04/applescam-d11383ce.jpg)
 
 Spammers have setup various hacked sites to redirect traffic to online drug stores. However, the spammers are probably frowning/pouting now as Sophos has once again thwarted their plans.

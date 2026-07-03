@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70SGFXEWII/AAAAAAAAB1M/4vW6-uIvkPs/s200/sticking-tongue-out.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70SGFXEWII/AAAAAAAAB1M/4vW6-uIvkPs/s1600-h/sticking-tongue-out.jpg)
+[![](/images/2010/04/sticking-tongue-out.jpg)](/images/2010/04/sticking-tongue-out-6cbbe000.jpg)
 
 For those of you armchair mayors who cheat with your Foursquare checkins, your time has come. The mobile social network has [announced](http://blog.foursquare.com/post/503822143/on-foursquare-cheating-and-claiming-mayorships-from) that checkins outside the immediate vicinity of the venue in question will no longer net points, badges or mayorships.
 

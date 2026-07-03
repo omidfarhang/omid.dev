@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-CmBg18qppFU/TkKgXkC7lFI/AAAAAAAAD9M/US5IVY4rzNY/s200/Half-of-Corporate-Adobe-Reader-Users-Run-Outdated-Versions-2.jpg)](http://1.bp.blogspot.com/-CmBg18qppFU/TkKgXkC7lFI/AAAAAAAAD9M/US5IVY4rzNY/s1600/Half-of-Corporate-Adobe-Reader-Users-Run-Outdated-Versions-2.jpg)
+[![](/images/2011/08/Half-of-Corporate-Adobe-Reader-Users-Run-Outdated-Versions-2.jpg)](/images/2011/08/Half-of-Corporate-Adobe-Reader-Users-Run-Outdated-Versions-2-829cda4d.jpg)
 
 **SOFTPEDIA: According to statistics gathered by cloud security provider Zscaler, 56.4% of enterprise users have out of date Adobe Reader plug-in versions inside their browsers.**
 

@@ -20,7 +20,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70NUpPjbvI/AAAAAAAAB1A/KexGRVOyY9c/s1600/farmville260.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70NUpPjbvI/AAAAAAAAB1A/KexGRVOyY9c/s1600-h/farmville260.jpg)
+[![](/images/2010/04/farmville260.jpg)](/images/2010/04/farmville260-b357c650.jpg)
 
 Oh dear — looks like it’s time to add FarmVille to the list of internet addiction scares after a [12-year-old UK boy has amassed £905 in FarmVille debt](http://www.guardian.co.uk/money/2010/apr/07/farmville-user-debt-facebook). About £288 of that came from the boy’s own savings, while £625 was billed to his horrified mother’s credit card.
 

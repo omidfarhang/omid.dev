@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3W7SHUFnCI/AAAAAAAAA6A/Pz5g6G435Ts/s320/chromelogo.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3W7SHUFnCI/AAAAAAAAA6A/Pz5g6G435Ts/s1600-h/chromelogo.png)
+[![](/images/2010/02/chromelogo.png)](/images/2010/02/chromelogo-75849d9b.png)
 
 Google launched the Mac version of its **Chrome** browser in Dec 2009. A [new beta](http://chrome.blogspot.com/2010/02/new-beta-of-google-chrome-for-mac-with.html) build is now available which offers new features like extensions, bookmark sync, and more.
 

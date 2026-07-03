@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6M_UfNldEI/AAAAAAAABSs/PrDi9spi0OI/s200/virtual-pc.JPG)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6M_UfNldEI/AAAAAAAABSs/PrDi9spi0OI/s1600-h/virtual-pc.JPG)
+[![](/images/2010/03/virtual-pc.jpg)](/images/2010/03/virtual-pc-a2783bf4.jpg)
 
 Microsoft is announcing an update to Windows XP Mode today that will make it a more accessible to PCs in small and midsize businesses who want to migrate to Windows 7 Professional but have applications that still require Windows XP. **Windows XP Mode will no longer require hardware virtualization technology to run**. This change makes it extremely easy for businesses to use Windows XP Mode to address any application incompatibility roadblocks they might have in migrating to Windows 7. Windows XP Mode will of course continue to use hardware virtualization technology such as Intel VT (Intel Virtualization Technology) or AMD-V if available. You can find more information and download the update which will go live later today [here](http://www.windows.com/xpmode).
 

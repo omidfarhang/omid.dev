@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-ogbPo-aC1tM/Tm4RqkuxELI/AAAAAAAAEBs/ve__tCH7zw0/s1600/globalsign-180.png)](http://4.bp.blogspot.com/-ogbPo-aC1tM/Tm4RqkuxELI/AAAAAAAAEBs/ve__tCH7zw0/s1600/globalsign-180.png)
+[![](/images/2011/09/globalsign-180.png)](/images/2011/09/globalsign-180.png)
 
 SophosLabs: Following the widely-publicised disgrace of Dutch digital certificate issuer [DigiNotar](http://nakedsecurity.sophos.com/2011/09/05/operation-black-tulip-fox-its-report-on-the-diginotar-breach/), a person calling himself ComodoHacker [claimed](http://nakedsecurity.sophos.com/2011/09/07/globalsign-stops-issuing-ssl-certificates-in-response-to-iranian-hacker/) that he'd breached four other Certificate Authorities (CAs), too.
 
@@ -27,7 +27,7 @@ It comes across as a stream of made-up, self-serving puffery, including bluster 
 
 > WOOOOORLLLLDDD! Wait for me, you have so much more SHOCKINGS to see from me! From a person who came to this world just 21 years ago! JUST WAIT!
 
-[![](http://3.bp.blogspot.com/-qisKFumPwSA/Tm4R4JcVKHI/AAAAAAAAEBw/wyqAdenzidE/s1600/falstaff-180.png)](http://3.bp.blogspot.com/-qisKFumPwSA/Tm4R4JcVKHI/AAAAAAAAEBw/wyqAdenzidE/s1600/falstaff-180.png)
+[![](/images/2011/09/falstaff-180.png)](/images/2011/09/falstaff-180.png)
 
 But GlobalSign decided, like [Shakespeare's Falstaff](http://shakespeare.mit.edu/1henryiv/full.html), that the better part of valour is discretion.
 
@@ -41,7 +41,7 @@ Ironically, even after GlobalSign had given itself the all-clear in respect of c
 
 Any sort of breach is bad news, of course, but I'm willing to overlook GlobalSign's web server issues entirely. I suspect that many companies wouldn't have turned off part of their business voluntarily, and called in outside help, to investigate allegations of the sort made by ComodoHacker.
 
-[![](http://3.bp.blogspot.com/-z_FkSZ4fr58/Tm4SB9QxIMI/AAAAAAAAEB0/nSFX-6KdE7c/s1600/hatdoff-180.png)](http://3.bp.blogspot.com/-z_FkSZ4fr58/Tm4SB9QxIMI/AAAAAAAAEB0/nSFX-6KdE7c/s1600/hatdoff-180.png)
+[![](/images/2011/09/hatdoff-180.png)](/images/2011/09/hatdoff-180.png)
 
 In fact, in most of Asia Pacific, where there are no data breach notification requirements at all, you might not hear from a company even if it knew it had suffered a [Sony-sized](http://nakedsecurity.sophos.com/2011/05/03/sony-admits-breach-larger-than-originally-thought-24-5-million-soe-users-also-affected/) leak of your data, let alone if it had spotted someone fiddling with its web server.
 

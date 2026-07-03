@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-![](http://4.bp.blogspot.com/-Cc6WHxrxHpw/TxFVbqit4mI/AAAAAAAAEZY/0j0bomo5w94/s1600/hotmail-170.jpg)
+![](/images/2012/01/hotmail-170.jpg)
 
 **[SophosLabs:](http://nakedsecurity.sophos.com/)** Have you been told to verify your Hotmail account? Did you receive a message saying that Hotmail's email servers were congested, and so they were removing all unused accounts?
 
@@ -23,7 +23,7 @@ If so, I hope you responded to the email with a roll of the eyes and a quick sta
 
 Thanks to the reader, who forwarded us the following phishing email that he and others received, posing as communication from Hotmail:
 
-![](http://3.bp.blogspot.com/-xzB5_-ecJsw/TxFVBbteP0I/AAAAAAAAEZQ/ybgCQYY8jm4/s1600/hotmail-verification.jpg)
+![](/images/2012/01/hotmail-verification.jpg)
 
 Part of the email reads:
 

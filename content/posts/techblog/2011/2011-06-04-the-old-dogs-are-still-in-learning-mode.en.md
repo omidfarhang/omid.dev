@@ -18,7 +18,7 @@ Norman Security Blog wrote a good article about Fake AVs and their new variants 
 
 [Fake antimalware](http://www.norman.com/security_center/virus_description_archive/80133/) has become a profitable industry for the cybercriminals. New variants appear on a daily basis, and new techniques for tricking the users are fine-tuned.
 
-[![](http://4.bp.blogspot.com/-b_fSQydqQ2A/Tenu0hP-AuI/AAAAAAAAD44/M3kt6nwagAY/s1600/dog_laptop-1_None.medium.png)](http://4.bp.blogspot.com/-b_fSQydqQ2A/Tenu0hP-AuI/AAAAAAAAD44/M3kt6nwagAY/s1600/dog_laptop-1_None.medium.png)
+[![](/images/2011/06/dog_laptop-1_None.medium.png)](/images/2011/06/dog_laptop-1_None.medium.png)
 
 A few weeks ago we wrote in our security article – [Cybercriminals focus on new targets](http://www.norman.com/security_center/security_center_archive/2011/cybercriminals_focus_on_new_targets/en-us) – about fake antimalware for Apple's Mac OS X operating system. In its [security update 2011-003 for Mac OS X](http://support.apple.com/kb/HT4657), available 31 May, Apple enhanced considerably its protection against malware. This includes the ability to automatically download new malware signatures, similar to the functionality found in standard antimalware tools. This signifies that Apple now regards its Mac OS X platform as a serious target for cybercriminals.
 
@@ -32,13 +32,13 @@ So it is fair to say that this article's title about the old dogs' learning abil
 
 Here is one example of a fake scanning window displayed through Firefox:
 
-[![](http://3.bp.blogspot.com/-jpgtwuzV3rA/TenvqvxQekI/AAAAAAAAD48/Jc2TIcH5qzs/s400/firefox_fake_malware_alert_None.large.png)](http://3.bp.blogspot.com/-jpgtwuzV3rA/TenvqvxQekI/AAAAAAAAD48/Jc2TIcH5qzs/s1600/firefox_fake_malware_alert_None.large.png)
+[![](/images/2011/06/firefox_fake_malware_alert_None.large.png)](/images/2011/06/firefox_fake_malware_alert_None.large-3b19db6a.png)
 
 Clicking the recommended Start Protection button will start installing the malicious software.
 
 The real warning page from Mozilla's Firefox looks like this:
 
-[![](http://2.bp.blogspot.com/-5_jpP5Tjtow/TenvsnZSaNI/AAAAAAAAD5A/brEFAtagmxY/s400/firefox_standard_alert_None.large.png)](http://2.bp.blogspot.com/-5_jpP5Tjtow/TenvsnZSaNI/AAAAAAAAD5A/brEFAtagmxY/s1600/firefox_standard_alert_None.large.png)
+[![](/images/2011/06/firefox_standard_alert_None.large.png)](/images/2011/06/firefox_standard_alert_None.large-3ea7d79e.png)
 
 As you can see, the warning from Mozilla does not have any option to install any type of protection software. This is the standard behavior for all browsers.
 

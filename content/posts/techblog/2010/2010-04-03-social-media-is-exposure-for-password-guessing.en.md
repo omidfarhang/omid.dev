@@ -26,6 +26,6 @@ So, if you have a web site with pictures of cat “Fluffy” all over it, and yo
 
 Story [here](http://www.theinquirer.net/inquirer/news/1598221/obama-twitter-hacker-freed).
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7ePMvNRZPI/AAAAAAAABek/EHr7NVCQoy0/s400/not_20fluffy.JPG)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7ePMvNRZPI/AAAAAAAABek/EHr7NVCQoy0/s1600-h/not_20fluffy.JPG)
+[![](/images/2010/04/not_20fluffy.jpg)](/images/2010/04/not_20fluffy-22e8aff6.jpg)
 
 **Not Fluffy**

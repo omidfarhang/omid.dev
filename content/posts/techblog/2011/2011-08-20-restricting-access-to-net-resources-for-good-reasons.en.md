@@ -18,7 +18,7 @@ _This article is originally posted at [Norman Security](http://www.norman.com/) 
 
 **Introduction**
 
-[![](http://3.bp.blogspot.com/-sx7WC-3f3mc/Tk_zGRE9haI/AAAAAAAAD-k/hokN48mItDM/s1600/locked_laptop.medium.jpg)](http://3.bp.blogspot.com/-sx7WC-3f3mc/Tk_zGRE9haI/AAAAAAAAD-k/hokN48mItDM/s1600/locked_laptop.medium.jpg)
+[![](/images/2011/08/locked_laptop.medium.jpg)](/images/2011/08/locked_laptop.medium.jpg)
 
 During recent months, we have seen several examples of attempts and suggestions to restrict access to different types of net resources, and in some cases the Internet itself. Is this a method that accomplishes its end, or is it more of a “shooting the messenger” type of action?
 
@@ -66,7 +66,7 @@ The entities that operate such systems are often organizations that are allowed 
 
 **The new technology problem**
 
-[![](http://3.bp.blogspot.com/-Ang1QG4npQ8/Tk_zTammNLI/AAAAAAAAD-o/6vTxpam6v70/s1600/you_may_not_go_any_further-1.medium.jpg)](http://3.bp.blogspot.com/-Ang1QG4npQ8/Tk_zTammNLI/AAAAAAAAD-o/6vTxpam6v70/s1600/you_may_not_go_any_further-1.medium.jpg)
+[![](/images/2011/08/you_may_not_go_any_further-1.medium.jpg)](/images/2011/08/you_may_not_go_any_further-1.medium.jpg)
 
 One of the reasons why it seems so tempting to implement restricted access to e.g. newer communication methods, is that these are not yet sufficiently integrated in society. Or more precisely: They are not yet an integrated part of what is perceived as a tool that is beyond regulation for “political” (in a wide sense) reasons.
 

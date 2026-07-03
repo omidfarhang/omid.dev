@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600/whole-foods-facebook.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7ZX6ip2hJI/AAAAAAAABb8/qM1JDmpSv08/s1600-h/whole-foods-facebook.jpg)
+[![](/images/2010/04/whole-foods-facebook.jpg)](/images/2010/04/whole-foods-facebook-2eecb855.jpg)
 
 Whole Foods, a popular health and organic grocery chain, is the subject of a new Facebook scam that phishes for users’ credit and other personal information.
 

@@ -27,15 +27,15 @@ On the basis that Wikipedia hasn’t gone dark for a day or covered itself in pi
 
 Registered back in 2009, Megaupload(dot)cm takes you a site located at surveytakelive(dot)com, which tells us via the method of popup box that there are prizes up for grabs and you’ll have to fill in some personal information.
 
-![](http://3.bp.blogspot.com/-d9IzquD2MCA/Tx6jiNLHDlI/AAAAAAAAEak/3Lpn5MXPV7c/s1600/megauploadcm1.jpg)
+![](/images/2012/01/megauploadcm1.jpg)
 
 Next up, you have to pick one of the three options presented. I went with the Love Thermometer, mainly because it’s called the Love Thermometer and also has a graphic of a baseball bat.
 
-![](http://1.bp.blogspot.com/-ZcXuNcOB6dI/Tx6jrNRzUoI/AAAAAAAAEas/AC4nK0Hnmvg/s1600/megauploadcm2.jpg)
+![](/images/2012/01/megauploadcm2.jpg)
 
 Hitting the Love Thermometer button takes us to a promo located at enterfactory(dot)com, which turns out to be a mobile phone promotion costing various amounts of cash per day until the user unsubscribes.
 
-![](http://4.bp.blogspot.com/-BcNziAqZeFU/Tx6j18zEnQI/AAAAAAAAEa0/w6tKLGmLrKw/s1600/megauploadcm3.jpg)
+![](/images/2012/01/megauploadcm3.jpg)
 
 The adverts served are region specific – the above are what you’ll see if in the Philippines, whereas visiting from the US will result in iPad, Walmart and Visa giftcard offers instead.
 

@@ -19,8 +19,8 @@ Users who click on a poisoned search result link will be redirected to a website
 
 Screenshots of the rogue AV:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/Sy_zHxGf1hI/AAAAAAAAAco/BX1b90YSdvo/s400/brittanymurphyseo_1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/Sy_zHxGf1hI/AAAAAAAAAco/BX1b90YSdvo/s1600-h/brittanymurphyseo_1.jpg)
+[![](/images/2009/12/brittanymurphyseo_1.jpg)](/images/2009/12/brittanymurphyseo_1-8c5dcc2e.jpg)
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy_zLbUEe5I/AAAAAAAAAcw/syaIYFuRy24/s400/brittanymurphyseo_2.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy_zLbUEe5I/AAAAAAAAAcw/syaIYFuRy24/s1600-h/brittanymurphyseo_2.jpg)
+[![](/images/2009/12/brittanymurphyseo_2.jpg)](/images/2009/12/brittanymurphyseo_2-2485f0f3.jpg)
 
 Absolutely bog standard SEO attack – but still worth a warning to those who might be looking for more news on the event.

@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S78hQKKIGZI/AAAAAAAAB1k/2hwQmOgsEys/s400/twitter_blackberry.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S78hQKKIGZI/AAAAAAAAB1k/2hwQmOgsEys/s1600/twitter_blackberry.jpg)
+[![](/images/2010/04/twitter_blackberry.jpg)](/images/2010/04/twitter_blackberry-93d98412.jpg)
 
 One month ago we heard about the official Twitter app for BlackBerry, which has been in the works for quite some time now, bringing features such as automatic URL-shortening, easy photo-sharing, push and message list integration and search filtered by geolocation.
 

@@ -14,7 +14,7 @@ categories:
 ---
 System Adware Scanner 2010 is phony security software, made to look and act like legitimate security software. System Adware Scanner 2010 is a potentially very dangerous PC infection that should be removed from infected systems immediately.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/Sy1CFaakd6I/AAAAAAAAAbs/kNfeZ9tK74I/s400/SystemAdwareScanner2010_GUI.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/Sy1CFaakd6I/AAAAAAAAAbs/kNfeZ9tK74I/s1600-h/SystemAdwareScanner2010_GUI.jpg)
+[![](/images/2009/12/SystemAdwareScanner2010_GUI.jpg)](/images/2009/12/SystemAdwareScanner2010_GUI-9e1c42b7.jpg)
 
 System Adware Scanner 2010 usually uses false security warnings and alerts to frighten people into buying the software. System Adware Scan 2010 will run system scans and report numerous infections to the user, which are false. System Adware Scanner 2010 will then request payment to remove the supposed infections.
 

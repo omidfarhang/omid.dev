@@ -25,32 +25,32 @@ Yesterday, I was testing Internet Explorer 8 and made a typo in the address bar.
 
 There is no such domain, so Microsoft Bing kicked in and I ended up with the following search results:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42UDWd6N9I/AAAAAAAABFM/UVKFl7kcbGE/s640/feeling-lucky-01.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42UDWd6N9I/AAAAAAAABFM/UVKFl7kcbGE/s1600-h/feeling-lucky-01.png)
+[![](/images/2010/03/feeling-lucky-01.png)](/images/2010/03/feeling-lucky-01-87431ec9.png)
 
 What? No results?!?
 
 So I searched for updates.microsoft.com with Google:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42Uixng-QI/AAAAAAAABFU/IJfg4VpGvi0/s640/feeling-lucky-02.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42Uixng-QI/AAAAAAAABFU/IJfg4VpGvi0/s1600-h/feeling-lucky-02.png)
+[![](/images/2010/03/feeling-lucky-02.png)](/images/2010/03/feeling-lucky-02-63a72ca8.png)
 Did I mean update? Yeah, I guess so… Thanks.
 
 Bing's results seemed sort of odd so I examined the settings and it turned out to be some idiosyncrasy of Finnish based results.
 
 Changing the settings to the United States produced the following:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42U5U0ynmI/AAAAAAAABFc/_TLE7ipDjso/s640/feeling-lucky-03.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42U5U0ynmI/AAAAAAAABFc/_TLE7ipDjso/s1600-h/feeling-lucky-03.png)
+[![](/images/2010/03/feeling-lucky-03.png)](/images/2010/03/feeling-lucky-03-e5cfc7b4.png)
 
 Better.
 
 I continued testing Bing. Here's a Bing search for microsoft updates:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42VRBArgpI/AAAAAAAABFk/CYfcaAAonbU/s640/feeling-lucky-04.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42VRBArgpI/AAAAAAAABFk/CYfcaAAonbU/s1600-h/feeling-lucky-04.png)
+[![](/images/2010/03/feeling-lucky-04.png)](/images/2010/03/feeling-lucky-04-0c894639.png)
 
 84,700,000 results.
 
 Here's a Google search for the same:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42Vxa8kytI/AAAAAAAABFs/dpuShTp-4zk/s640/feeling-lucky-05.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42Vxa8kytI/AAAAAAAABFs/dpuShTp-4zk/s1600-h/feeling-lucky-05.png)
+[![](/images/2010/03/feeling-lucky-05.png)](/images/2010/03/feeling-lucky-05-005ad956.png)
 
 90,900,00 results.
 
@@ -62,13 +62,13 @@ The program launched on Monday and its [web site was quickly overwhelmed](http:/
 
 Here's the Bing search for “mn appliance rebate”:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42WY7eUrrI/AAAAAAAABF0/yLYkZDUpwtk/s640/feeling-lucky-06.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42WY7eUrrI/AAAAAAAABF0/yLYkZDUpwtk/s1600-h/feeling-lucky-06.png)
+[![](/images/2010/03/feeling-lucky-06.png)](/images/2010/03/feeling-lucky-06-7d09d07a.png)
 
 25,300 results.
 
 And Google?
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42WnjHTaLI/AAAAAAAABF8/Herymchqxyg/s640/feeling-lucky-07.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42WnjHTaLI/AAAAAAAABF8/Herymchqxyg/s1600-h/feeling-lucky-07.png)
+[![](/images/2010/03/feeling-lucky-07.png)](/images/2010/03/feeling-lucky-07-ea4dea1b.png)
 
 31,300 results.
 
@@ -76,19 +76,19 @@ And Google?
 
 Google, on the other hand, had many bad links. This was the sixth result on the first page:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42W6_CWwTI/AAAAAAAABGE/nszONEBqXJg/s640/feeling-lucky-08.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42W6_CWwTI/AAAAAAAABGE/nszONEBqXJg/s1600-h/feeling-lucky-08.png)
+[![](/images/2010/03/feeling-lucky-08.png)](/images/2010/03/feeling-lucky-08-c72a6d52.png)
 
 Clicking the link launched a rogue scam:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S42XFUxDuKI/AAAAAAAABGM/YPbhTY3_ueY/s640/feeling-lucky-09.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S42XFUxDuKI/AAAAAAAABGM/YPbhTY3_ueY/s1600-h/feeling-lucky-09.png)
+[![](/images/2010/03/feeling-lucky-09.png)](/images/2010/03/feeling-lucky-09-8e1a3b4f.png)
 
 And then I was given the typical scan scam crap that is so profitable for the bad guys:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42XSka1-aI/AAAAAAAABGU/6HCLwTujYHA/s640/feeling-lucky-10.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S42XSka1-aI/AAAAAAAABGU/6HCLwTujYHA/s1600-h/feeling-lucky-10.png)
+[![](/images/2010/03/feeling-lucky-10.png)](/images/2010/03/feeling-lucky-10-5ed4fde5.png)
 
 The sites pushed this file:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S42XhVTTy1I/AAAAAAAABGc/nFY13Rh6YXI/s640/feeling-lucky-11.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S42XhVTTy1I/AAAAAAAABGc/nFY13Rh6YXI/s1600-h/feeling-lucky-11.png)
+[![](/images/2010/03/feeling-lucky-11.png)](/images/2010/03/feeling-lucky-11-665cf6c4.png)
 
 It's now detected as Rogue:W32/FakeAlert.LB. Google works hard to filter out harmful search results, but it's a difficult task.
 
@@ -100,4 +100,4 @@ Google has been around and is simply receiving too much attention from the wrong
 
 Ask you yourself this: [Do you feel lucky](http://www.google.com/#hl=en&source=hp&q=i%27m+feeling+lucky&aq=f&aqi=g10&aql=&oq=&fp=c5aa4278f68e4a4)?
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42X3LXlX4I/AAAAAAAABGk/srdTKvftJCI/s640/feeling-lucky-12.png)](http://www.google.com/#hl=en&source=hp&q=i%27m+feeling+lucky&aq=f&aqi=g10&aql=&oq=&fp=c5aa4278f68e4a4)
+[![](/images/2010/03/feeling-lucky-12.png)](http://www.google.com/#hl=en&source=hp&q=i%27m+feeling+lucky&aq=f&aqi=g10&aql=&oq=&fp=c5aa4278f68e4a4)

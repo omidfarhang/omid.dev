@@ -14,13 +14,13 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-0yY6IffCBtA/TaWJYhsqm0I/AAAAAAAAD1I/Z6b3mlUFtXw/s1600/Ubuntu_OLD_Logo_200-9a0ec4ffb926b5c0.png)](http://4.bp.blogspot.com/-0yY6IffCBtA/TaWJYhsqm0I/AAAAAAAAD1I/Z6b3mlUFtXw/s1600/Ubuntu_OLD_Logo_200-9a0ec4ffb926b5c0.png)
+[![](/images/2011/04/Ubuntu_OLD_Logo_200-9a0ec4ffb926b5c0.png)](/images/2011/04/Ubuntu_OLD_Logo_200-9a0ec4ffb926b5c0.png)
 
 **H-Online:** In a [post](https://lists.ubuntu.com/archives/ubuntu-security-announce/2011-April/001301.html) on the project's security announce mailing list, Ubuntu Release Manager Kate Stewart has reminded users that the desktop version of [Ubuntu 8.04 LTS](http://www.h-online.com/open/features/Ubuntu-8-04-a-first-look-746486.html), code named Hardy Heron, will reach its end of life in May. Version 8.04 of the Debian-derived Linux distribution was [released](http://www.h-online.com/news/item/Ubuntu-8-04-LTS-released-736132.html) on 24 April 2008.
 
 Based on the 2.6.24 Linux kernel, it placed a stronger focus on stability and ease of use, rather than on new features, and included the GNOME 2.22 desktop environment, as well as a new installer that allowed Ubuntu to be installed directly under Windows without having to boot from CD or re-partition the hard disk. Built-in applications included version 2.4 of the OpenOffice.org office suite, Firefox 3.0 Beta 5, the F-Spot photo manager and the GIMP image editor. After 12 May 2011, no new updates, including security updates and critical fixes, will be available. The server edition of Ubuntu 8.04 LTS will continue to be supported until May 2013.
 
-[![](http://4.bp.blogspot.com/-MwqP5MgbeXM/TaWJisVc6eI/AAAAAAAAD1M/S3dk9cljBJ4/s320/Ubuntu_8.04_LTS-1e7959781135a586.png)](http://4.bp.blogspot.com/-MwqP5MgbeXM/TaWJisVc6eI/AAAAAAAAD1M/S3dk9cljBJ4/s1600/Ubuntu_8.04_LTS-1e7959781135a586.png)
+[![](/images/2011/04/Ubuntu_8.04_LTS-1e7959781135a586.png)](/images/2011/04/Ubuntu_8.04_LTS-1e7959781135a586-fe269e9a.png)
 
 Hardy Heron users are advised to [upgrade](https://help.ubuntu.com/community/LucidUpgrades) to a later release to continue receiving updates. The developers note that users wanting to upgrade to 10.10 from 8.04 will first have to upgrade to 10.04 LTS. Standard releases of Ubuntu are supported for 18 months of updates for both the desktop and server versions, while Long Term Support (LTS) versions of Ubuntu are supported for three years for the desktop releases and five years for server releases.
 

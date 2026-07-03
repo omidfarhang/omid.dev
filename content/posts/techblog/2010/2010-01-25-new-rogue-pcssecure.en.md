@@ -15,6 +15,6 @@ categories:
 ---
 PcsSecure is the latest cloned rogue antispyware from the WiniGuard family.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S14Q58s6keI/AAAAAAAAAv4/2UWs5uOsPBA/s640/pcssecure.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S14Q58s6keI/AAAAAAAAAv4/2UWs5uOsPBA/s1600-h/pcssecure.jpg)
+[![](/images/2010/01/pcssecure.jpg)](/images/2010/01/pcssecure-ae693eb8.jpg)
 
 if your computer is infected with this malware you should remove it soon.

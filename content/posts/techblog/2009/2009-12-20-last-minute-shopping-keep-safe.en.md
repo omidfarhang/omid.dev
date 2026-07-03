@@ -29,18 +29,18 @@ You may use [Secunia](http://secunia.com/vulnerability_scanning/online/) to scan
 
 4. Check that the sites you shop on are secure! A secure online shopping site will have a valid digital certificate which is used to encryption and secure your online transaction and it will have an icon showing a closed padlock in the bottom or the top of your browser.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy1kZg18UbI/AAAAAAAAAcA/R2AGe85hB4Q/s640/208187958.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy1kZg18UbI/AAAAAAAAAcA/R2AGe85hB4Q/s1600-h/208187958.png)
+[![](/images/2009/12/208187958.png)](/images/2009/12/208187958-a24d25f4.png)
 
 The address bar should have an ‘https’ string before the page address.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy1kY47wjJI/AAAAAAAAAb4/PGWrPkuiGMI/s640/208187957.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy1kY47wjJI/AAAAAAAAAb4/PGWrPkuiGMI/s1600-h/208187957.png)
+[![](/images/2009/12/208187957.png)](/images/2009/12/208187957-70c441b3.png)
 
 Remember – NEVER shop on a page which doesn’t have ‘https’ in the address bar:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy1kahqAV1I/AAAAAAAAAcI/fXFm5EdMdIo/s640/208187959.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy1kahqAV1I/AAAAAAAAAcI/fXFm5EdMdIo/s1600-h/208187959.png)
+[![](/images/2009/12/208187959.png)](/images/2009/12/208187959-ee947e7e.png)
 
 or if the padlock is open or broken, or if you get a warning regarding the digital certificate of the page you’re on!
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy1kbc3-T8I/AAAAAAAAAcQ/NasolA4B9S0/s640/208187960.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sy1kbc3-T8I/AAAAAAAAAcQ/NasolA4B9S0/s1600-h/208187960.jpg)
+[![](/images/2009/12/208187960.jpg)](/images/2009/12/208187960-1f837579.jpg)
 
 Wishing you safe online shopping and happy holidays!

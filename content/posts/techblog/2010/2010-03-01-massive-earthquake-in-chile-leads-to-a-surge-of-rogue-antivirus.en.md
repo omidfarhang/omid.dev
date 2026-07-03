@@ -21,11 +21,11 @@ A [massive earthquake struck near the Chilean city of Concepcion](http://news.bb
 
 Search engine results returned for terms such as “Chile Earthquake” are being poisoned to lead users to rogue antivirus web sites.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4ucsVYyXmI/AAAAAAAABCk/AHrysmBJBl0/s640/chile_search.PNG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4ucsVYyXmI/AAAAAAAABCk/AHrysmBJBl0/s1600-h/chile_search.PNG)
+[![](/images/2010/03/chile_search.png)](/images/2010/03/chile_search-7dc09e55.png)
 
 Visiting the URLs show the all too familiar fake online scan page such as the following:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uctv85STI/AAAAAAAABCs/wux7OJlKsg8/s640/fakescan.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uctv85STI/AAAAAAAABCs/wux7OJlKsg8/s1600-h/fakescan.png)
+[![](/images/2010/03/fakescan.png)](/images/2010/03/fakescan-404099f8.png)
 
 Notice that this fake scan window was actually presented inside a Firefox browser window but the fake scan window says I'm using IE 7.0, I guess the people behind this particular scam slipped up a bit on this minor point.
 

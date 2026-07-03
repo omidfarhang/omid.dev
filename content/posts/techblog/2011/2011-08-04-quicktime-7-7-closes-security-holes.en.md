@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-c_i3xoOcbiI/TjqgHJPa23I/AAAAAAAAD8Q/d-jgLK-50cI/s1600/quicktime_logo_txt200-56bc9f4a22d1598c.png)](http://1.bp.blogspot.com/-c_i3xoOcbiI/TjqgHJPa23I/AAAAAAAAD8Q/d-jgLK-50cI/s1600/quicktime_logo_txt200-56bc9f4a22d1598c.png)
+[![](/images/2011/08/quicktime_logo_txt200-56bc9f4a22d1598c.png)](/images/2011/08/quicktime_logo_txt200-56bc9f4a22d1598c.png)
 
 **H-Security Online:** Version 7.7 of [QuickTime](http://www.apple.com/quicktime/) is now available for users running Windows XP SP2 or later and Mac OS X v10.5.8 Leopard. The maintenance and security update addresses a total of 14 security vulnerabilities in the multimedia application.
 

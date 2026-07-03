@@ -24,17 +24,17 @@ However, the messages are really designed to steal your Twitter usernames and pa
 
 Here's a typical message that users are seeing:
 
-[![](http://1.bp.blogspot.com/-IIngieAPmLM/TkgzUstoLpI/AAAAAAAAD9s/fVtBZhwDZ_o/s400/twitter-stalkers.jpg)](http://1.bp.blogspot.com/-IIngieAPmLM/TkgzUstoLpI/AAAAAAAAD9s/fVtBZhwDZ_o/s1600/twitter-stalkers.jpg)
+[![](/images/2011/08/twitter-stalkers.jpg)](/images/2011/08/twitter-stalkers-30c9bb63.jpg)
 
 > Twitter finally released an app that tracks your “Stalkers” get it here \[LINK\]
 
 If you click on the link you are taken to what appears to be a legitimate Twitter page, asking you to confirm your username and password before the “Stalkers” app can access your account.
 
-[![](http://4.bp.blogspot.com/-FW6K8T_f668/TkgzjS6xA5I/AAAAAAAAD90/lCh23AIBLas/s400/twitter-stalkers-site.jpg)](http://4.bp.blogspot.com/-FW6K8T_f668/TkgzjS6xA5I/AAAAAAAAD90/lCh23AIBLas/s1600/twitter-stalkers-site.jpg)
+[![](/images/2011/08/twitter-stalkers-site.jpg)](/images/2011/08/twitter-stalkers-site-e06899ce.jpg)
 
 However, if you look at your browser's URL you will see that the page is not hosted by Twitter at all.
 
-[![](http://4.bp.blogspot.com/-CxX8YDiPfF0/Tkgzg-pnxoI/AAAAAAAAD9w/4_tkVteZnYc/s400/twitter-stalkers-url.jpg)](http://4.bp.blogspot.com/-CxX8YDiPfF0/Tkgzg-pnxoI/AAAAAAAAD9w/4_tkVteZnYc/s1600/twitter-stalkers-url.jpg)
+[![](/images/2011/08/twitter-stalkers-url.jpg)](/images/2011/08/twitter-stalkers-url-310fc3cb.jpg)
 
 If you make the mistake of entering your username and password then you will handing over the keys to your account to phishers, who would then be able to use your account to read your private messages, send messages (perhaps spam-related or containing malicious links) to your followers.
 

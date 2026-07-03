@@ -28,9 +28,9 @@ Visiting Twitter.com at 10:15 PM PST tonight rendered the following images and t
 
 > U.S.A Think They Controlling And managing Internet By Their Access, But They Don’t, We Control And Manage Internet By Our Power, So Do Not Try To Stimulation Iranian Peoples To. NOW WHICH COUNTRY IN EMBARGO LIST? IRAN?USA? WE PUSH THEM IN EMBARGO LIST 😉 Take care.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyuYLKD-V0I/AAAAAAAAAZU/VZcDG87eZXg/s400/4194607094_99eae40088_o.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyuYLKD-V0I/AAAAAAAAAZU/VZcDG87eZXg/s1600-h/4194607094_99eae40088_o.png)
+[![](/images/2009/12/4194607094_99eae40088_o.png)](/images/2009/12/4194607094_99eae40088_o-7a1bb006.png)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyuYOjTATGI/AAAAAAAAAZc/7lZQjGOhXts/s400/4193845275_bea7afdd32_b.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyuYOjTATGI/AAAAAAAAAZc/7lZQjGOhXts/s1600-h/4193845275_bea7afdd32_b.jpg)
+[![](/images/2009/12/4193845275_bea7afdd32_b.jpg)](/images/2009/12/4193845275_bea7afdd32_b-f7d71ff5.jpg)
 
   
 Updates:

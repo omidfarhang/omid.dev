@@ -21,15 +21,15 @@ Today we observed an increase in spam messages containing links to a particular 
 
 The received messages state that mailbox ‘settings were changed' and urge users to ‘apply the new set of settings' by clicking a link to an executable, which unsurprisingly turns out to be malicious:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s640/image1.jpeg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S4f1NnBjxMI/AAAAAAAABA8/aRUl_3Ahifw/s1600-h/image1.jpeg)
+[![](/images/2010/02/image1.jpeg)](/images/2010/02/image1-2517d433.jpeg)
 
 Clicking the link leads to a download of the following misleading application, which we see here with the usual UI misspellings and fake scan results:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4f1RZCWfHI/AAAAAAAABBE/HyE9hxB25KY/s640/image2.jpeg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4f1RZCWfHI/AAAAAAAABBE/HyE9hxB25KY/s1600-h/image2.jpeg)
+[![](/images/2010/02/image2.jpeg)](/images/2010/02/image2-c2240820.jpeg)
 
 And, naturally, the usual prompt for registration:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s640/image3.jpeg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4f1T6Z7czI/AAAAAAAABBM/jdvwbUn-hmg/s1600-h/image3.jpeg)
+[![](/images/2010/02/image3.jpeg)](/images/2010/02/image3-c271f51f.jpeg)
 
 Uh-oh: “25 critical system objects”! But I just installed the OS!
 

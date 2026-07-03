@@ -16,8 +16,8 @@ categories:
 ---
 Recently I'm seeing more facebook scams which claim to be very hot videos, but they are nothing but scam, here is 2 samples:
 
-![](http://1.bp.blogspot.com/-tdpE9qEvipc/Tx6LttBD2tI/AAAAAAAAEZ0/kZEVfHW-CYY/s1600/21sec.PNG)
+![](/images/2012/01/21sec.png)
 
-![](http://3.bp.blogspot.com/-zwcG6TPlN0k/Tx6LwaWviFI/AAAAAAAAEZ8/aZxNncLzfoU/s1600/kat.PNG)
+![](/images/2012/01/kat.png)
 
 When you see any of them, hover your mouse over the post, and click on the x button in top right which says “Report/Mark Spam”.

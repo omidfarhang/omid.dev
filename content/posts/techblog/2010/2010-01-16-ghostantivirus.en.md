@@ -15,4 +15,4 @@ categories:
 ---
 GhostAntivirus is a new rogue anti-virus application. It is a clone of InternetAntivirusPro.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1ECucN9B4I/AAAAAAAAAps/HzKffIbdOao/s640/ghostantivirus.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1ECucN9B4I/AAAAAAAAAps/HzKffIbdOao/s1600-h/ghostantivirus.jpg)
+[![](/images/2010/01/ghostantivirus.jpg)](/images/2010/01/ghostantivirus-19413572.jpg)

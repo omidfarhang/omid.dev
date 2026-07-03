@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/--iUgHInhmNQ/TklyipenvII/AAAAAAAAD-A/1tQlEQXYcNo/s320/logo-wordmark-vertical.png)](http://3.bp.blogspot.com/--iUgHInhmNQ/TklyipenvII/AAAAAAAAD-A/1tQlEQXYcNo/s1600/logo-wordmark-vertical.png)
+[![](/images/2011/08/logo-wordmark-vertical-70e989d1.png)](/images/2011/08/logo-wordmark-vertical-22579608.png)
 
 **Mashable**: Firefox 6 isn’t scheduled to be released until Tuesday, but Mozilla has uploaded installation files to a FTP server for those who want to get their hands on the upgraded browser early.
 

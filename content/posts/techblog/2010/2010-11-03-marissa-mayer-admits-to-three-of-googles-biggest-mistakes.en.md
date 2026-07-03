@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/TNHO2tVQRUI/AAAAAAAADAo/NlQ_Upd2l1c/s200/1103-marissa-mayer_at.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/TNHO2tVQRUI/AAAAAAAADAo/NlQ_Upd2l1c/s1600/1103-marissa-mayer_at.jpg)
+[![](/images/2010/11/1103-marissa-mayer_at.jpg)](/images/2010/11/1103-marissa-mayer_at-35231b02.jpg)
 
 Marissa Mayer, Google's VP of Geographic and Local Services, joined in 1999 as the company's 20th employee. During a recent 22-minute interview on Digg Dialogg, Mayer was asked “What do you think Google's biggest mistake has been during your presence there?” Mayer's answer pertained to three products: Wave, Dejanews.com, and Gmail.
 

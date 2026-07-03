@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oUENCPFwI/AAAAAAAAAyI/5vwgb6DXOZU/s640/story.google.tablet.chrome.courtesy.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oUENCPFwI/AAAAAAAAAyI/5vwgb6DXOZU/s1600-h/story.google.tablet.chrome.courtesy.jpg)
+[![](/images/2010/02/story.google.tablet.chrome.courtesy.jpg)](/images/2010/02/story.google.tablet.chrome.courtesy-311097eb.jpg)
 
 ([CNET](http://www.cnet.com/)) — Who could resist the months of hype that paved the way for Apple's iPad debut last week? Apparently not Google, which has shown its interest in tablet computing with its browser-based Chrome OS.  
 On Monday, Glen Murphy, a user interface designer for Google's Chrome browser and the Chrome operating system based on it, pointed to image and video concepts of a Chrome OS-based tablet that went live two days before the iPad launch. Apparently nobody noticed initially, because only now did Murphy tweet, “Apparently our tablet mocks have been unearthed.”  

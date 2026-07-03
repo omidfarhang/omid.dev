@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-pRWbbTDU_xs/Tl6sGz7y_hI/AAAAAAAAEAc/QqyT7jOv5mo/s320/Google.jpg)](http://4.bp.blogspot.com/-pRWbbTDU_xs/Tl6sGz7y_hI/AAAAAAAAEAc/QqyT7jOv5mo/s1600/Google.jpg)
+[![](/images/2011/08/Google-4b7008bd.jpg)](/images/2011/08/Google-e9c48bae.jpg)
 
 **Google:** Today we received reports of attempted SSL man-in-the-middle (MITM) attacks against Google users, whereby someone tried to get between them and encrypted Google services. The people affected were primarily located in Iran. The attacker used a fraudulent SSL certificate issued by DigiNotar, a root certificate authority that should not issue certificates for Google (and has since revoked it).  
 Google Chrome users were protected from this attack because Chrome was able to [detect](http://blog.chromium.org/2011/06/new-chromium-security-features-june.html) the fraudulent certificate.

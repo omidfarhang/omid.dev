@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-0nf1XyfIJfM/Tmk5xNiI7CI/AAAAAAAAEBo/gNeHByySpsk/s1600/bill-gates-thinking.jpg)](http://4.bp.blogspot.com/-0nf1XyfIJfM/Tmk5xNiI7CI/AAAAAAAAEBo/gNeHByySpsk/s1600/bill-gates-thinking.jpg)
+[![](/images/2011/09/bill-gates-thinking.jpg)](/images/2011/09/bill-gates-thinking.jpg)
 
 **Business Insider**: A new [poll](http://www.challenges.fr/actualite/high-tech/20110907.CHA3744/pour-les-francais-microsoft-a-davantage-change-le-monde-qu-apple.html) in France says 7 out of 10 people think Microsoft did more to change the world than Apple. We think we would have similar results in other countries, if only because a lot more people (still!) use Microsoft products than Apple products, at least for personal computing which is (still!) the most important part of computing.
 

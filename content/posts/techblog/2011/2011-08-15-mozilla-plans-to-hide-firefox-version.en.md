@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/--iUgHInhmNQ/TklyipenvII/AAAAAAAAD-A/1tQlEQXYcNo/s200/logo-wordmark-vertical.png)](http://3.bp.blogspot.com/--iUgHInhmNQ/TklyipenvII/AAAAAAAAD-A/1tQlEQXYcNo/s1600/logo-wordmark-vertical.png)
+[![](/images/2011/08/logo-wordmark-vertical-027e6ade.png)](/images/2011/08/logo-wordmark-vertical-22579608.png)
 
 gHacks: One “by-product” of the rapid release cycle of the Firefox web browser is the version number increase that goes along with every new release of the web browser. Firefox this year jumped from Firefox 3 all the way to the latest version Firefox 8, and we are not even at the end of the year.
 
@@ -22,7 +22,7 @@ Mozilla interestingly enough [plans](https://bugzilla.mozilla.org/show_bug.cgi?i
 
 Firefox users who currently want to know which version of the browser they are running can click on Firefox > Help > About Firefox to find out.
 
-[![](http://4.bp.blogspot.com/-oHKB-LRUUzE/Tkl3LwLacDI/AAAAAAAAD-E/_xYB7GGsww4/s400/about-firefox.png)](http://4.bp.blogspot.com/-oHKB-LRUUzE/Tkl3LwLacDI/AAAAAAAAD-E/_xYB7GGsww4/s1600/about-firefox.png)
+[![](/images/2011/08/about-firefox.png)](/images/2011/08/about-firefox-998a864a.png)
 
 The original idea by Asa is to remove the version information in the about window and replace it with the more general information that the user is running the latest version of the browser.
 

@@ -19,13 +19,13 @@ While everyone is searching the web for the unusual gift on Valentine’s Day, C
 
 I have searched for the keywords “unusual-valentines-day-gifts”, gives the following results:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3dGAS_LV3I/AAAAAAAAA84/u0RxIVg1oVI/s400/1google-search.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3dGAS_LV3I/AAAAAAAAA84/u0RxIVg1oVI/s1600-h/1google-search.jpg)
+[![](/images/2010/02/1google-search.jpg)](/images/2010/02/1google-search-594505ed.jpg)
 
 Clicking the highlighted link above will lead to fake message such as “Alert! Your system is exposed to risk of virus attack. It’s highly recommended to check your PC immediately. Press OK to start the scan right now”.
 
 And then eventually leads to the fake scanning page that will surely alert you to download and execute binary file, just like this one:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3dGCIgRNXI/AAAAAAAAA9A/Xo9_YtW9L8c/s400/pop-up5.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3dGCIgRNXI/AAAAAAAAA9A/Xo9_YtW9L8c/s1600-h/pop-up5.jpg)
+[![](/images/2010/02/pop-up5.jpg)](/images/2010/02/pop-up5-e5456c02.jpg)
 
 Executing the downloaded file will install Fake Antivirus.
 

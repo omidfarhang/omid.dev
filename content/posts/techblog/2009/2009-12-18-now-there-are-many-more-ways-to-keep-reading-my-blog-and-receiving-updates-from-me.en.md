@@ -13,7 +13,7 @@ categories:
 ---
 you may follow me on [Twitter](http://twitter.com/OmidFarhangEn):
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SywHIxG801I/AAAAAAAAAZk/4KAdwCSEuOs/s640/twitter_logo_header.png)](http://twitter.com/OmidfarhangEn)
+[![](/images/2009/12/twitter_logo_header.png)](http://twitter.com/OmidfarhangEn)
 
 Subscribe for my RSS:
 

@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-qbqTu8XbLI0/Ta7HGt9fl5I/AAAAAAAAD2g/E2vTQHwbqPk/s1600/2011-04-VB-100-scaled.jpg)](http://3.bp.blogspot.com/-qbqTu8XbLI0/Ta7HGt9fl5I/AAAAAAAAD2g/E2vTQHwbqPk/s1600/2011-04-VB-100-scaled.jpg)
+[![](/images/2011/04/2011-04-VB-100-scaled.jpg)](/images/2011/04/2011-04-VB-100-scaled.jpg)
 
 **Avira TechBlog:** The series continues – Avira AntiVir Personal and Avira AntiVir Professional received the April 2011 VB100 award! The tests were executed in a Windows XP SP3 environment by the [Virus Bulletin](http://www.virusbtn.com/index) test engineers.
 

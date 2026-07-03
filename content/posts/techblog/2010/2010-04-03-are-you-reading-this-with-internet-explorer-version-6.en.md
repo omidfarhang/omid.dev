@@ -42,7 +42,7 @@ AND, keep in mind, drive-by downloads are just one type of exploit that can take
 **IE6 is a Web development pain  
 ** IE6 is not only a horrible security risk, but the browser – which first came out in 2001 – is a pain for Web developers to write pages for. So, a group of developers are taking the situation in hand and adding a notice to their sites to tell IE6 users to upgrade. As a matter of fact, they’ve put up a web site (IE6NoMore.com) which offers code that can be downloaded so OTHER developers to do the same. The code presents a notice which looks like this (in English):
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7em8evmtfI/AAAAAAAABfQ/8TAftuhcGGs/s400/Ditch_20IE6.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7em8evmtfI/AAAAAAAABfQ/8TAftuhcGGs/s1600-h/Ditch_20IE6.png)
+[![](/images/2010/04/Ditch_20IE6.png)](/images/2010/04/Ditch_20IE6-de8b3c3c.png)
 
 IE6NoMore.com offers these notices in seven languages and says they are going to offer similar ones shortly in Arabic, Thai, Chinese, Farsi, Hungarian, Dutch, Polish, Danish, German, Hebrew and Russian. 
 

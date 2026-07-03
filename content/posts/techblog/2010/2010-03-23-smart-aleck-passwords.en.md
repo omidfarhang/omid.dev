@@ -17,7 +17,7 @@ categories:
 
 Over 127,000 account names and passwords were leaked.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kC5JrKgJI/AAAAAAAABY0/KWuicdCpBI0/s400/alypaa.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kC5JrKgJI/AAAAAAAABY0/KWuicdCpBI0/s1600-h/alypaa.png)
+[![](/images/2010/03/alypaa.png)](/images/2010/03/alypaa-affb7d6f.png)
 
 The site has currently suspended access and doesn't maintain any personal details but Älypää users should determine whether or not they recycle their passwords elsewhere. If so, those accounts are at risk of being hacked.
 
@@ -25,11 +25,11 @@ CERT-FI [guidelines can be found here](http://cert.fi/varoitukset/2010/varoitus-
 
 Here's a list of the top 20 domains on the list:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6kC5rzsYtI/AAAAAAAABY8/MlUn39XToig/s1600/alypaa-password-list.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6kC5rzsYtI/AAAAAAAABY8/MlUn39XToig/s1600-h/alypaa-password-list.png)
+[![](/images/2010/03/alypaa-password-list.png)](/images/2010/03/alypaa-password-list-2cfc2104.png)
 
 And here's a list of the top 20 passwords used:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kC5YMFHOI/AAAAAAAABY4/FluigSW5oXI/s1600/alypaa-domain-list.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kC5YMFHOI/AAAAAAAABY4/FluigSW5oXI/s1600-h/alypaa-domain-list.png)
+[![](/images/2010/03/alypaa-domain-list.png)](/images/2010/03/alypaa-domain-list-2e6511aa.png)
 
 The number one choice? It's **salasana** — that's Finnish for **password**.
 

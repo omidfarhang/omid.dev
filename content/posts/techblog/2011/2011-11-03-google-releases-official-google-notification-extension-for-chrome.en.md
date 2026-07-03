@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-d9jl6_Vv0Tg/TrKEVqq8GUI/AAAAAAAAENs/FQ7yyiEeu58/s1600/new-chrome-logo.png)](http://1.bp.blogspot.com/-d9jl6_Vv0Tg/TrKEVqq8GUI/AAAAAAAAENs/FQ7yyiEeu58/s1600/new-chrome-logo.png)
+[![](/images/2011/11/new-chrome-logo.png)](/images/2011/11/new-chrome-logo.png)
 
 **gHacks.net**: If you are a heavy user of Google’s Google+ social networking product you are probably keeping the site running in a tab all the time to never miss new messages. But even if you do, you need to switch back to the tab regularly to see if there are any new notifications on Google+.
 
@@ -24,7 +24,7 @@ Google+ Notifications works in principle just like any other notification extens
 
 The button of the notification extension turns red whenever updates are waiting for the user. A click on the button displays all recent messages and updates on Google+. This feature is a copy of the Google Toolbar button that offers the exact same functionality.
 
-[![](http://4.bp.blogspot.com/-zEcFel-q3ZA/TrKD4snc6jI/AAAAAAAAENk/f0VH8VQb000/s400/google%252Bnotifications.jpg)](http://4.bp.blogspot.com/-zEcFel-q3ZA/TrKD4snc6jI/AAAAAAAAENk/f0VH8VQb000/s1600/google%252Bnotifications.jpg)
+[![](/images/2011/11/google-2Bnotifications.jpg)](/images/2011/11/google-2Bnotifications-ce991b06.jpg)
 
  Notifications include updates on who added you on Google+ and who added a comment or +1 to one of your posts or a post you commented on.
 

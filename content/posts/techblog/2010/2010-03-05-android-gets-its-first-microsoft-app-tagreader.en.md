@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BcnbzN5uI/AAAAAAAABKc/5pcDdDQZWIo/s640/4622.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5BcnbzN5uI/AAAAAAAABKc/5pcDdDQZWIo/s1600-h/4622.jpg)
+[![](/images/2010/03/4622.jpg)](/images/2010/03/4622-69758c90.jpg)
 
 Barcode and [QR code](http://en.wikipedia.org/wiki/QR_Code) reader applications are now standard fare for smartphones and can be commonly found for free in any of the major app stores. But far less common are comprehensive services that let users make their own QR codes for free.
 

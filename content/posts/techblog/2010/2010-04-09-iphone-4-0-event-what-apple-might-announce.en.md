@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79Oia0TMPI/AAAAAAAAB2Q/o1He4V-VT-A/s1600/iphone-os-40-top.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79Oia0TMPI/AAAAAAAAB2Q/o1He4V-VT-A/s1600/iphone-os-40-top.jpg)
+[![](/images/2010/04/iphone-os-40-top.jpg)](/images/2010/04/iphone-os-40-top.jpg)
 
 Apple is hosting an event at 1 p.m. EST to unveil the next-generation iPhone 4.0 OS.
 

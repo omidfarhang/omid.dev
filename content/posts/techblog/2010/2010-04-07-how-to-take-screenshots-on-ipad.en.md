@@ -18,7 +18,7 @@ The way of taking a screenshot on an iPad is almost same, as it is on iPhone and
 
 1. Open any app or window of which you want to take the screenshot in your iPad.  
 2. Now hold the _Home_ button, and tap the _Power_ button (located on top right corner) of your iPad.
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70FS0bIvdI/AAAAAAAAB0c/XppncrYIuxY/s1600/ipad.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S70FS0bIvdI/AAAAAAAAB0c/XppncrYIuxY/s1600-h/ipad.jpg)
+[![](/images/2010/04/ipad.jpg)](/images/2010/04/ipad-504cf4be.jpg)
 
 3. Your screen will flash instantly, and you’ll hear a camera clicking sound. The screenshot will be saved under **Photos** on iPad. You can then share the screenshot easily using the ‘Email Photo’ option.
 

@@ -22,6 +22,6 @@ The “Christmas Card” requires it's own “special version” of Flash to be 
 
 Once ready, it will display this friendly message written in Universal Gibberish.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqnawqK2MI/AAAAAAAAAXs/bUtfe6TVzXQ/s640/Idiot.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqnawqK2MI/AAAAAAAAAXs/bUtfe6TVzXQ/s1600-h/Idiot.jpg)
+[![](/images/2009/12/Idiot.jpg)](/images/2009/12/Idiot-369272b7.jpg)
 
 Pay attention to the cheerful filename used for this message — idiot.jpg.

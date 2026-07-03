@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-KbU-00cXq-8/Tl6XfQIs27I/AAAAAAAAEAY/jQ1larkzlhg/s1600/Panda-Cloud-Antivirus-300x206.png)](http://1.bp.blogspot.com/-KbU-00cXq-8/Tl6XfQIs27I/AAAAAAAAEAY/jQ1larkzlhg/s1600/Panda-Cloud-Antivirus-300x206.png)
+[![](/images/2011/08/Panda-Cloud-Antivirus-300x206.png)](/images/2011/08/Panda-Cloud-Antivirus-300x206.png)
 
 **BetaNews.com**: Panda Security has released [Panda Cloud Antivirus 1.9.1 Beta](http://www.downloadcrew.com/article/24489-panda_cloud_antivirus_beta), a preview of its forthcoming 2.0 release. The beta sees Panda’s lightweight free cloud-based antivirus tool add firewall protection for the first time.
 

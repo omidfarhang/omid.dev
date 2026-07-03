@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600/tax-fraud.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6NNTPCtOEI/AAAAAAAABTY/wbB4FfNoJis/s1600-h/tax-fraud.png)
+[![](/images/2010/03/tax-fraud.png)](/images/2010/03/tax-fraud-bfcc45be.png)
 
 Benjamin Franklin once wrote, “‘In this world nothing can be said to be certain, except death and taxes.” These days we can add to the certainty of those two inevitable events with the addition of the annual scams that accompany tax time.
 

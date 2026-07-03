@@ -16,11 +16,11 @@ We’ve previously listed many official themes for Windows 7, presented by Micro
 
 Syue or Hsuehshan or Snow Mountain is the second highest mountain in Taiwan with its main peak at 3,886 m (12,749 ft) above sea level.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6lHCuDvoHI/AAAAAAAABZc/OwDOuA5hS44/s400/SyueMountain.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6lHCuDvoHI/AAAAAAAABZc/OwDOuA5hS44/s1600-h/SyueMountain.jpg)
+[![](/images/2010/03/SyueMountain.jpg)](/images/2010/03/SyueMountain-68ae4b64.jpg)
 
 Nenggao is a mountain in Taiwan whose southern peak has an elevation of 3,349 m. Its main peak lies at 3,261 m.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6lHC-NgSGI/AAAAAAAABZg/0wrx20oU7ME/s400/NenggaoMountain.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6lHC-NgSGI/AAAAAAAABZg/0wrx20oU7ME/s1600-h/NenggaoMountain.jpg)
+[![](/images/2010/03/NenggaoMountain.jpg)](/images/2010/03/NenggaoMountain-9e600d12.jpg)
 
 **Download:**
 

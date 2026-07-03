@@ -13,6 +13,6 @@ categories:
 ---
 Google has put up a page that shows what Web services are currently being blocked by the Chinese government.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6fuxT6crNI/AAAAAAAABXM/6MtrfJHJ_6w/s400/google.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6fuxT6crNI/AAAAAAAABXM/6MtrfJHJ_6w/s1600-h/google.png)
+[![](/images/2010/03/google.png)](/images/2010/03/google-8a298e51.png)
 
 <http://www.google.com/prc/report.html#hl=en>

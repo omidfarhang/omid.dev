@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s640/calc.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4F_NCZJZOI/AAAAAAAAA-Q/Em4Z8gqPkFI/s1600-h/calc.png)
+[![](/images/2010/02/calc.png)](/images/2010/02/calc-70d01d0f.png)
 
 First, make a note: after Adobe updates, restart your machine immediately to remove the Adobe Download Manger – it can be a vector for malcode.
 

@@ -12,13 +12,13 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-XaOk_Pks1YY/Tn-QnW_alQI/AAAAAAAAECo/jtrfUIOpUL4/s200/facebook-logo%2528High%2529.jpg)](http://3.bp.blogspot.com/-XaOk_Pks1YY/Tn-QnW_alQI/AAAAAAAAECo/jtrfUIOpUL4/s1600/facebook-logo%2528High%2529.jpg)
+[![](/images/2011/09/facebook-logo-28High-29.jpg)](/images/2011/09/facebook-logo-28High-29-4dba23c0.jpg)
 
 **SophosLabs:** A hoax claiming that Facebook is planning to start charging users continues to spread across the social network, and has now been adapted by mischief-makers into a claim that the service will be free if users forward a message before midnight.
 
 Duped users are sharing the message with their online friends, believing it will help them avoid charges of between $3.99 and $9.99 per month.
 
-[![](http://3.bp.blogspot.com/-2HTqo7Q_88c/Tn-PoA-GCKI/AAAAAAAAECk/Cc3oealcNV0/s400/facebook-price-grid.jpg)](http://3.bp.blogspot.com/-2HTqo7Q_88c/Tn-PoA-GCKI/AAAAAAAAECk/Cc3oealcNV0/s1600/facebook-price-grid.jpg)
+[![](/images/2011/09/facebook-price-grid.jpg)](/images/2011/09/facebook-price-grid-afd6639d.jpg)
 
 > FACEBOOK JUST RELEASED THEIR PRICE GRID FOR MEMBERSHIP. $9.99 PER MONTH FOR GOLD MEMBER SERVICES, $6.99 PER MONTH FOR SILVER MEMBER SERVICES, $3.99 PER MONTH FOR BRONZE MEMBER SERVICES, FREE IF YOU COPY AND PASTE THIS MESSAGE BEFORE MIDNIGHT TONIGHT. WHEN YOU SIGN ON TOMORROW MORNING YOU WILL BE PROMPTED FOR PAYMENT INFO…IT IS OFFICIAL IT WAS EVEN ON THE NEWS. FACEBOOK WILL START CHARGING DUE TO THE NEW PROFILE CHANGES
 

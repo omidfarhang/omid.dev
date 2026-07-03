@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s400/ando-kensaku-640.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7z7nUncUQI/AAAAAAAAB0E/0NcH0eLpflQ/s1600-h/ando-kensaku-640.jpg)
+[![](/images/2010/04/ando-kensaku-640.jpg)](/images/2010/04/ando-kensaku-640-0fe79f4c.jpg)
 
 This just in from the “Strange Bedfellows” department: apparently [Nintendo has enlisted the help of Google](http://www.engadget.com/2010/04/07/nintendo-teams-with-google-for-glorified-google-fight-gameplay/) to create a Wii game where players compete to guess the most popular search terms.
 

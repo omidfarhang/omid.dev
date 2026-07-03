@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s200/tweet_sink_fleets.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2CK9SWcDAI/AAAAAAAAAwo/0ZjJSmpcFbM/s1600-h/tweet_sink_fleets.png)
+[![](/images/2010/01/tweet_sink_fleets.png)](/images/2010/01/tweet_sink_fleets-b5565a4a.png)
 
 Information leakage is a real problem.
 
@@ -29,6 +29,6 @@ People might think they are confiding in friends or family when they go on Faceb
 
 Here's [Sky News'](http://news.sky.com/skynews/Home/UK-News/Ministry-of-Defence-Staff-Have-Leaked-Secret-Information-16-Times-Onto-Social-Networking-Sites/Article/201001415535304) take on this.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s640/foia.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2CK6AUufoI/AAAAAAAAAwg/XgiS-cy9kng/s1600-h/foia.png)
+[![](/images/2010/01/foia.png)](/images/2010/01/foia-a8171a14.png)
 
 “Loose Tweets Sink Fleets” Poster image credit: [Brian Lane Winfield Moore](http://www.flickr.com/photos/doctabu/sets/72157620497679512)

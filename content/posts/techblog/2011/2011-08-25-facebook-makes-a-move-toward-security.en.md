@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-ePy-oJJ3a3U/TlaN_30Q4mI/AAAAAAAAD_Y/IF0fUBdFtnM/s1600/facebook_logo+-+small.jpg)](http://1.bp.blogspot.com/-ePy-oJJ3a3U/TlaN_30Q4mI/AAAAAAAAD_Y/IF0fUBdFtnM/s1600/facebook_logo+-+small.jpg)
+[![](/images/2011/08/facebook_logo-small.jpg)](/images/2011/08/facebook_logo-small.jpg)
 
 **Sunbelt:** Facebook recently [published a guide for it's users on how to secure their online accounts](https://www.facebook.com/safety/attachment/Guide%20to%20Facebook%20Security.pdf) from anything that threatens one's Facebook security. Among those covered are Wall, Chat, and Comment spams, weak passwords, fake applications, and account hacking. Personally, I'm quite happy that Facebook is actually doing something that concerns user security, despite it being quite late come to think about it. Still, better to have something than nothing.
 

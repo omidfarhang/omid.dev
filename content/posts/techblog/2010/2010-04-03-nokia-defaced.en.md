@@ -15,7 +15,7 @@ categories:
 ---
 I’m almost certain this shouldn’t be on the Nokia.de webspace, lurking under the “online.nokia.de” subdomain:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7chLNq1hhI/AAAAAAAABcU/fR-TmG-KZBU/s400/nokiadefacement.gif)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7chLNq1hhI/AAAAAAAABcU/fR-TmG-KZBU/s1600-h/nokiadefacement.gif)
+[![](/images/2010/04/nokiadefacement.gif)](/images/2010/04/nokiadefacement-e9a1dbb1.gif)
 
 Don’t worry though, Admin – they “just changed your index”.
 

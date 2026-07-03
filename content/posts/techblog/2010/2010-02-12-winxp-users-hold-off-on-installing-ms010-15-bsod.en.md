@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XMfr_sDcI/AAAAAAAAA7A/FDl9fMhi3yk/s640/bsod.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3XMfr_sDcI/AAAAAAAAA7A/FDl9fMhi3yk/s1600-h/bsod.png)
+[![](/images/2010/02/bsod.png)](/images/2010/02/bsod-94b2cc3c.png)
 
 Security blogger Brian Krebs is reporting that some Windows XP users are reporting blue screen of death on reboot after installing Microsoft’s Tuesday patch KB977165 (MS010–15: “Vulnerabilities in Windows kernel could allow elevation of privilege.”)
 

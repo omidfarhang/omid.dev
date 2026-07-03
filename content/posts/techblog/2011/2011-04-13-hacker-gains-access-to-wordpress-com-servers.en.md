@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s200/wordpress.png)](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s1600/wordpress.png)
+[![](/images/2011/04/wordpress.png)](/images/2011/04/wordpress-7a24556e.png)
 
 **Tech Crunch:** WordPress.com has revealed that someone has gained access to several of the their servers this morning and that VIP customers’ source code was accessible. WordPress.com customers are all on ‘code red’ and in the process of changing all the passwords/api keys they’ve left in the source code.
 

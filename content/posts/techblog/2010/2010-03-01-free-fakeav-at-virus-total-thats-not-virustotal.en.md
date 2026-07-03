@@ -41,11 +41,11 @@ The link in the forum message would bring an unsuspecting user to a page which s
 
 This page will then redirect to page /scanning/ at the same website which generates the following popup:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xAQEQ7Y6I/AAAAAAAABDk/puEOHeU9A70/s640/virustotalfakeav1.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xAQEQ7Y6I/AAAAAAAABDk/puEOHeU9A70/s1600-h/virustotalfakeav1.png)
+[![](/images/2010/03/virustotalfakeav1.png)](/images/2010/03/virustotalfakeav1-3d7ac5c1.png)
 
 The above popup would follow by the loading of a fake scanning page inside the browser:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xATUQcSKI/AAAAAAAABDs/IQM-0x_zcvQ/s640/virustotalfakeav2.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xATUQcSKI/AAAAAAAABDs/IQM-0x_zcvQ/s1600-h/virustotalfakeav2.png)
+[![](/images/2010/03/virustotalfakeav2.png)](/images/2010/03/virustotalfakeav2-e4a5b25c.png)
 
 One of the interesting parts of this fake page is that the “Windows Security Alert” pop-up is actually a time-delayed object inside the page. Even though the box looks like a window box from Windows XP, it is not moveable at all.
 

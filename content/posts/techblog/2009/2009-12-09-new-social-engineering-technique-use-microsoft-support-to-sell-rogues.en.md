@@ -15,14 +15,14 @@ categories:
 ---
 Sunbelt analyst Adam Thomas came across this ugly new social engineering technique when he analyzed the DefenceLab rogue security product. It does the usual scare-ware stuff: a fake scan and fake “Windows Security Center” alert:
 
-![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oVxjauqI/AAAAAAAAAQw/sXfHGKyaXcI/s1600-h/DlabGUI.jpg)
+![](/images/2009/12/DlabGUI.jpg)
 
-![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Sx7oZdqpduI/AAAAAAAAAQ4/n_zP2tXInt0/s1600-h/FakeAlert.jpg)
+![](/images/2009/12/FakeAlert.jpg)
 
 Then it directs the potential victim to a Microsoft Support page, but injects html code into the page in his or her browser to make it appear as though Microsoft is suggesting the purchase of the rogue. This is the real Microsoft page:
 
-![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7oecisneI/AAAAAAAAARA/9RrqUCpf04g/s1600-h/Modified_page.jpg)
+![](/images/2009/12/Modified_page.jpg)
 
 This is what it looks after DefenseLab changes it:
 
-![](http://1.bp.blogspot.com/_vaUVXcmC3OI/Sx7ogYwDj6I/AAAAAAAAARI/7oA30xFnInM/s1600-h/Real+MS+page.png)
+![](/images/2009/12/Real-MS-page.png)

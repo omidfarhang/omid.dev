@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s200/apple-adobe-260.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79LMoZnrPI/AAAAAAAAB2E/s9kxe7L2_cg/s1600/apple-adobe-260.jpg)
+[![](/images/2010/04/apple-adobe-260.jpg)](/images/2010/04/apple-adobe-260-7fe60acb.jpg)
 
 Today, Apple revised its iPhone Developer Program License Agreement to effectively ban the use of the Flash-to-iPhone converter.
 

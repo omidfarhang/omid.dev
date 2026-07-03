@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70ct_Lg7vI/AAAAAAAAB1c/0BDes8oyyy4/s320/4782.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70ct_Lg7vI/AAAAAAAAB1c/0BDes8oyyy4/s1600-h/4782.jpg)
+[![](/images/2010/04/4782.jpg)](/images/2010/04/4782-fcc30471.jpg)
 
 Qualcomm's mobile broadcast television service called FLO TV existed for about five years under different wireless carrier brand names: Sprint TV, Verizon V Cast TV, and AT&T MediaFLO TV. But the carriers [didn't push it very hard](http://www.businessinsider.com/2008/3/qualcomm-ceo-mobile-tv-growth-sluggish), so it did not break through into the public's consciousness.
 

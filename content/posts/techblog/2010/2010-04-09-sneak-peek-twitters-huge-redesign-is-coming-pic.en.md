@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S789luUhAnI/AAAAAAAAB18/sH3nbKhlzy0/s400/doug-400.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S789luUhAnI/AAAAAAAAB18/sH3nbKhlzy0/s1600/doug-400.png)
+[![](/images/2010/04/doug-400.png)](/images/2010/04/doug-400-1367b163.png)
 
 Now we know for certain: Twitter is working on a major redesign of its web interface. Twitter’s lead designer has just revealed a taste of what’s to come.
 

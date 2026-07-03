@@ -20,11 +20,11 @@ Malware authors use numerous unconventional techniques in their attempts to crea
 
 While looking at some PDFs yesterday, something suspicious caught my eye. The PDF file format supports compression and encoding of embedded data, and also allows multiple cascading filters to be specified so that multi-level compression and encoding of that data is possible. The PDF stream filters usually look something like this:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eKpOnrQyI/AAAAAAAABeI/dBwerruLvOM/s400/Screen+shot+2010-03-27+at+5.43.37+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eKpOnrQyI/AAAAAAAABeI/dBwerruLvOM/s1600-h/Screen+shot+2010-03-27+at+5.43.37+PM.png)
+[![](/images/2010/04/Screen-shot-2010-03-27-at-5.43.37-PM.png)](/images/2010/04/Screen-shot-2010-03-27-at-5.43.37-PM-9875d7da.png)
 
 However, in the particular file being analyzed I spotted the use of no fewer than nine JavaScript compression and encoding filters applied to a single stream, which is an unusually large number:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eKqyj9Y2I/AAAAAAAABeM/Rg0Hl3x-h40/s400/Screen+shot+2010-03-27+at+5.43.51+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eKqyj9Y2I/AAAAAAAABeM/Rg0Hl3x-h40/s1600-h/Screen+shot+2010-03-27+at+5.43.51+PM.png)
+[![](/images/2010/04/Screen-shot-2010-03-27-at-5.43.51-PM.png)](/images/2010/04/Screen-shot-2010-03-27-at-5.43.51-PM-782cc515.png)
 
 Apparently, malware authors figured they could try to use this multi-level compression and encoding to attempt to evade detection. Antivirus software that does not support the complete set of PDF compression and encoding types will not be able to decode the data and scan for malicious code. In fact, they may have been somewhat successful in doing so—VirusTotal results indicate that many vendors did not detect the threat.
 
@@ -36,4 +36,4 @@ After multiple decompression and decoding operations, attempts to exploit two kn
 
 The JavaScript code is as follows:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eKsabyztI/AAAAAAAABeQ/2Zb9jmndVJw/s400/Screen+shot+2010-03-27+at+5.44.03+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eKsabyztI/AAAAAAAABeQ/2Zb9jmndVJw/s1600-h/Screen+shot+2010-03-27+at+5.44.03+PM.png)
+[![](/images/2010/04/Screen-shot-2010-03-27-at-5.44.03-PM.png)](/images/2010/04/Screen-shot-2010-03-27-at-5.44.03-PM-4587a091.png)

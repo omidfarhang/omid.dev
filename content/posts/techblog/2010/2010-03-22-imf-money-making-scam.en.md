@@ -17,7 +17,7 @@ categories:
 ---
 I have seen a lot of these lately. This one currently doing the rounds tries to dupe the reader into thinking that the [International Monetary Fund (IMF)](http://en.wikipedia.org/wiki/International_Monetary_Fund) wants to use their accounts to transfer money meant for charity.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6eI1N9qVWI/AAAAAAAABV8/4FA4OhbM_FE/s400/imf_one_2.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6eI1N9qVWI/AAAAAAAABV8/4FA4OhbM_FE/s1600-h/imf_one_2.jpg)
+[![](/images/2010/03/imf_one_2.jpg)](/images/2010/03/imf_one_2-2d09353e.jpg)
 
 In the email. the IMF (supposedly) wants to transfer $10 Million into the reader’s account using NatWest Bank. The contact details within the Bank are given as follows:
 
@@ -27,7 +27,7 @@ _E-mail: Bernisecharityfoundationimf ‘at' gmail.com_
 _Tel: (+44) 7031-939-750_  
 _Fax: (+44) 7011830323_
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6eI1H2v1WI/AAAAAAAABWA/6lDBg5yigIE/s400/imf_two_31.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6eI1H2v1WI/AAAAAAAABWA/6lDBg5yigIE/s1600-h/imf_two_31.jpg)
+[![](/images/2010/03/imf_two_31.jpg)](/images/2010/03/imf_two_31-de7a5864.jpg)
 
 Some things to notice:
 

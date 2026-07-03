@@ -45,11 +45,11 @@ GameCrush might be on to something: <http://prdtest.gamecrush.com/>
 
 Yesterday afternoon:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6szcK_8nII/AAAAAAAABZs/D_vUd54gJ68/s400/Game_crush.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6szcK_8nII/AAAAAAAABZs/D_vUd54gJ68/s1600-h/Game_crush.png)
+[![](/images/2010/03/Game_crush.png)](/images/2010/03/Game_crush-81ab2fc2.png)
 
 This morning:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6syWPbymJI/AAAAAAAABZo/5dM4lFrmOSw/s400/Game_crush_202.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6syWPbymJI/AAAAAAAABZo/5dM4lFrmOSw/s1600-h/Game_crush_202.png)
+[![](/images/2010/03/Game_crush_202.png)](/images/2010/03/Game_crush_202-6413dfab.png)
 
 **I can't say I'm massively impressed with this one.**
 

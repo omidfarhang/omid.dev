@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-Zwp8qtOYnck/Tl5R13-a_GI/AAAAAAAAEAA/FjeHZsZ7Rzc/s1600/logo_footer.png)](http://4.bp.blogspot.com/-Zwp8qtOYnck/Tl5R13-a_GI/AAAAAAAAEAA/FjeHZsZ7Rzc/s1600/logo_footer.png)
+[![](/images/2011/08/logo_footer.png)](/images/2011/08/logo_footer.png)
 
 **Mozilla Security Blog:** Mozilla just released an update to Firefox for Desktop, Thunderbird and SeaMonkey. Updates are now available for:
 

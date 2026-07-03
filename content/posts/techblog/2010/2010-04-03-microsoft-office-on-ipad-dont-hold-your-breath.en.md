@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600/microsoftoffice2010beta-300x167.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7clHGECTbI/AAAAAAAABcc/CAoF36yyHag/s1600-h/microsoftoffice2010beta-300x167.jpg)
+[![](/images/2010/04/microsoftoffice2010beta-300x167.jpg)](/images/2010/04/microsoftoffice2010beta-300x167-6a32d564.jpg)
 
 There’s at least one company that isn’t scrambling to get an iPad app ready for launch day, and that company is Microsoft.
 

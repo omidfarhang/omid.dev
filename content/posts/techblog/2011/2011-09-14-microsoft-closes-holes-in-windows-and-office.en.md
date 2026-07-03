@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-9nAW6YKsTyI/TnD0ogwn2-I/AAAAAAAAEB8/l98iwlcDtwE/s1600/microsoft_or_120-494bfc2617d2203f.png)](http://4.bp.blogspot.com/-9nAW6YKsTyI/TnD0ogwn2-I/AAAAAAAAEB8/l98iwlcDtwE/s1600/microsoft_or_120-494bfc2617d2203f.png)
+[![](/images/2011/09/microsoft_or_120-494bfc2617d2203f.png)](/images/2011/09/microsoft_or_120-494bfc2617d2203f.png)
 
 **The H-Security**: Microsoft has released two updates for Windows and three for Office to close various security holes. All five updates have only been rated “important” by the company.
 

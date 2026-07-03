@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-OOfejdr2RcI/TklvP6c4C3I/AAAAAAAAD98/PD4COP8t_Yk/s320/Google.jpg)](http://2.bp.blogspot.com/-OOfejdr2RcI/TklvP6c4C3I/AAAAAAAAD98/PD4COP8t_Yk/s1600/Google.jpg)
+[![](/images/2011/08/Google.jpg)](/images/2011/08/Google-f85674c6.jpg)
 
 BetaNews: Google thoroughly rocked the smartphone world on Monday morning by announcing it will be acquiring Android phone maker Motorola Mobility for approximately $12.5 billion. Motorola Mobility has existed as a standalone entity for just 8 months, and has produced some of the most successful Android smartphones such as the first Droidwith Verizon Wireless.
 

@@ -15,7 +15,7 @@ categories:
 ---
 _My Personal Opinion: I doubt if that site is really their official website or not_
 
-[![](http://2.bp.blogspot.com/-xOdxe_5IVzQ/TiscBs9GSfI/AAAAAAAAD60/JXz6hgzXFac/s1600/anonymous-dog-170.jpg)](http://2.bp.blogspot.com/-xOdxe_5IVzQ/TiscBs9GSfI/AAAAAAAAD60/JXz6hgzXFac/s1600/anonymous-dog-170.jpg)
+[![](/images/2011/07/anonymous-dog-170.jpg)](/images/2011/07/anonymous-dog-170.jpg)
 
 **Sophos Labs:** Within days of the hacktivist group Anonymous announcing it was setting up its own social network (after being unceremoniously booted off Google+), its plans have taken a somewhat humiliating turn.
 
@@ -23,7 +23,7 @@ AnonPlus, Anonymous's planned social network, has been defaced by rival hackers.
 
 A group of hackers apparently based in Turkey replaced AnonPlus's main webpage with an image of a dog wearing a suit, mocking the more normal Anonymous logo, and messages in Turkish and English:
 
-[![](http://4.bp.blogspot.com/-sEVpnS93Upw/Tisb_TooHrI/AAAAAAAAD6w/GaAJNGl_b_8/s400/anonplus-defaced.jpg)](http://4.bp.blogspot.com/-sEVpnS93Upw/Tisb_TooHrI/AAAAAAAAD6w/GaAJNGl_b_8/s1600/anonplus-defaced.jpg)
+[![](/images/2011/07/anonplus-defaced.jpg)](/images/2011/07/anonplus-defaced-c4e5759d.jpg)
 
 > We Are TURKIYE We Are AKINCILAR  
 > This logo suits you more..How dare you rise against to the World..Do you really think that you are Ottoman Empire?  

@@ -19,22 +19,22 @@ For a couple of days now I’ve been looking at their infection method and tryin
 
 The bad guys use bogus blogpost.com blog pages to redirect users to the actual Koobface malware. The redirection consists of several attempts to connect to compromised PCs, through their IP address. Below is a Fiddler log showing those attempted connections (in red are failed connections). Once a host has successfully responded, the users are redirected to a fake page prompting them to install a video codec.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgS5taGNI/AAAAAAAAAlo/xK9HOi3YrCQ/s640/koob1.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgS5taGNI/AAAAAAAAAlo/xK9HOi3YrCQ/s1600-h/koob1.png)
+[![](/images/2010/01/koob1.png)](/images/2010/01/koob1-1f2ed2a7.png)
 
 Typical social engineering used to lure the user into installing the malware:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0SgUqJQISI/AAAAAAAAAlw/sfe0fMr4svU/s640/xmas.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0SgUqJQISI/AAAAAAAAAlw/sfe0fMr4svU/s1600-h/xmas.png)
+[![](/images/2010/01/xmas.png)](/images/2010/01/xmas-8c37d54c.png)
 
 The common traits for the Koobface infection process are:
 
 – a malicious / redirect blogspot.com page  
 – an infected PC hosting the malware
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgQbSgbPI/AAAAAAAAAlI/d-5W6spHm2Y/s640/blog1.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgQbSgbPI/AAAAAAAAAlI/d-5W6spHm2Y/s1600-h/blog1.png)
+[![](/images/2010/01/blog1.png)](/images/2010/01/blog1-72cfc228.png)
 
 If you look in more detail at the blogspot.com pages, they reveal some interesting things too:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S0SgQ2sxUoI/AAAAAAAAAlQ/gaQ4SWaMNyA/s640/blog2.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S0SgQ2sxUoI/AAAAAAAAAlQ/gaQ4SWaMNyA/s1600-h/blog2.png)
+[![](/images/2010/01/blog2.png)](/images/2010/01/blog2-818b966a.png)
 
 The pages use SEO and social engineering tricks to be ranked high in Google searches. Basically, anything that makes the headlines in the real world is going to generate interest and therefore traffic. That’s exactly what the Koobface gang is after!
 
@@ -47,8 +47,8 @@ site:blogspot.com intitle:”XXXXXXXXXXXXXXXXX”
 
 where XXXXXXXXXXXXXXXXX is the catch phrase used by the Koobface criminals.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0SgRbuhB-I/AAAAAAAAAlY/pdMLuzbijqg/s640/blog3.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0SgRbuhB-I/AAAAAAAAAlY/pdMLuzbijqg/s1600-h/blog3.png)
+[![](/images/2010/01/blog3.png)](/images/2010/01/blog3-c85b7d6c.png)
 
 What you get are similar pages that will redirect you to more infected PCs:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgSVLYVfI/AAAAAAAAAlg/s5YmB-7VEpM/s640/blog4.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SgSVLYVfI/AAAAAAAAAlg/s5YmB-7VEpM/s1600-h/blog4.png)
+[![](/images/2010/01/blog4.png)](/images/2010/01/blog4-84714b78.png)

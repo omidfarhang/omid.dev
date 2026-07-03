@@ -15,6 +15,6 @@ categories:
 ---
 APcSafe is another rogue anti-spyware clone of the WiniGuard family.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S14R9vIPPBI/AAAAAAAAAwA/VvPipadRnJE/s640/apcsafe.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S14R9vIPPBI/AAAAAAAAAwA/VvPipadRnJE/s1600-h/apcsafe.jpg)
+[![](/images/2010/01/apcsafe.jpg)](/images/2010/01/apcsafe-a59e8eb1.jpg)
 
 if your computer is infected with this malware you should remove it soon.

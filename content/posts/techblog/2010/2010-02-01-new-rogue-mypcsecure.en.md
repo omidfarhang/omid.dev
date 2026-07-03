@@ -15,4 +15,4 @@ categories:
 ---
 MyPcSecure is the latest rogue anti-spyware application and a clone from the WiniGuard family.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2dXRnoOAtI/AAAAAAAAAxA/-o2FV_iMXbU/s640/mypcsecure.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2dXRnoOAtI/AAAAAAAAAxA/-o2FV_iMXbU/s1600-h/mypcsecure.jpg)
+[![](/images/2010/02/mypcsecure.jpg)](/images/2010/02/mypcsecure-128097fc.jpg)

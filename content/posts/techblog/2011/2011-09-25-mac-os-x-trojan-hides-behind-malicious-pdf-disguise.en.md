@@ -26,11 +26,11 @@ The Diaoyu Islands (known as the Senkaku islands in Japan) are the subject of a 
 
 Because the document is opened, users may believe that they have opened a harmless PDF rather than run a program.
 
-[![](http://1.bp.blogspot.com/-WXwdCYfuu3M/Tn-Ow1rwt9I/AAAAAAAAECc/zmMDSxCQYYg/s400/mac-malware-pdf.jpg)](http://1.bp.blogspot.com/-WXwdCYfuu3M/Tn-Ow1rwt9I/AAAAAAAAECc/zmMDSxCQYYg/s1600/mac-malware-pdf.jpg)
+[![](/images/2011/09/mac-malware-pdf.jpg)](/images/2011/09/mac-malware-pdf-bd6ee8e4.jpg)
 
 When we tested the malware inside our labs, we couldn't manage to get it to execute as the author probably intended – however, strings embedded deep inside its code make it clear that it was written with malicious intent.
 
-[![](http://4.bp.blogspot.com/-0962DWjitOw/Tn-O_E7mNsI/AAAAAAAAECg/kCNY2kHrHdk/s400/malware-code.jpg)](http://4.bp.blogspot.com/-0962DWjitOw/Tn-O_E7mNsI/AAAAAAAAECg/kCNY2kHrHdk/s1600/malware-code.jpg)
+[![](/images/2011/09/malware-code.jpg)](/images/2011/09/malware-code-d73757d3.jpg)
 
 The malware attempts to install a backdoor Trojan horse (detected by Sophos as OSX/Imuler-A) which would give malicious hackers remote access to your Apple Mac computer.
 

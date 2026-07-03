@@ -30,6 +30,6 @@ Some simple precautions that end users can take include:
 * Periodically confirm the applications installed on your mobile device and report any entries you did not specifically approve.  
 * Avoid granting “Trusted Application” status unless absolutely required, which may allow malicious code access to confidential data:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3W4ht8-30I/AAAAAAAAA54/5n4UhfiWIeQ/s640/Screen+shot+2010-02-11+at+11.01.19+PM.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3W4ht8-30I/AAAAAAAAA54/5n4UhfiWIeQ/s1600-h/Screen+shot+2010-02-11+at+11.01.19+PM.png)
+[![](/images/2010/02/Screen-shot-2010-02-11-at-11.01.19-PM.png)](/images/2010/02/Screen-shot-2010-02-11-at-11.01.19-PM-87b318a7.png)
 
 As more and more developers move towards mobile application development, mobile devices are becoming ever more sophisticated and are increasingly being used to store critical personal data. Mobile device manufacturers will have to walk the fine line between providing comprehensive APIs and preventing malicious applications from gaining unfettered access to user content and other potentially sensitive data.

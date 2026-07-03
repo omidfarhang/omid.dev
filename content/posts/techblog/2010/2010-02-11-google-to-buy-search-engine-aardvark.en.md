@@ -11,13 +11,13 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHU01wz-I/AAAAAAAAA4Y/ALkLcwghA84/s640/partner.logo.gif)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHU01wz-I/AAAAAAAAA4Y/ALkLcwghA84/s1600-h/partner.logo.gif)
+[![](/images/2010/02/partner.logo.gif)](/images/2010/02/partner.logo-06813a61.gif)
 
 🙂 [(Mashable)](http://www.mashable.com/) — We've just confirmed with Google that the company has signed an agreement to acquire social search engine Aardvark.  
 Google isn't disclosing the terms, but news of the acquisition was first reported by TechCrunch, who put the figure at around $50 million. Google told us that it's “signed an agreement to acquire Aardvark but don't have any additional details to report at this time.”  
 Aardvark is a relatively new startup from former Googlers that uses social distribution channels to get immediate answers to your questions.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHczKsKeI/AAAAAAAAA4g/akJke9oDDso/s640/story.google.aardvark.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3SHczKsKeI/AAAAAAAAA4g/akJke9oDDso/s1600-h/story.google.aardvark.jpg)
+[![](/images/2010/02/story.google.aardvark.jpg)](/images/2010/02/story.google.aardvark-0d965d49.jpg)
 
 As a user you can either ask or answer questions, and those questions and answers are funneled through friends and friends of friends via social channels, IM and e-mail with the purpose of turning your online network and reach into a easy way to get more qualified answers to your queries.  
 In some ways, Aardvark is very much like an alternative search engine that puts your social circle to work.

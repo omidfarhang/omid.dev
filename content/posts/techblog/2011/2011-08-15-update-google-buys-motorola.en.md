@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-vijhSTxXfQg/TkmOLspLQ8I/AAAAAAAAD-I/PpRhOUg5RCk/s320/Google.jpg)](http://4.bp.blogspot.com/-vijhSTxXfQg/TkmOLspLQ8I/AAAAAAAAD-I/PpRhOUg5RCk/s1600/Google.jpg)
+[![](/images/2011/08/Google-c6aae4ba.jpg)](/images/2011/08/Google-ac7744ec.jpg)
 
 **Google Operating System Blog:** Google found a way to solve [the problem of Android patents](http://googleblog.blogspot.com/2011/08/when-patents-attack-android.html) and it's only three times more expensive than acquiring the Nortel patents: [buying Motorola](http://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html) for $12.5 billion.
 

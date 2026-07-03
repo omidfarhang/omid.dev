@@ -32,7 +32,7 @@ One should never reply to such messages. A few observations which show why:
 
 Seeing the details of the user, the reason gets clear:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4uOc6v79ZI/AAAAAAAABCM/c0oXMTE3nyM/s640/icqdetails.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4uOc6v79ZI/AAAAAAAABCM/c0oXMTE3nyM/s1600-h/icqdetails.png)
+[![](/images/2010/03/icqdetails.png)](/images/2010/03/icqdetails-acf4c23b.png)
 
 
 
@@ -43,6 +43,6 @@ No comments…
 There are only two things to do with this kind of messages:  
 1. Block the user by clicking Deny
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uOf_TEJdI/AAAAAAAABCU/TdLI86snwao/s640/icq-block.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4uOf_TEJdI/AAAAAAAABCU/TdLI86snwao/s1600-h/icq-block.png)
+[![](/images/2010/03/icq-block.png)](/images/2010/03/icq-block-adee2af3.png)
 
 2. Forget about it.

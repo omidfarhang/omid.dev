@@ -27,7 +27,7 @@ Consider it a kind of “anti-multithreading” that may very well be necessary 
 
 But by citing Mozilla as the leader in this effort, Google may effectively be ceding responsibility for solving some of the most critical Flash security issues to date, to Mozilla. Until then, Upson concedes that the first Chrome dev build to contain the Flash plug-in will not yet have resolved a potential security risk: the separation between the Chrome tab processes and the Flash runtime. Part of Google's (originally) innovative security model was its division of browser tabs into separate processes, so that when one tab crashes, the main browser remains stable.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J4QY_8TgI/AAAAAAAABa0/imNN5b7qOTM/s400/4765.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J4QY_8TgI/AAAAAAAABa0/imNN5b7qOTM/s1600-h/4765.jpg)
+[![](/images/2010/03/4765.jpg)](/images/2010/03/4765-e33d10f0.jpg)
 
 One of the unanticipated side-effects of this model deals with Chrome's approach to add-ons: They too are separate processes, all of which identify themselves to the operating system as Chrome. The screenshot above shows a list of active processes from Sysinternals' Process Explorer, with the latest Chrome dev build 360.4. There's only one tab running the Acrobat.com page, but note that Chrome appears twice in the list. That second instance appears to be the Chrome sandbox wrapped around the Flash add-on.
 
@@ -55,8 +55,8 @@ Support for the move centered around the notion that Flash is simply a fact of l
 
 There was also this from contributor **Troy**: “How is Flash not an open standard? The bytecode format of [_Shockwave_] SWFs is published. There are open-source tools for producing SWFs. The tool chain is open-source and free. The player is available on the three major desktop OSs, and now on many mobile devices, as well as several video game consoles. Its virtual machine is open-sourced. Sure, it's not standard-certified by some international organization, but neither is HTML 5 (yet) nor is CSS3 (yet). It is a _de facto_ standard, used by more Web sites and users than HTML 5, CSS3, Canvas, etc. Come on, folks, let's be _pragmatic_.”
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J53wMOJ_I/AAAAAAAABa4/f-HkK5gD4To/s400/4766.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7J53wMOJ_I/AAAAAAAABa4/f-HkK5gD4To/s1600-h/4766.jpg)
+[![](/images/2010/03/4766.jpg)](/images/2010/03/4766-218c67ee.jpg)
 
 The bundling of Flash with Chrome does not change the relationship between the component and the browser, as indicated by the `about:plugins` page above. Notice its format changed with this latest dev build; it now includes (highly requested) **Disable** links that let you turn off plug-ins without uninstalling them. However, bundling Flash did add 2.4 MB to Chrome 5's download size, plus a single new question to the startup procedure (shown below). In the dev build, to start using the Flash plug-in that's distributed with the browser, you run Chrome from the command line, adding the switch `--enable-internal-flash`.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7J6A6IABSI/AAAAAAAABa8/rpe5JQcmeAM/s400/4767.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7J6A6IABSI/AAAAAAAABa8/rpe5JQcmeAM/s1600-h/4767.jpg)
+[![](/images/2010/03/4767.jpg)](/images/2010/03/4767-474be55f.jpg)

@@ -15,7 +15,7 @@ categories:
 ---
 System Defender is a rogue antispyware program, or a PC infection made to look like real security software. System Defender is a scam designed to trick people out of their money.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1jQJ1FEBxI/AAAAAAAAAtg/BXKdcjBEmx4/s640/SystemDefender.FakeVimes.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1jQJ1FEBxI/AAAAAAAAAtg/BXKdcjBEmx4/s1600-h/SystemDefender.FakeVimes.jpg)
+[![](/images/2010/01/SystemDefender.FakeVimes.jpg)](/images/2010/01/SystemDefender.FakeVimes-eff396f4.jpg)
 
 If your PC has been infected with System Defender, you will most likely experience the following symptoms:
 

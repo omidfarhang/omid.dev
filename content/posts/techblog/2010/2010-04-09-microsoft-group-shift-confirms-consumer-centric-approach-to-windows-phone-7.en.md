@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s640/4793.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S79QJF28gZI/AAAAAAAAB2U/npDXJ18feug/s1600/4793.jpg)
+[![](/images/2010/04/4793.jpg)](/images/2010/04/4793-5c2fd737.jpg)
 
 Windows Mobile was never just a consumer product; it was also a significant player in handheld terminals, in-vehicle systems, and ruggedized consoles for business and industry.
 

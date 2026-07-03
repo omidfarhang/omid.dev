@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600/story.google.china.gi.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6fxDMjhHRI/AAAAAAAABXQ/pM7SKTzX5-s/s1600-h/story.google.china.gi.jpg)
+[![](/images/2010/03/story.google.china.gi.jpg)](/images/2010/03/story.google.china.gi-a0f0d17d.jpg)
 
 Google's decision to stop censoring search results in China may lead the Chinese government to block access to its sites.
 

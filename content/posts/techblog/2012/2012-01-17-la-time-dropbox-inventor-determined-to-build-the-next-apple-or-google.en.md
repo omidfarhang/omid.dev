@@ -14,7 +14,7 @@ categories:
 ---
 Drew Houston's wildly popular service allows people to access the latest version of all their digital stuff on any device no matter where they are. Every day 325 million files are saved on Dropbox.
 
-![](http://4.bp.blogspot.com/-ciy9klpyk90/TxVBf3iT8ZI/AAAAAAAAEZo/GJhx8V8gOLU/s1600/Db-own.jpg)
+![](/images/2012/01/Db-own.jpg)
 
 Drew Houston, 28, chief executive and co-founder of Dropbox, last fall pocketed $250 million from seven of Silicon Valley's top venture capital firms. That eye-popping sum pegged the value of his company at $4 billion and his own net worth — at least on paper — at an estimated $600 million. (Matt Staver, Bloomberg / July 6, 2011)
 

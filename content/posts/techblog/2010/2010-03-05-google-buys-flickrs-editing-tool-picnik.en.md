@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BWmI-b1eI/AAAAAAAABKU/z-kOTXFD8cc/s200/flickr_logo+(1).png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BWmI-b1eI/AAAAAAAABKU/z-kOTXFD8cc/s1600-h/flickr_logo+(1).png)
+[![](/images/2010/03/flickr_logo-1.bin).png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5BWmI-b1eI/AAAAAAAABKU/z-kOTXFD8cc/s1600-h/flickr_logo+(1).png)
 
 Web-based photo editing suite Picnik announced today that it has been acquired by Google for an unspecified amount that [Picnik CEO Jonathan Sposato called](http://www.techflash.com/seattle/2010/03/picniks_sposato_on_google_sale_a_very_happy_number.html) a “very, very happy number.”
 

@@ -24,11 +24,11 @@ On other days, asking me to lose my weight results in instant chances of winning
 
 But before I can get my lucky email address, they first need to verify my hotmail account.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zV1hbwGlI/AAAAAAAAAvg/tYOlIlQmyxE/s640/hotmail1.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1zV1hbwGlI/AAAAAAAAAvg/tYOlIlQmyxE/s1600-h/hotmail1.jpg)
+[![](/images/2010/01/hotmail1.jpg)](/images/2010/01/hotmail1-dfb1b33a.jpg)
 
 Not a problem, right?
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1zWMtqvphI/AAAAAAAAAvo/T5vh5ZBSs9k/s640/hotmail2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S1zWMtqvphI/AAAAAAAAAvo/T5vh5ZBSs9k/s1600-h/hotmail2.jpg)
+[![](/images/2010/01/hotmail2.jpg)](/images/2010/01/hotmail2-7b34818d.jpg)
 
 Not so fast, Speedy Gonzales. A quick observation by moving my mouse over the displayed link shows that the real link is in fact different from that which is being shown.
 

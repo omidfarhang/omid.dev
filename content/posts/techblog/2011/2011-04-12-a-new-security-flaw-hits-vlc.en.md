@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-Ajp97NsmkSM/TaQPA351xpI/AAAAAAAAD00/uBfQceRk_BE/s200/largeVLC.png)](http://3.bp.blogspot.com/-Ajp97NsmkSM/TaQPA351xpI/AAAAAAAAD00/uBfQceRk_BE/s1600/largeVLC.png)
+[![](/images/2011/04/largeVLC.png)](/images/2011/04/largeVLC-0dcb2e3b.png)
 
 H-Online: Following on from last week's S3M vulnerability in the VLC media player, a [new advisory](http://www.videolan.org/security/sa1103.html) warns of a buffer overflow when playing MP4/MPEG-4 files.The bug, reported by Aliz Hammond, requires that a user open a specially crafted MP4 file. According to Secunia, the vulnerability is found in the MP4\_ReadBox\_skcr()function in the demultiplexer and is rated as “highly critical”. All versions from 1.0.0 to 1.1.8 are affected by the problem.
 

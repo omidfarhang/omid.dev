@@ -15,4 +15,4 @@ categories:
 ---
 ProtectDefender is a new clone of the WiniGuard family.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1i3RFQSmCI/AAAAAAAAAr0/Dxl1_0DlpxA/s640/protectdefender.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1i3RFQSmCI/AAAAAAAAAr0/Dxl1_0DlpxA/s1600-h/protectdefender.jpg)
+[![](/images/2010/01/protectdefender.jpg)](/images/2010/01/protectdefender-45281149.jpg)

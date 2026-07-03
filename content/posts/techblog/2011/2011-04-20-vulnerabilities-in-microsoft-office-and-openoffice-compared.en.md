@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-8bphAQzYH2c/Ta8PjkGhZ7I/AAAAAAAAD2k/Q3REh1T0Egk/s320/offvstar-347a355b3a38df50.png)](http://4.bp.blogspot.com/-8bphAQzYH2c/Ta8PjkGhZ7I/AAAAAAAAD2k/Q3REh1T0Egk/s1600/offvstar-347a355b3a38df50.png)
+[![](/images/2011/04/offvstar-347a355b3a38df50.png)](/images/2011/04/offvstar-347a355b3a38df50-67dddd48.png)
 
 Since 2003, the number of exploitable vulnerabilities has fallen considerably in Microsoft's Office suite.
 

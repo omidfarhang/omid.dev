@@ -16,4 +16,4 @@ Some questionable sites associated with the Winigard family of rogue security pr
 
 It’s funny and here’s waaaay too much truth there:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1n_slwAIcI/AAAAAAAAAvI/qb51GgiGpfo/s640/404_20spoof_202.JPG)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1n_slwAIcI/AAAAAAAAAvI/qb51GgiGpfo/s1600-h/404_20spoof_202.JPG)
+[![](/images/2010/01/404_20spoof_202.jpg)](/images/2010/01/404_20spoof_202-11d6f87c.jpg)

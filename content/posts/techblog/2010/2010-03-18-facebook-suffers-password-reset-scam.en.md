@@ -20,11 +20,11 @@ Facebook Password Reset Confirmation! Customer Support.
 
 The email looks like the following [Just it won't notify you it's Spam, it's my own Software 😉 ]:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6Ha0X5FwCI/AAAAAAAABSU/U0e5rptcOuo/s400/fac-scam.JPG)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6Ha0X5FwCI/AAAAAAAABSU/U0e5rptcOuo/s1600-h/fac-scam.JPG)
+[![](/images/2010/03/fac-scam.jpg)](/images/2010/03/fac-scam-18d9ab65.jpg)
 
 The activity on this particular scam run has been global from the beginning. The malware in the attachment is pretty much what one would expect: downloaders, password-stealing Trojan, fake-AV, or bot stuff, depending on which one you got. Check out the Artemis map of this malware:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6HbNuUBocI/AAAAAAAABSY/xMa4X6oquVg/s400/Avert-ArtemisFacebookScam.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6HbNuUBocI/AAAAAAAABSY/xMa4X6oquVg/s1600-h/Avert-ArtemisFacebookScam.png)
+[![](/images/2010/03/Avert-ArtemisFacebookScam.png)](/images/2010/03/Avert-ArtemisFacebookScam-df1ab21e.png)
 
 To give you an idea of the scope of the run, it reached as high as No. 6 (!) on McAfee [Global Virus Map’s Top 10](http://home.mcafee.com/VirusInfo/VirusMap.aspx), which tracks consumer detections worldwide. It even accounts for as much as 10 percent of the infected email that our managed email SaaS unit is seeing. From the looks of the spams themselves they may be associated with the Cutwail or Rustock botnets, but that analysis is still ongoing.
 

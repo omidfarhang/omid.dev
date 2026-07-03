@@ -10,6 +10,6 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-DKKiUcJdRhw/TnNzbLmKktI/AAAAAAAAECM/8mFTWXKNTuo/s400/Avira_n.jpg)](http://4.bp.blogspot.com/-DKKiUcJdRhw/TnNzbLmKktI/AAAAAAAAECM/8mFTWXKNTuo/s1600/Avira_n.jpg)
+[![](/images/2011/09/Avira_n.jpg)](/images/2011/09/Avira_n-1dbedd4e.jpg)
 
 Happy birthday Avira FreeAV! Avira free antivirus solution protecting more than 100 million customers worldwide celebrates its 12th birthday today. Soon you can benefit [from new version](/2011/08/start-of-avira-12-betatest.html) that is in the final stage of development. Stay tuned!

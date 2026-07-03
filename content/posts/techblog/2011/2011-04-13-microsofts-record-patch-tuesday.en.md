@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-pyjVS2sbwzo/TaWIDgAvIzI/AAAAAAAAD1E/ePtruraFe4o/s1600/windows+update.jpg)](http://1.bp.blogspot.com/-pyjVS2sbwzo/TaWIDgAvIzI/AAAAAAAAD1E/ePtruraFe4o/s1600/windows+update.jpg)
+[![](/images/2011/04/windows-update.jpg)](/images/2011/04/windows-update.jpg)
 
 **H-Online:** It's a record for Microsoft: 9 critical and 8 important updates close a total of 64 security holes. In the worst case, a number of the vulnerabilities allow for remote code execution; in other words, arbitrary code can be injected and executed, such as from specially crafted documents and websites. Microsoft put 44 of them in the category Exploitability Index 1, meaning that the code that exploits the flaw will probably go into circulation soon.
 

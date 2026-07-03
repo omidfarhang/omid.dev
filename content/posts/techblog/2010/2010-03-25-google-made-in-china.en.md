@@ -17,6 +17,6 @@ As I was about to open the package, something struck me:
 
 ‘Google… Made in China’
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6s631IhosI/AAAAAAAABZw/e24sb2Ci_N0/s320/china.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6s631IhosI/AAAAAAAABZw/e24sb2Ci_N0/s1600-h/china.jpg)
+[![](/images/2010/03/china.jpg)](/images/2010/03/china-2ad5bc2e.jpg)
 
 Oooops…….

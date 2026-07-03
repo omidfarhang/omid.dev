@@ -19,11 +19,11 @@ Microsoft Standalone System Sweeper can be downloaded as a 32-bit or 64-bit vers
 
 Setup data is loaded from the Internet when the program is started. To use it, users need to boot from the disc or USB device which in turn loads the tool that gives you the options to scan the PC and recover it. It will load the Windows Preinstall Environment to run the Microsoft Standalone System Sweeper application for scanning and remediation of virus and malware.
 
-[![](http://2.bp.blogspot.com/-lwACWFNl97k/TejqctPo2jI/AAAAAAAAD4s/0Hk5nWZ4nD4/s400/system-sweeper-1.jpg)](http://2.bp.blogspot.com/-lwACWFNl97k/TejqctPo2jI/AAAAAAAAD4s/0Hk5nWZ4nD4/s1600/system-sweeper-1.jpg)
+[![](/images/2011/06/system-sweeper-1.jpg)](/images/2011/06/system-sweeper-1-375e560d.jpg)
 
-[![](http://2.bp.blogspot.com/-kAKpgLpkhjQ/TejqfIpm1tI/AAAAAAAAD4w/DHTTcShS1B0/s400/system-sweeper-2.jpg)](http://2.bp.blogspot.com/-kAKpgLpkhjQ/TejqfIpm1tI/AAAAAAAAD4w/DHTTcShS1B0/s1600/system-sweeper-2.jpg)
+[![](/images/2011/06/system-sweeper-2.jpg)](/images/2011/06/system-sweeper-2-dc328d84.jpg)
 
-[![](http://3.bp.blogspot.com/-BHSPtewUyBE/Tejqh8Coi_I/AAAAAAAAD40/3lC9YnvHe1g/s400/system-sweeper-3.jpg)](http://3.bp.blogspot.com/-BHSPtewUyBE/Tejqh8Coi_I/AAAAAAAAD40/3lC9YnvHe1g/s1600/system-sweeper-3.jpg)
+[![](/images/2011/06/system-sweeper-3.jpg)](/images/2011/06/system-sweeper-3-ef7e6d1a.jpg)
 
 Interested users can download Microsoft Standalone System Sweeper [from the](http://connect.microsoft.com/systemsweeper) official project website. It is basically a recovery CD or USB application that Windows users can use to remove malware from a system.
 

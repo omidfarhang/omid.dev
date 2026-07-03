@@ -19,15 +19,15 @@ Basically, the rogue antispy was directing the victim to a genuine Microsoft add
 
 It works like this… The victim attempts to reach Microsoft, or receives a link like <http://go.microsoft.com/?linkid=9480113> and if you go there on a normal computer, you see a page like this (click to enlarge)…
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV3J3zzwI/AAAAAAAAAT4/rXPoS1IhU4I/s640/Image001.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV3J3zzwI/AAAAAAAAAT4/rXPoS1IhU4I/s1600-h/Image001.png)
+[![](/images/2009/12/Image001.png)](/images/2009/12/Image001-81edfb06.png)
 
 But, if you go there (or any Microsoft address) on a hacked computer, you see this…
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV_cS-V8I/AAAAAAAAAUA/f1be1cXP-xs/s640/Image003.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyEV_cS-V8I/AAAAAAAAAUA/f1be1cXP-xs/s1600-h/Image003.png)
+[![](/images/2009/12/Image003.png)](/images/2009/12/Image003-067fae2c.png)
 
 Instead of going to a Microsoft address, you are taken to 91.212.127.227, which is not owned by Microsoft, but by someone in the United Kingdom…
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEWDePzQrI/AAAAAAAAAUI/NtRQb-8R6IM/s640/Image005.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyEWDePzQrI/AAAAAAAAAUI/NtRQb-8R6IM/s1600-h/Image005.png)
+[![](/images/2009/12/Image005.png)](/images/2009/12/Image005-29534741.png)
 
 The question is how are they doing it?
 

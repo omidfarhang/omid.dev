@@ -18,7 +18,7 @@ categories:
 
 **Old rogue, new package:**
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4Fy2JEg56I/AAAAAAAAA-I/4fLTABkkNv0/s640/ripoff.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4Fy2JEg56I/AAAAAAAAA-I/4fLTABkkNv0/s1600-h/ripoff.jpg)
+[![](/images/2010/02/ripoff.jpg)](/images/2010/02/ripoff-1036e65a.jpg)
 
 AntivirusProtectionCenter  \
 av2009.exe :  \

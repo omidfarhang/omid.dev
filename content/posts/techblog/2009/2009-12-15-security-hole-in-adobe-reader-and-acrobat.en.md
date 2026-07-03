@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyffL-JURJI/AAAAAAAAAWM/pANPmriBXO4/s320/acrobat_logo.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyffL-JURJI/AAAAAAAAAWM/pANPmriBXO4/s1600-h/acrobat_logo.png)
+[![](/images/2009/12/acrobat_logo.png)](/images/2009/12/acrobat_logo-d25fb559.png)
 
 Adobe is currently investigating a new security hole in Reader and Acrobat. Cybercriminals are currently spamming emails with prepared documents which lead to an infection of the computer with malware.
 

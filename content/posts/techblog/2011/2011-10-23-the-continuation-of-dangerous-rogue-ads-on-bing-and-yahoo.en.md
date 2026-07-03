@@ -22,13 +22,13 @@ In this case, we're talking Sirefef (ZeroAccess aka Max++), probably the nasties
 
 So just search for “adobe flash”, and you might see this ad:
 
-[![](http://2.bp.blogspot.com/-LAmzXqz3E6w/TqRS5ubfO2I/AAAAAAAAEKM/1SbuNzfHTeg/s400/bing2382348888.png)](http://2.bp.blogspot.com/-LAmzXqz3E6w/TqRS5ubfO2I/AAAAAAAAEKM/1SbuNzfHTeg/s1600/bing2382348888.png)
+[![](/images/2011/10/bing2382348888.png)](/images/2011/10/bing2382348888-dee9250a.png)
 
 (That same search term will look identical on Yahoo, since Yahoo displays Bing ads and search results.)
 
 Which leads to an innocent-looking “download flash” page:
 
-[![](http://4.bp.blogspot.com/-p4X9uBi42xo/TqRTV5iIlII/AAAAAAAAEKU/Rn7B1kgk0rE/s400/bing2382348888a.png)](http://4.bp.blogspot.com/-p4X9uBi42xo/TqRTV5iIlII/AAAAAAAAEKU/Rn7B1kgk0rE/s1600/bing2382348888a.png)
+[![](/images/2011/10/bing2382348888a.png)](/images/2011/10/bing2382348888a-daa339aa.png)
 
 Note that the page isn't actually “GetAdobeFlash.com”. Instead, it redirects to a directory on a compromised trucking site (arulbrothers.com), downloading a file from torreandaluz (dot) com/flash/Flash Player 10 Setup.exe
 

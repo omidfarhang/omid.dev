@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3cFmkLNMsI/AAAAAAAAA8Y/EeWgQfQ8vd0/s640/chromelogo.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3cFmkLNMsI/AAAAAAAAA8Y/EeWgQfQ8vd0/s1600-h/chromelogo.png)
+[![](/images/2010/02/chromelogo-5e58f595.png)](/images/2010/02/chromelogo-a9a355e5.png)
 
 The Google Chrome dev channel has been updated to 5.0.322.2 for Windows, Mac and Linux platforms
 

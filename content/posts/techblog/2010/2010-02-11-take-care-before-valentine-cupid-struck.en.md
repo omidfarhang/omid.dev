@@ -18,7 +18,7 @@ Here's one example of a malicious file (2077ed17f0ad92dafb8fb7601570e06580e4b7f1
 
 Upon execution, it drops the following picture file greeting:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3RanJIf1rI/AAAAAAAAA4Q/-nMB5ZXAFUo/s640/valentine_thumb.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3RanJIf1rI/AAAAAAAAA4Q/-nMB5ZXAFUo/s1600-h/valentine_thumb.jpg)
+[![](/images/2010/02/valentine_thumb.jpg)](/images/2010/02/valentine_thumb-11cebf72.jpg)
 
 Note: It seems that the malware writers are using valid images from legitimate Web sites.
 

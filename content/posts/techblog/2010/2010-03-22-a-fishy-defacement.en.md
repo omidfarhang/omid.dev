@@ -16,7 +16,7 @@ Generally speaking, most website defacements I see tend to look the same with po
 
 This one is, er, a little different – a defacement of what appears to have been a site involved in fish logistics and / or preservation, fish2see(dot)dk. I can only imagine the horror on the face of the site admin who woke up this morning to be confronted by this:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6f1pnhWtoI/AAAAAAAABXg/R5XocnkMWmM/s400/deadfishhack.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6f1pnhWtoI/AAAAAAAABXg/R5XocnkMWmM/s1600-h/deadfishhack.jpg)
+[![](/images/2010/03/deadfishhack.jpg)](/images/2010/03/deadfishhack-f8028641.jpg)
 
 …oh dear.
 

@@ -19,7 +19,7 @@ _From: “The Easter Bunny” <easterbunny removed>
 Subject: How to make this Easter even more magical…</easterbunny>@>_
 ```
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7cwqe7OMhI/AAAAAAAABdE/hlYcQf8X-A4/s400/Screen+shot+2010-04-01+at+9.40.09+PM.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7cwqe7OMhI/AAAAAAAABdE/hlYcQf8X-A4/s1600-h/Screen+shot+2010-04-01+at+9.40.09+PM.jpg)
+[![](/images/2010/04/Screen-shot-2010-04-01-at-9.40.09-PM.jpg)](/images/2010/04/Screen-shot-2010-04-01-at-9.40.09-PM-1c7cffe4.jpg)
 
 In another **Easter spam** message we observed a gift basket promo message that is just like ordinary hit-and-run spam, in which the spammers try to bypass spam filters by changing the registered domains while using the same promotional ads. Spam filters can often miss this type of sudden increase in volume mailing.
 
@@ -30,4 +30,4 @@ From: “Personal Creations”
 Subject: Personalized Easter Baskets 
 ```
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7cws_UezfI/AAAAAAAABdI/eEfchGwVcAw/s400/Screen+shot+2010-04-01+at+9.40.21+PM.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7cws_UezfI/AAAAAAAABdI/eEfchGwVcAw/s1600-h/Screen+shot+2010-04-01+at+9.40.21+PM.jpg)
+[![](/images/2010/04/Screen-shot-2010-04-01-at-9.40.21-PM.jpg)](/images/2010/04/Screen-shot-2010-04-01-at-9.40.21-PM-70aa2cdb.jpg)

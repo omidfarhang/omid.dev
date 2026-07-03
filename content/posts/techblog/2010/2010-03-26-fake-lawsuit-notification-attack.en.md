@@ -20,7 +20,7 @@ The e-mail didn't mention any company by name and took a shotgun, rather than ta
 
 Today, a security blogger forwarded us (and others) his version of the e-mail:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6v0ir-YACI/AAAAAAAABZ8/6IzzhceKM6s/s400/MLC.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6v0ir-YACI/AAAAAAAABZ8/6IzzhceKM6s/s1600-h/MLC.png)
+[![](/images/2010/03/MLC.png)](/images/2010/03/MLC-928ae2f2.png)
 
 At this point, it appears that the attachment has been replaced by hyperlink pointing to the Marcus Law Center.
 

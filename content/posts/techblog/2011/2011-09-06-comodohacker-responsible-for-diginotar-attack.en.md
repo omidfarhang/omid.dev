@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-HZFtJyg7_6E/TmZj7mIxTMI/AAAAAAAAEBQ/EkRD2TfCepU/s320/ScreenHunter_01+Apr.+02+02.55.jpg)](http://2.bp.blogspot.com/-HZFtJyg7_6E/TmZj7mIxTMI/AAAAAAAAEBQ/EkRD2TfCepU/s1600/ScreenHunter_01+Apr.+02+02.55.jpg)
+[![](/images/2011/09/ScreenHunter_01-Apr.-02-02.55.jpg)](/images/2011/09/ScreenHunter_01-Apr.-02-02.55-39ea72e3.jpg)
 
   
 **TheHackerNews.com:** The hacker warns the Internet community that he has access to 4 other high-profile CAs, among them being GlobalSign, a certification authority from the U.S. He threatens that he will use his power over the companies to issue false certificates, which will later become the weapon of his revenge against countries who deserve it.In his own words, he said _“I won't talk so many detail for now, just I wanted to let the world know that ANYTHING you do will have consequences, ANYTHING your country did in past, you have to pay for it…”_. Complete Message [here](http://pastebin.com/1AxH30em).

@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3X00zF9WdI/AAAAAAAAA8Q/gTwxvR2Z2AI/s200/cactusprojectlogo.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3X00zF9WdI/AAAAAAAAA8Q/gTwxvR2Z2AI/s1600-h/cactusprojectlogo.png)
+[![](/images/2010/02/cactusprojectlogo.png)](/images/2010/02/cactusprojectlogo-2606361e.png)
 
 At the ShmooCon hacker conference in Washington, D.C., last week two security researchers showed the very sensitive information that people inadvertently make available over peer-to-peer networks.
 

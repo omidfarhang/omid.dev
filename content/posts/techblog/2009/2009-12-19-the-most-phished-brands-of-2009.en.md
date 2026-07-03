@@ -16,7 +16,7 @@ Almost the entire year 2009, the battle for the first place on phishing targets 
 
 In December, the situation was changed: Now PayPal is the most phished brand (32205 unique URLs) followed from far away by the Chase Bank (25901 unique URLs) and Ebay (18738 unique URLs).
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyzO8BjlN8I/AAAAAAAAAaU/gHJkRmuot30/s400/toptargets.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyzO8BjlN8I/AAAAAAAAAaU/gHJkRmuot30/s1600-h/toptargets.png)
+[![](/images/2009/12/toptargets.png)](/images/2009/12/toptargets-a375533f.png)
 
 Why this change? Most probably it has to do with the fact that a lot of people are using PayPal to pay for Christmas presents.
 

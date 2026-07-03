@@ -20,12 +20,12 @@ Upon playing the attached mp3 file, you find out why I called it the “call-to-
 
 Here is a re-encoded sample:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Syq0MqdX8PI/AAAAAAAAAY8/-Pcrw_KE7JM/s640/Canadian+Pharmacy+Waveform.png)](http://www.sophos.com/anz/audio/canpharm.mp3)
+[![](/images/2009/12/Canadian-Pharmacy-Waveform.png)](http://www.sophos.com/anz/audio/canpharm.mp3)
 
 Canadian Pharmacy Waveform  
 Previous runs from these spammers took the more typical “Image spam” form (an attached JPEG). Example:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Syq0RJeySxI/AAAAAAAAAZE/KzSlVCmX0tY/s640/Canadian+Pharmacy+JPEG+example.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/Syq0RJeySxI/AAAAAAAAAZE/KzSlVCmX0tY/s1600-h/Canadian+Pharmacy+JPEG+example.png)
+[![](/images/2009/12/Canadian-Pharmacy-JPEG-example.png)](/images/2009/12/Canadian-Pharmacy-JPEG-example-56f28a63.png)
 
 Canadian Pharmacy JPEG example
 

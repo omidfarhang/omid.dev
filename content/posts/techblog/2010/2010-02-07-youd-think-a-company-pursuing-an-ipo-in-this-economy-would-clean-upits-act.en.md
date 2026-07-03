@@ -18,15 +18,15 @@ For example, maybe they’d discourage them from hacking government web sites to
 
 The sites:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28E2Moq6BI/AAAAAAAAA2A/M68t-dLlIIg/s640/AFF_20search.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28E2Moq6BI/AAAAAAAAA2A/M68t-dLlIIg/s1600-h/AFF_20search.JPG)
+[![](/images/2010/02/AFF_20search.jpg)](/images/2010/02/AFF_20search-4846b888.jpg)
 
 The code:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28Esf1NpCI/AAAAAAAAA14/BKLDo4GXFDc/s640/AFF_20code3.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28Esf1NpCI/AAAAAAAAA14/BKLDo4GXFDc/s1600-h/AFF_20code3.JPG)
+[![](/images/2010/02/AFF_20code3.jpg)](/images/2010/02/AFF_20code3-0f6b5c1b.jpg)
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S28EnuF9ywI/AAAAAAAAA1w/F-tVRDt6oEU/s640/AFF_20code2.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S28EnuF9ywI/AAAAAAAAA1w/F-tVRDt6oEU/s1600-h/AFF_20code2.JPG)
+[![](/images/2010/02/AFF_20code2.jpg)](/images/2010/02/AFF_20code2-74b10845.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28EmnbobII/AAAAAAAAA1o/xPcFX8WqA_o/s640/AFF_20code.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S28EmnbobII/AAAAAAAAA1o/xPcFX8WqA_o/s1600-h/AFF_20code.JPG)
+[![](/images/2010/02/AFF_20code.jpg)](/images/2010/02/AFF_20code-bace2050.jpg)
 
 Remember Adult Friend Finder? Penthouse Media Group (which also owns Penthouse magazine) purchased the online adult… ah… dating service in 2007 for $500 million. Well now they’re called FriendFinder Networks, Inc. In December, 2008 they filed with the U.S. Security and Exchange Commission for permission to make an initial public offering $460 million of stock.
 

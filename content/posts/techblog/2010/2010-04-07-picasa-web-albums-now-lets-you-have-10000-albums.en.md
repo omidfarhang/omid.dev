@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70GhailHxI/AAAAAAAAB0g/uDWbwZSXVUY/s320/picasa_web_albums.jpeg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70GhailHxI/AAAAAAAAB0g/uDWbwZSXVUY/s1600-h/picasa_web_albums.jpeg)
+[![](/images/2010/04/picasa_web_albums.jpeg)](/images/2010/04/picasa_web_albums-517a40e5.jpeg)
 
 Here’s a nice little update for Picasa Web Albums users – Google has [upped the previous limit](http://googlephotos.blogspot.com/2010/04/ten-times-more-albums.html) of 1,000 albums per account to 10,000. When it comes to storage space for your photos, it’s the same (7.76 GB, shared between Gmail, Google Docs, and Picasa Web Albums), but you can still buy more at [very affordable prices](https://www.google.com/accounts/PurchaseStorage).
 

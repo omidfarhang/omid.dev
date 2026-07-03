@@ -38,7 +38,7 @@ The bad guys can use social networking trust to enhance their SEO attacks.
 
 Lets take a current [hot topic](http://www.google.com/trends) as an example. There are several Twitter results in the image below.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s640/lastest.google.results.seaworld.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4xZyXW6YbI/AAAAAAAABEU/yfayq5XYhqE/s1600-h/lastest.google.results.seaworld.png)
+[![](/images/2010/03/lastest.google.results.seaworld.png)](/images/2010/03/lastest.google.results.seaworld-a4468b6c.png)
 
 Note: Always be careful when searching for hot topics. This “sea world trainer killed” example is currently being used in SEO attacks and many results will lead directly to scamware.
 

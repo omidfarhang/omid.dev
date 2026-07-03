@@ -18,7 +18,7 @@ Google Chrome Blog: It’s that time of the year again for the Chrome team, when
 
 In that time, the web community has continued to inspire us, bringing the power of the web into all kinds of apps and experiences, with all modern browsers making great strides in speed, simplicity and security. To pay homage to the goodness of the web, we’ve put together an [interactive infographic](http://evolutionofweb.appspot.com/), built in HTML5, which details the evolution of major web technologies and browsers:
 
-[![](http://4.bp.blogspot.com/-8WE7Pg7o6-Q/Tl-xKVyIQTI/AAAAAAAAEBI/C31evwLxjiE/s1600/thumb.jpg)](http://evolutionofweb.appspot.com/)
+[![](/images/2011/09/thumb.jpg)](http://evolutionofweb.appspot.com/)
 
 _(With thanks to our friends at Hyperakt, Vizzuality, mgmt design, and GOOD)_
 

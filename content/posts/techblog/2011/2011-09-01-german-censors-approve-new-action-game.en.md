@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-rZt558m5VEs/Tl-0vvKHTBI/AAAAAAAAEBM/NBIPMGSw5F0/s400/idoom.jpg)](http://2.bp.blogspot.com/-rZt558m5VEs/Tl-0vvKHTBI/AAAAAAAAEBM/NBIPMGSw5F0/s1600/idoom.jpg)
+[![](/images/2011/09/idoom.jpg)](/images/2011/09/idoom-15475000.jpg)
 
 **[rockpapershotgun.com](http://www.rockpapershotgun.com/)**: Are you a German teenager? Then do we have some good news for you! After a short seventeen year-long wait, you are now legally allowed to buy a copy of Doom. And, indeed, Doom can now be stocked in normal shops, not just ones ominously deemed ‘adults-only’ – which was basically putting the game right up there with porn.
 

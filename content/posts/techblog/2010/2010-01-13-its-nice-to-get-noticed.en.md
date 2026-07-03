@@ -12,7 +12,7 @@ categories:
 ---
 Looking at a random new incoming malware sample in F-Secure sample automation systems. Notice the [Mutex](http://en.wikipedia.org/wiki/Mutex) names it uses:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S02uD4X6VzI/AAAAAAAAAo0/83C_iAV2kts/s640/avanalystsstfu.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S02uD4X6VzI/AAAAAAAAAo0/83C_iAV2kts/s1600-h/avanalystsstfu.png)
+[![](/images/2010/01/avanalystsstfu.png)](/images/2010/01/avanalystsstfu-db3be513.png)
 
 Hey STFU yourself, why don't you?
 

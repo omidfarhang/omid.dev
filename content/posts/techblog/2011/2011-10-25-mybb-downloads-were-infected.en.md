@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-A3rWc1eyZhU/TqbranNHc3I/AAAAAAAAEK4/eKHtIWE4ow0/s1600/MyBB_logo_200.png)](http://3.bp.blogspot.com/-A3rWc1eyZhU/TqbranNHc3I/AAAAAAAAEK4/eKHtIWE4ow0/s1600/MyBB_logo_200.png)
+[![](/images/2011/10/MyBB_logo_200.png)](/images/2011/10/MyBB_logo_200.png)
 
 **[The H-Security](http://www.h-online.com/)**: In a blog posting, the MyBB [development team has confirmed](http://blog.mybb.com/2011/10/25/some-closure-on-the-1-6-4-security-vulnerability/) that the download package for version 1.6.4 of MyBB had been modified to include malicious code. Unknown attackers were able to exploit a vulnerability in the MyBB web site's CMS (content management system) to inject and execute PHP code.
 

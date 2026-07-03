@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-![](http://2.bp.blogspot.com/-Vg5Kk6KgVx4/Tuzm3rkWi5I/AAAAAAAAEWY/OQaRp2-us7o/s1600/internetexplorer9logo.png)
+![](/images/2011/12/internetexplorer9logo.png)
 
 [SophosLabs:](http://nakedsecurity.sophos.com/) Microsoft's Ryan Gavin [announced](http://windowsteamblog.com/ie/b/ie/archive/2011/12/15/ie-to-start-automatic-upgrades-across-windows-xp-windows-vista-and-windows-7.aspx) a new strategy to keep the web safe… Keep your Internet Explorer up to date.
 
@@ -36,7 +36,7 @@ Most organizations that use Internet Explorer are stuck on older versions becaus
 
 It only takes one application. Which is why Microsoft introduced the Internet Explorer [8](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=14149) and [9](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=179) upgrade blocker. This allows you to stay as stale as Internet Explorer 7 if you wish.
 
-[![](http://2.bp.blogspot.com/-8ISItcFEAHc/Tuzm71PchhI/AAAAAAAAEWg/tAhLavk38so/s1600/html5_logo_256.png)](http://2.bp.blogspot.com/-8ISItcFEAHc/Tuzm71PchhI/AAAAAAAAEWg/tAhLavk38so/s1600/html5_logo_256.png)
+[![](/images/2011/12/html5_logo_256.png)](/images/2011/12/html5_logo_256.png)
 
 Australians and Brazil will be the first to see the automatic upgrades in action, and users who have already said no to IE 8 or 9 will remain at their current version.
 

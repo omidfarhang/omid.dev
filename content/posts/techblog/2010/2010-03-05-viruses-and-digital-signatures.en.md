@@ -24,13 +24,13 @@ Also, although the file is correctly signed by a company called “Adobe Systems
 
 Shown below are the real and fake Verisign CA signed files. On the left you can see that the certificate chain is not trusted all the way to the root where as on the right side (a real Adobe file) the certification chain is trusted up to the root.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FaZzBZVNI/AAAAAAAABLk/SmxBK-b65MM/s640/certificates.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FaZzBZVNI/AAAAAAAABLk/SmxBK-b65MM/s1600-h/certificates.jpg)
+[![](/images/2010/03/certificates.jpg)](/images/2010/03/certificates-d1c7478e.jpg)
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5Faa4XUeRI/AAAAAAAABLs/KwcIY8kmpu0/s640/path.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5Faa4XUeRI/AAAAAAAABLs/KwcIY8kmpu0/s1600-h/path.jpg)
+[![](/images/2010/03/path.jpg)](/images/2010/03/path-3cbfc27b.jpg)
 
 On Windows machines with User Access Control enabled, a warning similar to the one shown below will be displayed (warning that the publisher is unknown).
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5Faeuwf9fI/AAAAAAAABL0/c5MABrvIyi0/s640/warning_1a.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5Faeuwf9fI/AAAAAAAABL0/c5MABrvIyi0/s1600-h/warning_1a.jpg)
+[![](/images/2010/03/warning_1a.jpg)](/images/2010/03/warning_1a-a010d0a8.jpg)
 
 So, in a nutshell, creating “authentic-looking” certificates to make malicious files look legitimate is a trick which virus writers are employing to challenge today’s sophisticated security mechanisms.
 

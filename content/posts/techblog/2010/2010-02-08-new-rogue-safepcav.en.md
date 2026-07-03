@@ -16,7 +16,7 @@ categories:
 ---
 The creators behind the rogue antispyware appliaction [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) have released yet another clone of their software. This one is called SafePcAV.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3AU-e5tPuI/AAAAAAAAA24/K6JD-pcsLBw/s640/safepcav.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3AU-e5tPuI/AAAAAAAAA24/K6JD-pcsLBw/s1600-h/safepcav.jpg)
+[![](/images/2010/02/safepcav.jpg)](/images/2010/02/safepcav-aa2d6827.jpg)
 
 SafePcAV spreads by showing fake online scanners. Once installed it will show hundreds of false infections. To remove these infections it requires the user to pay and license the software.
 

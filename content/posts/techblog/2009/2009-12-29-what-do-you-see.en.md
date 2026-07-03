@@ -13,7 +13,7 @@ categories:
 ---
 I recently had an interesting message arrive in my system; after viewing the message, 100% of those polled agreed on what it was. What do _you_ think?
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/Szp3SIsjwCI/AAAAAAAAAiI/i2DBw6JuuN8/s640/iseespam.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/Szp3SIsjwCI/AAAAAAAAAiI/i2DBw6JuuN8/s1600-h/iseespam.jpg)
+[![](/images/2009/12/iseespam.jpg)](/images/2009/12/iseespam-1330a823.jpg)
 
 What do YOU see?
 

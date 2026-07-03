@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-F4_ay5ffOfo/TnD1D2rbb1I/AAAAAAAAECA/O5YhTKeGyo0/s1600/adobe_logo200.jpeg)](http://3.bp.blogspot.com/-F4_ay5ffOfo/TnD1D2rbb1I/AAAAAAAAECA/O5YhTKeGyo0/s1600/adobe_logo200.jpeg)
+[![](/images/2011/09/adobe_logo200.jpeg)](/images/2011/09/adobe_logo200.jpeg)
 
 **The H-Security:** Adobe has [released](https://www.adobe.com/support/security/bulletins/apsb11-24.html) new versions of Reader and Acrobat to close several critical security holes. Versions 10.x, 9.x and 8.x of both products for Windows, Linux and Mac are affected. Adobe recommends that Reader X and Acrobat X users update to version 10.1.1 as this version offers added protection under Windows through its sandbox. However, the vendor has also made Adobe Reader 9.4.6 and 8.3.1, as well as Adobe Acrobat 9.4.6 and 8.3.1, available to download. Adobe Reader 9.4.6 for UNIX is due to be released on 7 November.
 

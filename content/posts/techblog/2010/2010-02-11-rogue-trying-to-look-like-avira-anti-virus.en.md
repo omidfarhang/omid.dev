@@ -19,7 +19,7 @@ Hmmm. If this company has been providing “20 Years of Total Protection” how 
 
 **The fake:**
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3RO6u522nI/AAAAAAAAA4A/CY08zAmyPps/s640/fake_avira.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3RO6u522nI/AAAAAAAAA4A/CY08zAmyPps/s1600-h/fake_avira.png)
+[![](/images/2010/02/fake_avira.png)](/images/2010/02/fake_avira-0a2b3511.png)
 
 Site registered last year to a proxy service.
 
@@ -37,7 +37,7 @@ Registrant:
 
 **The real one:**
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RO-V35iSI/AAAAAAAAA4I/iBYTfMugujI/s640/Avira.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3RO-V35iSI/AAAAAAAAA4I/iBYTfMugujI/s1600-h/Avira.png)
+[![](/images/2010/02/Avira.png)](/images/2010/02/Avira-c8c46d02.png)
 
 Site registered in 1999, full identifying data in Whois record.
 

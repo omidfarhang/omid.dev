@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4fnQFOABrI/AAAAAAAAA_c/8hUU8X15yOc/s640/story.facebook.courtesy.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4fnQFOABrI/AAAAAAAAA_c/8hUU8X15yOc/s1600-h/story.facebook.courtesy.jpg)
+[![](/images/2010/02/story.facebook.courtesy.jpg)](/images/2010/02/story.facebook.courtesy-642fadb0.jpg)
 
 **[(CNN)](http://www.cnn.com/) [(CNET)](http://www.cnet.com/)** — Facebook this week was awarded a patent pertaining to streaming “feed” technology — more specifically, “dynamically providing a news feed about a user of a social network,” complementing another patent filing that has been published but not yet approved.
 

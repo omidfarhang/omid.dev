@@ -25,17 +25,17 @@ Based on a very quick, cursory look, Bing is a competent iPhone app, tapping int
 
 Google's iPhone search app also supports voice search, which is prominently available on Android phones. Voice search is a great utility and demonstrates how natural user interfaces can greatly improve the smartphone data experience compared to PCs. I would — again, from a quick look — pick Bing voice search over Google on iPhone, but find Google's voice search in Android to be more appealing.
 
-![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SyqoVut6P4I/AAAAAAAAAX0/S-jomh5xlng/s1600-h/Bing+for+iPhone+1.png)
+![](/images/2009/12/Bing-for-iPhone-1.png)
 
 Microsoft also touts location search tied to mapping and GPS: “Speaking of directions (ha), looking for a coffee shop nearby? Bing automatically finds your location. It's also easy to discover a new spot by category such as restaurants, banks, theaters and choose whether you want walking or driving directions.”
 
 Location-awareness isn't exactly new to iPhone, but at least Microsoft offers an alternative to the Google Maps functionality built into the device. The mapping feature looks promising, but will require more testing for proper evaluation. The visuals impress, at least. Still, regardless of merits, Bing mapping features are Google catchups.
 
-![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyqoYhRzFhI/AAAAAAAAAX8/DScU1HJQtiY/s1600-h/bing-phone2.jpg)
+![](/images/2009/12/bing-phone2.jpg)
 
 The Bing home screen is nicely laid out, and it comes with the expected background image typically found on the Website search page. Categories like businesses, directions, movies or maps help simplify search. Clearly there is emphasis on local search, which absolutely is the right priority. I love the photo search, by the way. Presentation is simply awesome.
 
-![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SyqoelqUlMI/AAAAAAAAAYE/R85BQRNG1QI/s1600-h/Bing+for+iPhone+3.png)
+![](/images/2009/12/Bing-for-iPhone-3.png)
 
 Many pundits will quip about how Microsoft is conceding something by releasing an iPhone app and not keeping Bing solely for Windows Mobile. Microsoft already offers a Bing search app for other mobile platforms, and even more supported platforms is the right strategy. Search is the future of mobile phones — and any advertising packaged along with it. Microsoft had better be there or be square. Bing search should be available for all mobile platforms. Bing for iPhone is smart business. The concession would be keeping Bing only for Windows Mobile.
 

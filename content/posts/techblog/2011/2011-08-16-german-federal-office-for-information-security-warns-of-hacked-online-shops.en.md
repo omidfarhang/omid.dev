@@ -15,9 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-_W2Uf_OCphQ/TkrMsNBWPuI/AAAAAAAAD-Q/s2i4LxOKIJ4/s1600/osCommerce.png)](http://4.bp.blogspot.com/-_W2Uf_OCphQ/TkrMsNBWPuI/AAAAAAAAD-Q/s2i4LxOKIJ4/s1600/osCommerce.png)
+[![](/images/2011/08/osCommerce.png)](/images/2011/08/osCommerce.png)
 
-**H-Online:** The German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/Home/home_node.html)) is [warning![](http://2.bp.blogspot.com/-thnRA3V-f1c/TkrMlkNyeaI/AAAAAAAAD-M/PVnWKnisxDQ/s1600/Germany_Flag_Icon.png)](https://www.bsi.bund.de/ContentBSI/Presse/Pressemitteilungen/Presse2011/Manipulierte-Shop-Systeme-verbreiten-Schadprogramme_15082011.html)  of online shops which infect users with malicious software by exploiting security vulnerabilities in the user's browser, operating system or applications. The affected shops have themselves been hacked by attackers exploiting security vulnerabilities in outdated versions of open source online shop software [osCommerce](http://www.oscommerce.com/).
+**H-Online:** The German Federal Office for Information Security ([BSI](https://www.bsi.bund.de/EN/Home/home_node.html)) is [warning![](/images/2011/08/Germany_Flag_Icon.png)](https://www.bsi.bund.de/ContentBSI/Presse/Pressemitteilungen/Presse2011/Manipulierte-Shop-Systeme-verbreiten-Schadprogramme_15082011.html)  of online shops which infect users with malicious software by exploiting security vulnerabilities in the user's browser, operating system or applications. The affected shops have themselves been hacked by attackers exploiting security vulnerabilities in outdated versions of open source online shop software [osCommerce](http://www.oscommerce.com/).
 
 As reported by The H two weeks ago, [osCommerce shops are currently being hacked en masse](http://www.h-online.com/news/item/Millions-of-osCommerce-stores-hacked-1317410.html). The vulnerabilities used for the hack were fixed in November last year with the release of osCommerce 2.3, but many companies running online shops have yet to update to a secure version.
 

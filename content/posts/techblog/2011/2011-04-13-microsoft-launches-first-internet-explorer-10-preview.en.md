@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-ZYGRd75n2i0/TaWPux7oDGI/AAAAAAAAD1U/hTAMwS9aK-w/s1600/internetexplorer9logo.png)](http://4.bp.blogspot.com/-ZYGRd75n2i0/TaWPux7oDGI/AAAAAAAAD1U/hTAMwS9aK-w/s1600/internetexplorer9logo.png)
+[![](/images/2011/04/internetexplorer9logo.png)](/images/2011/04/internetexplorer9logo.png)
 
 Fulfilling the hints Microsoft [dropped back in March](http://www.betanews.com/article/Microsoft-hints-at-Internet-Explorer-10-previews-for-MIX11-in-April/1299689497), the Redmond software company unveiled the first platform preview of Internet Explorer 10 at MIX 11 in Las Vegas on Tuesday.
 

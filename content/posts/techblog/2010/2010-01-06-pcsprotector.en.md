@@ -15,4 +15,4 @@ categories:
 ---
 The creators of WiniGuard rogue security software have released their first clone of 2010. This new rogue is called PcsProtector.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SSMpmP8gI/AAAAAAAAAkQ/OEiRf2poN_A/s640/PcsProtector.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SSMpmP8gI/AAAAAAAAAkQ/OEiRf2poN_A/s1600-h/PcsProtector.jpg)
+[![](/images/2010/01/PcsProtector.jpg)](/images/2010/01/PcsProtector-d0070517.jpg)

@@ -16,7 +16,7 @@ categories:
 ---
 About a year or so ago one of the “McMarketeers” decided it would be fun to run a campaign against “fram”–spam that friends send you. As you might guess, we in the Labs have no friends, so it was no problem for us to ridicule the idea.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qrqlurSvI/AAAAAAAABRA/naaBE_PHD58/s1600/Blog-FB.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qrqlurSvI/AAAAAAAABRA/naaBE_PHD58/s1600-h/Blog-FB.jpg)
+[![](/images/2010/03/Blog-FB.jpg)](/images/2010/03/Blog-FB-9f67df06.jpg)
 
 However, around the coffee machine the other day I got involved in a quick discussion about spam on Facebook. A long-term social networker genuinely thought that Facebook spam did not exist and that all the noise was from Facebookers playing games or using annoying apps. So I offered to write up an example.
 
@@ -24,57 +24,57 @@ One of the most subversive forms of advertising on Facebook is (though I hate to
 
 You receive a post like this from a friend:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qrxszwUPI/AAAAAAAABRE/srvNHqlo15o/s400/Blog-FB-Screenshot-1.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qrxszwUPI/AAAAAAAABRE/srvNHqlo15o/s1600-h/Blog-FB-Screenshot-1.png)
+[![](/images/2010/03/Blog-FB-Screenshot-1.png)](/images/2010/03/Blog-FB-Screenshot-1-4cfd51c6.png)
 
 This page uses the FBML application to render content in a tab, and that tab is the default you see.  
 Step one is become a fan, so that you can see the next step.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qsF3mZDnI/AAAAAAAABRI/ltX4TvEjfaU/s400/Blog-FB-Screenshot-1b.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qsF3mZDnI/AAAAAAAABRI/ltX4TvEjfaU/s1600-h/Blog-FB-Screenshot-1b.png)
+[![](/images/2010/03/Blog-FB-Screenshot-1b.png)](/images/2010/03/Blog-FB-Screenshot-1b-72ca2818.png)
 
 This posts to your wall:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qsR9RXlHI/AAAAAAAABRM/EpG0OIBTkOw/s400/Blog-FB-Screenshot-1%20(1).png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qsR9RXlHI/AAAAAAAABRM/EpG0OIBTkOw/s1600-h/Blog-FB-Screenshot-1%20(1).png)
+[![](/images/2010/03/Blog-FB-Screenshot-1-1.bin).png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qsR9RXlHI/AAAAAAAABRM/EpG0OIBTkOw/s1600-h/Blog-FB-Screenshot-1%20(1).png)
 
 The fram quickly propagates from friend to friend–and spreads virally, to almost half a million fans.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qsaSc7z6I/AAAAAAAABRQ/gh-92uAhdMU/s400/Blog-FB-Screenshot-2.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qsaSc7z6I/AAAAAAAABRQ/gh-92uAhdMU/s1600-h/Blog-FB-Screenshot-2.png)
+[![](/images/2010/03/Blog-FB-Screenshot-2.png)](/images/2010/03/Blog-FB-Screenshot-2-1a96d05d.png)
 Let’s return to step 2: after becoming a fan:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qskjGdT3I/AAAAAAAABRU/wXQ5VUbxahE/s640/Blog-FB-Screenshot-3.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qskjGdT3I/AAAAAAAABRU/wXQ5VUbxahE/s1600-h/Blog-FB-Screenshot-3.png)
+[![](/images/2010/03/Blog-FB-Screenshot-3.png)](/images/2010/03/Blog-FB-Screenshot-3-fa6ae7e7.png)
 
 [Click]
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qsyVxnE3I/AAAAAAAABRY/SogfN-Q7JMg/s400/Blog-FB-Screenshot-4.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qsyVxnE3I/AAAAAAAABRY/SogfN-Q7JMg/s1600-h/Blog-FB-Screenshot-4.png)
+[![](/images/2010/03/Blog-FB-Screenshot-4.png)](/images/2010/03/Blog-FB-Screenshot-4-621a233a.png)
 
 Oooh, SEKR3T CODE! [click]
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qtIYcJTNI/AAAAAAAABRc/ibajpjSOUUQ/s400/Blog-FB-Screenshot-5.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5qtIYcJTNI/AAAAAAAABRc/ibajpjSOUUQ/s1600-h/Blog-FB-Screenshot-5.png)
+[![](/images/2010/03/Blog-FB-Screenshot-5.png)](/images/2010/03/Blog-FB-Screenshot-5-e818e6e7.png)
 
 This bit of JavaScript is very common on Facebook pages that want to spread quickly. It selects all your friends in the invite pop-up. **It is a clear sign of something you don’t want to do, and it’s almost always related to some form of scam**. I ask my friends not to do it; you should do the same.
 
 Double bubble: Because you’ve posted to your wall once that you’re a fan, why not repeat the process and “share” the page, too?
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qtIqDF9gI/AAAAAAAABRg/CHgK4Cb8v_4/s400/Blog-FB-Screenshot-6.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qtIqDF9gI/AAAAAAAABRg/CHgK4Cb8v_4/s1600-h/Blog-FB-Screenshot-6.png)
+[![](/images/2010/03/Blog-FB-Screenshot-6.png)](/images/2010/03/Blog-FB-Screenshot-6-21798bc5.png)
 
 Of course you want to share this, even though you have not yet seen the content.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qtI95wJrI/AAAAAAAABRk/C09fS40NVk8/s320/Blog-FB-Screenshot-7.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qtI95wJrI/AAAAAAAABRk/C09fS40NVk8/s1600-h/Blog-FB-Screenshot-7.png)
+[![](/images/2010/03/Blog-FB-Screenshot-7.png)](/images/2010/03/Blog-FB-Screenshot-7-53d62c95.png)
 
 By now we hope your friends have said “no thanks” to this. That’s a vain hope, however, because they have nearly a half-million members.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qtI5BmccI/AAAAAAAABRo/9Fv3RBsfJrU/s320/Blog-FB-Screenshot-8.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qtI5BmccI/AAAAAAAABRo/9Fv3RBsfJrU/s1600-h/Blog-FB-Screenshot-8.png)
+[![](/images/2010/03/Blog-FB-Screenshot-8.png)](/images/2010/03/Blog-FB-Screenshot-8-74e97f4d.png)
 
 [click] Oh drat. I had JavaScript blocked.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qubPbxTOI/AAAAAAAABRw/fr4QLfCWlMY/s400/Blog-FB-Screenshot-9a.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5qubPbxTOI/AAAAAAAABRw/fr4QLfCWlMY/s1600-h/Blog-FB-Screenshot-9a.png)
+[![](/images/2010/03/Blog-FB-Screenshot-9a.png)](/images/2010/03/Blog-FB-Screenshot-9a-5428e6fa.png)
 
 [click] Oh drat! I had ad-block installed.
 
-![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5qvGt6QttI/AAAAAAAABR4/_nk-F-kuvvA/s400/Blog-FB-Screenshot-9.png)
+![](/images/2010/03/Blog-FB-Screenshot-9.png)
 
 At last the Video! … on http://thiswillruinurreputation.blogspot.com/
 
-![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5qubAA4gDI/AAAAAAAABR0/rTcY9N1CldY/s400/Blog-FB-Screenshot-10.png)
+![](/images/2010/03/Blog-FB-Screenshot-10.png)
 
 All that work and what do we see? It’s affiliate spam.
 

@@ -14,7 +14,7 @@ categories:
 ---
 _This is an article taken from_ [_CNN_](http://www.cnn.com/) _and I don't agree or disagree it._
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5odt6T84MI/AAAAAAAABQA/AWa7HPE5ebE/s200/story.cloud.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5odt6T84MI/AAAAAAAABQA/AWa7HPE5ebE/s1600-h/story.cloud.jpg)
+[![](/images/2010/03/story.cloud.jpg)](/images/2010/03/story.cloud-19294017.jpg)
 
 What security concerns are hidden in the murk of cloud computing?
 

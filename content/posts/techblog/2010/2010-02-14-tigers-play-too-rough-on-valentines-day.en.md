@@ -18,19 +18,19 @@ This year, Valentines Day coincides with the Chinese New Year as well as the sta
 
 The Chinese New Year of the Tiger is proving a popular target, especially as this ties in with any Tiger Woods related searches:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3hLnny95LI/AAAAAAAAA9I/nYcqyp3shxk/s640/search1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3hLnny95LI/AAAAAAAAA9I/nYcqyp3shxk/s1600-h/search1.jpg)
+[![](/images/2010/02/search1.jpg)](/images/2010/02/search1-b72628d6.jpg)
 
 As we are seeing on a daily basis, topical issues that have spawned a large number of searches become the target of Fake AV authors:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hL2eqNuPI/AAAAAAAAA9Q/0MQeBwdyp4g/s640/search2.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hL2eqNuPI/AAAAAAAAA9Q/0MQeBwdyp4g/s1600-h/search2.jpg)
+[![](/images/2010/02/search2.jpg)](/images/2010/02/search2-c7b75474.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMFTSIuiI/AAAAAAAAA9Y/unOTyLJpd0U/s640/alert.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMFTSIuiI/AAAAAAAAA9Y/unOTyLJpd0U/s1600-h/alert.jpg)
+[![](/images/2010/02/alert.jpg)](/images/2010/02/alert-225dad4a.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMKmJHb9I/AAAAAAAAA9g/TCGCXOZUAQE/s640/scan.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3hMKmJHb9I/AAAAAAAAA9g/TCGCXOZUAQE/s1600-h/scan.jpg)
+[![](/images/2010/02/scan.jpg)](/images/2010/02/scan-14e4fd25.jpg)
 
 Tragic events are also fair game:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hMRN-SfdI/AAAAAAAAA9o/61uIp66qHto/s640/search3.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S3hMRN-SfdI/AAAAAAAAA9o/61uIp66qHto/s1600-h/search3.jpg)
+[![](/images/2010/02/search3.jpg)](/images/2010/02/search3-87c6f3f5.jpg)
 
 As well as having up to date Anti Virus one way to avoid attacks such as these is to use a browser plugin such as NoScript that blocks the execution of JavaScript from untrusted sources.
 

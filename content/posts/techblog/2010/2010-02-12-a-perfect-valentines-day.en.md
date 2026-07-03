@@ -49,7 +49,7 @@ Subject: , Get your gifts in time for Valentines!
 Subject: Valentine's Gifts 72% Off
 ```
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3WBzQUSh0I/AAAAAAAAA44/op0AxigBr80/s640/Screen+shot+2010-02-12+at+2.02.19+PM.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S3WBzQUSh0I/AAAAAAAAA44/op0AxigBr80/s1600-h/Screen+shot+2010-02-12+at+2.02.19+PM.png)
+[![](/images/2010/02/Screen-shot-2010-02-12-at-2.02.19-PM.png)](/images/2010/02/Screen-shot-2010-02-12-at-2.02.19-PM-da566f27.png)
 
 The appeal of Valentine’s Day is universal, and if you thought that Valentine’s Day is only a boom day for English language spam, think otherwise. Symantec has found samples in various languages:
 
@@ -61,7 +61,7 @@ From:  “[Removed] Wine” [Removed] Wine@[Details Removed]
 Subject: Stand out this Valentine's Day with [Removed] Wine
 ```
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WtbrLUj5I/AAAAAAAAA5Y/NE0arHiM2BY/s640/Screen+shot+2010-02-12+at+2.02.36+PM.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WtbrLUj5I/AAAAAAAAA5Y/NE0arHiM2BY/s1600-h/Screen+shot+2010-02-12+at+2.02.36+PM.jpg)
+[![](/images/2010/02/Screen-shot-2010-02-12-at-2.02.36-PM.jpg)](/images/2010/02/Screen-shot-2010-02-12-at-2.02.36-PM-10a40976.jpg)
 
 ### Sample 2: Chinese dating spam
 
@@ -71,7 +71,7 @@ From: “[Details Removed]” admin@[Details Removed]
 Subject: 情人节还要一个人过吗？来这里找个朋友吧
 ```
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WCg5wPbFI/AAAAAAAAA5I/rh9dm3xKII4/s640/Screen+shot+2010-02-12+at+2.09.34+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S3WCg5wPbFI/AAAAAAAAA5I/rh9dm3xKII4/s1600-h/Screen+shot+2010-02-12+at+2.09.34+PM.png)
+[![](/images/2010/02/Screen-shot-2010-02-12-at-2.09.34-PM.png)](/images/2010/02/Screen-shot-2010-02-12-at-2.09.34-PM-c5b3acf3.png)
 
 ```md
 _Translation:_  
@@ -92,7 +92,7 @@ From:  [Details Removed]
 Subject: Oтличный пoдaрок нa день влюблeнных
 ```
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3WCjcvXLXI/AAAAAAAAA5Q/nr7SBpQzK3g/s640/Screen+shot+2010-02-12+at+2.09.48+PM.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3WCjcvXLXI/AAAAAAAAA5Q/nr7SBpQzK3g/s1600-h/Screen+shot+2010-02-12+at+2.09.48+PM.png)
+[![](/images/2010/02/Screen-shot-2010-02-12-at-2.09.48-PM.png)](/images/2010/02/Screen-shot-2010-02-12-at-2.09.48-PM-ca2a6257.png)
 
 ```md
 _Translation:_  

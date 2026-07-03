@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7ZcY3-k97I/AAAAAAAABcA/wO-6xaLa_kY/s1600/story.icade.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7ZcY3-k97I/AAAAAAAABcA/wO-6xaLa_kY/s1600-h/story.icade.jpg)
+[![](/images/2010/04/story.icade.jpg)](/images/2010/04/story.icade-8dfbf39c.jpg)
 
 Games are big on the iPhone — the majority of apps on the App Store are games, and games are regularly among the top-selling paid and free apps.
 

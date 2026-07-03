@@ -17,13 +17,13 @@ categories:
 ---
 This Black Tuesday was different as anticipated – Microsoft releases only one security bulletin, but other companies “jumped in” and deliver updates now as well.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02wkwYFxyI/AAAAAAAAApE/YJMAZD2NREU/s640/microsoft_logo.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S02wkwYFxyI/AAAAAAAAApE/YJMAZD2NREU/s1600-h/microsoft_logo.jpg)
+[![](/images/2010/01/microsoft_logo.jpg)](/images/2010/01/microsoft_logo-fb949cef.jpg)
 
 For the windows operating systems, only [one Security Bulletin](http://www.microsoft.com/technet/security/Bulletin/MS10-jan.mspx) was released. [MS10-001](http://www.microsoft.com/technet/security/Bulletin/MS10-001.mspx) deals with a vulnerability in the decompression routines of the Embeded OpenType Font Engine. This means that especially in Windows 2000, programs like Internet Explorer, Word or PowerPoint for example which render EOT fonts can put the system at risk when viewing manipulated contents. In newer operating systems the flawed code is used differently so that Microsoft assumes that it isn’t exploitable there.
 
 The company released another [Security Advidory](http://www.microsoft.com/technet/security/advisory/979267.mspx) on the Adobe FlashPlayer that is installed by default on Windows XP. Due to security vulnerabilities in that version attackers may inject malicious code and compromise the computers. Microsoft advises users and administrators to either uninstall or update the software. Current versions are available on [Adobes web site](http://get.adobe.com/flashplayer/).
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S02wmIk1MsI/AAAAAAAAApM/KzSTgY9ch-Y/s640/logo-flashplayer.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S02wmIk1MsI/AAAAAAAAApM/KzSTgY9ch-Y/s1600-h/logo-flashplayer.jpg)
+[![](/images/2010/01/logo-flashplayer.jpg)](/images/2010/01/logo-flashplayer-5a3364fb.jpg)
 
 Adobe also released updated versions of Reader and Acrobat. They close [security holes](http://www.adobe.com/support/security/bulletins/apsb10-02.html) in the popular software which is already publicly exploited. The updated Reader software is available [here](http://get.adobe.com/reader), while for Acrobat updates are available [here](http://www.adobe.com/support/downloads/product.jsp?product=1&platform=Windows).
 

@@ -20,7 +20,7 @@ And whenever Facebook adds new features, in this case the **Applications and Gam
 
 This is what part of the new Applications dashboard looks like.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S2yfsRqXtlI/AAAAAAAAA04/CZDgj_046HE/s640/Facebook_Privacy_Activity_04.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S2yfsRqXtlI/AAAAAAAAA04/CZDgj_046HE/s1600-h/Facebook_Privacy_Activity_04.png)
+[![](/images/2010/02/Facebook_Privacy_Activity_04.png)](/images/2010/02/Facebook_Privacy_Activity_04-21c4bdfe.png)
 
 All Facebook has raised some privacy concerns regarding the dashboard's output.
 
@@ -32,16 +32,16 @@ Then you'll want to take a look at the new control provided by Facebook.
 
 Here's the old Applications and Websites settings page.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2yfoxzXu7I/AAAAAAAAA0g/Krs48fY38GE/s640/Facebook_Privacy_Activity_01.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2yfoxzXu7I/AAAAAAAAA0g/Krs48fY38GE/s1600-h/Facebook_Privacy_Activity_01.png)
+[![](/images/2010/02/Facebook_Privacy_Activity_01.png)](/images/2010/02/Facebook_Privacy_Activity_01-2c521fce.png)
 
 Here are the new settings.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s640/Facebook_Privacy_Activity_02.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yfq0GgtjI/AAAAAAAAA0o/T3tAURniwQI/s1600-h/Facebook_Privacy_Activity_02.png)
+[![](/images/2010/02/Facebook_Privacy_Activity_02.png)](/images/2010/02/Facebook_Privacy_Activity_02-bd1ac56c.png)
 
 The new privacy option allows you to “Control who can see your activity in the Friends' Recent Activity, Friends' Applications and Friends' Games sections of these pages.”
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s640/Facebook_Privacy_Activity_03.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2yfrUEMa1I/AAAAAAAAA0w/wor3YTqIgS4/s1600-h/Facebook_Privacy_Activity_03.png)
+[![](/images/2010/02/Facebook_Privacy_Activity_03.png)](/images/2010/02/Facebook_Privacy_Activity_03-7bc90f09.png)
 
 The control options should be familiar enough at this point. Sharing can be set to Only Friends, Friends of Friends and Everyone. Of course, utilizing Friends Lists can limit access in a more refined manner.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yftKEfnpI/AAAAAAAAA1A/yyPm1p4oqjM/s640/Facebook_Privacy_Activity_05.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2yftKEfnpI/AAAAAAAAA1A/yyPm1p4oqjM/s1600-h/Facebook_Privacy_Activity_05.png)
+[![](/images/2010/02/Facebook_Privacy_Activity_05.png)](/images/2010/02/Facebook_Privacy_Activity_05-c4a1661a.png)

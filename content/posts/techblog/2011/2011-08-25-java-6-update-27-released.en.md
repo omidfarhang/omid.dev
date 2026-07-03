@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-sesfTOPXLsg/TlYgLtdj4nI/AAAAAAAAD_I/ATInAlXLwqU/s200/Java.jpg)](http://1.bp.blogspot.com/-sesfTOPXLsg/TlYgLtdj4nI/AAAAAAAAD_I/ATInAlXLwqU/s1600/Java.jpg)
+[![](/images/2011/08/Java.jpg)](/images/2011/08/Java-77c57f9f.jpg)
 
 **Java™ SE 6 Update 27**  
 The full internal version number for this update release is 1.6.0_27-b07 (where “b” means “build”). The external version number is 6u27.

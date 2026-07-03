@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-4ChwZaOHcoA/TaWB1sosyGI/AAAAAAAAD1A/QXE70UlmOmk/s1600/flock-logo200-763c5b74ee637d42.png)](http://1.bp.blogspot.com/-4ChwZaOHcoA/TaWB1sosyGI/AAAAAAAAD1A/QXE70UlmOmk/s1600/flock-logo200-763c5b74ee637d42.png)
+[![](/images/2011/04/flock-logo200-763c5b74ee637d42.png)](/images/2011/04/flock-logo200-763c5b74ee637d42.png)
 
 **H-Online:** In a post on their home page, the [Flock](http://www.flock.com/) developers have announced that support for their Chromium-based social web browser will officially be discontinued on 26 April 2011. Thanking their “loyal users” for their support, the developers encourage the Flock community to migrate to another browser.
 

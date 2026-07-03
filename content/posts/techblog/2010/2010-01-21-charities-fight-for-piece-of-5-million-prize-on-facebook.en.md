@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s320/story.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S1jMxpgwllI/AAAAAAAAAtA/xQya7-xo_dU/s1600-h/story.jpg)
+[![](/images/2010/01/story.jpg)](/images/2010/01/story-449ba216.jpg)
 
 (CNN) — This week, 100 charities are battling for votes on Facebook to win $1 million.  
 The competition is a new approach to philanthropic giving and is led by JPMorgan Chase, which throughout the competition will donate a total of $5 million to 100 charities chosen by Facebook users.  

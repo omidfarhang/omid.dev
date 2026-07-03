@@ -20,7 +20,7 @@ If you like videogame consoles, you may be a fan of emulators (programs that ape
 
 Below is a Playstation 2 emulator – no really, it is. Would they lie to you?
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5pLXIYNv1I/AAAAAAAABQ0/7cgT6MkDVJc/s400/fkps22.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5pLXIYNv1I/AAAAAAAABQ0/7cgT6MkDVJc/s1600-h/fkps22.jpg)
+[![](/images/2010/03/fkps22.jpg)](/images/2010/03/fkps22-29e50eb4.jpg)
 
 Probably best not to answer that question.
 

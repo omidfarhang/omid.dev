@@ -17,7 +17,7 @@ It's the second Tuesday of the month and there are important updates being relea
 
 From Microsoft, of course, but also from Adobe.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7qcd9g_VI/AAAAAAAAARQ/_jLZIBA6i-I/s640/Adobe+Security+bulletin+APSB09-19.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sx7qcd9g_VI/AAAAAAAAARQ/_jLZIBA6i-I/s1600-h/Adobe+Security+bulletin+APSB09-19.png)
+[![](/images/2009/12/Adobe-Security-bulletin-APSB09-19.png)](/images/2009/12/Adobe-Security-bulletin-APSB09-19-174fba5e.png)
 
 There's a [critical security issue in Adobe Flash Player](http://www.itpro.co.uk/618487/adobe-software-hit-again-by-hackers) 10.0.32.18 and earlier.
 

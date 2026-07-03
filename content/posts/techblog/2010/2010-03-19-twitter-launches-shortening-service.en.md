@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6NMHF6teKI/AAAAAAAABTU/245-CxwdfKM/s1600/Twt_tl.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6NMHF6teKI/AAAAAAAABTU/245-CxwdfKM/s1600-h/Twt_tl.png)
+[![](/images/2010/03/Twt_tl.png)](/images/2010/03/Twt_tl-0422adf1.png)
 
 Del Harvey, Director of Twitter's Trust and Safety team, announced on Twitter’s blog that the micro-blogging service has begun using its own shortening service to stop malicious operators from sending tweets with links to their dodgy sites disguised through shortening.
 

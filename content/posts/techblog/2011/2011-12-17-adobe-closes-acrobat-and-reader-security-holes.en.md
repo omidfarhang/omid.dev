@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-![](http://1.bp.blogspot.com/-XpllBUvjElA/TuzhGgTYqOI/AAAAAAAAEWQ/6-eeLKvIM40/s1600/adobe+reader.jpg)
+![](/images/2011/12/adobe-reader.jpg)
 
 [The H-Online:](http://www.h-online.com/) The first patches for the zero-day flaw in Adobe's Acrobat and Reader applications, which the company confirmed was being exploited in the wild, have been [released](http://www.adobe.com/support/security/bulletins/apsb11-30.html). The initial problem was caused by a memory corruption when processing Universal 3D (U3D) files, which could allow attackers to potentially take control of an affected system. The patches released also address a newly revealed critical flaw (CVE-2011-4369) which can cause memory corruption when processing Product Representation Compact (PRC) 3D files.
 

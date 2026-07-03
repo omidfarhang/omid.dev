@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-H8XZp2OkbU4/TkGC_grS9mI/AAAAAAAAD8c/hGBZjQ5PlSs/s200/logo-wordmark-vertical.png)](http://4.bp.blogspot.com/-H8XZp2OkbU4/TkGC_grS9mI/AAAAAAAAD8c/hGBZjQ5PlSs/s1600/logo-wordmark-vertical.png)
+[![](/images/2011/08/logo-wordmark-vertical.png)](/images/2011/08/logo-wordmark-vertical-09592ace.png)
 
 **H-Online:** Security specialist Sophos [reports](http://nakedsecurity.sophos.com/2011/08/08/fake-firefox-update-email-malware/) that it has discovered new spam email messages that claim to be an advisory related to an update to the open source Firefox web browser. The fake advisory asks users to update their Firefox installations, “for security reasons”, and includes a download link to the supposed update.
 

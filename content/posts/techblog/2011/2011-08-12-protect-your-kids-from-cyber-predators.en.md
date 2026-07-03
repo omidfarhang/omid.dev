@@ -13,7 +13,7 @@ categories:
 ---
 _Posted by [the Stop. Think. Connect. Campaign](http://www.dhs.gov/stopthinkconnect) on **Homeland Security**_
 
-[![](http://4.bp.blogspot.com/-Kfyl4VuyOCk/TkTumHlhh6I/AAAAAAAAD9Q/CZfUJEepA1Q/s1600/dhs-signature.png)](http://blog.dhs.gov/)
+[![](/images/2011/08/dhs-signature.png)](http://blog.dhs.gov/)
 
 Cyber predators are real. They use the anonymity of the Internet to target victims, especially today’s youth, with unwanted solicitations, harassment, and fraud. It’s important that parents discuss ways to stay safe online with their children, particularly before they use social networking sites.
 

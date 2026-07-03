@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-![teaser 3](http://2.bp.blogspot.com/--q9aM40DUPM/Tl-NnEp1rsI/AAAAAAAAEA4/lD-aaai1QgA/s1600/2011-08-31-teaser3.jpg)
+![teaser 3](/images/2011/09/2011-08-31-teaser3.jpg)
 
 **TechSpot:** Facebook plans to launch a music service on September 22, which happens to coincide with the company’s [F8 conference](http://www.facebook.com/f8). The news comes via [CNBC’s twitter feed](https://twitter.com/CNBC/status/108945165649051648) which reported the headline earlier today.
 

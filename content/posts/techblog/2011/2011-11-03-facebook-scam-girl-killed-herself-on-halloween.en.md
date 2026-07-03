@@ -19,7 +19,7 @@ categories:
 
 Facebook users are sharing messages with their friends, claiming to link to the salacious content.
 
-[![](http://2.bp.blogspot.com/-u6Wa5DqJ4qo/TrJ8NG98QmI/AAAAAAAAENE/bKPWTOWW_nU/s400/halloween-status.jpg)](http://2.bp.blogspot.com/-u6Wa5DqJ4qo/TrJ8NG98QmI/AAAAAAAAENE/bKPWTOWW_nU/s1600/halloween-status.jpg)
+[![](/images/2011/11/halloween-status.jpg)](/images/2011/11/halloween-status-3bf12c11.jpg)
 
 > Girl-Killed-Herself-on-Halloween-After-Dad-Posted-This-on-Her-Wall  
 > \[LINK\]  
@@ -31,7 +31,7 @@ We've seen similar scams in the past, of course, including some which claimed th
 
 Of course, the story is purely designed to lure you into clicking on the link. So what do you see if you do click on the link?
 
-[![](http://3.bp.blogspot.com/-waQtzPR4Dts/TrJ8iUYuV7I/AAAAAAAAENM/GntWiANWxiQ/s400/halloween-scam.jpg)](http://3.bp.blogspot.com/-waQtzPR4Dts/TrJ8iUYuV7I/AAAAAAAAENM/GntWiANWxiQ/s1600/halloween-scam.jpg)
+[![](/images/2011/11/halloween-scam.jpg)](/images/2011/11/halloween-scam-b4a1fcae.jpg)
 
 You are taken to a third-party webpage where you are told that in order to view the shocking message left by the father on his late daughter's Facebook wall, you will have to “Share” and “Recommend” the link with your friends.
 
@@ -43,7 +43,7 @@ And why do the scammers want the message to spread?
 
 Because it drives traffic to online surveys like this, which earn the scammers affiliate commission:
 
-[![](http://2.bp.blogspot.com/-jyAEM3yb5m8/TrJ8ts9P4jI/AAAAAAAAENU/U4mknXLsol8/s400/halloween-survey.jpg)](http://2.bp.blogspot.com/-jyAEM3yb5m8/TrJ8ts9P4jI/AAAAAAAAENU/U4mknXLsol8/s1600/halloween-survey.jpg)
+[![](/images/2011/11/halloween-survey.jpg)](/images/2011/11/halloween-survey-205bf586.jpg)
 
 If you were fooled into participating in this scam remove the message from your newsfeed, and delete any messages you may have inadvertently shared with your friends. That way at least you are no longer spreading it with your online chums.
 

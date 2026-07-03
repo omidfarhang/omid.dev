@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-VSjPNaJp-0M/TcL2bexdLrI/AAAAAAAAD3Q/5pZ-sxDwQfs/s400/apple-update.jpg)](http://2.bp.blogspot.com/-VSjPNaJp-0M/TcL2bexdLrI/AAAAAAAAD3Q/5pZ-sxDwQfs/s1600/apple-update.jpg)
+[![](/images/2011/05/apple-update.jpg)](/images/2011/05/apple-update-01465e7d.jpg)
 
 Gizmodo: OS X Lion is coming to the Mac App Store, ushering in a new era of digital distribution for their desktop operating system. And rumors are flying that iOS devices will soon receive over-the-air updates. If we had to smash these two pieces of information together and speculate about the future a little bit, we'd say Apple is heading down a path to automatic background updates for all of their operating systems. Hardcore nerds would hate this to be sure, but for the average user, it's a good thing.
 

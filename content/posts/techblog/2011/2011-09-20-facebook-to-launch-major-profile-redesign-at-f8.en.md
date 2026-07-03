@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-aEqhNxbgdVA/TniWRCgPghI/AAAAAAAAECY/cfpLlqrY-Uk/s1600/facebook%2528low%2529.jpg)](http://1.bp.blogspot.com/-aEqhNxbgdVA/TniWRCgPghI/AAAAAAAAECY/cfpLlqrY-Uk/s1600/facebook%2528low%2529.jpg)
+[![](/images/2011/09/facebook-28low-29.jpg)](/images/2011/09/facebook-28low-29.jpg)
 
 Personally I've a feeling facebook is learning too much from Google Plus and its becoming too Google Plus-ish!, As we see they have created new style of lists (give me a feeling like Google Plus circle), redesigned images, new privacy options like Google plus and many more, and now Mashable wrote:
 

@@ -19,15 +19,15 @@ Does a Facebook-specific antivirus application sound like a good idea? Maybe not
 
 Once installed on one Friend's account, this application tags 20 Friend into a picture such as the one below:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7IYCxKxOII/AAAAAAAABaI/R0mSrydLB-k/s400/FBAV2.JPG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7IYCxKxOII/AAAAAAAABaI/R0mSrydLB-k/s1600-h/FBAV2.JPG)
+[![](/images/2010/03/FBAV2.jpg)](/images/2010/03/FBAV2-f791824e.jpg)
 
 If a Friend looking through the photos then clicks on the app's (apparently randomly generated) link, they'll see this:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7IYFA7920I/AAAAAAAABaM/rEILIE9kGNk/s400/FBAV-approval.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7IYFA7920I/AAAAAAAABaM/rEILIE9kGNk/s1600-h/FBAV-approval.JPG)
+[![](/images/2010/03/FBAV-approval.jpg)](/images/2010/03/FBAV-approval-2f296677.jpg)
 
 If you have a lot of friends, you might end up with a series of albums like this:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7IX6z_etgI/AAAAAAAABaE/8rRZnGBVJUE/s400/FBAV.JPG)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7IX6z_etgI/AAAAAAAABaE/8rRZnGBVJUE/s1600-h/FBAV.JPG)
+[![](/images/2010/03/FBAV.jpg)](/images/2010/03/FBAV-48d570d3.jpg)
 
 You can find more information about this, including instructions on how to remove the tags on the photos, at [FacebookInsider](http://thefacebookinsider.com/2010/03/warning-facebook-antivirus-will-virally-spam-your-friends/).
 

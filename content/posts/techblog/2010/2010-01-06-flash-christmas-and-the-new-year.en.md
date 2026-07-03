@@ -20,15 +20,15 @@ Recently, we have seen spammers spreading malware using a combination of either 
 Add one more to that list.
 
 Take for example, a spam I received today. The following email wishes the recipient a Merry Christmas and a Happy New Year, and then displays the following screen in an attempt to entice the user to click on the message.
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0SPg5U_WeI/AAAAAAAAAj4/h3WVD_-ZYPE/s640/use_21.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0SPg5U_WeI/AAAAAAAAAj4/h3WVD_-ZYPE/s1600-h/use_21.jpg)
+[![](/images/2010/01/use_21.jpg)](/images/2010/01/use_21-019039e0.jpg)
 
 Upon clicking “Play”, a script runs on the remote website which then displays a fake error message as shown below. Since the user obviously has the wrong and outdated flash plugin, and needs the “latest version” to view this video, we are asked to update.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SPih4j40I/AAAAAAAAAkI/mjx72tplA24/s640/use_31.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S0SPih4j40I/AAAAAAAAAkI/mjx72tplA24/s1600-h/use_31.jpg)
+[![](/images/2010/01/use_31.jpg)](/images/2010/01/use_31-ee0052fc.jpg)
 
 Clicking on the “download” button attempts to download the alleged Flash update.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S0SPh7VQn2I/AAAAAAAAAkA/vrMRlYcrx60/s640/use_4_a.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S0SPh7VQn2I/AAAAAAAAAkA/vrMRlYcrx60/s1600-h/use_4_a.jpg)
+[![](/images/2010/01/use_4_a.jpg)](/images/2010/01/use_4_a-556a38f3.jpg)
 
 This file is malicious.
 

@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-3VBBUJPC5KU/TlaNKEe56zI/AAAAAAAAD_Q/5_ZZYpeogYk/s1600/PhpMyAdmin_logo.png)](http://1.bp.blogspot.com/-3VBBUJPC5KU/TlaNKEe56zI/AAAAAAAAD_Q/5_ZZYpeogYk/s1600/PhpMyAdmin_logo.png)
+[![](/images/2011/08/PhpMyAdmin_logo.png)](/images/2011/08/PhpMyAdmin_logo.png)
 
 **H-Online:** The [phpMyAdmin](http://www.phpmyadmin.net/) developers have [announced](http://www.phpmyadmin.net/home_page/news.php#phpMyAdmin_3.4.4_and_3.3.10.4_are_released) the release of [versions 3.4.4 and 3.3.10.4](http://sourceforge.net/mailarchive/message.php?msg_id=27992790) of their open source database administration tool. According to the security advisory, these maintenance and security updates close a hole ([CVE-2011-3181](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3181)) in the Tracking feature that leads to multiple cross-site scripting (XSS) vulnerabilities.
 

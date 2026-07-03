@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-wBCBh8e1hzI/TbQCHQQZfSI/AAAAAAAAD2o/Ig2u9aL3nMY/s1600/mac-v-pc-2011-04-22.jpg)](http://2.bp.blogspot.com/-wBCBh8e1hzI/TbQCHQQZfSI/AAAAAAAAD2o/Ig2u9aL3nMY/s1600/mac-v-pc-2011-04-22.jpg)
+[![](/images/2011/04/mac-v-pc-2011-04-22.jpg)](/images/2011/04/mac-v-pc-2011-04-22.jpg)
 
 TUAW: [According to the results of a massive survey](http://blog.hunch.com/?p=45344) by [Hunch.com](http://hunch.com/), Mac people are frequently young, vegetarian city-dwellers who like modern art, liberal politics, and independent films. Meanwhile, Windows supporters tend to be older, more conservative, and more likely to compare talking about computers to “struggling with a foreign language.”
 

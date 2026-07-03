@@ -19,13 +19,13 @@ Though it is true that malware is getting more and more sophisticated I am somet
 
 A search for “Zeus” produces several hundred results, many of them surprisingly basic, looking for help with installing a Zeus server or an advice about the best bulletproof hosting.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eVY6olxnI/AAAAAAAABeo/P9BS3-kzIKQ/s400/forum1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S7eVY6olxnI/AAAAAAAABeo/P9BS3-kzIKQ/s1600-h/forum1.jpg)
+[![](/images/2010/04/forum1.jpg)](/images/2010/04/forum1-0eaa327e.jpg)
 
 Zeus and IRC? Oh, come on…
 
 Luckily, there are many “helpful” users ready to help the script kiddies with their setups. If you are not yet ready to build your botnet from the ground up you can simply buy it from another user. For mere 15$ you can buy yourself a small Zeus botnet as offered by one of the users. It is interesting to see the uptake of Google Chrome browser within the hacking community. 
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7eVaigJ7vI/AAAAAAAABes/fnGYJOLM4P8/s400/zeuscontrol1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7eVaigJ7vI/AAAAAAAABes/fnGYJOLM4P8/s1600-h/zeuscontrol1.jpg)
+[![](/images/2010/04/zeuscontrol1.jpg)](/images/2010/04/zeuscontrol1-2540eca9.jpg)
 
 15$ is cheap, certainly compared with the latest licensed version of Zeus builder with the price in the range of about 1000$. Considering its high price, Zeus customers must be making much more through stealing banking credentials, confidential data and spamming to achieve a reasonable ROI, though if most botnet owners are as unexperienced as these their profits must be expressed in negative numbers.
 

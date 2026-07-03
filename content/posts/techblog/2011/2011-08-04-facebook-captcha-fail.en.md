@@ -16,4 +16,4 @@ categories:
 
 I think this speaks for itself.
 
-[![](http://3.bp.blogspot.com/-LxcuJ4rUX5M/TjrZ85Q8qMI/AAAAAAAAD8U/Whe4WJX4Bnk/s1600/facebook-captcha-fail.jpg)](http://3.bp.blogspot.com/-LxcuJ4rUX5M/TjrZ85Q8qMI/AAAAAAAAD8U/Whe4WJX4Bnk/s1600/facebook-captcha-fail.jpg)
+[![](/images/2011/08/facebook-captcha-fail.jpg)](/images/2011/08/facebook-captcha-fail.jpg)

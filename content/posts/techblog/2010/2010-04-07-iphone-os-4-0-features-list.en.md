@@ -17,7 +17,7 @@ categories:
 ---
 Just after the launch of iPad, Apple has just announced iPhone OS 4.0 Event at 8th April 10 AM PT. A lot more speculations are being made about the upcoming features of iPhone OS 4.0 Following are some most closest guesses on the features of apple iPhone OS 4.0
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70JONz9UzI/AAAAAAAAB0k/omrmqLmxIig/s320/iphone4osscreenshot.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S70JONz9UzI/AAAAAAAAB0k/omrmqLmxIig/s1600-h/iphone4osscreenshot.jpg)
+[![](/images/2010/04/iphone4osscreenshot.jpg)](/images/2010/04/iphone4osscreenshot-749050a4.jpg)
 
 ## Key Features iPhone OS 4.0
 

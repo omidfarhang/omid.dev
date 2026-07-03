@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-anPPnO0zGVM/TaWNybQtB5I/AAAAAAAAD1Q/dSwBuAHorQ4/s1600/google+app.jpg)](http://3.bp.blogspot.com/-anPPnO0zGVM/TaWNybQtB5I/AAAAAAAAD1Q/dSwBuAHorQ4/s1600/google+app.jpg)
+[![](/images/2011/04/google-app.jpg)](/images/2011/04/google-app.jpg)
 
 **BetaNews**: Google found itself fending off criticisms from competitor Microsoft on Monday over whether or not its Google Apps product truly had an important government security clearance. Called the Federal Information Security Management Act (FISMA) standard, the Mountain View, Calif. company claimed on its webpage that the [Government version of Apps](http://www.betanews.com/article/Google-announces-Apps-for-Government-in-light-of-LA-rollout-delays/1280178805) had it. It didn't.
 

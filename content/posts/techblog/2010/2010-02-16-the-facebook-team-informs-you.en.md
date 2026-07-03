@@ -20,7 +20,7 @@ The subject of the message is **UPDATED ACCOUNT AGREEMENT** and the attached f
 
 The message is like the following:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3sNRUYFEeI/AAAAAAAAA9w/-mxBT5btgys/s640/Facebook_agreement_en.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S3sNRUYFEeI/AAAAAAAAA9w/-mxBT5btgys/s1600-h/Facebook_agreement_en.jpg)
+[![](/images/2010/02/Facebook_agreement_en.jpg)](/images/2010/02/Facebook_agreement_en-61064bb4.jpg)
 
 Users are required to submit a new account agreement before a certain date. If not, their Facebook account will be restricted. The message also contains detailed instructions on how to do it.
 

@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-b0lc6wid4Eg/Tl9Fvkh33YI/AAAAAAAAEAo/Z2znkCpjGA0/s1600/late-night-webcam-170.jpg)](http://1.bp.blogspot.com/-b0lc6wid4Eg/Tl9Fvkh33YI/AAAAAAAAEAo/Z2znkCpjGA0/s1600/late-night-webcam-170.jpg)
+[![](/images/2011/09/late-night-webcam-170.jpg)](/images/2011/09/late-night-webcam-170.jpg)
 
   
 **SophosLabs:** Imagine the scene.
@@ -33,14 +33,14 @@ She is a substitute teacher who reportedly bought the computer from one of her s
 
 Turns out the laptop was stolen from Clark County School District in Ohio. They had purchased and installed Absolute Software's theft recovery service – called LoJack – onto their computers, so when the stolen laptop was connected to the internet, LoJack collected the teacher's IP address.
 
-[![](http://4.bp.blogspot.com/-KjvFnMz9vCw/Tl9FjRB5wgI/AAAAAAAAEAk/91OfdAZuII8/s320/lojack_ad.jpg)](http://4.bp.blogspot.com/-KjvFnMz9vCw/Tl9FjRB5wgI/AAAAAAAAEAk/91OfdAZuII8/s1600/lojack_ad.jpg)
+[![](/images/2011/09/lojack_ad.jpg)](/images/2011/09/lojack_ad-93f860fb.jpg)
 
   
 Rather than handing the information over the police to track her down, Absolute Software employee Kyle Magnus reportedly decided to intercept communications, including Susan Clements-Jeffery's saucy video chats.
 
 Magnus then forwarded the collected information, including revealing pictures and sexy conversations to a police detective. According to [Wired](http://www.wired.com/threatlevel/2011/08/absolute-sued-for-spying/), the cops arrested Susan for receiving stolen property, but charges were soon dismissed.
 
-[![](http://3.bp.blogspot.com/-0oj8Clep6Wk/Tl9F34-BHvI/AAAAAAAAEAs/yTPM6H0f2Ig/s1600/lying-down-170.jpg)](http://3.bp.blogspot.com/-0oj8Clep6Wk/Tl9F34-BHvI/AAAAAAAAEAs/yTPM6H0f2Ig/s1600/lying-down-170.jpg)
+[![](/images/2011/09/lying-down-170.jpg)](/images/2011/09/lying-down-170.jpg)
 
 Susan now is suing the lot of them: Absolute Software, their employee Kyle Magnus, the city of Springfield in Ohio, and the two cops who arrested her (did I mention the cops apparently waved the nude snaps when they first knocked on her door?)
 

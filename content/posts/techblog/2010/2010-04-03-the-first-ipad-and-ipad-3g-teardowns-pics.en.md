@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7crPYMqgJI/AAAAAAAABck/6euwnPA9Hsg/s1600/ipad-260.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7crPYMqgJI/AAAAAAAABck/6euwnPA9Hsg/s1600-h/ipad-260.jpg)
+[![](/images/2010/04/ipad-260.jpg)](/images/2010/04/ipad-260-f055b76a.jpg)
 
 Want to know what makes Apple’s iPad tick? Well wait no longer: thanks to the FCC and some analysis from the people [over at iFixit](http://www.ifixit.com/Teardown/iPad-FCC-Teardown/2197/1), we now know what the internal guts of the iPad look like.
 
@@ -34,12 +34,12 @@ If you want the nitty gritty details, we suggest checking out [the full teardown
 
 ### iPad Teardown Photos
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7crN9jyTFI/AAAAAAAABcg/JZtACrvy5y4/s400/ipad-3g.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7crN9jyTFI/AAAAAAAABcg/JZtACrvy5y4/s1600-h/ipad-3g.jpg)
+[![](/images/2010/04/ipad-3g.jpg)](/images/2010/04/ipad-3g-4acba653.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7crSybJY0I/AAAAAAAABco/9_s2Nw20ayU/s400/ipad-battery.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7crSybJY0I/AAAAAAAABco/9_s2Nw20ayU/s1600-h/ipad-battery.jpg)
+[![](/images/2010/04/ipad-battery.jpg)](/images/2010/04/ipad-battery-8887adf3.jpg)
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7crUkmT3NI/AAAAAAAABcs/1j7sIgaIyqw/s400/ipad-led.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7crUkmT3NI/AAAAAAAABcs/1j7sIgaIyqw/s1600-h/ipad-led.jpg)
+[![](/images/2010/04/ipad-led.jpg)](/images/2010/04/ipad-led-b630874e.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7crV9rzh0I/AAAAAAAABcw/-vsNqN21PHY/s400/ipad-power.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7crV9rzh0I/AAAAAAAABcw/-vsNqN21PHY/s1600-h/ipad-power.jpg)
+[![](/images/2010/04/ipad-power.jpg)](/images/2010/04/ipad-power-ffe87cf2.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7crXq4toWI/AAAAAAAABc0/dKfejTxp_WE/s400/ipad-sound.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7crXq4toWI/AAAAAAAABc0/dKfejTxp_WE/s1600-h/ipad-sound.jpg)
+[![](/images/2010/04/ipad-sound.jpg)](/images/2010/04/ipad-sound-6fbf0e1f.jpg)

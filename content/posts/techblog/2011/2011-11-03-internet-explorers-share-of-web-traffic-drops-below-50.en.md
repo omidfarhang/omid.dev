@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-v9tVwL3HWIc/TrKFSa0AV7I/AAAAAAAAEN0/lN0nVQ4FpKQ/s1600/internet-explorer-chart-360.jpg)](http://2.bp.blogspot.com/-v9tVwL3HWIc/TrKFSa0AV7I/AAAAAAAAEN0/lN0nVQ4FpKQ/s1600/internet-explorer-chart-360.jpg)
+[![](/images/2011/11/internet-explorer-chart-360.jpg)](/images/2011/11/internet-explorer-chart-360.jpg)
 
 **Mashable:** Internet Explorer can no longer claim more than half of the web’s traffic, as of October, ending more than a decade of the default Microsoft browser’s reign.
 

@@ -39,4 +39,4 @@ The “hosts” file is in the Windows\system32\drivers\etc directory in Win XP,
 
 Learn more about [Hosts Here](http://sites.google.com/site/boelectronic/computer/security/hosts-file).
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kBWQ6aYqI/AAAAAAAABYw/hDyaLRPYpVM/s400/hosts_20file.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kBWQ6aYqI/AAAAAAAABYw/hDyaLRPYpVM/s1600-h/hosts_20file.png)
+[![](/images/2010/03/hosts_20file.png)](/images/2010/03/hosts_20file-28608848.png)

@@ -40,7 +40,7 @@ While U.S. consumer sentiment remained unchanged in March 2010, if we take a loo
   9. RE: Your Job is at stake
  10. Looking good does not have to bankrupt you
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79FS_BuAEI/AAAAAAAAB2A/S0dyRB9WuDc/s400/Screen+shot+2010-04-06+at+6.50.40+PM.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S79FS_BuAEI/AAAAAAAAB2A/S0dyRB9WuDc/s1600/Screen+shot+2010-04-06+at+6.50.40+PM.png)
+[![](/images/2010/04/Screen-shot-2010-04-06-at-6.50.40-PM.png)](/images/2010/04/Screen-shot-2010-04-06-at-6.50.40-PM-711574f6.png)
 
 We have observed for some time now how spammers continually shift the focus of their emails to adapt to current events—natural and otherwise. It can be surmised that they adapt their campaigns because:
 

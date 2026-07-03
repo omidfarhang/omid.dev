@@ -16,13 +16,13 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-7TxybyMwwbs/Tl-h05g4gQI/AAAAAAAAEA8/EgIYiOF1mMA/s1600/iphone-5-170.jpg)](http://4.bp.blogspot.com/-7TxybyMwwbs/Tl-h05g4gQI/AAAAAAAAEA8/EgIYiOF1mMA/s1600/iphone-5-170.jpg)
+[![](/images/2011/09/iphone-5-170.jpg)](/images/2011/09/iphone-5-170.jpg)
 
 **SophosLabs**: Even if it hasn't been officially announced yet, and certainly isn't available to the general public (unless an Apple employee [loses a test model in a bar](http://www.guardian.co.uk/technology/2011/sep/01/apple-staffer-loses-iphone)), there are plenty of scammers out there trying to trick you into believing you can get a free iPhone 5.
 
 Here's just a sample of the pages on Facebook claiming to be an iPhone 5 giveaway. Typically they are trying to trick you into clicking on links, driving traffic to online surveys which earns them revenue.
 
-[![](http://2.bp.blogspot.com/-j75mLIWv_3E/Tl-iCmoHzII/AAAAAAAAEBA/kQZ5Jsp2B0s/s1600/iphone-5-giveaway.jpg)](http://2.bp.blogspot.com/-j75mLIWv_3E/Tl-iCmoHzII/AAAAAAAAEBA/kQZ5Jsp2B0s/s1600/iphone-5-giveaway.jpg)
+[![](/images/2011/09/iphone-5-giveaway.jpg)](/images/2011/09/iphone-5-giveaway.jpg)
 
   
 Repeat after me 🙂

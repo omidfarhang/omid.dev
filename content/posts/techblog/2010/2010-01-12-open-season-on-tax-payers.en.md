@@ -18,7 +18,7 @@ Sites run by national government agencies are a prime example as they often dema
 
 We came across one such phishing site recently. Now that 2010 is in full swing, U.S. tax payers can start submitting their tax returns for 2009. (Although the final deadline for submission isn't until April 15th, the earlier you submit your paperwork, the earlier you'll receive any rebate due.) And for added convenience, you can do this online, via the official IRS site.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0z0jyDbOrI/AAAAAAAAAmo/R63Ckp04M_U/s640/208188002.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S0z0jyDbOrI/AAAAAAAAAmo/R63Ckp04M_U/s1600-h/208188002.png)
+[![](/images/2010/01/208188002.png)](/images/2010/01/208188002-a6961144.png)
 
 The cybercriminals haven't missed a trick here: the phishing site is an alarmingly accurate copy of the original, with even the Acrobat Reader toolbar being neatly copied.
 

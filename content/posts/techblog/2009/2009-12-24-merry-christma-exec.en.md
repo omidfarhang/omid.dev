@@ -12,7 +12,7 @@ categories:
 ---
 Once again, we'd like to wish our readers Merry Christmas with a reference to the 1986 CHRISTMA EXEC worm
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/SzPYmT4CftI/AAAAAAAAAgA/Ds2ClemcCfY/s640/CHRISTMA+EXEC.gif)](http://1.bp.blogspot.com/_vaUVXcmC3OI/SzPYmT4CftI/AAAAAAAAAgA/Ds2ClemcCfY/s1600-h/CHRISTMA+EXEC.gif)
+[![](/images/2009/12/CHRISTMA-EXEC.gif)](/images/2009/12/CHRISTMA-EXEC-966cc9dc.gif)
 
 Here's a link to [January 1987 Risks Digest](http://catless.ncl.ac.uk/Risks/6.01.html), discussing the worm.
 

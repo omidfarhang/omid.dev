@@ -23,23 +23,23 @@ The WiniGuard family began in September of 2008. Operators behind it have added 
 
 The first generation of WiniGuard used the site winiguard.com. It was created Sept. 17, 2008, by the same group who probably began circulating rogues using macguard.net, which has the same IP address. WiniGuard installed five files.
 
-![](http://3.bp.blogspot.com/_vaUVXcmC3OI/Syf5fEKRUlI/AAAAAAAAAWk/Lnp55vpn_xI/s1600-h/WiniGuard_GUI_Files.jpg)
+![](/images/2009/12/WiniGuard_GUI_Files.jpg)
 
 **Second Generation**
 
 SaveKeep, first found August 17, marked the beginning of the second generation. This was distinguished by the use of two files instead of five.
 
-![](http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5k06feDI/AAAAAAAAAW8/waacR1T5p2c/s1600-h/SaveKeep.jpg)
+![](/images/2009/12/SaveKeep.jpg)
 
 **Third Generation**
 
 On Oct 17 the TREAntivirus rogue opened the third generation with a new GUI interface.
 
-![](http://4.bp.blogspot.com/_vaUVXcmC3OI/Syf5hcVVVYI/AAAAAAAAAWs/PlK_BBcdzVc/s1600-h/TRE+AntiVirus.jpg)
+![](/images/2009/12/TRE-AntiVirus.jpg)
 
 Today’s IGuardPC makes a total of 50 clones — the largest family we’ve ever found:
 
-![](http://1.bp.blogspot.com/_vaUVXcmC3OI/Syf5i5GMM7I/AAAAAAAAAW0/ZPzl0Wmpvmk/s1600-h/IGuardPC_GUI.jpg)
+![](/images/2009/12/IGuardPC_GUI.jpg)
 
 **WiniGuard rogues by generations**
 

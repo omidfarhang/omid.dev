@@ -23,7 +23,7 @@ Web searches for subjects relating to this eruption, such as “Iceland Volcanic
 
 A reasonable rule of thumb I use in conjunction with this pattern is to look for domain names that suggest content unrelated to the news being searched for. For example, if you find a Web site whose domain name suggests it is about a painter or British castles, yet it appears in the search results for a story about the volcanic eruption, it is likely that the link is bogus and should be avoided.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6f4EiO3UeI/AAAAAAAABXk/f5W8F6V0_9w/s400/search_results.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6f4EiO3UeI/AAAAAAAABXk/f5W8F6V0_9w/s1600-h/search_results.png)
+[![](/images/2010/03/search_results.png)](/images/2010/03/search_results-e604ca8e.png)
 
 On the subject of hacked Web sites, it appears that the crew behind this campaign has a back catalogue of hacked sites they can call up and use at very short notice. On looking closer at the hacked sites, you will find that it looks like each of them has had a few hundred randomly named PHP pages added to them. Each of these pages redirects to a single server that is changed periodically. The following is a short list of the example PHP files that have been added to the hacked servers:
 
@@ -70,12 +70,12 @@ Note the Indian top-level domain—is India the new China? After the recent crac
 
 When the end of the redirection chain is reached, you will see a “Green Ring of Death” that indicates that a fake online antivirus scan is about to begin.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6f4E3ujwDI/AAAAAAAABXo/LRB889y4nGQ/s1600/green_ring_of_death.PNG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6f4E3ujwDI/AAAAAAAABXo/LRB889y4nGQ/s1600-h/green_ring_of_death.PNG)
+[![](/images/2010/03/green_ring_of_death.png)](/images/2010/03/green_ring_of_death-02a03548.png)
 
 The sites have a series of fake scan pages, which it can display at random. The fake scan pages are designed to look like application windows in various versions of Microsoft Windows and include Windows XP and Windows Vista.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6f4FB-PM2I/AAAAAAAABXs/_myLWJZXIVI/s400/xp_scan1.article%20thumbnail.PNG)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6f4FB-PM2I/AAAAAAAABXs/_myLWJZXIVI/s1600-h/xp_scan1.article%20thumbnail.PNG)
+[![](/images/2010/03/xp_scan1.article-thumbnail.png)](/images/2010/03/xp_scan1.article-thumbnail-90b74cd6.png)
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6f4FYuynmI/AAAAAAAABXw/O5Zkf-mg_f8/s400/vista_scan1.article%20thumbnail.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S6f4FYuynmI/AAAAAAAABXw/O5Zkf-mg_f8/s1600-h/vista_scan1.article%20thumbnail.png)
+[![](/images/2010/03/vista_scan1.article-thumbnail.png)](/images/2010/03/vista_scan1.article-thumbnail-a513d860.png)
 
 After the fake scan is completed, or if you try to navigate away, you will be offered a download of a file named packupdate\_build[RANDOM NUMBER]\_195.exe. This familiar-looking campaign is the handiwork of the same gang who brought you fake antivirus during the Chilean earthquake and the iPad release campaign, as well as many other times in the past.

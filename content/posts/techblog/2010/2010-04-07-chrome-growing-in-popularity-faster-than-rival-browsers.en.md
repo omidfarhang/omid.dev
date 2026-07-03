@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S70Dgn7jdlI/AAAAAAAAB0U/9m8whfJBmyU/s1600/chrome-growth.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S70Dgn7jdlI/AAAAAAAAB0U/9m8whfJBmyU/s1600-h/chrome-growth.jpg)
+[![](/images/2010/04/chrome-growth.jpg)](/images/2010/04/chrome-growth-1c9c1ac6.jpg)
 
 Chrome’s share of the browser market is growing at a breakneck pace, according to data from [Net Applications](http://www.netapplications.com/). Between February and March, Google’s browser rose to capture a full 6.1% share of the market, maintaining its lead over browsers such as Safari and Opera and closing the gap between Firefox, which currently holds a 24.5% share.
 

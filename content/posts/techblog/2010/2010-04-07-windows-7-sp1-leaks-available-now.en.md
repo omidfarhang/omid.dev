@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7z-eLixVmI/AAAAAAAAB0I/4-nKocOkHtg/s400/4792.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7z-eLixVmI/AAAAAAAAB0I/4-nKocOkHtg/s1600-h/4792.jpg)
+[![](/images/2010/04/4792.jpg)](/images/2010/04/4792-28421570.jpg)
 
 In March, the Windows team [announced](http://windowsteamblog.com/blogs/windows7/archive/2010/03/18/talking-about-service-pack-1-for-windows-7-and-windows-server-2008-r2.aspx) the upcoming release of Service Pack 1 for Windows 7, and Windows Server 2008 R2, but did not set a date of availability.
 

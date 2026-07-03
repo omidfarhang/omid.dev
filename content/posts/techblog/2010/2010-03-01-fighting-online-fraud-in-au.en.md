@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4w7K2sT8KI/AAAAAAAABDM/bgG1L2rwyro/s640/ScamWatch-banner.GIF)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S4w7K2sT8KI/AAAAAAAABDM/bgG1L2rwyro/s1600-h/ScamWatch-banner.GIF)
+[![](/images/2010/03/ScamWatch-banner.gif)](/images/2010/03/ScamWatch-banner-98f50b99.gif)
 
 The Australasian Consumer Fraud Taskforce began its [2010 Fraud Week campaign ](http://www.accc.gov.au/content/index.phtml/itemId/916070)today with release of the first Australian Competition and Consumer Commission (ACCC) scams activity report. Wednesday it will release information to help small businesses protect themselves.
 

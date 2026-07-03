@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6kWM3OJt5I/AAAAAAAABZA/N4z2vHnoclE/s1600/Firefox_20early.png)](http://www.mozilla.com/products/download.html?product=firefox-3.6.2&os=win&lang=en-US)
+[![](/images/2010/03/Firefox_20early.png)](http://www.mozilla.com/products/download.html?product=firefox-3.6.2&os=win&lang=en-US)
 
 Mozilla Foundation has released version 3.6.2 of its Firefox browser a week early. The group had said the update would be available March 30.
 
@@ -23,7 +23,7 @@ The update fixes a widely reported vulnerability (CVE-2010-1028) that prompted G
 
 Intevydis researcher Evgeny Legerov  had found that Wide Open Font Format decoder in Firefox had an integer overflow in its font decompression mechanism. The flaw involved a memory buffer that was too small to handle a downloadable font. Legerov had found that exploiting the vulnerability could crash a victim's browser making it possible to run arbitrary code on the system.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6kWNJkTrVI/AAAAAAAABZE/ws8FzM8iDQw/s400/Firefox_202.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6kWNJkTrVI/AAAAAAAABZE/ws8FzM8iDQw/s1600-h/Firefox_202.png)
+[![](/images/2010/03/Firefox_202.png)](/images/2010/03/Firefox_202-b2961ee1.png)
 
 If you use Firefox, update [here](http://www.mozilla.com/en-US/firefox/3.6.2/releasenotes/).
 

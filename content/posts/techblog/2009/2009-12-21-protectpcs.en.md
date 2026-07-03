@@ -15,7 +15,7 @@ categories:
 ---
 ProtectPC's is a nasty rogue antivirus program, or phony security software, used to scam people out of their money. If your PC is infected with ProtectPC's you should remove it immediately.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy_xySXblnI/AAAAAAAAAcg/5DgDEdQTvUg/s400/ProtectPcs_GUI.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/Sy_xySXblnI/AAAAAAAAAcg/5DgDEdQTvUg/s1600-h/ProtectPcs_GUI.jpg)
+[![](/images/2009/12/ProtectPcs_GUI.jpg)](/images/2009/12/ProtectPcs_GUI-6fa050db.jpg)
 
 ProtecPC's poses a serious security risk for all PC users. Symptoms of a ProtecPC infection can include:
 

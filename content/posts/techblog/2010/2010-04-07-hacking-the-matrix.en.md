@@ -17,11 +17,11 @@ I could talk about how The Matrix was a pretty big deal for me back in the day, 
 
 Mostly, I’ll just show you this:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70BAl9RbiI/AAAAAAAAB0M/iQn-w3Ko9VA/s400/matrixhack.gif)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70BAl9RbiI/AAAAAAAAB0M/iQn-w3Ko9VA/s1600-h/matrixhack.gif)
+[![](/images/2010/04/matrixhack.gif)](/images/2010/04/matrixhack-693663e5.gif)
 
 And this:
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70BBio4UwI/AAAAAAAAB0Q/1AybQFHSGvs/s400/matrixhack2.gif)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70BBio4UwI/AAAAAAAAB0Q/1AybQFHSGvs/s1600-h/matrixhack2.gif)
+[![](/images/2010/04/matrixhack2.gif)](/images/2010/04/matrixhack2-274d7afc.gif)
 
 Is there a glitch in the Matrix? You bet. Unfortunately it seems the website of one of the actors from Reloaded / Revolutions ([Harry Lennix](http://en.wikipedia.org/wiki/Harry_Lennix), who played [Commander Lock](http://matrix.wikia.com/wiki/Jason_Lock)) has been hacked and is now, bizarrely, the scene of some Cyber Kung-Fu gone wrong as two warring factions go to, er, war.
 

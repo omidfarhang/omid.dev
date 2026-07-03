@@ -20,7 +20,7 @@ During the latter half of this week we have seen a whole batch of compromised ad
 
 The injected malicious JavaScript can be seen at the top of the ads content:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5FStI9jp4I/AAAAAAAABKs/yFHeh_sfYXo/s640/comp_ads.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5FStI9jp4I/AAAAAAAABKs/yFHeh_sfYXo/s1600-h/comp_ads.jpg)
+[![](/images/2010/03/comp_ads.jpg)](/images/2010/03/comp_ads-2f37f62f.jpg)
 
 Readers may recognise the target domain, masquerading as a legitimate Google Analytics site. It was mentioned in the ISC handlers diary yesterday.
 

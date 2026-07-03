@@ -13,11 +13,11 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-IQlOmzN1jMg/TcknIwvY_SI/AAAAAAAAD3Y/URw6IxGP6C8/s1600/Microsoft_Logo.png)](http://1.bp.blogspot.com/-IQlOmzN1jMg/TcknIwvY_SI/AAAAAAAAD3Y/URw6IxGP6C8/s1600/Microsoft_Logo.png)
+[![](/images/2011/05/Microsoft_Logo.png)](/images/2011/05/Microsoft_Logo.png)
 
 **[V3.co.uk](http://v3.co.uk/):** Microsoft is a whisker away from an $8bn deal to buy VoIP firm Skype in its biggest ever foray into the acquisition market, according to a report in The Wall Street Journal.
 
-[![](http://2.bp.blogspot.com/-62bHRzmRZH8/Tckm5i5S3EI/AAAAAAAAD3U/mv420kG3Frw/s200/skype_logo_online.png)](http://2.bp.blogspot.com/-62bHRzmRZH8/Tckm5i5S3EI/AAAAAAAAD3U/mv420kG3Frw/s1600/skype_logo_online.png)
+[![](/images/2011/05/skype_logo_online.png)](/images/2011/05/skype_logo_online-780e73be.png)
 
 The deal, which would total around $8.5bn when including Skype's long-term debt, could be signed as early as Tuesday, [people familiar with the matter told the paper](http://online.wsj.com/article/SB10001424052748703730804576313932659388852.html?mod=WSJ_hp_LEFTTopStories).
 

@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-5eEVmm7z0Rg/Tjv9IVT_YSI/AAAAAAAAD8Y/Z77QkCF_30M/s1600/windows+update.jpg)](http://1.bp.blogspot.com/-5eEVmm7z0Rg/Tjv9IVT_YSI/AAAAAAAAD8Y/Z77QkCF_30M/s1600/windows+update.jpg)
+[![](/images/2011/08/windows-update.jpg)](/images/2011/08/windows-update.jpg)
 
 **The Hacker News:** Microsoft has announced that it will release 13 bulletins to address 22 vulnerabilities in Windows, Office, Internet Explorer, .NET and Visual Studio on its next Patch Tuesday. Another “critical” bulletin affects Windows server operating systems, and addresses a code-execution risk on unpatched systems. Also of note is an update restricted to newer versions of Windows (Windows 7 and [Windows 2008](http://www.thehackernews.com/2011/08/get-ready-for-microsoft-13-updates-for.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Daily+Cyber+News+Updates%29&utm_content=FaceBook#)) that tackles a potential, though difficult to exploit, code-execution risk.
 

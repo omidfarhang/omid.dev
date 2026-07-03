@@ -17,12 +17,12 @@ categories:
 ---
 Have you seen this in your or your friends wall? or maybe in a page you “Like”?
 
-![](http://3.bp.blogspot.com/-vikQFqcCF4Y/TymwwS6LJNI/AAAAAAAAEbI/QKOUOve3Z6w/s1600/bad-link.PNG)
+![](/images/2012/02/bad-link.png)
 
 That's another spam link spreading over Facebook, as I already showed you many more in older posts. Usually these links end up either in a phishing attack that theft your private information or infecting your computer.  
 If your friend or even a stranger is posting these, don't click on that and also report the post, here is how to do:
 
-![](http://1.bp.blogspot.com/-XWR5b7T_Qy4/TymxSib_TPI/AAAAAAAAEbQ/gCnryFwdw9E/s1600/spam-link-report.jpg)
+![](/images/2012/02/spam-link-report.jpg)
 
 But what if your account is posting these links?
 

@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S6eHnDRVXxI/AAAAAAAABV4/7PvoSIKC2A0/s1600/facebook%20badge.png)](https://www.facebook.com/omidsnetwork/)
+[![](/images/2010/03/facebook-badge.png)](https://www.facebook.com/omidsnetwork/)
 
 You are invited to become a fan of [Omid's Network](https://www.facebook.com/omidsnetwork/) on Facebook.
 

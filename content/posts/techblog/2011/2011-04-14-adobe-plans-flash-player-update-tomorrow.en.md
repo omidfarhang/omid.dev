@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-yxZ4-qT3Yvk/Taad6g9bEpI/AAAAAAAAD1s/zEbI1wxzC1Q/s200/adobe-logo.jpg)](http://4.bp.blogspot.com/-yxZ4-qT3Yvk/Taad6g9bEpI/AAAAAAAAD1s/zEbI1wxzC1Q/s1600/adobe-logo.jpg)
+[![](/images/2011/04/adobe-logo-5e6de37e.jpg)](/images/2011/04/adobe-logo-3ee9f376.jpg)
 
 **Avira TechBlog:** This is good news – for the recently acknowledged [zero-day security vulnerability](http://boelectronic.blogspot.com/2011/04/zero-day-vulnerability-in-adobe-flash.htmlr-and-acrobat/en/) within Adobe Flash Player, Acrobat and Reader there will be a first update available tomorrow. Adobe updated their [security advisory](http://www.adobe.com/support/security/advisories/apsa11-02.html) on that matter to reflect the update schedule – the Flash player update fixing the vulnerability for Windows, Mac, Linux and Solaris will be available tomorrow, Friday, April 15.
 

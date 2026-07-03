@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S73vCQKAdsI/AAAAAAAAB1g/U8D6QWLq27c/s200/digg_app_store.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S73vCQKAdsI/AAAAAAAAB1g/U8D6QWLq27c/s1600/digg_app_store.jpg)
+[![](/images/2010/04/digg_app_store.jpg)](/images/2010/04/digg_app_store-7a674c7c.jpg)
 
 A couple of weeks ago, Digg (finally) launched its official iPhone application to much fanfare. Like all first versions, however, it suffered from a couple of glitches, some of which have been addressed in this [latest update](http://about.digg.com/blog/update-diggs-iphone-app), which brings the version number to 1.1.0.
 

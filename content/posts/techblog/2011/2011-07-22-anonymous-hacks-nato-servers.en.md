@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/--DFEWXxheRc/TimQLcSCiAI/AAAAAAAAD6s/1nevkKVqfW4/s400/natotw.JPG)](http://3.bp.blogspot.com/--DFEWXxheRc/TimQLcSCiAI/AAAAAAAAD6s/1nevkKVqfW4/s1600/natotw.JPG)
+[![](/images/2011/07/natotw.jpg)](/images/2011/07/natotw-5aeea9f9.jpg)
 
 Anonymous claims to have stolen around a gigabyte of classified NATO data
 

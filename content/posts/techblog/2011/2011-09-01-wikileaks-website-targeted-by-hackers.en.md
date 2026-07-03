@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-_vb0Ud6hueI/Tl-s9g2H5aI/AAAAAAAAEBE/aKsKQoUNG8Y/s1600/wikileaks-1.jpg)](http://4.bp.blogspot.com/-_vb0Ud6hueI/Tl-s9g2H5aI/AAAAAAAAEBE/aKsKQoUNG8Y/s1600/wikileaks-1.jpg)
+[![](/images/2011/09/wikileaks-1.jpg)](/images/2011/09/wikileaks-1.jpg)
 
 **TechSpot:** [Wikileaks](http://wikileaks.org/) found itself the victim of a cyberattack on Tuesday, shortly after the release of thousands of US State Department communications. News broke of the attack on their [Twitter page](https://twitter.com/#!/wikileaks/status/108672702268706816), which offered another link to the communications, and a message stating “WikiLeaks.org is presently under attack.”
 

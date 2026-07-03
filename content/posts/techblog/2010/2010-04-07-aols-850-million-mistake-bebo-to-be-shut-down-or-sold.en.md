@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70EhmU3vyI/AAAAAAAAB0Y/Mp-QB3NQQZE/s1600/aol-logos2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S70EhmU3vyI/AAAAAAAAB0Y/Mp-QB3NQQZE/s1600-h/aol-logos2.jpg)
+[![](/images/2010/04/aol-logos2.jpg)](/images/2010/04/aol-logos2-6e5a2bc8.jpg)
 
 Just two years after [acquiring social network Bebo for $850 million](http://mashable.com/2008/03/12/aol-acquires-bebo/), the newly-independent AOL has decided to abandon its social networking investment, either by selling it or simply shutting it down.
 

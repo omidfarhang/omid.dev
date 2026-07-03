@@ -16,7 +16,7 @@ categories:
 ---
 A Windows Update is available to users who are located in member countries of the European Union allowing for choosing a different standard browser for the system. The update is available for download through Windows Update.
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5V2a-ByH0I/AAAAAAAABO8/oxMz4txy9eg/s400/browser-choice.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S5V2a-ByH0I/AAAAAAAABO8/oxMz4txy9eg/s1600-h/browser-choice.png)
+[![](/images/2010/03/browser-choice.png)](/images/2010/03/browser-choice-d50fea15.png)
 
 The Update creates a shortcut on your desktop. This shortcut leads to a [Web page](http://www.browserchoice.eu/) in which it is possible to select which Web browser to install. Additionally, the first time the users logs in to the computer after installing the update, Windows Internet Explorer starts automatically and displays the Browser Choice Web page.
 

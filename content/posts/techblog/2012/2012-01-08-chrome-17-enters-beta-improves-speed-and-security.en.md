@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-![](http://2.bp.blogspot.com/-pUE4XhKMyXM/Twnig4IFrtI/AAAAAAAAEY0/9ULf2RnoNNs/s1600/new-chrome-logo.png)
+![](/images/2012/01/new-chrome-logo.png)
 
 [**H-Security**](http://www.h-online.com/security): Version 17 of [Chrome](https://www.google.com/chrome/) has been [released](http://googlechromereleases.blogspot.com/2012/01/beta-channel-update.html) into the WebKit-based browser's [Beta](http://www.google.com/landing/chrome/beta/) channel. Its developers say that the new Chrome beta, version 17.0.963.26, is focused on improving two of the browser's [core principles](https://www.google.com/chrome/intl/en/more/index.html): speed and security.
 

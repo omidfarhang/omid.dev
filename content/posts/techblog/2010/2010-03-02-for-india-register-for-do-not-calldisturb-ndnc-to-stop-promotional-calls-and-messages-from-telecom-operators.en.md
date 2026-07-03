@@ -10,7 +10,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xi1ZF0F2I/AAAAAAAABE8/MxE88v-nlIM/s640/disturb.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S4xi1ZF0F2I/AAAAAAAABE8/MxE88v-nlIM/s1600-h/disturb.jpg)
+[![](/images/2010/03/disturb-9cc01a5d.jpg)](/images/2010/03/disturb-fb770fe4.jpg)
 
 Do you want to avoid unwanted **telemarketing** calls and SMS, arriving on your Mobile or Landline phones from Telecom companies which aim to provide additional services, promotions, offers, plans, tariffs, etc?  
 National Do Not Call Registry ([NDNC Registry](http://ndncregistry.gov.in/ndncregistry/index.jsp)) is a measure from Telecom Regulatory Authority of India, whose main objective is to control Unsolicited Commercial Communication (**UCC**) and let you get rid of it.

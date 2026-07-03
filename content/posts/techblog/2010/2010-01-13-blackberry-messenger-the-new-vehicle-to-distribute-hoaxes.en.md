@@ -16,7 +16,7 @@ categories:
 ---
 I received an interesting IM from a friend via BlackBerry Messenger [BBM] this weekend. She was worried that it could do damage to her shiny new BlackBerry and, as she knew I work for _[a security company]_, she forwarded it to me for my opinion.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02rk1k3ZoI/AAAAAAAAAoc/TSDtBb2fpxQ/s640/120110ogd.JPG)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S02rk1k3ZoI/AAAAAAAAAoc/TSDtBb2fpxQ/s1600-h/120110ogd.JPG)
+[![](/images/2010/01/120110ogd.jpg)](/images/2010/01/120110ogd-a894bf21.jpg)
 
 As soon as I read it, I knew it was a hoax and told her just to delete it.
 

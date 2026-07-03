@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s640/careful_20with_20F1.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S42LF_LCfVI/AAAAAAAABFE/wkzDVeitV10/s1600-h/careful_20with_20F1.png)
+[![](/images/2010/03/careful_20with_20F1.png)](/images/2010/03/careful_20with_20F1-d1d9fa10.png)
 
 Here’s a new vector: exploiting a Windows vulnerability through an Internet Explorer help menu Visual Basic script: “get ‘em to hit F1 and you own ‘em.”
 

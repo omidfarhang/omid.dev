@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-![](http://4.bp.blogspot.com/--mLrPg7ykgg/TuzZoYu_FuI/AAAAAAAAEV4/z15bKOp0pXg/s1600/visa-170.jpg)
+![](/images/2011/12/visa-170.jpg)
 
 [SophosLabs:](http://nakedsecurity.sophos.com/) Visa is investigating a potential security breach that may have compromised payment cards of Eastern Europeans.
 
@@ -20,7 +20,7 @@ Although Visa hasn't disclosed which countries were hit, the Romanian state-owne
 
 CEC Bank said in a statement that “a number” of cards issued by banks both in Romania and abroad might have been compromised via an international database.
 
-![](http://1.bp.blogspot.com/-5mTT9jPRSis/TuzZ3zL_J-I/AAAAAAAAEWA/GdMmunrRMV0/s1600/cec-statement.jpg)
+![](/images/2011/12/cec-statement.jpg)
 
 Here's an excerpt from [the statement](https://www.cec.ro/3577/section.aspx/2957), translated into English from Romanian by [v3.co.uk](http://www.v3.co.uk/v3-uk/news/2133413/visa-investigates-european-card-breach):
 
@@ -40,7 +40,7 @@ The potential security hole in 3DS is a result in a weakness in the password res
 
 He then goes on to describe the password reset link, finding that three of four pieces of information used to verify identity – cardholder name, expiration date and signature panel code – are all contained in the card itself, either embossed or printed and contained in the magnetic stripe data.
 
-![](http://2.bp.blogspot.com/-Q7RC7F2Yec4/TuzaidT11WI/AAAAAAAAEWI/BwB1MVbwKX4/s1600/verified-visa-password-reminder.jpg)
+![](/images/2011/12/verified-visa-password-reminder.jpg)
 
 The fourth piece of information, cardholder date of birth, would be drop-dead easy to track down, he says:
 

@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/-jZU7fXtdOi0/TnNOpyrNktI/AAAAAAAAECI/2HuwYeqtLLg/s1600/Tor_Logo200.png)](http://4.bp.blogspot.com/-jZU7fXtdOi0/TnNOpyrNktI/AAAAAAAAECI/2HuwYeqtLLg/s1600/Tor_Logo200.png)
+[![](/images/2011/09/Tor_Logo200.png)](/images/2011/09/Tor_Logo200.png)
 
 **The H-Security:** The online privacy and security service [Tor](https://www.torproject.org/index.html.en) was blocked by the Iranian government late evening (local time) 13 September. This was done by adding a filter rule to the Iranian border routers which identified Tor traffic and blocked it. The blocking was quickly discovered by Tor and the project released a fix a few hours later. The fix consists of a new version of the Tor software, [Tor 0.2.3.4-alpha](http://archives.seul.org/tor/talk/Sep-2011/msg00187.html), and once this is installed on relays and bridges, the company expects normal service to be resumed for users in Iran.
 

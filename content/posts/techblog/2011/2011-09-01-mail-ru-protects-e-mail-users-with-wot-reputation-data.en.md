@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-O7533LeABAw/Tl9UGBy0snI/AAAAAAAAEAw/2uoe49hFgz8/s1600/Mru.png)](http://1.bp.blogspot.com/-O7533LeABAw/Tl9UGBy0snI/AAAAAAAAEAw/2uoe49hFgz8/s1600/Mru.png)
+[![](/images/2011/09/Mru.png)](/images/2011/09/Mru.png)
 
 Web of Trust (WOT), the world’s leading website reputation rating service, and Mail.ru Group, Russia’s largest Internet company, have partnered together to improve online protection for 300 million people using Russia's leading free e-mail service, Mail.ru. All links contained in emails received by Mail.ru users are checked through WOT’s reputation database to warn users from following untrustworthy links that could lead to scams, identity theft, malware and other online threats.
 

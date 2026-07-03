@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-_MI9uGtPR2A/Tl9DXbTX_0I/AAAAAAAAEAg/Hm3jseDnWf0/s320/julianne-hough-5.jpg)](http://2.bp.blogspot.com/-_MI9uGtPR2A/Tl9DXbTX_0I/AAAAAAAAEAg/Hm3jseDnWf0/s1600/julianne-hough-5.jpg)
+[![](/images/2011/09/julianne-hough-5.jpg)](/images/2011/09/julianne-hough-5-94f36ffc.jpg)
 
 **SophosLabs:** Julianne Hough is famous in the United States not just for being an actress and country music singer, and dating “American Idol” host Ryan Seacrest, but also for having won ABC's “Dancing with the stars” TV show twice.
 

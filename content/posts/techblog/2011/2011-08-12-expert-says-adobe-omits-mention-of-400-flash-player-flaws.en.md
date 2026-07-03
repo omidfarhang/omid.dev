@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://2.bp.blogspot.com/-oDFcQgoaetw/TkWBLoxk0WI/AAAAAAAAD9U/-O1zOVPkgW0/s1600/adobe_logo200.jpg)](http://2.bp.blogspot.com/-oDFcQgoaetw/TkWBLoxk0WI/AAAAAAAAD9U/-O1zOVPkgW0/s1600/adobe_logo200.jpg)
+[![](/images/2011/08/adobe_logo200.jpg)](/images/2011/08/adobe_logo200.jpg)
 
 **H-Online:** Officially, Adobe's [current update](http://www.h-online.com/news/item/Adobe-fixes-critical-vulnerabilities-in-four-products-on-patch-day-1320840.html) for Flash Player has closed only 13 holes, but unofficially it is said to have closed several hundred. Security specialist Tavis Ormandy, who works for Google, claims that he discovered 400 holes and notified Adobe of them. The specialist has now complained that, while the holes have been closed, they haven't been mentioned in the official advisory, and he hasn't been given credit for their discovery.
 

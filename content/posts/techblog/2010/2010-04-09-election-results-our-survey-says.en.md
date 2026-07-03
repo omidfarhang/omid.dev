@@ -20,15 +20,15 @@ Yes, it seems almost anything is a target for money generating survey spam.
 
 In this case, we start with a Youtube video:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79n81uwfEI/AAAAAAAAB20/eIrlzAVNCg4/s400/elecspam1.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79n81uwfEI/AAAAAAAAB20/eIrlzAVNCg4/s1600/elecspam1.jpg)
+[![](/images/2010/04/elecspam1.jpg)](/images/2010/04/elecspam1-f6a3af70.jpg)
 
 And we finish with this:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S79n_fzY6dI/AAAAAAAAB24/xiEsc-HsKpY/s400/elecspam2.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S79n_fzY6dI/AAAAAAAAB24/xiEsc-HsKpY/s1600/elecspam2.jpg)
+[![](/images/2010/04/elecspam2.jpg)](/images/2010/04/elecspam2-46b1ba75.jpg)
 
 Even better, these “fill in a survey to see the content” websites now pop up an additional message as you try to leave the page:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79oAe43lQI/AAAAAAAAB28/jTJFRmymVME/s400/elecspam3.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79oAe43lQI/AAAAAAAAB28/jTJFRmymVME/s1600/elecspam3.jpg)
+[![](/images/2010/04/elecspam3.jpg)](/images/2010/04/elecspam3-fd84a081.jpg)
 
 _“Help keep this content free.  Please take one minute to complete a SPAM-free market research survey to gain access to this special content.”_
 

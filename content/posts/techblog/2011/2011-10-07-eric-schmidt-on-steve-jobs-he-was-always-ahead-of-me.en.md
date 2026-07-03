@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/-Hqhs2QfH2KM/To70s7f9fFI/AAAAAAAAEC4/ouWdiOq7WYk/s400/schmidt42__01__600.jpg)](http://1.bp.blogspot.com/-Hqhs2QfH2KM/To70s7f9fFI/AAAAAAAAEC4/ouWdiOq7WYk/s1600/schmidt42__01__600.jpg)
+[![](/images/2011/10/schmidt42__01__600.jpg)](/images/2011/10/schmidt42__01__600-520a02e6.jpg)
 
 Jobs and Schmidt connect at the introduction of the iPhone, 2007
 

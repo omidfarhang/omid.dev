@@ -16,7 +16,7 @@ Early this afternoon Microsoft released an out-of-band security bulletin patchin
 
 So, I guess, in a way, this is good news:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1jLFsDWvFI/AAAAAAAAAs4/YP4J1F88Gl4/s640/MS_20update_20page.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1jLFsDWvFI/AAAAAAAAAs4/YP4J1F88Gl4/s1600-h/MS_20update_20page.png)
+[![](/images/2010/01/MS_20update_20page.png)](/images/2010/01/MS_20update_20page-1cde71a1.png)
 
 It means that the word obviously is out that there’s a problem and there’s a fix.
 
@@ -26,6 +26,6 @@ According to Wikipedia, Microsoft’s IE browser (versions 6 through 8) have a 6
 
 Minutes later it worked:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1jLExVBgBI/AAAAAAAAAsw/FMTZnrfY1yw/s640/MS_20update_20page_202.png)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S1jLExVBgBI/AAAAAAAAAsw/FMTZnrfY1yw/s1600-h/MS_20update_20page_202.png)
+[![](/images/2010/01/MS_20update_20page_202.png)](/images/2010/01/MS_20update_20page_202-ba943597.png)
 
 Microsoft Security Bulletin MS10-002 [Here](http://www.microsoft.com/technet/security/Bulletin/MS10-002.mspx).

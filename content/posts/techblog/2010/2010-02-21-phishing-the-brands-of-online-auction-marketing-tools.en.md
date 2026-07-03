@@ -18,7 +18,7 @@ Phishing attacks targeting the brands of online auction and shopping websites ar
 
 Below is a phishing site that spoofs the branding of a leading auction marketing tools website:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4Ffb5BHBjI/AAAAAAAAA94/P_BopgdAnFo/s640/Screen+shot+2010-02-19+at+10.08.05+PM.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S4Ffb5BHBjI/AAAAAAAAA94/P_BopgdAnFo/s1600-h/Screen+shot+2010-02-19+at+10.08.05+PM.png)
+[![](/images/2010/02/Screen-shot-2010-02-19-at-10.08.05-PM.png)](/images/2010/02/Screen-shot-2010-02-19-at-10.08.05-PM-6429da46.png)
 
 Upon entering credentials onto the auction tools phishing site, the user will be asked for verification of the main online auction website, as in the above example. The phishing page states that the verification process is required to obtain a token for access of tools. The page states that if the user opts out of the token verification process, tools that enable the import of seller information, financial gains from shipping insurance, and the update of image-scrolling galleries of products, etc. will not be available to the user. A link is provided in the phishing page that states, “Verify your token.” Upon clicking the link, the page is redirected to the phishing page of the main auction website.
 

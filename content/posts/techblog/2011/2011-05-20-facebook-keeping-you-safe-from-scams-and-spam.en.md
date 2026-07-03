@@ -21,7 +21,7 @@ categories:
 First, we're happy to announce a partnership with [Web of Trust](http://www.mywot.com/)  
 . Web of Trust is a free safe surfing tool that tells you which websites you can trust based on the ratings supplied by other Web of Trust community members. Facebook already has a system that automatically scans links to determine whether the websites associated with those links are spammy or contain malware.
 
-[![](http://3.bp.blogspot.com/-GAwugS09D6A/Tcwq-6zCW2I/AAAAAAAAD3s/D_y34xmUSc8/s400/230505_10150168395261886_31987371885_7055199_5262091_n.jpg)](http://3.bp.blogspot.com/-GAwugS09D6A/Tcwq-6zCW2I/AAAAAAAAD3s/D_y34xmUSc8/s1600/230505_10150168395261886_31987371885_7055199_5262091_n.jpg)
+[![](/images/2011/05/230505_10150168395261886_31987371885_7055199_5262091_n.jpg)](/images/2011/05/230505_10150168395261886_31987371885_7055199_5262091_n-7edcaaa2.jpg)
 
 This partnership will help us improve our system by providing additional bad links, and in the coming months, we expect to massively increase our coverage even more by working with other industry leaders. You can become a part of this commmunity too by using the Web of Trust add-on, and leaving your own ratings.
 
@@ -37,12 +37,12 @@ If you have already clicked on a link resulting in an addition to your “Likes 
 
 Spammers take advantage of another browser weakness by asking people to copy and paste malicious code into their address bar, which then causes the browser to take actions on those people’s behalf, including posting status updates with phony links and sending spam messages to all friends.
 
-[![](http://1.bp.blogspot.com/-HwJ7qe19q-g/Tcwqh4LKBTI/AAAAAAAAD3k/2euIzb8nsjE/s400/227709_10150167907171886_31987371885_7051357_7892004_n.jpg)](http://1.bp.blogspot.com/-HwJ7qe19q-g/Tcwqh4LKBTI/AAAAAAAAD3k/2euIzb8nsjE/s1600/227709_10150167907171886_31987371885_7051357_7892004_n.jpg)
+[![](/images/2011/05/227709_10150167907171886_31987371885_7051357_7892004_n.jpg)](/images/2011/05/227709_10150167907171886_31987371885_7051357_7892004_n-1071f834.jpg)
 
   
 We have been working hard to improve our systems that detect and block these types of attacks, as well as to educate people on what is causing their accounts to send spam. Now, when our systems detect that someone has pasted malicious code into the address bar, we will show a challenge to confirm that the person meant to do this as well as provide information on why it’s a bad idea.
 
-[![](http://2.bp.blogspot.com/-Jt5CgqcXucU/Tcwqjq_Jo0I/AAAAAAAAD3o/OdFkpgPq1nM/s400/225394_10150167907271886_31987371885_7051359_3645066_n.jpg)](http://2.bp.blogspot.com/-Jt5CgqcXucU/Tcwqjq_Jo0I/AAAAAAAAD3o/OdFkpgPq1nM/s1600/225394_10150167907271886_31987371885_7051359_3645066_n.jpg)
+[![](/images/2011/05/225394_10150167907271886_31987371885_7051359_3645066_n.jpg)](/images/2011/05/225394_10150167907271886_31987371885_7051359_3645066_n-0b67d685.jpg)
 
   
 We are also working with the major browser companies to fix the underlying issue that allows spammers to do this. Internet Explorer 9 has already put some protections in place, and we are talking with others about providing similar protections.
@@ -51,12 +51,12 @@ We are also working with the major browser companies to fix the underlying issue
 
 Finally, our newest advanced security feature, Login Approvals, is now available to everyone who uses Facebook. This is a two factor authentication system that we first announced last month. If you choose to use it, whenever you log in to Facebook from a new or unrecognized device, we’ll require that you also enter a code we send to your mobile phone via text message.
 
-[![](http://3.bp.blogspot.com/-GVVNsUR-unU/TcwqMcdiklI/AAAAAAAAD3g/QXfX-ZWHj5k/s400/226520_10150170545161886_31987371885_7065226_1691622_n.jpg)](http://3.bp.blogspot.com/-GVVNsUR-unU/TcwqMcdiklI/AAAAAAAAD3g/QXfX-ZWHj5k/s1600/226520_10150170545161886_31987371885_7065226_1691622_n.jpg)
+[![](/images/2011/05/226520_10150170545161886_31987371885_7065226_1691622_n.jpg)](/images/2011/05/226520_10150170545161886_31987371885_7065226_1691622_n-9f995cc8.jpg)
 
   
 If we see a login attempt from a device you haven’t saved, you'll be notified upon your next login and asked to verify the attempt. . If you don’t recognize this login, you'll be able to change your password with the knowledge that while some one else may have known your login credentials, he or she was unable to access your account or cause any harm.
 
-[![](http://4.bp.blogspot.com/-jCw82e219kQ/Tcwp_q0HcDI/AAAAAAAAD3c/6oosmebzZIs/s400/224115_10150170545221886_31987371885_7065227_4160138_n.jpg)](http://4.bp.blogspot.com/-jCw82e219kQ/Tcwp_q0HcDI/AAAAAAAAD3c/6oosmebzZIs/s1600/224115_10150170545221886_31987371885_7065227_4160138_n.jpg)
+[![](/images/2011/05/224115_10150170545221886_31987371885_7065227_4160138_n.jpg)](/images/2011/05/224115_10150170545221886_31987371885_7065227_4160138_n-2da30a06.jpg)
 
 **Find out more about Login Approvals over at [Facebook Engineering Page](https://www.facebook.com/notes/facebook-engineering/introducing-login-approvals/10150172618258920).**
 

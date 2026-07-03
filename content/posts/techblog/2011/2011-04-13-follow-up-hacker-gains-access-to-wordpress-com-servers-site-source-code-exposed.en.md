@@ -17,7 +17,7 @@ categories:
 ---
 Follow up from: [Hacker Gains Access To WordPress.com Servers](http://boelectronic.blogspot.com/2011/04/hacker-gains-access-to-wordpresscom.html)
 
-[![](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s200/wordpress.png)](http://1.bp.blogspot.com/-M4hHNzGu-nk/TaXbdZIuHBI/AAAAAAAAD1Y/Zu38oSLhxAg/s1600/wordpress.png)
+[![](/images/2011/04/wordpress.png)](/images/2011/04/wordpress-7a24556e.png)
 
 **Tech Crunch:** WordPress.com [has revealed](http://en.blog.wordpress.com/2011/04/13/security/) that someone has gained root-access (“low-level,” as in deep) to several of its servers this morning and that VIP customers’ source code was accessible. WordPress.com VIP customers are all on “code red” and in the process of changing all the passwords/API keys they’ve left in the source code.
 

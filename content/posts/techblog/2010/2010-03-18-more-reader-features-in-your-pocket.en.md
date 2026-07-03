@@ -11,9 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6Hw3zEHkqI/AAAAAAAABSg/gebaAPxhcsE/s1600/menu-options.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S6Hw3zEHkqI/AAAAAAAABSg/gebaAPxhcsE/s1600-h/menu-options.png)
+[![](/images/2010/03/menu-options.png)](/images/2010/03/menu-options-ab4da439.png)
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6Hw37KWEJI/AAAAAAAABSk/ZyK2Ewz2Sps/s1600/mobile-header.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S6Hw37KWEJI/AAAAAAAABSk/ZyK2Ewz2Sps/s1600-h/mobile-header.png)
+[![](/images/2010/03/mobile-header.png)](/images/2010/03/mobile-header-43247b29.png)
 
 The more eagle-eyed Reader users have noticed a few tweaks being made to Reader's mobile interface over the past few days:
 

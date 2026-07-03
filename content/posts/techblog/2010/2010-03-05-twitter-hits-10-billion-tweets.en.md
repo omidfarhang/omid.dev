@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FLx4KJMPI/AAAAAAAABKk/TY4ma5wbJuM/s640/twitter-top.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S5FLx4KJMPI/AAAAAAAABKk/TY4ma5wbJuM/s1600-h/twitter-top.png)
+[![](/images/2010/03/twitter-top.png)](/images/2010/03/twitter-top-0bd11692.png)
 
 It’s official: **Twitter has surpassed 10 billion tweets**. While [Gigatweet’s counter](http://popacular.com/gigatweet/) is down due to over-traffic., you can tell by the actual tweet ID numbers that we have crossed the magical threshold.
 

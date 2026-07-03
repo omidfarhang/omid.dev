@@ -28,6 +28,6 @@ Disabling 16-bit applications will mitigate the issue. Then, you'll be all set.
 
 Unless you happen to use a 16-bit, 420 byte tool, from 1998, to convert hex to dec…
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1ilOBm_uNI/AAAAAAAAArU/cOtKaDx3-kM/s640/h2d.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S1ilOBm_uNI/AAAAAAAAArU/cOtKaDx3-kM/s1600-h/h2d.png)
+[![](/images/2010/01/h2d.png)](/images/2010/01/h2d-27ecb4e9.png)
 
 Some people still use such apps in 2010, **for real**.

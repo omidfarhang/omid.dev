@@ -17,14 +17,14 @@ categories:
 ---
 The [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue security product, which first turned up early in October, is still active and trying to avoid countermeasures by setting up 12-24 download sites per day.
 
-![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjn2u-X-I/AAAAAAAAATI/kDTQZK3iNyY/s1600-h/SecurityTool_GUI.jpg)
+![](/images/2009/12/SecurityTool_GUI.jpg)
 
 It comes in two flavors online scanner scam:
 
-![](http://4.bp.blogspot.com/_vaUVXcmC3OI/SyAjqJ9BisI/AAAAAAAAATQ/rVpKTiDKNVI/s1600-h/SecurityTool_OnlineScannerScam.jpg)
+![](/images/2009/12/SecurityTool_OnlineScannerScam.jpg)
 
 and fake codec scam:
 
-![](http://2.bp.blogspot.com/_vaUVXcmC3OI/SyAjlsYl2qI/AAAAAAAAATA/p6kFit5Wyfw/s1600-h/SecurityTool_FakeCodecScams.jpg)
+![](/images/2009/12/SecurityTool_FakeCodecScams.jpg)
 
 For more information [Click Here](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool).

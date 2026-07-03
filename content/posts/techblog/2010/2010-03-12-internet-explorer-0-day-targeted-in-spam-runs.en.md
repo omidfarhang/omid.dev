@@ -25,9 +25,9 @@ Whilst checking through some URLs supposedly serving up malicious code to exploi
 
 Example messages are shown below.
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5pCf9vlmOI/AAAAAAAABQs/CC_l-sSHy5w/s400/0806-spam1.jpg)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S5pCf9vlmOI/AAAAAAAABQs/CC_l-sSHy5w/s1600-h/0806-spam1.jpg)
+[![](/images/2010/03/0806-spam1.jpg)](/images/2010/03/0806-spam1-bf3a8bc8.jpg)
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5pCgJmE_FI/AAAAAAAABQw/zDVy1bcyhqk/s400/0806-spam2.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S5pCgJmE_FI/AAAAAAAABQw/zDVy1bcyhqk/s1600-h/0806-spam2.jpg)
+[![](/images/2010/03/0806-spam2.jpg)](/images/2010/03/0806-spam2-08e964d0.jpg)
 
 In either case, clicking on the link takes the victim to a web page which kickstarts the infection process.
 

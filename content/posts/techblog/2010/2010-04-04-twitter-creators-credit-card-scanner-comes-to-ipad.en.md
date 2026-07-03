@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600/squareipad.jpg)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S7hwiVq7ErI/AAAAAAAABfg/f4AqLqN9I0U/s1600-h/squareipad.jpg)
+[![](/images/2010/04/squareipad.jpg)](/images/2010/04/squareipad-a478b1b1.jpg)
 
 The iPad already has an app for credit card transactions thanks to Twitter creator Jack Dorsey’s Square project.
 
@@ -26,6 +26,6 @@ In some cases, this application will be easier than using a regular credit card 
 
 After the sale is completed, you can send receipts to customers via e-mail or SMS. Here are some pics.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hwugbsfSI/AAAAAAAABfk/sljT7ps8EcA/s400/ipadsquare1.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hwugbsfSI/AAAAAAAABfk/sljT7ps8EcA/s1600-h/ipadsquare1.jpg)
+[![](/images/2010/04/ipadsquare1.jpg)](/images/2010/04/ipadsquare1-ecbdf56f.jpg)
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hww6u3HwI/AAAAAAAABfo/rjL1wSheb_0/s400/ipadsquare2.jpg)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S7hww6u3HwI/AAAAAAAABfo/rjL1wSheb_0/s1600-h/ipadsquare2.jpg)
+[![](/images/2010/04/ipadsquare2.jpg)](/images/2010/04/ipadsquare2-1e3114bc.jpg)

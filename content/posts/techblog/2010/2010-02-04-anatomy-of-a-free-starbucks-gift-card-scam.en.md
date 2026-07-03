@@ -19,7 +19,7 @@ With virus and spam outbreaks, analysts needs to keep their nerves to analyze th
 
 It started innocently enough, as a post about getting a Free $25 Starbucks gift card for joining a particular group. The first person to join the group from my friends list happens to work for a non-profit organization helping young people. So, I expected the young people on his “friends list” to join this group shortly.
 
-[![](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oXhWVWy5I/AAAAAAAAAyQ/BwZqtu2Z8xI/s640/starbucksscam1.png)](http://4.bp.blogspot.com/_vaUVXcmC3OI/S2oXhWVWy5I/AAAAAAAAAyQ/BwZqtu2Z8xI/s1600-h/starbucksscam1.png)
+[![](/images/2010/02/starbucksscam1.png)](/images/2010/02/starbucksscam1-311942d3.png)
 
 Looking at the page, my instincts tell me that something is amiss when the description (on the bottom left) says:
 
@@ -27,7 +27,7 @@ Looking at the page, my instincts tell me that something is amiss when the descr
 
 Moving on to the “News” portion where the instructions are posted. It is a little horrifying to know that someone actually went through the steps below:
 
-[![](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2oX0o_KlAI/AAAAAAAAAyY/2c2w-9cEUhE/s640/starbucksscam2.png)](http://1.bp.blogspot.com/_vaUVXcmC3OI/S2oX0o_KlAI/AAAAAAAAAyY/2c2w-9cEUhE/s1600-h/starbucksscam2.png)
+[![](/images/2010/02/starbucksscam2.png)](/images/2010/02/starbucksscam2-f2191e95.png)
 
 To paraphrase Step 4, it says: “Erase everything in your address bar, copy and paste the code below, and press enter”. Now, this is not just any url, it’s full-fledged javascript code. The code on the page did what it claim, which is “simply highlight all your friends for the ‘invitation’”. However, given the number of bad javascripts out there, such as the prevalent Troj/JSRedir-AR and Troj/JSRedir-AK, it is disconcerting to know that there are people out there willing to enter Javascripts of unknown origin in their browser. Imagine what would happen if the script starts installing a FakeAV or do other nasty deeds to their computer?
 
@@ -37,7 +37,7 @@ This comes to objective lesson #1 in this case:
 
 As if running a Javascript is not bad enough, the group owner is not done yet! Step 6 asks the users to go to the “official site” and follow the instructions. The site happens to be like this:
 
-[![](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oYLpYryXI/AAAAAAAAAyg/FwAtJtqRf_I/s640/starbucksscam3.png)](http://2.bp.blogspot.com/_vaUVXcmC3OI/S2oYLpYryXI/AAAAAAAAAyg/FwAtJtqRf_I/s1600-h/starbucksscam3.png)
+[![](/images/2010/02/starbucksscam3.png)](/images/2010/02/starbucksscam3-b6d6fd41.png)
 
 The “last step” is to enter Personally Identifiable Information (PII) such as Name and Full Address. Some of my friends started to question the scheme by this time, yet others happily gave their info away, which gets us the objective lesson #2:
 

@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79RjTAq9zI/AAAAAAAAB2Y/EX4pBiBod1s/s200/jobs-iphone-4.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S79RjTAq9zI/AAAAAAAAB2Y/EX4pBiBod1s/s1600/jobs-iphone-4.jpg)
+[![](/images/2010/04/jobs-iphone-4.jpg)](/images/2010/04/jobs-iphone-4-31dca86c.jpg)
 
 Steve Jobs has just taken the stage at Apple’s iPhone OS 4.0 press event. Before getting to the anticipated product announcements, Jobs took the opportunity to highlight the immediate success of the iPad, which launched on Saturday.
 

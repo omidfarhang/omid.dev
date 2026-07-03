@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[![](http://3.bp.blogspot.com/-jRlQ4ZBh5vQ/TndKsL8sbBI/AAAAAAAAECU/RHWc9FOoL4U/s320/hackjump.jpg)](http://3.bp.blogspot.com/-jRlQ4ZBh5vQ/TndKsL8sbBI/AAAAAAAAECU/RHWc9FOoL4U/s1600/hackjump.jpg)
+[![](/images/2011/09/hackjump.jpg)](/images/2011/09/hackjump-f31357fb.jpg)
 
 _The building housing the Dutch company DigiNotar,  
 which issues digital Web site certificates and  

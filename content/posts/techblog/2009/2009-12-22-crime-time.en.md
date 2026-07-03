@@ -16,7 +16,7 @@ categories:
 ---
 Crime traditionally increases during the holiday season, and cybercrime is no different. The malware writers, spammers and scammers are out in force. They've recently hit “Odnoklassniki” with this message:
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/SzC7nq7OHwI/AAAAAAAAAfI/XgLA8JNwf-Q/s640/208187986.bmp)](http://3.bp.blogspot.com/_vaUVXcmC3OI/SzC7nq7OHwI/AAAAAAAAAfI/XgLA8JNwf-Q/s1600-h/208187986.bmp)
+[![](/images/2009/12/208187986.bmp)](/images/2009/12/208187986-50a17008.bmp)
 
 “Hi! I've got a New year surprise for you [emoticon] send 2133 279 (must be with a space) to 4460 and you'll be pleasantly surprised! If you don't take a look, I'll be very grouchy with you [emoticon]”
 

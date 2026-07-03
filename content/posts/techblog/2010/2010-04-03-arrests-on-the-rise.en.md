@@ -29,7 +29,7 @@ Other sources, for instance [Bank Info Security News](http://www.bankinfosecurit
 
 Pasquale Manfredi isn't exactly a nice guy. The authorities have wanted to arrest him for some time because of his naughty habits such as assassinating his enemies by shooting a bazooka at their car. [The Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1258369/Pasquale-Manfredi-Facebook-arrest-Mafia-hitman-Scarface-caught.html) says that he also maintained a Facebook account under the name “Georgie”, with Al Pacino's “ScarFace” as his Profile picture. According to [The Register](http://www.theregister.co.uk/2010/03/17/mafia_suspect_tracked_via_facebook/), authorities used intelligence gathered from his Facebook page to identify his location and successfully make the arrest.
 
-[![](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7eGISfoqGI/AAAAAAAABd8/X0DJeXinfnA/s400/article-1258369-08BDFAC1000005DC-846_468x329.jpg)](http://3.bp.blogspot.com/_vaUVXcmC3OI/S7eGISfoqGI/AAAAAAAABd8/X0DJeXinfnA/s1600-h/article-1258369-08BDFAC1000005DC-846_468x329.jpg)
+[![](/images/2010/04/article-1258369-08BDFAC1000005DC-846_468x329.jpg)](/images/2010/04/article-1258369-08BDFAC1000005DC-846_468x329-5bba9418.jpg)
 
 The Associated Press's Richard Lardner followed up with a story about the way MySpace and Facebook are both being used as investigative goldmines. See his story [Break the law and your new ‘friend' may be the FBI](http://news.yahoo.com/s/ap/20100316/ap_on_go_ca_st_pe/us_feds_on_facebook).
 
