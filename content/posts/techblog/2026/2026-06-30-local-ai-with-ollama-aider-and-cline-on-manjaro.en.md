@@ -310,19 +310,31 @@ If `aider` is not on your PATH, use `python -m aider` instead. See [Aider's inst
 
 ### Point Aider at Ollama
 
-Aider talks to Ollama's **native API** (not the OpenAI-compatible `/v1` path):
+Aider talks to Ollama's **native API** (not the OpenAI-compatible `/v1` path). Add these to `~/.zshrc` (or `~/.bashrc`) so they persist across sessions:
 
 ```bash
+# Ollama endpoint
 export OLLAMA_API_BASE=http://127.0.0.1:11434
+
+# Default Aider model
+export AIDER_MODEL=ollama_chat/qwen2.5-coder:7b
 ```
 
-Add that to `~/.zshrc` if you use it daily. See [Aider's Ollama docs](https://aider.chat/docs/llms/ollama.html) if the default endpoint changes.
+The second variable saves you from typing `--model ollama_chat/qwen2.5-coder:7b` on every launch — handy if you stick with one model most of the time. You can still override it per session with the `--model` flag when you need a different model.
 
-Use the `ollama_chat/` prefix (recommended over `ollama/`):
+See [Aider's Ollama docs](https://aider.chat/docs/llms/ollama.html) if the default endpoint changes.
+
+With both variables set, launching Aider is just:
 
 ```bash
 cd /path/to/your/nx-workspace
-aider --model ollama_chat/qwen2.5-coder:7b
+aider
+```
+
+Or override the default model for a one-off session:
+
+```bash
+aider --model ollama_chat/deepseek-r1:8b
 ```
 
 If you restarted Ollama with a larger context window, do that in a separate terminal before launching Aider.
