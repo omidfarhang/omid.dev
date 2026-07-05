@@ -17,7 +17,7 @@ Finally first level of my German class at Goethe-Institut finished ([Read here w
 
 I passed the A1.1 level with “satisfactory” score (Evaluation), yeah I know I could do better but… I will try to practice at home too for the next level.
 
-In my life I’ve been in many different groups of people, family, friends, school, co-workers at IRIB, businessman(s) at work etc. but I’ve never been that happy that I’ve been between this group of good folks at my class, they have been very nice people in there with no bothersome between us, we really could match together, either old or young classmates together, I’ve been younger than others in there!![Winking smile](http://lh3.ggpht.com/-t1V5d1oOquU/T0qXJ9A5BsI/AAAAAAAAE-Y/NXb1WidJw58/wlEmoticon-winkingsmile%25255B2%25255D.png?imgmax=800) 
+In my life I’ve been in many different groups of people, family, friends, school, co-workers at IRIB, businessman(s) at work etc. but I’ve never been that happy that I’ve been between this group of good folks at my class, they have been very nice people in there with no bothersome between us, we really could match together, either old or young classmates together, I’ve been younger than others in there!😉 
 
 Our teacher may have not been most experienced teacher of institute (She was good anyway at her job, at least for me) but she is a very good person with a very good personality and excellent behavior to us. Never angry, never silly, never boring, never ignoring anyone, never kidding anyone and never stopped smiling, kind of teacher which with her at school we had better than than without her, when she were at class no one noticed the time and 90minutes of class fly at just a moment.
 

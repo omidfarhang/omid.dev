@@ -30,6 +30,6 @@ With Gmail scoring with its addition of Google Voice to its email feature and wi
 
 With most of the users averse towards migrating their records from one email address to other, influencing users to switch email vendors is difficult. Thus Microsoft's strategy to allow an easy way to pool records from other email addresses to Hotmail is an attempt to make Hotmail a choice for users without switching.
 
-(This is not something very new! just a reminder for you![Winking smile](http://lh5.ggpht.com/_vaUVXcmC3OI/TNHfU61UigI/AAAAAAAADBQ/yoh4YCJebHk/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800) )
+(This is not something very new! just a reminder for you😉 )
 
 _Taken from ibtimes_

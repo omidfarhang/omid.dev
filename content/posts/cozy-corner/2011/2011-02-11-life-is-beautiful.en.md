@@ -10,13 +10,13 @@ tags:
 categories: 
   - Cozy Corner
 ---
-Sorry about being late in updating my blog![Embarrassed smile](http://lh6.ggpht.com/_vaUVXcmC3OI/TVR85aos2nI/AAAAAAAADkM/Ste6dxXdKYM/wlEmoticon-embarrassedsmile%5B2%5D.png?imgmax=800) 
+Sorry about being late in updating my blog😳 
 
 Finally…
 
-NO AMRY SERVICE FOR ME…. YAY!![Party smile](http://lh6.ggpht.com/_vaUVXcmC3OI/TVR88PcFJhI/AAAAAAAADkQ/9Q3AKkDDhQQ/wlEmoticon-partysmile%5B2%5D.png?imgmax=800) 
+NO AMRY SERVICE FOR ME…. YAY!🥳 
 
-Last week I got reply from them that no army service for me, I’m so happy!![Hot smile](http://lh5.ggpht.com/_vaUVXcmC3OI/TVR8_EQkb7I/AAAAAAAADkU/sj9QS7Ok7ME/wlEmoticon-hotsmile%5B2%5D.png?imgmax=800) 
+Last week I got reply from them that no army service for me, I’m so happy!😍 
 
 Later when I had enough time I will write full story about what happened and how everything went well!
 

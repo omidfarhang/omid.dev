@@ -20,6 +20,6 @@ categories:
 
 For the full story behind the Xmarks shutdown, please read their [blog post](http://blog.xmarks.com/?p=1886).
 
-It’s a sad story to me! ![Sad smile](http://lh3.ggpht.com/_vaUVXcmC3OI/TKRZ5enRbSI/AAAAAAAACkQ/b3gbkWiFxpM/wlEmoticon-sadsmile%5B2%5D.png?imgmax=800)
+It’s a sad story to me! 😢
 
 Here I found a good article to read: [http://www.zdnet.com/blog/networking/no-more-xmarks-no/192](http://www.zdnet.com/blog/networking/no-more-xmarks-no/192 "http://www.zdnet.com/blog/networking/no-more-xmarks-no/192")

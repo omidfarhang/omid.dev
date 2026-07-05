@@ -14,7 +14,7 @@ About 6 months ago, I decide to go pass my military service, It’s a compulsory
 
 Well, a few months ago before that, I decide to try my chance to use my ‘illness’ prevent spending 18 months of my life in there, so I visited my doctor and he used some test, picture bla bla to prepare my Medical Documents, Thanks Doctor!
 
-I sent those documents to the Army office and after a few days I got a reply that you must go to Hospital we tell you to re-check everything. Ok, No problem, I will go!![Annoyed](http://lh6.ggpht.com/_vaUVXcmC3OI/TPLUFFvfOfI/AAAAAAAADQQ/shsuex5uY_w/wlEmoticon-annoyed%5B2%5D.png?imgmax=800) 
+I sent those documents to the Army office and after a few days I got a reply that you must go to Hospital we tell you to re-check everything. Ok, No problem, I will go!😒 
 
 I went there, I had 3 problem to check, ‘Liver’, ‘Heart / Blood Pressure’ and ‘Thyroid’, so I’ve to meet 3 different doctors. First I decide to start with ‘Heart’, Damn! today he is not there, I must come back tomorrow, emmm, Let’s try ‘Liver’!!, I went to upper floor, yup! He is coming soon and no need to wait long too:
 

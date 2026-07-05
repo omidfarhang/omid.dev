@@ -12,7 +12,7 @@ categories:
 ---
 In continue from [Days are still going on, but how?–Part3](/2010/11/28/days-are-still-going-on-but-how-part3/ "Days are still going on, but how?–Part3")
 
-After living 24 hours with that Holter during walking, sleeping, eating and weeing!!![Rolling on the floor laughing](http://lh4.ggpht.com/_vaUVXcmC3OI/TPPrZtkScHI/AAAAAAAADRg/qD89ONq90nE/wlEmoticon-rollingonthefloorlaughing%5B2%5D.png?imgmax=800) I come back to the hospital to get rid of it and get the result, the guy connected that device to computer and printed result, wow, 10 Pages result!
+After living 24 hours with that Holter during walking, sleeping, eating and weeing!!🤣 I come back to the hospital to get rid of it and get the result, the guy connected that device to computer and printed result, wow, 10 Pages result!
 
 I went to show result to Doctor and ask him to confirm my document, GRRRR, he is not here today, I’ve to come back tomorrow…
 

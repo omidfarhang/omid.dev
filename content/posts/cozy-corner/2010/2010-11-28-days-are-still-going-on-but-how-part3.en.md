@@ -27,4 +27,4 @@ The guy who connected this to me, was not so bad!! Just I was afraid it ran out 
 
 Why I was afraid!
 
-Ok ok, enough for this time, I will continue in next post!![Hot smile](http://lh5.ggpht.com/_vaUVXcmC3OI/TPLng4JbzzI/AAAAAAAADQ0/i0A7qtQX8Ew/wlEmoticon-hotsmile%5B2%5D.png?imgmax=800)
+Ok ok, enough for this time, I will continue in next post!😍

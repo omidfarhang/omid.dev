@@ -34,13 +34,13 @@ After weekend I went to the hospital they said, I found the path on Google Earth
   * He: No, But General doctor can visit you
   * Me: ok, let me know if he is here today
   * He: No, you should come at morning, he is here only 8:00 AM to 1:00PM
-  * Me: next time tell this at first. pfff….![Annoyed](http://lh6.ggpht.com/_vaUVXcmC3OI/TQjY6MAlbjI/AAAAAAAADgE/-XK0A8bUbsw/wlEmoticon-annoyed%5B2%5D.png?imgmax=800)
+  * Me: next time tell this at first. pfff….😒
 
 I come back home, next day I went sooner, I went directly to admin office, he checked my picture in the ID card and my document, said is this you? I said yeah, he looked again and I told him why they don’t match, hairless!
 
 After he checked everything, those idiots again stamped on my hand, Grrr!
 
-and told me go pay this, I looked for when I must pay that, finally found that it’s in other side of street!!!![Surprised smile](http://lh4.ggpht.com/_vaUVXcmC3OI/TQjY7XaCVRI/AAAAAAAADgI/_X786u40YG8/wlEmoticon-surprisedsmile%5B2%5D.png?imgmax=800) ,I went to other building to pay that, Floor 4, I went from stairs![Laughing out loud](http://lh6.ggpht.com/_vaUVXcmC3OI/TQjY9KWpESI/AAAAAAAADgM/N9lfeBDWPr0/wlEmoticon-laughingoutloud%5B2%5D.png?imgmax=800) , good news is that it was not that expensive and also Doctor is in same floor and don’t need to go down again.
+and told me go pay this, I looked for when I must pay that, finally found that it’s in other side of street!!!😲 ,I went to other building to pay that, Floor 4, I went from stairs😂 , good news is that it was not that expensive and also Doctor is in same floor and don’t need to go down again.
 
 I went to Doctor room, after he finished his SMS(es!) he greeted me and I gave him my history of my testes and other related info, he read them and told me that my problem is not that serious, that’s why they sent me here again for another test, he offered me to stop taking meds for 20 days and test again to get more bright test result to show in military office. he look likes a good doctor. I accepted and come back home.
 

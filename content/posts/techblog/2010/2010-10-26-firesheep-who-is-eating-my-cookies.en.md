@@ -15,9 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-Internet is great, and everyday millions of people spend their day surfing it, using Google, Gmail, Youtube, Twitter, Facebook, etc. Some people buy at ebay, or Amazon. Even some people use it to work, though these cases maybe not that common![Winking smile](http://lh4.ggpht.com/_vaUVXcmC3OI/TMbhDPTZKhI/AAAAAAAAC6U/xQwJOsqyl9g/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800) 
+Internet is great, and everyday millions of people spend their day surfing it, using Google, Gmail, Youtube, Twitter, Facebook, etc. Some people buy at ebay, or Amazon. Even some people use it to work, though these cases maybe not that common😉 
 
-As a reader of this blog, you are concerned about security and therefore you already know that connecting through public WiFi is a risky sport. But it is also really convenient, how many of you have done it in McDonalds,Starbucks, etc.? Yeah, me too![Open-mouthed smile](http://lh4.ggpht.com/_vaUVXcmC3OI/TMbhFQXc7ZI/AAAAAAAAC6Y/1c57ir6tCes/wlEmoticon-openmouthedsmile%5B2%5D.png?imgmax=800) 
+As a reader of this blog, you are concerned about security and therefore you already know that connecting through public WiFi is a risky sport. But it is also really convenient, how many of you have done it in McDonalds,Starbucks, etc.? Yeah, me too😮 
 
 As we always say, anyone could be sniffing the traffic and capture the data. There are even some websites that send the password in plain text! Yes, incredible but true. Anyway, that’s not the way of working of the main websites, as the ones I mentioned earlier. As we use to spend a lot of time in these webs (how many hours do you spend on Facebook per day?) in order to keep us logged in, once we validate ourselves a cookie is created with our session information, so we don’t have to enter our credentials over and over again.
 

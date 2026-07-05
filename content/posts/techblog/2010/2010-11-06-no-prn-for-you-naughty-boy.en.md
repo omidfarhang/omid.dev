@@ -19,7 +19,7 @@ There are always peculiar things malware researchers discover while analyzing ne
 
 [VirusTotal](http://www.virustotal.com/file-scan/report.html?id=ede47b72be4490b4a517758d08ea927cacf034ca6d450c4c8c9328484a6cac36-1289002554) 24/43
 
-Let’s remember the filename as HD Porn TV for later![Winking smile](http://lh6.ggpht.com/_vaUVXcmC3OI/TNVa4eWjpfI/AAAAAAAADD8/31dz-B5aUKY/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800) 
+Let’s remember the filename as HD Porn TV for later😉 
 
 Our victim runs it thinking they will see the latest porno in HD quality. Instead they get a new browser ‘theme’ with a Turkish flavor:
 
@@ -45,6 +45,6 @@ From now on, all ‘sensitive’ searches such as porn are no longer displayed:
 
 Our victim not only gets a nasty Trojan on their PC, they also get denied of anymore porn.
 
-Next time, don’t be so naughty![Winking smile](http://lh6.ggpht.com/_vaUVXcmC3OI/TNVa4eWjpfI/AAAAAAAADD8/31dz-B5aUKY/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800) 
+Next time, don’t be so naughty😉 
 
 _Posted by Jerome Segura on Malware Diaries_
