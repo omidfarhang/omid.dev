@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/21/internet-users-skip-security-because-of-jargon/
 tags:
   - advice
-  - news
+  - News
   - report
   - review
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/04/another-bot-bites-the-dust/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

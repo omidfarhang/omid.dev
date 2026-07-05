@@ -7,7 +7,7 @@ url: 2010/04/03/adobe-to-launch-creative-suite-5-april-12/
 tags:
   - Adobe
   - AMD
-  - news
+  - News
 
 categories:
   - TechBlog

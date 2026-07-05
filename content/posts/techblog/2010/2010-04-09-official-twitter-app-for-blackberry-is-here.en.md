@@ -8,7 +8,7 @@ tags:
   - BlackBerry
   - Mobile 2.0
   - mobile apps
-  - news
+  - News
   - social networking
   - Twitter
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/02/browser-market-share-october-2010/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Google Chrome
   - internet

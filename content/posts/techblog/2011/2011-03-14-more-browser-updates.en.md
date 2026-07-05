@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/14/more-browser-updates/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Security

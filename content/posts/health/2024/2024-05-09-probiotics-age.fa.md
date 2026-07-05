@@ -6,9 +6,9 @@ author_profile: true
 url: 2024/09/10/probiotics-through-the-ages/
 shortlink: https://g.omid.dev/HPVEWYW
 tags:
-  - پری‌بیوتیک
-  - پروبیوتیک
-  - پست‌بیوتیک
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
 
 categories: 
   - Health

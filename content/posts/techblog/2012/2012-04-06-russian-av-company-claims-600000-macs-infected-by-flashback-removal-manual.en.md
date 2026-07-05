@@ -8,7 +8,7 @@ tags:
   - Apple
   - Mac OS X
   - Malware
-  - news
+  - News
   - solution
   - Security
 

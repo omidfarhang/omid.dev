@@ -7,7 +7,7 @@ url: 2010/10/21/facebook-launches-drag-and-drop-photos-video/
 tags:
   - Announcement
   - Facebook
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -9,7 +9,7 @@ tags:
   - 3G
   - Announcement
   - Hardware
-  - news
+  - News
   - nvidia
 
 categories:

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/07/13/chrome-20-update-fixes-high-risk-security-vulnerabilities/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Security

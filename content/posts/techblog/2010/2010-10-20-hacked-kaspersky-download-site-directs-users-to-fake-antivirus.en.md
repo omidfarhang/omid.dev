@@ -8,7 +8,7 @@ tags:
   - hack
   - Kaspersky
   - Malware
-  - news
+  - News
   - report
   - Yahoo
   - Security

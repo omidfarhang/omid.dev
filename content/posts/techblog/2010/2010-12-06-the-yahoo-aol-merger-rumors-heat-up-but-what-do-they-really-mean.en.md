@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/the-yahoo-aol-merger-rumors-heat-up-but-what-do-they-really-mean/
 tags:
   - AOL
-  - news
+  - News
   - review
   - Yahoo
 

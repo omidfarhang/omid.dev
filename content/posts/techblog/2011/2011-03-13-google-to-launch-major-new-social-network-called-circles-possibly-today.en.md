@@ -7,7 +7,7 @@ url: 2011/03/13/google-to-launch-major-new-social-network-called-circles-possibl
 tags:
   - Google
   - Google Circles
-  - news
+  - News
   - social networking
 
 categories:

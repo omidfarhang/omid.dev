@@ -7,7 +7,7 @@ url: 2010/05/19/bogus-is-one-way-to-describe-microsofts-patent-claims-against-sa
 tags:
   - Apple
   - Microsoft
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/03/19/windows-xp-mode-now-accessible-to-more-pcs/
 tags:
   - AMD
   - Microsoft
-  - news
+  - News
   - Updates
 
 categories:

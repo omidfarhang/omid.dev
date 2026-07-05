@@ -6,8 +6,8 @@ author_profile: true
 url: 2009/01/13/check-for-windows-updates/
 shortlink: https://g.omid.dev/tK2xIAl
 tags:
-  - microsoft
-  - windows
+  - Microsoft
+  - Windows
   - how to
   - update
   - maintenance

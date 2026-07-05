@@ -10,7 +10,7 @@ tags:
   - iphone
   - iphone os
   - iProd
-  - news
+  - News
 
 categories:
   - TechBlog

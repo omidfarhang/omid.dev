@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Google
   - google chrome os
-  - news
+  - News
 
 categories:
   - TechBlog

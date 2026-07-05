@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 url: 2010/11/06/its-alive-xmarks-back-from-the-brink/
 tags:
-  - Browser
-  - news
+  - Browsers
+  - News
   - report
   - Xmarks
 

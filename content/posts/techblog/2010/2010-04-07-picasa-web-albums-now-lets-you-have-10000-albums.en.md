@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/07/picasa-web-albums-now-lets-you-have-10000-albums/
 tags:
   - Google
-  - news
+  - News
   - Photos
   - picasa
   - Picasa Web Albums

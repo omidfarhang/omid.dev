@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/11/29/google-updates-all-chrome-editions/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Security

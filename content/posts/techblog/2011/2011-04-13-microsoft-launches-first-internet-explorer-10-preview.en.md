@@ -6,7 +6,6 @@ author_profile: true
 url: 2011/04/13/microsoft-launches-first-internet-explorer-10-preview/
 tags:
   - Internet Explorer
-  - Internet Explorer 10
   - Microsoft
   - Updates
 

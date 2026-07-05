@@ -9,7 +9,7 @@ tags:
   - AMD
   - Hardware
   - intel
-  - news
+  - News
   - price
 
 categories:

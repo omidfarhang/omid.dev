@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/09/benign-feature-malicious-use/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Malware
   - review

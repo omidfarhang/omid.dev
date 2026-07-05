@@ -10,11 +10,11 @@ mastodon_link: https://mastodon.social/@omidfarhang/115737001232998501
 bluesky_link: https://bsky.app/profile/omid.dev/post/3ma7lppqz4s2n
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_activity-7407167453845401601-h1MY
 tags:
-  - Konditionierte Geschmacksaversion
-  - Geschmacksabneigung und Essverhalten
-  - Ernährung und Appetitstörungen
-  - Lern- und Verhaltenspsychologie
-  - Lebensmittelallergie vs. Unverträglichkeit
+  - Conditioned Taste Aversion
+  - Food Aversion and Eating Behavior
+  - Nutrition and Appetite Disorders
+  - Learning and Behavioral Psychology
+  - Food Allergy vs Intolerance
 
 categories: 
   - Health

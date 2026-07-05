@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/04/quarantine-for-infected-pcs/
 tags:
   - Microsoft
-  - news
+  - News
 
 categories:
   - TechBlog

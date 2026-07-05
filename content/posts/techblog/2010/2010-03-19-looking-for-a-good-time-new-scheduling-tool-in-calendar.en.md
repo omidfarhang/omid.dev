@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/19/looking-for-a-good-time-new-scheduling-tool-in-calendar/
 tags:
   - Google
-  - news
+  - News
   - Offer
 
 categories:

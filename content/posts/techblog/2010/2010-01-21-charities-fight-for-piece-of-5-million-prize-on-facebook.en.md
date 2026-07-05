@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/21/charities-fight-for-piece-of-5-million-prize-on-facebook/
 tags:
   - Facebook
-  - news
+  - News
 
 categories:
   - TechBlog

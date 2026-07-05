@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/17/ap-stylebook-finally-changes-web-site-to-website/
 tags:
-  - news
+  - News
   - report
   - trending
 

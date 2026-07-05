@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/17/avira-update-fixes-service-pack-bug/
 tags:
   - Avira
-  - news
+  - News
   - software
   - Updates
 

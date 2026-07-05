@@ -8,7 +8,7 @@ tags:
   - 3D
   - Game
   - Game console
-  - news
+  - News
   - Nintendo
 
 categories:

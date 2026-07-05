@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/04/06/google-chrome-fixes-seven-high-risk-vulnerabilities/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - software

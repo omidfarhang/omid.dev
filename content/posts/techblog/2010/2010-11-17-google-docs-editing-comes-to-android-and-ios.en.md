@@ -9,7 +9,7 @@ tags:
   - Google
   - google docs
   - iOS
-  - news
+  - News
 
 categories:
   - TechBlog

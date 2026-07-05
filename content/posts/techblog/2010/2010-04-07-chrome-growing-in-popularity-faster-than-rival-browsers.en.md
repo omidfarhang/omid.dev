@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/07/chrome-growing-in-popularity-faster-than-rival-browsers/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Google Chrome
   - report

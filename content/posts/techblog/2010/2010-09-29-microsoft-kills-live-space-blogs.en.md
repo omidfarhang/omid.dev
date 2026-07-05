@@ -9,7 +9,7 @@ tags:
   - Live Spaces
   - Microsoft
   - MSN
-  - news
+  - News
   - Windows Live
   - WordPress
 

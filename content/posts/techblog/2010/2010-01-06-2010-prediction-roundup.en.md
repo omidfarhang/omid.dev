@@ -10,7 +10,7 @@ tags:
   - Apple
   - Google Chrome
   - iphone
-  - news
+  - News
   - report
   - Security
 

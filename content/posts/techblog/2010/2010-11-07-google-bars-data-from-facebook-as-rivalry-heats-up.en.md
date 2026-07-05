@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Facebook Privacy
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

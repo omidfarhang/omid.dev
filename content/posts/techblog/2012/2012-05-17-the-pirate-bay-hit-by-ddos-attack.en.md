@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/17/the-pirate-bay-hit-by-ddos-attack/
 tags:
   - attack
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -10,7 +10,7 @@ tags:
   - Microsoft
   - Microsoft Office
   - Microsoft office 2011
-  - news
+  - News
 
 categories:
   - TechBlog

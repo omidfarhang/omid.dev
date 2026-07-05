@@ -10,7 +10,7 @@ tags:
   - imagery
   - ipad
   - NASA
-  - news
+  - News
   - satellite
   - volcano
   - worlds news

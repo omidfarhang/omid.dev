@@ -6,9 +6,9 @@ author_profile: true
 url: 2023/01/16/neandertaler-kochten-komplexe-speisen/
 shortlink: https://g.omid.dev/MFAzGNq
 tags:
-  - Lebensmittel
-  - Geschichte
-  - Lesenswert
+  - foods
+  - history
+  - Good Reads
 
 categories: 
   - Cozy Corner

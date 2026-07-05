@@ -6,11 +6,11 @@ author_profile: true
 url: 2024/09/10/wie-probiotika-bei-candidose-helfen/
 shortlink: https://g.omid.dev/ASrHVQN
 tags:
-  - Präbiotika
-  - Probiotika
-  - Postbiotika
-  - Candidose
-  - Frauengesundheit
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
+  - Candidiasis
+  - Womens health
 
 categories: 
   - Health

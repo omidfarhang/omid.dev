@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/06/washable-cell-phone-coming-soon/
 tags:
-  - news
+  - News
   - report
 
 categories:

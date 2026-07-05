@@ -7,7 +7,7 @@ url: 2012/07/17/longtime-google-exec-marissa-mayer-is-yahoos-new-ceo/
 tags:
   - Google
   - Marissa Mayer
-  - news
+  - News
   - Yahoo
 
 categories:

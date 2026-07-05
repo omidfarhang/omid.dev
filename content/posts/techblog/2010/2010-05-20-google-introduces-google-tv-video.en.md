@@ -9,7 +9,7 @@ tags:
   - Google
   - Google I/O
   - Google TV
-  - news
+  - News
   - TV
 
 categories:

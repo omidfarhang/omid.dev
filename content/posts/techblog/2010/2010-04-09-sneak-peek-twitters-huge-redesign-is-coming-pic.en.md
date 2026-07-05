@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/09/sneak-peek-twitters-huge-redesign-is-coming-pic/
 tags:
-  - news
+  - News
   - social networking
   - trending
   - Twitter

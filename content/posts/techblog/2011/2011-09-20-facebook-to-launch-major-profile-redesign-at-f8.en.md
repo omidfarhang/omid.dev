@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/09/20/facebook-to-launch-major-profile-redesign-at-f8/
 tags:
   - Facebook
-  - news
+  - News
 
 categories:
   - TechBlog

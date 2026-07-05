@@ -6,12 +6,12 @@ author_profile: true
 url: 2010/04/10/the-big-change-coming-to-safari-5-kernel-level-multi-processing/
 tags:
   - Apple
-  - Browser
+  - Browsers
   - compare
   - Firefox
   - Google Chrome
   - ipad
-  - news
+  - News
   - Safari
   - Safari 5
 

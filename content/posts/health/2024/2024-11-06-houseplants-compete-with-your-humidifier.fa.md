@@ -6,12 +6,12 @@ author_profile: true
 url: 2024/11/06/can-houseplants-compete-with-your-humidifier-a-fun-comparison/
 shortlink: https://g.omid.dev/Mt6pvGZ
 tags:
-  - مقایسه تصادفی
-  - گیاهان آپارتمانی
-  - سلامتی
-  - محیط خانه
-  - علم سرگرم‌کننده است
-  - آمار
+  - Random Comparison
+  - Houseplants
+  - Health
+  - Home Environment
+  - Science Is Fun
+  - Statics
 
 categories: 
   - Health

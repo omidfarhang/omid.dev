@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/25/google-china-trade-shots/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

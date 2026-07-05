@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/12/fake-av-talking-with-the-enemy/
 tags:
   - Malware
-  - news
+  - News
   - phishing
   - rogue software
   - scam

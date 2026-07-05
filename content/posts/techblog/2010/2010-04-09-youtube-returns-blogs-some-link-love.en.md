@@ -8,7 +8,7 @@ tags:
   - BLOGS
   - Google
   - link
-  - news
+  - News
   - Video
   - YouTube
 

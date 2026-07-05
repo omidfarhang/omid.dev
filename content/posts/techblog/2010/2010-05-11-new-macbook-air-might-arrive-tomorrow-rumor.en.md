@@ -9,7 +9,7 @@ tags:
   - ipad
   - MacBook
   - MacBook Air
-  - news
+  - News
 
 categories:
   - TechBlog

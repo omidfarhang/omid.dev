@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/09/denial-of-availability-and-uk-anti-piracy-law/
 tags:
-  - news
+  - News
   - report
 
 categories:

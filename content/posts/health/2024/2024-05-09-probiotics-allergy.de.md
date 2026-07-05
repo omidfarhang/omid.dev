@@ -6,10 +6,10 @@ author_profile: true
 url: 2024/09/10/wie-probiotika-bei-allergien-helfen/
 shortlink: https://g.omid.dev/ZyCBTte
 tags:
-  - Präbiotika
-  - Probiotika
-  - Postbiotika
-  - Allergien
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
+  - Allergies
 
 categories: 
   - Health

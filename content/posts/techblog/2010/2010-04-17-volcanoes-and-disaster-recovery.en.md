@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/17/volcanoes-and-disaster-recovery/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

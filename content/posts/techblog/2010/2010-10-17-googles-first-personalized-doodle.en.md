@@ -7,7 +7,7 @@ url: 2010/10/17/googles-first-personalized-doodle/
 tags:
   - Google
   - Interesting
-  - news
+  - News
 
 categories:
   - TechBlog

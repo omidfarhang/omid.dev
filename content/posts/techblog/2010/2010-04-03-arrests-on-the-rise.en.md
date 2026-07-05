@@ -7,7 +7,7 @@ url: 2010/04/03/arrests-on-the-rise/
 tags:
   - Facebook
   - hack
-  - news
+  - News
   - rogue software
   - Twitter
   - Security

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/12/interview-with-a-nigerian-419-scammer/
 tags:
   - advice
-  - news
+  - News
   - phishing
   - scam
   - spam

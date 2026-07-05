@@ -7,7 +7,7 @@ url: 2010/10/22/creating-stronger-privacy-controls-inside-google/
 tags:
   - Google
   - Google privacy
-  - news
+  - News
   - privacy
 
 categories:

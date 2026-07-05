@@ -7,7 +7,7 @@ url: 2010/11/06/steve-ballmer-sells-1-3-billion-worth-of-microsoft-shares/
 tags:
   - business
   - Microsoft
-  - news
+  - News
   - Steve Ballmer
   - Data & AI
 

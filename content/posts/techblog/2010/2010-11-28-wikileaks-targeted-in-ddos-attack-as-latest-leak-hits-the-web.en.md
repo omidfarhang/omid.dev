@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/28/wikileaks-targeted-in-ddos-attack-as-latest-leak-hits-the-web/
 tags:
   - attack
-  - news
+  - News
   - WikiLeaks
 
 categories:

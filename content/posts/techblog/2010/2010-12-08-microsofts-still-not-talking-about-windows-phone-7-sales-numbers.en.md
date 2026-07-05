@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - report
   - Windows
-  - windows Mobile
+  - Windows Mobile
 
 categories:
   - TechBlog

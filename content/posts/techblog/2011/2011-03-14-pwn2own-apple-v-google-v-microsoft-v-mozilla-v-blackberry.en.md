@@ -7,7 +7,7 @@ url: 2011/03/14/pwn2own-apple-v-google-v-microsoft-v-mozilla-v-blackberry/
 tags:
   - Apple
   - BlackBerry
-  - Browser
+  - Browsers
   - Firefox
   - Google
   - Google Chrome

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/01/08/chrome-17-enters-beta-improves-speed-and-security/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Updates

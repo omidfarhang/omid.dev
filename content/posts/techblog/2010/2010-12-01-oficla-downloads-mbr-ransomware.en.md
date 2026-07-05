@@ -9,7 +9,7 @@ tags:
   - alert
   - Hardware
   - Malware
-  - news
+  - News
   - report
   - review
   - Security

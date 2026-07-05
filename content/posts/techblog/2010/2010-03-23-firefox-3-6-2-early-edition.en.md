@@ -7,7 +7,7 @@ url: 2010/03/23/firefox-3-6-2-early-edition/
 tags:
   - advice
   - alert
-  - Browser
+  - Browsers
   - Firefox
   - Updates
   - Security

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/14/twitter-announces-user-streams-to-make-apps-real-time/
 tags:
-  - news
+  - News
   - social networking
   - Twitter
 

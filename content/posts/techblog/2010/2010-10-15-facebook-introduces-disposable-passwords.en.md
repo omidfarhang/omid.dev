@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Facebook
   - Hijack
-  - news
+  - News
   - Password
   - Security
   - social networking

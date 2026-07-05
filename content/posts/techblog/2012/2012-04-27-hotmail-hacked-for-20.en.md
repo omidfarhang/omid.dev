@@ -7,7 +7,7 @@ url: 2012/04/27/hotmail-hacked-for-20/
 tags:
   - hack
   - Hotmail
-  - news
+  - News
   - report
   - Security
 

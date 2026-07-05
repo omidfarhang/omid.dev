@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/11/google-to-buy-search-engine-aardvark/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

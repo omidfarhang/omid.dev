@@ -6,9 +6,9 @@ author_profile: true
 url: 2024/09/10/prebiotics-probiotics-postbiotics/
 shortlink: https://g.omid.dev/AXOTDAQ
 tags:
-  - پری‌بیوتیک
-  - پروبیوتیک
-  - پست‌بیوتیک
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
 
 categories: 
   - Health

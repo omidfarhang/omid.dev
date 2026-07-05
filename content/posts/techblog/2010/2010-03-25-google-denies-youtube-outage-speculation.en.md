@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/25/google-denies-youtube-outage-speculation/
 tags:
   - Google
-  - news
+  - News
   - YouTube
 
 categories:

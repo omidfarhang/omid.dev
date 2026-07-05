@@ -9,7 +9,7 @@ tags:
   - Google
   - Google Chrome
   - google chrome Web Store
-  - news
+  - News
 
 categories:
   - TechBlog

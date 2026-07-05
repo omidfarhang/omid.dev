@@ -7,7 +7,7 @@ url: 2012/04/15/sabpab-new-mac-os-x-backdoor-trojan-horse-discovered/
 tags:
   - Mac OS X
   - Malware
-  - news
+  - News
   - report
   - Security
 

@@ -8,7 +8,7 @@ tags:
   - advice
   - alert
   - Microsoft
-  - news
+  - News
   - Patch Tuesday
   - Updates
   - Security

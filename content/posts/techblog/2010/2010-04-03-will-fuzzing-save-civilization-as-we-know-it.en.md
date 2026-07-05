@@ -6,10 +6,10 @@ author_profile: true
 url: 2010/04/03/will-fuzzing-save-civilization-as-we-know-it/
 tags:
   - Apple
-  - Browser
+  - Browsers
   - Firefox
   - Microsoft
-  - news
+  - News
   - report
 
 categories:

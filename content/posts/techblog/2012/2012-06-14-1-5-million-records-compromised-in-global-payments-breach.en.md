@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/06/14/1-5-million-records-compromised-in-global-payments-breach/
 tags:
   - hack
-  - news
+  - News
   - report
   - Security
 

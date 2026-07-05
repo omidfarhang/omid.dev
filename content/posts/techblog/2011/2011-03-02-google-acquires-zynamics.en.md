@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/02/google-acquires-zynamics/
 tags:
   - Google
-  - news
+  - News
   - Security
   - Zynamics
 

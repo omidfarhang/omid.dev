@@ -11,7 +11,7 @@ tags:
   - Google Chrome
   - ipad
   - iphone
-  - news
+  - News
 
 categories:
   - TechBlog

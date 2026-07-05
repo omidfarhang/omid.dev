@@ -7,7 +7,7 @@ url: 2012/07/19/aguilera-hacker-stole-my-feeling-of-security/
 tags:
   - celeb
   - hack
-  - news
+  - News
   - Security
 
 categories:

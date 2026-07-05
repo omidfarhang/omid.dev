@@ -9,7 +9,7 @@ tags:
   - Firefox
   - Firefox 4.0
   - Mozilla
-  - news
+  - News
   - Updates
 
 categories:

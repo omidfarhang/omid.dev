@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/06/goodbye-btjunkie/
 tags:
-  - news
+  - News
   - Torrent
 
 categories:

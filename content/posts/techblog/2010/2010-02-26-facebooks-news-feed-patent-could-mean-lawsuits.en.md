@@ -7,7 +7,7 @@ url: 2010/02/26/facebooks-news-feed-patent-could-mean-lawsuits/
 tags:
   - AOL
   - Facebook
-  - news
+  - News
   - social networking
   - Twitter
 

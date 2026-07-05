@@ -6,8 +6,7 @@ author_profile: true
 url: 2010/12/08/internet-explorer-9-will-feature-do-not-track-functionality/
 tags:
   - Internet Explorer
-  - internet explorer 9
-  - news
+  - News
 
 categories:
   - TechBlog

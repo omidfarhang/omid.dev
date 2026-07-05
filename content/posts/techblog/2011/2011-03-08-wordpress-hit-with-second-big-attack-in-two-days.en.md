@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/08/wordpress-hit-with-second-big-attack-in-two-days/
 tags:
   - attack
-  - news
+  - News
   - report
   - review
   - WordPress

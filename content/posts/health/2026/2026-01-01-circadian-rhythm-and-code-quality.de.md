@@ -7,11 +7,11 @@ author_profile: true
 url: 2026/01/01/circadian-rhythm-and-code-quality/
 shortlink: https://g.omid.dev/W7gzEvk
 tags:
-  - Gesundheit
-  - Produktivität
-  - Zirkadianer Rhythmus
-  - Entwickler-Wellness
-  - Biologie
+  - Health
+  - Productivity
+  - Circadian Rhythm
+  - Developer Wellness
+  - Biology
 
 categories: 
   - Health

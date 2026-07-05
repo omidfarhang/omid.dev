@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Microsoft
   - microsoft office 2010
-  - news
+  - News
   - Office
 
 categories:

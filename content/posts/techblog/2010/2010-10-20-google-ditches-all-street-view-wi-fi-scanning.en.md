@@ -7,7 +7,7 @@ url: 2010/10/20/google-ditches-all-street-view-wi-fi-scanning/
 tags:
   - Google
   - Google privacy
-  - news
+  - News
   - privacy
   - StreetView
   - WiFi

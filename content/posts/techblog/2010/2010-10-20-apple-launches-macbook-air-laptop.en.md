@@ -7,7 +7,7 @@ url: 2010/10/20/apple-launches-macbook-air-laptop/
 tags:
   - Apple
   - MacBook Air
-  - news
+  - News
   - report
 
 categories:

@@ -6,10 +6,10 @@ author_profile: true
 url: 2012/02/07/introducing-chrome-for-android/
 tags:
   - Android
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
-  - news
+  - News
 
 categories:
   - TechBlog

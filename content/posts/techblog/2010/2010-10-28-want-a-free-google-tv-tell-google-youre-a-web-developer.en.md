@@ -7,7 +7,7 @@ url: 2010/10/28/want-a-free-google-tv-tell-google-youre-a-web-developer/
 tags:
   - Google
   - Google TV
-  - news
+  - News
   - promo
 
 categories:

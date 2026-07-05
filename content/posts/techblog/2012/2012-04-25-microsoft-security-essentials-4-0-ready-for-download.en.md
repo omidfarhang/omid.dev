@@ -7,7 +7,7 @@ url: 2012/04/25/microsoft-security-essentials-4-0-ready-for-download/
 tags:
   - Announcement
   - Microsoft
-  - security essnetials
+  - Security Essentials
   - Updates
 
 categories:

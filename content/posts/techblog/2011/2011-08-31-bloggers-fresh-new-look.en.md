@@ -9,7 +9,7 @@ tags:
   - Blogging
   - BLOGS
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

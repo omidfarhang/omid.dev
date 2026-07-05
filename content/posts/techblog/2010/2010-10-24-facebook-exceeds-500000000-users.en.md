@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/24/facebook-exceeds-500000000-users/
 tags:
   - Facebook
-  - news
+  - News
   - report
   - social networking
 

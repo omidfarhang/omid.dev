@@ -10,7 +10,7 @@ tags:
   - ipad
   - iphone
   - iphone os
-  - news
+  - News
 
 categories:
   - TechBlog

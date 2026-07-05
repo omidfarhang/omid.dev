@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/05/25/google-releases-security-update-for-chrome-19/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - software

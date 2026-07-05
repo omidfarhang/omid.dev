@@ -7,10 +7,10 @@ url: 2023/01/10/end-of-microsoft-windows-7-security-updates-since-jan10/
 shortlink: https://g.omid.dev/X4Y3lRF
 tags:
   - Security
-  - microsoft
-  - windows
+  - Microsoft
+  - Windows
   - eol
-  - windows 10
+  - Windows 10
 
 categories:
   - TechBlog

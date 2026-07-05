@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/04/the-internet-as-a-moral-ground/
 tags:
-  - news
+  - News
   - review
 
 categories:

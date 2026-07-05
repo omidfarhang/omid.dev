@@ -21,8 +21,8 @@ tags:
   - Arch Linux
   - oh my zsh
   - Ubuntu
-  - Cursor
-  - vscode
+  - Cursor IDE
+  - VS Code
   - zsh
   - Linux
 

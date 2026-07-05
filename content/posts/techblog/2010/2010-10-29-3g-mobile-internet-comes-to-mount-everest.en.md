@@ -9,7 +9,7 @@ tags:
   - Announcement
   - internet
   - Mobile
-  - news
+  - News
 
 categories:
   - TechBlog

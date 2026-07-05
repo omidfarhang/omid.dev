@@ -6,9 +6,9 @@ author_profile: true
 url: 2011/06/03/microsoft-standalone-system-sweeper/
 tags:
   - Microsoft
-  - news
+  - News
   - Security
-  - security essnetials
+  - Security Essentials
 
 categories:
   - TechBlog

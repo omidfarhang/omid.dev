@@ -7,7 +7,7 @@ url: 2010/01/24/adobe-flash-10-1-will-get-private-browsing-mode/
 tags:
   - Adobe
   - Google Chrome
-  - news
+  - News
 
 categories:
   - TechBlog

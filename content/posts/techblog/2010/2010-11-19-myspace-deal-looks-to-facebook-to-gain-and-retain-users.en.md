@@ -7,7 +7,7 @@ url: 2010/11/19/myspace-deal-looks-to-facebook-to-gain-and-retain-users/
 tags:
   - Facebook
   - MySpace
-  - news
+  - News
   - report
   - social networking
 

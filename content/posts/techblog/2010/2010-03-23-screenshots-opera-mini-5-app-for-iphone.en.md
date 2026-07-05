@@ -7,7 +7,7 @@ url: 2010/03/23/screenshots-opera-mini-5-app-for-iphone/
 tags:
   - Apple
   - iphone
-  - news
+  - News
   - Opera
 
 categories:

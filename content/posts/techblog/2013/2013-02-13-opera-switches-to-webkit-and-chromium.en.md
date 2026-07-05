@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 url: 2013/02/13/opera-switches-to-webkit-and-chromium/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
-  - news
+  - News
   - Opera
   - WebKit
 

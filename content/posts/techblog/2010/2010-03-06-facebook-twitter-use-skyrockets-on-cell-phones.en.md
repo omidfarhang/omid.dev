@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/06/facebook-twitter-use-skyrockets-on-cell-phones/
 tags:
   - Facebook
-  - news
+  - News
   - social networking
   - Twitter
 

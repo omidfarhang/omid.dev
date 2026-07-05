@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/03/are-you-reading-this-with-internet-explorer-version-6/
 tags:
   - advice
-  - Browser
+  - Browsers
   - Firefox
   - Internet Explorer
 

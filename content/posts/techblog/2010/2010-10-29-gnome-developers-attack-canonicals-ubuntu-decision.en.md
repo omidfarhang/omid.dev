@@ -8,7 +8,7 @@ tags:
   - Canonical
   - gnome
   - Linux
-  - news
+  - News
   - Ubuntu
 
 categories:

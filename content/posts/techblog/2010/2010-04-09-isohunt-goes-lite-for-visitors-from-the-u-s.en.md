@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/09/isohunt-goes-lite-for-visitors-from-the-u-s/
 tags:
-  - news
+  - News
   - Torrent
   - Yahoo
 

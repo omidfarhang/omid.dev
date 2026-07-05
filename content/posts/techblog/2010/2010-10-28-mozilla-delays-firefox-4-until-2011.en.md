@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/28/mozilla-delays-firefox-4-until-2011/
 tags:
   - Beta
-  - Browser
+  - Browsers
   - Firefox
   - Firefox 4.0
   - Mozilla

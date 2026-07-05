@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/12/big-safari-fix/
 tags:
   - Apple
-  - Browser
+  - Browsers
   - Firefox
   - Updates
   - Vulnerability

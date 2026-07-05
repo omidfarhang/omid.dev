@@ -7,9 +7,8 @@ url: 2010/05/04/gmail-gets-its-name-back-in-the-uk/
 tags:
   - gmail
   - Google
-  - Googlemail
   - Mail
-  - news
+  - News
   - UK
 
 categories:

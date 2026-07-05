@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/27/local-trends-comes-to-twitter/
 tags:
-  - news
+  - News
   - social networking
   - Twitter
 

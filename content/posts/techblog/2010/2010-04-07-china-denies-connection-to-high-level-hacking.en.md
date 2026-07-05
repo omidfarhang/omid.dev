@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/07/china-denies-connection-to-high-level-hacking/
 tags:
   - hack
-  - news
+  - News
   - report
   - review
   - Security

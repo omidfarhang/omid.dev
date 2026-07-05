@@ -8,7 +8,7 @@ tags:
   - Apple
   - iphone
   - Mobile
-  - news
+  - News
   - Security
 
 categories:

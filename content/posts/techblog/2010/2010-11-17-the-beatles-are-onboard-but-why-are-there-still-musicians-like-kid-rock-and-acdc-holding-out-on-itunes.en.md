@@ -7,7 +7,7 @@ url: 2010/11/17/the-beatles-are-onboard-but-why-are-there-still-musicians-like-k
 tags:
   - Apple
   - itunes
-  - music
+  - Music
   - review
 
 categories:

@@ -14,7 +14,6 @@ url: 2026/05/29/how-to-install-cursor-ide-in-manjaro/
 tags:
   - Manjaro
   - Arch Linux
-  - Cursor
   - Cursor IDE
   - Linux
   - AppImage

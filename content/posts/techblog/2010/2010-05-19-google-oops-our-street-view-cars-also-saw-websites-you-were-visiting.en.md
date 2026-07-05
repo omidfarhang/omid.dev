@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/19/google-oops-our-street-view-cars-also-saw-websites-you-were-visiting/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

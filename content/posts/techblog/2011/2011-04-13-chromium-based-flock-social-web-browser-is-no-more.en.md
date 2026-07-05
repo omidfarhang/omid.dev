@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/04/13/chromium-based-flock-social-web-browser-is-no-more/
 tags:
   - advice
-  - Browser
+  - Browsers
   - Flock
   - report
 

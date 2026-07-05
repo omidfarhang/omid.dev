@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 url: 2011/12/17/internet-explorer-to-upgrade-automatically-unless-you-say-no/
 tags:
-  - Browser
+  - Browsers
   - Internet Explorer
   - Microsoft
-  - news
+  - News
   - Updates
 
 categories:

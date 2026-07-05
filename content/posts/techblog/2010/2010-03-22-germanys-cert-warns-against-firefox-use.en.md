@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/22/germanys-cert-warns-against-firefox-use/
 tags:
   - Firefox
-  - news
+  - News
   - Vulnerability
 
 categories:

@@ -9,9 +9,9 @@ tags:
   - Apple
   - Creative Suite
   - Dreamweaver
-  - Illstrator
+  - Illustrator
   - InDesign
-  - news
+  - News
   - Photoshop
   - Premiere
   - Updates

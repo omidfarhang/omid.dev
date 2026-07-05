@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/24/myspace-moves-against-apps-who-share-user-data/
 tags:
   - MySpace
-  - news
+  - News
   - privacy
   - social networking
 

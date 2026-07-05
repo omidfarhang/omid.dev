@@ -7,7 +7,7 @@ author_profile: true
 url: 2005/02/10/firefox-1-0-and-the-second-browser-on-your-pc/
 tags:
   - Firefox
-  - Browser
+  - Browsers
   - Windows
   - Security
 

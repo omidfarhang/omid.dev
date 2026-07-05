@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/20/new-hacked-site-notifications-in-search-results/
 tags:
   - Google
-  - news
+  - News
   - Search
   - Security
 

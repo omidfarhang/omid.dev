@@ -11,7 +11,7 @@ tags:
   - Google
   - iphone
   - Microsoft
-  - news
+  - News
   - report
   - Data & AI
 

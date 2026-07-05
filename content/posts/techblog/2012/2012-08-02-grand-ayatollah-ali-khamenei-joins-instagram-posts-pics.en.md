@@ -7,7 +7,7 @@ url: 2012/08/02/grand-ayatollah-ali-khamenei-joins-instagram-posts-pics/
 tags:
   - Instagram
   - Iran
-  - news
+  - News
   - Twitter
 
 categories:

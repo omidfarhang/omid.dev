@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/27/ms-office-2010-rtm-final-build-14-0-4734-1000-escrow-release/
 tags:
   - Microsoft
-  - news
+  - News
   - Updates
 
 categories:

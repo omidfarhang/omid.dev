@@ -8,7 +8,7 @@ tags:
   - Apple
   - Interesting
   - ipad
-  - news
+  - News
   - obama
 
 categories:

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/13/real-life-mafia-wars-spy-eye-tool-kit-goes-after-zeus-botnet/
 tags:
   - alert
-  - news
+  - News
   - report
   - Security
 

@@ -8,7 +8,7 @@ tags:
   - Announcement
   - gmail
   - Google
-  - news
+  - News
   - offline
   - suggestion
 

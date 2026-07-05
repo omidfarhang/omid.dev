@@ -7,7 +7,7 @@ url: 2012/02/23/youporn-passwords-available-for-download-thousands-of-users-expo
 tags:
   - alert
   - hack
-  - news
+  - News
   - Password
   - report
   - Security

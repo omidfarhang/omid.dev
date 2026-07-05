@@ -7,7 +7,7 @@ url: 2020/05/16/all-these-years-static-x/
 shortlink: https://g.omid.dev/ITI6Q
 image: /wp-content/uploads/2020/05/Wayne-Static-1024x683.jpg
 tags:
-  - music
+  - Music
   - Music Video
   - Static-X
   - Wayne Static

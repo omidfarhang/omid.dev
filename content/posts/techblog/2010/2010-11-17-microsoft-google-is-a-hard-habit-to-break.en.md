@@ -7,7 +7,7 @@ url: 2010/11/17/microsoft-google-is-a-hard-habit-to-break/
 tags:
   - Google
   - Microsoft
-  - news
+  - News
   - report
 
 categories:

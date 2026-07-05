@@ -5,8 +5,7 @@ layout: single
 author_profile: true
 url: 2013/02/26/internet-explorer-10-for-windows-7-download-links/
 tags:
-  - Browser
-  - IE10
+  - Browsers
   - Internet Explorer
   - Microsoft
 

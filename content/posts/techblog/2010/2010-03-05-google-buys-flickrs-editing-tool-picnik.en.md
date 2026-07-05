@@ -7,7 +7,7 @@ url: 2010/03/05/google-buys-flickrs-editing-tool-picnik/
 tags:
   - Android
   - Google
-  - news
+  - News
   - Yahoo
 
 categories:

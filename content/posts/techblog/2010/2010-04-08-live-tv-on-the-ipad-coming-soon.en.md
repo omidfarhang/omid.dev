@@ -8,7 +8,7 @@ tags:
   - Apple
   - ipad
   - Live TV
-  - news
+  - News
 
 categories:
   - TechBlog

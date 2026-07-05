@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/22/the-browser-choice-reloaded/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Google Chrome
   - Internet Explorer

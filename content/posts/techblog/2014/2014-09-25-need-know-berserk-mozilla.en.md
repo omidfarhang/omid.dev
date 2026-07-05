@@ -6,7 +6,7 @@ author_profile: true
 url: 2014/09/25/need-know-berserk-mozilla/
 shortlink: https://g.omid.dev/212WQIC
 tags:
-  - browsers
+  - Browsers
   - Google
   - hack
   - Mozilla

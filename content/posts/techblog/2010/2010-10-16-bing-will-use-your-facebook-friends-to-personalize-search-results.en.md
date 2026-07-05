@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Bing
   - Facebook
-  - news
+  - News
   - Search
 
 categories:

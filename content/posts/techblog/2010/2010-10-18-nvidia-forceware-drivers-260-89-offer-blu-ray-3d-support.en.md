@@ -7,7 +7,7 @@ url: 2010/10/18/nvidia-forceware-drivers-260-89-offer-blu-ray-3d-support/
 tags:
   - 3D
   - driver
-  - news
+  - News
   - nvidia
   - Updates
 

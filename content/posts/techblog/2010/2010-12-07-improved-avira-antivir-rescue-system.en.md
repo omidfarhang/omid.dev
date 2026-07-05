@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/07/improved-avira-antivir-rescue-system/
 tags:
   - Avira
-  - news
+  - News
   - Security
   - Updates
 

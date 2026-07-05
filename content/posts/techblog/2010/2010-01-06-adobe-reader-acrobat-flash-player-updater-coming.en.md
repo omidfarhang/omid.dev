@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/06/adobe-reader-acrobat-flash-player-updater-coming/
 tags:
-  - news
+  - News
   - Patch Tuesday
   - report
 

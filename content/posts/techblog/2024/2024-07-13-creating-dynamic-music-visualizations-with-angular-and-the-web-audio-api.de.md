@@ -8,10 +8,10 @@ shortlink: https://g.omid.dev/1bp3eNE
 tags:
   - Angular
   - WebAudio API
-  - Musikvisualisierung
+  - Music Visualization
   - Frontend
   - JavaScript
-  - Webentwicklung
+  - Web Development
   - HTML5 Canvas
 
 categories:

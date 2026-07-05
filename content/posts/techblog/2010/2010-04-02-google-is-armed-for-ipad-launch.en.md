@@ -8,7 +8,7 @@ tags:
   - Apple
   - Google
   - ipad
-  - news
+  - News
   - YouTube
 
 categories:

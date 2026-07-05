@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/09/google-is-globally-switching-its-search-to-https-by-default/
 tags:
   - Google
-  - news
+  - News
   - SSL
 
 categories:

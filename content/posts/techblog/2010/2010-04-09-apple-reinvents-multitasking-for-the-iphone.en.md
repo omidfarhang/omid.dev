@@ -9,7 +9,7 @@ tags:
   - Apple
   - iphone
   - iphone os
-  - news
+  - News
   - Skype
   - steve jobs
 

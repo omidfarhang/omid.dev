@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 url: 2012/02/07/google-plans-to-turn-off-online-checks-for-ssl-certificate-validity/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
-  - news
+  - News
   - SSL
 
 categories:

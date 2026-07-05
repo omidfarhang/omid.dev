@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Facebook
   - Jumo
-  - news
+  - News
   - social networking
 
 categories:

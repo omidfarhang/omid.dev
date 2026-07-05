@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/21/244000-germans-opt-out-of-google-mapping-service/
 tags:
   - Google
-  - news
+  - News
   - privacy
   - StreetView
 

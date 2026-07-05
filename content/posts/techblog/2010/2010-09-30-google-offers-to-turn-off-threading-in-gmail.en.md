@@ -7,7 +7,7 @@ url: 2010/09/30/google-offers-to-turn-off-threading-in-gmail/
 tags:
   - gmail
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

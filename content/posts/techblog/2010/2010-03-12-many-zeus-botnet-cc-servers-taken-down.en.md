@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/12/many-zeus-botnet-cc-servers-taken-down/
 tags:
   - Malware
-  - news
+  - News
   - Security
 
 categories:

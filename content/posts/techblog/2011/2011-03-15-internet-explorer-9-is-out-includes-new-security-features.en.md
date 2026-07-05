@@ -6,7 +6,6 @@ author_profile: true
 url: 2011/03/15/internet-explorer-9-is-out-includes-new-security-features/
 tags:
   - Internet Explorer
-  - internet explorer 9
   - Microsoft
   - Updates
 

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/22/reuters-google-says-its-cars-grabbed-email-and-passwords/
 tags:
   - Google
-  - news
+  - News
   - privacy
   - StreetView
   - WiFi

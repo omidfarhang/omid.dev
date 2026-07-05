@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/08/16/german-federal-office-for-information-security-warns-of-hacked-online-shops/
 tags:
-  - Browser
+  - Browsers
   - Germany
   - phishing
   - report

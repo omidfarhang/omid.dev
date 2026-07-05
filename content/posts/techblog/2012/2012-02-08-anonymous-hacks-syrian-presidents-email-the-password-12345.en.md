@@ -7,7 +7,7 @@ url: 2012/02/08/anonymous-hacks-syrian-presidents-email-the-password-12345/
 tags:
   - Anonymous
   - hack
-  - news
+  - News
   - Password
   - report
   - worlds news

@@ -11,7 +11,6 @@ tags:
   - Chaos Engineering
   - System Resilience
   - Frontend
-  - Chaos Testing
 categories:
   - TechBlog
 series:

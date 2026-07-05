@@ -7,7 +7,7 @@ url: 2010/05/11/virtualization-and-the-cloud-team-up-vmware-with-salesforce-com/
 tags:
   - Cloud
   - Cloud Computing
-  - news
+  - News
   - Virtualization
   - VMware
 

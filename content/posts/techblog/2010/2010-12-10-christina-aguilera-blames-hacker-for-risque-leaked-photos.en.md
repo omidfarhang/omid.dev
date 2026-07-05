@@ -8,7 +8,7 @@ tags:
   - celeb
   - hack
   - leak
-  - news
+  - News
   - report
   - Security
 

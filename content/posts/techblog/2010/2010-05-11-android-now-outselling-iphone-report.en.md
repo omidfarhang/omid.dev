@@ -9,7 +9,7 @@ tags:
   - Apple
   - BlackBerry
   - Google
-  - news
+  - News
   - report
   - Smartphone
   - trending

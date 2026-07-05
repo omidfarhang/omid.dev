@@ -7,7 +7,7 @@ url: 2010/05/11/facebook-adding-location-features-this-month-report/
 tags:
   - Facebook
   - locations
-  - news
+  - News
   - report
   - trending
 

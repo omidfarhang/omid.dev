@@ -7,7 +7,7 @@ url: 2010/01/27/google-media-player-under-development/
 tags:
   - Google
   - Google Chrome
-  - news
+  - News
 
 categories:
   - TechBlog

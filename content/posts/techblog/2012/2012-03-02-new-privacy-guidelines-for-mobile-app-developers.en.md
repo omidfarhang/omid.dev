@@ -8,7 +8,7 @@ tags:
   - Mobile
   - mobile applications
   - mobile apps
-  - news
+  - News
   - privacy
   - report
   - review

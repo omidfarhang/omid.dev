@@ -9,7 +9,7 @@ tags:
   - Android
   - iphone
   - Mobile
-  - news
+  - News
   - Skype
 
 categories:

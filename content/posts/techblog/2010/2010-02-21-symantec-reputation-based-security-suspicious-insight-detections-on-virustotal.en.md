@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/02/21/symantec-reputation-based-security-suspicious-insight-detections-on-virustotal/
 tags:
-  - news
+  - News
   - report
   - review
   - VirusTotal

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/03/01/https-everywhere-reaches-2-0-comes-to-chrome-as-beta/
 tags:
-  - Browser
+  - Browsers
   - Extension
   - Security
   - SSL

@@ -8,7 +8,7 @@ tags:
   - Android
   - Announcement
   - Microsoft
-  - news
+  - News
   - Office
 
 categories:

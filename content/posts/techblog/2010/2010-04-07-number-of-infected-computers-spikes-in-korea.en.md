@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/07/number-of-infected-computers-spikes-in-korea/
 tags:
   - Malware
-  - news
+  - News
   - report
   - Security
 

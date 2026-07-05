@@ -6,9 +6,9 @@ author_profile: true
 url: 2024/09/10/probiotika-im-wandel-der-zeit/
 shortlink: https://g.omid.dev/HPVEWYW
 tags:
-  - Präbiotika
-  - Probiotika
-  - Postbiotika
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
 
 categories: 
   - Health

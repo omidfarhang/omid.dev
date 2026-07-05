@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/08/16/internet-explorer-turns-15/
 tags:
-  - Browser
+  - Browsers
   - Internet Explorer
   - Microsoft
 

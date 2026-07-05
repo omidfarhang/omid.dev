@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/13/apples-safari-browser-embarrassed-at-pwn2own-hacked-in-5-seconds/
 tags:
   - Apple
-  - Browser
+  - Browsers
   - Pwn2Own
   - Safari
   - Security

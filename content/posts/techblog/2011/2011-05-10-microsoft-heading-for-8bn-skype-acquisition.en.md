@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/05/10/microsoft-heading-for-8bn-skype-acquisition/
 tags:
-  - alanyze
+  - analyze
   - business
   - Microsoft
   - Skype

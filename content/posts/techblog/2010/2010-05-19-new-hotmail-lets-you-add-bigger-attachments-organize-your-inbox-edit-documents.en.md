@@ -8,7 +8,7 @@ tags:
   - Hotmail
   - Mail
   - Microsoft
-  - news
+  - News
 
 categories:
   - TechBlog

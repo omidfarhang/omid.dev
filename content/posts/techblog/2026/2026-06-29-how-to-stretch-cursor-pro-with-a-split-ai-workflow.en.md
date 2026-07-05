@@ -11,7 +11,6 @@ mastodon_link: https://mastodon.social/@omidfarhang/116832657718683055
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mpg5vcgjfk2b
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_how-to-stretch-cursor-pro-further-a-split-share-7477290595409874944-fSjh/
 tags:
-  - Cursor
   - Cursor IDE
   - AI Tools
   - Ollama

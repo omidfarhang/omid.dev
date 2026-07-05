@@ -7,7 +7,7 @@ url: 2010/10/22/zynga-sued-in-privacy-breach-controversy/
 tags:
   - Facebook
   - Facebook Privacy
-  - news
+  - News
   - privacy
   - Zynga
   - Security

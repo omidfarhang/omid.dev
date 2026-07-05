@@ -9,7 +9,7 @@ tags:
   - Firefox
   - Google
   - Google Chrome
-  - news
+  - News
   - YouTube
 
 categories:

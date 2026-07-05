@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/22/google-quits-censoring-search-in-china/
 tags:
   - Google
-  - news
+  - News
   - YouTube
 
 categories:

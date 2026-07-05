@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/14/library-of-congress-to-preserve-tweets-for-eternity/
 tags:
   - Library of Congress
-  - news
+  - News
   - Twitter
 
 categories:

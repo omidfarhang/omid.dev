@@ -7,7 +7,7 @@ url: 2010/10/24/microsoft-ceo-next-windows-release-is-riskiest-product-bet/
 tags:
   - 3D
   - Microsoft
-  - news
+  - News
   - report
   - Steve Ballmer
   - Video

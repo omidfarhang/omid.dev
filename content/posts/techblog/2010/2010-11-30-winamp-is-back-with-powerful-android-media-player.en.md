@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/30/winamp-is-back-with-powerful-android-media-player/
 tags:
   - Android
-  - music
+  - Music
   - software
   - Updates
   - Winamp

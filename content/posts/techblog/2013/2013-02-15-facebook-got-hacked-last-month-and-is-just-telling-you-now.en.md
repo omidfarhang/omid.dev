@@ -7,7 +7,7 @@ url: 2013/02/15/facebook-got-hacked-last-month-and-is-just-telling-you-now/
 tags:
   - Facebook
   - hack
-  - news
+  - News
   - report
   - Security
 

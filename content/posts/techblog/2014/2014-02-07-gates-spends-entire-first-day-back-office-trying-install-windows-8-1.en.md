@@ -11,7 +11,6 @@ tags:
   - bill gates
   - Windows
   - Windows 8
-  - windows 8.1
 
 categories:
   - TechBlog

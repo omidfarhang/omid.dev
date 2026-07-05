@@ -7,13 +7,13 @@ author_profile: true
 url: 2026/06/01/selbstwartung-fuer-menschen-die-viel-denken/
 shortlink: https://g.omid.dev/Tg9aJdv
 tags:
-  - Gesundheit
-  - Selbstwartung
-  - Alltag
-  - Schlaf
+  - Health
+  - Self-care
+  - Everyday Life
+  - Sleep
   - Routine
-  - Produktivität
-  - Körpergefühl
+  - Productivity
+  - Body Awareness
 
 categories:
   - Health

@@ -10,7 +10,6 @@ tags:
   - Ollama
   - Aider
   - Cline
-  - Cursor
   - Cursor IDE
   - Manjaro
   - Linux

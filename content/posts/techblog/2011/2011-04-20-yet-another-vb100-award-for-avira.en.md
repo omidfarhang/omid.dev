@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Avira
   - awards
-  - news
+  - News
 
 categories:
   - TechBlog

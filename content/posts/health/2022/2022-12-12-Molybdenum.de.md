@@ -6,10 +6,10 @@ author_profile: true
 url: 2022/12/12/molybdaenmangel-ist-sehr-selten-nicht-im-iran/
 shortlink: https://g.omid.dev/EhV4A3B
 tags:
-  - Gesundheit
+  - Health
   - Iran
-  - Mineralien
-  - Lesenswert
+  - minerals
+  - Good Reads
 
 categories: 
   - Health

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/10/16/windows-phone-7-officially-launches-updates/
 tags:
-  - news
+  - News
   - Updates
   - Windows Phone
   - Windows Phone 7

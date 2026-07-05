@@ -7,7 +7,7 @@ url: 2010/09/30/stuxnet-in-the-news/
 tags:
   - Iran
   - Malware
-  - news
+  - News
   - Nuclear
   - Stuxnet
   - trending

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/10/breaking-twitter-acquires-tweetie/
 tags:
   - ipad
-  - news
+  - News
   - trending
   - Twitter
 

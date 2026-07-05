@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/22/google-posts-page-monitoring-chinese-censorship/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

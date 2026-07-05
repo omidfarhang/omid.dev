@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/12/facebook-to-spend-nearly-half-a-billion-dollars-on-new-data-center/
 tags:
   - Facebook
-  - news
+  - News
 
 categories:
   - TechBlog

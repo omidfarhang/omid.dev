@@ -7,7 +7,7 @@ url: 2012/03/13/firefox-11-release-postponed-due-to-security-issues-updated/
 tags:
   - Firefox
   - Mozilla
-  - news
+  - News
   - Security
   - Updates
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/09/12/globalsign-gives-itself-clean-bill-of-health-after-iranian-hackers-braggadocio/
 tags:
-  - news
+  - News
   - report
 
 categories:

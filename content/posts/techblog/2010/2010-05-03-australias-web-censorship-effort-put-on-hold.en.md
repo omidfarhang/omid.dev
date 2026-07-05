@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/03/australias-web-censorship-effort-put-on-hold/
 tags:
-  - news
+  - News
   - Yahoo
 
 categories:

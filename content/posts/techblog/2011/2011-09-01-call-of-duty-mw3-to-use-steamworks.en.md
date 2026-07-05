@@ -7,7 +7,7 @@ url: 2011/09/01/call-of-duty-mw3-to-use-steamworks/
 tags:
   - Announcement
   - Game
-  - news
+  - News
   - report
   - Steam
 

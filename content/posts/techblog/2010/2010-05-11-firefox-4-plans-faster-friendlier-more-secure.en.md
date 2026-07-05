@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/11/firefox-4-plans-faster-friendlier-more-secure/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Firefox 4.0
 

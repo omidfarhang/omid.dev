@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/08/whats-new-in-chrome-10/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - review

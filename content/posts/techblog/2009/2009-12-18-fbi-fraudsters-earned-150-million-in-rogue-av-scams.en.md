@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/18/fbi-fraudsters-earned-150-million-in-rogue-av-scams/
 shortlink: https://g.omid.dev/1WRItpb
 tags:
-  - news
+  - News
   - report
   - rogue software
   - Security

@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/08/yahoo-chairman-steps-down/
 tags:
   - business
-  - news
+  - News
   - Yahoo
 
 categories:

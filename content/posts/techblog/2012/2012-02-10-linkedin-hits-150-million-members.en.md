@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/10/linkedin-hits-150-million-members/
 tags:
   - LinkedIn
-  - news
+  - News
   - report
   - social networking
 

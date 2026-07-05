@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/12/itunes-store-links-up-with-twitter-via-ping/
 tags:
   - itunes
-  - news
+  - News
   - ping
   - social networking
   - Twitter

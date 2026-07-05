@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/07/adobe-releases-beta-version-of-sandboxed-flash-for-firefox/
 tags:
   - Adobe
-  - Browser
+  - Browsers
   - Firefox
   - flash player
   - plugins

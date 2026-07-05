@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/11/feds-in-u-s-announce-30-convictions-for-143-m-in-counterfeit-cisco-hardware/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

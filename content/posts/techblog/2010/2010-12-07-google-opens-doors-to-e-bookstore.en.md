@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Google
   - Google E-Bookstore
-  - news
+  - News
   - report
   - review
 

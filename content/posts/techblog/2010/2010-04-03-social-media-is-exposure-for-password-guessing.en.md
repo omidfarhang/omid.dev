@@ -7,7 +7,7 @@ url: 2010/04/03/social-media-is-exposure-for-password-guessing/
 tags:
   - advice
   - Facebook
-  - news
+  - News
   - Password
   - social networking
   - Twitter

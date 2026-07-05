@@ -7,7 +7,7 @@ author_profile: true
 url: 2006/01/24/internet-explorer-7-tabs-finally/
 tags:
   - Internet Explorer
-  - Browser
+  - Browsers
   - Windows
   - Security
 

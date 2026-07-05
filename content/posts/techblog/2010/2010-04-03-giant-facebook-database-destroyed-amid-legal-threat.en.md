@@ -7,7 +7,7 @@ url: 2010/04/03/giant-facebook-database-destroyed-amid-legal-threat/
 tags:
   - Apple
   - Facebook
-  - news
+  - News
   - report
   - review
   - social networking

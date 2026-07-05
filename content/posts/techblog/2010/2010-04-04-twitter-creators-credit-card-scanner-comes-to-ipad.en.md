@@ -8,7 +8,7 @@ tags:
   - ipad
   - iPad 3G
   - iphone
-  - news
+  - News
   - Twitter
 
 categories:

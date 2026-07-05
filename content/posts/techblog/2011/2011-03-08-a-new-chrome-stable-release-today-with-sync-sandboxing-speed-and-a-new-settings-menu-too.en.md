@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/08/a-new-chrome-stable-release-today-with-sync-sandboxing-speed-and-a-new-settings-menu-too/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Updates

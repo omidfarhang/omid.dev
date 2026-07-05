@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/v2aiPn3
 tags:
   - Design Systems
   - Web Development
-  - UI/UX Design
+  - UI/UX
   - Frontend
   - JavaScript Frameworks
   - Engineering Leadership

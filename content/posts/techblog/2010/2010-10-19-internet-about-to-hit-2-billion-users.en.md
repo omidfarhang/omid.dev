@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/19/internet-about-to-hit-2-billion-users/
 tags:
   - internet
-  - news
+  - News
   - report
 
 categories:

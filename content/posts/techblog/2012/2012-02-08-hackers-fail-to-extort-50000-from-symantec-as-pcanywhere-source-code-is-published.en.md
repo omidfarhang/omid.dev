@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/08/hackers-fail-to-extort-50000-from-symantec-as-pcanywhere-source-code-is-published/
 tags:
-  - news
+  - News
   - Security
   - symantec
 

@@ -8,7 +8,7 @@ tags:
   - Android
   - Announcement
   - Instagram
-  - news
+  - News
 
 categories:
   - TechBlog

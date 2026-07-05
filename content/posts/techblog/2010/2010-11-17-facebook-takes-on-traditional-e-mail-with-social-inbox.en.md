@@ -7,7 +7,7 @@ url: 2010/11/17/facebook-takes-on-traditional-e-mail-with-social-inbox/
 tags:
   - Facebook
   - Mail
-  - news
+  - News
   - social networking
   - Yahoo
 

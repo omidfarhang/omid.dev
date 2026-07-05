@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 url: 2010/05/19/google-chrome-version-6-in-the-works/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
-  - news
+  - News
 
 categories:
   - TechBlog

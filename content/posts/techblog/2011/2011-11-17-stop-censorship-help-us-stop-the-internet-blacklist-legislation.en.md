@@ -11,7 +11,7 @@ tags:
   - Google
   - internet
   - Mozilla
-  - news
+  - News
   - sopa
   - Security
 

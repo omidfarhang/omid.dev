@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/05/17/chrome-19-released-with-tab-syncing/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - software

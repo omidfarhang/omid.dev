@@ -7,7 +7,7 @@ url: 2010/03/11/wot-has-a-bookmarklet-for-opera-and-safari/
 tags:
   - Firefox
   - Google Chrome
-  - news
+  - News
   - Offer
 
 categories:

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/22/dirty-jokes-by-mobile-phone/
 tags:
-  - news
+  - News
   - report
 
 categories:

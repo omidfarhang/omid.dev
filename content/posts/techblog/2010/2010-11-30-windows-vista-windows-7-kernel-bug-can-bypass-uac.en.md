@@ -12,7 +12,7 @@ tags:
   - Vulnerability
   - Windows
   - Windows 7
-  - windows vista
+  - Windows Vista
 
 categories:
   - TechBlog

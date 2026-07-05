@@ -8,7 +8,7 @@ tags:
   - 3D
   - Adobe
   - Announcement
-  - news
+  - News
   - report
 
 categories:

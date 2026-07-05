@@ -6,8 +6,8 @@ author_profile: true
 url: 2010/10/16/gene-simmons-websites-taken-down-by-hackers/
 tags:
   - hack
-  - music
-  - news
+  - Music
+  - News
   - report
   - Security
 

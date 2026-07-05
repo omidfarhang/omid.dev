@@ -9,7 +9,7 @@ tags:
   - API
   - Google
   - Google Code
-  - news
+  - News
 
 categories:
   - TechBlog

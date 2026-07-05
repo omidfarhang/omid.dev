@@ -7,7 +7,7 @@ url: 2024/06/05/distributed-systems-design-patterns-and-practices/
 shortlink: https://g.omid.dev/XgIgHUV
 tags:
   - Distributed Systems
-  - Microservices Architecture
+  - Microservices
   - Fault Tolerance
   - CAP Theorem
   - Design Patterns

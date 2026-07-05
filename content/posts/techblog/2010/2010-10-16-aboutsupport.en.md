@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Firefox
   - Mozilla
-  - news
+  - News
   - Thunderbird
 
 categories:

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/17/ie9-alleged-to-be-cheating-in-javascript-benchmark/
 tags:
   - Internet Explorer
-  - news
+  - News
   - report
 
 categories:

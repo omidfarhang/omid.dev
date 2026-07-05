@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/19/facebook-says-it-will-make-privacy-settings-easier/
 tags:
   - Facebook
-  - news
+  - News
   - privacy
   - social networking
 

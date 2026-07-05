@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/05/google-wave-gets-email-notifications/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

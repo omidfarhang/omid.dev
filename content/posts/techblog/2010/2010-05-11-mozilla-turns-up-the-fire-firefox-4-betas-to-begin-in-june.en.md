@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Apple
   - Beta
-  - Browser
+  - Browsers
   - Firefox
   - Firefox 4.0
   - Mozilla

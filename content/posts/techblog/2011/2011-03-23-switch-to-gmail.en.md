@@ -7,7 +7,6 @@ url: 2011/03/23/switch-to-gmail/
 tags:
   - gmail
   - Google
-  - Google Mail
 
 categories:
   - TechBlog

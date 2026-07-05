@@ -8,7 +8,7 @@ tags:
   - Adobe
   - Flash
   - HTML5
-  - news
+  - News
 
 categories:
   - TechBlog

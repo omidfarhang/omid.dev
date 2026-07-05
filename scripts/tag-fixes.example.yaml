@@ -1,0 +1,121 @@
+# Copy to tag-fixes.yaml and edit. Used by scripts/fix-post-tags.py
+#
+# Curated homepage tags (hugo.yaml params.homeTechTags*) are protected:
+#   - apply refuses configs that rename curated tags
+#   - scan prefers curated spellings for duplicate suggestions
+#
+#   python3 scripts/fix-post-tags.py scan
+#   python3 scripts/fix-post-tags.py apply --dry-run
+#   python3 scripts/fix-post-tags.py apply
+
+# One-to-one typo fixes and renames.
+replacements:
+  alanyze: analyze
+  Web Disgn: Web Design
+  security essnetials: Security Essentials
+  Illstrator: Illustrator
+  ResponsiveDesign: Responsive Design
+  HighPerformance Web Applications: High-Performance Applications
+
+# Overlapping tags collapsed to one canonical tag per post.
+canonical_groups:
+  - canonical: gmail
+    variants:
+      - gmail
+      - Google Mail
+      - Googlemail
+      - google-mail
+      - googlemail
+
+  - canonical: VS Code
+    variants:
+      - VS Code
+      - vscode
+      - vs-code
+
+  - canonical: Cursor IDE
+    variants:
+      - Cursor
+      - Cursor IDE
+      - cursor ide
+
+  - canonical: Windows 8
+    variants:
+      - Windows 8
+      - windows 8.1
+      - windows-8
+      - Windows-8
+
+  - canonical: Internet Explorer
+    variants:
+      - Internet Explorer
+      - internet explorer
+      - internet explorer 9
+      - internet explorer 10
+      - Internet Explorer 9
+      - Internet Explorer 10
+      - IE10
+      - IE9
+
+  - canonical: UI/UX
+    variants:
+      - UI/UX
+      - UI/UX Design
+      - ui/ux
+      - ui/ux-design
+
+  - canonical: Microservices
+    variants:
+      - Microservices
+      - Microservices Architecture
+      - microservices
+      - microservices architecture
+
+  - canonical: Container Orchestration
+    variants:
+      - Container Orchestration
+      - Advanced Container Orchestration
+      - container orchestration
+      - advanced container orchestration
+
+  - canonical: Chaos Engineering
+    variants:
+      - Chaos Engineering
+      - Chaos Testing
+      - chaos engineering
+      - chaos testing
+
+  - canonical: Troubleshooting
+    variants:
+      - Troubleshooting
+      - Troubleshooting Electronics
+      - troubleshooting
+      - troubleshooting electronics
+
+  - canonical: Responsive Design
+    variants:
+      - Responsive Design
+      - ResponsiveDesign
+      - responsive-design
+      - responsive design
+
+  # Align post tags to hugo.yaml curated homepage spellings (safe for apply).
+  - canonical: React
+    variants:
+      - react
+
+  - canonical: Rust
+    variants:
+      - rust
+
+  - canonical: CSS
+    variants:
+      - css
+
+  - canonical: Career
+    variants:
+      - career
+
+  - canonical: Event-Driven Architecture
+    variants:
+      - Event Driven Architecture

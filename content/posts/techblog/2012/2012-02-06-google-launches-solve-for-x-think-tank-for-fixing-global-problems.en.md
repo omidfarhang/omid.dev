@@ -7,7 +7,7 @@ url: 2012/02/06/google-launches-solve-for-x-think-tank-for-fixing-global-problem
 tags:
   - Announcement
   - Google
-  - news
+  - News
   - report
   - TED
   - Video

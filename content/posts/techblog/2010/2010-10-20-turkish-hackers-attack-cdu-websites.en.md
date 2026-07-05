@@ -7,7 +7,7 @@ url: 2010/10/20/turkish-hackers-attack-cdu-websites/
 tags:
   - Angela Merkel
   - hack
-  - news
+  - News
   - report
   - Security
 

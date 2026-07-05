@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/05/01/chrome-18-update-closes-high-risk-security-holes/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Security

@@ -10,7 +10,7 @@ tags:
   - Google
   - google instant
   - Mobile
-  - news
+  - News
 
 categories:
   - TechBlog

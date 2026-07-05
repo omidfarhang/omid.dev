@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/08/15/firefox-6-released-early/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Mozilla
   - Updates

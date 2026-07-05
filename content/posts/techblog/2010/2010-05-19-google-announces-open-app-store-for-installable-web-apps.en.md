@@ -7,7 +7,7 @@ url: 2010/05/19/google-announces-open-app-store-for-installable-web-apps/
 tags:
   - Announcement
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

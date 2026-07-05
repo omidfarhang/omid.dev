@@ -6,7 +6,7 @@ author_profile: true
 url: 2024/06/04/event-driven-architectures-building-scalable-and-resilient-systems/
 shortlink: https://g.omid.dev/wbHt4md
 tags:
-  - Event Driven Architecture
+  - Event-Driven Architecture
   - EDA
   - Scalable Systems
   - Resilient Design

@@ -7,7 +7,7 @@ url: 2010/10/22/facebook-touts-encryption-as-solution-to-security-flaw/
 tags:
   - Facebook
   - Facebook Privacy
-  - news
+  - News
   - privacy
   - social networking
 

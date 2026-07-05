@@ -7,7 +7,7 @@ url: 2010/11/30/hacker-takes-responsibility-for-wikileaks-takedown/
 tags:
   - attack
   - hack
-  - news
+  - News
   - report
   - Twitter
   - WikiLeaks

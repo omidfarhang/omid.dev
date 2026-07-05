@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/06/14/opera-12-has-been-released/
 tags:
-  - Browser
+  - Browsers
   - Opera
   - software
   - Updates

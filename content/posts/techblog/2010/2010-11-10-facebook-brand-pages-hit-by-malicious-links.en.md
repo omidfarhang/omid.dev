@@ -7,7 +7,7 @@ url: 2010/11/10/facebook-brand-pages-hit-by-malicious-links/
 tags:
   - Facebook
   - facebook phishing
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/12/17/are-you-ready-for-opera-11/
 tags:
-  - Browser
+  - Browsers
   - Opera
   - software
   - Updates

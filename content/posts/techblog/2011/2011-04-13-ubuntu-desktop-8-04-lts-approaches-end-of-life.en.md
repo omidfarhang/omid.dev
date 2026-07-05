@@ -7,7 +7,7 @@ url: 2011/04/13/ubuntu-desktop-8-04-lts-approaches-end-of-life/
 tags:
   - advice
   - Discontinue
-  - news
+  - News
   - Ubuntu
   - Updates
 

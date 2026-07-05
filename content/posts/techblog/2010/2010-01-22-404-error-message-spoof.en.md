@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/22/404-error-message-spoof/
 tags:
   - alert
-  - news
+  - News
   - Security
 
 categories:

@@ -8,7 +8,7 @@ tags:
   - Beta
   - Firefox
   - Mozilla
-  - news
+  - News
   - review
 
 categories:

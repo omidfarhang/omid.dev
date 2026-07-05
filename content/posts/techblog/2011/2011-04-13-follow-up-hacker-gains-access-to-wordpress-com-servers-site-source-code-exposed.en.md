@@ -7,7 +7,7 @@ url: 2011/04/13/follow-up-hacker-gains-access-to-wordpress-com-servers-site-sour
 tags:
   - attack
   - hack
-  - news
+  - News
   - report
   - Security
   - WordPress

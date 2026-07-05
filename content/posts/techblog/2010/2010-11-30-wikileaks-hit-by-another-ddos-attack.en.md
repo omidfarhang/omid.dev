@@ -7,7 +7,7 @@ url: 2010/11/30/wikileaks-hit-by-another-ddos-attack/
 tags:
   - attack
   - hack
-  - news
+  - News
   - report
   - WikiLeaks
   - Security

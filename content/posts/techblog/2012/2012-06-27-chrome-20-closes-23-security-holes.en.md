@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/06/27/chrome-20-closes-23-security-holes/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Security

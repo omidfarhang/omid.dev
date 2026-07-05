@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/16/google-docs-gets-a-real-time-upgrade/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

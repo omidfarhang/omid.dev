@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/08/28/download-firefox-15-and-thunderbird-15/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Mozilla
   - software

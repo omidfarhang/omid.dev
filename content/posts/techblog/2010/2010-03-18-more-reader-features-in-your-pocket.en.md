@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/18/more-reader-features-in-your-pocket/
 tags:
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

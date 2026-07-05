@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/04/facebooks-smaller-font-size-straining-eyes/
 tags:
   - Facebook
-  - news
+  - News
   - report
 
 categories:

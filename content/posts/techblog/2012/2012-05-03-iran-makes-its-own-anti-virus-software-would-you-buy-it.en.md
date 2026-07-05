@@ -7,7 +7,7 @@ url: 2012/05/03/iran-makes-its-own-anti-virus-software-would-you-buy-it/
 tags:
   - antivirus
   - Iran
-  - news
+  - News
   - Security
 
 categories:

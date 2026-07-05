@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/11/skype-to-introduce-ads/
 tags:
-  - alanyze
+  - analyze
   - MARKETING
   - Skype
 

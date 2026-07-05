@@ -8,7 +8,7 @@ tags:
   - Android
   - Google
   - Mobile
-  - news
+  - News
 
 categories:
   - TechBlog

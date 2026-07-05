@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/11/stars-make-search-more-personal/
 tags:
   - Google
-  - news
+  - News
   - Updates
 
 categories:

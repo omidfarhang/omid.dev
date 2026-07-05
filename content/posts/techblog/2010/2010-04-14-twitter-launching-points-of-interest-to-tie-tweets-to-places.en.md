@@ -8,7 +8,7 @@ tags:
   - checkins
   - geotagging
   - locations
-  - news
+  - News
   - social networking
   - Twitter
 

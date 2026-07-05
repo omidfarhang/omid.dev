@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/08/chrome-updates-for-faster-browsing-and-increased-security/
 tags:
   - Announcement
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - software

@@ -11,7 +11,7 @@ tags:
   - Financial Times
   - France Telecom
   - Google
-  - news
+  - News
   - telecom
   - Telefonica
   - YouTube

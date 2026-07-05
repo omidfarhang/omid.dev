@@ -7,7 +7,7 @@ url: 2011/05/20/facebook-keeping-you-safe-from-scams-and-spam/
 tags:
   - Facebook
   - Facebook Privacy
-  - news
+  - News
   - Security
   - social networking
 

@@ -8,7 +8,7 @@ tags:
   - Avira
   - awards
   - certified
-  - news
+  - News
 
 categories:
   - TechBlog

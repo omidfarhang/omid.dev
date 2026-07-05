@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/11/03/internet-explorers-share-of-web-traffic-drops-below-50/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Google Chrome
   - Internet Explorer

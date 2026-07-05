@@ -6,11 +6,11 @@ author_profile: true
 url: 2010/03/25/firefox-ie8-and-safari-hacked-at-cansecwest/
 tags:
   - Apple
-  - Browser
+  - Browsers
   - Firefox
   - hack
   - Internet Explorer
-  - news
+  - News
   - report
   - Safari
   - Security

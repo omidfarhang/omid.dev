@@ -10,7 +10,7 @@ tags:
   - google chrome os
   - Hardware
   - laptop
-  - news
+  - News
 
 categories:
   - TechBlog

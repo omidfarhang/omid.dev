@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Beta
   - Microsoft
-  - news
+  - News
   - review
   - Windows
   - Windows 8

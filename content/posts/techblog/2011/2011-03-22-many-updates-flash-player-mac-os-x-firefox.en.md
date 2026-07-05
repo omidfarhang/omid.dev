@@ -7,7 +7,7 @@ url: 2011/03/22/many-updates-flash-player-mac-os-x-firefox/
 tags:
   - Adobe
   - Apple
-  - Browser
+  - Browsers
   - Firefox
   - Flash
   - flash player

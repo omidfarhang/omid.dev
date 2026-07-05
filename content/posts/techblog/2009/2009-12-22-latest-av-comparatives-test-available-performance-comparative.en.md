@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2009/12/22/latest-av-comparatives-test-available-performance-comparative/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/10/16/adobe-air-for-android-now-available/
 tags:
   - Adobe
   - Announcement
-  - news
+  - News
 
 categories:
   - TechBlog

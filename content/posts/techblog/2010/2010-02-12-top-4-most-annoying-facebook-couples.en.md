@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/12/top-4-most-annoying-facebook-couples/
 tags:
   - Facebook
-  - news
+  - News
   - review
   - social networking
 

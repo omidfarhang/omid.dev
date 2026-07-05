@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/04/13/microsofts-record-patch-tuesday/
 tags:
   - Microsoft Office
-  - news
+  - News
   - Security
   - Updates
   - Windows

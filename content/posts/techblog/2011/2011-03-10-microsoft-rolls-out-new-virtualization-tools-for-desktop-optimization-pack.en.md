@@ -7,7 +7,7 @@ url: 2011/03/10/microsoft-rolls-out-new-virtualization-tools-for-desktop-optimiz
 tags:
   - Announcement
   - Microsoft
-  - news
+  - News
 
 categories:
   - TechBlog

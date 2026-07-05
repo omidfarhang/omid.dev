@@ -7,7 +7,7 @@ url: 2010/10/22/western-digital-caviar-green-3tb-hard-drive/
 tags:
   - Announcement
   - Hardware
-  - news
+  - News
 
 categories:
   - TechBlog

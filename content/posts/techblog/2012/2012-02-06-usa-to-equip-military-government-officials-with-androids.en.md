@@ -9,7 +9,7 @@ tags:
   - Google
   - government
   - Military
-  - news
+  - News
   - Smartphone
 
 categories:

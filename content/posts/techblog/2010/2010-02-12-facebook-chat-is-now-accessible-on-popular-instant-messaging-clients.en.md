@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/12/facebook-chat-is-now-accessible-on-popular-instant-messaging-clients/
 tags:
   - Facebook
-  - news
+  - News
   - social networking
   - Updates
 

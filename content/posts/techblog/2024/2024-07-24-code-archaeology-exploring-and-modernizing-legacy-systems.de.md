@@ -6,13 +6,13 @@ author_profile: true
 url: 2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
 shortlink: https://g.omid.dev/3MO00FO
 tags:
-  - Altsysteme
-  - Code-Archäologie
-  - Software-Modernisierung
-  - Technische Schulden
-  - Refactoring
-  - Software-Engineering
-  - Systemmigration
+  - Legacy Systems
+  - Code Archaeology
+  - Software Modernization
+  - Technical Debt
+  - Refactoring Code
+  - Software Engineering
+  - System Migration
   - Software Architecture
 
 categories:

@@ -7,7 +7,7 @@ url: 2010/12/08/google-chrome-has-120-million-users/
 tags:
   - Google
   - Google Chrome
-  - news
+  - News
   - report
 
 categories:

@@ -8,7 +8,7 @@ tags:
   - Cyber War
   - Iran
   - Malware
-  - news
+  - News
   - review
   - Stuxnet
   - Security

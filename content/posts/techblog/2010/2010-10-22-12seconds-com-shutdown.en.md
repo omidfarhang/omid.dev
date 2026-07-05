@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/22/12seconds-com-shutdown/
 tags:
   - alert
-  - news
+  - News
   - Security
 
 categories:

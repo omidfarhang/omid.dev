@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/04/ie-losing-market-share-chrome-gaining/
 tags:
   - Apple
-  - Browser
+  - Browsers
   - Firefox
   - Google
   - Google Chrome

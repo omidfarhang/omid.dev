@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/09/google-search-rankings-now-consider-site-speed/
 tags:
   - Google
-  - news
+  - News
   - Search
   - Yahoo
 

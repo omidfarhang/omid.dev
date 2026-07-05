@@ -7,7 +7,7 @@ url: 2012/03/31/google-updates-oauth-2-0-playground/
 tags:
   - Announcement
   - Google
-  - news
+  - News
   - Security
 
 categories:

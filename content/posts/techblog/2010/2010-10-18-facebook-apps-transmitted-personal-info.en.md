@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/10/18/facebook-apps-transmitted-personal-info/
 tags:
-  - alanyze
+  - analyze
   - alert
   - Facebook
   - report

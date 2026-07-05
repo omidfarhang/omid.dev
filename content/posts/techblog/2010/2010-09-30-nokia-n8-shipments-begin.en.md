@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/09/30/nokia-n8-shipments-begin/
 tags:
   - Mobile
-  - news
+  - News
   - Nokia
   - Smartphone
 

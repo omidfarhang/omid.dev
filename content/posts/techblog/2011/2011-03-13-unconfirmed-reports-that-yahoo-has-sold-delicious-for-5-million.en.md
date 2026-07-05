@@ -7,7 +7,7 @@ url: 2011/03/13/unconfirmed-reports-that-yahoo-has-sold-delicious-for-5-million/
 tags:
   - business
   - Delicious
-  - news
+  - News
   - report
   - rumor
   - Yahoo

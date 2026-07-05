@@ -10,7 +10,7 @@ tags:
   - Apple
   - Dropbox
   - iOS
-  - news
+  - News
   - PDF
 
 categories:

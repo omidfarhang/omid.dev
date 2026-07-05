@@ -10,8 +10,8 @@ tags:
   - development
   - Angular
   - qwik
-  - react
-  - rust
+  - React
+  - Rust
   - Micro Frontends
 
 categories:

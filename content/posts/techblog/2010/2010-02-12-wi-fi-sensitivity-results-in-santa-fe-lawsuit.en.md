@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/02/12/wi-fi-sensitivity-results-in-santa-fe-lawsuit/
 tags:
-  - news
+  - News
   - Yahoo
 
 categories:

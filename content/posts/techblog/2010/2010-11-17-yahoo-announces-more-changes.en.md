@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/17/yahoo-announces-more-changes/
 tags:
-  - news
+  - News
   - Twitter
   - Yahoo
   - Zynga

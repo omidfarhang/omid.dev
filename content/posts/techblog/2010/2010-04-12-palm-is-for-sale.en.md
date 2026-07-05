@@ -9,7 +9,7 @@ tags:
   - HTC
   - Lenovo
   - Mobile 2.0
-  - news
+  - News
   - palm
   - Palm Pixi
   - Palm Pre

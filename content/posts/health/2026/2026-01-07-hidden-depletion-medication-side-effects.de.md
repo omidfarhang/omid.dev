@@ -7,12 +7,12 @@ author_profile: true
 url: 2026/01/07/hidden-depletion-medication-side-effects/
 shortlink: https://g.omid.dev/9TmOC3c
 tags:
-  - Gesundheit
+  - Health
   - Diabetes
-  - Bluthochdruck
-  - Nährstoffmangel
-  - Nahrungsergänzungsmittel
-  - Persönliche Geschichte
+  - Hypertension
+  - Nutrient Depletion
+  - Supplements
+  - Personal Story
 
 categories: 
   - Health

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/17/naked-scanners-fooled-by-creased-clothing/
 tags:
-  - news
+  - News
   - technology
 
 categories:

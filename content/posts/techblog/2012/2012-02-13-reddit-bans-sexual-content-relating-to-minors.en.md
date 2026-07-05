@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/13/reddit-bans-sexual-content-relating-to-minors/
 tags:
-  - news
+  - News
   - Reddit
   - Sex
 

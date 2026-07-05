@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/08/23/for-the-first-time-in-25-years-microsoft-is-changing-its-logo/
 tags:
   - Microsoft
-  - news
+  - News
 
 categories:
   - TechBlog

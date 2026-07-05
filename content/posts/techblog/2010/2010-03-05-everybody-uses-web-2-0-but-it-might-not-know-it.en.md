@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/05/everybody-uses-web-2-0-but-it-might-not-know-it/
 tags:
-  - news
+  - News
   - report
   - Skype
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/21/chrome-may-get-a-password-generator/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
   - Password

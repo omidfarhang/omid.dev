@@ -7,13 +7,13 @@ author_profile: true
 url: 2026/06/02/wenn-ein-coder-vater-wird/
 shortlink: https://g.omid.dev/E88fEhZ
 tags:
-  - Vatersein
-  - Familie
-  - Leidenschaft
-  - Work-Life-Balance
-  - Entwicklerleben
-  - Persönlich
-  - Alltag
+  - Fatherhood
+  - Family
+  - Passion
+  - Work-Life Balance
+  - Developer Life
+  - Personal
+  - Everyday Life
 
 categories:
   - Cozy Corner

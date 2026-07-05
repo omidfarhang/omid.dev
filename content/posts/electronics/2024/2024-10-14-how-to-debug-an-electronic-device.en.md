@@ -9,7 +9,7 @@ tags:
   - Electronics Repair
   - Circuit Board Debugging
   - Component Testing
-  - Troubleshooting Electronics
+  - Troubleshooting
   - PCB Repair
   - Power Supply Issues
   - DIY Electronics Fixes

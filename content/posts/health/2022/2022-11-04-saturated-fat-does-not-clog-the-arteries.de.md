@@ -6,9 +6,9 @@ author_profile: true
 url: 2022/11/04/gesaettigte-fettsaeuren-verstopfen-nicht-die-arterien/
 shortlink: https://g.omid.dev/qrGVebA
 tags:
-  - Gesundheit
-  - Medizin
-  - Lesenswert
+  - Health
+  - medical
+  - Good Reads
 
 categories: 
   - Health

@@ -6,9 +6,9 @@ author_profile: true
 url: 2022/11/04/saturated-fat-does-not-clog-the-arteries/
 shortlink: https://g.omid.dev/qrGVebA
 tags:
-  - سلامتی
-  - پزشکی
-  - خواندنی‌های خوب
+  - Health
+  - medical
+  - Good Reads
 
 categories: 
   - Health

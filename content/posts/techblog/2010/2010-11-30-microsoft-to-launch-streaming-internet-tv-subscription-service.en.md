@@ -7,7 +7,7 @@ url: 2010/11/30/microsoft-to-launch-streaming-internet-tv-subscription-service/
 tags:
   - Internet TV
   - Microsoft
-  - news
+  - News
 
 categories:
   - TechBlog

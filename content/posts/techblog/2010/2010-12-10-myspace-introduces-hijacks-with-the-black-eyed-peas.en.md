@@ -6,9 +6,9 @@ author_profile: true
 url: 2010/12/10/myspace-introduces-hijacks-with-the-black-eyed-peas/
 tags:
   - celeb
-  - music
+  - Music
   - MySpace
-  - news
+  - News
   - report
 
 categories:

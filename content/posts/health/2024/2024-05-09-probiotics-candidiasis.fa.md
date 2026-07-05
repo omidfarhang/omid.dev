@@ -6,11 +6,11 @@ author_profile: true
 url: 2024/09/10/how-probiotics-help-with-candidiasis/
 shortlink: https://g.omid.dev/ASrHVQN
 tags:
-  - پری‌بیوتیک
-  - پروبیوتیک
-  - پست‌بیوتیک
-  - کاندیدیازیس
-  - سلامت زنان
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
+  - Candidiasis
+  - Womens health
 
 categories: 
   - Health

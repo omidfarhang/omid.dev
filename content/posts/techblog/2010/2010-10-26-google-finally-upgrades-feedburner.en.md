@@ -7,7 +7,7 @@ url: 2010/10/26/google-finally-upgrades-feedburner/
 tags:
   - FeedBurner
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

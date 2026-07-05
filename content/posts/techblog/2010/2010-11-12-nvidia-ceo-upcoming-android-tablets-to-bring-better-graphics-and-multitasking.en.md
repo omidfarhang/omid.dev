@@ -7,7 +7,7 @@ url: 2010/11/12/nvidia-ceo-upcoming-android-tablets-to-bring-better-graphics-and
 tags:
   - Android
   - Announcement
-  - news
+  - News
   - nvidia
 
 categories:

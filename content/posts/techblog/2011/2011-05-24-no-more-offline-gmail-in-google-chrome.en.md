@@ -8,7 +8,6 @@ tags:
   - gmail
   - Google
   - Google Chrome
-  - Google Mail
 
 categories:
   - TechBlog

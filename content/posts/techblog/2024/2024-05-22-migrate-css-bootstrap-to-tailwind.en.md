@@ -16,7 +16,7 @@ keywords:
 tags:
   - Frontend
   - development
-  - css
+  - CSS
   - tailwind
   - migrate
   - Bootstrap

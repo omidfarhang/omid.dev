@@ -7,7 +7,7 @@ url: 2010/11/04/webcam-cyber-sextortionist-preyed-on-over-200-women/
 tags:
   - FBI
   - hack
-  - news
+  - News
   - report
   - Yahoo
   - Security

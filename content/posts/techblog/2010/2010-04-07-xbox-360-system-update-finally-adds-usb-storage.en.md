@@ -8,7 +8,7 @@ tags:
   - Game
   - Game console
   - Microsoft
-  - news
+  - News
   - Updates
   - Xbox 360
 

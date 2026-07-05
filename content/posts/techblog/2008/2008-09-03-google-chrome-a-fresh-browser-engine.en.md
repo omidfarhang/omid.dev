@@ -7,7 +7,7 @@ author_profile: true
 url: 2008/09/03/google-chrome-a-fresh-browser-engine/
 tags:
   - Google Chrome
-  - Browser
+  - Browsers
   - Web Development
   - Security
 

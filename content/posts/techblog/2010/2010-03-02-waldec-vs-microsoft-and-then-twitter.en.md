@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/02/waldec-vs-microsoft-and-then-twitter/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

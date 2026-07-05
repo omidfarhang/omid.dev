@@ -6,10 +6,9 @@ author_profile: true
 url: 2011/03/12/internet-explorer-9-hits-rtm/
 tags:
   - Announcement
-  - Browser
+  - Browsers
   - Internet Explorer
-  - internet explorer 9
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/02/21/0day-vuln-in-adobe-download-manager-disclosed/
 tags:
   - 0-Day
   - Adobe
-  - news
+  - News
   - Vulnerability
 
 categories:

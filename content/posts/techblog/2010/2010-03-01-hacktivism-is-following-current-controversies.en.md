@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/01/hacktivism-is-following-current-controversies/
 tags:
-  - news
+  - News
   - report
 
 categories:

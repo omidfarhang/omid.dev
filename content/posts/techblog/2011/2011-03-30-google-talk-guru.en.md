@@ -7,7 +7,7 @@ url: 2011/03/30/google-talk-guru/
 tags:
   - Announcement
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

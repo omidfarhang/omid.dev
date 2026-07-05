@@ -7,7 +7,6 @@ url: 2011/03/15/webm-plugin-for-internet-explorer-9/
 tags:
   - Google
   - Internet Explorer
-  - internet explorer 9
   - suggestion
   - WebM
 

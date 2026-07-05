@@ -7,7 +7,7 @@ url: 2010/10/07/facebook-spammer-fined-1-billion-usd/
 tags:
   - Facebook
   - facebook phishing
-  - news
+  - News
   - report
   - spam
   - Security

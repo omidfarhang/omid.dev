@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 url: 2010/04/02/firefox-claims-30-percent-market-share/
 tags:
-  - Browser
+  - Browsers
   - Firefox
-  - news
+  - News
   - report
 
 categories:

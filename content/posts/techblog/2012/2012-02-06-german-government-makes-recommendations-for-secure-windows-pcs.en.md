@@ -7,7 +7,7 @@ url: 2012/02/06/german-government-makes-recommendations-for-secure-windows-pcs/
 tags:
   - advice
   - antivirus
-  - Browser
+  - Browsers
   - Germany
   - Google Chrome
   - recommended

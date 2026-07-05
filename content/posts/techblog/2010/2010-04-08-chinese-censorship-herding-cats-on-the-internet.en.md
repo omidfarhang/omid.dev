@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/08/chinese-censorship-herding-cats-on-the-internet/
 tags:
-  - news
+  - News
   - report
 
 categories:

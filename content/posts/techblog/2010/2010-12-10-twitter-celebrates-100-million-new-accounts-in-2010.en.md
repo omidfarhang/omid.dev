@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/12/10/twitter-celebrates-100-million-new-accounts-in-2010/
 tags:
-  - news
+  - News
   - report
   - Twitter
 

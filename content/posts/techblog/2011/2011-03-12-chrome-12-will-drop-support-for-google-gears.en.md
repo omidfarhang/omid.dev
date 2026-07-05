@@ -7,7 +7,7 @@ url: 2011/03/12/chrome-12-will-drop-support-for-google-gears/
 tags:
   - Google
   - Google Chrome
-  - news
+  - News
 
 categories:
   - TechBlog

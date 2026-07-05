@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/13/mozilla-closes-critical-security-hole-in-firefox-thunderbird-and-seamonkey/
 tags:
-  - Browser
+  - Browsers
   - email
   - Firefox
   - Mozilla

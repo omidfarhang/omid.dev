@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 url: 2011/02/11/internet-explorer-9-rc-download-link-goes-live/
 tags:
-  - Browser
+  - Browsers
   - Internet Explorer
-  - internet explorer 9
   - Microsoft
   - Updates
 

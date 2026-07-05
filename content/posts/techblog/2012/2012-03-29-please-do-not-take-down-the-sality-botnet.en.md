@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/29/please-do-not-take-down-the-sality-botnet/
 tags:
   - Malware
-  - news
+  - News
   - report
   - Security
 

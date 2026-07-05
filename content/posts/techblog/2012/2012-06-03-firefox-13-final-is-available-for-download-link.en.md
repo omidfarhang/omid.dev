@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/06/03/firefox-13-final-is-available-for-download-link/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Mozilla
   - software

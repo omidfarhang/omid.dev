@@ -10,8 +10,8 @@ tags:
   - Updates
   - Windows
   - Windows 7
-  - windows Server
-  - windows vista
+  - Windows Server
+  - Windows Vista
   - Windows XP
 
 categories:

@@ -7,7 +7,7 @@ url: 2010/12/23/cia-launches-w-t-f-wikileaks-task-force/
 tags:
   - CIA
   - government
-  - news
+  - News
   - WikiLeaks
 
 categories:

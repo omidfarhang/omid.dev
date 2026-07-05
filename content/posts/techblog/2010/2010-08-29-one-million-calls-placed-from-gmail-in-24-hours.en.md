@@ -7,7 +7,6 @@ url: 2010/08/29/one-million-calls-placed-from-gmail-in-24-hours/
 tags:
   - gmail
   - Google
-  - Googlemail
   - report
   - review
   - voice

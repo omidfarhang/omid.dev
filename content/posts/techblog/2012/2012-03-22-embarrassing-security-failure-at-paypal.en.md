@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/03/22/embarrassing-security-failure-at-paypal/
 tags:
-  - news
+  - News
   - PayPal
   - Security
 

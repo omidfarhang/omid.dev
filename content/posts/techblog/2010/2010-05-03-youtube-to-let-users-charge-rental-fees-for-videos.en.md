@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/03/youtube-to-let-users-charge-rental-fees-for-videos/
 tags:
   - Google
-  - news
+  - News
   - rental
   - YouTube
 

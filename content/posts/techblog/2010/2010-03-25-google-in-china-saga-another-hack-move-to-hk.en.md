@@ -7,7 +7,7 @@ url: 2010/03/25/google-in-china-saga-another-hack-move-to-hk/
 tags:
   - Google
   - hack
-  - news
+  - News
   - report
   - review
   - Security

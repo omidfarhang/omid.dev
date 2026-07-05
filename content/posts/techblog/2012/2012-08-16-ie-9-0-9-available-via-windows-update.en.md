@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/08/16/ie-9-0-9-available-via-windows-update/
 tags:
-  - Browser
+  - Browsers
   - Internet Explorer
   - software
   - Updates

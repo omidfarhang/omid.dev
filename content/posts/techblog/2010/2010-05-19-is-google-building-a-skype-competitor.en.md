@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/19/is-google-building-a-skype-competitor/
 tags:
-  - alanyze
+  - analyze
   - Global IP Solutions
   - Google
   - GTalk

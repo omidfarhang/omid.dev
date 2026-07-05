@@ -7,7 +7,7 @@ url: 2011/04/01/massive-sql-injection-attack-making-the-rounds-694k-urls-so-far/
 tags:
   - attack
   - hack
-  - news
+  - News
   - report
   - review
   - Security

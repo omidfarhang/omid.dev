@@ -6,12 +6,12 @@ author_profile: true
 url: 2024/11/06/koennen-zimmerpflanzen-mit-ihrem-luftbefeuchter-mithalten-ein-lustiger-vergleich/
 shortlink: https://g.omid.dev/Mt6pvGZ
 tags:
-  - Zufälliger Vergleich
-  - Zimmerpflanzen
-  - Gesundheit
-  - Wohnumgebung
-  - Wissenschaft macht Spaß
-  - Statistiken
+  - Random Comparison
+  - Houseplants
+  - Health
+  - Home Environment
+  - Science Is Fun
+  - Statics
 
 categories: 
   - Health

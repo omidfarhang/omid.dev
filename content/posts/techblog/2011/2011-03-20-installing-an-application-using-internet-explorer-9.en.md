@@ -9,7 +9,6 @@ tags:
   - Google
   - Google Chrome
   - Internet Explorer
-  - internet explorer 9
   - Microsoft
   - review
 

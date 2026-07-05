@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/14/google-upgrades-its-twitter-search-features/
 tags:
   - Google
-  - news
+  - News
   - Real-Time Search
   - social networking
   - Twitter

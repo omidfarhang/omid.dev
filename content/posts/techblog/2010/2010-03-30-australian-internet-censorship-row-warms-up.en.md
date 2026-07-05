@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/30/australian-internet-censorship-row-warms-up/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

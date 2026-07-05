@@ -7,7 +7,7 @@ url: 2012/05/15/avira-av-update-hangs-systems/
 tags:
   - advice
   - Avira
-  - news
+  - News
   - report
 
 categories:

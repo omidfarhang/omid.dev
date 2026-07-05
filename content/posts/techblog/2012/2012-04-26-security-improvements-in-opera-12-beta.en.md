@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/04/26/security-improvements-in-opera-12-beta/
 tags:
   - Beta
-  - Browser
+  - Browsers
   - software
   - Updates
 

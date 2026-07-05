@@ -7,7 +7,7 @@ url: 2010/10/16/firefox-is-getting-fast/
 tags:
   - Firefox
   - Mozilla
-  - news
+  - News
 
 categories:
   - TechBlog

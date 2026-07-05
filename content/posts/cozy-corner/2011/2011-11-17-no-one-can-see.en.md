@@ -8,7 +8,7 @@ image: /images/sites/2/2011/11/hide-sadness.jpg
 tags:
   - interesting
   - mood
-  - music
+  - Music
 
 categories: 
   - Cozy Corner

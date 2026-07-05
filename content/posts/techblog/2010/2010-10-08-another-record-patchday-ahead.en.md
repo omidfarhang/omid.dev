@@ -6,12 +6,12 @@ author_profile: true
 url: 2010/10/08/another-record-patchday-ahead/
 tags:
   - Microsoft
-  - news
+  - News
   - Office
   - Updates
   - Windows
   - Windows 7
-  - windows Server
+  - Windows Server
   - Windows XP
 
 categories:

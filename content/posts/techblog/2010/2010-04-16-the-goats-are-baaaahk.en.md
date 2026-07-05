@@ -7,7 +7,7 @@ url: 2010/04/16/the-goats-are-baaaahk/
 tags:
   - Google
   - Interesting
-  - news
+  - News
 
 categories:
   - TechBlog

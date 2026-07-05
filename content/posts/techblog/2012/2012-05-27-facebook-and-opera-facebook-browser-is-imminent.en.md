@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/05/27/facebook-and-opera-facebook-browser-is-imminent/
 tags:
-  - Browser
+  - Browsers
   - Facebook
   - Opera
   - rumor

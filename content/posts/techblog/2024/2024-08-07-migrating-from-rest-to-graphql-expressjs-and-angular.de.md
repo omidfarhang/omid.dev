@@ -7,11 +7,11 @@ url: 2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressj
 shortlink: https://g.omid.dev/1OPJS9o
 tags:
   - GraphQL
-  - API-Migration
+  - API Migration
   - ExpressJs
   - Angular
   - Apollo Server
-  - Webentwicklung
+  - Web Development
   - Frontend
   - Case Study
 

@@ -8,7 +8,7 @@ tags:
   - broadband
   - Google
   - ISP
-  - news
+  - News
 
 categories:
   - TechBlog

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/facebook-makes-user-profiles-more-visual/
 tags:
   - Facebook
-  - news
+  - News
   - social networking
 
 categories:

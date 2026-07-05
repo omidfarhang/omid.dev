@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 url: 2010/12/12/lastpass-acquires-xmarks/
 tags:
-  - Browser
-  - news
+  - Browsers
+  - News
   - Xmarks
 
 categories:

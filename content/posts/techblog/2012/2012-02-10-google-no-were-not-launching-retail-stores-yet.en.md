@@ -7,7 +7,7 @@ url: 2012/02/10/google-no-were-not-launching-retail-stores-yet/
 tags:
   - business
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

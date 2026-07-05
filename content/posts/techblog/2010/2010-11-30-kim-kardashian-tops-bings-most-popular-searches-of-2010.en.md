@@ -7,7 +7,7 @@ url: 2010/11/30/kim-kardashian-tops-bings-most-popular-searches-of-2010/
 tags:
   - Bing
   - celeb
-  - news
+  - News
   - report
   - review
   - Search

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/06/no-more-dragons-the-26th-chaos-communication-congress-ends/
 tags:
-  - news
+  - News
   - report
 
 categories:

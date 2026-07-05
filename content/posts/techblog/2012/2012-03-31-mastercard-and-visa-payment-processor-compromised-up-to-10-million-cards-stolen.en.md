@@ -7,7 +7,7 @@ url: 2012/03/31/mastercard-and-visa-payment-processor-compromised-up-to-10-milli
 tags:
   - credit cards
   - hack
-  - news
+  - News
   - report
   - Security
 

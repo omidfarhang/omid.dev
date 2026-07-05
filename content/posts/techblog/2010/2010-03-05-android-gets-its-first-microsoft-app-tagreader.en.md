@@ -9,7 +9,7 @@ tags:
   - Google
   - Microsoft
   - Mobile
-  - news
+  - News
 
 categories:
   - TechBlog

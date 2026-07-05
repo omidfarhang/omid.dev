@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/17/myspace-upgrades-your-social-calendar/
 tags:
   - Film
-  - music
+  - Music
   - MySpace
   - social media
 

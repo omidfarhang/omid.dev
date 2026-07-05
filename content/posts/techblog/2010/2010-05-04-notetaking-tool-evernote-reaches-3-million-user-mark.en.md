@@ -7,7 +7,7 @@ url: 2010/05/04/notetaking-tool-evernote-reaches-3-million-user-mark/
 tags:
   - Evernote
   - ipad
-  - news
+  - News
   - Notetaking
   - report
   - stats

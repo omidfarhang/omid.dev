@@ -6,8 +6,8 @@ author_profile: true
 url: 2010/10/24/lady-gaga-hits-1-billion-views-on-youtube/
 tags:
   - entertainment
-  - music
-  - news
+  - Music
+  - News
   - report
 
 categories:

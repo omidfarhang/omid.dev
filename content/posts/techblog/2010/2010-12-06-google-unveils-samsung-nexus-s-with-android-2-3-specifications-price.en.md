@@ -9,7 +9,7 @@ tags:
   - Announcement
   - Google
   - Mobile
-  - news
+  - News
   - nexus s
   - samsung
 

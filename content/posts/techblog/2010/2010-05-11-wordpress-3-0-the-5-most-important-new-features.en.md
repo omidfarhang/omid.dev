@@ -8,7 +8,7 @@ tags:
   - Blogging
   - BLOGS
   - Tech
-  - Web Disgn
+  - Web Design
   - WordPress
   - WordPress 3.0
   - WordPress Theme

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/25/spam-from-the-advocate/
 tags:
   - alert
-  - news
+  - News
   - report
   - spam
   - Security

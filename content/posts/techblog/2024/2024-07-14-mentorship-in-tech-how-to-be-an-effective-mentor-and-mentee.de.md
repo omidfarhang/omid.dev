@@ -6,13 +6,13 @@ author_profile: true
 url: 2024/07/14/mentorship-in-tech-how-to-be-an-effective-mentor-and-mentee/
 shortlink: https://g.omid.dev/kYbsPKX
 tags:
-  - Tech-Mentoring
-  - Karriereentwicklung
-  - Berufliches Wachstum
-  - Mentoring in der Tech-Branche
-  - Tech-Industrie
-  - Mentee-Tipps
-  - Mentor-Leitfaden
+  - Tech Mentorship
+  - Career Development
+  - Professional Growth
+  - Mentoring In Tech
+  - Tech Industry
+  - Mentee Tips
+  - Mentor Guidelines
   - Career
   - Engineering Leadership
 

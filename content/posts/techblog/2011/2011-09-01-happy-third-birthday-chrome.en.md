@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 url: 2011/09/01/happy-third-birthday-chrome/
 tags:
-  - Browser
+  - Browsers
   - Google
   - Google Chrome
-  - news
+  - News
   - review
 
 categories:

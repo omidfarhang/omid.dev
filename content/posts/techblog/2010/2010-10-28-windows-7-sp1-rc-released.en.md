@@ -9,7 +9,7 @@ tags:
   - Updates
   - Windows
   - Windows 7
-  - windows Server
+  - Windows Server
 
 categories:
   - TechBlog

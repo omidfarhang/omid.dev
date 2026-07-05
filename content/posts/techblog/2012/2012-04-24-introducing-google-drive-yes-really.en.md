@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Google
   - Google Drive
-  - news
+  - News
 
 categories:
   - TechBlog

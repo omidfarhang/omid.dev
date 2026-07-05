@@ -8,7 +8,7 @@ tags:
   - advice
   - alert
   - Firefox
-  - news
+  - News
   - privacy
   - review
   - Security

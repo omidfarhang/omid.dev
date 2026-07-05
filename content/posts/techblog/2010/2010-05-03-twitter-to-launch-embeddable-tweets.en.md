@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/03/twitter-to-launch-embeddable-tweets/
 tags:
   - Embedded Tweets
-  - news
+  - News
   - social networking
   - tweet
   - Twitter

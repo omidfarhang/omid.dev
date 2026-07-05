@@ -6,10 +6,10 @@ author_profile: true
 url: 2024/09/10/how-probiotics-help-with-allergies/
 shortlink: https://g.omid.dev/ZyCBTte
 tags:
-  - پری‌بیوتیک
-  - پروبیوتیک
-  - پست‌بیوتیک
-  - آلرژی
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
+  - Allergies
 
 categories: 
   - Health

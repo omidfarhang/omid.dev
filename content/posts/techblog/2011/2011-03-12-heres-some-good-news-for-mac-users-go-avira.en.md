@@ -8,7 +8,7 @@ tags:
   - antivirus
   - Avira
   - Mac OS X
-  - news
+  - News
   - Offer
   - Security
 

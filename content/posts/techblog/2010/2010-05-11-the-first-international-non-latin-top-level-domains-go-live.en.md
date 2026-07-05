@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/11/the-first-international-non-latin-top-level-domains-go-live/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

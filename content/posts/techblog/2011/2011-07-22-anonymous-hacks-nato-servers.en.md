@@ -8,7 +8,7 @@ tags:
   - Anonymous
   - hack
   - NATO
-  - news
+  - News
   - report
   - Security
 

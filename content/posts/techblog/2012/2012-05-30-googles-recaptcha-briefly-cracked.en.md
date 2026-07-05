@@ -7,7 +7,7 @@ url: 2012/05/30/googles-recaptcha-briefly-cracked/
 tags:
   - Google
   - hack
-  - news
+  - News
   - Security
 
 categories:

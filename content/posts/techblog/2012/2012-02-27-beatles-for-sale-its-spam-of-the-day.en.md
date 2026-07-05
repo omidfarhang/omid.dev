@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/27/beatles-for-sale-its-spam-of-the-day/
 tags:
   - alert
-  - music
+  - Music
   - review
   - spam
   - Security

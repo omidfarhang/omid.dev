@@ -8,7 +8,7 @@ tags:
   - AMD
   - Download
   - Microsoft
-  - news
+  - News
   - Torrent
   - Updates
 

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/08/celebrities-internet-deaths-raise-1m-for-charity/
 tags:
   - celeb
-  - news
+  - News
   - report
 
 categories:

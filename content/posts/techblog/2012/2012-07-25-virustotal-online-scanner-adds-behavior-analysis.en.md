@@ -7,7 +7,7 @@ url: 2012/07/25/virustotal-online-scanner-adds-behavior-analysis/
 tags:
   - Announcement
   - antivirus
-  - news
+  - News
   - VirusTotal
   - Security
 

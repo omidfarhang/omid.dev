@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/10/25/connect-any-wi-fi-device-to-any-other-wi-fi-device-with-wi-fi-direct/
 tags:
-  - news
+  - News
   - Offer
   - WiFi
 

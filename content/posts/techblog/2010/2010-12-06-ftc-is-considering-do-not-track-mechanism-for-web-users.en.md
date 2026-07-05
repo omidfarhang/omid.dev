@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/ftc-is-considering-do-not-track-mechanism-for-web-users/
 tags:
   - FTC
-  - news
+  - News
   - privacy
   - report
 

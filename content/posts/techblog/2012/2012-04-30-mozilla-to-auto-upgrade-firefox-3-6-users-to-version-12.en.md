@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/04/30/mozilla-to-auto-upgrade-firefox-3-6-users-to-version-12/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Mozilla
   - software

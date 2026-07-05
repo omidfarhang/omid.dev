@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/02/twitter-phished-its-an-easy-mistake/
 tags:
-  - news
+  - News
   - phishing
   - social networking
   - Twitter

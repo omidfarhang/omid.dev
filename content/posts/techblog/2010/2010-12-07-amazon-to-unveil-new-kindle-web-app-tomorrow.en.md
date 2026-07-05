@@ -8,7 +8,7 @@ tags:
   - Amazon
   - Hardware
   - Kindle
-  - news
+  - News
   - Web App
 
 categories:

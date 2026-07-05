@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/13/facebook-and-the-white-house-join-forces-in-the-fight-against-bullying/
 tags:
   - Facebook
-  - news
+  - News
   - The White House
 
 categories:

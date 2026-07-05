@@ -9,7 +9,7 @@ tags:
   - Frontend
   - Coding Best Practices
   - Web Performance
-  - ResponsiveDesign
+  - Responsive Design
   - Accessibility
 
 categories:

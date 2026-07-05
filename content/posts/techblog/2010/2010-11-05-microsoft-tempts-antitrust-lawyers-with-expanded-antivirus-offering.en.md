@@ -9,7 +9,7 @@ tags:
   - Microsoft
   - norton
   - Security
-  - security essnetials
+  - Security Essentials
   - symantec
   - Updates
 

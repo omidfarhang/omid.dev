@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/09/18/internet-explorer-security-hole-use-other-browser/
 tags:
   - advice
-  - Browser
+  - Browsers
   - Internet Explorer
   - Microsoft
   - Security

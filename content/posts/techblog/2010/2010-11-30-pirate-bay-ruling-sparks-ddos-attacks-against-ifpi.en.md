@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/30/pirate-bay-ruling-sparks-ddos-attacks-against-ifpi/
 tags:
   - hack
-  - news
+  - News
   - report
   - ThePirateBay
   - Security

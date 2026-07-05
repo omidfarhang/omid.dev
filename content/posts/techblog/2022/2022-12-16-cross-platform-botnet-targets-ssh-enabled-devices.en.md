@@ -7,7 +7,7 @@ url: 2022/12/16/cross-platform-botnet-targets-ssh-enabled-devices/
 shortlink: https://g.omid.dev/DlE9qP9
 tags:
   - Malware
-  - windows
+  - Windows
   - ssh
   - Linux
   - botnet

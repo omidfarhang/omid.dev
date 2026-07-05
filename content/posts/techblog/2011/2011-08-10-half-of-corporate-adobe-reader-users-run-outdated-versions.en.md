@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/08/10/half-of-corporate-adobe-reader-users-run-outdated-versions/
 tags:
   - Adobe
-  - Browser
+  - Browsers
   - corporate
   - plugins
   - report

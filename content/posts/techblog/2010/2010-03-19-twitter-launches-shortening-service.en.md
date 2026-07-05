@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/19/twitter-launches-shortening-service/
 tags:
-  - news
+  - News
   - Twitter
   - Updates
 

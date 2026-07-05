@@ -7,7 +7,7 @@ url: 2010/12/10/facebook-announces-first-hacker-cup/
 tags:
   - Facebook
   - hack
-  - news
+  - News
   - Security
 
 categories:

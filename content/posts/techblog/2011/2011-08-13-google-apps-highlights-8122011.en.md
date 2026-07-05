@@ -9,7 +9,7 @@ tags:
   - gmail
   - Google
   - Mobile
-  - news
+  - News
   - report
 
 categories:

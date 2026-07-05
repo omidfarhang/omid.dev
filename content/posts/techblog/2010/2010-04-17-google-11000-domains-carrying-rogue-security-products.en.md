@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/17/google-11000-domains-carrying-rogue-security-products/
 tags:
   - Google
-  - news
+  - News
   - report
   - rogue software
   - scam

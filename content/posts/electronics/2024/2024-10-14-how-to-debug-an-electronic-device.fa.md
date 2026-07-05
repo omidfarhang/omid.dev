@@ -6,13 +6,13 @@ author_profile: true
 url: 2024/10/14/how-to-debug-an-electronic-device-that-wont-power-up-a-step-by-step-guide-for-board-level-repair/
 shortlink: https://g.omid.dev/e4cucf0
 tags:
-  - تعمیرات الکترونیک
-  - عیب‌یابی برد مدار
-  - تست قطعات
-  - رفع اشکال الکترونیک
-  - تعمیر PCB
-  - مشکلات منبع تغذیه
-  - تعمیرات الکترونیک خانگی
+  - Electronics Repair
+  - Circuit Board Debugging
+  - Component Testing
+  - Troubleshooting
+  - PCB Repair
+  - Power Supply Issues
+  - DIY Electronics Fixes
 
 categories: 
   - Electronics

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/23/firefox-extension-used-in-facebook-scam/
 tags:
-  - Browser
+  - Browsers
   - Facebook
   - facebook phishing
   - Firefox

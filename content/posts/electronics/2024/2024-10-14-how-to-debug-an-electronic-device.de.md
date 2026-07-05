@@ -6,13 +6,13 @@ author_profile: true
 url: 2024/10/14/so-debuggen-sie-ein-elektronisches-geraet-das-sich-nicht-einschalten-laesst-eine-schritt-fuer-schritt-anleitung-fuer-die-reparatur-auf-platinenebene/
 shortlink: https://g.omid.dev/e4cucf0
 tags:
-  - Elektronikreparatur
-  - Platinen-Debugging
-  - Komponententests
-  - Fehlersuche in der Elektronik
-  - PCB-Reparatur
-  - Probleme mit der Stromversorgung
-  - DIY-Elektronik-Fixes
+  - Electronics Repair
+  - Circuit Board Debugging
+  - Component Testing
+  - Troubleshooting
+  - PCB Repair
+  - Power Supply Issues
+  - DIY Electronics Fixes
 
 categories: 
   - Electronics

@@ -6,7 +6,7 @@ author_profile: true
 url: 2024/08/13/the-hidden-world-of-esoteric-programming-languages/
 shortlink: https://g.omid.dev/hQlrMEU
 tags:
-  - Esoterische Programmiersprachen
+  - Esoteric Programming Languages
   - Brainfuck
   - Whitespace
   - LOLCODE

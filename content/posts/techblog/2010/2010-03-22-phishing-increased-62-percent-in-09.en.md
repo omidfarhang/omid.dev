@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/22/phishing-increased-62-percent-in-09/
 tags:
-  - news
+  - News
   - phishing
   - report
   - Security

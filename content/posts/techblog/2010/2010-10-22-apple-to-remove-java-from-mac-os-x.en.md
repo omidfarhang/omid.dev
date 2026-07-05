@@ -7,7 +7,7 @@ url: 2010/10/22/apple-to-remove-java-from-mac-os-x/
 tags:
   - Apple
   - Java
-  - news
+  - News
 
 categories:
   - TechBlog

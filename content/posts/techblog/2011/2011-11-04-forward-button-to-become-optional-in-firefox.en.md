@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/11/04/forward-button-to-become-optional-in-firefox/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Mozilla
 

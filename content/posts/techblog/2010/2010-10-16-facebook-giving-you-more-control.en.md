@@ -7,7 +7,7 @@ url: 2010/10/16/facebook-giving-you-more-control/
 tags:
   - Announcement
   - Facebook
-  - news
+  - News
   - social networking
 
 categories:

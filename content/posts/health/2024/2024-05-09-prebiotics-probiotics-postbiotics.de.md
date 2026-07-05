@@ -6,9 +6,9 @@ author_profile: true
 url: 2024/09/10/praebiotika-probiotika-postbiotika/
 shortlink: https://g.omid.dev/AXOTDAQ
 tags:
-  - Präbiotika
-  - Probiotika
-  - Postbiotika
+  - Prebiotics
+  - Probiotics
+  - Postbiotics
 
 categories: 
   - Health

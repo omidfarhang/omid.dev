@@ -6,7 +6,7 @@ author_profile: true
 url: 2024/06/13/building-high-performance-web-applications-leveraging-webassembly-and-rust/
 shortlink: https://g.omid.dev/cNls8Ve
 tags:
-  - HighPerformance Web Applications
+  - High-Performance Applications
   - WebAssembly
   - Rust
   - WebAssembly integration

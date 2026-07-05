@@ -8,7 +8,7 @@ tags:
   - Apple
   - Hardware
   - MacBook Air
-  - news
+  - News
   - PhotoFast
 
 categories:

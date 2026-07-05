@@ -7,7 +7,7 @@ url: 2010/10/13/chrome-8-hits-dev-channel-with-gpu-acceleration-more-labs-offeri
 tags:
   - Google
   - Google Chrome
-  - news
+  - News
   - Updates
 
 categories:

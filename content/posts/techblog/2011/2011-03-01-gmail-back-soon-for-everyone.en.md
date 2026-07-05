@@ -7,7 +7,6 @@ url: 2011/03/01/gmail-back-soon-for-everyone/
 tags:
   - gmail
   - Google
-  - Google Mail
   - report
 
 categories:

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/10/mozilla-firefox-10-0-1-update-about-to-be-released/
 tags:
-  - Browser
+  - Browsers
   - Firefox
   - Mozilla
   - software

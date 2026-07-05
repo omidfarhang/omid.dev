@@ -9,7 +9,7 @@ tags:
   - gmail labs
   - Google
   - nested labels
-  - news
+  - News
 
 categories:
   - TechBlog

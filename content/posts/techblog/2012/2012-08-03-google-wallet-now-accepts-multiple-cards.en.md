@@ -7,7 +7,7 @@ url: 2012/08/03/google-wallet-now-accepts-multiple-cards/
 tags:
   - business
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

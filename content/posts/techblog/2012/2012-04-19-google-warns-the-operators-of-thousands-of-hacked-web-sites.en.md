@@ -7,7 +7,7 @@ url: 2012/04/19/google-warns-the-operators-of-thousands-of-hacked-web-sites/
 tags:
   - Google
   - hack
-  - news
+  - News
   - report
   - Security
 

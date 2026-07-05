@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/10/21/predator-software-pirated/
 tags:
-  - news
+  - News
   - report
   - Security
 

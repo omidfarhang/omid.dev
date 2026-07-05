@@ -8,7 +8,7 @@ tags:
   - business
   - Eric Schmidt
   - Google
-  - news
+  - News
 
 categories:
   - TechBlog

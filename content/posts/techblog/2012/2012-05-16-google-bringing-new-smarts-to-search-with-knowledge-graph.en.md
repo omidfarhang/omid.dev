@@ -7,7 +7,7 @@ url: 2012/05/16/google-bringing-new-smarts-to-search-with-knowledge-graph/
 tags:
   - Announcement
   - Google
-  - news
+  - News
   - Search
 
 categories:

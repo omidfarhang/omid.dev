@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/04/13/google-says-it-did-not-lie-about-government-certification-for-apps/
 tags:
   - Google
-  - news
+  - News
   - report
 
 categories:

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2009/12/23/av-comparatives-summary-reports-2009-available/
 tags:
-  - news
+  - News
 
 categories:
   - TechBlog

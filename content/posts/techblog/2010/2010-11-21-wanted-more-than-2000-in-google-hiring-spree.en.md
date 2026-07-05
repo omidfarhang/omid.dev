@@ -8,7 +8,7 @@ tags:
   - Google
   - google job
   - job
-  - news
+  - News
 
 categories:
   - TechBlog

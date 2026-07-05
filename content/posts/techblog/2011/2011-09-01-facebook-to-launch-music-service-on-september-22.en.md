@@ -7,7 +7,7 @@ url: 2011/09/01/facebook-to-launch-music-service-on-september-22/
 tags:
   - Announcement
   - Facebook
-  - music
+  - Music
   - social networking
 
 categories:

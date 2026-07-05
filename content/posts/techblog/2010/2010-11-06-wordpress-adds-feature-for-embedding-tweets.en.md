@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/06/wordpress-adds-feature-for-embedding-tweets/
 tags:
   - Announcement
-  - news
+  - News
   - Twitter
   - WordPress
 
