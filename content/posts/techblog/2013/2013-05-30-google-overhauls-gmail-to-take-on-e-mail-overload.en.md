@@ -7,7 +7,7 @@ url: 2013/05/30/google-overhauls-gmail-to-take-on-e-mail-overload/
 image: /images/2013/05/gmail-logo.jpg
 tags:
   - Announcement
-  - email
+  - Email
   - Google
   - gmail
 

@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/csyrppE
 tags:
   - Team Resilience
   - TechTeam Wellbeing
-  - Work Life Balance
+  - Work-Life Balance
   - Stress Management
   - Professional Development
   - Supportive Culture

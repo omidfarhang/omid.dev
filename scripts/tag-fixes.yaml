@@ -230,6 +230,29 @@ canonical_groups:
       - browser
       - Browser
       - browsers
+  
+  - canonical: Email
+    variants:
+      - email
+      - Email
+      - emails
+      - mail
+      - Mail
+
+  - canonical: Work-Life Balance
+    variants:
+      - Work Life Balance
+  
+  - canonical: Instant Messaging
+    variants:
+      - Instant Messaging
+      - instant messaging
+      - instant-messaging
+      - Instant Messaging
+      - instant messaging
+      - instant-messaging
+      - Instant Messaging
+      - instant messaging
 
   # Align post tags to hugo.yaml curated homepage spellings (safe for apply).
   - canonical: React

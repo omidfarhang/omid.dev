@@ -8,7 +8,7 @@ tags:
   - enterprise
   - gmail
   - Google
-  - Mail
+  - Email
   - solution
 
 categories:

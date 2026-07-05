@@ -7,8 +7,7 @@ url: 2009/01/13/handle-suspicious-email/
 shortlink: https://g.omid.dev/7SiUf5O
 tags:
   - phishing
-  - mail
-  - emails
+  - Email
   - how to
   - Security
   - Guide

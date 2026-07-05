@@ -7,7 +7,7 @@ url: 2009/01/13/10-tips-for-safe-instant-messaging/
 shortlink: https://g.omid.dev/xqpKXty
 tags:
   - Safety Tips
-  - instant messaging
+  - Instant Messaging
   - Security
 
 categories:

@@ -7,7 +7,7 @@ url: 2010/10/02/windows-live-essentials-2011-is-available/
 tags:
   - Download
   - Live Essentials
-  - Mail
+  - Email
   - Messenger
   - Microsoft
   - Outlook

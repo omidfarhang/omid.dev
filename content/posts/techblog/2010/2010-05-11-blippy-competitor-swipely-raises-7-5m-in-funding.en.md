@@ -5,8 +5,10 @@ layout: single
 author_profile: true
 url: 2010/05/11/blippy-competitor-swipely-raises-7-5m-in-funding/
 tags:
-  - blippy
-  - swipely
+  - startup
+  - funding-and-scaling
+  - privacy
+  - social-media
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/12/07/chinese-hackers-slurped-50-mb-of-us-gov-email/
 tags:
   - government
   - hack
-  - Mail
+  - Email
   - Microsoft
   - WikiLeaks
   - Security

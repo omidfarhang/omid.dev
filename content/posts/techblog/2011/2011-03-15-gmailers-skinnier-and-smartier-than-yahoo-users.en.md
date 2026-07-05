@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/15/gmailers-skinnier-and-smartier-than-yahoo-users/
 tags:
   - Interesting
-  - Mail
+  - Email
   - survey
 
 categories:

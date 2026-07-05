@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/19/new-hotmail-lets-you-add-bigger-attachments-organize-your-inbox-edit-documents/
 tags:
   - Hotmail
-  - Mail
+  - Email
   - Microsoft
   - News
 

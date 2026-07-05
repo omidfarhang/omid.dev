@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/09/01/mail-ru-protects-e-mail-users-with-wot-reputation-data/
 tags:
   - Announcement
-  - email
+  - Email
   - Security
   - WOT
 

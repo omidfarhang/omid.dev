@@ -14,8 +14,8 @@ tags:
   - Angular
   - ViewChild
   - ContentChild
-  - DOM-Manipulation
-  - Komponenten-Interaktion
+  - DOM Manipulation
+  - Component Interaction
   - Angular Best Practices
   - Frontend
 

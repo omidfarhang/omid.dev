@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/15/firefox-thunderbird-and-seamonkey-updates-fix-critical-vulnerabilities/
 tags:
   - Browsers
-  - Mail
+  - Email
   - Mozilla
   - Updates
 

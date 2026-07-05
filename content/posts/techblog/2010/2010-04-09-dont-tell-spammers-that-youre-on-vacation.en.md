@@ -8,7 +8,7 @@ tags:
   - advice
   - Apple
   - Hotmail
-  - Mail
+  - Email
   - Microsoft
   - spam
   - Security

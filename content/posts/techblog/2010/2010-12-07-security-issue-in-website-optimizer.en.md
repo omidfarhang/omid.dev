@@ -7,7 +7,7 @@ url: 2010/12/07/security-issue-in-website-optimizer/
 tags:
   - Google
   - Google website optimizer
-  - Mail
+  - Email
   - privacy
   - Security
 

@@ -8,7 +8,7 @@ tags:
   - Announcement
   - AOL
   - Beta
-  - Mail
+  - Email
 
 categories:
   - TechBlog
