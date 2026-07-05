@@ -16,9 +16,9 @@ tags:
 categories:
   - TechBlog
 ---
-_Cross-posted from_ [_WIRED_](http://www.wired.com/threatlevel/2013/02/new-stuxnet-variant-found/all/)_._ 
+_Cross-posted from_ [_WIRED_](http://www.wired.com/2013/02/new-stuxnet-variant-found/all/)_._ 
 
-[![Ahmadinejad-at-Natanz-in-2008](http://lh4.ggpht.com/-MjRcWkbyBz4/US4pE-oaobI/AAAAAAAAH3g/hyVPMApvy1Q/Ahmadinejad-at-Natanz-in-2008_thumb%25255B2%25255D.jpg?imgmax=800 "Ahmadinejad-at-Natanz-in-2008")](http://lh6.ggpht.com/-Ddf4V0bOokQ/US4pBrXxyuI/AAAAAAAAH3Y/0ibgWKrHlgY/s1600-h/Ahmadinejad-at-Natanz-in-2008%25255B5%25255D.jpg)
+![Ahmadinejad-at-Natanz-in-2008](/images/2013/02/Ahmadinejad-at-Natanz.webp "Ahmadinejad-at-Natanz-in-2008")
 
 As Iran met in Kazakhstan this week with members of the UN Security Council to discuss its nuclear program, researchers announced that a new variant of the sophisticated cyberweapon known as Stuxnet had been found, which predates other known versions of the malicious code that were reportedly unleashed by the U.S. and Israel several years ago in an attempt to sabotage Iran’s nuclear program. 
 
@@ -40,7 +40,7 @@ In these later variants of Stuxnet, however, only the 315 attack code worked. Th
 
 The 2007 variant resolves that mystery by making it clear that the 417 attack code had at one time been fully complete and enabled before the attackers disabled it in later versions of the weapon. And because the 2007 variant only contained the 417 attack code — with no code attacking the Siemens 315 PLC — it appears that the attackers disabled the 417 code in later versions because they wanted to change their tactics, dropping their focus on sabotaging the valves in order to focus instead on sabotaging the spinning centrifuges. 
 
-[![Natanz_Satellite2](http://lh3.ggpht.com/-VVF34viZQ2Y/US4pLpsi3gI/AAAAAAAAH3w/bshvCDUqErw/Natanz_Satellite2_thumb%25255B3%25255D.jpg?imgmax=800 "Natanz_Satellite2")](http://lh5.ggpht.com/-MJgXjCTuJR0/US4pIsr0BwI/AAAAAAAAH3o/o1L1o4M4NrM/s1600-h/Natanz_Satellite2%25255B5%25255D.jpg)
+![Natanz_Satellite2](/images/2013/02/Natanz_Satellite2.webp "Natanz_Satellite2")
 
 Symantec discovered the 2007 variant a few months ago during a routine search of its malware database while looking for files that matched patterns of known malware. 
 
@@ -64,7 +64,7 @@ The domains for the servers were: smartclick.org, best-advertising.net, internet
 
 Like later versions of Stuxnet, this one had the ability to deliver updates of itself to machines that were not connected to the internet, using peer-to-peer communication. Though later versions used RPC for the peer-to-peer communication, this one used [Windows mailslots](http://msdn.microsoft.com/en-us/library/windows/desktop/aa365130%28v=vs.85%29.aspx). All the attackers had to do was use the command-and-control server to update the code on one infected machine that was connected to the internet, and others on the local internal network would receive the update from that machine. 
 
-[![Stuxnet-CC-Home-Page](http://lh3.ggpht.com/-W6FKiak-HaU/US4pR0HV1DI/AAAAAAAAH4A/wG-c4a50x_E/Stuxnet-CC-Home-Page_thumb%25255B2%25255D.png?imgmax=800 "Stuxnet-CC-Home-Page")](http://lh5.ggpht.com/-l-KA5hE6Idw/US4pOnY8XsI/AAAAAAAAH34/EB0q5zQ23Xo/s1600-h/Stuxnet-CC-Home-Page%25255B4%25255D.png) 
+![Stuxnet-CC-Home-Page](/images/2013/02/Stuxnet-CC-Home-Page.webp "Stuxnet-CC-Home-Page")
 
 Once Stuxnet 0.5 found itself on a 417 PLC, and determined that it had found the right system, the attack proceeded in eight stages, sabotaging 6 out of 18 centrifuge cascades. 
 
@@ -74,7 +74,7 @@ In the next part, Stuxnet recorded various data points while the cascades and ce
 
 Each cascade in Natanz is organized in 15 stages or rows, with a different number of centrifuges installed in each stage. Uranium hexafluoride is pumped into cascades at stage 10, where it spins at high speed for months. The centrifugal force causes slightly lighter U-235 isotopes in the gas (the desired isotope for enrichment) to separate from heavier U-238 isotopes. 
 
-[![Centrifuge-Stages_Symantec](http://lh4.ggpht.com/-CL1F3c9JZvY/US4pXBkdfdI/AAAAAAAAH4Q/0MeJB_XQbdE/Centrifuge-Stages_Symantec_thumb%25255B4%25255D.jpg?imgmax=800 "Centrifuge-Stages_Symantec")](http://lh6.ggpht.com/-6SWKSQIIYmU/US4pU8dAqlI/AAAAAAAAH4I/TrMRexIvMmc/s1600-h/Centrifuge-Stages_Symantec%25255B6%25255D.jpg)
+![Centrifuge-Stages_Symantec](/images/2013/02/Centrifuge-Stages_Symantec.webp "Centrifuge-Stages_Symantec")
 
 The gas containing the concentration of U-235 is then siphoned out of the centrifuges and passed to stage 9 of the cascade to be further enriched, while the depleted gas containing the concentration of U-238 isotopes is diverted to cascades in stage 11. The process repeats for a number of stages, with the enriched uranium becoming more concentrated with U-235 isotopes at each stage until the desired level of enrichment is achieved. 
 
@@ -90,7 +90,7 @@ Hall A is divided into cascade rooms that are labeled Unit A21, Unit A22, etc up
 
 According to reports released by the UN’s International Atomic Energy Agency, which monitors Iran’s nuclear program, by May 2007, Iran had installed 10 cascades, consisting of a total of 1,064 centrifuges, in Hall A. By May of 2008, Iran had 2,952 centrifuges installed, and Iranian President Mahmoud Ahmadinejad announced plans to increase the number of centrifuges to 6,000. The numbers did increase throughout 2008 and early 2009, with gas being fed into them shortly after they were installed. But the number of cascades that were being fed gas and the amount of gas being fed began to drop sometime between January and August 2009 when Iran appeared to be having problems with some of its cascades. In late 2009, IAEA inspectors noticed that technicians at Natanz were actually removing centrifuges from cascades and replacing them with new ones. All of this would seem to coincide with the timing of Stuxnet. 
 
-[![ISIS-chart](http://lh5.ggpht.com/-TkcBjduZzJg/US4pdQ-1S7I/AAAAAAAAH4g/M7WEI8F5g-g/ISIS-chart_thumb%25255B3%25255D.jpg?imgmax=800 "ISIS-chart")](http://lh6.ggpht.com/-A866abqJ12I/US4pabcmmaI/AAAAAAAAH4Y/ntTjH8RzowQ/s1600-h/ISIS-chart%25255B5%25255D.jpg)
+![ISIS-chart](/images/2013/02/ISIS-chart.webp "ISIS-chart")
 
 One final interesting detail of note about the new variant — during the installation process of Stuxnet 0.5, the malware created a driver file that caused a forced reboot of a machine 20 days after the malware infected it. It did this by generating a BSoD (Blue Screen of Death) — the infamous blue screen that appears on Windows machines when they crash. 
 
