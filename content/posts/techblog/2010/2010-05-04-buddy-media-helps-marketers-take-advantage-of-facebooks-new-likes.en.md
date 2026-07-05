@@ -8,7 +8,7 @@ tags:
   - Buddy Media
   - Facebook
   - MARKETING
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

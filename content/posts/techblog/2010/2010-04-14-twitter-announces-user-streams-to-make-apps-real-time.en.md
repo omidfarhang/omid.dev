@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/14/twitter-announces-user-streams-to-make-apps-real-time/
 tags:
   - News
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

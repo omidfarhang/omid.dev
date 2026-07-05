@@ -7,7 +7,7 @@ url: 2012/02/16/over-90-of-facebook-users-hate-having-photos-of-them-posted-with
 tags:
   - Facebook
   - Facebook Privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/03/18/facebook-suffers-password-reset-scam/
 tags:
   - Facebook
   - scam
-  - social networking
+  - Social Media
   - spam
   - Security
 

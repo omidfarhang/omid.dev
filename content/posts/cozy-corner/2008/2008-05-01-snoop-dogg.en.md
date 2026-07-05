@@ -7,7 +7,6 @@ url: 2008/05/01/snoop-dogg/
 shortlink: https://g.omid.dev/1LmDHPQ
 image: /images/sites/4/2008/05/snoop-dogg.jpg
 tags:
-  - Snoop Dogg
   - Music
 
 categories: 

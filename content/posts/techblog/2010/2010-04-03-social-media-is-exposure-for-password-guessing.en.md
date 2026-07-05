@@ -9,7 +9,7 @@ tags:
   - Facebook
   - News
   - Password
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

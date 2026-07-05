@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/26/ive-some-new-toys/
 image: /images/sites/2/2012/03/HTC_Wildfire_S_Viewpoints-C.jpg
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

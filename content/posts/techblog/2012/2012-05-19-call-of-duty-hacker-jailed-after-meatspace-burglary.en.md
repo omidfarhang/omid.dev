@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/05/19/call-of-duty-hacker-jailed-after-meatspace-burglary/
 tags:
-  - Game
+  - Gaming
   - hack
   - News
   - report

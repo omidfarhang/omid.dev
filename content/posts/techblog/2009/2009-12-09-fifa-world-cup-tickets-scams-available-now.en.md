@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/09/fifa-world-cup-tickets-scams-available-now/
 shortlink: https://g.omid.dev/1Y7HiDt
 tags:
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

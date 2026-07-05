@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1n5JDRK
 image: /images/2015/08/55baa47a9e9755183d97dc0e_taylor-swift-september-cover-vf-03.jpg
 tags:
   - photoshoot
-  - taylor swift
+  - Music
 
 categories: 
   - Cozy Corner

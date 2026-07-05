@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/11/24/damn-the-only-thing-i-did-not-need-happened/
 image: /images/sites/2/2011/11/lone-cross.jpg
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

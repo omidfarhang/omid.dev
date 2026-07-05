@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/06/gaming-trojans-because-thats-where-the-money-is/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - report
   - scam
   - Security

@@ -8,7 +8,7 @@ tags:
   - advice
   - alert
   - Malware
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - warning

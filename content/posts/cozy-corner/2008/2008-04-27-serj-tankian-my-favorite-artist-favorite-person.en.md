@@ -7,7 +7,6 @@ url: 2008/04/27/serj-tankian-my-favorite-artist-favorite-person/
 shortlink: https://g.omid.dev/1VLtSeF
 image: /images/sites/4/2008/04/17041865-17041868-slarge.jpg
 tags:
-  - Serj Tankian
   - Music
 
 categories: 

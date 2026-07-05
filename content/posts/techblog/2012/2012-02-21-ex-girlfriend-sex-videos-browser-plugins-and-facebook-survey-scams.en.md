@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/21/ex-girlfriend-sex-videos-browser-plugins-and-facebook-survey-scams/
 tags:
   - Facebook
-  - facebook phishing
+  - Phishing
   - scam
   - spam
   - Security

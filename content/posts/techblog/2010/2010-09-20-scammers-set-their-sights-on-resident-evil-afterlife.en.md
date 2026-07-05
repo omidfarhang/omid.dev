@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/09/20/scammers-set-their-sights-on-resident-evil-afterlife/
 tags:
-  - phishing
+  - Phishing
   - report
   - review
   - scam

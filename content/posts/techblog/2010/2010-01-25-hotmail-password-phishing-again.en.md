@@ -7,7 +7,7 @@ url: 2010/01/25/hotmail-password-phishing-again/
 tags:
   - alert
   - Microsoft
-  - phishing
+  - Phishing
   - spam
   - Security
 

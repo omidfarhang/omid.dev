@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/01/free-fakeav-at-virus-total-thats-not-virustotal/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - spam

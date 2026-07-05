@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2009/12/29/twitter-banned-passwords/
 tags:
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

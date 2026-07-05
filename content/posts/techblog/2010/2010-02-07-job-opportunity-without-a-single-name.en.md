@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/07/job-opportunity-without-a-single-name/
 tags:
   - AOL
-  - phishing
+  - Phishing
   - spam
   - Security
 

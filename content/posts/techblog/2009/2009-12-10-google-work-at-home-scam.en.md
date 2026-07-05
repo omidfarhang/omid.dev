@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/10/google-work-at-home-scam/
 shortlink: https://g.omid.dev/1Y7H6ny
 tags:
-  - phishing
+  - Phishing
   - scam
   - Security
 

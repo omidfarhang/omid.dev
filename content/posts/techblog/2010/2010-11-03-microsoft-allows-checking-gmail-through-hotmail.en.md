@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/03/microsoft-allows-checking-gmail-through-hotmail/
 tags:
-  - gmail
+  - Gmail
   - Hotmail
   - Microsoft
   - Windows Live

@@ -6,8 +6,7 @@ author_profile: true
 url: 2010/08/27/facebook-login-phishing/
 tags:
   - Facebook
-  - facebook phishing
-  - phishing
+  - Phishing
   - Security
 
 categories:

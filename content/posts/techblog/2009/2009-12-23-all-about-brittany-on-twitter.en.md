@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 url: 2009/12/23/all-about-brittany-on-twitter/
 tags:
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

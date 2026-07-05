@@ -7,7 +7,7 @@ url: 2010/10/29/facebook-now-tries-to-tell-the-story-between-two-friends/
 tags:
   - Facebook
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -7,7 +7,6 @@ url: 2008/04/27/astrix-a-psychedelic-trance-dj-and-producer-specialising-in-the-
 shortlink: https://g.omid.dev/1Ln1HSP
 image: /images/sites/4/2008/04/astrix3.jpg
 tags:
-  - Astrix
   - Music
 
 categories: 

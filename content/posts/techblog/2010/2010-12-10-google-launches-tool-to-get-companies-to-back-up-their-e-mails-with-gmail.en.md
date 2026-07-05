@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/10/google-launches-tool-to-get-companies-to-back-up-their-e-mails-with-gmail/
 tags:
   - enterprise
-  - gmail
+  - Gmail
   - Google
   - Email
   - solution

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/21/never-gonna-come-back-down/
 tags:
   - link
-  - video
+  - Video
 
 categories: 
   - Cozy Corner

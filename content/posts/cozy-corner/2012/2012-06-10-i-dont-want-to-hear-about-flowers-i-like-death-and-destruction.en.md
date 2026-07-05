@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/06/10/i-dont-want-to-hear-about-flowers-i-like-death-and-destruction/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

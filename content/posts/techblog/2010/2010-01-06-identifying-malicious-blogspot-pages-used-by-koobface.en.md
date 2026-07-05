@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/06/identifying-malicious-blogspot-pages-used-by-koobface/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - scam
   - Security
 

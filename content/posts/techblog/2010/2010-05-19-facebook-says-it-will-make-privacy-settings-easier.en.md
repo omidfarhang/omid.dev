@@ -8,7 +8,7 @@ tags:
   - Facebook
   - News
   - privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

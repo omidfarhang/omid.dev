@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/08/31/using-gmail-calendar-and-docs-without-an-internet-connection/
 tags:
   - Announcement
-  - gmail
+  - Gmail
   - Google
   - News
   - offline

@@ -6,10 +6,10 @@ author_profile: true
 url: 2010/03/04/big-brother-in-social-networking-scam/
 tags:
   - alert
-  - phishing
+  - Phishing
   - report
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

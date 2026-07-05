@@ -8,7 +8,7 @@ tags:
   - Facebook
   - facebook credits
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

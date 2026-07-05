@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/06/seen-in-the-wild-specialty-phishing/
 tags:
   - hack
-  - phishing
+  - Phishing
   - spam
   - Security
 

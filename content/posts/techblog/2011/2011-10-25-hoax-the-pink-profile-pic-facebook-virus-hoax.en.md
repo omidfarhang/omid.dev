@@ -8,7 +8,7 @@ tags:
   - Facebook
   - hoax
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

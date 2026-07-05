@@ -11,7 +11,7 @@ tags:
   - News
   - Password
   - Security
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

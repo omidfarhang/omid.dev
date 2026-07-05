@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/12/twitter-starts-direct-message-phishing-filtering/
 tags:
   - News
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

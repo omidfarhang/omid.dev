@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Facebook
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/04/14/twitter-has-105-million-registered-users/
 tags:
   - News
   - report
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

@@ -9,7 +9,7 @@ tags:
   - privacy
   - report
   - review
-  - social networking
+  - Social Media
   - survey
 
 categories:

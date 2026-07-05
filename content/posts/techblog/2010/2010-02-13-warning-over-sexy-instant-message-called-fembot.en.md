@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/13/warning-over-sexy-instant-message-called-fembot/
 tags:
   - Instant Messaging
-  - phishing
+  - Phishing
   - scam
   - Security
 

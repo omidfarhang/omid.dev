@@ -6,7 +6,7 @@ author_profile: true
 url: 2013/03/11/and-a2-is-passed/
 image: /images/sites/2/2013/03/passfail-small10.jpg
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

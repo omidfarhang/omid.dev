@@ -8,7 +8,6 @@ shortlink: https://g.omid.dev/1Sc1xza
 image: /images/sites/4/2015/06/ts-125448.png
 tags:
   - Billboard
-  - taylor swift
   - Music
 
 categories: 

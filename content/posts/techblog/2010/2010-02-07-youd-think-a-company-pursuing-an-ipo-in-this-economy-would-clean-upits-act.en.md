@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/02/07/youd-think-a-company-pursuing-an-ipo-in-this-economy-would-clean-upits-act/
 tags:
-  - phishing
+  - Phishing
   - scam
   - Security
 

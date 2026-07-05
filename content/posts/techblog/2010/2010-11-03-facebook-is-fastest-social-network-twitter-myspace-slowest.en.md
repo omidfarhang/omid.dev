@@ -9,8 +9,7 @@ tags:
   - LinkedIn
   - MySpace
   - report
-  - social media
-  - social networking
+  - Social Media
   - Twitter
   - YouTube
 

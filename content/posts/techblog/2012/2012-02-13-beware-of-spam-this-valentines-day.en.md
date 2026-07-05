@@ -7,7 +7,7 @@ url: 2012/02/13/beware-of-spam-this-valentines-day/
 tags:
   - alert
   - Malware
-  - phishing
+  - Phishing
   - report
   - scam
   - spam

@@ -8,7 +8,7 @@ tags:
   - Google
   - News
   - Real-Time Search
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

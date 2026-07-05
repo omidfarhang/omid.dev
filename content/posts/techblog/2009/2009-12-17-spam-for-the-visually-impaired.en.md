@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/17/spam-for-the-visually-impaired/
 shortlink: https://g.omid.dev/1Y7H6nK
 tags:
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

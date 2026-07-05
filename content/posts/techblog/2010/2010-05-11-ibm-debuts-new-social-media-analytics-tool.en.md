@@ -9,7 +9,7 @@ tags:
   - MARKETING
   - social media analytics
   - social media monitoring
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

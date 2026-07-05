@@ -7,7 +7,7 @@ url: 2010/03/04/battlefield-keygens-are-bad-company/
 tags:
   - advice
   - alert
-  - Game
+  - Gaming
   - Malware
   - YouTube
   - Security

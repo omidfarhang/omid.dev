@@ -7,8 +7,9 @@ url: 2011/03/02/google-acquires-zynamics/
 tags:
   - Google
   - News
+  - Acquisition
+  - Business
   - Security
-  - Zynamics
 
 categories:
   - TechBlog

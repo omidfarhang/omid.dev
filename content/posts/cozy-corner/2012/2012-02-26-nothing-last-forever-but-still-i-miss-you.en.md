@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/26/nothing-last-forever-but-still-i-miss-you/
 image: /images/sites/2/2013/03/passfail-small10.jpg
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

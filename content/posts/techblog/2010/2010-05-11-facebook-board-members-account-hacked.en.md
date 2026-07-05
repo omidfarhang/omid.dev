@@ -6,8 +6,8 @@ author_profile: true
 url: 2010/05/11/facebook-board-members-account-hacked/
 tags:
   - Facebook
-  - facebook phishing
-  - social networking
+  - Phishing
+  - Social Media
 
 categories:
   - TechBlog

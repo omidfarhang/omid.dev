@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/01/02/feeling-good-abnormally/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

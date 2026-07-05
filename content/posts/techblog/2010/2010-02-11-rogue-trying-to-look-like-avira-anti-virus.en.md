@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/11/rogue-trying-to-look-like-avira-anti-virus/
 tags:
   - alert
-  - phishing
+  - Phishing
   - scam
   - Security
 

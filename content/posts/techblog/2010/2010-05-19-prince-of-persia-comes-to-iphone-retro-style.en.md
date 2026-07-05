@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/19/prince-of-persia-comes-to-iphone-retro-style/
 tags:
   - Apple
-  - Game
+  - Gaming
   - iphone
   - Ubisoft
 

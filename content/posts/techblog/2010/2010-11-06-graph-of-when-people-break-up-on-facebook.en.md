@@ -7,8 +7,7 @@ url: 2010/11/06/graph-of-when-people-break-up-on-facebook/
 tags:
   - Facebook
   - report
-  - social media
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

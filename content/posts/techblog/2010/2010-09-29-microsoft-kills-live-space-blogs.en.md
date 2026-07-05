@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/09/29/microsoft-kills-live-space-blogs/
 tags:
   - breaking
-  - Live Spaces
   - Microsoft
   - MSN
   - News

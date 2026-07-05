@@ -7,7 +7,6 @@ url: 2008/05/18/carlos-santana/
 shortlink: https://g.omid.dev/1oGQEJX
 image: /images/sites/4/2008/05/carlos-santana.jpg
 tags:
-  - Carlos Santana
   - Music
 
 categories: 

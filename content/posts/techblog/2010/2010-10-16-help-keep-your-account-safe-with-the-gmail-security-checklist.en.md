@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/16/help-keep-your-account-safe-with-the-gmail-security-checklist/
 tags:
   - advice
-  - gmail
+  - Gmail
   - Google
   - Hijack
   - Security

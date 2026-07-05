@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/09/conquer-your-gmail-inbox-with-nested-labels/
 tags:
-  - gmail
+  - Gmail
   - gmail labs
   - Google
   - nested labels

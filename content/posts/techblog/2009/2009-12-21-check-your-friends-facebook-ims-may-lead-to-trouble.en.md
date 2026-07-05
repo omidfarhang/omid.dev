@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/21/check-your-friends-facebook-ims-may-lead-to-trouble/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - scam
   - Security
 

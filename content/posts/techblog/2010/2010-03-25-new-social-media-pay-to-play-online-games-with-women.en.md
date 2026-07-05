@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 url: 2010/03/25/new-social-media-pay-to-play-online-games-with-women/
 tags:
-  - Game
+  - Gaming
   - review
-  - social networking
+  - Social Media
   - Wii
   - YouTube
 

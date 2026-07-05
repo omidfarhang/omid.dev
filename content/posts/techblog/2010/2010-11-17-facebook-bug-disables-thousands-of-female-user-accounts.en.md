@@ -7,7 +7,7 @@ url: 2010/11/17/facebook-bug-disables-thousands-of-female-user-accounts/
 tags:
   - Facebook
   - report
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -128,38 +128,30 @@ replacements:
   HighPerformance Web Applications: High-Performance Applications
 
 # Overlapping tags collapsed to one canonical tag per post.
+#
+# Format variants (case, camelCase, kebab-case, spaces) are matched automatically
+# via Hugo slug normalization — list variants only for different spellings or
+# meanings that normalize differently (e.g. Google Mail -> gmail, browser -> Browsers).
 canonical_groups:
-  - canonical: gmail
+  - canonical: Gmail
     variants:
-      - gmail
       - Google Mail
       - Googlemail
       - google-mail
       - googlemail
 
   - canonical: VS Code
-    variants:
-      - VS Code
-      - vscode
-      - vs-code
 
   - canonical: Cursor IDE
     variants:
       - Cursor
-      - Cursor IDE
-      - cursor ide
 
   - canonical: Windows 8
     variants:
-      - Windows 8
       - windows 8.1
-      - windows-8
-      - Windows-8
 
   - canonical: Internet Explorer
     variants:
-      - Internet Explorer
-      - internet explorer
       - internet explorer 9
       - internet explorer 10
       - Internet Explorer 9
@@ -169,108 +161,86 @@ canonical_groups:
 
   - canonical: UI/UX
     variants:
-      - UI/UX
       - UI/UX Design
-      - ui/ux
-      - ui/ux-design
 
   - canonical: Microservices
     variants:
-      - Microservices
       - Microservices Architecture
-      - microservices
-      - microservices architecture
 
   - canonical: Container Orchestration
     variants:
-      - Container Orchestration
       - Advanced Container Orchestration
-      - container orchestration
-      - advanced container orchestration
 
   - canonical: Chaos Engineering
     variants:
-      - Chaos Engineering
       - Chaos Testing
-      - chaos engineering
-      - chaos testing
 
   - canonical: Troubleshooting
     variants:
-      - Troubleshooting
       - Troubleshooting Electronics
-      - troubleshooting
-      - troubleshooting electronics
 
   - canonical: Responsive Design
-    variants:
-      - Responsive Design
-      - ResponsiveDesign
-      - responsive-design
-      - responsive design
 
   - canonical: News
-    variants:
-      - news
-  
+
   - canonical: Windows
-    variants:
-      - windows
-  
+
   - canonical: Music
-    variants:
-      - music
-  
+
   - canonical: Microsoft
-    variants:
-      - microsoft
 
   - canonical: Browsers
     variants:
       - browser
-      - Browser
       - browsers
-  
+
   - canonical: Email
     variants:
-      - email
-      - Email
       - emails
       - mail
-      - Mail
 
   - canonical: Work-Life Balance
     variants:
       - Work Life Balance
-  
-  - canonical: Instant Messaging
-    variants:
-      - Instant Messaging
-      - instant messaging
-      - instant-messaging
-      - Instant Messaging
-      - instant messaging
-      - instant-messaging
-      - Instant Messaging
-      - instant messaging
 
+  - canonical: Instant Messaging
+
+  - canonical: Social Media
+    variants:
+      - social networking
+      - social-networking
+      - social-network
+
+  - canonical: Gaming
+    variants:
+      - game
+      - games
+      - Casual Games
+      - casual games
+      - casual-games
+      - casual-game
+
+  - canonical: Phishing
+    variants:
+      - facebook phishing
+
+  - canonical: My Life
+  
+  - canonical: Video
+
+  - canonical: Music
+    variants:
+      - Artists
   # Align post tags to hugo.yaml curated homepage spellings (safe for apply).
   - canonical: React
-    variants:
-      - react
 
   - canonical: Rust
-    variants:
-      - rust
 
   - canonical: CSS
-    variants:
-      - css
 
   - canonical: Career
-    variants:
-      - career
 
   - canonical: Event-Driven Architecture
-    variants:
-      - Event Driven Architecture
+
+# Tags stripped from every post (case / camelCase / kebab-case matched automatically).
+remove: []

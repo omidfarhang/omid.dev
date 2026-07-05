@@ -7,7 +7,7 @@ url: 2011/08/04/facebook-captcha-fail/
 tags:
   - Facebook
   - Fun
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

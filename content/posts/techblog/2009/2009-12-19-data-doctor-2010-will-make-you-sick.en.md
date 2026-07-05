@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/19/data-doctor-2010-will-make-you-sick/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

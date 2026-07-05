@@ -7,11 +7,11 @@ url: 2011/08/14/twitter-finally-released-a-stalkers-app-no-its-a-phishing-scam/
 tags:
   - advice
   - Password
-  - phishing
+  - Phishing
   - review
   - scam
   - Security
-  - social networking
+  - Social Media
   - spam
   - Twitter
 

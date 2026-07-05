@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/03/09/i-need-your-help-for-paypal/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

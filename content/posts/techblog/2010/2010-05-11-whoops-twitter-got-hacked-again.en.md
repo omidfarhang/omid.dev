@@ -8,7 +8,7 @@ tags:
   - advice
   - hack
   - report
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

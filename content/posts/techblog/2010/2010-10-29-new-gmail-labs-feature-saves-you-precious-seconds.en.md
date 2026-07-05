@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/10/29/new-gmail-labs-feature-saves-you-precious-seconds/
 tags:
-  - gmail
+  - Gmail
   - gmail labs
   - Google
 

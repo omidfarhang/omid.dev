@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/09/01/german-censors-approve-new-action-game/
 tags:
-  - games
+  - Gaming
   - Germany
   - report
 

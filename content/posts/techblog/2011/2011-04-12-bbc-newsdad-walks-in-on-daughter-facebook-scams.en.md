@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/04/12/bbc-newsdad-walks-in-on-daughter-facebook-scams/
 tags:
   - Facebook
-  - facebook phishing
+  - Phishing
   - Malware
   - scam
   - Security

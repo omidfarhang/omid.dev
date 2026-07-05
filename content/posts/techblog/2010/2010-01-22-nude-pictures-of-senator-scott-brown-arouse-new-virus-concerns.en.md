@@ -7,7 +7,7 @@ url: 2010/01/22/nude-pictures-of-senator-scott-brown-arouse-new-virus-concerns/
 tags:
   - alert
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

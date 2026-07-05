@@ -7,10 +7,9 @@ url: 2010/12/15/dont-lie-to-me-angelina/
 tags:
   - advice
   - alert
-  - phishing
+  - Phishing
   - report
-  - social media
-  - social networking
+  - Social Media
   - spam
   - Security
 

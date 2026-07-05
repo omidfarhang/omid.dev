@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/10/twitter-60-percent-growth-outside-u-s/
 tags:
   - report
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

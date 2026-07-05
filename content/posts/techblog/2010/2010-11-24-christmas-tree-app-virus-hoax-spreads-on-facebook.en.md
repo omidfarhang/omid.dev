@@ -8,7 +8,7 @@ tags:
   - Facebook
   - hoax
   - report
-  - social networking
+  - Social Media
   - Security
 
 categories:

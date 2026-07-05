@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/08/27/strings-of-my-mind/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

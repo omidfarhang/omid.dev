@@ -6,7 +6,6 @@ author_profile: true
 url: 2013/05/03/taylor-swift-needs-your-support/
 image: /images/sites/4/2013/05/Taylor-Billbord.jpg
 tags:
-  - taylor swift
   - Music
 
 categories: 

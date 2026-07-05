@@ -5,10 +5,8 @@ layout: single
 author_profile: true
 url: 2010/05/11/microsofts-project-natal-to-launch-in-october/
 tags:
-  - Game
+  - Gaming
   - Game console
-  - games
-  - gaming
   - Microsoft
   - Project Natal
   - Wii

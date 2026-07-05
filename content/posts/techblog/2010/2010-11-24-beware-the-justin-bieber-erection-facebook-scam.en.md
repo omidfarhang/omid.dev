@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/24/beware-the-justin-bieber-erection-facebook-scam/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - report
   - scam
   - Security

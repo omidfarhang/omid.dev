@@ -9,7 +9,7 @@ tags:
   - Hijack
   - Malware
   - review
-  - social networking
+  - Social Media
   - spam
   - Security
 

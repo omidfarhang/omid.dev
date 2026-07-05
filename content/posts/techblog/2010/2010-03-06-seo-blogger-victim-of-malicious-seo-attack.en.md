@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/06/seo-blogger-victim-of-malicious-seo-attack/
 tags:
   - alert
-  - phishing
+  - Phishing
   - scam
   - Security
 

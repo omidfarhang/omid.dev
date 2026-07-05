@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/28/days-are-still-going-on-but-how-part2/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

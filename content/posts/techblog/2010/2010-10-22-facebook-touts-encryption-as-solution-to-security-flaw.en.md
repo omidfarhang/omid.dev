@@ -9,7 +9,7 @@ tags:
   - Facebook Privacy
   - News
   - privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

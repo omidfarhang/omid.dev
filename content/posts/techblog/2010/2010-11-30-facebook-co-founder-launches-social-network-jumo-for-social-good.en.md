@@ -9,7 +9,7 @@ tags:
   - Facebook
   - Jumo
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -5,12 +5,10 @@ layout: single
 author_profile: true
 url: 2010/05/03/second-life-users-file-class-action-lawsuit-over-virtual-land/
 tags:
-  - Game
-  - games
+  - Gaming
   - report
   - SecondLife
-  - social media
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

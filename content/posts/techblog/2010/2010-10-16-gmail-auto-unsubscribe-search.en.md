@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/10/16/gmail-auto-unsubscribe-search/
 tags:
-  - gmail
+  - Gmail
   - gmail labs
   - Google
   - Tricks

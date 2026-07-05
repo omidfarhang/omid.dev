@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/15/twitter-enables-https-for-all-signed-in-users/
 tags:
   - News
-  - social networking
+  - Social Media
   - SSL
   - Twitter
 

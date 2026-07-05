@@ -7,7 +7,7 @@ url: 2010/02/12/interview-with-a-nigerian-419-scammer/
 tags:
   - advice
   - News
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

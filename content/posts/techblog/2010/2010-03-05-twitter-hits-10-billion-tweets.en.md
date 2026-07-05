@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/05/twitter-hits-10-billion-tweets/
 tags:
   - News
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

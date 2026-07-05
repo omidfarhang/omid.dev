@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/05/03/phishers-offer-fake-storage-upgrades/
 tags:
   - alert
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

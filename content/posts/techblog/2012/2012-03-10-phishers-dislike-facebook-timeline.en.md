@@ -6,10 +6,9 @@ author_profile: true
 url: 2012/03/10/phishers-dislike-facebook-timeline/
 tags:
   - Facebook
-  - facebook phishing
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/22/please-give-me-your-credit-card/
 tags:
   - Instant Messaging
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

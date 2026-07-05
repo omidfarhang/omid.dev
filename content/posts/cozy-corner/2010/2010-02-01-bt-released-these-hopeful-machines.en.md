@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/02/01/bt-released-these-hopeful-machines/
 image: /images/sites/4/2013/05/these-front.jpg
 tags:
-  - bt
   - Music
 
 categories: 

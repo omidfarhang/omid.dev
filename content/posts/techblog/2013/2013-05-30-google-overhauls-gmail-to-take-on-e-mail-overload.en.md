@@ -9,7 +9,7 @@ tags:
   - Announcement
   - Email
   - Google
-  - gmail
+  - Gmail
 
 categories:
   - TechBlog

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/16/symantec-spam-and-phishing-landscape-january-2010/
 tags:
-  - phishing
+  - Phishing
   - report
   - spam
   - Security

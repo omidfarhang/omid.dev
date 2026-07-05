@@ -10,7 +10,7 @@ tags:
   - Facebook
   - MySpace
   - report
-  - social networking
+  - Social Media
   - stats
   - Security
 

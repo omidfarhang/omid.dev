@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/22/facebook-money-mule-or-credit-card/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - scam
   - Security
 

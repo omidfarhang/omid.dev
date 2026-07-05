@@ -6,9 +6,9 @@ author_profile: true
 url: 2010/03/02/this-you-whats-the-point-of-phishing-a-twitter-account/
 tags:
   - advice
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - Twitter
   - Yahoo
   - Security

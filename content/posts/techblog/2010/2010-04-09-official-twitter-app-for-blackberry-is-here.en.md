@@ -9,7 +9,7 @@ tags:
   - Mobile 2.0
   - mobile apps
   - News
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

@@ -9,7 +9,7 @@ tags:
   - Facebook
   - hoax
   - review
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

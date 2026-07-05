@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/11/rebranded-rogue-claims-to-be-mcafee-secure-certified/
 shortlink: https://g.omid.dev/1Y7HouO
 tags:
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

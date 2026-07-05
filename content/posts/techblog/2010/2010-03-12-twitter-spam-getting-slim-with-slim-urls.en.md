@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/12/twitter-spam-getting-slim-with-slim-urls/
 tags:
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - Security

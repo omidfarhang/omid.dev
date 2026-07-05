@@ -29,6 +29,7 @@ CURATED_TAG_KEYS = (
 class TagFixConfig:
     replacements: dict[str, str] = field(default_factory=dict)
     canonical_groups: list[dict[str, object]] = field(default_factory=list)
+    remove: list[str] = field(default_factory=list)
 
     @classmethod
     def load(cls, path: Path | None) -> TagFixConfig:
@@ -38,6 +39,7 @@ class TagFixConfig:
         return cls(
             replacements={str(k): str(v) for k, v in (data.get("replacements") or {}).items()},
             canonical_groups=list(data.get("canonical_groups") or []),
+            remove=[str(tag) for tag in (data.get("remove") or [])],
         )
 
     def variant_to_canonical(self) -> dict[str, str]:
@@ -50,6 +52,27 @@ class TagFixConfig:
             for variant in variants:
                 mapping[str(variant)] = canonical
         return mapping
+
+    def normalized_to_canonical(self) -> dict[str, str]:
+        """Map Hugo-normalized slugs to canonical tags (case, camelCase, kebab-case, etc.)."""
+        mapping: dict[str, str] = {}
+        for group in self.canonical_groups:
+            canonical = str(group.get("canonical", "")).strip()
+            if not canonical:
+                continue
+            canonical_norm = normalize_slug(canonical)
+            mapping[canonical_norm] = canonical
+            for variant in group.get("variants") or []:
+                mapping[normalize_slug(str(variant))] = canonical
+        return mapping
+
+    def normalized_remove_slugs(self) -> set[str]:
+        return {normalize_slug(tag) for tag in self.remove if str(tag).strip()}
+
+    def should_remove(self, tag: str) -> bool:
+        if not self.remove:
+            return False
+        return normalize_slug(tag) in self.normalized_remove_slugs()
 
 
 @dataclass
@@ -120,11 +143,24 @@ def validate_config(config: TagFixConfig, curated: CuratedTags) -> list[ConfigVa
                 )
             )
 
+    norm_owners: dict[str, str] = {}
     for group in config.canonical_groups:
         canonical = str(group.get("canonical", "")).strip()
         variants = [str(variant) for variant in (group.get("variants") or [])]
         if not canonical:
             continue
+
+        for tag in [canonical, *variants]:
+            norm = normalize_slug(tag)
+            owner = norm_owners.get(norm)
+            if owner and owner != canonical:
+                errors.append(
+                    ConfigValidationError(
+                        f"normalized slug {norm!r} maps to both {owner!r} and {canonical!r}"
+                    )
+                )
+            else:
+                norm_owners[norm] = canonical
 
         curated_variants = [variant for variant in variants if curated.is_curated(variant)]
         if curated.is_curated(canonical):
@@ -150,6 +186,23 @@ def validate_config(config: TagFixConfig, curated: CuratedTags) -> list[ConfigVa
                         f"canonical group mixes curated tag {variant!r} with unrelated canonical {canonical!r}"
                     )
                 )
+
+    for tag in config.remove:
+        tag = str(tag).strip()
+        if not tag:
+            continue
+        if curated.is_curated(tag):
+            errors.append(
+                ConfigValidationError(f"remove list includes curated tag {tag!r}")
+            )
+            continue
+        curated_match = curated.curated_for(tag)
+        if curated_match:
+            errors.append(
+                ConfigValidationError(
+                    f"remove list includes tag {tag!r} matching curated tag {curated_match!r}"
+                )
+            )
 
     return errors
 
@@ -228,14 +281,24 @@ def read_post(path: Path) -> PostTags | None:
     )
 
 
-def apply_fixes(tags: list[str], config: TagFixConfig) -> tuple[list[str], list[tuple[str, str]]]:
+def canonicalize_tag(tag: str, config: TagFixConfig) -> str:
+    new_tag = config.replacements.get(tag, tag)
     variant_map = config.variant_to_canonical()
+    if new_tag in variant_map:
+        return variant_map[new_tag]
+    norm_map = config.normalized_to_canonical()
+    canonical = norm_map.get(normalize_slug(new_tag))
+    if canonical is not None:
+        return canonical
+    return new_tag
+
+
+def apply_fixes(tags: list[str], config: TagFixConfig) -> tuple[list[str], list[tuple[str, str]]]:
     changes: list[tuple[str, str]] = []
     mapped_tags: list[str] = []
 
     for tag in tags:
-        new_tag = config.replacements.get(tag, tag)
-        new_tag = variant_map.get(new_tag, new_tag)
+        new_tag = canonicalize_tag(tag, config)
         if new_tag != tag:
             changes.append((tag, new_tag))
         mapped_tags.append(new_tag)
@@ -250,7 +313,14 @@ def apply_fixes(tags: list[str], config: TagFixConfig) -> tuple[list[str], list[
         seen.add(mapped_tag)
         deduped.append(mapped_tag)
 
-    return deduped, changes
+    filtered: list[str] = []
+    for tag in deduped:
+        if config.should_remove(tag):
+            changes.append((tag, "(removed)"))
+            continue
+        filtered.append(tag)
+
+    return filtered, changes
 
 
 def write_post(post: PostTags, tags: list[str], *, dry_run: bool) -> None:
@@ -420,7 +490,7 @@ def print_scan_report(
             for old, new in changes:
                 print(f"    {old!r} -> {new!r}")
         print()
-    elif config.replacements or config.canonical_groups:
+    elif config.replacements or config.canonical_groups or config.remove:
         print("Configured fixes: none would change any post.\n")
     else:
         print("No tag-fixes.yaml loaded (or file is empty).\n")
@@ -546,7 +616,7 @@ def build_parser() -> argparse.ArgumentParser:
         "-c",
         type=Path,
         default=None,
-        help=f"YAML config with replacements and canonical_groups (default: {DEFAULT_CONFIG})",
+        help=f"YAML config with replacements, canonical_groups, and remove (default: {DEFAULT_CONFIG})",
     )
     parser.add_argument(
         "--hugo-config",
@@ -603,7 +673,7 @@ def main() -> int:
     config = TagFixConfig.load(config_path if config_path.is_file() else None)
     curated = load_curated_tags(hugo_path) if hugo_path.is_file() else CuratedTags()
 
-    if args.command == "apply" and not config.replacements and not config.canonical_groups:
+    if args.command == "apply" and not config.replacements and not config.canonical_groups and not config.remove:
         print(
             f"No fixes configured. Create {DEFAULT_CONFIG} (see tag-fixes.example.yaml) "
             "or pass --config.",

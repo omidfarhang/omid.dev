@@ -9,7 +9,7 @@ tags:
   - MySpace
   - News
   - report
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

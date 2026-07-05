@@ -8,7 +8,7 @@ tags:
   - Film
   - Music
   - MySpace
-  - social media
+  - Social Media
 
 categories:
   - TechBlog

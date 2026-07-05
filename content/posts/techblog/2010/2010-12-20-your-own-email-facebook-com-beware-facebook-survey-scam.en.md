@@ -7,7 +7,7 @@ url: 2010/12/20/your-own-email-facebook-com-beware-facebook-survey-scam/
 tags:
   - Facebook
   - scam
-  - social networking
+  - Social Media
   - spam
   - Security
 

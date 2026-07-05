@@ -6,9 +6,8 @@ author_profile: true
 url: 2010/09/17/new-phishing-spam-waves-using-facebook-as-bait/
 tags:
   - Facebook
-  - facebook phishing
-  - phishing
-  - social networking
+  - Phishing
+  - Social Media
   - spam
   - Security
 

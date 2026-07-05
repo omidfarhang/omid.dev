@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/08/new-rogue-safepcav/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

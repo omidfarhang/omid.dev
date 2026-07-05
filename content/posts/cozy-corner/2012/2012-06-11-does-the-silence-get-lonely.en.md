@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/06/11/does-the-silence-get-lonely/
 tags:
-  - video
+  - Video
 
 categories: 
   - Cozy Corner

@@ -5,9 +5,10 @@ layout: single
 author_profile: true
 url: 2011/03/07/google-acquires-beatthatquote-for-61-5-million/
 tags:
-  - business
+  - Business
   - Google
   - News
+  - Acquisition
 
 categories:
   - TechBlog

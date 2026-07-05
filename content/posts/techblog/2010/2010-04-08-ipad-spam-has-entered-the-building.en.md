@@ -8,7 +8,7 @@ tags:
   - ipad
   - report
   - review
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - Security

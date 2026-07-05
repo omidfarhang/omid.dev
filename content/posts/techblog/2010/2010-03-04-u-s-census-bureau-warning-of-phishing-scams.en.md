@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/04/u-s-census-bureau-warning-of-phishing-scams/
 tags:
   - alert
-  - phishing
+  - Phishing
   - report
   - scam
   - Security

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/06/a-response-to-all-of-the-your-complains/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

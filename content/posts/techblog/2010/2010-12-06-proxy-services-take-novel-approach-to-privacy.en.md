@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/12/06/proxy-services-take-novel-approach-to-privacy/
 tags:
   - advice
-  - phishing
+  - Phishing
   - privacy
   - Security
 

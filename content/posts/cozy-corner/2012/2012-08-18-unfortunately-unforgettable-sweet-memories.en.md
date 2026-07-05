@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/08/18/unfortunately-unforgettable-sweet-memories/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/22/smutty-searches-scuppered/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - YouTube
   - Security
 

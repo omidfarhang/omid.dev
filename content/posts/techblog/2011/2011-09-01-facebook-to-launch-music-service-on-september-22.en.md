@@ -8,7 +8,7 @@ tags:
   - Announcement
   - Facebook
   - Music
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

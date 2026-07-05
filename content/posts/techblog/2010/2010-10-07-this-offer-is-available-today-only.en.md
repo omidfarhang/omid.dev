@@ -7,7 +7,7 @@ url: 2010/10/07/this-offer-is-available-today-only/
 tags:
   - alert
   - Apple
-  - phishing
+  - Phishing
   - report
   - review
   - scam

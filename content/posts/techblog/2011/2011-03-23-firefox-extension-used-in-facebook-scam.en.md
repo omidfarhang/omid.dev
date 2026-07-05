@@ -7,11 +7,10 @@ url: 2011/03/23/firefox-extension-used-in-facebook-scam/
 tags:
   - Browsers
   - Facebook
-  - facebook phishing
+  - Phishing
   - Firefox
   - Firefox Addon
   - Mozilla
-  - phishing
   - scam
   - Security
 

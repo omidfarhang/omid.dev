@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/04/its-lame-ransomware-but-it-could-fool-somebody/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - scam
   - Security
 

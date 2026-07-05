@@ -7,7 +7,7 @@ url: 2012/09/07/google-acquires-virustotal/
 tags:
   - business
   - Google
-  - VirusTotal
+  - Acquisition
   - Security
 
 categories:

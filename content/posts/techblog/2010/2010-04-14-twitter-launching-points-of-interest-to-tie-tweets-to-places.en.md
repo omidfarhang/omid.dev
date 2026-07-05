@@ -9,7 +9,7 @@ tags:
   - geotagging
   - locations
   - News
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

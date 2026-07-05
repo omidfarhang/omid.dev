@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/23/switch-to-gmail/
 tags:
-  - gmail
+  - Gmail
   - Google
 
 categories:

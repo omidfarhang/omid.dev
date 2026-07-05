@@ -7,8 +7,6 @@ url: 2010/05/11/new-macbook-air-might-arrive-tomorrow-rumor/
 tags:
   - Apple
   - ipad
-  - MacBook
-  - MacBook Air
   - News
 
 categories:

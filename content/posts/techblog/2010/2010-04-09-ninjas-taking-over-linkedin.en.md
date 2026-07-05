@@ -7,7 +7,7 @@ url: 2010/04/09/ninjas-taking-over-linkedin/
 tags:
   - LinkedIn
   - report
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

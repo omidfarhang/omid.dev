@@ -7,7 +7,7 @@ url: 2010/12/07/taking-a-look-at-fake-amazon-receipt-generators/
 tags:
   - Amazon
   - Malware
-  - phishing
+  - Phishing
   - report
   - review
   - Security

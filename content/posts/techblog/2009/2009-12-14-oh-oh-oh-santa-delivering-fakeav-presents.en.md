@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1RjHE4D
 tags:
   - Facebook
   - Malware
-  - phishing
+  - Phishing
   - scam
   - Security
 

@@ -7,7 +7,7 @@ url: 2010/10/17/facebook-and-skype-deal-to-dial-friends-and-family/
 tags:
   - Facebook
   - Skype
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/26/seo-poisoning-not-in-well-but-its-aiming-for-the-water-heater/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

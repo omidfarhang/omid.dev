@@ -8,7 +8,7 @@ tags:
   - LinkedIn
   - News
   - report
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

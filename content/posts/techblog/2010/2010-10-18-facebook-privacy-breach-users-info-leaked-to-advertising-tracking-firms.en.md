@@ -7,7 +7,7 @@ url: 2010/10/18/facebook-privacy-breach-users-info-leaked-to-advertising-trackin
 tags:
   - alert
   - Facebook
-  - facebook phishing
+  - Phishing
   - privacy
   - report
   - review

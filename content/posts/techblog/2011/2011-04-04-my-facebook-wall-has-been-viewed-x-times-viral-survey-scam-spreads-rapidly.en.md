@@ -9,7 +9,7 @@ tags:
   - alert
   - Facebook
   - scam
-  - social networking
+  - Social Media
   - spam
   - warning
   - Security

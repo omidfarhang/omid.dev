@@ -8,9 +8,9 @@ tags:
   - crops
   - Facebook
   - farmville
-  - games
+  - Gaming
   - MARKETING
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

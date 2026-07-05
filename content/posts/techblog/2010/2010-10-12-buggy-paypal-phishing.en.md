@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/12/buggy-paypal-phishing/
 tags:
   - PayPal
-  - phishing
+  - Phishing
   - spam
   - Security
 

@@ -9,7 +9,7 @@ tags:
   - alert
   - review
   - scam
-  - social networking
+  - Social Media
   - spam
   - Security
 

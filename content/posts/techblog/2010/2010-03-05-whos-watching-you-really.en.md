@@ -6,9 +6,9 @@ author_profile: true
 url: 2010/03/05/whos-watching-you-really/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - spam
   - Security
 

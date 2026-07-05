@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/21qSlgp
 tags:
   - Facebook
   - privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

@@ -7,7 +7,7 @@ url: 2010/03/02/60-compromised-sites-with-seo-poisoning/
 tags:
   - hack
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

@@ -6,7 +6,6 @@ author_profile: true
 url: 2011/04/29/atb-released-distant-earth/
 image: /images/sites/4/2011/04/Distant_Earth_official_cover.jpg
 tags:
-  - atb
   - Music
 
 categories: 

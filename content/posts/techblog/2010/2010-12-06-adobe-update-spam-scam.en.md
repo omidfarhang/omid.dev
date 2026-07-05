@@ -8,7 +8,7 @@ tags:
   - 0-Day
   - Adobe
   - Malware
-  - phishing
+  - Phishing
   - scam
   - Security
 

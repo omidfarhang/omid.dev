@@ -7,8 +7,7 @@ url: 2010/05/11/facebook-status-updates-show-which-countries-are-happiest/
 tags:
   - Facebook
   - gross national happiness
-  - social media
-  - social networking
+  - Social Media
   - status updates
   - study
   - trending

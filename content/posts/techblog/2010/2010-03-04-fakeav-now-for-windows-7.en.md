@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/04/fakeav-now-for-windows-7/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - report
   - review
   - rogue software

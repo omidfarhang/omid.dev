@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/01/16/haiti-earthquake-another-rogue-rides-the-news/
 tags:
   - alert
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

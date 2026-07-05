@@ -8,7 +8,7 @@ tags:
   - Google
   - Google Circles
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

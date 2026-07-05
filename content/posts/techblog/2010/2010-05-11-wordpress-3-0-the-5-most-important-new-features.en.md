@@ -10,8 +10,6 @@ tags:
   - Tech
   - Web Design
   - WordPress
-  - WordPress 3.0
-  - WordPress Theme
 
 categories:
   - TechBlog

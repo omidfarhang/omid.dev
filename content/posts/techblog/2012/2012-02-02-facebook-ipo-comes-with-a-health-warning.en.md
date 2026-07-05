@@ -10,7 +10,7 @@ tags:
   - Facebook
   - Mark Zuckerberg
   - review
-  - social networking
+  - Social Media
   - Security
 
 categories:

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/08/14/my-friend-has-invited-me-to-twitter/
 tags:
   - Malware
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - Yahoo

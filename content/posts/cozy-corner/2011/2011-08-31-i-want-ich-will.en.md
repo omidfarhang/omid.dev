@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/08/31/i-want-ich-will/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

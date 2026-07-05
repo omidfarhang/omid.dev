@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/14/faceparty-password-sites-really-want-you-to-click-on-things/
 tags:
-  - phishing
+  - Phishing
   - report
   - review
   - scam

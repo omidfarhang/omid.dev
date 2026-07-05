@@ -7,7 +7,6 @@ url: 2008/04/30/super-producer-timbaland/
 shortlink: https://g.omid.dev/1SaSFtT
 image: /images/sites/4/2008/04/277978ba-b387-4865-b56c-0b67a2f1475b.jpg
 tags:
-  - Timbaland
   - Music
 
 categories: 

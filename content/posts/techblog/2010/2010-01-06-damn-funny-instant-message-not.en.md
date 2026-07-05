@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/06/damn-funny-instant-message-not/
 tags:
-  - phishing
+  - Phishing
   - scam
   - spam
   - Yahoo

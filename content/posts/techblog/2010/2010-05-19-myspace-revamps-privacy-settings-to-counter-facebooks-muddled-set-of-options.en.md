@@ -7,7 +7,7 @@ url: 2010/05/19/myspace-revamps-privacy-settings-to-counter-facebooks-muddled-se
 tags:
   - Facebook
   - MySpace
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

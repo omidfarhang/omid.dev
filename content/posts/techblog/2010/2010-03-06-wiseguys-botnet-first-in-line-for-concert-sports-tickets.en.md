@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/06/wiseguys-botnet-first-in-line-for-concert-sports-tickets/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - report
   - scam
   - spam

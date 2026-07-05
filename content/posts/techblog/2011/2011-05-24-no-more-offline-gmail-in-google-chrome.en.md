@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/05/24/no-more-offline-gmail-in-google-chrome/
 tags:
-  - gmail
+  - Gmail
   - Google
   - Google Chrome
 

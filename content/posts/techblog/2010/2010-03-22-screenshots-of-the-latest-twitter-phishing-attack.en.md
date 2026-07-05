@@ -6,9 +6,9 @@ author_profile: true
 url: 2010/03/22/screenshots-of-the-latest-twitter-phishing-attack/
 tags:
   - MySpace
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

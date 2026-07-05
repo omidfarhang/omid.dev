@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/05/adservers-compromised-in-latest-zbot-push/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - report
   - review
   - Security

@@ -7,10 +7,10 @@ url: 2012/03/09/facebook-scam-omg-i-just-hate-rihanna-after-watching-this-video/
 tags:
   - alert
   - Facebook
-  - facebook phishing
+  - Phishing
   - Malware
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

@@ -7,7 +7,7 @@ url: 2010/03/05/yahoo-mail-makes-friends-with-facebook/
 tags:
   - Facebook
   - News
-  - social networking
+  - Social Media
   - Yahoo
 
 categories:

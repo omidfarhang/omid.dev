@@ -8,7 +8,7 @@ tags:
   - AOL
   - Facebook
   - News
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

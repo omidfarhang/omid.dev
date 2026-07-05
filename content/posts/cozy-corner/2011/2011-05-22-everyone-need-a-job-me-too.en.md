@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/05/22/everyone-need-a-job-me-too/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

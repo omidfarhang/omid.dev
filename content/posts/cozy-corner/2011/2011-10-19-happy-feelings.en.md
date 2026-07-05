@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 url: 2011/10/19/happy-feelings/
 tags:
-  - My life
-  - video
+  - My Life
+  - Video
 
 categories: 
   - Cozy Corner

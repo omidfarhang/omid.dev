@@ -6,9 +6,9 @@ author_profile: true
 url: 2010/03/02/koobface-makes-a-comeback/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - spam
   - YouTube
   - Security

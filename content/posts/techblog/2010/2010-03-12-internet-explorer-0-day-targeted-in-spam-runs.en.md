@@ -8,7 +8,7 @@ tags:
   - 0-Day
   - Internet Explorer
   - Patch Tuesday
-  - phishing
+  - Phishing
   - spam
   - Vulnerability
   - Security

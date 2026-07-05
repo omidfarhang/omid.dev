@@ -9,7 +9,7 @@ tags:
   - Facebook
   - Facebook Privacy
   - privacy
-  - social networking
+  - Social Media
   - solution
 
 categories:

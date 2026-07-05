@@ -7,7 +7,7 @@ url: 2013/03/04/new-toys-to-listen-music-even-better/
 image: /images/sites/2/2013/03/9379-she9800img14.jpg
 tags:
   - information
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

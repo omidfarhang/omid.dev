@@ -8,7 +8,7 @@ tags:
   - Facebook
   - News
   - review
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

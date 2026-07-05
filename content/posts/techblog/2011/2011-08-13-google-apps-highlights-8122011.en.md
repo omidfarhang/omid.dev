@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/08/13/google-apps-highlights-8122011/
 tags:
   - Announcement
-  - gmail
+  - Gmail
   - Google
   - Mobile
   - News

@@ -7,7 +7,6 @@ url: 2010/10/28/steve-jobs-calls-the-new-macbook-air-the-future-of-laptops/
 tags:
   - 4G
   - Apple
-  - MacBook Air
   - review
   - steve jobs
 

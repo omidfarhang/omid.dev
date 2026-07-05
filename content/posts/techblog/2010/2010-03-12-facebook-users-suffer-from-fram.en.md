@@ -7,7 +7,7 @@ url: 2010/03/12/facebook-users-suffer-from-fram/
 tags:
   - Facebook
   - scam
-  - social networking
+  - Social Media
   - spam
   - Security
 

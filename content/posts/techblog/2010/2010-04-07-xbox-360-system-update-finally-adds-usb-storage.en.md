@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/07/xbox-360-system-update-finally-adds-usb-storage/
 tags:
-  - Game
+  - Gaming
   - Game console
   - Microsoft
   - News

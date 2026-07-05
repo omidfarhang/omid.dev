@@ -7,7 +7,7 @@ url: 2012/01/14/hotmail-phishing-dont-send-us-the-wrong-password-or-well-suspend
 tags:
   - alert
   - Hotmail
-  - phishing
+  - Phishing
   - scam
   - Windows Live
   - Security

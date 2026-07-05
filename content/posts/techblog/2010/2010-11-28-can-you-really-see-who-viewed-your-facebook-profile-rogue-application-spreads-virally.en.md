@@ -7,7 +7,7 @@ url: 2010/11/28/can-you-really-see-who-viewed-your-facebook-profile-rogue-applic
 tags:
   - Facebook
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

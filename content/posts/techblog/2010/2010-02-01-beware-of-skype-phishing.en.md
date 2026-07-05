@@ -7,7 +7,7 @@ url: 2010/02/01/beware-of-skype-phishing/
 tags:
   - Bing
   - Google Chrome
-  - phishing
+  - Phishing
   - scam
   - Skype
   - spam

@@ -10,7 +10,7 @@ tags:
   - Hijack
   - privacy
   - report
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

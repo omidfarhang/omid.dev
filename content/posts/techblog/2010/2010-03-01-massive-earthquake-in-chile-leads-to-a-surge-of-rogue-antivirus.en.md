@@ -9,7 +9,7 @@ tags:
   - alert
   - Firefox
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

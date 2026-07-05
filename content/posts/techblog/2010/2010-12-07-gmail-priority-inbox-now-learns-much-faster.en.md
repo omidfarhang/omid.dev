@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/12/07/gmail-priority-inbox-now-learns-much-faster/
 tags:
-  - gmail
+  - Gmail
   - Google
   - News
 

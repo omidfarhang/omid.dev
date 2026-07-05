@@ -7,7 +7,7 @@ url: 2009/01/13/what-to-do-if-youve-responded-to-a-phishing-scam/
 shortlink: https://g.omid.dev/yDkruT9
 tags:
   - Safety Tips
-  - phishing
+  - Phishing
   - Security
   - Guide
 

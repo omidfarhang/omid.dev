@@ -10,7 +10,7 @@ tags:
   - Hardware
   - Mobile 2.0
   - MySpace
-  - social networking
+  - Social Media
   - sports
   - Twitter
   - YouTube

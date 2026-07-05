@@ -7,7 +7,7 @@ url: 2010/04/09/apples-game-center-will-catapult-iphone-into-video-gaming-big-le
 tags:
   - 3G
   - Apple
-  - Game
+  - Gaming
   - ipad
   - iphone
   - Wii

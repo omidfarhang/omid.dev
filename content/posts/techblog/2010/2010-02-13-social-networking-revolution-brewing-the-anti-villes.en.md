@@ -7,7 +7,7 @@ url: 2010/02/13/social-networking-revolution-brewing-the-anti-villes/
 tags:
   - Facebook
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

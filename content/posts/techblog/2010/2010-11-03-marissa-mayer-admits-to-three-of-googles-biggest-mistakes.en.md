@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/11/03/marissa-mayer-admits-to-three-of-googles-biggest-mistakes/
 tags:
-  - gmail
+  - Gmail
   - Google
   - Google TV
   - Marissa Mayer

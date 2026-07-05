@@ -8,7 +8,7 @@ tags:
   - alert
   - Malware
   - P2P
-  - phishing
+  - Phishing
   - Piracy
   - scam
   - Security

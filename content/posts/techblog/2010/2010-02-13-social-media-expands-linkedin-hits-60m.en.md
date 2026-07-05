@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/13/social-media-expands-linkedin-hits-60m/
 tags:
   - News
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

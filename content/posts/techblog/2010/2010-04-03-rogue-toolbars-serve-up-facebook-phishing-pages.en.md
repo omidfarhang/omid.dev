@@ -9,9 +9,9 @@ tags:
   - Facebook
   - Firefox
   - Malware
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

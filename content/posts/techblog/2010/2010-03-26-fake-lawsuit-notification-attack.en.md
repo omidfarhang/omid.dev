@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/26/fake-lawsuit-notification-attack/
 tags:
-  - phishing
+  - Phishing
   - report
   - scam
   - spam

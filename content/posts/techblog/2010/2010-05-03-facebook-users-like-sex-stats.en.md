@@ -8,7 +8,7 @@ tags:
   - Facebook
   - report
   - Sex
-  - social networking
+  - Social Media
   - stats
 
 categories:

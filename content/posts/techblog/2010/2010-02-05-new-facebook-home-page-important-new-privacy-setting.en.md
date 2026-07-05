@@ -8,7 +8,7 @@ tags:
   - alert
   - Facebook
   - privacy
-  - social networking
+  - Social Media
   - Security
 
 categories:

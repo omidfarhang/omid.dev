@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/14/tiger-still-hot-stuff/
 shortlink: https://g.omid.dev/1QCyyQG
 tags:
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

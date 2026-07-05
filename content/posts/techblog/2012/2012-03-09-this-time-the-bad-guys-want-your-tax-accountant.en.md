@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/03/09/this-time-the-bad-guys-want-your-tax-accountant/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

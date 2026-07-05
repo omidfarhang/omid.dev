@@ -8,8 +8,7 @@ tags:
   - eBay
   - Facebook
   - report
-  - social media
-  - social networking
+  - Social Media
   - Yahoo
 
 categories:

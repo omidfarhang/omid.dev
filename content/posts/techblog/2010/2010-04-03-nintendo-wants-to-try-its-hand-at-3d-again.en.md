@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/03/nintendo-wants-to-try-its-hand-at-3d-again/
 tags:
   - 3D
-  - Game
+  - Gaming
   - Game console
   - News
   - Nintendo

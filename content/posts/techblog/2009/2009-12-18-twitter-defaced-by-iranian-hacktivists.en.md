@@ -7,7 +7,7 @@ url: 2009/12/18/twitter-defaced-by-iranian-hacktivists/
 shortlink: https://g.omid.dev/1Y7H6UH
 tags:
   - hack
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

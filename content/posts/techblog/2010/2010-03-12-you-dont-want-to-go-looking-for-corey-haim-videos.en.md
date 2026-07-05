@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/03/12/you-dont-want-to-go-looking-for-corey-haim-videos/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - scam
   - YouTube
   - Security

@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/08/13/whats-in-a-rogue-name-virustotal-2010/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - VirusTotal
   - Security

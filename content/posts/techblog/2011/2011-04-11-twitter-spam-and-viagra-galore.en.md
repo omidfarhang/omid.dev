@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/04/11/twitter-spam-and-viagra-galore/
 tags:
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - Security

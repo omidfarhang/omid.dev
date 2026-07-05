@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/17/merry-christmas-idiot/
 shortlink: https://g.omid.dev/1RAvlDz
 tags:
-  - phishing
+  - Phishing
   - scam
   - spam
   - Security

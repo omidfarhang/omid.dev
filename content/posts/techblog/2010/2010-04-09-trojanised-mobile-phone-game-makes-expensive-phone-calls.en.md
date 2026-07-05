@@ -6,8 +6,7 @@ author_profile: true
 url: 2010/04/09/trojanised-mobile-phone-game-makes-expensive-phone-calls/
 tags:
   - advice
-  - Game
-  - games
+  - Gaming
   - Malware
   - report
   - review

@@ -5,15 +5,12 @@ layout: single
 author_profile: true
 url: 2010/04/07/kid-racks-up-1400-debt-in-farmville/
 tags:
-  - casual games
-  - debt
+  - Business
   - Facebook
-  - facebook credits
   - farmville
-  - games
-  - gaming
+  - Gaming
   - microtransactions
-  - social networking
+  - Social Media
   - virtual goods
   - Zynga
 

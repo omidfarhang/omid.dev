@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1Y7HoL9
 tags:
   - alert
   - Malware
-  - phishing
+  - Phishing
   - Yahoo
   - Security
 

@@ -6,10 +6,10 @@ author_profile: true
 url: 2010/08/16/facebook-dislike-button-scam-spreads-virally/
 tags:
   - Facebook
-  - phishing
+  - Phishing
   - rogue software
   - scam
-  - social networking
+  - Social Media
   - warning
   - Security
 

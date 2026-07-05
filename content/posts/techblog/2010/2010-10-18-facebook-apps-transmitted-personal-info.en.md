@@ -9,7 +9,7 @@ tags:
   - alert
   - Facebook
   - report
-  - social networking
+  - Social Media
   - Security
 
 categories:

@@ -6,8 +6,7 @@ author_profile: true
 url: 2012/03/13/scam-for-fc-barcelona-fans/
 tags:
   - Facebook
-  - facebook phishing
-  - phishing
+  - Phishing
   - scam
   - Security
 

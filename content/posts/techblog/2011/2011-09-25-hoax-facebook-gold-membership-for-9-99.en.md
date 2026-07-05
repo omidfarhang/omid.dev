@@ -7,7 +7,7 @@ url: 2011/09/25/hoax-facebook-gold-membership-for-9-99/
 tags:
   - Facebook
   - hoax
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

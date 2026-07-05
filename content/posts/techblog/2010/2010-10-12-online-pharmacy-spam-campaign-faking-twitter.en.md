@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/12/online-pharmacy-spam-campaign-faking-twitter/
 tags:
   - alert
-  - phishing
+  - Phishing
   - scam
   - spam
   - Twitter

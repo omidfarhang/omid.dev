@@ -7,8 +7,7 @@ url: 2011/10/06/facebook-scam-in-memory-of-steve-a-company-is-giving-out-50-ipad
 tags:
   - alert
   - Facebook
-  - facebook phishing
-  - phishing
+  - Phishing
   - scam
   - Security
 

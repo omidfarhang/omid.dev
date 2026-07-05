@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/07/nintendo-and-google-making-a-search-game-for-wii/
 tags:
-  - Game
+  - Gaming
   - Game console
   - Google
   - Nintendo

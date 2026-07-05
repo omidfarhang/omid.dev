@@ -8,10 +8,10 @@ tags:
   - advice
   - alert
   - Malware
-  - phishing
+  - Phishing
   - report
   - scam
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - Security

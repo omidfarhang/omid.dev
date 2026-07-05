@@ -8,7 +8,7 @@ tags:
   - alert
   - Facebook
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

@@ -7,7 +7,6 @@ url: 2010/04/12/palm-is-for-sale/
 tags:
   - business
   - HTC
-  - Lenovo
   - Mobile 2.0
   - News
   - palm

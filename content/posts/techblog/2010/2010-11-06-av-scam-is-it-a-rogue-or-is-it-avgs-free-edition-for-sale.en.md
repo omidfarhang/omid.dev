@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/06/av-scam-is-it-a-rogue-or-is-it-avgs-free-edition-for-sale/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - report
   - review
   - scam

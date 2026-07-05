@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/10/25/a-day-in-my-life/
 tags:
-  - My life
+  - My Life
 
 categories: 
   - Cozy Corner

@@ -8,7 +8,7 @@ tags:
   - startup
   - funding-and-scaling
   - privacy
-  - social-media
+  - Social Media
 
 categories:
   - TechBlog

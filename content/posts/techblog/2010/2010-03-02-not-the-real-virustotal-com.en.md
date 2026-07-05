@@ -7,7 +7,7 @@ url: 2010/03/02/not-the-real-virustotal-com/
 tags:
   - alert
   - Malware
-  - phishing
+  - Phishing
   - report
   - review
   - scam

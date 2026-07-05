@@ -7,7 +7,7 @@ url: 2010/02/12/facebook-chat-is-now-accessible-on-popular-instant-messaging-cli
 tags:
   - Facebook
   - News
-  - social networking
+  - Social Media
   - Updates
 
 categories:

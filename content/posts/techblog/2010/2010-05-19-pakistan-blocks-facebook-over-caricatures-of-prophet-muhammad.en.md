@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/19/pakistan-blocks-facebook-over-caricatures-of-prophet-muhammad/
 tags:
   - Facebook
-  - social networking
+  - Social Media
   - YouTube
 
 categories:

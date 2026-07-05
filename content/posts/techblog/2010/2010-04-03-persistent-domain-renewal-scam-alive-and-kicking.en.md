@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/04/03/persistent-domain-renewal-scam-alive-and-kicking/
 tags:
   - alert
-  - phishing
+  - Phishing
   - review
   - scam
   - spam

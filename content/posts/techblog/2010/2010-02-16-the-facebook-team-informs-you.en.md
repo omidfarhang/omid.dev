@@ -7,7 +7,7 @@ url: 2010/02/16/the-facebook-team-informs-you/
 tags:
   - Facebook
   - Malware
-  - social networking
+  - Social Media
   - spam
   - Security
 

@@ -7,7 +7,6 @@ url: 2008/07/11/avril-lavigne/
 shortlink: https://g.omid.dev/1T3ocPf
 image: /images/sites/4/2008/07/avril_lavigne.jpg
 tags:
-  - Avril Lavigne
   - Music
 
 categories: 

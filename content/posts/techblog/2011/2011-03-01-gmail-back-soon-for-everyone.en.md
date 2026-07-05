@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/01/gmail-back-soon-for-everyone/
 tags:
-  - gmail
+  - Gmail
   - Google
   - report
 

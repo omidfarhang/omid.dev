@@ -7,7 +7,7 @@ url: 2010/01/27/loose-tweets-sink-fleets/
 tags:
   - hack
   - privacy
-  - social networking
+  - Social Media
   - Security
 
 categories:

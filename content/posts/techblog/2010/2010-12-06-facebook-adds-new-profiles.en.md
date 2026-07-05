@@ -9,7 +9,7 @@ tags:
   - Announcement
   - Facebook
   - Facebook Privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

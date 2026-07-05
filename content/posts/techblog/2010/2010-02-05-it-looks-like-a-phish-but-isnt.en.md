@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/02/05/it-looks-like-a-phish-but-isnt/
 tags:
-  - phishing
+  - Phishing
   - spam
   - Security
 

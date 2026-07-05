@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/10/02/windows-live-essentials-2011-is-available/
 tags:
   - Download
-  - Live Essentials
   - Email
   - Messenger
   - Microsoft

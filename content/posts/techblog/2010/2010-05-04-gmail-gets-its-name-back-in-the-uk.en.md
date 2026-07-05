@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/05/04/gmail-gets-its-name-back-in-the-uk/
 tags:
-  - gmail
+  - Gmail
   - Google
   - Email
   - News

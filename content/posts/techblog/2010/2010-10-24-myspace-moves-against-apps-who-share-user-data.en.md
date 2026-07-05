@@ -8,7 +8,7 @@ tags:
   - MySpace
   - News
   - privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

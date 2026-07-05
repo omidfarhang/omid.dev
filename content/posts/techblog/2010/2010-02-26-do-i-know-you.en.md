@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/02/26/do-i-know-you/
 tags:
   - Malware
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - spam

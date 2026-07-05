@@ -7,7 +7,7 @@ url: 2010/04/03/sharing-vs-your-privacy-on-facebook/
 tags:
   - Facebook
   - privacy
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

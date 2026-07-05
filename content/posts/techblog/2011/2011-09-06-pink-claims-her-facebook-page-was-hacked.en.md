@@ -9,7 +9,7 @@ tags:
   - Facebook
   - hack
   - report
-  - social networking
+  - Social Media
   - Security
 
 categories:

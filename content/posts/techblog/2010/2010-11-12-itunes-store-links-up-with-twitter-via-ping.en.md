@@ -8,7 +8,7 @@ tags:
   - itunes
   - News
   - ping
-  - social networking
+  - Social Media
   - Twitter
 
 categories:

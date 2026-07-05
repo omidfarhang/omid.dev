@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/01/06/pcprotectar/
 tags:
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

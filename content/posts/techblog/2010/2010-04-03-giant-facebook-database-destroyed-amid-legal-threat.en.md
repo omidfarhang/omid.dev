@@ -10,7 +10,7 @@ tags:
   - News
   - report
   - review
-  - social networking
+  - Social Media
 
 categories:
   - TechBlog

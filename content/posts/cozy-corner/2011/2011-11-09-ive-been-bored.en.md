@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/11/09/ive-been-bored/
 tags:
-  - video
+  - Video
 
 categories: 
   - Cozy Corner

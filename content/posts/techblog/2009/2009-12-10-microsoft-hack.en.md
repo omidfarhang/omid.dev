@@ -8,7 +8,7 @@ shortlink: https://g.omid.dev/1VloUYG
 tags:
   - hack
   - Microsoft
-  - phishing
+  - Phishing
   - scam
   - Security
 

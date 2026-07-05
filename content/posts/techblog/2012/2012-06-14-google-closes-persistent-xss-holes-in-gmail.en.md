@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/06/14/google-closes-persistent-xss-holes-in-gmail/
 tags:
   - Google
-  - gmail
+  - Gmail
   - Updates
   - XSS
 

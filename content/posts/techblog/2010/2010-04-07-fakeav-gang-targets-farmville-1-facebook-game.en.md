@@ -8,7 +8,7 @@ tags:
   - advice
   - Facebook
   - Firefox
-  - Game
+  - Gaming
   - Malware
   - report
   - review

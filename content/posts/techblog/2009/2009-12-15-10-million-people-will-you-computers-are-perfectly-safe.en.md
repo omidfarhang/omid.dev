@@ -6,7 +6,7 @@ author_profile: true
 url: 2009/12/15/10-million-people-will-you-computers-are-perfectly-safe/
 shortlink: https://g.omid.dev/1T3nL7C
 tags:
-  - phishing
+  - Phishing
   - rogue software
   - scam
   - Security

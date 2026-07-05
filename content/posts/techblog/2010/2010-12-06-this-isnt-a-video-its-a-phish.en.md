@@ -7,8 +7,7 @@ url: 2010/12/06/this-isnt-a-video-its-a-phish/
 tags:
   - advice
   - alert
-  - facebook phishing
-  - phishing
+  - Phishing
   - review
   - spam
   - Security

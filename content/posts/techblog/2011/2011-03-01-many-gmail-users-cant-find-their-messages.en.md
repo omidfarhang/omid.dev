@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2011/03/01/many-gmail-users-cant-find-their-messages/
 tags:
-  - gmail
+  - Gmail
   - Google
   - report
 

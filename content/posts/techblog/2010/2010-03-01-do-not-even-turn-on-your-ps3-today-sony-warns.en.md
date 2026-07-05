@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/01/do-not-even-turn-on-your-ps3-today-sony-warns/
 tags:
-  - Game
+  - Gaming
   - News
   - Sony
 

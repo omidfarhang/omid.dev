@@ -8,7 +8,7 @@ tags:
   - advice
   - alert
   - Facebook
-  - facebook phishing
+  - Phishing
   - spam
   - Security
 

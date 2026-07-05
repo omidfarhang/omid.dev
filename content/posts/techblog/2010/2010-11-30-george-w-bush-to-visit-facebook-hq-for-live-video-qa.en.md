@@ -8,7 +8,7 @@ tags:
   - Facebook
   - George W. Bush
   - Interview
-  - social media
+  - Social Media
   - Video
 
 categories:

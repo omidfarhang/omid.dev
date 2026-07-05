@@ -7,7 +7,7 @@ url: 2009/12/17/whos-the-quickest-only-one-way-to-find-out/
 shortlink: https://g.omid.dev/1Lg6V3g
 tags:
   - Malware
-  - phishing
+  - Phishing
   - scam
   - Security
 

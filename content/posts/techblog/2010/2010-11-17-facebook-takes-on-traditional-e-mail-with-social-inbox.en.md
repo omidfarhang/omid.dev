@@ -8,7 +8,7 @@ tags:
   - Facebook
   - Email
   - News
-  - social networking
+  - Social Media
   - Yahoo
 
 categories:

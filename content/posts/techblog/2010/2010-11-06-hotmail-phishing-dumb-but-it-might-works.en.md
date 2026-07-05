@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/06/hotmail-phishing-dumb-but-it-might-works/
 tags:
   - Hotmail
-  - phishing
+  - Phishing
   - Security
 
 categories:

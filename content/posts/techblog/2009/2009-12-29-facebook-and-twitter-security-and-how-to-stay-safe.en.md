@@ -7,7 +7,7 @@ url: 2009/12/29/facebook-and-twitter-security-and-how-to-stay-safe/
 tags:
   - alert
   - Facebook
-  - social networking
+  - Social Media
   - Twitter
   - Security
 

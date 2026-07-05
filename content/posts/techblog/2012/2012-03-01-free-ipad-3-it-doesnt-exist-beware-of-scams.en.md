@@ -9,7 +9,7 @@ tags:
   - Facebook
   - ipad
   - scam
-  - social networking
+  - Social Media
   - spam
   - Twitter
   - Security

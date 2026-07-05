@@ -7,7 +7,7 @@ url: 2010/03/04/phishing-scam-linked-to-valentines-day-movie/
 tags:
   - advice
   - alert
-  - phishing
+  - Phishing
   - report
   - scam
   - Security

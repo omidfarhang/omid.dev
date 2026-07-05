@@ -7,9 +7,9 @@ url: 2010/02/04/anatomy-of-a-free-starbucks-gift-card-scam/
 tags:
   - Facebook
   - Malware
-  - phishing
+  - Phishing
   - scam
-  - social networking
+  - Social Media
   - Security
 
 categories:

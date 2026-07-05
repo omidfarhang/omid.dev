@@ -11,8 +11,7 @@ tags:
   - Malware
   - report
   - review
-  - social media
-  - social networking
+  - Social Media
   - spam
   - Security
 
