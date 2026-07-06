@@ -84,7 +84,7 @@ categories:
 
 - **`url`:** Permalink path relative to site root (matches `permalinks.posts` in `hugo.yaml`)
 - **`categories`:** One of `TechBlog`, `Health`, `Electronics`, `Cozy Corner`
-- **`tags`:** Controlled vocabulary — follow `docs/tag-strategy.md` (do not copy legacy tags from existing posts)
+- **`tags`:** Topic labels for discovery; match spelling of curated homepage tags in `hugo.yaml` when you use them
 - **`series`:** Optional ordered series metadata — see [Series](#series-machine-readable)
 - **`seeAlso`:** Optional related-post links — see [seeAlso](#seealso-cross-links)
 - **`shortlink`:** Existing short links — do not change unless asked
@@ -93,13 +93,9 @@ Notes use the `notes` section and a minimal archetype in `archetypes/notes.md`.
 
 ### Tags
 
-Follow **`docs/tag-strategy.md`** — the controlled vocabulary is the source of truth, not tags on existing posts.
-
-1. Pick tags only from the vocabulary tables (Primary + Secondary for TechBlog; section lists for other categories).
-2. Evergreen TechBlog: 1–2 Primary + 1–4 Secondary, 3–6 tags total.
-3. Archive/news posts: `News` + 0–2 subject tags; strip noise tags when migrating.
-4. Run `python3 scripts/fix-post-tags.py scan` after bulk retagging.
-5. New tags require updating `docs/tag-strategy.md` first.
+- Use tags that describe the post topic; keep existing tags on legacy posts unless you are deliberately retagging.
+- Homepage tech topic cards use curated tags from `hugo.yaml` (`homeTechTags*`) — **exact spelling required** when a post should appear under those topics.
+- Use the same English tag strings across `.en`, `.fa`, and `.de` variants of a post.
 
 ## Reading paths and series
 
@@ -246,20 +242,11 @@ Match existing naming and structure. Prefer extending partials over duplicating 
 ## Maintenance scripts
 
 ```bash
-# Audit tags (duplicates, typos, curated mismatches)
-python3 scripts/fix-post-tags.py scan
-
-# Apply tag fixes from scripts/tag-fixes.yaml
-python3 scripts/fix-post-tags.py apply --dry-run
-python3 scripts/fix-post-tags.py apply
-
 # Note URL helper
 python3 scripts/note-url.py
 ```
 
-Tag rules: `docs/tag-strategy.md` (vocabulary + reuse rules), `scripts/tag-fixes.yaml` (automated renames). Curated homepage tags in `hugo.yaml` are protected — do not rename them casually.
-
-Requires Python 3 with PyYAML (`pip install pyyaml`).
+Requires Python 3.
 
 ## Code style
 
@@ -292,5 +279,4 @@ Never commit or expose:
 | Series / seeAlso | No `seeAlso path not found` warnings in build output |
 | Reading path edits | Path page renders with correct link order |
 | Theme / layouts | `hugo server` renders affected pages |
-| Tag changes | `python3 scripts/fix-post-tags.py scan` |
 | Multilingual edits | Spot-check `en`, `fa` (RTL), and `de` variants if applicable |
