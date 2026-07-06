@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2010/05/04/men-in-blue-suits-raid-gizmodo/
 tags:
-  - 4G
   - Apple
   - News
   - report

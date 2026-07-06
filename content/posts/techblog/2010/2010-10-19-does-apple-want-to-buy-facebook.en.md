@@ -7,8 +7,6 @@ url: 2010/10/19/does-apple-want-to-buy-facebook/
 tags:
   - Apple
   - Facebook
-  - Mark Zuckerberg
-  - steve jobs
 
 categories:
   - TechBlog

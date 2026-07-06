@@ -5,11 +5,8 @@ layout: single
 author_profile: true
 url: 2010/05/11/what-about-the-wimax-networks-that-arent-sprintclearwire/
 tags:
-  - 4G
-  - Clearwire
   - report
   - review
-  - sprint
   - WiMax
 
 categories:

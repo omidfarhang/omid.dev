@@ -6,7 +6,6 @@ author_profile: true
 url: 2011/08/25/jobs-opportunities-for-apple-scammers/
 tags:
   - Apple
-  - steve jobs
   - Security
 
 categories:

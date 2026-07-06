@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2010/09/20/security-issues-on-android/
 tags:
-  - 4G
   - advice
   - Android
   - Malware

@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2010/05/19/skype-5-0-beta-brings-five-way-video-chat/
 tags:
-  - 4G
   - News
   - Skype
 

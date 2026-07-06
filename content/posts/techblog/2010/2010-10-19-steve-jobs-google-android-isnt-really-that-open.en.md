@@ -10,7 +10,6 @@ tags:
   - Google
   - iOS
   - report
-  - steve jobs
 
 categories:
   - TechBlog

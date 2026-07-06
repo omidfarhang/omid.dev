@@ -8,7 +8,6 @@ shortlink: https://g.omid.dev/1nm28RQ
 tags:
   - Svelte
   - Frontend
-  - 2024 Trends
   - Rust
   - TypeScript
 

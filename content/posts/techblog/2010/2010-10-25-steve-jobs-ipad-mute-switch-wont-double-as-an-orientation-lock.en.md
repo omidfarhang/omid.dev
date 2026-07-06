@@ -6,8 +6,6 @@ author_profile: true
 url: 2010/10/25/steve-jobs-ipad-mute-switch-wont-double-as-an-orientation-lock/
 tags:
   - Apple
-  - iOS
-  - steve jobs
 
 categories:
   - TechBlog

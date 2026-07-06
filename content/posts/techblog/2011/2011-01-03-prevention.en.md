@@ -30,7 +30,7 @@ Build up your malware defenses
 
 ### Use a safe browser with good extensions
 
-* I recommend [Google Chrome](/knowledge-base/programs/google-chrome) and [Here is](/knowledge-base/programs/google-chrome/extensions) my suggested list of extensions for a safe navigation.
+* I recommend [Google Chrome](https://www.google.com/chrome/) and [Here is](/knowledge-base/programs/google-chrome/extensions) my suggested list of extensions for a safe navigation.
 
 ### Update software regularly
 

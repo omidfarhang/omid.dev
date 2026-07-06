@@ -15,7 +15,7 @@ categories:
 ---
 Strong passwords are important protections to help you have safer online transactions.
 
-### Keys to password strength: length and complexity
+## Keys to password strength: length and complexity
 
 An ideal password is long and has letters, punctuation, symbols, and numbers.
 
@@ -23,7 +23,7 @@ An ideal password is long and has letters, punctuation, symbols, and numbers.
 * The greater the variety of characters in your password, the better.
 * Use the entire keyboard, not just the letters and characters you use or see most often.
 
-### Create a strong password you can remember
+## Create a strong password you can remember
 
 There are many ways to create a long, complex password. Here is one way that may make remembering it easier:
 
@@ -36,20 +36,20 @@ There are many ways to create a long, complex password. Here is one way that may
 |Add length with punctuation.|Put a punctuation mark at the beginning.|?lACpAs56IKMs (13 characters)|
 |Add length with symbols.|Put a symbol at the end.|?lACpAs56IKMs" (14 characters)|
 
-### Test your password with a password checker
+## Test your password with a password checker
 
 A password checker evaluates your password's strength automatically. [Try Mircrosoft secure password checker](https://www.microsoft.com/protect/fraud/passwords/checker.aspx?WT.mc_id=Site_Link).
 
-### Protect your passwords from prying eyes
+## Protect your passwords from prying eyes
 
 * **The easiest way to "remember" passwords is to write them down.**
-  It is okay to write passwords down, but keep them secure. See [5 tips to keep your passwords secret](tips-to-help-keep-your-passwords-secret).
+  It is okay to write passwords down, but keep them secure. See [5 tips to keep your passwords secret](/2009/01/14/tips-to-help-keep-your-passwords-secret/).
 
-### Common password pitfalls to avoid
+## Common password pitfalls to avoid
 
-Cyber criminals use sophisticated tools that can rapidly decipher passwords. for example here is [Passwords used by the confiker worm](passwords-used-by-the-conficker-worm).
+Cyber criminals use sophisticated tools that can rapidly decipher passwords. for example here is [Passwords used by the confiker worm](/2009/01/15/passwords-used-by-the-conficker-worm/).
 
-### Avoid creating passwords using
+## Avoid creating passwords using
 
 * **Dictionary words in any language.**
   Words in all languages are vulnerable.

@@ -28,7 +28,7 @@ _Haaretz_ obtained and published one [email](http://www.haaretz.co.il/hasite/ima
 
 “We don’t kill our people,” Assad told ABC “No government in the world kills its people, unless it’s led by a crazy person.” 
 
-**SEE ALSO: [Safety Tips about your password, what to don't use and what to use](/en/knowledge-base/security/passwords)** 
+**SEE ALSO: [Safety Tips about your password, what to don't use and what to use](/2009/01/13/passwords/)** 
 
 In the leaked email, Syrian spokesperson at the U.N. Sheherazad Jaafari advised Shabaan and Luna Chebel, a former Al Jazeera reporter and current Assad staffer, on what the Syrian president should say to manipulate Americans: 
 

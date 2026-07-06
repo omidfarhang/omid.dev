@@ -7,7 +7,6 @@ url: 2010/04/09/steve-jobs-450000-ipads-sold-3-5-million-apps-downloaded/
 tags:
   - Apple
   - report
-  - steve jobs
 
 categories:
   - TechBlog

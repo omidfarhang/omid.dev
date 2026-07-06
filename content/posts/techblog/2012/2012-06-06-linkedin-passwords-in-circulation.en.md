@@ -28,4 +28,4 @@ Whatever the case, you cannot rely on your own password to remain uncracked and 
 
 Learn more about this and how to change your LinkedIn password: [http://techblog.avira.com/2012/06/06/change-your-linkedin-password/en/](http://techblog.avira.com/2012/06/06/change-your-linkedin-password/en/ "http://techblog.avira.com/2012/06/06/change-your-linkedin-password/en/")
 
-Find out how to create a strong password and take care of them: [/en/knowledge-base/security/passwords](/en/knowledge-base/security/passwords "/en/knowledge-base/security/passwords")
+Find out how to create a strong password and take care of them: [Passwords](/2009/01/13/passwords/)

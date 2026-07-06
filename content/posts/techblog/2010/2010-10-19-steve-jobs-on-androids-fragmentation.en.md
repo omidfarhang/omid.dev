@@ -8,8 +8,6 @@ tags:
   - Android
   - Apple
   - Google
-  - iOS
-  - steve jobs
 
 categories:
   - TechBlog

@@ -29,4 +29,4 @@ Rich Notifications replace HTML-based notifications in the Chrome extensions: HT
 
 Version 28 also closes various [security holes](http://googlechromereleases.blogspot.com/2013/07/stable-channel-update.html) including a richly rewarded use-after-free issue with network sockets and a well-rewarded fix to a HTTP/SSL man-in-the-middle attack. Other rewarded bugs included two use-after-free issues in input handling and resource loading, plus an out-of-bounds read in SVG, all found by Chrome bounty regular miaubiz, a screen data leak through GL textures with Windows and NVIDIA cards, and a lack of entropy in renderers.
 
-The updated browser is available [to download](/en/knowledge-base/programs/google-chrome "Google Chrome") for Windows, Linux and Mac OS X or, for existing users, will arrive automatically. Chrome has also seen its Flash player updated to version 11.8.800.97 as noted in Adobe's patch day.
+The updated browser is available [to download](https://www.google.com/chrome/) for Windows, Linux and Mac OS X or, for existing users, will arrive automatically. Chrome has also seen its Flash player updated to version 11.8.800.97 as noted in Adobe's patch day.
