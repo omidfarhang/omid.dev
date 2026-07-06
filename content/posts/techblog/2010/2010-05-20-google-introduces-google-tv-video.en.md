@@ -7,8 +7,6 @@ url: 2010/05/20/google-introduces-google-tv-video/
 tags:
   - Android
   - Google
-  - Google I/O
-  - Google TV
   - News
   - TV
 
@@ -20,3 +18,5 @@ On the 2nd day at Google I/O 2010 developer event, Google has announced Android 
 ![20052010225316](http://lh4.ggpht.com/_vaUVXcmC3OI/S_XARsQYsyI/AAAAAAAACRI/R4HMFq1a02o/s1600-h/20052010225316%5B4%5D.jpg) 
 
 Watch the **Introducing Google TV video** below:
+
+{{< youtube ASZbArr7vdI >}}
