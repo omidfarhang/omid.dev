@@ -426,22 +426,22 @@
   translation: "Zurück"
 
 - id: series_intro_anchor
-  translation: "Dieser Beitrag ist die Übersicht zur Serie {{ .Title }}. {{ .Count }} technische Deep-Dives folgen in dieser Serie."
+  translation: "Dieser Beitrag eröffnet die Serie {{ .Title }} ({{ .Total }} Beiträge insgesamt)."
 
 - id: series_intro_part
   translation: "Dies ist Teil {{ .Part }} einer {{ .Count }}-teiligen Serie über {{ .Title }}."
 
 - id: series_intro_deep_dive
-  translation: "Dies ist technischer Deep-Dive {{ .Part }} von {{ .Count }} in der Serie {{ .Title }} ({{ .Total }} Beiträge insgesamt)."
+  translation: "Dies ist Teil {{ .Part }} von {{ .Count }} in der Serie {{ .Title }} ({{ .Total }} Beiträge insgesamt)."
 
 - id: series_footer_summary
-  translation: "{{ .Total }} Beiträge · 1 Übersicht · {{ .Count }} Deep-Dives"
+  translation: "{{ .Total }} Beiträge · 1 Übersicht · {{ .Count }} Teile"
 
 - id: series_group_overview
   translation: "Übersicht"
 
 - id: series_group_deep_dives
-  translation: "Technische Deep-Dives ({{ .Count }})"
+  translation: "Teile ({{ .Count }})"
 
 - id: series_intro_start_anchor
   translation: "Beginnen Sie mit der <a href=\"{{ .Link }}\">{{ .Label }}</a>."

@@ -32,7 +32,7 @@
 <p class="series-nav series-nav--intro">
   <em>
     {{- if eq $role "anchor" -}}
-      {{- i18n "series_intro_anchor" (dict "Title" $seriesTitle "Count" $partCount) -}}
+      {{- i18n "series_intro_anchor" (dict "Title" $seriesTitle "Count" $partCount "Total" (len $seriesPages)) -}}
     {{- else if gt $partCount 0 -}}
       {{- if $anchor -}}
         {{- i18n "series_intro_start_anchor" (dict "Link" $anchor.RelPermalink "Label" ($anchor.Params.series.label | default $anchor.Title)) | safeHTML -}}

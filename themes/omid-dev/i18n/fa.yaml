@@ -408,22 +408,22 @@
   translation: "قبلی"
 
 - id: series_intro_anchor
-  translation: "این نوشته نمای کلی مجموعه {{ .Title }} است. {{ .Count }} پست فنی عمیق در این مجموعه دنبال می‌شود."
+  translation: "این نوشته شروع مجموعه {{ .Title }} است ({{ .Total }} نوشته در مجموع)."
 
 - id: series_intro_part
   translation: "این بخش {{ .Part }} از مجموعه {{ .Count }}‌بخشی درباره {{ .Title }} است."
 
 - id: series_intro_deep_dive
-  translation: "این پست فنی عمیق {{ .Part }} از {{ .Count }} در مجموعه {{ .Title }} است ({{ .Total }} نوشته در مجموع)."
+  translation: "این بخش {{ .Part }} از {{ .Count }} در مجموعه {{ .Title }} است ({{ .Total }} نوشته در مجموع)."
 
 - id: series_footer_summary
-  translation: "{{ .Total }} نوشته · ۱ نمای کلی · {{ .Count }} پست عمیق"
+  translation: "{{ .Total }} نوشته · ۱ نمای کلی · {{ .Count }} بخش"
 
 - id: series_group_overview
   translation: "نمای کلی"
 
 - id: series_group_deep_dives
-  translation: "پست‌های فنی عمیق ({{ .Count }})"
+  translation: "بخش‌ها ({{ .Count }})"
 
 - id: series_intro_start_anchor
   translation: "با <a href=\"{{ .Link }}\">{{ .Label }}</a> شروع کنید."

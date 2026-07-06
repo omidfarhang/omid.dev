@@ -18,6 +18,8 @@
     {{- if not $anchor -}}
       {{- $anchor = index $seriesPages 0 -}}
     {{- end -}}
+    {{- $listed := $anchor.Params.series.listed | default true -}}
+    {{- if not $listed -}}{{- continue -}}{{- end -}}
     {{- $title := $anchor.Params.series.title | default $id -}}
     {{- $description := $anchor.Description | default "" -}}
     {{- if not $description -}}

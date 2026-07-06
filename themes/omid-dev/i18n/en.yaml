@@ -411,22 +411,22 @@
   translation: "Read previous"
 
 - id: series_intro_anchor
-  translation: "This post is the overview for the {{ .Title }} series. {{ .Count }} technical deep-dives follow in this series."
+  translation: "This post starts the {{ .Title }} series ({{ .Total }} posts in total)."
 
 - id: series_intro_part
   translation: "This is Part {{ .Part }} of a {{ .Count }}-part series on {{ .Title }}."
 
 - id: series_intro_deep_dive
-  translation: "This is technical deep-dive {{ .Part }} of {{ .Count }} in the {{ .Title }} series ({{ .Total }} posts in total)."
+  translation: "This is part {{ .Part }} of {{ .Count }} in the {{ .Title }} series ({{ .Total }} posts in total)."
 
 - id: series_footer_summary
-  translation: "{{ .Total }} posts · 1 overview · {{ .Count }} deep-dives"
+  translation: "{{ .Total }} posts · 1 overview · {{ .Count }} parts"
 
 - id: series_group_overview
   translation: "Overview"
 
 - id: series_group_deep_dives
-  translation: "Technical deep-dives ({{ .Count }})"
+  translation: "Parts ({{ .Count }})"
 
 - id: series_intro_start_anchor
   translation: "Start with the <a href=\"{{ .Link }}\">{{ .Label }}</a>."

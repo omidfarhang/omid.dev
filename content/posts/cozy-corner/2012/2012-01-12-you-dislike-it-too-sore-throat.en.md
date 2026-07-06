@@ -7,8 +7,17 @@ url: 2012/01/12/you-dislike-it-too-sore-throat/
 tags:
   - My Life
 
-categories: 
+categories:
   - Cozy Corner
+series:
+  id: sore-throat
+  title: "You dislike it too: Sore Throat"
+  order: 0
+  label: "Part 1"
+  role: anchor
+  listed: false
+seeAlso:
+  - /2012/01/18/you-dislike-it-too-sore-throat-part-2/
 ---
 I bet you dislike it when your throat hurts, when you have that damned feeling in your skin, when your nose become a useless meat on your face, when you become slightly weak and when your eyes get tired soon, after-all when you realize you have got cold or flu…
 
@@ -33,4 +42,4 @@ Take care my friends!
 -Omid
 
 UPDATE:  
-It did not work! Read part 2 here: [/2012/01/18/you-dislike-it-too-sore-throat-part-2/](/2012/01/18/you-dislike-it-too-sore-throat-part-2/)
+It did not work! Part 2 covers what happened when I saw my doctor.

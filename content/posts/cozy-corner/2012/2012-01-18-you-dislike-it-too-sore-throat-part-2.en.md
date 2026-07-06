@@ -5,14 +5,20 @@ layout: single
 author_profile: true
 url: 2012/01/18/you-dislike-it-too-sore-throat-part-2/
 tags:
-  - information
+  - My Life
 
-categories: 
+categories:
   - Cozy Corner
+series:
+  id: sore-throat
+  title: "You dislike it too: Sore Throat"
+  order: 1
+  label: "Part 2"
+  role: part
+  listed: false
+seeAlso:
+  - /2012/01/12/you-dislike-it-too-sore-throat/
 ---
-Part 1: [/2012/01/12/you-dislike-it-too-sore-throat/](/2012/01/12/you-dislike-it-too-sore-throat/)
-
-Part2:  
 As I told you in my other post, I'm dealing with a Sore Throat which is very annoying, I tried some simple stuff like gargle warm water and salt, drinking warm drinks, honey and lemon, lots of Vitamin C, Zinc and and and…. they did not work, my Sore Throat went one step ahead and reached a major infection level.
 
 I went to meet my doctor, after a check-up he wrote a long prescription for me:
