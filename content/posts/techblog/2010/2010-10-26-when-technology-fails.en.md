@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 url: 2010/10/26/when-technology-fails/
 tags:
-  - Fail
   - Interesting
-  - technology
+  - Technology
 
 categories:
   - TechBlog

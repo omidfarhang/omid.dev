@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/16/over-90-of-facebook-users-hate-having-photos-of-them-posted-without-approval/
 tags:
   - Facebook
-  - Facebook Privacy
+  - Privacy
   - Social Media
 
 categories:

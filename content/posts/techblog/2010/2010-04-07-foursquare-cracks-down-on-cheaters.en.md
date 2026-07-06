@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 url: 2010/04/07/foursquare-cracks-down-on-cheaters/
 tags:
-  - cheaters
-  - foursquare
-  - trending
+  - Foursquare
+  - Trending
 
 categories:
   - TechBlog

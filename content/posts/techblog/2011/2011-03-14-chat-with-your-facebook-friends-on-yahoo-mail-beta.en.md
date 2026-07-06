@@ -6,7 +6,7 @@ author_profile: true
 url: 2011/03/14/chat-with-your-facebook-friends-on-yahoo-mail-beta/
 tags:
   - Facebook
-  - Facebook Chat
+  - Messenger
   - Yahoo
 
 categories:

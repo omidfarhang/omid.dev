@@ -5,16 +5,8 @@ layout: single
 author_profile: true
 url: 2010/04/10/tensions-mount-between-google-and-european-telecoms-over-youtube/
 tags:
-  - Bandwidth
-  - Deutsche Telekom
-  - europe
-  - Financial Times
-  - France Telecom
   - Google
   - News
-  - telecom
-  - Telefonica
-  - YouTube
 
 categories:
   - TechBlog

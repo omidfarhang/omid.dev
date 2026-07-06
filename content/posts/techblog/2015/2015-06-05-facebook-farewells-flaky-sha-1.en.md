@@ -7,7 +7,6 @@ url: 2015/06/05/facebook-farewells-flaky-sha-1/
 shortlink: https://g.omid.dev/1T3myNN
 tags:
   - Facebook
-  - SHA-1
   - SSL
   - Update
 

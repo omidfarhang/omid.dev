@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/05/11/facebooks-social-plugins-now-on-100000-sites/
 tags:
   - Facebook
-  - Facebook social plugins
+  - Social Media
 
 categories:
   - TechBlog

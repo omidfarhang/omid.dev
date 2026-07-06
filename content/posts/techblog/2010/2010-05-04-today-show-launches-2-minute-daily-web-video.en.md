@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 url: 2010/05/04/today-show-launches-2-minute-daily-web-video/
 tags:
-  - ONLINE VIDEO
-  - today show
   - Video
   - YouTube
 

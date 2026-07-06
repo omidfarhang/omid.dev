@@ -7,9 +7,7 @@ url: 2010/04/03/nintendo-wants-to-try-its-hand-at-3d-again/
 tags:
   - 3D
   - Gaming
-  - Game console
   - News
-  - Nintendo
 
 categories:
   - TechBlog

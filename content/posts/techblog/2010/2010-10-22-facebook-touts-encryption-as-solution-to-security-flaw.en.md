@@ -6,9 +6,8 @@ author_profile: true
 url: 2010/10/22/facebook-touts-encryption-as-solution-to-security-flaw/
 tags:
   - Facebook
-  - Facebook Privacy
+  - Privacy
   - News
-  - privacy
   - Social Media
 
 categories:

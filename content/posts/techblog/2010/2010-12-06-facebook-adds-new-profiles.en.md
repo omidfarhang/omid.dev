@@ -8,7 +8,7 @@ tags:
   - advice
   - Announcement
   - Facebook
-  - Facebook Privacy
+  - Privacy
   - Social Media
 
 categories:

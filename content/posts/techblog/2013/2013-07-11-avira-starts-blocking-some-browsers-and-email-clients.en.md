@@ -8,7 +8,6 @@ shortlink: https://g.omid.dev/15j2eex
 image: /images/2013/07/Avira_120.png
 tags:
   - Avira
-  - false positives
 
 categories:
   - TechBlog

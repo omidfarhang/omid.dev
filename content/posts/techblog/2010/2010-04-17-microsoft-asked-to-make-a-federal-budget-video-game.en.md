@@ -5,15 +5,10 @@ layout: single
 author_profile: true
 url: 2010/04/17/microsoft-asked-to-make-a-federal-budget-video-game/
 tags:
-  - erskine bowles
   - Gaming
-  - government
+  - Government
   - Microsoft
-  - obama
-  - online games
-  - politics
-  - Steve Ballmer
-  - video games
+  - Politics
 
 categories:
   - TechBlog

@@ -10,7 +10,6 @@ tags:
   - Gaming
   - ipad
   - iphone
-  - Wii
 
 categories:
   - TechBlog

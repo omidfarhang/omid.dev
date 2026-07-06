@@ -6,9 +6,8 @@ author_profile: true
 url: 2013/04/25/symantec-vs-av-comparatives-which-one-do-you-trust/
 image: /images/2013/04/symantec-calls-test-misleading.jpg
 tags:
-  - av-comparatives
   - Security
-  - symantec
+  - Benchmark
   - News
 
 categories:

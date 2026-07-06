@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/10/26/facebook-credits-to-be-sold-at-walmart-and-best-buy/
 tags:
   - Facebook
-  - facebook credits
   - News
   - Social Media
 

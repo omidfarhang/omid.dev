@@ -6,8 +6,7 @@ author_profile: true
 url: 2023/01/16/neanderthals-used-to-cook-complex-foods/
 shortlink: https://g.omid.dev/MFAzGNq
 tags:
-  - foods
-  - history
+  - History
   - Good Reads
 
 categories: 

@@ -7,10 +7,8 @@ url: 2022/12/29/farewell-lastpass-we-dont-need-more-data-breach/
 shortlink: https://g.omid.dev/vOLp6VU
 tags:
   - Security
-  - lastpass
-  - password
-  - bitwarden
-  - data breach
+  - App Suggestions
+  - Password
 
 categories:
   - TechBlog

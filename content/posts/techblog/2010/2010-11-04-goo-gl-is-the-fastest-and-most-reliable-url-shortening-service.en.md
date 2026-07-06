@@ -8,7 +8,7 @@ tags:
   - Google
   - report
   - review
-  - URL Shortening
+  - Benchmark
 
 categories:
   - TechBlog

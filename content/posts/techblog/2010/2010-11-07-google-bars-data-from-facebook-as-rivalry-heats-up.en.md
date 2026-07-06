@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/11/07/google-bars-data-from-facebook-as-rivalry-heats-up/
 tags:
   - Facebook
-  - Facebook Privacy
+  - Privacy
   - Google
   - News
 

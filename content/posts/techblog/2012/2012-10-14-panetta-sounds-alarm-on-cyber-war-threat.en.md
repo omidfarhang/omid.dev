@@ -8,7 +8,7 @@ tags:
   - Cyber War
   - Iran
   - News
-  - politics
+  - Politics
   - US
 
 categories:

@@ -6,15 +6,8 @@ author_profile: true
 url: 2010/04/17/norway-uses-ipad-to-run-the-government-during-icelandic-volcano/
 tags:
   - Apple
-  - government
-  - Iceland
-  - ipad
-  - Israel
-  - Norway
-  - obama
-  - politics
-  - travel
-  - volcano
+  - Government
+  - Politics
 
 categories:
   - TechBlog

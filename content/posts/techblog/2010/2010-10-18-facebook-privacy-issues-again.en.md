@@ -7,8 +7,7 @@ url: 2010/10/18/facebook-privacy-issues-again/
 tags:
   - advice
   - Facebook
-  - Facebook Privacy
-  - privacy
+  - Privacy
   - Social Media
   - solution
 

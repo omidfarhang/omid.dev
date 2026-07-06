@@ -7,8 +7,7 @@ url: 2013/03/25/anonymous-linked-groups-hack-israeli-websites-release-personal-d
 image: /images/2013/03/anony.jpg
 tags:
   - Anonymous
-  - hack
-  - Israel
+  - Hack
   - Security
 
 categories:

@@ -8,7 +8,6 @@ tags:
   - Gaming
   - review
   - Social Media
-  - Wii
   - YouTube
 
 categories:

@@ -5,10 +5,9 @@ layout: single
 author_profile: true
 url: 2009/12/20/last-minute-shopping-keep-safe/
 tags:
-  - advice
-  - Google Chrome
+  - Advice
   - Hijack
-  - Online Shopping
+  - Security
 
 categories:
   - TechBlog
