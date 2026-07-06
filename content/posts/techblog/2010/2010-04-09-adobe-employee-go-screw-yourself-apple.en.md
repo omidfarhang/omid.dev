@@ -9,8 +9,6 @@ tags:
   - Adobe
   - Apple
   - Flash
-  - iphone
-  - iphone os
 
 categories:
   - TechBlog

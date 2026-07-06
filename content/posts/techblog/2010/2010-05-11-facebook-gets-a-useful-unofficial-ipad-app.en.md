@@ -6,10 +6,8 @@ author_profile: true
 url: 2010/05/11/facebook-gets-a-useful-unofficial-ipad-app/
 tags:
   - Facebook
-  - ipad
-  - ipad apps
-  - sobees
-  - sobees for facebook
+  - Apple
+  - Social Media
 
 categories:
   - TechBlog

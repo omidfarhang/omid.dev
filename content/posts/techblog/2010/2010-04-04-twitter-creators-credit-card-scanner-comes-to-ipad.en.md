@@ -5,9 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/04/twitter-creators-credit-card-scanner-comes-to-ipad/
 tags:
-  - ipad
-  - iPad 3G
-  - iphone
+  - Apple
   - News
   - Twitter
 

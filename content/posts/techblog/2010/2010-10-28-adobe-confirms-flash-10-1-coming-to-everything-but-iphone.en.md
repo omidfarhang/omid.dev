@@ -7,8 +7,7 @@ url: 2010/10/28/adobe-confirms-flash-10-1-coming-to-everything-but-iphone/
 tags:
   - Adobe
   - Apple
-  - flash player
-  - iphone
+  - Flash Player
 
 categories:
   - TechBlog

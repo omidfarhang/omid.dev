@@ -6,8 +6,8 @@ author_profile: true
 url: 2010/08/14/two-steps-away-from-a-free-ipad/
 tags:
   - Facebook
-  - ipad
   - Phishing
+  - Apple
   - scam
   - spam
   - Twitter

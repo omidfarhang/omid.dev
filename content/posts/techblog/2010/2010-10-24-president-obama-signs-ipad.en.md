@@ -6,10 +6,7 @@ author_profile: true
 url: 2010/10/24/president-obama-signs-ipad/
 tags:
   - Apple
-  - Interesting
-  - ipad
   - News
-  - obama
 
 categories:
   - TechBlog

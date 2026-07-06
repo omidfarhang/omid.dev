@@ -8,9 +8,8 @@ tags:
   - App Store
   - Apple
   - Mobile 2.0
-  - Mobile Browsers
+  - Mobile Applications
   - Opera
-  - Opera Mini
 
 categories:
   - TechBlog

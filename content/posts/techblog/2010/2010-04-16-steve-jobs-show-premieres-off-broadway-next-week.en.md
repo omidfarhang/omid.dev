@@ -6,10 +6,7 @@ author_profile: true
 url: 2010/04/16/steve-jobs-show-premieres-off-broadway-next-week/
 tags:
   - Apple
-  - ipad
-  - off broadway
-  - steve jobs
-  - threater
+  - Threater
 
 categories:
   - TechBlog

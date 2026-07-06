@@ -5,9 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/08/diggs-iphone-app-gets-updated-nasty-crash-fixed/
 tags:
-  - digg
-  - iphone
-  - mobile apps
+  - Apple
   - Updates
 
 categories:

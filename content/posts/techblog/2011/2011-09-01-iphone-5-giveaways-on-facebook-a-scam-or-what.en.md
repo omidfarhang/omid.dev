@@ -7,7 +7,7 @@ url: 2011/09/01/iphone-5-giveaways-on-facebook-a-scam-or-what/
 tags:
   - Facebook
   - Phishing
-  - iphone
+  - Apple
   - scam
   - Social Media
   - Security

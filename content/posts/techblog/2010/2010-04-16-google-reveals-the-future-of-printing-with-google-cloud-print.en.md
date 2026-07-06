@@ -7,7 +7,7 @@ url: 2010/04/16/google-reveals-the-future-of-printing-with-google-cloud-print/
 tags:
   - Cloud
   - Google
-  - ipad
+  - Apple
   - printing
 
 categories:

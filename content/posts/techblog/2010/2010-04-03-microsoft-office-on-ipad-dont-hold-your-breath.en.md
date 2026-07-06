@@ -8,7 +8,6 @@ tags:
   - Apple
   - Google
   - Google Docs
-  - ipad
   - Microsoft
   - Microsoft Office
   - YouTube

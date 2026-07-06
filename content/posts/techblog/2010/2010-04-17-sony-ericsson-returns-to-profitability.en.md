@@ -7,7 +7,6 @@ url: 2010/04/17/sony-ericsson-returns-to-profitability/
 tags:
   - Financial results
   - Mobile
-  - mobile phones
   - profits
   - Sony Ericsson
 

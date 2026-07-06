@@ -6,11 +6,8 @@ author_profile: true
 url: 2010/04/17/apple-remains-americas-most-innovative-company/
 tags:
   - Apple
-  - business
-  - BusinessWeek
-  - fortune 500
-  - ipad
-  - report
+  - Business
+  - Report
 
 categories:
   - TechBlog

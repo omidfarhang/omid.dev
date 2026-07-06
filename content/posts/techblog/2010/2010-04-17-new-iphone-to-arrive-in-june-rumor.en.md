@@ -6,8 +6,6 @@ author_profile: true
 url: 2010/04/17/new-iphone-to-arrive-in-june-rumor/
 tags:
   - Apple
-  - att
-  - iphone
   - Mobile 2.0
   - rumor
 

@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/02/21/apple-iphone-warranty-scam/
 tags:
   - Apple
-  - iphone
   - Mobile
   - Phishing
   - scam

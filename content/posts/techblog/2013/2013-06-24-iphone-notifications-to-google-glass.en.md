@@ -9,7 +9,6 @@ image: /images/2013/06/google-glass-macro.jpg
 tags:
   - Apple
   - Google
-  - google glass
 
 categories:
   - TechBlog

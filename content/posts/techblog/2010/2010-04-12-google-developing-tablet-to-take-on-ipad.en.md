@@ -8,8 +8,6 @@ tags:
   - Android
   - Apple
   - Google
-  - ipad
-  - tablets
 
 categories:
   - TechBlog

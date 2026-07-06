@@ -6,12 +6,6 @@ author_profile: true
 url: 2010/03/31/itunes-9-1-released-ipad-syncing-and-ibooks-support-included/
 tags:
   - Apple
-  - iBooks
-  - ipad
-  - iphone
-  - iphone app store
-  - itunes
-  - iTunes 9.1
   - Updates
 
 categories:

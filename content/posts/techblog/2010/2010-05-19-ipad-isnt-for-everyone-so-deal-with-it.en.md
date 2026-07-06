@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/05/19/ipad-isnt-for-everyone-so-deal-with-it/
 tags:
   - Apple
-  - ipad
   - report
   - review
   - YouTube

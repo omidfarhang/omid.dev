@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/02/07/spammers-dangle-ipad-carrot/
 tags:
   - Apple
-  - ipad
   - Phishing
   - scam
   - spam

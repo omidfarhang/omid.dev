@@ -5,11 +5,8 @@ layout: single
 author_profile: true
 url: 2010/04/09/apples-game-center-will-catapult-iphone-into-video-gaming-big-leagues/
 tags:
-  - 3G
   - Apple
   - Gaming
-  - ipad
-  - iphone
 
 categories:
   - TechBlog

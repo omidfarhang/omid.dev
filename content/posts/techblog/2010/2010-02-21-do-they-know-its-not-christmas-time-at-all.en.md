@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2010/02/21/do-they-know-its-not-christmas-time-at-all/
 tags:
-  - 3G
   - Malware
   - Phishing
   - spam

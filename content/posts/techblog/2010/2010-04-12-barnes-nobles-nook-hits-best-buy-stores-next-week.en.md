@@ -6,9 +6,7 @@ author_profile: true
 url: 2010/04/12/barnes-nobles-nook-hits-best-buy-stores-next-week/
 tags:
   - Apple
-  - ipad
   - Nook
-  - Nook e-reader
 
 categories:
   - TechBlog

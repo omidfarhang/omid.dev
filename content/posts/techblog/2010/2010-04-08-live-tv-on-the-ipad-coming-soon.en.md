@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/04/08/live-tv-on-the-ipad-coming-soon/
 tags:
   - Apple
-  - ipad
   - News
 
 categories:

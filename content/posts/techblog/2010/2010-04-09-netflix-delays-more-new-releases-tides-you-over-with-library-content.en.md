@@ -6,9 +6,8 @@ author_profile: true
 url: 2010/04/09/netflix-delays-more-new-releases-tides-you-over-with-library-content/
 tags:
   - 3D
-  - entertainment
-  - ipad
-  - iphone
+  - Entertainment
+  - Apple
   - Netflix
 
 categories:

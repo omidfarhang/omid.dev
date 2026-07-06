@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 url: 2010/10/29/3g-mobile-internet-comes-to-mount-everest/
 tags:
-  - 3G
   - Announcement
-  - internet
+  - Internet
   - Mobile
   - News
 

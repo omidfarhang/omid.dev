@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 url: 2010/10/19/google-ceo-eric-schmidt-trash-talks-windows-7/
 tags:
-  - Eric Schmidt
   - Google
-  - Google CEO
+  - Windows
 
 categories:
   - TechBlog

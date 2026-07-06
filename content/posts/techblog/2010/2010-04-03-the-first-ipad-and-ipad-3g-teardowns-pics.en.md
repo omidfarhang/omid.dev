@@ -5,11 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/03/the-first-ipad-and-ipad-3g-teardowns-pics/
 tags:
-  - 3G
   - Apple
-  - Apple Tablet
-  - ipad
-  - iPad 3G
   - teardown
 
 categories:

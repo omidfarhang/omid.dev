@@ -6,7 +6,6 @@ author_profile: true
 url: 2012/03/19/apples-new-ipad-is-great-but-its-not-free-nor-called-ipad-3/
 tags:
   - Apple
-  - ipad
   - scam
   - spam
   - Security

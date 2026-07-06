@@ -6,11 +6,9 @@ author_profile: true
 url: 2009/12/17/do-you-want-bing-for-iphone-theres-an-app-for-that/
 shortlink: https://g.omid.dev/24PzPO1
 tags:
-  - Android
   - Announcement
   - Apple
   - Bing
-  - iphone
   - Microsoft
   - Updates
 

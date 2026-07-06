@@ -7,7 +7,6 @@ url: 2010/04/02/google-is-armed-for-ipad-launch/
 tags:
   - Apple
   - Google
-  - ipad
   - News
   - YouTube
 

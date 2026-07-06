@@ -8,7 +8,6 @@ tags:
   - Android
   - Apple
   - Google
-  - iphone
   - Mobile
   - report
   - review

@@ -8,7 +8,7 @@ tags:
   - Android
   - business
   - Google
-  - mobile phones
+  - Mobile
   - Motorola Mobility
 
 categories:

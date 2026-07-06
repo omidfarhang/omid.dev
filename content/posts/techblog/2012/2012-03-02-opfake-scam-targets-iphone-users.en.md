@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/03/02/opfake-scam-targets-iphone-users/
 tags:
-  - iphone
+  - Apple
   - link
   - report
   - scam

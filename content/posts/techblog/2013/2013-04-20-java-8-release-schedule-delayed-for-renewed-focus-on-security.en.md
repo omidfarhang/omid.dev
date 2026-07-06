@@ -8,7 +8,7 @@ image: /images/2013/04/Java.jpg
 tags:
   - Java
   - Oracle
-  - Release
+  - Updates
 
 categories:
   - TechBlog

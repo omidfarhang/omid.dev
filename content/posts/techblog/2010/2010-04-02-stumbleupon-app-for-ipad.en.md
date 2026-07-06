@@ -7,8 +7,6 @@ url: 2010/04/02/stumbleupon-app-for-ipad/
 tags:
   - Apple
   - Download
-  - ipad
-  - StumbleUpon
 
 categories:
   - TechBlog

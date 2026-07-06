@@ -9,8 +9,6 @@ tags:
   - Apple
   - Google
   - Google Chrome
-  - ipad
-  - iphone
   - News
 
 categories:

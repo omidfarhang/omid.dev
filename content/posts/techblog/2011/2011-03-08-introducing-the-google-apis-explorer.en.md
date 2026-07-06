@@ -8,7 +8,6 @@ tags:
   - Announcement
   - API
   - Google
-  - Google Code
   - News
 
 categories:

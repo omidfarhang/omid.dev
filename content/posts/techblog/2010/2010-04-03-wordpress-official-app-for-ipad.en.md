@@ -7,9 +7,6 @@ url: 2010/04/03/wordpress-official-app-for-ipad/
 tags:
   - Apple
   - Download
-  - ipad
-  - iPad 3G
-  - iphone app store
   - Offer
   - WordPress
 

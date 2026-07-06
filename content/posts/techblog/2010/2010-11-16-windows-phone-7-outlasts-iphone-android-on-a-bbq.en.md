@@ -7,7 +7,7 @@ url: 2010/11/16/windows-phone-7-outlasts-iphone-android-on-a-bbq/
 tags:
   - Android
   - Interesting
-  - iphone
+  - Apple
   - Video
   - Windows Phone
 

@@ -8,10 +8,6 @@ tags:
   - Adobe
   - Apple
   - Flash
-  - ipad
-  - iphone
-  - iphone os
-  - steve jobs
 
 categories:
   - TechBlog

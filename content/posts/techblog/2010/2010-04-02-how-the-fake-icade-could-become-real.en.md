@@ -7,8 +7,6 @@ url: 2010/04/02/how-the-fake-icade-could-become-real/
 tags:
   - Apple
   - icade
-  - ipad
-  - iphone app store
 
 categories:
   - TechBlog

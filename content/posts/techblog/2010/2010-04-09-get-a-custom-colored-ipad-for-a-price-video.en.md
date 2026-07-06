@@ -8,8 +8,6 @@ tags:
   - Apple
   - colorware
   - customization
-  - ipad
-  - tablets
 
 categories:
   - TechBlog

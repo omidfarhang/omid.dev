@@ -6,8 +6,7 @@ author_profile: true
 url: 2010/05/11/credit-card-scanner-square-comes-to-iphone/
 tags:
   - credit cards
-  - ipad
-  - iphone
+  - Apple
   - Square
 
 categories:

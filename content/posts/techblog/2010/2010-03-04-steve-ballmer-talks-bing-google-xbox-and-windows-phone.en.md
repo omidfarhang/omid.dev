@@ -9,7 +9,6 @@ tags:
   - Apple
   - Bing
   - Google
-  - iphone
   - Microsoft
   - News
   - report

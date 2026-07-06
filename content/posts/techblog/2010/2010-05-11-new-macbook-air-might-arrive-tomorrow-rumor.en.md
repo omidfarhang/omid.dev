@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/05/11/new-macbook-air-might-arrive-tomorrow-rumor/
 tags:
   - Apple
-  - ipad
   - News
 
 categories:

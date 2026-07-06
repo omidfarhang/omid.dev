@@ -5,10 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/12/steve-jobs-no-iphone-os-4-0-support-for-original-iphone/
 tags:
-  - 3G
   - Apple
-  - iphone
-  - steve jobs
 
 categories:
   - TechBlog

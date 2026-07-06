@@ -5,11 +5,8 @@ layout: single
 author_profile: true
 url: 2010/10/28/google-ceo-dont-like-street-view-move/
 tags:
-  - Eric Schmidt
   - Google
-  - Google CEO
   - News
-  - StreetView
 
 categories:
   - TechBlog

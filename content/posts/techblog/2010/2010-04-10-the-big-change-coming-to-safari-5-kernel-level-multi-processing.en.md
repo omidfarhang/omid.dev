@@ -10,10 +10,8 @@ tags:
   - compare
   - Firefox
   - Google Chrome
-  - ipad
   - News
   - Safari
-  - Safari 5
 
 categories:
   - TechBlog

@@ -8,7 +8,6 @@ tags:
   - Eyjafjallajokull
   - Iceland
   - imagery
-  - ipad
   - NASA
   - News
   - satellite

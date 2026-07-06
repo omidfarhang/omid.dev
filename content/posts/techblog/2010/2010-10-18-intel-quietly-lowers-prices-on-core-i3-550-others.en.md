@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2010/10/18/intel-quietly-lowers-prices-on-core-i3-550-others/
 tags:
-  - 3G
   - AMD
   - Hardware
   - intel

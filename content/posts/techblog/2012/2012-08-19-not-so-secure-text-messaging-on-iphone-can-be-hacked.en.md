@@ -7,7 +7,6 @@ url: 2012/08/19/not-so-secure-text-messaging-on-iphone-can-be-hacked/
 tags:
   - Apple
   - flaw
-  - iphone
   - report
   - Vulnerability
 

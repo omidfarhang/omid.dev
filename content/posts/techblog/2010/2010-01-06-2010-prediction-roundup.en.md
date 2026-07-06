@@ -9,7 +9,6 @@ tags:
   - Android
   - Apple
   - Google Chrome
-  - iphone
   - News
   - report
   - Security

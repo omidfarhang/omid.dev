@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/02/12/source-code-for-blackberry-and-iphone-spyware-published/
 tags:
   - Apple
-  - iphone
   - Mobile
   - News
   - Security

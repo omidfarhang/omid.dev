@@ -5,11 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/09/no-multitasking-for-iphone-3g-and-early-ipod-touch-models/
 tags:
-  - 3G
   - Apple
-  - iphone
-  - iphone os
-  - steve jobs
 
 categories:
   - TechBlog

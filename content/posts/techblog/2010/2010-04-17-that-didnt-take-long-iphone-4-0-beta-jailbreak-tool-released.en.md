@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/04/17/that-didnt-take-long-iphone-4-0-beta-jailbreak-tool-released/
 tags:
   - Apple
-  - iphone
   - jailbreak
 
 categories:

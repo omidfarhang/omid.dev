@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2012/02/15/iphone-5-tester-sms-text-scam-hits-cellphone-users/
 tags:
-  - iphone
+  - Apple
   - Mobile
   - spam
   - Security

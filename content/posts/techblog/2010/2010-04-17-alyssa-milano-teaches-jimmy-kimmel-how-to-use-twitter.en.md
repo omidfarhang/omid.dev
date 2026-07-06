@@ -6,8 +6,6 @@ author_profile: true
 url: 2010/04/17/alyssa-milano-teaches-jimmy-kimmel-how-to-use-twitter/
 tags:
   - Interesting
-  - jimmy kimmel
-  - tweetdeck
   - Twitter
   - Video
 

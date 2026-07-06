@@ -8,8 +8,6 @@ tags:
   - AMD
   - Android
   - Apple
-  - ipad
-  - iphone
   - Mobile
   - report
 

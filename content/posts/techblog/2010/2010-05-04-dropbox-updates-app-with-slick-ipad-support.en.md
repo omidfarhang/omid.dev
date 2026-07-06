@@ -6,11 +6,9 @@ author_profile: true
 url: 2010/05/04/dropbox-updates-app-with-slick-ipad-support/
 tags:
   - Apple
-  - apple app store
   - Cloud
   - Dropbox
   - Facebook
-  - ipad
   - Twitter
   - Updates
 

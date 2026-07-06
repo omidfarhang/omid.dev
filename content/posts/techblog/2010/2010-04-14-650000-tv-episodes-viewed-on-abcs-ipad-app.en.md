@@ -7,7 +7,6 @@ url: 2010/04/14/650000-tv-episodes-viewed-on-abcs-ipad-app/
 tags:
   - Apple
   - Disney
-  - ipad
   - MARKETING
   - TV
 

@@ -6,9 +6,6 @@ author_profile: true
 url: 2010/04/09/iphone-4-0-event-what-apple-might-announce/
 tags:
   - Apple
-  - ipad
-  - iphone
-  - iphone os
 
 categories:
   - TechBlog

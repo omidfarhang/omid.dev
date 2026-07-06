@@ -5,9 +5,6 @@ layout: single
 author_profile: true
 url: 2010/03/02/skype-gives-up-on-microsoft-will-work-with-operators-on-windows-mobile/
 tags:
-  - 3G
-  - Android
-  - iphone
   - Mobile
   - News
   - Skype

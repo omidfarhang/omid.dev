@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/03/22/icelandic-volcano-erupts-fake-antivirus-spews-forth/
 tags:
-  - ipad
+  - Apple
   - Malware
   - Phishing
   - review

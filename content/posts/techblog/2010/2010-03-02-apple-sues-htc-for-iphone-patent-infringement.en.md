@@ -6,9 +6,7 @@ author_profile: true
 url: 2010/03/02/apple-sues-htc-for-iphone-patent-infringement/
 tags:
   - Apple
-  - iphone
   - Mobile
-  - steve jobs
 
 categories:
   - TechBlog

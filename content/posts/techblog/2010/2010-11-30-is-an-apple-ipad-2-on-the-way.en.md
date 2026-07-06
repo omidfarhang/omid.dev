@@ -7,8 +7,6 @@ url: 2010/11/30/is-an-apple-ipad-2-on-the-way/
 tags:
   - Apple
   - gossip
-  - ipad
-  - ipad 2
 
 categories:
   - TechBlog

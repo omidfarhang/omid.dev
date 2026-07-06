@@ -5,11 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/14/apple-delays-international-ipad-launch/
 tags:
-  - 3G
   - Apple
-  - Apple Tablet
-  - ipad
-  - trending
 
 categories:
   - TechBlog

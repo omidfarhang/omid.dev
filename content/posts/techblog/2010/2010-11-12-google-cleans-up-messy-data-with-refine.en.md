@@ -7,8 +7,6 @@ url: 2010/11/12/google-cleans-up-messy-data-with-refine/
 tags:
   - Announcement
   - Google
-  - Google Code
-  - google Refine
 
 categories:
   - TechBlog

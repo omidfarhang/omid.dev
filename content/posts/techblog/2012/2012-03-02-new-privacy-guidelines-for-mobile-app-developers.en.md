@@ -6,8 +6,7 @@ author_profile: true
 url: 2012/03/02/new-privacy-guidelines-for-mobile-app-developers/
 tags:
   - Mobile
-  - mobile applications
-  - mobile apps
+  - Mobile Applications
   - News
   - privacy
   - report

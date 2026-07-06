@@ -5,12 +5,9 @@ layout: single
 author_profile: true
 url: 2010/10/26/vlc-media-player-now-available-for-iphone/
 tags:
-  - 3G
   - Announcement
   - Apple
-  - ipad
-  - iphone
-  - software
+  - Software
 
 categories:
   - TechBlog

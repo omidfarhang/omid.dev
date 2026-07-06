@@ -6,10 +6,6 @@ author_profile: true
 url: 2010/04/03/ipads-file-system-suggests-new-apple-devices-on-the-way/
 tags:
   - Apple
-  - ipad
-  - iphone
-  - iphone os
-  - iProd
   - News
 
 categories:

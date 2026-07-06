@@ -5,10 +5,8 @@ layout: single
 author_profile: true
 url: 2010/11/01/google-founders-wanted-to-hire-steve-jobs-as-companys-first-ceo/
 tags:
-  - Eric Schmidt
   - Google
-  - Google CEO
-  - steve jobs
+  - Apple
 
 categories:
   - TechBlog

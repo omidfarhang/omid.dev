@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/08/ipad-spam-has-entered-the-building/
 tags:
-  - ipad
+  - Apple
   - report
   - review
   - Social Media

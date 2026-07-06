@@ -7,7 +7,6 @@ url: 2010/12/07/amazon-to-unveil-new-kindle-web-app-tomorrow/
 tags:
   - Amazon
   - Hardware
-  - Kindle
   - News
   - Web App
 

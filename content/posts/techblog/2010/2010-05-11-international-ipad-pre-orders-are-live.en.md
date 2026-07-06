@@ -6,8 +6,6 @@ author_profile: true
 url: 2010/05/11/international-ipad-pre-orders-are-live/
 tags:
   - Apple
-  - Apple Tablet
-  - ipad
 
 categories:
   - TechBlog

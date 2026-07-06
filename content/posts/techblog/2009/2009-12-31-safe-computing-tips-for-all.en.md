@@ -7,7 +7,7 @@ url: 2009/12/31/safe-computing-tips-for-all/
 tags:
   - advice
   - alert
-  - iphone
+  - Apple
   - Security
   - Skype
 

@@ -7,7 +7,6 @@ url: 2010/01/22/iphish-fake-iphone-warranty-steals-info/
 tags:
   - alert
   - Apple
-  - iphone
   - Phishing
   - spam
   - Security

@@ -5,11 +5,7 @@ layout: single
 author_profile: true
 url: 2010/04/07/iphone-os-4-0-features-list/
 tags:
-  - 3G
   - Apple
-  - ipad
-  - iphone
-  - iphone os
   - News
 
 categories:

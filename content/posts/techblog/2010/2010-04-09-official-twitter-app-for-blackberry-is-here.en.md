@@ -7,7 +7,7 @@ url: 2010/04/09/official-twitter-app-for-blackberry-is-here/
 tags:
   - BlackBerry
   - Mobile 2.0
-  - mobile apps
+  - Mobile Applications
   - News
   - Social Media
   - Twitter

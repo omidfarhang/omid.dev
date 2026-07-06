@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/10/29/google-instants-blacklisted-words/
 tags:
   - Google
-  - google instant
   - report
 
 categories:

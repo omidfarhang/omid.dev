@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/05/04/ipad-gets-the-microwave-treatment/
 tags:
   - Apple
-  - ipad
   - Microwave
   - Video
 

@@ -5,12 +5,11 @@ layout: single
 author_profile: true
 url: 2010/05/11/like-google-and-nokia-microsoft-starts-to-offer-free-navigation-for-its-phones/
 tags:
-  - 3G
   - Google
   - HTC
   - Map
   - Microwave
-  - mobile phones
+  - Mobile
   - Navigation
   - Nokia
   - T-Mobile

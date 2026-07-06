@@ -6,11 +6,7 @@ author_profile: true
 url: 2010/04/08/apple-splits-ipad-and-iphone-apps-in-itunes/
 tags:
   - Apple
-  - apps
-  - ipad
-  - iphone
-  - itunes
-  - mobile applications
+  - Mobile Applications
 
 categories:
   - TechBlog

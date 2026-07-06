@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/10/18/nvidia-launches-gt440-cards/
 tags:
   - 3D
-  - 3G
   - Announcement
   - Hardware
   - News

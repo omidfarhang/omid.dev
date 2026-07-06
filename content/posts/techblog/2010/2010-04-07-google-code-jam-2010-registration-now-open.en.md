@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/04/07/google-code-jam-2010-registration-now-open/
 tags:
   - Google
-  - Google Code
   - News
 
 categories:

@@ -6,8 +6,6 @@ author_profile: true
 url: 2010/11/24/over-40-security-fixes-for-ipad-iphone-and-ipod-touch-in-ios-4-2/
 tags:
   - Apple
-  - ipad
-  - iphone
   - report
 
 categories:

@@ -6,9 +6,6 @@ author_profile: true
 url: 2010/05/11/steve-jobs-on-ipad-printing-it-will-come/
 tags:
   - Apple
-  - ipad
-  - printing
-  - steve jobs
 
 categories:
   - TechBlog

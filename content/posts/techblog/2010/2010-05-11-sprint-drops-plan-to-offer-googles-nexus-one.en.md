@@ -5,13 +5,10 @@ layout: single
 author_profile: true
 url: 2010/05/11/sprint-drops-plan-to-offer-googles-nexus-one/
 tags:
-  - 3G
-  - 4G
   - Android
   - droid incredible
   - Google
   - HTC
-  - HTC EVO 4G
   - nexus one
   - sprint
   - verizon

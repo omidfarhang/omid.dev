@@ -5,10 +5,8 @@ layout: single
 author_profile: true
 url: 2010/11/06/google-instant-goes-mobile/
 tags:
-  - 3G
   - Android
   - Google
-  - google instant
   - Mobile
   - News
 

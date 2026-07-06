@@ -6,10 +6,7 @@ author_profile: true
 url: 2010/12/07/download-google-books-app-for-iphone/
 tags:
   - Google
-  - ipad
-  - iphone
-  - iphone apps
-  - iPod Touch
+  - Apple
   - Offer
   - suggestion
 

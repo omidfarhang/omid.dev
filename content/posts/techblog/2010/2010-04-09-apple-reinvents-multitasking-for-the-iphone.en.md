@@ -7,11 +7,8 @@ url: 2010/04/09/apple-reinvents-multitasking-for-the-iphone/
 tags:
   - Android
   - Apple
-  - iphone
-  - iphone os
   - News
   - Skype
-  - steve jobs
 
 categories:
   - TechBlog

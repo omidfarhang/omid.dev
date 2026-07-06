@@ -7,7 +7,6 @@ url: 2010/05/11/apple-confirms-att-has-iphone-exclusivity-until-2012/
 tags:
   - Apple
   - exclusivity
-  - iphone
   - Mobile 2.0
   - trending
   - verizon

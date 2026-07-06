@@ -7,7 +7,6 @@ url: 2012/03/01/free-ipad-3-it-doesnt-exist-beware-of-scams/
 tags:
   - Apple
   - Facebook
-  - ipad
   - scam
   - Social Media
   - spam

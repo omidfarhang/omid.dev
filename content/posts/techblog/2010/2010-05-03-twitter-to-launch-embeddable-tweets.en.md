@@ -8,7 +8,6 @@ tags:
   - Embedded Tweets
   - News
   - Social Media
-  - tweet
   - Twitter
 
 categories:

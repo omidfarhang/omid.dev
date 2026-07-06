@@ -5,15 +5,8 @@ layout: single
 author_profile: true
 url: 2010/04/17/celebrate-earth-day-dr-seuss-style/
 tags:
-  - apps
-  - dr. seuss
-  - earth day
-  - ipad
-  - ipad apps
-  - iphone
-  - iphone apps
-  - Kids
-  - The Lorax
+  - Apple
+  - Events
 
 categories:
   - TechBlog
