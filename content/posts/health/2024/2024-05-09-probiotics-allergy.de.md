@@ -13,10 +13,17 @@ tags:
 
 categories: 
   - Health
+series:
+  id: probiotics-guide
+  title: "Präbiotika, Probiotika und Postbiotika"
+  order: 1
+  label: "Allergien"
+  role: part
+  listed: false
+seeAlso:
+  - /2024/09/10/praebiotika-probiotika-postbiotika/
 ---
 Allergien treten auf, wenn das Immunsystem übermäßig auf eine normalerweise harmlose Substanz wie Pollen, Staub oder bestimmte Lebensmittel reagiert. Probiotika, insbesondere bestimmte Stämme, können helfen, Immunreaktionen zu regulieren und allergische Symptome zu lindern, indem sie das Gleichgewicht der Darmbakterien beeinflussen und Entzündungen modulieren.
-
-> Vorab lesen: [Die Welt der Präbiotika, Probiotika und Postbiotika verstehen: Der komplette Leitfaden](/2024/09/10/praebiotika-probiotika-postbiotika/)
 
 {{< companion
   title="Bio-Dynamics: Mikrobiom-Sandbox"

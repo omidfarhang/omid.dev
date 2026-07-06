@@ -13,13 +13,18 @@ tags:
 
 categories: 
   - Health
+series:
+  id: probiotics-guide
+  title: "Prebiotics, Probiotics, and Postbiotics"
+  order: 1
+  label: "Allergies"
+  role: part
+  listed: false
 seeAlso:
   - /2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
   - /2024/09/10/prebiotics-probiotics-postbiotics/
 ---
 Allergies occur when the immune system overreacts to a typically harmless substance, such as pollen, dust, or certain foods. Probiotics, especially certain strains, can help regulate immune responses and alleviate allergic symptoms by influencing the balance of gut bacteria and modulating inflammation.
-
-> Read before: [Unlocking the World of Prebiotics, Probiotics, and Postbiotics: The Complete Guide](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
 {{< companion
   title="Bio-Dynamics: Microbiome Sandbox"

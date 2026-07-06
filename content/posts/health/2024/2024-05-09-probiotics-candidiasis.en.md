@@ -14,13 +14,18 @@ tags:
 
 categories: 
   - Health
+series:
+  id: probiotics-guide
+  title: "Prebiotics, Probiotics, and Postbiotics"
+  order: 2
+  label: "Candidiasis"
+  role: part
+  listed: false
 seeAlso:
   - /2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
   - /2024/09/10/prebiotics-probiotics-postbiotics/
 ---
 Candidiasis is an infection caused by an overgrowth of Candida, a type of yeast that naturally exists in the body. When Candida grows uncontrollably, it can lead to various health issues, including oral thrush, vaginal yeast infections, and systemic infections. Probiotics, beneficial bacteria that support gut health, can play a crucial role in managing and preventing Candidiasis. This post explores how probiotics help with Candidiasis, their mechanisms of action, and specific strains that offer the most benefit.
-
-> Read before: [Unlocking the World of Prebiotics, Probiotics, and Postbiotics: The Complete Guide](/2024/09/10/prebiotics-probiotics-postbiotics/)
 
 {{< companion
   title="Bio-Dynamics: Microbiome Sandbox"

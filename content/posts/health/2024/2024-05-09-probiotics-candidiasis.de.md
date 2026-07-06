@@ -14,10 +14,17 @@ tags:
 
 categories: 
   - Health
+series:
+  id: probiotics-guide
+  title: "Präbiotika, Probiotika und Postbiotika"
+  order: 2
+  label: "Candidose"
+  role: part
+  listed: false
+seeAlso:
+  - /2024/09/10/praebiotika-probiotika-postbiotika/
 ---
 Candidose ist eine Infektion, die durch ein übermäßiges Wachstum von Candida verursacht wird, einer Hefeart, die natürlich im Körper vorkommt. Wenn Candida unkontrolliert wächst, kann dies zu verschiedenen Gesundheitsproblemen führen, darunter Mundsoor, vaginale Hefepilzinfektionen und systemische Infektionen. Probiotika, nützliche Bakterien, die die Darmgesundheit unterstützen, können eine entscheidende Rolle bei der Bewältigung und Vorbeugung von Candidose spielen. Dieser Beitrag untersucht, wie Probiotika bei Candidose helfen, ihre Wirkmechanismen und spezifische Stämme, die den größten Nutzen bieten.
-
-> Vorab lesen: [Die Welt der Präbiotika, Probiotika und Postbiotika verstehen: Der komplette Leitfaden](/2024/09/10/praebiotika-probiotika-postbiotika/)
 
 {{< companion
   title="Bio-Dynamics: Mikrobiom-Sandbox"

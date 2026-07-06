@@ -12,6 +12,13 @@ tags:
 
 categories: 
   - Health
+series:
+  id: probiotics-guide
+  title: "Präbiotika, Probiotika und Postbiotika"
+  order: 0
+  label: "Kompletter Leitfaden"
+  role: anchor
+  listed: false
 ---
 In den letzten Jahren haben die Begriffe *Präbiotika*, *Probiotika* und *Postbiotika* in Diskussionen über Gesundheit und Wohlbefinden große Aufmerksamkeit erlangt. Diese aus Lebensmitteln und Nahrungsergänzungsmitteln gewonnenen Verbindungen spielen eine wichtige Rolle bei der Aufrechterhaltung der Darmgesundheit und bieten Vorteile für mehrere Körpersysteme. In diesem umfassenden Leitfaden untersuchen wir, was jeder dieser Begriffe bedeutet, ihre Kategorien, die Bandbreite der gesundheitlichen Vorteile, die sie bieten, Quellen für jeden einzelnen und wie sie bei häufigen Gesundheitsproblemen wie Allergien, Candidose und Laktoseintoleranz helfen.
 

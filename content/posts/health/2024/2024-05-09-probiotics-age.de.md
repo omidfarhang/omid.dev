@@ -12,6 +12,15 @@ tags:
 
 categories: 
   - Health
+series:
+  id: probiotics-guide
+  title: "Präbiotika, Probiotika und Postbiotika"
+  order: 3
+  label: "Im Wandel der Zeit"
+  role: part
+  listed: false
+seeAlso:
+  - /2024/09/10/praebiotika-probiotika-postbiotika/
 ---
 Probiotika, lebende nützliche Bakterien und Hefen, bieten in verschiedenen Lebensphasen erhebliche gesundheitliche Vorteile. Vom Säuglingsalter bis ins hohe Alter können Probiotika die Verdauungsgesundheit unterstützen, das Immunsystem stärken, das psychische Wohlbefinden fördern und sogar bei der Hautgesundheit helfen. Aber wie entwickelt sich ihre Rolle mit zunehmendem Alter und welche Probiotika sollten in den verschiedenen Lebensphasen eingenommen werden?
 
