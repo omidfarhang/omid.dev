@@ -24,7 +24,7 @@ There is no Node/npm build step. Hugo is the only required build tool.
 | `assets/` | Hugo Pipes assets (processed at build) |
 | `data/` | Hugo data files |
 | `scripts/` | Python maintenance scripts |
-| `docs/` | Editorial reference (e.g. curated content inventory) |
+| `docs/` | Editorial reference (curated content inventory, tag strategy) |
 | `archetypes/` | Hugo content templates |
 | `public/`, `resources/` | Build output — **do not commit** |
 
@@ -84,12 +84,22 @@ categories:
 
 - **`url`:** Permalink path relative to site root (matches `permalinks.posts` in `hugo.yaml`)
 - **`categories`:** One of `TechBlog`, `Health`, `Electronics`, `Cozy Corner`
-- **`tags`:** Title Case, human-readable labels (not slugs). Curated homepage tags in `hugo.yaml` (`params.homeTechTags*`) must match exactly
+- **`tags`:** Controlled vocabulary — follow `docs/tag-strategy.md` (do not copy legacy tags from existing posts)
 - **`series`:** Optional ordered series metadata — see [Series](#series-machine-readable)
 - **`seeAlso`:** Optional related-post links — see [seeAlso](#seealso-cross-links)
 - **`shortlink`:** Existing short links — do not change unless asked
 
 Notes use the `notes` section and a minimal archetype in `archetypes/notes.md`.
+
+### Tags
+
+Follow **`docs/tag-strategy.md`** — the controlled vocabulary is the source of truth, not tags on existing posts.
+
+1. Pick tags only from the vocabulary tables (Primary + Secondary for TechBlog; section lists for other categories).
+2. Evergreen TechBlog: 1–2 Primary + 1–4 Secondary, 3–6 tags total.
+3. Archive/news posts: `News` + 0–2 subject tags; strip noise tags when migrating.
+4. Run `python3 scripts/fix-post-tags.py scan` after bulk retagging.
+5. New tags require updating `docs/tag-strategy.md` first.
 
 ## Reading paths and series
 
@@ -236,17 +246,18 @@ Match existing naming and structure. Prefer extending partials over duplicating 
 ## Maintenance scripts
 
 ```bash
-# Scan post tags for inconsistencies (dry run)
-python scripts/fix-post-tags.py scan
+# Audit tags (duplicates, typos, curated mismatches)
+python3 scripts/fix-post-tags.py scan
 
 # Apply tag fixes from scripts/tag-fixes.yaml
-python scripts/fix-post-tags.py apply
+python3 scripts/fix-post-tags.py apply --dry-run
+python3 scripts/fix-post-tags.py apply
 
 # Note URL helper
-python scripts/note-url.py
+python3 scripts/note-url.py
 ```
 
-Tag rules are configured in `scripts/tag-fixes.yaml`. Curated homepage tags in `hugo.yaml` are protected — do not rename them casually.
+Tag rules: `docs/tag-strategy.md` (vocabulary + reuse rules), `scripts/tag-fixes.yaml` (automated renames). Curated homepage tags in `hugo.yaml` are protected — do not rename them casually.
 
 Requires Python 3 with PyYAML (`pip install pyyaml`).
 
@@ -281,5 +292,5 @@ Never commit or expose:
 | Series / seeAlso | No `seeAlso path not found` warnings in build output |
 | Reading path edits | Path page renders with correct link order |
 | Theme / layouts | `hugo server` renders affected pages |
-| Tag changes | `python scripts/fix-post-tags.py scan` |
+| Tag changes | `python3 scripts/fix-post-tags.py scan` |
 | Multilingual edits | Spot-check `en`, `fa` (RTL), and `de` variants if applicable |

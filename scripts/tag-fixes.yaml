@@ -1,5 +1,6 @@
 # Tag fixes for Hugo post front matter. Used by scripts/fix-post-tags.py
 #
+# Vocabulary source of truth: docs/tag-strategy.md
 # Curated homepage tags (hugo.yaml params.homeTechTags*) are protected:
 #   - apply refuses configs that rename curated tags
 #   - scan prefers curated spellings for duplicate suggestions
@@ -120,6 +121,40 @@ replacements:
   Work-Life-Balance: Work-Life Balance
   DIY: DIY Tech
 
+  medical: Medical
+  minerals: Minerals
+  foods: Food
+  Womens health: Women's Health
+  Engineering Mentality: Engineering Mindset
+  Tech Mentorship: Mentorship
+  Mentoring In Tech: Mentorship
+  Mentee Tips: Mentorship
+  Mentor Guidelines: Mentorship
+  Tech Industry: Career
+  Ecosystem Blind Spot: Career
+  System Migration: Migration
+  API Migration: Migration
+  Refactoring Code: Refactoring
+  Code Archaeology: Legacy Systems
+  Software Modernization: Migration
+  Nutrition and Appetite Disorders: Nutrition
+  Conditioned Taste Aversion: Nutrition
+  Food Aversion and Eating Behavior: Nutrition
+  Learning and Behavioral Psychology: Nutrition
+  Food Allergy vs Intolerance: Allergies
+  Circadian Rhythm: Sleep
+  Statics: History
+  Science Is Fun: Good Reads
+  Random Comparison: Good Reads
+  Houseplants: Health
+  Home Environment: Health
+  Candidiasis: Medical
+  interesting: Good Reads
+  events: Events
+  quote: Quote
+  I think: My Life
+  Music Life: Music
+
   alanyze: analyze
   Web Disgn: Web Design
   security essnetials: Security Essentials
@@ -167,8 +202,9 @@ canonical_groups:
     variants:
       - Microservices Architecture
 
-  - canonical: Container Orchestration
+  - canonical: Kubernetes
     variants:
+      - Container Orchestration
       - Advanced Container Orchestration
 
   - canonical: Chaos Engineering
@@ -231,6 +267,61 @@ canonical_groups:
   - canonical: Music
     variants:
       - Artists
+  - canonical: Mentorship
+    variants:
+      - Tech Mentorship
+      - Mentoring In Tech
+      - Mentee Tips
+      - Mentor Guidelines
+
+  - canonical: Migration
+    variants:
+      - System Migration
+      - API Migration
+      - Software Modernization
+
+  - canonical: Legacy Systems
+    variants:
+      - Code Archaeology
+
+  - canonical: Medical
+    variants:
+      - medical
+
+  - canonical: Women's Health
+    variants:
+      - Womens health
+
+  - canonical: Engineering Mindset
+    variants:
+      - Engineering Mentality
+
+  - canonical: Nutrition
+    variants:
+      - Nutrition and Appetite Disorders
+      - Conditioned Taste Aversion
+      - Food Aversion and Eating Behavior
+      - Learning and Behavioral Psychology
+
+  - canonical: Food
+    variants:
+      - foods
+
+  - canonical: Events
+    variants:
+      - events
+
+  - canonical: Career
+    variants:
+      - Career Development
+      - Professional Growth
+      - Tech Industry
+      - Ecosystem Blind Spot
+
+  - canonical: Software Engineering
+    variants:
+      - Software Development
+
   # Align post tags to hugo.yaml curated homepage spellings (safe for apply).
   - canonical: React
 
@@ -238,9 +329,27 @@ canonical_groups:
 
   - canonical: CSS
 
-  - canonical: Career
-
   - canonical: Event-Driven Architecture
 
-# Tags stripped from every post (case / camelCase / kebab-case matched automatically).
-remove: []
+# Tags stripped from every post during apply (noise / non-vocabulary).
+remove:
+  - report
+  - review
+  - alert
+  - advice
+  - scam
+  - interesting
+  - link
+  - information
+  - announcement
+  - hack
+  - spam
+  - how to
+  - How to
+  - business
+  - development
+  - Development
+  - software
+  - rogue software
+  - Patch Tuesday
+  - 0-Day

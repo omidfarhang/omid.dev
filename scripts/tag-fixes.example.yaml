@@ -1,8 +1,7 @@
 # Copy to tag-fixes.yaml and edit. Used by scripts/fix-post-tags.py
 #
-# Curated homepage tags (hugo.yaml params.homeTechTags*) are protected:
-#   - apply refuses configs that rename curated tags
-#   - scan prefers curated spellings for duplicate suggestions
+# Vocabulary source of truth: docs/tag-strategy.md
+# Curated homepage tags (hugo.yaml params.homeTechTags*) are protected.
 #
 #   python3 scripts/fix-post-tags.py scan
 #   python3 scripts/fix-post-tags.py apply --dry-run

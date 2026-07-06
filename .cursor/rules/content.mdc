@@ -11,7 +11,7 @@ Follow `AGENTS.md` for full conventions. Key rules for `content/`:
 - Posts: `content/posts/{section}/{year}/YYYY-MM-DD-slug.{en,fa,de}.md`
 - Language is in the filename suffix, not front matter.
 - Use `layout: single`, `author_profile: true`, and a `url` matching the permalink pattern.
-- Tags are Title Case labels; curated homepage tags in `hugo.yaml` must match exactly.
+- Tags: controlled vocabulary in `docs/tag-strategy.md` — never copy tags from legacy posts; 3–6 tags from the vocabulary tables only
 - Categories: `TechBlog`, `Health`, `Electronics`, or `Cozy Corner`.
 - Preserve existing `shortlink` values unless asked to change them.
 - Use theme shortcodes (`youtube`, `companion`, `alert`, `figure`) instead of raw HTML when possible.
