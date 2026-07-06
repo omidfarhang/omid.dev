@@ -30,7 +30,7 @@ Build up your malware defenses
 
 ### Use a safe browser with good extensions
 
-* I recommend [Google Chrome](https://www.google.com/chrome/) and [Here is](/knowledge-base/programs/google-chrome/extensions) my suggested list of extensions for a safe navigation.
+* I recommend [Google Chrome](https://www.google.com/chrome/) with uBlock and WOT.
 
 ### Update software regularly
 
@@ -62,7 +62,7 @@ Minimize the chance that you'll infect your computer with malware:
 
 ### Immunize your computer having any traffic to malware domains
 
-* You can block your computer from download anything from malware domains using windows [Hosts File](/knowledge-base/security/hosts-file), [Learn more here](/knowledge-base/security/hosts-file/protect-hosts-file).
+* You can block your computer from download anything from malware domains using windows Hosts File, [HostsMan](https://www.abelhadigital.com/hostsman/) makes it easy.
 
 Don't be tricked into downloading malware
 -----------------------------------------
