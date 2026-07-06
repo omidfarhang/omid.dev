@@ -1,7 +1,7 @@
 ---
 title: From FrontPage to Hand-Written HTML
 date: 2004-11-02T14:45:00+00:00
-description: Microsoft FrontPage and CoffeeCup made early web publishing easy, but learning clean HTML still paid off in 2004.
+description: Microsoft FrontPage and CoffeeCup make early web publishing easy, but learning clean HTML still pays off.
 layout: single
 author_profile: true
 url: 2004/11/02/from-frontpage-to-hand-written-html/
@@ -16,7 +16,7 @@ categories:
 ---
 My first websites did not start in a text editor. They started with **Microsoft FrontPage 2003**, **CoffeeCup HTML Editor**, and a lot of trial and error in Internet Explorer 6. That was normal in the early 2000s: visual editors lowered the barrier, and the web was still small enough that a personal page or a company brochure site could ship in a weekend.
 
-By November 2004, the tools are better — but the habits matter more than the brand on the box.
+Here in late 2004, the tools are better — but the habits matter more than the brand on the box.
 
 ## What Visual Editors Get Right
 
@@ -44,7 +44,7 @@ If you only edit visually, every redesign feels like archaeology. You click arou
 
 **Internet Explorer 6** still dominates. Most office desktops run it, and many intranet apps assume it. But alternative browsers are no longer a curiosity. **Mozilla Firefox** is close to a 1.0 release — the preview builds have already passed eight million downloads — and that alone is a reason to stop treating IE quirks as architecture.
 
-Practical testing in 2004 means:
+Practical testing today means:
 
 - Validate HTML occasionally with the W3C validator
 - Avoid IE-only JavaScript unless you have no choice
@@ -108,4 +108,4 @@ Incremental cleanup is slower to start and much faster to finish.
 
 FrontPage and CoffeeCup are bridges, not destinations. They help you publish early. Hand-written HTML and CSS help you publish well.
 
-If you are building your first site in 2004, use the tools — but read the code they generate. That habit pays off the first time a client asks for a redesign and you do not have to rebuild from scratch.
+If you are building your first site now, use the tools — but read the code they generate. That habit pays off the first time a client asks for a redesign and you do not have to rebuild from scratch.
