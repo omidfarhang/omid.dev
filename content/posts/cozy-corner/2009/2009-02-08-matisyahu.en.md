@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2009/02/08/matisyahu/
 shortlink: https://g.omid.dev/1n5LIgt
-image: /images/sites/4/2013/03/matisyahu202.jpg
 tags:
   - Music
 

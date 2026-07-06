@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2008/06/11/peter-heppner/
 shortlink: https://g.omid.dev/1n5LF4c
-image: /images/sites/4/2008/06/220px-peter_heppner.jpg
 tags:
   - Music
 

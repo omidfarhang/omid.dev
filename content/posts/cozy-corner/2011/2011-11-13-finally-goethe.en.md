@@ -4,7 +4,6 @@ date: 2011-11-13T12:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/13/finally-goethe/
-image: /images/sites/2/2011/11/Goethe-Institut.jpg
 tags:
   - My Life
 

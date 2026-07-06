@@ -4,7 +4,6 @@ date: 2012-06-17T18:11:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/17/happy-fathers-day/
-image: /images/sites/2/2012/06/fathers-day-gifts.jpg
 tags:
   - events
 

@@ -4,7 +4,6 @@ date: 2013-05-09T12:53:20+00:00
 layout: single
 author_profile: true
 url: 2013/05/09/tarja-turunens-new-album-colours-in-the-dark/
-image: /images/sites/4/2013/05/Screen-Shot-2013-05-09-at-12.09.57-AM.png
 tags:
   - Tarja Turunen
   - Music

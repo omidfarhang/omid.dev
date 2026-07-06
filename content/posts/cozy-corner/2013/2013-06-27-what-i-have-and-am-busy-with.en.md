@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2013/06/27/what-i-have-and-am-busy-with/
 shortlink: https://g.omid.dev/1oGSOcy
-image: /images/sites/2/2013/06/download-life.jpg
 tags:
   - My Life
 

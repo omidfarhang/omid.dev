@@ -4,7 +4,6 @@ date: 2012-02-26T20:33:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/26/nothing-last-forever-but-still-i-miss-you/
-image: /images/sites/2/2013/03/passfail-small10.jpg
 tags:
   - My Life
 

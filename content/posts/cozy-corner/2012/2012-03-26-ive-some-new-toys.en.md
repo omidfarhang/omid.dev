@@ -4,7 +4,6 @@ date: 2012-03-26T22:03:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/26/ive-some-new-toys/
-image: /images/sites/2/2012/03/HTC_Wildfire_S_Viewpoints-C.jpg
 tags:
   - My Life
 

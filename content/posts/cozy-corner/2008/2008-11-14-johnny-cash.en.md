@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2008/11/14/johnny-cash/
 shortlink: https://g.omid.dev/1LmNrcN
-image: /images/sites/4/2013/03/cash_narrowweb__300x4130.jpg
 tags:
   - Music
 

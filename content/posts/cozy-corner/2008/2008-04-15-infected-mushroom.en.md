@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2008/04/15/infected-mushroom/
 shortlink: https://g.omid.dev/1KWvDWa
-image: /images/sites/4/2008/04/infected07_03.jpg
 tags:
   - Music
 

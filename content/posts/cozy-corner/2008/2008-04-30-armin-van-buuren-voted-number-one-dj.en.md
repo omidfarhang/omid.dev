@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2008/04/30/armin-van-buuren-voted-number-one-dj/
 shortlink: https://g.omid.dev/1n5LGFB
-image: /images/sites/4/2008/04/pic.jpg
 tags:
   - Music
 

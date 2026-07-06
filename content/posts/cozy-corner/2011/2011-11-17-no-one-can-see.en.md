@@ -4,7 +4,6 @@ date: 2011-11-17T11:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/17/no-one-can-see/
-image: /images/sites/2/2011/11/hide-sadness.jpg
 tags:
   - interesting
   - mood

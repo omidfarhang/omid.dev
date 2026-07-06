@@ -4,12 +4,9 @@ date: 2013-05-29T11:44:46+00:00
 layout: single
 author_profile: true
 url: 2013/05/29/dmc-and-wayne-static-join-forces-to-shoot-video-for-new-track/
-image: /images/sites/4/2013/05/DMC-Wayne-Static.jpg
 tags:
   - DMC
   - Music
-  - Static-X
-  - Wayne Static
 
 categories: 
   - Cozy Corner

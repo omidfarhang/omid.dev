@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2015/06/07/taylor-swift-notches-six-months-at-no-1-on-billboard-artist-100/
 shortlink: https://g.omid.dev/1Sc1xza
-image: /images/sites/4/2015/06/ts-125448.png
 tags:
   - Billboard
   - Music

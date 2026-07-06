@@ -4,7 +4,6 @@ date: 2013-05-03T20:31:34+00:00
 layout: single
 author_profile: true
 url: 2013/05/03/taylor-swift-needs-your-support/
-image: /images/sites/4/2013/05/Taylor-Billbord.jpg
 tags:
   - Music
 

@@ -9,8 +9,6 @@ image: /wp-content/uploads/2020/05/Wayne-Static-1024x683.jpg
 tags:
   - Music
   - Music Video
-  - Static-X
-  - Wayne Static
 
 categories: 
   - Cozy Corner

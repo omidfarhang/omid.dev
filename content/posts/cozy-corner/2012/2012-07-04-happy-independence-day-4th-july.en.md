@@ -4,7 +4,6 @@ date: 2012-07-04T15:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/04/happy-independence-day-4th-july/
-image: /images/sites/2/2012/07/american-independence-day.jpg
 tags:
   - events
 

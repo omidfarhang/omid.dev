@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2015/01/11/new-computer/
 shortlink: https://g.omid.dev/1n5KW36
-image: /images/sites/2/2015/01/MB.png
 tags:
   - My Life
 

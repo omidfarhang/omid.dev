@@ -4,7 +4,6 @@ date: 2013-05-23T07:14:53+00:00
 layout: single
 author_profile: true
 url: 2013/05/23/korn-on-mission-to-find-cure-for-diabetes/
-image: /images/sites/4/2013/05/Jonathan.jpg
 tags:
   - Korn
   - Music

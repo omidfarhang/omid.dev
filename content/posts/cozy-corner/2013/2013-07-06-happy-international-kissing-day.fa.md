@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2013/07/06/happy-international-kissing-day/
 shortlink: https://g.omid.dev/1RAEqMA
-image: /images/sites/2/2013/07/09d9ee78a.jpg
 
 categories: 
   - Cozy Corner

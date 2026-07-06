@@ -4,7 +4,6 @@ date: 2012-07-20T17:32:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/20/what-are-we-doing-to-our-planet/
-image: /images/sites/2/2012/07/David-and-Arlan.jpg
 tags:
   - I think
 

@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2008/04/14/tarja-turunen-nightwish-vocalist-1996-2005/
 shortlinl: https://g.omid.dev/1VLwCZK
-image: /images/sites/4/2008/04/tarjabody2.jpg
 tags:
   - Music
 

@@ -4,7 +4,6 @@ date: 2012-08-26T20:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/26/rest-in-peace-neil-armstrong/
-image: /images/sites/2/2012/08/Neil_Armstrong_pose.jpg
 tags:
   - events
 

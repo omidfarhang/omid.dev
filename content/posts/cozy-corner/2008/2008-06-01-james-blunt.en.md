@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2008/06/01/james-blunt/
 shortlink: https://g.omid.dev/1T9yCNj
-image: /images/sites/4/2008/06/james_blunt1.jpg
 tags:
   - Music
 

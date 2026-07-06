@@ -4,7 +4,6 @@ date: 2013-03-11T22:02:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/11/and-a2-is-passed/
-image: /images/sites/2/2013/03/passfail-small10.jpg
 tags:
   - My Life
 

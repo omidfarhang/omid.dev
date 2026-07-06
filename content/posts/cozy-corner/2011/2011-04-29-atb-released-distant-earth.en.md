@@ -4,7 +4,6 @@ date: 2011-04-29T14:33:57+00:00
 layout: single
 author_profile: true
 url: 2011/04/29/atb-released-distant-earth/
-image: /images/sites/4/2011/04/Distant_Earth_official_cover.jpg
 tags:
   - Music
 
@@ -30,11 +29,11 @@ Disc One
   7. Heartbeat (with Amurai feat. Melissa Loretta) 6.07
   8. Killing Me Inside (feat. Sean Ryan) 5.21
   9. Apollo Road (with Dash Berlin) 7.24
- 10. Running a Wrong Way (with Rea Garvey) 3.19
- 11. Where You Are (feat. Kate Louise Smith) 4.23
- 12. This Is Your Life (feat. Fuldner) 3.59
- 13. One More (feat. Cristina Soto) 3.43
- 14. White Letters (feat. Melissa Loretta) 4.44
+ 1.  Running a Wrong Way (with Rea Garvey) 3.19
+ 2.  Where You Are (feat. Kate Louise Smith) 4.23
+ 3.  This Is Your Life (feat. Fuldner) 3.59
+ 4.  One More (feat. Cristina Soto) 3.43
+ 5.  White Letters (feat. Melissa Loretta) 4.44
 
 Disc Two
 

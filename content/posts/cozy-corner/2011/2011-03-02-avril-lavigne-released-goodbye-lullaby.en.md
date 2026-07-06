@@ -4,7 +4,6 @@ date: 2011-03-02T14:46:49+00:00
 layout: single
 author_profile: true
 url: 2011/03/02/avril-lavigne-released-goodbye-lullaby/
-image: /images/sites/4/2013/05/Avril_Lavigne_Goodbye_Lullaby_album_cover.jpg
 tags:
   - Music
 

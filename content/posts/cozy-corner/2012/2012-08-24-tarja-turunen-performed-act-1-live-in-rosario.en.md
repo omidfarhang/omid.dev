@@ -4,7 +4,6 @@ date: 2012-08-24T14:56:25+00:00
 layout: single
 author_profile: true
 url: 2012/08/24/tarja-turunen-performed-act-1-live-in-rosario/
-image: /images/sites/4/2013/05/tarja-act-1.jpg
 tags:
   - Tarja Turunen
   - Music

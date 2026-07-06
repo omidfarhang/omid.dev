@@ -4,7 +4,6 @@ date: 2010-02-01T14:01:51+00:00
 layout: single
 author_profile: true
 url: 2010/02/01/bt-released-these-hopeful-machines/
-image: /images/sites/4/2013/05/these-front.jpg
 tags:
   - Music
 

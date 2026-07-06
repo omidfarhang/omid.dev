@@ -4,7 +4,6 @@ date: 2011-10-28T17:03:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/28/happy-birthday-lady-liberty/
-image: /images/sites/2/2011/10/new-york-statue-of-liberty.jpg
 tags:
   - events
 

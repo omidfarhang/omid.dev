@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 url: 2013/07/11/victim-of-ritual/
 shortlink: https://g.omid.dev/1Uxb04V
-image: /images/sites/4/2013/07/Tarja_Cover_Victim-Of-Ritual_high-res.jpg
 tags:
   - Music Video
   - Music
