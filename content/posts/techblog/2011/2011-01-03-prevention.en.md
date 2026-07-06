@@ -25,8 +25,8 @@ Build up your malware defenses
 ### Install antivirus and antispyware programs from a trusted source
 
 * Never download anything in response to a warning from a program you didn't install or don't recognize that claims to protect your PC or offers to remove viruses. It is highly likely to do the opposite.
-* Get reputable anti-malware programs from a vendor you trust. I recommend [Avira](/knowledge-base/programs/avira-premium-security-suite).
-* It's highly recommended that you create another layer of protection beyond [Avira](/knowledge-base/programs/avira-premium-security-suite). This second layer could be composed with [Malwarebytes' Anti-Malware](/knowledge-base/programs/malwarebytes-antimalware), [Hitman Pro](/knowledge-base/programs/hitman-pro) or any other **on-demand** antimalware software.
+* Get reputable anti-malware programs from a vendor you trust. I recommend [Avira](https://www.avira.com/en/free-antivirus-windows).
+* It's highly recommended that you create another layer of protection beyond [Avira](https://www.avira.com/en/free-antivirus-windows). This second layer could be composed with [Malwarebytes' Anti-Malware](https://www.malwarebytes.com/mwb-download), [Hitman Pro](https://www.hitmanpro.com/) or any other **on-demand** antimalware software.
 
 ### Use a safe browser with good extensions
 
@@ -36,25 +36,25 @@ Build up your malware defenses
 
 Cybercriminals are endlessly inventive in their efforts to exploit vulnerabilities in software, and many software companies work tirelessly to combat these threats. That is why you should:
 
-* Regularly install updates forallyour software—antivirus and antispyware programs, browsers (like Windows Internet Explorer), operating systems (like Windows), and word processing and other programs. [Learn how to update your system](/knowledge-base/how-to/maintenance/check-for-update).
+* Regularly install updates forallyour software—antivirus and antispyware programs, browsers (like Windows Internet Explorer), operating systems (like Windows), and word processing and other programs. [Learn how to update your system](/2009/01/13/check-for-windows-updates/).
 * Uninstall software that you don't use. You can remove it using Windows Control Panel.
 
 ### Use strong passwords and keep them secret
 
-* Strong passwords are at least 14 characters long and include a combination of letters, numbers, and symbols.[Find out how to create them](/knowledge-base/security/passwords).
+* Strong passwords are at least 14 characters long and include a combination of letters, numbers, and symbols.[Find out how to create them](/2009/01/13/passwords/).
 * Don't share passwords with anyone.
 * Don’t use the same password on all sites. If it is stolen, all the information it protects is at risk.
 * Create different strong passwords for the router and the wireless key of your wireless connection at home. Find out how from the company that provides your router.
 
 ### Never turn off your firewall
 
-A firewall puts a protective barrier between your computer and the Internet. Turning it off for even a minute increases the risk that your PC will be infected with malware. [Learn more about Firewalls](/knowledge-base/security/personal-firewall).
+A firewall puts a protective barrier between your computer and the Internet. Turning it off for even a minute increases the risk that your PC will be infected with malware. [Learn more about Firewalls](/2009/01/13/firewall/).
 
 ### Use flash drives cautiously
 
 Minimize the chance that you'll infect your computer with malware:
 
-**Note**: If you use [Avira AntiVir](/knowledge-base/programs/avira-premium-security-suite) you are protected against Autorun malwares since it will block all Autoruns from Removable Drives (Expect CD/DVD by Default).
+**Note**: If you use [Avira](https://www.avira.com/en/free-antivirus-windows) you are protected against Autorun malwares since it will block all Autoruns from Removable Drives (Expect CD/DVD by Default).
 
 * Don't put an unknown flash (or thumb) drive into your PC.
 * Hold down the SHIFT key when you insert the drive into your computer. If you forget to do this, click ![](/rsrc/1298586349299/computer/malware/prevention/close_orange.png) in the upper-right corner to close any flash drive-related pop-up windows.

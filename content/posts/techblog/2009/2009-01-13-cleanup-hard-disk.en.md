@@ -36,8 +36,8 @@ How to Cleanup
 
 There are many ways to cleanup disk space, here I will list my preferred:
 
-* Use [Auslogics BoostSpeed](/knowledge-base/programs/boostspeed) **\[Recommended\]**
-* Use [CCleander](/knowledge-base/programs/ccleaner)
+* Use [Auslogics BoostSpeed](https://www.auslogics.com/en/software/boost-speed/) **\[Recommended\]**
+* Use [CCleander](https://www.ccleaner.com/)
 * Use Windows Disc Cleanup
 
 ### To use Auslogica BoostSpeed \[Recommended\]
@@ -52,7 +52,7 @@ There are many ways to cleanup disk space, here I will list my preferred:
 
 ### To use CCleaner
 
-* I suggest only use CCleaner if you cannot afford to by BoostSpeed. To learn more about CCleaner [Click Here](/knowledge-base/programs/ccleaner).
+* I suggest use CCleaner only if you cannot afford to buy BoostSpeed. To learn more about CCleaner [Click Here](https://www.ccleaner.com/).
 
 ### To use Disk Cleanup
 

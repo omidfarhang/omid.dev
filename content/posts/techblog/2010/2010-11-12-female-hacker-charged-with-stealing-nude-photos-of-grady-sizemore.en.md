@@ -33,7 +33,7 @@ So, what can the rest of us who aren't baseball stars or Playboy Playmates learn
 
 Well, firstly, be careful what information you share on social networks – and who can view it. You might be sharing more information than is sensible.
 
-Secondly, choose a sensible, unique, hard-to-crack password for your different accounts. Not sure how to select a password? [Read my advice](/en/knowledge-base/security/passwords) on the subject.
+Secondly, choose a sensible, unique, hard-to-crack password for your different accounts. Not sure how to select a password? [Read my advice](/2009/01/13/passwords/) on the subject.
 
 Thirdly, don't make your “secret questions” easy to answer. Those are the questions that some websites ask you in case you forget your password. For instance, “What's the name of your pet dog?” or “What's your mother's maiden name?” is something that many people could work out. As Sarah Palin and Paris Hilton have discovered to her cost.
 

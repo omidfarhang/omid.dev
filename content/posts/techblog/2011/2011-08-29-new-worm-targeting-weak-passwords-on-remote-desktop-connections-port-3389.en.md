@@ -67,7 +67,7 @@ When creating strong passwords, remember that the key to a strong password is le
 *   The greater the variety of characters in your password, the better.
 *   Use the entire keyboard, not just the letters and characters you use or see most often.
   
-For more advice on creating (and remembering) strong passwords, visit my [Safety and Security Center](/en/knowledge-base/security/passwords).
+[How to choose a strong passwords and remember it?](/2009/01/13/passwords/)
 
 For your information here are some examples of files that are being detected as Win32/Morto:
   

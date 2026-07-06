@@ -44,7 +44,7 @@ If you found your Twitter account was one of those sending out the phishing mess
 
 Not just on Twitter, but also make sure you're not using the same password anywhere else on the net.
 
-And remember, it's important that you don't use a word from the dictionary as your password. It's easy to understand why computer users pick dictionary words as they're much easier to remember, but as I explain in [this link](/en/knowledge-base/security/passwords) a good trick is to pick a sentence and just use the first letter of every word to make up your password.
+And remember, it's important that you don't use a word from the dictionary as your password. It's easy to understand why computer users pick dictionary words as they're much easier to remember, but as I explain in [this link](/2009/01/13/passwords/) a good trick is to pick a sentence and just use the first letter of every word to make up your password.
 
 You can always use password management software such as KeePass or 1Password to remember complex passwords if you find it too difficult.
 

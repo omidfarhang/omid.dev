@@ -21,4 +21,4 @@ Avira AntiVir Rescue System uses Linux as operating system. The new kernel has m
 
 The Rescue System can be either downloaded from the Avira web site at [www.avira.com](http://www.avira.com/en/support-download-avira-antivir-rescue-system) as ISO image for burning it to CD with existing software or as executable file for Windows with a tiny CD burning application included. It is possible to update the system with an existing Internet connection or just to download the most recent version of the [Rescue System](http://www.avira.com/en/support-download-avira-antivir-rescue-system) from the Avira homepage.
 
-To Lean how to use Avira Rescue System, Visit my site: </en/knowledge-base/security/avira-rescuecd>
+To Lean how to use Avira Rescue System, Visit: [Creating and using Avira Rescue System](https://support.avira.com/hc/en-us/articles/360007776058-Creating-and-using-Avira-Rescue-System)

@@ -35,13 +35,13 @@ Here's how you change your WordPress.com password, if you think it might not be 
 
 [![](/images/2011/04/wordpress-personal-settings.jpg)](/images/2011/04/wordpress-personal-settings.jpg)
 
-2. Choose a strong, unique password. ([How to choose a good password and take care of it?](/en/knowledge-base/security/passwords))
+2. Choose a strong, unique password. [How to choose a good password and take care of it?](/2009/01/13/passwords/)
 
 [![](/images/2011/04/wordpress-password.jpg)](/images/2011/04/wordpress-password.jpg)
 
 We don't know that the WordPress.com security breach gave the hackers access to bloggers' passwords, but we do know that many internet users have chosen to use the same password on multiple websites. So if your password was stolen from one website, it could then be used to unlock many other online accounts – and potentially cause a bigger problem for you.
 
-So always use [unique passwords](/en/knowledge-base/security/passwords).
+So always use [unique passwords](/2009/01/13/passwords/).
 
 Furthermore, computer users should ensure they don't use dictionary words as passwords as it is relatively easy for hackers to figure these out using electronic dictionaries that simply try out every word until they get the right one.
 

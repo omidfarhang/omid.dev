@@ -18,7 +18,7 @@ categories:
 
 Version 20.4 is primarily a bug-fix release, with some notable fixes, but also tweaks the user interface.
 
-One visible change for users who also have [Malwarebytes Anti-Malware Free](/en/knowledge-base/programs/malwarebytes-antimalware/) installed as additional protection is a fix that prevents Norton from blocking or flagging up MBAM as incompatible.
+One visible change for users who also have [Malwarebytes Anti-Malware Free](https://www.malwarebytes.com/mwb-download) installed as additional protection is a fix that prevents Norton from blocking or flagging up MBAM as incompatible.
 
 The latest update also resolves an issue where the Safe Web annotations for checking search results for safety and privacy were not appearing in the US version of Google.com. Also corrected is an issue whereby Intrusion Prevention was incorrectly flagged as switched off when Norton AntiSpam was being opened from Microsoft Outlook.
 

@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-**![avira_logo_red_rgb (2)](http://lh6.ggpht.com/_vaUVXcmC3OI/TZM7yPvanvI/AAAAAAAADyk/MnvbNy90n7E/s1600-h/avira_logo_red_rgb%20%282%29%5B7%5D.jpg)Avira TechBlog:** SpyEye is a malware family which we are monitoring for some time. Today we are analyzing a sample which is detected as TR/Spy.SpyEye.flh by [Avira products](/en/knowledge-base/programs/avira-premium-security-suite).
+**![avira_logo_red_rgb (2)](http://lh6.ggpht.com/_vaUVXcmC3OI/TZM7yPvanvI/AAAAAAAADyk/MnvbNy90n7E/s1600-h/avira_logo_red_rgb%20%282%29%5B7%5D.jpg)Avira TechBlog:** SpyEye is a malware family which we are monitoring for some time. Today we are analyzing a sample which is detected as TR/Spy.SpyEye.flh by [Avira](https://www.avira.com/en/free-antivirus-windows).
 
 The Trojan is able to inject code in running processes and can perform the following functions:
 
