@@ -1,0 +1,15 @@
+---
+description: Core omid.dev project instructions
+alwaysApply: true
+---
+
+# omid.dev
+
+Read `AGENTS.md` at the repository root for build commands, layout, and workflow.
+
+This is a Hugo static site (`hugo.yaml`, theme `themes/omid-dev`). No npm/Node build.
+
+- Keep changes minimal and focused.
+- Do not commit `public/`, `resources/`, or secrets.
+- Only create git commits when the user explicitly asks.
+- Run `hugo --minify` after template or config changes; fix build errors before finishing.

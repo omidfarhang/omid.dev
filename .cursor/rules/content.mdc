@@ -1,0 +1,29 @@
+---
+description: Hugo content and post authoring conventions
+globs: content/**/*.md
+alwaysApply: false
+---
+
+# Content
+
+Follow `AGENTS.md` for full conventions. Key rules for `content/`:
+
+- Posts: `content/posts/{section}/{year}/YYYY-MM-DD-slug.{en,fa,de}.md`
+- Language is in the filename suffix, not front matter.
+- Use `layout: single`, `author_profile: true`, and a `url` matching the permalink pattern.
+- Tags are Title Case labels; curated homepage tags in `hugo.yaml` must match exactly.
+- Categories: `TechBlog`, `Health`, `Electronics`, or `Cozy Corner`.
+- Preserve existing `shortlink` values unless asked to change them.
+- Use theme shortcodes (`youtube`, `companion`, `alert`, `figure`) instead of raw HTML when possible.
+
+## Series and reading paths
+
+See `AGENTS.md` § Reading paths and series and `docs/curated-content-inventory.md`.
+
+**Series** (in-post nav, `/series/` index): add `series` front matter with shared `id`, `title`, `order`, `label`, and `role` (`anchor` or `part`). One anchor per series per language.
+
+**Reading paths** (curated journeys): manually add numbered markdown links in `content/posts/techblog/paths/{path-slug}.en.md`. Link using the post `url` (e.g. `/2026/06/09/slug/`).
+
+When adding an evergreen post, check both:
+1. Does it belong in a series? → front matter + `seeAlso`
+2. Should it appear on a reading path? → edit the path file + update inventory

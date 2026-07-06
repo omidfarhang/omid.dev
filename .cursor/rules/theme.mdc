@@ -1,0 +1,16 @@
+---
+description: Hugo theme and template conventions
+globs: themes/**/*
+alwaysApply: false
+---
+
+# Theme (`themes/omid-dev`)
+
+Follow `AGENTS.md` for project context.
+
+- Layouts: Go templates in `layouts/`; extend partials rather than duplicating markup.
+- CSS: modular files under `assets/css/`; use tokens from `core/` and existing components.
+- i18n: string files in `i18n/*.yaml` for all three languages when adding UI text.
+- RTL: test `fa` layout when changing navigation, prose, or flex/grid styles.
+- Shortcodes: add or edit in `layouts/shortcodes/`.
+- After changes, run `hugo --minify` and fix template errors before finishing.
