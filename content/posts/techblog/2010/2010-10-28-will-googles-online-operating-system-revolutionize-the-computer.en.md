@@ -6,8 +6,6 @@ author_profile: true
 url: 2010/10/28/will-googles-online-operating-system-revolutionize-the-computer/
 tags:
   - Google
-  - Google Chrome
-  - google os
   - review
 
 categories:

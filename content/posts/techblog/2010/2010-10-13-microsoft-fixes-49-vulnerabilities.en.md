@@ -6,7 +6,7 @@ author_profile: true
 url: 2010/10/13/microsoft-fixes-49-vulnerabilities/
 tags:
   - Microsoft
-  - Office
+  - Microsoft Office
   - Updates
   - Windows
   - Windows 7

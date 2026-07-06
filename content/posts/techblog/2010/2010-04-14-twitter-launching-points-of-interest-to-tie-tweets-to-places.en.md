@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 url: 2010/04/14/twitter-launching-points-of-interest-to-tie-tweets-to-places/
 tags:
-  - checkins
-  - geotagging
   - locations
   - News
   - Social Media

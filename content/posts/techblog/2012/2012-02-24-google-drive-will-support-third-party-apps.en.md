@@ -6,7 +6,7 @@ author_profile: true
 url: 2012/02/24/google-drive-will-support-third-party-apps/
 tags:
   - Google
-  - google docs
+  - Google Docs
   - Google Drive
 
 categories:

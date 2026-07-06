@@ -7,9 +7,8 @@ url: 2010/05/03/download-microsoft-visio-2010-viewer/
 tags:
   - Download
   - Microsoft
-  - microsoft office 2010
+  - Microsoft Office
   - Offer
-  - Office
 
 categories:
   - TechBlog

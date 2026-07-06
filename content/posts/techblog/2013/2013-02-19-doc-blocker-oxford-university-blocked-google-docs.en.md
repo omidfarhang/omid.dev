@@ -6,7 +6,7 @@ author_profile: true
 url: 2013/02/19/doc-blocker-oxford-university-blocked-google-docs/
 tags:
   - Google
-  - google docs
+  - Google Docs
   - Google Drive
   - News
   - Oxford

@@ -7,7 +7,7 @@ url: 2010/12/15/17-security-updates-on-ms-patchday/
 tags:
   - Internet Explorer
   - Microsoft
-  - Office
+  - Microsoft Office
   - Updates
   - Vulnerability
   - Windows

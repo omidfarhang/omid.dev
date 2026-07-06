@@ -7,7 +7,7 @@ url: 2010/10/08/another-record-patchday-ahead/
 tags:
   - Microsoft
   - News
-  - Office
+  - Microsoft Office
   - Updates
   - Windows
   - Windows 7

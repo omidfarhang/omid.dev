@@ -7,9 +7,8 @@ url: 2010/04/17/office-2010-releases-to-manufacturing-availability-as-soon-as-ma
 tags:
   - Announcement
   - Microsoft
-  - microsoft office 2010
+  - Microsoft Office
   - News
-  - Office
 
 categories:
   - TechBlog

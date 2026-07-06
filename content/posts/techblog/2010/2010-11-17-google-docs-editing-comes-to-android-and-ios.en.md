@@ -7,7 +7,7 @@ url: 2010/11/17/google-docs-editing-comes-to-android-and-ios/
 tags:
   - Android
   - Google
-  - google docs
+  - Google Docs
   - iOS
   - News
 

@@ -8,7 +8,7 @@ tags:
   - Cloud
   - Google
   - google chrome os
-  - google docs
+  - Google Docs
 
 categories:
   - TechBlog

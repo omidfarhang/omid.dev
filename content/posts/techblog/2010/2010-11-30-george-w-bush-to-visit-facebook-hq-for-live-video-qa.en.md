@@ -6,7 +6,6 @@ author_profile: true
 url: 2010/11/30/george-w-bush-to-visit-facebook-hq-for-live-video-qa/
 tags:
   - Facebook
-  - George W. Bush
   - Interview
   - Social Media
   - Video

@@ -9,7 +9,6 @@ tags:
   - Mac OS X
   - Microsoft
   - Microsoft Office
-  - Microsoft office 2011
   - News
 
 categories:

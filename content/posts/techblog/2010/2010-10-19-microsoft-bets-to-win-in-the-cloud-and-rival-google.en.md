@@ -10,7 +10,6 @@ tags:
   - Google
   - Microsoft
   - Microsoft Office
-  - Microsoft Office 365
 
 categories:
   - TechBlog

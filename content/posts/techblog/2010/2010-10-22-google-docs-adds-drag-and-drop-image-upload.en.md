@@ -7,7 +7,7 @@ url: 2010/10/22/google-docs-adds-drag-and-drop-image-upload/
 tags:
   - Announcement
   - Google
-  - google docs
+  - Google Docs
 
 categories:
   - TechBlog

@@ -9,7 +9,7 @@ tags:
   - Announcement
   - Microsoft
   - News
-  - Office
+  - Microsoft Office
 
 categories:
   - TechBlog

@@ -7,10 +7,10 @@ url: 2010/04/03/microsoft-office-on-ipad-dont-hold-your-breath/
 tags:
   - Apple
   - Google
-  - google docs
+  - Google Docs
   - ipad
   - Microsoft
-  - microsoft office 2010
+  - Microsoft Office
   - YouTube
 
 categories:
