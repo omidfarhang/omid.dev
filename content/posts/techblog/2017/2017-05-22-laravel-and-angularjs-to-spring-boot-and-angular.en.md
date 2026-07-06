@@ -20,6 +20,7 @@ categories:
   - TechBlog
 seeAlso:
   - /2017/01/18/six-months-with-angular-2-after-years-of-angularjs/
+  - /2016/02/12/laravel-from-old-school-developer-eyes/
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
   - /2024/05/17/essential-skills-for-a-successful-senior-fullstack-developer/
 ---
