@@ -1,6 +1,8 @@
 ---
 title: How to Choose a Firewall
 date: 2009-01-13T23:51:43+03:30
+lastmod: 2026-07-07T15:15:00+03:30
+description: How to pick the right firewall for your setup — updated from the 2009 guide that assumed paid software firewalls and referenced Windows Vista/XP.
 layout: single
 author_profile: true
 url: 2009/01/13/how-to-choose-a-firewall/
@@ -13,38 +15,38 @@ tags:
 categories:
   - TechBlog
 ---
-Three basic types of firewalls are available for you to choose from:  
+Three basic types of firewalls are available for you to choose from:
 
-* Software firewalls
+* Software firewalls (built into your OS)
 * Hardware routers
 * Wireless routers
 
-To determine which type of firewall is best for you, answer these questions and record your answers:  
+To determine which type of firewall is best for you, answer these questions and record your answers:
 
 1. How many computers will use the firewall?
-2. What operating system do you use? (This might be a version of Microsoft Windows, Apple Macintosh, or Linux.)
+2. What operating system do you use? (Windows, macOS, or Linux.)
 
-That's it. You are now ready to think about what type of firewall you want to use. There are several options, each with its own pros and cons.  
+That's it. You are now ready to think about what type of firewall you want to use. There are several options, each with its own pros and cons.
 
 List of Different Firewalls
 ----------------------------
 
 ### Software firewalls
 
- Software firewalls are a good choice for single computers, and they work well with several operation systems. (Windows Vista and Windows XP both have a built-in firewall too.)
+The original 2009 version of this guide noted that "most software firewalls cost money." That is no longer true — Windows, macOS, and Linux all include a capable firewall at no extra charge.
 
 **Pros**
 
 * Does not require additional hardware.
 * Does not require additional computer wiring.
 * A good option for single computers.
+* Free and enabled by default on modern operating systems.
 
 **Cons**
 
-* Additional cost: Most software firewalls cost money.
-* Installation and configuration might be required to get started.
-* One copy is typically required for each computer.  
-  
+* One instance per computer — each machine manages its own rules.
+* Advanced configuration may require learning your OS firewall tool (`wf.msc` on Windows, `ufw` on Ubuntu, etc.).
+
 ### Hardware routers
 
 Hardware routers are a good choice for home networks that will connect to the Internet.
@@ -53,10 +55,11 @@ Hardware routers are a good choice for home networks that will connect to the In
 
 * Hardware routers usually have at least four network ports to connect multiple computers together.
 * Provide firewall protection for multiple computers.
+* NAT hides your internal network from direct Internet exposure.
 
 **Cons**
 
-* Require wiring, which can clutter your desktop area.
+* Require wiring, which can clutter your desktop area (unless you use Wi-Fi).
 
 ### Wireless routers
 
@@ -69,13 +72,14 @@ If you have or plan to use a wireless network, you need a wireless router.
 
 **Cons**
 
-* Wireless devices broadcast information using radio signals that can be intercepted by someone outside of your home (if they have the right equipment).
-* You might have to pay for extra equipment.
-* Not all wireless routers come equipped with a built-in firewall, so you might have to purchase one separately.
+* Wireless devices broadcast information using radio signals that can be intercepted by someone outside of your home (if they have the right equipment). Use WPA3 encryption and a strong Wi-Fi password.
+* Not all wireless routers come equipped with a built-in firewall, so you might have to purchase one separately — check before you buy.
 
 Start using a firewall today
 ----------------------------
 
-Connecting to the Internet can pose dangers to unwary computer users. Use a firewall to help reduce your risk.  
-  
-Installing a firewall is just the first step toward safe surfing online. You can continue to improve your computer's security by keeping your software up to date, using antivirus software, and using antispyware software. You can find a list of different firewall with their test result [Here](https://www.matousec.com/projects/firewall-challenge/results.php).
+Connecting to the Internet can pose dangers to unwary computer users. Use a firewall to help reduce your risk.
+
+Installing a firewall is just the first step toward safe surfing online. You can continue to improve your computer's security by keeping your software up to date ([Check for Windows Updates](/2009/01/13/check-for-windows-updates/)), using antivirus software, and following basic security hygiene.
+
+The original 2009 version linked to the Matousec firewall challenge results, which has not been maintained for years. For current independent firewall reviews, consult [AV-TEST](https://www.av-test.org/) or your operating system's built-in documentation.

@@ -1,6 +1,8 @@
 ---
 title: How to handle suspicious e-mail
 date: 2009-01-13T23:50:43+03:30
+lastmod: 2026-07-07T15:00:00+03:30
+description: Guidelines for dealing with suspicious e-mail — updated from the 2009 guide that referenced Windows Live Hotmail and a retired FileHippo updater.
 layout: single
 author_profile: true
 url: 2009/01/13/handle-suspicious-email/
@@ -23,31 +25,31 @@ Follow these guidelines to help protect yourself when suspicious mail shows up i
 
 1. ### If you receive a phishing e-mail message, do not respond to it. Don't open junk mail at all
 
-   * **If an e-mail looks suspicious,** don't risk your personal information by responding to it.
-   * **Delete junk e-mail messages** without opening them. Sometimes even opening spam can alert spammers or put an unprotected computer at risk.
-   * **Don't reply to e-mail** unless you're certain that the message comes from a legitimate source. This includes not responding to messages that offer an option to "Remove me from your list."
-   * **Do not "unsubscribe"** unless the mail is from a known or trusted sender.
-   * **Use the junk mail tools in your e-mail program.** For example, Windows Live Hotmail gives you the option to unsubscribe from mail that you previously had trusted or requested. This sends a notice back to the sender to have you removed from their list, while at the same time automatically adding the sender to your block list.
+   * **If an e-mail looks suspicious,** don't risk your personal information by responding to it.
+   * **Delete junk e-mail messages** without opening them. Sometimes even opening spam can alert spammers or put an unprotected computer at risk.
+   * **Don't reply to e-mail** unless you're certain that the message comes from a legitimate source. This includes not responding to messages that offer an option to "Remove me from your list."
+   * **Do not "unsubscribe"** unless the mail is from a known or trusted sender.
+   * **Use the junk mail tools in your e-mail program.** Gmail, Outlook, Yahoo, and most providers let you mark messages as spam or phishing, which trains their filters and blocks the sender.
 
 2. ### Approach links in e-mail messages with caution
 
    Links in phishing e-mail messages often take you to phony sites that encourage you to transmit personal or financial information to con artists. Avoid clicking a link in an e-mail message unless you are sure of the real target address, or URL.
-  
-   Most e-mail programs show you the real target address of a link when you hover the mouse over the link.
-  
+
+   Most e-mail programs show you the real target address of a link when you hover the mouse over the link.
+
    Before you click a link, make sure to read the target address. If the e-mail message appears to come from your bank, but the target address is just a meaningless series of numbers, do not click the link.
-  
+
    Make sure that the spelling of words in the link matches what you expect. Fraudsters often use URLs with typos in them that are easy to overlook, such as "micosoft."
 
 3. ### Approach images in e-mail with caution
 
    Just as a lighthouse beacon beams a message with light, pictures in e-mail messages—also called "Web beacons"—can be adapted to secretly send a message back to the sender.
-  
+
    Spammers rely on information returned by these images to locate active e-mail addresses. Images can also contain harmful code and can be used to deliver a spammer's message in spite of filters.
-  
+
    The best defense against Web beacons is to prevent pictures from downloading until you've had a chance to review the message.
-  
-   Both Windows Live Hotmail and Microsoft Outlook 2007 are preset to do this automatically for e-mail from addresses not in your address book.
+
+   Gmail, Outlook, and most modern e-mail clients block remote images by default for messages from unknown senders. Leave that setting on.
 
 4. ### Approach attachments in e-mail messages with caution
 
@@ -67,7 +69,7 @@ Follow these guidelines to help protect yourself when suspicious mail shows up i
 
     If you receive a suspicious e-mail that looks like it came from a company that you know and trust, report the e-mail to the faked or "spoofed" organization.
 
-    Contact the organization directly-not through the e-mail you received-and ask for confirmation. Or call the organization's toll-free number and speak to a customer service representative. Report the e-mail to the proper authorities, including the FBI, the Federal Trade Commission (FTC), and the [Anti-Phishing Working Group](http://www.antiphishing.org/).
+    Contact the organization directly—not through the e-mail you received—and ask for confirmation. Or call the organization's toll-free number and speak to a customer service representative. Report the e-mail to the proper authorities, including the FBI, the Federal Trade Commission (FTC), and the [Anti-Phishing Working Group](https://apwg.org/).
 
 8. ### Don't enter personal or financial information into pop-up windows
 
@@ -77,8 +79,8 @@ Follow these guidelines to help protect yourself when suspicious mail shows up i
 
     Not only do you lose control over who sees your e-mail address, but you also may be furthering a hoax or aiding in the delivery of a virus.
 
-    Plus, there are reports that spammers start chain letters expressly to gather e-mail addresses. If you don't know whether a message is a hoax or not, a site like [Snopes](http://www.snopes.com/) can help you separate fact from fiction.
+    Plus, there are reports that spammers start chain letters expressly to gather e-mail addresses. If you don't know whether a message is a hoax or not, a site like [Snopes](https://www.snopes.com/) can help you separate fact from fiction.
 
 10. ### Update your computer software
 
-    At Microsoft, we continue to make improvements to our software to help protect your computer. Visit [Microsoft Update](http://go.microsoft.com/?linkid=3646728) to scan your Windows and install any high-priority updates that are offered to you and [Click Here](/knowlodge-base/programs/filehippo-update-checker) to scan your computer for program updates from other vendors.
+    Keep Windows and your applications patched. See [Check for Windows Updates](/2009/01/13/check-for-windows-updates/) for a practical checklist covering both the OS and third-party programs.
