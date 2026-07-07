@@ -1,4 +1,4 @@
-date: 2026-02-01
+date: 2026-07-08
 location: Tehran, Iran
 
 current:
@@ -31,7 +31,7 @@ current:
         description: My preferred Linux distribution for both home and work, offering a great balance between bleeding-edge and stability.
       - name: Ubuntu LTS
         description: The industry standard for my server deployments, ensuring reliability and long-term support.
-      - name: VS Code + GitHub Copilot
+      - name: Cursor
         description: My primary development environment, enhanced with AI to streamline coding and documentation.
       - name: ohmyzsh + Yakuake
         description: My terminal configuration of choice. Yakuake's drop-down convenience is a must-have for my workflow.
@@ -113,7 +113,13 @@ history:
         description: My primary powerhouse IDE for years. It set a high bar for development environments but was quite a resource hog.
       - name: VS Code
         period: "Modern Era"
-        description: The lightweight savior of my RAM! My current primary environment, perfectly balanced with speed and extensibility.
+        description: The lightweight savior of my RAM! My go-to for years — fast, extensible, and easy on resources.
+      - name: VS Code + GitHub Copilot
+        period: "AI-Assisted Era"
+        description: VS Code with Copilot layered in — AI suggestions in the editor before dedicated AI-first IDEs became my default.
+      - name: Cursor
+        period: "Current"
+        description: My primary development environment now, with built-in AI to streamline coding and documentation.
 
   - name: Digital Nostalgia
     icon: fa-solid fa-floppy-disk
