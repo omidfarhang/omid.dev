@@ -14,6 +14,10 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/firewall/
+  - /2009/01/13/check-for-windows-updates/
 ---
 Three basic types of firewalls are available for you to choose from:
 

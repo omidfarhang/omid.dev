@@ -15,6 +15,11 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/phishing/
+  - /2009/01/13/phishing-emails/
+  - /2009/01/13/passwords/
 ---
 If you suspect that you've responded to a phishing scam with personal or financial information, take these steps to minimize any damage.
 

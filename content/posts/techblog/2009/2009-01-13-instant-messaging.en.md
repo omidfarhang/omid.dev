@@ -14,6 +14,11 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/spam/
+  - /2009/01/13/phishing/
+  - /2009/01/13/11-tips-for-social-networking-safety/
 ---
 Communicating by using an instant messaging (IM) program has some of the same security and privacy risks as e-mail, but there are a few dangers that are unique to IM. The original 2009 version of this guide was written for desktop IM clients like AIM and MSN Messenger. The same principles apply to modern apps — WhatsApp, Telegram, Signal, Discord, Slack, and iMessage.
 

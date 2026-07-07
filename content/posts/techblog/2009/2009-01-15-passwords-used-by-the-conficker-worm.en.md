@@ -16,6 +16,10 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/passwords/
+  - /2009/01/14/tips-to-help-keep-your-passwords-secret/
 ---
 It's not possible to emphasise enough the importance of using sensible passwords on your network.
 

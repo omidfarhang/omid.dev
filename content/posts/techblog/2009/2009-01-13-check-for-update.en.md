@@ -6,7 +6,7 @@ description: A practical checklist for keeping Windows and third-party software 
 layout: single
 author_profile: true
 url: 2009/01/13/check-for-windows-updates/
-shortlink: https://g.omid.dev/tK2xIAl
+shortlink: https://g.omid.dev/PjFbqOk
 tags:
   - Microsoft
   - Windows
@@ -17,6 +17,10 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/cleanup-windows-hard-disk/
+  - /2009/01/13/tfc/
 ---
 Three steps to keep Windows fast, stable, and secure. The original 2009 version of this guide recommended **FileHippo Update Checker** (later renamed **AppManager**) and the **Secunia Online Scanner**. Both are gone — FileHippo retired its updater, and Secunia's consumer tools shut down years ago. Here is what still works.
 

@@ -16,6 +16,12 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/phishing/
+  - /2009/01/13/phishing-emails/
+  - /2009/01/13/spam/
+  - /2009/01/13/check-for-windows-updates/
 ---
 There are good reasons to be suspicious of e-mail.
 

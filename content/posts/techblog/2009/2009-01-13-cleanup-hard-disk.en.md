@@ -17,6 +17,10 @@ tags:
 
 categories:
   - TechBlog
+
+seeAlso:
+  - /2009/01/13/check-for-windows-updates/
+  - /2009/01/13/tfc/
 ---
 Freeing up disk space keeps Windows responsive and gives updates room to install. The original 2009 version of this guide recommended **Auslogics BoostSpeed** and **CCleaner** for the job. Today you rarely need either — Windows 10 and 11 ship with cleanup tools that are safer than third-party "boosters" and registry cleaners. Here is the modern workflow.
 
