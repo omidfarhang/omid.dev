@@ -1,7 +1,7 @@
 ---
 title: How to recognize phishing e-mails or links
 date: 2009-01-13T23:50:43+03:30
-lastmod: 2026-07-07T15:00:00+03:30
+lastmod: 2026-07-07T18:10:00+03:30
 description: Clues that help you spot fraudulent e-mail messages and deceptive links — the evergreen advice from the 2009 guide, still relevant today.
 layout: single
 author_profile: true
@@ -23,21 +23,21 @@ seeAlso:
 ---
 A few clues can help you spot fraudulent e-mail messages or links within them.
 
-### What does a phishing e-mail look like?
+## What does a phishing e-mail look like?
 
 Phishing e-mail messages are designed to steal your identity. They ask for personal data, or direct you to Web sites or phone numbers to call where they ask you to provide personal data.
 
 Phishing e-mail messages take a number of forms:
 
-* They might appear to come from your bank or financial institution, a company you regularly do business with, such as Microsoft, or from your [social networking](/2009/01/13/11-tips-for-social-networking-safety/) site.
-* They might appear to be from someone you know. _Spear phishing_ is a targeted form of phishing in which an e-mail message might look like it comes from your employer, or from a colleague who might send an e-mail message to everyone in the company, such as the head of human resources or IT.
-* They might ask you to make a phone call. _Phone phishing_ (vishing) scams direct you to call a customer support phone number. A person or an audio response unit waits to take your account number, personal identification number, password, or other valuable personal data. The phone phisher might claim that your account will be closed or other problems could occur if you don't respond.
-* They might include official-looking logos and other identifying information taken directly from legitimate Web sites, and they might include convincing details about your personal information that scammers found on your social networking pages.
-* They might include links to spoofed Web sites where you are asked to enter personal information.
+- They might appear to come from your bank or financial institution, a company you regularly do business with, such as Microsoft, or from your [social networking](/2009/01/13/11-tips-for-social-networking-safety/) site.
+- They might appear to be from someone you know. _Spear phishing_ is a targeted form of phishing in which an e-mail message might look like it comes from your employer, or from a colleague who might send an e-mail message to everyone in the company, such as the head of human resources or IT.
+- They might ask you to make a phone call. _Phone phishing_ (vishing) scams direct you to call a customer support phone number. A person or an audio response unit waits to take your account number, personal identification number, password, or other valuable personal data.
+- They might include official-looking logos and other identifying information taken directly from legitimate Web sites, and they might include convincing details about your personal information that scammers found on your social networking pages.
+- They might include links to spoofed Web sites where you are asked to enter personal information.
 
-To make these phishing e-mail messages look even more legitimate, the scam artists may place a link in them that appears to go to the legitimate Web site, but actually takes you to a phony scam site or possibly a pop-up window that looks exactly like the official site.
+To make these messages look even more legitimate, scam artists may place a link that appears to go to the legitimate Web site, but actually takes you to a phony scam site or a pop-up window that looks exactly like the official site.
 
-Here are a few phrases to look for if you think an e-mail message is a phishing scam.
+## Common phrases to watch for
 
 ### "Verify your account."
 
@@ -47,28 +47,30 @@ If you receive an e-mail message from Microsoft asking you to update your credit
 
 ### "You have won the lottery."
 
-The lottery scam is a common phishing scam known as advanced fee fraud. One of the most common forms of advanced fee fraud is a message that claims that you have won a large sum of money, or that a person will pay you a large sum of money for little or no work on your part. The lottery scam often includes references to big companies, such as Microsoft. There is no Microsoft lottery.
+The lottery scam is a common phishing scam known as advanced fee fraud. One of the most common forms is a message that claims you have won a large sum of money, or that a person will pay you a large sum for little or no work. The lottery scam often includes references to big companies, such as Microsoft. There is no Microsoft lottery.
 
 ### "If you don't respond within 48 hours, your account will be closed."
 
-These messages convey a sense of urgency so that you'll respond immediately without thinking. A phishing e-mail message might even claim that your response is required because your account might have been compromised.
+These messages convey a sense of urgency so that you'll respond immediately without thinking. A phishing e-mail might even claim that your response is required because your account might have been compromised.
 
-### What does a phishing link look like?
+## What does a phishing link look like?
 
-Sometimes phishing e-mails direct you to spoofed web sites. Here's an example of the kind of phrase you might see in an e-mail message that directs you to a phishing Web site:
+Sometimes phishing e-mails direct you to spoofed web sites. A common opener:
 
 ### "Click the link below to gain access to your account."
 
 HTML-formatted messages can contain links or forms that you can fill out just as you'd fill out a form on a Web site.
 
-Phishing links that you are urged to click in e-mail messages, on Web sites, or even in instant messages may contain all or part of a real company's name and are usually masked, meaning that the link you see does not take you to that address but somewhere different, usually an illegitimate Web site.
+Phishing links that you are urged to click in e-mail messages, on Web sites, or even in instant messages may contain all or part of a real company's name and are usually masked — the link you see does not take you to that address but somewhere different, usually an illegitimate Web site.
 
 Before you click, hover your mouse pointer over the link (on mobile, long-press) and check the real destination URL shown in the status bar or preview. A string of cryptic numbers or a domain that looks nothing like the company's real address is a suspicious sign.
 
-Con artists also use Web addresses that resemble the name of a well-known company but are slightly altered by adding, omitting, or transposing letters. For example, the address **"www.microsoft.com"** could appear instead as:
+### Typosquatting and cybersquatting
 
-* **www.micosoft.com**
-* **www.mircosoft.com**
-* **www.verify-microsoft.com**
+Con artists also use Web addresses that resemble the name of a well-known company but are slightly altered by adding, omitting, or transposing letters. For example, the address **www.microsoft.com** could appear instead as:
+
+- **www.micosoft.com**
+- **www.mircosoft.com**
+- **www.verify-microsoft.com**
 
 This is called "typo-squatting" or "cybersquatting".

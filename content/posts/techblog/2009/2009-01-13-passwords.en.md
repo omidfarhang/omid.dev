@@ -1,7 +1,7 @@
 ---
 title: Passwords
 date: 2009-01-13T23:55:43+03:30
-lastmod: 2026-07-07T15:10:00+03:30
+lastmod: 2026-07-07T18:10:00+03:30
 description: How to create strong passwords and passphrases — updated from the 2009 guide with password managers and two-factor authentication.
 layout: single
 author_profile: true
@@ -26,16 +26,16 @@ Strong passwords are important protections to help you have safer online transac
 
 An ideal password is long and has letters, punctuation, symbols, and numbers. Even better: use a **passphrase** — a sequence of random words that is easy to remember but hard to guess.
 
-* Whenever possible, use at least 14 characters or more.
-* The greater the variety of characters in your password, the better.
-* Use the entire keyboard, not just the letters and characters you use or see most often.
-* A password manager can generate 20+ character random passwords for you — you only need to remember one master password.
+- Whenever possible, use at least 14 characters or more.
+- The greater the variety of characters in your password, the better.
+- Use the entire keyboard, not just the letters and characters you use or see most often.
+- A password manager can generate 20+ character random passwords for you — you only need to remember one master password.
 
 ## Create a strong password you can remember
 
 If you are not using a password manager yet, here is one way to create a long, complex password you can remember:
 
-| **What to do** | **Suggestion** | **Example** |
+| What to do | Suggestion | Example |
 |:----|:----|:----|
 | Start with a sentence or two (about 10 words total). | Think of something meaningful to you. | Long and complex passwords are safest. I keep mine secret. (10 words) |
 | Turn your sentences into a row of letters. | Use the first letter of each word. | lacpasikms (10 characters) |
@@ -50,30 +50,25 @@ For everyday use, a passphrase like `correct-horse-battery-staple` (four random 
 
 The original 2009 version linked to a Microsoft online password checker that no longer exists. A better approach today:
 
-* Install a reputable password manager — **Bitwarden** (free, open source), **1Password**, or **KeePass** are all solid choices.
-* Let the manager generate a unique password for every account.
-* You only need to remember the one master password (make it a strong passphrase).
-* Enable 2FA on the password manager itself.
+- Install a reputable password manager — **Bitwarden** (free, open source), **1Password**, or **KeePass** are all solid choices.
+- Let the manager generate a unique password for every account.
+- You only need to remember the one master password (make it a strong passphrase).
+- Enable 2FA on the password manager itself.
 
 ## Protect your passwords from prying eyes
 
-* **The easiest way to "remember" passwords is to write them down.**
-  It is okay to write passwords down, but keep them secure. See [5 tips to keep your passwords secret](/2009/01/14/tips-to-help-keep-your-passwords-secret/).
+The easiest way to "remember" passwords is to write them down. It is okay to write passwords down, but keep them secure. See [5 tips to keep your passwords secret](/2009/01/14/tips-to-help-keep-your-passwords-secret/).
 
 ## Common password pitfalls to avoid
 
 Cyber criminals use sophisticated tools that can rapidly decipher passwords. For example, here is [Passwords used by the Conficker worm](/2009/01/15/passwords-used-by-the-conficker-worm/) — a reminder of how predictable people can be.
 
-## Avoid creating passwords using
+Avoid creating passwords using:
 
-* **Dictionary words in any language.**
-  Words in all languages are vulnerable.
-* **Words spelled backwards, common misspellings, and abbreviations.**
-  Words in all languages are vulnerable.
-* **Sequences or repeated characters.**
-  Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).
-* **Personal information.**
-  Your name, birthday, driver's license, passport number, or similar information.
+- **Dictionary words in any language.** Words in all languages are vulnerable.
+- **Words spelled backwards, common misspellings, and abbreviations.**
+- **Sequences or repeated characters.** Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).
+- **Personal information.** Your name, birthday, driver's license, passport number, or similar information.
 
 ## Enable two-factor authentication
 

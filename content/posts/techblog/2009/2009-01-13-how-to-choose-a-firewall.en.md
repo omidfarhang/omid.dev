@@ -1,7 +1,7 @@
 ---
 title: How to Choose a Firewall
 date: 2009-01-13T23:51:43+03:30
-lastmod: 2026-07-07T15:15:00+03:30
+lastmod: 2026-07-07T18:10:00+03:30
 description: How to pick the right firewall for your setup — updated from the 2009 guide that assumed paid software firewalls and referenced Windows Vista/XP.
 layout: single
 author_profile: true
@@ -21,66 +21,62 @@ seeAlso:
 ---
 Three basic types of firewalls are available for you to choose from:
 
-* Software firewalls (built into your OS)
-* Hardware routers
-* Wireless routers
+- Software firewalls (built into your OS)
+- Hardware routers
+- Wireless routers
 
-To determine which type of firewall is best for you, answer these questions and record your answers:
+To determine which type of firewall is best for you, answer these questions:
 
 1. How many computers will use the firewall?
 2. What operating system do you use? (Windows, macOS, or Linux.)
 
 That's it. You are now ready to think about what type of firewall you want to use. There are several options, each with its own pros and cons.
 
-List of Different Firewalls
-----------------------------
-
-### Software firewalls
+## Software firewalls
 
 The original 2009 version of this guide noted that "most software firewalls cost money." That is no longer true — Windows, macOS, and Linux all include a capable firewall at no extra charge.
 
 **Pros**
 
-* Does not require additional hardware.
-* Does not require additional computer wiring.
-* A good option for single computers.
-* Free and enabled by default on modern operating systems.
+- Does not require additional hardware.
+- Does not require additional computer wiring.
+- A good option for single computers.
+- Free and enabled by default on modern operating systems.
 
 **Cons**
 
-* One instance per computer — each machine manages its own rules.
-* Advanced configuration may require learning your OS firewall tool (`wf.msc` on Windows, `ufw` on Ubuntu, etc.).
+- One instance per computer — each machine manages its own rules.
+- Advanced configuration may require learning your OS firewall tool (`wf.msc` on Windows, `ufw` on Ubuntu, etc.).
 
-### Hardware routers
+## Hardware routers
 
 Hardware routers are a good choice for home networks that will connect to the Internet.
 
 **Pros**
 
-* Hardware routers usually have at least four network ports to connect multiple computers together.
-* Provide firewall protection for multiple computers.
-* NAT hides your internal network from direct Internet exposure.
+- Hardware routers usually have at least four network ports to connect multiple computers together.
+- Provide firewall protection for multiple computers.
+- NAT hides your internal network from direct Internet exposure.
 
 **Cons**
 
-* Require wiring, which can clutter your desktop area (unless you use Wi-Fi).
+- Require wiring, which can clutter your desktop area (unless you use Wi-Fi).
 
-### Wireless routers
+## Wireless routers
 
 If you have or plan to use a wireless network, you need a wireless router.
 
 **Pros**
 
-* Wireless routers allow you to connect computers, portable computers, personal desk assistants, and printers without wiring.
-* Wireless routers are excellent for connecting notebook computers to the Internet and networks.
+- Wireless routers allow you to connect computers, portable computers, personal desk assistants, and printers without wiring.
+- Wireless routers are excellent for connecting notebook computers to the Internet and networks.
 
 **Cons**
 
-* Wireless devices broadcast information using radio signals that can be intercepted by someone outside of your home (if they have the right equipment). Use WPA3 encryption and a strong Wi-Fi password.
-* Not all wireless routers come equipped with a built-in firewall, so you might have to purchase one separately — check before you buy.
+- Wireless devices broadcast information using radio signals that can be intercepted by someone outside of your home (if they have the right equipment). Use WPA3 encryption and a strong Wi-Fi password.
+- Not all wireless routers come equipped with a built-in firewall, so you might have to purchase one separately — check before you buy.
 
-Start using a firewall today
-----------------------------
+## Start using a firewall today
 
 Connecting to the Internet can pose dangers to unwary computer users. Use a firewall to help reduce your risk.
 
