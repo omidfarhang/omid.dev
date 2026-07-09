@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/
 shortlink: https://g.omid.dev/d1OsiXZ
+x_link: https://x.com/OmidFarhang/status/2071712760946397235
+mastodon_link: https://mastodon.social/@omidfarhang/116835610946006004
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mphhsq5rqc2x
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_local-ai-on-manjaro-ollama-aider-and-cline-share-7477479365803438081-vlG3/
 tags:
   - Ollama
   - Aider

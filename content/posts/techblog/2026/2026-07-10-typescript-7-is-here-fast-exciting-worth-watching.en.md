@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/07/10/typescript-7-is-here-fast-exciting-worth-watching/
 shortlink: https://g.omid.dev/PcBczud
+x_link: https://x.com/OmidFarhang/status/2075350973795758203
+mastodon_link: https://mastodon.social/@omidfarhang/116892451458611909
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mqapny76gc2e
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_typescript-7-is-here-fast-exciting-and-share-7481117348469571584-CNJL/
 tags:
   - TypeScript
   - Angular
