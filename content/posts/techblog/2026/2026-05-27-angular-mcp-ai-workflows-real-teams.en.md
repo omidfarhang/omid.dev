@@ -5,7 +5,7 @@ description: "Angular's MCP Server tooling is not just an AI demo. It changes ho
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/Hr8b0Ur
-x_link: https://x.com/OmidFarhangEn/status/2059424267335524692
+x_link: https://x.com/omidfarhang/status/2059424267335524692
 mastodon_link: https://mastodon.social/@omidfarhang/116643617092089718
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mms7nzq5i22v
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_angular-is-quietly-becoming-ai-tool-friendly-activity-7465894747572801536-3Hrb

@@ -61,7 +61,7 @@ Many posts include a `shortlink` (g.omid.dev) in front matter; the canonical URL
 
 - LinkedIn: https://linkedin.com/in/omidfarhang
 - GitHub: https://github.com/omidfarhang
-- X: https://x.com/omidfarhangen
+- X: https://x.com/omidfarhang
 - Bluesky: https://bsky.app/profile/omid.dev
 - Mastodon: https://mastodon.social/@omidfarhang
 

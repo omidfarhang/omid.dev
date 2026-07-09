@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/
 shortlink: https://g.omid.dev/IyBb76G
-x_link: https://x.com/OmidFarhangEn/status/2066273837151584741
+x_link: https://x.com/omidfarhang/status/2066273837151584741
 mastodon_link: https://mastodon.social/@omidfarhang/116750602215635340
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mobqqkeihs22
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_macromicro-3d-one-scene-graph-seven-tissue-share-7472037215007690752-2grq/

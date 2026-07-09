@@ -5,7 +5,7 @@ description: "Angular's newer template syntax is powerful, but spread/rest, arro
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/5O8Qglh
-x_link: https://x.com/OmidFarhangEn/status/2059424163752980733
+x_link: https://x.com/omidfarhang/status/2059424163752980733
 mastodon_link: https://mastodon.social/@omidfarhang/116643611903464265
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mms7nleoe224
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-hidden-cost-of-nice-syntax-when-angulars-share-7465895052565811200-HSEW/

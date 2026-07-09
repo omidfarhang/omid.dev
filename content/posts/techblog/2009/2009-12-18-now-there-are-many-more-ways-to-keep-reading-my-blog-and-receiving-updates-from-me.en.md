@@ -11,9 +11,9 @@ tags:
 categories:
   - TechBlog
 ---
-you may follow me on [Twitter](http://twitter.com/OmidFarhangEn):
+you may follow me on [Twitter](http://twitter.com/omidfarhang):
 
-[![](/images/2009/12/twitter_logo_header.png)](http://twitter.com/OmidfarhangEn)
+[![](/images/2009/12/twitter_logo_header.png)](http://twitter.com/omidfarhang)
 
 Subscribe for my RSS:
 

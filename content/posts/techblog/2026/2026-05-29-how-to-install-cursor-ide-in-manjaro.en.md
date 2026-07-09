@@ -10,7 +10,7 @@ keywords:
   - install cursor linux
   - cursor appimage
   - manjaro cursor
-x_link: https://x.com/OmidFarhangEn/status/2060358981831602255
+x_link: https://x.com/omidfarhang/status/2060358981831602255
 mastodon_link: https://mastodon.social/@omidfarhang/116658204889356987
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mmyorvy3fc26
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_how-to-install-cursor-ide-on-manjaro-linux-share-7466142810790887426-mVHc/

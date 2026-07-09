@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/
 shortlink: https://g.omid.dev/x2HIy7k
-x_link: https://x.com/OmidFarhangEn/status/2066274564783673370
+x_link: https://x.com/omidfarhang/status/2066274564783673370
 mastodon_link: https://mastodon.social/@omidfarhang/116750604375466701
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mobqregc4c22
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_i18n-a11y-and-shareable-lab-state-in-the-share-7472042703388782592-_F5f/

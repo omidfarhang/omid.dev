@@ -5,7 +5,7 @@ description: 'A senior developer reflects on the ecosystem blind spot after 15 y
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/HGHr81r
-x_link: https://x.com/OmidFarhangEn/status/2026737302563590257
+x_link: https://x.com/omidfarhang/status/2026737302563590257
 mastodon_link: https://mastodon.social/@omidfarhang/116132892683773650
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mfpfbrezfs2n
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-zoom-out-when-15-years-of-code-meets-activity-7432502733376626688-bljW

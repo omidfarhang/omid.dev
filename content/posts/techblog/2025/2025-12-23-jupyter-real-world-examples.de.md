@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2025/12/23/jupyter-real-world-examples/
 shortlink: https://g.omid.dev/3hHJLd7
-x_link: https://x.com/OmidFarhangEn/status/2003552133686403278
+x_link: https://x.com/omidfarhang/status/2003552133686403278
 mastodon_link: https://mastodon.social/@omidfarhang/115770584688823455
 bluesky_link: https://bsky.app/profile/omid.dev/post/3maoixk7qr22l
 hn_link: https://news.ycombinator.com/item?id=46368633

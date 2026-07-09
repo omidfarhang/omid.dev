@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/
 shortlink: https://g.omid.dev/CJUh3R5
-x_link: https://x.com/OmidFarhangEn/status/2071523930091983286
+x_link: https://x.com/omidfarhang/status/2071523930091983286
 mastodon_link: https://mastodon.social/@omidfarhang/116832657718683055
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mpg5vcgjfk2b
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_how-to-stretch-cursor-pro-further-a-split-share-7477290595409874944-fSjh/

@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/
 shortlink: https://g.omid.dev/boyAWHy
-x_link: https://x.com/OmidFarhangEn/status/2066273726992375825
+x_link: https://x.com/omidfarhang/status/2066273726992375825
 mastodon_link: https://mastodon.social/@omidfarhang/116750601176826369
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mobqqaar3s22
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_typescript-threejs-webgl-share-7471936715075559424-rZnW/

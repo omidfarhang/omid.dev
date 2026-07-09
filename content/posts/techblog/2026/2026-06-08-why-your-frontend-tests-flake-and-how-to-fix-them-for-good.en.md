@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/08/why-your-frontend-tests-flake-and-how-to-fix-them-for-good/
 shortlink: https://g.omid.dev/8ECJvZO
-x_link: https://x.com/OmidFarhangEn/status/2064115888442478606
+x_link: https://x.com/omidfarhang/status/2064115888442478606
 mastodon_link: https://mastodon.social/@omidfarhang/116716901462305722
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mnsqxdoq5225
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_why-your-frontend-tests-flake-and-how-to-share-7469881778875531265-LRin/

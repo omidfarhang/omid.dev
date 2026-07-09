@@ -5,7 +5,7 @@ description: "The definitive execution playbook for senior developers transition
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/3jHLgA6
-x_link: https://x.com/OmidFarhangEn/status/2007218488864342110
+x_link: https://x.com/omidfarhang/status/2007218488864342110
 mastodon_link: https://mastodon.social/@omidfarhang/115827845879979498
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mbhxaqobjk2l
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-engineers-dilemma-building-a-startup-activity-7412981730082574336-E223

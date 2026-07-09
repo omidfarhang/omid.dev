@@ -41,6 +41,6 @@ And you don't want to do that, do you?
 
 It's widely anticipated that Apple will announce the iPhone 5 sometime this month. But don't hold your breath about them offering it for free.
 
-[Follow @OmidFarhangEn](https://twitter.com/OmidFarhangEn)
+[Follow @omidfarhang](https://twitter.com/omidfarhang)
 
 By the way, if you're a Facebook user and want to keep up on the latest threats and security news I would recommend you join my [Facebook page](https://www.facebook.com/omidsnetwork).

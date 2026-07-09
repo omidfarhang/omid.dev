@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/
 shortlink: https://g.omid.dev/uHLGE6i
-x_link: https://x.com/OmidFarhangEn/status/2066273935193465196
+x_link: https://x.com/omidfarhang/status/2066273935193465196
 mastodon_link: https://mastodon.social/@omidfarhang/116750603779667832
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mobqqz75wc22
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_catalog-driven-dashboard-strains-stressors-share-7472037294288416769-UYbv/

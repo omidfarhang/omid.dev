@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/
 shortlink: https://g.omid.dev/uJPPO8M
-x_link: https://x.com/OmidFarhangEn/status/2062300889482977435
+x_link: https://x.com/omidfarhang/status/2062300889482977435
 mastodon_link: https://mastodon.social/@omidfarhang/116688542867790143
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mng5x7oios22
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_building-a-tiny-linux-app-to-explain-desktop-share-7468066806700789761-P2fG/

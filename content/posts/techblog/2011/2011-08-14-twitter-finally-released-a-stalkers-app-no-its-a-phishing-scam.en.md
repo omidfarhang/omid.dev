@@ -50,4 +50,4 @@ You can always use password management software such as KeePass or 1Password to 
 
 There's some other house-cleaning you should do on your Twitter account too. Visit the [Applications tab](http://twitter.com/settings/applications) in “Account Settings”, and revoke access for any third-party application that you don't recognise.
 
-Follow me on Twitter at [@OmidFarhangEn](https://twitter.com/OmidFarhangEn) if you want to keep up-to-speed with the latest threats, and learn how to protect yourself.
+Follow me on Twitter at [@omidfarhang](https://twitter.com/omidfarhang) if you want to keep up-to-speed with the latest threats, and learn how to protect yourself.

@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
 shortlink: https://g.omid.dev/Efv0PTa
-x_link: https://x.com/OmidFarhangEn/status/2066273614178164953
+x_link: https://x.com/omidfarhang/status/2066273614178164953
 mastodon_link: https://mastodon.social/@omidfarhang/116750600162141618
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mobqpup3yk22
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_building-bio-dynamics-an-educational-3d-share-7471934125256396800-H9lL/

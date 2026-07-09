@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 url: 2025/12/23/jupyter-technical-setup-guide/
 shortlink: https://g.omid.dev/vWV47ai
-x_link: https://x.com/OmidFarhangEn/status/2003548800405897248
+x_link: https://x.com/omidfarhang/status/2003548800405897248
 mastodon_link: https://mastodon.social/@omidfarhang/115770537352063589
 bluesky_link: https://bsky.app/profile/omid.dev/post/3maoie7epik2c
 hn_link: https://news.ycombinator.com/item?id=46363951

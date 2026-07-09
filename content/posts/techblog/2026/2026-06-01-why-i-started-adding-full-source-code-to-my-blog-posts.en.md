@@ -5,7 +5,7 @@ description: "A short note about the companion example-projects repository for o
 layout: single
 author_profile: true
 shortlink: https://g.omid.dev/uqqWXYO
-x_link: https://x.com/OmidFarhangEn/status/2061213089941614971
+x_link: https://x.com/omidfarhang/status/2061213089941614971
 mastodon_link: https://mastodon.social/@omidfarhang/116671546084060260
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mn6mfzlv3c23
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_why-i-started-adding-full-source-code-to-share-7466979043054379008-y7jw/

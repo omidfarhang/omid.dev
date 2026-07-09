@@ -22,4 +22,4 @@ The most popular micro blogging network ‘Twitter’ has now added local trends
 
 [![](/images/2010/01/27012010192245.png)](/images/2010/01/27012010192245-2892c1df.png)
 
-Don't forget to follow me [@OmidFarhangEn](https://twitter.com/OmidFarhangEn) on Twitter.
+Don't forget to follow me [@omidfarhang](https://twitter.com/omidfarhang) on Twitter.

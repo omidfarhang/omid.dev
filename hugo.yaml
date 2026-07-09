@@ -297,7 +297,7 @@ params:
       SiteVerificationTag: ''
 
   social:
-    twitter: 'omidfarhangen'
+    twitter: 'omidfarhang'
   footer:
     avatar: "/images/bio-photo-150x150.jpg"
     bio: "Software engineer, systems thinker, and lifelong learner. I work mainly in frontend engineering with Angular, alongside Linux, networking, and DevOps practices. This blog is where I explore technology, problem-solving, and health topics that shape how we live and work."
@@ -312,7 +312,7 @@ params:
         url: 'https://www.xing.com/profile/Omid_Farhang/'
       - name: X
         icon: fa-brands fa-x-twitter
-        url: 'https://x.com/omidfarhangen'
+        url: 'https://x.com/omidfarhang'
       - name: Bluesky
         icon: fa-brands fa-bluesky
         url: 'https://bsky.app/profile/omid.dev'
@@ -359,7 +359,7 @@ params:
     url: 'https://www.xing.com/profile/Omid_Farhang/'
     icon: fa-brands fa-xing
   - name: x
-    url: 'https://x.com/omidfarhangen'
+    url: 'https://x.com/omidfarhang'
     icon: fa-brands fa-x-twitter
   - name: bluesky
     url: 'https://bsky.app/profile/omid.dev'
