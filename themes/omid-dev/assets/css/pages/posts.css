@@ -31,13 +31,6 @@
     min-width: 0;
 }
 
-.blog-index-sidebar.panel {
-    position: sticky;
-    top: calc(var(--gap) * 2);
-    overflow: hidden;
-    padding: 0;
-}
-
 .tech-focus-card.card--promo {
     margin: var(--space-5);
     align-items: flex-start;
@@ -287,10 +280,6 @@
 }
 
 @media screen and (max-width: 768px) {
-    .blog-index-sidebar {
-        position: static;
-    }
-
     .posts-list-content .posts-grid {
         grid-template-columns: 1fr;
     }

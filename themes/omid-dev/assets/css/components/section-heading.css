@@ -21,6 +21,15 @@
     letter-spacing: var(--tracking-tight);
 }
 
+/* Opt out of .post-content article heading rhythm (contact, about-me, etc.) */
+.post-content :is(h1, h2, h3, h4, h5, h6).section-title {
+    margin-top: 0;
+}
+
+.post-content :is(h2).section-title--rule {
+    margin: 0 0 var(--space-5);
+}
+
 .section-title--rule::after {
     content: "";
     flex: 1;

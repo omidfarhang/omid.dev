@@ -40,27 +40,77 @@
     border-radius: var(--radius-xl);
 }
 
-.panel--form {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-5);
-    padding: var(--space-7);
-    background: var(--surface-gradient-tinted), var(--theme);
-    border-color: var(--accent-border-soft);
-    border-radius: var(--radius-xl);
-    box-shadow: var(--shadow-sm);
-}
-
-.panel--qr {
-    display: grid;
-    gap: var(--space-5);
-    padding: var(--space-5);
-}
-
 .panel--flush {
     background: transparent;
     border: 0;
     border-radius: 0;
     box-shadow: none;
     padding: 0;
+}
+
+/* Sticky monolithic sidebar — single tinted panel (blog index topics) */
+.panel--sidebar {
+    position: sticky;
+    top: calc(var(--gap) * 2);
+    overflow: hidden;
+    padding: 0;
+}
+
+/* Compact section card — heading inside bordered box (about + contact sidebars) */
+.panel--section {
+    padding: var(--space-6);
+}
+
+.panel--section > :first-child {
+    margin-top: 0;
+}
+
+.panel--section > :last-child {
+    margin-bottom: 0;
+}
+
+.panel--section .section-lead {
+    margin: 0 0 var(--space-5);
+    color: var(--content);
+    font-size: var(--text-body-md);
+    line-height: var(--leading-relaxed);
+}
+
+.panel--section .btn-group--column {
+    align-items: stretch;
+}
+
+.panel--section .btn-group--column .btn {
+    width: 100%;
+}
+
+/* Primary column — elevated feature panel (about main, contact form) */
+.panel--section-primary {
+    padding: var(--space-7);
+    border-color: var(--accent-border-soft);
+    border-radius: var(--radius-xl);
+}
+
+.panel--section-primary.panel--section-gradient {
+    background:
+        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 80%, var(--surface-tint) 100%),
+        var(--theme);
+}
+
+/* Prose wrappers (.post-content) set article-scale heading margins; section panels opt out */
+.post-content .panel--section :where(h1, h2, h3, h4, h5, h6) {
+    margin-top: 0;
+}
+
+@media screen and (max-width: 700px) {
+    .panel--section,
+    .panel--section-primary {
+        padding: var(--space-5);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .panel--sidebar {
+        position: static;
+    }
 }

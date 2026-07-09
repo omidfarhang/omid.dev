@@ -54,16 +54,6 @@
     gap: var(--space-7);
 }
 
-.contact-side-panel {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-5);
-}
-
-.contact-methods-section {
-    margin: 0;
-}
-
 /* Direct Contact Grid */
 .contact-method-grid {
     display: grid;
@@ -169,19 +159,31 @@
     color: var(--border);
 }
 
-/* Contact Form — composes with .panel.panel--form */
-.contact-form.panel--form {
+/* Contact form */
+.contact-form {
     display: flex;
     flex-direction: column;
     gap: var(--space-4);
-    min-height: 100%;
-    background:
-        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 80%, var(--surface-tint) 100%),
-        var(--theme);
 }
 
 .contact-form .btn {
     align-self: flex-start;
+}
+
+.contact-qr-code {
+    display: flex;
+    justify-content: center;
+    margin-bottom: var(--space-5);
+}
+
+.contact-qr-code img {
+    display: block;
+    width: 160px;
+    height: 160px;
+    padding: var(--space-3);
+    background: white;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
 }
 
 [dir="rtl"] .contact-form .btn {
@@ -192,36 +194,9 @@
     transform: scaleX(-1);
 }
 
-/* QR Section */
-.qr-code {
-    justify-self: start;
-    padding: var(--space-3);
-    background: white;
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sm);
-}
-
-.qr-code img {
-    display: block;
-    width: 160px;
-    height: 160px;
-}
-
-.qr-text p {
-    margin: 0 0 var(--space-4);
-    color: var(--content);
-    font-size: var(--text-body-md);
-    line-height: var(--leading-relaxed);
-}
-
-
 @media screen and (max-width: 960px) {
     .contact-hero-card {
         max-width: 440px;
-    }
-
-    .contact-side-panel {
-        display: block;
     }
 }
 
@@ -230,18 +205,9 @@
         padding: var(--space-6);
     }
 
-    .contact-side-panel {
-        grid-template-columns: 1fr;
-    }
-
-    .contact-form {
-        padding: var(--space-5);
-    }
-
     .contact-form .btn {
         width: 100%;
     }
-
 }
 
 @media screen and (max-width: 480px) {

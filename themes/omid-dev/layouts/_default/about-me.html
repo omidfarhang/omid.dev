@@ -55,14 +55,14 @@
 
   <div class="post-content about-page-content">
     <div class="layout-split layout-split--sidebar-360 about-me-container">
-      <article class="about-me-content panel">
+      <article class="about-me-content panel panel--section panel--section-primary panel--section-gradient">
         {{ .Content }}
       </article>
 
-      <aside class="about-me-sidebar">
-        <section class="panel about-side-card resume-cta">
+      <aside class="stack stack--md">
+        <section class="panel panel--section resume-cta">
           <h2 class="section-title section-title--rule">{{ T "resume" | default "Resume" }}</h2>
-          <p>{{ T "resume_cta_desc" | default "View my full professional history or download the PDF version for offline reading." }}</p>
+          <p class="section-lead">{{ T "resume_cta_desc" | default "View my full professional history or download the PDF version for offline reading." }}</p>
           <div class="btn-group btn-group--column">
             <a href="{{ "resume" | relLangURL }}" class="btn btn--primary">
               <i class="fas fa-file-alt"></i> {{ T "view_resume" | default "View Resume" }}
@@ -83,7 +83,7 @@
         </section>
 
         {{- with $resume.skills }}
-        <section class="panel about-side-card about-skills-card">
+        <section class="panel panel--section about-skills-card">
           <h2 class="section-title section-title--rule">{{ T "skills" | default "Skills" }}</h2>
           <div class="about-skill-groups">
             {{- range first 3 . }}

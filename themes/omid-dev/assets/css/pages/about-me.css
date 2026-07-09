@@ -87,12 +87,7 @@
 }
 
 .about-me-content {
-  padding: var(--space-hero-y);
   color: var(--content);
-}
-
-.about-me-sidebar .panel {
-  padding: var(--space-6);
 }
 
 .about-me-content > :first-child {
@@ -128,17 +123,6 @@
   color: var(--accent);
 }
 
-.about-me-sidebar {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-5);
-}
-
-.about-side-card {
-  padding: var(--space-6);
-}
-
-
 .about-skill-groups {
   display: grid;
   gap: var(--space-5);
@@ -157,21 +141,6 @@
   text-align: start;
 }
 
-.about-page .resume-cta p {
-  margin: 0 0 var(--space-5);
-  color: var(--content);
-  font-size: var(--text-body-md);
-  line-height: var(--leading-relaxed);
-}
-
-.about-page .resume-cta .btn-group--column {
-  align-items: stretch;
-}
-
-.about-page .resume-cta .btn {
-  width: 100%;
-}
-
 [dir="rtl"] .about-me-content h3::after {
   margin-right: 0;
 }
@@ -185,11 +154,6 @@
 @media screen and (max-width: 700px) {
   .about-page-content {
     padding: var(--space-6);
-  }
-
-  .about-me-content,
-  .about-side-card {
-    padding: var(--space-5);
   }
 }
 

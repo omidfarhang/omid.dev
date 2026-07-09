@@ -51,9 +51,9 @@
 
   <div class="post-content contact-page-content">
     <div class="layout-split layout-split--sidebar-360 contact-layout">
-      <section class="contact-methods-section contact-form-section">
+      <section class="panel panel--section panel--section-primary panel--section-gradient contact-form-section">
         <h2 class="section-title section-title--rule">{{ i18n "send_message" }}</h2>
-        <form id="contact-form" class="contact-form panel panel--form">
+        <form id="contact-form" class="contact-form">
           <div class="form-group" style="display: none;">
             <input name="honeypot" tabindex="-1" autocomplete="off" />
           </div>
@@ -82,20 +82,18 @@
         </form>
       </section>
 
-      <aside class="contact-side-panel">
-        <section class="contact-methods-section qr-section">
+      <aside class="stack stack--md">
+        <section class="panel panel--section contact-qr-section">
           <h2 class="section-title section-title--rule">{{ i18n "save_contact" }}</h2>
-          <div class="qr-container panel panel--qr">
-            <div class="qr-code">
-              {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
-              <img src="{{ "images/qr-contact.png" | relURL }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
-            </div>
-            <div class="qr-text">
-              <p>{{ i18n "qr_scan_text" }}</p>
-              <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="btn btn--primary">
-                <i class="fa-solid fa-download"></i> {{ i18n "download_vcard" }}
-              </a>
-            </div>
+          <p class="section-lead">{{ i18n "qr_scan_text" }}</p>
+          <div class="contact-qr-code">
+            {{- $vcard := printf "BEGIN:VCARD\nVERSION:3.0\nFN:%s\nTEL;TYPE=CELL:%s\nEMAIL:%s\nURL:%s\nEND:VCARD" site.Title site.Params.footer.contactPhone site.Params.footer.contactEmail site.BaseURL }}
+            <img src="{{ "images/qr-contact.png" | relURL }}" alt="{{ i18n "contact_qr_alt" | default "Contact QR Code" }}" />
+          </div>
+          <div class="btn-group btn-group--column">
+            <a href="data:text/vcard;charset=utf-8,{{ $vcard | urlquery }}" download="Omid_Farhang.vcf" class="btn btn--primary">
+              <i class="fa-solid fa-download"></i> {{ i18n "download_vcard" }}
+            </a>
           </div>
         </section>
       </aside>
