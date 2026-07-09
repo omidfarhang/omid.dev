@@ -1,10 +1,11 @@
 ---
 title: "TypeScript 7 Is Here: Fast, Exciting, and Worth Watching"
-date: 2026-07-10T10:00:00+03:30
+date: 2026-07-10T02:03:30+03:30
 description: "TypeScript 7's native port delivers dramatic build-time speedups, but editor plugins, framework tooling, and monorepo workflows are catching up at different speeds. A practical read for teams deciding when to adopt."
 layout: single
 author_profile: true
 url: 2026/07/10/typescript-7-is-here-fast-exciting-worth-watching/
+shortlink: https://g.omid.dev/PcBczud
 tags:
   - TypeScript
   - Angular
