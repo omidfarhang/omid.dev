@@ -20,7 +20,7 @@ categories:
 
 Avira TechBlog Wrote:
 
-> _Microsoft released_ [_Security Advisory 2718704_](http://technet.microsoft.com/en-us/security/advisory/2718704) _which revokes some certificated which apparently were used to sign the_ _[trojan Flame](/search/label/Flame)__._ 
+> _Microsoft released_ [_Security Advisory 2718704_](http://technet.microsoft.com/en-us/security/advisory/2718704) _which revokes some certificated which apparently were used to sign the_ _[trojan Flame](/search/?q=Flame)__._ 
 > 
 > _In a_ [_blog post_](http://blogs.technet.com/b/srd/archive/2012/06/03/microsoft-certification-authority-signing-certificates-added-to-the-untrusted-certificate-store.aspx)_, Microsoft explains how they discovered that some components of the malware have been signed by certificates that allow software to appear as if it was produced by Microsoft. The certificates issued by the Terminal Services licensing certification authority, which are intended to only be used for license server verification, were also used to sign code and make it look like as if it was originated from Microsoft._ 
 > 
