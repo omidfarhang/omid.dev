@@ -233,15 +233,8 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-{{- if not $isNote }}
 {{- template "partials/templates/opengraph.html" . }}
 {{- template "partials/templates/twitter_cards.html" . }}
-{{- else }}
-<meta property="og:title" content="{{ if and $isNote .IsPage }}{{ partial "note_display_title.html" . }}{{ else }}{{ .Title }}{{ end }}" />
-<meta property="og:description" content="{{ partial "page_description.html" . }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-{{- end }}
 {{- template "partials/templates/schema_json.html" . }}
 {{- template "partials/templates/matomo.html" . }}
 {{- end -}}

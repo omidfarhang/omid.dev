@@ -1,4 +1,5 @@
-<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}" />
+{{- $isNote := partial "is_note.html" . -}}
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else if and $isNote .IsPage }}{{ partial "note_display_title.html" . }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:description" content="{{ partial "page_description.html" . }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ partial "page_canonical.html" . }}" />
