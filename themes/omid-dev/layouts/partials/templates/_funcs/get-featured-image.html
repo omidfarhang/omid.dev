@@ -27,6 +27,7 @@
     {{ if eq $categoryName "" }}
         {{ if $isNote }}
             {{ $categoryName = i18n "notes" | default "Notes" }}
+            {{ $basePath = "/opengraph/notes.jpg" }}
         {{ else if or (eq .Kind "taxonomy") (eq .Kind "term") }}
             {{ if eq .Type "tags" }}
                 {{ $categoryName = cond (eq .Kind "taxonomy") "Tags" "Tag" }}
