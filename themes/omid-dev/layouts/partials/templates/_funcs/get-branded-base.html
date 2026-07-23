@@ -12,8 +12,9 @@
 {{ $accentColor := "#2563eb" }}
 {{ $white := "#FFFFFF" }}
 
-{{/* 1. Combine all static filters into ONE call to avoid multiple re-encodes */}}
-{{ $filters := slice (images.Brightness -25) }}
+{{/* 1. Combine static overlays into ONE filter call to avoid multiple re-encodes */}}
+{{/* Bases are already dark with clear left negative space — do not darken further. */}}
+{{ $filters := slice }}
 
 {{/* 2. Add Category Label */}}
 {{ if $category }}
