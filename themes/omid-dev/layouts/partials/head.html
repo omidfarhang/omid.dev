@@ -4,7 +4,6 @@
 {{- $noindex := or
   .Params.robotsNoIndex
   (eq .Kind "404")
-  (and (eq .Kind "term") (eq .Type "tags") (not (partial "is_curated_tech_tag.html" .)))
   (partial "is_paginated_archive.html" .)
 -}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") | and (not $noindex) }}
