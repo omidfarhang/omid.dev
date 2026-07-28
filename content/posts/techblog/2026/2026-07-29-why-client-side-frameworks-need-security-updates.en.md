@@ -6,10 +6,10 @@ layout: single
 author_profile: true
 url: 2026/07/29/why-client-side-frameworks-need-security-updates/
 shortlink: https://g.omid.dev/g2BIlvG
-# x_link:
-# mastodon_link:
-# bluesky_link:
-# linkedin_link:
+x_link: https://x.com/OmidFarhang/status/2082217019861278828
+mastodon_link: https://mastodon.social/@omidfarhang/116999731721929333
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mrqe7seeds2g
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_why-client-side-frameworks-need-security-share-7487983175638548481-9qnM/
 tags:
   - Angular
   - Frontend
