@@ -35,6 +35,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 
 - Six Months with Angular 2 After Years of AngularJS (2017 migration field report; Angular Platform → Migration context)
 - From Laravel and AngularJS to Spring Boot and Angular (2017 full-stack migration field report; Angular Platform → Migration context)
+- Why Client-Side Frameworks Need Security Updates (SSR / XSRF / XSS CVEs via Angular case study; Angular Platform → Security)
 - ViewChild / ContentChild
 - Design Patterns in Angular
 - Advanced Dependency Injection

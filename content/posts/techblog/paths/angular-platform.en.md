@@ -29,25 +29,31 @@ Optional background on framework migrations — the rewrite-not-upgrade lesson, 
 7. **[From Laravel and AngularJS to Spring Boot and Angular](/2017/05/22/laravel-and-angularjs-to-spring-boot-and-angular/)** — The full-stack companion: first weeks with Java and Spring Boot 1.5 after years of Laravel APIs, on the same money-exchange migration.
 8. **[Ship of Theseus: React to Angular Migration](/2026/01/01/ship-of-theseus-react-to-angular/)** — The same lesson at production scale: incremental migration without a big-bang rewrite.
 
+## Security
+
+Client-side frameworks are part of the security boundary — sanitization, request protection, and SSR isolation included:
+
+9. **[Why Client-Side Frameworks Need Security Updates](/2026/07/29/why-client-side-frameworks-need-security-updates/)** — A general principle, illustrated with three Angular CVEs: SSR leakage, XSRF token exposure, and stored XSS.
+
 ## Foundational reads
 
 These posts are not part of the Modern Angular series but ground the platform work above:
 
-9. **[ViewChild Angular: @ViewChild and @ContentChild](/2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/)** — DOM and component queries — still essential when signals meet the template.
-10. **[Design Patterns in Angular](/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/)** — Reusable patterns for maintainable Angular codebases.
-11. **[Advanced Dependency Injection in Angular](/2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/)** — Tree-shakable providers and injection tokens for large apps.
-12. **[Advanced Angular Change Detection](/2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/)** — Change detection strategies when performance matters.
-13. **[Integrating GraphQL with Angular](/2024/06/01/integrating-graphql-with-angular-a-practical-guide/)** — Practical GraphQL setup in Angular apps.
-14. **[Migrating from REST to GraphQL](/2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressjs-and-angular/)** — Step-by-step backend + frontend migration pair.
+10. **[ViewChild Angular: @ViewChild and @ContentChild](/2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/)** — DOM and component queries — still essential when signals meet the template.
+11. **[Design Patterns in Angular](/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/)** — Reusable patterns for maintainable Angular codebases.
+12. **[Advanced Dependency Injection in Angular](/2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/)** — Tree-shakable providers and injection tokens for large apps.
+13. **[Advanced Angular Change Detection](/2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/)** — Change detection strategies when performance matters.
+14. **[Integrating GraphQL with Angular](/2024/06/01/integrating-graphql-with-angular-a-practical-guide/)** — Practical GraphQL setup in Angular apps.
+15. **[Migrating from REST to GraphQL](/2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressjs-and-angular/)** — Step-by-step backend + frontend migration pair.
 
 ## Architecture at scale
 
-15. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — Start the Micro Frontends series, then follow in-post navigation through the working example and comparison posts.
-16. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology context for incremental migration (pairs with the migration posts above).
+16. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — Start the Micro Frontends series, then follow in-post navigation through the working example and comparison posts.
+17. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology context for incremental migration (pairs with the migration posts above).
 
 ## Companion code
 
-17. **[Why I Started Adding Full Source Code to My Blog Posts](/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)** — How runnable companion projects tie posts to repos and live demos on [playground.omid.dev](https://playground.omid.dev/).
+18. **[Why I Started Adding Full Source Code to My Blog Posts](/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)** — How runnable companion projects tie posts to repos and live demos on [playground.omid.dev](https://playground.omid.dev/).
 
 ## Related paths
 
