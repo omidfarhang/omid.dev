@@ -16,6 +16,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/07/15/csp-and-angular-practical-patterns/
   - /2026/07/29/why-client-side-frameworks-need-security-updates/
   - /2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
   - /2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/
