@@ -37,6 +37,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 - From Laravel and AngularJS to Spring Boot and Angular (2017 full-stack migration field report; Angular Platform → Migration context)
 - Why Client-Side Frameworks Need Security Updates (SSR / XSRF / XSS CVEs via Angular case study; Angular Platform → Security)
 - Modern Auth Patterns for Angular Frontends (OIDC/BFF, HttpOnly cookies, interceptors & guards; Angular Platform → Security)
+- Content Security Policy (CSP) and Angular (report-only → enforce, nonces, proxy headers, scanner; Angular Platform → Security)
 - ViewChild / ContentChild
 - Design Patterns in Angular
 - Advanced Dependency Injection
