@@ -18,6 +18,7 @@ categories:
 seeAlso:
   - /2026/07/31/modern-auth-patterns-for-angular-frontends/
   - /2026/07/29/why-client-side-frameworks-need-security-updates/
+  - /2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/
   - /2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
 ---
 

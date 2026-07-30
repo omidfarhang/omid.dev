@@ -38,6 +38,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 - Why Client-Side Frameworks Need Security Updates (SSR / XSRF / XSS CVEs via Angular case study; Angular Platform → Security)
 - Modern Auth Patterns for Angular Frontends (OIDC/BFF, HttpOnly cookies, interceptors & guards; Angular Platform → Security)
 - Content Security Policy (CSP) and Angular (report-only → enforce, nonces, proxy headers, scanner; Angular Platform → Security)
+- Dependency Risk, SBOMs, and Automated Security for Angular (SBOM + CI audit gates, Dependabot/Snyk, Slack/Mastodon; Angular Platform → Security)
 - ViewChild / ContentChild
 - Design Patterns in Angular
 - Advanced Dependency Injection

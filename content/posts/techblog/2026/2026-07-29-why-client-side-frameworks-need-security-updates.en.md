@@ -22,6 +22,7 @@ categories:
 seeAlso:
   - /2026/07/31/modern-auth-patterns-for-angular-frontends/
   - /2026/07/15/csp-and-angular-practical-patterns/
+  - /2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/
   - /2026/05/26/angular-template-syntax-hidden-cost/
   - /2025/12/24/angular-signals-control-theory/
   - /2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
