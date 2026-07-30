@@ -5,6 +5,7 @@ description: "Build an SBOM and CI security pipeline for Angular monorepos: npm 
 layout: single
 author_profile: true
 url: 2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/
+shortlink: https://g.omid.dev/RK3K05K
 tags:
   - Angular
   - Frontend
@@ -18,6 +19,7 @@ categories:
   - TechBlog
 seeAlso:
   - /2026/07/29/why-client-side-frameworks-need-security-updates/
+  - /2026/07/22/securing-angular-pwas-in-2026/
   - /2026/07/15/csp-and-angular-practical-patterns/
   - /2026/07/31/modern-auth-patterns-for-angular-frontends/
   - /2026/05/27/angular-mcp-ai-workflows-real-teams/

@@ -5,6 +5,7 @@ description: "Ship CSP for Angular without breaking the build: report-only first
 layout: single
 author_profile: true
 url: 2026/07/15/csp-and-angular-practical-patterns/
+shortlink: https://g.omid.dev/cr5Zz8o
 tags:
   - Angular
   - Frontend
@@ -18,6 +19,7 @@ categories:
 seeAlso:
   - /2026/07/31/modern-auth-patterns-for-angular-frontends/
   - /2026/07/29/why-client-side-frameworks-need-security-updates/
+  - /2026/07/22/securing-angular-pwas-in-2026/
   - /2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/
   - /2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/
 ---
