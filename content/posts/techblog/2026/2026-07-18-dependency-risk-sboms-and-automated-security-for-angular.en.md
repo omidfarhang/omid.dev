@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/
 shortlink: https://g.omid.dev/RK3K05K
+x_link: https://x.com/OmidFarhang/status/2083130621103427730
+mastodon_link: https://mastodon.social/@omidfarhang/117014008402479489
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mrwp3zb7722z
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_dependency-risk-sboms-and-automated-security-activity-7488896658450259970-BwsD
 tags:
   - Angular
   - Frontend

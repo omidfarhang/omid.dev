@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/07/31/modern-auth-patterns-for-angular-frontends/
 shortlink: https://g.omid.dev/R3Guo03
+x_link: https://x.com/OmidFarhang/status/2083187991363907585
+mastodon_link: https://mastodon.social/@omidfarhang/117014932007452434
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mrx3t7pzjs2b
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_modern-auth-patterns-for-angular-frontends-activity-7488953909894545409-GfM9
 tags:
   - Angular
   - Frontend

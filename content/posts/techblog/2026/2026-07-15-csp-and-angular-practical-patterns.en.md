@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/07/15/csp-and-angular-practical-patterns/
 shortlink: https://g.omid.dev/cr5Zz8o
+x_link: https://x.com/OmidFarhang/status/2082944988120514954
+mastodon_link: https://mastodon.social/@omidfarhang/117011107614030922
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mrvfuxn22s2a
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_content-security-policy-csp-and-angular-activity-7488710967808425984-077v
 tags:
   - Angular
   - Frontend

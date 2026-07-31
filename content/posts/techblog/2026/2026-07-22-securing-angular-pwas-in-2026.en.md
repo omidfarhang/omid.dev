@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/07/22/securing-angular-pwas-in-2026/
 shortlink: https://g.omid.dev/oWtGa46
+x_link: https://x.com/OmidFarhang/status/2083187408116588732
+mastodon_link: https://mastodon.social/@omidfarhang/117014894322830381
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mrx3oxdw622b
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_securing-angular-pwas-in-2026-activity-7488953307118465024-6UWh
 tags:
   - Angular
   - Frontend
