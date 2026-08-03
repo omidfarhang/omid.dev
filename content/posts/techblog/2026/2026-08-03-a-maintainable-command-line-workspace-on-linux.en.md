@@ -10,6 +10,7 @@ x_link: https://x.com/OmidFarhang/status/2084333593611075698
 mastodon_link: https://mastodon.social/@omidfarhang/117032804413360579
 bluesky_link: https://bsky.app/profile/omid.dev/post/3ms727aogp22t
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_a-maintainable-command-line-workspace-on-share-7490099740169097216-WpW8/
+relatedNote: notes/178579122705108690/
 keywords:
   - linux command line workspace
   - linux dotfiles
