@@ -58,6 +58,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 
 ## DevOps / infra (Systems path)
 
+- Maintainable Command-Line Workspace on Linux (terminal, shell, multiplexer, dotfiles, and SSH overview)
 - Cursor on Manjaro, oh-my-zsh, Docker, K8s, Beyond K8s, networking, shell scripting
 
 ## Cross-section

@@ -29,6 +29,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/08/03/a-maintainable-command-line-workspace-on-linux/
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
   - /2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/
   - /2022/11/27/how-to-use-cloudflare-warp-on-linux/
