@@ -1,7 +1,7 @@
 ---
 title: Install and Configure Oh My Zsh and use it in VSCode or Cursor
 date: 2019-06-05T00:45:20+00:00
-lastmod: 2026-06-16T12:00:00+03:30
+lastmod: 2026-08-03T13:49:00+03:30
 description: "Install Oh My Zsh on Ubuntu, Manjaro, or Arch Linux, then use Zsh as the integrated terminal in VS Code or Cursor IDE with Powerlevel10k, Nerd Fonts, and useful plugins."
 layout: single
 author_profile: true
@@ -46,6 +46,7 @@ howToSteps:
 
 - Install `zsh`, then run the [Oh My Zsh](https://ohmyz.sh/) installer on Ubuntu, Manjaro, or Arch.
 - Enable the `vscode` plugin, add Powerlevel10k, and install a Meslo Nerd Font.
+- Periodically `git pull` custom themes/plugins under `$ZSH_CUSTOM` — Oh My Zsh’s auto-update does not cover them.
 - Point the **VS Code integrated terminal** or **Cursor IDE terminal** at `/usr/bin/zsh` in `settings.json`.
 - On Manjaro, also see [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/).
 
@@ -245,6 +246,29 @@ source ~/.zshrc
 ```
 
 You can also just open a new terminal.
+
+## Keep custom themes and plugins updated
+
+Oh My Zsh’s built-in updater (`omz update`, or the `zstyle ':omz:update'` settings above) only refreshes the framework itself. Themes and plugins you `git clone`d into `$ZSH_CUSTOM` — Powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting — stay frozen until you pull them again.
+
+One command updates every git checkout under `custom/plugins` and `custom/themes`:
+
+```shell
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
+for d in "$ZSH_CUSTOM"/{plugins,themes}/*/; do
+  [ -d "$d/.git" ] && git -C "$d" pull --ff-only
+done
+```
+
+Run that every few months, or wrap it in a shell alias / cron job if you prefer not to remember. To refresh Oh My Zsh and the custom clones in one go:
+
+```shell
+omz update
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
+for d in "$ZSH_CUSTOM"/{plugins,themes}/*/; do
+  [ -d "$d/.git" ] && git -C "$d" pull --ff-only
+done
+```
 
 ## Change the default terminal in VS Code or Cursor IDE
 

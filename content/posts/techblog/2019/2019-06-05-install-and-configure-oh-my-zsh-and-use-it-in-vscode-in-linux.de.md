@@ -1,7 +1,7 @@
 ---
 title: Oh My Zsh installieren und in VS Code oder Cursor nutzen
 date: 2019-06-05T00:45:20+00:00
-lastmod: 2026-06-16T12:00:00+03:30
+lastmod: 2026-08-03T13:49:00+03:30
 description: "Oh My Zsh unter Ubuntu, Manjaro oder Arch Linux installieren und Zsh als integriertes Terminal in VS Code oder Cursor IDE mit Powerlevel10k, Nerd Fonts und Plugins einrichten."
 layout: single
 author_profile: true
@@ -41,20 +41,21 @@ howToSteps:
   - name: Zsh in VS Code oder Cursor nutzen
     text: Setze terminal.integrated.defaultProfile.linux auf zsh und konfiguriere die Meslo Nerd Font in settings.json.
 ---
-**Kurzfassung**
+## Kurzfassung
 
 - Installiere `zsh` und führe den [Oh My Zsh](https://ohmyz.sh/)-Installer unter Ubuntu, Manjaro oder Arch aus.
 - Aktiviere das `vscode`-Plugin, richte Powerlevel10k ein und installiere eine Meslo Nerd Font.
+- Aktualisiere per `git pull` gelegentlich Themes/Plugins unter `$ZSH_CUSTOM` — das Auto-Update von Oh My Zsh deckt sie nicht ab.
 - Richte das **integrierte VS-Code-Terminal** oder **Cursor-IDE-Terminal** in `settings.json` auf `/usr/bin/zsh` ein.
 - Unter Manjaro siehe auch [Cursor IDE auf Manjaro Linux installieren](/de/2026/05/29/how-to-install-cursor-ide-in-manjaro/).
 
-Wenn du noch das einfache Bash-Terminal deiner Distribution nutzt, lohnt sich ein Blick auf Zsh: schneller, sicherer und mit einem aktiven Plugin-Ökosystem. Oh My Zsh ist ein Open-Source-Framework zur Verwaltung deiner Zsh-Konfiguration.
+Wenn du bisher einfach die Standard-Bash deiner Distribution verwendest, ist Zsh einen Versuch wert: Die Shell lässt sich sehr weitgehend anpassen und wird durch eine aktive Community mit nützlichen Plugins erweitert. Ich nutze dafür Oh My Zsh, ein quelloffenes, von der Community gepflegtes Framework für die Zsh-Konfiguration.
 
 ![Screenshot von Oh My ZSH in Yakuake](/images/2019/06/Screenshot_20190605_040118.png)
 
 ## Oh My Zsh unter Ubuntu, Manjaro oder Arch installieren
 
-Dieser Abschnitt ist der schnellste Weg, wenn du nach **oh my zsh installieren** gesucht hast und nur die Befehle brauchst.
+Dieser Abschnitt ist der schnelle Einstieg, wenn du nach **oh my zsh installieren** gesucht hast und nur die Befehle brauchst. Danach folgen Schriftarten, Themes, Plugins sowie die Einrichtung des integrierten Terminals in VS Code und Cursor.
 
 ### Schritt 1 — Zsh installieren
 
@@ -85,25 +86,25 @@ Oder per Wget:
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-Bei der Installation wirst du gefragt, ob Zsh deine Standardshell werden soll — antworte mit Ja.
+Während der Installation wirst du gefragt, ob Zsh deine Standardshell werden soll. Das kannst du mit Ja bestätigen.
 
-Falls nicht, manuell wechseln:
+Wenn du diesen Schritt übersprungen hast oder deine Distribution die Shell nicht automatisch umgestellt hat, kannst du sie manuell ändern:
 
 ```shell
 chsh -s "$(command -v zsh)"
 ```
 
-Nach dem Wechsel ab- und wieder anmelden.
+Melde dich nach der Änderung ab und wieder an.
 
 ## Oh My Zsh konfigurieren
 
-Bearbeite `~/.zshrc` ohne `sudo`:
+Mit Oh My Zsh kannst du unter anderem das Update-Verhalten ändern, Plugins ein- oder ausschalten und den Standardbenutzer festlegen. Öffne deine eigene `~/.zshrc` immer ohne `sudo`:
 
 ```shell
 nano ~/.zshrc
 ```
 
-Einfaches Beispiel:
+Dieses schlanke Beispiel funktioniert gut unter Linux. Aktiviere nur Plugins, die du tatsächlich verwendest:
 
 ```shell
 export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -127,23 +128,35 @@ fi
 
 ## Powerlevel10k-Theme installieren
 
+[Powerlevel10k](https://github.com/romkatv/powerlevel10k) ist ein schnelles, vielseitig konfigurierbares Zsh-Theme. Oh My Zsh verwendet standardmäßig `~/.oh-my-zsh/custom` als `ZSH_CUSTOM`. Stelle daher zuerst sicher, dass die Verzeichnisse für eigene Themes und Plugins vorhanden sind:
+
 ```shell
 ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
 mkdir -p "$ZSH_CUSTOM/themes" "$ZSH_CUSTOM/plugins"
+```
+
+Anschließend kannst du Powerlevel10k herunterladen:
+
+```shell
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "$ZSH_CUSTOM/themes/powerlevel10k"
 ```
 
-In `~/.zshrc`:
+Trage es danach in deiner `~/.zshrc` als Theme ein:
 
 ```shell
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
+Installiere vor dem Neuladen von Zsh oder dem Öffnen eines neuen Terminals die Schriftart aus dem nächsten Abschnitt. Beim ersten Start führt dich Powerlevel10k durch einen Assistenten zur Auswahl des Prompt-Stils.
+
 ## Schriftart installieren
+
+Powerlevel10k benötigt eine Nerd Font, damit Symbole und Zeichen im Prompt korrekt dargestellt werden. Wenn du Powerlevel10k verwendest, installiere die dafür empfohlene Meslo-Schriftart. Für andere Themes reicht in der Regel die normale Meslo Nerd Font.
 
 ### Für Powerlevel10k
 
-Ubuntu/Kubuntu:
+Unter Ubuntu/Kubuntu installierst du die Powerlevel10k-Meslo-Schriftarten manuell für deinen aktuellen Benutzer:
 
 ```shell
 font_dir="$HOME/.local/share/fonts/MesloLGS-NF"
@@ -157,19 +170,54 @@ wget -O "$font_dir/MesloLGS NF Bold Italic.ttf" "https://github.com/romkatv/powe
 fc-cache -fv "$font_dir"
 ```
 
-Manjaro/Arch:
+Unter Manjaro/Arch installierst du das passende Paket aus dem Repository `extra`:
 
 ```shell
 sudo pacman -S ttf-meslo-nerd-font-powerlevel10k
 ```
 
-Danach Zsh neu laden:
+### Für andere Themes
+
+Unter Ubuntu/Kubuntu installierst du die Meslo Nerd Font manuell für deinen aktuellen Benutzer:
+
+```shell
+font_dir="$HOME/.local/share/fonts/MesloNerdFont"
+tmp_dir="$(mktemp -d)"
+
+mkdir -p "$font_dir"
+wget -O "$tmp_dir/Meslo.zip" https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Meslo.zip
+unzip -o "$tmp_dir/Meslo.zip" -d "$font_dir"
+rm -rf "$tmp_dir"
+
+fc-cache -fv "$font_dir"
+```
+
+Unter Manjaro/Arch kannst du Meslo Nerd Font über den Paketmanager installieren:
+
+```shell
+sudo pacman -S ttf-meslo-nerd
+```
+
+Wenn du für Powerlevel10k bereits `ttf-meslo-nerd-font-powerlevel10k` installiert hast, brauchst du `ttf-meslo-nerd` nicht zusätzlich.
+
+Den installierten Schriftnamen kannst du so prüfen:
+
+```shell
+fc-match "MesloLGS NF"
+fc-match "MesloLGS Nerd Font Mono"
+```
+
+Lade Zsh nach der Schriftinstallation neu:
 
 ```shell
 source ~/.zshrc
 ```
 
+Alternativ öffnest du einfach ein neues Terminal.
+
 ## Optionale Plugins
+
+Diese beiden Plugins verbessern die Arbeit mit Oh My Zsh:
 
 ```shell
 ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
@@ -177,26 +225,59 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git "$ZSH_CUSTOM/plug
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$ZSH_CUSTOM/plugins/zsh-syntax-highlighting"
 ```
 
-In `~/.zshrc` — `zsh-syntax-highlighting` immer zuletzt:
+Aktiviere sie anschließend in der Liste `plugins=(...)` deiner `~/.zshrc`. `zsh-syntax-highlighting` muss dabei immer an letzter Stelle stehen:
 
 ```shell
 plugins=(
   git
   vscode
   zsh-autosuggestions
-  zsh-syntax-highlighting
+  zsh-syntax-highlighting # immer zuletzt
 )
 ```
 
-## Standardterminal in VS Code oder Cursor IDE ändern
+Lade Zsh nach dem Ändern der Plugin-Liste neu:
+
+```shell
+source ~/.zshrc
+```
+
+Alternativ öffnest du einfach ein neues Terminal.
+
+## Eigene Themes und Plugins aktuell halten
+
+Der eingebaute Updater von Oh My Zsh (`omz update` oder die oben gezeigte Einstellung `zstyle ':omz:update'`) aktualisiert nur das Framework selbst. Themes und Plugins, die du mit `git clone` nach `$ZSH_CUSTOM` geholt hast — etwa Powerlevel10k, zsh-autosuggestions und zsh-syntax-highlighting — bleiben unverändert, bis du sie separat aktualisierst.
+
+Mit diesem Befehl aktualisierst du alle Git-Checkouts unter `custom/plugins` und `custom/themes`:
+
+```shell
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
+for d in "$ZSH_CUSTOM"/{plugins,themes}/*/; do
+  [ -d "$d/.git" ] && git -C "$d" pull --ff-only
+done
+```
+
+Führe den Befehl alle paar Monate aus oder lege dir einen Alias beziehungsweise Cron-Job an, wenn du nicht daran denken möchtest. So aktualisierst du Oh My Zsh und die eigenen Clones in einem Durchgang:
+
+```shell
+omz update
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
+for d in "$ZSH_CUSTOM"/{plugins,themes}/*/; do
+  [ -d "$d/.git" ] && git -C "$d" pull --ff-only
+done
+```
+
+## Zsh als Standardterminal in VS Code oder Cursor IDE einstellen
 
 ![Screenshot von OhMyZSH in VSCode](/images/2019/06/Screenshot_20190605_051605.png)
 
-**VS Code** und **Cursor IDE** nutzen oft noch Bash als integriertes Terminal. Nach der Schriftinstallation Editor neu starten.
+Zsh ist nun eingerichtet, Powerlevel10k als Theme gesetzt und eine passende Schriftart installiert. **VS Code** und **Cursor IDE** verwenden im integrierten Terminal möglicherweise weiterhin Bash. Stelle deshalb das **VS-Code-Terminal** beziehungsweise Cursor auf Zsh um. Starte den Editor nach der Schriftinstallation neu, damit er die Schriftart erkennt.
 
-Für Cursor unter Manjaro: [Cursor IDE auf Manjaro Linux installieren](/de/2026/05/29/how-to-install-cursor-ide-in-manjaro/) und das Skript [update-cursor.sh](/scripts/update-cursor.sh) für Updates.
+Wenn du Cursor zuerst unter Manjaro einrichtest, lies [Cursor IDE auf Manjaro Linux installieren](/de/2026/05/29/how-to-install-cursor-ide-in-manjaro/). Mit dem Skript [update-cursor.sh](/scripts/update-cursor.sh) hältst du die AppImage anschließend aktuell.
 
-In `settings.json`:
+Das Oh-My-Zsh-Plugin `vscode` verbessert außerdem das integrierte Terminal im Editor. Aktiviere es wie im Konfigurationsabschnitt gezeigt in der Liste `plugins=(...)` deiner `~/.zshrc`.
+
+Konfiguriere nun VS Code oder Cursor für Zsh. Füge die folgenden Einträge in die `settings.json` ein oder suche sie einzeln in den Einstellungen:
 
 ```json
 {
