@@ -40,15 +40,55 @@
 
       {{- if $page.Content }}
       {{- $limit := $page.Param "indexLimit" | default site.Params.notesIndexMaxChars | default 420 | int -}}
-      {{- $plain := $page.Content | plainify | strings.TrimSpace -}}
+      {{- $ghostLimit := site.Params.notesIndexGhostChars | default 160 | int -}}
+      {{- $plain := $page.Content | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " -}}
       {{- $isLong := and (not $standalone) (gt (len $plain) $limit) -}}
       {{- if $isLong }}
-      <div class="note-entry-body note-entry-body--preview post-content">
-        <p>{{ $plain | truncate $limit "…" }}</p>
+      {{- $raw := $page.RawContent | strings.TrimSpace -}}
+      {{- $blocks := split $raw "\n\n" -}}
+      {{- $firstBlock := index $blocks 0 | strings.TrimSpace -}}
+      {{- $hasMoreBlocks := gt (len $blocks) 1 -}}
+      {{- $firstPlain := $firstBlock | markdownify | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " -}}
+      {{- $useFirstBlock := and $hasMoreBlocks $firstPlain (le (len $firstPlain) $limit) -}}
+      {{- $previewPlain := "" -}}
+      {{- $ghostPlain := "" -}}
+      {{- if $useFirstBlock }}
+      {{- $previewPlain = $firstPlain -}}
+      {{- $restPlain := delimit (after 1 $blocks) "\n\n" | markdownify | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " -}}
+      {{- $ghostPlain = $restPlain | truncate $ghostLimit "" -}}
+      {{- else }}
+      {{- $source := $firstPlain | default $plain -}}
+      {{- $head := strings.TrimSpace ($source | truncate $limit "") -}}
+      {{- $minSentence := div (mul $limit 2) 5 -}}
+      {{- $sentence := replaceRE `(?s)^(.+[.!?…])["”’)]*\s+\S.*$` "$1" $head -}}
+      {{- if and (gt (len $sentence) $minSentence) (ne $sentence $head) }}
+      {{- $previewPlain = $sentence -}}
+      {{- else }}
+      {{- $previewPlain = $source | truncate $limit "…" -}}
+      {{- end }}
+      {{- $restPlain := strings.TrimSpace (strings.TrimPrefix (strings.TrimSuffix $previewPlain "…") $source) -}}
+      {{- $ghostPlain = $restPlain | truncate $ghostLimit "" -}}
+      {{- end }}
+      <div class="note-entry-preview">
+        <div class="note-entry-body note-entry-body--preview post-content">
+          {{- if $useFirstBlock }}
+          {{ $firstBlock | markdownify }}
+          {{- else }}
+          <p>{{ $previewPlain }}</p>
+          {{- end }}
+        </div>
+        {{- if $ghostPlain }}
+        <div class="note-entry-body note-entry-body--ghost post-content" aria-hidden="true">
+          <p>{{ $ghostPlain }}</p>
+        </div>
+        {{- end }}
+        <div class="note-entry-preview-foot">
+          <div class="note-entry-preview-veil" aria-hidden="true"></div>
+          <p class="note-entry-more">
+            <a href="{{ $page.Permalink }}">{{ i18n "continue_reading" | default "Continue reading" }}</a>
+          </p>
+        </div>
       </div>
-      <p class="note-entry-more">
-        <a href="{{ $page.Permalink }}">{{ i18n "continue_reading" | default "Continue reading" }}</a>
-      </p>
       {{- else }}
       <div class="note-entry-body post-content">
         {{- if not ($page.Param "disableAnchoredHeadings") }}
