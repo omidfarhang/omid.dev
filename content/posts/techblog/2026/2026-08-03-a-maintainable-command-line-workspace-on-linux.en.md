@@ -44,7 +44,7 @@ The terminal window is only one part of the environment. Separating the layers m
 | Terminal emulator | Local window, font, colors, clipboard | Konsole, GNOME Terminal, Kitty, WezTerm |
 | Shell | Commands, environment, startup files | Bash, Zsh, Fish, Nushell |
 | Prompt and completions | Interactive feedback and discovery | Starship, Powerlevel10k, shell-native completion |
-| Multiplexer | Persistent sessions and panes | tmux, Zellij |
+| Multiplexer | Persistent sessions and panes | `screen`, tmux, Zellij |
 | Command-line tools | Search, navigation, history, aliases | `rg`, `fzf`, `bat`, `eza`, `git` |
 | Remote access | Hosts, keys, forwarding, sessions | OpenSSH, `mosh` |
 | Editor terminal | Project-local command entry point | VS Code, Cursor |
@@ -144,9 +144,13 @@ Frameworks and plugin managers belong only in the interactive layer. Oh My Zsh p
 
 ## Add a multiplexer when sessions need to survive
 
-A multiplexer is useful when you work over SSH, keep long-running tasks open, or want a consistent layout across terminal emulators. It is optional for short local commands.
+A multiplexer is useful when you work over SSH, keep long-running tasks open, or want a consistent layout across terminal emulators. It is optional for short local commands. The familiar failure mode is this: you SSH into a host, start important work, the connection drops, and the interactive session is gone. A multiplexer keeps that work alive on the remote side so you can reconnect and continue.
 
-**tmux** is established, widely available on servers, and a safe default for remote work. **Zellij** offers a more modern user interface and layout model. Either should own sessions, windows, and panes; the terminal emulator should own local rendering and keyboard integration.
+You do not need a cutting-edge tool for that idea. Many people first learn it with **GNU Screen** (`screen`): start a session, detach, reconnect later with `screen -r`. Older servers and minimal images often still have `screen` when nothing else is installed, and the name alone is enough for many operators to recognise the pattern.
+
+**tmux** is the better default on most modern systems: clearer session management, more predictable configuration, and still widely available. **Zellij** is a newer option with a more modern interface and layout model. Prefer the tool that is already on the host, or that you can install without fighting policy. On a locked-down box, `screen` or `tmux` that you already have beats a polished tool you cannot install.
+
+Whichever you use should own sessions, windows, and panes; the terminal emulator should own local rendering and keyboard integration.
 
 Keep the first configuration small:
 
@@ -195,7 +199,7 @@ VS Code and Cursor provide convenient project terminals, but they should consume
 
 The [Cursor on Manjaro guide](/2026/05/29/how-to-install-cursor-ide-in-manjaro/) explains an AppImage-based installation that keeps the executable under `~/.local/opt` and exposes a small command in `~/.local/bin`. The Zsh guide covers the editor's `terminal.integrated.*` settings. Keep those editor-specific settings out of generic shell startup files wherever possible.
 
-A useful rule is: use the editor terminal for commands tied to the open project, and an external terminal plus tmux or Zellij for persistent sessions, administration, and remote work.
+A useful rule is: use the editor terminal for commands tied to the open project, and an external terminal plus `screen`, tmux, or Zellij for persistent sessions, administration, and remote work.
 
 ## Update deliberately and keep startup fast
 
