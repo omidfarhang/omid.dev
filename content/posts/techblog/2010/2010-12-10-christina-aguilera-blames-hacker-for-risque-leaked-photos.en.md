@@ -15,7 +15,9 @@ tags:
 categories:
   - TechBlog
 ---
-**![christina-aguilera](http://lh6.ggpht.com/_vaUVXcmC3OI/TQK3lC9DJZI/AAAAAAAADfA/viqgohMWGoI/s1600-h/christina-aguilera%5B5%5D.jpg)Sophos Labs:** Semi-nude pictures of Christina Aguilera leaked onto the internet earlier this week, causing fans of the pint-sized pop diva to feverishly run to their search engines in the hunt for the private snaps.
+![christina-aguilera](http://lh6.ggpht.com/_vaUVXcmC3OI/TQK3lC9DJZI/AAAAAAAADfA/viqgohMWGoI/s1600-h/christina-aguilera%5B5%5D.jpg)
+
+Semi-nude pictures of Christina Aguilera leaked onto the internet earlier this week, causing fans of the pint-sized pop diva to feverishly run to their search engines in the hunt for the private snaps.
 
 Regular readers should know only too well about the dangers that can be associated with hunting for such material – with nude pictures of Twilight star Ashley Greene and snaps of princess-to-be Kate Middleton recently being used as bait for the unwary.
 
