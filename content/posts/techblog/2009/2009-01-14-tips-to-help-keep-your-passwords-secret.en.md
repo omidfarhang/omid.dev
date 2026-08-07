@@ -1,8 +1,8 @@
 ---
 title: 5 tips to help keep your passwords secret
 date: 2009-01-14T23:55:43+03:30
-lastmod: 2026-07-07T18:10:00+03:30
-description: Five practical rules for keeping passwords safe — updated with password-manager guidance alongside the original 2009 tips.
+lastmod: 2026-08-08T01:30:00+03:30
+description: Five practical rules for keeping passwords secret — phishing, shared machines, storage, and reuse — updated for password-manager workflows.
 layout: single
 author_profile: true
 url: 2009/01/14/tips-to-help-keep-your-passwords-secret/
@@ -17,32 +17,30 @@ categories:
 
 seeAlso:
   - /2009/01/13/passwords/
+  - /2010/03/04/too-many-passwords-here-is-a-solution/
   - /2009/01/15/passwords-used-by-the-conficker-worm/
   - /2009/01/13/phishing-emails/
 ---
-Treat your passwords with as much care as you treat the information that they protect.
-
-Use [strong passwords](/2009/01/13/passwords/) to log on to your computer and to any site where you enter your credit card number, or any financial or personal information — including social networking sites. A password manager (Bitwarden, 1Password, KeePass, or similar) makes it practical to use a unique, strong password for every account.
+Treat passwords with as much care as the information they protect. For how to make them strong — and why a manager should generate them — see [Passwords](/2009/01/13/passwords/). These tips are about keeping secrets secret day to day.
 
 ## 1. Never provide your password over e-mail
 
-Internet "phishing" scams use fraudulent e-mail messages to entice you to reveal your user names and passwords, steal your identity, and more. [Learn more about phishing scams](/2009/01/13/phishing-emails/).
+Phishing messages pretend to be a bank, a shop, or a social network and ask you to “confirm” your login. Legitimate services do not need your password by email. [Learn how to spot phishing](/2009/01/13/phishing-emails/).
 
 ## 2. Do not type passwords on computers you do not control
 
-Computers such as those in Internet cafes, computer labs, kiosk systems, conferences, and airport lounges should be considered unsafe for any personal use other than anonymous Internet browsing.
-
-Cyber criminals can purchase keystroke logging devices which gather information typed on a computer, including passwords.
+Internet cafes, labs, kiosks, conference machines, and airport lounges are unsafe for anything that needs a login. Keyloggers and malware can capture what you type. Prefer your own device, or wait until you are on one you trust.
 
 ## 3. Don't reveal passwords to others
 
-Keep your passwords hidden from friends or family members (especially children) who could pass them on to other, less trustworthy individuals.
+Friends and family (especially children) can pass a password along — accidentally or on purpose. If someone needs access, use proper sharing features in a password manager or grant them their own account. Do not text or chat a password in the clear.
 
 ## 4. Protect any recorded passwords
 
-- Don't store passwords in a plain-text file on your computer, because criminals will look there first. A password manager encrypts them.
-- If you must write passwords down, keep your record in a safe, secure place — not on a sticky note on your monitor.
+- Prefer an encrypted password manager vault over notes apps, browsers without a master lock, or spreadsheets.
+- Do not keep passwords in a plain-text file — that is the first place attackers look.
+- If you must write a recovery code or master passphrase on paper, store it somewhere locked and private — not on a sticky note on the monitor.
 
 ## 5. Use more than one password
 
-Use different passwords for different Web sites and services. A password manager makes this effortless.
+Reuse is the failure mode that turns one breach into many. Use a different password for every site and service. A password manager makes that practical — see [Too many passwords? Here is a solution!](/2010/03/04/too-many-passwords-here-is-a-solution/).
