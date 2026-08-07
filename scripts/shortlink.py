@@ -17,6 +17,15 @@ from pathlib import Path
 DEFAULT_POSTS_DIR = Path("content/posts")
 DEFAULT_SITE_URL = "https://omid.dev"
 DEFAULT_API_URL = "https://g.omid.dev/yourls-api.php"
+# Cloudflare Bot Fight Mode (error 1010) blocks Python-urllib's default UA.
+HTTP_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/x-www-form-urlencoded",
+}
 LANG_SUFFIX_RE = re.compile(r"\.(en|fa|de)\.md$")
 FRONT_MATTER_RE = re.compile(r"\A---\n(.*?)\n---(?:\n|\Z)", re.DOTALL)
 SHORTLINK_LINE_RE = re.compile(r"^shortlink\s*:.*$", re.MULTILINE)
@@ -165,6 +174,21 @@ def find_posts_missing_shortlink(posts_dir: Path, *, include_drafts: bool) -> li
     return missing
 
 
+def load_dotenv(path: Path) -> None:
+    """Load simple KEY=VALUE lines from .env without overriding existing env."""
+    if not path.is_file():
+        return
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip("'\"")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
 def load_yourls_config(api_url: str) -> YourlsConfig:
     return YourlsConfig(
         api_url=api_url,
@@ -187,14 +211,20 @@ def create_shorturl(config: YourlsConfig, long_url: str, title: str) -> str:
         config.api_url,
         data=data,
         method="POST",
-        headers={"Content-Type": "application/x-www-form-urlencoded"},
+        headers=HTTP_HEADERS,
     )
 
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
             body = response.read().decode("utf-8")
     except urllib.error.HTTPError as error:
-        detail = error.read().decode("utf-8", errors="replace")
+        detail = error.read().decode("utf-8", errors="replace").strip()
+        if error.code == 403 and "1010" in detail:
+            raise RuntimeError(
+                "Cloudflare blocked the YOURLS request (error 1010). "
+                "Retry; if it persists, allowlist API access or disable Bot Fight "
+                "Mode for g.omid.dev."
+            ) from error
         raise RuntimeError(f"YOURLS HTTP {error.code}: {detail or error.reason}") from error
     except urllib.error.URLError as error:
         raise RuntimeError(f"YOURLS request failed: {error.reason}") from error
@@ -279,8 +309,8 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--api-url",
-        default=os.environ.get("YOURLS_API_URL", DEFAULT_API_URL),
-        help=f"YOURLS API endpoint (default: {DEFAULT_API_URL})",
+        default=None,
+        help=f"YOURLS API endpoint (default: env YOURLS_API_URL or {DEFAULT_API_URL})",
     )
     parser.add_argument(
         "--limit",
@@ -312,6 +342,7 @@ def main() -> int:
     parser = build_parser()
     args = parser.parse_args()
     root = repo_root()
+    load_dotenv(root / ".env")
     posts_dir = args.posts_dir or (root / DEFAULT_POSTS_DIR)
 
     targets: list[PostMeta] = []
@@ -372,7 +403,8 @@ def main() -> int:
         return 0
 
     try:
-        config = load_yourls_config(args.api_url)
+        api_url = args.api_url or os.environ.get("YOURLS_API_URL", DEFAULT_API_URL)
+        config = load_yourls_config(api_url)
         config.auth_fields()
     except ValueError as error:
         print(error, file=sys.stderr)
