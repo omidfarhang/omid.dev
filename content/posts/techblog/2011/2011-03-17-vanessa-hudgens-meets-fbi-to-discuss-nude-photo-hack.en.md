@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-![Vanessa Hudgens](/images/2010/12/4693862614_79a6cf1457_c.jpg)
+![Vanessa Hudgens](/images/2011/03/4693862614_79a6cf1457_c.jpg)
 
 Nude photos and videos of Vanessa Hudgens, the star of “High School Musical”, have surfaced on the net, with speculation rife that they have been released by a hacker who broke into the 22-year-old’s Gmail account.
 
