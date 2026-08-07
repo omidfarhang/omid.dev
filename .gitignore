@@ -71,3 +71,8 @@ bower_components
 .awspublish*
 
 .aider*
+
+.env
+
+# Python
+__pycache__/

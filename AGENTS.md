@@ -244,7 +244,13 @@ Match existing naming and structure. Prefer extending partials over duplicating 
 ```bash
 # Note URL helper
 python3 scripts/note-url.py
+
+# List posts missing shortlink, or create via YOURLS (g.omid.dev)
+python3 scripts/shortlink.py                  # list missing
+python3 scripts/shortlink.py --apply --missing --limit 20
 ```
+
+`shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
 
 Requires Python 3.
 
