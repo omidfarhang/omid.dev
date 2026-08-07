@@ -4,6 +4,7 @@ date: 2010-01-15T23:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/15/consistent-computer-virus-malcode-names/
+shortlink: https://g.omid.dev/1Y7Hu5u
 tags:
   - report
   - VirusTotal

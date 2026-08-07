@@ -4,6 +4,7 @@ date: 2012-02-11T11:24:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/11/dutch-isp-kpn-hacked-credentials-and-personal-information-leaked/
+shortlink: https://g.omid.dev/1Tyd3X8
 tags:
   - hack
   - ISP

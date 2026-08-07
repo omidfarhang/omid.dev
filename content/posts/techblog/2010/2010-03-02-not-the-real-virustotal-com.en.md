@@ -4,6 +4,7 @@ date: 2010-03-02T00:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/not-the-real-virustotal-com/
+shortlink: https://g.omid.dev/1Le32vs
 tags:
   - alert
   - Malware

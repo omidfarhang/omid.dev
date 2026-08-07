@@ -4,6 +4,7 @@ date: 2010-12-15T12:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/15/the-top-50-passwords-you-should-never-use/
+shortlink: https://g.omid.dev/k3J9i4X
 tags:
   - Security
   - Password

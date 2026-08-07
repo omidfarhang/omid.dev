@@ -4,6 +4,7 @@ date: 2010-04-15T12:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/15/droid-incredible-hits-verizon-on-april-29/
+shortlink: https://g.omid.dev/1WmrqvE
 tags:
   - Android
   - droid

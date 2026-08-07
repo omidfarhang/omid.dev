@@ -4,6 +4,7 @@ date: 2010-03-22T10:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/please-give-me-your-credit-card/
+shortlink: https://g.omid.dev/1QCyyjN
 tags:
   - Instant Messaging
   - Phishing

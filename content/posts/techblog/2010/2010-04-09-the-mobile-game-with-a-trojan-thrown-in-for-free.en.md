@@ -4,6 +4,7 @@ date: 2010-04-09T16:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/the-mobile-game-with-a-trojan-thrown-in-for-free/
+shortlink: https://g.omid.dev/1QQ1bd8
 tags:
   - Malware
   - Mobile

@@ -4,6 +4,7 @@ date: 2011-08-31T18:03:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/31/using-gmail-calendar-and-docs-without-an-internet-connection/
+shortlink: https://g.omid.dev/1Y0aZWT
 tags:
   - Announcement
   - Gmail

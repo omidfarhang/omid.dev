@@ -4,6 +4,7 @@ date: 2012-06-10T16:16:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/10/i-dont-want-to-hear-about-flowers-i-like-death-and-destruction/
+shortlink: https://g.omid.dev/1TXFj5o
 tags:
   - My Life
 

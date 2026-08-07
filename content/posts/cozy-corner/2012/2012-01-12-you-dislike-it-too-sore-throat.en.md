@@ -4,6 +4,7 @@ date: 2012-01-12T17:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/12/you-dislike-it-too-sore-throat/
+shortlink: https://g.omid.dev/1W0a5Zc
 tags:
   - My Life
 

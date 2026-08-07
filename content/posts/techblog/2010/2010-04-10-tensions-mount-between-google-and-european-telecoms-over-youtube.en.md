@@ -4,6 +4,7 @@ date: 2010-04-10T10:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/10/tensions-mount-between-google-and-european-telecoms-over-youtube/
+shortlink: https://g.omid.dev/1QTUS7B
 tags:
   - Google
   - News

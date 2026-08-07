@@ -4,6 +4,7 @@ date: 2010-04-09T16:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/new-sex-and-the-city-2-trailer-hits-the-web/
+shortlink: https://g.omid.dev/QGMxFGI
 tags:
   - movie trailers
   - Video

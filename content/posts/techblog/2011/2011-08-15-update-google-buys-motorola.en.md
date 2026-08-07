@@ -4,6 +4,7 @@ date: 2011-08-15T21:53:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/15/update-google-buys-motorola/
+shortlink: https://g.omid.dev/1Y7GQVO
 tags:
   - business
   - follow up

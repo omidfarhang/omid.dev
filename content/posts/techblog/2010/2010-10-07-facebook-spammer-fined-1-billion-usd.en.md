@@ -4,6 +4,7 @@ date: 2010-10-07T14:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/07/facebook-spammer-fined-1-billion-usd/
+shortlink: https://g.omid.dev/1oXs5ZV
 tags:
   - Facebook
   - Phishing

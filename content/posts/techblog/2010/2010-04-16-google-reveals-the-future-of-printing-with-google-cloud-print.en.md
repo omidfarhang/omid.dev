@@ -4,6 +4,7 @@ date: 2010-04-16T13:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/16/google-reveals-the-future-of-printing-with-google-cloud-print/
+shortlink: https://g.omid.dev/1pYoOtq
 tags:
   - Cloud
   - Google

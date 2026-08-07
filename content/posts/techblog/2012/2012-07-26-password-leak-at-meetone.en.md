@@ -4,6 +4,7 @@ date: 2012-07-26T14:21:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/26/password-leak-at-meetone/
+shortlink: https://g.omid.dev/1T3noKo
 tags:
   - hack
   - leak

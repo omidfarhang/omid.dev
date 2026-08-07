@@ -4,6 +4,7 @@ date: 2010-03-25T10:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/google-made-in-china/
+shortlink: https://g.omid.dev/1Y7GO06
 tags:
   - Google
   - Interesting

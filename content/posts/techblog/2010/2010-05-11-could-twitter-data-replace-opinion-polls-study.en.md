@@ -4,6 +4,7 @@ date: 2010-05-11T21:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/could-twitter-data-replace-opinion-polls-study/
+shortlink: https://g.omid.dev/1TVqXTg
 tags:
   - poll
   - study

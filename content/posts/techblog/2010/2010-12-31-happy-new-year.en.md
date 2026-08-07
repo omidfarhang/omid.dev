@@ -4,6 +4,7 @@ date: 2010-12-31T12:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/31/happy-new-year/
+shortlink: https://g.omid.dev/1LmYrqy
 tags:
   - This Blog Update
 

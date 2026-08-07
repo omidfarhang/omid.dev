@@ -4,6 +4,7 @@ date: 2010-11-03T22:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/microsoft-allows-checking-gmail-through-hotmail/
+shortlink: https://g.omid.dev/25i1gCE
 tags:
   - Gmail
   - Hotmail

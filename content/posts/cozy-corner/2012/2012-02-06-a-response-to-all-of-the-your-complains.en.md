@@ -4,6 +4,7 @@ date: 2012-02-06T21:43:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/06/a-response-to-all-of-the-your-complains/
+shortlink: https://g.omid.dev/1VLvd5t
 tags:
   - My Life
 

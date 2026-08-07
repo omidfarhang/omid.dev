@@ -4,6 +4,7 @@ date: 2010-05-19T20:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/google-announces-open-app-store-for-installable-web-apps/
+shortlink: https://g.omid.dev/1qwkRN4
 tags:
   - Announcement
   - Google

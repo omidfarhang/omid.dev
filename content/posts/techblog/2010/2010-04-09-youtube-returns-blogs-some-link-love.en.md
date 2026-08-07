@@ -4,6 +4,7 @@ date: 2010-04-09T18:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/youtube-returns-blogs-some-link-love/
+shortlink: https://g.omid.dev/1n6e1LW
 tags:
   - BLOGS
   - Google

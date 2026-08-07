@@ -4,6 +4,7 @@ date: 2011-10-20T22:23:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/20/duqu-son-of-stuxnet/
+shortlink: https://g.omid.dev/1LmOfP5
 tags:
   - alert
   - Duqu

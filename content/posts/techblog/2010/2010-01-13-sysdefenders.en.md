@@ -4,6 +4,7 @@ date: 2010-01-13T12:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/sysdefenders/
+shortlink: https://g.omid.dev/1RygJER
 tags:
   - Malware
   - rogue software

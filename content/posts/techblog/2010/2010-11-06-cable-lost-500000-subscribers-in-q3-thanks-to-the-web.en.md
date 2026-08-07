@@ -4,6 +4,7 @@ date: 2010-11-06T18:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/cable-lost-500000-subscribers-in-q3-thanks-to-the-web/
+shortlink: https://g.omid.dev/1n5Ad8Q
 tags:
   - cable
   - internet

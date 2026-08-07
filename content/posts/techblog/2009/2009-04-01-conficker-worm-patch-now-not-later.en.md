@@ -5,6 +5,7 @@ description: The Conficker worm exploited unpatched Windows systems in 2009. A p
 layout: single
 author_profile: true
 url: 2009/04/01/conficker-worm-patch-now-not-later/
+shortlink: https://g.omid.dev/XK96f2D
 tags:
   - Conficker
   - Security

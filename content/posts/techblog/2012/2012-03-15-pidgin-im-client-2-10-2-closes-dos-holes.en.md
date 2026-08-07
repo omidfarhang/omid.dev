@@ -4,6 +4,7 @@ date: 2012-03-15T20:50:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/15/pidgin-im-client-2-10-2-closes-dos-holes/
+shortlink: https://g.omid.dev/1LmMq4t
 tags:
   - Messenger
   - Security

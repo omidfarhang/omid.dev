@@ -4,6 +4,7 @@ date: 2011-08-31T20:51:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/31/panda-cloud-antivirus-makes-firewall-social/
+shortlink: https://g.omid.dev/1WcCQlm
 tags:
   - Beta
   - Cloud

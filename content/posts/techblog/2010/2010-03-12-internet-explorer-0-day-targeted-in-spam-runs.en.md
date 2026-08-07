@@ -4,6 +4,7 @@ date: 2010-03-12T14:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/internet-explorer-0-day-targeted-in-spam-runs/
+shortlink: https://g.omid.dev/25Q2yll
 tags:
   - 0-Day
   - Internet Explorer

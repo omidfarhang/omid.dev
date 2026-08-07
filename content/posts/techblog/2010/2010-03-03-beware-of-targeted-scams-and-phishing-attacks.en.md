@@ -4,6 +4,7 @@ date: 2010-03-03T12:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/03/beware-of-targeted-scams-and-phishing-attacks/
+shortlink: https://g.omid.dev/1RUPpxz
 tags:
   - advice
   - report

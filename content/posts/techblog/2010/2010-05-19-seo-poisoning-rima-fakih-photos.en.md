@@ -4,6 +4,7 @@ date: 2010-05-19T20:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/seo-poisoning-rima-fakih-photos/
+shortlink: https://g.omid.dev/1LmY4w8
 tags:
   - advice
   - alert

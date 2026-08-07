@@ -4,6 +4,7 @@ date: 2010-10-19T18:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/first-360-video-on-youtube-ever/
+shortlink: https://g.omid.dev/1TVqTTs
 tags:
   - link
   - Video

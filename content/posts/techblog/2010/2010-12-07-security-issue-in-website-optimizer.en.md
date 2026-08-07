@@ -4,6 +4,7 @@ date: 2010-12-07T12:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/security-issue-in-website-optimizer/
+shortlink: https://g.omid.dev/1Y7HDpM
 tags:
   - Google
   - Google website optimizer

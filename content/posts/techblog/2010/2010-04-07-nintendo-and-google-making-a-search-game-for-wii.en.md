@@ -4,6 +4,7 @@ date: 2010-04-07T22:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/nintendo-and-google-making-a-search-game-for-wii/
+shortlink: https://g.omid.dev/1Lq4wDb
 tags:
   - Gaming
   - Google

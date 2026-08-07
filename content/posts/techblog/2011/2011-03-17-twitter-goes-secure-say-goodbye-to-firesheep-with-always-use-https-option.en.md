@@ -4,6 +4,7 @@ date: 2011-03-17T22:30:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/17/twitter-goes-secure-say-goodbye-to-firesheep-with-always-use-https-option/
+shortlink: https://g.omid.dev/1LcB7w5
 tags:
   - Security
   - Twitter

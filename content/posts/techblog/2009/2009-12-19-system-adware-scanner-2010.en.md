@@ -4,6 +4,7 @@ date: 2009-12-19T21:46:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/19/system-adware-scanner-2010/
+shortlink: https://g.omid.dev/1R2acVT
 tags:
   - rogue software
   - scam

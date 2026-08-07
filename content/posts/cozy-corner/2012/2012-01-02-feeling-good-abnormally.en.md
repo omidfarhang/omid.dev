@@ -4,6 +4,7 @@ date: 2012-01-02T20:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/02/feeling-good-abnormally/
+shortlink: https://g.omid.dev/1XT080O
 tags:
   - My Life
 

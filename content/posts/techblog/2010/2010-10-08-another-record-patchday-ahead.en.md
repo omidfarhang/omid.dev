@@ -4,6 +4,7 @@ date: 2010-10-08T22:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/08/another-record-patchday-ahead/
+shortlink: https://g.omid.dev/24PAezS
 tags:
   - Microsoft
   - News

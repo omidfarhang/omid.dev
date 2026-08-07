@@ -5,6 +5,7 @@ description: A practical look at Visual Basic 6 for quick Windows utilities, int
 layout: single
 author_profile: true
 url: 2004/03/14/building-small-utilities-with-visual-basic-6/
+shortlink: https://g.omid.dev/H2aQBw6
 tags:
   - Visual Basic
   - Windows

@@ -4,6 +4,7 @@ date: 2010-04-14T23:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/t-mobile-after-kin-sidekick-lives-on-life-support/
+shortlink: https://g.omid.dev/1Y7HKBs
 tags:
   - Microsoft
   - T-Mobile

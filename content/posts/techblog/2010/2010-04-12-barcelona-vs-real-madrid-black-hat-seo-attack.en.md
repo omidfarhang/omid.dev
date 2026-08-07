@@ -4,6 +4,7 @@ date: 2010-04-12T20:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/barcelona-vs-real-madrid-black-hat-seo-attack/
+shortlink: https://g.omid.dev/1Y7GWwz
 tags:
   - advice
   - alert

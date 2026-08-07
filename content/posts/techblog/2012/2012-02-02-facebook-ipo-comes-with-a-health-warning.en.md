@@ -4,6 +4,7 @@ date: 2012-02-02T12:40:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/02/facebook-ipo-comes-with-a-health-warning/
+shortlink: https://g.omid.dev/1nDaZPB
 tags:
   - advice
   - alert

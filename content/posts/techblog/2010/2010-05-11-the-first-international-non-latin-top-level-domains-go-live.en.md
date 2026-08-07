@@ -4,6 +4,7 @@ date: 2010-05-11T16:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/the-first-international-non-latin-top-level-domains-go-live/
+shortlink: https://g.omid.dev/1pExAww
 tags:
   - News
 

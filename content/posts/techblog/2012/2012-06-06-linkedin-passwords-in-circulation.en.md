@@ -4,6 +4,7 @@ date: 2012-06-06T16:42:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/06/linkedin-passwords-in-circulation/
+shortlink: https://g.omid.dev/1SazwYO
 tags:
   - advice
   - alert

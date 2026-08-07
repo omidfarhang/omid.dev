@@ -4,6 +4,7 @@ date: 2010-01-16T00:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/16/haiti-earthquake-another-rogue-rides-the-news/
+shortlink: https://g.omid.dev/1Sal9UB
 tags:
   - alert
   - Phishing

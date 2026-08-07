@@ -4,6 +4,7 @@ date: 2010-04-17T20:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/iceland-volcano-satellite-image-shows-massive-ash-cloud/
+shortlink: https://g.omid.dev/1Qobtky
 tags:
   - Eyjafjallajokull
   - Iceland

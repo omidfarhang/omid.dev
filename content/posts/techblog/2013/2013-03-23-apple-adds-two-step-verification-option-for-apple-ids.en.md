@@ -4,6 +4,7 @@ date: 2013-03-23T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/23/apple-adds-two-step-verification-option-for-apple-ids/
+shortlink: https://g.omid.dev/1W7Hxgo
 image: /images/2013/03/apple-two-step8.png
 tags:
   - Announcement

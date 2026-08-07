@@ -4,6 +4,7 @@ date: 2010-02-07T18:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/07/major-u-s-crackdown-on-work-at-home-fraud-coming/
+shortlink: https://g.omid.dev/1RZVv2I
 tags:
   - Phishing
   - scam

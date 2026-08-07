@@ -4,6 +4,7 @@ date: 2012-05-17T15:21:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/17/quicktime-for-windows-update-plugs-security-holes/
+shortlink: https://g.omid.dev/1WRIw4p
 tags:
   - Apple
   - QuickTime

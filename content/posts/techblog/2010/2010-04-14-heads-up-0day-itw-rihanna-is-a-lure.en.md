@@ -4,6 +4,7 @@ date: 2010-04-14T18:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/heads-up-0day-itw-rihanna-is-a-lure/
+shortlink: https://g.omid.dev/1VPGrpw
 tags:
   - 0-Day
   - advice

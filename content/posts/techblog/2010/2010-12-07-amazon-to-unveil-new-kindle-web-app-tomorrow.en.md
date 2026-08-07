@@ -4,6 +4,7 @@ date: 2010-12-07T15:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/amazon-to-unveil-new-kindle-web-app-tomorrow/
+shortlink: https://g.omid.dev/1n5EFEs
 tags:
   - Amazon
   - Hardware

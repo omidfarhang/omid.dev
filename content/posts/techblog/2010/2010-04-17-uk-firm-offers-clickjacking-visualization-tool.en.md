@@ -4,6 +4,7 @@ date: 2010-04-17T21:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/uk-firm-offers-clickjacking-visualization-tool/
+shortlink: https://g.omid.dev/1LmMZLR
 tags:
   - News
   - report

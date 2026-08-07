@@ -4,6 +4,7 @@ date: 2010-05-03T19:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/another-call-to-avoid-admin-privileges/
+shortlink: https://g.omid.dev/1TVqNew
 tags:
   - advice
   - report

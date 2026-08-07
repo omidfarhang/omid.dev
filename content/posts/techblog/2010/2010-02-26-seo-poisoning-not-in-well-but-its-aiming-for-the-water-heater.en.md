@@ -4,6 +4,7 @@ date: 2010-02-26T21:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/26/seo-poisoning-not-in-well-but-its-aiming-for-the-water-heater/
+shortlink: https://g.omid.dev/1WRItFJ
 tags:
   - Malware
   - Phishing

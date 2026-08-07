@@ -4,6 +4,7 @@ date: 2010-10-21T15:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/facebook-disconnect-a-chrome-extension-that-puts-facebook-in-its-place/
+shortlink: https://g.omid.dev/1SxAsa7
 tags:
   - Extension
   - Facebook

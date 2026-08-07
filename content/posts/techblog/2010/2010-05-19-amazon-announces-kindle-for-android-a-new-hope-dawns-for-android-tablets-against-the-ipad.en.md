@@ -4,6 +4,7 @@ date: 2010-05-19T14:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/amazon-announces-kindle-for-android-a-new-hope-dawns-for-android-tablets-against-the-ipad/
+shortlink: https://g.omid.dev/1QZXm5l
 tags:
   - Amazon
   - Android

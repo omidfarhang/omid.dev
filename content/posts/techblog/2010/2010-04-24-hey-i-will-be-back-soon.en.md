@@ -4,6 +4,7 @@ date: 2010-04-24T20:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/24/hey-i-will-be-back-soon/
+shortlink: https://g.omid.dev/1QdMbrr
 tags:
   - This Blog Update
 

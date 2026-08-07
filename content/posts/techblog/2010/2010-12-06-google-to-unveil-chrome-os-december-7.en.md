@@ -4,6 +4,7 @@ date: 2010-12-06T20:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/google-to-unveil-chrome-os-december-7/
+shortlink: https://g.omid.dev/21Ri9PA
 tags:
   - Announcement
   - Google

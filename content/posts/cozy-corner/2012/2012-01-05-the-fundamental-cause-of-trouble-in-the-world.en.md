@@ -4,6 +4,7 @@ date: 2012-01-05T20:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/05/the-fundamental-cause-of-trouble-in-the-world/
+shortlink: https://g.omid.dev/1TXFm0Q
 tags:
   - quote
 

@@ -4,6 +4,7 @@ date: 2010-02-12T22:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/facebook-chat-is-now-accessible-on-popular-instant-messaging-clients/
+shortlink: https://g.omid.dev/1QCyy36
 tags:
   - Facebook
   - News

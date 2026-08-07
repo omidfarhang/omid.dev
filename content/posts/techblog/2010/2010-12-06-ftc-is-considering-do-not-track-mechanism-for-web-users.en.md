@@ -4,6 +4,7 @@ date: 2010-12-06T21:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/ftc-is-considering-do-not-track-mechanism-for-web-users/
+shortlink: https://g.omid.dev/21UYCxu
 tags:
   - FTC
   - News

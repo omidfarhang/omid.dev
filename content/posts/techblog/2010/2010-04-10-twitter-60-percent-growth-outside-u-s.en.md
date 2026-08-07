@@ -4,6 +4,7 @@ date: 2010-04-10T10:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/10/twitter-60-percent-growth-outside-u-s/
+shortlink: https://g.omid.dev/1TVqzEe
 tags:
   - report
   - Social Media

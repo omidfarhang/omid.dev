@@ -4,6 +4,7 @@ date: 2010-05-04T14:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/notetaking-tool-evernote-reaches-3-million-user-mark/
+shortlink: https://g.omid.dev/1LcAl25
 tags:
   - Evernote
   - Apple

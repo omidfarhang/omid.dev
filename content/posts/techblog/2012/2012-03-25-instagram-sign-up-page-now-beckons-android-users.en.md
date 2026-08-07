@@ -4,6 +4,7 @@ date: 2012-03-25T20:25:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/25/instagram-sign-up-page-now-beckons-android-users/
+shortlink: https://g.omid.dev/24Lc6ys
 tags:
   - Android
   - Announcement

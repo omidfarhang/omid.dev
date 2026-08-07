@@ -4,6 +4,7 @@ date: 2010-04-09T17:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/apple-reinvents-multitasking-for-the-iphone/
+shortlink: https://g.omid.dev/1MiTqQi
 tags:
   - Android
   - Apple

@@ -4,6 +4,7 @@ date: 2011-03-15T09:23:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/15/critical-adobe-flaw-without-patch/
+shortlink: https://g.omid.dev/1WRIvNN
 tags:
   - Adobe
   - Vulnerability

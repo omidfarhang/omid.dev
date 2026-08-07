@@ -4,6 +4,7 @@ date: 2010-01-06T23:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/how-to-rescue-files-encrypted-by-data-doctor-2010/
+shortlink: https://g.omid.dev/1Y7HdzJ
 tags:
   - Phishing
   - rogue software

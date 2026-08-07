@@ -4,6 +4,7 @@ date: 2011-08-13T15:34:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/13/google-apps-highlights-8122011/
+shortlink: https://g.omid.dev/24PzSt5
 tags:
   - Announcement
   - Gmail

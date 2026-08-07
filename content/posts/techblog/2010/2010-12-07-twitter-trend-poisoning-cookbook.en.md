@@ -4,6 +4,7 @@ date: 2010-12-07T13:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/twitter-trend-poisoning-cookbook/
+shortlink: https://g.omid.dev/1Sb0TlM
 tags:
   - report
   - review

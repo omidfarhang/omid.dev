@@ -4,6 +4,7 @@ date: 2010-12-07T15:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/after-more-than-24-hours-offline-tumblr-is-back/
+shortlink: https://g.omid.dev/1RewLko
 tags:
   - Blogging
   - report

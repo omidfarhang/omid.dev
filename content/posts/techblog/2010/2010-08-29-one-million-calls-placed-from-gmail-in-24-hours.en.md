@@ -4,6 +4,7 @@ date: 2010-08-29T23:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/29/one-million-calls-placed-from-gmail-in-24-hours/
+shortlink: https://g.omid.dev/212Rixx
 tags:
   - Gmail
   - Google

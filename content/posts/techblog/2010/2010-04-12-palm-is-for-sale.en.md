@@ -4,6 +4,7 @@ date: 2010-04-12T18:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/palm-is-for-sale/
+shortlink: https://g.omid.dev/21ee3yP
 tags:
   - business
   - HTC

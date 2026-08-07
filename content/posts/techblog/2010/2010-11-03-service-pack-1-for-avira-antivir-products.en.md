@@ -4,6 +4,7 @@ date: 2010-11-03T17:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/service-pack-1-for-avira-antivir-products/
+shortlink: https://g.omid.dev/1pYoPxx
 tags:
   - Avira
   - software

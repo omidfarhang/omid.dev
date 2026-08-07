@@ -4,6 +4,7 @@ date: 2012-02-23T17:11:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/23/twilight-authors-official-website-attacked/
+shortlink: https://g.omid.dev/1YfFGaN
 tags:
   - hack
   - report

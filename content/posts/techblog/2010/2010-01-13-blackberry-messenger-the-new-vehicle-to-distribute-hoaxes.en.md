@@ -4,6 +4,7 @@ date: 2010-01-13T11:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/blackberry-messenger-the-new-vehicle-to-distribute-hoaxes/
+shortlink: https://g.omid.dev/1Y7Hanm
 tags:
   - alert
   - BlackBerry

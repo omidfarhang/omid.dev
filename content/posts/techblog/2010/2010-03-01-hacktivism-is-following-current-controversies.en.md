@@ -4,6 +4,7 @@ date: 2010-03-01T23:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/hacktivism-is-following-current-controversies/
+shortlink: https://g.omid.dev/1pmew64
 tags:
   - News
   - report

@@ -4,6 +4,7 @@ date: 2010-11-24T15:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/24/christmas-tree-app-virus-hoax-spreads-on-facebook/
+shortlink: https://g.omid.dev/25toCD2
 tags:
   - Facebook
   - hoax

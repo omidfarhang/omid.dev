@@ -4,6 +4,7 @@ date: 2013-05-10T23:08:35+00:00
 layout: single
 author_profile: true
 url: 2013/05/10/slayer-star-jeff-hanneman-died-of-alcohol-related-liver-scarring/
+shortlink: https://g.omid.dev/1QOK54R
 tags:
   - Slayer
   - Music

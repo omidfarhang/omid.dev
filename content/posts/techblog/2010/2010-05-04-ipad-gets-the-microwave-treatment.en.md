@@ -4,6 +4,7 @@ date: 2010-05-04T12:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/ipad-gets-the-microwave-treatment/
+shortlink: https://g.omid.dev/1TVqH6T
 tags:
   - Apple
   - Microwave

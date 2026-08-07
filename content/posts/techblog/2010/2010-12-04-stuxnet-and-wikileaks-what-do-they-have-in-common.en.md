@@ -4,6 +4,7 @@ date: 2010-12-04T21:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/04/stuxnet-and-wikileaks-what-do-they-have-in-common/
+shortlink: https://g.omid.dev/1Ry6ctk
 tags:
   - advice
   - privacy

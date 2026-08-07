@@ -4,6 +4,7 @@ date: 2012-03-31T20:58:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/31/mastercard-and-visa-payment-processor-compromised-up-to-10-million-cards-stolen/
+shortlink: https://g.omid.dev/1VLuKAa
 tags:
   - credit cards
   - hack

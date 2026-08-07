@@ -4,6 +4,7 @@ date: 2012-02-08T18:13:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/08/onenote-mobile-for-android-is-now-available-worldwide/
+shortlink: https://g.omid.dev/1RgW4Cb
 tags:
   - Android
   - Announcement

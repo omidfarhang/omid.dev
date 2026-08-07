@@ -4,6 +4,7 @@ date: 2011-09-01T17:09:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/german-censors-approve-new-action-game/
+shortlink: https://g.omid.dev/1TVqtMU
 tags:
   - Gaming
   - Germany

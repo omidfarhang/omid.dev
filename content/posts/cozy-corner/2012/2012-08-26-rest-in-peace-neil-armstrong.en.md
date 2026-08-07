@@ -4,6 +4,7 @@ date: 2012-08-26T20:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/26/rest-in-peace-neil-armstrong/
+shortlink: https://g.omid.dev/1T9bxui
 tags:
   - events
 

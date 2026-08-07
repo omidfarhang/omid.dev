@@ -4,6 +4,7 @@ date: 2010-10-22T19:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/electronic-car-lock-denial-of-service-attack/
+shortlink: https://g.omid.dev/1QCyzEf
 tags:
   - report
   - review

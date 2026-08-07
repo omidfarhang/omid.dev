@@ -4,6 +4,7 @@ date: 2009-12-21T22:44:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/21/brittany-murphy-seo/
+shortlink: https://g.omid.dev/1L2fuyo
 tags:
   - Phishing
   - rogue software

@@ -4,6 +4,7 @@ date: 2011-03-01T12:18:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/01/many-gmail-users-cant-find-their-messages/
+shortlink: https://g.omid.dev/1Y4gXGq
 tags:
   - Gmail
   - Google

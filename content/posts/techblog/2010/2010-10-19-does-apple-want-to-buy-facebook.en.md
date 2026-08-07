@@ -4,6 +4,7 @@ date: 2010-10-19T20:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/does-apple-want-to-buy-facebook/
+shortlink: https://g.omid.dev/1SltBjt
 tags:
   - Apple
   - Facebook

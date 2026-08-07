@@ -4,6 +4,7 @@ date: 2012-02-12T18:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/12/hacker-claims-to-have-compromised-intel/
+shortlink: https://g.omid.dev/1Y7H8fd
 tags:
   - hack
   - intel

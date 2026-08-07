@@ -4,6 +4,7 @@ date: 2012-04-23T19:21:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/23/adobe-creative-suite-6-takes-to-the-cloud/
+shortlink: https://g.omid.dev/1pgS51T
 tags:
   - Adobe
   - review

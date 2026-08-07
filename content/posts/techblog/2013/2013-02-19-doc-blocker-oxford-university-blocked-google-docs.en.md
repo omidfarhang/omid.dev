@@ -4,6 +4,7 @@ date: 2013-02-19T20:42:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/19/doc-blocker-oxford-university-blocked-google-docs/
+shortlink: https://g.omid.dev/1WRIsBL
 tags:
   - Google
   - Google Docs

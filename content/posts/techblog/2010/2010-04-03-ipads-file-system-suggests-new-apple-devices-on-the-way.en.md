@@ -4,6 +4,7 @@ date: 2010-04-03T20:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/ipads-file-system-suggests-new-apple-devices-on-the-way/
+shortlink: https://g.omid.dev/1pEa2YK
 tags:
   - Apple
   - News

@@ -4,6 +4,7 @@ date: 2010-09-30T22:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/30/stuxnet-in-the-news/
+shortlink: https://g.omid.dev/1WRItWb
 tags:
   - Iran
   - Malware

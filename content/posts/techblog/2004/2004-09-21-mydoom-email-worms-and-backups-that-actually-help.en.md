@@ -5,6 +5,7 @@ description: The Mydoom era reminded everyone that email worms spread fast. Here
 layout: single
 author_profile: true
 url: 2004/09/21/mydoom-email-worms-and-backups-that-actually-help/
+shortlink: https://g.omid.dev/1xayCVx
 tags:
   - Security
   - Malware

@@ -4,6 +4,7 @@ date: 2012-02-12T18:22:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/12/microsoft-to-send-users-4-critical-patches-on-valentines-day/
+shortlink: https://g.omid.dev/1QEBzPB
 tags:
   - link
   - Microsoft

@@ -4,6 +4,7 @@ date: 2009-12-29T13:17:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/29/facebook-and-twitter-security-and-how-to-stay-safe/
+shortlink: https://g.omid.dev/1SbYKWN
 tags:
   - alert
   - Facebook

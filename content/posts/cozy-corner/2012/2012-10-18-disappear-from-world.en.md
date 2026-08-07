@@ -4,6 +4,7 @@ date: 2012-10-18T23:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/10/18/disappear-from-world/
+shortlink: https://g.omid.dev/21PNWQU
 tags:
   - My Life
 

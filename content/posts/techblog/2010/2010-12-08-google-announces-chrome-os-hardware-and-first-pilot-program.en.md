@@ -4,6 +4,7 @@ date: 2010-12-08T00:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/google-announces-chrome-os-hardware-and-first-pilot-program/
+shortlink: https://g.omid.dev/1pm2pWE
 tags:
   - Google
   - Google Chrome

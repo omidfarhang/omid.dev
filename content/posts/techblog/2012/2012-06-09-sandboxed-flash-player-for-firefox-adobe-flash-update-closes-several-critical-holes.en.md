@@ -4,6 +4,7 @@ date: 2012-06-09T12:53:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/09/sandboxed-flash-player-for-firefox-adobe-flash-update-closes-several-critical-holes/
+shortlink: https://g.omid.dev/1KWqu04
 tags:
   - Adobe
   - flash player

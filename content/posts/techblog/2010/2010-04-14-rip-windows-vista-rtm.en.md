@@ -4,6 +4,7 @@ date: 2010-04-14T23:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/rip-windows-vista-rtm/
+shortlink: https://g.omid.dev/1RKtMk4
 tags:
   - Fun
   - Interesting

@@ -4,6 +4,7 @@ date: 2013-02-16T13:11:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/16/dropbox-makes-pdf-viewing-less-painful-adds-push-notifications-for-shared-folders/
+shortlink: https://g.omid.dev/1M0VUO2
 tags:
   - Android
   - Announcement

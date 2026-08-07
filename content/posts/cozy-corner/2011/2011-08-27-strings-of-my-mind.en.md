@@ -4,6 +4,7 @@ date: 2011-08-27T22:08:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/27/strings-of-my-mind/
+shortlink: https://g.omid.dev/1Sq1Fv8
 tags:
   - My Life
 

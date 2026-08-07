@@ -4,6 +4,7 @@ date: 2010-03-11T12:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/11/stars-make-search-more-personal/
+shortlink: https://g.omid.dev/21CDj3D
 tags:
   - Google
   - News

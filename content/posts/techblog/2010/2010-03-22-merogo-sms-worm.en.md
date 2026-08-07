@@ -4,6 +4,7 @@ date: 2010-03-22T16:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/merogo-sms-worm/
+shortlink: https://g.omid.dev/1Xqd7GY
 tags:
   - Malware
   - Mobile

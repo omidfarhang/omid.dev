@@ -4,6 +4,7 @@ date: 2010-12-15T16:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/15/17-security-updates-on-ms-patchday/
+shortlink: https://g.omid.dev/1Vp8IGs
 tags:
   - Internet Explorer
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-04-02T22:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/02/eliminate-two-thirds-of-comp-security-risk/
+shortlink: https://g.omid.dev/1UAopsV
 tags:
   - advice
   - report

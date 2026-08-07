@@ -4,6 +4,7 @@ date: 2010-01-22T20:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/404-error-message-spoof/
+shortlink: https://g.omid.dev/24PzWcb
 tags:
   - alert
   - News

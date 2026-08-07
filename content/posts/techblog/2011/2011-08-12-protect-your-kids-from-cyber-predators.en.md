@@ -4,6 +4,7 @@ date: 2011-08-12T09:44:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/12/protect-your-kids-from-cyber-predators/
+shortlink: https://g.omid.dev/28US4vt
 tags:
   - advice
   - Security

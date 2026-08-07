@@ -4,6 +4,7 @@ date: 2010-12-01T14:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/01/paypals-advise-use-your-bank-account-for-your-paypal-payments-really/
+shortlink: https://g.omid.dev/1TygRHM
 tags:
   - advice
   - PayPal

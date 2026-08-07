@@ -4,6 +4,7 @@ date: 2010-11-21T19:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/21/wanted-more-than-2000-in-google-hiring-spree/
+shortlink: https://g.omid.dev/1WRItpf
 tags:
   - Google
   - google job

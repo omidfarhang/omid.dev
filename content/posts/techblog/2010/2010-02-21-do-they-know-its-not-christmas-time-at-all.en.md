@@ -4,6 +4,7 @@ date: 2010-02-21T16:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/do-they-know-its-not-christmas-time-at-all/
+shortlink: https://g.omid.dev/1Sq2Hrc
 tags:
   - Malware
   - Phishing

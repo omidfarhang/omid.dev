@@ -4,6 +4,7 @@ date: 2010-02-05T23:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/05/phishing-scam-steals-carbon-credits/
+shortlink: https://g.omid.dev/1SBFEW7
 tags:
   - Phishing
   - report

@@ -4,6 +4,7 @@ date: 2011-08-10T15:46:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/10/half-of-corporate-adobe-reader-users-run-outdated-versions/
+shortlink: https://g.omid.dev/1LUZPMi
 tags:
   - Adobe
   - Browsers

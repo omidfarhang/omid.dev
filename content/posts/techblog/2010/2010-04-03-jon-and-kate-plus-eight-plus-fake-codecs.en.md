@@ -4,6 +4,7 @@ date: 2010-04-03T16:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/jon-and-kate-plus-eight-plus-fake-codecs/
+shortlink: https://g.omid.dev/1SDqa6f
 tags:
   - advice
   - alert

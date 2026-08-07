@@ -4,6 +4,7 @@ date: 2010-10-16T21:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/gmail-auto-unsubscribe-search/
+shortlink: https://g.omid.dev/1SavaB1
 tags:
   - Gmail
   - gmail labs

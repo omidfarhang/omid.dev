@@ -4,6 +4,7 @@ date: 2010-04-02T21:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/02/facebook-scam-targets-whole-foods-shoppers/
+shortlink: https://g.omid.dev/1QCyEb2
 tags:
   - alert
   - Facebook

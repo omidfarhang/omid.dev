@@ -4,6 +4,7 @@ date: 2010-10-17T08:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/17/first-firmware-for-nokia-c7-v12-003-released/
+shortlink: https://g.omid.dev/1WmqlnB
 tags:
   - Mobile
   - Updates

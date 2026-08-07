@@ -4,6 +4,7 @@ date: 2010-04-14T18:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/twitter-has-105-million-registered-users/
+shortlink: https://g.omid.dev/1n5Cnp4
 tags:
   - News
   - report

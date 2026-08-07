@@ -4,6 +4,7 @@ date: 2011-04-27T13:45:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/27/avira-receives-av-test-org-certificate/
+shortlink: https://g.omid.dev/1Y7Hfra
 tags:
   - Avira
   - awards

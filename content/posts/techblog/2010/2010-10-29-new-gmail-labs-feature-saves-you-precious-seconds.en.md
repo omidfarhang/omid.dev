@@ -4,6 +4,7 @@ date: 2010-10-29T12:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/new-gmail-labs-feature-saves-you-precious-seconds/
+shortlink: https://g.omid.dev/229PDfI
 tags:
   - Gmail
   - gmail labs

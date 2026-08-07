@@ -4,6 +4,7 @@ date: 2012-02-07T14:10:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/07/realplayer-update-closes-critical-holes/
+shortlink: https://g.omid.dev/212VQE5
 tags:
   - RealPlayer
   - Security

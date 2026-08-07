@@ -4,6 +4,7 @@ date: 2010-03-07T00:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/07/steer-clear-of-fake-fbi-fingerprint-scanner/
+shortlink: https://g.omid.dev/28JuLo1
 tags:
   - Malware
   - review

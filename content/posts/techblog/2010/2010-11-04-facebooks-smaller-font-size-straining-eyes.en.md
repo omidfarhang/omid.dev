@@ -4,6 +4,7 @@ date: 2010-11-04T00:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/04/facebooks-smaller-font-size-straining-eyes/
+shortlink: https://g.omid.dev/1VZvphi
 tags:
   - Facebook
   - News

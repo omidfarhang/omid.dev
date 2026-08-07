@@ -4,6 +4,7 @@ date: 2010-05-11T13:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/microsofts-project-natal-to-launch-in-october/
+shortlink: https://g.omid.dev/1LAUkHX
 tags:
   - Gaming
   - Microsoft

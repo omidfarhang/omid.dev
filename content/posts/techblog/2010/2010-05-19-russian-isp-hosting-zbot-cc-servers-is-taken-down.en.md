@@ -4,6 +4,7 @@ date: 2010-05-19T20:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/russian-isp-hosting-zbot-cc-servers-is-taken-down/
+shortlink: https://g.omid.dev/1RpljbS
 tags:
   - Malware
   - News

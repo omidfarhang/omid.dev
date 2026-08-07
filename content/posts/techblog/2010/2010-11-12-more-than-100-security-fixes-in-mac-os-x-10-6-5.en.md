@@ -4,6 +4,7 @@ date: 2010-11-12T13:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/more-than-100-security-fixes-in-mac-os-x-10-6-5/
+shortlink: https://g.omid.dev/1TVqFf7
 tags:
   - Apple
   - Mac OS X

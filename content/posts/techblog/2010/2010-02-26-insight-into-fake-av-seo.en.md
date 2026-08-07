@@ -4,6 +4,7 @@ date: 2010-02-26T20:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/26/insight-into-fake-av-seo/
+shortlink: https://g.omid.dev/1naInwE
 tags:
   - advice
   - alert

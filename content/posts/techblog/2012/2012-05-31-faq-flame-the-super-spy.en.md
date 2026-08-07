@@ -4,6 +4,7 @@ date: 2012-05-31T12:51:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/31/faq-flame-the-super-spy/
+shortlink: https://g.omid.dev/21qCAGc
 tags:
   - Flame
   - Malware

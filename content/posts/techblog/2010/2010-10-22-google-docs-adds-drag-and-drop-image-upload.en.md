@@ -4,6 +4,7 @@ date: 2010-10-22T20:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/google-docs-adds-drag-and-drop-image-upload/
+shortlink: https://g.omid.dev/1T1cDCW
 tags:
   - Announcement
   - Google

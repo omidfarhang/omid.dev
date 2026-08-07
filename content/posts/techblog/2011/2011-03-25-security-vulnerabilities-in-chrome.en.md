@@ -4,6 +4,7 @@ date: 2011-03-25T21:37:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/25/security-vulnerabilities-in-chrome/
+shortlink: https://g.omid.dev/1QkMFgM
 tags:
   - Google
   - Google Chrome

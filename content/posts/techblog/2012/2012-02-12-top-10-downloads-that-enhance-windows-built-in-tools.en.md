@@ -4,6 +4,7 @@ date: 2012-02-12T18:12:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/12/top-10-downloads-that-enhance-windows-built-in-tools/
+shortlink: https://g.omid.dev/1Y7H6nG
 tags:
   - link
   - suggestion

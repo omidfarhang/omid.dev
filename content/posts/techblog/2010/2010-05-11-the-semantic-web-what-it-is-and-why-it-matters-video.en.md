@@ -4,6 +4,7 @@ date: 2010-05-11T14:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/the-semantic-web-what-it-is-and-why-it-matters-video/
+shortlink: https://g.omid.dev/1RyePnq
 tags:
   - Documentary
   - Film

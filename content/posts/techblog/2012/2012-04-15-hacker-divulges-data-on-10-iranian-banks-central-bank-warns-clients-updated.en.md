@@ -4,6 +4,7 @@ date: 2012-04-15T17:21:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/15/hacker-divulges-data-on-10-iranian-banks-central-bank-warns-clients-updated/
+shortlink: https://g.omid.dev/1RuPAAA
 tags:
   - business
   - hack

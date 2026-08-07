@@ -4,6 +4,7 @@ date: 2011-08-25T10:38:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/25/microsoft-to-improve-file-management-processes-in-windows-8/
+shortlink: https://g.omid.dev/1Y7Hd2y
 tags:
   - Announcement
   - Beta

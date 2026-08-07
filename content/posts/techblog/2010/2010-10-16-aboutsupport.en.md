@@ -4,6 +4,7 @@ date: 2010-10-16T21:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/aboutsupport/
+shortlink: https://g.omid.dev/1Y7HkeC
 tags:
   - Announcement
   - Firefox

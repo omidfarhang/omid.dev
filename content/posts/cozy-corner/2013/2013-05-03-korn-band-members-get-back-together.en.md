@@ -4,6 +4,7 @@ date: 2013-05-03T14:23:35+00:00
 layout: single
 author_profile: true
 url: 2013/05/03/korn-band-members-get-back-together/
+shortlink: https://g.omid.dev/1T9ymOn
 tags:
   - Korn
   - Music

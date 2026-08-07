@@ -4,6 +4,7 @@ date: 2010-11-07T11:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/07/google-bars-data-from-facebook-as-rivalry-heats-up/
+shortlink: https://g.omid.dev/1QyKE0L
 tags:
   - Facebook
   - Privacy

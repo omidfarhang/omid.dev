@@ -4,6 +4,7 @@ date: 2011-03-23T08:32:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/23/data-loss-at-play-com/
+shortlink: https://g.omid.dev/1nqrUEO
 tags:
   - advice
   - hack

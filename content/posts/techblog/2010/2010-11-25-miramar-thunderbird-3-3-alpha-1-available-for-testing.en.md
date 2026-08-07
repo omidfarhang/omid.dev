@@ -4,6 +4,7 @@ date: 2010-11-25T20:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/25/miramar-thunderbird-3-3-alpha-1-available-for-testing/
+shortlink: https://g.omid.dev/1Y7Hlio
 tags:
   - Announcement
   - Mozilla

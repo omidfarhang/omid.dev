@@ -4,6 +4,7 @@ date: 2010-10-22T00:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/chromeless-build-your-own-browser-ui-using-html-css-and-js/
+shortlink: https://g.omid.dev/1ZAojBz
 tags:
   - Announcement
   - Mozilla

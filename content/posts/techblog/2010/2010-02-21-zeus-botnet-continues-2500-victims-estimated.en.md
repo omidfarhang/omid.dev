@@ -4,6 +4,7 @@ date: 2010-02-21T20:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/zeus-botnet-continues-2500-victims-estimated/
+shortlink: https://g.omid.dev/1QnLNoc
 tags:
   - alert
   - Malware

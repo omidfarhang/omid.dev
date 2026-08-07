@@ -4,6 +4,7 @@ date: 2010-03-25T23:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/google-denies-youtube-outage-speculation/
+shortlink: https://g.omid.dev/1QrbOmC
 tags:
   - Google
   - News

@@ -4,6 +4,7 @@ date: 2010-05-11T14:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/showtime-subscribers-might-get-online-tv-service/
+shortlink: https://g.omid.dev/24PzTgF
 tags:
   - cable
   - on-demand

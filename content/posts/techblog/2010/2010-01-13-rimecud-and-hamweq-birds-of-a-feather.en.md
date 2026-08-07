@@ -4,6 +4,7 @@ date: 2010-01-13T12:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/rimecud-and-hamweq-birds-of-a-feather/
+shortlink: https://g.omid.dev/24PzQBk
 tags:
   - alert
   - Malware

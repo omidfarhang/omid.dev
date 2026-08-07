@@ -4,6 +4,7 @@ date: 2010-10-21T21:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/google-broadband-gets-its-first-trial/
+shortlink: https://g.omid.dev/1Yrf32I
 tags:
   - broadband
   - Google

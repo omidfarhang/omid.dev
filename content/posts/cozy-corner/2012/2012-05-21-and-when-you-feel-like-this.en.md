@@ -4,6 +4,7 @@ date: 2012-05-21T13:24:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/21/and-when-you-feel-like-this/
+shortlink: https://g.omid.dev/1VLyod6
 tags:
   - Video
 

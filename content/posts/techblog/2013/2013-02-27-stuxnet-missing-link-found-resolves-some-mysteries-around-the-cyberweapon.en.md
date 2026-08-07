@@ -4,6 +4,7 @@ date: 2013-02-27T16:12:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/27/stuxnet-missing-link-found-resolves-some-mysteries-around-the-cyberweapon/
+shortlink: https://g.omid.dev/1LmWvOY
 tags:
   - Cyber War
   - Iran

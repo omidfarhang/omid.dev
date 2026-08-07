@@ -4,6 +4,7 @@ date: 2010-04-03T21:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/nintendo-wants-to-try-its-hand-at-3d-again/
+shortlink: https://g.omid.dev/1RF5ieC
 tags:
   - 3D
   - Gaming

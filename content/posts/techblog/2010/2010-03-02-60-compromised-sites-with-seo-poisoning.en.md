@@ -4,6 +4,7 @@ date: 2010-03-02T01:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/60-compromised-sites-with-seo-poisoning/
+shortlink: https://g.omid.dev/229Ol49
 tags:
   - hack
   - Malware

@@ -4,6 +4,7 @@ date: 2010-01-13T11:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/warning-on-possible-android-mobile-trojans/
+shortlink: https://g.omid.dev/1TPjbKS
 tags:
   - alert
   - Android

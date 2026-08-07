@@ -4,6 +4,7 @@ date: 2010-10-25T12:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/25/nokia-n900-pr-1-3-firmware-now-available/
+shortlink: https://g.omid.dev/1X15hD5
 tags:
   - Marmo
   - Mobile

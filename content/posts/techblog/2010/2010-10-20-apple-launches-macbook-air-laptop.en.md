@@ -4,6 +4,7 @@ date: 2010-10-20T22:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/20/apple-launches-macbook-air-laptop/
+shortlink: https://g.omid.dev/1OVxvcv
 tags:
   - Apple
   - News

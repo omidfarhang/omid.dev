@@ -4,6 +4,7 @@ date: 2010-10-12T13:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/12/buggy-paypal-phishing/
+shortlink: https://g.omid.dev/1rquVrM
 tags:
   - PayPal
   - Phishing

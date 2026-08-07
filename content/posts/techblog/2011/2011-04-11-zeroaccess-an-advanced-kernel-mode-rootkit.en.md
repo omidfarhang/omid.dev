@@ -4,6 +4,7 @@ date: 2011-04-11T18:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/11/zeroaccess-an-advanced-kernel-mode-rootkit/
+shortlink: https://g.omid.dev/1TVqLDH
 tags:
   - Malware
   - review

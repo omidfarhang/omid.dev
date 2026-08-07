@@ -4,6 +4,7 @@ date: 2012-08-02T14:21:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/02/ladies-with-few-clothes-tend-to-cause-a-lot-of-trouble-on-pcs-and-now-on-android-devices-too/
+shortlink: https://g.omid.dev/1n5UWJE
 tags:
   - advice
   - analyze

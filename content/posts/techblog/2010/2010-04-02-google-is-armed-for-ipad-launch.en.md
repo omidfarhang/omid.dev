@@ -4,6 +4,7 @@ date: 2010-04-02T22:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/02/google-is-armed-for-ipad-launch/
+shortlink: https://g.omid.dev/1RNsZin
 tags:
   - Apple
   - Google

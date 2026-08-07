@@ -4,6 +4,7 @@ date: 2010-01-21T20:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/targeted-attack-using-operation-aurora-as-the-lure/
+shortlink: https://g.omid.dev/1WA09sT
 tags:
   - Adobe
   - alert

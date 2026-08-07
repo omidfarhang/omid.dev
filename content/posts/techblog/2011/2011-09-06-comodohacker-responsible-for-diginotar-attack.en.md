@@ -4,6 +4,7 @@ date: 2011-09-06T18:55:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/06/comodohacker-responsible-for-diginotar-attack/
+shortlink: https://g.omid.dev/1LmLOfc
 tags:
   - hack
   - report

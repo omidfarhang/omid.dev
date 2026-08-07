@@ -4,6 +4,7 @@ date: 2012-07-20T17:32:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/20/what-are-we-doing-to-our-planet/
+shortlink: https://g.omid.dev/1TXF8qM
 tags:
   - I think
 

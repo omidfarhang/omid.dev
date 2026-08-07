@@ -4,6 +4,7 @@ date: 2010-01-13T11:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/mcafee-labs-january-spam-report/
+shortlink: https://g.omid.dev/1pExAwK
 tags:
   - report
   - spam

@@ -4,6 +4,7 @@ date: 2010-10-15T15:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/15/fake-stuxnet-cleaner-literally-cleans-up-your-computer/
+shortlink: https://g.omid.dev/1SOn0gf
 tags:
   - advice
   - alert

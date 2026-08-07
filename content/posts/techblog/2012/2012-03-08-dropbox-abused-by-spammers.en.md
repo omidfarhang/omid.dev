@@ -4,6 +4,7 @@ date: 2012-03-08T11:55:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/08/dropbox-abused-by-spammers/
+shortlink: https://g.omid.dev/1Y7HFxI
 tags:
   - Dropbox
   - scam

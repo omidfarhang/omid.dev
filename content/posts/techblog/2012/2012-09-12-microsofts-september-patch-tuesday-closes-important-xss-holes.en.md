@@ -4,6 +4,7 @@ date: 2012-09-12T19:27:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/12/microsofts-september-patch-tuesday-closes-important-xss-holes/
+shortlink: https://g.omid.dev/1Y7HPoW
 tags:
   - Microsoft
   - Updates

@@ -4,6 +4,7 @@ date: 2012-06-14T11:28:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/14/1-5-million-records-compromised-in-global-payments-breach/
+shortlink: https://g.omid.dev/1Y7HsL5
 tags:
   - hack
   - News

@@ -4,6 +4,7 @@ date: 2010-05-20T23:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/20/google-introduces-google-tv-video/
+shortlink: https://g.omid.dev/1QTKDTM
 tags:
   - Android
   - Google

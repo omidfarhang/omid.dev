@@ -4,6 +4,7 @@ date: 2010-04-17T20:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/ap-stylebook-finally-changes-web-site-to-website/
+shortlink: https://g.omid.dev/212SoJU
 tags:
   - News
   - report

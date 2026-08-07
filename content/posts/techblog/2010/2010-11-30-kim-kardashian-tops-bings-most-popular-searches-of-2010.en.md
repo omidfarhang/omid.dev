@@ -4,6 +4,7 @@ date: 2010-11-30T21:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/kim-kardashian-tops-bings-most-popular-searches-of-2010/
+shortlink: https://g.omid.dev/1VlFJ6b
 tags:
   - Bing
   - celeb

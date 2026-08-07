@@ -4,6 +4,7 @@ date: 2012-03-10T16:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/10/phishers-dislike-facebook-timeline/
+shortlink: https://g.omid.dev/1Y7HDWD
 tags:
   - Facebook
   - Phishing

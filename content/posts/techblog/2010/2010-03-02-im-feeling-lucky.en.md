@@ -4,6 +4,7 @@ date: 2010-03-02T23:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/im-feeling-lucky/
+shortlink: https://g.omid.dev/24PzYAY
 tags:
   - advice
   - Bing

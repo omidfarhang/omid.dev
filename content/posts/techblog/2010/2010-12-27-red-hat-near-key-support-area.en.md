@@ -4,6 +4,7 @@ date: 2010-12-27T17:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/27/red-hat-near-key-support-area/
+shortlink: https://g.omid.dev/1TNUA8A
 tags:
   - business
   - RedHat

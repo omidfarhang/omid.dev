@@ -4,6 +4,7 @@ date: 2012-05-17T15:19:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/17/realplayer-update-fixes-security-vulnerabilities/
+shortlink: https://g.omid.dev/1YfF5pF
 tags:
   - RealPlayer
   - Security

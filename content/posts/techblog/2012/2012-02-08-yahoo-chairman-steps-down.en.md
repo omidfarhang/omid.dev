@@ -4,6 +4,7 @@ date: 2012-02-08T16:45:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/08/yahoo-chairman-steps-down/
+shortlink: https://g.omid.dev/1TVqznR
 tags:
   - business
   - News

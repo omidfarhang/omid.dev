@@ -4,6 +4,7 @@ date: 2010-03-01T11:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/massive-earthquake-in-chile-leads-to-a-surge-of-rogue-antivirus/
+shortlink: https://g.omid.dev/1UNNoJh
 tags:
   - advice
   - alert

@@ -4,6 +4,7 @@ date: 2012-04-17T21:06:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/17/please-support-my-friend-by-your-votes/
+shortlink: https://g.omid.dev/22EIj8n
 tags:
   - support request
 

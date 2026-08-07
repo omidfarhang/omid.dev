@@ -4,6 +4,7 @@ date: 2010-04-09T18:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/denial-of-availability-and-uk-anti-piracy-law/
+shortlink: https://g.omid.dev/24wkcus
 tags:
   - News
   - report

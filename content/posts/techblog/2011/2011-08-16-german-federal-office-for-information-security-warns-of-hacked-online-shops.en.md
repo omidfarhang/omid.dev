@@ -4,6 +4,7 @@ date: 2011-08-16T20:36:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/16/german-federal-office-for-information-security-warns-of-hacked-online-shops/
+shortlink: https://g.omid.dev/1VwTluG
 tags:
   - Browsers
   - Germany

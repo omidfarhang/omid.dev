@@ -4,6 +4,7 @@ date: 2010-01-27T19:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/27/google-chrome-4-now-with-extensions-take-care/
+shortlink: https://g.omid.dev/1QYxlTW
 tags:
   - advice
   - alert

@@ -4,6 +4,7 @@ date: 2010-12-17T15:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/17/are-you-ready-for-opera-11/
+shortlink: https://g.omid.dev/21qS7pw
 tags:
   - Browsers
   - Opera

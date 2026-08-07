@@ -4,6 +4,7 @@ date: 2010-11-24T16:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/24/beware-the-justin-bieber-erection-facebook-scam/
+shortlink: https://g.omid.dev/1T3n26m
 tags:
   - Facebook
   - Phishing

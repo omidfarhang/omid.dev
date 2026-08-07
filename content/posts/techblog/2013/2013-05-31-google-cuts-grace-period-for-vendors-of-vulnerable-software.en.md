@@ -4,6 +4,7 @@ date: 2013-05-31T13:12:47+00:00
 layout: single
 author_profile: true
 url: 2013/05/31/google-cuts-grace-period-for-vendors-of-vulnerable-software/
+shortlink: https://g.omid.dev/1Tj6I1V
 image: /images/2012/08/new-google-favicon24.png
 tags:
   - Google

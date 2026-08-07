@@ -4,6 +4,7 @@ date: 2010-12-11T00:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/11/dutch-police-website-attacked-after-arrest-of-suspected-hacker/
+shortlink: https://g.omid.dev/24Pd4cW
 tags:
   - attack
   - hack

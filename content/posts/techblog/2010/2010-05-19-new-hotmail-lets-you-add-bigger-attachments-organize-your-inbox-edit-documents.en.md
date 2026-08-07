@@ -4,6 +4,7 @@ date: 2010-05-19T14:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/new-hotmail-lets-you-add-bigger-attachments-organize-your-inbox-edit-documents/
+shortlink: https://g.omid.dev/1pYoUkU
 tags:
   - Hotmail
   - Email

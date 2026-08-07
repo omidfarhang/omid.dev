@@ -4,6 +4,7 @@ date: 2011-03-24T11:15:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/24/google-yahoo-skype-targeted-in-attack-linked-to-iran/
+shortlink: https://g.omid.dev/1Y7Hbrn
 tags:
   - advice
   - alert

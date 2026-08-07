@@ -4,6 +4,7 @@ date: 2010-02-21T17:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/the-ru-substitutions-for-cn-domains/
+shortlink: https://g.omid.dev/1LyOvuq
 tags:
   - spam
   - Security

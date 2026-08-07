@@ -4,6 +4,7 @@ date: 2012-02-08T20:02:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/08/chrome-updates-for-faster-browsing-and-increased-security/
+shortlink: https://g.omid.dev/1QRi0Kb
 tags:
   - Announcement
   - Browsers

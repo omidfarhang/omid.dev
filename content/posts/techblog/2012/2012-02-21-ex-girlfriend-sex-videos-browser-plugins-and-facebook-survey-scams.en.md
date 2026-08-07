@@ -4,6 +4,7 @@ date: 2012-02-21T16:22:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/21/ex-girlfriend-sex-videos-browser-plugins-and-facebook-survey-scams/
+shortlink: https://g.omid.dev/1Y7HKl0
 tags:
   - Facebook
   - Phishing

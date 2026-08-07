@@ -4,6 +4,7 @@ date: 2012-06-27T18:08:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/27/chrome-20-closes-23-security-holes/
+shortlink: https://g.omid.dev/1TbUQOX
 tags:
   - Browsers
   - Google

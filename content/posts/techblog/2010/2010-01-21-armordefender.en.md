@@ -4,6 +4,7 @@ date: 2010-01-21T22:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/armordefender/
+shortlink: https://g.omid.dev/1M0m5Em
 tags:
   - Malware
   - rogue software

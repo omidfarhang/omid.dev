@@ -4,6 +4,7 @@ date: 2010-05-04T14:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/how-to-know-whether-your-iphone-has-new-or-old-bootroom/
+shortlink: https://g.omid.dev/24PzScy
 tags:
   - Apple
   - jailbreak

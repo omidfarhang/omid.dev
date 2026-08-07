@@ -5,6 +5,7 @@ description: Internet Explorer 7 is approaching public preview with tabbed brows
 layout: single
 author_profile: true
 url: 2006/01/24/internet-explorer-7-tabs-finally/
+shortlink: https://g.omid.dev/Xr052r5
 tags:
   - Internet Explorer
   - Browsers

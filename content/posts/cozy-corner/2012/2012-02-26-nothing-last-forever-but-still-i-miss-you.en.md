@@ -4,6 +4,7 @@ date: 2012-02-26T20:33:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/26/nothing-last-forever-but-still-i-miss-you/
+shortlink: https://g.omid.dev/1SbSq1u
 tags:
   - My Life
 

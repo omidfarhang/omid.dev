@@ -4,6 +4,7 @@ date: 2012-05-03T14:27:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/03/firefox-websocket-bug-compromises-tor-anonymity/
+shortlink: https://g.omid.dev/1npQO7z
 tags:
   - Firefox
   - Mozilla

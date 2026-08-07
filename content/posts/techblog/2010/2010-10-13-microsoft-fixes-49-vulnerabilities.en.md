@@ -4,6 +4,7 @@ date: 2010-10-13T13:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/13/microsoft-fixes-49-vulnerabilities/
+shortlink: https://g.omid.dev/1o2QZpC
 tags:
   - Microsoft
   - Microsoft Office

@@ -4,6 +4,7 @@ date: 2010-03-22T23:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/a-fishy-defacement/
+shortlink: https://g.omid.dev/1MUwQOH
 tags:
   - Phishing
   - report

@@ -5,6 +5,7 @@ description: Sandboxie let you run suspicious installers and tools in isolation 
 layout: single
 author_profile: true
 url: 2005/05/18/sandboxie-for-testing-software-you-do-not-trust/
+shortlink: https://g.omid.dev/btQbd3f
 tags:
   - Sandboxie
   - Security

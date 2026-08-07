@@ -4,6 +4,7 @@ date: 2012-03-29T18:07:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/29/sex-appeal-meter-scam-and-execution-hoax-abound-on-facebook/
+shortlink: https://g.omid.dev/21CCbgB
 tags:
   - advice
   - alert

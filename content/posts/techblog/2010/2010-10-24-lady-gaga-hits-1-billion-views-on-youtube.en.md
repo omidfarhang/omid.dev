@@ -4,6 +4,7 @@ date: 2010-10-24T22:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/24/lady-gaga-hits-1-billion-views-on-youtube/
+shortlink: https://g.omid.dev/24PA1g5
 tags:
   - entertainment
   - Music

@@ -4,6 +4,7 @@ date: 2012-05-01T15:49:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/01/chrome-18-update-closes-high-risk-security-holes/
+shortlink: https://g.omid.dev/1VS8MeP
 tags:
   - Browsers
   - Google

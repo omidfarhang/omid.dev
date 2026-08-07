@@ -4,6 +4,7 @@ date: 2012-02-10T14:11:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/is-waledac-spam-dirtying-the-russian-2012-elections/
+shortlink: https://g.omid.dev/1RygMAm
 tags:
   - alert
   - review

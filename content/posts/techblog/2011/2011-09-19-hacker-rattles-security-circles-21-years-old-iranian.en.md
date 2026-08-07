@@ -4,6 +4,7 @@ date: 2011-09-19T14:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/19/hacker-rattles-security-circles-21-years-old-iranian/
+shortlink: https://g.omid.dev/1LOz2kJ
 tags:
   - hack
   - Interview

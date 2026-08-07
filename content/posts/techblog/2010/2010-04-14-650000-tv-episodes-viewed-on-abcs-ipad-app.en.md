@@ -4,6 +4,7 @@ date: 2010-04-14T23:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/650000-tv-episodes-viewed-on-abcs-ipad-app/
+shortlink: https://g.omid.dev/1QFqJM8
 tags:
   - Apple
   - Disney

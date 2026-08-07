@@ -4,6 +4,7 @@ date: 2010-02-21T20:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/apple-iphone-warranty-scam/
+shortlink: https://g.omid.dev/1RjWh7T
 tags:
   - Apple
   - Mobile

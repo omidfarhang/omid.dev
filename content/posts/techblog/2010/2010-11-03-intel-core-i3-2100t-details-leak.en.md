@@ -4,6 +4,7 @@ date: 2010-11-03T20:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/intel-core-i3-2100t-details-leak/
+shortlink: https://g.omid.dev/1Y0rbrf
 tags:
   - Core i3
   - Hardware

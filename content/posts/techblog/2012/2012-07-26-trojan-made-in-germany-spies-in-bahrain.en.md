@@ -4,6 +4,7 @@ date: 2012-07-26T14:18:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/26/trojan-made-in-germany-spies-in-bahrain/
+shortlink: https://g.omid.dev/1LOGrAm
 tags:
   - Malware
   - report

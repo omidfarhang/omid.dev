@@ -4,6 +4,7 @@ date: 2012-04-27T10:52:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/27/php-5-4-1-and-php-5-3-11-released/
+shortlink: https://g.omid.dev/1Y7GZIK
 tags:
   - PHP
   - software

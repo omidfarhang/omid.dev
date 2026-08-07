@@ -4,6 +4,7 @@ date: 2010-04-03T15:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/sharing-vs-your-privacy-on-facebook/
+shortlink: https://g.omid.dev/1XWXKpP
 tags:
   - Facebook
   - privacy

@@ -4,6 +4,7 @@ date: 2010-09-17T11:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/17/new-phishing-spam-waves-using-facebook-as-bait/
+shortlink: https://g.omid.dev/1QRkRTi
 tags:
   - Facebook
   - Phishing

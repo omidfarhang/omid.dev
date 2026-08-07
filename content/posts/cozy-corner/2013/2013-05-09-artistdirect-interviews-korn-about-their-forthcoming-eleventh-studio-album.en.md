@@ -4,6 +4,7 @@ date: 2013-05-09T18:34:28+00:00
 layout: single
 author_profile: true
 url: 2013/05/09/artistdirect-interviews-korn-about-their-forthcoming-eleventh-studio-album/
+shortlink: https://g.omid.dev/212YzgO
 tags:
   - Korn
   - Music

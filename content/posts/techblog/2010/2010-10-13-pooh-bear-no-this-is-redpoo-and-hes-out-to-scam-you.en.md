@@ -4,6 +4,7 @@ date: 2010-10-13T15:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/13/pooh-bear-no-this-is-redpoo-and-hes-out-to-scam-you/
+shortlink: https://g.omid.dev/1UAyl5x
 tags:
   - Phishing
   - report

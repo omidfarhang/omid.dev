@@ -4,6 +4,7 @@ date: 2010-01-22T23:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/nude-pictures-of-senator-scott-brown-arouse-new-virus-concerns/
+shortlink: https://g.omid.dev/1WRIvO2
 tags:
   - alert
   - Malware

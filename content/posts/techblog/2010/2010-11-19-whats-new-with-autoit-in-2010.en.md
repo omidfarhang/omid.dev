@@ -5,6 +5,7 @@ description: A practical look at AutoIt updates in 2010, including better file h
 layout: single
 author_profile: true
 url: 2010/11/19/whats-new-with-autoit-in-2010/
+shortlink: https://g.omid.dev/ztxQAGC
 tags:
   - AutoIt
   - Windows

@@ -4,6 +4,7 @@ date: 2010-03-04T01:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/another-bot-bites-the-dust/
+shortlink: https://g.omid.dev/1n66A7x
 tags:
   - News
 

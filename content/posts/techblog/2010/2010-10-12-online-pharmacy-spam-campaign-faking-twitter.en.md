@@ -4,6 +4,7 @@ date: 2010-10-12T12:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/12/online-pharmacy-spam-campaign-faking-twitter/
+shortlink: https://g.omid.dev/1PwK6Dj
 tags:
   - alert
   - Phishing

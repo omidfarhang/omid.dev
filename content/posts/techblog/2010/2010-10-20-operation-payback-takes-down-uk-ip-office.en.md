@@ -4,6 +4,7 @@ date: 2010-10-20T12:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/20/operation-payback-takes-down-uk-ip-office/
+shortlink: https://g.omid.dev/1puN9qF
 tags:
   - hack
   - News

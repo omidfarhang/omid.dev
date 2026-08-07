@@ -4,6 +4,7 @@ date: 2010-02-21T18:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/antivirus-not/
+shortlink: https://g.omid.dev/223enWX
 tags:
   - Malware
   - rogue software

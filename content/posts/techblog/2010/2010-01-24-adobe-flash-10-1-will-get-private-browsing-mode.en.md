@@ -4,6 +4,7 @@ date: 2010-01-24T23:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/24/adobe-flash-10-1-will-get-private-browsing-mode/
+shortlink: https://g.omid.dev/1QCyv7z
 tags:
   - Adobe
   - Google Chrome

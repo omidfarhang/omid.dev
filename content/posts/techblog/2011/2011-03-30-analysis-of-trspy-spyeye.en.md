@@ -4,6 +4,7 @@ date: 2011-03-30T14:48:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/30/analysis-of-trspy-spyeye/
+shortlink: https://g.omid.dev/1RgJpj3
 tags:
   - analyze
   - Avira

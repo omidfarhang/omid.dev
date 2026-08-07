@@ -4,6 +4,7 @@ date: 2011-09-20T14:01:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/20/facebook-to-launch-major-profile-redesign-at-f8/
+shortlink: https://g.omid.dev/1Y7HSRu
 tags:
   - Facebook
   - News

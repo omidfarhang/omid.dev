@@ -4,6 +4,7 @@ date: 2012-04-26T07:08:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/26/kaspersky-mac-security-is-10-years-behind-microsoft/
+shortlink: https://g.omid.dev/1LOA3ZV
 tags:
   - Apple
   - Mac OS X

@@ -4,6 +4,7 @@ date: 2010-04-07T15:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/security-awareness-many-levels-many-things/
+shortlink: https://g.omid.dev/21CAO4N
 tags:
   - report
   - review

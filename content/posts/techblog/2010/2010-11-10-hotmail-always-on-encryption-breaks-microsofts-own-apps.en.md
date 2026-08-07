@@ -4,6 +4,7 @@ date: 2010-11-10T15:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/10/hotmail-always-on-encryption-breaks-microsofts-own-apps/
+shortlink: https://g.omid.dev/1WRItWh
 tags:
   - Hotmail
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-04-14T22:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/twitter-announces-user-streams-to-make-apps-real-time/
+shortlink: https://g.omid.dev/1pEwscr
 tags:
   - News
   - Social Media

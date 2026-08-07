@@ -4,6 +4,7 @@ date: 2012-02-11T11:50:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/11/cia-website-brought-down-were-anonymous-attackers-responsible/
+shortlink: https://g.omid.dev/1Y0fctO
 tags:
   - CIA
   - hack

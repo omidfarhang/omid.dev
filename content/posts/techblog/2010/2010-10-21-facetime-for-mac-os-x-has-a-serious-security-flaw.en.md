@@ -4,6 +4,7 @@ date: 2010-10-21T17:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/facetime-for-mac-os-x-has-a-serious-security-flaw/
+shortlink: https://g.omid.dev/1TQz184
 tags:
   - Apple
   - Mac OS X

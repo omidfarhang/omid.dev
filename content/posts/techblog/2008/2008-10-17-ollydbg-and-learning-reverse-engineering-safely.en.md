@@ -5,6 +5,7 @@ description: OllyDbg was a classic tool for studying Windows programs at the ass
 layout: single
 author_profile: true
 url: 2008/10/17/ollydbg-and-learning-reverse-engineering-safely/
+shortlink: https://g.omid.dev/59dsSwK
 tags:
   - OllyDbg
   - Reverse Engineering

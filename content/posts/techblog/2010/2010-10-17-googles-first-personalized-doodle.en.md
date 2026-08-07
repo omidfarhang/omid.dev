@@ -4,6 +4,7 @@ date: 2010-10-17T22:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/17/googles-first-personalized-doodle/
+shortlink: https://g.omid.dev/24PA5fY
 tags:
   - Google
   - Interesting

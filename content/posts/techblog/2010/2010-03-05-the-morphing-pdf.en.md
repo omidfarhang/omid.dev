@@ -4,6 +4,7 @@ date: 2010-03-05T19:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/the-morphing-pdf/
+shortlink: https://g.omid.dev/1WRIwl1
 tags:
   - Malware
   - review

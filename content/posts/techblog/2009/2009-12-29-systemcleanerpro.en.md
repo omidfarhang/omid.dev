@@ -4,6 +4,7 @@ date: 2009-12-29T15:12:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/29/systemcleanerpro/
+shortlink: https://g.omid.dev/1n6d7is
 tags:
   - rogue software
   - scam

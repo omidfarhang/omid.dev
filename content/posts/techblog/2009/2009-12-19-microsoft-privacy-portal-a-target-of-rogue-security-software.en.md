@@ -4,6 +4,7 @@ date: 2009-12-19T13:24:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/19/microsoft-privacy-portal-a-target-of-rogue-security-software/
+shortlink: https://g.omid.dev/1T0bZKG
 tags:
   - Microsoft
   - Phishing

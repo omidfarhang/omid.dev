@@ -4,6 +4,7 @@ date: 2010-03-05T01:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/everybody-uses-web-2-0-but-it-might-not-know-it/
+shortlink: https://g.omid.dev/1RNsW5W
 tags:
   - News
   - report

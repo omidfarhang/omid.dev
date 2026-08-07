@@ -4,6 +4,7 @@ date: 2011-11-17T14:30:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/17/stop-censorship-help-us-stop-the-internet-blacklist-legislation/
+shortlink: https://g.omid.dev/1YfKTzk
 image: /images/2011/11/stop-censorship-small.png
 tags:
   - alert

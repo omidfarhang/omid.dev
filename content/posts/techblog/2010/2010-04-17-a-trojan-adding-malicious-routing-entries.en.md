@@ -4,6 +4,7 @@ date: 2010-04-17T21:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/a-trojan-adding-malicious-routing-entries/
+shortlink: https://g.omid.dev/1TzbW9D
 tags:
   - Malware
   - report

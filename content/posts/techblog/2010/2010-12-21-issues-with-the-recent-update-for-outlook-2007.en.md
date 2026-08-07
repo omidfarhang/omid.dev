@@ -4,6 +4,7 @@ date: 2010-12-21T19:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/21/issues-with-the-recent-update-for-outlook-2007/
+shortlink: https://g.omid.dev/1SbUeHL
 tags:
   - issues
   - Microsoft

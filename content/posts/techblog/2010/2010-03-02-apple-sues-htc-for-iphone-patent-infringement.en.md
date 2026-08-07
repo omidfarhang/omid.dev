@@ -4,6 +4,7 @@ date: 2010-03-02T22:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/apple-sues-htc-for-iphone-patent-infringement/
+shortlink: https://g.omid.dev/1Uxip48
 tags:
   - Apple
   - Mobile

@@ -4,6 +4,7 @@ date: 2010-10-26T14:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/26/firesheep-who-is-eating-my-cookies/
+shortlink: https://g.omid.dev/24PA4Za
 tags:
   - Firefox
   - Firefox Addon

@@ -4,6 +4,7 @@ date: 2011-03-04T14:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/04/chrome-os-beta-channel-update/
+shortlink: https://g.omid.dev/1n5KXnO
 tags:
   - Beta
   - Google

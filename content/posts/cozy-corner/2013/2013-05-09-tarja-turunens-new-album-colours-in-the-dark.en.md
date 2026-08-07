@@ -4,6 +4,7 @@ date: 2013-05-09T12:53:20+00:00
 layout: single
 author_profile: true
 url: 2013/05/09/tarja-turunens-new-album-colours-in-the-dark/
+shortlink: https://g.omid.dev/1WU9cBu
 tags:
   - Tarja Turunen
   - Music

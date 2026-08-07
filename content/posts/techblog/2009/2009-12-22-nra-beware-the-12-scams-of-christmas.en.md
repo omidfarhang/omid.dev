@@ -4,6 +4,7 @@ date: 2009-12-22T13:42:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/22/nra-beware-the-12-scams-of-christmas/
+shortlink: https://g.omid.dev/1RrVO3H
 tags:
   - alert
   - News

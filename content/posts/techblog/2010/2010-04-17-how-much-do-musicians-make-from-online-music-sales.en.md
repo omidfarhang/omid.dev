@@ -4,6 +4,7 @@ date: 2010-04-17T22:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/how-much-do-musicians-make-from-online-music-sales/
+shortlink: https://g.omid.dev/1X9a5pY
 tags:
   - Music
   - report

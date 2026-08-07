@@ -4,6 +4,7 @@ date: 2011-08-25T18:29:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/25/phpmyadmin-updates-close-xss-hole/
+shortlink: https://g.omid.dev/1RKrd1v
 tags:
   - PHP
   - Security

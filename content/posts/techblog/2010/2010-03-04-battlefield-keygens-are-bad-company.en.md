@@ -4,6 +4,7 @@ date: 2010-03-04T01:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/battlefield-keygens-are-bad-company/
+shortlink: https://g.omid.dev/1S7hNx0
 tags:
   - advice
   - alert

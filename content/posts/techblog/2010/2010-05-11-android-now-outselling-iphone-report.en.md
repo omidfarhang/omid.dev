@@ -4,6 +4,7 @@ date: 2010-05-11T15:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/android-now-outselling-iphone-report/
+shortlink: https://g.omid.dev/1RjL1s7
 tags:
   - Android
   - Apple

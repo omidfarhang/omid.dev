@@ -4,6 +4,7 @@ date: 2012-03-22T12:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/22/embarrassing-security-failure-at-paypal/
+shortlink: https://g.omid.dev/212ZTQR
 tags:
   - News
   - PayPal

@@ -4,6 +4,7 @@ date: 2010-04-09T15:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/can-the-focus-of-spam-email-be-used-as-an-economic-indicator/
+shortlink: https://g.omid.dev/1VaWvnG
 tags:
   - advice
   - report

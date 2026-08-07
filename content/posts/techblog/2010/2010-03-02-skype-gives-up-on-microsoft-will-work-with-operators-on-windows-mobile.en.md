@@ -4,6 +4,7 @@ date: 2010-03-02T01:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/skype-gives-up-on-microsoft-will-work-with-operators-on-windows-mobile/
+shortlink: https://g.omid.dev/1LI49nB
 tags:
   - Mobile
   - News

@@ -4,6 +4,7 @@ date: 2010-01-13T12:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/lethic-gone-another-botnet-bites-the-dust/
+shortlink: https://g.omid.dev/1Y7HwdG
 tags:
   - alert
   - report

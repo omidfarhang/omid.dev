@@ -4,6 +4,7 @@ date: 2010-02-04T17:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/04/its-lame-ransomware-but-it-could-fool-somebody/
+shortlink: https://g.omid.dev/1Le39HF
 tags:
   - Malware
   - Phishing

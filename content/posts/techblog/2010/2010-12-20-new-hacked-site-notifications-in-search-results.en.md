@@ -4,6 +4,7 @@ date: 2010-12-20T19:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/20/new-hacked-site-notifications-in-search-results/
+shortlink: https://g.omid.dev/1Y7HJh9
 tags:
   - Google
   - News

@@ -4,6 +4,7 @@ date: 2010-10-19T12:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/less-than-5-of-ipv4-addresses-left-says-nro/
+shortlink: https://g.omid.dev/1Tu15y0
 tags:
   - IPv4
   - report

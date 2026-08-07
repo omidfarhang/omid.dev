@@ -4,6 +4,7 @@ date: 2013-03-04T23:21:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/04/new-toys-to-listen-music-even-better/
+shortlink: https://g.omid.dev/21F5zmn
 tags:
   - information
   - My Life

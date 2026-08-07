@@ -4,6 +4,7 @@ date: 2010-03-04T01:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/haiti-relief-email-scams-still-circulate/
+shortlink: https://g.omid.dev/1RPluKe
 tags:
   - advice
   - Phishing

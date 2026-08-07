@@ -4,6 +4,7 @@ date: 2012-04-19T08:08:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/19/google-warns-the-operators-of-thousands-of-hacked-web-sites/
+shortlink: https://g.omid.dev/1SX8j7H
 tags:
   - Google
   - hack

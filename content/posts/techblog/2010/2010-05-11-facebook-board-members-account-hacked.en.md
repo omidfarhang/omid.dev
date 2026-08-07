@@ -4,6 +4,7 @@ date: 2010-05-11T14:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/facebook-board-members-account-hacked/
+shortlink: https://g.omid.dev/24PzMl6
 tags:
   - Facebook
   - Phishing

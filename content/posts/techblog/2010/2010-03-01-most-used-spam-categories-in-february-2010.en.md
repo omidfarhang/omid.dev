@@ -4,6 +4,7 @@ date: 2010-03-01T20:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/most-used-spam-categories-in-february-2010/
+shortlink: https://g.omid.dev/1R9Rern
 tags:
   - report
   - spam

@@ -4,6 +4,7 @@ date: 2010-05-11T13:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/wordpress-3-0-the-5-most-important-new-features/
+shortlink: https://g.omid.dev/1QEAPKf
 tags:
   - Blogging
   - BLOGS

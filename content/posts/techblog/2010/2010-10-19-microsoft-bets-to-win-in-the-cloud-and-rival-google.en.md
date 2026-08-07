@@ -4,6 +4,7 @@ date: 2010-10-19T20:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/microsoft-bets-to-win-in-the-cloud-and-rival-google/
+shortlink: https://g.omid.dev/24Ayomf
 tags:
   - Cloud
   - Cloud Computing

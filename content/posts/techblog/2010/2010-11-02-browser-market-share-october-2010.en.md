@@ -4,6 +4,7 @@ date: 2010-11-02T11:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/02/browser-market-share-october-2010/
+shortlink: https://g.omid.dev/1pYoET7
 tags:
   - Browsers
   - Firefox

@@ -4,6 +4,7 @@ date: 2010-11-19T17:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/19/virustotal-google-chrome-browser-extension-a-k-a-vtchromizer/
+shortlink: https://g.omid.dev/1pYoBXq
 tags:
   - suggestion
   - VirusTotal

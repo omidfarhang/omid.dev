@@ -4,6 +4,7 @@ date: 2012-06-11T17:10:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/11/does-the-silence-get-lonely/
+shortlink: https://g.omid.dev/1TNHYhV
 tags:
   - Video
 

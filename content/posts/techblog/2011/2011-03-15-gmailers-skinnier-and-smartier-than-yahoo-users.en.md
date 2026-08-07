@@ -4,6 +4,7 @@ date: 2011-03-15T09:58:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/15/gmailers-skinnier-and-smartier-than-yahoo-users/
+shortlink: https://g.omid.dev/1ReDhHS
 tags:
   - Interesting
   - Email

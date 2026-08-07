@@ -4,6 +4,7 @@ date: 2010-10-20T12:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/20/turkish-hackers-attack-cdu-websites/
+shortlink: https://g.omid.dev/1VLuCRf
 tags:
   - News
   - Politics

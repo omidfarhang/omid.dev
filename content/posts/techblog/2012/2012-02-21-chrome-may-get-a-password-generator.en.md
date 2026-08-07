@@ -4,6 +4,7 @@ date: 2012-02-21T15:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/21/chrome-may-get-a-password-generator/
+shortlink: https://g.omid.dev/1RDBwXz
 tags:
   - Browsers
   - Google

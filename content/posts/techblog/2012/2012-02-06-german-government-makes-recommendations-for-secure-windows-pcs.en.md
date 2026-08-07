@@ -4,6 +4,7 @@ date: 2012-02-06T16:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/06/german-government-makes-recommendations-for-secure-windows-pcs/
+shortlink: https://g.omid.dev/1QsU5LH
 tags:
   - advice
   - antivirus

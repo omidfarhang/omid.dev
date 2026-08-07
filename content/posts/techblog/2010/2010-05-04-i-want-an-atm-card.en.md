@@ -4,6 +4,7 @@ date: 2010-05-04T11:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/i-want-an-atm-card/
+shortlink: https://g.omid.dev/1Y7GNZU
 tags:
   - alert
   - report

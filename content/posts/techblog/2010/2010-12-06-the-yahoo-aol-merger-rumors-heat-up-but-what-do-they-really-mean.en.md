@@ -4,6 +4,7 @@ date: 2010-12-06T19:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/the-yahoo-aol-merger-rumors-heat-up-but-what-do-they-really-mean/
+shortlink: https://g.omid.dev/1TOesbR
 tags:
   - AOL
   - News

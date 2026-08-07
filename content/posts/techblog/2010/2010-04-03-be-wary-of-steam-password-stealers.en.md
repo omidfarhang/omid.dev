@@ -4,6 +4,7 @@ date: 2010-04-03T18:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/be-wary-of-steam-password-stealers/
+shortlink: https://g.omid.dev/1Y0vVgk
 tags:
   - Malware
   - review

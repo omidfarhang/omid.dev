@@ -4,6 +4,7 @@ date: 2010-01-22T11:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/salesmen-are-not-my-friends/
+shortlink: https://g.omid.dev/1QkMYs3
 tags:
   - alert
   - Malware

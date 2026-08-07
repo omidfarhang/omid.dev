@@ -4,6 +4,7 @@ date: 2011-04-01T22:23:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/01/massive-sql-injection-attack-making-the-rounds-694k-urls-so-far/
+shortlink: https://g.omid.dev/1pNBXoF
 tags:
   - attack
   - hack

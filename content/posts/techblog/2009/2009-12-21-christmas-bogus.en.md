@@ -4,6 +4,7 @@ date: 2009-12-21T22:41:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/21/christmas-bogus/
+shortlink: https://g.omid.dev/24PA5ws
 tags:
   - alert
   - Malware

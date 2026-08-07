@@ -4,6 +4,7 @@ date: 2010-05-04T00:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/solving-captchas-as-cottage-industry/
+shortlink: https://g.omid.dev/1TkjBst
 tags:
   - News
 

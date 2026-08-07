@@ -4,6 +4,7 @@ date: 2010-03-30T14:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/its-not-dead-yet-microsofts-out-of-band-ie6-fix-impacts-ie8/
+shortlink: https://g.omid.dev/1pExtRD
 tags:
   - Internet Explorer
   - Microsoft

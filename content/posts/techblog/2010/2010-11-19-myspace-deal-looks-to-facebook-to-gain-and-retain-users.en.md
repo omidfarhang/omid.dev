@@ -4,6 +4,7 @@ date: 2010-11-19T14:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/19/myspace-deal-looks-to-facebook-to-gain-and-retain-users/
+shortlink: https://g.omid.dev/1TNI9cW
 tags:
   - Facebook
   - MySpace

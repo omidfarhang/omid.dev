@@ -4,6 +4,7 @@ date: 2010-12-10T22:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/10/google-launches-tool-to-get-companies-to-back-up-their-e-mails-with-gmail/
+shortlink: https://g.omid.dev/24RNkK6
 tags:
   - enterprise
   - Gmail

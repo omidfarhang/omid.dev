@@ -4,6 +4,7 @@ date: 2011-03-30T21:56:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/30/google-talk-guru/
+shortlink: https://g.omid.dev/1WRIvNL
 tags:
   - Announcement
   - Google

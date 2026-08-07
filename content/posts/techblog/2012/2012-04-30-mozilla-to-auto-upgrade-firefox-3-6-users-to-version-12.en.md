@@ -4,6 +4,7 @@ date: 2012-04-30T17:32:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/30/mozilla-to-auto-upgrade-firefox-3-6-users-to-version-12/
+shortlink: https://g.omid.dev/1WRIsSi
 tags:
   - Browsers
   - Firefox

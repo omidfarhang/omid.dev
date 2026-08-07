@@ -4,6 +4,7 @@ date: 2010-03-25T11:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/it-takes-only-one-nice-person/
+shortlink: https://g.omid.dev/1RjTWdf
 tags:
   - advice
   - report

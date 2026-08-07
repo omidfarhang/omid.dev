@@ -4,6 +4,7 @@ date: 2009-12-23T16:06:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/23/all-about-brittany-on-twitter/
+shortlink: https://g.omid.dev/1LDc19u
 tags:
   - Phishing
   - scam

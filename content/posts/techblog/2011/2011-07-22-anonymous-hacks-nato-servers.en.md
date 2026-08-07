@@ -4,6 +4,7 @@ date: 2011-07-22T15:31:00+00:00
 layout: single
 author_profile: true
 url: 2011/07/22/anonymous-hacks-nato-servers/
+shortlink: https://g.omid.dev/1Ry8Dfb
 tags:
   - Anonymous
   - hack

@@ -4,6 +4,7 @@ date: 2012-10-12T11:39:00+00:00
 layout: single
 author_profile: true
 url: 2012/10/12/firefox-16-re-released-fixing-multiple-vulnerabilities/
+shortlink: https://g.omid.dev/1LR8RtI
 tags:
   - Firefox
   - Mozilla

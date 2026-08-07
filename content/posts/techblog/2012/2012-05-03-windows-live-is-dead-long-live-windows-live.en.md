@@ -4,6 +4,7 @@ date: 2012-05-03T20:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/03/windows-live-is-dead-long-live-windows-live/
+shortlink: https://g.omid.dev/1p9eYox
 tags:
   - Announcement
   - Microsoft

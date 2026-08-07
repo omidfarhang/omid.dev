@@ -4,6 +4,7 @@ date: 2010-01-16T00:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/16/new-koobface-variant-saves-researchers-time-from-analysis/
+shortlink: https://g.omid.dev/1X7pmYp
 tags:
   - Facebook
   - Malware

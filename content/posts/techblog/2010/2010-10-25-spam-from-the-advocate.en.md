@@ -4,6 +4,7 @@ date: 2010-10-25T12:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/25/spam-from-the-advocate/
+shortlink: https://g.omid.dev/1Tm7omQ
 tags:
   - alert
   - News

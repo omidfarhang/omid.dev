@@ -4,6 +4,7 @@ date: 2010-01-13T12:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/plenty-of-updates-on-patch-tuesday-2/
+shortlink: https://g.omid.dev/24PAijb
 tags:
   - Adobe
   - alert

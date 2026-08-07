@@ -4,6 +4,7 @@ date: 2012-01-11T19:33:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/11/pink-facebook-red-or-black-facebook/
+shortlink: https://g.omid.dev/1YzwWfI
 tags:
   - alert
   - Facebook

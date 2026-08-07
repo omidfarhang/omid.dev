@@ -4,6 +4,7 @@ date: 2010-04-12T17:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/google-developing-tablet-to-take-on-ipad/
+shortlink: https://g.omid.dev/1Y7HnqO
 tags:
   - Android
   - Apple

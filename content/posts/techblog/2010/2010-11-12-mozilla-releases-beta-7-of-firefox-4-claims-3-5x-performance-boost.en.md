@@ -4,6 +4,7 @@ date: 2010-11-12T13:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/mozilla-releases-beta-7-of-firefox-4-claims-3-5x-performance-boost/
+shortlink: https://g.omid.dev/1VTTtSL
 tags:
   - 3D
   - Firefox

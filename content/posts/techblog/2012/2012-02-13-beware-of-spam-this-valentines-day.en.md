@@ -4,6 +4,7 @@ date: 2012-02-13T17:27:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/13/beware-of-spam-this-valentines-day/
+shortlink: https://g.omid.dev/1SzqvbX
 tags:
   - alert
   - Malware

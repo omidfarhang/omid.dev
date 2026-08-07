@@ -4,6 +4,7 @@ date: 2010-09-30T11:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/30/google-offers-to-turn-off-threading-in-gmail/
+shortlink: https://g.omid.dev/1RVYHcP
 tags:
   - Gmail
   - Google

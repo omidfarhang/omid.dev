@@ -4,6 +4,7 @@ date: 2010-02-05T23:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/05/new-facebook-home-page-important-new-privacy-setting/
+shortlink: https://g.omid.dev/1pExx3Y
 tags:
   - alert
   - Facebook

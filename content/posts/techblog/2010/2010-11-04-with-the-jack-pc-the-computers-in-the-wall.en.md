@@ -4,6 +4,7 @@ date: 2010-11-04T17:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/04/with-the-jack-pc-the-computers-in-the-wall/
+shortlink: https://g.omid.dev/25toDXq
 tags:
   - Hardware
   - Interesting

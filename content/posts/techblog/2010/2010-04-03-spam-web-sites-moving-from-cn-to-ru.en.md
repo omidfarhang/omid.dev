@@ -4,6 +4,7 @@ date: 2010-04-03T13:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/spam-web-sites-moving-from-cn-to-ru/
+shortlink: https://g.omid.dev/1Ouyz8G
 tags:
   - alert
   - report

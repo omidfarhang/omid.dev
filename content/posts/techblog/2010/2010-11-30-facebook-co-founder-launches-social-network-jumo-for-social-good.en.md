@@ -4,6 +4,7 @@ date: 2010-11-30T16:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/facebook-co-founder-launches-social-network-jumo-for-social-good/
+shortlink: https://g.omid.dev/1Sq0rQx
 tags:
   - Announcement
   - Facebook

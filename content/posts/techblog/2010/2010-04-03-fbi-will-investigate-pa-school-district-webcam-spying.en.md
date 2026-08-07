@@ -4,6 +4,7 @@ date: 2010-04-03T22:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/fbi-will-investigate-pa-school-district-webcam-spying/
+shortlink: https://g.omid.dev/1ppWZu0
 tags:
   - Apple
   - News

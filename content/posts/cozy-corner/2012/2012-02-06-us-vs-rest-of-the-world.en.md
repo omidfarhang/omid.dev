@@ -4,6 +4,7 @@ date: 2012-02-06T15:55:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/06/us-vs-rest-of-the-world/
+shortlink: https://g.omid.dev/1UGIiyz
 tags:
   - interesting
 

@@ -4,6 +4,7 @@ date: 2010-02-13T01:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/13/social-media-expands-linkedin-hits-60m/
+shortlink: https://g.omid.dev/1ppDmSe
 tags:
   - News
   - Social Media

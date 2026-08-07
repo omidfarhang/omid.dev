@@ -4,6 +4,7 @@ date: 2011-11-17T11:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/17/no-one-can-see/
+shortlink: https://g.omid.dev/1RDD43P
 tags:
   - interesting
   - mood

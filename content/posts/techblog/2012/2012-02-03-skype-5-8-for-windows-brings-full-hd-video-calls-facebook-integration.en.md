@@ -4,6 +4,7 @@ date: 2012-02-03T14:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/03/skype-5-8-for-windows-brings-full-hd-video-calls-facebook-integration/
+shortlink: https://g.omid.dev/1LmKCbI
 tags:
   - Facebook
   - Microsoft

@@ -4,6 +4,7 @@ date: 2011-04-14T07:32:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/14/wordpress-com-suffers-hacker-attack-how-to-change-your-password/
+shortlink: https://g.omid.dev/1SaZrzC
 tags:
   - advice
   - manual

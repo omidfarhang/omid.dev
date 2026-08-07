@@ -4,6 +4,7 @@ date: 2012-01-17T10:13:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/17/la-time-dropbox-inventor-determined-to-build-the-next-apple-or-google/
+shortlink: https://g.omid.dev/1npPce3
 tags:
   - Dropbox
   - link

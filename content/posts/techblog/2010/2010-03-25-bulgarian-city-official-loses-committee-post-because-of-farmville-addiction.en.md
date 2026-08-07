@@ -4,6 +4,7 @@ date: 2010-03-25T11:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/bulgarian-city-official-loses-committee-post-because-of-farmville-addiction/
+shortlink: https://g.omid.dev/1RD0xCc
 tags:
   - review
 

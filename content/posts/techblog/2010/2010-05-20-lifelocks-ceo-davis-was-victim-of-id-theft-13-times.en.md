@@ -4,6 +4,7 @@ date: 2010-05-20T23:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/20/lifelocks-ceo-davis-was-victim-of-id-theft-13-times/
+shortlink: https://g.omid.dev/24Hbk5l
 tags:
   - News
   - report

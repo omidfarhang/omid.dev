@@ -4,6 +4,7 @@ date: 2010-04-07T23:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/google-maps-for-blackberry-gets-a-major-upgrade/
+shortlink: https://g.omid.dev/1Y7HiTU
 tags:
   - Android
   - BlackBerry

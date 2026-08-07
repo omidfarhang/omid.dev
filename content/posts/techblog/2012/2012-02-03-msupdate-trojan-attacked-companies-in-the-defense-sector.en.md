@@ -4,6 +4,7 @@ date: 2012-02-03T14:11:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/03/msupdate-trojan-attacked-companies-in-the-defense-sector/
+shortlink: https://g.omid.dev/24PzRW2
 tags:
   - alert
   - Malware

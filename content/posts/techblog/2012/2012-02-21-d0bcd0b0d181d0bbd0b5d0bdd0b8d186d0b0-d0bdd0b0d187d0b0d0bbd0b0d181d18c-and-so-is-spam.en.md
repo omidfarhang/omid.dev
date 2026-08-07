@@ -4,6 +4,7 @@ date: 2012-02-21T19:59:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/21/%d0%bc%d0%b0%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%86%d0%b0-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%b0%d1%81%d1%8c-and-so-is-spam/
+shortlink: https://g.omid.dev/5e6ge01
 tags:
   - alert
   - spam

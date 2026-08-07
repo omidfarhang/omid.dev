@@ -4,6 +4,7 @@ date: 2012-05-03T14:18:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/03/iran-makes-its-own-anti-virus-software-would-you-buy-it/
+shortlink: https://g.omid.dev/1Y7GYV4
 tags:
   - antivirus
   - Iran

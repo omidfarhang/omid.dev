@@ -4,6 +4,7 @@ date: 2010-03-22T09:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/screenshots-of-the-latest-twitter-phishing-attack/
+shortlink: https://g.omid.dev/1Y7GJJC
 tags:
   - MySpace
   - Phishing

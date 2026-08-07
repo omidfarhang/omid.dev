@@ -4,6 +4,7 @@ date: 2010-11-28T22:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/28/days-are-still-going-on-but-how-part2/
+shortlink: https://g.omid.dev/1TXFw8D
 tags:
   - My Life
 

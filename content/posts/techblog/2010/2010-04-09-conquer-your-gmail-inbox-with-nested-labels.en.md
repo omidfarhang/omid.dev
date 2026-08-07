@@ -4,6 +4,7 @@ date: 2010-04-09T13:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/conquer-your-gmail-inbox-with-nested-labels/
+shortlink: https://g.omid.dev/1U4WH8D
 tags:
   - Gmail
   - gmail labs

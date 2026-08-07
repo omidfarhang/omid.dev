@@ -4,6 +4,7 @@ date: 2010-03-05T19:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/viruses-and-digital-signatures/
+shortlink: https://g.omid.dev/1LZkMLl
 tags:
   - advice
   - alert

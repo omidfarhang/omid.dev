@@ -4,6 +4,7 @@ date: 2010-01-27T19:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/27/local-trends-comes-to-twitter/
+shortlink: https://g.omid.dev/21CHWLf
 tags:
   - News
   - Social Media

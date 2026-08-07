@@ -4,6 +4,7 @@ date: 2010-03-04T00:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/steve-ballmer-talks-bing-google-xbox-and-windows-phone/
+shortlink: https://g.omid.dev/1UBRe8m
 tags:
   - Android
   - Apple

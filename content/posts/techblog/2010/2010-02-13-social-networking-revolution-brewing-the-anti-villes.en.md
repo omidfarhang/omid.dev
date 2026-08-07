@@ -4,6 +4,7 @@ date: 2010-02-13T01:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/13/social-networking-revolution-brewing-the-anti-villes/
+shortlink: https://g.omid.dev/1QCyznI
 tags:
   - Facebook
   - News

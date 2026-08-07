@@ -4,6 +4,7 @@ date: 2010-10-18T21:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/intel-quietly-lowers-prices-on-core-i3-550-others/
+shortlink: https://g.omid.dev/21F9PlY
 tags:
   - AMD
   - Hardware

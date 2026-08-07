@@ -4,6 +4,7 @@ date: 2011-09-01T16:34:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/wikileaks-website-targeted-by-hackers/
+shortlink: https://g.omid.dev/21k0z4C
 tags:
   - hack
   - report

@@ -4,6 +4,7 @@ date: 2010-10-18T21:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/facebook-apps-transmitted-personal-info/
+shortlink: https://g.omid.dev/1Lq5HT8
 tags:
   - analyze
   - alert

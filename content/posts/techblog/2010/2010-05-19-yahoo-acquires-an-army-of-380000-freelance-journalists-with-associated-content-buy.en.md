@@ -4,6 +4,7 @@ date: 2010-05-19T20:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/yahoo-acquires-an-army-of-380000-freelance-journalists-with-associated-content-buy/
+shortlink: https://g.omid.dev/1Y7H3Z7
 tags:
   - Microsoft
   - Search

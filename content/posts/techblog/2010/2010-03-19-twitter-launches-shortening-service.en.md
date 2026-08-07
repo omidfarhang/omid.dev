@@ -4,6 +4,7 @@ date: 2010-03-19T10:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/twitter-launches-shortening-service/
+shortlink: https://g.omid.dev/1SaCtc4
 tags:
   - News
   - Twitter

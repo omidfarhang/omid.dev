@@ -4,6 +4,7 @@ date: 2010-10-28T15:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/windows-7-sp1-rc-released/
+shortlink: https://g.omid.dev/25toEuI
 tags:
   - Microsoft
   - Updates

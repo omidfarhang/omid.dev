@@ -4,6 +4,7 @@ date: 2010-04-17T21:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/evians-viral-roller-babies-jump-from-youtube-to-tv/
+shortlink: https://g.omid.dev/1RjZSmB
 tags:
   - commercials
   - Evian

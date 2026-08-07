@@ -4,6 +4,7 @@ date: 2010-02-08T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/08/new-rogue-safepcav/
+shortlink: https://g.omid.dev/1QCyy34
 tags:
   - Malware
   - Phishing

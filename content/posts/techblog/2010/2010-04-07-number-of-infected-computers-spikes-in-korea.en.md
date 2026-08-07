@@ -4,6 +4,7 @@ date: 2010-04-07T23:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/number-of-infected-computers-spikes-in-korea/
+shortlink: https://g.omid.dev/1Y3gxzh
 tags:
   - Malware
   - News

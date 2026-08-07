@@ -4,6 +4,7 @@ date: 2010-04-14T23:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/library-of-congress-to-preserve-tweets-for-eternity/
+shortlink: https://g.omid.dev/1XT1dG9
 tags:
   - Library of Congress
   - News

@@ -4,6 +4,7 @@ date: 2010-04-12T18:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/plenty-of-updates-on-patch-tuesday/
+shortlink: https://g.omid.dev/1Y7GPRJ
 tags:
   - Adobe
   - Microsoft

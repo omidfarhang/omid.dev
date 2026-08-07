@@ -4,6 +4,7 @@ date: 2012-08-23T12:38:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/23/firefox-17-to-make-add-ons-more-secure/
+shortlink: https://g.omid.dev/1QCyyA3
 tags:
   - Announcement
   - Beta

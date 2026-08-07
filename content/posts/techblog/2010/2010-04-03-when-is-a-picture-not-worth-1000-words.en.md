@@ -4,6 +4,7 @@ date: 2010-04-03T15:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/when-is-a-picture-not-worth-1000-words/
+shortlink: https://g.omid.dev/1pzV0U4
 tags:
   - Malware
   - review

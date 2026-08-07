@@ -4,6 +4,7 @@ date: 2011-03-15T10:30:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/15/twitter-using-gamification-to-increase-followers/
+shortlink: https://g.omid.dev/1RQWWQV
 tags:
   - News
   - Twitter

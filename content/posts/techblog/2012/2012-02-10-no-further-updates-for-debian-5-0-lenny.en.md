@@ -4,6 +4,7 @@ date: 2012-02-10T12:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/no-further-updates-for-debian-5-0-lenny/
+shortlink: https://g.omid.dev/21CLGMD
 tags:
   - advice
   - Announcement

@@ -4,6 +4,7 @@ date: 2010-04-07T23:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/china-denies-connection-to-high-level-hacking/
+shortlink: https://g.omid.dev/1SDq0vJ
 tags:
   - hack
   - News

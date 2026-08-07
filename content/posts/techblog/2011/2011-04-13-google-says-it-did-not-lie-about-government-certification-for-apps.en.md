@@ -4,6 +4,7 @@ date: 2011-04-13T12:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/google-says-it-did-not-lie-about-government-certification-for-apps/
+shortlink: https://g.omid.dev/1KWo1Tz
 tags:
   - Google
   - News

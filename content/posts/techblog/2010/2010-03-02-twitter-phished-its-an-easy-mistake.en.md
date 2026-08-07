@@ -4,6 +4,7 @@ date: 2010-03-02T00:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/twitter-phished-its-an-easy-mistake/
+shortlink: https://g.omid.dev/1UP1muk
 tags:
   - News
   - Phishing

@@ -4,6 +4,7 @@ date: 2012-02-10T11:24:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/love-seekers-beware-online-dating-fraud-rose-150-last-year/
+shortlink: https://g.omid.dev/1TNVB0F
 tags:
   - advice
   - alert

@@ -4,6 +4,7 @@ date: 2010-02-07T18:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/07/youd-think-a-company-pursuing-an-ipo-in-this-economy-would-clean-upits-act/
+shortlink: https://g.omid.dev/1YygRXL
 tags:
   - Phishing
   - scam

@@ -4,6 +4,7 @@ date: 2010-03-12T14:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/twitter-starts-direct-message-phishing-filtering/
+shortlink: https://g.omid.dev/253HnwI
 tags:
   - News
   - Social Media

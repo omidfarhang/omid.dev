@@ -4,6 +4,7 @@ date: 2011-08-05T14:56:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/05/get-ready-for-microsoft-13-updates-for-august-patch-tuesday/
+shortlink: https://g.omid.dev/1MdDnDN
 tags:
   - Microsoft
   - Security

@@ -4,6 +4,7 @@ date: 2012-08-02T19:46:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/02/libreoffice-vulnerable-to-multiple-buffer-overflows/
+shortlink: https://g.omid.dev/1LmVVRc
 tags:
   - libreOffice
   - report

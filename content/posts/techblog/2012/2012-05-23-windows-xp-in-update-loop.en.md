@@ -4,6 +4,7 @@ date: 2012-05-23T12:37:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/23/windows-xp-in-update-loop/
+shortlink: https://g.omid.dev/1Y7GWwt
 tags:
   - report
   - Updates

@@ -4,6 +4,7 @@ date: 2011-04-04T20:36:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/04/my-facebook-wall-has-been-viewed-x-times-viral-survey-scam-spreads-rapidly/
+shortlink: https://g.omid.dev/1UTIzhE
 tags:
   - advice
   - alert

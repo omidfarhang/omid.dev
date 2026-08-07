@@ -4,6 +4,7 @@ date: 2010-10-24T21:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/24/myspace-moves-against-apps-who-share-user-data/
+shortlink: https://g.omid.dev/1S7hSkh
 tags:
   - MySpace
   - News

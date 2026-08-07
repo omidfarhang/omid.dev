@@ -4,6 +4,7 @@ date: 2010-01-16T00:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/16/symantec-spam-and-phishing-landscape-january-2010/
+shortlink: https://g.omid.dev/1LXC9a6
 tags:
   - Phishing
   - report

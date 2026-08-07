@@ -4,6 +4,7 @@ date: 2012-05-16T19:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/16/google-bringing-new-smarts-to-search-with-knowledge-graph/
+shortlink: https://g.omid.dev/21CFxjx
 tags:
   - Announcement
   - Google

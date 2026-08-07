@@ -4,6 +4,7 @@ date: 2010-02-04T01:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/04/anatomy-of-a-free-starbucks-gift-card-scam/
+shortlink: https://g.omid.dev/1p2BUFr
 tags:
   - Facebook
   - Malware

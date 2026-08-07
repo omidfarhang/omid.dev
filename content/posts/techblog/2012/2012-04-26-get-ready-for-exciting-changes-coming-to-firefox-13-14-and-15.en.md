@@ -4,6 +4,7 @@ date: 2012-04-26T15:12:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/26/get-ready-for-exciting-changes-coming-to-firefox-13-14-and-15/
+shortlink: https://g.omid.dev/1Y7H1Af
 tags:
   - Announcement
   - Beta

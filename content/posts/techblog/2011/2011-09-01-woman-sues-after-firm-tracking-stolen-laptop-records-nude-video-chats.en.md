@@ -4,6 +4,7 @@ date: 2011-09-01T09:22:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/woman-sues-after-firm-tracking-stolen-laptop-records-nude-video-chats/
+shortlink: https://g.omid.dev/1MgqD9R
 tags:
   - hack
   - report

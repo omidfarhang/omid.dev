@@ -4,6 +4,7 @@ date: 2010-12-07T09:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/gmail-priority-inbox-now-learns-much-faster/
+shortlink: https://g.omid.dev/24PAejq
 tags:
   - Gmail
   - Google

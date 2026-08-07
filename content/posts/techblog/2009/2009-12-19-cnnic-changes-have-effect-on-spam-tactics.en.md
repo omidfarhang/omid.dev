@@ -4,6 +4,7 @@ date: 2009-12-19T13:29:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/19/cnnic-changes-have-effect-on-spam-tactics/
+shortlink: https://g.omid.dev/1QCyC2T
 tags:
   - report
   - spam

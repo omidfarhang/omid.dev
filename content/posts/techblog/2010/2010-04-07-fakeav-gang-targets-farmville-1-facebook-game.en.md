@@ -4,6 +4,7 @@ date: 2010-04-07T23:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/fakeav-gang-targets-farmville-1-facebook-game/
+shortlink: https://g.omid.dev/212RgWr
 tags:
   - advice
   - Facebook

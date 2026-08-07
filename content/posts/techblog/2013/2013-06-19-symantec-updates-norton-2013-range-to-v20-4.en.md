@@ -4,6 +4,7 @@ date: 2013-06-19T09:41:51+00:00
 layout: single
 author_profile: true
 url: 2013/06/19/symantec-updates-norton-2013-range-to-v20-4/
+shortlink: https://g.omid.dev/182Jx3T
 image: /images/2013/06/NIS-e1371815807148.png
 tags:
   - malwarebytes

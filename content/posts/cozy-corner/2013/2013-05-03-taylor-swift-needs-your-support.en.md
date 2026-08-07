@@ -4,6 +4,7 @@ date: 2013-05-03T20:31:34+00:00
 layout: single
 author_profile: true
 url: 2013/05/03/taylor-swift-needs-your-support/
+shortlink: https://g.omid.dev/1T9ypdf
 tags:
   - Music
 

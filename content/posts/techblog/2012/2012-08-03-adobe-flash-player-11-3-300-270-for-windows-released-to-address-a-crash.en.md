@@ -4,6 +4,7 @@ date: 2012-08-03T09:13:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/03/adobe-flash-player-11-3-300-270-for-windows-released-to-address-a-crash/
+shortlink: https://g.omid.dev/1Y7GTkk
 tags:
   - Adobe
   - flash player

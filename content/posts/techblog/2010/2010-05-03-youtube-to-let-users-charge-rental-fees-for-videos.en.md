@@ -4,6 +4,7 @@ date: 2010-05-03T19:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/youtube-to-let-users-charge-rental-fees-for-videos/
+shortlink: https://g.omid.dev/1TVqNLF
 tags:
   - Google
   - News

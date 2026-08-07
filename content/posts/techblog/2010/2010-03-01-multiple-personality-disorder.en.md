@@ -4,6 +4,7 @@ date: 2010-03-01T22:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/multiple-personality-disorder/
+shortlink: https://g.omid.dev/1Y7GQFl
 tags:
   - Malware
   - review

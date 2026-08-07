@@ -4,6 +4,7 @@ date: 2010-11-28T20:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/28/comment-on-stuxnet-and-more-windows-0-days/
+shortlink: https://g.omid.dev/1qSYBNv
 tags:
   - 0-Day
   - report

@@ -4,6 +4,7 @@ date: 2010-02-12T21:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/new-rogue-paladin-antivirus/
+shortlink: https://g.omid.dev/1WUb65k
 tags:
   - Malware
   - rogue software

@@ -4,6 +4,7 @@ date: 2010-02-12T21:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/new-google-chrome-beta-for-mac-gets-extensions/
+shortlink: https://g.omid.dev/1pfgq8W
 tags:
   - Google
   - Google Chrome

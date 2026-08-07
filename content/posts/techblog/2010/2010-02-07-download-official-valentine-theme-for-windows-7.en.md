@@ -4,6 +4,7 @@ date: 2010-02-07T20:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/07/download-official-valentine-theme-for-windows-7/
+shortlink: https://g.omid.dev/21PStCO
 tags:
   - Microsoft
   - Updates

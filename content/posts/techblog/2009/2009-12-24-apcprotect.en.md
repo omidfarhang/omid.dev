@@ -4,6 +4,7 @@ date: 2009-12-24T21:51:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/24/apcprotect/
+shortlink: https://g.omid.dev/1Y7HCCb
 tags:
   - Phishing
   - rogue software

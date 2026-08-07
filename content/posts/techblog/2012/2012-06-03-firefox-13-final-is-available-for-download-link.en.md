@@ -4,6 +4,7 @@ date: 2012-06-03T08:49:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/03/firefox-13-final-is-available-for-download-link/
+shortlink: https://g.omid.dev/1RQX4jv
 tags:
   - Browsers
   - Firefox

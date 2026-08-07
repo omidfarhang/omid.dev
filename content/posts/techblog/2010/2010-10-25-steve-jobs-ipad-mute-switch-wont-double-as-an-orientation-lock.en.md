@@ -4,6 +4,7 @@ date: 2010-10-25T11:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/25/steve-jobs-ipad-mute-switch-wont-double-as-an-orientation-lock/
+shortlink: https://g.omid.dev/1TYDWUI
 tags:
   - Apple
 

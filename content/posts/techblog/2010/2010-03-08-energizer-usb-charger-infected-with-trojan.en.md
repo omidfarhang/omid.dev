@@ -4,6 +4,7 @@ date: 2010-03-08T23:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/08/energizer-usb-charger-infected-with-trojan/
+shortlink: https://g.omid.dev/1TVqP6m
 tags:
   - Malware
   - report

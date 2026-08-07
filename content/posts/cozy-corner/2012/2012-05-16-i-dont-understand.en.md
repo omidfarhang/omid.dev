@@ -4,6 +4,7 @@ date: 2012-05-16T22:09:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/16/i-dont-understand/
+shortlink: https://g.omid.dev/1UJgh9F
 tags:
   - My Life
 

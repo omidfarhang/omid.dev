@@ -4,6 +4,7 @@ date: 2010-11-06T14:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/no-prn-for-you-naughty-boy/
+shortlink: https://g.omid.dev/1TYYg6r
 tags:
   - Hijack
   - Malware

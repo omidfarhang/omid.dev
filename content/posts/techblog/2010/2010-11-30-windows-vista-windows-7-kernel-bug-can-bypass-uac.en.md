@@ -4,6 +4,7 @@ date: 2010-11-30T22:38:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/windows-vista-windows-7-kernel-bug-can-bypass-uac/
+shortlink: https://g.omid.dev/1Y7HFhb
 tags:
   - 0-Day
   - alert

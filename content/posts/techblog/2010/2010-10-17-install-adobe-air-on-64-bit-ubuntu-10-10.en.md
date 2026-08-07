@@ -4,6 +4,7 @@ date: 2010-10-17T08:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/17/install-adobe-air-on-64-bit-ubuntu-10-10/
+shortlink: https://g.omid.dev/1nHt5zX
 tags:
   - Adobe
   - How to

@@ -4,6 +4,7 @@ date: 2012-02-12T22:20:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/12/microsoft-store-india-got-hacked-in-india/
+shortlink: https://g.omid.dev/1UhBff9
 tags:
   - hack
   - Microsoft

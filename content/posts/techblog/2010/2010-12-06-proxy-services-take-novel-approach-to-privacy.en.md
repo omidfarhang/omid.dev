@@ -4,6 +4,7 @@ date: 2010-12-06T20:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/proxy-services-take-novel-approach-to-privacy/
+shortlink: https://g.omid.dev/1VYAAOP
 tags:
   - advice
   - Phishing

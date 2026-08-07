@@ -4,6 +4,7 @@ date: 2010-02-11T16:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/11/google-chrome-stable-channel-update-2/
+shortlink: https://g.omid.dev/1QCywIs
 tags:
   - Google
   - Google Chrome

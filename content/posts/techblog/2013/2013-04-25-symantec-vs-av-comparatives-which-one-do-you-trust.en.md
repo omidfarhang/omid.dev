@@ -4,6 +4,7 @@ date: 2013-04-25T18:42:01+00:00
 layout: single
 author_profile: true
 url: 2013/04/25/symantec-vs-av-comparatives-which-one-do-you-trust/
+shortlink: https://g.omid.dev/1RQXqqe
 image: /images/2013/04/symantec-calls-test-misleading.jpg
 tags:
   - Security

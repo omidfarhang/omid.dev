@@ -4,6 +4,7 @@ date: 2010-04-14T23:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/google-upgrades-its-twitter-search-features/
+shortlink: https://g.omid.dev/1Yyda4i
 tags:
   - Google
   - News

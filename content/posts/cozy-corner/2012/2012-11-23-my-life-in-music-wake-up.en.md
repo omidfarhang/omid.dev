@@ -4,6 +4,7 @@ date: 2012-11-23T16:46:00+00:00
 layout: single
 author_profile: true
 url: 2012/11/23/my-life-in-music-wake-up/
+shortlink: https://g.omid.dev/1TXF5uZ
 tags:
   - Music Life
 

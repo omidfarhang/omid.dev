@@ -4,6 +4,7 @@ date: 2010-10-24T21:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/24/googles-spam-report-extension/
+shortlink: https://g.omid.dev/1QkM8LM
 tags:
   - Extension
   - Google

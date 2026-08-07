@@ -4,6 +4,7 @@ date: 2012-03-22T20:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/22/firefox-switching-to-encrypted-google-search/
+shortlink: https://g.omid.dev/1LmX4bs
 tags:
   - Announcement
   - Firefox

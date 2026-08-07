@@ -4,6 +4,7 @@ date: 2009-12-29T13:08:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/29/total-pc-defender/
+shortlink: https://g.omid.dev/1QCyvnO
 tags:
   - rogue software
   - scam

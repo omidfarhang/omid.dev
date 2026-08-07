@@ -4,6 +4,7 @@ date: 2010-05-11T22:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/patch-tuesday-minor-movements/
+shortlink: https://g.omid.dev/1T3nXnq
 tags:
   - Adobe
   - Apple

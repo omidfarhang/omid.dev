@@ -4,6 +4,7 @@ date: 2010-08-29T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/29/malicious-warez-site-offers-firefox-4-0-beta-download-scam/
+shortlink: https://g.omid.dev/1Y7GUVp
 tags:
   - Firefox
   - Firefox 4.0

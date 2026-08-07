@@ -4,6 +4,7 @@ date: 2012-04-26T14:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/26/security-improvements-in-opera-12-beta/
+shortlink: https://g.omid.dev/1nlKJZP
 tags:
   - Beta
   - Browsers

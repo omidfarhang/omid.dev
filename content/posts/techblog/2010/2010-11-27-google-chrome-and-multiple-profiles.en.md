@@ -4,6 +4,7 @@ date: 2010-11-27T17:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/27/google-chrome-and-multiple-profiles/
+shortlink: https://g.omid.dev/1S7hSAW
 tags:
   - Google
   - Google Chrome

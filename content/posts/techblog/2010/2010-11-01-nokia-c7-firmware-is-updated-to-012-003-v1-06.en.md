@@ -4,6 +4,7 @@ date: 2010-11-01T22:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/01/nokia-c7-firmware-is-updated-to-012-003-v1-06/
+shortlink: https://g.omid.dev/22t2xSH
 tags:
   - firmware
   - Mobile

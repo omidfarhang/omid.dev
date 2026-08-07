@@ -4,6 +4,7 @@ date: 2010-03-02T00:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/this-you-whats-the-point-of-phishing-a-twitter-account/
+shortlink: https://g.omid.dev/1Y7GHSj
 tags:
   - advice
   - Phishing

@@ -4,6 +4,7 @@ date: 2010-03-19T10:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/blank-plastic/
+shortlink: https://g.omid.dev/1Lb0sGB
 tags:
   - Interesting
   - review

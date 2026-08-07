@@ -4,6 +4,7 @@ date: 2010-03-12T11:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/you-dont-want-to-go-looking-for-corey-haim-videos/
+shortlink: https://g.omid.dev/1RNsYLb
 tags:
   - Malware
   - Phishing

@@ -4,6 +4,7 @@ date: 2010-08-14T20:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/14/my-friend-has-invited-me-to-twitter/
+shortlink: https://g.omid.dev/1pYozyF
 tags:
   - Malware
   - Social Media

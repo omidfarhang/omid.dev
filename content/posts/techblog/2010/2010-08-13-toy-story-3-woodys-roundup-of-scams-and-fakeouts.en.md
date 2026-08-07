@@ -4,6 +4,7 @@ date: 2010-08-13T17:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/13/toy-story-3-woodys-roundup-of-scams-and-fakeouts/
+shortlink: https://g.omid.dev/1UmlAfZ
 tags:
   - Malware
   - Phishing

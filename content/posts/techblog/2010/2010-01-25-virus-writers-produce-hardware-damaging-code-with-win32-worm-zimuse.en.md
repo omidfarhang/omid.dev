@@ -4,6 +4,7 @@ date: 2010-01-25T22:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/25/virus-writers-produce-hardware-damaging-code-with-win32-worm-zimuse/
+shortlink: https://g.omid.dev/1RjB5Pt
 tags:
   - alert
   - Malware

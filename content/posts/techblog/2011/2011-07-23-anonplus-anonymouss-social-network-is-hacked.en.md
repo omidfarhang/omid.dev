@@ -4,6 +4,7 @@ date: 2011-07-23T19:42:00+00:00
 layout: single
 author_profile: true
 url: 2011/07/23/anonplus-anonymouss-social-network-is-hacked/
+shortlink: https://g.omid.dev/24ZSKFQ
 tags:
   - Anonymous
   - hack

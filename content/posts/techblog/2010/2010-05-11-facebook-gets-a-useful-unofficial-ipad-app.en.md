@@ -4,6 +4,7 @@ date: 2010-05-11T21:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/facebook-gets-a-useful-unofficial-ipad-app/
+shortlink: https://g.omid.dev/1TVaw9g
 tags:
   - Facebook
   - Apple

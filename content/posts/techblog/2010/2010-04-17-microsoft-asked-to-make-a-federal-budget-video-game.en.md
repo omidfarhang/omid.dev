@@ -4,6 +4,7 @@ date: 2010-04-17T22:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/microsoft-asked-to-make-a-federal-budget-video-game/
+shortlink: https://g.omid.dev/1TVAQjs
 tags:
   - Gaming
   - Government

@@ -4,6 +4,7 @@ date: 2011-08-25T10:43:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/25/java-6-update-27-released/
+shortlink: https://g.omid.dev/1SaW5N9
 tags:
   - Java
   - Oracle

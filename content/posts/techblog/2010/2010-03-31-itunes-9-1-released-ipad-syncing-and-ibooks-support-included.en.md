@@ -4,6 +4,7 @@ date: 2010-03-31T12:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/31/itunes-9-1-released-ipad-syncing-and-ibooks-support-included/
+shortlink: https://g.omid.dev/1TVxPzK
 tags:
   - Apple
   - Updates

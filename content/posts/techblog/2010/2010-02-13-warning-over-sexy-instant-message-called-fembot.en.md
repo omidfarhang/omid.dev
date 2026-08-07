@@ -4,6 +4,7 @@ date: 2010-02-13T01:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/13/warning-over-sexy-instant-message-called-fembot/
+shortlink: https://g.omid.dev/1RgTdJp
 tags:
   - Instant Messaging
   - Phishing

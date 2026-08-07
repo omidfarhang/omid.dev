@@ -4,6 +4,7 @@ date: 2010-10-29T12:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/security-advisory-for-adobe-flash-player-adobe-reader-and-acrobat/
+shortlink: https://g.omid.dev/1WRIsS9
 tags:
   - Adobe
   - advice

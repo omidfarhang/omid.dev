@@ -4,6 +4,7 @@ date: 2010-01-22T11:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/now-you-too-can-mount-your-own-operation-aurora-attacks/
+shortlink: https://g.omid.dev/260ITQJ
 tags:
   - alert
   - Microsoft

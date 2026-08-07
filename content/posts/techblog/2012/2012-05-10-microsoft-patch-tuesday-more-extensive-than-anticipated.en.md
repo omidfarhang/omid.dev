@@ -4,6 +4,7 @@ date: 2012-05-10T09:43:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/10/microsoft-patch-tuesday-more-extensive-than-anticipated/
+shortlink: https://g.omid.dev/1WRIB88
 tags:
   - Microsoft
   - Security

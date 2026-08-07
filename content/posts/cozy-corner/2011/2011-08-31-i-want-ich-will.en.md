@@ -4,6 +4,7 @@ date: 2011-08-31T17:23:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/31/i-want-ich-will/
+shortlink: https://g.omid.dev/1RAraaZ
 tags:
   - My Life
 

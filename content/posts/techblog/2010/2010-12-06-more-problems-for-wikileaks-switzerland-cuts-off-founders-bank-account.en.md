@@ -4,6 +4,7 @@ date: 2010-12-06T20:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/more-problems-for-wikileaks-switzerland-cuts-off-founders-bank-account/
+shortlink: https://g.omid.dev/1TVtzjR
 tags:
   - WikiLeaks
 

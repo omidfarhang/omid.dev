@@ -4,6 +4,7 @@ date: 2010-11-12T13:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/google-cleans-up-messy-data-with-refine/
+shortlink: https://g.omid.dev/1LyUWgX
 tags:
   - Announcement
   - Google

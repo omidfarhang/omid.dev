@@ -4,6 +4,7 @@ date: 2010-11-12T13:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/facebook-to-spend-nearly-half-a-billion-dollars-on-new-data-center/
+shortlink: https://g.omid.dev/1pYoQl7
 tags:
   - Facebook
   - News

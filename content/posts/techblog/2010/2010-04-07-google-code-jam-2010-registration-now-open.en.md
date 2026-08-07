@@ -4,6 +4,7 @@ date: 2010-04-07T21:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/google-code-jam-2010-registration-now-open/
+shortlink: https://g.omid.dev/1LOC5ZY
 tags:
   - Google
   - News

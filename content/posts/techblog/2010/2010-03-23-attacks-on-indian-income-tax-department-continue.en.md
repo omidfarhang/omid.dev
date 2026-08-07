@@ -4,6 +4,7 @@ date: 2010-03-23T00:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/attacks-on-indian-income-tax-department-continue/
+shortlink: https://g.omid.dev/1QCyro8
 tags:
   - Phishing
   - scam

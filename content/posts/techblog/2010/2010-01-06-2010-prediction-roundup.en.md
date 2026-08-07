@@ -4,6 +4,7 @@ date: 2010-01-06T13:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/2010-prediction-roundup/
+shortlink: https://g.omid.dev/1QCyu3w
 tags:
   - alert
   - Android

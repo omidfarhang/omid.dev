@@ -4,6 +4,7 @@ date: 2010-03-04T23:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/chat-with-malcode/
+shortlink: https://g.omid.dev/1naMrNy
 tags:
   - Malware
   - review

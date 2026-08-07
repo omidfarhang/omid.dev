@@ -4,6 +4,7 @@ date: 2010-10-19T20:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/thief-steals-laptop-returns-data-on-usb-stick/
+shortlink: https://g.omid.dev/1pYoAm5
 tags:
   - Interesting
   - News

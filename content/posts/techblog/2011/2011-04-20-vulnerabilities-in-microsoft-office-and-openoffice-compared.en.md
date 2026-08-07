@@ -4,6 +4,7 @@ date: 2011-04-20T17:26:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/20/vulnerabilities-in-microsoft-office-and-openoffice-compared/
+shortlink: https://g.omid.dev/1LmURNp
 tags:
   - Microsoft
   - Microsoft Office

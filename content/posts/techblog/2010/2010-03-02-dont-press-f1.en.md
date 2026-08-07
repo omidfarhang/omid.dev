@@ -4,6 +4,7 @@ date: 2010-03-02T22:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/dont-press-f1/
+shortlink: https://g.omid.dev/1WRIyta
 tags:
   - advice
   - Internet Explorer

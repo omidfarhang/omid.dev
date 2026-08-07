@@ -4,6 +4,7 @@ date: 2012-08-02T13:08:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/02/grand-ayatollah-ali-khamenei-joins-instagram-posts-pics/
+shortlink: https://g.omid.dev/1pti2fw
 tags:
   - Instagram
   - Iran

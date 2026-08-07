@@ -4,6 +4,7 @@ date: 2010-02-07T18:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/07/job-opportunity-without-a-single-name/
+shortlink: https://g.omid.dev/1RA3Z0c
 tags:
   - AOL
   - Phishing

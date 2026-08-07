@@ -4,6 +4,7 @@ date: 2010-08-16T14:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/16/internet-explorer-turns-15/
+shortlink: https://g.omid.dev/1Y7GOx3
 tags:
   - Browsers
   - Internet Explorer

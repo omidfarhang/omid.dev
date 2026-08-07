@@ -4,6 +4,7 @@ date: 2010-03-05T01:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/yahoo-mail-makes-friends-with-facebook/
+shortlink: https://g.omid.dev/1RNt1GO
 tags:
   - Facebook
   - News

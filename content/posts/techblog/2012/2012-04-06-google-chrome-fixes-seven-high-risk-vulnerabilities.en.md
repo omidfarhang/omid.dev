@@ -4,6 +4,7 @@ date: 2012-04-06T20:28:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/06/google-chrome-fixes-seven-high-risk-vulnerabilities/
+shortlink: https://g.omid.dev/1Y7H1An
 tags:
   - Browsers
   - Google

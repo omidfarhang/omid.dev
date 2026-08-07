@@ -4,6 +4,7 @@ date: 2010-10-28T20:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/mozilla-delays-firefox-4-until-2011/
+shortlink: https://g.omid.dev/1LyS5ES
 tags:
   - Beta
   - Browsers

@@ -4,6 +4,7 @@ date: 2010-04-09T16:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/ninjas-taking-over-linkedin/
+shortlink: https://g.omid.dev/1VxENfV
 tags:
   - LinkedIn
   - report

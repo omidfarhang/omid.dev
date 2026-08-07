@@ -4,6 +4,7 @@ date: 2012-03-01T07:41:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/01/free-ipad-3-it-doesnt-exist-beware-of-scams/
+shortlink: https://g.omid.dev/1Y7HzpO
 tags:
   - Apple
   - Facebook

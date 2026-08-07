@@ -4,6 +4,7 @@ date: 2012-07-08T15:41:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/08/important-today-is-your-last-chance-to-keep-your-internet-connection/
+shortlink: https://g.omid.dev/1QWyWim
 tags:
   - advice
   - alert

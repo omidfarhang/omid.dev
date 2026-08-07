@@ -4,6 +4,7 @@ date: 2010-11-01T22:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/01/microsoft-to-withdraw-silverlight/
+shortlink: https://g.omid.dev/1VLqkJt
 tags:
   - Microsoft
   - Silverlight

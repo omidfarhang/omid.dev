@@ -4,6 +4,7 @@ date: 2012-03-13T14:03:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/13/critical-vulnerabilities-in-xnview-fixed/
+shortlink: https://g.omid.dev/1Tzdm3V
 tags:
   - Updates
 

@@ -4,6 +4,7 @@ date: 2010-04-07T23:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/poc-is-out-a-worm-that-spreads-via-pdfs/
+shortlink: https://g.omid.dev/1X6QhE8
 tags:
   - advice
   - alert

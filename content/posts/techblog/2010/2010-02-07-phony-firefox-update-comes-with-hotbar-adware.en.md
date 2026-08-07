@@ -4,6 +4,7 @@ date: 2010-02-07T23:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/07/phony-firefox-update-comes-with-hotbar-adware/
+shortlink: https://g.omid.dev/1Y7GJt7
 tags:
   - alert
   - Firefox

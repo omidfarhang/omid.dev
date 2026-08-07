@@ -4,6 +4,7 @@ date: 2010-03-23T00:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/fix-it-tool-for-ie-0-day/
+shortlink: https://g.omid.dev/1Y7HN0k
 tags:
   - 0-Day
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-12-08T00:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/google-chrome-has-120-million-users/
+shortlink: https://g.omid.dev/1p6nWTs
 tags:
   - Google
   - Google Chrome

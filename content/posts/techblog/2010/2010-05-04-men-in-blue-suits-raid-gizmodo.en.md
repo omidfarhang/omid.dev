@@ -4,6 +4,7 @@ date: 2010-05-04T00:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/men-in-blue-suits-raid-gizmodo/
+shortlink: https://g.omid.dev/1Y7HAtP
 tags:
   - Apple
   - News

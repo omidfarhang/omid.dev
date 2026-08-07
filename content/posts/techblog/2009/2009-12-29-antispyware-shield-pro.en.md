@@ -4,6 +4,7 @@ date: 2009-12-29T13:11:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/29/antispyware-shield-pro/
+shortlink: https://g.omid.dev/1LcAOkS
 tags:
   - rogue software
   - scam

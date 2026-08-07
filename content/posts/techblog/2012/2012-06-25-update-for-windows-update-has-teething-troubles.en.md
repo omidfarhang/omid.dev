@@ -4,6 +4,7 @@ date: 2012-06-25T16:42:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/25/update-for-windows-update-has-teething-troubles/
+shortlink: https://g.omid.dev/1Ycj6zM
 tags:
   - Microsoft
   - problems

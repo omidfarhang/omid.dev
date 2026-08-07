@@ -4,6 +4,7 @@ date: 2010-04-17T19:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/sony-ericsson-returns-to-profitability/
+shortlink: https://g.omid.dev/1VLst88
 tags:
   - Financial results
   - Mobile

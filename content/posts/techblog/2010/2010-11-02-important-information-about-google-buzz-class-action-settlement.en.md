@@ -4,6 +4,7 @@ date: 2010-11-02T23:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/02/important-information-about-google-buzz-class-action-settlement/
+shortlink: https://g.omid.dev/25toEus
 tags:
   - Google
   - privacy

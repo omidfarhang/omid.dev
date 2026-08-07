@@ -4,6 +4,7 @@ date: 2012-04-25T20:20:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/25/online-forums-hacked-and-misused-on-a-large-scale/
+shortlink: https://g.omid.dev/1WRIv0k
 tags:
   - advice
   - forum

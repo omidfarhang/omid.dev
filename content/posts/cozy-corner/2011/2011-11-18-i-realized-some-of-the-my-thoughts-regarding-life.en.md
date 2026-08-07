@@ -4,6 +4,7 @@ date: 2011-11-18T16:44:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/18/i-realized-some-of-the-my-thoughts-regarding-life/
+shortlink: https://g.omid.dev/1p2dqfW
 tags:
   - I think
 

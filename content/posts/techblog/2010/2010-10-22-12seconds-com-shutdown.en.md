@@ -4,6 +4,7 @@ date: 2010-10-22T21:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/12seconds-com-shutdown/
+shortlink: https://g.omid.dev/1S0GuvN
 tags:
   - alert
   - News

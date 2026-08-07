@@ -4,6 +4,7 @@ date: 2010-05-11T17:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/virtualization-and-the-cloud-team-up-vmware-with-salesforce-com/
+shortlink: https://g.omid.dev/1TbUpEg
 tags:
   - Cloud
   - Cloud Computing

@@ -4,6 +4,7 @@ date: 2013-03-02T20:23:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/02/evernote-is-suspect-of-a-hack-change-your-password/
+shortlink: https://g.omid.dev/1WRIt8T
 tags:
   - Evernote
   - hack

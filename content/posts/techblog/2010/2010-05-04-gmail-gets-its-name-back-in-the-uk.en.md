@@ -4,6 +4,7 @@ date: 2010-05-04T13:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/gmail-gets-its-name-back-in-the-uk/
+shortlink: https://g.omid.dev/1WA0Wdn
 tags:
   - Gmail
   - Google

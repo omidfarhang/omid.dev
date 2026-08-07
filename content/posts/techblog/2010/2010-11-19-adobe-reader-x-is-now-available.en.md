@@ -4,6 +4,7 @@ date: 2010-11-19T16:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/19/adobe-reader-x-is-now-available/
+shortlink: https://g.omid.dev/1TVqDEf
 tags:
   - Adobe
   - software

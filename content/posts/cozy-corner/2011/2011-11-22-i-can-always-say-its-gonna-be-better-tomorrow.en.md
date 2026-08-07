@@ -4,6 +4,7 @@ date: 2011-11-22T21:01:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/22/i-can-always-say-its-gonna-be-better-tomorrow/
+shortlink: https://g.omid.dev/1oGSQ3W
 tags:
   - Video
 

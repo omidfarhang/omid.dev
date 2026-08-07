@@ -4,6 +4,7 @@ date: 2012-09-12T16:47:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/12/microsoft-to-patch-flash-hole-in-windows-8-shortly/
+shortlink: https://g.omid.dev/1Qr9JHi
 tags:
   - Adobe
   - flash player

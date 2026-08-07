@@ -4,6 +4,7 @@ date: 2009-12-22T11:11:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/22/facebook-money-mule-or-credit-card/
+shortlink: https://g.omid.dev/1njzLEe
 tags:
   - Facebook
   - Phishing

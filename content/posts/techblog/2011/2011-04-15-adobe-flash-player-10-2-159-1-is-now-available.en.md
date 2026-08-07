@@ -4,6 +4,7 @@ date: 2011-04-15T22:36:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/15/adobe-flash-player-10-2-159-1-is-now-available/
+shortlink: https://g.omid.dev/1LUZfxP
 tags:
   - Adobe
   - flash player

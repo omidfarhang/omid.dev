@@ -4,6 +4,7 @@ date: 2010-01-06T13:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/seen-in-the-wild-specialty-phishing/
+shortlink: https://g.omid.dev/21CMWj0
 tags:
   - hack
   - Phishing

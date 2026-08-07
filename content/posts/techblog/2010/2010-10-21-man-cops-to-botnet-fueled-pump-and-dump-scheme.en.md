@@ -4,6 +4,7 @@ date: 2010-10-21T17:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/man-cops-to-botnet-fueled-pump-and-dump-scheme/
+shortlink: https://g.omid.dev/25toHXe
 tags:
   - Malware
   - report

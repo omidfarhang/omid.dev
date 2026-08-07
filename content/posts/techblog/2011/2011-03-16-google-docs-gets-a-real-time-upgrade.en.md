@@ -4,6 +4,7 @@ date: 2011-03-16T17:01:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/16/google-docs-gets-a-real-time-upgrade/
+shortlink: https://g.omid.dev/1LcAimN
 tags:
   - Google
   - News

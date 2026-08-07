@@ -4,6 +4,7 @@ date: 2010-02-12T23:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/source-code-for-blackberry-and-iphone-spyware-published/
+shortlink: https://g.omid.dev/1RNsZyH
 tags:
   - Apple
   - Mobile

@@ -4,6 +4,7 @@ date: 2010-03-31T19:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/31/apple-issues-mega-patch-for-mac-os-x/
+shortlink: https://g.omid.dev/1L6mt9z
 tags:
   - Apple
   - Updates

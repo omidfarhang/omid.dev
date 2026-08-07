@@ -4,6 +4,7 @@ date: 2012-02-13T17:19:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/13/new-captcha-method-or-just-another-likejacking-scam/
+shortlink: https://g.omid.dev/21RcZXf
 tags:
   - analyze
   - Facebook

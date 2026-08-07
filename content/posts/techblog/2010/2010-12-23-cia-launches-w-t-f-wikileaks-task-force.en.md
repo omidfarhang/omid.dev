@@ -4,6 +4,7 @@ date: 2010-12-23T16:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/23/cia-launches-w-t-f-wikileaks-task-force/
+shortlink: https://g.omid.dev/1SMvORh
 tags:
   - CIA
   - government

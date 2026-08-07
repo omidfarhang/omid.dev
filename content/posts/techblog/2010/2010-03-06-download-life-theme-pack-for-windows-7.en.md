@@ -4,6 +4,7 @@ date: 2010-03-06T12:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/06/download-life-theme-pack-for-windows-7/
+shortlink: https://g.omid.dev/1WcF6ZS
 tags:
   - Microsoft
 

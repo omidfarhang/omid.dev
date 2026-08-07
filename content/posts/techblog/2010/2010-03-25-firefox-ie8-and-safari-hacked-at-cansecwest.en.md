@@ -4,6 +4,7 @@ date: 2010-03-25T23:38:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/firefox-ie8-and-safari-hacked-at-cansecwest/
+shortlink: https://g.omid.dev/1LDavUJ
 tags:
   - Apple
   - Browsers

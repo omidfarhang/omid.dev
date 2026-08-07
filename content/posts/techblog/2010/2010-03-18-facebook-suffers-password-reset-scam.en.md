@@ -4,6 +4,7 @@ date: 2010-03-18T08:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/18/facebook-suffers-password-reset-scam/
+shortlink: https://g.omid.dev/1V3Wrak
 tags:
   - Facebook
   - scam

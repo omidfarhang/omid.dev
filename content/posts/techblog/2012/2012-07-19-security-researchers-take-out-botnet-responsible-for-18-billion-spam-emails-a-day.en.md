@@ -4,6 +4,7 @@ date: 2012-07-19T23:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/19/security-researchers-take-out-botnet-responsible-for-18-billion-spam-emails-a-day/
+shortlink: https://g.omid.dev/1WRIt8L
 tags:
   - News
   - spam

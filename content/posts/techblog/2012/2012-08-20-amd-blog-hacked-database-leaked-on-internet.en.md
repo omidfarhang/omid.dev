@@ -4,6 +4,7 @@ date: 2012-08-20T12:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/20/amd-blog-hacked-database-leaked-on-internet/
+shortlink: https://g.omid.dev/1WRIvNR
 tags:
   - AMD
   - hack

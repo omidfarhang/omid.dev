@@ -4,6 +4,7 @@ date: 2011-10-19T15:15:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/19/happy-feelings/
+shortlink: https://g.omid.dev/1VLvaGC
 tags:
   - My Life
   - Video

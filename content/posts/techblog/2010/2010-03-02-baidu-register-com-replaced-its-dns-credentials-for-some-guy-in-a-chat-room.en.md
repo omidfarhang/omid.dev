@@ -4,6 +4,7 @@ date: 2010-03-02T01:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/baidu-register-com-replaced-its-dns-credentials-for-some-guy-in-a-chat-room/
+shortlink: https://g.omid.dev/1QCyuAm
 tags:
   - hack
   - News

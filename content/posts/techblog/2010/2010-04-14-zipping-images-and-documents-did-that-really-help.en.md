@@ -4,6 +4,7 @@ date: 2010-04-14T14:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/zipping-images-and-documents-did-that-really-help/
+shortlink: https://g.omid.dev/1Y0cZyx
 tags:
   - Malware
   - spam

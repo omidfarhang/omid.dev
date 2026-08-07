@@ -4,6 +4,7 @@ date: 2010-10-28T14:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/russian-government-decides-to-develop-windows-alternative/
+shortlink: https://g.omid.dev/1Y7H7rD
 tags:
   - Linux
   - Operation System

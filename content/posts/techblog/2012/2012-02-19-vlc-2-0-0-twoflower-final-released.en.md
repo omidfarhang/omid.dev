@@ -4,6 +4,7 @@ date: 2012-02-19T12:49:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/19/vlc-2-0-0-twoflower-final-released/
+shortlink: https://g.omid.dev/1TEa7Zs
 tags:
   - software
   - Updates

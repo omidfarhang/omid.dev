@@ -4,6 +4,7 @@ date: 2010-02-21T18:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/internet-users-skip-security-because-of-jargon/
+shortlink: https://g.omid.dev/1QWyKQ6
 tags:
   - advice
   - News

@@ -4,6 +4,7 @@ date: 2011-08-31T22:46:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/31/kernel-org-compromised/
+shortlink: https://g.omid.dev/1WRIsla
 tags:
   - kernel.org
   - report

@@ -4,6 +4,7 @@ date: 2010-01-21T20:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/protectdefender/
+shortlink: https://g.omid.dev/1L6uHyx
 tags:
   - Malware
   - rogue software

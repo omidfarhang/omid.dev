@@ -4,6 +4,7 @@ date: 2010-03-08T22:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/08/cute-and-malicious/
+shortlink: https://g.omid.dev/1Rx7MJf
 tags:
   - Facebook
   - Hijack

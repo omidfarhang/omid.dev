@@ -4,6 +4,7 @@ date: 2011-03-17T23:48:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/17/wd-introduces-6tb-external-hdd-for-hd-content-creation/
+shortlink: https://g.omid.dev/1Sa1vIi
 tags:
   - hard drive
   - Hardware

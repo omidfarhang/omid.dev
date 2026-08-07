@@ -4,6 +4,7 @@ date: 2010-11-12T13:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/itunes-store-links-up-with-twitter-via-ping/
+shortlink: https://g.omid.dev/1SaV0os
 tags:
   - itunes
   - News

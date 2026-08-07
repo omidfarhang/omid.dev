@@ -4,6 +4,7 @@ date: 2010-05-03T21:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/twitter-to-launch-embeddable-tweets/
+shortlink: https://g.omid.dev/1TVqNvi
 tags:
   - Embedded Tweets
   - News

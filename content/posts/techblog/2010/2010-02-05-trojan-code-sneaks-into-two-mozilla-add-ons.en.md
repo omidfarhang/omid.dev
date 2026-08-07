@@ -4,6 +4,7 @@ date: 2010-02-05T22:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/05/trojan-code-sneaks-into-two-mozilla-add-ons/
+shortlink: https://g.omid.dev/1Rzot6Z
 tags:
   - alert
   - Firefox

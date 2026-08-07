@@ -4,6 +4,7 @@ date: 2010-12-06T20:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/this-isnt-a-video-its-a-phish/
+shortlink: https://g.omid.dev/1UAutl9
 tags:
   - advice
   - alert

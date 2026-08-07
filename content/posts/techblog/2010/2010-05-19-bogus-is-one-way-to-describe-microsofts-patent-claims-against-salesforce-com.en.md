@@ -4,6 +4,7 @@ date: 2010-05-19T14:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/bogus-is-one-way-to-describe-microsofts-patent-claims-against-salesforce-com/
+shortlink: https://g.omid.dev/1QWAtoN
 tags:
   - Apple
   - Microsoft

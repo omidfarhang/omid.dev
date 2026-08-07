@@ -4,6 +4,7 @@ date: 2010-04-14T22:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/faceparty-password-sites-really-want-you-to-click-on-things/
+shortlink: https://g.omid.dev/1PgSarF
 tags:
   - Phishing
   - report

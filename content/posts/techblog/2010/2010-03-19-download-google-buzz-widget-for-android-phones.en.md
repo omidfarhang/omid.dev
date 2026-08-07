@@ -4,6 +4,7 @@ date: 2010-03-19T09:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/download-google-buzz-widget-for-android-phones/
+shortlink: https://g.omid.dev/1phOr84
 tags:
   - Android
   - Google

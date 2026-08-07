@@ -5,6 +5,7 @@ description: "From million to googolplex — and why “billion” does not mean
 layout: single
 author_profile: true
 url: 2013/03/17/what-is-the-largest-number-that-you-know/
+shortlink: https://g.omid.dev/1LmS72o
 tags:
   - Mathematics
   - Curiosity

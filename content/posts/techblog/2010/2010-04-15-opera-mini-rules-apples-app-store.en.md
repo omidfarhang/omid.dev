@@ -4,6 +4,7 @@ date: 2010-04-15T11:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/15/opera-mini-rules-apples-app-store/
+shortlink: https://g.omid.dev/1n60xjc
 tags:
   - App Store
   - Apple

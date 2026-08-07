@@ -4,6 +4,7 @@ date: 2011-03-17T00:08:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/17/new-chrome-logo/
+shortlink: https://g.omid.dev/1RQWZfO
 tags:
   - Google
   - Google Chrome

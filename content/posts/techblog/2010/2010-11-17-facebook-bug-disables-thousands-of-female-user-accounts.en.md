@@ -4,6 +4,7 @@ date: 2010-11-17T20:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/17/facebook-bug-disables-thousands-of-female-user-accounts/
+shortlink: https://g.omid.dev/1R65dk7
 tags:
   - Facebook
   - report

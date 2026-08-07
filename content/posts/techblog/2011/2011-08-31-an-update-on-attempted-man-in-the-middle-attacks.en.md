@@ -4,6 +4,7 @@ date: 2011-08-31T22:19:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/31/an-update-on-attempted-man-in-the-middle-attacks/
+shortlink: https://g.omid.dev/1LEQX2q
 tags:
   - attack
   - Google

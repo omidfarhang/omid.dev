@@ -4,6 +4,7 @@ date: 2010-10-17T22:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/17/facebook-and-skype-deal-to-dial-friends-and-family/
+shortlink: https://g.omid.dev/1MByqiI
 tags:
   - Facebook
   - Skype

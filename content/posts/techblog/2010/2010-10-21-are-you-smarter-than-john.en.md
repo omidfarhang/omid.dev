@@ -4,6 +4,7 @@ date: 2010-10-21T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/are-you-smarter-than-john/
+shortlink: https://g.omid.dev/1TVqy3o
 tags:
   - Fun
   - Interesting

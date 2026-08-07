@@ -4,6 +4,7 @@ date: 2010-02-11T20:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/11/take-care-before-valentine-cupid-struck/
+shortlink: https://g.omid.dev/21LhqD1
 tags:
   - Malware
   - scam

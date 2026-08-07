@@ -4,6 +4,7 @@ date: 2010-12-08T00:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/adobe-reader-and-google-chrome/
+shortlink: https://g.omid.dev/1TXV10m
 tags:
   - Adobe
   - Google

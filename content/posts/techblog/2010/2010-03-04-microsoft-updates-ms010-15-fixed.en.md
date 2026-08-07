@@ -4,6 +4,7 @@ date: 2010-03-04T00:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/microsoft-updates-ms010-15-fixed/
+shortlink: https://g.omid.dev/1p6mIrB
 tags:
   - Microsoft
   - News

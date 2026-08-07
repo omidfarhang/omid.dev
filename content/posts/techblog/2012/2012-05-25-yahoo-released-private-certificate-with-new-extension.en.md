@@ -4,6 +4,7 @@ date: 2012-05-25T09:16:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/25/yahoo-released-private-certificate-with-new-extension/
+shortlink: https://g.omid.dev/1WRIslk
 tags:
   - privacy
   - report

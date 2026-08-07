@@ -4,6 +4,7 @@ date: 2012-03-29T14:26:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/29/chrome-18-improves-graphics-performance-closes-security-holes/
+shortlink: https://g.omid.dev/1Y7GRsM
 tags:
   - Browsers
   - Google

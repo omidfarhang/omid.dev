@@ -4,6 +4,7 @@ date: 2010-10-26T16:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/26/facebook-credits-to-be-sold-at-walmart-and-best-buy/
+shortlink: https://g.omid.dev/1TVBHAX
 tags:
   - Facebook
   - News

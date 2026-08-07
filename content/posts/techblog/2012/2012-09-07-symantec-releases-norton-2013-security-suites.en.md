@@ -4,6 +4,7 @@ date: 2012-09-07T15:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/07/symantec-releases-norton-2013-security-suites/
+shortlink: https://g.omid.dev/1LR5wL4
 tags:
   - antivirus
   - norton

@@ -4,6 +4,7 @@ date: 2010-02-13T20:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/13/google-chrome-dev-channel-update-5-0-322-2/
+shortlink: https://g.omid.dev/1TOWtm1
 tags:
   - Firefox
   - Google

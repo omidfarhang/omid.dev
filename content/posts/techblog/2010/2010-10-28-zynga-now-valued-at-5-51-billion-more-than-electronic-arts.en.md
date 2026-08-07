@@ -4,6 +4,7 @@ date: 2010-10-28T15:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/zynga-now-valued-at-5-51-billion-more-than-electronic-arts/
+shortlink: https://g.omid.dev/1Y7H27f
 tags:
   - business
   - News

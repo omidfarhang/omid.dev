@@ -4,6 +4,7 @@ date: 2012-02-07T14:07:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/07/google-plans-to-turn-off-online-checks-for-ssl-certificate-validity/
+shortlink: https://g.omid.dev/218YQ1U
 tags:
   - Browsers
   - Google

@@ -4,6 +4,7 @@ date: 2010-11-30T22:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/winamp-is-back-with-powerful-android-media-player/
+shortlink: https://g.omid.dev/1WgCIS0
 tags:
   - Android
   - Music

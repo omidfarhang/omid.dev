@@ -4,6 +4,7 @@ date: 2010-10-20T12:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/20/java-surpasses-adobe-kit-as-most-attacked-software/
+shortlink: https://g.omid.dev/1WRIvxh
 tags:
   - Adobe
   - Java

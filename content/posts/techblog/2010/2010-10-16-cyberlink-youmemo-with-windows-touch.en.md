@@ -4,6 +4,7 @@ date: 2010-10-16T20:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/cyberlink-youmemo-with-windows-touch/
+shortlink: https://g.omid.dev/1Y7HEKn
 tags:
   - Offer
   - Windows

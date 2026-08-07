@@ -4,6 +4,7 @@ date: 2010-03-22T13:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/bots-bots-and-again-bots/
+shortlink: https://g.omid.dev/1QTp2uF
 tags:
   - Malware
   - review

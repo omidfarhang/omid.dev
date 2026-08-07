@@ -4,6 +4,7 @@ date: 2010-12-06T20:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/take-screenshots-of-web-pages-in-google-chrome-with-screen-capture-extension-by-google/
+shortlink: https://g.omid.dev/1UxnQjy
 tags:
   - Google
   - Google Chrome

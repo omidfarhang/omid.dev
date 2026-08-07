@@ -4,6 +4,7 @@ date: 2010-04-14T14:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/apple-delays-international-ipad-launch/
+shortlink: https://g.omid.dev/1Qr6EXF
 tags:
   - Apple
 

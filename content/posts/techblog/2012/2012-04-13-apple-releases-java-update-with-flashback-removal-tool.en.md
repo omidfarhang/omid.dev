@@ -4,6 +4,7 @@ date: 2012-04-13T12:18:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/13/apple-releases-java-update-with-flashback-removal-tool/
+shortlink: https://g.omid.dev/1Y7HQJy
 tags:
   - Apple
   - Java

@@ -4,6 +4,7 @@ date: 2010-03-12T13:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/twitter-spam-getting-slim-with-slim-urls/
+shortlink: https://g.omid.dev/1oUc0n3
 tags:
   - Social Media
   - spam

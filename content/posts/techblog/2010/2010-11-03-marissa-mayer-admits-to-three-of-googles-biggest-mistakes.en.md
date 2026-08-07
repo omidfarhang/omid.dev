@@ -4,6 +4,7 @@ date: 2010-11-03T21:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/marissa-mayer-admits-to-three-of-googles-biggest-mistakes/
+shortlink: https://g.omid.dev/22hSuQm
 tags:
   - Gmail
   - Google

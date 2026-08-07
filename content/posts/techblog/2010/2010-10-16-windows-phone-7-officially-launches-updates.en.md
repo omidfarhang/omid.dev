@@ -4,6 +4,7 @@ date: 2010-10-16T20:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/windows-phone-7-officially-launches-updates/
+shortlink: https://g.omid.dev/1UxfDvA
 tags:
   - News
   - Updates

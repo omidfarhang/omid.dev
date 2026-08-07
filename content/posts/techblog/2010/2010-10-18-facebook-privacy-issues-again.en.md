@@ -4,6 +4,7 @@ date: 2010-10-18T22:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/facebook-privacy-issues-again/
+shortlink: https://g.omid.dev/1Y7GLBv
 tags:
   - advice
   - Facebook

@@ -4,6 +4,7 @@ date: 2011-04-01T16:14:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/01/chrome-bookmarks-integrate-with-google-search/
+shortlink: https://g.omid.dev/24PA6As
 tags:
   - Bookmarks
   - Google

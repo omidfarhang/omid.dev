@@ -4,6 +4,7 @@ date: 2012-06-14T08:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/14/critical-holes-closed-in-microsofts-june-patch-tuesday/
+shortlink: https://g.omid.dev/1SVFZ5I
 tags:
   - Internet Explorer
   - Microsoft

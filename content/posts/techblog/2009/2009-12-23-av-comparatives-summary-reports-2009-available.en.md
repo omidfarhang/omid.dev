@@ -4,6 +4,7 @@ date: 2009-12-23T22:59:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/23/av-comparatives-summary-reports-2009-available/
+shortlink: https://g.omid.dev/1p9FfmA
 tags:
   - News
 

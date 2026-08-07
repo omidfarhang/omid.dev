@@ -4,6 +4,7 @@ date: 2011-08-15T19:56:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/15/firefox-6-released-early/
+shortlink: https://g.omid.dev/24PzNpo
 tags:
   - Browsers
   - Firefox

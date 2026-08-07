@@ -4,6 +4,7 @@ date: 2012-02-02T12:45:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/02/mozilla-closes-critical-holes-in-firefox-thunderbird-and-seamonkey/
+shortlink: https://g.omid.dev/1Y7HuTf
 tags:
   - Firefox
   - Mozilla

@@ -4,6 +4,7 @@ date: 2010-05-11T20:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/credit-card-scanner-square-comes-to-iphone/
+shortlink: https://g.omid.dev/1SyQZFW
 tags:
   - credit cards
   - Apple

@@ -4,6 +4,7 @@ date: 2011-04-12T09:07:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/12/a-new-security-flaw-hits-vlc/
+shortlink: https://g.omid.dev/1TVqNeC
 tags:
   - Security
   - VLC

@@ -4,6 +4,7 @@ date: 2010-10-19T11:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/steve-jobs-google-android-isnt-really-that-open/
+shortlink: https://g.omid.dev/1LOGuw2
 tags:
   - Android
   - Apple

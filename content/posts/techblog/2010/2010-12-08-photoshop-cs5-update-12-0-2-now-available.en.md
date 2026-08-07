@@ -4,6 +4,7 @@ date: 2010-12-08T00:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/photoshop-cs5-update-12-0-2-now-available/
+shortlink: https://g.omid.dev/1T4fro7
 tags:
   - Adobe
   - Photoshop

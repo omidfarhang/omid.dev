@@ -4,6 +4,7 @@ date: 2010-02-04T00:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/04/utorrent-2-0-stable-version-released/
+shortlink: https://g.omid.dev/6odx9Gs
 tags:
   - Updates
 

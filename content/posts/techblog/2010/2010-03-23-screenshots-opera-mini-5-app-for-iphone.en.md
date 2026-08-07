@@ -4,6 +4,7 @@ date: 2010-03-23T17:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/screenshots-opera-mini-5-app-for-iphone/
+shortlink: https://g.omid.dev/1RIDXty
 tags:
   - Apple
   - News

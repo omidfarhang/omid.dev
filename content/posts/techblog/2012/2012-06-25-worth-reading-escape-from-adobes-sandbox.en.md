@@ -4,6 +4,7 @@ date: 2012-06-25T16:35:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/25/worth-reading-escape-from-adobes-sandbox/
+shortlink: https://g.omid.dev/1Y7HrXx
 tags:
   - Adobe
   - sandbox

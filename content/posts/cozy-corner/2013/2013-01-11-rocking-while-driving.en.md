@@ -4,6 +4,7 @@ date: 2013-01-11T17:43:00+00:00
 layout: single
 author_profile: true
 url: 2013/01/11/rocking-while-driving/
+shortlink: https://g.omid.dev/21CIgti
 tags:
   - Music Life
 

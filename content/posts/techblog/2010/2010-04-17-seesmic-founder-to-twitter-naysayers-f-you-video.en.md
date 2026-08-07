@@ -4,6 +4,7 @@ date: 2010-04-17T19:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/seesmic-founder-to-twitter-naysayers-f-you-video/
+shortlink: https://g.omid.dev/1QCyBMf
 tags:
   - Chirp
   - developers

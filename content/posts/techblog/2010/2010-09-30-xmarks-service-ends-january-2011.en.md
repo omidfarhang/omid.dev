@@ -4,6 +4,7 @@ date: 2010-09-30T10:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/30/xmarks-service-ends-january-2011/
+shortlink: https://g.omid.dev/1MzOktY
 tags:
   - Discontinue
   - Firefox

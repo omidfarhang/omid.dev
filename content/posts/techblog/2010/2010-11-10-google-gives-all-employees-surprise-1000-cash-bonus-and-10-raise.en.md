@@ -4,6 +4,7 @@ date: 2010-11-10T13:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/10/google-gives-all-employees-surprise-1000-cash-bonus-and-10-raise/
+shortlink: https://g.omid.dev/1S7hPF6
 tags:
   - business
   - Eric Schmidt

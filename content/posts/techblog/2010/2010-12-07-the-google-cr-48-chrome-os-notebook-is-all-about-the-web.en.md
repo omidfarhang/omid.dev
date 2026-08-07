@@ -4,6 +4,7 @@ date: 2010-12-07T23:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/the-google-cr-48-chrome-os-notebook-is-all-about-the-web/
+shortlink: https://g.omid.dev/1WRItWj
 tags:
   - Google
   - Google Chrome

@@ -4,6 +4,7 @@ date: 2010-03-25T11:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/google-in-china-saga-another-hack-move-to-hk/
+shortlink: https://g.omid.dev/1Y7HL8E
 tags:
   - Google
   - hack

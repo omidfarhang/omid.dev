@@ -4,6 +4,7 @@ date: 2010-10-21T14:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/judge-clears-captcha-breaking-case-for-criminal-trial/
+shortlink: https://g.omid.dev/1WRIvxj
 tags:
   - News
   - report

@@ -4,6 +4,7 @@ date: 2010-12-10T23:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/10/christina-aguilera-blames-hacker-for-risque-leaked-photos/
+shortlink: https://g.omid.dev/1o2R6l3
 tags:
   - celeb
   - hack

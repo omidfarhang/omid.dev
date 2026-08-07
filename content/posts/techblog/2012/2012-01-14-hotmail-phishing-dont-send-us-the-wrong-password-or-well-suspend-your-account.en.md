@@ -4,6 +4,7 @@ date: 2012-01-14T10:47:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/14/hotmail-phishing-dont-send-us-the-wrong-password-or-well-suspend-your-account/
+shortlink: https://g.omid.dev/1TZkHdd
 tags:
   - alert
   - Hotmail

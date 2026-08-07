@@ -4,6 +4,7 @@ date: 2012-04-23T19:24:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/23/firefox-and-thunderbird-12-are-out-download-now/
+shortlink: https://g.omid.dev/1WRIvgV
 tags:
   - Firefox
   - Mozilla

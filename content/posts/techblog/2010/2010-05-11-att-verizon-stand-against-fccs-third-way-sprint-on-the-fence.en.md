@@ -4,6 +4,7 @@ date: 2010-05-11T14:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/att-verizon-stand-against-fccs-third-way-sprint-on-the-fence/
+shortlink: https://g.omid.dev/1OXkr6u
 tags:
   - Mobile
   - Business

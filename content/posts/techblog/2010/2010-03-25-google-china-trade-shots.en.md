@@ -4,6 +4,7 @@ date: 2010-03-25T23:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/google-china-trade-shots/
+shortlink: https://g.omid.dev/1pYosD9
 tags:
   - Google
   - News

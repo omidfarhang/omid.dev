@@ -4,6 +4,7 @@ date: 2010-11-30T23:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/google-earth-6-better-street-view-and-3d-trees/
+shortlink: https://g.omid.dev/1VNKjcH
 tags:
   - 3D
   - Announcement

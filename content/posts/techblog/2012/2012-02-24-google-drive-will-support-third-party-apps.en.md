@@ -4,6 +4,7 @@ date: 2012-02-24T11:02:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/24/google-drive-will-support-third-party-apps/
+shortlink: https://g.omid.dev/1Y7HHpl
 tags:
   - Google
   - Google Docs

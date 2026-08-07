@@ -4,6 +4,7 @@ date: 2010-02-02T21:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/02/protecting-privacy-by-design/
+shortlink: https://g.omid.dev/1X3wPv2
 tags:
   - advice
   - Google

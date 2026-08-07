@@ -4,6 +4,7 @@ date: 2010-10-28T14:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/google-ceo-dont-like-street-view-move/
+shortlink: https://g.omid.dev/1QVoeZr
 tags:
   - Google
   - News

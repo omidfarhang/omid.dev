@@ -4,6 +4,7 @@ date: 2010-04-03T19:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/journey-to-the-center-of-the-pdf-stream/
+shortlink: https://g.omid.dev/1SDw2MV
 tags:
   - Adobe
   - advice

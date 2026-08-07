@@ -4,6 +4,7 @@ date: 2011-03-17T12:00:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/17/vanessa-hudgens-meets-fbi-to-discuss-nude-photo-hack/
+shortlink: https://g.omid.dev/Qy8fb5f
 tags:
   - celeb
   - hack

@@ -4,6 +4,7 @@ date: 2012-08-02T19:53:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/
+shortlink: https://g.omid.dev/1T3nba8
 tags:
   - Google
   - Google Chrome

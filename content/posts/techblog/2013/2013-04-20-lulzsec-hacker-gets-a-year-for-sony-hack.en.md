@@ -4,6 +4,7 @@ date: 2013-04-20T19:47:19+00:00
 layout: single
 author_profile: true
 url: 2013/04/20/lulzsec-hacker-gets-a-year-for-sony-hack/
+shortlink: https://g.omid.dev/1Y7Hu5q
 image: /images/2013/04/lulz.png
 tags:
   - hack

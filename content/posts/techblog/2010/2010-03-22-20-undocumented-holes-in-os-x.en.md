@@ -4,6 +4,7 @@ date: 2010-03-22T13:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/20-undocumented-holes-in-os-x/
+shortlink: https://g.omid.dev/1RNsYLj
 tags:
   - Apple
   - Vulnerability

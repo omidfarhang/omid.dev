@@ -5,6 +5,7 @@ description: Microsoft FrontPage and CoffeeCup make early web publishing easy, b
 layout: single
 author_profile: true
 url: 2004/11/02/from-frontpage-to-hand-written-html/
+shortlink: https://g.omid.dev/5hcKpYB
 tags:
   - Web Development
   - HTML

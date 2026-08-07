@@ -4,6 +4,7 @@ date: 2010-04-08T00:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/08/apple-splits-ipad-and-iphone-apps-in-itunes/
+shortlink: https://g.omid.dev/1QZUAgg
 tags:
   - Apple
   - Mobile Applications

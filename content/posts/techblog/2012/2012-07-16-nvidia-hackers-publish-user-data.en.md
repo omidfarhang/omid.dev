@@ -4,6 +4,7 @@ date: 2012-07-16T19:53:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/16/nvidia-hackers-publish-user-data/
+shortlink: https://g.omid.dev/1KWuzBI
 tags:
   - hack
   - link

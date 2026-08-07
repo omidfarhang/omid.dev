@@ -4,6 +4,7 @@ date: 2010-03-23T23:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/download-windows-7-mountains-theme-syue-nenggao/
+shortlink: https://g.omid.dev/1TPG00s
 tags:
   - Microsoft
   - Offer

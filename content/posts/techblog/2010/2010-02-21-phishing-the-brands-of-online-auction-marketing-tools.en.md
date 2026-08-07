@@ -4,6 +4,7 @@ date: 2010-02-21T17:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/phishing-the-brands-of-online-auction-marketing-tools/
+shortlink: https://g.omid.dev/1pqIUN3
 tags:
   - Phishing
   - scam

@@ -4,6 +4,7 @@ date: 2010-10-22T21:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/windows-7-year-one-240-million-licenses-sold/
+shortlink: https://g.omid.dev/21LXvDQ
 tags:
   - Microsoft
   - report

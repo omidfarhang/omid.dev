@@ -4,6 +4,7 @@ date: 2010-04-09T17:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/farmvilles-newest-money-maker-brand-sponsored-crops/
+shortlink: https://g.omid.dev/1Sc07F7
 tags:
   - crops
   - Facebook

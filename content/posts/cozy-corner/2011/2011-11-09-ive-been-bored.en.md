@@ -4,6 +4,7 @@ date: 2011-11-09T16:39:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/09/ive-been-bored/
+shortlink: https://g.omid.dev/1oGSOcw
 tags:
   - Video
 

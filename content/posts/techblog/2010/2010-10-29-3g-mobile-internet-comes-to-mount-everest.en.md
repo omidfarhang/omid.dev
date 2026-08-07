@@ -4,6 +4,7 @@ date: 2010-10-29T11:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/3g-mobile-internet-comes-to-mount-everest/
+shortlink: https://g.omid.dev/1UEug0a
 tags:
   - Announcement
   - Internet

@@ -4,6 +4,7 @@ date: 2010-11-10T16:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/10/facebook-brand-pages-hit-by-malicious-links/
+shortlink: https://g.omid.dev/25toDa8
 tags:
   - Facebook
   - Phishing

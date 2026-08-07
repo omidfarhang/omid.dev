@@ -4,6 +4,7 @@ date: 2010-05-11T14:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/sprint-drops-plan-to-offer-googles-nexus-one/
+shortlink: https://g.omid.dev/1Y7GT3R
 tags:
   - Android
   - droid incredible

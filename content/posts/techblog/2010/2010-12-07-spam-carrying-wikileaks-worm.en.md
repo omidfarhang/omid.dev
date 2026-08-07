@@ -4,6 +4,7 @@ date: 2010-12-07T23:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/spam-carrying-wikileaks-worm/
+shortlink: https://g.omid.dev/1SaXXWe
 tags:
   - advice
   - alert

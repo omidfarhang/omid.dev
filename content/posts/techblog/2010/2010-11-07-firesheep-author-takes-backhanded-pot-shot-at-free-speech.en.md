@@ -4,6 +4,7 @@ date: 2010-11-07T15:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/07/firesheep-author-takes-backhanded-pot-shot-at-free-speech/
+shortlink: https://g.omid.dev/1njxfxC
 tags:
   - Firefox
   - Firefox Addon

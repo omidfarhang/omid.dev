@@ -4,6 +4,7 @@ date: 2010-05-19T21:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/is-google-building-a-skype-competitor/
+shortlink: https://g.omid.dev/2130KkA
 tags:
   - analyze
   - Global IP Solutions

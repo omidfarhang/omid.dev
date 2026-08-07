@@ -4,6 +4,7 @@ date: 2010-05-03T19:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/second-life-users-file-class-action-lawsuit-over-virtual-land/
+shortlink: https://g.omid.dev/1QT6EWa
 tags:
   - Gaming
   - report

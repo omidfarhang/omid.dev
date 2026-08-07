@@ -4,6 +4,7 @@ date: 2010-11-17T21:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/17/google-docs-editing-comes-to-android-and-ios/
+shortlink: https://g.omid.dev/1UGI6iQ
 tags:
   - Android
   - Google

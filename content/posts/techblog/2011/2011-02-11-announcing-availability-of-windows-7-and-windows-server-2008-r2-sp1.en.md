@@ -4,6 +4,7 @@ date: 2011-02-11T00:22:00+00:00
 layout: single
 author_profile: true
 url: 2011/02/11/announcing-availability-of-windows-7-and-windows-server-2008-r2-sp1/
+shortlink: https://g.omid.dev/1n5XQOG
 tags:
   - Microsoft
   - Updates

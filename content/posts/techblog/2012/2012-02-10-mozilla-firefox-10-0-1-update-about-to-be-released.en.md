@@ -4,6 +4,7 @@ date: 2012-02-10T13:58:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/mozilla-firefox-10-0-1-update-about-to-be-released/
+shortlink: https://g.omid.dev/1Y7HaE0
 tags:
   - Browsers
   - Firefox

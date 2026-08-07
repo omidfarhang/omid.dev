@@ -4,6 +4,7 @@ date: 2010-11-24T16:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/24/miley-cyrus-and-cybercriminals-make-strange-bedfellows/
+shortlink: https://g.omid.dev/1RsiFSy
 tags:
   - News
   - report

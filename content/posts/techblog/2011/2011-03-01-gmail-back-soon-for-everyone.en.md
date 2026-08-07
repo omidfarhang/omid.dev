@@ -4,6 +4,7 @@ date: 2011-03-01T12:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/01/gmail-back-soon-for-everyone/
+shortlink: https://g.omid.dev/212VRbi
 tags:
   - Gmail
   - Google

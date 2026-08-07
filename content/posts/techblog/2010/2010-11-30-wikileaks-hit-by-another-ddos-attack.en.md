@@ -4,6 +4,7 @@ date: 2010-11-30T22:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/wikileaks-hit-by-another-ddos-attack/
+shortlink: https://g.omid.dev/1WRIwBl
 tags:
   - attack
   - hack

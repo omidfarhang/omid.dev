@@ -4,6 +4,7 @@ date: 2010-04-03T21:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/adobe-to-launch-creative-suite-5-april-12/
+shortlink: https://g.omid.dev/1RyPSpF
 tags:
   - Adobe
   - AMD

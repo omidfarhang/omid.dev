@@ -4,6 +4,7 @@ date: 2010-10-22T20:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/creating-stronger-privacy-controls-inside-google/
+shortlink: https://g.omid.dev/1VPESrw
 tags:
   - Google
   - Google privacy

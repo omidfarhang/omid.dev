@@ -4,6 +4,7 @@ date: 2013-03-26T19:59:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/26/irs-uncorks-dirty-dozen-tax-scams-for-2013/
+shortlink: https://g.omid.dev/21CzQCm
 image: /images/2013/03/tax6.jpg
 tags:
   - Scams

@@ -4,6 +4,7 @@ date: 2010-03-05T19:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/whos-watching-you-really/
+shortlink: https://g.omid.dev/1RNsW66
 tags:
   - Facebook
   - Phishing

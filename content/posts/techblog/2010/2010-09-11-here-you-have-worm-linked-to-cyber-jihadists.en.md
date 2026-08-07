@@ -4,6 +4,7 @@ date: 2010-09-11T17:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/11/here-you-have-worm-linked-to-cyber-jihadists/
+shortlink: https://g.omid.dev/1Vwz1Lp
 tags:
   - alert
   - Malware

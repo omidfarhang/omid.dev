@@ -4,6 +4,7 @@ date: 2010-04-17T21:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/alyssa-milano-teaches-jimmy-kimmel-how-to-use-twitter/
+shortlink: https://g.omid.dev/1V3lpp9
 tags:
   - Interesting
   - Twitter

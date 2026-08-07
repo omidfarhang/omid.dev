@@ -4,6 +4,7 @@ date: 2009-12-31T19:13:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/31/safe-computing-tips-for-all/
+shortlink: https://g.omid.dev/1Y7HtP2
 tags:
   - advice
   - alert

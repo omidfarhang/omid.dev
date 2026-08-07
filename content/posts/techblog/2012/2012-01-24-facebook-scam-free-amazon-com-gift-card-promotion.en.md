@@ -4,6 +4,7 @@ date: 2012-01-24T12:30:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/24/facebook-scam-free-amazon-com-gift-card-promotion/
+shortlink: https://g.omid.dev/1Y7Hcf9
 tags:
   - alert
   - Facebook

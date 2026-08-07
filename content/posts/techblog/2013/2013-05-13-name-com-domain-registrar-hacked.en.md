@@ -4,6 +4,7 @@ date: 2013-05-13T18:40:16+00:00
 layout: single
 author_profile: true
 url: 2013/05/13/name-com-domain-registrar-hacked/
+shortlink: https://g.omid.dev/1ReyPcf
 image: /images/2013/05/Name.com_.png
 tags:
   - News

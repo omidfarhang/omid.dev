@@ -4,6 +4,7 @@ date: 2010-03-18T09:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/18/more-reader-features-in-your-pocket/
+shortlink: https://g.omid.dev/1QCyron
 tags:
   - Google
   - News

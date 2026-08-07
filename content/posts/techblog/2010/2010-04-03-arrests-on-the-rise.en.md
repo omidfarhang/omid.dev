@@ -4,6 +4,7 @@ date: 2010-04-03T18:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/arrests-on-the-rise/
+shortlink: https://g.omid.dev/1RV6y0J
 tags:
   - Facebook
   - hack

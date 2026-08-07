@@ -4,6 +4,7 @@ date: 2010-03-22T23:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/phishers-cast-their-nets-at-neopets-users/
+shortlink: https://g.omid.dev/1WRItpn
 tags:
   - Phishing
   - review

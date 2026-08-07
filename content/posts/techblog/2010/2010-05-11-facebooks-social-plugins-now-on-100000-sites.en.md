@@ -4,6 +4,7 @@ date: 2010-05-11T21:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/facebooks-social-plugins-now-on-100000-sites/
+shortlink: https://g.omid.dev/1R63DyI
 tags:
   - Facebook
   - Social Media

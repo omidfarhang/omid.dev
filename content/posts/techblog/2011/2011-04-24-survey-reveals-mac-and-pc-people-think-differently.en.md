@@ -4,6 +4,7 @@ date: 2011-04-24T11:29:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/24/survey-reveals-mac-and-pc-people-think-differently/
+shortlink: https://g.omid.dev/1RAh7CF
 tags:
   - Mac OS X
   - Mac vs PC

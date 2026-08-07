@@ -4,6 +4,7 @@ date: 2010-03-22T23:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/google-quits-censoring-search-in-china/
+shortlink: https://g.omid.dev/1WRIvgX
 tags:
   - Google
   - News

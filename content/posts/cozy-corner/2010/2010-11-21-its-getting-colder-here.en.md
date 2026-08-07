@@ -4,6 +4,7 @@ date: 2010-11-21T22:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/21/its-getting-colder-here/
+shortlink: https://g.omid.dev/1QU30Ls
 
 categories: 
   - Cozy Corner

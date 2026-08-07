@@ -4,6 +4,7 @@ date: 2010-01-13T11:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/its-nice-to-get-noticed/
+shortlink: https://g.omid.dev/1Qv1JZt
 tags:
   - report
 

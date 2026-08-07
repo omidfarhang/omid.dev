@@ -4,6 +4,7 @@ date: 2010-11-17T20:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/17/yahoo-announces-more-changes/
+shortlink: https://g.omid.dev/1qG00pQ
 tags:
   - News
   - Twitter

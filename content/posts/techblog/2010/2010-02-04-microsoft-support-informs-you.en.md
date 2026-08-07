@@ -4,6 +4,7 @@ date: 2010-02-04T00:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/04/microsoft-support-informs-you/
+shortlink: https://g.omid.dev/1pc9Nne
 tags:
   - alert
   - Malware

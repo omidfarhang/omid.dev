@@ -4,6 +4,7 @@ date: 2009-12-24T22:04:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/24/are-you-caring-for-your-mom-and-dad-at-xmas/
+shortlink: https://g.omid.dev/1RQYeeT
 tags:
   - Phishing
   - scam

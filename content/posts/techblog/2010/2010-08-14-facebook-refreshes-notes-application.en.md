@@ -4,6 +4,7 @@ date: 2010-08-14T21:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/14/facebook-refreshes-notes-application/
+shortlink: https://g.omid.dev/1L6tVBA
 tags:
   - Facebook
 

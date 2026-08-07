@@ -4,6 +4,7 @@ date: 2010-05-19T20:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/skype-5-0-beta-brings-five-way-video-chat/
+shortlink: https://g.omid.dev/1pYoz1w
 tags:
   - News
   - Skype

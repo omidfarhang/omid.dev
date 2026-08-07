@@ -4,6 +4,7 @@ date: 2010-10-21T13:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/developers-now-able-to-author-upload-and-share-extensions-for-opera-11-screenshot/
+shortlink: https://g.omid.dev/1TMVbYU
 tags:
   - News
   - Opera

@@ -4,6 +4,7 @@ date: 2012-06-29T20:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/29/scarlett-johansson-leaked-nude-photos-cost-66000-for-the-hacker/
+shortlink: https://g.omid.dev/1WRIsBy
 tags:
   - celeb
   - hack

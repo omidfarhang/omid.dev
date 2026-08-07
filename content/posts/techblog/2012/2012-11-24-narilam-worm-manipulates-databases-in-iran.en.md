@@ -4,6 +4,7 @@ date: 2012-11-24T12:37:00+00:00
 layout: single
 author_profile: true
 url: 2012/11/24/narilam-worm-manipulates-databases-in-iran/
+shortlink: https://g.omid.dev/1Sb4foN
 tags:
   - Iran
   - Malware

@@ -4,6 +4,7 @@ date: 2010-09-17T13:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/17/browser-updates-again/
+shortlink: https://g.omid.dev/1pYoJ9j
 tags:
   - Firefox
   - Google

@@ -4,6 +4,7 @@ date: 2011-04-13T11:55:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/microsofts-record-patch-tuesday/
+shortlink: https://g.omid.dev/1VLsZD9
 tags:
   - Microsoft Office
   - News

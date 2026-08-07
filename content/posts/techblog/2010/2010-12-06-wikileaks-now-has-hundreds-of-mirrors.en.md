@@ -4,6 +4,7 @@ date: 2010-12-06T19:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/wikileaks-now-has-hundreds-of-mirrors/
+shortlink: https://g.omid.dev/1WxDnOZ
 tags:
   - WikiLeaks
 

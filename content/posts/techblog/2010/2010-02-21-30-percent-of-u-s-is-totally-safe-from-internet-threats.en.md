@@ -4,6 +4,7 @@ date: 2010-02-21T19:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/30-percent-of-u-s-is-totally-safe-from-internet-threats/
+shortlink: https://g.omid.dev/1QTNOrq
 tags:
   - News
   - report

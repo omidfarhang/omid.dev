@@ -4,6 +4,7 @@ date: 2010-04-08T15:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/08/diggs-iphone-app-gets-updated-nasty-crash-fixed/
+shortlink: https://g.omid.dev/1LyXJ9R
 tags:
   - Apple
   - Updates

@@ -4,6 +4,7 @@ date: 2012-08-23T12:53:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/23/adobe-flash-player-update-patches-six-critical-holes/
+shortlink: https://g.omid.dev/1LcAqD3
 tags:
   - Adobe
   - flash player

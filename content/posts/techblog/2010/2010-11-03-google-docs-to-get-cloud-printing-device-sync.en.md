@@ -4,6 +4,7 @@ date: 2010-11-03T21:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/google-docs-to-get-cloud-printing-device-sync/
+shortlink: https://g.omid.dev/1Y7HnHa
 tags:
   - Cloud
   - Google

@@ -4,6 +4,7 @@ date: 2010-10-06T22:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/06/stuxnet-questions-and-answers/
+shortlink: https://g.omid.dev/1oGRW7G
 tags:
   - 0-Day
   - Malware

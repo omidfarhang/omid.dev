@@ -4,6 +4,7 @@ date: 2010-05-19T14:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/ipad-isnt-for-everyone-so-deal-with-it/
+shortlink: https://g.omid.dev/1Y7Hank
 tags:
   - Apple
   - report

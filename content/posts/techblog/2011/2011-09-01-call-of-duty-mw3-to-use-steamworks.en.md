@@ -4,6 +4,7 @@ date: 2011-09-01T12:45:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/call-of-duty-mw3-to-use-steamworks/
+shortlink: https://g.omid.dev/1UeHjVA
 tags:
   - Announcement
   - Gaming

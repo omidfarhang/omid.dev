@@ -4,6 +4,7 @@ date: 2011-04-12T10:02:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/12/first-firefox-4-update-coming-on-april-26/
+shortlink: https://g.omid.dev/1p87UbT
 tags:
   - Firefox
   - Firefox 4.0

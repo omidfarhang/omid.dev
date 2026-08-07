@@ -4,6 +4,7 @@ date: 2010-11-28T20:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/28/can-you-really-see-who-viewed-your-facebook-profile-rogue-application-spreads-virally/
+shortlink: https://g.omid.dev/1pYoZoC
 tags:
   - Facebook
   - Malware

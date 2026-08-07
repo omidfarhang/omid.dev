@@ -4,6 +4,7 @@ date: 2010-10-16T21:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/opera-announces-last-10-70-build-opera-11-complete-with-browser-extensions-comes-next/
+shortlink: https://g.omid.dev/245qELo
 tags:
   - Announcement
   - News

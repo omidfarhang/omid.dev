@@ -4,6 +4,7 @@ date: 2012-05-17T15:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/17/chrome-19-released-with-tab-syncing/
+shortlink: https://g.omid.dev/1Y7HhiX
 tags:
   - Browsers
   - Google

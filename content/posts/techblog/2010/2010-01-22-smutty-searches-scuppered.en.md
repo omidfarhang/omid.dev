@@ -4,6 +4,7 @@ date: 2010-01-22T18:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/smutty-searches-scuppered/
+shortlink: https://g.omid.dev/1p14erF
 tags:
   - Malware
   - Phishing

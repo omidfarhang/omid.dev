@@ -4,6 +4,7 @@ date: 2010-05-11T17:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/google-goggles-now-translates-text-in-photos/
+shortlink: https://g.omid.dev/1Lq0Dh3
 tags:
   - Android
   - Goggles

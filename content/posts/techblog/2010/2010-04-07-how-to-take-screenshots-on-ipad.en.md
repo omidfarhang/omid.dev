@@ -4,6 +4,7 @@ date: 2010-04-07T22:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/how-to-take-screenshots-on-ipad/
+shortlink: https://g.omid.dev/1UGJrpG
 tags:
   - Apple
   - Tricks

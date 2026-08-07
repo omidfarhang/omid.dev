@@ -4,6 +4,7 @@ date: 2012-09-07T20:13:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/07/google-acquires-virustotal/
+shortlink: https://g.omid.dev/1LcApPq
 tags:
   - business
   - Google

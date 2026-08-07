@@ -4,6 +4,7 @@ date: 2010-04-07T22:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/picasa-web-albums-now-lets-you-have-10000-albums/
+shortlink: https://g.omid.dev/1QCyyjF
 tags:
   - Google
   - News

@@ -4,6 +4,7 @@ date: 2010-05-11T17:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/facebook-status-updates-show-which-countries-are-happiest/
+shortlink: https://g.omid.dev/1RzVQZU
 tags:
   - Facebook
   - gross national happiness

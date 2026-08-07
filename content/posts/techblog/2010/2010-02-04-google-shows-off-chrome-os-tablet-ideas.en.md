@@ -4,6 +4,7 @@ date: 2010-02-04T00:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/04/google-shows-off-chrome-os-tablet-ideas/
+shortlink: https://g.omid.dev/1QJktRB
 tags:
   - Android
   - Apple

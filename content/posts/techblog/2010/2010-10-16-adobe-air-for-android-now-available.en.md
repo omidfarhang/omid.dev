@@ -4,6 +4,7 @@ date: 2010-10-16T17:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/adobe-air-for-android-now-available/
+shortlink: https://g.omid.dev/1VikiTb
 tags:
   - Adobe
   - Announcement

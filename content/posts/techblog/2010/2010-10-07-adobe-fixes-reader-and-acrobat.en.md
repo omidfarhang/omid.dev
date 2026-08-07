@@ -4,6 +4,7 @@ date: 2010-10-07T14:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/07/adobe-fixes-reader-and-acrobat/
+shortlink: https://g.omid.dev/1pi7O0O
 tags:
   - Adobe
   - advice

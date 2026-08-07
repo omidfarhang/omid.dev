@@ -4,6 +4,7 @@ date: 2010-11-06T16:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/google-android-turns-3/
+shortlink: https://g.omid.dev/1PR6TcY
 tags:
   - Android
   - Google

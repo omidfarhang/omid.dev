@@ -4,6 +4,7 @@ date: 2010-10-19T21:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/intel-investing-up-to-8-billion-in-22nm-chips-creating-us-jobs/
+shortlink: https://g.omid.dev/1SbVBXc
 tags:
   - intel
   - News

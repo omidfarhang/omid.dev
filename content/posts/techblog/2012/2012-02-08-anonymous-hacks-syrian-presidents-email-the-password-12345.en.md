@@ -4,6 +4,7 @@ date: 2012-02-08T18:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/08/anonymous-hacks-syrian-presidents-email-the-password-12345/
+shortlink: https://g.omid.dev/212XVzS
 tags:
   - Anonymous
   - hack

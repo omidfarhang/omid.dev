@@ -4,6 +4,7 @@ date: 2010-10-28T15:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/adobe-confirms-flash-10-1-coming-to-everything-but-iphone/
+shortlink: https://g.omid.dev/24PA5fT
 tags:
   - Adobe
   - Apple

@@ -4,6 +4,7 @@ date: 2010-04-03T19:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/fake-updates-install-backdoors/
+shortlink: https://g.omid.dev/21ZKCkr
 tags:
   - Malware
   - review

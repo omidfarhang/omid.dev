@@ -4,6 +4,7 @@ date: 2011-03-22T08:45:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/22/many-updates-flash-player-mac-os-x-firefox/
+shortlink: https://g.omid.dev/1QNMsyG
 tags:
   - Adobe
   - Apple

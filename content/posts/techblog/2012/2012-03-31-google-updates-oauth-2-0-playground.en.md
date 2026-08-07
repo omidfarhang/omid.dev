@@ -4,6 +4,7 @@ date: 2012-03-31T20:51:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/31/google-updates-oauth-2-0-playground/
+shortlink: https://g.omid.dev/1npt0kj
 tags:
   - Announcement
   - Google

@@ -4,6 +4,7 @@ date: 2010-10-22T22:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/reuters-google-says-its-cars-grabbed-email-and-passwords/
+shortlink: https://g.omid.dev/1LmX1fI
 tags:
   - Google
   - News

@@ -4,6 +4,7 @@ date: 2011-08-14T21:21:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/14/twitter-finally-released-a-stalkers-app-no-its-a-phishing-scam/
+shortlink: https://g.omid.dev/1YzwQ7V
 tags:
   - advice
   - Password

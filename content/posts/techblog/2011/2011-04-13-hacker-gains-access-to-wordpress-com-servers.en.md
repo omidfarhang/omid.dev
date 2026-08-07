@@ -4,6 +4,7 @@ date: 2011-04-13T17:51:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/hacker-gains-access-to-wordpress-com-servers/
+shortlink: https://g.omid.dev/1qQIIqS
 tags:
   - attack
   - hack

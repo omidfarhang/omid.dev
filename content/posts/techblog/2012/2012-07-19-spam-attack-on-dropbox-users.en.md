@@ -4,6 +4,7 @@ date: 2012-07-19T07:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/19/spam-attack-on-dropbox-users/
+shortlink: https://g.omid.dev/1TNQKwv
 tags:
   - Dropbox
   - report

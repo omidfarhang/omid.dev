@@ -4,6 +4,7 @@ date: 2010-04-02T21:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/02/firefox-claims-30-percent-market-share/
+shortlink: https://g.omid.dev/2biw2Vn
 tags:
   - Browsers
   - Firefox

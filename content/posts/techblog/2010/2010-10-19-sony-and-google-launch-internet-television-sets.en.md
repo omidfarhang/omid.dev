@@ -4,6 +4,7 @@ date: 2010-10-19T10:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/sony-and-google-launch-internet-television-sets/
+shortlink: https://g.omid.dev/1RjEGNi
 tags:
   - Announcement
   - Google

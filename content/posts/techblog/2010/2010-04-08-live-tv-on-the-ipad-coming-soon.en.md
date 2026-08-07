@@ -4,6 +4,7 @@ date: 2010-04-08T00:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/08/live-tv-on-the-ipad-coming-soon/
+shortlink: https://g.omid.dev/1V8CGgE
 tags:
   - Apple
   - News

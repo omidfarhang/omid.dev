@@ -4,6 +4,7 @@ date: 2010-12-07T13:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/malicious-goo-gl-links-spreading-on-twitter-warning/
+shortlink: https://g.omid.dev/1Y7HDpx
 tags:
   - advice
   - alert

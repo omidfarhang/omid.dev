@@ -4,6 +4,7 @@ date: 2010-05-04T00:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/today-show-launches-2-minute-daily-web-video/
+shortlink: https://g.omid.dev/1WSsyHd
 tags:
   - Video
   - YouTube

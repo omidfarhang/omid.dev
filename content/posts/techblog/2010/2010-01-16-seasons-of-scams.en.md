@@ -4,6 +4,7 @@ date: 2010-01-16T00:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/16/seasons-of-scams/
+shortlink: https://g.omid.dev/1RNt05X
 tags:
   - alert
   - report

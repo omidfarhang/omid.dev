@@ -4,6 +4,7 @@ date: 2012-07-20T18:51:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/20/firefox-new-tab-feature-tweaked-following-privacy-concerns/
+shortlink: https://g.omid.dev/21qGLlg
 tags:
   - Firefox
   - Mozilla

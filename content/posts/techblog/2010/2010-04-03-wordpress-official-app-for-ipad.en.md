@@ -4,6 +4,7 @@ date: 2010-04-03T12:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/wordpress-official-app-for-ipad/
+shortlink: https://g.omid.dev/1RAnc1Y
 tags:
   - Apple
   - Download

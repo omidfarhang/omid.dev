@@ -4,6 +4,7 @@ date: 2010-10-29T10:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/gnome-developers-attack-canonicals-ubuntu-decision/
+shortlink: https://g.omid.dev/1XWUo6s
 tags:
   - Canonical
   - gnome

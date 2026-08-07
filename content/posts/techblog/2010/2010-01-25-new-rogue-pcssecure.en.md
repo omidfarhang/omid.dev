@@ -4,6 +4,7 @@ date: 2010-01-25T22:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/25/new-rogue-pcssecure/
+shortlink: https://g.omid.dev/1Y7GONB
 tags:
   - Malware
   - rogue software

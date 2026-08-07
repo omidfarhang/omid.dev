@@ -4,6 +4,7 @@ date: 2012-03-09T21:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/09/google-is-globally-switching-its-search-to-https-by-default/
+shortlink: https://g.omid.dev/1T5YxWo
 tags:
   - Google
   - News

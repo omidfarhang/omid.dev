@@ -4,6 +4,7 @@ date: 2010-02-16T19:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/16/security-advisory-adobe-reader/
+shortlink: https://g.omid.dev/1Y7H13o
 tags:
   - Adobe
   - alert

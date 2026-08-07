@@ -4,6 +4,7 @@ date: 2012-06-14T08:34:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/14/microsoft-revises-its-certificate-management/
+shortlink: https://g.omid.dev/1TPess3
 tags:
   - certified
   - Microsoft

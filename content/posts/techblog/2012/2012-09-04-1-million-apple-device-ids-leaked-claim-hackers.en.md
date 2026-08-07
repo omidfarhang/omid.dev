@@ -4,6 +4,7 @@ date: 2012-09-04T13:02:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/04/1-million-apple-device-ids-leaked-claim-hackers/
+shortlink: https://g.omid.dev/1SaRUks
 tags:
   - Apple
   - hack

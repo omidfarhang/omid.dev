@@ -4,6 +4,7 @@ date: 2012-01-24T13:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/24/megaupload-up-again-no/
+shortlink: https://g.omid.dev/1ReBQt5
 tags:
   - advice
   - alert

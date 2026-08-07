@@ -4,6 +4,7 @@ date: 2010-05-19T20:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/new-canon-portable-scanner-lets-you-scan-directly-to-evernote/
+shortlink: https://g.omid.dev/1QCytwi
 tags:
   - Canon
   - Evernote

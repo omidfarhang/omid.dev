@@ -4,6 +4,7 @@ date: 2010-03-31T12:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/31/ms-out-of-band-patch-today/
+shortlink: https://g.omid.dev/24PzL0E
 tags:
   - Internet Explorer
   - Microsoft

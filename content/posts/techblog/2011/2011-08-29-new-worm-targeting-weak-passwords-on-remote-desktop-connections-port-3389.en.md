@@ -4,6 +4,7 @@ date: 2011-08-29T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/29/new-worm-targeting-weak-passwords-on-remote-desktop-connections-port-3389/
+shortlink: https://g.omid.dev/1M04WQq
 tags:
   - advice
   - analyze

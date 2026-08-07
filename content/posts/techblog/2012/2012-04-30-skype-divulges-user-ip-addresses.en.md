@@ -4,6 +4,7 @@ date: 2012-04-30T17:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/30/skype-divulges-user-ip-addresses/
+shortlink: https://g.omid.dev/1SalZ3F
 tags:
   - report
   - Security

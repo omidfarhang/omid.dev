@@ -4,6 +4,7 @@ date: 2010-03-30T22:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/chrome-5-becomes-the-flash-browser-integrates-plug-in-with-dev-build/
+shortlink: https://g.omid.dev/1OWt3KG
 tags:
   - Adobe
   - Firefox

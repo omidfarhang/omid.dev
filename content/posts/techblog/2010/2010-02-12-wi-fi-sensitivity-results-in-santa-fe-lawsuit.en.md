@@ -4,6 +4,7 @@ date: 2010-02-12T20:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/wi-fi-sensitivity-results-in-santa-fe-lawsuit/
+shortlink: https://g.omid.dev/1R483CV
 tags:
   - News
   - Yahoo

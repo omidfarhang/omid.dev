@@ -4,6 +4,7 @@ date: 2012-03-13T14:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/13/safari-update-closes-security-holes/
+shortlink: https://g.omid.dev/1RAHEjg
 tags:
   - Apple
   - Mac OS X

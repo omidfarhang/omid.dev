@@ -4,6 +4,7 @@ date: 2012-07-24T19:06:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/24/11-million-passwords-leaked-from-online-gaming-platform/
+shortlink: https://g.omid.dev/1WRIsBC
 tags:
   - Gaming
   - hack

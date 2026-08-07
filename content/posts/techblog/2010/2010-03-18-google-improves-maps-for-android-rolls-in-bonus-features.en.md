@@ -4,6 +4,7 @@ date: 2010-03-18T09:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/18/google-improves-maps-for-android-rolls-in-bonus-features/
+shortlink: https://g.omid.dev/1RNsZyQ
 tags:
   - Android
   - Google

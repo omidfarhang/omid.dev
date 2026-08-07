@@ -4,6 +4,7 @@ date: 2012-03-13T14:22:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/13/nude-heather-morris-pictures-hacker-blamed/
+shortlink: https://g.omid.dev/1RYt9JQ
 tags:
   - celeb
   - hack

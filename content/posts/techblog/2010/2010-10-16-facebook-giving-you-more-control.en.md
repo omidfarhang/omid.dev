@@ -4,6 +4,7 @@ date: 2010-10-16T22:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/facebook-giving-you-more-control/
+shortlink: https://g.omid.dev/1OKpNSi
 tags:
   - Announcement
   - Facebook

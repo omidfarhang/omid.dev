@@ -4,6 +4,7 @@ date: 2011-08-20T18:18:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/20/restricting-access-to-net-resources-for-good-reasons/
+shortlink: https://g.omid.dev/1SaYRSx
 tags:
   - advice
   - attack

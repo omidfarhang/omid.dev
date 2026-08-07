@@ -4,6 +4,7 @@ date: 2010-12-15T16:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/15/dont-lie-to-me-angelina/
+shortlink: https://g.omid.dev/1LOA1RY
 tags:
   - advice
   - alert

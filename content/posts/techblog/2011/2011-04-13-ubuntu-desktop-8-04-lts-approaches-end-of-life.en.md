@@ -4,6 +4,7 @@ date: 2011-04-13T12:03:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/ubuntu-desktop-8-04-lts-approaches-end-of-life/
+shortlink: https://g.omid.dev/1QmXaPq
 tags:
   - advice
   - Discontinue

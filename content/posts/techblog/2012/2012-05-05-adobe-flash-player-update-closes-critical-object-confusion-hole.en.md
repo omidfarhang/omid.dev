@@ -4,6 +4,7 @@ date: 2012-05-05T19:23:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/05/adobe-flash-player-update-closes-critical-object-confusion-hole/
+shortlink: https://g.omid.dev/1Ln2pQ1
 tags:
   - Adobe
   - flash player

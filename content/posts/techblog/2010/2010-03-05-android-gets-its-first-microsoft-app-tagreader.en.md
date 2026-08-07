@@ -4,6 +4,7 @@ date: 2010-03-05T01:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/android-gets-its-first-microsoft-app-tagreader/
+shortlink: https://g.omid.dev/1naMR6G
 tags:
   - Android
   - Google

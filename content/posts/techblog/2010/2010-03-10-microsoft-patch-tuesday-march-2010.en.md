@@ -4,6 +4,7 @@ date: 2010-03-10T10:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/10/microsoft-patch-tuesday-march-2010/
+shortlink: https://g.omid.dev/1RNsXXN
 tags:
   - Microsoft
   - Patch Tuesday

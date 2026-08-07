@@ -4,6 +4,7 @@ date: 2011-12-17T18:41:00+00:00
 layout: single
 author_profile: true
 url: 2011/12/17/visa-looks-into-eastern-european-security-breach/
+shortlink: https://g.omid.dev/22eKqjb
 tags:
   - review
   - Security

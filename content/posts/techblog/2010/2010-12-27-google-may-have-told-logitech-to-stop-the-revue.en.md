@@ -4,6 +4,7 @@ date: 2010-12-27T16:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/27/google-may-have-told-logitech-to-stop-the-revue/
+shortlink: https://g.omid.dev/1LenI6x
 tags:
   - Google
   - Google TV

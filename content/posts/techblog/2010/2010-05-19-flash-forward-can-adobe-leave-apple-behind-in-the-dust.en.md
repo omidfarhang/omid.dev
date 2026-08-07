@@ -4,6 +4,7 @@ date: 2010-05-19T14:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/flash-forward-can-adobe-leave-apple-behind-in-the-dust/
+shortlink: https://g.omid.dev/1LyGtBA
 tags:
   - Adobe
   - Apple

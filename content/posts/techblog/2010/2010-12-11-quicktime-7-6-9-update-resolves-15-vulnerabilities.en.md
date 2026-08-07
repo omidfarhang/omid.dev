@@ -4,6 +4,7 @@ date: 2010-12-11T00:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/11/quicktime-7-6-9-update-resolves-15-vulnerabilities/
+shortlink: https://g.omid.dev/1naMVTK
 tags:
   - Apple
   - QuickTime

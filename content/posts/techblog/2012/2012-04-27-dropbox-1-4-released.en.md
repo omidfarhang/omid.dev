@@ -4,6 +4,7 @@ date: 2012-04-27T10:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/27/dropbox-1-4-released/
+shortlink: https://g.omid.dev/1oUktaJ
 tags:
   - Dropbox
   - software

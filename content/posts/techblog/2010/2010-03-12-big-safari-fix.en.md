@@ -4,6 +4,7 @@ date: 2010-03-12T18:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/big-safari-fix/
+shortlink: https://g.omid.dev/1RZv8Km
 tags:
   - Apple
   - Browsers

@@ -4,6 +4,7 @@ date: 2010-10-22T19:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/zynga-sued-in-privacy-breach-controversy/
+shortlink: https://g.omid.dev/1UHUH6r
 tags:
   - Facebook
   - Privacy

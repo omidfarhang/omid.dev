@@ -4,6 +4,7 @@ date: 2010-10-28T13:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/new-trojan-virus-attacks-mac-computers-via-social-networking-sites/
+shortlink: https://g.omid.dev/1Y7Hr9O
 tags:
   - advice
   - alert

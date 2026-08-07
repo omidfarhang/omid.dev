@@ -4,6 +4,7 @@ date: 2010-10-18T22:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/yahoo-mimics-facebook-connect-with-y-connect/
+shortlink: https://g.omid.dev/25toTFX
 tags:
   - Yahoo
 

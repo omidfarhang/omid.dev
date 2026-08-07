@@ -4,6 +4,7 @@ date: 2011-03-09T22:26:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/09/a-mini-newsletter-from-your-google-chrome-security-team/
+shortlink: https://g.omid.dev/1VS6wV0
 tags:
   - Google
   - Google Chrome

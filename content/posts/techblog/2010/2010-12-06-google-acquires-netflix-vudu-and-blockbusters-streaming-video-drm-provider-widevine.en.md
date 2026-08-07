@@ -4,6 +4,7 @@ date: 2010-12-06T20:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/google-acquires-netflix-vudu-and-blockbusters-streaming-video-drm-provider-widevine/
+shortlink: https://g.omid.dev/1QyKYwf
 tags:
   - Google
   - News

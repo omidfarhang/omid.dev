@@ -4,6 +4,7 @@ date: 2010-05-19T21:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/the-pirate-bay-to-riaa-we-are-unsinkable/
+shortlink: https://g.omid.dev/21l9inc
 tags:
   - Piracy
   - RIAA

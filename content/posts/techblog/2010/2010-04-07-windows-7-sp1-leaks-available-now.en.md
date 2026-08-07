@@ -4,6 +4,7 @@ date: 2010-04-07T22:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/windows-7-sp1-leaks-available-now/
+shortlink: https://g.omid.dev/1LJ7hPA
 tags:
   - AMD
   - Download

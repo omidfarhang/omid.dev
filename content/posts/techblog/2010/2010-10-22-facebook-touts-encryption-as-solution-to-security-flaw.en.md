@@ -4,6 +4,7 @@ date: 2010-10-22T20:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/facebook-touts-encryption-as-solution-to-security-flaw/
+shortlink: https://g.omid.dev/1VZu621
 tags:
   - Facebook
   - Privacy

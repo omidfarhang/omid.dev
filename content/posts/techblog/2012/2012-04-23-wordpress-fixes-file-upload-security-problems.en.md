@@ -4,6 +4,7 @@ date: 2012-04-23T18:52:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/23/wordpress-fixes-file-upload-security-problems/
+shortlink: https://g.omid.dev/1QoVUcr
 tags:
   - Security
   - Updates

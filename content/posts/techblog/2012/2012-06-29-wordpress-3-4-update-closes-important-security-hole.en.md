@@ -4,6 +4,7 @@ date: 2012-06-29T19:57:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/29/wordpress-3-4-update-closes-important-security-hole/
+shortlink: https://g.omid.dev/1poG1MC
 tags:
   - Security
   - Updates

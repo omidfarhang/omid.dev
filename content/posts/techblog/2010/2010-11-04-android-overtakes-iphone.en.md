@@ -4,6 +4,7 @@ date: 2010-11-04T17:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/04/android-overtakes-iphone/
+shortlink: https://g.omid.dev/21ykhtu
 tags:
   - Android
   - Apple

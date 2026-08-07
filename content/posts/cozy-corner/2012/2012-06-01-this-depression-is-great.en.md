@@ -4,6 +4,7 @@ date: 2012-06-01T20:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/01/this-depression-is-great/
+shortlink: https://g.omid.dev/1TNS8z8
 tags:
   - My Life
 

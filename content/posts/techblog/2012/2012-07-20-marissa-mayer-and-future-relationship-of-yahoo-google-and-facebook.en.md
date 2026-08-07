@@ -4,6 +4,7 @@ date: 2012-07-20T15:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/20/marissa-mayer-and-future-relationship-of-yahoo-google-and-facebook/
+shortlink: https://g.omid.dev/1TVyAZH
 tags:
   - business
   - Facebook

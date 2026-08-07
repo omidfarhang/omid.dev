@@ -4,6 +4,7 @@ date: 2009-12-19T13:33:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/19/the-most-phished-brands-of-2009/
+shortlink: https://g.omid.dev/1TVuzEr
 tags:
   - Phishing
   - spam

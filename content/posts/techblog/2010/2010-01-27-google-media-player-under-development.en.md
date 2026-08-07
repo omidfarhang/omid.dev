@@ -4,6 +4,7 @@ date: 2010-01-27T19:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/27/google-media-player-under-development/
+shortlink: https://g.omid.dev/1RNsXqH
 tags:
   - Google
   - Google Chrome

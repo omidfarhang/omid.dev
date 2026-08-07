@@ -4,6 +4,7 @@ date: 2010-03-04T19:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/realdvd-permanently-banned-in-us-real-pays-hollywood-4-5-million/
+shortlink: https://g.omid.dev/1QCyAYN
 tags:
   - News
 

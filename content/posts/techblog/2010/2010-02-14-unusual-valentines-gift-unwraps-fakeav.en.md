@@ -4,6 +4,7 @@ date: 2010-02-14T01:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/14/unusual-valentines-gift-unwraps-fakeav/
+shortlink: https://g.omid.dev/1LQxYSG
 tags:
   - advice
   - alert

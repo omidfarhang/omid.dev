@@ -4,6 +4,7 @@ date: 2012-05-24T20:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/24/sometimes-hate-is-not-enough/
+shortlink: https://g.omid.dev/1n5SUJw
 tags:
   - My Life
 

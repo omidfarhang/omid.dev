@@ -4,6 +4,7 @@ date: 2010-10-29T12:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/facebook-now-tries-to-tell-the-story-between-two-friends/
+shortlink: https://g.omid.dev/1p9Ekmk
 tags:
   - Facebook
   - News

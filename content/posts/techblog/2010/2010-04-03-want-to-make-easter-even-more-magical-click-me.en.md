@@ -4,6 +4,7 @@ date: 2010-04-03T12:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/want-to-make-easter-even-more-magical-click-me/
+shortlink: https://g.omid.dev/22eMU13
 tags:
   - alert
   - spam

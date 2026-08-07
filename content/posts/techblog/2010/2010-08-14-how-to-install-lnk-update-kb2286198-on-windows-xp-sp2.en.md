@@ -4,6 +4,7 @@ date: 2010-08-14T20:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/14/how-to-install-lnk-update-kb2286198-on-windows-xp-sp2/
+shortlink: https://g.omid.dev/24PzIBR
 tags:
   - hack
   - Microsoft

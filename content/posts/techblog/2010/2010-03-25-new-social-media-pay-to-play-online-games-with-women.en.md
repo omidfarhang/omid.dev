@@ -4,6 +4,7 @@ date: 2010-03-25T10:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/25/new-social-media-pay-to-play-online-games-with-women/
+shortlink: https://g.omid.dev/1TE0Tw7
 tags:
   - Gaming
   - review

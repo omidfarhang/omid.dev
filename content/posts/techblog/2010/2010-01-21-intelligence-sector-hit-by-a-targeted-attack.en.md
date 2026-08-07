@@ -4,6 +4,7 @@ date: 2010-01-21T19:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/intelligence-sector-hit-by-a-targeted-attack/
+shortlink: https://g.omid.dev/1QCyCjm
 tags:
   - Adobe
   - alert

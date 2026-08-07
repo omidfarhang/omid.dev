@@ -4,6 +4,7 @@ date: 2011-08-12T20:13:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/12/expert-says-adobe-omits-mention-of-400-flash-player-flaws/
+shortlink: https://g.omid.dev/1SaCSLE
 tags:
   - Adobe
   - flash player

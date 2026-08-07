@@ -4,6 +4,7 @@ date: 2012-02-02T12:18:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/02/apple-releases-mac-os-x-10-7-3/
+shortlink: https://g.omid.dev/1KWjEru
 tags:
   - Apple
   - Mac OS X

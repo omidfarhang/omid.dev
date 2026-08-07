@@ -4,6 +4,7 @@ date: 2010-11-06T11:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/av-scam-is-it-a-rogue-or-is-it-avgs-free-edition-for-sale/
+shortlink: https://g.omid.dev/1TBzNFQ
 tags:
   - Malware
   - Phishing

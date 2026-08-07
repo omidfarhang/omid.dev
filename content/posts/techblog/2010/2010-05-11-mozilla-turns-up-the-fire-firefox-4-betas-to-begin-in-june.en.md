@@ -4,6 +4,7 @@ date: 2010-05-11T21:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/mozilla-turns-up-the-fire-firefox-4-betas-to-begin-in-june/
+shortlink: https://g.omid.dev/1Sh8Cyw
 tags:
   - Announcement
   - Apple

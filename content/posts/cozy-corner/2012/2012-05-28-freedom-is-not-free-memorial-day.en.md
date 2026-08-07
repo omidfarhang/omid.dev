@@ -4,6 +4,7 @@ date: 2012-05-28T16:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/28/freedom-is-not-free-memorial-day/
+shortlink: https://g.omid.dev/1UAAfTP
 tags:
   - events
 

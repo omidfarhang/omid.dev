@@ -4,6 +4,7 @@ date: 2010-11-12T09:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/google-now-enhancing-swf-indexing/
+shortlink: https://g.omid.dev/25toBPl
 tags:
   - Flash
   - Google

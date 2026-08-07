@@ -4,6 +4,7 @@ date: 2010-10-16T21:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/firefox-is-getting-fast/
+shortlink: https://g.omid.dev/1p5aUF7
 tags:
   - Firefox
   - Mozilla

@@ -4,6 +4,7 @@ date: 2012-05-30T20:11:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/30/googles-recaptcha-briefly-cracked/
+shortlink: https://g.omid.dev/1Sbni28
 tags:
   - Google
   - hack

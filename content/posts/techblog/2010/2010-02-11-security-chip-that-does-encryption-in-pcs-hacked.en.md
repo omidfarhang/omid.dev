@@ -4,6 +4,7 @@ date: 2010-02-11T18:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/11/security-chip-that-does-encryption-in-pcs-hacked/
+shortlink: https://g.omid.dev/1OWZDMc
 tags:
   - alert
   - News

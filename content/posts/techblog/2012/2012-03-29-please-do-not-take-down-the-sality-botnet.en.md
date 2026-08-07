@@ -4,6 +4,7 @@ date: 2012-03-29T15:12:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/29/please-do-not-take-down-the-sality-botnet/
+shortlink: https://g.omid.dev/1Y7GONH
 tags:
   - Malware
   - News

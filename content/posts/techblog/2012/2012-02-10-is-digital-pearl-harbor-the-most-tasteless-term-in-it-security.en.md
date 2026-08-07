@@ -4,6 +4,7 @@ date: 2012-02-10T10:39:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/is-digital-pearl-harbor-the-most-tasteless-term-in-it-security/
+shortlink: https://g.omid.dev/1QV3wHl
 tags:
   - report
   - review

@@ -4,6 +4,7 @@ date: 2010-04-02T21:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/02/how-the-fake-icade-could-become-real/
+shortlink: https://g.omid.dev/24PA7o6
 tags:
   - Apple
   - icade

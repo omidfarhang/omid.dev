@@ -4,6 +4,7 @@ date: 2011-04-20T12:15:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/20/yet-another-vb100-award-for-avira/
+shortlink: https://g.omid.dev/1T3mP3l
 tags:
   - Announcement
   - Avira

@@ -4,6 +4,7 @@ date: 2012-11-10T12:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/11/10/talking-about-true-meaning-of-loneliness/
+shortlink: https://g.omid.dev/21MnKXm
 tags:
   - quote
 

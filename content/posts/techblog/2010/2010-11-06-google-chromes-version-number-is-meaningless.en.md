@@ -4,6 +4,7 @@ date: 2010-11-06T09:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/google-chromes-version-number-is-meaningless/
+shortlink: https://g.omid.dev/1Y7HBOG
 tags:
   - Google
   - Google Chrome

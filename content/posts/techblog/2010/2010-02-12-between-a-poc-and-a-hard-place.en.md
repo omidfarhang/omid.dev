@@ -4,6 +4,7 @@ date: 2010-02-12T20:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/between-a-poc-and-a-hard-place/
+shortlink: https://g.omid.dev/1TH0VDn
 tags:
   - Malware
   - Mobile

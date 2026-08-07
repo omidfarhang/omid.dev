@@ -4,6 +4,7 @@ date: 2010-10-21T15:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/panda-security-launches-panda-antivirus-for-mac/
+shortlink: https://g.omid.dev/1L6udZ5
 tags:
   - Apple
   - Mac OS X

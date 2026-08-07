@@ -4,6 +4,7 @@ date: 2010-10-13T20:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/13/chrome-8-hits-dev-channel-with-gpu-acceleration-more-labs-offerings/
+shortlink: https://g.omid.dev/1Sb4PCU
 tags:
   - Google
   - Google Chrome

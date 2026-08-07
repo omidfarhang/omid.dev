@@ -5,6 +5,7 @@ description: Copy-protected music CDs and autorun installers are pushing DRM ont
 layout: single
 author_profile: true
 url: 2005/08/03/sony-bmg-rootkit-and-why-trust-matters/
+shortlink: https://g.omid.dev/kmwwIA2
 tags:
   - Security
   - Rootkit

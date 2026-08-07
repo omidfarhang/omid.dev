@@ -4,6 +4,7 @@ date: 2012-05-15T14:46:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/15/avira-av-update-hangs-systems/
+shortlink: https://g.omid.dev/1QCyxfr
 tags:
   - advice
   - Avira

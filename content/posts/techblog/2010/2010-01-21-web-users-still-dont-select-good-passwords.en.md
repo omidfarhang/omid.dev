@@ -4,6 +4,7 @@ date: 2010-01-21T20:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/web-users-still-dont-select-good-passwords/
+shortlink: https://g.omid.dev/1R3vjr4
 tags:
   - advice
   - alert

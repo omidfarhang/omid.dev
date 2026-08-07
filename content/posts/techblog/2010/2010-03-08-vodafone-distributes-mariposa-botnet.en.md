@@ -4,6 +4,7 @@ date: 2010-03-08T23:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/08/vodafone-distributes-mariposa-botnet/
+shortlink: https://g.omid.dev/1Tj6A2q
 tags:
   - Android
   - Malware

@@ -4,6 +4,7 @@ date: 2010-04-09T15:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/google-has-just-rewarded-me-with-1-million/
+shortlink: https://g.omid.dev/25poS5X
 tags:
   - advice
   - report

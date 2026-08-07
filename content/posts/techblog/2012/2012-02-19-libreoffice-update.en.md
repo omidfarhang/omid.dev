@@ -4,6 +4,7 @@ date: 2012-02-19T13:30:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/19/libreoffice-update/
+shortlink: https://g.omid.dev/21aXBPP
 tags:
   - follow up
   - OpenOffice

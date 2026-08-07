@@ -4,6 +4,7 @@ date: 2011-09-01T15:49:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/iphone-5-giveaways-on-facebook-a-scam-or-what/
+shortlink: https://g.omid.dev/1Qe0RHd
 tags:
   - Facebook
   - Phishing

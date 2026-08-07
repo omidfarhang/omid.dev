@@ -4,6 +4,7 @@ date: 2012-02-07T20:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/07/attackers-taking-aim-at-retail-and-food-chains/
+shortlink: https://g.omid.dev/1RDwJ8s
 tags:
   - attack
   - hack

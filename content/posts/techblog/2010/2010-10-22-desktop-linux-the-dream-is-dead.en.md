@@ -4,6 +4,7 @@ date: 2010-10-22T21:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/desktop-linux-the-dream-is-dead/
+shortlink: https://g.omid.dev/1QCyAYV
 tags:
   - Apple
   - Linux

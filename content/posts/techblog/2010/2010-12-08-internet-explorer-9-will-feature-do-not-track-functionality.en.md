@@ -4,6 +4,7 @@ date: 2010-12-08T00:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/internet-explorer-9-will-feature-do-not-track-functionality/
+shortlink: https://g.omid.dev/1TZKCfF
 tags:
   - Internet Explorer
   - News

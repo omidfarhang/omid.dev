@@ -4,6 +4,7 @@ date: 2010-05-11T13:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/what-does-php-stand-for-probable-hacked-page/
+shortlink: https://g.omid.dev/1TOOovY
 tags:
   - hack
   - Malware

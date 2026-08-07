@@ -4,6 +4,7 @@ date: 2012-05-25T09:13:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/25/google-releases-security-update-for-chrome-19/
+shortlink: https://g.omid.dev/21Ymnsd
 tags:
   - Browsers
   - Google

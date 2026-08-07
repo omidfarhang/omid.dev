@@ -4,6 +4,7 @@ date: 2010-05-03T14:38:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/treasury-website-hacked/
+shortlink: https://g.omid.dev/1TQwsCY
 tags:
   - hack
   - report

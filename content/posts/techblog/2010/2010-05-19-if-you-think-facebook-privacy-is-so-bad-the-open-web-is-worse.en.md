@@ -4,6 +4,7 @@ date: 2010-05-19T14:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/if-you-think-facebook-privacy-is-so-bad-the-open-web-is-worse/
+shortlink: https://g.omid.dev/1Qsft3t
 tags:
   - Facebook
   - Open Web

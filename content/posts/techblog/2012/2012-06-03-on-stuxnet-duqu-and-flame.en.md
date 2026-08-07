@@ -4,6 +4,7 @@ date: 2012-06-03T09:26:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/03/on-stuxnet-duqu-and-flame/
+shortlink: https://g.omid.dev/1Sa01hb
 tags:
   - Flame
   - link

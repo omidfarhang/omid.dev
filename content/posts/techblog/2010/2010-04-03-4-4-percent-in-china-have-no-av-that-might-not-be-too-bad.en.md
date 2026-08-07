@@ -4,6 +4,7 @@ date: 2010-04-03T15:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/4-4-percent-in-china-have-no-av-that-might-not-be-too-bad/
+shortlink: https://g.omid.dev/24PzYkh
 tags:
   - advice
   - antivirus

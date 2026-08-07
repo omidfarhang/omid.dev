@@ -4,6 +4,7 @@ date: 2010-02-12T23:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/top-4-most-annoying-facebook-couples/
+shortlink: https://g.omid.dev/1UCbN4O
 tags:
   - Facebook
   - News

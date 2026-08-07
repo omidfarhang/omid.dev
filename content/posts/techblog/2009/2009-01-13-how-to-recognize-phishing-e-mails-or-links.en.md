@@ -6,6 +6,7 @@ description: Clues that help you spot fraudulent e-mail messages and deceptive l
 layout: single
 author_profile: true
 url: 2009/01/13/phishing-emails/
+shortlink: https://g.omid.dev/o0pHywn
 tags:
   - Phishing
   - Email

@@ -4,6 +4,7 @@ date: 2010-03-19T10:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/fraud-alert-tax-time-in-the-usa/
+shortlink: https://g.omid.dev/1Y7HuT7
 tags:
   - alert
   - Phishing

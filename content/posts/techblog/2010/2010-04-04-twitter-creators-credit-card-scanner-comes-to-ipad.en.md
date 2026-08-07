@@ -4,6 +4,7 @@ date: 2010-04-04T11:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/04/twitter-creators-credit-card-scanner-comes-to-ipad/
+shortlink: https://g.omid.dev/1Rye79S
 tags:
   - Apple
   - News

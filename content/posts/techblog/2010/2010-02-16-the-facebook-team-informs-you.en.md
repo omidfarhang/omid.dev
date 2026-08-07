@@ -4,6 +4,7 @@ date: 2010-02-16T21:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/16/the-facebook-team-informs-you/
+shortlink: https://g.omid.dev/1QslrBy
 tags:
   - Facebook
   - Malware

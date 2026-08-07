@@ -4,6 +4,7 @@ date: 2011-03-12T23:13:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/12/internet-explorer-9-hits-rtm/
+shortlink: https://g.omid.dev/1Y7HRNp
 tags:
   - Announcement
   - Browsers

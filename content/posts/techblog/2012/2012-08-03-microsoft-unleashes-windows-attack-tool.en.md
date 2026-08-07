@@ -4,6 +4,7 @@ date: 2012-08-03T08:48:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/03/microsoft-unleashes-windows-attack-tool/
+shortlink: https://g.omid.dev/24PzScH
 tags:
   - Announcement
   - Microsoft

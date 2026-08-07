@@ -4,6 +4,7 @@ date: 2012-07-21T04:53:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/21/urgent-security-update-for-teamviewer/
+shortlink: https://g.omid.dev/1LmZbMm
 tags:
   - Security
   - software

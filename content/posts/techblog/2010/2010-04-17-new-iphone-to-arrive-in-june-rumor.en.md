@@ -4,6 +4,7 @@ date: 2010-04-17T20:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/new-iphone-to-arrive-in-june-rumor/
+shortlink: https://g.omid.dev/1RDs6i7
 tags:
   - Apple
   - Mobile 2.0

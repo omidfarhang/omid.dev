@@ -4,6 +4,7 @@ date: 2012-08-02T20:37:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/02/anonymous-hackers-identify-charity-attacker/
+shortlink: https://g.omid.dev/1Y7HKS4
 tags:
   - Anonymous
   - hack

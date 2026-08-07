@@ -4,6 +4,7 @@ date: 2012-03-13T14:09:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/13/scam-for-fc-barcelona-fans/
+shortlink: https://g.omid.dev/1Ln1nU5
 tags:
   - Facebook
   - Phishing

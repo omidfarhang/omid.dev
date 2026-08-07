@@ -4,6 +4,7 @@ date: 2010-03-06T23:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/06/desperate-phishing-attempt/
+shortlink: https://g.omid.dev/1U0gllG
 tags:
   - alert
   - scam

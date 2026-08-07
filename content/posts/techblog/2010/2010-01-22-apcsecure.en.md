@@ -4,6 +4,7 @@ date: 2010-01-22T10:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/apcsecure/
+shortlink: https://g.omid.dev/1XTfaUr
 tags:
   - Malware
   - rogue software

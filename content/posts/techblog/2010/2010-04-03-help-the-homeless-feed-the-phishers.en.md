@@ -4,6 +4,7 @@ date: 2010-04-03T19:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/help-the-homeless-feed-the-phishers/
+shortlink: https://g.omid.dev/1WA1gbR
 tags:
   - alert
   - Phishing

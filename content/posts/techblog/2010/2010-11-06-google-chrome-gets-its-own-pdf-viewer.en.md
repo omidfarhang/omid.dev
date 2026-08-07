@@ -4,6 +4,7 @@ date: 2010-11-06T16:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/google-chrome-gets-its-own-pdf-viewer/
+shortlink: https://g.omid.dev/1WXEji9
 tags:
   - Google
   - Google Chrome

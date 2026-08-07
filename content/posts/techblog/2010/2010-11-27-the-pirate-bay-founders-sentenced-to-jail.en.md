@@ -4,6 +4,7 @@ date: 2010-11-27T20:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/27/the-pirate-bay-founders-sentenced-to-jail/
+shortlink: https://g.omid.dev/1WRIvxp
 tags:
   - News
   - report

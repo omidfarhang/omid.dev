@@ -4,6 +4,7 @@ date: 2010-09-30T11:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/30/nokia-n8-shipments-begin/
+shortlink: https://g.omid.dev/1Ue7wF7
 tags:
   - Mobile
   - News

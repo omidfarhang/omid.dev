@@ -4,6 +4,7 @@ date: 2010-04-16T14:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/16/steve-jobs-show-premieres-off-broadway-next-week/
+shortlink: https://g.omid.dev/1QCyC31
 tags:
   - Apple
   - Threater

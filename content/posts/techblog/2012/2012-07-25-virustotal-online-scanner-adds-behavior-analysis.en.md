@@ -4,6 +4,7 @@ date: 2012-07-25T14:16:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/25/virustotal-online-scanner-adds-behavior-analysis/
+shortlink: https://g.omid.dev/1WRIw4z
 tags:
   - Announcement
   - antivirus

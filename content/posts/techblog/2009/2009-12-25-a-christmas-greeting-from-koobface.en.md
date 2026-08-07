@@ -4,6 +4,7 @@ date: 2009-12-25T12:24:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/25/a-christmas-greeting-from-koobface/
+shortlink: https://g.omid.dev/1WRItFH
 tags:
   - Facebook
   - Other

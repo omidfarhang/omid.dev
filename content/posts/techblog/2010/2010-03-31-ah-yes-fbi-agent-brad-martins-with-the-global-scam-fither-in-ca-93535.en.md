@@ -4,6 +4,7 @@ date: 2010-03-31T21:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/31/ah-yes-fbi-agent-brad-martins-with-the-global-scam-fither-in-ca-93535/
+shortlink: https://g.omid.dev/1VLsaKk
 tags:
   - spam
   - Security

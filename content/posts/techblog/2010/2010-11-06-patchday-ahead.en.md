@@ -4,6 +4,7 @@ date: 2010-11-06T10:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/patchday-ahead/
+shortlink: https://g.omid.dev/1OXnwDx
 tags:
   - 0-Day
   - Adobe

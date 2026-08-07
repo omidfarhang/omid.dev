@@ -4,6 +4,7 @@ date: 2010-04-14T22:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/twitter-to-developers-attach-any-data-you-want-to-tweets/
+shortlink: https://g.omid.dev/1QUw1Vq
 tags:
   - Development
   - Twitter

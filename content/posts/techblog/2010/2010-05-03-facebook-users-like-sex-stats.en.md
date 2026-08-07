@@ -4,6 +4,7 @@ date: 2010-05-03T19:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/facebook-users-like-sex-stats/
+shortlink: https://g.omid.dev/24lrx2r
 tags:
   - Facebook
   - report

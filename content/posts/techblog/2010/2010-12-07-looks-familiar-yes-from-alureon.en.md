@@ -4,6 +4,7 @@ date: 2010-12-07T13:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/looks-familiar-yes-from-alureon/
+shortlink: https://g.omid.dev/1Y7HKl8
 tags:
   - advice
   - Malware

@@ -4,6 +4,7 @@ date: 2010-05-03T20:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/whoops-treasury-still-hacked/
+shortlink: https://g.omid.dev/1Y7H7Ik
 tags:
   - hack
   - report

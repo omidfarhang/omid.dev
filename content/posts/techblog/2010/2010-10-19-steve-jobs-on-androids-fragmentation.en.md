@@ -4,6 +4,7 @@ date: 2010-10-19T18:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/steve-jobs-on-androids-fragmentation/
+shortlink: https://g.omid.dev/1U0yEYf
 tags:
   - Android
   - Apple

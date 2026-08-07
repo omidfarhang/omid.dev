@@ -4,6 +4,7 @@ date: 2011-03-13T14:29:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/13/unconfirmed-reports-that-yahoo-has-sold-delicious-for-5-million/
+shortlink: https://g.omid.dev/1TTMA4P
 tags:
   - business
   - Delicious

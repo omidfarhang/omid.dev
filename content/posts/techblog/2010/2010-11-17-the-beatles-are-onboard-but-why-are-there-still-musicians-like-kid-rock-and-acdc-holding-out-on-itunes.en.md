@@ -4,6 +4,7 @@ date: 2010-11-17T21:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/17/the-beatles-are-onboard-but-why-are-there-still-musicians-like-kid-rock-and-acdc-holding-out-on-itunes/
+shortlink: https://g.omid.dev/1Y7H2Ej
 tags:
   - Apple
   - itunes

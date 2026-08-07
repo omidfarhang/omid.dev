@@ -4,6 +4,7 @@ date: 2012-04-25T09:25:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/25/microsoft-security-essentials-4-0-ready-for-download/
+shortlink: https://g.omid.dev/1n5G51L
 tags:
   - Announcement
   - Microsoft

@@ -4,6 +4,7 @@ date: 2011-10-23T18:19:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/23/the-continuation-of-dangerous-rogue-ads-on-bing-and-yahoo/
+shortlink: https://g.omid.dev/1Y7GVZz
 tags:
   - advice
   - alert

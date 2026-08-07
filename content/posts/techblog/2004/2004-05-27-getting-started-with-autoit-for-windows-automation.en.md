@@ -5,6 +5,7 @@ description: A practical introduction to AutoIt for automating Windows tasks, in
 layout: single
 author_profile: true
 url: 2004/05/27/getting-started-with-autoit-for-windows-automation/
+shortlink: https://g.omid.dev/pdGkvxf
 tags:
   - AutoIt
   - Windows

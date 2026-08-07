@@ -4,6 +4,7 @@ date: 2010-11-01T20:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/01/google-founders-wanted-to-hire-steve-jobs-as-companys-first-ceo/
+shortlink: https://g.omid.dev/1LJ4BSd
 tags:
   - Google
   - Apple

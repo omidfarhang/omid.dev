@@ -4,6 +4,7 @@ date: 2012-06-04T13:37:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/04/microsoft-revokes-certificates-used-to-sign-the-flame-trojan/
+shortlink: https://g.omid.dev/1TxjytC
 tags:
   - certified
   - Malware

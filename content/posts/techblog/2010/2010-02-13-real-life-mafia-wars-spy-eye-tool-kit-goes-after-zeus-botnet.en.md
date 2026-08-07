@@ -4,6 +4,7 @@ date: 2010-02-13T01:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/13/real-life-mafia-wars-spy-eye-tool-kit-goes-after-zeus-botnet/
+shortlink: https://g.omid.dev/1Sb1ioh
 tags:
   - alert
   - News

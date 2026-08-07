@@ -4,6 +4,7 @@ date: 2011-03-23T09:12:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/23/switch-to-gmail/
+shortlink: https://g.omid.dev/1RQYdrl
 tags:
   - Gmail
   - Google

@@ -4,6 +4,7 @@ date: 2010-05-04T13:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/buddy-media-helps-marketers-take-advantage-of-facebooks-new-likes/
+shortlink: https://g.omid.dev/22eLtzN
 tags:
   - Buddy Media
   - Facebook

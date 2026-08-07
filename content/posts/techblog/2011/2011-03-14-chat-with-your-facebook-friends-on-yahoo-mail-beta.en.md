@@ -4,6 +4,7 @@ date: 2011-03-14T14:23:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/14/chat-with-your-facebook-friends-on-yahoo-mail-beta/
+shortlink: https://g.omid.dev/1RQYYAL
 tags:
   - Facebook
   - Messenger

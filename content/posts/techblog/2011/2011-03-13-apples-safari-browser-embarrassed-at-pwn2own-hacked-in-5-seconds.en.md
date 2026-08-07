@@ -4,6 +4,7 @@ date: 2011-03-13T07:04:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/13/apples-safari-browser-embarrassed-at-pwn2own-hacked-in-5-seconds/
+shortlink: https://g.omid.dev/1LmUnXl
 tags:
   - Apple
   - Browsers

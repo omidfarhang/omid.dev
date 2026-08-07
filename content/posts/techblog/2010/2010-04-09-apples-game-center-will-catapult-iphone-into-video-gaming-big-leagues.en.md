@@ -4,6 +4,7 @@ date: 2010-04-09T16:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/apples-game-center-will-catapult-iphone-into-video-gaming-big-leagues/
+shortlink: https://g.omid.dev/24PzFWM
 tags:
   - Apple
   - Gaming

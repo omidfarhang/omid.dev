@@ -4,6 +4,7 @@ date: 2010-02-12T12:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/adobe-flash-player-update/
+shortlink: https://g.omid.dev/1XjvJYR
 tags:
   - Adobe
   - Updates

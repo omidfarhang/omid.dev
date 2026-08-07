@@ -4,6 +4,7 @@ date: 2010-03-05T01:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/late-dash-by-spammers-for-2010-winter-olympics/
+shortlink: https://g.omid.dev/1RNsZPb
 tags:
   - advice
   - report

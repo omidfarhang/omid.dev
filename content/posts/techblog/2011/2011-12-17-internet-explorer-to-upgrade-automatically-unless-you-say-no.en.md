@@ -4,6 +4,7 @@ date: 2011-12-17T19:36:00+00:00
 layout: single
 author_profile: true
 url: 2011/12/17/internet-explorer-to-upgrade-automatically-unless-you-say-no/
+shortlink: https://g.omid.dev/1SaDC36
 tags:
   - Browsers
   - Internet Explorer

@@ -4,6 +4,7 @@ date: 2010-01-21T19:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/microsoft-will-patch-internet-explorer-today/
+shortlink: https://g.omid.dev/1QCyCjq
 tags:
   - alert
   - Microsoft

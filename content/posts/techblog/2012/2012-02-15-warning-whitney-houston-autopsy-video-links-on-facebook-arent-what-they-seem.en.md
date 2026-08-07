@@ -4,6 +4,7 @@ date: 2012-02-15T18:13:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/warning-whitney-houston-autopsy-video-links-on-facebook-arent-what-they-seem/
+shortlink: https://g.omid.dev/24PAij1
 tags:
   - alert
   - Facebook

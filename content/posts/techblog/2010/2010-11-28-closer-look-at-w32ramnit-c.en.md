@@ -4,6 +4,7 @@ date: 2010-11-28T20:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/28/closer-look-at-w32ramnit-c/
+shortlink: https://g.omid.dev/1pE78TX
 tags:
   - AMD
   - Malware

@@ -4,6 +4,7 @@ date: 2011-03-12T20:48:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/12/please-donate-redcross-for-japanese-earthquake-victims/
+shortlink: https://g.omid.dev/1L6vrnk
 tags:
   - donate
 

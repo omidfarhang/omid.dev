@@ -4,6 +4,7 @@ date: 2010-04-12T17:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/wordpress-blog-pages-redirected-to-rogue-site/
+shortlink: https://g.omid.dev/1WRIsS7
 tags:
   - alert
   - BLOGS

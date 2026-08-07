@@ -4,6 +4,7 @@ date: 2012-02-10T12:59:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/boston-police-hits-back-at-anonymous-with-sarcasm/
+shortlink: https://g.omid.dev/1SarQWI
 tags:
   - Anonymous
   - Video

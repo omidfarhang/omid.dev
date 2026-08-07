@@ -4,6 +4,7 @@ date: 2010-04-14T23:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/from-xss-to-root-lessons-learned-from-a-security-breach/
+shortlink: https://g.omid.dev/1S8YEe8
 tags:
   - advice
   - alert

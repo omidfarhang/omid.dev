@@ -4,6 +4,7 @@ date: 2010-10-28T14:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/steve-jobs-calls-the-new-macbook-air-the-future-of-laptops/
+shortlink: https://g.omid.dev/1Y7H6UJ
 tags:
   - Apple
   - review

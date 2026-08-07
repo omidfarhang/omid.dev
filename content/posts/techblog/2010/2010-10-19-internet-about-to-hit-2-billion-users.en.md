@@ -4,6 +4,7 @@ date: 2010-10-19T20:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/internet-about-to-hit-2-billion-users/
+shortlink: https://g.omid.dev/1S7hRNu
 tags:
   - internet
   - News

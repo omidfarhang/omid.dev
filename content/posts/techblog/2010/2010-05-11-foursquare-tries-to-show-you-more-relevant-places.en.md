@@ -4,6 +4,7 @@ date: 2010-05-11T21:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/foursquare-tries-to-show-you-more-relevant-places/
+shortlink: https://g.omid.dev/1QCyssl
 tags:
   - foursquare
 

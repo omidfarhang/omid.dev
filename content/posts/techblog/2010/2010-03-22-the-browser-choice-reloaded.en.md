@@ -4,6 +4,7 @@ date: 2010-03-22T19:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/the-browser-choice-reloaded/
+shortlink: https://g.omid.dev/21PN5Qc
 tags:
   - Browsers
   - Firefox

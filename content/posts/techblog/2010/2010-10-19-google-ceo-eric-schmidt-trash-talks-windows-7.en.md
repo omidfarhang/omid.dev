@@ -4,6 +4,7 @@ date: 2010-10-19T12:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/google-ceo-eric-schmidt-trash-talks-windows-7/
+shortlink: https://g.omid.dev/1Utel6g
 tags:
   - Google
   - Windows

@@ -4,6 +4,7 @@ date: 2011-03-23T09:17:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/23/talking-to-your-computer-with-html5/
+shortlink: https://g.omid.dev/1L6tOWL
 tags:
   - API
   - Google

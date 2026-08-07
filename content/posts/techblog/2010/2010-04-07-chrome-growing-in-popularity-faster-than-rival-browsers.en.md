@@ -4,6 +4,7 @@ date: 2010-04-07T22:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/chrome-growing-in-popularity-faster-than-rival-browsers/
+shortlink: https://g.omid.dev/1Y3gbbS
 tags:
   - Browsers
   - Firefox

@@ -4,6 +4,7 @@ date: 2010-05-11T16:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/steve-jobs-on-ipad-printing-it-will-come/
+shortlink: https://g.omid.dev/1Y7HpyX
 tags:
   - Apple
 

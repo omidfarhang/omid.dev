@@ -4,6 +4,7 @@ date: 2012-06-27T14:26:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/27/goodbye-lonesome-george/
+shortlink: https://g.omid.dev/24zWw8w
 tags:
   - events
 

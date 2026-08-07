@@ -4,6 +4,7 @@ date: 2010-04-07T21:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/java-applet-attack-targets-xbox-gamers/
+shortlink: https://g.omid.dev/1YNDXtu
 tags:
   - Apple
   - Firefox

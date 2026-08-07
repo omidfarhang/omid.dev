@@ -4,6 +4,7 @@ date: 2012-02-28T21:00:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/28/oops-selena-and-biebers-hidden-camera-bedroom-video-facebook-scam/
+shortlink: https://g.omid.dev/1Y7HD94
 tags:
   - alert
   - Facebook

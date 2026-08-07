@@ -4,6 +4,7 @@ date: 2010-11-30T17:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/fake-trojan-removal-kit-serves-up-thinkpoint-rogue/
+shortlink: https://g.omid.dev/1RCMJaP
 tags:
   - alert
   - Hijack

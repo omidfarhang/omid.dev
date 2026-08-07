@@ -4,6 +4,7 @@ date: 2010-11-30T21:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/hacker-takes-responsibility-for-wikileaks-takedown/
+shortlink: https://g.omid.dev/1Sb2urw
 tags:
   - attack
   - hack

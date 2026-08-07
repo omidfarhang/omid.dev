@@ -4,6 +4,7 @@ date: 2010-03-12T11:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/how-safe-is-cloud-computing/
+shortlink: https://g.omid.dev/1LRaK9J
 tags:
   - Cloud Computing
   - review

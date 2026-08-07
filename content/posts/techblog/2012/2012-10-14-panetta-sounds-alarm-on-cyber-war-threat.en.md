@@ -4,6 +4,7 @@ date: 2012-10-14T17:19:00+00:00
 layout: single
 author_profile: true
 url: 2012/10/14/panetta-sounds-alarm-on-cyber-war-threat/
+shortlink: https://g.omid.dev/1QT7hip
 tags:
   - Cyber War
   - Iran

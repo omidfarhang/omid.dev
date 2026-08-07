@@ -4,6 +4,7 @@ date: 2010-03-02T00:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/the-u-s-census-2010-dont-be-counted-as-a-victim-of-online-fraud/
+shortlink: https://g.omid.dev/1OVozUq
 tags:
   - advice
   - alert

@@ -4,6 +4,7 @@ date: 2012-03-09T21:27:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/09/facebook-scam-omg-i-just-hate-rihanna-after-watching-this-video/
+shortlink: https://g.omid.dev/1LczBKt
 tags:
   - alert
   - Facebook

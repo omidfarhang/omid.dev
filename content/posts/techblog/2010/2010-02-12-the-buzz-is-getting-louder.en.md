@@ -4,6 +4,7 @@ date: 2010-02-12T21:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/the-buzz-is-getting-louder/
+shortlink: https://g.omid.dev/1QCysZi
 tags:
   - alert
   - AOL

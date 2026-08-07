@@ -4,6 +4,7 @@ date: 2010-11-06T18:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/graph-of-when-people-break-up-on-facebook/
+shortlink: https://g.omid.dev/1Y7GXRa
 tags:
   - Facebook
   - report

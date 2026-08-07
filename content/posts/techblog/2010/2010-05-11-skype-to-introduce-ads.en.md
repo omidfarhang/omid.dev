@@ -4,6 +4,7 @@ date: 2010-05-11T14:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/skype-to-introduce-ads/
+shortlink: https://g.omid.dev/1Thd9CJ
 tags:
   - analyze
   - MARKETING

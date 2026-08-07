@@ -4,6 +4,7 @@ date: 2013-05-29T11:44:46+00:00
 layout: single
 author_profile: true
 url: 2013/05/29/dmc-and-wayne-static-join-forces-to-shoot-video-for-new-track/
+shortlink: https://g.omid.dev/1T9yltN
 tags:
   - DMC
   - Music

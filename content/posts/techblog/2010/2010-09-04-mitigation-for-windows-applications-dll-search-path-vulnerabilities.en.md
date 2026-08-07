@@ -4,6 +4,7 @@ date: 2010-09-04T20:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/04/mitigation-for-windows-applications-dll-search-path-vulnerabilities/
+shortlink: https://g.omid.dev/24PzH0S
 tags:
   - advice
   - Microsoft

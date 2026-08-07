@@ -5,6 +5,7 @@ description: Mark Russinovich's Sysinternals tools — Process Explorer, Autorun
 layout: single
 author_profile: true
 url: 2006/11/08/sysinternals-suite-for-windows-troubleshooting/
+shortlink: https://g.omid.dev/Cuw7YvG
 tags:
   - Sysinternals
   - Windows

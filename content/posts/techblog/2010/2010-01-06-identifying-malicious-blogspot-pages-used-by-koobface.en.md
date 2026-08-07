@@ -4,6 +4,7 @@ date: 2010-01-06T15:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/identifying-malicious-blogspot-pages-used-by-koobface/
+shortlink: https://g.omid.dev/1VLtz3C
 tags:
   - Facebook
   - Phishing

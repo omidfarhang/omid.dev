@@ -5,6 +5,7 @@ description: How small teams built internal web tools with PHP, MySQL, and class
 layout: single
 author_profile: true
 url: 2007/09/18/building-internal-web-tools-on-windows/
+shortlink: https://g.omid.dev/pu5O8Mi
 tags:
   - Web Development
   - PHP

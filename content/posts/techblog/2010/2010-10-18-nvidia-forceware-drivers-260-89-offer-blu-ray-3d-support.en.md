@@ -4,6 +4,7 @@ date: 2010-10-18T21:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/nvidia-forceware-drivers-260-89-offer-blu-ray-3d-support/
+shortlink: https://g.omid.dev/1LmSKZO
 tags:
   - 3D
   - driver

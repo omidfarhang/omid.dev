@@ -4,6 +4,7 @@ date: 2011-08-29T21:03:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/29/hacker-steals-user-data-from-nokia-developer-forum/
+shortlink: https://g.omid.dev/1UTGHWf
 tags:
   - attack
   - hack

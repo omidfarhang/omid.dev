@@ -4,6 +4,7 @@ date: 2010-03-05T01:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/contraband-imports/
+shortlink: https://g.omid.dev/1XTcu9e
 tags:
   - Malware
   - review

@@ -4,6 +4,7 @@ date: 2010-02-04T17:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/04/using-google-images-to-investigate-fraud/
+shortlink: https://g.omid.dev/1Y7Hhzq
 tags:
   - Phishing
   - scam

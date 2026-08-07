@@ -4,6 +4,7 @@ date: 2012-08-04T08:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/04/adult-phishing-scams-haunt-aura-kasih/
+shortlink: https://g.omid.dev/1Y7GZZf
 tags:
   - alert
   - Phishing

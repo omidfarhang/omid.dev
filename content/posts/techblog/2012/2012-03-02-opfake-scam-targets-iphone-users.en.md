@@ -4,6 +4,7 @@ date: 2012-03-02T21:42:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/02/opfake-scam-targets-iphone-users/
+shortlink: https://g.omid.dev/1SaZHi2
 tags:
   - Apple
   - link

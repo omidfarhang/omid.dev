@@ -4,6 +4,7 @@ date: 2010-04-12T17:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/barnes-nobles-nook-hits-best-buy-stores-next-week/
+shortlink: https://g.omid.dev/1TTMU3I
 tags:
   - Apple
   - Nook

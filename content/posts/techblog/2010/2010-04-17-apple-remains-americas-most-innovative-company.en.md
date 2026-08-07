@@ -4,6 +4,7 @@ date: 2010-04-17T20:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/apple-remains-americas-most-innovative-company/
+shortlink: https://g.omid.dev/24PAhfa
 tags:
   - Apple
   - Business

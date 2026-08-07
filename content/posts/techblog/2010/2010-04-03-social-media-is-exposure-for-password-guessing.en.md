@@ -4,6 +4,7 @@ date: 2010-04-03T19:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/social-media-is-exposure-for-password-guessing/
+shortlink: https://g.omid.dev/1Y3fxLs
 tags:
   - advice
   - Facebook

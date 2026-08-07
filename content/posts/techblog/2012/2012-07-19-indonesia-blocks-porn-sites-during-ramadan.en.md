@@ -4,6 +4,7 @@ date: 2012-07-19T10:50:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/19/indonesia-blocks-porn-sites-during-ramadan/
+shortlink: https://g.omid.dev/1QkP8I5
 tags:
   - News
 

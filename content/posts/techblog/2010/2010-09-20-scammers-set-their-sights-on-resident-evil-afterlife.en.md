@@ -4,6 +4,7 @@ date: 2010-09-20T11:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/20/scammers-set-their-sights-on-resident-evil-afterlife/
+shortlink: https://g.omid.dev/1TQgDvM
 tags:
   - Phishing
   - report

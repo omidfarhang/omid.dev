@@ -4,6 +4,7 @@ date: 2010-04-17T19:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/volcanoes-and-disaster-recovery/
+shortlink: https://g.omid.dev/1MnU3rR
 tags:
   - News
 

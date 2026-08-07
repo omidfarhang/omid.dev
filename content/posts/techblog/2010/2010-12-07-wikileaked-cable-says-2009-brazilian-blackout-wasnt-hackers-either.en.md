@@ -4,6 +4,7 @@ date: 2010-12-07T11:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/wikileaked-cable-says-2009-brazilian-blackout-wasnt-hackers-either/
+shortlink: https://g.omid.dev/1N3LqOm
 tags:
   - report
   - WikiLeaks

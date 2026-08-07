@@ -4,6 +4,7 @@ date: 2012-06-09T12:48:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/09/password-leaks-bigger-than-first-thought/
+shortlink: https://g.omid.dev/1SakUss
 tags:
   - advice
   - hack

@@ -4,6 +4,7 @@ date: 2011-12-17T19:09:00+00:00
 layout: single
 author_profile: true
 url: 2011/12/17/adobe-closes-acrobat-and-reader-security-holes/
+shortlink: https://g.omid.dev/1RCJiB4
 tags:
   - Adobe
   - report

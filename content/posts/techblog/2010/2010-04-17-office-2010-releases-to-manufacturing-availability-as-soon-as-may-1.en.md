@@ -4,6 +4,7 @@ date: 2010-04-17T17:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/office-2010-releases-to-manufacturing-availability-as-soon-as-may-1/
+shortlink: https://g.omid.dev/1UArLfk
 tags:
   - Announcement
   - Microsoft

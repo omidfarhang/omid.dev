@@ -4,6 +4,7 @@ date: 2011-12-10T19:21:00+00:00
 layout: single
 author_profile: true
 url: 2011/12/10/one-is-bad-and-everyone-else-good-or-its-likewise/
+shortlink: https://g.omid.dev/1TOOzau
 tags:
   - I think
 

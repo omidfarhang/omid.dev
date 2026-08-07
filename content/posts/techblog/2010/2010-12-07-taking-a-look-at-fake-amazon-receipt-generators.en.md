@@ -4,6 +4,7 @@ date: 2010-12-07T23:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/taking-a-look-at-fake-amazon-receipt-generators/
+shortlink: https://g.omid.dev/1WRIvxv
 tags:
   - Amazon
   - Malware

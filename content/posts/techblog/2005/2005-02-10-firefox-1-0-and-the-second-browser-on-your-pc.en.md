@@ -5,6 +5,7 @@ description: Firefox 1.0 gave Windows users a credible alternative to Internet E
 layout: single
 author_profile: true
 url: 2005/02/10/firefox-1-0-and-the-second-browser-on-your-pc/
+shortlink: https://g.omid.dev/ySzZp6D
 tags:
   - Firefox
   - Browsers

@@ -4,6 +4,7 @@ date: 2012-03-03T20:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/03/hackers-had-full-functional-control-of-nasa-computers/
+shortlink: https://g.omid.dev/1QTQV2A
 tags:
   - hack
   - NASA

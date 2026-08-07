@@ -4,6 +4,7 @@ date: 2012-08-18T19:10:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/18/unfortunately-unforgettable-sweet-memories/
+shortlink: https://g.omid.dev/1Row4VT
 tags:
   - My Life
 

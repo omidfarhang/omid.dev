@@ -4,6 +4,7 @@ date: 2012-02-15T18:02:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/twitter-enables-https-for-all-signed-in-users/
+shortlink: https://g.omid.dev/1WEFtgj
 tags:
   - News
   - Social Media

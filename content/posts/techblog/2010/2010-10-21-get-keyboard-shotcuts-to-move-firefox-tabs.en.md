@@ -4,6 +4,7 @@ date: 2010-10-21T13:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/get-keyboard-shotcuts-to-move-firefox-tabs/
+shortlink: https://g.omid.dev/1pqH7Ym
 tags:
   - Firefox
   - Mozilla

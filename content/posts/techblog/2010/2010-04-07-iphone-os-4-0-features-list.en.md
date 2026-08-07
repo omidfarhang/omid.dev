@@ -4,6 +4,7 @@ date: 2010-04-07T23:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/iphone-os-4-0-features-list/
+shortlink: https://g.omid.dev/1TianNg
 tags:
   - Apple
   - News

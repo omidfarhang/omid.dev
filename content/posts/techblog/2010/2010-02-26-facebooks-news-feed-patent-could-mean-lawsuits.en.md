@@ -4,6 +4,7 @@ date: 2010-02-26T15:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/26/facebooks-news-feed-patent-could-mean-lawsuits/
+shortlink: https://g.omid.dev/24HaZzB
 tags:
   - AOL
   - Facebook

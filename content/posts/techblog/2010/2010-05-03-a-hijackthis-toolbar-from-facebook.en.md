@@ -4,6 +4,7 @@ date: 2010-05-03T19:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/a-hijackthis-toolbar-from-facebook/
+shortlink: https://g.omid.dev/24PzZVu
 tags:
   - alert
   - Facebook

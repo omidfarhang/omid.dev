@@ -4,6 +4,7 @@ date: 2010-03-22T12:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/phishing-increased-62-percent-in-09/
+shortlink: https://g.omid.dev/1pLqBC5
 tags:
   - News
   - Phishing

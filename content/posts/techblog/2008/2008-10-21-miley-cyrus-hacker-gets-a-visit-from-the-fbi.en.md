@@ -4,6 +4,7 @@ date: 2008-10-21T12:00:00+00:00
 layout: single
 author_profile: true
 url: 2008/10/21/miley-cyrus-hacker-gets-a-visit-from-the-fbi/
+shortlink: https://g.omid.dev/JjkWwsO
 tags:
   - celeb
   - hack

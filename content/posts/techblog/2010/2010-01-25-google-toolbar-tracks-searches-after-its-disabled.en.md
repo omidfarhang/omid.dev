@@ -4,6 +4,7 @@ date: 2010-01-25T22:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/25/google-toolbar-tracks-searches-after-its-disabled/
+shortlink: https://g.omid.dev/1RApQVi
 tags:
   - advice
   - Google Chrome

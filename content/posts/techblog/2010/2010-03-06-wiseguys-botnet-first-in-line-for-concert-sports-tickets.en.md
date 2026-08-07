@@ -4,6 +4,7 @@ date: 2010-03-06T23:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/06/wiseguys-botnet-first-in-line-for-concert-sports-tickets/
+shortlink: https://g.omid.dev/1Uy1kZ6
 tags:
   - Malware
   - Phishing

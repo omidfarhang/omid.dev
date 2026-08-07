@@ -4,6 +4,7 @@ date: 2010-03-23T20:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/firefox-3-6-2-early-edition/
+shortlink: https://g.omid.dev/1VLu7GR
 tags:
   - advice
   - alert

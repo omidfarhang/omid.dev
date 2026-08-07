@@ -4,6 +4,7 @@ date: 2010-03-11T12:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/11/wot-has-a-bookmarklet-for-opera-and-safari/
+shortlink: https://g.omid.dev/1WzZE1O
 tags:
   - Firefox
   - Google Chrome

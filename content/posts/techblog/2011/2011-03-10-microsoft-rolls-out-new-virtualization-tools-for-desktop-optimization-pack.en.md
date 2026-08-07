@@ -4,6 +4,7 @@ date: 2011-03-10T20:17:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/10/microsoft-rolls-out-new-virtualization-tools-for-desktop-optimization-pack/
+shortlink: https://g.omid.dev/1RQXjuV
 tags:
   - Announcement
   - Microsoft

@@ -4,6 +4,7 @@ date: 2012-08-16T10:43:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/16/ie-9-0-9-available-via-windows-update/
+shortlink: https://g.omid.dev/1Qo8okE
 tags:
   - Browsers
   - Internet Explorer

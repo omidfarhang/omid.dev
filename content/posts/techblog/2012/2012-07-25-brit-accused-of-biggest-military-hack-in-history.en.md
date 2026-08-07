@@ -4,6 +4,7 @@ date: 2012-07-25T21:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/25/brit-accused-of-biggest-military-hack-in-history/
+shortlink: https://g.omid.dev/1pm0bXj
 tags:
   - hack
   - News

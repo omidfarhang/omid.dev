@@ -4,6 +4,7 @@ date: 2011-11-03T12:45:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/03/internet-explorers-share-of-web-traffic-drops-below-50/
+shortlink: https://g.omid.dev/1T3obuO
 tags:
   - Browsers
   - Firefox

@@ -4,6 +4,7 @@ date: 2010-04-03T19:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/hacking-forum-or-a-sting-operation/
+shortlink: https://g.omid.dev/1VPJ22H
 tags:
   - Google Chrome
   - hack

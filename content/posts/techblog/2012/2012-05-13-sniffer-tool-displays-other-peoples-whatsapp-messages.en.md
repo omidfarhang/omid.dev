@@ -4,6 +4,7 @@ date: 2012-05-13T22:06:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/13/sniffer-tool-displays-other-peoples-whatsapp-messages/
+shortlink: https://g.omid.dev/21gbmwK
 tags:
   - Mobile
   - News

@@ -4,6 +4,7 @@ date: 2011-05-05T19:43:00+00:00
 layout: single
 author_profile: true
 url: 2011/05/05/the-seamless-automagical-future-of-software-updates/
+shortlink: https://g.omid.dev/1OYbIAU
 tags:
   - Apple
   - apple app store

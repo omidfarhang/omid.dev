@@ -4,6 +4,7 @@ date: 2010-03-01T20:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/analyzing-pdf-files/
+shortlink: https://g.omid.dev/1nEnt9y
 tags:
   - Malware
   - review

@@ -4,6 +4,7 @@ date: 2010-03-22T23:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/icelandic-volcano-erupts-fake-antivirus-spews-forth/
+shortlink: https://g.omid.dev/1RNt4CE
 tags:
   - Apple
   - Malware

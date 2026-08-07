@@ -4,6 +4,7 @@ date: 2010-05-11T14:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/firefox-4-plans-faster-friendlier-more-secure/
+shortlink: https://g.omid.dev/23OBZvC
 tags:
   - Browsers
   - Firefox

@@ -4,6 +4,7 @@ date: 2011-04-12T08:25:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/12/bbc-newsdad-walks-in-on-daughter-facebook-scams/
+shortlink: https://g.omid.dev/24PA6Ah
 tags:
   - Facebook
   - Phishing

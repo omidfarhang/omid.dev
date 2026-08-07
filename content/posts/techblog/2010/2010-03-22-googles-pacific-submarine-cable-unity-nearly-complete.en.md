@@ -4,6 +4,7 @@ date: 2010-03-22T13:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/googles-pacific-submarine-cable-unity-nearly-complete/
+shortlink: https://g.omid.dev/1SDw4Ep
 tags:
   - Google
   - News

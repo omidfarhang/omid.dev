@@ -4,6 +4,7 @@ date: 2010-04-03T11:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/microsoft-office-on-ipad-dont-hold-your-breath/
+shortlink: https://g.omid.dev/24PzGKu
 tags:
   - Apple
   - Google

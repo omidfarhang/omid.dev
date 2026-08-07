@@ -4,6 +4,7 @@ date: 2010-02-01T23:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/01/new-rogue-mypcsecure/
+shortlink: https://g.omid.dev/1QCyxfJ
 tags:
   - Malware
   - rogue software

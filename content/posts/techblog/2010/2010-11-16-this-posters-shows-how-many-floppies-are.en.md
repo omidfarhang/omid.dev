@@ -4,6 +4,7 @@ date: 2010-11-16T14:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/16/this-posters-shows-how-many-floppies-are/
+shortlink: https://g.omid.dev/1QkP0Z7
 tags:
   - Interesting
 

@@ -4,6 +4,7 @@ date: 2012-08-27T19:33:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/27/dropbox-tests-two-factor-authentication/
+shortlink: https://g.omid.dev/1RjF5zo
 tags:
   - Announcement
   - Beta

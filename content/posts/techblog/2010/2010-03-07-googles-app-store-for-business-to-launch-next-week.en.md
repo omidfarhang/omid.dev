@@ -4,6 +4,7 @@ date: 2010-03-07T00:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/07/googles-app-store-for-business-to-launch-next-week/
+shortlink: https://g.omid.dev/1Viki5J
 tags:
   - Google
   - News

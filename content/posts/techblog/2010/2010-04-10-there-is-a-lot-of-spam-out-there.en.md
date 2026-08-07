@@ -4,6 +4,7 @@ date: 2010-04-10T10:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/10/there-is-a-lot-of-spam-out-there/
+shortlink: https://g.omid.dev/1UgWHkv
 tags:
   - Hijack
   - report

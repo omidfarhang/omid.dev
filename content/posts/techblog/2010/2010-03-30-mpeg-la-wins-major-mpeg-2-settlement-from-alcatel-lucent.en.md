@@ -4,6 +4,7 @@ date: 2010-03-30T15:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/mpeg-la-wins-major-mpeg-2-settlement-from-alcatel-lucent/
+shortlink: https://g.omid.dev/21LTkb8
 tags:
   - News
   - report

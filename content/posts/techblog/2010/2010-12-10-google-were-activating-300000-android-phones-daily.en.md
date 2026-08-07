@@ -4,6 +4,7 @@ date: 2010-12-10T22:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/10/google-were-activating-300000-android-phones-daily/
+shortlink: https://g.omid.dev/1Ln4zzf
 tags:
   - Android
   - Google

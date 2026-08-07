@@ -4,6 +4,7 @@ date: 2010-01-06T13:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/flash-christmas-and-the-new-year/
+shortlink: https://g.omid.dev/1QoVC5m
 tags:
   - Malware
   - report

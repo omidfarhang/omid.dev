@@ -4,6 +4,7 @@ date: 2010-12-08T00:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/celebrities-internet-deaths-raise-1m-for-charity/
+shortlink: https://g.omid.dev/1pExDbJ
 tags:
   - celeb
   - News

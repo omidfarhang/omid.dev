@@ -4,6 +4,7 @@ date: 2012-06-14T07:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/14/google-closes-persistent-xss-holes-in-gmail/
+shortlink: https://g.omid.dev/1SaZwDm
 tags:
   - Google
   - Gmail

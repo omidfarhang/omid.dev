@@ -4,6 +4,7 @@ date: 2010-09-08T19:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/08/browser-updates/
+shortlink: https://g.omid.dev/1Y4Yl92
 tags:
   - advice
   - Apple

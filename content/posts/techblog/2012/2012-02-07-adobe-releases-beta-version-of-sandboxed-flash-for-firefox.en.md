@@ -4,6 +4,7 @@ date: 2012-02-07T14:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/07/adobe-releases-beta-version-of-sandboxed-flash-for-firefox/
+shortlink: https://g.omid.dev/1Y7GWN3
 tags:
   - Adobe
   - Browsers

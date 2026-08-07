@@ -4,6 +4,7 @@ date: 2012-02-15T18:16:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/java-se-updates-fix-critical-security-holes/
+shortlink: https://g.omid.dev/1SaVx9Z
 tags:
   - Java
   - software

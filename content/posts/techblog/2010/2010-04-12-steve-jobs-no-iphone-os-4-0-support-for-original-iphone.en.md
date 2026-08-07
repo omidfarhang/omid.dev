@@ -4,6 +4,7 @@ date: 2010-04-12T17:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/12/steve-jobs-no-iphone-os-4-0-support-for-original-iphone/
+shortlink: https://g.omid.dev/1Y7HfHG
 tags:
   - Apple
 

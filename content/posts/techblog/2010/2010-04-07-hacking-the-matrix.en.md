@@ -4,6 +4,7 @@ date: 2010-04-07T22:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/hacking-the-matrix/
+shortlink: https://g.omid.dev/1RkSmaN
 tags:
   - hack
   - Hijack

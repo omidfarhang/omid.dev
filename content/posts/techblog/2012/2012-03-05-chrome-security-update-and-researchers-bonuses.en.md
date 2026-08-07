@@ -4,6 +4,7 @@ date: 2012-03-05T17:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/05/chrome-security-update-and-researchers-bonuses/
+shortlink: https://g.omid.dev/1WRIycE
 tags:
   - Google
   - Google Chrome

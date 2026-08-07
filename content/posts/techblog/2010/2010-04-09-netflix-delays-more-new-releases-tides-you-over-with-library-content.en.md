@@ -4,6 +4,7 @@ date: 2010-04-09T22:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/netflix-delays-more-new-releases-tides-you-over-with-library-content/
+shortlink: https://g.omid.dev/1S8XU94
 tags:
   - 3D
   - Entertainment

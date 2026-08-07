@@ -4,6 +4,7 @@ date: 2010-03-05T01:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/pwn2own-interview-with-charlie-miller/
+shortlink: https://g.omid.dev/1OuyoKx
 tags:
   - Interview
 

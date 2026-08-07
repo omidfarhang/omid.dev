@@ -4,6 +4,7 @@ date: 2013-03-25T10:42:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/25/anonymous-linked-groups-hack-israeli-websites-release-personal-data/
+shortlink: https://g.omid.dev/1n62ufs
 image: /images/2013/03/anony.jpg
 tags:
   - Anonymous

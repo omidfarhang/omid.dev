@@ -4,6 +4,7 @@ date: 2010-03-05T01:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/google-buys-flickrs-editing-tool-picnik/
+shortlink: https://g.omid.dev/1Y7GVIR
 tags:
   - Android
   - Google

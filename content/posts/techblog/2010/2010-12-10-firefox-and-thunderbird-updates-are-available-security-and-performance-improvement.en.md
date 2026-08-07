@@ -4,6 +4,7 @@ date: 2010-12-10T22:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/10/firefox-and-thunderbird-updates-are-available-security-and-performance-improvement/
+shortlink: https://g.omid.dev/1VUsRkO
 tags:
   - Firefox
   - Mozilla

@@ -4,6 +4,7 @@ date: 2013-03-11T22:02:00+00:00
 layout: single
 author_profile: true
 url: 2013/03/11/and-a2-is-passed/
+shortlink: https://g.omid.dev/1QCNSg0
 tags:
   - My Life
 

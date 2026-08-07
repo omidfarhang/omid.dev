@@ -4,6 +4,7 @@ date: 2010-10-21T14:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/predator-software-pirated/
+shortlink: https://g.omid.dev/1TVqJvv
 tags:
   - News
   - report

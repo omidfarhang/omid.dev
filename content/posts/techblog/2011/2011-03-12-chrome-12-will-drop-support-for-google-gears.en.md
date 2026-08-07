@@ -4,6 +4,7 @@ date: 2011-03-12T21:25:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/12/chrome-12-will-drop-support-for-google-gears/
+shortlink: https://g.omid.dev/24PAmiU
 tags:
   - Google
   - Google Chrome

@@ -4,6 +4,7 @@ date: 2010-05-11T17:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/first-non-latin-international-domain-names-finally-launch/
+shortlink: https://g.omid.dev/1LOyQBV
 tags:
   - Apple
   - arabic

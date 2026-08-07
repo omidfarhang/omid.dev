@@ -4,6 +4,7 @@ date: 2010-10-21T21:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/pcworld-links-to-scareware/
+shortlink: https://g.omid.dev/1oXsUlx
 tags:
   - advice
   - Hijack

@@ -4,6 +4,7 @@ date: 2010-03-19T10:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/can-spam-get-worse/
+shortlink: https://g.omid.dev/1Y7HO4h
 tags:
   - report
   - review

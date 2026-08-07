@@ -4,6 +4,7 @@ date: 2011-08-30T08:00:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/30/create-pdf-files-on-your-iphone-and-ipad-now/
+shortlink: https://g.omid.dev/1TBlCQO
 tags:
   - Adobe
   - PDF

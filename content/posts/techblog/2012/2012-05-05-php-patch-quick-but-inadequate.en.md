@@ -4,6 +4,7 @@ date: 2012-05-05T19:25:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/05/php-patch-quick-but-inadequate/
+shortlink: https://g.omid.dev/24PAcYX
 tags:
   - PHP
   - Security

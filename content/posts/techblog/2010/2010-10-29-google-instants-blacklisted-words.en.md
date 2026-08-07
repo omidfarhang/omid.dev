@@ -4,6 +4,7 @@ date: 2010-10-29T11:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/google-instants-blacklisted-words/
+shortlink: https://g.omid.dev/1Pj1Dif
 tags:
   - Google
   - report

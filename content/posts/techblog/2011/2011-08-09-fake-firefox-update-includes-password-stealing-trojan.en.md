@@ -4,6 +4,7 @@ date: 2011-08-09T19:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/09/fake-firefox-update-includes-password-stealing-trojan/
+shortlink: https://g.omid.dev/21nHpL5
 tags:
   - Firefox
   - Malware

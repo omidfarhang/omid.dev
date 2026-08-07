@@ -4,6 +4,7 @@ date: 2010-03-30T16:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/facebook-av/
+shortlink: https://g.omid.dev/1SDq6DJ
 tags:
   - alert
   - Facebook

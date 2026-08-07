@@ -4,6 +4,7 @@ date: 2010-01-27T19:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/27/loose-tweets-sink-fleets/
+shortlink: https://g.omid.dev/1RF8OFE
 tags:
   - hack
   - privacy

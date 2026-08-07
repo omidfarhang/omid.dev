@@ -4,6 +4,7 @@ date: 2011-04-02T08:43:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/02/comodo-group-issues-bogus-ssl-certificates/
+shortlink: https://g.omid.dev/1Sb3I65
 tags:
   - report
   - review

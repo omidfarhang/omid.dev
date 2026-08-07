@@ -4,6 +4,7 @@ date: 2010-12-06T19:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/facebook-adds-new-profiles/
+shortlink: https://g.omid.dev/1QCytws
 tags:
   - advice
   - Announcement

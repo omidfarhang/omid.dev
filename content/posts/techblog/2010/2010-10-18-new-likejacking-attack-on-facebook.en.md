@@ -4,6 +4,7 @@ date: 2010-10-18T22:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/new-likejacking-attack-on-facebook/
+shortlink: https://g.omid.dev/1p6lE6X
 tags:
   - advice
   - alert

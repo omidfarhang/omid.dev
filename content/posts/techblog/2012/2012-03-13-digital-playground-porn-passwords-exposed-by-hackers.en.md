@@ -4,6 +4,7 @@ date: 2012-03-13T14:42:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/13/digital-playground-porn-passwords-exposed-by-hackers/
+shortlink: https://g.omid.dev/24PAhvE
 tags:
   - hack
   - Password

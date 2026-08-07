@@ -4,6 +4,7 @@ date: 2011-09-16T13:58:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/16/iranian-block-on-tor-traffic-quickly-foiled/
+shortlink: https://g.omid.dev/1RA9tYX
 tags:
   - Censorship
   - Iran

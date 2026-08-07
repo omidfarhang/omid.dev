@@ -4,6 +4,7 @@ date: 2012-02-23T08:58:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/23/youporn-passwords-available-for-download-thousands-of-users-exposed-updated/
+shortlink: https://g.omid.dev/1Sb01xx
 tags:
   - alert
   - hack

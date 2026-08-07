@@ -4,6 +4,7 @@ date: 2010-05-11T17:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/facebook-adding-location-features-this-month-report/
+shortlink: https://g.omid.dev/1LR93ZQ
 tags:
   - Facebook
   - locations

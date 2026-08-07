@@ -4,6 +4,7 @@ date: 2012-03-07T16:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/07/gout-hypothyroid-high-bp-and-bad-liver/
+shortlink: https://g.omid.dev/1TXFoWG
 tags:
   - My Life
 

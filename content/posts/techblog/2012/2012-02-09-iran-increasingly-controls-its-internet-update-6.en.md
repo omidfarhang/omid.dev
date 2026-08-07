@@ -4,6 +4,7 @@ date: 2012-02-09T22:20:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/09/iran-increasingly-controls-its-internet-update-6/
+shortlink: https://g.omid.dev/1LmVRkq
 tags:
   - Censorship
   - internet

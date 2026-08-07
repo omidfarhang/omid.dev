@@ -4,6 +4,7 @@ date: 2011-03-08T12:21:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/08/introducing-the-google-apis-explorer/
+shortlink: https://g.omid.dev/1TXU7kz
 tags:
   - Announcement
   - API

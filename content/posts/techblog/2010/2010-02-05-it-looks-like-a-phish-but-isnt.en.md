@@ -4,6 +4,7 @@ date: 2010-02-05T22:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/05/it-looks-like-a-phish-but-isnt/
+shortlink: https://g.omid.dev/1Ln3xTQ
 tags:
   - Phishing
   - spam

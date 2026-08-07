@@ -4,6 +4,7 @@ date: 2011-08-15T20:17:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/15/mozilla-plans-to-hide-firefox-version/
+shortlink: https://g.omid.dev/21RXA5C
 tags:
   - Beta
   - Firefox

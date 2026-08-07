@@ -4,6 +4,7 @@ date: 2011-04-15T10:25:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/15/the-update-wave-is-rolling-apple-adobe-google/
+shortlink: https://g.omid.dev/1WRItWn
 tags:
   - Adobe
   - Apple

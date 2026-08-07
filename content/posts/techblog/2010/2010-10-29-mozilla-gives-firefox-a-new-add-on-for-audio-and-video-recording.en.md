@@ -4,6 +4,7 @@ date: 2010-10-29T11:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/mozilla-gives-firefox-a-new-add-on-for-audio-and-video-recording/
+shortlink: https://g.omid.dev/1Ry64tK
 tags:
   - Firefox
   - Firefox Addon

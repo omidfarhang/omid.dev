@@ -4,6 +4,7 @@ date: 2010-05-04T11:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/paypal-phish/
+shortlink: https://g.omid.dev/21rDv3S
 tags:
   - advice
   - alert

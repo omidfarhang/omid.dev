@@ -4,6 +4,7 @@ date: 2010-12-10T22:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/10/facebook-announces-first-hacker-cup/
+shortlink: https://g.omid.dev/1oUdFt2
 tags:
   - Facebook
   - hack

@@ -4,6 +4,7 @@ date: 2010-04-14T22:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/twitter-launching-points-of-interest-to-tie-tweets-to-places/
+shortlink: https://g.omid.dev/1UGbC9m
 tags:
   - locations
   - News

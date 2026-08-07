@@ -4,6 +4,7 @@ date: 2011-09-25T21:06:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/25/hoax-facebook-gold-membership-for-9-99/
+shortlink: https://g.omid.dev/1SavOhQ
 tags:
   - Facebook
   - hoax

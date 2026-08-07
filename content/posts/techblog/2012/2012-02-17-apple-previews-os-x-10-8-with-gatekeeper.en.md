@@ -4,6 +4,7 @@ date: 2012-02-17T14:45:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/17/apple-previews-os-x-10-8-with-gatekeeper/
+shortlink: https://g.omid.dev/1TbP53F
 tags:
   - Announcement
   - Apple

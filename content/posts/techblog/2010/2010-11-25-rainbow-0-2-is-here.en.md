@@ -4,6 +4,7 @@ date: 2010-11-25T20:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/25/rainbow-0-2-is-here/
+shortlink: https://g.omid.dev/1RAARpS
 tags:
   - Firefox
   - Firefox Addon

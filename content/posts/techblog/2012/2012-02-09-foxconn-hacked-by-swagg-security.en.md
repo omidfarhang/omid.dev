@@ -4,6 +4,7 @@ date: 2012-02-09T19:44:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/09/foxconn-hacked-by-swagg-security/
+shortlink: https://g.omid.dev/1n6fVvZ
 tags:
   - attack
   - hack

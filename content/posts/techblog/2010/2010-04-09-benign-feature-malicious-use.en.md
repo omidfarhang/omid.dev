@@ -4,6 +4,7 @@ date: 2010-04-09T17:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/benign-feature-malicious-use/
+shortlink: https://g.omid.dev/21MsTP0
 tags:
   - Browsers
   - Firefox

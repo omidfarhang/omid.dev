@@ -4,6 +4,7 @@ date: 2011-08-29T20:55:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/29/screenshots-of-chinese-hacking-tool/
+shortlink: https://g.omid.dev/1P9LbAR
 tags:
   - hack
   - review

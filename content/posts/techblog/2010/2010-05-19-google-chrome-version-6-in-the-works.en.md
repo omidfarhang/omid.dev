@@ -4,6 +4,7 @@ date: 2010-05-19T20:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/google-chrome-version-6-in-the-works/
+shortlink: https://g.omid.dev/1Y7HzWY
 tags:
   - Browsers
   - Google

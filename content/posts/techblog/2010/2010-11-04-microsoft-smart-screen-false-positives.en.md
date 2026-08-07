@@ -4,6 +4,7 @@ date: 2010-11-04T22:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/04/microsoft-smart-screen-false-positives/
+shortlink: https://g.omid.dev/1Y7GZbz
 tags:
   - Internet Explorer
   - Microsoft

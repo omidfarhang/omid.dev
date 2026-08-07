@@ -4,6 +4,7 @@ date: 2011-08-04T14:06:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/04/quicktime-7-7-closes-security-holes/
+shortlink: https://g.omid.dev/1WRIv0i
 tags:
   - Apple
   - Mac OS X

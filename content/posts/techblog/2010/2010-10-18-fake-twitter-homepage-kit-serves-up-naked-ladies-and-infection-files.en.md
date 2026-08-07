@@ -4,6 +4,7 @@ date: 2010-10-18T22:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/fake-twitter-homepage-kit-serves-up-naked-ladies-and-infection-files/
+shortlink: https://g.omid.dev/1Y7HClr
 tags:
   - advice
   - alert

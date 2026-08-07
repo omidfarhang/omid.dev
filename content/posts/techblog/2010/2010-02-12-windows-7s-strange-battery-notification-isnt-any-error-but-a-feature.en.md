@@ -4,6 +4,7 @@ date: 2010-02-12T23:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/windows-7s-strange-battery-notification-isnt-any-error-but-a-feature/
+shortlink: https://g.omid.dev/1WRIsS5
 tags:
   - Microsoft
   - report

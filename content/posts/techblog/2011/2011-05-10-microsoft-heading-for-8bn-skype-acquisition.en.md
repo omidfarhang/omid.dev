@@ -4,6 +4,7 @@ date: 2011-05-10T12:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/05/10/microsoft-heading-for-8bn-skype-acquisition/
+shortlink: https://g.omid.dev/1Wafe0K
 tags:
   - analyze
   - business

@@ -4,6 +4,7 @@ date: 2010-01-06T14:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/gaming-trojans-because-thats-where-the-money-is/
+shortlink: https://g.omid.dev/1QCyujK
 tags:
   - Malware
   - Phishing

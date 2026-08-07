@@ -4,6 +4,7 @@ date: 2010-12-06T21:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/adobe-update-spam-scam/
+shortlink: https://g.omid.dev/1Y7HPVR
 tags:
   - 0-Day
   - Adobe

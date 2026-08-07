@@ -4,6 +4,7 @@ date: 2012-03-02T20:40:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/02/finally-a-long-time-requested-feature-is-here/
+shortlink: https://g.omid.dev/1TXFjlU
 tags:
   - This Blog Update
 

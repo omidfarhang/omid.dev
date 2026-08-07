@@ -4,6 +4,7 @@ date: 2010-10-20T12:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/20/google-ditches-all-street-view-wi-fi-scanning/
+shortlink: https://g.omid.dev/1Sc3g7Q
 tags:
   - Google
   - Google privacy

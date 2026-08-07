@@ -4,6 +4,7 @@ date: 2012-07-25T13:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/25/symantec-ceo-steps-down-replaced-by-chairman/
+shortlink: https://g.omid.dev/1Ryd0XG
 tags:
   - News
   - symantec

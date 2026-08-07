@@ -4,6 +4,7 @@ date: 2010-04-03T13:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/will-fuzzing-save-civilization-as-we-know-it/
+shortlink: https://g.omid.dev/1OU5xzr
 tags:
   - Apple
   - Browsers

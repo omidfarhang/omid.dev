@@ -4,6 +4,7 @@ date: 2012-08-16T10:41:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/16/googles-new-favicon/
+shortlink: https://g.omid.dev/1RQZtL3
 image: /images/2012/08/new-google-favicon24.png
 tags:
   - Google

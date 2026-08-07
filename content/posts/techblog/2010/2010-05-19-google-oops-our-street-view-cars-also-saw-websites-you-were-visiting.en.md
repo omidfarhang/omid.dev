@@ -4,6 +4,7 @@ date: 2010-05-19T20:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/google-oops-our-street-view-cars-also-saw-websites-you-were-visiting/
+shortlink: https://g.omid.dev/1QCyrEK
 tags:
   - Google
   - News

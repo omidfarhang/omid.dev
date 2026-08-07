@@ -4,6 +4,7 @@ date: 2012-02-17T17:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/17/google-found-evading-safaris-privacy-controls/
+shortlink: https://g.omid.dev/21qUBUS
 tags:
   - Apple
   - Google

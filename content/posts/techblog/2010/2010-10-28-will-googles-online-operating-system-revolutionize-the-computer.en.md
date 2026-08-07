@@ -4,6 +4,7 @@ date: 2010-10-28T20:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/will-googles-online-operating-system-revolutionize-the-computer/
+shortlink: https://g.omid.dev/1QCyBMo
 tags:
   - Google
   - review

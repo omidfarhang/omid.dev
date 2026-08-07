@@ -4,6 +4,7 @@ date: 2010-05-19T20:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/facebook-says-it-will-make-privacy-settings-easier/
+shortlink: https://g.omid.dev/1pYoRpo
 tags:
   - Facebook
   - News

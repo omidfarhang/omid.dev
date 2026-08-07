@@ -4,6 +4,7 @@ date: 2012-02-02T13:02:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/02/yet-another-facebook-hoax-new-way-gangs-steal-rape-and-kidnap-girls/
+shortlink: https://g.omid.dev/1TZTq9V
 tags:
   - alert
   - Facebook

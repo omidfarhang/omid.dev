@@ -4,6 +4,7 @@ date: 2011-03-13T21:42:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/13/google-to-launch-major-new-social-network-called-circles-possibly-today/
+shortlink: https://g.omid.dev/1LcAToM
 tags:
   - Google
   - Google Circles

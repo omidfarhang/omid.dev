@@ -4,6 +4,7 @@ date: 2010-04-09T16:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/steve-jobs-450000-ipads-sold-3-5-million-apps-downloaded/
+shortlink: https://g.omid.dev/1SqdMbB
 tags:
   - Apple
   - report

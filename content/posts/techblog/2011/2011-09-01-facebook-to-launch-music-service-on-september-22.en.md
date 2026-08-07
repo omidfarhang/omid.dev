@@ -4,6 +4,7 @@ date: 2011-09-01T14:22:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/facebook-to-launch-music-service-on-september-22/
+shortlink: https://g.omid.dev/23HraPp
 tags:
   - Announcement
   - Facebook

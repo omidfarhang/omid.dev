@@ -4,6 +4,7 @@ date: 2010-11-28T20:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/28/wikileaks-targeted-in-ddos-attack-as-latest-leak-hits-the-web/
+shortlink: https://g.omid.dev/1U9mQD9
 tags:
   - attack
   - News

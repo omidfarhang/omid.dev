@@ -4,6 +4,7 @@ date: 2010-11-18T22:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/18/now-this-is-it/
+shortlink: https://g.omid.dev/1TXFiyh
 
 categories: 
   - Cozy Corner

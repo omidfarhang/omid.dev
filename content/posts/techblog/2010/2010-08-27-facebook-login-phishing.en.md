@@ -4,6 +4,7 @@ date: 2010-08-27T09:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/27/facebook-login-phishing/
+shortlink: https://g.omid.dev/1XThpHh
 tags:
   - Facebook
   - Phishing

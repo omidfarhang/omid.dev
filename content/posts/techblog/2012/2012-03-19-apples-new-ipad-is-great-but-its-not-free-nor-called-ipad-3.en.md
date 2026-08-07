@@ -4,6 +4,7 @@ date: 2012-03-19T08:37:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/19/apples-new-ipad-is-great-but-its-not-free-nor-called-ipad-3/
+shortlink: https://g.omid.dev/1LR68jT
 tags:
   - Apple
   - scam

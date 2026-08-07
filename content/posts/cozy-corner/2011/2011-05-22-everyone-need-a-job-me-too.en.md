@@ -4,6 +4,7 @@ date: 2011-05-22T21:00:00+00:00
 layout: single
 author_profile: true
 url: 2011/05/22/everyone-need-a-job-me-too/
+shortlink: https://g.omid.dev/1QoaosU
 tags:
   - My Life
 

@@ -4,6 +4,7 @@ date: 2010-10-18T22:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/avira-know-better-what-to-put-and-where/
+shortlink: https://g.omid.dev/1RK7AGF
 tags:
   - Interesting
   - Malware

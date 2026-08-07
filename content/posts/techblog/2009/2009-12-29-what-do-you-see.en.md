@@ -4,6 +4,7 @@ date: 2009-12-29T22:13:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/29/what-do-you-see/
+shortlink: https://g.omid.dev/1p8EMBa
 tags:
   - spam
   - Security

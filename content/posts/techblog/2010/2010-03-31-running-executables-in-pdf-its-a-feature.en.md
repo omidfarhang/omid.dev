@@ -4,6 +4,7 @@ date: 2010-03-31T19:38:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/31/running-executables-in-pdf-its-a-feature/
+shortlink: https://g.omid.dev/1VdCgpf
 tags:
   - Adobe
   - Foxit

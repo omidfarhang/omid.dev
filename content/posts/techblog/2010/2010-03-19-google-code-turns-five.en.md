@@ -4,6 +4,7 @@ date: 2010-03-19T10:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/google-code-turns-five/
+shortlink: https://g.omid.dev/1Y7HNx7
 tags:
   - Android
   - Google

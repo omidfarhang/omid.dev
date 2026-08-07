@@ -4,6 +4,7 @@ date: 2010-08-13T16:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/13/whats-in-a-rogue-name-virustotal-2010/
+shortlink: https://g.omid.dev/1UJh4r6
 tags:
   - Malware
   - Phishing

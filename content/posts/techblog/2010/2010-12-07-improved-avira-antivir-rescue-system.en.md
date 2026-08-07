@@ -4,6 +4,7 @@ date: 2010-12-07T13:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/improved-avira-antivir-rescue-system/
+shortlink: https://g.omid.dev/1oXqRhe
 tags:
   - Avira
   - News

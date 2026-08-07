@@ -4,6 +4,7 @@ date: 2010-03-05T19:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/patch-tuesday-coming-next-week/
+shortlink: https://g.omid.dev/1Y7HPoO
 tags:
   - alert
   - Microsoft

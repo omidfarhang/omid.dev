@@ -4,6 +4,7 @@ date: 2010-11-06T17:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/find-words-smarter-with-word-suggestions/
+shortlink: https://g.omid.dev/24PA1wE
 tags:
   - Firefox
   - Firefox Addon

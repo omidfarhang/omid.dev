@@ -4,6 +4,7 @@ date: 2012-03-26T22:03:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/26/ive-some-new-toys/
+shortlink: https://g.omid.dev/212SfWK
 tags:
   - My Life
 

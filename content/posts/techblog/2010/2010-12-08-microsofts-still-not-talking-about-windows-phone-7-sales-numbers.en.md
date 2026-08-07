@@ -4,6 +4,7 @@ date: 2010-12-08T00:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/microsofts-still-not-talking-about-windows-phone-7-sales-numbers/
+shortlink: https://g.omid.dev/1QLojbT
 tags:
   - business
   - Microsoft

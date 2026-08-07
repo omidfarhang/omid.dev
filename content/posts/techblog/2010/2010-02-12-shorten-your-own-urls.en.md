@@ -4,6 +4,7 @@ date: 2010-02-12T23:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/shorten-your-own-urls/
+shortlink: https://g.omid.dev/1Y7GRsK
 tags:
   - advice
   - News

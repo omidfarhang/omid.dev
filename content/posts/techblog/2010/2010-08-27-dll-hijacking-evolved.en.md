@@ -4,6 +4,7 @@ date: 2010-08-27T09:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/27/dll-hijacking-evolved/
+shortlink: https://g.omid.dev/1Rew6zv
 tags:
   - Hijack
   - Malware

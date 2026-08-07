@@ -4,6 +4,7 @@ date: 2010-05-04T12:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/dropbox-updates-app-with-slick-ipad-support/
+shortlink: https://g.omid.dev/1LOFisC
 tags:
   - Apple
   - Cloud

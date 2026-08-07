@@ -4,6 +4,7 @@ date: 2010-10-26T15:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/26/google-now-accounts-for-6-4-of-internet-traffic/
+shortlink: https://g.omid.dev/24PAbEa
 tags:
   - Google
   - internet

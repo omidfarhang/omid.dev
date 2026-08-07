@@ -4,6 +4,7 @@ date: 2012-11-29T20:48:00+00:00
 layout: single
 author_profile: true
 url: 2012/11/29/google-updates-all-chrome-editions/
+shortlink: https://g.omid.dev/1TLnpl2
 tags:
   - Browsers
   - Google

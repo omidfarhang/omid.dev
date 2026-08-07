@@ -4,6 +4,7 @@ date: 2010-10-24T21:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/24/microsoft-ceo-next-windows-release-is-riskiest-product-bet/
+shortlink: https://g.omid.dev/1pYoYkJ
 tags:
   - 3D
   - Microsoft

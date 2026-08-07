@@ -4,6 +4,7 @@ date: 2010-10-24T22:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/24/president-obama-signs-ipad/
+shortlink: https://g.omid.dev/1n6caqn
 tags:
   - Apple
   - News

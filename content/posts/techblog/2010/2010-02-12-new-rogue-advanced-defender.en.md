@@ -4,6 +4,7 @@ date: 2010-02-12T20:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/new-rogue-advanced-defender/
+shortlink: https://g.omid.dev/1TVvAfP
 tags:
   - Malware
   - rogue software

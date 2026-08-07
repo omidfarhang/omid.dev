@@ -4,6 +4,7 @@ date: 2010-03-04T19:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/u-s-census-bureau-warning-of-phishing-scams/
+shortlink: https://g.omid.dev/1pYoNWH
 tags:
   - alert
   - Phishing

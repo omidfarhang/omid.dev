@@ -4,6 +4,7 @@ date: 2010-10-22T20:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/google-news-shows-the-number-of-shared-links/
+shortlink: https://g.omid.dev/1pm6omj
 tags:
   - Google
   - google news

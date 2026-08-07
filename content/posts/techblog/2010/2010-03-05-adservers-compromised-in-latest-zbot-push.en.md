@@ -4,6 +4,7 @@ date: 2010-03-05T19:27:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/adservers-compromised-in-latest-zbot-push/
+shortlink: https://g.omid.dev/1MltWC2
 tags:
   - Malware
   - Phishing

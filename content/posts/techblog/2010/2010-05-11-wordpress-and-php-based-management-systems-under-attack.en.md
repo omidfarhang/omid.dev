@@ -4,6 +4,7 @@ date: 2010-05-11T22:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/wordpress-and-php-based-management-systems-under-attack/
+shortlink: https://g.omid.dev/1QCyuQQ
 tags:
   - advice
   - alert

@@ -4,6 +4,7 @@ date: 2010-03-22T15:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/google-search-reveals-3-million-pages-link-to-rogue-avs/
+shortlink: https://g.omid.dev/1V4jaTF
 tags:
   - Google
   - Malware

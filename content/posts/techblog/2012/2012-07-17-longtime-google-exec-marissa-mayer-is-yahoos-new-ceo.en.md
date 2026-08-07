@@ -4,6 +4,7 @@ date: 2012-07-17T13:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/17/longtime-google-exec-marissa-mayer-is-yahoos-new-ceo/
+shortlink: https://g.omid.dev/21exaZz
 tags:
   - Google
   - Marissa Mayer

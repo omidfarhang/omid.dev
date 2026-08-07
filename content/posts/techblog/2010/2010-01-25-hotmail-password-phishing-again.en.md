@@ -4,6 +4,7 @@ date: 2010-01-25T00:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/25/hotmail-password-phishing-again/
+shortlink: https://g.omid.dev/1RjR3ZX
 tags:
   - alert
   - Microsoft

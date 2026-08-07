@@ -4,6 +4,7 @@ date: 2011-04-27T17:22:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/27/google-chrome-stable-11-is-released/
+shortlink: https://g.omid.dev/1SaleYj
 tags:
   - Google
   - Google Chrome

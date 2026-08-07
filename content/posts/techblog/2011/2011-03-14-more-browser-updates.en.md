@@ -4,6 +4,7 @@ date: 2011-03-14T12:57:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/14/more-browser-updates/
+shortlink: https://g.omid.dev/24PA0ZE
 tags:
   - Browsers
   - Google

@@ -4,6 +4,7 @@ date: 2010-12-27T16:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/27/facebooks-value-surpasses-yahoo-ebay/
+shortlink: https://g.omid.dev/213142N
 tags:
   - eBay
   - Facebook

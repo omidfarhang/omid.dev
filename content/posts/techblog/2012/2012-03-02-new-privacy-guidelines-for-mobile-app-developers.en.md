@@ -4,6 +4,7 @@ date: 2012-03-02T21:50:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/02/new-privacy-guidelines-for-mobile-app-developers/
+shortlink: https://g.omid.dev/1KWy7DZ
 tags:
   - Mobile
   - Mobile Applications

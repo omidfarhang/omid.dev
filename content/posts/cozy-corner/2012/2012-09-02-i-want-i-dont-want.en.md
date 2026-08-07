@@ -4,6 +4,7 @@ date: 2012-09-02T22:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/02/i-want-i-dont-want/
+shortlink: https://g.omid.dev/1L6vrne
 tags:
   - My Life
 

@@ -4,6 +4,7 @@ date: 2010-11-30T23:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/apple-forces-photofast-to-abandon-256gb-upgrade-kit-for-macbook-airs/
+shortlink: https://g.omid.dev/1SatTtH
 tags:
   - Apple
   - Hardware

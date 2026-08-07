@@ -4,6 +4,7 @@ date: 2012-05-01T15:58:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/01/privacy-concerns-over-popular-showip-firefox-add-on/
+shortlink: https://g.omid.dev/1Y7HimI
 tags:
   - Firefox
   - Firefox Addon

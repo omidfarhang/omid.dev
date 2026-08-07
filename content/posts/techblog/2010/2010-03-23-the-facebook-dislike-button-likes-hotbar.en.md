@@ -4,6 +4,7 @@ date: 2010-03-23T21:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/the-facebook-dislike-button-likes-hotbar/
+shortlink: https://g.omid.dev/1TTN2zZ
 tags:
   - Facebook
   - Firefox

@@ -4,6 +4,7 @@ date: 2011-02-11T00:17:00+00:00
 layout: single
 author_profile: true
 url: 2011/02/11/internet-explorer-9-rc-download-link-goes-live/
+shortlink: https://g.omid.dev/1QseOzf
 tags:
   - Browsers
   - Internet Explorer

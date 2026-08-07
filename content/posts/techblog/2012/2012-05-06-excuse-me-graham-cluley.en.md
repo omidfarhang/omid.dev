@@ -4,6 +4,7 @@ date: 2012-05-06T12:49:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/06/excuse-me-graham-cluley/
+shortlink: https://g.omid.dev/1pv4QWX
 tags:
   - This Blog Update
 

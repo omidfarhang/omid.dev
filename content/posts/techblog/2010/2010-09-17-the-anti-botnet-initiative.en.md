@@ -4,6 +4,7 @@ date: 2010-09-17T07:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/17/the-anti-botnet-initiative/
+shortlink: https://g.omid.dev/1ptNz0a
 tags:
   - News
   - Security

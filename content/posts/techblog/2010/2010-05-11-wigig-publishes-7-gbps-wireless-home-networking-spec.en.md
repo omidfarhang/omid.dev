@@ -4,6 +4,7 @@ date: 2010-05-11T15:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/wigig-publishes-7-gbps-wireless-home-networking-spec/
+shortlink: https://g.omid.dev/1Qr5vPV
 tags:
   - News
 

@@ -4,6 +4,7 @@ date: 2010-05-04T11:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/ie-losing-market-share-chrome-gaining/
+shortlink: https://g.omid.dev/1QCyss9
 tags:
   - Apple
   - Browsers

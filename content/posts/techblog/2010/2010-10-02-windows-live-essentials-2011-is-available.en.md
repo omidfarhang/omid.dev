@@ -4,6 +4,7 @@ date: 2010-10-02T11:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/02/windows-live-essentials-2011-is-available/
+shortlink: https://g.omid.dev/1QRjbcz
 tags:
   - Download
   - Email

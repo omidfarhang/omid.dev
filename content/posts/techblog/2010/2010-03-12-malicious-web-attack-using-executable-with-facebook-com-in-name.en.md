@@ -4,6 +4,7 @@ date: 2010-03-12T12:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/malicious-web-attack-using-executable-with-facebook-com-in-name/
+shortlink: https://g.omid.dev/1Tma4kj
 tags:
   - alert
   - Malware

@@ -4,6 +4,7 @@ date: 2010-04-17T17:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/facebook-youtube-are-sucking-enterprise-bandwidth/
+shortlink: https://g.omid.dev/1OXlEul
 tags:
   - Facebook
   - report

@@ -4,6 +4,7 @@ date: 2012-07-13T09:08:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/13/android-forums-hacked-1-million-user-credentials-stolen/
+shortlink: https://g.omid.dev/1UAvE3X
 tags:
   - advice
   - hack

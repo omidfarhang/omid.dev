@@ -4,6 +4,7 @@ date: 2012-02-21T15:49:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/21/google-also-bypassed-cookie-settings-in-internet-explorer/
+shortlink: https://g.omid.dev/1ThckJX
 tags:
   - Google
   - Internet Explorer

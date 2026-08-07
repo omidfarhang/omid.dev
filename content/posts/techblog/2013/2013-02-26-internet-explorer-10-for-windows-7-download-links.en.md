@@ -4,6 +4,7 @@ date: 2013-02-26T17:47:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/26/internet-explorer-10-for-windows-7-download-links/
+shortlink: https://g.omid.dev/1n64ULd
 tags:
   - Browsers
   - Internet Explorer

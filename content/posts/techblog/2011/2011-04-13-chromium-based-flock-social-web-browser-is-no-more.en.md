@@ -4,6 +4,7 @@ date: 2011-04-13T11:29:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/chromium-based-flock-social-web-browser-is-no-more/
+shortlink: https://g.omid.dev/21Mr70k
 tags:
   - advice
   - Browsers

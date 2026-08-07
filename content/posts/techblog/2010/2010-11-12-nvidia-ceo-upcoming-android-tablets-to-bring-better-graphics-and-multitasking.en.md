@@ -4,6 +4,7 @@ date: 2010-11-12T13:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/nvidia-ceo-upcoming-android-tablets-to-bring-better-graphics-and-multitasking/
+shortlink: https://g.omid.dev/1Y7H3YR
 tags:
   - Android
   - Announcement

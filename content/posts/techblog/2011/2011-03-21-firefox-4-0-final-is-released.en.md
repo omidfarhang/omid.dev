@@ -4,6 +4,7 @@ date: 2011-03-21T20:46:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/21/firefox-4-0-final-is-released/
+shortlink: https://g.omid.dev/21aVOtW
 tags:
   - Browsers
   - Firefox

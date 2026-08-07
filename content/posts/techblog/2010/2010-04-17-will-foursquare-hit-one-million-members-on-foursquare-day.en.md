@@ -4,6 +4,7 @@ date: 2010-04-17T19:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/will-foursquare-hit-one-million-members-on-foursquare-day/
+shortlink: https://g.omid.dev/1Ty6vbi
 tags:
   - foursquare
 

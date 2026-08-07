@@ -4,6 +4,7 @@ date: 2011-03-17T23:44:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/17/porn-industry-could-get-a-xxx-domain-this-week/
+shortlink: https://g.omid.dev/1n5GWjc
 tags:
   - Domain
   - Domain Names

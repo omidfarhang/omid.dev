@@ -4,6 +4,7 @@ date: 2010-02-08T14:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/08/fix-resuming-problem-after-sleep-mode-in-vista-and-windows-7/
+shortlink: https://g.omid.dev/1Y7GXRe
 tags:
   - advice
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-04-09T22:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/google-search-rankings-now-consider-site-speed/
+shortlink: https://g.omid.dev/25py7TQ
 tags:
   - Google
   - News

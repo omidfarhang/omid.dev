@@ -4,6 +4,7 @@ date: 2009-12-19T14:13:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/19/theres-no-such-thing-as-a-free-movie/
+shortlink: https://g.omid.dev/1U9dXct
 tags:
   - Malware
   - Phishing

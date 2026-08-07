@@ -4,6 +4,7 @@ date: 2010-05-03T17:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/dont-play-with-natural-disasters/
+shortlink: https://g.omid.dev/222MzhV
 tags:
   - Malware
   - review

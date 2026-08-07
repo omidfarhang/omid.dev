@@ -4,6 +4,7 @@ date: 2010-03-26T00:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/26/fake-lawsuit-notification-attack/
+shortlink: https://g.omid.dev/24PzYkn
 tags:
   - Phishing
   - report

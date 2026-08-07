@@ -4,6 +4,7 @@ date: 2010-04-03T18:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/the-phishing-of-indian-job-sites/
+shortlink: https://g.omid.dev/1Sb1fZw
 tags:
   - advice
   - alert

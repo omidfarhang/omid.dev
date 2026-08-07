@@ -4,6 +4,7 @@ date: 2012-02-06T16:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/06/goodbye-btjunkie/
+shortlink: https://g.omid.dev/1LmPqxG
 tags:
   - News
   - Torrent

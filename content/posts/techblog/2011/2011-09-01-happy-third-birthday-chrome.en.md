@@ -4,6 +4,7 @@ date: 2011-09-01T16:55:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/happy-third-birthday-chrome/
+shortlink: https://g.omid.dev/1pYoZ8j
 tags:
   - Browsers
   - Google

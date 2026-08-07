@@ -4,6 +4,7 @@ date: 2011-03-02T11:16:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/02/google-acquires-zynamics/
+shortlink: https://g.omid.dev/21CGNmQ
 tags:
   - Google
   - News

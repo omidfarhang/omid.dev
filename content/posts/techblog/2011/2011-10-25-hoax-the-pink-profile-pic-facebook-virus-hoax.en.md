@@ -4,6 +4,7 @@ date: 2011-10-25T16:57:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/25/hoax-the-pink-profile-pic-facebook-virus-hoax/
+shortlink: https://g.omid.dev/1QSBE6P
 tags:
   - Facebook
   - hoax

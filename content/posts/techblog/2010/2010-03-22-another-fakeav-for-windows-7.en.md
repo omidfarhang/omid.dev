@@ -4,6 +4,7 @@ date: 2010-03-22T09:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/another-fakeav-for-windows-7/
+shortlink: https://g.omid.dev/1WRItFD
 tags:
   - Malware
   - rogue software

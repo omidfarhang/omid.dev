@@ -4,6 +4,7 @@ date: 2010-02-21T20:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/scammers-offering-tax-refunds/
+shortlink: https://g.omid.dev/1T3m5v4
 tags:
   - alert
   - Phishing

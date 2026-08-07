@@ -4,6 +4,7 @@ date: 2010-05-21T14:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/21/warning-on-facebook-worm-fbhole/
+shortlink: https://g.omid.dev/1Tj6NTn
 tags:
   - alert
   - Facebook

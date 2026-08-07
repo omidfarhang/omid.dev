@@ -4,6 +4,7 @@ date: 2011-03-15T12:16:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/15/google-toolbar-8-powered-by-google-chrome/
+shortlink: https://g.omid.dev/1WRIBoO
 tags:
   - Google Chrome
   - Google Toolbar

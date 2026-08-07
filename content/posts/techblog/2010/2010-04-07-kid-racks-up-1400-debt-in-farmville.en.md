@@ -4,6 +4,7 @@ date: 2010-04-07T23:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/kid-racks-up-1400-debt-in-farmville/
+shortlink: https://g.omid.dev/1VLAdHg
 tags:
   - Business
   - Facebook

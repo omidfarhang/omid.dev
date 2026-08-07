@@ -4,6 +4,7 @@ date: 2010-10-20T12:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/20/hacked-kaspersky-download-site-directs-users-to-fake-antivirus/
+shortlink: https://g.omid.dev/21edchA
 tags:
   - hack
   - Kaspersky

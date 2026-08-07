@@ -4,6 +4,7 @@ date: 2012-09-07T06:58:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/07/symantec-claims-losses-from-cybercrime-exceed-100-billion/
+shortlink: https://g.omid.dev/1Y7HaDW
 tags:
   - report
   - symantec

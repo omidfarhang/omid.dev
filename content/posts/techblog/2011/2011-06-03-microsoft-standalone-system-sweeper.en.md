@@ -4,6 +4,7 @@ date: 2011-06-03T14:40:00+00:00
 layout: single
 author_profile: true
 url: 2011/06/03/microsoft-standalone-system-sweeper/
+shortlink: https://g.omid.dev/24PAjDy
 tags:
   - Microsoft
   - News

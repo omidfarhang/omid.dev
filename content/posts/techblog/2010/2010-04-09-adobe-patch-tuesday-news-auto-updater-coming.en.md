@@ -4,6 +4,7 @@ date: 2010-04-09T21:44:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/adobe-patch-tuesday-news-auto-updater-coming/
+shortlink: https://g.omid.dev/1SbXd30
 tags:
   - Adobe
   - Patch Tuesday

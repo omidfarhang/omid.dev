@@ -5,6 +5,7 @@ description: Adobe Dreamweaver CS4 in 2008 sat between visual editing and standa
 layout: single
 author_profile: true
 url: 2008/12/11/dreamweaver-cs4-and-maintaining-real-websites/
+shortlink: https://g.omid.dev/p8lGqQ5
 tags:
   - Dreamweaver
   - Web Development

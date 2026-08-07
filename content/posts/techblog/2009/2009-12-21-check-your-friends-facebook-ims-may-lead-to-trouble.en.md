@@ -4,6 +4,7 @@ date: 2009-12-21T22:56:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/21/check-your-friends-facebook-ims-may-lead-to-trouble/
+shortlink: https://g.omid.dev/24PoRa7
 tags:
   - Facebook
   - Phishing

@@ -4,6 +4,7 @@ date: 2012-04-24T17:16:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/24/fake-discount-cards/
+shortlink: https://g.omid.dev/21315DY
 tags:
   - advice
   - alert

@@ -4,6 +4,7 @@ date: 2012-05-17T15:24:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/17/avira-update-fixes-service-pack-bug/
+shortlink: https://g.omid.dev/1p87qm7
 tags:
   - Avira
   - News

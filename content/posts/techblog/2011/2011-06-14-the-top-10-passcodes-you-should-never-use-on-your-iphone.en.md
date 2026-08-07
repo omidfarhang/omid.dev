@@ -4,6 +4,7 @@ date: 2011-06-14T12:00:00+00:00
 layout: single
 author_profile: true
 url: 2011/06/14/the-top-10-passcodes-you-should-never-use-on-your-iphone/
+shortlink: https://g.omid.dev/7wKa9fQ
 tags:
   - Apple
   - Security

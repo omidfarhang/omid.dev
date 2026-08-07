@@ -4,6 +4,7 @@ date: 2010-01-06T23:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/pcprotectar/
+shortlink: https://g.omid.dev/1pExzZK
 tags:
   - Phishing
   - rogue software

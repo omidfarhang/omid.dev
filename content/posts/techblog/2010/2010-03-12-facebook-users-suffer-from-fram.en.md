@@ -4,6 +4,7 @@ date: 2010-03-12T21:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/facebook-users-suffer-from-fram/
+shortlink: https://g.omid.dev/1PSs9z3
 tags:
   - Facebook
   - scam

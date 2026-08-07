@@ -4,6 +4,7 @@ date: 2010-08-14T20:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/14/two-steps-away-from-a-free-ipad/
+shortlink: https://g.omid.dev/1pYkIRR
 tags:
   - Facebook
   - Phishing

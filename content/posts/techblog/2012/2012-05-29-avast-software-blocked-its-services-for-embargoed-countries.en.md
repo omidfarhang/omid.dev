@@ -4,6 +4,7 @@ date: 2012-05-29T15:41:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/29/avast-software-blocked-its-services-for-embargoed-countries/
+shortlink: https://g.omid.dev/1QkPPRy
 tags:
   - antivirus
   - Iran

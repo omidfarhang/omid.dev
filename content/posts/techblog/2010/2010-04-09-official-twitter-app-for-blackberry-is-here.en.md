@@ -4,6 +4,7 @@ date: 2010-04-09T13:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/official-twitter-app-for-blackberry-is-here/
+shortlink: https://g.omid.dev/1LOynj3
 tags:
   - BlackBerry
   - Mobile 2.0

@@ -4,6 +4,7 @@ date: 2010-10-29T11:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/29/microsoft-office-2011-out-for-mac/
+shortlink: https://g.omid.dev/1T9uoWe
 tags:
   - Apple
   - Mac OS X

@@ -4,6 +4,7 @@ date: 2010-02-02T22:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/02/hackers-disrupt-european-co2-market/
+shortlink: https://g.omid.dev/KZci0Ll
 tags:
   - alert
   - hack

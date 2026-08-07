@@ -4,6 +4,7 @@ date: 2010-11-17T16:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/17/ie9-alleged-to-be-cheating-in-javascript-benchmark/
+shortlink: https://g.omid.dev/1pExxkm
 tags:
   - Internet Explorer
   - News

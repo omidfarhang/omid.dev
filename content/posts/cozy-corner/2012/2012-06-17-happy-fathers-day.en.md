@@ -4,6 +4,7 @@ date: 2012-06-17T18:11:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/17/happy-fathers-day/
+shortlink: https://g.omid.dev/1TXFfT9
 tags:
   - events
 

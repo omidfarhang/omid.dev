@@ -4,6 +4,7 @@ date: 2010-08-29T14:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/29/the-bad-guys-are-going-after-the-pirates/
+shortlink: https://g.omid.dev/1VLsQ2t
 tags:
   - alert
   - Malware

@@ -4,6 +4,7 @@ date: 2012-02-10T11:43:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/google-no-were-not-launching-retail-stores-yet/
+shortlink: https://g.omid.dev/205SAsM
 tags:
   - business
   - Google

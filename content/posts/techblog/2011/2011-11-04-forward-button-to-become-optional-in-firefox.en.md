@@ -4,6 +4,7 @@ date: 2011-11-04T11:48:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/04/forward-button-to-become-optional-in-firefox/
+shortlink: https://g.omid.dev/228Bgoh
 tags:
   - Browsers
   - Firefox

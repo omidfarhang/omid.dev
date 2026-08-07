@@ -4,6 +4,7 @@ date: 2010-03-12T12:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/12/finding-awesome-stuff-online-with-google-reader-play/
+shortlink: https://g.omid.dev/1R1US5D
 tags:
   - Google
   - News

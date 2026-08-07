@@ -4,6 +4,7 @@ date: 2010-11-03T19:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/announcing-the-release-of-fedora-14/
+shortlink: https://g.omid.dev/1TcDK3o
 tags:
   - Announcement
   - Fedora

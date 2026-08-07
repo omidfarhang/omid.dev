@@ -4,6 +4,7 @@ date: 2010-11-13T10:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/13/hidden-second-wi-fi-network-with-the-thomson-twg870u-router/
+shortlink: https://g.omid.dev/1WRIyt0
 image: /images/2010/11/Thomson-TWG870U-router.jpg
 tags:
   - Hardware

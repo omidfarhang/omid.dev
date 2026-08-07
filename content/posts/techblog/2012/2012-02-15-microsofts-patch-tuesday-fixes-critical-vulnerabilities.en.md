@@ -4,6 +4,7 @@ date: 2012-02-15T17:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/microsofts-patch-tuesday-fixes-critical-vulnerabilities/
+shortlink: https://g.omid.dev/1UaiS8f
 tags:
   - Microsoft
   - Patch Tuesday

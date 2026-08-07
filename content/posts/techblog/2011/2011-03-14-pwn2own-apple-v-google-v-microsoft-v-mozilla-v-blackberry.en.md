@@ -4,6 +4,7 @@ date: 2011-03-14T13:06:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/14/pwn2own-apple-v-google-v-microsoft-v-mozilla-v-blackberry/
+shortlink: https://g.omid.dev/1Y7HCCf
 tags:
   - Apple
   - BlackBerry

@@ -4,6 +4,7 @@ date: 2010-11-30T23:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/link-to-a-youtube-comment/
+shortlink: https://g.omid.dev/1QNORcF
 tags:
   - Google
   - tips

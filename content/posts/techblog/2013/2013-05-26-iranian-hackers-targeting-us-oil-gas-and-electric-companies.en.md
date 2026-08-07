@@ -4,6 +4,7 @@ date: 2013-05-26T19:50:30+00:00
 layout: single
 author_profile: true
 url: 2013/05/26/iranian-hackers-targeting-us-oil-gas-and-electric-companies/
+shortlink: https://g.omid.dev/16YmkQ1
 image: /images/2013/05/Iranian-Hackers-targeting-US-oil-gas-and-electric-companies.jpg
 tags:
   - hack

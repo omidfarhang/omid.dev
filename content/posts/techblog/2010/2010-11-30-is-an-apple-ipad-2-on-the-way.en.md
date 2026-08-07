@@ -4,6 +4,7 @@ date: 2010-11-30T23:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/is-an-apple-ipad-2-on-the-way/
+shortlink: https://g.omid.dev/1LR7TO6
 tags:
   - Apple
   - gossip

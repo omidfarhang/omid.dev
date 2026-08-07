@@ -4,6 +4,7 @@ date: 2010-11-05T13:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/05/microsoft-tempts-antitrust-lawyers-with-expanded-antivirus-offering/
+shortlink: https://g.omid.dev/1oXBRdS
 tags:
   - mcafee
   - Microsoft

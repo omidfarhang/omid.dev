@@ -4,6 +4,7 @@ date: 2010-11-04T21:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/04/webcam-cyber-sextortionist-preyed-on-over-200-women/
+shortlink: https://g.omid.dev/1UBOXtG
 tags:
   - FBI
   - hack

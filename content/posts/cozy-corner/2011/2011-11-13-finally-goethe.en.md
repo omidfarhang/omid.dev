@@ -4,6 +4,7 @@ date: 2011-11-13T12:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/13/finally-goethe/
+shortlink: https://g.omid.dev/21LYljV
 tags:
   - My Life
 

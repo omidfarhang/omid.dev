@@ -4,6 +4,7 @@ date: 2010-08-29T14:31:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/29/this-could-save-your-life/
+shortlink: https://g.omid.dev/1WiEJNE
 tags:
   - advice
   - alert

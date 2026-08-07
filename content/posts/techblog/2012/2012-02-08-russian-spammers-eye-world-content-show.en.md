@@ -4,6 +4,7 @@ date: 2012-02-08T20:20:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/08/russian-spammers-eye-world-content-show/
+shortlink: https://g.omid.dev/1LUZPvC
 tags:
   - alert
   - attack

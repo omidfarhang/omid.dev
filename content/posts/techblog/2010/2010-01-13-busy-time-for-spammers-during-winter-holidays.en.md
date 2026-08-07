@@ -4,6 +4,7 @@ date: 2010-01-13T11:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/busy-time-for-spammers-during-winter-holidays/
+shortlink: https://g.omid.dev/1QCysZb
 tags:
   - alert
   - report

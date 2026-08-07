@@ -4,6 +4,7 @@ date: 2012-04-23T18:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/23/ruby-1-9-3-update-fixes-rubygems-security-problem/
+shortlink: https://g.omid.dev/21qHaEz
 tags:
   - Security
   - software

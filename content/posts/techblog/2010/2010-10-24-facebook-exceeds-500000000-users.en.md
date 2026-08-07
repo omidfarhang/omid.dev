@@ -4,6 +4,7 @@ date: 2010-10-24T22:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/24/facebook-exceeds-500000000-users/
+shortlink: https://g.omid.dev/1TxjhXm
 tags:
   - Facebook
   - News

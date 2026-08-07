@@ -4,6 +4,7 @@ date: 2010-01-21T22:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/protectsoldier/
+shortlink: https://g.omid.dev/1QCyCjs
 tags:
   - Malware
   - rogue software

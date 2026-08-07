@@ -4,6 +4,7 @@ date: 2010-04-09T23:02:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/dont-tell-spammers-that-youre-on-vacation/
+shortlink: https://g.omid.dev/24PzN8M
 tags:
   - advice
   - Apple

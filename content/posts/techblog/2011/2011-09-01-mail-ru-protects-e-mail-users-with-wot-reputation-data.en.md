@@ -4,6 +4,7 @@ date: 2011-09-01T10:16:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/mail-ru-protects-e-mail-users-with-wot-reputation-data/
+shortlink: https://g.omid.dev/1Ln0iM0
 tags:
   - Announcement
   - Email

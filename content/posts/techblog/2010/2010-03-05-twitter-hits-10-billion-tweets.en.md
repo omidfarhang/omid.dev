@@ -4,6 +4,7 @@ date: 2010-03-05T18:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/twitter-hits-10-billion-tweets/
+shortlink: https://g.omid.dev/253lEVA
 tags:
   - News
   - Social Media

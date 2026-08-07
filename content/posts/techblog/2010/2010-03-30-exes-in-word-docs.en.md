@@ -4,6 +4,7 @@ date: 2010-03-30T18:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/exes-in-word-docs/
+shortlink: https://g.omid.dev/1Y09191
 tags:
   - Malware
   - review

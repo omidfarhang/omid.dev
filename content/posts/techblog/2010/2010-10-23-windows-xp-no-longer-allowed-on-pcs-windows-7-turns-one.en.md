@@ -4,6 +4,7 @@ date: 2010-10-23T12:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/23/windows-xp-no-longer-allowed-on-pcs-windows-7-turns-one/
+shortlink: https://g.omid.dev/1UxaPq4
 tags:
   - Microsoft
   - Windows

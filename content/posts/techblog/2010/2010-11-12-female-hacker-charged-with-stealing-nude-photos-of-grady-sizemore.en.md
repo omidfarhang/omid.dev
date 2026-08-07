@@ -4,6 +4,7 @@ date: 2010-11-12T11:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/female-hacker-charged-with-stealing-nude-photos-of-grady-sizemore/
+shortlink: https://g.omid.dev/1QCyC2Q
 tags:
   - Brittany Binger
   - Grady Sizemore

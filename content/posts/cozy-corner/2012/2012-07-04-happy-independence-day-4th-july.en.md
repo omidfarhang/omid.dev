@@ -4,6 +4,7 @@ date: 2012-07-04T15:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/04/happy-independence-day-4th-july/
+shortlink: https://g.omid.dev/1SaBIjf
 tags:
   - events
 

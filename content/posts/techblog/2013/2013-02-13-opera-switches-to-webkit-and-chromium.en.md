@@ -4,6 +4,7 @@ date: 2013-02-13T22:38:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/13/opera-switches-to-webkit-and-chromium/
+shortlink: https://g.omid.dev/1Y7GXk5
 tags:
   - Browsers
   - Google

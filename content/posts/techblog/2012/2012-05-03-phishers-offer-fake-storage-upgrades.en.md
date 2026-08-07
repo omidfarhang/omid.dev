@@ -4,6 +4,7 @@ date: 2012-05-03T11:20:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/03/phishers-offer-fake-storage-upgrades/
+shortlink: https://g.omid.dev/1TyfrwY
 tags:
   - alert
   - Phishing

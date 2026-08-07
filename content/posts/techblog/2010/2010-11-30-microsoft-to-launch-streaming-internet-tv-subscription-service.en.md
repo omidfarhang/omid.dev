@@ -4,6 +4,7 @@ date: 2010-11-30T23:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/microsoft-to-launch-streaming-internet-tv-subscription-service/
+shortlink: https://g.omid.dev/1RpQrlo
 tags:
   - Internet TV
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-11-24T15:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/24/over-40-security-fixes-for-ipad-iphone-and-ipod-touch-in-ios-4-2/
+shortlink: https://g.omid.dev/1pmajQ6
 tags:
   - Apple
   - report

@@ -4,6 +4,7 @@ date: 2010-10-18T22:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/realplayer-security-updates-published/
+shortlink: https://g.omid.dev/1VxLoGH
 tags:
   - RealPlayer
   - Security

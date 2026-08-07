@@ -4,6 +4,7 @@ date: 2012-05-13T21:19:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/13/i-want-to-say-something/
+shortlink: https://g.omid.dev/1TXFopN
 tags:
   - My Life
 

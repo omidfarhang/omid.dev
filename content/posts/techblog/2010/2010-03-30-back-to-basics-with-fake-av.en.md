@@ -4,6 +4,7 @@ date: 2010-03-30T17:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/back-to-basics-with-fake-av/
+shortlink: https://g.omid.dev/1RvBBwB
 tags:
   - Malware
   - review

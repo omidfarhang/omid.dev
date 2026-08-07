@@ -4,6 +4,7 @@ date: 2010-03-04T01:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/quarantine-for-infected-pcs/
+shortlink: https://g.omid.dev/234VqUe
 tags:
   - Microsoft
   - News

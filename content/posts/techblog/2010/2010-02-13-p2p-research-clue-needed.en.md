@@ -4,6 +4,7 @@ date: 2010-02-13T01:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/13/p2p-research-clue-needed/
+shortlink: https://g.omid.dev/1RNt59z
 tags:
   - advice
   - alert

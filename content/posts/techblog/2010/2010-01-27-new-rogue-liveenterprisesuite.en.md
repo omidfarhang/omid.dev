@@ -4,6 +4,7 @@ date: 2010-01-27T20:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/27/new-rogue-liveenterprisesuite/
+shortlink: https://g.omid.dev/1Saohjg
 tags:
   - Malware
   - rogue software

@@ -4,6 +4,7 @@ date: 2012-02-07T19:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/07/introducing-chrome-for-android/
+shortlink: https://g.omid.dev/1Y7HN07
 tags:
   - Android
   - Browsers

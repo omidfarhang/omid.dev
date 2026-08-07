@@ -4,6 +4,7 @@ date: 2012-08-28T16:55:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/28/download-firefox-15-and-thunderbird-15/
+shortlink: https://g.omid.dev/1QrarnQ
 tags:
   - Browsers
   - Firefox

@@ -4,6 +4,7 @@ date: 2010-09-23T20:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/23/browser-cookies-are-becoming-an-issue/
+shortlink: https://g.omid.dev/1TXSDqv
 tags:
   - advice
   - alert

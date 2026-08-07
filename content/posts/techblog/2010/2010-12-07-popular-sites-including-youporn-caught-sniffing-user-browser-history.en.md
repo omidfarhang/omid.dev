@@ -4,6 +4,7 @@ date: 2010-12-07T11:52:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/popular-sites-including-youporn-caught-sniffing-user-browser-history/
+shortlink: https://g.omid.dev/1QRnUek
 tags:
   - Browsers
   - exploit

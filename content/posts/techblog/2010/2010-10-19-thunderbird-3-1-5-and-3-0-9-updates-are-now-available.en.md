@@ -4,6 +4,7 @@ date: 2010-10-19T21:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/thunderbird-3-1-5-and-3-0-9-updates-are-now-available/
+shortlink: https://g.omid.dev/22eKgbD
 tags:
   - Mozilla
   - Thunderbird

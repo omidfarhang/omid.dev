@@ -4,6 +4,7 @@ date: 2010-05-11T14:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/apple-confirms-att-has-iphone-exclusivity-until-2012/
+shortlink: https://g.omid.dev/1QRmKiN
 tags:
   - Apple
   - exclusivity

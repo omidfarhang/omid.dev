@@ -4,6 +4,7 @@ date: 2010-10-07T18:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/07/twitter-password-phishing/
+shortlink: https://g.omid.dev/1QEBN9q
 tags:
   - alert
   - Password

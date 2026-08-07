@@ -4,6 +4,7 @@ date: 2011-11-24T12:57:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/24/damn-the-only-thing-i-did-not-need-happened/
+shortlink: https://g.omid.dev/1L6vrn6
 tags:
   - My Life
 

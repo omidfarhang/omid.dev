@@ -4,6 +4,7 @@ date: 2012-05-27T11:52:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/27/facebook-and-opera-facebook-browser-is-imminent/
+shortlink: https://g.omid.dev/1QTTyle
 tags:
   - Browsers
   - Facebook

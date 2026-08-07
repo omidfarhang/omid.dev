@@ -4,6 +4,7 @@ date: 2012-02-27T14:54:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/27/beatles-for-sale-its-spam-of-the-day/
+shortlink: https://g.omid.dev/1XTj27Z
 tags:
   - alert
   - Music

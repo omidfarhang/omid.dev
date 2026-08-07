@@ -4,6 +4,7 @@ date: 2012-08-19T09:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/19/bogus-anti-hacking-tool-targets-syrian-activists/
+shortlink: https://g.omid.dev/24PAi2y
 tags:
   - advice
   - hack

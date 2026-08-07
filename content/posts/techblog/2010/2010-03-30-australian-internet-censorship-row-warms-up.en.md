@@ -4,6 +4,7 @@ date: 2010-03-30T19:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/australian-internet-censorship-row-warms-up/
+shortlink: https://g.omid.dev/1T1VuOk
 tags:
   - News
 

@@ -4,6 +4,7 @@ date: 2010-12-03T20:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/03/google-chrome-8-available/
+shortlink: https://g.omid.dev/1Y7FEBO
 tags:
   - Google
   - Google Chrome

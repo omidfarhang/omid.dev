@@ -4,6 +4,7 @@ date: 2010-02-12T20:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/interview-with-a-nigerian-419-scammer/
+shortlink: https://g.omid.dev/1Y7GM8q
 tags:
   - advice
   - News

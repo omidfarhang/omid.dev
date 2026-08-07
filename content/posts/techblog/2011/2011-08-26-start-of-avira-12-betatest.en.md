@@ -4,6 +4,7 @@ date: 2011-08-26T19:49:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/26/start-of-avira-12-betatest/
+shortlink: https://g.omid.dev/1WRIvxl
 tags:
   - Avira
   - Beta

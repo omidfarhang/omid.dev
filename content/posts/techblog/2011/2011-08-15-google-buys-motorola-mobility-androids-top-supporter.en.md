@@ -4,6 +4,7 @@ date: 2011-08-15T19:41:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/15/google-buys-motorola-mobility-androids-top-supporter/
+shortlink: https://g.omid.dev/1LUXMYk
 tags:
   - Android
   - business

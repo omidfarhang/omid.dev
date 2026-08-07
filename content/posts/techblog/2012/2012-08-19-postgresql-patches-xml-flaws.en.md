@@ -4,6 +4,7 @@ date: 2012-08-19T08:51:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/19/postgresql-patches-xml-flaws/
+shortlink: https://g.omid.dev/25toYte
 tags:
   - flaw
   - PostgreSQL

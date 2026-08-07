@@ -4,6 +4,7 @@ date: 2010-11-30T20:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/30/george-w-bush-to-visit-facebook-hq-for-live-video-qa/
+shortlink: https://g.omid.dev/1Tkm06w
 tags:
   - Facebook
   - Interview

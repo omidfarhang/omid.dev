@@ -4,6 +4,7 @@ date: 2010-05-11T14:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/surveys-young-adults-getting-more-privacy-aware-on-internet/
+shortlink: https://g.omid.dev/1T1ckYT
 tags:
   - News
   - privacy

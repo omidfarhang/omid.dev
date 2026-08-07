@@ -4,6 +4,7 @@ date: 2011-11-10T20:20:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/10/todays-tip-smile-always/
+shortlink: https://g.omid.dev/1LmWE4M
 tags:
   - interesting
 

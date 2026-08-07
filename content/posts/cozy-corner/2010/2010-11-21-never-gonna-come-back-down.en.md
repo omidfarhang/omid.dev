@@ -4,6 +4,7 @@ date: 2010-11-21T22:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/21/never-gonna-come-back-down/
+shortlink: https://g.omid.dev/1n64Qef
 tags:
   - link
   - Video

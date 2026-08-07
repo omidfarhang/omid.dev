@@ -4,6 +4,7 @@ date: 2012-08-02T13:25:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/02/outlook-com-gets-1-million-users-in-first-6-hours/
+shortlink: https://g.omid.dev/1Ln1oHR
 tags:
   - Microsoft
   - Outlook

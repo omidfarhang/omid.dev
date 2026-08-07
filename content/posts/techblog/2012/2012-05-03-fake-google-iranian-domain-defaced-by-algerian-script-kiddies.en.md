@@ -4,6 +4,7 @@ date: 2012-05-03T20:31:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/03/fake-google-iranian-domain-defaced-by-algerian-script-kiddies/
+shortlink: https://g.omid.dev/1LOAtzB
 tags:
   - hack
   - Iran

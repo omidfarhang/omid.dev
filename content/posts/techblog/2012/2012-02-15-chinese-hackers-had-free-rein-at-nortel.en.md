@@ -4,6 +4,7 @@ date: 2012-02-15T18:05:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/chinese-hackers-had-free-rein-at-nortel/
+shortlink: https://g.omid.dev/1QTS6PB
 tags:
   - hack
   - News

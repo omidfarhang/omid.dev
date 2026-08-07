@@ -4,6 +4,7 @@ date: 2012-02-01T22:15:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/01/facebook-spam-police-officer-does-good-deed-before-he-dies-moments-later/
+shortlink: https://g.omid.dev/1pYpoaN
 tags:
   - advice
   - alert

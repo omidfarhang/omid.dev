@@ -4,6 +4,7 @@ date: 2010-05-04T11:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/a-virus-is-coming-tell-all-your-friends/
+shortlink: https://g.omid.dev/1qHy71c
 tags:
   - advice
   - hoax

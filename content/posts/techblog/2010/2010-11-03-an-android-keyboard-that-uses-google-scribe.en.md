@@ -4,6 +4,7 @@ date: 2010-11-03T17:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/an-android-keyboard-that-uses-google-scribe/
+shortlink: https://g.omid.dev/1pYp5wB
 tags:
   - Android
   - Google

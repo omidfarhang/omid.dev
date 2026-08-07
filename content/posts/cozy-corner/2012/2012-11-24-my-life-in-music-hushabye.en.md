@@ -4,6 +4,7 @@ date: 2012-11-24T17:36:00+00:00
 layout: single
 author_profile: true
 url: 2012/11/24/my-life-in-music-hushabye/
+shortlink: https://g.omid.dev/1LmLAEV
 tags:
   - Music Life
 

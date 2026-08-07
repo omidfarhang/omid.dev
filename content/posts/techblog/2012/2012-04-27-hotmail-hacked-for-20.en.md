@@ -4,6 +4,7 @@ date: 2012-04-27T10:50:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/27/hotmail-hacked-for-20/
+shortlink: https://g.omid.dev/1p8O1AK
 tags:
   - hack
   - Hotmail

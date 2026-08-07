@@ -4,6 +4,7 @@ date: 2012-07-22T21:37:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/22/why-google-or-facebook-buying-your-favorite-startup/
+shortlink: https://g.omid.dev/1Y7Hjan
 tags:
   - business
   - Facebook

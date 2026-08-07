@@ -4,6 +4,7 @@ date: 2010-10-26T15:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/26/web-filtering-are-employees-offended/
+shortlink: https://g.omid.dev/24PAgYE
 tags:
   - internet
   - report

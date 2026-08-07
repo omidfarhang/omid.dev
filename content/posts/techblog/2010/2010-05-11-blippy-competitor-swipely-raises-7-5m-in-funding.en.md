@@ -4,6 +4,7 @@ date: 2010-05-11T20:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/blippy-competitor-swipely-raises-7-5m-in-funding/
+shortlink: https://g.omid.dev/1QdZfx3
 tags:
   - startup
   - funding-and-scaling

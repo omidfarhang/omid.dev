@@ -4,6 +4,7 @@ date: 2013-05-23T19:48:44+00:00
 layout: single
 author_profile: true
 url: 2013/05/23/symantec-planning-to-discontinue-pc-tools-security-products/
+shortlink: https://g.omid.dev/24BlKDu
 image: /images/2013/05/Symantec_120.png
 tags:
   - Discontinue

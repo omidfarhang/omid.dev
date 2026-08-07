@@ -4,6 +4,7 @@ date: 2010-12-01T17:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/01/oficla-downloads-mbr-ransomware/
+shortlink: https://g.omid.dev/1QDz7NF
 tags:
   - advice
   - alert

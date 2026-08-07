@@ -4,6 +4,7 @@ date: 2010-03-02T23:42:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/koobface-makes-a-comeback/
+shortlink: https://g.omid.dev/1QCyvUY
 tags:
   - Facebook
   - Phishing

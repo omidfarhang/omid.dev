@@ -4,6 +4,7 @@ date: 2011-03-19T20:02:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/19/i-want-to-share-this-with-you/
+shortlink: https://g.omid.dev/21CCCrd
 tags:
   - My Life
 

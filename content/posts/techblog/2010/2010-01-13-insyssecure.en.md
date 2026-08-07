@@ -4,6 +4,7 @@ date: 2010-01-13T00:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/insyssecure/
+shortlink: https://g.omid.dev/1Uxllxv
 tags:
   - Malware
   - rogue software

@@ -4,6 +4,7 @@ date: 2010-10-15T16:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/15/facebook-introduces-disposable-passwords/
+shortlink: https://g.omid.dev/1Ty5MXG
 tags:
   - Announcement
   - Facebook

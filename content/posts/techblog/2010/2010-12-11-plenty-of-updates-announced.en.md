@@ -4,6 +4,7 @@ date: 2010-12-11T00:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/11/plenty-of-updates-announced/
+shortlink: https://g.omid.dev/21qCrTb
 tags:
   - Microsoft
   - Security

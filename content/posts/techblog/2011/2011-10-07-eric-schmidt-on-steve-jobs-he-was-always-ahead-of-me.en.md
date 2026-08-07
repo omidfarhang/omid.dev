@@ -4,6 +4,7 @@ date: 2011-10-07T13:22:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/07/eric-schmidt-on-steve-jobs-he-was-always-ahead-of-me/
+shortlink: https://g.omid.dev/212YXfn
 tags:
   - Eric Schmidt
   - Interview

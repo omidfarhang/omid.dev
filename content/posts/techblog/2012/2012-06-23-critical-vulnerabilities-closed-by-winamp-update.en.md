@@ -4,6 +4,7 @@ date: 2012-06-23T20:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/23/critical-vulnerabilities-closed-by-winamp-update/
+shortlink: https://g.omid.dev/1oUm2W8
 tags:
   - Security
   - software

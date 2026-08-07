@@ -4,6 +4,7 @@ date: 2012-06-09T12:43:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/09/millions-of-last-fm-passwords-leaked/
+shortlink: https://g.omid.dev/1QU3b9A
 tags:
   - advice
   - hack

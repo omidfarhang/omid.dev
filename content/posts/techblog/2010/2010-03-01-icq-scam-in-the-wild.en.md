@@ -4,6 +4,7 @@ date: 2010-03-01T10:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/icq-scam-in-the-wild/
+shortlink: https://g.omid.dev/1plXUve
 tags:
   - AOL
   - ICQ

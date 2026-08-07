@@ -4,6 +4,7 @@ date: 2012-04-25T20:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/25/facebook-teams-up-with-security-vendors/
+shortlink: https://g.omid.dev/1pm8e6y
 tags:
   - Facebook
   - Security

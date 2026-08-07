@@ -4,6 +4,7 @@ date: 2010-05-03T19:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/report-doj-ftc-scuffle-over-scrutinizing-apple-on-antitrust/
+shortlink: https://g.omid.dev/1WRIwl5
 tags:
   - AMD
   - Android

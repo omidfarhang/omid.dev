@@ -4,6 +4,7 @@ date: 2010-11-03T23:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/facebook-is-fastest-social-network-twitter-myspace-slowest/
+shortlink: https://g.omid.dev/24PA77s
 tags:
   - Facebook
   - LinkedIn

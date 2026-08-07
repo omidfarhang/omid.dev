@@ -4,6 +4,7 @@ date: 2010-10-22T21:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/domain-name-sex-com-sells-for-13-million/
+shortlink: https://g.omid.dev/1QnMC0p
 tags:
   - News
 

@@ -4,6 +4,7 @@ date: 2009-12-20T00:12:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/20/last-minute-shopping-keep-safe/
+shortlink: https://g.omid.dev/1psGXzl
 tags:
   - Advice
   - Hijack

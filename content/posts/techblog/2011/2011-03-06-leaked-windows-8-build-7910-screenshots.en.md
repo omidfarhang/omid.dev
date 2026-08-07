@@ -4,6 +4,7 @@ date: 2011-03-06T23:56:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/06/leaked-windows-8-build-7910-screenshots/
+shortlink: https://g.omid.dev/1Qr6umG
 tags:
   - leak
   - Microsoft

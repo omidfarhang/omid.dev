@@ -4,6 +4,7 @@ date: 2012-07-24T19:27:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/24/anonymous-hackers-cripple-australian-govt-websites/
+shortlink: https://g.omid.dev/1Y7H4vT
 tags:
   - Anonymous
   - hack

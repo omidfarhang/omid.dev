@@ -4,6 +4,7 @@ date: 2010-09-23T12:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/23/more-spam-with-javascript-redirectors/
+shortlink: https://g.omid.dev/1QSD6G8
 tags:
   - alert
   - Malware

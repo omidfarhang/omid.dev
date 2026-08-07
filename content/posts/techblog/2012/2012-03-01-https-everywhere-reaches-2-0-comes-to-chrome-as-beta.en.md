@@ -4,6 +4,7 @@ date: 2012-03-01T07:33:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/01/https-everywhere-reaches-2-0-comes-to-chrome-as-beta/
+shortlink: https://g.omid.dev/1M2gWM1
 tags:
   - Browsers
   - Extension

@@ -4,6 +4,7 @@ date: 2010-03-22T15:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/become-a-fan-of-omid-on-facebook/
+shortlink: https://g.omid.dev/1QYxoPC
 tags:
   - Facebook
   - Social Media

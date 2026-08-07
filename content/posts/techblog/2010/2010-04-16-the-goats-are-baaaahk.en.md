@@ -4,6 +4,7 @@ date: 2010-04-16T13:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/16/the-goats-are-baaaahk/
+shortlink: https://g.omid.dev/1S9zobJ
 tags:
   - Google
   - Interesting

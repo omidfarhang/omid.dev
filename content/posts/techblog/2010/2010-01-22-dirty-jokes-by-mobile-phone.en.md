@@ -4,6 +4,7 @@ date: 2010-01-22T00:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/22/dirty-jokes-by-mobile-phone/
+shortlink: https://g.omid.dev/1Y7GWMZ
 tags:
   - News
   - report

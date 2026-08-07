@@ -4,6 +4,7 @@ date: 2012-03-29T15:22:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/29/free-stuff-on-social-networks-not-free/
+shortlink: https://g.omid.dev/1Y7HsuD
 tags:
   - advice
   - alert

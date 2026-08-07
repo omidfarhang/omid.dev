@@ -4,6 +4,7 @@ date: 2012-04-24T17:33:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/24/introducing-google-drive-yes-really/
+shortlink: https://g.omid.dev/1OXrV9x
 tags:
   - Announcement
   - Google

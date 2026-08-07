@@ -4,6 +4,7 @@ date: 2010-10-22T21:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/western-digital-caviar-green-3tb-hard-drive/
+shortlink: https://g.omid.dev/24PzQS4
 tags:
   - Announcement
   - Hardware

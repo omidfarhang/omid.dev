@@ -4,6 +4,7 @@ date: 2010-04-14T14:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/14/please-give-me-your-username-and-password/
+shortlink: https://g.omid.dev/1TNXrOR
 tags:
   - Phishing
   - scam

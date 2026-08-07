@@ -4,6 +4,7 @@ date: 2010-04-09T18:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/election-results-our-survey-says/
+shortlink: https://g.omid.dev/1XuymaG
 tags:
   - Phishing
   - scam

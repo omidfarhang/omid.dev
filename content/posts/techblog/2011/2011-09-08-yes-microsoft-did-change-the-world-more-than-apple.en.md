@@ -4,6 +4,7 @@ date: 2011-09-08T22:26:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/08/yes-microsoft-did-change-the-world-more-than-apple/
+shortlink: https://g.omid.dev/24PzU46
 tags:
   - Apple
   - Microsoft

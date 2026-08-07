@@ -4,6 +4,7 @@ date: 2010-03-04T18:59:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/malicious-iframes-on-google-analiticsdotnet/
+shortlink: https://g.omid.dev/1ZkHiR0
 tags:
   - alert
   - Malware

@@ -4,6 +4,7 @@ date: 2010-05-04T12:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/google-tells-which-versions-of-android-are-most-common/
+shortlink: https://g.omid.dev/1Sfd80l
 tags:
   - Android
   - Google

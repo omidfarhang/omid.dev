@@ -4,6 +4,7 @@ date: 2011-05-20T14:41:00+00:00
 layout: single
 author_profile: true
 url: 2011/05/20/facebook-keeping-you-safe-from-scams-and-spam/
+shortlink: https://g.omid.dev/24TD32R
 tags:
   - Facebook
   - Privacy

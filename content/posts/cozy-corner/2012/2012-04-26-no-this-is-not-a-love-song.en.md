@@ -4,6 +4,7 @@ date: 2012-04-26T20:30:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/26/no-this-is-not-a-love-song/
+shortlink: https://g.omid.dev/1oGSOsU
 tags:
   - My Life
 

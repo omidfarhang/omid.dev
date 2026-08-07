@@ -4,6 +4,7 @@ date: 2010-03-31T11:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/31/file-transfers-coming-to-gmail-chat/
+shortlink: https://g.omid.dev/1LmLH3k
 tags:
   - Google
   - News

@@ -4,6 +4,7 @@ date: 2011-11-03T12:39:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/03/google-releases-official-google-notification-extension-for-chrome/
+shortlink: https://g.omid.dev/1XZHSmz
 tags:
   - Extension
   - Google

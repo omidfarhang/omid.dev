@@ -4,6 +4,7 @@ date: 2010-04-09T22:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/adobe-employee-go-screw-yourself-apple/
+shortlink: https://g.omid.dev/1ThS1fk
 tags:
   - 3D
   - Adobe

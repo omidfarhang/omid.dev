@@ -4,6 +4,7 @@ date: 2010-10-26T12:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/26/when-technology-fails/
+shortlink: https://g.omid.dev/1QNPzXa
 tags:
   - Interesting
   - Technology

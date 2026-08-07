@@ -4,6 +4,7 @@ date: 2010-11-06T15:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/steve-ballmer-sells-1-3-billion-worth-of-microsoft-shares/
+shortlink: https://g.omid.dev/1VPH1n6
 tags:
   - business
   - Microsoft

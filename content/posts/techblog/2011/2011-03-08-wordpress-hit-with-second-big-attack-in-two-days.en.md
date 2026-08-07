@@ -4,6 +4,7 @@ date: 2011-03-08T11:31:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/08/wordpress-hit-with-second-big-attack-in-two-days/
+shortlink: https://g.omid.dev/1QZHejr
 tags:
   - attack
   - News

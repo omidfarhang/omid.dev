@@ -4,6 +4,7 @@ date: 2011-02-11T00:04:00+00:00
 layout: single
 author_profile: true
 url: 2011/02/11/life-is-beautiful/
+shortlink: https://g.omid.dev/1QkL7n9
 tags:
   - My Life
 

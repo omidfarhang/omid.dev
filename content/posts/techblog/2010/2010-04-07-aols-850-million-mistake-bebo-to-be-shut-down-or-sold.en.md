@@ -4,6 +4,7 @@ date: 2010-04-07T22:48:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/aols-850-million-mistake-bebo-to-be-shut-down-or-sold/
+shortlink: https://g.omid.dev/1Y7H3bz
 tags:
   - AOL
   - ICQ

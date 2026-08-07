@@ -4,6 +4,7 @@ date: 2013-05-30T15:04:25+00:00
 layout: single
 author_profile: true
 url: 2013/05/30/google-overhauls-gmail-to-take-on-e-mail-overload/
+shortlink: https://g.omid.dev/212YKsC
 image: /images/2013/05/gmail-logo.jpg
 tags:
   - Announcement

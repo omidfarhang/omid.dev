@@ -4,6 +4,7 @@ date: 2010-10-21T13:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/firefox-3-6-11-and-3-5-14-security-updates-now-available/
+shortlink: https://g.omid.dev/1r0BP6h
 tags:
   - Firefox
   - Mozilla

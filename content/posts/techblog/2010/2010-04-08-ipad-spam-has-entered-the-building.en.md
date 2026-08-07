@@ -4,6 +4,7 @@ date: 2010-04-08T00:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/08/ipad-spam-has-entered-the-building/
+shortlink: https://g.omid.dev/1TH3JR0
 tags:
   - Apple
   - report

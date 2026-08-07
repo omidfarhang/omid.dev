@@ -4,6 +4,7 @@ date: 2011-09-14T19:10:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/14/adobe-closes-14-holes-in-reader-and-acrobat/
+shortlink: https://g.omid.dev/1nlN7ji
 tags:
   - Adobe
   - Updates

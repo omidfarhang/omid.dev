@@ -4,6 +4,7 @@ date: 2010-12-10T23:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/10/google-maps-for-android-to-add-3d-and-offline-support/
+shortlink: https://g.omid.dev/1YpJ3vX
 tags:
   - 3D
   - Android

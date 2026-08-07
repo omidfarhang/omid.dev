@@ -4,6 +4,7 @@ date: 2011-04-13T12:29:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/microsoft-launches-first-internet-explorer-10-preview/
+shortlink: https://g.omid.dev/1LUXT6u
 tags:
   - Internet Explorer
   - Microsoft

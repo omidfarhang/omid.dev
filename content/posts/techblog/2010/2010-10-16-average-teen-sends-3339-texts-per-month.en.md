@@ -4,6 +4,7 @@ date: 2010-10-16T22:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/average-teen-sends-3339-texts-per-month/
+shortlink: https://g.omid.dev/202bG2T
 tags:
   - News
   - report

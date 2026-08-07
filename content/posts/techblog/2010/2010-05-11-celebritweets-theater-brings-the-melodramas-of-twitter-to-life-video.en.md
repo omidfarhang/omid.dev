@@ -4,6 +4,7 @@ date: 2010-05-11T20:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/celebritweets-theater-brings-the-melodramas-of-twitter-to-life-video/
+shortlink: https://g.omid.dev/1QCyArH
 tags:
   - humor
   - pop culture

@@ -4,6 +4,7 @@ date: 2011-12-09T12:53:00+00:00
 layout: single
 author_profile: true
 url: 2011/12/09/come-join-my-forum/
+shortlink: https://g.omid.dev/1L6vrn8
 tags:
   - This Blog Update
 

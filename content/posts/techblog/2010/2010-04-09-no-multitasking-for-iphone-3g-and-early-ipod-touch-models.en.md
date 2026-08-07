@@ -4,6 +4,7 @@ date: 2010-04-09T17:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/no-multitasking-for-iphone-3g-and-early-ipod-touch-models/
+shortlink: https://g.omid.dev/1OXlxPD
 tags:
   - Apple
 

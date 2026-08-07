@@ -4,6 +4,7 @@ date: 2013-04-24T12:56:13+00:00
 layout: single
 author_profile: true
 url: 2013/04/24/microsoft-patches-the-security-update-2823324/
+shortlink: https://g.omid.dev/15OJBmB
 image: /images/2013/04/windows-update3.jpg
 tags:
   - Microsoft

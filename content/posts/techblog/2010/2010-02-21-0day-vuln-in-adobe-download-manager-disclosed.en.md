@@ -4,6 +4,7 @@ date: 2010-02-21T19:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/21/0day-vuln-in-adobe-download-manager-disclosed/
+shortlink: https://g.omid.dev/1QOL0Cf
 tags:
   - 0-Day
   - Adobe

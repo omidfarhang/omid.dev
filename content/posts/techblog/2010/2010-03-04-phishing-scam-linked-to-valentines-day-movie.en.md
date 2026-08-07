@@ -4,6 +4,7 @@ date: 2010-03-04T21:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/phishing-scam-linked-to-valentines-day-movie/
+shortlink: https://g.omid.dev/1RNt1Xo
 tags:
   - advice
   - alert

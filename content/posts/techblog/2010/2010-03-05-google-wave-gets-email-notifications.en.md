@@ -4,6 +4,7 @@ date: 2010-03-05T01:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/05/google-wave-gets-email-notifications/
+shortlink: https://g.omid.dev/1SO9meK
 tags:
   - Google
   - News

@@ -4,6 +4,7 @@ date: 2012-07-24T21:28:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/24/could-romney-really-ban-porn/
+shortlink: https://g.omid.dev/1VLvEws
 tags:
   - News
 

@@ -4,6 +4,7 @@ date: 2010-02-12T21:16:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/history-of-the-internet/
+shortlink: https://g.omid.dev/1QCywIG
 tags:
   - Interesting
   - Video

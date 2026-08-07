@@ -4,6 +4,7 @@ date: 2010-11-03T23:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/03/nvidia-geforce-gtx-580-tdp-is-244w-includes-128-tmu-benchmarks-leaked/
+shortlink: https://g.omid.dev/1SO7D9w
 tags:
   - 3D
   - AMD

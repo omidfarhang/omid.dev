@@ -4,6 +4,7 @@ date: 2010-11-04T13:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/04/goo-gl-is-the-fastest-and-most-reliable-url-shortening-service/
+shortlink: https://g.omid.dev/21F4fQt
 tags:
   - Google
   - report

@@ -5,6 +5,7 @@ description: Windows Vista shipped with UAC prompts and Aero visuals. A practica
 layout: single
 author_profile: true
 url: 2007/02/14/windows-vista-launch-uac-and-the-first-month/
+shortlink: https://g.omid.dev/cOYZJ6J
 tags:
   - Windows Vista
   - UAC

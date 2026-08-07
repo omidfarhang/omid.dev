@@ -4,6 +4,7 @@ date: 2010-04-16T14:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/16/explore-space-with-buzz-aldrin-on-your-iphone/
+shortlink: https://g.omid.dev/1QCyAbd
 tags:
   - Apple
   - buzz aldrin

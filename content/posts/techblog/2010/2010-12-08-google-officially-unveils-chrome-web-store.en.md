@@ -4,6 +4,7 @@ date: 2010-12-08T00:21:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/08/google-officially-unveils-chrome-web-store/
+shortlink: https://g.omid.dev/1Y7HFhd
 tags:
   - Announcement
   - Google

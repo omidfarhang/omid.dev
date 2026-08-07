@@ -4,6 +4,7 @@ date: 2011-08-02T17:11:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/02/a-major-update-in-google-chrome-instant-page-and-5200-revisions/
+shortlink: https://g.omid.dev/24PA8Z6
 tags:
   - Google
   - Google Chrome

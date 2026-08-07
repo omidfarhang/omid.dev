@@ -4,6 +4,7 @@ date: 2010-08-29T13:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/29/how-to-get-hacked-on-facebook/
+shortlink: https://g.omid.dev/1M1zhhz
 tags:
   - advice
   - alert

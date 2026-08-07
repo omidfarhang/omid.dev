@@ -4,6 +4,7 @@ date: 2010-04-08T22:10:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/08/patch-tuesday-next-week/
+shortlink: https://g.omid.dev/24K9SiE
 tags:
   - Microsoft
   - Patch Tuesday

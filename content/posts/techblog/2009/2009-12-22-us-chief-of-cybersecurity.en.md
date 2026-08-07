@@ -4,6 +4,7 @@ date: 2009-12-22T12:56:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/22/us-chief-of-cybersecurity/
+shortlink: https://g.omid.dev/1LcCGdx
 tags:
   - News
 

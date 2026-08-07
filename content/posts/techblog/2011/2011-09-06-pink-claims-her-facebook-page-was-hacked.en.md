@@ -4,6 +4,7 @@ date: 2011-09-06T20:31:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/06/pink-claims-her-facebook-page-was-hacked/
+shortlink: https://g.omid.dev/1qQJG6m
 tags:
   - celeb
   - Facebook

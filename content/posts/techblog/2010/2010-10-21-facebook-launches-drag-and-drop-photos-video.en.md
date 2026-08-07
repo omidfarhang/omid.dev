@@ -4,6 +4,7 @@ date: 2010-10-21T21:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/facebook-launches-drag-and-drop-photos-video/
+shortlink: https://g.omid.dev/21YUE7b
 tags:
   - Announcement
   - Facebook

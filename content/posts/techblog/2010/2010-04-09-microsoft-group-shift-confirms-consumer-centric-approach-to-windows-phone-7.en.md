@@ -4,6 +4,7 @@ date: 2010-04-09T16:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/microsoft-group-shift-confirms-consumer-centric-approach-to-windows-phone-7/
+shortlink: https://g.omid.dev/1WRIt8R
 tags:
   - Microsoft
   - Mobile

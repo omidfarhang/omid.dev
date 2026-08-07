@@ -4,6 +4,7 @@ date: 2010-04-03T11:38:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/nokia-defaced/
+shortlink: https://g.omid.dev/1RDzg2l
 tags:
   - advice
   - alert

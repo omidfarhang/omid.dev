@@ -4,6 +4,7 @@ date: 2010-01-21T19:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/microsoft-vulnerabilities/
+shortlink: https://g.omid.dev/1Y7GUVA
 tags:
   - alert
   - Microsoft

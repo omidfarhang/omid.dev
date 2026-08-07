@@ -4,6 +4,7 @@ date: 2010-04-03T12:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/the-first-ipad-and-ipad-3g-teardowns-pics/
+shortlink: https://g.omid.dev/1Qr5fjP
 tags:
   - Apple
   - teardown

@@ -4,6 +4,7 @@ date: 2012-08-03T09:57:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/03/final-version-of-windows-8-leaked-online-no-windows-media-player-yet/
+shortlink: https://g.omid.dev/1WRIvgN
 tags:
   - leak
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-10-22T18:01:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/use-windows-7-event-viewer-to-track-down-issues-that-cause-slower-boot-times/
+shortlink: https://g.omid.dev/1pYoyuE
 tags:
   - advice
   - solution

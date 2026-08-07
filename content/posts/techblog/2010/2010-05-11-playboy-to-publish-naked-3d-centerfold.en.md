@@ -4,6 +4,7 @@ date: 2010-05-11T21:08:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/playboy-to-publish-naked-3d-centerfold/
+shortlink: https://g.omid.dev/21F8rzD
 tags:
   - 3D
   - hugh hefner

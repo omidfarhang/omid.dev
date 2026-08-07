@@ -4,6 +4,7 @@ date: 2012-02-13T16:30:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/13/facebook-hoax-facebook-will-end-on-march-15th-2012/
+shortlink: https://g.omid.dev/24PA4IU
 tags:
   - advice
   - Facebook

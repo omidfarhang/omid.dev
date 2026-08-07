@@ -4,6 +4,7 @@ date: 2010-05-04T12:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/04/48-of-parents-friend-their-kids-on-facebook-stats/
+shortlink: https://g.omid.dev/1TVqqRb
 tags:
   - advice
   - alert

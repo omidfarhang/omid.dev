@@ -4,6 +4,7 @@ date: 2011-11-03T12:08:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/03/facebook-scam-girl-killed-herself-on-halloween/
+shortlink: https://g.omid.dev/21F3Ey8
 tags:
   - advice
   - alert

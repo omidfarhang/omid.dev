@@ -4,6 +4,7 @@ date: 2011-03-15T10:36:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/15/internet-explorer-9-is-out-includes-new-security-features/
+shortlink: https://g.omid.dev/1UxelRo
 tags:
   - Internet Explorer
   - Microsoft

@@ -4,6 +4,7 @@ date: 2010-04-17T21:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/norway-uses-ipad-to-run-the-government-during-icelandic-volcano/
+shortlink: https://g.omid.dev/1LOEeVD
 tags:
   - Apple
   - Government

@@ -4,6 +4,7 @@ date: 2010-09-21T20:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/21/twitter-xss-getting-abused/
+shortlink: https://g.omid.dev/1RKoHbk
 tags:
   - advice
   - report

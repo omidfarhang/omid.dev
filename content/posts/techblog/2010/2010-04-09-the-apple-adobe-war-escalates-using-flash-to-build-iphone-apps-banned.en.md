@@ -4,6 +4,7 @@ date: 2010-04-09T16:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/the-apple-adobe-war-escalates-using-flash-to-build-iphone-apps-banned/
+shortlink: https://g.omid.dev/1OXlDH0
 tags:
   - Adobe
   - Apple

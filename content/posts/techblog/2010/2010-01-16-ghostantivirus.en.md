@@ -4,6 +4,7 @@ date: 2010-01-16T00:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/16/ghostantivirus/
+shortlink: https://g.omid.dev/1RAG0hA
 tags:
   - Malware
   - rogue software

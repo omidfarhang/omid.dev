@@ -4,6 +4,7 @@ date: 2012-06-03T15:47:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/03/automated-skype-calls-and-fake-antiviruses/
+shortlink: https://g.omid.dev/21CIm4j
 tags:
   - Malware
   - scam

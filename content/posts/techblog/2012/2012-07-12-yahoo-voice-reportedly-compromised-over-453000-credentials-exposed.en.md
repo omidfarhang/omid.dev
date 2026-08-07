@@ -4,6 +4,7 @@ date: 2012-07-12T08:39:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/12/yahoo-voice-reportedly-compromised-over-453000-credentials-exposed/
+shortlink: https://g.omid.dev/1WRIysY
 tags:
   - advice
   - attack

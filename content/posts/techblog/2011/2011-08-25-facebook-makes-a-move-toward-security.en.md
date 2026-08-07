@@ -4,6 +4,7 @@ date: 2011-08-25T18:32:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/25/facebook-makes-a-move-toward-security/
+shortlink: https://g.omid.dev/1QCyyQK
 tags:
   - advice
   - Facebook

@@ -4,6 +4,7 @@ date: 2012-04-06T20:39:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/06/russian-av-company-claims-600000-macs-infected-by-flashback-removal-manual/
+shortlink: https://g.omid.dev/1Y09W9p
 tags:
   - Apple
   - Mac OS X

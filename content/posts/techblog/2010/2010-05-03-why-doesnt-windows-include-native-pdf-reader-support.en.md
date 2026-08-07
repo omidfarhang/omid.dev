@@ -4,6 +4,7 @@ date: 2010-05-03T23:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/why-doesnt-windows-include-native-pdf-reader-support/
+shortlink: https://g.omid.dev/1XT89CZ
 tags:
   - Adobe
   - Apple

@@ -4,6 +4,7 @@ date: 2011-04-15T17:14:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/15/latest-powerpoint-security-patch-has-problems/
+shortlink: https://g.omid.dev/1pYoYBj
 tags:
   - Microsoft
   - PowerPoint

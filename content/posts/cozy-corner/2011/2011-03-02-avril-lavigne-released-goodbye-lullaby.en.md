@@ -4,6 +4,7 @@ date: 2011-03-02T14:46:49+00:00
 layout: single
 author_profile: true
 url: 2011/03/02/avril-lavigne-released-goodbye-lullaby/
+shortlink: https://g.omid.dev/1T9yqha
 tags:
   - Music
 

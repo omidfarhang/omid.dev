@@ -6,6 +6,7 @@ description: Stop recycling passwords across sites — use a password manager fo
 layout: single
 author_profile: true
 url: 2010/03/04/too-many-passwords-here-is-a-solution/
+shortlink: https://g.omid.dev/1QCysZo
 tags:
   - Safety Tips
   - Password

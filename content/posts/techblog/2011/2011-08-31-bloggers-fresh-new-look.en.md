@@ -4,6 +4,7 @@ date: 2011-08-31T18:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/31/bloggers-fresh-new-look/
+shortlink: https://g.omid.dev/1Y7Hd2E
 tags:
   - Blogger
   - Blogging

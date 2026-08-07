@@ -4,6 +4,7 @@ date: 2010-02-26T18:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/26/do-i-know-you/
+shortlink: https://g.omid.dev/1Y7GTku
 tags:
   - Malware
   - Phishing

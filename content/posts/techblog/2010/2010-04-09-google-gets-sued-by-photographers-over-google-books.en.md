@@ -4,6 +4,7 @@ date: 2010-04-09T17:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/google-gets-sued-by-photographers-over-google-books/
+shortlink: https://g.omid.dev/1qlyfE3
 tags:
   - Google
   - lawsuit

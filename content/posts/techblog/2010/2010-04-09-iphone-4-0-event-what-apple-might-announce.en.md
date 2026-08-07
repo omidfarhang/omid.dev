@@ -4,6 +4,7 @@ date: 2010-04-09T16:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/iphone-4-0-event-what-apple-might-announce/
+shortlink: https://g.omid.dev/1TkorWM
 tags:
   - Apple
 

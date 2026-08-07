@@ -4,6 +4,7 @@ date: 2011-09-25T20:59:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/25/mac-os-x-trojan-hides-behind-malicious-pdf-disguise/
+shortlink: https://g.omid.dev/21MpbVO
 tags:
   - Apple
   - Mac OS X

@@ -4,6 +4,7 @@ date: 2013-04-20T18:29:01+00:00
 layout: single
 author_profile: true
 url: 2013/04/20/java-8-release-schedule-delayed-for-renewed-focus-on-security/
+shortlink: https://g.omid.dev/1p9HaHR
 image: /images/2013/04/Java.jpg
 tags:
   - Java

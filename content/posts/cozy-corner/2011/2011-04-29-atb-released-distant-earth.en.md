@@ -4,6 +4,7 @@ date: 2011-04-29T14:33:57+00:00
 layout: single
 author_profile: true
 url: 2011/04/29/atb-released-distant-earth/
+shortlink: https://g.omid.dev/1T5ZOMW
 tags:
   - Music
 

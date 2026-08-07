@@ -4,6 +4,7 @@ date: 2010-01-16T01:05:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/16/facebook-privacy-doesnt-really-exist/
+shortlink: https://g.omid.dev/21JOCp4
 tags:
   - Facebook
   - report

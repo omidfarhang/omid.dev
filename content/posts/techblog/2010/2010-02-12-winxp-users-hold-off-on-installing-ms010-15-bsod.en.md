@@ -4,6 +4,7 @@ date: 2010-02-12T22:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/winxp-users-hold-off-on-installing-ms010-15-bsod/
+shortlink: https://g.omid.dev/1RLsMfj
 tags:
   - advice
   - alert

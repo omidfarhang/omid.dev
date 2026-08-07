@@ -4,6 +4,7 @@ date: 2010-10-19T19:22:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/19/copy-machines-spill-identity-secrets/
+shortlink: https://g.omid.dev/1rwlpmC
 tags:
   - advice
   - privacy

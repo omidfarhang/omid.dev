@@ -4,6 +4,7 @@ date: 2010-02-26T19:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/26/trojiframe-dy-old-websites-dont-die-they-just-get-infected/
+shortlink: https://g.omid.dev/1P2mFRX
 tags:
   - alert
   - hack

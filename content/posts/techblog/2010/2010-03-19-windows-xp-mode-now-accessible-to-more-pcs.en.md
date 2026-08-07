@@ -4,6 +4,7 @@ date: 2010-03-19T09:45:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/windows-xp-mode-now-accessible-to-more-pcs/
+shortlink: https://g.omid.dev/1TOTatq
 tags:
   - AMD
   - Microsoft

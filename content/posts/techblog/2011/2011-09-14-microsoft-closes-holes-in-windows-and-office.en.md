@@ -4,6 +4,7 @@ date: 2011-09-14T19:08:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/14/microsoft-closes-holes-in-windows-and-office/
+shortlink: https://g.omid.dev/1Y0GsZ5
 tags:
   - Microsoft
   - Microsoft Office

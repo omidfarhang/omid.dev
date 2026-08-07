@@ -4,6 +4,7 @@ date: 2010-01-13T19:23:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/13/whats-near-me-now/
+shortlink: https://g.omid.dev/1UAC5Ee
 tags:
   - Apple
   - News

@@ -4,6 +4,7 @@ date: 2011-10-06T13:43:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/06/facebook-scam-in-memory-of-steve-a-company-is-giving-out-50-ipads-tonight/
+shortlink: https://g.omid.dev/1Y7HfaH
 tags:
   - alert
   - Facebook

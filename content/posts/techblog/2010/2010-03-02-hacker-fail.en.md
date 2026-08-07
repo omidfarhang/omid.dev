@@ -4,6 +4,7 @@ date: 2010-03-02T01:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/02/hacker-fail/
+shortlink: https://g.omid.dev/1Y7GOx6
 tags:
   - Fun
   - hack

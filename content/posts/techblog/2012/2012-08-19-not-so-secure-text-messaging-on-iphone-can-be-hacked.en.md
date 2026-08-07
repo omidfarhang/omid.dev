@@ -4,6 +4,7 @@ date: 2012-08-19T14:07:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/19/not-so-secure-text-messaging-on-iphone-can-be-hacked/
+shortlink: https://g.omid.dev/1QNTGma
 tags:
   - Apple
   - flaw

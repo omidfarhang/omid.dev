@@ -4,6 +4,7 @@ date: 2010-09-20T11:03:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/20/security-issues-on-android/
+shortlink: https://g.omid.dev/1M1AqpB
 tags:
   - advice
   - Android

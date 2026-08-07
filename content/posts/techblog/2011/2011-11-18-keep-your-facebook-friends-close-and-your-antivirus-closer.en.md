@@ -4,6 +4,7 @@ date: 2011-11-18T16:53:00+00:00
 layout: single
 author_profile: true
 url: 2011/11/18/keep-your-facebook-friends-close-and-your-antivirus-closer/
+shortlink: https://g.omid.dev/1WRItp9
 tags:
   - advice
   - alert

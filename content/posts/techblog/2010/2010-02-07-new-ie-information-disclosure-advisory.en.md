@@ -4,6 +4,7 @@ date: 2010-02-07T21:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/07/new-ie-information-disclosure-advisory/
+shortlink: https://g.omid.dev/1Y7GRci
 tags:
   - alert
   - Internet Explorer

@@ -4,6 +4,7 @@ date: 2010-11-06T16:34:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/06/firefox-4-beta-2-now-available-for-android-and-maemo/
+shortlink: https://g.omid.dev/212TEg5
 tags:
   - Android
   - Beta

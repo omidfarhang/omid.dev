@@ -4,6 +4,7 @@ date: 2010-11-24T15:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/24/safe-holidays-season/
+shortlink: https://g.omid.dev/1R9RXZA
 tags:
   - advice
   - alert

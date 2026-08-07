@@ -4,6 +4,7 @@ date: 2010-05-19T20:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/pakistan-blocks-facebook-over-caricatures-of-prophet-muhammad/
+shortlink: https://g.omid.dev/1Y7Hm5Z
 tags:
   - Facebook
   - Social Media

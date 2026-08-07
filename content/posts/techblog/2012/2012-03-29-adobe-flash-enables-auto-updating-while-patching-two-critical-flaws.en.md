@@ -4,6 +4,7 @@ date: 2012-03-29T14:48:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/29/adobe-flash-enables-auto-updating-while-patching-two-critical-flaws/
+shortlink: https://g.omid.dev/1Y7GRJp
 tags:
   - Adobe
   - flash player

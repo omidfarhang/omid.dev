@@ -4,6 +4,7 @@ date: 2012-02-15T19:04:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/libreoffice-really-really/
+shortlink: https://g.omid.dev/1Sha8Rk
 tags:
   - link
   - Mozilla

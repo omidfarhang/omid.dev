@@ -4,6 +4,7 @@ date: 2010-04-03T20:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/rogue-toolbars-serve-up-facebook-phishing-pages/
+shortlink: https://g.omid.dev/1LhnMm4
 tags:
   - alert
   - Facebook

@@ -4,6 +4,7 @@ date: 2010-10-26T15:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/26/google-finally-upgrades-feedburner/
+shortlink: https://g.omid.dev/1WRIw4i
 tags:
   - FeedBurner
   - Google

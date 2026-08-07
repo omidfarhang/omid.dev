@@ -4,6 +4,7 @@ date: 2010-01-12T22:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/12/open-season-on-tax-payers/
+shortlink: https://g.omid.dev/1QCysIM
 tags:
   - alert
   - Phishing

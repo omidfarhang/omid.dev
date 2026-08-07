@@ -4,6 +4,7 @@ date: 2010-03-01T22:41:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/fighting-online-fraud-in-au/
+shortlink: https://g.omid.dev/1UJcwkm
 tags:
   - advice
   - News

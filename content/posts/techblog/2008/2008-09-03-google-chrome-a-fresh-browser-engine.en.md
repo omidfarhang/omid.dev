@@ -5,6 +5,7 @@ description: Google Chrome launched in 2008 with a multi-process design and fast
 layout: single
 author_profile: true
 url: 2008/09/03/google-chrome-a-fresh-browser-engine/
+shortlink: https://g.omid.dev/3iQ8WcC
 tags:
   - Google Chrome
   - Browsers

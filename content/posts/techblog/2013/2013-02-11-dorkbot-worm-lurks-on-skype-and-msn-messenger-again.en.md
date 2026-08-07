@@ -4,6 +4,7 @@ date: 2013-02-11T19:04:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/11/dorkbot-worm-lurks-on-skype-and-msn-messenger-again/
+shortlink: https://g.omid.dev/1Shbqvu
 tags:
   - alert
   - Malware

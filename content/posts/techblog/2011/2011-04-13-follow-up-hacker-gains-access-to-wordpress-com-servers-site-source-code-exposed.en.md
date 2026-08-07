@@ -4,6 +4,7 @@ date: 2011-04-13T23:18:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/13/follow-up-hacker-gains-access-to-wordpress-com-servers-site-source-code-exposed/
+shortlink: https://g.omid.dev/1LOAC6b
 tags:
   - attack
   - hack

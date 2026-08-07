@@ -4,6 +4,7 @@ date: 2010-11-16T15:11:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/16/windows-phone-7-outlasts-iphone-android-on-a-bbq/
+shortlink: https://g.omid.dev/1outENN
 tags:
   - Android
   - Interesting

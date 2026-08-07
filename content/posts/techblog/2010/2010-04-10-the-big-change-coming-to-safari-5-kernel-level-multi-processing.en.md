@@ -4,6 +4,7 @@ date: 2010-04-10T00:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/10/the-big-change-coming-to-safari-5-kernel-level-multi-processing/
+shortlink: https://g.omid.dev/1TXSSBM
 tags:
   - Apple
   - Browsers

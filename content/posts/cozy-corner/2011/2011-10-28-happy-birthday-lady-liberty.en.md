@@ -4,6 +4,7 @@ date: 2011-10-28T17:03:00+00:00
 layout: single
 author_profile: true
 url: 2011/10/28/happy-birthday-lady-liberty/
+shortlink: https://g.omid.dev/1LmSg5Y
 tags:
   - events
 

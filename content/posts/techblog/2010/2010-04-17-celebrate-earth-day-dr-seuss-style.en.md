@@ -4,6 +4,7 @@ date: 2010-04-17T17:55:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/celebrate-earth-day-dr-seuss-style/
+shortlink: https://g.omid.dev/1n5xTyC
 tags:
   - Apple
   - Events

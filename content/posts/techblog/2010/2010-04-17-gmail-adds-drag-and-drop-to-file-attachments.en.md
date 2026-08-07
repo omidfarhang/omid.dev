@@ -4,6 +4,7 @@ date: 2010-04-17T22:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/gmail-adds-drag-and-drop-to-file-attachments/
+shortlink: https://g.omid.dev/1pad9rA
 tags:
   - Gmail
   - Google

@@ -4,6 +4,7 @@ date: 2010-04-03T18:38:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/persistent-domain-renewal-scam-alive-and-kicking/
+shortlink: https://g.omid.dev/1SDw5s7
 tags:
   - alert
   - Phishing

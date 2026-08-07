@@ -4,6 +4,7 @@ date: 2010-03-04T00:26:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/04/big-brother-in-social-networking-scam/
+shortlink: https://g.omid.dev/1LXPG6Q
 tags:
   - alert
   - Phishing

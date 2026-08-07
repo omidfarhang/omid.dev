@@ -4,6 +4,7 @@ date: 2010-03-19T11:20:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/19/the-dangers-of-freebies/
+shortlink: https://g.omid.dev/1SJI35v
 tags:
   - Malware
   - review

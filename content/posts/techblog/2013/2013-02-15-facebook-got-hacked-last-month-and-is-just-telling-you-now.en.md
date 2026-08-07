@@ -4,6 +4,7 @@ date: 2013-02-15T22:53:00+00:00
 layout: single
 author_profile: true
 url: 2013/02/15/facebook-got-hacked-last-month-and-is-just-telling-you-now/
+shortlink: https://g.omid.dev/1RrW5ni
 tags:
   - Facebook
   - hack

@@ -4,6 +4,7 @@ date: 2012-02-15T17:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/shockwave-player-critical-holes-closed/
+shortlink: https://g.omid.dev/1Rx9CKf
 tags:
   - Adobe
   - Security

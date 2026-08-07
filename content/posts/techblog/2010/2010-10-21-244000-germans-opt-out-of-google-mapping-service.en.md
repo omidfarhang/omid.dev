@@ -4,6 +4,7 @@ date: 2010-10-21T17:51:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/21/244000-germans-opt-out-of-google-mapping-service/
+shortlink: https://g.omid.dev/1P2Eqkg
 tags:
   - Google
   - News

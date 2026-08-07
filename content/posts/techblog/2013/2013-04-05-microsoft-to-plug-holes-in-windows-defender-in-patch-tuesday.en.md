@@ -4,6 +4,7 @@ date: 2013-04-05T20:18:00+00:00
 layout: single
 author_profile: true
 url: 2013/04/05/microsoft-to-plug-holes-in-windows-defender-in-patch-tuesday/
+shortlink: https://g.omid.dev/1Y7Hmmv
 image: /images/2013/04/windows-update3.jpg
 tags:
   - Microsoft

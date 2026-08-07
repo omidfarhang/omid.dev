@@ -4,6 +4,7 @@ date: 2010-11-12T13:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/12/say-hello-to-the-samsung-nexus-s/
+shortlink: https://g.omid.dev/1pYoBGN
 tags:
   - Google
   - Mobile

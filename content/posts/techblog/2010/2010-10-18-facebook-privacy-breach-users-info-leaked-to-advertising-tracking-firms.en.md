@@ -4,6 +4,7 @@ date: 2010-10-18T21:17:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/facebook-privacy-breach-users-info-leaked-to-advertising-tracking-firms/
+shortlink: https://g.omid.dev/1XTguGY
 tags:
   - alert
   - Facebook

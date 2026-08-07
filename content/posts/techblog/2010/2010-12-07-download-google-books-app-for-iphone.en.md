@@ -4,6 +4,7 @@ date: 2010-12-07T15:28:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/download-google-books-app-for-iphone/
+shortlink: https://g.omid.dev/218eRoN
 tags:
   - Google
   - Apple

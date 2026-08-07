@@ -4,6 +4,7 @@ date: 2010-10-07T18:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/07/this-offer-is-available-today-only/
+shortlink: https://g.omid.dev/1Y7HHpi
 tags:
   - alert
   - Apple

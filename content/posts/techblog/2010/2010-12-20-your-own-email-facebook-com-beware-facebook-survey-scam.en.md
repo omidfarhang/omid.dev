@@ -4,6 +4,7 @@ date: 2010-12-20T19:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/20/your-own-email-facebook-com-beware-facebook-survey-scam/
+shortlink: https://g.omid.dev/1Saskw1
 tags:
   - Facebook
   - scam

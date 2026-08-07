@@ -4,6 +4,7 @@ date: 2010-02-12T22:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/new-rogue-securepcav/
+shortlink: https://g.omid.dev/1TbMU07
 tags:
   - Hijack
   - Malware

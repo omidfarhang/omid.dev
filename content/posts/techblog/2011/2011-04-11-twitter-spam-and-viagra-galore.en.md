@@ -4,6 +4,7 @@ date: 2011-04-11T18:44:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/11/twitter-spam-and-viagra-galore/
+shortlink: https://g.omid.dev/1YciMB9
 tags:
   - Social Media
   - spam

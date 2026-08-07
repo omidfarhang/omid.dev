@@ -4,6 +4,7 @@ date: 2012-03-07T12:39:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/07/panda-security-cleans-up-defaced-websites-after-lulzsec-arrest-revenge-attack/
+shortlink: https://g.omid.dev/1TVqMr2
 tags:
   - hack
   - report

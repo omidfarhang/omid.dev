@@ -4,6 +4,7 @@ date: 2012-04-26T15:03:00+00:00
 layout: single
 author_profile: true
 url: 2012/04/26/wikipharmacy-fake-notifications-spammed-out/
+shortlink: https://g.omid.dev/1Y7GKgQ
 tags:
   - advice
   - alert

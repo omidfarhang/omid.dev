@@ -4,6 +4,7 @@ date: 2011-05-24T14:57:00+00:00
 layout: single
 author_profile: true
 url: 2011/05/24/no-more-offline-gmail-in-google-chrome/
+shortlink: https://g.omid.dev/1TXVxva
 tags:
   - Gmail
   - Google

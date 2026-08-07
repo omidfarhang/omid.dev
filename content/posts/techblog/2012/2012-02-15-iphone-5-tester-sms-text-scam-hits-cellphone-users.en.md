@@ -4,6 +4,7 @@ date: 2012-02-15T17:23:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/15/iphone-5-tester-sms-text-scam-hits-cellphone-users/
+shortlink: https://g.omid.dev/1XT3UY5
 tags:
   - Apple
   - Mobile

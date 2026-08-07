@@ -4,6 +4,7 @@ date: 2012-03-08T11:46:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/08/google-opens-a-pharmacy-its-spam-of-the-day/
+shortlink: https://g.omid.dev/1oPNpQl
 tags:
   - alert
   - Google

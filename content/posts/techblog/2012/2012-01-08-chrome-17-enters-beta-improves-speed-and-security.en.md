@@ -4,6 +4,7 @@ date: 2012-01-08T19:10:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/08/chrome-17-enters-beta-improves-speed-and-security/
+shortlink: https://g.omid.dev/2288ggu
 tags:
   - Browsers
   - Google

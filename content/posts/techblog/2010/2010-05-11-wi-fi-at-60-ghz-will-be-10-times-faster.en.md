@@ -4,6 +4,7 @@ date: 2010-05-11T16:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/wi-fi-at-60-ghz-will-be-10-times-faster/
+shortlink: https://g.omid.dev/1TNTBWd
 tags:
   - review
   - WiFi

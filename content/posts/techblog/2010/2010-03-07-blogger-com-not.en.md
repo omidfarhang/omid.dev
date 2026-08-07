@@ -4,6 +4,7 @@ date: 2010-03-07T01:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/07/blogger-com-not/
+shortlink: https://g.omid.dev/1RNt05U
 tags:
   - alert
   - Phishing

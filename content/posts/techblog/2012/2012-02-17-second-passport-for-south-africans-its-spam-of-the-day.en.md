@@ -4,6 +4,7 @@ date: 2012-02-17T14:48:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/17/second-passport-for-south-africans-its-spam-of-the-day/
+shortlink: https://g.omid.dev/1qqjakh
 tags:
   - alert
   - spam

@@ -4,6 +4,7 @@ date: 2010-10-16T21:25:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/help-keep-your-account-safe-with-the-gmail-security-checklist/
+shortlink: https://g.omid.dev/24PoWL0
 tags:
   - advice
   - Gmail

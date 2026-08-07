@@ -4,6 +4,7 @@ date: 2010-02-11T23:15:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/11/google-to-buy-search-engine-aardvark/
+shortlink: https://g.omid.dev/1U3ufnl
 tags:
   - Google
   - News

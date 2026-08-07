@@ -4,6 +4,7 @@ date: 2010-02-08T00:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/08/phishing-using-pornographic-content-as-bait/
+shortlink: https://g.omid.dev/1UEw0qh
 tags:
   - Phishing
   - scam

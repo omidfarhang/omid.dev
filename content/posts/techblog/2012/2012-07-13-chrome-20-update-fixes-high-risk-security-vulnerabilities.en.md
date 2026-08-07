@@ -4,6 +4,7 @@ date: 2012-07-13T10:03:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/13/chrome-20-update-fixes-high-risk-security-vulnerabilities/
+shortlink: https://g.omid.dev/1Y7HmmD
 tags:
   - Browsers
   - Google

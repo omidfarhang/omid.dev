@@ -4,6 +4,7 @@ date: 2010-12-15T15:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/15/days-are-still-going-on-but-how-part7/
+shortlink: https://g.omid.dev/1LDcdFK
 tags:
   - My Life
 

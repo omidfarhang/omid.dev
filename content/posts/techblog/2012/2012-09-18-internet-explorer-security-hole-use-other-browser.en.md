@@ -4,6 +4,7 @@ date: 2012-09-18T16:22:00+00:00
 layout: single
 author_profile: true
 url: 2012/09/18/internet-explorer-security-hole-use-other-browser/
+shortlink: https://g.omid.dev/1n64tR3
 tags:
   - advice
   - Browsers

@@ -4,6 +4,7 @@ date: 2011-07-29T16:56:00+00:00
 layout: single
 author_profile: true
 url: 2011/07/29/microsoft-adds-raw-photo-file-support-to-windows/
+shortlink: https://g.omid.dev/1WRIB8f
 tags:
   - Announcement
   - Codec

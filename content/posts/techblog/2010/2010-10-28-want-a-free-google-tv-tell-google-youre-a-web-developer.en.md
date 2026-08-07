@@ -4,6 +4,7 @@ date: 2010-10-28T13:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/28/want-a-free-google-tv-tell-google-youre-a-web-developer/
+shortlink: https://g.omid.dev/24PAm2g
 tags:
   - Google
   - Google TV

@@ -4,6 +4,7 @@ date: 2010-04-03T21:09:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/03/are-you-reading-this-with-internet-explorer-version-6/
+shortlink: https://g.omid.dev/2167k9Y
 tags:
   - advice
   - Browsers

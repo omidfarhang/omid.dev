@@ -4,6 +4,7 @@ date: 2010-12-12T12:07:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/12/lastpass-acquires-xmarks/
+shortlink: https://g.omid.dev/24PzRWb
 tags:
   - Browsers
   - News

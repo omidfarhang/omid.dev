@@ -4,6 +4,7 @@ date: 2010-12-06T20:30:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/06/google-unveils-samsung-nexus-s-with-android-2-3-specifications-price/
+shortlink: https://g.omid.dev/1Tu4sF6
 tags:
   - Android
   - Announcement

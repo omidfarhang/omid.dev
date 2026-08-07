@@ -4,6 +4,7 @@ date: 2010-01-06T14:50:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/06/damn-funny-instant-message-not/
+shortlink: https://g.omid.dev/1WRIsBP
 tags:
   - Phishing
   - scam

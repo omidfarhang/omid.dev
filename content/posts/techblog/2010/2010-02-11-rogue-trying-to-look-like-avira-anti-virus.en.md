@@ -4,6 +4,7 @@ date: 2010-02-11T19:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/11/rogue-trying-to-look-like-avira-anti-virus/
+shortlink: https://g.omid.dev/24PzWJj
 tags:
   - alert
   - Phishing

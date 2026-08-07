@@ -4,6 +4,7 @@ date: 2010-03-23T18:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/23/smart-aleck-passwords/
+shortlink: https://g.omid.dev/1QnM4aK
 tags:
   - advice
   - hack

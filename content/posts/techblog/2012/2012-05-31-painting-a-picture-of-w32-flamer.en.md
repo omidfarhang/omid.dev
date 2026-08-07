@@ -4,6 +4,7 @@ date: 2012-05-31T12:40:00+00:00
 layout: single
 author_profile: true
 url: 2012/05/31/painting-a-picture-of-w32-flamer/
+shortlink: https://g.omid.dev/1RyaGQz
 tags:
   - Flame
   - Malware

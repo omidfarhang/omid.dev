@@ -4,6 +4,7 @@ date: 2010-04-17T21:24:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/17/google-11000-domains-carrying-rogue-security-products/
+shortlink: https://g.omid.dev/1TVqCQB
 tags:
   - Google
   - News

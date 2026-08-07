@@ -4,6 +4,7 @@ date: 2011-03-08T12:18:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/08/adobe-releases-flash-to-html5-converter-codenamed-wallaby/
+shortlink: https://g.omid.dev/1MduIkH
 tags:
   - Adobe
   - Flash

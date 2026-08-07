@@ -4,6 +4,7 @@ date: 2012-07-31T16:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/31/cloud-service-cracks-vpn-passwords-in-24-hours/
+shortlink: https://g.omid.dev/1VLrUuV
 tags:
   - Cloud
   - hack

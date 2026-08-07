@@ -4,6 +4,7 @@ date: 2010-04-09T23:12:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/get-a-custom-colored-ipad-for-a-price-video/
+shortlink: https://g.omid.dev/1Y0DlQW
 tags:
   - Apple
   - colorware

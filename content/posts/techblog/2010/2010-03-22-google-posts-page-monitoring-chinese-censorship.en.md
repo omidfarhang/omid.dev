@@ -4,6 +4,7 @@ date: 2010-03-22T22:57:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/google-posts-page-monitoring-chinese-censorship/
+shortlink: https://g.omid.dev/1SaXwLD
 tags:
   - Google
   - News

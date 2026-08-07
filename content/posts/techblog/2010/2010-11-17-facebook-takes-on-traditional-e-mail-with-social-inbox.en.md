@@ -4,6 +4,7 @@ date: 2010-11-17T21:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/17/facebook-takes-on-traditional-e-mail-with-social-inbox/
+shortlink: https://g.omid.dev/1Y7Hvqj
 tags:
   - Facebook
   - Email

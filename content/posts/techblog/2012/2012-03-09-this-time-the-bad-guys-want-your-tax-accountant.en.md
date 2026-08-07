@@ -4,6 +4,7 @@ date: 2012-03-09T21:21:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/09/this-time-the-bad-guys-want-your-tax-accountant/
+shortlink: https://g.omid.dev/1RCHsjx
 tags:
   - Malware
   - Phishing

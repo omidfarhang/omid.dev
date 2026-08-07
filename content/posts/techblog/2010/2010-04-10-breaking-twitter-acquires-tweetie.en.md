@@ -4,6 +4,7 @@ date: 2010-04-10T11:13:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/10/breaking-twitter-acquires-tweetie/
+shortlink: https://g.omid.dev/25toDa4
 tags:
   - Apple
   - News

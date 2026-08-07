@@ -4,6 +4,7 @@ date: 2012-10-12T11:35:00+00:00
 layout: single
 author_profile: true
 url: 2012/10/12/mozilla-closes-numerous-critical-holes-in-firefox-16-update/
+shortlink: https://g.omid.dev/1RCMsVd
 tags:
   - Firefox
   - Mozilla

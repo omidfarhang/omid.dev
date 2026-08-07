@@ -4,6 +4,7 @@ date: 2010-05-11T15:56:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/foursquare-exceeds-40-million-checkins/
+shortlink: https://g.omid.dev/1MPCktI
 tags:
   - foursquare
   - locations

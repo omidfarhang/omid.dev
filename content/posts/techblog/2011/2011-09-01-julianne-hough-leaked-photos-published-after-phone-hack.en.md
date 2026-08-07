@@ -4,6 +4,7 @@ date: 2011-09-01T09:05:00+00:00
 layout: single
 author_profile: true
 url: 2011/09/01/julianne-hough-leaked-photos-published-after-phone-hack/
+shortlink: https://g.omid.dev/1p6lson
 tags:
   - celeb
   - hack

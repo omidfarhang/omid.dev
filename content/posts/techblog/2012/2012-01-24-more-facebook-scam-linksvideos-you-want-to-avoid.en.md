@@ -4,6 +4,7 @@ date: 2012-01-24T11:17:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/24/more-facebook-scam-linksvideos-you-want-to-avoid/
+shortlink: https://g.omid.dev/1VLwiu3
 tags:
   - alert
   - Facebook

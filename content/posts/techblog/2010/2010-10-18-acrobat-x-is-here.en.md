@@ -4,6 +4,7 @@ date: 2010-10-18T22:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/18/acrobat-x-is-here/
+shortlink: https://g.omid.dev/1R9sMq7
 tags:
   - 3D
   - Adobe

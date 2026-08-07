@@ -4,6 +4,7 @@ date: 2012-08-03T09:29:00+00:00
 layout: single
 author_profile: true
 url: 2012/08/03/google-wallet-now-accepts-multiple-cards/
+shortlink: https://g.omid.dev/1Tm7JWx
 tags:
   - business
   - Google

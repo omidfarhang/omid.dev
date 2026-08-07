@@ -4,6 +4,7 @@ date: 2011-03-20T15:33:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/20/installing-an-application-using-internet-explorer-9/
+shortlink: https://g.omid.dev/1X9eUQc
 tags:
   - compare
   - Google

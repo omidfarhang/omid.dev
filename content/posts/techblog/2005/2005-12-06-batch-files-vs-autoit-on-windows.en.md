@@ -5,6 +5,7 @@ description: When to use classic batch files and when to reach for AutoIt for Wi
 layout: single
 author_profile: true
 url: 2005/12/06/batch-files-vs-autoit-on-windows/
+shortlink: https://g.omid.dev/C2YCTsG
 tags:
   - AutoIt
   - Batch

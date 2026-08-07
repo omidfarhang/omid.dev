@@ -4,6 +4,7 @@ date: 2010-12-07T11:37:00+00:00
 layout: single
 author_profile: true
 url: 2010/12/07/chinese-hackers-slurped-50-mb-of-us-gov-email/
+shortlink: https://g.omid.dev/1Veuifa
 tags:
   - government
   - hack

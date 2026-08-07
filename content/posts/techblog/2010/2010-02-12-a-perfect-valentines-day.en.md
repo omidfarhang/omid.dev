@@ -4,6 +4,7 @@ date: 2010-02-12T17:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/a-perfect-valentines-day/
+shortlink: https://g.omid.dev/21UZUZr
 tags:
   - Phishing
   - scam

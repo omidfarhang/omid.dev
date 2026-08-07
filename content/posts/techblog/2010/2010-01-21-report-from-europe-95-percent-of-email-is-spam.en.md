@@ -4,6 +4,7 @@ date: 2010-01-21T22:40:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/report-from-europe-95-percent-of-email-is-spam/
+shortlink: https://g.omid.dev/212StNE
 tags:
   - report
   - spam

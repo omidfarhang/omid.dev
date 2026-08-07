@@ -4,6 +4,7 @@ date: 2010-04-09T23:49:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/isohunt-goes-lite-for-visitors-from-the-u-s/
+shortlink: https://g.omid.dev/1QRlNqZ
 tags:
   - News
   - Torrent

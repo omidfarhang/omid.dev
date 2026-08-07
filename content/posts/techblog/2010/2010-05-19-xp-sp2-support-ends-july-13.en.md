@@ -4,6 +4,7 @@ date: 2010-05-19T21:14:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/xp-sp2-support-ends-july-13/
+shortlink: https://g.omid.dev/1WTPAxB
 tags:
   - Microsoft
   - Windows

@@ -4,6 +4,7 @@ date: 2011-04-14T07:41:00+00:00
 layout: single
 author_profile: true
 url: 2011/04/14/adobe-plans-flash-player-update-tomorrow/
+shortlink: https://g.omid.dev/1QCyv7B
 tags:
   - Adobe
   - flash player

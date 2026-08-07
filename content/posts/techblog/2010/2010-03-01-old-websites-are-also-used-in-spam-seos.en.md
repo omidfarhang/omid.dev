@@ -4,6 +4,7 @@ date: 2010-03-01T11:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/01/old-websites-are-also-used-in-spam-seos/
+shortlink: https://g.omid.dev/1p6lKve
 tags:
   - hack
   - Phishing

@@ -4,6 +4,7 @@ date: 2012-03-13T13:57:00+00:00
 layout: single
 author_profile: true
 url: 2012/03/13/firefox-11-release-postponed-due-to-security-issues-updated/
+shortlink: https://g.omid.dev/1Vwz0am
 tags:
   - Firefox
   - Mozilla

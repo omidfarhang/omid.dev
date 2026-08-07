@@ -4,6 +4,7 @@ date: 2010-09-29T00:47:00+00:00
 layout: single
 author_profile: true
 url: 2010/09/29/microsoft-kills-live-space-blogs/
+shortlink: https://g.omid.dev/1LOAseZ
 tags:
   - breaking
   - Microsoft

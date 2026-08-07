@@ -4,6 +4,7 @@ date: 2010-04-07T23:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/07/foursquare-cracks-down-on-cheaters/
+shortlink: https://g.omid.dev/1Rk2sJ5
 tags:
   - Foursquare
   - Trending

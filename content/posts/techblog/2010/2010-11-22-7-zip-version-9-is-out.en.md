@@ -4,6 +4,7 @@ date: 2010-11-22T00:29:00+00:00
 layout: single
 author_profile: true
 url: 2010/11/22/7-zip-version-9-is-out/
+shortlink: https://g.omid.dev/1pt0SOH
 tags:
   - software
   - Updates

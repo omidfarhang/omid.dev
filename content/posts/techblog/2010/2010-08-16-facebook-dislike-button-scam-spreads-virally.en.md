@@ -4,6 +4,7 @@ date: 2010-08-16T14:19:00+00:00
 layout: single
 author_profile: true
 url: 2010/08/16/facebook-dislike-button-scam-spreads-virally/
+shortlink: https://g.omid.dev/1Z9gGCv
 tags:
   - Facebook
   - Phishing

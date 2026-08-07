@@ -4,6 +4,7 @@ date: 2012-01-24T11:07:00+00:00
 layout: single
 author_profile: true
 url: 2012/01/24/facebook-scam-see-who-views-your-profile/
+shortlink: https://g.omid.dev/1QWyT68
 tags:
   - alert
   - Facebook

@@ -5,6 +5,7 @@ description: Twitter launched in 2006 with 140-character posts. A first look at 
 layout: single
 author_profile: true
 url: 2006/07/19/twitter-microblogging-and-the-attention-tax/
+shortlink: https://g.omid.dev/kN6al9F
 tags:
   - Twitter
   - Social Media

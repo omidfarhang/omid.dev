@@ -4,6 +4,7 @@ date: 2011-08-04T18:13:00+00:00
 layout: single
 author_profile: true
 url: 2011/08/04/facebook-captcha-fail/
+shortlink: https://g.omid.dev/1UEr3On
 tags:
   - Facebook
   - Fun

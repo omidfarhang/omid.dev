@@ -4,6 +4,7 @@ date: 2010-10-22T21:35:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/22/apple-to-remove-java-from-mac-os-x/
+shortlink: https://g.omid.dev/1RQXiY0
 tags:
   - Apple
   - Java

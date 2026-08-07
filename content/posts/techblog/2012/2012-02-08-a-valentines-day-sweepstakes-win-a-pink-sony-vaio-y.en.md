@@ -4,6 +4,7 @@ date: 2012-02-08T22:56:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/08/a-valentines-day-sweepstakes-win-a-pink-sony-vaio-y/
+shortlink: https://g.omid.dev/1pYpnUe
 tags:
   - Interesting
   - Microsoft

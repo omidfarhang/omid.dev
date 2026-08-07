@@ -4,6 +4,7 @@ date: 2010-05-11T15:58:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/11/international-ipad-pre-orders-are-live/
+shortlink: https://g.omid.dev/1oXtYpm
 tags:
   - Apple
 

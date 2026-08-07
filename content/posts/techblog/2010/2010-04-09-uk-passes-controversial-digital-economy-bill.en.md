@@ -4,6 +4,7 @@ date: 2010-04-09T23:32:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/uk-passes-controversial-digital-economy-bill/
+shortlink: https://g.omid.dev/1L6Ccp1
 tags:
   - News
 

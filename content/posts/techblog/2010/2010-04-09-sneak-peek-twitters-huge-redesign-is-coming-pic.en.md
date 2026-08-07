@@ -4,6 +4,7 @@ date: 2010-04-09T15:18:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/09/sneak-peek-twitters-huge-redesign-is-coming-pic/
+shortlink: https://g.omid.dev/1RrRuS5
 tags:
   - News
   - Social Media

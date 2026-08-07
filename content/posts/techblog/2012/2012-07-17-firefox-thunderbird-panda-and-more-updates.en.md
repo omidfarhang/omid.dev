@@ -4,6 +4,7 @@ date: 2012-07-17T19:10:00+00:00
 layout: single
 author_profile: true
 url: 2012/07/17/firefox-thunderbird-panda-and-more-updates/
+shortlink: https://g.omid.dev/1Y7GVbU
 tags:
   - antivirus
   - Firefox

@@ -4,6 +4,7 @@ date: 2010-10-16T21:39:00+00:00
 layout: single
 author_profile: true
 url: 2010/10/16/bing-will-use-your-facebook-friends-to-personalize-search-results/
+shortlink: https://g.omid.dev/1XTkebe
 tags:
   - Announcement
   - Bing

@@ -4,6 +4,7 @@ date: 2010-03-30T18:04:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/30/improved-chat-for-igoogle-and-orkut/
+shortlink: https://g.omid.dev/1RNt3P7
 tags:
   - Google
   - News

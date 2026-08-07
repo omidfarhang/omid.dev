@@ -4,6 +4,7 @@ date: 2010-03-06T23:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/06/seo-blogger-victim-of-malicious-seo-attack/
+shortlink: https://g.omid.dev/1TVqQaf
 tags:
   - alert
   - Phishing

@@ -4,6 +4,7 @@ date: 2011-03-13T14:24:00+00:00
 layout: single
 author_profile: true
 url: 2011/03/13/twitter-to-developers-enough-with-the-third-party-apps/
+shortlink: https://g.omid.dev/218ZIDM
 tags:
   - News
   - Twitter

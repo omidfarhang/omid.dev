@@ -4,6 +4,7 @@ date: 2010-04-02T22:06:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/02/stumbleupon-app-for-ipad/
+shortlink: https://g.omid.dev/1T9wt4j
 tags:
   - Apple
   - Download

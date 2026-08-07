@@ -4,6 +4,7 @@ date: 2012-02-10T10:43:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/10/linkedin-hits-150-million-members/
+shortlink: https://g.omid.dev/1SBFEoT
 tags:
   - LinkedIn
   - News

@@ -4,6 +4,7 @@ date: 2012-06-23T20:30:00+00:00
 layout: single
 author_profile: true
 url: 2012/06/23/adobe-updates-flash-player-11-3-to-fix-firefox-crashing-problem/
+shortlink: https://g.omid.dev/1XWVj6J
 tags:
   - Adobe
   - Firefox

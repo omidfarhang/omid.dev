@@ -4,6 +4,7 @@ date: 2010-05-03T17:00:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/download-microsoft-visio-2010-viewer/
+shortlink: https://g.omid.dev/1Y7HqCV
 tags:
   - Download
   - Microsoft

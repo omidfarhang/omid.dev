@@ -4,6 +4,7 @@ date: 2010-01-25T00:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/25/desktop-security-2010/
+shortlink: https://g.omid.dev/212UKZ3
 tags:
   - Malware
   - rogue software

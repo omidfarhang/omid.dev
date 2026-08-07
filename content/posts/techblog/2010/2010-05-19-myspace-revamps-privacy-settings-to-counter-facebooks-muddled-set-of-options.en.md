@@ -4,6 +4,7 @@ date: 2010-05-19T14:54:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/19/myspace-revamps-privacy-settings-to-counter-facebooks-muddled-set-of-options/
+shortlink: https://g.omid.dev/1QCytfW
 tags:
   - Facebook
   - MySpace

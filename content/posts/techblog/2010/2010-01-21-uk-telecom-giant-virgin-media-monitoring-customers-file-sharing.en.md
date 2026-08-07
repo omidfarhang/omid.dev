@@ -4,6 +4,7 @@ date: 2010-01-21T22:43:00+00:00
 layout: single
 author_profile: true
 url: 2010/01/21/uk-telecom-giant-virgin-media-monitoring-customers-file-sharing/
+shortlink: https://g.omid.dev/1Y0zD9U
 tags:
   - News
   - report

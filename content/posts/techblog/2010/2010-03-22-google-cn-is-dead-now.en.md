@@ -4,6 +4,7 @@ date: 2010-03-22T22:53:00+00:00
 layout: single
 author_profile: true
 url: 2010/03/22/google-cn-is-dead-now/
+shortlink: https://g.omid.dev/1RNsVit
 tags:
   - Google
   - News

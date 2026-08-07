@@ -4,6 +4,7 @@ date: 2012-02-14T18:38:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/14/browser-speed-tests-chrome-17-firefox-10-internet-explorer-9-and-opera-11-61/
+shortlink: https://g.omid.dev/24PzM4N
 tags:
   - Browsers
   - compare

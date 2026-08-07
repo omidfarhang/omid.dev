@@ -4,6 +4,7 @@ date: 2009-12-29T12:27:00+00:00
 layout: single
 author_profile: true
 url: 2009/12/29/researchers-take-down-mega-d-one-of-top-10-botnets/
+shortlink: https://g.omid.dev/1QtLmsy
 tags:
   - News
   - spam

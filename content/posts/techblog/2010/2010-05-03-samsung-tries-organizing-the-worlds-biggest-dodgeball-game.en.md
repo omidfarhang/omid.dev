@@ -4,6 +4,7 @@ date: 2010-05-03T21:36:00+00:00
 layout: single
 author_profile: true
 url: 2010/05/03/samsung-tries-organizing-the-worlds-biggest-dodgeball-game/
+shortlink: https://g.omid.dev/1Y0h7yw
 tags:
   - Facebook
   - flickr

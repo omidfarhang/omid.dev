@@ -4,6 +4,7 @@ date: 2010-02-12T22:46:00+00:00
 layout: single
 author_profile: true
 url: 2010/02/12/escort-service-infected-with-trojjsredir-ar/
+shortlink: https://g.omid.dev/1Ti6uaY
 tags:
   - alert
   - hack

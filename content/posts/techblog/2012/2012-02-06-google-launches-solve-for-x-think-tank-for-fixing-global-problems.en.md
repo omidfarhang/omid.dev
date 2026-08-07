@@ -4,6 +4,7 @@ date: 2012-02-06T17:01:00+00:00
 layout: single
 author_profile: true
 url: 2012/02/06/google-launches-solve-for-x-think-tank-for-fixing-global-problems/
+shortlink: https://g.omid.dev/1p9CjXg
 tags:
   - Announcement
   - Google

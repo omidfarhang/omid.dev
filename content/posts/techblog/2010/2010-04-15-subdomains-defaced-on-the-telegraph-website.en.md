@@ -4,6 +4,7 @@ date: 2010-04-15T11:33:00+00:00
 layout: single
 author_profile: true
 url: 2010/04/15/subdomains-defaced-on-the-telegraph-website/
+shortlink: https://g.omid.dev/1TVqyjP
 tags:
   - alert
   - hack
