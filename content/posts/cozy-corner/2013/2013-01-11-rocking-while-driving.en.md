@@ -11,12 +11,10 @@ tags:
 categories: 
   - Cozy Corner
 ---
-![music-equalizer-800](/images/2013/01/music-equalizer-800.jpg)
-
 Hey GuysI've been playing some random music from my favorite playlist to spend some time and I found these stuff perfect for rocking while driving! here we go!
 
-{{< youtube yBkjwxoQEh8 >}}
-TAI/Steve Aoki – Beat Down (Original Mix)
+{{< soundcloud "https://soundcloud.com/steveaoki/tai-beat-down-ft-steve-aoki" >}}
+TAI - Beat Down ft. Steve Aoki
 
-{{< youtube A2GSyQBdeEQ >}}
-Porter Robinson – Unison (Knife Party Remix)
+{{< youtube IKZ8wUTBZNo >}}
+Porter Robinson - Unison (Knife Party Remix)
