@@ -13,7 +13,7 @@ categories:
 ---
 Hey GuysI've been playing some random music from my favorite playlist to spend some time and I found these stuff perfect for rocking while driving! here we go!
 
-{{< soundcloud "https://soundcloud.com/steveaoki/tai-beat-down-ft-steve-aoki" >}}
+{{< soundcloud 61504913 >}}
 TAI - Beat Down ft. Steve Aoki
 
 {{< youtube IKZ8wUTBZNo >}}
