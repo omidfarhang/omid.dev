@@ -1,6 +1,7 @@
 ---
 date: 2026-08-08T23:44:00+03:30
 url: notes/178622011772729005/
+relatedPost: /2026/08/10/aur-freeze-supply-chain-attack/
 ---
 For about a week, every AUR check on Manjaro has looked like this:
 
