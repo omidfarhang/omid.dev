@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/08/10/aur-freeze-supply-chain-attack/
 shortlink: https://g.omid.dev/6A7oOph
+x_link: https://x.com/OmidFarhang/status/2086759787711328410
+mastodon_link: https://mastodon.social/@omidfarhang/117070712573310769
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mspuw5q3vk2u
+linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-aur-is-frozen-inside-archs-third-supply-chain-share-7492525989839925248-szm3/
 relatedNote: notes/178622011772729005/
 keywords:
   - AUR freeze
