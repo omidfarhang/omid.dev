@@ -54,11 +54,15 @@
     border-radius: var(--radius);
 }
 
-.post-content .highlighttable {
-    table-layout: fixed;
+.post-content .highlighttable,
+.post-content .highlight .lntable {
+    width: max-content;
+    min-width: 100%;
+    table-layout: auto;
 }
 
-.post-content .highlighttable td:first-child {
+.post-content .highlighttable td:first-child,
+.post-content .highlight .lntable td.lntd:first-child {
     width: 40px;
 }
 
