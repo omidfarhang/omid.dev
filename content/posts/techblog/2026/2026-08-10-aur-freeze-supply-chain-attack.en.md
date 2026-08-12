@@ -39,41 +39,28 @@ This isn't a routine outage. It's the latest, most aggressive escalation in a su
 
 ## Update — August 11
 
-### Good news — the freeze is lifted as of August 11, 2026
+The write freeze is over. On August 11, Leonidas Spyropoulos announced on the `aur-general` mailing list that `aurweb v6.5.0` had been deployed: **SSH/Git push access and package adoption are back** — but not under the old rules.
 
-Yes, big update. The AUR write freeze that started August 1 has been **lifted**. On August 11, Leonidas Spyropoulos announced on the `aur-general` mailing list that `aurweb v6.5.0` had been deployed and that **SSH/Git push access and package adoption are re-enabled** — but with a fundamentally different, more controlled workflow.
+Pushes and adoption no longer mean "claim an orphan and commit immediately." Adopting through the web UI or `ssh aur@aur.archlinux.org adopt <pkgbase>` now files an adoption **request**; a Package Maintainer has to approve it before maintainership transfers. Only one pending request is allowed per package base, and unanswered requests auto-reject after 14 days. Unverified accounts get a warning after 7 days and are removed after 14 — verifying the email address at any point stops that cleanup. New account registration stays closed "for now," so only existing, verified maintainers can push.
 
-### What changed with the restoration
+That is the structural change the community had been asking for. It closes the path the attackers used in all three waves: adopt an orphan, then immediately ship malicious commits.
 
-Pushes and adoption are back, but they no longer work the old "claim and commit immediately" way:
+A few caveats still matter. The announcement restores functionality; it does **not** declare the malware incident resolved. The same August 11 thread includes a report of `storageexplorer-bin` shipping a hidden 43 KB `optimizer` ELF binary — currently inert because of a PKGBUILD quirk, but "a single corrected push would arm it." With the freeze lifted, the backlog of delayed updates will start flowing, so treat freshly updated AUR packages with extra scrutiny: read the PKGBUILD, check who maintains it, verify checksums. The community scanner at `github.com/lenucksi/aur-malware-check` is still the fastest way to cross-check installed packages against known-compromised lists.
 
-- **Adoption now requires review.** Adopting an orphaned package through the web UI or `ssh aur@aur.archlinux.org adopt <pkgbase>` now files an adoption **request** rather than instantly transferring maintainership. A Package Maintainer must approve it.
-- **One pending request per package base.** Requests with no action are auto-rejected after 14 days.
-- **New account verification.** Unverified accounts get a warning after 7 days and are removed after 14 days; verifying the email address at any time stops the cleanup.
-- **Registration still closed "for now."** New account creation remains frozen — only existing, verified maintainers can push.
-
-This is essentially the structural fix the community was asking for: it closes the "adopt an orphan and immediately push malicious commits" path that the attackers used in all three waves.
-
-### Important caveats
-
-- **No official "all-clear."** The announcement restores functionality, but no message declares the malware incident fully resolved. The community is still flagging malicious packages — the same Aug 11 thread contains a report of `storageexplorer-bin` containing a hidden 43 KB `optimizer` ELF binary (currently inert due to a PKGBUILD quirk, but "a single corrected push would arm it").
-- **Audit before you update.** The freeze being lifted means maintainers can now push fixes — but it also means the backlog of pending updates will start flowing. Treat any AUR package updated in the next few days with extra scrutiny: review the PKGBUILD, check the maintainer, verify checksums.
-- **Keep the scanner handy.** The `github.com/lenucksi/aur-malware-check` tool remains the quickest way to cross-check installed packages against known-compromised lists.
-
-So: pushes and adoption are back (with review gates), registration is still closed, and vigilance is still the order of the day.
+Pushes and adoption are back with review gates. Registration is still closed. Vigilance is still required.
 
 ## What Was Frozen (and What Still Worked)
 
-The first thing to clear up: during the lockdown, the AUR was **not down**. It was a write freeze, not an outage.
+During the lockdown, the AUR was **not down** — it was a write freeze, not an outage.
 
-- **Disabled (Aug 1–11):** all `git push` access to AUR packages, the package adoption mechanism (claiming orphaned packages), and new account registration.
+- **Disabled (Aug 1–11):** all `git push` access to AUR packages, the package adoption mechanism, and new account registration.
 - **Still working throughout:** browsing, reading, cloning, and installing existing packages via `yay`, `paru`, or plain `makepkg`.
 
-In practice, every AUR package was frozen at whatever version it was at when the lockdown hit. Existing maintainers couldn't push updates, fix broken builds, or respond to upstream changes. Reading the repository stayed fine; writing was blocked until the August 11 restoration (see [Update — August 11](#update--august-11)). Registration remains closed.
+Every AUR package sat at whatever version it held when the lockdown hit. Maintainers could not push updates, fix broken builds, or track upstream. Reading stayed fine; writing stayed blocked until the August 11 restoration (see [Update — August 11](#update--august-11)). Registration remains closed.
 
 ## A Timeline of the "Atomic Arch" Campaign
 
-The current freeze didn't come out of nowhere. It's the third major response Arch has mounted against a coordinated campaign that researchers at Sonatype dubbed "Atomic Arch" ([SecurityWeek](https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/), [Sonatype](https://www.sonatype.com/blog/atomic-arch-npm-campaign-adds-malicious-dependency)).
+The freeze didn't come out of nowhere. It's the third major response Arch has mounted against a coordinated campaign that researchers at Sonatype dubbed "Atomic Arch" ([SecurityWeek](https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/), [Sonatype](https://www.sonatype.com/blog/atomic-arch-npm-campaign-adds-malicious-dependency)).
 
 **Wave 1 — June 11–12:** Attackers systematically adopted orphaned AUR packages and modified their `PKGBUILD` files to run `npm install atomic-lockfile` during the build, pulling in a malicious npm package alongside a few legitimate ones for cover. That package shipped a bundled Linux ELF binary — a Rust credential stealer — that executed during `makepkg`. Around 1,500+ packages were compromised. Arch froze new account registration, purged the malicious commits, and declared the repository clean by mid-June ([The Hacker News](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html), [Privacy Guides](https://www.privacyguides.org/news/2026/06/12/around-1-500-aur-packages-compromised-with-rootkit-like-malware/)).
 
@@ -87,27 +74,23 @@ The current freeze didn't come out of nowhere. It's the third major response Arc
 
 Also on August 1, Morten Linderud — known as "Foxboron," Arch Linux security team member and AUR maintainer for a decade — announced his resignation ([ETTAYEB](https://ettayeb.fr/en/linux/arch-linux-aur-crise-juillet-2026/)). The timing is hard to separate from the crisis.
 
-**August 11:** Leonidas Spyropoulos announced on `aur-general` that `aurweb v6.5.0` was deployed: SSH/Git pushes and package adoption re-enabled, but adoption now requires Package Maintainer approval rather than instant transfer. New registration stayed closed. See [Update — August 11](#update--august-11).
+**August 11:** Leonidas Spyropoulos announced on `aur-general` that `aurweb v6.5.0` was live — pushes and adoption restored under review gates, registration still closed. Details in [Update — August 11](#update--august-11).
 
 ## How the Attack Actually Works
 
 The mechanism is almost annoyingly simple, and that's what makes it effective.
 
-The AUR lets any registered user "adopt" a package whose maintainer has abandoned it, gaining full commit access to the associated Git repository. Attackers automated this process at scale: they file legitimate adoption requests for orphaned packages, inherit their names and trusted histories, and rewrite the build scripts to execute malicious payloads during installation. The critical execution point is the `makepkg` phase — when you install an AUR package via `yay` or `paru`, the `PKGBUILD` script runs with the privileges required for the build.
+Until August 11, the AUR let any registered user "adopt" a package whose maintainer had abandoned it, gaining full commit access to the associated Git repository. Attackers automated this at scale: claim an orphan, inherit its name and trusted history, then rewrite the build scripts to execute malicious payloads during installation. The critical execution point is the `makepkg` phase — when you install an AUR package via `yay` or `paru`, the `PKGBUILD` script runs with the privileges required for the build.
 
 The compromised packages kept their names, their histories, and the trust that came with them. Only the build instructions changed. The trap sat in the recipe, leaving the package itself looking exactly like the software users meant to install. No exploit, no zero-day, and no sign Arch's own systems were breached. The attackers just read the documentation and used the adoption process as designed ([Melvin Jones Repol](https://www.melvinjonesrepol.com/blog/how-the-aur-become-ground-zero-for-linux-worst-supply-chain-attack-wave)).
 
-Known affected packages in the current wave include `openconnect-sso`, `boringssl-git`, `icloudpd`, `org-cli`, and dozens of others, with at least 89 publicly corroborated names and counting ([Corgea](https://corgea.com/research)).
+Known affected packages in the current wave include `openconnect-sso`, `boringssl-git`, `icloudpd`, `org-cli`, and dozens of others, with at least 89 publicly corroborated names and counting ([Corgea](https://corgea.com/research)). Adoption now requires Package Maintainer approval before maintainership transfers — closing the instant-takeover path — but reviewing `PKGBUILD`s before you build is still non-negotiable.
 
 ## When Did It Come Back?
 
-As of August 9, when this piece was first drafted, the honest answer was **no one knew** — Arch hadn't committed to a timeline. The last official statement before restoration, from August 1, was that the team would "send a follow-up once we're able to." Community traffic on `aur-general` was proposals and speculation; there was **no restoration announcement** yet. The status page at status.archlinux.org still listed AUR as "Operational" (reachable, but not accepting writes), which was misleading if you were waiting for an all-clear.
+When this piece was first drafted on August 9, the honest answer was **no one knew**. Arch hadn't committed to a timeline. The last official word, from August 1, was that the team would "send a follow-up once we're able to." Mailing-list traffic was proposals and speculation; status.archlinux.org still listed AUR as "Operational" because the service was reachable, even though it rejected every write.
 
-That follow-up arrived on **August 11**: Leonidas Spyropoulos announced `aurweb v6.5.0` with reviewed adoption, re-enabled pushes for verified maintainers, and registration still closed. Details are in the [Update — August 11](#update--august-11) section above.
-
-The community had been asking for exactly this kind of structural fix — stricter gates on orphan adoption rather than another open-and-hope cycle. Whether it holds against the next wave remains to be seen, but the "adopt and immediately push malware" path is closed for now.
-
-The most reliable place to watch for further signals is still the [`aur-general` mailing list archives](https://lists.archlinux.org/hyperkitty/list/aur-general@lists.archlinux.org/latest).
+That follow-up landed on **August 11** — see [Update — August 11](#update--august-11). Whether the new gates hold against the next wave remains to be seen, but the most reliable place to watch is still the [`aur-general` mailing list archives](https://lists.archlinux.org/hyperkitty/list/aur-general@lists.archlinux.org/latest).
 
 ## What You Should Do Right Now
 
