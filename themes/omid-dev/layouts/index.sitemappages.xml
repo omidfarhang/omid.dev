@@ -1,13 +1,12 @@
 {{ partial "sitemap/xml-header.html" . }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-{{- with site.Home -}}
-  {{- partial "sitemap/url-entry.html" . -}}
-{{- end -}}
-{{- range where site.RegularPages "Section" "" -}}
-  {{- if not .Params.robotsNoIndex -}}
-    {{- partial "sitemap/url-entry.html" . -}}
-  {{- end -}}
-{{- end -}}
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ "en/sitemap-pages.xml" | absURL }}</loc>
+  </sitemap>
+  <sitemap>
+    <loc>{{ "de/sitemap-pages.xml" | absURL }}</loc>
+  </sitemap>
+  <sitemap>
+    <loc>{{ "fa/sitemap-pages.xml" | absURL }}</loc>
+  </sitemap>
+</sitemapindex>

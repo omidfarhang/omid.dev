@@ -525,6 +525,26 @@ outputFormats:
     baseName: sitemap-posts
     isPlainText: true
     notAlternative: true
+  SitemapPagesLang:
+    mediaType: application/xml
+    baseName: sitemap-pages
+    isPlainText: true
+    notAlternative: true
+  SitemapTagsLang:
+    mediaType: application/xml
+    baseName: sitemap-tags
+    isPlainText: true
+    notAlternative: true
+  SitemapCategoriesLang:
+    mediaType: application/xml
+    baseName: sitemap-categories
+    isPlainText: true
+    notAlternative: true
+  SitemapNotesLang:
+    mediaType: application/xml
+    baseName: sitemap-notes
+    isPlainText: true
+    notAlternative: true
 
 services:
   rss:

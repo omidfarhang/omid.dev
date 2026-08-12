@@ -1,0 +1,13 @@
+{{ partial "sitemap/xml-header.html" . }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{{- with site.Home -}}
+  {{- partial "sitemap/url-entry.html" . -}}
+{{- end -}}
+{{- range where (where site.RegularPages "Section" "") "Lang" site.Language.Lang -}}
+  {{- if not .Params.robotsNoIndex -}}
+    {{- partial "sitemap/url-entry.html" . -}}
+  {{- end -}}
+{{- end -}}
+</urlset>
