@@ -1,7 +1,7 @@
 ---
 title: "The AUR Is Frozen: Inside Arch's Third Supply-Chain Attack Wave"
 date: 2026-08-10T12:00:00+03:30
-description: "Arch Linux has frozen all AUR writes after a third wave of supply-chain attacks. What is blocked, what still works, how the Atomic Arch campaign operates, and what to do on Manjaro and other Arch-derived distros."
+description: "Arch Linux froze all AUR writes after a third supply-chain attack wave, then restored pushes and adoption on August 11 with review gates. Timeline, how Atomic Arch worked, and what to do on Manjaro and other Arch-derived distros."
 layout: single
 author_profile: true
 url: 2026/08/10/aur-freeze-supply-chain-attack/
@@ -33,18 +33,43 @@ seeAlso:
   - /2026/08/03/a-maintainable-command-line-workspace-on-linux/
   - /2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/
 ---
-If you fired up `yay -Syu` over the past week and noticed your AUR packages silently refusing to update, you're not imagining it — and it isn't a bug in your helper. As of August 1, 2026, Arch Linux has disabled **all pushes** to the Arch User Repository, meaning maintainers can no longer publish updates, new versions, or fixes to the community package collection that most of us rely on daily. The AUR is still up and readable, but writes are locked down while the project fights off its **third supply-chain attack** since June.
+If you fired up `yay -Syu` over the past week and noticed your AUR packages silently refusing to update, you're not imagining it — and it isn't a bug in your helper. As of August 1, 2026, Arch Linux disabled **all pushes** to the Arch User Repository, meaning maintainers could no longer publish updates, new versions, or fixes to the community package collection that most of us rely on daily. The AUR stayed up and readable, but writes were locked down while the project fought off its **third supply-chain attack** since June.
 
-This isn't a routine outage. It's the latest, most aggressive escalation in a sustained campaign — nicknamed "Atomic Arch" — that has weaponized the very feature that makes the AUR powerful: the open adoption of orphaned packages. For anyone running Arch, Manjaro, EndeavourOS, CachyOS, or any Arch-derived distro with AUR packages installed, it's worth understanding what happened, why it's still frozen, and what to do while we wait for the all-clear.
+This isn't a routine outage. It's the latest, most aggressive escalation in a sustained campaign — nicknamed "Atomic Arch" — that has weaponized the very feature that makes the AUR powerful: the open adoption of orphaned packages. For anyone running Arch, Manjaro, EndeavourOS, CachyOS, or any Arch-derived distro with AUR packages installed, it's worth understanding what happened, what changed when the freeze lifted, and what to do next.
 
-## What's Actually Frozen (and What Still Works)
+## Update — August 11
 
-The first thing to clear up: the AUR is **not down**. This is a write freeze, not an outage.
+### Good news — the freeze is lifted as of August 11, 2026
 
-- **Disabled:** all `git push` access to AUR packages, the package adoption mechanism (claiming orphaned packages), and new account registration.
-- **Still working:** browsing, reading, cloning, and installing existing packages via `yay`, `paru`, or plain `makepkg`.
+Yes, big update. The AUR write freeze that started August 1 has been **lifted**. On August 11, Leonidas Spyropoulos announced on the `aur-general` mailing list that `aurweb v6.5.0` had been deployed and that **SSH/Git push access and package adoption are re-enabled** — but with a fundamentally different, more controlled workflow.
 
-In practice, that means every AUR package is now frozen at whatever version it was at when the lockdown hit. Existing maintainers can't push updates, fix broken builds, or respond to upstream changes. Reading the repository is fine; writing to it is blocked.
+### What changed with the restoration
+
+Pushes and adoption are back, but they no longer work the old "claim and commit immediately" way:
+
+- **Adoption now requires review.** Adopting an orphaned package through the web UI or `ssh aur@aur.archlinux.org adopt <pkgbase>` now files an adoption **request** rather than instantly transferring maintainership. A Package Maintainer must approve it.
+- **One pending request per package base.** Requests with no action are auto-rejected after 14 days.
+- **New account verification.** Unverified accounts get a warning after 7 days and are removed after 14 days; verifying the email address at any time stops the cleanup.
+- **Registration still closed "for now."** New account creation remains frozen — only existing, verified maintainers can push.
+
+This is essentially the structural fix the community was asking for: it closes the "adopt an orphan and immediately push malicious commits" path that the attackers used in all three waves.
+
+### Important caveats
+
+- **No official "all-clear."** The announcement restores functionality, but no message declares the malware incident fully resolved. The community is still flagging malicious packages — the same Aug 11 thread contains a report of `storageexplorer-bin` containing a hidden 43 KB `optimizer` ELF binary (currently inert due to a PKGBUILD quirk, but "a single corrected push would arm it").
+- **Audit before you update.** The freeze being lifted means maintainers can now push fixes — but it also means the backlog of pending updates will start flowing. Treat any AUR package updated in the next few days with extra scrutiny: review the PKGBUILD, check the maintainer, verify checksums.
+- **Keep the scanner handy.** The `github.com/lenucksi/aur-malware-check` tool remains the quickest way to cross-check installed packages against known-compromised lists.
+
+So: pushes and adoption are back (with review gates), registration is still closed, and vigilance is still the order of the day.
+
+## What Was Frozen (and What Still Worked)
+
+The first thing to clear up: during the lockdown, the AUR was **not down**. It was a write freeze, not an outage.
+
+- **Disabled (Aug 1–11):** all `git push` access to AUR packages, the package adoption mechanism (claiming orphaned packages), and new account registration.
+- **Still working throughout:** browsing, reading, cloning, and installing existing packages via `yay`, `paru`, or plain `makepkg`.
+
+In practice, every AUR package was frozen at whatever version it was at when the lockdown hit. Existing maintainers couldn't push updates, fix broken builds, or respond to upstream changes. Reading the repository stayed fine; writing was blocked until the August 11 restoration (see [Update — August 11](#update--august-11)). Registration remains closed.
 
 ## A Timeline of the "Atomic Arch" Campaign
 
@@ -62,6 +87,8 @@ The current freeze didn't come out of nowhere. It's the third major response Arc
 
 Also on August 1, Morten Linderud — known as "Foxboron," Arch Linux security team member and AUR maintainer for a decade — announced his resignation ([ETTAYEB](https://ettayeb.fr/en/linux/arch-linux-aur-crise-juillet-2026/)). The timing is hard to separate from the crisis.
 
+**August 11:** Leonidas Spyropoulos announced on `aur-general` that `aurweb v6.5.0` was deployed: SSH/Git pushes and package adoption re-enabled, but adoption now requires Package Maintainer approval rather than instant transfer. New registration stayed closed. See [Update — August 11](#update--august-11).
+
 ## How the Attack Actually Works
 
 The mechanism is almost annoyingly simple, and that's what makes it effective.
@@ -72,21 +99,21 @@ The compromised packages kept their names, their histories, and the trust that c
 
 Known affected packages in the current wave include `openconnect-sso`, `boringssl-git`, `icloudpd`, `org-cli`, and dozens of others, with at least 89 publicly corroborated names and counting ([Corgea](https://corgea.com/research)).
 
-## When Will It Be Back Up?
+## When Did It Come Back?
 
-Here's the honest answer: **no one knows, and Arch hasn't committed to a timeline.**
+As of August 9, when this piece was first drafted, the honest answer was **no one knew** — Arch hadn't committed to a timeline. The last official statement before restoration, from August 1, was that the team would "send a follow-up once we're able to." Community traffic on `aur-general` was proposals and speculation; there was **no restoration announcement** yet. The status page at status.archlinux.org still listed AUR as "Operational" (reachable, but not accepting writes), which was misleading if you were waiting for an all-clear.
 
-The last official statement, from August 1, was that the team would "send a follow-up once we're able to." As of August 9, the `aur-general` mailing list traffic is entirely community discussion — proposals to crowdsource security inspections, migrate popular packages to the community repo, and add a status banner to the AUR homepage — but **no restoration announcement**. The status page at status.archlinux.org still lists AUR as "Operational" (because the service is reachable; it just won't accept writes), which is misleading if you're expecting an all-clear.
+That follow-up arrived on **August 11**: Leonidas Spyropoulos announced `aurweb v6.5.0` with reviewed adoption, re-enabled pushes for verified maintainers, and registration still closed. Details are in the [Update — August 11](#update--august-11) section above.
 
-The community expectation, reflected in the discussion threads, is that adoption won't return until the DevOps team implements a more permanent fix — potentially stricter identity checks for adopters, automated behavioral scanning of packages after ownership changes, or cryptographic PKGBUILD signing. None of that is trivial to ship overnight.
+The community had been asking for exactly this kind of structural fix — stricter gates on orphan adoption rather than another open-and-hope cycle. Whether it holds against the next wave remains to be seen, but the "adopt and immediately push malware" path is closed for now.
 
-The most reliable place to watch for the real signal is the [`aur-general` mailing list archives](https://lists.archlinux.org/hyperkitty/list/aur-general@lists.archlinux.org/latest) — when Candau posts a follow-up, that's where it'll land.
+The most reliable place to watch for further signals is still the [`aur-general` mailing list archives](https://lists.archlinux.org/hyperkitty/list/aur-general@lists.archlinux.org/latest).
 
 ## What You Should Do Right Now
 
 **If you're on Manjaro, EndeavourOS, CachyOS, or plain Arch with AUR packages:**
 
-1. **Don't blindly force-update AUR packages.** The freeze is server-side, so looping `yay -Syu` won't unblock anything. Packages are frozen at their current versions, and that's actually safer right now than pulling unknown updates.
+1. **Don't blindly rush the backlog.** Pushes are back, so a flood of delayed AUR updates is likely. Treat packages updated in the next few days with extra scrutiny before you `yay -Syu` everything.
 
 2. **Audit what you installed recently.** Run `pacman -Qm` to list all foreign (non-official-repo) packages on your system. Cross-reference against the affected-package lists circulating on the mailing list and Reddit. Pay special attention to any AUR package that changed maintainers in the last few weeks.
 
@@ -96,7 +123,7 @@ The most reliable place to watch for the real signal is the [`aur-general` maili
 
 5. **If a flagged package was built — especially with `sudo makepkg` — treat the host as fully compromised.** Rotate every credential: browser-stored passwords, SSH private keys (regenerate and replace `authorized_keys` on every reachable system), cloud provider API keys, CI/CD secrets, and crypto wallets. Because the SSH worm may already have pivoted using your stolen keys, coordinate credential rotation across your entire infrastructure, not just the affected workstation. A clean reinstall from trusted media is the safest path for any confirmed compromise ([Cloud Security Alliance](https://labs.cloudsecurityalliance.org/research/csa-research-note-aur-supply-chain-ebpf-rootkit-20260614-csa/)).
 
-6. **Official repos are fine.** `pacman -Syu` for core/extra/multilib packages is completely unaffected — only the AUR is involved. Consider Flatpak or building from upstream sources for software you'd normally pull from the AUR until this resolves.
+6. **Official repos are fine.** `pacman -Syu` for core/extra/multilib packages is completely unaffected — only the AUR is involved. Consider Flatpak or building from upstream sources for anything you don't fully trust yet.
 
 ## The Bigger Picture
 
@@ -104,6 +131,6 @@ This incident exposes the fundamental tension at the heart of the AUR: the open,
 
 The attackers didn't find a vulnerability in Arch. They didn't break `pacman`, compromise the official repositories, or exploit a flaw in `makepkg`. They read the documentation, found the adoption process for orphaned packages, and used it as designed. That's the uncomfortable truth: this wasn't a hack of the system, it was the system working exactly as specified — and being turned against its users.
 
-Whether this crisis finally forces structural changes (PKGBUILD signing, mandatory maintainer verification, automated scanning) or just gets patched over with another round of cleanup remains to be seen. For now, the AUR that many of us built our workflows around is frozen, and the only responsible assumption is that it stays that way until you read otherwise on the official mailing list.
+Whether this crisis finally forces lasting structural change (PKGBUILD signing, mandatory maintainer verification, automated scanning) or just another cleanup-and-hope cycle remains to be seen. The August 11 `aurweb` deployment closed the instant-adopt-and-push path — a real fix, not just another freeze — but registration is still closed, there is still no official all-clear, and the malware reports haven't stopped. For now, the AUR many of us built our workflows around is writable again under stricter rules, and the only responsible assumption is that vigilance stays mandatory until the mailing list says otherwise.
 
 Stay vigilant, audit your systems, and maybe — as the community half-jokingly suggests — get reacquainted with compiling from source like it's the 90s.
