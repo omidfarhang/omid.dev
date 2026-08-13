@@ -1,0 +1,40 @@
+{{- $s := .site -}}
+{{- $kind := .kind -}}
+{{- $pages := slice -}}
+{{- if eq $kind "posts" -}}
+  {{- $pages = where $s.RegularPages "Section" "posts" -}}
+{{- else if eq $kind "pages" -}}
+  {{- with $s.Home -}}
+    {{- $pages = $pages | append . -}}
+  {{- end -}}
+  {{- range where $s.RegularPages "Section" "" -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if eq $kind "notes" -}}
+  {{- $notesSection := $s.Params.notesSection | default "notes" -}}
+  {{- with $s.GetPage "section" $notesSection -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range where $s.RegularPages "Section" $notesSection -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if eq $kind "tags" -}}
+  {{- range $s.Taxonomies.tags -}}
+    {{- with .Page -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if eq $kind "categories" -}}
+  {{- range $s.Taxonomies.categories -}}
+    {{- with .Page -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pages -}}

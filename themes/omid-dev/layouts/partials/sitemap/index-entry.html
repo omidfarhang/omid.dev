@@ -1,0 +1,6 @@
+  <sitemap>
+    <loc>{{ .loc | absURL }}</loc>
+    {{- with partial "sitemap/latest-lastmod.html" .pages -}}
+    <lastmod>{{ .Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    {{- end -}}
+  </sitemap>

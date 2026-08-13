@@ -1,0 +1,7 @@
+{{- $pages := slice -}}
+{{- range hugo.Sites -}}
+  {{- range (partial "sitemap/lang-pages.html" (dict "site" . "kind" $)) -}}
+    {{- $pages = $pages | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pages -}}

@@ -4,11 +4,9 @@
 {{- range $lang := slice "en" "de" "fa" -}}
   {{- range hugo.Sites -}}
     {{- if eq .Language.Lang $lang -}}
-      {{- $hasEntries := partial "sitemap/lang-has-entries.html" (dict "site" . "kind" $kind) -}}
-      {{- if $hasEntries -}}
-  <sitemap>
-    <loc>{{ printf "%s/sitemap-%s.xml" $lang $kind | absURL }}</loc>
-  </sitemap>
+      {{- $pages := partial "sitemap/lang-pages.html" (dict "site" . "kind" $kind) -}}
+      {{- if $pages -}}
+        {{- partial "sitemap/index-entry.html" (dict "loc" (printf "%s/sitemap-%s.xml" $lang $kind) "pages" $pages) -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}

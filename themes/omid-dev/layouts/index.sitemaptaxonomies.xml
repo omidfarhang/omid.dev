@@ -1,9 +1,5 @@
 {{ partial "sitemap/xml-header.html" . }}
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>{{ "sitemap-categories.xml" | absURL }}</loc>
-  </sitemap>
-  <sitemap>
-    <loc>{{ "sitemap-tags.xml" | absURL }}</loc>
-  </sitemap>
+{{- partial "sitemap/index-entry.html" (dict "loc" "sitemap-categories.xml" "pages" (partial "sitemap/all-lang-pages.html" "categories")) -}}
+{{- partial "sitemap/index-entry.html" (dict "loc" "sitemap-tags.xml" "pages" (partial "sitemap/all-lang-pages.html" "tags")) -}}
 </sitemapindex>

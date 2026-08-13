@@ -1,0 +1,11 @@
+{{- $latest := false -}}
+{{- range . -}}
+  {{- if not .Lastmod.IsZero -}}
+    {{- if not $latest -}}
+      {{- $latest = .Lastmod -}}
+    {{- else if .Lastmod.After $latest -}}
+      {{- $latest = .Lastmod -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $latest -}}
