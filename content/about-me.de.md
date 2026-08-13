@@ -1,5 +1,6 @@
 ---
 title: Über mich
+date: 2026-06-12T02:55:22+03:30
 layout: about-me
 
 ---

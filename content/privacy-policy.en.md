@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+date: 2026-06-17T17:57:10+03:30
 layout: page
 description: "How omid.dev handles analytics, the contact form, webmentions, and other privacy-related features."
 author_profile: true

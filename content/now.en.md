@@ -1,5 +1,6 @@
 ---
 title: "Now"
+date: 2026-06-12
 layout: "now"
 url: "/now"
 summary: "What I'm focused on right now."

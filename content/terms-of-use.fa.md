@@ -1,5 +1,6 @@
 ---
 title: شرایط استفاده
+date: 2026-06-17T17:57:10+03:30
 layout: page
 description: "شرایط استفاده از omid.dev، محتوا، فرم تماس و بخش بحث."
 author_profile: true

@@ -1,5 +1,6 @@
 ---
 title: Kontakt
+date: 2026-05-19T01:07:42+03:30
 layout: contact
 
 ---

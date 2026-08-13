@@ -1,5 +1,6 @@
 ---
 title: Terms of Use
+date: 2026-06-17T17:57:10+03:30
 layout: page
 description: "Terms for using omid.dev, its content, contact form, and discussion features."
 author_profile: true

@@ -1,5 +1,6 @@
 ---
 title: "اکنون"
+date: 2026-06-12
 layout: "now"
 url: "/fa/now"
 summary: "تمرکز فعلی من بر چیست."

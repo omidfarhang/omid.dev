@@ -1,5 +1,6 @@
 ---
 title: "Jetzt"
+date: 2026-06-12
 layout: "now"
 url: "/de/now"
 summary: "Womit ich mich gerade beschäftige."

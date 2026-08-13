@@ -1,5 +1,6 @@
 ---
 title: Datenschutzrichtlinie
+date: 2026-06-17T17:57:10+03:30
 layout: page
 description: "Wie omid.dev mit Analytics, dem Kontaktformular, Webmentions und anderen Datenschutzthemen umgeht."
 author_profile: true

@@ -1,5 +1,6 @@
 ---
 title: Nutzungsbedingungen
+date: 2026-06-17T17:57:10+03:30
 layout: page
 description: "Nutzungsbedingungen für omid.dev, Inhalte, Kontaktformular und Diskussionsfunktionen."
 author_profile: true

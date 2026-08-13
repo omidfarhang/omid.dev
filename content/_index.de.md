@@ -1,5 +1,6 @@
 ---
 title: Startseite
+date: 2026-05-19T01:07:42+03:30
 layout: home
 shortlink: https://g.omid.dev/de
 description: "Omid Farhang, Frontend-Architekt und Engineering Lead mit Fokus auf Angular, TypeScript, Nx-Monorepos, Design Systems und skalierbare Webplattformen."

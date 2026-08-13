@@ -1,5 +1,6 @@
 ---
 title: "Uses"
+date: 2026-07-08
 layout: "uses"
 url: "/uses"
 summary: "A list of the hardware, software, and tools I use on a daily basis."

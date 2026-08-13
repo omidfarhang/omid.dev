@@ -1,5 +1,6 @@
 ---
 title: سیاست حریم خصوصی
+date: 2026-06-17T17:57:10+03:30
 layout: page
 description: "نحوه برخورد omid.dev با تحلیل ترافیک، فرم تماس، وب‌منشن‌ها و سایر موضوعات حریم خصوصی."
 author_profile: true
