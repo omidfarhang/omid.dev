@@ -1,12 +1,1 @@
-{{ partial "sitemap/xml-header.html" . }}
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>{{ "en/sitemap-tags.xml" | absURL }}</loc>
-  </sitemap>
-  <sitemap>
-    <loc>{{ "de/sitemap-tags.xml" | absURL }}</loc>
-  </sitemap>
-  <sitemap>
-    <loc>{{ "fa/sitemap-tags.xml" | absURL }}</loc>
-  </sitemap>
-</sitemapindex>
+{{ partial "sitemap/lang-index.html" "tags" }}

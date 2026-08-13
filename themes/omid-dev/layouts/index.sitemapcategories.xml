@@ -1,12 +1,1 @@
-{{ partial "sitemap/xml-header.html" . }}
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>{{ "en/sitemap-categories.xml" | absURL }}</loc>
-  </sitemap>
-  <sitemap>
-    <loc>{{ "de/sitemap-categories.xml" | absURL }}</loc>
-  </sitemap>
-  <sitemap>
-    <loc>{{ "fa/sitemap-categories.xml" | absURL }}</loc>
-  </sitemap>
-</sitemapindex>
+{{ partial "sitemap/lang-index.html" "categories" }}

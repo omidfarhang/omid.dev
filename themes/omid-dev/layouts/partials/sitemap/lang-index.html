@@ -1,0 +1,16 @@
+{{- $kind := . -}}
+{{ partial "sitemap/xml-header.html" . }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- range $lang := slice "en" "de" "fa" -}}
+  {{- range hugo.Sites -}}
+    {{- if eq .Language.Lang $lang -}}
+      {{- $hasEntries := partial "sitemap/lang-has-entries.html" (dict "site" . "kind" $kind) -}}
+      {{- if $hasEntries -}}
+  <sitemap>
+    <loc>{{ printf "%s/sitemap-%s.xml" $lang $kind | absURL }}</loc>
+  </sitemap>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+</sitemapindex>
