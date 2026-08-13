@@ -1,14 +1,6 @@
 {{ partial "sitemap/xml-header.html" . }}
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{{- $taxPages := slice -}}
-{{- range (partial "sitemap/all-lang-pages.html" "categories") -}}
-  {{- $taxPages = $taxPages | append . -}}
+{{- range slice "pages" "posts" "notes" "categories" "tags" -}}
+  {{- partial "sitemap/lang-index.html" . -}}
 {{- end -}}
-{{- range (partial "sitemap/all-lang-pages.html" "tags") -}}
-  {{- $taxPages = $taxPages | append . -}}
-{{- end -}}
-{{- partial "sitemap/index-entry.html" (dict "loc" "sitemap-pages.xml" "pages" (partial "sitemap/all-lang-pages.html" "pages")) -}}
-{{- partial "sitemap/index-entry.html" (dict "loc" "sitemap-posts.xml" "pages" (partial "sitemap/all-lang-pages.html" "posts")) -}}
-{{- partial "sitemap/index-entry.html" (dict "loc" "sitemap-notes.xml" "pages" (partial "sitemap/all-lang-pages.html" "notes")) -}}
-{{- partial "sitemap/index-entry.html" (dict "loc" "sitemap-taxonomies.xml" "pages" $taxPages) -}}
 </sitemapindex>

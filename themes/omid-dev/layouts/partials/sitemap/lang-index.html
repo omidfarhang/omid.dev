@@ -1,6 +1,4 @@
 {{- $kind := . -}}
-{{ partial "sitemap/xml-header.html" . }}
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{- range $lang := slice "en" "de" "fa" -}}
   {{- range hugo.Sites -}}
     {{- if eq .Language.Lang $lang -}}
@@ -11,4 +9,3 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-</sitemapindex>

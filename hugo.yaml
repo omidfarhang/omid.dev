@@ -136,12 +136,6 @@ languages:
         - RSS
         - JSON
         - Sitemap
-        - SitemapPages
-        - SitemapPosts
-        - SitemapNotes
-        - SitemapTaxonomies
-        - SitemapCategories
-        - SitemapTags
   # Persian
   fa:
     title: امید فرهنگ
@@ -483,36 +477,6 @@ outputFormats:
   Sitemap:
     mediaType: application/xml
     baseName: sitemap
-    isPlainText: true
-    notAlternative: true
-  SitemapPages:
-    mediaType: application/xml
-    baseName: sitemap-pages
-    isPlainText: true
-    notAlternative: true
-  SitemapPosts:
-    mediaType: application/xml
-    baseName: sitemap-posts
-    isPlainText: true
-    notAlternative: true
-  SitemapNotes:
-    mediaType: application/xml
-    baseName: sitemap-notes
-    isPlainText: true
-    notAlternative: true
-  SitemapTaxonomies:
-    mediaType: application/xml
-    baseName: sitemap-taxonomies
-    isPlainText: true
-    notAlternative: true
-  SitemapCategories:
-    mediaType: application/xml
-    baseName: sitemap-categories
-    isPlainText: true
-    notAlternative: true
-  SitemapTags:
-    mediaType: application/xml
-    baseName: sitemap-tags
     isPlainText: true
     notAlternative: true
   NotesIndex:
