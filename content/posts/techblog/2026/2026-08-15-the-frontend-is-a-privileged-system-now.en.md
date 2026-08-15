@@ -5,6 +5,7 @@ description: "The browser is untrusted, but the system that builds and delivers 
 layout: single
 author_profile: true
 url: 2026/08/15/the-frontend-is-a-privileged-system-now/
+shortlink: https://g.omid.dev/FSYcJ4s
 keywords:
   - frontend supply chain
   - npm install hooks
