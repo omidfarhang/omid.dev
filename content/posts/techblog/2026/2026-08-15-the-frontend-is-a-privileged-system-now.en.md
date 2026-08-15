@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/08/15/the-frontend-is-a-privileged-system-now/
 shortlink: https://g.omid.dev/FSYcJ4s
+x_link: https://x.com/OmidFarhang/status/2088726759256809499
+mastodon_link: https://mastodon.social/@omidfarhang/117101446557182927
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mt5jo2vews2r
+linkedin_link: https://lnkd.in/p/gYcsHwz6
 keywords:
   - frontend supply chain
   - npm install hooks
