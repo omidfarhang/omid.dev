@@ -20,6 +20,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/08/15/the-frontend-is-a-privileged-system-now/
   - /2026/07/31/modern-auth-patterns-for-angular-frontends/
   - /2026/07/15/csp-and-angular-practical-patterns/
   - /2026/07/22/securing-angular-pwas-in-2026/

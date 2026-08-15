@@ -29,6 +29,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/08/15/the-frontend-is-a-privileged-system-now/
   - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
   - /2026/08/03/a-maintainable-command-line-workspace-on-linux/
   - /2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/

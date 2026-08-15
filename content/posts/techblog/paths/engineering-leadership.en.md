@@ -38,11 +38,13 @@ Follow the [Team Communication](/2024/06/10/conflict-resolution-in-tech-teams-ad
 10. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
 11. **[The Engineer's Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
 12. **[The Zoom-Out: Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/)** — When 15 years of depth meets the tooling you never had time to learn.
+13. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
 
 ## Modernization judgment
 
-13. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
+14. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
 
 ## Related paths
 
+- **[Frontend Architecture](/posts/techblog/paths/frontend-architecture/)** — Composition, delivery authority, and platform boundaries at scale.
 - **[Frontend Quality](/posts/techblog/paths/frontend-quality/)** — Testing strategy and resilience engineering for teams that own quality.

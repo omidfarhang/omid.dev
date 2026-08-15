@@ -22,6 +22,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/08/15/the-frontend-is-a-privileged-system-now/
   - /2026/07/29/why-client-side-frameworks-need-security-updates/
   - /2026/07/22/securing-angular-pwas-in-2026/
   - /2026/07/15/csp-and-angular-practical-patterns/

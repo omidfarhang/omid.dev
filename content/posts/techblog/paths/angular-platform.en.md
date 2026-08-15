@@ -31,34 +31,36 @@ Optional background on framework migrations — the rewrite-not-upgrade lesson, 
 
 ## Security
 
-Client-side frameworks are part of the security boundary — sanitization, request protection, SSR isolation, credentials, and the dependency graph you ship:
+The browser is untrusted. The system that delivers the bundle often is not. Start with the privilege model, then the Angular-specific controls:
 
-9. **[Why Client-Side Frameworks Need Security Updates](/2026/07/29/why-client-side-frameworks-need-security-updates/)** — A general principle, illustrated with three Angular CVEs: SSR leakage, XSRF token exposure, and stored XSS.
-10. **[Modern Auth Patterns for Angular Frontends](/2026/07/31/modern-auth-patterns-for-angular-frontends/)** — Beyond “just add JWT”: OIDC + BFF/cookies, why `localStorage` tokens lose to XSS, interceptors and guards with server-side enforcement.
-11. **[Content Security Policy (CSP) and Angular](/2026/07/15/csp-and-angular-practical-patterns/)** — Report-only to enforce, Angular nonces (`autoCsp` / `ngCspNonce`), reverse-proxy headers, and a scanner for common CSP footguns.
-12. **[Dependency Risk, SBOMs, and Automated Security for Angular](/2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/)** — SBOM + CI gates: `npm audit`, `ng update --dry-run`, Dependabot/Snyk, fail on high severity, Slack/Mastodon notifications.
-13. **[Securing Angular PWAs in 2026](/2026/07/22/securing-angular-pwas-in-2026/)** — HTTPS and SW scope, cache strategies that skip auth data, offline sessions without raising XSS/CSRF risk.
+9. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Install hooks, CI identities, and release credentials make frontend delivery a production trust boundary.
+10. **[Why Client-Side Frameworks Need Security Updates](/2026/07/29/why-client-side-frameworks-need-security-updates/)** — A general principle, illustrated with three Angular CVEs: SSR leakage, XSRF token exposure, and stored XSS.
+11. **[Modern Auth Patterns for Angular Frontends](/2026/07/31/modern-auth-patterns-for-angular-frontends/)** — Beyond “just add JWT”: OIDC + BFF/cookies, why `localStorage` tokens lose to XSS, interceptors and guards with server-side enforcement.
+12. **[Content Security Policy (CSP) and Angular](/2026/07/15/csp-and-angular-practical-patterns/)** — Report-only to enforce, Angular nonces (`autoCsp` / `ngCspNonce`), reverse-proxy headers, and a scanner for common CSP footguns.
+13. **[Dependency Risk, SBOMs, and Automated Security for Angular](/2026/07/18/dependency-risk-sboms-and-automated-security-for-angular/)** — SBOM + CI gates: `npm audit`, `ng update --dry-run`, Dependabot/Snyk, fail on high severity, Slack/Mastodon notifications.
+14. **[Securing Angular PWAs in 2026](/2026/07/22/securing-angular-pwas-in-2026/)** — HTTPS and SW scope, cache strategies that skip auth data, offline sessions without raising XSS/CSRF risk.
 
 ## Foundational reads
 
 These posts are not part of the Modern Angular series but ground the platform work above:
 
-14. **[ViewChild Angular: @ViewChild and @ContentChild](/2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/)** — DOM and component queries — still essential when signals meet the template.
-15. **[Design Patterns in Angular](/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/)** — Reusable patterns for maintainable Angular codebases.
-16. **[Advanced Dependency Injection in Angular](/2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/)** — Tree-shakable providers and injection tokens for large apps.
-17. **[Advanced Angular Change Detection](/2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/)** — Change detection strategies when performance matters.
-18. **[Integrating GraphQL with Angular](/2024/06/01/integrating-graphql-with-angular-a-practical-guide/)** — Practical GraphQL setup in Angular apps.
-19. **[Migrating from REST to GraphQL](/2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressjs-and-angular/)** — Step-by-step backend + frontend migration pair.
+15. **[ViewChild Angular: @ViewChild and @ContentChild](/2024/09/08/unlocking-the-power-of-angulars-viewchild-and-contentchild/)** — DOM and component queries — still essential when signals meet the template.
+16. **[Design Patterns in Angular](/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/)** — Reusable patterns for maintainable Angular codebases.
+17. **[Advanced Dependency Injection in Angular](/2024/06/17/advanced-dependency-injection-techniques-in-angular-tree-shakable-providers-and-injection-tokens/)** — Tree-shakable providers and injection tokens for large apps.
+18. **[Advanced Angular Change Detection](/2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/)** — Change detection strategies when performance matters.
+19. **[Integrating GraphQL with Angular](/2024/06/01/integrating-graphql-with-angular-a-practical-guide/)** — Practical GraphQL setup in Angular apps.
+20. **[Migrating from REST to GraphQL](/2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressjs-and-angular/)** — Step-by-step backend + frontend migration pair.
 
 ## Architecture at scale
 
-20. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — Start the Micro Frontends series, then follow in-post navigation through the working example and comparison posts.
-21. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology context for incremental migration (pairs with the migration posts above).
+21. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — Start the Micro Frontends series, then follow in-post navigation through the working example and comparison posts.
+22. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology context for incremental migration (pairs with the migration posts above).
 
 ## Companion code
 
-22. **[Why I Started Adding Full Source Code to My Blog Posts](/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)** — How runnable companion projects tie posts to repos and live demos on [playground.omid.dev](https://playground.omid.dev/).
+23. **[Why I Started Adding Full Source Code to My Blog Posts](/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)** — How runnable companion projects tie posts to repos and live demos on [playground.omid.dev](https://playground.omid.dev/).
 
 ## Related paths
 
-- **[Frontend Architecture](/posts/techblog/paths/frontend-architecture/)** — Micro Frontends deep dive, schematics, web components, and real-time patterns.
+- **[Frontend Architecture](/posts/techblog/paths/frontend-architecture/)** — Micro Frontends deep dive, schematics, web components, and delivery authority.
+- **[Engineering Leadership](/posts/techblog/paths/engineering-leadership/)** — Architecture judgment, including how privilege accumulates in frontend delivery.

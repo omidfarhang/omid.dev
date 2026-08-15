@@ -35,6 +35,10 @@ Follow the [Micro Frontends](/2024/05/09/micro-frontends-why/) series in order:
 
 10. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
 
+## Delivery and authority
+
+11. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Repositories, install hooks, and release identities are architectural boundaries. The browser is untrusted; the system that delivers the bundle often is not.
+
 ## Related series
 
 - **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).

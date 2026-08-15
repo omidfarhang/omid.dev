@@ -29,12 +29,13 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | Systems & Linux | Infra-curious frontend leads | linux-desktop-lab, DevOps, observability, resilience |
 | Frontend Quality | QA-minded seniors | frontend-testing, chaos-engineering, debugging |
 | AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, bio-dynamics-lab, Health context |
-| Frontend Architecture | Architects at scale | micro-frontends, platform extensibility, real-time |
+| Frontend Architecture | Architects at scale | micro-frontends, platform extensibility, real-time, delivery authority |
 
 ## Angular satellites (not in modern-angular series)
 
 - Six Months with Angular 2 After Years of AngularJS (2017 migration field report; Angular Platform → Migration context)
 - From Laravel and AngularJS to Spring Boot and Angular (2017 full-stack migration field report; Angular Platform → Migration context)
+- The Frontend Is a Privileged System Now (install hooks, CI identities, release credentials; Angular Platform → Security framing; also Engineering Leadership, Frontend Architecture)
 - Why Client-Side Frameworks Need Security Updates (SSR / XSRF / XSS CVEs via Angular case study; Angular Platform → Security)
 - Modern Auth Patterns for Angular Frontends (OIDC/BFF, HttpOnly cookies, interceptors & guards; Angular Platform → Security)
 - Content Security Policy (CSP) and Angular (report-only → enforce, nonces, proxy headers, scanner; Angular Platform → Security)
@@ -52,6 +53,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 - Cost of Consistency (design systems)
 - Startup Execution
 - Zoom-Out
+- The Frontend Is a Privileged System Now
 - Building Resilient Teams
 - Mentorship in Tech
 - Choosing the Right Tech Stack
