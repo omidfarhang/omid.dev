@@ -1,6 +1,7 @@
 ---
 title: "TypeScript 7 Is Here: Fast, Exciting, and Worth Watching"
 date: 2026-07-10T02:03:30+03:30
+lastmod: 2026-07-17T23:35:00+03:30
 description: "TypeScript 7's native port delivers dramatic build-time speedups, but editor plugins, framework tooling, and monorepo workflows are catching up at different speeds. A practical read for teams deciding when to adopt."
 layout: single
 author_profile: true
@@ -72,6 +73,12 @@ VS Code is already one of the clearest real-world beneficiaries of TypeScript 7,
 Monorepo teams using Nx will probably be among the first to appreciate TypeScript 7's speed gains, because editor responsiveness and workspace-wide checks matter so much at scale. Nx also emphasizes [TypeScript support](https://nx.dev/docs/technologies/typescript/introduction) while keeping a wider compatibility range during upgrades, which makes it a natural place to watch during the transition. See Nx's [JavaScript and TypeScript guides](https://nx.dev/docs/technologies/typescript/guides/js-and-ts) for how that fits into day-to-day monorepo work.
 
 Practically, TypeScript 7 feels like a **dual-track release**: adopt it for speed where you can — CLI type-checking, faster feedback loops — but keep older TypeScript in tooling paths until the ecosystem catches up. That pattern shows up repeatedly in [early migration threads](https://www.reddit.com/r/typescript/comments/1ugc6bn/anyone_migrated_to_typescript_70_rc_yet/), and it matches what Microsoft is recommending for Angular today.
+
+## Update — August 15: Nx 23.1 and TypeScript 6
+
+Five days after this post, [Nx 23.1](https://nx.dev/blog/nx-23-1-release) shipped TypeScript 6 support (and Angular 22). The migrations inject `"ignoreDeprecations": "6.0"` for leftover `node10` / `baseUrl` / ES5 settings, bump ESLint to v9 and typescript-eslint to v8, and pin a few tsconfig defaults so jest and ts-node keep loading. That is the dual-track floor this post was waiting for: a workspace that can sit on TypeScript 6 without freezing delivery.
+
+It is also not the TypeScript 7 migration. `ignoreDeprecations` will not exist there. Treat 23.1 as the bridge — run `nx migrate`, read the diff, keep the dual-track plan. A field guide can wait until a large Angular/Nx workspace actually goes through it.
 
 ## A wholesome reading of the moment
 
