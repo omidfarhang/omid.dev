@@ -29,6 +29,10 @@
 {{- end }}
 <meta name="description" content="{{ partial "page_description.html" . }}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
+{{- $fediverseCreator := .Params.fediverse_creator | default site.Params.social.fediverse_creator -}}
+{{- with $fediverseCreator }}
+<meta name="fediverse:creator" content="{{ . }}">
+{{- end }}
 <link rel="canonical" href="{{ partial "page_canonical.html" . }}">
 {{- $googleVerify := or site.Params.analytics.google.SiteVerificationTag (getenv "GOOGLE_SITE_VERIFICATION") -}}
 {{- if $googleVerify }}
