@@ -2,9 +2,13 @@
 {{- if .Params.canonicalURL -}}
   {{- $canonical = trim .Params.canonicalURL " " -}}
 {{- else -}}
-  {{- with try .Paginator -}}
-    {{- if and (eq .Err nil) (gt .Value.PageNumber 1) -}}
-      {{- $canonical = .Value.First.URL | absURL -}}
+  {{- with partial "category_section_hub.html" . -}}
+    {{- $canonical = .Permalink -}}
+  {{- else -}}
+    {{- with try .Paginator -}}
+      {{- if and (eq .Err nil) (gt .Value.PageNumber 1) -}}
+        {{- $canonical = .Value.First.URL | absURL -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

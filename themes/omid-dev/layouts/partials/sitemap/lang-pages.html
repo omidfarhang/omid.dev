@@ -7,6 +7,11 @@
   {{- with $s.Home -}}
     {{- $pages = $pages | append . -}}
   {{- end -}}
+  {{- range partial "posts_section_pages.html" $s -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
   {{- range where $s.RegularPages "Section" "" -}}
     {{- if not .Params.robotsNoIndex -}}
       {{- $pages = $pages | append . -}}
@@ -33,7 +38,9 @@
 {{- else if eq $kind "categories" -}}
   {{- range $s.Taxonomies.categories -}}
     {{- with .Page -}}
-      {{- $pages = $pages | append . -}}
+      {{- if not (partial "category_section_hub.html" .) -}}
+        {{- $pages = $pages | append . -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

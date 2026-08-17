@@ -4,7 +4,7 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {{- range site.Taxonomies.categories -}}
   {{- with .Page -}}
-    {{- if eq .Lang site.Language.Lang -}}
+    {{- if and (eq .Lang site.Language.Lang) (not (partial "category_section_hub.html" .)) -}}
       {{- partial "sitemap/url-entry.html" . -}}
     {{- end -}}
   {{- end -}}

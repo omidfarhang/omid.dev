@@ -1,0 +1,8 @@
+{{- /* Posts section hub for a category term page, when one exists (e.g. Electronics → /posts/electronics/). */ -}}
+{{- $page := . -}}
+{{- $section := "" -}}
+{{- if and (eq $page.Kind "term") (eq $page.Type "categories") -}}
+  {{- $term := $page.Data.Term | default $page.Title -}}
+  {{- $section = site.GetPage (printf "posts/%s" ($term | urlize)) -}}
+{{- end -}}
+{{- return $section -}}

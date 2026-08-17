@@ -5,6 +5,11 @@
 {{- with site.Home -}}
   {{- partial "sitemap/url-entry.html" . -}}
 {{- end -}}
+{{- range partial "posts_section_pages.html" site -}}
+  {{- if not .Params.robotsNoIndex -}}
+    {{- partial "sitemap/url-entry.html" . -}}
+  {{- end -}}
+{{- end -}}
 {{- range where (where site.RegularPages "Section" "") "Lang" site.Language.Lang -}}
   {{- if not .Params.robotsNoIndex -}}
     {{- partial "sitemap/url-entry.html" . -}}

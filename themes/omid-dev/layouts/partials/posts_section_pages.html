@@ -1,0 +1,10 @@
+{{- /* posts root and direct subsection listing pages for the current language site. */ -}}
+{{- $site := . -}}
+{{- $pages := slice -}}
+{{- with $site.GetPage "section" "posts" -}}
+  {{- $pages = $pages | append . -}}
+  {{- range .Sections -}}
+    {{- $pages = $pages | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pages -}}
