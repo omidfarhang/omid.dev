@@ -10,7 +10,6 @@ tags:
   - Engineering Leadership
   - Team Collaboration
   - Workplace Communication
-  - Frontend
   - Career
 categories:
   - TechBlog

@@ -11,7 +11,6 @@ tags:
   - Team Collaboration
   - Workplace Communication
   - Management
-  - Frontend
 categories:
   - TechBlog
 series:
@@ -137,7 +136,7 @@ Review the agreement after 30–60 days. Track unplanned work added after sprint
 
 If someone is already effective at gathering cross-team feedback, formalize the useful part of the work.
 
-The title does not need to be grand. “Frontend UX liaison” or “cross-team feedback owner” is enough. Define the role around intake rather than decision authority:
+The title does not need to be grand. “UX liaison” or “cross-team feedback owner” is enough. Define the role around intake rather than decision authority:
 
 - Gather recurring feedback from product, design, support, and engineering.
 - Record the user or business impact, not only the requested implementation.
