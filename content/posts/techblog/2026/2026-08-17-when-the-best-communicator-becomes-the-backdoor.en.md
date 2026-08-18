@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/08/17/when-the-best-communicator-becomes-the-backdoor/
 shortlink: https://g.omid.dev/narboKZ
+x_link: https://x.com/OmidFarhang/status/2089848939063435657
+mastodon_link: https://mastodon.social/@omidfarhang/117119002030263457
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mtfctsw66c2e
+linkedin_link: https://lnkd.in/p/gn_3C5iY
 tags:
   - Engineering Leadership
   - Team Collaboration
