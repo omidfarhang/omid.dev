@@ -27,22 +27,30 @@ Follow the [Team Communication](/2024/06/10/conflict-resolution-in-tech-teams-ad
 5. **[Effective Communication for Developers](/2024/06/27/bridging-the-gap-between-technical-and-non-technical-teams/)** — Bridging technical and non-technical stakeholders without dumbing down the work.
 6. **[Effective Task Management](/2024/05/31/effective-task-management-in-small-large-and-multi-team-development-environments/)** — Task systems that scale from one team to many.
 
+## Shadow ownership
+
+Follow the [Shadow Ownership](/2026/08/17/when-the-best-communicator-becomes-the-backdoor/) series in order, or use the in-post navigation:
+
+7. **[When the Best Communicator Becomes the Backdoor](/2026/08/17/when-the-best-communicator-becomes-the-backdoor/)** — Diagnose when valuable cross-team influence turns into unofficial ownership.
+8. **[Channel the Scout, Keep the Seat](/2026/08/18/channel-the-scout-keep-the-seat/)** — A lead's playbook for visible intake, bounded commitments, and polish on a budget.
+9. **[Have Influence Without Becoming the Backdoor](/2026/08/19/have-influence-without-becoming-the-backdoor/)** — A senior developer's guide to protecting users without becoming the shadow owner.
+
 ## Team building and judgment
 
-7. **[Building Resilient Teams](/2024/06/06/building-resilient-teams/)** — Practices for teams that recover from setbacks and ship under pressure.
-8. **[Mentorship in Tech](/2024/07/14/mentorship-in-tech-how-to-be-an-effective-mentor-and-mentee/)** — How to mentor and be mentored without performative coaching.
-9. **[Choosing the Right Tech Stack](/2024/06/20/choosing-the-right-tech-stack-for-your-project-a-comprehensive-guide/)** — Framework for architecture decisions that outlive the hype cycle.
+10. **[Building Resilient Teams](/2024/06/06/building-resilient-teams/)** — Practices for teams that recover from setbacks and ship under pressure.
+11. **[Mentorship in Tech](/2024/07/14/mentorship-in-tech-how-to-be-an-effective-mentor-and-mentee/)** — How to mentor and be mentored without performative coaching.
+12. **[Choosing the Right Tech Stack](/2024/06/20/choosing-the-right-tech-stack-for-your-project-a-comprehensive-guide/)** — Framework for architecture decisions that outlive the hype cycle.
 
 ## Essays and architecture judgment
 
-10. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
-11. **[The Engineer's Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
-12. **[The Zoom-Out: Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/)** — When 15 years of depth meets the tooling you never had time to learn.
-13. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
+13. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
+14. **[The Engineer's Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
+15. **[The Zoom-Out: Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/)** — When 15 years of depth meets the tooling you never had time to learn.
+16. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
 
 ## Modernization judgment
 
-14. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
+17. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
 
 ## Related paths
 

@@ -19,13 +19,14 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | team-communication | 3 | Engineering Leadership |
 | observability | 2 | Systems & Linux |
 | hardware-debugging | 2 | Systems & Linux (cross-section Electronics) |
+| shadow-ownership | 3 | Engineering Leadership |
 
 ## Reading paths (manual curation)
 
 | Path | Target audience | Primary clusters |
 |------|-----------------|------------------|
 | Angular Platform | Senior Angular / platform leads | modern-angular, Angular satellites, related series |
-| Engineering Leadership | Tech leads, architects | essential-skills, team-communication, essays, legacy |
+| Engineering Leadership | Tech leads, architects | essential-skills, team-communication, shadow-ownership, essays, legacy |
 | Systems & Linux | Infra-curious frontend leads | linux-desktop-lab, DevOps, observability, resilience |
 | Frontend Quality | QA-minded seniors | frontend-testing, chaos-engineering, debugging |
 | AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, bio-dynamics-lab, Health context |
@@ -57,6 +58,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 - Building Resilient Teams
 - Mentorship in Tech
 - Choosing the Right Tech Stack
+- Shadow Ownership (3-post series: pattern, lead playbook, senior IC playbook)
 
 ## DevOps / infra (Systems path)
 
