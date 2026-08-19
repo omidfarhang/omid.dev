@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/08/19/have-influence-without-becoming-the-backdoor/
 shortlink: https://g.omid.dev/FK3SbYR
+x_link: https://x.com/OmidFarhang/status/2090163803237626098
+mastodon_link: https://mastodon.social/@omidfarhang/117123900180634718
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mthiqtcges2d
+linkedin_link: https://lnkd.in/p/giHtfpFE
 tags:
   - Engineering Leadership
   - Team Collaboration
