@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/08/18/channel-the-scout-keep-the-seat/
 shortlink: https://g.omid.dev/wGhsMF4
+x_link: https://x.com/OmidFarhang/status/2090082983541936621
+mastodon_link: https://mastodon.social/@omidfarhang/117122637541958496
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mtgwsnoy5s2q
+linkedin_link: https://lnkd.in/p/g4SREaY8
 tags:
   - Engineering Leadership
   - Team Collaboration
