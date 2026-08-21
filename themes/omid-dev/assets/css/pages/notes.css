@@ -1,7 +1,9 @@
 /* Notes — compact microblog feed using site panels, avatars, and prose */
 
-.notes-list-content {
+.notes-list-content,
+.note-single {
     max-width: min(var(--main-width), 42rem);
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -306,7 +308,6 @@ a.note-entry-date:hover {
 }
 
 .note-single {
-    max-width: min(var(--main-width), 42rem);
     padding-block: var(--space-7) var(--space-10);
 }
 
