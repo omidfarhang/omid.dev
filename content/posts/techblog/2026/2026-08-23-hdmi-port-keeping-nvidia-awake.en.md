@@ -5,6 +5,7 @@ description: "On an Intel + NVIDIA hybrid laptop, native HDMI can keep the dGPU 
 layout: single
 author_profile: true
 url: 2026/08/23/hdmi-port-keeping-nvidia-awake/
+shortlink: https://g.omid.dev/qEO8Tfu
 keywords:
   - hybrid intel nvidia prime
   - hdmi wired to nvidia laptop
