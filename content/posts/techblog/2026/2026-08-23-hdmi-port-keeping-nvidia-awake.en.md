@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/08/23/hdmi-port-keeping-nvidia-awake/
 shortlink: https://g.omid.dev/qEO8Tfu
+x_link: https://x.com/OmidFarhang/status/2091303648483844361
+mastodon_link: https://mastodon.social/@omidfarhang/117141710669673417
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mtpfucfkks2l
+linkedin_link: https://lnkd.in/p/g5FRthmW
 keywords:
   - hybrid intel nvidia prime
   - hdmi wired to nvidia laptop
