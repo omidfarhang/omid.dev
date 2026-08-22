@@ -34,6 +34,7 @@ series:
 seeAlso:
   - /2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/
   - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
+  - /2026/08/23/hdmi-port-keeping-nvidia-awake/
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
 ---
 

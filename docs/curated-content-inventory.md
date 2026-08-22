@@ -7,7 +7,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | Series ID | Posts | Path(s) |
 |-----------|-------|---------|
 | modern-angular | 6 | Angular Platform |
-| linux-desktop-lab | 3 | Systems & Linux |
+| linux-desktop-lab | 4 | Systems & Linux |
 | frontend-testing | 3 | Frontend Quality |
 | bio-dynamics-lab | 5 (+ teaching) | AI & Data Tools |
 | jupyter-copilot | 4 EN / 3 DE | AI & Data Tools |

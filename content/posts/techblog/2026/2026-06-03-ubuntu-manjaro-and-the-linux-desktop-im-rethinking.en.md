@@ -32,6 +32,7 @@ seeAlso:
   - /2022/12/30/how-to-upgrade-ubuntu-kernel/
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
   - /2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/
+  - /2026/08/23/hdmi-port-keeping-nvidia-awake/
 ---
 
 I have not switched back to Kubuntu yet.
