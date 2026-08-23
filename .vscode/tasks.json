@@ -101,6 +101,26 @@
         "panel": "shared"
       },
       "problemMatcher": []
+    },
+    {
+      "label": "notify search engines",
+      "type": "shell",
+      "command": "python3 scripts/notify-search.py",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "notify search engines (apply)",
+      "type": "shell",
+      "command": "python3 scripts/notify-search.py --apply",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
     }
   ],
   "inputs": [

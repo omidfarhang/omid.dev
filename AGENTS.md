@@ -248,9 +248,16 @@ python3 scripts/note-url.py
 # List posts missing shortlink, or create via YOURLS (g.omid.dev)
 python3 scripts/shortlink.py                  # list missing
 python3 scripts/shortlink.py --apply --missing --limit 20
+
+# After a production deploy: notify IndexNow, WebSub, and Ping-o-Matic
+python3 scripts/notify-search.py              # dry-run (git diff HEAD~1 + homepages)
+python3 scripts/notify-search.py --apply
+python3 scripts/notify-search.py --urls https://omid.dev/2026/08/23/hdmi-port-keeping-nvidia-awake/
 ```
 
 `shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
+
+`notify-search.py` reads the public IndexNow key from `params.indexNow.key` in `hugo.yaml` (override with `INDEXNOW_KEY`). The matching key file is `static/{key}.txt`. Do not use Google's deprecated sitemap ping.
 
 Requires Python 3.
 

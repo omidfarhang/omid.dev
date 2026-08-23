@@ -66,6 +66,7 @@
     {{- with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     {{- range $pages }}
     {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
     <item>

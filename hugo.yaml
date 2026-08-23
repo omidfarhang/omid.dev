@@ -290,6 +290,10 @@ params:
     bing:
       SiteVerificationTag: ''
 
+  # Public IndexNow key (also served from static/{key}.txt). Not a secret.
+  indexNow:
+    key: '94cf5d303c404991b76c5311923a8106'
+
   social:
     twitter: 'omidfarhang'
     fediverse_creator: '@omidfarhang@mastodon.social'
@@ -522,6 +526,14 @@ disableKinds:
   - sitemap
 
 enableRobotsTXT: true
+
+# Explicit lastmod in front matter wins; otherwise date. Do not use :git —
+# a bulk content rewrite would stamp every historic URL with one lastmod.
+frontmatter:
+  lastmod:
+    - lastmod
+    - date
+    - publishDate
 
 # Allow getenv in head.html for search-console verification tags (see params.analytics)
 security:

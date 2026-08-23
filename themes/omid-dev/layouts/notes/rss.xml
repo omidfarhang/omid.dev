@@ -35,6 +35,7 @@
     {{- with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     {{- range $pages }}
     <item>
       <title>{{ partial "note_display_title.html" . }}</title>
