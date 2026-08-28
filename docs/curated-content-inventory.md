@@ -28,7 +28,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | Engineering Leadership | Tech leads, architects | essential-skills, team-communication, shadow-ownership, essays, legacy |
 | Systems & Linux | Infra-curious frontend leads | desktop Linux, DevOps, observability, resilience |
 | Frontend Quality | QA-minded seniors | frontend-testing, chaos-engineering, debugging |
-| AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, bio-dynamics-lab, Health context |
+| AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, research workspace (standalone), bio-dynamics-lab, Health context |
 | Frontend Architecture | Architects at scale | micro-frontends, platform extensibility, real-time, delivery authority |
 
 ## Angular satellites (not in modern-angular series)
@@ -70,6 +70,10 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 
 - Maintainable Command-Line Workspace on Linux (terminal, shell, multiplexer, dotfiles, and SSH overview)
 - Cursor on Manjaro, oh-my-zsh, Docker, K8s, Beyond K8s, networking, shell scripting
+
+## AI & knowledge (standalone, AI & Data Tools path)
+
+- One AI Chat Is Not a Research Workspace (Git + Markdown research inbox; chat is a lens, not the archive)
 
 ## Cross-section
 

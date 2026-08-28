@@ -29,19 +29,25 @@ For day-to-day coding in the editor — splitting work across cloud assistants, 
 
 Pair with the Jupyter series above for the **thinking** side (notebooks, research) and item 4 for **notebook-local LLM** integration. Items 5–6 cover the **IDE execution** side — cloud split first, then hands-on local setup.
 
+## Long-form research
+
+Coding chats and notebook sessions are still conversations. Multi-week research needs a durable workspace the model can read as files:
+
+7. **[One AI Chat Is Not a Research Workspace](/2026/08/29/one-ai-chat-is-not-a-research-workspace/)** — Keep messy, contradictory Markdown in Git; use the chat as a lens on that repo, not as the archive.
+
 ## Interactive projects
 
 Follow the [Bio-Dynamics Lab](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/) series in order:
 
-7. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
-8. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
-9. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
-10. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
-11. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
+8. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
+9. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
+10. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
+11. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
+12. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
 
 ## Teaching companion
 
-12. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
+13. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
 
 ## Health context
 
