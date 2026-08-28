@@ -133,7 +133,6 @@ series:
 | ID | Reading path(s) |
 |----|-----------------|
 | `modern-angular` | Angular Platform |
-| `linux-desktop-lab` | Systems & Linux |
 | `frontend-testing` | Frontend Quality |
 | `chaos-engineering` | Frontend Quality (related: Systems & Linux) |
 | `bio-dynamics-lab` | AI & Data Tools |

@@ -11,9 +11,7 @@ build:
 
 For frontend leads who want to understand the machines their apps run on — desktop Linux, containers, networking, and automation — without becoming full-time SREs.
 
-## Linux Desktop Lab series
-
-Start with the anchor, then follow the lab notes in order (4 posts):
+## Desktop Linux
 
 1. **[Ubuntu, Manjaro, and the Linux Desktop](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/)** — Why I rethought my desktop stack and what I learned comparing distros.
 2. **[Your Desktop Is Fast — Why Does It Still Stutter?](/2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/)** — Building a tiny app to explain desktop stutter on Linux.

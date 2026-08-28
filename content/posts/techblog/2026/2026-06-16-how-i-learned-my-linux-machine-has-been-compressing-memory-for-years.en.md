@@ -25,12 +25,6 @@ tags:
   - Virtual Memory
 categories:
   - TechBlog
-series:
-  id: linux-desktop-lab
-  title: "Linux Desktop Lab"
-  order: 2
-  label: "Memory Compression on Linux"
-  role: part
 seeAlso:
   - /2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/
   - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/

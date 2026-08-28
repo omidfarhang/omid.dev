@@ -27,12 +27,6 @@ tags:
   - PRIME
 categories:
   - TechBlog
-series:
-  id: linux-desktop-lab
-  title: "Linux Desktop Lab"
-  order: 3
-  label: "HDMI, PRIME, and Which GPU Owns the Monitor"
-  role: part
 seeAlso:
   - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
   - /2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/

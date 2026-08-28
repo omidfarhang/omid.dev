@@ -22,16 +22,11 @@ tags:
   - Package Management
 categories:
   - TechBlog
-series:
-  id: linux-desktop-lab
-  title: "Linux Desktop Lab"
-  order: 0
-  label: "Ubuntu, Manjaro, and the Linux Desktop"
-  role: anchor
 seeAlso:
   - /2022/12/30/how-to-upgrade-ubuntu-kernel/
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
   - /2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/
+  - /2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/
   - /2026/08/23/hdmi-port-keeping-nvidia-awake/
 ---
 

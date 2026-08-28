@@ -7,7 +7,6 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 | Series ID | Posts | Path(s) |
 |-----------|-------|---------|
 | modern-angular | 6 | Angular Platform |
-| linux-desktop-lab | 4 | Systems & Linux |
 | frontend-testing | 3 | Frontend Quality |
 | bio-dynamics-lab | 5 (+ teaching) | AI & Data Tools |
 | jupyter-copilot | 4 EN / 3 DE | AI & Data Tools |
@@ -27,7 +26,7 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 |------|-----------------|------------------|
 | Angular Platform | Senior Angular / platform leads | modern-angular, Angular satellites, related series |
 | Engineering Leadership | Tech leads, architects | essential-skills, team-communication, shadow-ownership, essays, legacy |
-| Systems & Linux | Infra-curious frontend leads | linux-desktop-lab, DevOps, observability, resilience |
+| Systems & Linux | Infra-curious frontend leads | desktop Linux, DevOps, observability, resilience |
 | Frontend Quality | QA-minded seniors | frontend-testing, chaos-engineering, debugging |
 | AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, bio-dynamics-lab, Health context |
 | Frontend Architecture | Architects at scale | micro-frontends, platform extensibility, real-time, delivery authority |
@@ -59,6 +58,13 @@ Editorial map for reading paths and series (~120 evergreen posts). Historical ne
 - Mentorship in Tech
 - Choosing the Right Tech Stack
 - Shadow Ownership (3-post series: pattern, lead playbook, senior IC playbook)
+
+## Desktop Linux (standalone, Systems path)
+
+- Ubuntu, Manjaro, and the Linux Desktop I Thought I'd Left Behind
+- Building a Tiny Linux App to Explain Desktop Stutter
+- How I Learned My Linux Machine Has Been Compressing Memory for Years
+- The HDMI Port Was Keeping NVIDIA Awake
 
 ## DevOps / infra (Systems path)
 
