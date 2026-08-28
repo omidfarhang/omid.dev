@@ -8,6 +8,27 @@
     border: 1px solid var(--border);
     border-radius: var(--radius);
     background: var(--surface-raised);
+    interpolate-size: allow-keywords;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .disclosure::details-content {
+        block-size: 0;
+        overflow: clip;
+        transition:
+            block-size var(--duration-normal) var(--ease-out),
+            content-visibility var(--duration-normal) allow-discrete;
+    }
+
+    .disclosure[open]::details-content {
+        block-size: auto;
+    }
+
+    @starting-style {
+        .disclosure[open]::details-content {
+            block-size: 0;
+        }
+    }
 }
 
 .disclosure__summary {
