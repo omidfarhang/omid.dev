@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Bump when publishing changes to this script (used for self-update checks).
+SCRIPT_VERSION="1.0.0"
+SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
+
 VERSIONS=()
 EXPLICIT_VERSIONS=0
 _NVM_REINSTALL_FROM=""
@@ -12,6 +16,7 @@ LATEST_NPM=1
 COREPACK=1
 QUIET=0
 DRY_RUN=0
+SELF_UPDATE=0
 
 usage() {
   cat <<'HELP'
@@ -37,6 +42,7 @@ Options:
   --skip-npm        Reinstall Node only; skip global npm package updates
   --quiet, -q       Minimal output (errors still go to stderr; skips install prompts)
   --dry-run, -n     Show what would run without changing anything
+  --self-update     Download and install the latest update-nvm script from omid.dev
   -h, --help        Show this help
 
 Environment:
@@ -44,6 +50,8 @@ Environment:
   NVM_UPDATE_VERSIONS     Space-separated versions (explicit list; ignored with --lts)
   NVM_REINSTALL_FROM      When installing a missing major non-interactively, copy
                           global npm packages from this major (e.g. 24)
+  UPDATE_NVM_SCRIPT_URL   Override script URL for self-update (default: omid.dev)
+  UPDATE_NVM_SKIP_SELF_CHECK  Set to 1 to skip the newer-script availability check
 HELP
 }
 
@@ -76,6 +84,9 @@ for arg in "$@"; do
     --dry-run|-n)
       DRY_RUN=1
       ;;
+    --self-update)
+      SELF_UPDATE=1
+      ;;
     -h|--help)
       usage
       exit 0
@@ -97,6 +108,96 @@ for arg in "$@"; do
       ;;
   esac
 done
+
+# Exit 0 if equal, 1 if $1 > $2, 2 if $1 < $2
+version_compare() {
+  local IFS=.
+  local -a left=($1) right=($2)
+  local i max=${#left[@]}
+
+  if ((${#right[@]} > max)); then
+    max=${#right[@]}
+  fi
+
+  for ((i = 0; i < max; i++)); do
+    local a=${left[i]:-0}
+    local b=${right[i]:-0}
+
+    if ((10#$a > 10#$b)); then
+      return 1
+    fi
+    if ((10#$a < 10#$b)); then
+      return 2
+    fi
+  done
+
+  return 0
+}
+
+script_version_from() {
+  local source="$1"
+
+  sed -n 's/^SCRIPT_VERSION="\([^"]*\)".*/\1/p' "$source" | head -1
+}
+
+remote_script_version() {
+  if ! command -v curl >/dev/null 2>&1; then
+    return 1
+  fi
+
+  curl -fsSL --connect-timeout 5 --max-time 15 "$SCRIPT_URL" 2>/dev/null \
+    | sed -n 's/^SCRIPT_VERSION="\([^"]*\)".*/\1/p' | head -1
+}
+
+self_update_script() {
+  local remote script_path tmp new_version cmp
+
+  if ! command -v curl >/dev/null 2>&1; then
+    echo "curl is required for self-update." >&2
+    exit 1
+  fi
+
+  remote="$(remote_script_version)" || true
+  if [[ -z "$remote" ]]; then
+    echo "Could not fetch script version from $SCRIPT_URL" >&2
+    exit 1
+  fi
+
+  cmp=2
+  version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
+
+  case "$cmp" in
+    0)
+      echo "update-nvm ${SCRIPT_VERSION} is already up to date."
+      exit 0
+      ;;
+    1)
+      echo "Local update-nvm ${SCRIPT_VERSION} is newer than remote ${remote}."
+      exit 0
+      ;;
+  esac
+
+  script_path="$(readlink -f "${BASH_SOURCE[0]}")"
+  tmp="$(mktemp)"
+  trap 'rm -f "$tmp"' EXIT
+
+  curl -fsSL "$SCRIPT_URL" -o "$tmp"
+  new_version="$(script_version_from "$tmp")"
+  if [[ -z "$new_version" || "$new_version" != "$remote" ]]; then
+    echo "Downloaded script does not look like a valid update-nvm release." >&2
+    exit 1
+  fi
+
+  chmod +x "$tmp"
+  mv -f "$tmp" "$script_path"
+  trap - EXIT
+
+  echo "update-nvm updated to ${new_version}."
+}
+
+if [[ "$SELF_UPDATE" -eq 1 ]]; then
+  self_update_script
+fi
 
 if [[ "$LTS_MODE" -eq 1 && ${#VERSIONS[@]} -eq 0 ]]; then
   VERSIONS=(lts/*)
@@ -132,6 +233,23 @@ log() {
 
 log_warn() {
   echo "$@" >&2
+}
+
+notify_script_update() {
+  local remote cmp
+
+  if [[ "${UPDATE_NVM_SKIP_SELF_CHECK:-0}" == 1 || "$QUIET" -eq 1 || "$DRY_RUN" -eq 1 ]]; then
+    return 0
+  fi
+
+  remote="$(remote_script_version)" || return 0
+  [[ -z "$remote" ]] && return 0
+
+  cmp=2
+  version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
+  if [[ "$cmp" -eq 2 ]]; then
+    log_warn "update-nvm $remote is available (installed: $SCRIPT_VERSION). Run: update-nvm --self-update"
+  fi
 }
 
 run() {
@@ -452,3 +570,5 @@ else
   fi
   log "==> Done."
 fi
+
+notify_script_update

@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Bump when publishing changes to this script (used for self-update checks).
+SCRIPT_VERSION="1.0.0"
+SCRIPT_URL="${UPDATE_CURSOR_SCRIPT_URL:-https://omid.dev/scripts/update-cursor.sh}"
+
 CURSOR_DIR="$HOME/.local/opt/cursor"
 CURSOR_APPIMAGE="$CURSOR_DIR/cursor.AppImage"
 CURSOR_ICON="$CURSOR_DIR/cursor.png"
@@ -10,6 +14,7 @@ CURSOR_BIN="$HOME/.local/bin/cursor"
 API_URL="https://www.cursor.com/api/download?platform=linux-x64&releaseTrack=stable"
 FORCE=0
 UNINSTALL=0
+SELF_UPDATE=0
 
 for arg in "$@"; do
   case "$arg" in
@@ -18,6 +23,9 @@ for arg in "$@"; do
       ;;
     --uninstall|-u)
       UNINSTALL=1
+      ;;
+    --self-update)
+      SELF_UPDATE=1
       ;;
     -h|--help)
       cat <<'HELP'
@@ -29,13 +37,18 @@ Skips download when the installed version is already the same or newer.
 Options:
   --force, -f       Reinstall even when no update is needed
   --uninstall, -u   Remove Cursor, desktop entry, and this script
+  --self-update     Download and install the latest update-cursor script from omid.dev
   -h, --help        Show this help
+
+Environment:
+  UPDATE_CURSOR_SCRIPT_URL        Override script URL for self-update (default: omid.dev)
+  UPDATE_CURSOR_SKIP_SELF_CHECK   Set to 1 to skip the newer-script availability check
 HELP
       exit 0
       ;;
     *)
       echo "Unknown option: $arg" >&2
-      echo "Usage: update-cursor [--force|-f] [--uninstall|-u]" >&2
+      echo "Usage: update-cursor [--force|-f] [--uninstall|-u] [--self-update]" >&2
       exit 1
       ;;
   esac
@@ -77,6 +90,84 @@ version_compare() {
   done
 
   return 0
+}
+
+script_version_from() {
+  local source="$1"
+
+  sed -n 's/^SCRIPT_VERSION="\([^"]*\)".*/\1/p' "$source" | head -1
+}
+
+remote_script_version() {
+  if ! command -v curl >/dev/null 2>&1; then
+    return 1
+  fi
+
+  curl -fsSL --connect-timeout 5 --max-time 15 "$SCRIPT_URL" 2>/dev/null \
+    | sed -n 's/^SCRIPT_VERSION="\([^"]*\)".*/\1/p' | head -1
+}
+
+self_update_script() {
+  local remote script_path tmp new_version cmp
+
+  if ! command -v curl >/dev/null 2>&1; then
+    echo "curl is required for self-update." >&2
+    exit 1
+  fi
+
+  remote="$(remote_script_version)" || true
+  if [[ -z "$remote" ]]; then
+    echo "Could not fetch script version from $SCRIPT_URL" >&2
+    exit 1
+  fi
+
+  cmp=2
+  version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
+
+  case "$cmp" in
+    0)
+      echo "update-cursor ${SCRIPT_VERSION} is already up to date."
+      exit 0
+      ;;
+    1)
+      echo "Local update-cursor ${SCRIPT_VERSION} is newer than remote ${remote}."
+      exit 0
+      ;;
+  esac
+
+  script_path="$(readlink -f "${BASH_SOURCE[0]}")"
+  tmp="$(mktemp)"
+  trap 'rm -f "$tmp"' EXIT
+
+  curl -fsSL "$SCRIPT_URL" -o "$tmp"
+  new_version="$(script_version_from "$tmp")"
+  if [[ -z "$new_version" || "$new_version" != "$remote" ]]; then
+    echo "Downloaded script does not look like a valid update-cursor release." >&2
+    exit 1
+  fi
+
+  chmod +x "$tmp"
+  mv -f "$tmp" "$script_path"
+  trap - EXIT
+
+  echo "update-cursor updated to ${new_version}."
+}
+
+notify_script_update() {
+  local remote cmp
+
+  if [[ "${UPDATE_CURSOR_SKIP_SELF_CHECK:-0}" == 1 ]]; then
+    return 0
+  fi
+
+  remote="$(remote_script_version)" || return 0
+  [[ -z "$remote" ]] && return 0
+
+  cmp=2
+  version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
+  if [[ "$cmp" -eq 2 ]]; then
+    echo "update-cursor $remote is available (installed: $SCRIPT_VERSION). Run: update-cursor --self-update" >&2
+  fi
 }
 
 refresh_desktop_database() {
@@ -131,12 +222,12 @@ install_or_update_cursor() {
     case "$cmp" in
       0)
         echo "Cursor ${INSTALLED_VERSION} is already up to date."
-        exit 0
+        return 0
         ;;
       1)
         echo "Cursor ${INSTALLED_VERSION} is newer than stable ${CURSOR_VERSION}. Skipping update."
         echo "Use update-cursor --force to reinstall anyway."
-        exit 0
+        return 0
         ;;
     esac
   fi
@@ -184,8 +275,11 @@ DESKTOP
   echo "Run it with: cursor"
 }
 
-if [[ "$UNINSTALL" -eq 1 ]]; then
+if [[ "$SELF_UPDATE" -eq 1 ]]; then
+  self_update_script
+elif [[ "$UNINSTALL" -eq 1 ]]; then
   uninstall_cursor
 else
   install_or_update_cursor
+  notify_script_update
 fi
