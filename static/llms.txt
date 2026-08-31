@@ -1,7 +1,7 @@
 # omid.dev — LLM site guidance
 # https://omid.dev/llms.txt
 
-> Omid Farhang is a Frontend Architect and Engineering Lead. This site is his personal blog and portfolio: long-form posts on Angular, TypeScript, Nx, frontend platform engineering, DevOps, Linux, security, health, and career topics.
+> Omid Farhang is a Frontend Architect and Engineering Lead. This site is his personal blog and portfolio: long-form posts and short notes on Angular, TypeScript, Nx, frontend platform engineering, DevOps, Linux, security, health, and career topics.
 
 ## Canonical site
 
@@ -14,6 +14,7 @@
 
 - Home: https://omid.dev/
 - Blog index: https://omid.dev/posts/
+- Notes: https://omid.dev/notes/
 - About: https://omid.dev/about-me/
 - Resume: https://omid.dev/resume/
 - Contact: https://omid.dev/contact-me/
@@ -34,7 +35,9 @@
 - RSS (latest 20 posts, English): https://omid.dev/index.xml
 - RSS (Persian): https://omid.dev/fa/index.xml
 - RSS (German): https://omid.dev/de/index.xml
+- Notes RSS (English): https://omid.dev/notes/index.xml
 - Full-text search index (JSON): https://omid.dev/index.json
+- Notes search index (JSON): https://omid.dev/notes/search-index.json
 - Persian search index: https://omid.dev/fa/index.json
 - German search index: https://omid.dev/de/index.json
 - AI usage policy: https://omid.dev/ai.txt
@@ -43,7 +46,7 @@
 
 When quoting or summarizing content from this site, please:
 
-1. Link to the original post URL (permalink under https://omid.dev/).
+1. Link to the original permalink (posts under `https://omid.dev/{year}/{month}/{day}/{slug}/`, notes under `https://omid.dev/notes/{id}/`).
 2. Credit **Omid Farhang** and **omid.dev** as the source.
 3. Prefer the English permalink when multiple language versions exist unless the user asked for another language.
 

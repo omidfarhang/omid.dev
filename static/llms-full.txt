@@ -13,6 +13,7 @@ Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ ye
 |---------|-----|-------|
 | Home | https://omid.dev/ | Profile, featured posts, topic tags |
 | Posts | https://omid.dev/posts/ | Tech blog archive (~1800+ posts, mostly English) |
+| Notes | https://omid.dev/notes/ | Short-form notes (English-only); separate RSS, search index, and sitemap |
 | TechBlog hub | https://omid.dev/posts/techblog/ | Reading paths, series highlights, chronological archive |
 | Series index | https://omid.dev/series/ | All ordered post series (overview + deep dives) |
 | Reading paths | https://omid.dev/posts/techblog/paths/ | Curated lists: Angular Platform, Engineering Leadership, Systems & Linux, Frontend Quality, AI & Data Tools, Frontend Architecture |
@@ -23,9 +24,9 @@ Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ ye
 | Contact | https://omid.dev/contact-me/ | Contact form |
 | Now | https://omid.dev/now/ | Current focus |
 | Uses | https://omid.dev/uses/ | Tools and setup |
-| Search | https://omid.dev/search/ | Client-side search over index.json |
+| Search | https://omid.dev/search/ | Client-side search; posts use `index.json`, notes use `notes/search-index.json` (scope toggle on page) |
 
-Persian (`/fa/`) and German (`/de/`) mirror key pages; most blog posts are English-only. Paired translations exist for select pages and ~90+ posts.
+Persian (`/fa/`) and German (`/de/`) mirror key pages; most blog posts and all notes are English-only. Paired translations exist for select pages and ~90+ posts.
 
 ## Companion code & live demos
 
@@ -39,17 +40,25 @@ Many technical posts on omid.dev link to runnable companion projects. This is se
 
 Not every post has a full app. Some companions are source-only (Firebase, API servers, native Linux tools, notebooks). Posts that support live demos use a companion shortcode linking to the repo and, when applicable, playground.omid.dev.
 
-## Post URL pattern
+## Hosted scripts
+
+Some posts and notes link to curl-installable shell scripts at `https://omid.dev/scripts/<name>.sh` (e.g. `update-cursor.sh`, `update-nvm.sh`). Source lives in the repo under `static/scripts/`.
+
+## URL patterns
 
 English posts: `https://omid.dev/{year}/{month}/{day}/{slug}/`
+
+Notes: `https://omid.dev/notes/{id}/`
 
 Many posts include a `shortlink` (g.omid.dev) in front matter; the canonical URL for indexing is always the omid.dev permalink.
 
 ## Feeds and indexes
 
-- RSS: https://omid.dev/index.xml (20 most recent items per language home)
-- Search JSON: https://omid.dev/index.json — array of `{title, permalink, summary, tags, categories, date}` for Fuse.js search
-- Sitemap: https://omid.dev/sitemap.xml — multilingual with hreflang alternates
+- Posts RSS: https://omid.dev/index.xml (20 most recent items per language home; notes excluded)
+- Notes RSS: https://omid.dev/notes/index.xml (20 most recent notes)
+- Posts search JSON: https://omid.dev/index.json — `{title, permalink, summary, tags, categories, date}`
+- Notes search JSON: https://omid.dev/notes/search-index.json — `{title, permalink, summary, date, section}`
+- Sitemap index: https://omid.dev/sitemap.xml — per-language sub-sitemaps for pages, posts, notes, categories, and tags (e.g. `/en/sitemap-notes.xml`)
 
 ## Structured data (production pages)
 
