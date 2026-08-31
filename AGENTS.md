@@ -230,6 +230,8 @@ Use existing shortcodes rather than raw HTML when possible.
 
 ## Theme development
 
+Design system reference: [`design.md`](./design.md) (tokens, layers, primitives, do/don’t). CSS remains the source of truth.
+
 - Theme path: `themes/omid-dev/`
 - Layouts: `layouts/` (Go templates)
 - Styles: `assets/css/` (modular CSS, imported via Hugo Pipes)
