@@ -4,8 +4,31 @@
 
 .post-content {
     color: var(--content);
+    font-family: var(--font-body);
     font-size: var(--text-prose-body);
     line-height: var(--leading-prose);
+}
+
+body:lang(fa) .post-content {
+    font-family: var(--font-body-fa);
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+    font-family: var(--font-heading);
+}
+
+body:lang(fa) .post-content h1,
+body:lang(fa) .post-content h2,
+body:lang(fa) .post-content h3,
+body:lang(fa) .post-content h4,
+body:lang(fa) .post-content h5,
+body:lang(fa) .post-content h6 {
+    font-family: var(--font-heading-fa);
 }
 
 .post-content h3,

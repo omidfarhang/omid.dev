@@ -58,9 +58,19 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: var(--font-heading);
     line-height: var(--leading-snug);
     font-weight: var(--font-semibold);
     letter-spacing: var(--tracking-snug);
+}
+
+body:lang(fa) h1,
+body:lang(fa) h2,
+body:lang(fa) h3,
+body:lang(fa) h4,
+body:lang(fa) h5,
+body:lang(fa) h6 {
+    font-family: var(--font-heading-fa);
 }
 
 h1,

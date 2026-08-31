@@ -9,8 +9,12 @@
 
 :root {
     /* Font families */
-    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', sans-serif, Vazirmatn;
-    --font-sans-fa: Vazirmatn, 'Inter', 'Open Sans', sans-serif;
+    --font-sans: IBMPlexSans, ui-sans-serif, system-ui, sans-serif, Vazirmatn;
+    --font-heading: IBMPlexSans, var(--font-sans);
+    --font-body: AtkinsonHyperlegible, ui-sans-serif, system-ui, sans-serif;
+    --font-sans-fa: Vazirmatn, var(--font-sans);
+    --font-heading-fa: Vazirmatn, var(--font-heading);
+    --font-body-fa: Vazirmatn, var(--font-body);
 
     /* Numeric type scale */
     --text-2xs: 0.75rem;       /* 12px */

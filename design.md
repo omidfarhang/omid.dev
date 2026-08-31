@@ -25,7 +25,7 @@ Documented in `layouts/partials/head.html`. Load order matters.
 
 | Layer | Path | Role |
 |-------|------|------|
-| **vendor/** | `assets/css/vendor/` | Fonts (Inter, Vazirmatn), Font Awesome |
+| **vendor/** | `assets/css/vendor/` | Fonts (IBM Plex Sans, Atkinson Hyperlegible, Vazirmatn), Font Awesome |
 | **core/** | `assets/css/core/` | Tokens, reset, brand colors, motion, responsive overrides |
 | **system/** | `assets/css/system/` | Opt-in primitives (btn, card, chip, panel, form, prose, …) |
 | **layout/** | `assets/css/layout/` | Site shell (`.main`, `.page-content`) + layout utilities |
@@ -132,10 +132,12 @@ Source: `assets/css/core/typography.css` (tokens) + `system/typography.css` (uti
 
 | Token | Stack |
 |-------|--------|
-| `--font-sans` | Inter, system UI, Open Sans, **Vazirmatn** (fallback) |
-| `--font-sans-fa` | **Vazirmatn**, Inter, Open Sans |
+| `--font-sans` | **IBM Plex Sans** (`IBMPlexSans`), system UI, **Vazirmatn** (fallback) |
+| `--font-heading` | **IBM Plex Sans** (`IBMPlexSans`) — UI chrome, titles |
+| `--font-body` | **Atkinson Hyperlegible** (`AtkinsonHyperlegible`) — article prose |
+| `--font-sans-fa` / `--font-heading-fa` / `--font-body-fa` | **Vazirmatn** first |
 
-`body:lang(fa)` switches to `--font-sans-fa`. Self-hosted under `static/fonts/` / `vendor/fonts.css` with `font-display: swap`.
+`body:lang(fa)` switches to the `-fa` stacks. Self-hosted under `static/fonts/` / `vendor/fonts.css` with `font-display: swap`. Latin + latin-ext subsets only for LTR type.
 
 ### Scale (selected)
 

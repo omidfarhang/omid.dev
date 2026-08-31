@@ -26,6 +26,14 @@
 .text-compact { font-size: var(--text-compact); }
 .text-micro { font-size: var(--text-micro); }
 
+.font-heading { font-family: var(--font-heading); }
+.font-body { font-family: var(--font-body); }
+.font-sans { font-family: var(--font-sans); }
+
+body:lang(fa) .font-heading { font-family: var(--font-heading-fa); }
+body:lang(fa) .font-body { font-family: var(--font-body-fa); }
+body:lang(fa) .font-sans { font-family: var(--font-sans-fa); }
+
 .font-normal { font-weight: var(--font-normal); }
 .font-medium { font-weight: var(--font-medium); }
 .font-semibold { font-weight: var(--font-semibold); }
