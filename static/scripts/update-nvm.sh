@@ -308,18 +308,39 @@ prompt_reinstall_from() {
 
 build_nvm_install_args() {
   local spec="$1"
+  local prev_installed
 
   NVM_INSTALL_ARGS=(install "$spec")
 
-  if installed_version "$spec"; then
-    run nvm use "$spec" >/dev/null
-    NVM_INSTALL_ARGS+=(--reinstall-packages-from=current)
+  if prev_installed="$(installed_version "$spec")"; then
+    NVM_INSTALL_ARGS+=(--reinstall-packages-from="$prev_installed")
   elif [[ "$EXPLICIT_VERSIONS" -eq 1 ]] && prompt_reinstall_from "$spec"; then
     NVM_INSTALL_ARGS+=(--reinstall-packages-from="$_NVM_REINSTALL_FROM")
   fi
 
   if [[ "$LATEST_NPM" -eq 1 ]]; then
     NVM_INSTALL_ARGS+=(--latest-npm)
+  fi
+}
+
+restore_active_version() {
+  local major
+
+  if [[ "$ORIGINAL_NVM" == "none" || "$ORIGINAL_NVM" == "system" ]]; then
+    if nvm alias default >/dev/null 2>&1; then
+      log "==> Restoring nvm default..."
+      run nvm use default >/dev/null
+    fi
+    return 0
+  fi
+
+  major="$(version_major "$ORIGINAL_NVM")"
+  if installed_version "$major"; then
+    log "==> Restoring Node.js $major..."
+    run nvm use "$major" >/dev/null
+  elif nvm alias default >/dev/null 2>&1; then
+    log "==> Node.js $major not installed; using default"
+    run nvm use default >/dev/null
   fi
 }
 
@@ -395,13 +416,7 @@ for version in "${VERSIONS[@]}"; do
 done
 
 log
-if [[ "$ORIGINAL_NVM" != "none" && "$ORIGINAL_NVM" != "system" ]]; then
-  log "==> Restoring previous nvm selection: $ORIGINAL_NVM"
-  run nvm use "$ORIGINAL_NVM" >/dev/null
-elif nvm alias default >/dev/null 2>&1; then
-  log "==> Restoring nvm default..."
-  run nvm use default >/dev/null
-fi
+restore_active_version
 
 if [[ "$QUIET" -eq 1 ]]; then
   summary=""
