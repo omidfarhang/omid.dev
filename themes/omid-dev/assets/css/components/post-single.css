@@ -624,14 +624,16 @@ img.in-text {
     font-size: var(--text-prose-h3-lg);
 }
 
-/* Article blockquotes — polish only; base blockquotes from system/prose.css */
+/* Article blockquotes — typographic polish only; base from system/prose.css */
 .article-body .post-content blockquote {
-    padding: 1.2rem var(--space-5);
-    color: var(--content);
-    background: var(--surface-raised);
-    border: 1px solid var(--accent-border-soft);
-    border-inline-start: 4px solid var(--accent);
-    border-radius: var(--radius-lg);
+    margin: var(--space-7) 0;
+    padding: var(--space-6) var(--space-7);
+    color: var(--secondary);
+}
+
+.article-body .post-content blockquote::before,
+.article-body .post-content blockquote::after {
+    font-size: var(--text-5xl);
 }
 
 .article-body .post-content .card--companion {

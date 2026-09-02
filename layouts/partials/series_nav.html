@@ -76,7 +76,7 @@
   {{- end -}}
 {{- end -}}
 
-<aside class="card card--accent series-nav series-nav--footer series-nav-card" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
+<aside class="series-nav series-nav--footer series-nav-card" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
   <div class="series-nav-card__header">
     <span class="section-kicker series-nav-card__eyebrow">{{ i18n "series_eyebrow" }}</span>
     <strong class="series-nav-card__title">{{ $seriesTitle }}</strong>
@@ -106,31 +106,43 @@
   {{- if $anchor -}}
   <div class="series-nav__group">
     <p class="series-nav__group-label">{{ i18n "series_group_overview" }}</p>
-    <ul class="series-nav__list">
+    <ul class="series-nav__list series-nav__list--overview">
       <li class="series-nav__item{{ if eq $anchor $page }} series-nav__item--current{{ end }}">
         {{- if eq $anchor $page -}}
-        <span class="series-nav__current">
-          <strong>{{ $anchor.Params.series.label | default $anchor.Title }}</strong>
+        <span class="series-nav__row" aria-current="page">
+          <span class="series-nav__index" aria-hidden="true">01</span>
+          <span class="series-nav__label">{{ $anchor.Params.series.label | default $anchor.Title }}</span>
           <span class="series-nav__here">{{ i18n "series_you_are_here" }}</span>
         </span>
         {{- else -}}
-        <a href="{{ $anchor.RelPermalink }}">{{ $anchor.Params.series.label | default $anchor.Title }}</a>
+        <a class="series-nav__row" href="{{ $anchor.RelPermalink }}">
+          <span class="series-nav__index" aria-hidden="true">01</span>
+          <span class="series-nav__label">{{ $anchor.Params.series.label | default $anchor.Title }}</span>
+          <i class="fa-solid fa-arrow-right series-nav__chevron" aria-hidden="true"></i>
+        </a>
         {{- end -}}
       </li>
     </ul>
   </div>
   <div class="series-nav__group">
     <p class="series-nav__group-label">{{ i18n "series_group_deep_dives" (dict "Count" $partCount) }}</p>
-    <ol class="series-nav__list">
-      {{- range $parts -}}
-      <li class="series-nav__item{{ if eq . $page }} series-nav__item--current{{ end }}">
-        {{- if eq . $page -}}
-        <span class="series-nav__current">
-          <strong>{{ .Params.series.label | default .Title }}</strong>
+    <ol class="series-nav__list" start="2">
+      {{- range $i, $p := $parts -}}
+      {{- $num := add $i 2 -}}
+      {{- $numLabel := printf "%02d" $num -}}
+      <li class="series-nav__item{{ if eq $p $page }} series-nav__item--current{{ end }}">
+        {{- if eq $p $page -}}
+        <span class="series-nav__row" aria-current="page">
+          <span class="series-nav__index" aria-hidden="true">{{ $numLabel }}</span>
+          <span class="series-nav__label">{{ $p.Params.series.label | default $p.Title }}</span>
           <span class="series-nav__here">{{ i18n "series_you_are_here" }}</span>
         </span>
         {{- else -}}
-        <a href="{{ .RelPermalink }}">{{ .Params.series.label | default .Title }}</a>
+        <a class="series-nav__row" href="{{ $p.RelPermalink }}">
+          <span class="series-nav__index" aria-hidden="true">{{ $numLabel }}</span>
+          <span class="series-nav__label">{{ $p.Params.series.label | default $p.Title }}</span>
+          <i class="fa-solid fa-arrow-right series-nav__chevron" aria-hidden="true"></i>
+        </a>
         {{- end -}}
       </li>
       {{- end -}}
@@ -138,28 +150,45 @@
   </div>
   {{- else -}}
   <ol class="series-nav__list">
-    {{- range $seriesPages -}}
-    <li class="series-nav__item{{ if eq . $page }} series-nav__item--current{{ end }}">
-      {{- if eq . $page -}}
-      <span class="series-nav__current">
-        <strong>{{ .Params.series.label | default .Title }}</strong>
+    {{- range $i, $p := $seriesPages -}}
+    {{- $num := add $i 1 -}}
+    {{- $numLabel := printf "%02d" $num -}}
+    <li class="series-nav__item{{ if eq $p $page }} series-nav__item--current{{ end }}">
+      {{- if eq $p $page -}}
+      <span class="series-nav__row" aria-current="page">
+        <span class="series-nav__index" aria-hidden="true">{{ $numLabel }}</span>
+        <span class="series-nav__label">{{ $p.Params.series.label | default $p.Title }}</span>
         <span class="series-nav__here">{{ i18n "series_you_are_here" }}</span>
       </span>
       {{- else -}}
-      <a href="{{ .RelPermalink }}">{{ .Params.series.label | default .Title }}</a>
+      <a class="series-nav__row" href="{{ $p.RelPermalink }}">
+        <span class="series-nav__index" aria-hidden="true">{{ $numLabel }}</span>
+        <span class="series-nav__label">{{ $p.Params.series.label | default $p.Title }}</span>
+        <i class="fa-solid fa-arrow-right series-nav__chevron" aria-hidden="true"></i>
+      </a>
       {{- end -}}
     </li>
     {{- end -}}
   </ol>
   {{- end -}}
-  {{- if and $prevPage $nextPage -}}
-  <nav class="series-nav__linear series-nav__linear--compact paginav">
-    <a class="prev" href="{{ $prevPage.RelPermalink }}">
-      <span class="title">« {{ i18n "series_read_prev" }}</span>
+  {{- if or $prevPage $nextPage -}}
+  <nav class="series-nav__linear series-nav__linear--compact" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
+    {{- with $prevPage -}}
+    <a class="series-nav__step series-nav__step--prev" href="{{ .RelPermalink }}">
+      <span class="series-nav__step-dir">« {{ i18n "series_read_prev" }}</span>
+      <span class="series-nav__step-title">{{ .Params.series.label | default .Title }}</span>
     </a>
-    <a class="next" href="{{ $nextPage.RelPermalink }}">
-      <span class="title">{{ i18n "series_read_next" }} »</span>
+    {{- else -}}
+    <span class="series-nav__step series-nav__step--empty" aria-hidden="true"></span>
+    {{- end -}}
+    {{- with $nextPage -}}
+    <a class="series-nav__step series-nav__step--next" href="{{ .RelPermalink }}">
+      <span class="series-nav__step-dir">{{ i18n "series_read_next" }} »</span>
+      <span class="series-nav__step-title">{{ .Params.series.label | default .Title }}</span>
     </a>
+    {{- else -}}
+    <span class="series-nav__step series-nav__step--empty" aria-hidden="true"></span>
+    {{- end -}}
   </nav>
   {{- end -}}
   {{- end -}}

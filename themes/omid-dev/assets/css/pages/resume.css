@@ -200,8 +200,18 @@
     color: var(--content) !important;
     max-width: 900px;
     position: relative;
-    padding-inline-start: var(--space-8);
-    border-inline-start: 4px solid var(--quaternary);
+    padding-top: var(--space-4);
+}
+
+.summary-text::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    inset-inline-start: 0;
+    width: 42px;
+    height: 3px;
+    background: var(--accent);
+    border-radius: 10px;
 }
 
 .resume-section-content {

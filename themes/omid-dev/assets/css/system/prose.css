@@ -177,16 +177,51 @@ body:lang(fa) .post-content h6 {
     word-break: break-all;
 }
 
-/* Blockquotes — base; article polish in post-single.css */
+/* Blockquotes — editorial voice; article polish in post-single.css */
 .post-content blockquote {
+    position: relative;
+    margin: var(--space-6) 0;
+    padding: var(--space-5) var(--space-6);
+    color: var(--secondary);
     font-style: italic;
-    margin: var(--space-5) 0;
-    padding: var(--space-4) var(--space-4);
-    color: var(--content);
-    border-inline-start: 4px solid var(--accent);
-    background: var(--surface-raised);
-    border-radius: 0 var(--radius) var(--radius) 0;
-    box-shadow: var(--shadow-sm);
+    background: color-mix(in srgb, var(--surface-raised) 70%, transparent);
+    border: 0;
+    border-block: 1px solid var(--accent-border-soft);
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.post-content blockquote::before,
+.post-content blockquote::after {
+    position: absolute;
+    color: color-mix(in srgb, var(--accent) 45%, var(--secondary) 55%);
+    font-family: var(--font-heading);
+    font-size: var(--text-4xl);
+    font-style: normal;
+    font-weight: var(--font-bold);
+    line-height: 1;
+    pointer-events: none;
+    user-select: none;
+}
+
+.post-content blockquote::before {
+    content: "\201C";
+    inset-inline-start: var(--space-2);
+    top: var(--space-2);
+}
+
+.post-content blockquote::after {
+    content: "\201D";
+    inset-inline-end: var(--space-2);
+    bottom: var(--space-1);
+}
+
+[dir="rtl"] .post-content blockquote::before {
+    content: "\201D";
+}
+
+[dir="rtl"] .post-content blockquote::after {
+    content: "\201C";
 }
 
 .post-content hr {

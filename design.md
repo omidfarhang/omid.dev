@@ -321,6 +321,7 @@ Page CSS (`home`, `about-me`, `resume`, `contact`, `notes`, `reading-path`, …)
 - Introduce a second accent family (e.g. purple system) or warm-cream editorial skin.
 - Put page-only one-offs into `system/` without a variant API and multi-template use.
 - Rely on physical `left`/`right` when logical properties work (breaks RTL).
+- Use thick accent left borders as generic callout chrome — companion cards lean on icon + tinted surface, series nav uses a short section underline, blockquotes use typographic quote marks.
 - Commit `public/` or `resources/`.
 
 ---
