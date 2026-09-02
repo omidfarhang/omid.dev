@@ -127,11 +127,7 @@
                 {{ end }}
               </ul>
               {{ if .skills }}
-              <div class="chip-group experience-technologies">
-                {{ range .skills }}
-                <span class="chip chip--default">{{ . }}</span>
-                {{ end }}
-              </div>
+              {{ partial "resume_experience_skills.html" .skills }}
               {{ end }}
             </div>
             {{ end }}

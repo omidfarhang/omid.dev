@@ -89,6 +89,7 @@
 
 {{- $fonts := (resources.Get "css/vendor/fonts.css") }}
 {{- $fontawesome := (resources.Get "css/vendor/fontawesome.css") }}
+{{- $stack_icons := (resources.Get "css/vendor/stack-icons.css") }}
 {{- $theme_vars := (resources.Get "css/core/theme-vars.css") }}
 {{- $typography := (resources.Get "css/core/typography.css") }}
 {{- $spacing := (resources.Get "css/core/spacing.css") }}
@@ -108,7 +109,7 @@
 {{- $chroma_mod := (resources.Get "css/includes/chroma-mod.css") }}
 
 {{- /* order is important */}}
-{{- $core := (slice $fonts $fontawesome $theme_vars $typography $spacing $motion $brand_colors $reset $system $layout $components $chroma_styles $chroma_mod $includes_all $media) | resources.Concat "assets/css/core.css" | resources.Minify }}
+{{- $core := (slice $fonts $fontawesome $stack_icons $theme_vars $typography $spacing $motion $brand_colors $reset $system $layout $components $chroma_styles $chroma_mod $includes_all $media) | resources.Concat "assets/css/core.css" | resources.Minify }}
 {{- $pages := (resources.Match "css/pages/*.css") | resources.Concat "assets/css/pages.css" | resources.Minify }}
 
 {{- /* bundle all required css */}}

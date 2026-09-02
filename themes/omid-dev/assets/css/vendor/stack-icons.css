@@ -1,0 +1,49 @@
+/* Resume tech-stack icon font. Rebuild: python3 scripts/build-stack-icons.py */
+
+@font-face {
+    font-family: StackIcons;
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("/fonts/stack-icons.woff2") format("woff2");
+    unicode-range: U+E001-E0FF;
+}
+
+.stack-icon {
+    font-family: StackIcons;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    display: inline-block;
+    line-height: 1;
+    speak: never;
+    text-transform: none;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.stack-icon--angular::before { content: "\e001"; }
+.stack-icon--angularjs::before { content: "\e002"; }
+.stack-icon--azuredevops::before { content: "\e003"; }
+.stack-icon--css::before { content: "\e004"; }
+.stack-icon--docker::before { content: "\e005"; }
+.stack-icon--ffmpeg::before { content: "\e006"; }
+.stack-icon--gradle::before { content: "\e007"; }
+.stack-icon--grpc::before { content: "\e008"; }
+.stack-icon--java::before { content: "\e009"; }
+.stack-icon--laravel::before { content: "\e00a"; }
+.stack-icon--linux::before { content: "\e00b"; }
+.stack-icon--mariadb::before { content: "\e00c"; }
+.stack-icon--mysql::before { content: "\e00d"; }
+.stack-icon--nginx::before { content: "\e00e"; }
+.stack-icon--nx::before { content: "\e00f"; }
+.stack-icon--php::before { content: "\e010"; }
+.stack-icon--playwright::before { content: "\e011"; }
+.stack-icon--rxjs::before { content: "\e012"; }
+.stack-icon--springboot::before { content: "\e013"; }
+.stack-icon--storybook::before { content: "\e014"; }
+.stack-icon--typescript::before { content: "\e015"; }
+.stack-icon--ubuntu::before { content: "\e016"; }
+.stack-icon--vitest::before { content: "\e017"; }
+.stack-icon--windows::before { content: "\e018"; }

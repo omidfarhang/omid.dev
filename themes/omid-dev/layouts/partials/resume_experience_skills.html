@@ -1,0 +1,67 @@
+{{- /*
+  Split job skills into role labels (text) and tech stack (icons).
+  Print layout keeps the original comma-separated `.skills` list.
+  Icons come from the Stack Icons webfont (scripts/build-stack-icons.py).
+  Skills not in this map render as labels.
+*/ -}}
+{{- $skills := . -}}
+{{- $icons := dict
+  "Angular" "angular"
+  "AngularJS" "angularjs"
+  "TFS" "azuredevops"
+  "CSS" "css"
+  "Docker" "docker"
+  "FFmpeg" "ffmpeg"
+  "Gradle" "gradle"
+  "gRPC" "grpc"
+  "Java" "java"
+  "Laravel" "laravel"
+  "Linux" "linux"
+  "MariaDB" "mariadb"
+  "MySQL" "mysql"
+  "Nginx" "nginx"
+  "Nx" "nx"
+  "PHP" "php"
+  "Playwright" "playwright"
+  "RxJS" "rxjs"
+  "Spring Boot" "springboot"
+  "Storybook" "storybook"
+  "TypeScript" "typescript"
+  "Ubuntu" "ubuntu"
+  "Vitest" "vitest"
+  "Windows Server" "windows"
+-}}
+{{- $highlights := slice -}}
+{{- $stack := slice -}}
+{{- range $skills -}}
+  {{- if index $icons . -}}
+    {{- $stack = $stack | append . -}}
+  {{- else -}}
+    {{- $highlights = $highlights | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if or $highlights $stack -}}
+<div class="experience-meta">
+  {{- if $highlights -}}
+  <p class="experience-highlights">
+    {{- range $i, $label := $highlights -}}
+      {{- if $i -}}<span class="experience-highlights__sep" aria-hidden="true">·</span>{{- end -}}
+      <span class="experience-highlight">{{ $label }}</span>
+    {{- end -}}
+  </p>
+  {{- end -}}
+  {{- if $stack -}}
+  <ul class="experience-stack">
+    {{- range $stack -}}
+    {{- $name := . -}}
+    <li>
+      <span class="experience-stack__icon" data-tooltip="{{ $name }}">
+        <span class="screen-reader-text">{{ $name }}</span>
+        <i class="stack-icon stack-icon--{{ index $icons $name }}" aria-hidden="true"></i>
+      </span>
+    </li>
+    {{- end -}}
+  </ul>
+  {{- end -}}
+</div>
+{{- end -}}
