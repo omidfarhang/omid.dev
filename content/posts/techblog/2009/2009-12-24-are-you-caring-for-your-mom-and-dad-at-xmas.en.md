@@ -19,25 +19,25 @@ For those of you that are having to put up with looking after your parents over 
 But be careful that your own children don’t read this.
 
 > **Free Help Finding Senior Care for Mom or Dad**
-
+>
 > Do you have an aging parent or loved one? Do you sometimes worry about their living situation? Finding the right elder care option for your loved one can be an overwhelming and difficult process.
-
-> Fortunately, there is a simple way to find an elder care solution for your loved one! A <business name=""> is a **_FREE_** elder care referral service assisting families in finding resources of every kind.</business> 
-
+>
+> Fortunately, there is a simple way to find an elder care solution for your loved one! A [redacted] is a **_FREE_** elder care referral service assisting families in finding resources of every kind.
+>
 > We can **quickly** help you find the following options:
-
->   * Assisted Living Communities 
->   * Nursing Homes
->   * Retirement Communities
->   * Alzheimer’s Care Communities
->   * Residential Care Homes
->   * Home Care Services
->   * Other Elder Care Services
-
-> Beginning your search with <business name=""> is **easy** – click here to get started now!</business> 
-
+>
+> - Assisted Living Communities
+> - Nursing Homes
+> - Retirement Communities
+> - Alzheimer’s Care Communities
+> - Residential Care Homes
+> - Home Care Services
+> - Other Elder Care Services
+>
+> Beginning your search with [redacted] is **easy** – click here to get started now!
+>
 > Warm regards,
+>
+> [redacted]
 
-> <business name=""></business>
-
-Technically this may be a legitimate emailing within the U.S.A. under the CanSpam legisation. But it certainly does not seem to be quite in the spirit of Christmas.
+Technically this may be a legitimate emailing within the U.S.A. under the CanSpam legislation. But it certainly does not seem to be quite in the spirit of Christmas.
