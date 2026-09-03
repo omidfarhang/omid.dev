@@ -20,11 +20,10 @@
 
 .panel--hero {
     padding: var(--space-5);
-    background: rgba(var(--theme-rgb), 0.72);
+    background: var(--surface-panel);
     border-color: var(--accent-border);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-md);
-    backdrop-filter: blur(10px);
 }
 
 .panel--accent {

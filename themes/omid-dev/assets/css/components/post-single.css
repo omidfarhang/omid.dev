@@ -375,7 +375,6 @@ img.in-text {
     border: 1px solid var(--accent-border-soft);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-sm);
-    backdrop-filter: blur(10px);
 }
 
 .article-meta .meta-left,

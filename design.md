@@ -225,7 +225,7 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 ### Panels (`.panel`)
 
-Surfaces for sidebars and section boxes: `--tinted`, `--hero-gradient`, `--hero` (glass), `--accent`, `--sidebar` (sticky), `--section`, `--xl`, `--flush`.
+Surfaces for sidebars and section boxes: `--tinted`, `--hero-gradient`, `--hero` (opaque tinted elevated card), `--accent`, `--sidebar` (sticky), `--section`, `--xl`, `--flush`.
 
 ### Chips (`.chip`)
 
