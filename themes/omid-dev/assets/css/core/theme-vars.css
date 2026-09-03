@@ -21,46 +21,40 @@
     --primary-rgb: 15, 23, 42;
     --secondary: #64748b;
     --tertiary: #cbd5e1;
-    --quaternary: #eff6ff;
+    --quaternary: #f1f5f9;
     --content: #334155;
     --code-block-bg: #1e293b;
     --code-bg: #f1f5f9;
     --border: #dbe4f0;
-    --accent: #2563eb;
-    --accent-rgb: 37, 99, 235;
-    --accent-hover: #1d4ed8;
-    --accent-light: #dbeafe;
-    --accent-2: #4f46e5;
-    --accent-2-rgb: 79, 70, 229;
-    --accent-3: #0891b2;
-    --accent-3-rgb: 8, 145, 178;
-    --accent-ring: rgba(var(--accent-rgb), 0.18);
-    --accent-border: rgba(var(--accent-rgb), 0.24);
-    --accent-border-soft: rgba(var(--accent-rgb), 0.14);
-    --accent-border-strong: rgba(var(--accent-rgb), 0.32);
-    --hero-glow: rgba(var(--accent-rgb), 0.2);
-    --hero-glow-soft: rgba(var(--accent-rgb), 0.1);
-    --hero-glow-faint: rgba(var(--accent-rgb), 0.06);
-    --hero-glow-2: rgba(var(--accent-2-rgb), 0.14);
-    --hero-glow-3: rgba(var(--accent-3-rgb), 0.1);
+    --accent: #3574b8;
+    --accent-rgb: 53, 116, 184;
+    --accent-hover: #2a6299;
+    --accent-light: color-mix(in srgb, var(--accent) 12%, var(--quaternary) 88%);
+    --accent-ring: rgba(var(--accent-rgb), 0.22);
+    --accent-border: rgba(var(--accent-rgb), 0.28);
+    --accent-border-soft: color-mix(in srgb, var(--border) 72%, var(--accent) 28%);
+    --accent-border-strong: rgba(var(--accent-rgb), 0.36);
+    --hero-glow: rgba(var(--accent-rgb), 0.1);
+    --hero-glow-soft: rgba(var(--accent-rgb), 0.07);
+    --hero-glow-faint: rgba(var(--accent-rgb), 0.04);
     --surface-tint: rgba(var(--accent-rgb), 0.06);
-    --surface-tint-strong: rgba(var(--accent-rgb), 0.12);
+    --surface-tint-strong: rgba(var(--accent-rgb), 0.1);
     --surface-gradient-tinted: linear-gradient(145deg, var(--theme) 0%, var(--surface-tint) 100%);
-    --surface-gradient-hero: radial-gradient(ellipse 70% 50% at 50% 0%, var(--hero-glow-soft), transparent 60%),
-        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 120%, var(--surface-tint) 100%);
+    --surface-gradient-hero: radial-gradient(ellipse 80% 42% at 50% 0%, var(--hero-glow-soft), transparent 72%),
+        linear-gradient(180deg, var(--theme) 0%, var(--page-bg) 100%);
     --surface-article-shell: var(--theme);
     --surface-article-body: var(--theme);
     --surface-raised: var(--entry);
     --surface-panel: color-mix(in srgb, var(--theme) 92%, var(--accent) 8%);
     --focus-ring: 0 0 0 3px var(--accent-ring);
-    --page-bg: #f0f4fc;
+    --page-bg: #eef3f9;
     --shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.06);
     --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.08), 0 2px 4px -1px rgba(15, 23, 42, 0.05);
     --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.1), 0 4px 6px -2px rgba(15, 23, 42, 0.06);
     --shadow-accent: 0 8px 24px -6px rgba(var(--accent-rgb), 0.28);
-    --status-info: #2563eb;
-    --status-info-rgb: 37, 99, 235;
-    --status-info-bg: #eff6ff;
+    --status-info: #3574b8;
+    --status-info-rgb: 53, 116, 184;
+    --status-info-bg: color-mix(in srgb, var(--accent) 10%, var(--quaternary) 90%);
     --status-info-border: rgba(var(--status-info-rgb), 0.28);
     --status-success: #16a34a;
     --status-success-rgb: 22, 163, 74;
@@ -88,41 +82,31 @@
     --primary-rgb: 241, 245, 249;
     --secondary: #94a3b8;
     --tertiary: #475569;
-    --quaternary: #172554;
+    --quaternary: #1a2332;
     --content: #cbd5e1;
     --code-block-bg: #1e293b;
     --code-bg: #334155;
     --border: #334155;
-    --accent: #60a5fa;
-    --accent-rgb: 96, 165, 250;
-    --accent-hover: #3b82f6;
-    --accent-light: #1e3a8a;
-    --accent-2: #818cf8;
-    --accent-2-rgb: 129, 140, 248;
-    --accent-3: #22d3ee;
-    --accent-3-rgb: 34, 211, 238;
-    --accent-ring: rgba(var(--accent-rgb), 0.28);
-    --accent-border: rgba(var(--accent-rgb), 0.38);
-    --accent-border-soft: rgba(var(--accent-rgb), 0.22);
-    --accent-border-strong: rgba(var(--accent-rgb), 0.45);
-    --hero-glow: rgba(var(--accent-rgb), 0.28);
-    --hero-glow-soft: rgba(var(--accent-rgb), 0.16);
-    --hero-glow-faint: rgba(var(--accent-rgb), 0.1);
-    --hero-glow-2: rgba(var(--accent-2-rgb), 0.22);
-    --hero-glow-3: rgba(var(--accent-3-rgb), 0.14);
-    --surface-tint: rgba(var(--accent-rgb), 0.1);
-    --surface-tint-strong: rgba(var(--accent-rgb), 0.18);
+    --accent: #6eb4f0;
+    --accent-rgb: 110, 180, 240;
+    --accent-hover: #8ac4f5;
+    --accent-light: color-mix(in srgb, var(--accent) 14%, var(--entry) 86%);
+    --accent-ring: rgba(var(--accent-rgb), 0.32);
+    --accent-border: rgba(var(--accent-rgb), 0.42);
+    --accent-border-soft: color-mix(in srgb, var(--border) 68%, var(--accent) 32%);
+    --accent-border-strong: rgba(var(--accent-rgb), 0.5);
+    --hero-glow: rgba(var(--accent-rgb), 0.14);
+    --hero-glow-soft: rgba(var(--accent-rgb), 0.09);
+    --hero-glow-faint: rgba(var(--accent-rgb), 0.05);
+    --surface-tint: rgba(var(--accent-rgb), 0.08);
+    --surface-tint-strong: rgba(var(--accent-rgb), 0.14);
     --surface-gradient-tinted: linear-gradient(
         145deg,
         var(--entry) 0%,
-        color-mix(in srgb, var(--entry) 88%, var(--accent) 12%) 100%
+        color-mix(in srgb, var(--entry) 94%, var(--accent) 6%) 100%
     );
-    --surface-gradient-hero: radial-gradient(ellipse 70% 50% at 50% 0%, var(--hero-glow-soft), transparent 60%),
-        linear-gradient(
-            180deg,
-            color-mix(in srgb, var(--entry) 82%, var(--accent) 18%) 0%,
-            var(--theme) 100%
-        );
+    --surface-gradient-hero: radial-gradient(ellipse 80% 42% at 50% 0%, var(--hero-glow-soft), transparent 72%),
+        linear-gradient(180deg, var(--entry) 0%, var(--theme) 100%);
     --surface-article-shell: var(--entry);
     --surface-article-body: var(--theme);
     --surface-raised: color-mix(in srgb, var(--entry) 92%, var(--accent) 8%);
@@ -133,8 +117,8 @@
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.35), 0 2px 4px -1px rgba(0, 0, 0, 0.25);
     --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -2px rgba(0, 0, 0, 0.3);
     --shadow-accent: 0 8px 24px -6px rgba(var(--accent-rgb), 0.35);
-    --status-info: #60a5fa;
-    --status-info-rgb: 96, 165, 250;
+    --status-info: #6eb4f0;
+    --status-info-rgb: 110, 180, 240;
     --status-info-bg: rgba(var(--status-info-rgb), 0.12);
     --status-info-border: rgba(var(--status-info-rgb), 0.32);
     --status-success: #4ade80;

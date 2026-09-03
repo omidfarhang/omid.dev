@@ -10,14 +10,12 @@
 
 .panel--tinted {
     background: var(--surface-gradient-tinted), var(--theme);
-    border-color: var(--accent-border-soft);
+    border-color: var(--border);
 }
 
 .panel--hero-gradient {
-    background:
-        radial-gradient(ellipse 70% 50% at 50% 0%, var(--hero-glow-soft), transparent 60%),
-        var(--surface-gradient-hero);
-    border-color: var(--accent-border-soft);
+    background: var(--surface-gradient-hero), var(--theme);
+    border-color: var(--border);
 }
 
 .panel--hero {
@@ -30,10 +28,8 @@
 }
 
 .panel--accent {
-    background:
-        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 70%, var(--surface-tint-strong) 100%),
-        var(--theme);
-    border-color: var(--accent-border-soft);
+    background: var(--surface-gradient-tinted), var(--theme);
+    border-color: var(--border);
 }
 
 .panel--xl {
@@ -87,14 +83,12 @@
 /* Primary column — elevated feature panel (about main, contact form) */
 .panel--section-primary {
     padding: var(--space-7);
-    border-color: var(--accent-border-soft);
+    border-color: var(--border);
     border-radius: var(--radius-xl);
 }
 
 .panel--section-primary.panel--section-gradient {
-    background:
-        linear-gradient(135deg, var(--theme) 0%, var(--accent-light) 80%, var(--surface-tint) 100%),
-        var(--theme);
+    background: var(--surface-gradient-tinted), var(--theme);
 }
 
 /* Prose wrappers (.post-content) set article-scale heading margins; section panels opt out */

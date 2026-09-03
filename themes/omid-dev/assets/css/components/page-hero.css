@@ -3,25 +3,8 @@
 .page-hero {
     margin: 0;
     padding: var(--space-hero-y) var(--space-10) var(--space-10);
-    background:
-        radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
-        radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
-        radial-gradient(circle at 50% 100%, var(--hero-glow-faint), transparent 40%),
-        var(--surface-gradient-hero),
-        var(--theme);
+    background: var(--surface-gradient-hero), var(--theme);
     border-bottom: 1px solid var(--border);
-}
-
-body.dark .page-hero {
-    background:
-        radial-gradient(circle at 12% 18%, var(--hero-glow), transparent 32%),
-        radial-gradient(circle at 88% 22%, var(--hero-glow-2), transparent 36%),
-        linear-gradient(
-            180deg,
-            color-mix(in srgb, var(--entry) 86%, var(--accent) 14%) 0%,
-            var(--theme) 72%
-        ),
-        var(--theme);
 }
 
 .page-hero .breadcrumbs {
@@ -81,7 +64,7 @@ body.dark .page-hero {
     margin-bottom: var(--space-10);
     padding: var(--space-9) var(--space-8);
     border-radius: var(--radius-lg);
-    border: 1px solid var(--accent-border-soft);
+    border: 1px solid var(--border);
     box-shadow: var(--shadow-sm);
 }
 

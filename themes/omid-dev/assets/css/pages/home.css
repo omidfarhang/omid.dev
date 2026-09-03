@@ -3,11 +3,7 @@
 /* Hero */
 .home-hero {
     padding: 64px var(--gap) 48px;
-    background:
-        radial-gradient(ellipse 80% 60% at 18% 0%, var(--hero-glow), transparent 55%),
-        radial-gradient(ellipse 55% 45% at 92% 15%, var(--hero-glow-2), transparent 50%),
-        radial-gradient(ellipse 40% 35% at 70% 80%, var(--hero-glow-3), transparent 45%),
-        linear-gradient(to bottom, var(--theme), var(--accent-light) 120%, var(--page-bg));
+    background: var(--surface-gradient-hero), var(--theme);
     border-bottom: 1px solid var(--border);
 }
 
@@ -121,7 +117,7 @@
     inset-inline: 42px;
     top: 0;
     height: 3px;
-    background: linear-gradient(90deg, var(--accent), var(--accent-2), transparent);
+    background: linear-gradient(90deg, var(--accent), transparent);
 }
 
 .identity-principles {
@@ -372,10 +368,8 @@
 }
 
 .recent-posts .post-entry--featured {
-    background:
-        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 65%, var(--surface-tint-strong) 100%),
-        var(--theme);
-    border-color: var(--accent-border-soft);
+    background: var(--surface-gradient-tinted), var(--theme);
+    border-color: var(--border);
 }
 
 .recent-posts .post-entry--list .entry-cover {

@@ -6,8 +6,8 @@
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    border: 1px solid var(--accent-border-soft);
-    background: var(--accent-light);
+    border: 1px solid var(--border);
+    background: var(--quaternary);
     color: var(--accent);
     transition:
         background-color 0.2s ease,
@@ -60,7 +60,7 @@
 
 .icon-circle--gradient {
     color: var(--theme);
-    background: linear-gradient(135deg, var(--accent), color-mix(in srgb, var(--accent) 58%, #22c55e));
+    background: linear-gradient(135deg, var(--accent), color-mix(in srgb, var(--accent) 72%, var(--primary) 28%));
     border: none;
     border-radius: 18px;
     box-shadow: var(--shadow-accent);
@@ -71,15 +71,9 @@
     border: 2px dashed var(--border);
 }
 
-.card--interactive:hover .icon-circle:not(.icon-circle--filled):not(.icon-circle--gradient) {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: white;
-}
-
 .card--dashed:hover .icon-circle--ghost {
     background: var(--accent);
     border-color: var(--accent);
     border-style: solid;
-    color: white;
+    color: var(--theme);
 }

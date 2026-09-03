@@ -14,27 +14,35 @@
 }
 
 .card--interactive:hover {
-    border-color: var(--accent);
+    border-color: color-mix(in srgb, var(--border) 55%, var(--accent) 45%);
     box-shadow: var(--shadow-md);
 }
 
-.card--accent {
-    background:
-        linear-gradient(145deg, var(--accent-light), var(--theme)),
-        var(--theme);
+.card--interactive .icon-circle:not(.icon-circle--filled):not(.icon-circle--gradient) {
+    color: var(--accent);
+    background: var(--accent-light);
     border-color: var(--accent-border-soft);
+}
+
+.card--interactive:hover .icon-circle:not(.icon-circle--filled):not(.icon-circle--gradient) {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--theme);
+}
+
+.card--accent {
+    background: var(--surface-gradient-tinted), var(--theme);
+    border-color: var(--border);
 }
 
 .card--featured {
-    background:
-        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 65%, var(--surface-tint-strong) 100%),
-        var(--theme);
-    border-color: var(--accent-border-soft);
+    background: var(--surface-gradient-tinted), var(--theme);
+    border-color: var(--border);
 }
 
 .card--tinted {
-    background: linear-gradient(135deg, var(--quaternary) 0%, var(--surface-tint) 100%);
-    border-color: var(--accent-border-soft);
+    background: var(--surface-gradient-tinted), var(--theme);
+    border-color: var(--border);
 }
 
 .card--dashed {
@@ -266,10 +274,8 @@
     padding: var(--space-5);
     margin: var(--space-5);
     border-radius: calc(var(--radius) - 2px);
-    background:
-        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 70%, var(--surface-tint-strong) 100%),
-        var(--theme);
-    border-color: var(--accent-border-strong);
+    background: var(--surface-gradient-tinted), var(--theme);
+    border-color: var(--border);
 }
 
 .card--promo-content {
@@ -287,7 +293,7 @@
     padding: var(--space-2) var(--space-3);
     color: var(--accent) !important;
     background: var(--theme);
-    border: 1px solid var(--accent-border);
+    border: 1px solid var(--accent-border-soft);
     border-radius: var(--radius-pill);
     font-size: var(--text-ui-sm);
     font-weight: var(--font-bold);
@@ -328,27 +334,12 @@
 }
 
 body.dark .card--companion {
-    background:
-        radial-gradient(circle at top left, color-mix(in srgb, var(--accent) 14%, transparent) 0, transparent 34%),
-        linear-gradient(
-            135deg,
-            color-mix(in srgb, var(--entry) 78%, var(--accent) 22%) 0%,
-            var(--entry) 58%,
-            var(--theme) 100%
-        ),
-        var(--entry);
+    background: var(--surface-gradient-tinted), var(--entry);
 }
 
 body.dark .card--featured,
 body.dark .card--promo {
-    background:
-        linear-gradient(
-            135deg,
-            color-mix(in srgb, var(--entry) 75%, var(--accent) 25%) 0%,
-            var(--theme) 65%,
-            color-mix(in srgb, var(--theme) 90%, var(--accent) 10%) 100%
-        ),
-        var(--entry);
+    background: var(--surface-gradient-tinted), var(--entry);
 }
 
 .card--companion {
@@ -358,10 +349,7 @@ body.dark .card--promo {
     gap: var(--space-5);
     padding: var(--space-5);
     color: var(--primary);
-    background:
-        radial-gradient(circle at top left, color-mix(in srgb, var(--accent) 20%, transparent) 0, transparent 34%),
-        linear-gradient(135deg, var(--accent-light) 0%, var(--theme) 58%, var(--surface-tint) 100%),
-        var(--theme);
+    background: var(--surface-gradient-tinted), var(--theme);
     border-radius: var(--radius-xl);
 }
 
@@ -458,8 +446,12 @@ body.dark .card--promo {
     margin: 0 0 var(--space-2);
     font-size: var(--text-caption-sm);
     font-weight: 600;
-    color: var(--accent);
+    color: var(--secondary);
     text-align: left;
+}
+
+.card--interactive:hover .series-card__count {
+    color: var(--accent);
 }
 
 .series-card__desc {
@@ -477,7 +469,6 @@ body.dark .card--promo {
 .series-card .card__cta {
     font-size: var(--text-caption-sm);
     font-weight: 600;
-    color: var(--accent);
 }
 
 .series-grid--compact {
@@ -631,8 +622,8 @@ body.dark .card--promo {
     padding: var(--space-3) var(--space-4);
     box-sizing: border-box;
     color: var(--primary);
-    background: color-mix(in srgb, var(--theme) 82%, var(--accent) 18%);
-    border: 1px solid transparent;
+    background: var(--quaternary);
+    border: 1px solid var(--border);
     border-radius: var(--radius);
     font-size: var(--text-ui);
     font-weight: var(--font-semibold);
@@ -643,8 +634,8 @@ body.dark .card--promo {
 
 a.series-nav__row:hover,
 a.series-nav__row:focus-visible {
-    background: color-mix(in srgb, var(--accent-light) 55%, var(--theme) 45%);
-    border-color: var(--accent-border);
+    background: var(--accent-light);
+    border-color: var(--accent-border-soft);
     color: var(--primary);
     outline: none;
 }
@@ -655,7 +646,7 @@ a.series-nav__row:focus-visible {
 
 .series-nav__item--current .series-nav__row {
     background: color-mix(in srgb, var(--accent-light) 72%, var(--theme) 28%);
-    border-color: var(--accent-border);
+    border-color: var(--accent-border-soft);
     cursor: default;
 }
 
@@ -678,7 +669,7 @@ a.series-nav__row:focus-visible {
     flex-shrink: 0;
     padding: 0.15em 0.55em;
     color: var(--accent);
-    background: color-mix(in srgb, var(--theme) 70%, var(--accent) 30%);
+    background: var(--accent-light);
     border-radius: var(--radius-pill);
     font-size: var(--text-3xs);
     font-weight: var(--font-extrabold);
@@ -747,8 +738,8 @@ a.series-nav__row:focus-visible .series-nav__chevron {
 
 a.series-nav__step:hover,
 a.series-nav__step:focus-visible {
-    border-color: var(--accent-border);
-    background: color-mix(in srgb, var(--accent-light) 40%, var(--theme) 60%);
+    border-color: var(--accent-border-soft);
+    background: var(--accent-light);
     outline: none;
 }
 
@@ -777,17 +768,17 @@ a.series-nav__step:focus-visible .series-nav__step-dir {
 }
 
 body.dark .series-nav-card {
-    background: color-mix(in srgb, var(--entry) 92%, var(--accent) 8%);
+    background: var(--entry);
 }
 
 body.dark .series-nav__row {
-    background: color-mix(in srgb, var(--entry) 78%, var(--accent) 22%);
+    background: var(--quaternary);
 }
 
 body.dark .series-nav__item--current .series-nav__row,
 body.dark a.series-nav__row:hover,
 body.dark a.series-nav__row:focus-visible {
-    background: color-mix(in srgb, var(--accent) 22%, var(--entry) 78%);
+    background: color-mix(in srgb, var(--accent-light) 65%, var(--entry) 35%);
 }
 
 body.dark .series-nav__step {

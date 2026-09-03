@@ -219,6 +219,7 @@
 }
 
 .section-header-link:hover {
-    opacity: 0.85;
+    color: var(--accent);
+    opacity: 1;
     text-decoration: underline !important;
 }

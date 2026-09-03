@@ -75,7 +75,7 @@
 
 .reading-path-content ol li:hover,
 .reading-path-content ul li:hover {
-    border-color: var(--accent-border);
+    border-color: var(--accent-border-soft);
     box-shadow: var(--shadow-md);
 }
 

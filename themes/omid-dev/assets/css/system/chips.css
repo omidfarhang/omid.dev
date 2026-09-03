@@ -42,11 +42,19 @@
     box-shadow: var(--shadow-sm);
 }
 
-.chip--pill:hover {
+a.chip--pill:hover {
     color: var(--accent);
-    background: var(--quaternary);
-    border-color: var(--accent);
+    background: var(--accent-light);
+    border-color: color-mix(in srgb, var(--border) 55%, var(--accent) 45%);
     box-shadow: var(--shadow-md);
+}
+
+span.chip--pill:hover,
+.chip--pill:not(a):hover {
+    color: var(--primary);
+    background: var(--theme);
+    border-color: var(--border);
+    box-shadow: var(--shadow-sm);
 }
 
 .chip--stat {
@@ -80,10 +88,17 @@
     opacity: 0.7;
 }
 
-.chip--tag:hover {
+a.chip--tag:hover {
     color: var(--accent);
     background: var(--accent-light);
-    border-color: var(--accent);
+    border-color: color-mix(in srgb, var(--border) 55%, var(--accent) 45%);
+}
+
+span.chip--tag:hover,
+.chip--tag:not(a):hover {
+    color: var(--secondary);
+    background: var(--entry);
+    border-color: var(--border);
 }
 
 .chip--sm {
@@ -133,7 +148,7 @@
     opacity: 1;
 }
 
-.chip--pill:hover .chip__count {
+a.chip--pill:hover .chip__count {
     color: var(--accent);
     background: var(--accent-light);
     opacity: 1;
@@ -169,7 +184,7 @@
 }
 
 .chip i {
-    color: var(--accent);
+    color: currentColor;
     opacity: 0.9;
 }
 
@@ -191,7 +206,7 @@
 }
 
 .chip--text::before {
-    color: var(--accent);
+    color: currentColor;
     content: "#";
     margin-inline-end: 2px;
 }

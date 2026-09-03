@@ -20,7 +20,7 @@
   width: 112px;
   height: 112px;
   padding: var(--space-1);
-  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  background: var(--accent);
   border-radius: 50%;
 }
 

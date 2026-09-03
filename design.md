@@ -11,8 +11,8 @@ Stack: Hugo (no npm/Node build). Styles via Hugo Pipes.
 
 1. **Token-first.** Colors, type, spacing, motion, and radii live as CSS custom properties. Prefer tokens over raw values.
 2. **Compose, don’t duplicate.** Build pages from `system/` primitives + `components/` blocks; put one-off polish in `pages/`.
-3. **Light slate + blue accent.** Cool neutrals (Slate), page wash (`--page-bg`), and a clear blue accent — not purple-on-white or warm cream themes.
-4. **Soft depth.** Subtle shadows, tinted gradients, and soft accent glows on heroes/panels — no heavy glow stacks or multi-layer chrome.
+3. **Steel editorial.** Cool slate neutrals with a faint blue page wash (`--page-bg`), ink text (`--primary`), and a steel-blue accent (`--accent`: `#3574b8`) for links, hovers, eyebrows, and CTAs — clearly blue but calmer than bright SaaS `#2563eb`, not gray `#334e68` slate.
+4. **Soft depth.** Subtle shadows, tinted gradients, and a single faint hero wash — no heavy glow stacks, corner orbs, or tri-color chrome.
 5. **Multilingual by default.** English/German LTR; Persian (`fa`) RTL with Vazirmatn. Prefer logical properties (`margin-inline-*`, `inset-inline-*`) and `[dir="rtl"]` overrides where needed.
 6. **Dark mode as a first-class theme.** Tokens flip under `.dark` on `body`; avoid hard-coded light-only colors.
 7. **Reduced motion.** Honor `prefers-reduced-motion` (see `core/zmedia.css`).
@@ -64,7 +64,7 @@ Documented in `layouts/partials/head.html`. Load order matters.
 
 **Footer**
 
-- Contained, rounded top, accent gradient hairline, soft hero glows.
+- Contained, rounded top, accent gradient hairline, soft tinted surface.
 - Identity + CTA panel, link columns, social / theme toggle.
 
 **Breakpoints (primary)**
@@ -83,7 +83,7 @@ Defined in `assets/css/core/theme-vars.css`. Semantic roles, not raw palette nam
 
 | Role | Token | Hex / notes |
 |------|-------|-------------|
-| Page wash | `--page-bg` | `#f0f4fc` |
+| Page wash | `--page-bg` | `#eef3f9` |
 | Surface | `--theme` | `#ffffff` |
 | Raised / entry | `--entry` | `#ffffff` |
 | Text / headings | `--primary` | `#0f172a` (slate-900) |
@@ -92,13 +92,12 @@ Defined in `assets/css/core/theme-vars.css`. Semantic roles, not raw palette nam
 | Soft fill | `--quaternary` | `#eff6ff` |
 | Body copy | `--content` | `#334155` |
 | Border | `--border` | `#dbe4f0` |
-| Accent | `--accent` | `#2563eb` |
-| Accent hover | `--accent-hover` | `#1d4ed8` |
-| Accent soft | `--accent-light` | `#dbeafe` |
-| Accent 2 / 3 | `--accent-2`, `--accent-3` | Indigo `#4f46e5`, cyan `#0891b2` (glows / accents) |
+| Accent | `--accent` | Steel blue `#3574b8` (light); `#6eb4f0` (dark) |
+| Accent hover | `--accent-hover` | `#2a6299` (light); `#8ac4f5` (dark) |
+| Accent soft | `--accent-light` | Subtle neutral fill (`color-mix` with `--quaternary`) |
 | Code | `--code-bg`, `--code-block-bg` | `#f1f5f9` / `#1e293b` |
 
-Accent derivatives (`--accent-ring`, `--accent-border*`, `--hero-glow*`, `--surface-tint*`) are rgba mixes from `--accent-rgb` (and secondary accents). Prefer these for focus rings, panel borders, and hero atmosphere.
+Accent derivatives (`--accent-ring`, `--accent-border*`, `--hero-glow*`, `--surface-tint*`) are rgba mixes from `--accent-rgb`. Prefer these for focus rings, hovers, and light surface tints — not ambient backgrounds.
 
 ### Dark (`.dark`)
 
@@ -187,7 +186,7 @@ Semantic aliases: `--gap`, `--content-gap`, `--space-page`, `--space-hero-y` / `
 | `--surface-panel` / `--surface-raised` | Mixed accent surfaces |
 | `--focus-ring` | `0 0 0 3px var(--accent-ring)` |
 
-Heroes (home, page-hero, footer) layer soft radial glows (`--hero-glow*`) over gradient washes — atmosphere, not stickers or overlay badges.
+Heroes (home, page-hero) use a single top-center wash (`--surface-gradient-hero`) over a theme → page-bg fade — atmosphere, not corner orbs or overlay badges.
 
 ---
 
@@ -215,7 +214,7 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 ### Buttons (`.btn`)
 
 - Shape: pill (`--radius-pill`), min-height 42px (36px for `--sm`).
-- Variants: `--primary` (ink fill → accent on hover), `--secondary` (outlined), `--accent` (accent fill).
+- Variants: `--primary` (ink fill → accent on hover), `--secondary` (outlined → accent on hover), `--accent` (accent fill for prominent CTAs).
 - Modifiers: `--sm`, `--block`, groups via `.btn-group` / `--column`.
 - Focus: `--focus-ring`.
 
@@ -271,7 +270,7 @@ Page CSS (`home`, `about-me`, `resume`, `contact`, `notes`, `reading-path`, …)
 
 ### Home
 
-- Full-bleed-feel hero with multi-stop radial glows + gradient into `--page-bg`.
+- Full-bleed-feel hero with a single faint top wash + gradient into `--page-bg`.
 - Grid: profile visual | statement (tagline `--text-display-home`, lead, CTAs).
 - Sections: eyebrow + underlined section title; topic cards; recent posts; discovery panels.
 

@@ -74,8 +74,8 @@
 
 .btn--secondary:hover {
     color: var(--accent) !important;
-    background: var(--quaternary);
-    border-color: var(--accent);
+    background: var(--accent-light);
+    border-color: color-mix(in srgb, var(--border) 55%, var(--accent) 45%);
 }
 
 .btn--accent {

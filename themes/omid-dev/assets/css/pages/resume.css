@@ -46,7 +46,7 @@
     letter-spacing: -0.05em;
     color: var(--primary);
     line-height: var(--leading-tight-plus);
-    background: linear-gradient(to bottom right, var(--primary), var(--accent), var(--accent-2));
+    background: linear-gradient(to bottom right, var(--primary), var(--accent));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding-bottom: 0.1em;
