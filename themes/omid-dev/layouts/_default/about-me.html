@@ -5,7 +5,6 @@
     {{ partial "breadcrumbs.html" . }}
     <div class="about-hero-inner layout-split layout-split--hero-wide page-hero-inner">
       <div class="about-hero-copy page-hero-copy">
-        <p class="section-eyebrow">{{ $resume.title }}</p>
         <h1 class="post-title">{{ .Title }}</h1>
         {{- with $resume.summary }}
         <p class="about-summary page-hero-lead">{{ . }}</p>

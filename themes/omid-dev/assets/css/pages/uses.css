@@ -55,9 +55,9 @@
     display: block;
     margin: 0 0 var(--space-3);
     font-size: var(--text-badge);
-    font-weight: var(--font-extrabold);
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+    font-weight: var(--font-bold);
+    letter-spacing: var(--tracking-wide);
+    text-transform: none;
     color: var(--accent);
 }
 

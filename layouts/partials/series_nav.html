@@ -78,7 +78,6 @@
 
 <aside class="series-nav series-nav--footer series-nav-card" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
   <div class="series-nav-card__header">
-    <span class="section-kicker series-nav-card__eyebrow">{{ i18n "series_eyebrow" }}</span>
     <strong class="series-nav-card__title">{{ $seriesTitle }}</strong>
     {{- if $anchor -}}
     <span class="series-nav-card__summary">{{ i18n "series_footer_summary" (dict "Total" (len $seriesPages) "Count" $partCount) }}</span>

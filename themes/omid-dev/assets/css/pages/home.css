@@ -357,8 +357,8 @@
     padding-bottom: var(--space-3);
     font-size: var(--text-ui-sm);
     font-weight: var(--font-bold);
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    text-transform: none;
     color: var(--secondary);
     border-bottom: 1px solid var(--border);
 }

@@ -11,8 +11,8 @@
     color: var(--secondary);
     margin: 0 0 var(--space-4);
     text-align: start;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    text-transform: none;
 }
 
 .posts-list-content .topics-subtitle:not(:first-of-type) {

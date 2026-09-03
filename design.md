@@ -256,7 +256,7 @@ Notable blocks in `assets/css/components/`:
 | **header** | Sticky nav, theme toggle, mobile menu |
 | **footer** | CTA, columns, social, theme control |
 | **page-hero** | Gradient hero shell; contained vs split layouts |
-| **section-heading** | Eyebrows, underline accent bar, centered titles, kickers |
+| **section-heading** | Eyebrows (omit / context / mark), underline accent bar, centered titles, kickers |
 | **post-entry** | List/featured cards, entry links |
 | **post-single** | Article chrome, TOC, meta, series nav polish |
 | **timeline** | Resume / uses-style tracks (RTL-aware) |
@@ -268,15 +268,27 @@ Page CSS (`home`, `about-me`, `resume`, `contact`, `notes`, `reading-path`, …)
 
 ## Page patterns
 
+### Eyebrows (omit / context / mark)
+
+Small labels above titles are **not** a default section rhythm. Three roles:
+
+| Role | When | Treatment |
+|------|------|-----------|
+| **Omit** | Label repeats the title or adds no context | No eyebrow — title (+ underline) carries the section |
+| **Context** | Label names a *category* the title doesn’t | `.section-eyebrow` / `.section-kicker`: accent, hairline, sentence case, calm tracking |
+| **Mark** | Rare brand/category stamp (e.g. footer identity kicker) | `.section-eyebrow--caps` / `.section-kicker--caps` or `.footer-eyebrow`: uppercase OK |
+
+Do not put an uppercase tracked eyebrow on every section. Resume document uppercase stays a print convention, separate from this system.
+
 ### Home
 
 - Full-bleed-feel hero with a single faint top wash + gradient into `--page-bg`.
 - Grid: profile visual | statement (tagline `--text-display-home`, lead, CTAs).
-- Sections: eyebrow + underlined section title; topic cards; recent posts; discovery panels.
+- Sections: title-led (context eyebrow only when it adds category); topic cards; recent posts; discovery panels.
 
 ### Content pages
 
-- Often `.page-hero` (glows + lead) → boxed `.page-content` or article shell.
+- Often `.page-hero` (lead) → boxed `.page-content` or article shell. Page heroes are title-led — no redundant page-name eyebrow.
 - Split layouts: `.layout-split` (+ sidebar width modifiers) in `layout/main.css`.
 
 ### Articles

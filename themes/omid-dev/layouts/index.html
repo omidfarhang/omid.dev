@@ -10,7 +10,6 @@
 
     <section class="home-section home-identity-panel panel panel--tinted panel--xl">
         <div class="identity-about">
-            <p class="section-eyebrow">{{ i18n "home_about_eyebrow" }}</p>
             {{- if .Content }}
             <div class="identity-copy post-content">
                 {{- if not (.Param "disableAnchoredHeadings") }}
@@ -114,7 +113,6 @@
     <section class="home-section home-active-series panel panel--tinted panel--xl home-panel" aria-labelledby="home-active-series-title">
         <div class="section-header-row home-active-series-header">
             <div>
-                <p class="section-eyebrow">{{ i18n "series_eyebrow" }}</p>
                 <h2 id="home-active-series-title" class="section-title section-title--compact">{{ i18n "active_series_title" }}</h2>
             </div>
             <a class="section-header-link home-active-series-link" href="{{ relLangURL "/series/" }}">

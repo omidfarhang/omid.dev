@@ -57,8 +57,14 @@ body:lang(fa) .font-sans { font-family: var(--font-sans-fa); }
 
 .text-kicker-style {
     font-size: var(--text-kicker);
+    font-weight: var(--font-bold);
+    letter-spacing: var(--tracking-wide);
+    text-transform: none;
+}
+
+.text-kicker-style--caps {
     font-weight: var(--font-extrabold);
-    letter-spacing: var(--tracking-widest);
+    letter-spacing: 0.08em;
     text-transform: uppercase;
 }
 
