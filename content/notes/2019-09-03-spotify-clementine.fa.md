@@ -1,0 +1,8 @@
+---
+date: 2019-09-03T22:09:00+03:30
+url: notes/2019-09-03-spotify-clementine/
+---
+مثل این عقده‌ای ها هی اینو میبینم خرکیف میشم :))))
+بله من ندید بدیدم
+
+![Spotify on Linux](/images/2019/09/03/spotify-clementine.png)
