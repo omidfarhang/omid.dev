@@ -35,7 +35,7 @@
         <ul>
             {{ range first 5 (where site.RegularPages "Section" "posts") }}
             <li>
-                <span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                {{- partial "display_date.html" (dict "date" .Date "lang" .Lang "style" "short" "class" "date") -}}
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
             {{ end }}

@@ -42,7 +42,7 @@
                     {{ range first 3 $recentPosts.ByDate.Reverse }}
                     <li>
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        <span class="post-date">{{ .Date | time.Format ":date_medium" }}</span>
+                        {{- partial "display_date.html" (dict "date" .Date "lang" .Lang "style" "medium" "class" "post-date") -}}
                     </li>
                     {{ end }}
                 </ul>
@@ -59,9 +59,7 @@
                     <li>
                         <a href="{{ .Permalink }}">{{ .Content | plainify | truncate 120 "…" }}</a>
                         <span class="post-date">
-                            <time class="note-relative-time" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ .Date.Format "Jan 2, 2006 · 15:04" }}">
-                                {{ .Date.Format "Jan 2, 2006 · 15:04" }}
-                            </time>
+                            {{- partial "display_date.html" (dict "date" .Date "lang" .Lang "style" "short" "tag" "time" "class" "note-relative-time") -}}
                         </span>
                     </li>
                     {{ end }}

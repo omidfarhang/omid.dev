@@ -12,7 +12,7 @@
 {{- $limit := site.Params.notesTitleMaxChars | default 60 | int -}}
 {{- $plain | truncate $limit "…" -}}
 {{- else if .Date -}}
-{{- .Date.Format "Jan 2, 2006" -}}
+{{- partial "display_date.html" (dict "date" .Date "lang" .Lang "style" "short" "tag" "none") -}}
 {{- else -}}
 {{- i18n "notes" | default "Note" -}}
 {{- end -}}

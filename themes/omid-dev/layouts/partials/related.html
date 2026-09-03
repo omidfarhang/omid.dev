@@ -11,7 +11,7 @@
                 {{- if .Date }}
                 <div class="related-card-meta">
                     <i class="far fa-calendar-alt"></i>
-                    <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+                    {{- partial "display_date.html" (dict "date" .Date "lang" .Lang "style" "short") -}}
                 </div>
                 {{- end }}
             </div>

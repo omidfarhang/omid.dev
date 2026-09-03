@@ -3,7 +3,7 @@
 {{- $embedded := .embedded | default false -}}
 {{- $avatar := site.Params.footer.avatar | default site.Params.profileMode.imageUrl | default "/images/bio-photo-150x150.jpg" -}}
 {{- $author := partial "author.html" $page | default site.Params.author | default site.Title -}}
-{{- $absoluteDate := $page.Date.Format "Jan 2, 2006 · 15:04" -}}
+{{- $isoDate := $page.Date.Format "2006-01-02T15:04:05Z07:00" -}}
 
 <article class="note-entry{{ if $standalone }} note-entry--standalone{{ end }}{{ if $embedded }} note-entry--embedded{{ end }}">
   <div class="note-entry-layout">
@@ -17,13 +17,13 @@
           {{- if $page.Date }}
           <span class="note-entry-sep" aria-hidden="true">·</span>
           {{- if $standalone }}
-          <time class="note-entry-date note-relative-time" datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ $absoluteDate }}">
-            {{ $absoluteDate }}
+          <time class="note-entry-date note-relative-time" datetime="{{ $isoDate }}" title="{{ $isoDate }}">
+            {{- partial "display_date.html" (dict "date" $page.Date "lang" $page.Lang "style" "short" "tag" "none") -}}
           </time>
           {{- else }}
           <a class="note-entry-date" href="{{ $page.Permalink }}">
-            <time class="note-relative-time" datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ $absoluteDate }}">
-              {{ $absoluteDate }}
+            <time class="note-relative-time" datetime="{{ $isoDate }}" title="{{ $isoDate }}">
+              {{- partial "display_date.html" (dict "date" $page.Date "lang" $page.Lang "style" "short" "tag" "none") -}}
             </time>
           </a>
           {{- end }}
