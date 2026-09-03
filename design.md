@@ -222,7 +222,8 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 - Base: theme fill, hairline border, `--radius-lg` — no resting shadow.
 - Interactive: `--shadow-md` on hover only.
-- Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`).
+- Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`), `--fill`.
+- **Equal-height grids:** add `--fill` so the card stretches to the grid cell. Put content in `.card__body` (flex column); `.card__cta` pins to the bottom via `margin-top: auto`, so CTAs stay aligned across a row even when titles wrap.
 
 ### Panels (`.panel`)
 

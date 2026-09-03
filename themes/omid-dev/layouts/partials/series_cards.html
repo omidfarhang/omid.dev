@@ -22,11 +22,11 @@
 
 <div class="series-grid topics-grid{{ if $compact }} series-grid--compact{{ end }}{{ if $horizontal }} series-grid--horizontal{{ end }}{{ with .className }} {{ . }}{{ end }}">
   {{- range $seriesList }}
-  <a href="{{ .anchor.RelPermalink }}" class="card card--interactive card--topic card--accent series-card{{ if $horizontal }} series-card--horizontal card--horizontal{{ else if $compact }} series-card--compact card--horizontal{{ end }}">
+  <a href="{{ .anchor.RelPermalink }}" class="card card--fill card--interactive card--topic card--accent series-card{{ if $horizontal }} series-card--horizontal card--horizontal{{ else if $compact }} series-card--compact card--horizontal{{ end }}">
     <span class="icon-circle icon-circle--{{ if $compact }}sm{{ else }}md{{ end }}">
       <i class="fa-solid fa-layer-group" aria-hidden="true"></i>
     </span>
-    <span class="series-card__body">
+    <span class="card__body series-card__body">
       <h3>{{ .title }}</h3>
       <p class="series-card__count">{{ i18n "series_index_post_count" (dict "Count" .count) }}</p>
       {{- if or (not $compact) $horizontal }}
