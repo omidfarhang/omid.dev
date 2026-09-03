@@ -368,47 +368,63 @@ img.in-text {
 
 .article-meta.post-meta {
     justify-content: space-between;
+    align-items: center;
     gap: var(--space-4);
-    margin: var(--space-2) 0 0;
-    padding: var(--space-4);
-    background: var(--surface-panel);
-    border: 1px solid var(--accent-border-soft);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sm);
+    margin: var(--space-4) 0 0;
+    padding: var(--space-3) 0 0;
+    background: none;
+    border: 0;
+    border-top: 1px solid var(--border);
+    border-radius: 0;
+    box-shadow: none;
 }
 
 .article-meta .meta-left,
 .article-meta .meta-right {
     flex: 0 1 auto;
     justify-content: flex-start;
-    gap: var(--space-3);
+}
+
+.article-meta .meta-left {
+    gap: 0;
 }
 
 .article-meta .meta-right {
     margin-inline-start: auto;
+    gap: var(--space-3);
 }
 
+/* Info reads as one line; only Share/Translations keep chip chrome */
 .article-meta .meta-item {
-    padding: var(--space-2) var(--space-3);
+    padding: 0;
     color: var(--secondary);
-    background: var(--surface-raised);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
+    background: none;
+    border: 0;
+    border-radius: 0;
     font-size: var(--text-ui-sm);
-    font-weight: var(--font-semibold);
+    font-weight: var(--font-medium);
+}
+
+.article-meta .meta-left .meta-item + .meta-item::before {
+    content: "·";
+    margin-inline: var(--space-3);
+    color: var(--tertiary);
+    font-weight: var(--font-normal);
 }
 
 .article-meta .meta-item i {
-    color: var(--accent);
+    color: var(--tertiary);
+    font-size: var(--text-sm);
 }
 
 .article-meta .meta-author {
-    padding-inline-start: var(--space-2);
+    font-weight: var(--font-semibold);
+    color: var(--primary);
 }
 
 .article-meta .avatar--xs {
-    margin-inline-end: 2px;
-    border: 2px solid var(--accent-border-soft);
+    margin-inline-end: var(--space-2);
+    border: 1px solid var(--border);
 }
 
 .article-meta .meta-translations,
@@ -416,6 +432,11 @@ img.in-text {
     padding: 0;
     background: transparent;
     border: 0;
+}
+
+.article-meta .meta-translations .dropdown__trigger,
+.article-meta .meta-share .dropdown__trigger {
+    font-weight: var(--font-semibold);
 }
 
 .article-meta .dropdown__menu--chips {
@@ -710,12 +731,17 @@ img.in-text {
     }
 
     .article-meta.post-meta {
-        padding: var(--space-3);
+        padding: var(--space-3) 0 0;
+        gap: var(--space-3);
     }
 
     .article-meta .meta-left,
     .article-meta .meta-right {
         width: 100%;
+    }
+
+    .article-meta .meta-left .meta-item + .meta-item::before {
+        margin-inline: var(--space-2);
     }
 
     .article-toc .inner {

@@ -299,6 +299,7 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 
 - Prose in `.post-content`; code blocks with Chroma; copy button on hover.
 - Series / seeAlso / reading paths are content features — style via post-single + reading-path page CSS.
+- **Post meta:** flat typography row (author · date · reading time) under a hairline — not nested chips in a panel. Share/Translations stay chips as the only interactive chrome.
 
 ---
 
