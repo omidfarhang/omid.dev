@@ -1,0 +1,78 @@
+{{- /*
+    Gregorian time.Time → Jalali date string with Persian digits.
+    Returns e.g. "۲۸ اردیبهشت ۱۳۹۹"
+    Keeps ISO date untouched for title/datetime attributes.
+
+    Uses the algorithm from jdf.scr.ir (public-domain).
+*/ -}}
+{{- $gy := .Year -}}
+{{- $gm := int (.Format "1") -}}
+{{- $gd := .Day -}}
+
+{{- /* Cumulative days in Gregorian months (non-leap) */ -}}
+{{- $gdm := slice 0 31 59 90 120 151 181 212 243 273 304 334 -}}
+
+{{- /* Day-of-year (1-based, with leap correction) */ -}}
+{{- $gy2 := sub $gy 1600 -}}
+{{- $gm2 := sub $gm 1 -}}
+{{- $gd2 := sub $gd 1 -}}
+
+{{- /* Total Gregorian days from the reference epoch (March 20 1600 ≈ 1 Farvardin 979) */ -}}
+{{- $gDays := mul 365 $gy2 -}}
+{{- $gDays = add $gDays (div (add $gy2 3) 4) -}}
+{{- $gDays = sub $gDays (div (add $gy2 99) 100) -}}
+{{- $gDays = add $gDays (div (add $gy2 399) 400) -}}
+{{- $gDays = add $gDays (index $gdm $gm2) -}}
+{{- $gDays = add $gDays $gd2 -}}
+
+{{- /* Subtract the offset to Jalali epoch */ -}}
+{{- $jDays := sub $gDays 79 -}}
+
+{{- /* 2820-year grand cycles (1029983 days each) */ -}}
+{{- $j_np := div $jDays 12053 -}}
+{{- $jDays = mod $jDays 12053 -}}
+
+{{- /* Year within the 33-year sub-cycle */ -}}
+{{- $jy := add 979 (mul 33 $j_np) -}}
+
+{{- /* 4-year blocks inside the 33-year cycle */ -}}
+{{- $j4 := div $jDays 1461 -}}
+{{- $jy = add $jy (mul 4 $j4) -}}
+{{- $jDays = mod $jDays 1461 -}}
+
+{{- /* Remaining individual years */ -}}
+{{- if gt $jDays 365 -}}
+  {{- $jDays = sub $jDays 1 -}}
+  {{- $extra := div $jDays 365 -}}
+  {{- $jy = add $jy $extra -}}
+  {{- $jDays = mod $jDays 365 -}}
+{{- end -}}
+
+{{- /* Day-of-year → month + day */ -}}
+{{- $jm := 0 -}}
+{{- $jd := 0 -}}
+{{- if lt $jDays 186 -}}
+  {{- $jm = add 1 (div $jDays 31) -}}
+  {{- $jd = add 1 (mod $jDays 31) -}}
+{{- else -}}
+  {{- $jDays = sub $jDays 186 -}}
+  {{- $jm = add 7 (div $jDays 30) -}}
+  {{- $jd = add 1 (mod $jDays 30) -}}
+{{- end -}}
+
+{{- /* Persian month names */ -}}
+{{- $months := slice "فروردین" "اردیبهشت" "خرداد" "تیر" "مرداد" "شهریور" "مهر" "آبان" "آذر" "دی" "بهمن" "اسفند" -}}
+
+{{- /* Format and convert digits to Persian numerals */ -}}
+{{- $out := printf "%d %s %d" $jd (index $months (sub $jm 1)) $jy -}}
+{{- $out = replace $out "0" "۰" -}}
+{{- $out = replace $out "1" "۱" -}}
+{{- $out = replace $out "2" "۲" -}}
+{{- $out = replace $out "3" "۳" -}}
+{{- $out = replace $out "4" "۴" -}}
+{{- $out = replace $out "5" "۵" -}}
+{{- $out = replace $out "6" "۶" -}}
+{{- $out = replace $out "7" "۷" -}}
+{{- $out = replace $out "8" "۸" -}}
+{{- $out = replace $out "9" "۹" -}}
+{{- return $out -}}
