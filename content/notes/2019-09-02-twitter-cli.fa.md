@@ -1,6 +1,6 @@
 ---
 date: 2019-09-02T11:40:00+03:30
-url: notes/2019-09-02-twitter-cli/
+url: notes/178845195993095088/
 ---
 این twtitter cli چقدر خوبه!!!
 
