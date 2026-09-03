@@ -12,7 +12,7 @@ Stack: Hugo (no npm/Node build). Styles via Hugo Pipes.
 1. **Token-first.** Colors, type, spacing, motion, and radii live as CSS custom properties. Prefer tokens over raw values.
 2. **Compose, don’t duplicate.** Build pages from `system/` primitives + `components/` blocks; put one-off polish in `pages/`.
 3. **Steel editorial.** Cool slate neutrals with a faint blue page wash (`--page-bg`), ink text (`--primary`), and a steel-blue accent (`--accent`: `#3574b8`) for links, hovers, eyebrows, and CTAs — clearly blue but calmer than bright SaaS `#2563eb`, not gray `#334e68` slate.
-4. **Soft depth.** Subtle shadows, tinted gradients, and a single faint hero wash — no heavy glow stacks, corner orbs, or tri-color chrome.
+4. **Soft depth.** Resting surfaces use hairline borders or tint — not stacked boxes with soft shadows. Shadows are for hover lift and elevated exceptions (hero cards, page shell). Tinted gradients and a single faint hero wash — no heavy glow stacks, corner orbs, or tri-color chrome.
 5. **Multilingual by default.** English/German LTR; Persian (`fa`) RTL with Vazirmatn. Prefer logical properties (`margin-inline-*`, `inset-inline-*`) and `[dir="rtl"]` overrides where needed.
 6. **Dark mode as a first-class theme.** Tokens flip under `.dark` on `body`; avoid hard-coded light-only colors.
 7. **Reduced motion.** Honor `prefers-reduced-motion` (see `core/zmedia.css`).
@@ -220,12 +220,15 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 ### Cards (`.card`)
 
-- Base: theme fill, border, `--radius-lg`, `--shadow-sm`.
+- Base: theme fill, hairline border, `--radius-lg` — no resting shadow.
+- Interactive: `--shadow-md` on hover only.
 - Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`).
 
 ### Panels (`.panel`)
 
-Surfaces for sidebars and section boxes: `--tinted`, `--hero-gradient`, `--hero` (opaque tinted elevated card), `--accent`, `--sidebar` (sticky), `--section`, `--xl`, `--flush`.
+Surfaces for sidebars and section boxes: `--tinted`, `--hero-gradient`, `--hero` (elevated; keeps `--shadow-md`), `--accent`, `--sidebar` (sticky), `--section`, `--xl`, `--flush`.
+
+Base panel: hairline border, no resting shadow. **Nesting:** do not wrap bordered cards in a bordered section panel — section wraps use tint/spacing only (see Home).
 
 ### Chips (`.chip`)
 
@@ -284,7 +287,7 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 
 - Full-bleed-feel hero with a single faint top wash + gradient into `--page-bg`.
 - Grid: profile visual | statement (tagline `--text-display-home`, lead, CTAs).
-- Sections: title-led (context eyebrow only when it adds category); topic cards; recent posts; discovery panels.
+- Sections: unboxed tinted bands (no border/shadow on section `.panel` wrappers); interactive cards inside carry the chrome; title-led (context eyebrow only when it adds category).
 
 ### Content pages
 

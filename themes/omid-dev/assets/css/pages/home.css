@@ -106,6 +106,12 @@
     overflow: hidden;
 }
 
+.home-content .home-section.panel,
+.home-content .home-panel.panel {
+    border: 0;
+    box-shadow: none;
+}
+
 .home-content .home-section.panel:not(.home-identity-panel),
 .home-content .home-panel.panel {
     padding: var(--space-hero-y);
