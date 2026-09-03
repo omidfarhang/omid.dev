@@ -2,6 +2,8 @@
 
 Editorial map for reading paths and series (~120 evergreen posts). Historical news/commentary pre-2024 bulk excluded.
 
+Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-strategy.md).
+
 ## Series (machine-readable)
 
 | Series ID | Posts | Path(s) |

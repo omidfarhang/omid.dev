@@ -93,9 +93,17 @@ Notes use the `notes` section and a minimal archetype in `archetypes/notes.md`.
 
 ### Tags
 
-- Use tags that describe the post topic; keep existing tags on legacy posts unless you are deliberately retagging.
-- Homepage tech topic cards use curated tags from `hugo.yaml` (`homeTechTags*`) — **exact spelling required** when a post should appear under those topics.
+Full rules: [`docs/tag-strategy.md`](./docs/tag-strategy.md). Do not hard-code tag names to keep or drop; resolve from live lists and tests.
+
+- Tags are **subject facets** (“what kind of post is this?”), not an index of nouns mentioned in the body.
+- Every tag must pass the gate in that doc (subject + browse + reuse first + introduction bar + budget of 2–4, max 5).
+- Prefer curated homepage tags from `hugo.yaml` (`homeTechTags*`) — **exact spelling required** when a post should appear under those topics. Read the config; do not copy the list elsewhere.
+- **Curated tags** may also be applied when the post has **substantial dedicated treatment** of that topic (keeps homepage indexes useful).
+- **Named entities** (well-known tools, apps, libraries, IDEs, OSes) may be kept when the post gives them dedicated treatment **and** the archive already has roughly ≥ 3 unique posts with that tag. Fold near-duplicates; distinct clustered products may both stay inside the budget.
+- **Platform-shaped** how-tos also keep the matching curated parent when one exists (`homeTechTags*`).
+- Do not introduce format/genre labels or one-off product nouns that fail the cluster / introduction bar.
 - Use the same English tag strings across `.en`, `.fa`, and `.de` variants of a post.
+- Keep existing tags on legacy posts unless you are deliberately retagging.
 
 ## Reading paths and series
 
@@ -254,6 +262,16 @@ python3 scripts/shortlink.py --apply --missing --limit 20
 python3 scripts/notify-search.py              # dry-run (git diff HEAD~1 + homepages)
 python3 scripts/notify-search.py --apply
 python3 scripts/notify-search.py --urls https://omid.dev/2026/08/23/hdmi-port-keeping-nvidia-awake/
+
+# Tag manager (unique posts; language variants count as one). Mutations print a plan; --apply writes.
+python3 scripts/tag-manager.py                      # tags with ≥ 3 unique posts
+python3 scripts/tag-manager.py count --curated      # homepage lists from hugo.yaml
+python3 scripts/tag-manager.py count 'Exact Tag'    # specific candidates
+python3 scripts/tag-manager.py untagged             # posts with no tags
+python3 scripts/tag-manager.py dedupe               # duplicate tags within a post
+python3 scripts/tag-manager.py remove 'Exact Tag'
+python3 scripts/tag-manager.py replace 'Old Tag' 'New Tag'
+python3 scripts/tag-manager.py merge 'Tag A' 'Tag B' --into 'Tag C' --apply
 ```
 
 `shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
