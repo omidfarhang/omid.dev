@@ -393,7 +393,7 @@ img.in-text {
     color: var(--secondary);
     background: var(--surface-raised);
     border: 1px solid var(--border);
-    border-radius: var(--radius-pill);
+    border-radius: var(--radius);
     font-size: var(--text-ui-sm);
     font-weight: var(--font-semibold);
 }

@@ -64,7 +64,7 @@
 .input--pill {
     padding: var(--space-3) var(--space-5);
     border-width: 2px;
-    border-radius: var(--radius-pill);
+    border-radius: var(--radius-lg);
     font-size: var(--text-base);
 }
 

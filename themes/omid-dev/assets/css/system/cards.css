@@ -294,7 +294,7 @@
     color: var(--accent) !important;
     background: var(--theme);
     border: 1px solid var(--accent-border-soft);
-    border-radius: var(--radius-pill);
+    border-radius: var(--radius);
     font-size: var(--text-ui-sm);
     font-weight: var(--font-bold);
     line-height: var(--leading-tight);
@@ -670,7 +670,7 @@ a.series-nav__row:focus-visible {
     padding: 0.15em 0.55em;
     color: var(--accent);
     background: var(--accent-light);
-    border-radius: var(--radius-pill);
+    border-radius: var(--radius);
     font-size: var(--text-3xs);
     font-weight: var(--font-extrabold);
     letter-spacing: 0.04em;

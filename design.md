@@ -48,7 +48,7 @@ Documented in `layouts/partials/head.html`. Load order matters.
 | `--radius` | `8px` | Default corners |
 | `--radius-lg` | `12px` | Cards / panels |
 | `--radius-xl` | `16px` | Large panels |
-| `--radius-pill` | `999px` | Buttons, chips |
+| `--radius-pill` | `999px` | Circular icon wells / true circles only — not buttons or chips |
 
 **Page shell**
 
@@ -213,7 +213,7 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 ### Buttons (`.btn`)
 
-- Shape: pill (`--radius-pill`), min-height 42px (36px for `--sm`).
+- Shape: rounded rectangle (`--radius-lg`), min-height 42px (36px for `--sm`).
 - Variants: `--primary` (ink fill → accent on hover), `--secondary` (outlined → accent on hover), `--accent` (accent fill for prominent CTAs).
 - Modifiers: `--sm`, `--block`, groups via `.btn-group` / `--column`.
 - Focus: `--focus-ring`.
@@ -229,7 +229,7 @@ Surfaces for sidebars and section boxes: `--tinted`, `--hero-gradient`, `--hero`
 
 ### Chips (`.chip`)
 
-Tags, filters, stats: `--default`, `--pill`, `--stat`, `--tag` (hash prefix), etc. Pill radius; bold/semibold UI sizes.
+Tags, filters, stats: `--default`, `--pill`, `--stat`, `--tag` (hash prefix), etc. Soft corners (`--radius`); bold/semibold UI sizes.
 
 ### Icons (`.icon-circle`)
 

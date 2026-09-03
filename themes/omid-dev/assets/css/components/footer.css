@@ -265,7 +265,7 @@
     color: var(--accent);
     text-align: center;
     background: var(--accent-light);
-    border-radius: 999px;
+    border-radius: var(--radius);
 }
 
 .footer-recent-posts li,
@@ -376,7 +376,7 @@
     padding: var(--space-1);
     background: var(--theme);
     border: 1px solid var(--border);
-    border-radius: 999px;
+    border-radius: var(--radius-lg);
     box-shadow: var(--shadow-sm);
 }
 
@@ -387,7 +387,7 @@
     min-width: 34px;
     min-height: 30px;
     padding: var(--space-1) 9px;
-    border-radius: 999px;
+    border-radius: var(--radius);
     font-size: var(--text-sm);
     font-weight: var(--font-semibold);
     opacity: 0.72;

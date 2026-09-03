@@ -18,7 +18,7 @@
     min-height: 42px;
     padding: 0.625rem var(--space-5);
     border: 1px solid transparent;
-    border-radius: var(--radius-pill);
+    border-radius: var(--radius-lg);
     box-sizing: border-box;
     background: none;
     color: inherit;
