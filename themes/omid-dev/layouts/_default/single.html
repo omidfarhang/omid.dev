@@ -35,8 +35,12 @@
   <div class="article-body">
     {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
     {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
-    {{- if (.Param "ShowToc") }}
-    {{- partial "toc.html" . }}
+    {{- $showToc := .Param "ShowToc" -}}
+
+    {{- if $showToc -}}
+    <div class="article-body-layout">
+      {{- partial "toc.html" . }}
+      <div class="article-body-main">
     {{- end }}
 
     {{- if .Content }}
@@ -67,6 +71,18 @@
     </footer>
 
     {{- partial "related.html" . }}
+
+    {{- if $showToc -}}
+      </div>{{/* .article-body-main */}}
+    </div>{{/* .article-body-layout */}}
+    {{- $tocJs := resources.Get "js/toc-scrollspy.js" | js.Build | resources.Minify -}}
+    {{- if not site.Params.assets.disableFingerprinting -}}
+    {{- $tocJs = $tocJs | fingerprint -}}
+    <script defer crossorigin="anonymous" src="{{ $tocJs.RelPermalink }}" integrity="{{ $tocJs.Data.Integrity }}"></script>
+    {{- else -}}
+    <script defer crossorigin="anonymous" src="{{ $tocJs.RelPermalink }}"></script>
+    {{- end -}}
+    {{- end }}
   </div>
 </article>
 

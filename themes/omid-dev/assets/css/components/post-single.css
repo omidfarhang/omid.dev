@@ -608,19 +608,135 @@ img.in-text {
 
 .article-toc a {
     display: block;
-    padding: var(--space-2) 0;
+    padding: var(--space-2) var(--space-2);
     color: var(--secondary);
     font-size: var(--text-sm);
     font-weight: var(--font-semibold);
     line-height: var(--leading-compact);
+    border-inline-start: 2px solid transparent;
+    border-radius: 0;
     box-shadow: none;
     text-decoration: none !important;
+    transition: var(--transition-interactive);
 }
 
 .article-toc a:hover {
     color: var(--accent);
-    padding-inline-start: var(--space-2);
     box-shadow: none;
+}
+
+.article-toc a.is-active,
+.article-toc a[aria-current="location"] {
+    color: var(--accent);
+    border-inline-start-color: var(--accent);
+    background: transparent;
+    font-weight: var(--font-bold);
+}
+
+/* Desktop floating TOC — named areas so DOM order cannot stack columns */
+@media (min-width: 1120px) {
+    .article-page.page-shell:has(.article-toc) {
+        overflow: visible;
+    }
+
+    .article-page.page-shell:has(.article-toc) > .article-hero {
+        border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+    }
+
+    .article-page.page-shell:has(.article-toc) > .article-body {
+        border-radius: 0 0 var(--radius-xl) var(--radius-xl);
+    }
+
+    .article-body-layout {
+        display: grid;
+        grid-template-columns: minmax(0, 78ch) minmax(16rem, 1fr);
+        grid-template-areas: "main toc";
+        column-gap: var(--space-8);
+        align-items: start;
+        justify-content: start;
+    }
+
+    .article-body-main {
+        grid-area: main;
+        min-width: 0;
+    }
+
+    .article-body-main > .post-content,
+    .article-body-main > .post-footer,
+    .article-body-main > .related-posts {
+        max-width: none;
+        margin-inline: 0;
+    }
+
+    .article-body-layout > .article-toc {
+        grid-area: toc;
+        justify-self: stretch;
+        align-self: start;
+        position: sticky;
+        top: calc(var(--header-height) + var(--space-8));
+        z-index: 5;
+        width: 100%;
+        max-width: 22rem;
+        max-height: calc(100vh - var(--header-height) - var(--space-10));
+        margin: 0;
+        padding: 0;
+        overflow: auto;
+        overscroll-behavior: contain;
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    .article-toc .disclosure {
+        background: transparent;
+    }
+
+    .article-toc .disclosure__summary {
+        padding: 0 0 var(--space-3);
+        pointer-events: none;
+        cursor: default;
+    }
+
+    .article-toc .details {
+        gap: 0;
+        font-size: var(--text-ui);
+        font-weight: var(--font-bold);
+        color: var(--secondary);
+    }
+
+    .article-toc .details i,
+    .article-toc .toc-toggle-icon {
+        display: none;
+    }
+
+    .article-toc .inner,
+    .article-toc .disclosure__body,
+    [dir="rtl"] .article-toc .inner,
+    [dir="rtl"] .article-toc .disclosure__body {
+        padding: 0;
+    }
+
+    .article-toc a {
+        padding: var(--space-1) var(--space-3);
+        border-radius: 0;
+    }
+
+    /* Keep TOC body visible on desktop even before JS opens <details> */
+    .article-toc details:not([open]) > .inner,
+    .article-toc details:not([open]) > .disclosure__body {
+        display: block;
+    }
+
+    .article-toc details::details-content {
+        block-size: auto;
+        overflow: visible;
+        content-visibility: visible;
+    }
+
+    .article-body .post-content :is(h2, h3, h4, h5, h6) {
+        scroll-margin-top: calc(var(--header-height) + var(--space-8));
+    }
 }
 
 /* Article prose — polish only; base elements from system/prose.css, tables from system/tables.css */
