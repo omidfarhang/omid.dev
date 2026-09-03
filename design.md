@@ -288,7 +288,8 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 
 - Full-bleed-feel hero with a single faint top wash + gradient into `--page-bg`.
 - Grid: profile visual | statement (tagline `--text-display-home`, lead, CTAs).
-- Sections: unboxed tinted bands (no border/shadow on section `.panel` wrappers); interactive cards inside carry the chrome; title-led (context eyebrow only when it adds category).
+- Sections: unboxed tinted bands (no border/shadow on section `.panel` wrappers); interactive cards inside carry the chrome; even `--home-band-gap` between bands.
+- Headings: shared `home_section_heading` — title-led `section-title--underline` on every band, no section eyebrows.
 
 ### Content pages
 

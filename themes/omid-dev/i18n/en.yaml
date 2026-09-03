@@ -122,12 +122,6 @@
 - id: home_core_stack
   translation: "Core Stack"
 
-- id: home_life_eyebrow
-  translation: "Beyond Engineering"
-
-- id: home_playground_eyebrow
-  translation: "Live demos"
-
 - id: home_playground_link
   translation: "Open playground"
 

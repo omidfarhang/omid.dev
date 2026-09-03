@@ -51,12 +51,11 @@
 
     {{- if $now.focuses }}
     <section class="home-section home-now panel panel--tinted panel--xl">
-        <div class="section-header-row home-now-header">
-            <h2 class="section-title section-title--compact">{{ i18n "home_now_title" }}</h2>
-            {{- with site.GetPage "now" }}
-            <a class="section-header-link home-now-link" href="{{ .Permalink }}">{{ if eq $.Language.Direction "rtl" }}← {{ i18n "home_now_link" }}{{ else }}{{ i18n "home_now_link" }} →{{ end }}</a>
-            {{- end }}
-        </div>
+        {{- $nowHeading := dict "title" (i18n "home_now_title") "rtl" (eq .Language.Direction "rtl") -}}
+        {{- with site.GetPage "now" }}
+        {{- $nowHeading = merge $nowHeading (dict "href" .Permalink "linkLabel" (i18n "home_now_link")) -}}
+        {{- end }}
+        {{- partial "home_section_heading.html" $nowHeading }}
         <div class="now-cards">
             {{- range first 4 $now.focuses }}
             <article class="card card--interactive card--horizontal card--tinted card--now now-card">
@@ -77,15 +76,13 @@
     {{- $playgroundUrl := site.Params.playground.baseURL | default "https://playground.omid.dev" }}
     {{- if $playground }}
     <section class="home-section home-playground panel panel--tinted panel--xl">
-        <div class="section-header-row home-playground-header">
-            <div>
-                <p class="section-eyebrow">{{ i18n "home_playground_eyebrow" }}</p>
-                <h2 class="section-title section-title--compact">{{ $playground.title }}</h2>
-            </div>
-            <a class="section-header-link home-playground-link" href="{{ $playgroundUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
-                {{ if eq .Language.Direction "rtl" }}← {{ i18n "home_playground_link" }}{{ else }}{{ i18n "home_playground_link" }} →{{ end }}
-            </a>
-        </div>
+        {{- partial "home_section_heading.html" (dict
+            "title" $playground.title
+            "href" $playgroundUrl
+            "linkLabel" (i18n "home_playground_link")
+            "rtl" (eq .Language.Direction "rtl")
+            "external" true
+        ) }}
         <div class="home-playground-card panel panel--accent">
             <div class="icon-circle icon-circle--sm icon-circle--filled home-playground-icon" aria-hidden="true">
                 <i class="fa-solid fa-play"></i>
@@ -111,14 +108,13 @@
     {{- $allSeries := .Scratch.Get "allSeriesList" -}}
     {{- if and $allSeries site.Params.homeFeaturedSeries }}
     <section class="home-section home-active-series panel panel--tinted panel--xl home-panel" aria-labelledby="home-active-series-title">
-        <div class="section-header-row home-active-series-header">
-            <div>
-                <h2 id="home-active-series-title" class="section-title section-title--compact">{{ i18n "active_series_title" }}</h2>
-            </div>
-            <a class="section-header-link home-active-series-link" href="{{ relLangURL "/series/" }}">
-                {{ if eq .Language.Direction "rtl" }}← {{ i18n "view_all_series" }}{{ else }}{{ i18n "view_all_series" }} →{{ end }}
-            </a>
-        </div>
+        {{- partial "home_section_heading.html" (dict
+            "id" "home-active-series-title"
+            "title" (i18n "active_series_title")
+            "href" (relLangURL "/series/")
+            "linkLabel" (i18n "view_all_series")
+            "rtl" (eq .Language.Direction "rtl")
+        ) }}
         {{- partial "series_cards.html" (dict
             "series" $allSeries
             "featuredIds" site.Params.homeFeaturedSeries
@@ -129,17 +125,15 @@
     {{- end }}
 
     <section class="home-section home-reading-paths panel panel--tinted panel--xl home-panel" aria-labelledby="home-reading-paths-title">
-        <div class="section-header-row home-reading-paths-header">
-            <div>
-                <p class="section-eyebrow">{{ i18n "reading_paths_eyebrow" }}</p>
-                <h2 id="home-reading-paths-title" class="section-title section-title--compact">{{ i18n "reading_paths_title" }}</h2>
-            </div>
-            {{- with site.GetPage "posts/techblog" }}
-            <a class="section-header-link home-reading-paths-link" href="{{ .Permalink }}">
-                {{ if eq $.Language.Direction "rtl" }}← {{ .Title }}{{ else }}{{ .Title }} →{{ end }}
-            </a>
-            {{- end }}
-        </div>
+        {{- $pathsHeading := dict
+            "id" "home-reading-paths-title"
+            "title" (i18n "reading_paths_title")
+            "rtl" (eq .Language.Direction "rtl")
+        -}}
+        {{- with site.GetPage "posts/techblog" }}
+        {{- $pathsHeading = merge $pathsHeading (dict "href" .Permalink "linkLabel" .Title) -}}
+        {{- end }}
+        {{- partial "home_section_heading.html" $pathsHeading }}
         {{- partial "reading_path_cards.html" . }}
     </section>
 
@@ -165,8 +159,9 @@
     {{- end }}
     {{- if $hasOtherTopics }}
     <section class="life-section panel panel--tinted panel--xl home-panel home-discovery-panel">
-        <p class="section-eyebrow">{{ i18n "home_life_eyebrow" }}</p>
-        <h2 class="section-title section-title--compact">{{ i18n "life_interests" }}</h2>
+        {{- partial "home_section_heading.html" (dict
+            "title" (i18n "life_interests")
+        ) }}
         <div class="life-links-home">
             {{- range $postsSection.Sections }}
             {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
@@ -199,7 +194,9 @@
     {{- $featured := index $latest_posts 0 }}
     {{- $more_posts := after 1 $latest_posts }}
     <section class="home-section recent-posts panel panel--tinted panel--xl">
-        <h2 class="section-title section-title--underline">{{ i18n "recent_posts" }}</h2>
+        {{- partial "home_section_heading.html" (dict
+            "title" (i18n "recent_posts")
+        ) }}
 
         <div class="posts-showcase">
             {{- partial "post_entry_card.html" (dict "page" $featured "featured" true) }}
@@ -223,7 +220,9 @@
     {{- end }}
 
     <section class="home-section contact-cta panel panel--tinted panel--xl">
-        <h2 class="section-title section-title--underline">{{ i18n "contact" }}</h2>
+        {{- partial "home_section_heading.html" (dict
+            "title" (i18n "contact")
+        ) }}
         <div class="contact-card panel panel--accent">
             <p>{{ $home.contactCta }}</p>
             <a href="{{ "contact-me" | relLangURL }}" class="btn btn--primary">

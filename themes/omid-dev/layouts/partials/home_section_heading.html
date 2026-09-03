@@ -1,0 +1,23 @@
+{{- $id := .id -}}
+{{- $title := .title -}}
+{{- $eyebrow := .eyebrow -}}
+{{- $href := .href -}}
+{{- $linkLabel := .linkLabel -}}
+{{- $rtl := .rtl -}}
+{{- $external := .external -}}
+
+<div class="home-section-heading">
+    {{- if $eyebrow }}
+    <p class="section-eyebrow">{{ $eyebrow }}</p>
+    {{- end }}
+    {{- if $href }}
+    <div class="section-header-row">
+        <h2{{ with $id }} id="{{ . }}"{{ end }} class="section-title section-title--underline">{{ $title }}</h2>
+        <a class="section-header-link" href="{{ $href | safeURL }}"{{ if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>
+            {{ if $rtl }}← {{ $linkLabel }}{{ else }}{{ $linkLabel }} →{{ end }}
+        </a>
+    </div>
+    {{- else }}
+    <h2{{ with $id }} id="{{ . }}"{{ end }} class="section-title section-title--underline">{{ $title }}</h2>
+    {{- end }}
+</div>
