@@ -1,0 +1,8 @@
+# omid.dev security contact
+# https://www.rfc-editor.org/rfc/rfc9116
+
+Canonical: https://omid.dev/.well-known/security.txt
+Contact: mailto:hi@omid.dev
+Contact: https://omid.dev/contact-me/
+Expires: 2027-09-01T00:00:00.000Z
+Preferred-Languages: en, fa, de
