@@ -174,7 +174,6 @@
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 {{- if .IsHome -}}
-<link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
 {{- range site.Home.AllTranslations -}}
 <link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
 {{- end -}}
@@ -188,7 +187,6 @@
 {{- range .AllTranslations -}}
 <link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
 {{- end -}}
-<link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}">
 {{- $xDefault := . -}}
 {{- range .AllTranslations -}}
 {{- if eq .Lang "en" -}}{{- $xDefault = . -}}{{- end -}}
