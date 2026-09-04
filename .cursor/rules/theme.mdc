@@ -6,7 +6,7 @@ alwaysApply: false
 
 # Theme (`themes/omid-dev`)
 
-Follow `AGENTS.md` for project context. Design system: [`design.md`](../../design.md) (tokens, layers, primitives).
+Follow `AGENTS.md` for project context. Design system: [`DESIGN.md`](../../DESIGN.md) (tokens, layers, primitives).
 
 - Layouts: Go templates in `layouts/`; extend partials rather than duplicating markup.
 - CSS: modular files under `assets/css/`; use tokens from `core/` and existing components.
