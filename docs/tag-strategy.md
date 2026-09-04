@@ -36,6 +36,8 @@ Count **unique posts** already using a candidate (language variants `.en` / `.fa
 
 ```bash
 python3 scripts/tag-manager.py                         # tags that already clear ≥ 3
+python3 scripts/tag-manager.py count --eq 1            # singleton tags
+python3 scripts/tag-manager.py count --eq 2            # tags with exactly 2 unique posts
 python3 scripts/tag-manager.py count --curated         # homepage lists from hugo.yaml
 python3 scripts/tag-manager.py count 'Exact Tag'       # specific candidates (quote names with spaces)
 ```

@@ -265,6 +265,8 @@ python3 scripts/notify-search.py --urls https://omid.dev/2026/08/23/hdmi-port-ke
 
 # Tag manager (unique posts; language variants count as one). Mutations print a plan; --apply writes.
 python3 scripts/tag-manager.py                      # tags with ≥ 3 unique posts
+python3 scripts/tag-manager.py count --eq 1         # tags with exactly 1 unique post
+python3 scripts/tag-manager.py count --eq 2         # tags with exactly 2 unique posts
 python3 scripts/tag-manager.py count --curated      # homepage lists from hugo.yaml
 python3 scripts/tag-manager.py count 'Exact Tag'    # specific candidates
 python3 scripts/tag-manager.py untagged             # posts with no tags

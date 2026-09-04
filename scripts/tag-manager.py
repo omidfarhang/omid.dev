@@ -172,10 +172,16 @@ def print_counts(
     *,
     names: list[str] | None,
     minimum: int,
+    exact: set[int] | None,
     curated: set[str],
 ) -> None:
     if names:
         rows = [(name, len(posts.get(name, set()))) for name in names]
+    elif exact:
+        rows = sorted(
+            ((tag, len(slugs)) for tag, slugs in posts.items() if len(slugs) in exact),
+            key=lambda item: (-item[1], item[0].lower()),
+        )
     else:
         rows = sorted(
             ((tag, len(slugs)) for tag, slugs in posts.items() if len(slugs) >= minimum),
@@ -185,6 +191,12 @@ def print_counts(
     for tag, count in rows:
         marker = "  curated" if tag in curated else ""
         print(f"{count:4d}  {tag}{marker}")
+
+    if names or not exact:
+        return
+    sizes = " or ".join(str(n) for n in sorted(exact))
+    noun = "post" if exact == {1} else "posts"
+    print(f"\n{len(rows)} tag(s) with exactly {sizes} unique {noun}.")
 
 
 def print_curated(lists: dict[str, list[str]]) -> None:
@@ -312,10 +324,21 @@ def cmd_count(args: argparse.Namespace, posts_dir: Path, hugo_yaml: Path) -> int
         print_curated(load_curated_tags(hugo_yaml))
         return 0
 
+    exact = set(args.eq) if args.eq else None
+    if exact and any(n < 1 for n in exact):
+        print("--eq values must be ≥ 1", file=sys.stderr)
+        return 1
+
     minimum = 1 if args.all else args.min
     posts = collect_tag_posts(posts_dir)
     curated = curated_set(load_curated_tags(hugo_yaml)) if hugo_yaml.is_file() else set()
-    print_counts(posts, names=args.tags or None, minimum=minimum, curated=curated)
+    print_counts(
+        posts,
+        names=args.tags or None,
+        minimum=minimum,
+        exact=exact,
+        curated=curated,
+    )
     return 0
 
 
@@ -342,7 +365,7 @@ def cmd_untagged(args: argparse.Namespace, posts_dir: Path, root: Path) -> int:
     return 0
 
 
-VALUE_FLAGS = {"--posts-dir", "--hugo-yaml", "--min", "--limit", "--into"}
+VALUE_FLAGS = {"--posts-dir", "--hugo-yaml", "--min", "--limit", "--into", "--eq"}
 
 
 def add_shared_paths(parser: argparse.ArgumentParser) -> None:
@@ -389,6 +412,8 @@ def build_parser() -> argparse.ArgumentParser:
             "examples:\n"
             "  tag-manager.py\n"
             "  tag-manager.py count --curated\n"
+            "  tag-manager.py count --eq 1\n"
+            "  tag-manager.py count --eq 2\n"
             "  tag-manager.py count --min 1\n"
             "  tag-manager.py count 'Exact Tag'\n"
             "  tag-manager.py untagged\n"
@@ -419,6 +444,13 @@ def build_parser() -> argparse.ArgumentParser:
         default=CLUSTER_MIN,
         metavar="N",
         help=f"minimum unique posts when listing all tags (default: {CLUSTER_MIN})",
+    )
+    count_p.add_argument(
+        "--eq",
+        nargs="+",
+        type=int,
+        metavar="N",
+        help="list tags with exactly N unique posts (e.g. --eq 1 or --eq 1 2)",
     )
     count_p.add_argument(
         "--all",
