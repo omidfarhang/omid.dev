@@ -35,6 +35,9 @@
 {{- end }}
 {{- $pageCanonical := partial "page_canonical.html" . -}}
 <link rel="canonical" href="{{ $pageCanonical }}">
+{{- with .Params.shortlink }}
+<link rel="shortlink" href="{{ . }}">
+{{- end }}
 {{- $googleVerify := or site.Params.analytics.google.SiteVerificationTag (getenv "GOOGLE_SITE_VERIFICATION") -}}
 {{- if $googleVerify }}
 <meta name="google-site-verification" content="{{ $googleVerify }}">
