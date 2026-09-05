@@ -121,6 +121,16 @@
         "panel": "shared"
       },
       "problemMatcher": []
+    },
+    {
+      "label": "resume PDF",
+      "type": "shell",
+      "command": "python3 scripts/resume-pdf.py",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
     }
   ],
   "inputs": [

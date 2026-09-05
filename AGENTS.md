@@ -274,11 +274,19 @@ python3 scripts/tag-manager.py dedupe               # duplicate tags within a po
 python3 scripts/tag-manager.py remove 'Exact Tag'
 python3 scripts/tag-manager.py replace 'Old Tag' 'New Tag'
 python3 scripts/tag-manager.py merge 'Tag A' 'Tag B' --into 'Tag C' --apply
+
+# Resume PDFs from resume-print layout (headless Chromium → static/resume/)
+python3 scripts/resume-pdf.py                       # hugo --minify + all langs
+python3 scripts/resume-pdf.py --lang en             # one language
+python3 scripts/resume-pdf.py --no-build            # reuse existing public/
+python3 scripts/resume-pdf.py --base-url http://127.0.0.1:1313
 ```
 
 `shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
 
 `notify-search.py` reads the public IndexNow key from `params.indexNow.key` in `hugo.yaml` (override with `INDEXNOW_KEY`). The matching key file is `static/{key}.txt`. Do not use Google's deprecated sitemap ping.
+
+`resume-pdf.py` needs Chromium or Chrome on `PATH` (or `--browser`). Writes `OmidFarhang-Resume{,-De,-Fa}.pdf` under `static/resume/`.
 
 Requires Python 3.
 
