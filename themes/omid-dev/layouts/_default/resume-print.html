@@ -13,7 +13,7 @@
         }
         
         body {
-            font-family: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
+            font-family: "Source Serif 4", "Times New Roman", Times, serif;
             font-size: 10.5pt;
             line-height: 1.35;
             color: #000;
@@ -24,7 +24,7 @@
         }
 
         body:lang(fa) {
-            font-family: 'Vazirmatn', 'Arial', sans-serif;
+            font-family: Vazirmatn, sans-serif;
             font-size: 10pt;
         }
         
@@ -261,6 +261,9 @@
     <link rel="stylesheet" href="{{ $fontawesome.RelPermalink }}">
     {{- if eq .Site.Language.Lang "fa" }}
     {{- $printFonts := resources.Get "css/vendor/fonts.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $printFonts.RelPermalink }}">
+    {{- else }}
+    {{- $printFonts := resources.Get "css/vendor/resume-print-fonts.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $printFonts.RelPermalink }}">
     {{- end }}
 </head>
