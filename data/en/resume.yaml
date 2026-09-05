@@ -8,92 +8,96 @@ contact:
   github: "https://github.com/omidfarhang"
   xing: "https://www.xing.com/profile/Omid_Farhang"
 summary: >
-  Frontend Architect and engineering leader with 10+ years building and scaling complex web platforms. Led teams of up to 15 engineers and delivered measurable outcomes: 40% faster delivery via an Angular-based framework and design system, 50% faster CI/CD builds after consolidating to an Nx monorepo, and 15→4 minute deployments through pipeline optimization. Deep expertise in Angular and TypeScript, with strong focus on performance, testing, and platform governance.
+  Frontend architect and engineering lead with 10+ years building web platforms
+  where product, architecture, and developer experience meet. I specialize in
+  Angular and TypeScript, and in the systems around them: design systems,
+  Nx monorepos, testing, and CI/CD. At Jibit I started as the only Angular
+  engineer, grew a team of 3 Angular developers and 1 web developer, and own
+  the platform that team ships on: ~10 Angular apps in an Nx monorepo, a
+  shared design system, and the CI/CD around it. Earlier roles: AngularJS to
+  Angular with Laravel then Spring Boot APIs, Windows operations, and Linux
+  consulting.
 skills:
-  - category: Leadership & Management
-    items: [Engineering Leadership, Team Building & Hiring, Mentorship, Performance Management, Stakeholder Management, Agile Delivery (Scrum/Kanban)]
-  - category: Architecture & Engineering
-    items: [Frontend Architecture, Design Systems, Nx Monorepos, Micro-frontends, SOLID & Design Patterns, Performance Engineering, Web Vitals]
-  - category: Frontend Ecosystem
-    items: [Angular (Expert), TypeScript, RxJS, State Management, Component Libraries, Storybook, Testing (Vitest/Jest/Playwright)]
-  - category: Backend & Integration
-    items: [Node.js, NestJS, Express.js, Laravel, REST APIs, gRPC, MySQL/MariaDB]
-  - category: DevOps & Security
-    items: [Docker, CI/CD, Linux, Nginx, OWASP Top 10, XSS/CSRF Mitigation, CDN & Caching Strategies]
+  - category: Leadership
+    items: [Engineering Leadership, Mentorship, Hiring, Agile Delivery]
+  - category: Architecture
+    items: [Frontend Architecture, Design Systems, Nx Monorepos, Performance, Platform Governance]
+  - category: Frontend
+    items: [Angular, TypeScript, RxJS, Storybook, Vitest, Playwright, WordPress, Hugo]
+  - category: Backend & APIs
+    items: [REST, gRPC, Laravel, Spring Boot, MariaDB]
+  - category: DevOps
+    items: [Docker, GitLab CI, Linux, Nginx]
   - category: Languages
     items: [Persian (Native), English (Advanced), German (B1)]
 experience:
   - title: Lead Frontend Engineer & Team Lead
-    company: JIBit
+    company: Jibit
     period: Aug 2019 - Present
     description: >
-      Jibit is a leading B2B FinTech providing payment infrastructure and enterprise financial services, processing millions of transactions for 500+ corporate clients.
+      Jibit is a B2B FinTech building payment infrastructure, enterprise
+      financial services, and digital identity verification.
     responsibilities:
-      - Led migration of legacy React applications to Angular, delivering 100% feature parity with zero downtime.
-      - Improved application performance by 30% through modernization and optimization.
-      - Consolidated fragmented repositories and Git Submodules into an Nx monorepo; reduced CI/CD build times by 50%.
-      - Improved developer productivity by 25% by standardizing tooling and workflows in the monorepo.
-      - Built an internal Angular-based framework and design system, reducing delivery time by 40% and enforcing 100% UI/UX consistency.
-      - Implemented Jira-based Agile delivery, increasing sprint velocity by 35% and reducing bug report volume by 20%.
-      - Migrated unit testing from Jest to Vitest, cutting unit test runtime by 70%.
-      - Increased Playwright E2E coverage to 85%.
-      - Optimized Docker-based deployment pipelines with DevOps, reducing deployment time from 15 minutes to under 4 minutes and enabling daily production releases.
-      - Scaled the frontend organization from 1 to 4 engineers while maintaining a 100% retention rate.
-    skills: [Engineering Leadership, Mentorship, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, Agile]
+      - Started as the sole Angular engineer; hired and mentored until the team was 3 Angular developers and 1 web developer. Partner companies now ask me to interview their frontend hires.
+      - Built new Angular panels and replaced older React apps as standalone repos, then shared code with Git submodules when back-office and end-user apps needed the same features.
+      - Folded those apps, shared modules, and the design system into one Nx monorepo (~10 Angular apps, shared libs, feature libs), preserving git history and keeping the workspace current through major Angular upgrades.
+      - Introduced a unified design system with the UI/UX team in Figma, implemented it as an Angular library with Storybook and custom generators, and rolled it out across the Angular apps.
+      - Designed the GitLab CI/CD for that monorepo myself (change-based builds, ordered Docker deploys, shell tooling); CI ~50% faster, deploy time from 15 minutes to under 4, daily production releases.
+      - Moved unit tests from Jest to Vitest, expanded Playwright E2E coverage, and ran performance monitoring on the Angular apps.
+      - Besides the Angular apps, the team also runs the public website and developer documentation: WordPress in Docker, with caching, MariaDB tuning, PHP security hardening, and GTmetrix A-level front-end performance.
+    skills: [Engineering Leadership, Mentorship, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, WordPress]
   - title: Technical Consultant / Tech Lead
     company: Raymandan Taly Parseh
     period: Jun 2020 - Mar 2022
     description: >
-      Raymandan Taly Parseh is a business management consultancy.
+      Concurrent with Jibit. Technical consulting for a tower project: public
+      site, mail, and a construction camera for buyers.
     responsibilities:
-      - Delivered landing pages and client portals, increasing user conversion rates by 25%.
-      - Maintained 99.9% service availability for client-facing platforms.
-      - Operated Ubuntu/Nginx/MariaDB infrastructure for web and mail services supporting 10,000+ monthly active users.
-      - Maintained a strong security posture with no reported security breaches.
-      - Implemented RTSP/FFmpeg-based web streaming for internal camera broadcasting, reducing stream latency by 40%.
-      - Scaled streaming to support up to 50 concurrent high-definition feeds.
-      - Reduced incident recovery time by 60% during network attacks and ISP downtimes as a technical advisor.
-    skills: [Technical Consulting, Infrastructure Management, Linux, Nginx, MariaDB, RTSP, FFmpeg, Ubuntu]
+      - Stood up the first VPS with mail, MariaDB, and a custom-designed public website.
+      - Delivered an on-site RTSP camera to the public landing page: FFmpeg capture and transcode to MP4 over a low-bandwidth link, then CDN playback.
+      - Added backup and failover for mail and the site after early outages.
+    skills: [Technical Consulting, Linux, Nginx, MariaDB, FFmpeg, RTSP, CDN, Ubuntu]
   - title: Lead Frontend Developer
     company: Poolito
     period: Nov 2018 - Aug 2019
     description: >
-      Poolito was a FinTech startup providing innovative payment solutions.
+      FinTech startup building payment products for consumers and operators.
     responsibilities:
-      - Led the frontend team delivering admin and client dashboards for 50,000+ users with sub-second page load times.
-      - Designed Angular + gRPC communication layers, reducing data payload sizes by 60%.
-      - Improved real-time update efficiency by 45% through optimized data handling.
-      - Delivered responsive landing pages, achieving a 95+ Lighthouse performance score and increasing mobile user engagement by 30%.
+      - Led frontend for admin and client dashboards used in day-to-day payment operations.
+      - Designed Angular and gRPC communication for real-time financial data, keeping payloads small enough for frequent updates.
+      - Built responsive marketing and landing pages for acquisition campaigns.
     skills: [Team Leadership, Angular, gRPC, TypeScript, CSS, RxJS]
-  - title: Lead Frontend Developer (Promoted from Junior)
+  - title: Lead Frontend Developer
     company: ModernPal
     period: Oct 2015 - Nov 2018
+    description: >
+      Promoted from junior to lead. Health and financial products, including a
+      money-exchange platform. Introduced AngularJS, then Angular, on the team.
     responsibilities:
-      - Promoted from Junior to Lead Frontend Developer, setting technical direction for 3 major platforms and mentoring 5 junior developers.
-      - Migrated AngularJS to Angular 2+, improving application runtime performance by 40%.
-      - Reduced bundle size by 25% through modernization and optimization.
-      - Built full-stack features for a money exchange platform using Angular and Laravel, processing over $1M in transactions monthly.
-      - Led backend transition from PHP Laravel to Java Spring Boot, improving API response times by 50% and increasing system throughput by 3x.
-      - Partnered with the CTO to align frontend strategy with business goals and technical roadmaps.
-    skills: [Technical Direction, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, Gradle]
+      - Built production AngularJS apps, then migrated them to Angular 2+ with an incremental rewrite (ngUpgrade was not viable).
+      - Delivered Laravel REST APIs for those Angular clients, then cut the APIs over to Spring Boot on the same contracts.
+      - Shipped WordPress sites alongside the product apps.
+      - Set frontend technical direction and mentored developers, working with the CTO on stack and product decisions.
+    skills: [Technical Direction, Angular, AngularJS, Laravel, PHP, Java, Spring Boot, WordPress, Gradle]
   - title: System Administrator & Web Developer
     company: Haseb System Consultancy Co
     period: Sep 2014 - Nov 2015
     description: >
-      Haseb System is a business management consultancy.
+      Business-management consultancy. Started in Windows IT operations, then
+      added internal PHP applications.
     responsibilities:
-      - Overhauled the corporate IT infrastructure for 30+ workstations, resolving critical Domain Controller and DNS issues and reducing network downtime by 90%.
-      - Administered Windows Server environments and TFS (Team Foundation Server), maintaining 99.9% uptime for critical development services.
-      - Created a comprehensive internal PHP/MySQL portal for personnel timesheet tracking and payroll, automating processes for 50+ employees and reducing overhead by 30%.
-      - Launched a multi-functional health platform featuring a medical directory and community forum, reaching 5,000+ registered users within 6 months.
-    skills: [System Administration, IT Infrastructure, PHP, MySQL, Windows Server, TFS, DNS, Networking]
-  - title: Early Career (IT Support)
+      - Stabilized the office WAN, then repaired Active Directory, DNS, and TFS for 30+ workstations; rolled hardware and centralized Windows, antivirus, and application updates.
+      - Replaced the time-and-attendance device and integrated it with internal software.
+      - Built an internal PHP/MariaDB portal for timesheets, petty cash, payroll, and shared expenses.
+      - Shipped a PHP health directory and community forum (phpBB) for staff and clients.
+    skills: [System Administration, Windows Server, Active Directory, TFS, DNS, PHP, MariaDB, phpBB]
+  - title: IT Support
     company: IRIB
     period: Sep 2007 - Jun 2008
     description: >
-      The Islamic Republic of Iran Broadcasting (IRIB).
+      Islamic Republic of Iran Broadcasting.
     responsibilities:
-      - Designed web-based internal tools and provided IT support for Windows-based environments.
+      - Built small internal web tools and provided Windows IT support.
 certifications:
   - title: German Language (B1)
     provider: Goethe-Institut
