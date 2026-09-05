@@ -47,3 +47,5 @@
 .stack-icon--ubuntu::before { content: "\e016"; }
 .stack-icon--vitest::before { content: "\e017"; }
 .stack-icon--windows::before { content: "\e018"; }
+.stack-icon--wordpress::before { content: "\e019"; }
+.stack-icon--gitlab::before { content: "\e01a"; }

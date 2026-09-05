@@ -50,6 +50,8 @@ GLYPHS = [
     "ubuntu",
     "vitest",
     "windows",
+    "wordpress",
+    "gitlab",
 ]
 
 VIEWBOX_RE = re.compile(r'viewBox=["\']([^"\']+)["\']', re.I)
