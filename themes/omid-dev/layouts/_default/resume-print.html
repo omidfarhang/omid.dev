@@ -13,7 +13,7 @@
         }
         
         body {
-            font-family: IBMPlexSans, 'Arial', sans-serif;
+            font-family: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
             font-size: 10.5pt;
             line-height: 1.35;
             color: #000;
@@ -93,7 +93,7 @@
         
         .section-header h3 {
             font-size: 11pt;
-            font-weight: 600;
+            font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
@@ -120,7 +120,7 @@
         }
         
         .skills-list strong {
-            font-weight: 600;
+            font-weight: 700;
             color: #000;
             margin-inline-end: 5px;
         }
@@ -145,7 +145,7 @@
 
         .job-title {
             font-size: 10.5pt;
-            font-weight: 600;
+            font-weight: 700;
         }
         
         .company-info {
@@ -199,7 +199,7 @@
         }
         
         .cert-title {
-            font-weight: 600;
+            font-weight: 700;
             font-size: 9.5pt;
         }
         
@@ -239,6 +239,7 @@
             }
             
             .print-btn {
+                font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
                 background: #000;
                 color: #fff;
                 padding: 10px 20px;
@@ -263,9 +264,11 @@
         }
     </style>
     {{- $fontawesome := resources.Get "css/vendor/fontawesome.css" | minify | fingerprint }}
-    {{- $printFonts := resources.Get "css/vendor/fonts.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $fontawesome.RelPermalink }}">
+    {{- if eq .Site.Language.Lang "fa" }}
+    {{- $printFonts := resources.Get "css/vendor/fonts.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $printFonts.RelPermalink }}">
+    {{- end }}
 </head>
 <body>
     <div class="no-print">
