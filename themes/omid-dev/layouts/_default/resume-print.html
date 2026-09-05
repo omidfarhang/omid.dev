@@ -44,34 +44,27 @@
         }
         
         .resume-header {
-            border-bottom: 2px solid #000;
             padding-bottom: 10px;
-            margin-bottom: 15px;
             page-break-after: avoid;
         }
         
         .contact-info {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 5px 20px;
-            margin-top: 5px;
-            font-size: 8.5pt;
+            margin-top: 6px;
+            font-size: 10pt;
+            line-height: 1.45;
         }
         
-        .contact-group {
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
+        .contact-line {
+            display: block;
         }
         
         .contact-item {
-            margin: 1px 0;
+            display: inline;
         }
         
-        .contact-item i {
-            width: 14px;
-            display: inline-block;
-            margin-inline-end: 4px;
+        .contact-line .contact-item:not(:last-child)::after {
+            content: "·";
+            margin-inline: 0.4em;
         }
         
         .contact-item a {
@@ -85,7 +78,7 @@
         
         .section-header {
             background: #f0f0f0;
-            padding: 4px 8px;
+            padding: 4px 0;
             border-top: 2px solid #000;
             margin-bottom: 6px;
             page-break-after: avoid;
@@ -96,10 +89,6 @@
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.5px;
-        }
-        
-        .section-content {
-            padding: 0 5px;
         }
         
         .summary-text {
@@ -157,7 +146,7 @@
         
         .period {
             color: #666;
-            font-size: 8.5pt;
+            font-size: 10pt;
             font-style: normal;
             font-weight: 400;
         }
@@ -294,25 +283,17 @@
         <h2>{{ $resume.title }}</h2>
         
         <div class="contact-info">
-            <div class="contact-group">
-                <div class="contact-item">
-                    {{ $resume.contact.phone }}
-                </div>
-                <div class="contact-item">
-                    <a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a>
-                </div>
-                <div class="contact-item">
-                    <a href="{{ $resume.contact.website }}">{{ path.Base $resume.contact.website }}</a>
-                </div>
-                <div class="contact-item">
-                    <a href="{{ $resume.contact.linkedin }}">LinkedIn</a>
-                </div>
-                <div class="contact-item">
-                    <a href="{{ $resume.contact.github }}">GitHub</a>
-                </div>
-                <div class="contact-item">
-                    <a href="{{ $resume.contact.xing }}">Xing</a>
-                </div>
+            <div class="contact-line">
+                <span class="contact-item">{{ $resume.contact.phone }}</span>
+                <span class="contact-item"><a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></span>
+                {{- $site := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" $resume.contact.website)) }}
+                <span class="contact-item"><a href="{{ $resume.contact.website }}">{{ $site }}</a></span>
+            </div>
+            <div class="contact-line">
+                {{- range slice $resume.contact.linkedin $resume.contact.github $resume.contact.xing }}
+                {{- $display := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" .)) -}}
+                <span class="contact-item"><a href="{{ . }}">{{ $display }}</a></span>
+                {{- end }}
             </div>
         </div>
     </div>
