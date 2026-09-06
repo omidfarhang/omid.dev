@@ -4,7 +4,7 @@ url: notes/178818221780902383/
 ---
 You may run `pacman -Syu` every day, but when did you last refresh every Node major you keep in nvm?
 
-I added [`update-nvm.sh`](/scripts/update-nvm.sh) for that. It updates each installed major to the latest patch, refreshes global npm packages, upgrades npm via `--latest-npm`, and runs `corepack enable`. It skips versions already on the latest patch unless you pass `--force`.
+I added [`update-nvm.sh`](/scripts/update-nvm.sh) for that. It updates each installed major to the latest patch, refreshes global npm packages, upgrades npm via `--latest-npm`, and runs `corepack enable`. If a major is already on the latest patch, Node is left alone but global packages are still refreshed. Pass `--force` to reinstall Node anyway, or `--npm-only` to skip Node installs entirely.
 
 **Install**
 
@@ -20,6 +20,7 @@ update-nvm              # every major already installed via nvm
 update-nvm --lts        # only lts/*
 update-nvm 24           # one major
 update-nvm 28           # install a new major (prompts to copy globals from another)
+update-nvm --npm-only   # refresh npm and global packages without touching Node
 update-nvm --prune      # drop older patch releases within each major
 update-nvm -q --lts     # quiet one-liner for cron
 update-nvm --dry-run    # preview commands

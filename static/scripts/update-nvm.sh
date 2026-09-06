@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.0.0"
+SCRIPT_VERSION="1.1.0"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
 
 VERSIONS=()
@@ -12,6 +12,7 @@ LTS_MODE=0
 FORCE=0
 PRUNE=0
 SKIP_NPM=0
+NPM_ONLY=0
 LATEST_NPM=1
 COREPACK=1
 QUIET=0
@@ -28,6 +29,10 @@ If no versions are given, updates every major version already installed via nvm.
 Use --lts to update only the current LTS line (lts/*) instead.
 Pass explicit versions to update or install those (e.g. update-nvm 24 or update-nvm 28).
 
+When a major is already on the latest patch, Node is left alone but global npm
+packages are still refreshed (unless --skip-npm). Use --npm-only to skip Node
+installs entirely and only refresh npm.
+
 When installing a major that is not installed yet, the script asks whether to
 copy global npm packages from another installed major.
 
@@ -40,6 +45,7 @@ Options:
   --no-latest-npm   Keep the npm version bundled with Node
   --no-corepack     Skip corepack enable for each updated version
   --skip-npm        Reinstall Node only; skip global npm package updates
+  --npm-only        Skip Node installs; only refresh npm and global packages
   --quiet, -q       Minimal output (errors still go to stderr; skips install prompts)
   --dry-run, -n     Show what would run without changing anything
   --self-update     Download and install the latest update-nvm script from omid.dev
@@ -78,6 +84,9 @@ for arg in "$@"; do
     --skip-npm)
       SKIP_NPM=1
       ;;
+    --npm-only)
+      NPM_ONLY=1
+      ;;
     --quiet|-q)
       QUIET=1
       ;;
@@ -99,7 +108,7 @@ for arg in "$@"; do
       ;;
     -*)
       echo "Unknown option: $arg" >&2
-      echo "Usage: update-nvm [--lts] [--force|-f] [--prune] [--quiet|-q] [--dry-run|-n] [VERSION ...]" >&2
+      echo "Usage: update-nvm [--lts] [--force|-f] [--prune] [--npm-only] [--skip-npm] [--quiet|-q] [--dry-run|-n] [VERSION ...]" >&2
       exit 1
       ;;
     *)
@@ -108,6 +117,11 @@ for arg in "$@"; do
       ;;
   esac
 done
+
+if [[ "$NPM_ONLY" -eq 1 && "$SKIP_NPM" -eq 1 ]]; then
+  echo "--npm-only and --skip-npm cannot be used together." >&2
+  exit 1
+fi
 
 # Exit 0 if equal, 1 if $1 > $2, 2 if $1 < $2
 version_compare() {
@@ -324,6 +338,26 @@ update_global_packages() {
   run npm update -g
 }
 
+upgrade_npm() {
+  local label="$1"
+
+  if [[ "$LATEST_NPM" -eq 0 ]]; then
+    return 0
+  fi
+
+  log "==> Upgrading npm to the latest supported version ($label)..."
+  run nvm install-latest-npm
+}
+
+# Refresh npm + global packages + corepack for the currently selected Node.
+refresh_npm_stack() {
+  local label="$1"
+
+  upgrade_npm "$label"
+  update_global_packages "$label"
+  enable_corepack "$label"
+}
+
 enable_corepack() {
   local version_label="${1:-$(node -v)}"
 
@@ -465,11 +499,16 @@ restore_active_version() {
 ORIGINAL_NVM="$(nvm current)"
 UPDATED_VERSIONS=()
 SKIPPED_VERSIONS=()
+PACKAGES_REFRESHED=()
 
 for version in "${VERSIONS[@]}"; do
   log
   log "========================================"
-  log "==> Updating Node.js $version"
+  if [[ "$NPM_ONLY" -eq 1 ]]; then
+    log "==> Refreshing npm for Node.js $version"
+  else
+    log "==> Updating Node.js $version"
+  fi
   log "========================================"
 
   remote=""
@@ -484,14 +523,34 @@ for version in "${VERSIONS[@]}"; do
     fi
   else
     log_warn "==> Could not resolve latest version for $version; continuing anyway."
+    installed="$(installed_version "$version" || true)"
+  fi
+
+  if [[ "$NPM_ONLY" -eq 1 ]]; then
+    if [[ -z "$installed" ]]; then
+      log_warn "==> $version is not installed; skipping npm-only refresh."
+      continue
+    fi
+
+    log "==> npm-only: leaving Node.js $installed in place."
+    run nvm use "$version" >/dev/null
+    refresh_npm_stack "$installed"
+    PACKAGES_REFRESHED+=("$installed")
+    if [[ "$PRUNE" -eq 1 ]]; then
+      prune_old_patches "$version"
+    fi
+    continue
   fi
 
   if [[ -n "$remote" && -n "$installed" && "$installed" == "$remote" && "$FORCE" -eq 0 ]]; then
-    log "==> Already up to date. Skipping install."
+    log "==> Node.js $installed is already current. Skipping install."
     log "==> Use update-nvm --force to reinstall anyway."
     SKIPPED_VERSIONS+=("$installed")
     run nvm use "$version" >/dev/null
-    enable_corepack "$installed"
+    refresh_npm_stack "$installed"
+    if [[ "$SKIP_NPM" -eq 0 ]]; then
+      PACKAGES_REFRESHED+=("$installed")
+    fi
     if [[ "$PRUNE" -eq 1 ]]; then
       prune_old_patches "$version"
     fi
@@ -547,6 +606,12 @@ if [[ "$QUIET" -eq 1 ]]; then
     fi
     summary+="skipped ${SKIPPED_VERSIONS[*]}"
   fi
+  if ((${#PACKAGES_REFRESHED[@]} > 0)); then
+    if [[ -n "$summary" ]]; then
+      summary+=", "
+    fi
+    summary+="packages ${PACKAGES_REFRESHED[*]}"
+  fi
   if [[ -z "$summary" ]]; then
     summary="no changes"
   fi
@@ -560,7 +625,10 @@ else
     log "==> Updated: ${UPDATED_VERSIONS[*]}"
   fi
   if ((${#SKIPPED_VERSIONS[@]} > 0)); then
-    log "==> Skipped (already current): ${SKIPPED_VERSIONS[*]}"
+    log "==> Node already current: ${SKIPPED_VERSIONS[*]}"
+  fi
+  if ((${#PACKAGES_REFRESHED[@]} > 0)); then
+    log "==> Global packages refreshed: ${PACKAGES_REFRESHED[*]}"
   fi
   if [[ "$DRY_RUN" -eq 0 ]]; then
     log "==> Active Node: $(node -v)"
