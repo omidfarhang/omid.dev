@@ -35,6 +35,22 @@
     line-height: var(--leading-body-plus);
     color: var(--secondary);
 }
+.discussion-lead {
+    margin: 0;
+    color: var(--primary);
+    font-size: var(--text-body-md);
+    font-weight: var(--font-semibold);
+    line-height: var(--leading-body-plus);
+    letter-spacing: -0.01em;
+}
+.social-discussion--note {
+    padding: var(--space-5);
+}
+.social-discussion--note .discussion-header {
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+}
 .discussion-note {
     font-size: var(--text-sm) !important;
     font-style: italic;
@@ -46,6 +62,11 @@
     gap: var(--space-3);
     flex-wrap: wrap;
 }
+
+.discussion-links .share-btn {
+    justify-content: center;
+}
+
 [dir="rtl"] .share-links {
     flex-direction: row;
 }
@@ -186,6 +207,16 @@
     .share-btn {
         width: 100%;
         justify-content: center;
+    }
+
+    .discussion-links {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .discussion-links .share-btn {
+        width: auto;
+        flex: 0 1 auto;
     }
 }
 

@@ -7,9 +7,18 @@
     data-label-mentions="{{ i18n "webmentions_mentions" | default "mentions" }}"
     data-label-empty="{{ i18n "no_webmentions" | default "No replies yet." }}"
     data-label-loading="{{ i18n "webmentions_loading" | default "Loading replies…" }}"
-    data-label-reply-x="{{ i18n "reply_on" (dict "Platform" "X") }}"
-    data-label-reply-mastodon="{{ i18n "reply_on" (dict "Platform" "Mastodon") }}"
-    data-label-reply-bluesky="{{ i18n "reply_on" (dict "Platform" "Bluesky") }}">
+    {{- $xHandle := site.Params.social.twitter | default "omidfarhang" -}}
+    {{- $xMention := printf "@%s" (strings.TrimPrefix "@" $xHandle) -}}
+    {{- $mastodonHandle := site.Params.social.fediverse_creator | default "@omidfarhang@mastodon.social" -}}
+    {{- if not (hasPrefix $mastodonHandle "@") -}}{{- $mastodonHandle = printf "@%s" $mastodonHandle -}}{{- end -}}
+    {{- $blueskyHandle := "omid.dev" -}}
+    {{- range site.Params.footer.social -}}
+      {{- if and (eq .name "Bluesky") .url -}}{{- $blueskyHandle = replaceRE `^https?://bsky\.app/profile/` "" .url -}}{{- end -}}
+    {{- end -}}
+    {{- $blueskyMention := printf "@%s" (strings.TrimPrefix "@" $blueskyHandle) -}}
+    data-label-reply-x="{{ i18n "reply_to" (dict "Handle" $xMention) }}"
+    data-label-reply-mastodon="{{ i18n "reply_to" (dict "Handle" $mastodonHandle) }}"
+    data-label-reply-bluesky="{{ i18n "reply_to" (dict "Handle" $blueskyMention) }}">
     <header class="webmentions-header">
       <div class="webmentions-stats" data-webmentions-stats></div>
       <div class="webmentions-facepile" data-webmentions-facepile></div>

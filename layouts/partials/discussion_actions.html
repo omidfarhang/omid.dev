@@ -5,6 +5,7 @@
 {{- $linkedin_link := .Params.linkedin_link -}}
 {{- $reddit_link := .Params.reddit_link -}}
 {{- $hn_link := .Params.hn_link -}}
+{{- $isNote := partial "is_note.html" . -}}
 
 {{- /* Notes: treat source / sourceUrl as a reply target when it is a social post URL. */ -}}
 {{- $source := or (.Param "source") (.Param "sourceUrl") -}}
@@ -17,6 +18,28 @@
     {{- if not $mastodon_link -}}{{- $mastodon_link = . -}}{{- end -}}
   {{- end -}}
 {{- end -}}
+
+{{- $pageurl := .Permalink -}}
+{{- $shortpageurl := (.Param "shortlink") | default .Permalink -}}
+{{- $title := .Title -}}
+
+{{- $xHandle := site.Params.social.twitter | default "omidfarhang" -}}
+{{- $xMention := printf "@%s" (strings.TrimPrefix "@" $xHandle) -}}
+{{- $mastodonHandle := site.Params.social.fediverse_creator | default "@omidfarhang@mastodon.social" -}}
+{{- if not (hasPrefix $mastodonHandle "@") -}}
+  {{- $mastodonHandle = printf "@%s" $mastodonHandle -}}
+{{- end -}}
+{{- $blueskyHandle := "omid.dev" -}}
+{{- range site.Params.footer.social -}}
+  {{- if and (eq .name "Bluesky") .url -}}
+    {{- $blueskyHandle = replaceRE `^https?://bsky\.app/profile/` "" .url -}}
+  {{- end -}}
+{{- end -}}
+{{- $blueskyMention := printf "@%s" (strings.TrimPrefix "@" $blueskyHandle) -}}
+
+{{- $xShareText := printf "%s %s" $xMention $title -}}
+{{- $mastodonShareText := printf "%s %s %s" $mastodonHandle $title $shortpageurl -}}
+{{- $blueskyShareText := printf "%s %s %s" $blueskyMention $title $shortpageurl -}}
 
 {{- /* POSSE syndication links for Bridgy / posse-post-discovery */ -}}
 <div id="syndication-links" hidden aria-hidden="true">
@@ -34,51 +57,74 @@
   {{- end -}}
 </div>
 
-<div class="social-discussion">
+<div class="social-discussion{{ if $isNote }} social-discussion--note{{ end }}">
   <div class="discussion-header">
     <span class="icon-circle icon-circle--compact discussion-icon" aria-hidden="true">
       <i class="fa-solid fa-comments"></i>
     </span>
     <div class="discussion-copy">
+      {{- if $isNote -}}
+      <p id="discussion-title" class="discussion-lead">{{ i18n "discussion_desc_note" }}</p>
+      {{- else -}}
       <h3 id="discussion-title">{{ i18n "discussion_title" }}</h3>
       <p>{{ i18n "discussion_desc" }}</p>
+      {{- end -}}
     </div>
   </div>
   <div class="share-links discussion-links">
-    {{- $search_query := .Permalink -}}
-    {{- if .Params.shortlink -}}
-      {{- $search_query = .Params.shortlink -}}
+    {{- $x_share := printf "https://x.com/intent/post/?text=%s&url=%s" ($xShareText | urlquery) ($shortpageurl | urlquery) -}}
+    {{- $x_url := $x_share -}}
+    {{- with $x_link -}}
+      {{- $statusId := replaceRE `(?s)^.*/status/(\d+).*$` "$1" . -}}
+      {{- if ne $statusId . -}}
+        {{- $x_url = printf "https://x.com/intent/tweet?in_reply_to=%s" $statusId -}}
+      {{- else -}}
+        {{- $x_url = . -}}
+      {{- end -}}
     {{- end -}}
-    {{- $search_query = replace (replace $search_query "https://" "") "http://" "" -}}
-
-    {{- $x_url := $x_link | default (printf "https://x.com/search?q=%s" $search_query) -}}
-    <a class="chip chip--pill share-btn" data-brand="x" data-platform="x" data-manual="{{ if $x_link }}true{{ else }}false{{ end }}" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa-brands fa-x-twitter"></i>
-      <span>{{ if $x_link }}{{ i18n "reply_on" (dict "Platform" "X") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "X") }}{{ end }}</span>
+    {{- $xHint := i18n "discuss_on" (dict "Platform" "X") -}}
+    {{- if $x_link -}}{{- $xHint = i18n "reply_to" (dict "Handle" $xMention) -}}{{- end -}}
+    <a class="chip chip--pill share-btn" data-brand="x" data-platform="x" data-manual="{{ if $x_link }}true{{ else }}false{{ end }}" href="{{ $x_url }}" target="_blank" rel="noopener noreferrer" title="{{ $xHint }}" aria-label="{{ $xHint }}">
+      <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+      <span class="share-btn__name">{{ i18n "share_x" | default "X" }}</span>
     </a>
 
-    {{- $mastodon_url := $mastodon_link | default (printf "https://mastodon.social/search?q=%s" $search_query) -}}
-    <a class="chip chip--pill share-btn" data-brand="mastodon" data-platform="mastodon" data-manual="{{ if $mastodon_link }}true{{ else }}false{{ end }}" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa-brands fa-mastodon"></i>
-      <span>{{ if $mastodon_link }}{{ i18n "reply_on" (dict "Platform" "Mastodon") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Mastodon") }}{{ end }}</span>
+    {{- $mastodon_share := printf "https://mastodon.social/share?text=%s" ($mastodonShareText | urlquery) -}}
+    {{- $mastodon_url := $mastodon_share -}}
+    {{- with $mastodon_link -}}
+      {{- $mastodon_url = printf "https://mastodon.social/authorize_interaction?uri=%s" (. | urlquery) -}}
+    {{- end -}}
+    {{- $mastodonHint := i18n "discuss_on" (dict "Platform" "Mastodon") -}}
+    {{- if $mastodon_link -}}{{- $mastodonHint = i18n "reply_to" (dict "Handle" $mastodonHandle) -}}{{- end -}}
+    <a class="chip chip--pill share-btn" data-brand="mastodon" data-platform="mastodon" data-manual="{{ if $mastodon_link }}true{{ else }}false{{ end }}" href="{{ $mastodon_url }}" target="_blank" rel="noopener noreferrer" title="{{ $mastodonHint }}" aria-label="{{ $mastodonHint }}">
+      <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+      <span class="share-btn__name">{{ i18n "share_mastodon" | default "Mastodon" }}</span>
     </a>
 
-    {{- $bluesky_url := $bluesky_link | default (printf "https://bsky.app/search?q=%s" $search_query) -}}
-    <a class="chip chip--pill share-btn" data-brand="bluesky" data-platform="bluesky" data-manual="{{ if $bluesky_link }}true{{ else }}false{{ end }}" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa-brands fa-bluesky"></i>
-      <span>{{ if $bluesky_link }}{{ i18n "reply_on" (dict "Platform" "Bluesky") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Bluesky") }}{{ end }}</span>
+    {{- $bluesky_share := printf "https://bsky.app/intent/compose?text=%s" ($blueskyShareText | urlquery) -}}
+    {{- $bluesky_url := $bluesky_link | default $bluesky_share -}}
+    {{- $blueskyHint := i18n "discuss_on" (dict "Platform" "Bluesky") -}}
+    {{- if $bluesky_link -}}{{- $blueskyHint = i18n "reply_to" (dict "Handle" $blueskyMention) -}}{{- end -}}
+    <a class="chip chip--pill share-btn" data-brand="bluesky" data-platform="bluesky" data-manual="{{ if $bluesky_link }}true{{ else }}false{{ end }}" href="{{ $bluesky_url }}" target="_blank" rel="noopener noreferrer" title="{{ $blueskyHint }}" aria-label="{{ $blueskyHint }}">
+      <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+      <span class="share-btn__name">{{ i18n "share_bluesky" | default "Bluesky" }}</span>
     </a>
 
-    {{- $reddit_url := $reddit_link | default (printf "https://www.reddit.com/search?q=%s" $search_query) -}}
-    <a class="chip chip--pill share-btn" data-brand="reddit" href="{{ $reddit_url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa-brands fa-reddit"></i>
-      <span>{{ if $reddit_link }}{{ i18n "reply_on" (dict "Platform" "Reddit") }}{{ else }}{{ i18n "discuss_on" (dict "Platform" "Reddit") }}{{ end }}</span>
+    {{- $reddit_share := printf "https://reddit.com/submit?url=%s&title=%s" ($shortpageurl | urlquery) ($title | urlquery) -}}
+    {{- $reddit_url := $reddit_link | default $reddit_share -}}
+    {{- $redditHint := i18n "discuss_on" (dict "Platform" "Reddit") -}}
+    {{- if $reddit_link -}}{{- $redditHint = i18n "reply_on" (dict "Platform" "Reddit") -}}{{- end -}}
+    <a class="chip chip--pill share-btn" data-brand="reddit" href="{{ $reddit_url }}" target="_blank" rel="noopener noreferrer" title="{{ $redditHint }}" aria-label="{{ $redditHint }}">
+      <i class="fa-brands fa-reddit" aria-hidden="true"></i>
+      <span class="share-btn__name">{{ i18n "share_reddit" | default "Reddit" }}</span>
     </a>
 
-    {{- $hn_url := $hn_link | default (printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" .Permalink .Title) -}}
-    <a class="chip chip--pill share-btn" data-brand="hacker-news" href="{{ $hn_url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa-brands fa-hacker-news"></i>
-      <span>{{ if $hn_link }}{{ i18n "discuss_on_hn" }}{{ else }}{{ i18n "submit_to_hn" }}{{ end }}</span>
+    {{- $hn_url := $hn_link | default (printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" ($pageurl | urlquery) ($title | urlquery)) -}}
+    {{- $hnHint := i18n "submit_to_hn" -}}
+    {{- if $hn_link -}}{{- $hnHint = i18n "discuss_on_hn" -}}{{- end -}}
+    <a class="chip chip--pill share-btn" data-brand="hacker-news" href="{{ $hn_url }}" target="_blank" rel="noopener noreferrer" title="{{ $hnHint }}" aria-label="{{ $hnHint }}">
+      <i class="fa-brands fa-hacker-news" aria-hidden="true"></i>
+      <span class="share-btn__name">HN</span>
     </a>
   </div>
 </div>

@@ -169,6 +169,14 @@
     margin-top: var(--space-6);
 }
 
+.note-webmentions-wrap .webmentions-container {
+    padding: var(--space-5);
+}
+
+.note-webmentions-wrap .webmentions-header {
+    margin-bottom: var(--space-4);
+}
+
 .webmention-facepile-fallback,
 .webmention-avatar-fallback {
     display: inline-flex;

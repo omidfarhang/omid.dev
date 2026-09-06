@@ -114,6 +114,17 @@
     });
   }
 
+  function toReplyHref(platform, url) {
+    if (platform === "x") {
+      const match = url.match(/\/status\/(\d+)/);
+      if (match) return "https://x.com/intent/tweet?in_reply_to=" + match[1];
+    }
+    if (platform === "mastodon") {
+      return "https://mastodon.social/authorize_interaction?uri=" + encodeURIComponent(url);
+    }
+    return url;
+  }
+
   function applySyndicationLinks(urls) {
     document.querySelectorAll(".share-btn[data-platform]").forEach(function (chip) {
       if (chip.getAttribute("data-manual") === "true") return;
@@ -122,10 +133,10 @@
       const url = urls[platform];
       if (!url) return;
 
-      chip.href = url;
-      const label = chip.querySelector("span");
-      if (label && replyLabels[platform]) {
-        label.textContent = replyLabels[platform];
+      chip.href = toReplyHref(platform, url);
+      if (replyLabels[platform]) {
+        chip.title = replyLabels[platform];
+        chip.setAttribute("aria-label", replyLabels[platform]);
       }
     });
 

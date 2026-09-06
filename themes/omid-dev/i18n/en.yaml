@@ -362,6 +362,9 @@
 - id: discussion_desc
   translation: "Found this post interesting? I'd love to hear your thoughts, questions, or feedback on these platforms:"
 
+- id: discussion_desc_note
+  translation: "Thoughts on this note? I'd love to hear them on these platforms:"
+
 - id: webmentions_likes
   translation: "Likes"
 
@@ -379,6 +382,9 @@
 
 - id: reply_on
   translation: "Reply on {{ .Platform }}"
+
+- id: reply_to
+  translation: "Reply to {{ .Handle }}"
 
 - id: submit_to_hn
   translation: "Submit to HN"
