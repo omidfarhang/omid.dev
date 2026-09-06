@@ -11,9 +11,28 @@
     loading: container.dataset.labelLoading || "Loading replies…",
   };
 
+  const replyLabels = {
+    x: container.dataset.labelReplyX || "Reply on X",
+    mastodon: container.dataset.labelReplyMastodon || "Reply on Mastodon",
+    bluesky: container.dataset.labelReplyBluesky || "Reply on Bluesky",
+  };
+
   const listEl = container.querySelector("[data-webmentions-list]");
   const statsEl = container.querySelector("[data-webmentions-stats]");
   const facepileEl = container.querySelector("[data-webmentions-facepile]");
+
+  const PLATFORM_PATTERNS = {
+    bluesky: /https:\/\/bsky\.app\/profile\/[^/#?]+\/post\/[^/#?]+/,
+    mastodon: /https:\/\/[^/]+\/@[^/#?]+\/\d+/,
+    x: /https:\/\/(?:x|twitter)\.com\/[^/#?]+\/status\/\d+/,
+  };
+
+  const syndicationLabels = {
+    x: "X",
+    mastodon: "Mastodon",
+    bluesky: "Bluesky",
+    linkedin: "LinkedIn",
+  };
 
   function escapeHtml(value) {
     return String(value)
@@ -29,6 +48,88 @@
     if (type === "repost-of") return "repost";
     if (type === "in-reply-to") return "reply";
     return "mention";
+  }
+
+  function parseBridgyMastodon(raw) {
+    const match = raw.match(/brid\.gy\/(?:like|repost|publish)\/mastodon\/@([^@]+)@([^/]+)\/(\d+)/);
+    if (!match) return null;
+    return `https://${match[2]}/@${match[1]}/${match[3]}`;
+  }
+
+  function extractSyndicationUrls(mentions) {
+    const found = {};
+    const earliest = {};
+
+    mentions.forEach(function (m) {
+      const received = m["wm-received"] ? new Date(m["wm-received"]).getTime() : Infinity;
+      const candidates = [
+        m.url,
+        m["wm-source"],
+        m["mention-of"],
+        m["in-reply-to"],
+        m["repost-of"],
+      ].filter(Boolean);
+
+      if (Array.isArray(m.syndication)) {
+        candidates.push.apply(candidates, m.syndication);
+      }
+
+      candidates.forEach(function (raw) {
+        Object.keys(PLATFORM_PATTERNS).forEach(function (platform) {
+          const match = raw.match(PLATFORM_PATTERNS[platform]);
+          if (match && (!earliest[platform] || received < earliest[platform])) {
+            found[platform] = match[0];
+            earliest[platform] = received;
+          }
+        });
+
+        const bridgyMastodon = parseBridgyMastodon(raw);
+        if (bridgyMastodon && (!earliest.mastodon || received < earliest.mastodon)) {
+          found.mastodon = bridgyMastodon;
+          earliest.mastodon = received;
+        }
+      });
+    });
+
+    return found;
+  }
+
+  function syncSyndicationLinks(urls) {
+    const syndicationContainer = document.getElementById("syndication-links");
+    if (!syndicationContainer) return;
+
+    Object.keys(urls).forEach(function (platform) {
+      const url = urls[platform];
+      if (!url) return;
+
+      let link = syndicationContainer.querySelector('.u-syndication[data-platform="' + platform + '"]');
+      if (link) return;
+
+      link = document.createElement("a");
+      link.className = "u-syndication";
+      link.setAttribute("data-platform", platform);
+      link.href = url;
+      link.textContent = syndicationLabels[platform] || platform;
+      syndicationContainer.appendChild(link);
+    });
+  }
+
+  function applySyndicationLinks(urls) {
+    document.querySelectorAll(".share-btn[data-platform]").forEach(function (chip) {
+      if (chip.getAttribute("data-manual") === "true") return;
+
+      const platform = chip.getAttribute("data-platform");
+      const url = urls[platform];
+      if (!url) return;
+
+      chip.href = url;
+      const label = chip.querySelector("span");
+      if (label && replyLabels[platform]) {
+        label.textContent = replyLabels[platform];
+      }
+    });
+
+    syncSyndicationLinks(urls);
   }
 
   function renderStats(groups) {
@@ -111,6 +212,8 @@
     })
     .then((payload) => {
       const children = payload.children || [];
+      applySyndicationLinks(extractSyndicationUrls(children));
+
       const groups = { like: [], repost: [], reply: [], mention: [] };
       children.forEach((entry) => groups[mentionType(entry)].push(entry));
       renderStats(groups);

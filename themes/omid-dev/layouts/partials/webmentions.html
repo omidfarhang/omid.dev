@@ -1,12 +1,16 @@
-<div class="comments-container note-webmentions-wrap">
+<div class="comments-container note-webmentions-wrap" aria-labelledby="discussion-title">
+  {{- partial "discussion_actions.html" . -}}
+
   <section class="webmentions-container" data-webmentions="{{ .Permalink }}"
     data-label-likes="{{ i18n "webmentions_likes" | default "likes" }}"
     data-label-reposts="{{ i18n "webmentions_reposts" | default "reposts" }}"
     data-label-mentions="{{ i18n "webmentions_mentions" | default "mentions" }}"
     data-label-empty="{{ i18n "no_webmentions" | default "No replies yet." }}"
-    data-label-loading="{{ i18n "webmentions_loading" | default "Loading replies…" }}">
+    data-label-loading="{{ i18n "webmentions_loading" | default "Loading replies…" }}"
+    data-label-reply-x="{{ i18n "reply_on" (dict "Platform" "X") }}"
+    data-label-reply-mastodon="{{ i18n "reply_on" (dict "Platform" "Mastodon") }}"
+    data-label-reply-bluesky="{{ i18n "reply_on" (dict "Platform" "Bluesky") }}">
     <header class="webmentions-header">
-      <h3>{{ i18n "webmentions_title" | default "Reactions & replies" }}</h3>
       <div class="webmentions-stats" data-webmentions-stats></div>
       <div class="webmentions-facepile" data-webmentions-facepile></div>
     </header>
