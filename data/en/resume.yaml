@@ -44,7 +44,7 @@ experience:
       - Introduced a unified design system with the UI/UX team in Figma, implemented it as an Angular library with Storybook and custom generators, and rolled it out across the Angular apps.
       - Designed the GitLab CI/CD for that monorepo myself (change-based builds, ordered Docker deploys, shell tooling); CI ~50% faster, deploy time from 15 minutes to under 4, daily production releases.
       - Moved unit tests from Jest to Vitest, expanded Playwright E2E coverage, and ran performance monitoring on the Angular apps.
-      - Besides the Angular apps, the team also runs the public website and developer documentation: WordPress in Docker, with caching, MariaDB tuning, PHP security hardening, and GTmetrix A-level front-end performance.
+      - "Besides the Angular apps, the team also runs the public website and developer documentation: WordPress in Docker, with caching, MariaDB tuning, PHP security hardening, and GTmetrix A-level front-end performance."
     skills: [Engineering Leadership, Mentorship, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, WordPress]
   - title: Technical Consultant / Tech Lead
     company: Raymandan Taly Parseh
@@ -54,7 +54,7 @@ experience:
       site, mail, and a construction camera for buyers.
     responsibilities:
       - Stood up the first VPS with mail, MariaDB, and a custom-designed public website.
-      - Delivered an on-site RTSP camera to the public landing page: FFmpeg capture and transcode to MP4 over a low-bandwidth link, then CDN playback.
+      - "Delivered an on-site RTSP camera to the public landing page: FFmpeg capture and transcode to MP4 over a low-bandwidth link, then CDN playback."
       - Added backup and failover for mail and the site after early outages.
     skills: [Technical Consulting, Linux, Nginx, MariaDB, FFmpeg, RTSP, CDN, Ubuntu]
   - title: Lead Frontend Developer

@@ -44,9 +44,9 @@ experience:
       - Neue Angular-Portale entwickelt und ältere React-Anwendungen zunächst als eigenständige Repositories abgelöst; gemeinsam benötigte Funktionen für Backoffice- und Endkundenanwendungen anschließend über Git-Submodule geteilt.
       - Anwendungen, gemeinsam genutzte Module und Design-System unter Erhalt der Git-Historie in einem Nx-Monorepo konsolidiert (rund 10 Angular-Apps sowie Shared und Feature Libraries) und über mehrere Angular-Hauptversionen aktuell gehalten.
       - Gemeinsam mit dem UI/UX-Team ein einheitliches Design-System in Figma eingeführt, als Angular-Bibliothek mit Storybook und eigenen Generatoren umgesetzt und in den Angular-Anwendungen ausgerollt.
-      - GitLab CI/CD für das Monorepo eigenständig konzipiert: änderungsbasierte Builds, geordnete Docker-Deployments und Shell-Tools. Dadurch CI-Laufzeiten um rund 50 % und Deployments von 15 auf unter 4 Minuten reduziert sowie tägliche Produktiv-Releases ermöglicht.
+      - "GitLab CI/CD für das Monorepo eigenständig konzipiert: änderungsbasierte Builds, geordnete Docker-Deployments und Shell-Tools. Dadurch CI-Laufzeiten um rund 50 % und Deployments von 15 auf unter 4 Minuten reduziert sowie tägliche Produktiv-Releases ermöglicht."
       - Unit-Tests von Jest auf Vitest umgestellt, E2E-Abdeckung mit Playwright ausgebaut und die Performance der Angular-Anwendungen kontinuierlich überwacht.
-      - Neben den Angular-Anwendungen betreibt das Team auch die öffentliche Website und Entwicklerdokumentation: WordPress in Docker mit Caching, MariaDB-Tuning, PHP-Härtung und Frontend-Performance auf GTmetrix-A-Niveau.
+      - "Neben den Angular-Anwendungen betreibt das Team auch die öffentliche Website und Entwicklerdokumentation: WordPress in Docker mit Caching, MariaDB-Tuning, PHP-Härtung und Frontend-Performance auf GTmetrix-A-Niveau."
     skills: [Engineering Leadership, Mentoring, Angular, TypeScript, Nx, RxJS, Vitest, Playwright, Storybook, Docker, CI/CD, WordPress]
   - title: Technischer Berater / Tech Lead
     company: Raymandan Taly Parseh
@@ -56,7 +56,7 @@ experience:
       öffentlicher Website, E-Mail-Infrastruktur und Baustellenkamera für Käufer.
     responsibilities:
       - Den ersten VPS einschließlich E-Mail, MariaDB und individuell gestalteter öffentlicher Website vollständig eingerichtet.
-      - Eine RTSP-Kamera vom Baustellennetz in die öffentliche Landingpage integriert: Erfassung und MP4-Transkodierung mit FFmpeg über eine schmalbandige Verbindung, anschließend Wiedergabe per CDN.
+      - "Eine RTSP-Kamera vom Baustellennetz in die öffentliche Landingpage integriert: Erfassung und MP4-Transkodierung mit FFmpeg über eine schmalbandige Verbindung, anschließend Wiedergabe per CDN."
       - Nach anfänglichen Ausfällen Backup- und Failover-Lösungen für E-Mail und Website eingerichtet.
     skills: [Technische Beratung, Linux, Nginx, MariaDB, FFmpeg, RTSP, CDN, Ubuntu]
   - title: Lead Frontend Developer
