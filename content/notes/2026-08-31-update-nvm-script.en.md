@@ -22,6 +22,8 @@ update-nvm 24           # one major
 update-nvm 28           # install a new major (prompts to copy globals from another)
 update-nvm --npm-only   # refresh npm and global packages without touching Node
 update-nvm --prune      # drop older patch releases within each major
+update-nvm --self-update  # replace the script only; does not touch Node
+update-nvm --version    # print the script version
 update-nvm -q --lts     # quiet one-liner for cron
 update-nvm --dry-run    # preview commands
 ```

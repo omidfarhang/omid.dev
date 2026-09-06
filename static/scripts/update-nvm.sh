@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.1.0"
+SCRIPT_VERSION="1.2.0"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
 
 VERSIONS=()
@@ -49,6 +49,8 @@ Options:
   --quiet, -q       Minimal output (errors still go to stderr; skips install prompts)
   --dry-run, -n     Show what would run without changing anything
   --self-update     Download and install the latest update-nvm script from omid.dev
+                    (does not update Node or npm)
+  --version         Print this script's version and exit
   -h, --help        Show this help
 
 Environment:
@@ -96,6 +98,10 @@ for arg in "$@"; do
     --self-update)
       SELF_UPDATE=1
       ;;
+    --version)
+      echo "update-nvm ${SCRIPT_VERSION}"
+      exit 0
+      ;;
     -h|--help)
       usage
       exit 0
@@ -108,7 +114,7 @@ for arg in "$@"; do
       ;;
     -*)
       echo "Unknown option: $arg" >&2
-      echo "Usage: update-nvm [--lts] [--force|-f] [--prune] [--npm-only] [--skip-npm] [--quiet|-q] [--dry-run|-n] [VERSION ...]" >&2
+      echo "Usage: update-nvm [--lts] [--force|-f] [--prune] [--npm-only] [--skip-npm] [--quiet|-q] [--dry-run|-n] [--self-update] [--version] [VERSION ...]" >&2
       exit 1
       ;;
     *)
@@ -207,10 +213,12 @@ self_update_script() {
   trap - EXIT
 
   echo "update-nvm updated to ${new_version}."
+  exit 0
 }
 
 if [[ "$SELF_UPDATE" -eq 1 ]]; then
   self_update_script
+  exit 0
 fi
 
 if [[ "$LTS_MODE" -eq 1 && ${#VERSIONS[@]} -eq 0 ]]; then
