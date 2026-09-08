@@ -1,0 +1,74 @@
+/* Mermaid diagrams — prose figures; JS turns pre.mermaid into SVG
+   Used by: render-codeblock-mermaid, mermaid shortcode
+*/
+
+.mermaid-figure {
+    margin: var(--space-6) 0;
+}
+
+.post-content .mermaid-figure {
+    margin-bottom: var(--content-gap);
+}
+
+.mermaid-diagram {
+    overflow-x: auto;
+    padding: var(--space-5);
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    direction: ltr;
+    text-align: center;
+    -webkit-overflow-scrolling: touch;
+}
+
+.mermaid-diagram .mermaid {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    overflow: visible;
+    color: var(--secondary);
+    font-size: var(--text-sm);
+    line-height: var(--leading-prose);
+    text-align: center;
+    white-space: pre-wrap;
+}
+
+.mermaid-diagram .mermaid:not([data-processed]) {
+    text-align: start;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.mermaid-diagram .mermaid[data-processed] {
+    color: inherit;
+    font-family: inherit;
+    white-space: normal;
+}
+
+.mermaid-diagram svg {
+    max-width: 100%;
+    height: auto;
+}
+
+.mermaid-diagram--error {
+    color: var(--status-error);
+}
+
+.mermaid-error-msg {
+    margin: var(--space-3) 0 0;
+    color: var(--status-error);
+    font-size: var(--text-sm);
+    text-align: start;
+}
+
+.mermaid-figure > figcaption {
+    color: var(--secondary);
+    font-size: var(--text-sm);
+    font-weight: var(--font-normal);
+    text-align: center;
+}
+
+[dir="rtl"] .mermaid-figure > figcaption {
+    text-align: start;
+}

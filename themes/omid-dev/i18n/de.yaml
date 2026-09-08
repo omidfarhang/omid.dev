@@ -616,3 +616,9 @@
 
 - id: draft
   translation: "Entwurf"
+
+- id: mermaid_diagram
+  translation: "Diagramm"
+
+- id: mermaid_error
+  translation: "Dieses Diagramm konnte nicht dargestellt werden."

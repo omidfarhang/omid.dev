@@ -23,6 +23,9 @@
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind .Lang (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+    {{- if .Store.Get "hasMermaid" -}}
+    {{- partial "mermaid.html" . -}}
+    {{- end -}}
 </body>
 
 </html>

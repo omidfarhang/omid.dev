@@ -601,3 +601,9 @@
 
 - id: draft
   translation: "Draft"
+
+- id: mermaid_diagram
+  translation: "Diagram"
+
+- id: mermaid_error
+  translation: "Could not render this diagram."

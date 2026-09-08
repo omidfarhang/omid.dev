@@ -598,3 +598,9 @@
 
 - id: draft
   translation: "پیش‌نویس"
+
+- id: mermaid_diagram
+  translation: "نمودار"
+
+- id: mermaid_error
+  translation: "این نمودار قابل نمایش نیست."

@@ -247,7 +247,7 @@ Accent-tinted circular icon wells; sizes from `--icon-xs` … `--icon-lg` via mo
 
 ### Other system files
 
-Forms, tables, tabs, disclosure, menus/dropdowns, modal, tooltip, avatars, prose, typography utilities.
+Forms, tables, tabs, disclosure, menus/dropdowns, modal, tooltip, avatars, prose, mermaid, typography utilities.
 
 ---
 
@@ -299,6 +299,7 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 ### Articles
 
 - Prose in `.post-content`; code blocks with Chroma; copy button on hover.
+- Mermaid diagrams (```mermaid` fences or `mermaid` shortcode) render as `.mermaid-figure` panels; library loads only on pages that include one.
 - Series / seeAlso / reading paths are content features — style via post-single + reading-path page CSS.
 - **Post meta:** flat typography row (author · date · reading time) under a hairline — not nested chips in a panel. Share/Translations stay chips as the only interactive chrome.
 

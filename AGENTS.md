@@ -233,6 +233,7 @@ Theme shortcodes live in `themes/omid-dev/layouts/shortcodes/`. Common ones:
 - `{{< youtube ID >}}`
 - `{{< companion repo="..." path="..." >}}`
 - `{{< alert >}}`, `{{< figure >}}`, `{{< ltr >}}`, `{{< rtl >}}`
+- Mermaid diagrams: fenced `mermaid` code blocks (optional `{caption="…"}`) or `{{< mermaid caption="…" >}}`
 
 Use existing shortcodes rather than raw HTML when possible.
 

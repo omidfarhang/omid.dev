@@ -1,0 +1,2 @@
+{{- $caption := .Get "caption" | default (.Get "title") -}}
+{{- partial "mermaid_block.html" (dict "page" .Page "source" .Inner "caption" $caption) -}}

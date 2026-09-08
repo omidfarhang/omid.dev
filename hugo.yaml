@@ -279,6 +279,9 @@ params:
     baseURL: https://playground.omid.dev
     examplesPath: examples
     sourceRoot: examples
+  # Loaded only on pages with a mermaid fence or shortcode (jsDelivr ESM).
+  mermaid:
+    version: "11.17.2"
   # Default Open Graph / Twitter Card image when a page has no cover or featured image
   images:
     - /images/bio-photo-150x150.jpg

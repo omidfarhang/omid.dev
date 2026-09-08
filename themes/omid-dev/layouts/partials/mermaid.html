@@ -1,0 +1,11 @@
+{{- $version := site.Params.mermaid.version | default "11.17.2" -}}
+{{- $src := site.Params.mermaid.src | default (printf "https://cdn.jsdelivr.net/npm/mermaid@%s/dist/mermaid.esm.min.mjs" $version) -}}
+{{- $js := resources.Get "js/mermaid.js" | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting -}}
+{{- $js = $js | fingerprint -}}
+{{- end -}}
+<script type="module">
+  import mermaid from "{{ $src }}";
+  import { boot } from "{{ $js.RelPermalink }}";
+  await boot(mermaid, {{ i18n "mermaid_error" | default "Could not render this diagram." | jsonify | safeJS }});
+</script>

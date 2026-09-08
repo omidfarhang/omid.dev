@@ -1,0 +1,14 @@
+{{- $source := .source | strings.TrimSpace -}}
+{{- $caption := .caption | default .title -}}
+{{- $page := .page -}}
+{{- $page.Store.Set "hasMermaid" true -}}
+<figure class="mermaid-figure">
+  <div class="mermaid-diagram" dir="ltr">
+    <pre class="mermaid"{{ if not $caption }} role="img" aria-label="{{ i18n "mermaid_diagram" | default "Diagram" }}"{{ end }}>
+      {{- $source | htmlEscape | safeHTML -}}
+    </pre>
+  </div>
+  {{- with $caption }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>
