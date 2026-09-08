@@ -51,6 +51,17 @@
     height: auto;
 }
 
+/* Mermaid 11 can emit faint neo-look edges; ink strokes stay visible in both themes. */
+.mermaid-diagram :is(.flowchart-link, .edgePath .path, .transition, .messageLine0, .messageLine1, .loopLine, .actor-line) {
+    stroke: var(--primary) !important;
+    stroke-width: 1.75px !important;
+}
+
+.mermaid-diagram :is(.arrowheadPath, .marker, marker path) {
+    fill: var(--primary) !important;
+    stroke: var(--primary) !important;
+}
+
 .mermaid-diagram--error {
     color: var(--status-error);
 }

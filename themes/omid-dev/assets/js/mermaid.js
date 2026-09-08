@@ -5,13 +5,8 @@ function token(styles, name) {
   return styles.getPropertyValue(name).trim();
 }
 
-function isDark() {
-  return document.body.classList.contains("dark");
-}
-
 function mermaidConfig() {
   const styles = getComputedStyle(document.body);
-  const dark = isDark();
   const fontBody = token(styles, "--font-body") || "AtkinsonHyperlegible, ui-sans-serif, sans-serif";
 
   return {
@@ -19,6 +14,7 @@ function mermaidConfig() {
     securityLevel: "strict",
     fontFamily: fontBody,
     theme: "base",
+    look: "classic",
     flowchart: {
       htmlLabels: false,
       useMaxWidth: true,
@@ -27,7 +23,9 @@ function mermaidConfig() {
       useMaxWidth: true,
     },
     themeVariables: {
-      darkMode: dark,
+      // Tokens are already light/dark flipped. Do not set darkMode or Mermaid
+      // inverts lineColor and the arrows disappear on --surface-raised.
+      darkMode: false,
       background: token(styles, "--theme"),
       fontFamily: fontBody,
       primaryColor: token(styles, "--accent-light"),
@@ -35,7 +33,9 @@ function mermaidConfig() {
       primaryBorderColor: token(styles, "--accent-border-strong"),
       secondaryColor: token(styles, "--quaternary"),
       tertiaryColor: token(styles, "--surface-panel"),
-      lineColor: token(styles, "--content"),
+      lineColor: token(styles, "--primary"),
+      arrowheadColor: token(styles, "--primary"),
+      defaultLinkColor: token(styles, "--primary"),
       textColor: token(styles, "--content"),
       mainBkg: token(styles, "--entry"),
       nodeBorder: token(styles, "--accent-border-strong"),
