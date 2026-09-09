@@ -4,10 +4,12 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -60,7 +62,11 @@ class YourlsConfig:
 
     def auth_fields(self) -> dict[str, str]:
         if self.signature:
-            return {"signature": self.signature}
+            # Time-limited token: sha256(timestamp + secret). Valid ~12h on YOURLS.
+            # Avoids sending the raw signature on the wire.
+            timestamp = str(int(time.time()))
+            hashed = hashlib.sha256(f"{timestamp}{self.signature}".encode()).hexdigest()
+            return {"timestamp": timestamp, "signature": hashed}
         if self.username and self.password:
             return {"username": self.username, "password": self.password}
         raise ValueError(
@@ -270,7 +276,7 @@ def build_parser() -> argparse.ArgumentParser:
         ),
         epilog=(
             "Auth (env):\n"
-            "  YOURLS_SIGNATURE              passwordless API token (preferred)\n"
+            "  YOURLS_SIGNATURE              API secret (sent as sha256(timestamp+secret))\n"
             "  YOURLS_USERNAME / YOURLS_PASSWORD\n"
             "  YOURLS_API_URL                override API endpoint\n"
             "  YOURLS_SITE_URL               override long-URL site (default https://omid.dev)\n"

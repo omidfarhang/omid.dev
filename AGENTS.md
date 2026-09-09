@@ -283,7 +283,7 @@ python3 scripts/resume-pdf.py --no-build            # reuse existing public/
 python3 scripts/resume-pdf.py --base-url http://127.0.0.1:1313
 ```
 
-`shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
+`shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred; sent as a time-limited `sha256(timestamp + secret)` token), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
 
 `notify-search.py` reads the public IndexNow key from `params.indexNow.key` in `hugo.yaml` (override with `INDEXNOW_KEY`). The matching key file is `static/{key}.txt`. Do not use Google's deprecated sitemap ping.
 
