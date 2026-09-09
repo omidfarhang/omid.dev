@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/09/09/i-interview-frontend-hires-for-other-companies/
 shortlink: https://g.omid.dev/3DivN1O
+x_link: https://x.com/OmidFarhang/status/2097803604669481019
+mastodon_link: https://mastodon.social/@omidfarhang/117243275227263740
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mv4j4yz6dk2y
+linkedin_link: https://lnkd.in/p/gbf9xMum
 tags:
   - Engineering Leadership
   - Career
