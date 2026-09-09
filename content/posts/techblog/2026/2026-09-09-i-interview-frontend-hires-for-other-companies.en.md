@@ -1,7 +1,7 @@
 ---
 title: "I Interview Frontend Hires for Other Companies"
 date: 2026-09-09T03:00:00+03:30
-description: "How to hire frontend for a team that is not yours — intake with their lead, choosing the real level, and why I now weigh architecture mindset and AI workflow over syntax recall."
+description: "How I interview frontend candidates for a team that is not mine — intake with their lead, choosing the real level, and why I now weigh architecture, ownership, and AI judgment over syntax recall."
 layout: single
 author_profile: true
 url: 2026/09/09/i-interview-frontend-hires-for-other-companies/
@@ -20,7 +20,7 @@ seeAlso:
   - /2024/06/06/building-resilient-teams/
 ---
 
-Partner companies ask me to hire their frontend developers.
+Partner companies ask me to help hire their frontend developers.
 
 Not "sit in on the final call." The work starts in a room with their CTO, someone from HR, and whoever currently leads the development team. I listen to what they think they need. Then I tell them who they can actually use, read the incoming resumes, choose who is worth an interview, and run the loop.
 
@@ -60,13 +60,23 @@ I do not live in a partner's codebase. That is fine — the intake meeting and t
 
 The first thing I evaluate is not a developer. It is the request.
 
-A hiring request arrives as a title and a stack, usually written under pressure and often copied from a previous posting. It encodes what the team wishes were true about itself. The intake meeting is where you find out what is actually true: how large the team is, who already carries which part of the product, what has been on fire for the last quarter, who would be reviewing this person's code, and whether anyone has time to answer questions.
+A hiring request arrives as a title and a stack, usually written under pressure and often copied from a previous posting. It often encodes what the team wishes were true about itself: that someone has time to mentor, that architecture is settled, or that the work is clearer than it really is. The intake meeting is where you find out what is actually true: how large the team is, who already carries which part of the product, what has been on fire for the last quarter, who would be reviewing this person's code, and whether anyone has time to answer questions.
 
 The most common mismatch I find is a level mismatch, in one direction. The company asks for the most senior person it can describe, because seniority sounds like safety.
 
 Consider a familiar shape. A company asks for a senior frontend architect. During intake, the picture is a small team with a competent lead who already owns the architecture, a backlog of product panels waiting to be built, and no capacity problem in decision-making — the problem is throughput. They do not need someone to redesign the system. They need someone who can take the next panel end to end and ship it alongside the existing lead.
 
 Hiring the architect they asked for creates two people who want to own architecture and nobody clearing the queue. The role is prestigious, the candidate is strong, and the hire still fails.
+
+The questions that usually surface that mismatch:
+
+- What must this person ship in the first 90 days?
+- Who owns architecture today?
+- Who reviews their code?
+- What decisions can they make without escalation?
+- What is actually blocking delivery — throughput, ambiguity, technical debt, quality, or coordination?
+- How much mentoring capacity exists?
+- What would make this hire a failure six months from now?
 
 Translating that honestly is the part of the job that feels least like interviewing and matters most. It also has to be said out loud, in the intake meeting, before anyone is screened — not implied later by rejecting candidates.
 
@@ -86,7 +96,7 @@ A hire is a profile across all five, not a score on the first one. That is why "
 
 Read at that resolution, the three levels stop being vague:
 
-**Junior.** Core web fluency and a beginning grasp of the team's framework. Works on small, well-defined pieces with supervision. Asks questions instead of stalling, and takes feedback without treating it as a verdict. Impact is deliberately local. The leadership dimension is empty, and that is correct — nothing is wrong with a junior who does not lead.
+**Junior.** Core web fluency and a beginning grasp of the team's framework. Works on small, well-defined pieces with supervision. Asks questions instead of stalling, and takes feedback without treating it as a verdict. Impact is deliberately local. Formal leadership is not expected, and that is correct — nothing is wrong with a junior who does not lead. Curiosity, reliability, or helping a peer can show up; none of it is required for the role.
 
 **Mid.** Handles a medium-sized feature independently, in one stack they know well. Surfaces progress and blockers without being asked. Owns the work they are given, including the unglamorous parts of finishing it. Leadership shows up locally: answering a junior's question properly, suggesting a process fix.
 
@@ -121,7 +131,7 @@ Same category, different altitude:
 | Category | Mid altitude | Senior altitude |
 |---|---|---|
 | **Past project scope** | Features they shipped | Systems, tradeoffs, and business impact |
-| **Framework depth** | Correct level: do they use the stack well? | Wrong level — see below |
+| **Framework depth** | Correct level: do they use the stack well? | Credibility check — see below |
 | **Architecture** | Can assemble a feature-shaped application | Boundaries, shared surfaces, debt taken on purpose |
 | **Backend collaboration** | Consumes an interface as given | Influences its shape before it ships |
 | **Performance** | Knows techniques | Has a process when the obvious techniques do not apply |
@@ -136,15 +146,25 @@ Two things follow from reading it this way.
 
 **The opening category tells you the altitude.** Ask about the most complex thing they have built, then follow it: how large the team was, what exactly was theirs, what would break if they left. A junior answers in **tasks**. A mid answers in **features**. A senior answers in **systems** — including the tradeoff they chose and what it cost. You have not tested any specific knowledge yet, and you already know roughly where this conversation should live.
 
-**Which categories you open is a decision, not a habit.** For a mid-level hire, framework depth is exactly the right category: this person will spend their days inside that framework, and how well they understand its behavior predicts their work. For a senior hire, the same category is close to useless. Reciting how the framework schedules rendering, or which state primitive suits which lifetime, is knowledge a strong mid also has. Asking a senior harder versions of mid questions measures preparation, not seniority.
+**Which categories you open is a decision, not a habit.** For a mid-level hire, framework depth is exactly the right category: this person will spend their days inside that framework, and how well they understand its behavior predicts their work. For a senior hire, the same category is a credibility check, not the center of the loop. Reciting how the framework schedules rendering, or which state primitive suits which lifetime, is knowledge a strong mid also has. Asking a senior harder versions of mid questions measures preparation, not seniority.
 
 For a senior, I open on architecture and runtime — the layer the framework sits on, where constraints exist that no framework API hides from you — and on ownership. The genre that separates them is the production corner case: the situation where the documented approach is not the answer, and someone has to reason about the system underneath.
+
+The other half of aiming the interview is the person in the other chair. I do not use the power of the room to catch them out. I treat them with respect, and I make sure they understand why I am asking what I am asking. Some questions are load-bearing for the role. Some are there to map experience, and "I have not done that" is a useful answer. I say so out loud:
+
+> Look, some of the questions I'm asking aren't actually requirements for this position. I'm asking them mainly to get a better understanding of your experience and background. So if you don't know the answer to one of them, that's completely fine.
+
+I also keep the room a notch less formal than the process. Light, respectful humor, and a hint when someone has earned one: "Since you've been doing really well so far, let me give you a little hint for this one." The point is not to be liked. A candidate who is braced for a quiz answers like they are taking a quiz. A candidate who understands the frame, and is allowed to be uncertain, shows you how they actually work.
+
+A hint is also a measurement. Two people can miss the first pass; the one who uses a little more context and the one who still stalls are not the same candidate. That is the **approach and attitude** dimension in the room — how they take unfamiliarity and a nudge — and for a mid or a senior it is more useful than whether they already had the answer memorized. If they go down the wrong path, I do not say they are wrong. I change the problem slightly and watch whether they can turn.
+
+The boundary is not to become a reassuring interviewer. "Great" after every answer makes the feedback meaningless, and it is how a false yes gets built from the other side of the table.
 
 ## What I stopped testing
 
 For years I interviewed much closer to the syntax. Did they remember the exact method signature, could they produce the right operator on the spot, did they know the language detail I had in mind. It felt rigorous. What it actually measured was recall.
 
-I have almost entirely stopped asking that, and not only because recall was always a weak predictor. Syntax is now the cheapest thing in the room. Anything a developer can look up in seconds, or have generated correctly on the first attempt, tells you very little about what they will do to a codebase over a year.
+I have almost entirely stopped asking that, and not only because recall was always a weak predictor. Syntax is now the cheapest thing in the room. That does not make fundamentals irrelevant — I test whether someone can reason from them, not whether they can recite them without tools. Anything a developer can look up in seconds, or have generated correctly on the first attempt, tells you very little about what they will do to a codebase over a year.
 
 What replaced it is mindset: how they think about code and structure. Whether they model a problem before typing. Whether they can say why the shape they chose is better than the obvious alternative, and what it costs. Whether they notice that a working change makes the next change harder. Those habits survive framework churn, and they are what the architecture and ownership categories are actually testing.
 
@@ -154,9 +174,11 @@ The second thing that changed is that AI use became a category I weigh seriously
 
 Not whether they use it. Everyone says yes, and the answer carries no information. What I listen for is **where it sits in their work**.
 
-The weak version is a chat window beside the editor. They hit a problem, describe it to an assistant, and paste the answer back. That is a faster search engine. It works, it is common, and — as I have argued about [research workspaces](/2026/08/29/one-ai-chat-is-not-a-research-workspace/) — a single conversation is not a place where real work accumulates.
+The weak version is unstructured answer-pasting: they hit a problem, describe it to an assistant, and paste the answer back. That is a faster search engine. It works, it is common, and — as I have argued about [research workspaces](/2026/08/29/one-ai-chat-is-not-a-research-workspace/) — a single conversation is not a place where real work accumulates.
 
-The strong version has AI operating **inside the codebase**, with the developer still accountable for the result. In practice that means agents making multi-file changes against the project's actual conventions, context given deliberately rather than dumped, and generated code treated as a draft that has to survive review and tests like anyone else's. It also means tooling the repository itself so those conventions are available to the agent instead of re-explained every session — which is [what MCP support and similar integrations changed for real teams](/2026/05/27/angular-mcp-ai-workflows-real-teams/).
+A stronger version is deliberate use that fits how the team is allowed to work. On many teams that looks like agents operating **inside the codebase**: multi-file changes against the project's actual conventions, context given deliberately rather than dumped, generated code treated as a draft that has to survive review and tests like anyone else's, and the repository itself tooled so those conventions are available to the agent instead of re-explained every session — which is [what MCP support and similar integrations changed for real teams](/2026/05/27/angular-mcp-ai-workflows-real-teams/).
+
+On others, privacy, security, or compliance rules keep AI outside the repository, or off certain work entirely. The signal is not which of those setups they have. It is whether they still verify, keep boundaries, and own the result.
 
 Four things I listen for:
 
@@ -175,7 +197,7 @@ The altitudes differ as much as anywhere else. For a **junior**, the risk is gen
 
 **Trivia-seniority.** The mirror image, and the interviewer's fault rather than the candidate's. You want to test a senior, so you ask harder framework questions. What you have built is a quiz, and quizzes reward study. The candidate who spent last weekend reading release notes outperforms the one who has spent three years owning a system, because the second person answers the question you asked instead of the one you meant.
 
-Both failures have the same inverse: the candidate who does not perform. Less framework-fluent in the moment, slower and more careful in a live exercise, and clearly reasoning at the system layer with real ownership behind it. If your loop only rewards polish, that person leaves the process and someone else hires them.
+Both failures have the same inverse: the candidate who does not perform. Less framework-fluent in the moment, slower and more careful in a live exercise, and clearly reasoning at the system layer with real ownership behind it. If your loop only rewards polish — or a room that feels like a quiz — that person leaves the process and someone else hires them.
 
 ## The recommendation stays theirs
 
