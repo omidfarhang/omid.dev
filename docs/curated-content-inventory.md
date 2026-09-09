@@ -58,6 +58,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 - The Frontend Is a Privileged System Now
 - Building Resilient Teams
 - Mentorship in Tech
+- I Interview Frontend Hires for Other Companies (borrowed-mandate hiring path: intake, level translation, slate, loop, recommendation)
 - Choosing the Right Tech Stack
 - Shadow Ownership (3-post series: pattern, lead playbook, senior IC playbook)
 
