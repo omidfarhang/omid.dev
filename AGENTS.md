@@ -151,6 +151,7 @@ series:
 | `essential-skills` | Engineering Leadership |
 | `team-communication` | Engineering Leadership |
 | `observability` | Systems & Linux |
+| `linux-networking` | Systems & Linux |
 | `ecosystem-blind-spot` | Engineering Leadership (Zoom-Out cluster) |
 
 Series are **per language** — German `jupyter-copilot` posts group separately from English ones. When translating a series post, copy the `series` block and adjust `label`/`title` for that language.

@@ -1,6 +1,6 @@
 ---
 title: "Systems & Linux"
-description: "A curated reading path for infra-curious frontend leads — Linux desktop, containers, networking, and shell automation."
+description: "A curated reading path for infra-curious frontend leads — Linux desktop, networking, containers, and shell automation."
 layout: reading-path
 url: /posts/techblog/paths/systems-and-linux/
 hidemeta: true
@@ -9,7 +9,7 @@ build:
   list: never
 ---
 
-For frontend leads who want to understand the machines their apps run on — desktop Linux, containers, networking, and automation — without becoming full-time SREs.
+For frontend leads who want to understand the machines their apps run on — desktop Linux, networking, containers, and automation — without becoming full-time SREs.
 
 ## Desktop Linux
 
@@ -26,28 +26,36 @@ For frontend leads who want to understand the machines their apps run on — des
 8. **[Local AI on Manjaro: Ollama, Aider, and Cline](/2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/)** — Follow-up to item 7: install Ollama with CUDA and wire local agents (Aider, Cline) for repo work without cloud API costs.
 9. **[Install oh-my-zsh in VS Code on Linux](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)** — Zsh, prompt, plugin, and editor-terminal setup for the workspace overview above.
 
+## Networking
+
+Start the [Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/) series (4 posts), then continue to containers. Follow in-post series navigation between parts.
+
+10. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr` (series anchor).
+11. **[Linux as a Router](/2026/09/01/linux-as-a-router/)** — Forwarding, policy routing, and nftables when packets leave the L2 domain.
+12. **[Network Namespaces and Virtual Links](/2026/09/04/linux-network-namespaces-and-virtual-links/)** — netns, veth, and bridge vs macvlan vs ipvlan on one host.
+13. **[VXLAN and Why CNI Exists](/2026/09/10/linux-vxlan-and-why-cni/)** — Underlay, overlay, and the CNI contract — then read the container posts below.
+
 ## Containers and orchestration
 
-10. **[Introduction to Docker](/2024/05/28/introduction-to-docker-simplifying-application-deployment/)** — Container basics for developers who deploy their own apps.
-11. **[Getting Started with Kubernetes](/2024/05/27/getting-started-with-kubernetes-a-beginners-guide/)** — A beginner's map to orchestration concepts frontend leads encounter in production.
-12. **[Beyond Kubernetes](/2024/06/12/advanced-container-orchestration-beyond-kubernetes-basic/)** — What comes after the basics when orchestration gets real.
+14. **[Introduction to Docker](/2024/05/28/introduction-to-docker-simplifying-application-deployment/)** — Container basics for developers who deploy their own apps.
+15. **[Getting Started with Kubernetes](/2024/05/27/getting-started-with-kubernetes-a-beginners-guide/)** — A beginner's map to orchestration concepts frontend leads encounter in production.
+16. **[Beyond Kubernetes](/2024/06/12/advanced-container-orchestration-beyond-kubernetes-basic/)** — What comes after the basics when orchestration gets real (CRDs, Operators, Istio — above the pod network).
 
-## Networking and automation
+## Automation
 
-13. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr`.
-14. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
+17. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
 
 ## Observability
 
 Follow the [Observability](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/) series, then the hardware-debugging pair:
 
-15. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
-16. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
-17. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
+18. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
+19. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
+20. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
 
 ## Resilience
 
-18. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
+21. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
 
 ## Related paths
 

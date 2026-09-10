@@ -28,6 +28,15 @@ tags:
 
 categories:
   - TechBlog
+series:
+  id: linux-networking
+  title: "Advanced Networking in Linux"
+  order: 0
+  label: "VLANs, Bonding, Bridging"
+  role: anchor
+seeAlso:
+  - /2026/09/01/linux-as-a-router/
+  - /2026/09/04/linux-network-namespaces-and-virtual-links/
 ---
 Linux networking becomes much easier to reason about when you treat interfaces as layers. A physical NIC can become part of a bond. A VLAN interface can sit on top of that bond. A bridge can sit on top of the VLAN. The host's IP address belongs on whichever layer represents the host on that network.
 
@@ -247,16 +256,55 @@ sudo nmcli connection add type ethernet con-name br0-eth0 ifname eth0 master br0
 sudo nmcli connection up br0
 ```
 
+### VLAN-Aware Bridges
+
+The design later in this post uses one VLAN interface per network and one bridge per VLAN (`bond0.10` → `br10`, `bond0.20` → `br20`). That keeps the layers easy to see.
+
+Modern Linux also supports a **VLAN-aware bridge**: one bridge with `vlan_filtering=1`, where the uplink carries tagged frames and each port has an allowed VLAN list. Fewer devices, which is what many libvirt and cloud-hypervisor setups prefer.
+
+A temporary sketch looks like this:
+
+```bash
+sudo ip link add name br0 type bridge vlan_filtering 1
+sudo ip link set bond0 master br0
+sudo bridge vlan add vid 10-20 dev bond0
+sudo bridge vlan add vid 10 pvid untagged dev br0 self
+sudo ip addr add 192.168.10.10/24 dev br0
+sudo ip -6 addr add 2001:db8:10::10/64 dev br0
+sudo ip link set br0 up
+```
+
+Prefer **explicit VLAN interfaces** when you want the stack to match the mental model in this post, or when each VLAN has different host IP, firewall, or MTU rules. Prefer a **VLAN-aware bridge** when guests need many VLANs and you want one uplink port with port-level VLAN membership.
+
+### Attaching a VM
+
+A bridge only helps when something is plugged into it. With libvirt/KVM, a guest NIC on `br10` looks like this:
+
+```xml
+<interface type='bridge'>
+  <source bridge='br10'/>
+  <model type='virtio'/>
+</interface>
+```
+
+For a quick lab without libvirt, create a tap and enslave it the same way you would a physical NIC:
+
+```bash
+sudo ip tuntap add mode tap name vnet0
+sudo ip link set vnet0 master br10
+sudo ip link set vnet0 up
+```
+
 ## A Practical Server Design
 
 Now combine the pieces into a useful server layout.
 
 Assume this design:
 
-- `eno1` and `eno2` connect to the same switch or MLAG pair.
+- `eno1` and `eno2` connect to the same switch or an MLAG pair. Dual-homed LACP across MLAG is still **one** port channel from the host's point of view, not two independent LACP groups. Configure the switch pair as a single logical aggregation before you bring up `802.3ad` on Linux.
 - The switch ports are configured as one LACP port channel.
 - The port channel is a VLAN trunk carrying VLAN 10 and VLAN 20.
-- VLAN 10 is the host management network: `192.168.10.10/24`.
+- VLAN 10 is the host management network: `192.168.10.10/24` (and optionally an IPv6 address on the same bridge).
 - VLAN 20 is a VM network with no host IP address.
 - VMs should attach to Linux bridges named `br10` and `br20`.
 
@@ -307,6 +355,7 @@ network:
         - bond0.10
       addresses:
         - 192.168.10.10/24
+        - 2001:db8:10::10/64
       routes:
         - to: default
           via: 192.168.10.1
@@ -334,6 +383,76 @@ sudo netplan apply
 ```
 
 Use `netplan try` when working over SSH. It can roll back if the new network configuration breaks connectivity.
+
+### The Same Stack with systemd-networkd
+
+On minimal servers that use systemd-networkd directly, the same layers become a few `.netdev` and `.network` files under `/etc/systemd/network/`.
+
+Bond:
+
+```ini
+# /etc/systemd/network/10-bond0.netdev
+[NetDev]
+Name=bond0
+Kind=bond
+
+[Bond]
+Mode=802.3ad
+MIIMonitorSec=100ms
+LACPTransmitRate=fast
+TransmitHashPolicy=layer3+4
+```
+
+```ini
+# /etc/systemd/network/10-bond0-slaves.network
+[Match]
+Name=eno1 eno2
+
+[Network]
+Bond=bond0
+```
+
+VLAN and bridge for management:
+
+```ini
+# /etc/systemd/network/20-bond0.10.netdev
+[NetDev]
+Name=bond0.10
+Kind=vlan
+
+[VLAN]
+Id=10
+```
+
+```ini
+# /etc/systemd/network/20-bond0.10.network
+[Match]
+Name=bond0.10
+
+[Network]
+Bridge=br10
+```
+
+```ini
+# /etc/systemd/network/30-br10.netdev
+[NetDev]
+Name=br10
+Kind=bridge
+```
+
+```ini
+# /etc/systemd/network/30-br10.network
+[Match]
+Name=br10
+
+[Network]
+Address=192.168.10.10/24
+Address=2001:db8:10::10/64
+Gateway=192.168.10.1
+DNS=192.168.10.1
+```
+
+Wire VLAN 20 and `br20` the same way, without a host address on `br20`. Then `systemctl restart systemd-networkd` (or reboot) after you are sure the files are correct.
 
 ## Verification Workflow
 
@@ -388,10 +507,12 @@ If you see no VLAN-tagged traffic on `bond0`, inspect the switch trunk. If you s
 
 ## Common Mistakes
 
-- **Putting the IP address on a bridge port:** If `eth0` or `bond0.10` is enslaved to a bridge, put the IP address on the bridge.
+- **Putting the IP address on a bridge port:** If `eth0` or `bond0.10` is enslaved to a bridge, put the IP address on the bridge — including IPv6.
 - **Creating a bridge loop:** Do not put two physical NICs into the same bridge as redundant uplinks. Use a bond, or design STP/RSTP intentionally.
 - **Expecting LACP to multiply one download:** LACP distributes flows. One flow normally uses one member link.
 - **Forgetting the switch:** VLAN trunks, allowed VLANs, native VLANs, and LACP groups must match the Linux host.
+- **Ignoring MTU through the stack:** An 802.1Q tag adds 4 bytes. Jumbo or storage VLANs need a consistent MTU on every layer from the physical NIC through the bond, VLAN, and bridge.
+- **Surprising firewall behavior on bridges:** Loading `br_netfilter` can make bridged traffic look like routed traffic to iptables/nftables. If VMs can ARP but not pass TCP, check whether bridge packets are hitting filter rules you meant only for the host.
 - **Mixing network managers:** Avoid configuring the same interface in NetworkManager, netplan, systemd-networkd, and old ifupdown files at the same time.
 - **Testing only after persistence:** Build temporary configs to understand behavior, but use your distribution's persistent network system for production.
 
@@ -421,3 +542,5 @@ Avoid new production documentation based on `ifconfig`, `route`, `vconfig`, or `
 VLANs, bonds, and bridges are most useful when you combine them deliberately. VLANs define which Layer 2 network traffic belongs to. Bonds define how physical uplinks behave as one logical link. Bridges define which Layer 2 ports can talk to each other.
 
 If you remember the layering order, you can build complex Linux network setups without guessing: physical NICs at the bottom, bonds above them, VLANs above the uplink, bridges above VLANs when VMs or containers need Layer 2 access, and IP addresses on the interface where the host actually participates in the network.
+
+When packets need to leave that Layer 2 domain — between subnets, through NAT, or across two different uplinks — continue with [Linux as a Router](/2026/09/01/linux-as-a-router/).

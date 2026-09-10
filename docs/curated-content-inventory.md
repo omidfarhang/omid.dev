@@ -21,6 +21,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | observability | 2 | Systems & Linux |
 | hardware-debugging | 2 | Systems & Linux (cross-section Electronics) |
 | shadow-ownership | 3 | Engineering Leadership |
+| linux-networking | 4 | Systems & Linux |
 
 ## Reading paths (manual curation)
 
@@ -72,7 +73,8 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 ## DevOps / infra (Systems path)
 
 - Maintainable Command-Line Workspace on Linux (terminal, shell, multiplexer, dotfiles, and SSH overview)
-- Cursor on Manjaro, oh-my-zsh, Docker, K8s, Beyond K8s, networking, shell scripting
+- Cursor on Manjaro, oh-my-zsh, Docker, K8s, Beyond K8s, shell scripting
+- Advanced Networking in Linux series (4): VLANs/bonding/bridging, router/nftables, namespaces/veth, VXLAN/CNI
 
 ## AI & knowledge (standalone, AI & Data Tools path)
 
