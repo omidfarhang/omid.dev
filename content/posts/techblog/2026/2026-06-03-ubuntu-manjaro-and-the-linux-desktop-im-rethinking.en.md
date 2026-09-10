@@ -24,6 +24,7 @@ categories:
   - TechBlog
 seeAlso:
   - /2022/12/30/how-to-upgrade-ubuntu-kernel/
+  - /2022/12/30/how-to-upgrade-ubuntu/
   - /2026/05/29/how-to-install-cursor-ide-in-manjaro/
   - /2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/
   - /2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/
@@ -48,7 +49,7 @@ The reasons for leaving Ubuntu-family distros back then were real:
 
 - **KDE on Kubuntu often lagged** behind what KDE was shipping upstream.
 - **Kernels felt old** on LTS unless you chased HWE stacks, PPAs, or third-party mainline tooling.
-- **PPAs accumulated** for one app, one driver tweak, one toolchain — and became their own maintenance project.
+- **PPAs accumulated** for one app, one driver tweak, one toolchain — and became their own maintenance project. ([Release upgrades](/2022/12/30/how-to-upgrade-ubuntu/) disable them for a reason.)
 - **Snap was young and rough**; many of us wanted `.deb` or native packages first.
 - On laptops, **hybrid graphics** (Intel + NVIDIA) was frequently more painful on Ubuntu than we wanted to admit.
 

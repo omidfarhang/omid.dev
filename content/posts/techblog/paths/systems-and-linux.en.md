@@ -15,48 +15,49 @@ For frontend leads who want to understand the machines their apps run on — des
 
 1. **[Ubuntu, Manjaro, and the Linux Desktop](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/)** — Why I rethought my desktop stack and what I learned comparing distros.
 2. **[How Ubuntu Ships Kernels](/2022/12/30/how-to-upgrade-ubuntu-kernel/)** — GA vs HWE vs OEM vs mainline, and why DKMS is the cost of jumping tracks on a laptop.
-3. **[Your Desktop Is Fast — Why Does It Still Stutter?](/2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/)** — Building a tiny app to explain desktop stutter on Linux.
-4. **[Memory Compression on Linux](/2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/)** — zswap, zram, and what “free memory” actually means.
-5. **[The HDMI Port Was Keeping NVIDIA Awake](/2026/08/23/hdmi-port-keeping-nvidia-awake/)** — Hybrid PRIME is fine; native HDMI can still keep the dGPU in the display path. USB-C/TB4 DisplayPort puts the monitor on Intel.
+3. **[How Ubuntu Ships Releases](/2022/12/30/how-to-upgrade-ubuntu/)** — LTS vs interim, the `.1` gate, and rewriting sources only if you can recover a stuck `apt`.
+4. **[Your Desktop Is Fast — Why Does It Still Stutter?](/2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/)** — Building a tiny app to explain desktop stutter on Linux.
+5. **[Memory Compression on Linux](/2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/)** — zswap, zram, and what “free memory” actually means.
+6. **[The HDMI Port Was Keeping NVIDIA Awake](/2026/08/23/hdmi-port-keeping-nvidia-awake/)** — Hybrid PRIME is fine; native HDMI can still keep the dGPU in the display path. USB-C/TB4 DisplayPort puts the monitor on Intel.
 
 ## Tools and setup
 
-6. **[How to Install Cursor IDE on Manjaro](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)** — Practical setup notes for a modern editor on Arch-based distros.
-7. **[A Maintainable Command-Line Workspace on Linux](/2026/08/03/a-maintainable-command-line-workspace-on-linux/)** — A reproducible terminal, shell, multiplexer, and dotfiles foundation that works across machines and distros.
-8. **[How to Stretch Cursor Pro Further: A Split AI Workflow](/2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/)** — After install: split work across ChatGPT, Claude, Ollama, and Cursor; quota mechanics and local model picks on Linux.
-9. **[Local AI on Manjaro: Ollama, Aider, and Cline](/2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/)** — Follow-up to item 8: install Ollama with CUDA and wire local agents (Aider, Cline) for repo work without cloud API costs.
-10. **[Install oh-my-zsh in VS Code on Linux](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)** — Zsh, prompt, plugin, and editor-terminal setup for the workspace overview above.
+7. **[How to Install Cursor IDE on Manjaro](/2026/05/29/how-to-install-cursor-ide-in-manjaro/)** — Practical setup notes for a modern editor on Arch-based distros.
+8. **[A Maintainable Command-Line Workspace on Linux](/2026/08/03/a-maintainable-command-line-workspace-on-linux/)** — A reproducible terminal, shell, multiplexer, and dotfiles foundation that works across machines and distros.
+9. **[How to Stretch Cursor Pro Further: A Split AI Workflow](/2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/)** — After install: split work across ChatGPT, Claude, Ollama, and Cursor; quota mechanics and local model picks on Linux.
+10. **[Local AI on Manjaro: Ollama, Aider, and Cline](/2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/)** — Follow-up to item 9: install Ollama with CUDA and wire local agents (Aider, Cline) for repo work without cloud API costs.
+11. **[Install oh-my-zsh in VS Code on Linux](/2019/06/05/install-and-configure-oh-my-zsh-and-use-it-in-vscode-in-linux/)** — Zsh, prompt, plugin, and editor-terminal setup for the workspace overview above.
 
 ## Networking
 
 Start the [Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/) series (4 posts), then continue to containers. Follow in-post series navigation between parts.
 
-11. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr` (series anchor).
-12. **[Linux as a Router](/2026/09/01/linux-as-a-router/)** — Forwarding, policy routing, and nftables when packets leave the L2 domain.
-13. **[Network Namespaces and Virtual Links](/2026/09/04/linux-network-namespaces-and-virtual-links/)** — netns, veth, and bridge vs macvlan vs ipvlan on one host.
-14. **[VXLAN and Why CNI Exists](/2026/09/10/linux-vxlan-and-why-cni/)** — Underlay, overlay, and the CNI contract — then read the container posts below.
+12. **[Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linux-vlans-bonding-and-bridging/)** — VLANs, bonding, and bridging when you need more than `ip addr` (series anchor).
+13. **[Linux as a Router](/2026/09/01/linux-as-a-router/)** — Forwarding, policy routing, and nftables when packets leave the L2 domain.
+14. **[Network Namespaces and Virtual Links](/2026/09/04/linux-network-namespaces-and-virtual-links/)** — netns, veth, and bridge vs macvlan vs ipvlan on one host.
+15. **[VXLAN and Why CNI Exists](/2026/09/10/linux-vxlan-and-why-cni/)** — Underlay, overlay, and the CNI contract — then read the container posts below.
 
 ## Containers and orchestration
 
-15. **[Introduction to Docker](/2024/05/28/introduction-to-docker-simplifying-application-deployment/)** — Container basics for developers who deploy their own apps.
-16. **[Getting Started with Kubernetes](/2024/05/27/getting-started-with-kubernetes-a-beginners-guide/)** — A beginner's map to orchestration concepts frontend leads encounter in production.
-17. **[Beyond Kubernetes](/2024/06/12/advanced-container-orchestration-beyond-kubernetes-basic/)** — What comes after the basics when orchestration gets real (CRDs, Operators, Istio — above the pod network).
+16. **[Introduction to Docker](/2024/05/28/introduction-to-docker-simplifying-application-deployment/)** — Container basics for developers who deploy their own apps.
+17. **[Getting Started with Kubernetes](/2024/05/27/getting-started-with-kubernetes-a-beginners-guide/)** — A beginner's map to orchestration concepts frontend leads encounter in production.
+18. **[Beyond Kubernetes](/2024/06/12/advanced-container-orchestration-beyond-kubernetes-basic/)** — What comes after the basics when orchestration gets real (CRDs, Operators, Istio — above the pod network).
 
 ## Automation
 
-18. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
+19. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
 
 ## Observability
 
 Follow the [Observability](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/) series, then the hardware-debugging pair:
 
-19. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
-20. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
-21. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
+20. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
+21. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
+22. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
 
 ## Resilience
 
-22. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
+23. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
 
 ## Related paths
 

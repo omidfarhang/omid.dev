@@ -21,6 +21,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2022/12/30/how-to-upgrade-ubuntu/
   - /2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/
   - /2026/08/23/hdmi-port-keeping-nvidia-awake/
   - /2026/06/16/how-i-learned-my-linux-machine-has-been-compressing-memory-for-years/
@@ -220,7 +221,7 @@ The [Ubuntu mainline PPA has gone missing before](/notes/178199247194399389/). T
 
 ## What This Post Does Not Cover
 
-Building your own kernel. Ubuntu Pro / ESM calendars beyond "GA is the long clock." Cloud variants (`linux-aws`, `linux-azure`, `linux-gcp`) — same idea (a kernel variant), different SKU. Compiling NVIDIA from the `.run` installer. Those are adjacent shelves.
+Building your own kernel. Ubuntu Pro / ESM calendars beyond "GA is the long clock." Cloud variants (`linux-aws`, `linux-azure`, `linux-gcp`) — same idea (a kernel variant), different SKU. Compiling NVIDIA from the `.run` installer. Changing *series* (24.04 → 26.04) is a [release upgrade](/2022/12/30/how-to-upgrade-ubuntu/), not a kernel track. Those are adjacent shelves.
 
 ## Further Reading
 
@@ -230,4 +231,4 @@ Building your own kernel. Ubuntu Pro / ESM calendars beyond "GA is the long cloc
 - [kernel.ubuntu.com mainline](https://kernel.ubuntu.com/mainline/)
 - [Mainline installer](https://github.com/bkw777/mainline)
 
-The distro comparison that pointed here: [Ubuntu, Manjaro, and the Linux Desktop](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/). The hybrid-GPU wiring problem that a newer kernel will not fix by itself: [The HDMI Port Was Keeping NVIDIA Awake](/2026/08/23/hdmi-port-keeping-nvidia-awake/).
+The distro comparison that pointed here: [Ubuntu, Manjaro, and the Linux Desktop](/2026/06/03/ubuntu-manjaro-and-the-linux-desktop-im-rethinking/). The hybrid-GPU wiring problem that a newer kernel will not fix by itself: [The HDMI Port Was Keeping NVIDIA Awake](/2026/08/23/hdmi-port-keeping-nvidia-awake/). Changing Ubuntu *series* is a different operation: [How Ubuntu Ships Releases](/2022/12/30/how-to-upgrade-ubuntu/).
