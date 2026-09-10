@@ -143,7 +143,7 @@ Production VTEPs often use multicast or a control plane instead of a single `rem
 
 ## Why CNI Exists
 
-Kubernetes does not hard-code "create this veth, this bridge, this VXLAN" inside kubelet for every cluster. The **container runtime** (via kubelet) **delegates network setup to a CNI implementation through a standard contract**.
+Kubernetes does not hard-code "create this veth, this bridge, this VXLAN" into kubelet for every cluster. When the container runtime creates a pod sandbox, it invokes the configured CNI implementation through a standard contract.
 
 Conceptually:
 
@@ -151,10 +151,10 @@ Conceptually:
 Kubernetes
     │
  kubelet
-    │
+    │ asks runtime to create pod sandbox
+    ▼
 container runtime
-    │
-    │ CNI  (ADD / DEL / CHECK)
+    │ invokes CNI (ADD / DEL / CHECK)
     ▼
 ┌───────────────┐
 │ CNI plugin    │
