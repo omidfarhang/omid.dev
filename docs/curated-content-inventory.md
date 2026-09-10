@@ -66,6 +66,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 ## Desktop Linux (standalone, Systems path)
 
 - Ubuntu, Manjaro, and the Linux Desktop I Thought I'd Left Behind
+- How Ubuntu Ships Kernels (GA, HWE, OEM, mainline, DKMS)
 - Building a Tiny Linux App to Explain Desktop Stutter
 - How I Learned My Linux Machine Has Been Compressing Memory for Years
 - The HDMI Port Was Keeping NVIDIA Awake
