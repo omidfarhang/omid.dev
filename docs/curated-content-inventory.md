@@ -13,7 +13,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | bio-dynamics-lab | 5 (+ teaching) | AI & Data Tools |
 | jupyter-copilot | 4 EN / 3 DE | AI & Data Tools |
 | split-ai-workflow | 2 | AI & Data Tools, Systems & Linux |
-| micro-frontends | 5 | Frontend Architecture, Angular Platform (related) |
+| micro-frontends | 3 | Frontend Architecture, Angular Platform (related) |
 | chaos-engineering | 3 | Frontend Quality, Systems & Linux (related) |
 | legacy-and-modernization | 2 | Engineering Leadership, Frontend Architecture |
 | essential-skills | 3 | Engineering Leadership |
@@ -49,6 +49,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 - Advanced Dependency Injection
 - Advanced Change Detection
 - GraphQL integration + REST migration pair
+- Reusable Shared Module in Angular (library publish / npm link)
 - Companion code post
 
 ## Leadership essays (standalone)

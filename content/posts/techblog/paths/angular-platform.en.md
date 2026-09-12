@@ -50,15 +50,16 @@ These posts are not part of the Modern Angular series but ground the platform wo
 18. **[Advanced Angular Change Detection](/2024/06/19/advanced-angular-change-detection-strategies-for-high-performance-applications/)** — Change detection strategies when performance matters.
 19. **[Integrating GraphQL with Angular](/2024/06/01/integrating-graphql-with-angular-a-practical-guide/)** — Practical GraphQL setup in Angular apps.
 20. **[Migrating from REST to GraphQL](/2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressjs-and-angular/)** — Step-by-step backend + frontend migration pair.
+21. **[Reusable Shared Module in Angular](/2024/05/12/reusable-shared-module-in-angular/)** — Cross-repository Angular libraries: `ng generate library`, `npm link`, and `npm publish`.
 
 ## Architecture at scale
 
-21. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — Start the Micro Frontends series, then follow in-post navigation through the working example and comparison posts.
-22. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology context for incremental migration (pairs with the migration posts above).
+22. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — Start the Micro Frontends series, then follow in-post navigation through How and the working example.
+23. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology context for incremental migration (pairs with the migration posts above).
 
 ## Companion code
 
-23. **[Why I Started Adding Full Source Code to My Blog Posts](/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)** — How runnable companion projects tie posts to repos and live demos on [playground.omid.dev](https://playground.omid.dev/).
+24. **[Why I Started Adding Full Source Code to My Blog Posts](/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)** — How runnable companion projects tie posts to repos and live demos on [playground.omid.dev](https://playground.omid.dev/).
 
 ## Related paths
 

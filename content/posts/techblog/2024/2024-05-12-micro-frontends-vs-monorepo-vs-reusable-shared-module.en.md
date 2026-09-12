@@ -7,19 +7,12 @@ url: 2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/
 shortlink: https://g.omid.dev/dK8zjqy
 tags:
   - Frontend
-  - development
   - Angular
   - Micro Frontends
   - Monorepo
 
 categories:
   - TechBlog
-series:
-  id: micro-frontends
-  title: "Micro Frontends"
-  order: 3
-  label: "Micro Frontends vs Monorepo vs Shared Module"
-  role: part
 seeAlso:
   - /2024/05/09/micro-frontends-why/
   - /2024/05/09/micro-frontends-how/

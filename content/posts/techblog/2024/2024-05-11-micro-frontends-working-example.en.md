@@ -1,18 +1,17 @@
 ---
 title: 'Micro Frontends: Working Example'
 date: 2024-05-11T17:52:46+03:30
+lastmod: 2026-09-13T00:57:00+03:30
+description: "A Qwik shell loads separately built Angular and React bundles as custom elements, with a message attribute down and a DOM event back. This demo proves the contract — not Module Federation, and not four production deploys."
 layout: single
 author_profile: true
 url: 2024/05/11/micro-frontends-working-example/
 shortlink: https://g.omid.dev/c6nubDQ
 tags:
   - Frontend
-  - development
-  - Angular
-  - qwik
-  - React
-  - Rust
   - Micro Frontends
+  - Angular
+  - Web Components
 
 categories:
   - TechBlog
@@ -22,10 +21,14 @@ series:
   order: 2
   label: "Micro Frontends: Working Example"
   role: part
-seriesNav:
-  footer: false
+seeAlso:
+  - /2024/05/09/micro-frontends-why/
+  - /2024/05/09/micro-frontends-how/
+  - /2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/
 ---
-Now let's explore a working example to understand it better.
+This is the companion for [Why](/2024/05/09/micro-frontends-why/) and [How](/2024/05/09/micro-frontends-how/). It proves one thing: a host page can load separately built Angular and React bundles as custom elements, pass a `message` attribute down, and take a `microfrontend:message` event back.
+
+It does not prove Module Federation, independent production deploys, or a shared design system. `npm run dev` builds the remotes, then starts one Qwik server that serves them from `public/mfes/`. Rust WebAssembly is a shell helper for CPU work, not a fourth micro frontend.
 
 {{< companion
   repo="omidfarhang/example-projects"
@@ -33,11 +36,9 @@ Now let's explore a working example to understand it better.
   demoSlug="qwik-angular-react-rust"
 >}}
 
-## Building a Micro Frontend Architecture with Qwik, Angular, React, and Rust
+## The repo
 
-Micro frontend architecture is a practical way to develop scalable and modular web applications. By breaking down a monolithic frontend into smaller, independently deployable modules, teams can work more efficiently and scale their applications with ease.
-
-In this example, Qwik acts as the shell application. Angular and React are built as separate micro frontends, exposed as Web Components, and loaded into the shell at runtime. A small Rust WebAssembly module is included as an optional non-UI helper for CPU-bound work. The shell owns shared state, passes it down through custom element attributes, and listens for messages from the micro frontends through a small DOM event contract.
+Qwik is the shell. Angular and React are separate apps, exposed as Web Components, and loaded at runtime. The shell owns shared state, passes it down through custom element attributes, and listens for messages through a small DOM event contract.
 
 ### Project Structure
 
@@ -54,7 +55,7 @@ Each micro frontend builds into `qwik-micro-frontend/public/mfes/`. The optional
 
 ### Angular Micro Frontend
 
-In the Angular project, register the root component as a custom element:
+The Angular remote in this repo is still an NgModule app: `ngDoBootstrap` plus `createCustomElement`. That is the 2024 demo API, not a recommendation to stay on NgModule. Register the root component as a custom element:
 
 ```typescript
 // angular-app/src/app/app.module.ts
@@ -120,14 +121,14 @@ npm run build
 
 ### React Micro Frontend
 
-In the React project, wrap the UI in a custom element and react to attribute changes:
+The React remote wraps the UI in a custom element, observes the `message` attribute, and isolates its CSS in an open Shadow DOM. Host styles do not restyle this button; the Angular remote, in the light DOM, is not similarly isolated.
 
 ```jsx
 // react-app/src/index.jsx
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { ReactMicroFrontend } from './ReactMicroFrontend.jsx';
-import './style.css';
+import styles from './style.css?inline';
 
 class ReactMicroFrontendElement extends HTMLElement {
   static get observedAttributes() {
@@ -135,6 +136,15 @@ class ReactMicroFrontendElement extends HTMLElement {
   }
 
   connectedCallback() {
+    if (!this.shadowRoot) {
+      const shadow = this.attachShadow({ mode: 'open' });
+      const style = document.createElement('style');
+      style.textContent = styles;
+      shadow.append(style);
+      this.mountPoint = document.createElement('div');
+      shadow.append(this.mountPoint);
+    }
+
     this.render();
   }
 
@@ -147,7 +157,11 @@ class ReactMicroFrontendElement extends HTMLElement {
   }
 
   render() {
-    this.root ??= createRoot(this);
+    if (!this.mountPoint) {
+      return;
+    }
+
+    this.root ??= createRoot(this.mountPoint);
     this.root.render(
       <ReactMicroFrontend message={this.getAttribute('message') ?? ''} />,
     );
@@ -322,6 +336,6 @@ pub fn count_primes(limit: u32) -> u32 {
 
 ### Conclusion
 
-In this example, we built a micro frontend architecture using Qwik as the shell, integrated Angular and React through Web Components, and included Rust WebAssembly for a small helper module. Instead of forcing every framework into one shared Redux store, the shell and micro frontends communicate through a small, explicit contract.
+The shell is Qwik. Angular and React land as custom elements. Rust WebAssembly stays a helper inside the host. Instead of a shared Redux store, the page talks through a `message` attribute and a `microfrontend:message` event.
 
-That keeps each micro frontend independently buildable and deployable while still giving users one cohesive page.
+That is enough to keep each app independently *buildable* on one cohesive page. Independent *production deploys* are a later infrastructure step — not what this repo ships. If you are still choosing between this pattern, a monorepo, and a shared Angular library, the standalone comparison is [Micro Frontends vs Monorepo vs Shared Module](/2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/).

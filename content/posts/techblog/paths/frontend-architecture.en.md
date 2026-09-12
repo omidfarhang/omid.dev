@@ -15,29 +15,31 @@ For architects and senior engineers choosing how to split, extend, and scale fro
 
 Follow the [Micro Frontends](/2024/05/09/micro-frontends-why/) series in order:
 
-1. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — When independent deployable frontends beat monoliths.
-2. **[Micro Frontends: How?](/2024/05/09/micro-frontends-how/)** — Integration patterns and runtime composition.
-3. **[Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)** — End-to-end implementation walkthrough.
-4. **[Micro Frontends vs Monorepo vs Shared Module](/2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/)** — Choosing the right multi-project approach.
-5. **[Reusable Shared Module in Angular](/2024/05/12/reusable-shared-module-in-angular/)** — Cross-repository shared modules in practice.
+1. **[Micro Frontends: Why?](/2024/05/09/micro-frontends-why/)** — When independent deploys beat a shared release train — and when they do not.
+2. **[Micro Frontends: How?](/2024/05/09/micro-frontends-how/)** — Client-side composition with custom elements, and the contract the companion actually uses.
+3. **[Micro Frontends: Working Example](/2024/05/11/micro-frontends-working-example/)** — Qwik shell, Angular and React remotes, live demo.
+
+## When not this pattern
+
+4. **[Micro Frontends vs Monorepo vs Shared Module](/2024/05/12/micro-frontends-vs-monorepo-vs-reusable-shared-module/)** — A standalone decision piece: when a monorepo or a library is the better call.
 
 ## Platform extensibility
 
-6. **[Building Custom Angular Schematics](/2024/06/03/building-custom-angular-schematics-automating-code-generation/)** — Automating code generation for platform teams.
-7. **[Custom Web Components with Stencil in Angular](/2024/06/26/implementing-custom-web-components-in-angular-with-stenciljs/)** — Framework-agnostic components inside Angular apps.
+5. **[Building Custom Angular Schematics](/2024/06/03/building-custom-angular-schematics-automating-code-generation/)** — Automating code generation for platform teams.
+6. **[Custom Web Components with Stencil in Angular](/2024/06/26/implementing-custom-web-components-in-angular-with-stenciljs/)** — Framework-agnostic components inside Angular apps.
 
 ## Real-time and performance
 
-8. **[Real-time Data in Frontend Applications](/2024/06/08/real-time-data-in-frontend-applications/)** — Patterns for live data without melting the UI.
-9. **[Angular Web Workers and OffscreenCanvas](/2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreencanvas/)** — Offloading heavy work from the main thread.
+7. **[Real-time Data in Frontend Applications](/2024/06/08/real-time-data-in-frontend-applications/)** — Patterns for live data without melting the UI.
+8. **[Angular Web Workers and OffscreenCanvas](/2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreencanvas/)** — Offloading heavy work from the main thread.
 
 ## Design systems
 
-10. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
+9. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
 
 ## Delivery and authority
 
-11. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Repositories, install hooks, and release identities are architectural boundaries. The browser is untrusted; the system that delivers the bundle often is not.
+10. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Repositories, install hooks, and release identities are architectural boundaries. The browser is untrusted; the system that delivers the bundle often is not.
 
 ## Related series
 
