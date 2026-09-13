@@ -11,12 +11,8 @@ bluesky_link: https://bsky.app/profile/omid.dev/post/3mfpfbrezfs2n
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-zoom-out-when-15-years-of-code-meets-activity-7432502733376626688-bljW
 url: 2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/
 tags:
-  - Senior Developer
-  - Ecosystem Blind Spot
-  - Tooling
   - Career
-  - Software Development
-  - Perspective
+  - Engineering Leadership
 
 categories:
   - TechBlog
@@ -34,7 +30,7 @@ seeAlso:
 ---
 It happened to me this morning. After 15 years in the trenches—building frontend architectures, dipping into the backend, leading teams, and surviving countless framework wars—I hit a wall. Not a technical wall, but a conceptual one.
 
-I realized I didn’t know what **Corepack** was. I’ve never actually used **Yarn**. I’ve heard of **test‑managers** and code‑generation tools like **Orval**, but I’ve never managed to actually run one in a production pipeline.
+I realized I didn’t know what **Corepack** was. I’ve never actually used **Yarn**. I’ve heard of **modern test runners** like Playwright and code‑generation tools like **Orval**, but I’ve never managed to actually run one in a production pipeline.
 
 At first, the feeling was a sharp mix of guilt and sadness. How can I be a "Senior" or a "Lead" and miss things that seem so trivial to others? But then I zoomed out. I stopped looking at my specific lane—the features, the bugs, the immediate sprint—and looked at the entire ecosystem.
 
@@ -98,7 +94,7 @@ You can’t learn it all. If you try, you’ll burn out in a month. Instead, try
 
 ## Final Thoughts
 
-It’s okay to feel sad when you realize the world has moved while you were working hard. But remember: **Your 15 years of experience gave you the wisdom to use these tools correctly.** A junior might know how to run a test-manager, but you know *what* to test to keep a multi-million dollar business running.
+It’s okay to feel sad when you realize the world has moved while you were working hard. But remember: **Your 15 years of experience gave you the wisdom to use these tools correctly.** A junior might know how to run Playwright, but you know *what* to test to keep a multi-million dollar business running.
 
 Zooming out is painful because the view is so big. But once your eyes adjust, you'll realize you're not behind—you're just getting started on the next level.
 

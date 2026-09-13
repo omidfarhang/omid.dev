@@ -21,6 +21,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | observability | 2 | Systems & Linux |
 | hardware-debugging | 2 | Systems & Linux (cross-section Electronics) |
 | shadow-ownership | 3 | Engineering Leadership |
+| ecosystem-blind-spot | 2 | Engineering Leadership |
 | linux-networking | 4 | Systems & Linux |
 
 ## Reading paths (manual curation)
@@ -28,7 +29,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | Path | Target audience | Primary clusters |
 |------|-----------------|------------------|
 | Angular Platform | Senior Angular / platform leads | modern-angular, Angular satellites, related series |
-| Engineering Leadership | Tech leads, architects | essential-skills, team-communication, shadow-ownership, essays, legacy |
+| Engineering Leadership | Tech leads, architects | essential-skills, team-communication, shadow-ownership, ecosystem-blind-spot, essays, legacy |
 | Systems & Linux | Infra-curious frontend leads | desktop Linux, DevOps, observability, resilience |
 | Frontend Quality | QA-minded seniors | frontend-testing, chaos-engineering, debugging |
 | AI & Data Tools | Notebooks, LLMs, interactive data | jupyter-copilot, split-ai-workflow, research workspace (standalone), bio-dynamics-lab, Health context |
@@ -56,7 +57,6 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 
 - Cost of Consistency (design systems)
 - Startup Execution
-- Zoom-Out
 - The Frontend Is a Privileged System Now
 - Building Resilient Teams
 - Mentorship in Tech

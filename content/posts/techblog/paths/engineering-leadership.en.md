@@ -42,16 +42,22 @@ Follow the [Shadow Ownership](/2026/08/17/when-the-best-communicator-becomes-the
 12. **[I Interview Frontend Hires for Other Companies](/2026/09/09/i-interview-frontend-hires-for-other-companies/)** — Hiring for a team that is not yours: intake, choosing the real level, and a loop that refuses the false yes.
 13. **[Choosing the Right Tech Stack](/2024/06/20/choosing-the-right-tech-stack-for-your-project-a-comprehensive-guide/)** — Framework for architecture decisions that outlive the hype cycle.
 
+## Ecosystem blind spot
+
+Follow the [Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/) series in order, or use the in-post navigation:
+
+14. **[The Zoom-Out: Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/)** — When 15 years of depth meets the tooling you never had time to learn.
+15. **[After the Zoom-Out: A Playbook for Staying Current](/2026/06/25/after-the-zoom-out-a-playbook-for-staying-current/)** — Pain-driven discovery, pattern recognition, and quarterly reconnaissance without the shame spiral.
+
 ## Essays and architecture judgment
 
-14. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
-15. **[The Engineer's Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
-16. **[The Zoom-Out: Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/)** — When 15 years of depth meets the tooling you never had time to learn.
-17. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
+16. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
+17. **[The Engineer's Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
+18. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
 
 ## Modernization judgment
 
-18. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
+19. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
 
 ## Related paths
 

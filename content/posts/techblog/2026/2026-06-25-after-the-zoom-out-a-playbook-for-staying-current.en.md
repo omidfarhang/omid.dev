@@ -7,13 +7,8 @@ author_profile: true
 url: 2026/06/25/after-the-zoom-out-a-playbook-for-staying-current/
 shortlink: https://g.omid.dev/GnnFYO3
 tags:
-  - Senior Developer
-  - Ecosystem Blind Spot
   - Career
-  - Software Engineering
-  - Learning
   - Engineering Leadership
-  - Mentoring
 
 categories:
   - TechBlog
@@ -26,6 +21,7 @@ series:
 seeAlso:
   - /2026/02/25/the-zoom-out-when-15-years-of-code-meets-the-ecosystem-blind-spot/
   - /2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/
+  - /2024/05/24/essential-skills-for-a-frontend-team-leader/
   - /2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/
   - /2026/01/03/technical-founder-execution-playbook/
 ---
