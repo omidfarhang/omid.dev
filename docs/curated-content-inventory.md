@@ -16,7 +16,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | micro-frontends | 3 | Frontend Architecture, Angular Platform (related) |
 | chaos-engineering | 3 | Frontend Quality, Systems & Linux (related) |
 | legacy-and-modernization | 2 | Engineering Leadership, Frontend Architecture |
-| essential-skills | 3 | Engineering Leadership |
+| essential-skills | 4 | Engineering Leadership |
 | team-communication | 3 | Engineering Leadership |
 | observability | 2 | Systems & Linux |
 | hardware-debugging | 2 | Systems & Linux (cross-section Electronics) |
