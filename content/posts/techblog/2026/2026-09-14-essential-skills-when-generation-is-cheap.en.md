@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 url: 2026/09/14/essential-skills-when-generation-is-cheap/
 shortlink: https://g.omid.dev/MUjJBI3
+x_link: https://x.com/OmidFarhang/status/2099249951872254213
+mastodon_link: https://mastodon.social/@omidfarhang/117265871687121500
+bluesky_link: https://bsky.app/profile/omid.dev/post/3mvgkbvl56k2u
+linkedin_link: https://lnkd.in/p/gKikjW56
 tags:
   - Frontend
   - Career
