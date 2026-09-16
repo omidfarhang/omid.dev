@@ -1,278 +1,298 @@
 ---
 title: 'Mastering Concurrency in Rust: Tokio Structured Concurrency and Async Patterns'
 date: 2024-06-15T18:12:21+03:30
-lastmod: 2026-06-16T12:00:00+03:30
-description: "Learn Rust structured concurrency with Tokio: async/await patterns, task scopes, JoinSet, and advanced concurrency techniques for high-performance Rust applications."
+lastmod: 2026-09-16T15:48:00+03:30
+description: "tokio::spawn detaches work. Structured concurrency in Tokio means owning that work with JoinSet, join!/select!, and cooperative cancellation so tasks cannot outlive the scope that started them."
 layout: single
 author_profile: true
 url: 2024/06/15/mastering-concurrency-in-rust/
 shortlink: https://g.omid.dev/XrIzoQD
 keywords:
   - rust structured concurrency
-  - tokio structured concurrency
-  - structured concurrency rust
-  - rust concurrency patterns
-  - tokio rust
+  - tokio JoinSet
+  - tokio spawn vs JoinSet
+  - tokio cancellation
+  - rust async await
 tags:
   - Rust
   - Tokio
-  - Rust Concurrency
-  - Linux
-
 categories:
   - TechBlog
+seeAlso:
+  - /2024/06/13/building-high-performance-web-applications-leveraging-webassembly-and-rust/
 ---
-Concurrency in modern software development is not just a luxury but a necessity. As applications grow more complex and user expectations for responsiveness increase, developers need to harness the power of concurrent programming to build efficient and scalable systems. Rust, with its unique ownership model, safety guarantees, and powerful concurrency primitives, provides an excellent foundation for tackling these challenges. In this post, we'll dive deep into concurrency in Rust, focusing on advanced patterns with async/await and the Tokio runtime.
 
-## Why Concurrency Matters
+`tokio::spawn` looks like structured concurrency. It is not.
 
-Concurrency allows a program to handle multiple tasks simultaneously, making efficient use of CPU resources and improving responsiveness. This is especially important for:
+You get a `JoinHandle`. If you await it, you wait for that one task. If you drop it, the task keeps running on the runtime. If the function that spawned it returns, the work is still there. That is unstructured concurrency: the child is not owned by the scope that created it.
 
-1. **High-Performance Applications**: Applications that require maximum throughput and low latency.
-2. **Scalability**: Services that need to handle a large number of simultaneous connections or tasks.
-3. **Responsiveness**: Interactive applications that need to remain responsive while performing background tasks.
+Structured concurrency is the opposite rule. Child tasks belong to a scope. Leaving the scope waits for them or cancels them. Tokio does not give you Kotlin-style `coroutineScope`, but it does give you the pieces: `JoinSet` (abort-on-drop), `join!` / `try_join!` / `select!` for futures in the current task, and `CancellationToken` when abort is too blunt.
 
-Rust's approach to concurrency is built on strong foundations of safety and performance. The language's memory safety guarantees help prevent common concurrency issues such as data races, while its zero-cost abstractions ensure that you don't pay a runtime performance penalty for using high-level concurrency constructs.
+```mermaid {caption="tokio::spawn detaches a task onto the runtime. JoinSet keeps those tasks owned by the caller, so leaving the scope waits for them or aborts them."}
+flowchart TD
+  spawnCaller[Caller] -->|tokio::spawn| detached[Task on runtime]
+  spawnCaller -->|returns without join| leaked[Task keeps running]
+  setCaller[Caller] -->|JoinSet::spawn| owned[Task in JoinSet]
+  setCaller -->|drop or shutdown| aborted[Remaining tasks aborted]
+```
 
-## The Basics of Async/Await in Rust
+## Spawn detaches. Dropping the handle does not cancel.
 
-The async/await syntax in Rust allows you to write asynchronous code that looks and feels like synchronous code. This makes it easier to read, write, and maintain complex asynchronous logic. Here's a simple example of an asynchronous function in Rust:
+This is the failure mode that tutorial `spawn` + `await` samples hide:
 
 ```rust
 use tokio::time::{sleep, Duration};
 
-async fn do_something() {
-    println!("Doing something...");
-    sleep(Duration::from_secs(1)).await;
-    println!("Done!");
-}
-
-#[tokio::main]
-async fn main() {
-    do_something().await;
-}
-```
-
-In this example, `do_something` is an asynchronous function that simulates a delay using `tokio::time::sleep`. The `await` keyword is used to pause execution until the sleep duration has elapsed.
-
-## Understanding the Tokio Runtime
-
-Tokio is a runtime for writing reliable, asynchronous, and scalable applications in Rust. It provides the building blocks needed for writing network applications, such as:
-
-- An event-driven, non-blocking I/O platform.
-- Utilities for working with tasks, timers, and channels.
-- A powerful reactor core to drive asynchronous I/O.
-
-### Key Components of Tokio
-
-1. **Reactor**: The core of Tokio's runtime that handles I/O events and dispatches them to the appropriate tasks.
-2. **Executor**: Manages and executes asynchronous tasks.
-3. **Async I/O**: Provides non-blocking I/O operations for network sockets, file systems, etc.
-4. **Concurrency Primitives**: Tools like channels, mutexes, and barriers for managing concurrent tasks.
-
-By using Tokio, you can build highly concurrent applications that efficiently manage I/O and CPU-bound tasks.
-
-## Advanced Patterns in Async/Await with Tokio
-
-Now that we have a basic understanding of async/await and the Tokio runtime, let's explore some advanced patterns for mastering concurrency in Rust.
-
-### Pattern 1: Tokio Structured Concurrency with Task Scopes
-
-Structured concurrency ensures that all spawned tasks are properly managed and that resources are cleaned up when tasks complete. Tokio provides several mechanisms for achieving structured concurrency, such as using `tokio::spawn` to create tasks and managing their lifetimes with scopes.
-
-```rust
-use tokio::task;
-
-async fn my_task() {
-    println!("Task is running...");
-    // Perform some asynchronous work
-}
-
-#[tokio::main]
-async fn main() {
-    let handle = task::spawn(async {
-        my_task().await;
+async fn kick_off() {
+    let _handle = tokio::spawn(async {
+        sleep(Duration::from_secs(10)).await;
+        println!("still running after kick_off returned");
     });
-
-    // Await the task to ensure it completes
-    handle.await.unwrap();
+    // Dropping `_handle` does not abort the task.
 }
-```
-
-In this example, we spawn a new task using `tokio::spawn` and await its completion using the handle returned by `spawn`. This ensures that the task's resources are properly managed and released.
-
-### Pattern 2: Using Channels for Communication
-
-Tokio provides asynchronous channels for communication between tasks. Channels are a powerful concurrency primitive that can be used to send messages or data between tasks safely and efficiently.
-
-```rust
-use tokio::sync::mpsc;
 
 #[tokio::main]
 async fn main() {
-    let (tx, mut rx) = mpsc::channel(100);
-
-    tokio::spawn(async move {
-        tx.send("Hello from task!").await.unwrap();
-    });
-
-    while let Some(message) = rx.recv().await {
-        println!("Received: {}", message);
-    }
+    kick_off().await;
+    sleep(Duration::from_millis(50)).await;
+    println!("main is still here; so is the background task");
 }
 ```
 
-In this example, we create a channel with a buffer size of 100 and spawn a task that sends a message through the channel. The main task receives the message and prints it. This pattern is useful for decoupling tasks and enabling safe communication between them.
+The task is on the runtime, not in `kick_off`. Rust’s ownership model will not save you here: `JoinHandle` does not own the work the way a `JoinSet` does. When `main` finally returns, the runtime shuts down and leftover tasks get aborted. That is process teardown, not a scope.
 
-### Pattern 3: Handling Concurrent I/O Operations
-
-Concurrency is often crucial for handling multiple I/O operations simultaneously. Tokio's async I/O APIs make it easy to work with network sockets, files, and other I/O sources.
+Awaiting one handle is the minimum join, and it is still not a scope:
 
 ```rust
-use tokio::io::{self, AsyncReadExt, AsyncWriteExt};
-use tokio::net::TcpListener;
+let handle = tokio::spawn(fetch_one());
+let result = handle.await.unwrap();
+```
+
+Two siblings make the hole obvious. If the first handle fails and you `return` before awaiting the second, the second task keeps running. If the parent is cancelled by `select!`, dropping the handles does not abort the children. A panic in the parent does not abort them either. You have to `abort()` each handle, or put the tasks in something that aborts on drop.
+
+{{< alert type="warning" title="JoinHandle is not a scope" >}}
+`handle.await` waits for one task. It does not bind siblings, does not cancel on early return, and does not cancel when the parent is dropped. Treat a bare `spawn` as “this may outlive me.”
+{{< /alert >}}
+
+## JoinSet is the scope Tokio actually has
+
+[`JoinSet`](https://docs.rs/tokio/latest/tokio/task/struct.JoinSet.html) is a collection of tasks spawned on the runtime. You insert with `spawn`, you collect results in completion order with `join_next`, and **dropping the set immediately aborts every task still in it**. That abort-on-drop is the structured part.
+
+```rust
+use tokio::task::JoinSet;
+use tokio::time::{sleep, Duration};
 
 #[tokio::main]
-async fn main() -> io::Result<()> {
-    let listener = TcpListener::bind("127.0.0.1:8080").await?;
-    loop {
-        let (mut socket, _) = listener.accept().await?;
-        tokio::spawn(async move {
-            let mut buf = [0; 1024];
-            socket.read(&mut buf).await.unwrap();
-            socket.write_all(&buf).await.unwrap();
+async fn main() {
+    let mut set = JoinSet::new();
+
+    for i in 0..5u64 {
+        set.spawn(async move {
+            sleep(Duration::from_millis(40 * i)).await;
+            i
         });
     }
+
+    while let Some(res) = set.join_next().await {
+        println!("finished: {}", res.unwrap());
+    }
 }
 ```
 
-In this example, we create a TCP listener that accepts incoming connections. For each connection, we spawn a new task that reads data from the socket and writes it back. This pattern allows us to handle many connections concurrently without blocking the main thread.
+`join_next` is cancel-safe: if you use it as a `select!` branch and another branch wins, no completed task is lost from the set.
 
-### Pattern 4: Using Mutexes and RwLocks
+Leaving the set without draining it is the other half of the contract:
 
-Sometimes, you need to protect shared state across multiple tasks. Tokio provides asynchronous versions of standard synchronization primitives like mutexes and read-write locks.
+```rust
+async fn fan_out_then_give_up() {
+    let mut set = JoinSet::new();
+    set.spawn(sleep(Duration::from_secs(10)));
+    set.spawn(sleep(Duration::from_secs(10)));
+    // No join. Dropping `set` aborts both tasks immediately.
+}
+```
+
+`shutdown().await` is the explicit version of the same idea: abort everything still in the set, then wait until those aborts have finished. Use it when the caller needs the tasks gone *before* the next line runs.
+
+`detach_all()` is the escape hatch. It removes the tasks from the set without aborting them. After that, drop is a no-op and you are back to unstructured spawn. Call it only when you mean “these should outlive this scope.”
+
+{{< alert type="tip" title="Abort is not a kill -9" >}}
+Tokio cancels a task by dropping its future at the next `.await`. A tight CPU loop with no await will not stop. For that work, `spawn_blocking` plus your own cooperative check, or do not spawn it in the first place.
+{{< /alert >}}
+
+## `join!`, `try_join!`, and `select!` are scopes for futures, not for spawned tasks
+
+These macros structure **futures in the current task**. They drop the futures they are no longer waiting on, and dropping a future cancels it. That is structured concurrency. It is not the same as spawning.
+
+`join!` waits for every branch.
+
+`try_join!` waits for every branch and, on the first error, drops the rest so they cancel:
+
+```rust
+async fn load_page() -> Result<Page, FetchError> {
+    let (user, feed) = tokio::try_join!(fetch_user(), fetch_feed())?;
+    Ok(Page { user, feed })
+}
+```
+
+If `fetch_user()` fails, `fetch_feed()` is cancelled. Both futures ran in the caller. No detached tasks.
+
+`select!` races branches and cancels the losers by dropping them:
+
+```rust
+tokio::select! {
+    result = fetch_user() => handle(result),
+    _ = tokio::time::sleep(Duration::from_secs(2)) => {
+        return Err(FetchError::Timeout);
+    }
+}
+```
+
+The trap is mixing this with `spawn`. `select!` on two `JoinHandle`s cancels the *await*, not the *tasks*. Dropping a `JoinHandle` does not abort. If you race spawned work, abort the losers yourself or keep them in a `JoinSet` and `shutdown()` the set.
+
+```rust
+// Wrong: the other task keeps running.
+tokio::select! {
+    a = handle_a => a,
+    b = handle_b => b,
+}
+
+// Right: the set owns both; dropping it aborts the loser.
+let mut set = JoinSet::new();
+set.spawn(fetch_a());
+set.spawn(fetch_b());
+let winner = set.join_next().await;
+drop(set);
+```
+
+## Abort vs cooperative shutdown
+
+Abort is the right default when the leftover work is cheap to throw away: an in-flight read, a speculative fetch, a timeout. The task is dropped at `.await`. It does not get a chance to flush a buffer or send a goodbye on a socket.
+
+When cleanup matters, signal the workers and wait. [`CancellationToken`](https://docs.rs/tokio-util/latest/tokio_util/sync/struct.CancellationToken.html) from `tokio-util` is the usual signal (`tokio-util = "0.7"`). Clone the token into each task. `cancel()` notifies every clone. Tasks observe `cancelled()` in a `select!`, do their cleanup, and return.
+
+```rust
+use std::time::Duration;
+use tokio::time::sleep;
+use tokio_util::sync::CancellationToken;
+
+#[tokio::main]
+async fn main() {
+    let token = CancellationToken::new();
+    let worker_token = token.clone();
+
+    let worker = tokio::spawn(async move {
+        loop {
+            tokio::select! {
+                _ = worker_token.cancelled() => {
+                    // flush, close, then return
+                    break;
+                }
+                _ = sleep(Duration::from_millis(100)) => {
+                    // one unit of work
+                }
+            }
+        }
+    });
+
+    sleep(Duration::from_secs(1)).await;
+    token.cancel();
+    worker.await.unwrap();
+}
+```
+
+That snippet still uses a bare `spawn`. The token is the shutdown protocol; it is not a scope. Pair it with a `JoinSet` if abort-on-drop is acceptable after the signal, or with [`TaskTracker`](https://docs.rs/tokio-util/latest/tokio_util/task/struct.TaskTracker.html) when it is not.
+
+`TaskTracker` exists for the case `JoinSet` gets wrong: a long-running service that keeps spawning, must not abort on drop, and must not accumulate join results in memory. Dropping a `TaskTracker` does **not** abort its tasks. You `cancel()` a token, `close()` the tracker, then `wait().await`. Use it for graceful process shutdown. Use `JoinSet` for a bounded fan-out that should die with the caller.
+
+## Shared state last
+
+Channels first. If tasks are a pipeline, `tokio::sync::mpsc` is the ownership boundary: the producer owns sending, the consumer owns the values. You do not need a mutex to pass data along.
+
+Use `tokio::sync::Mutex` when several tasks must mutate the same in-memory value and a channel would be a worse fit. Hold the lock only for the mutation. Do not `.await` on I/O while you still hold the guard — every other task that needs the lock will stall until that I/O finishes.
 
 ```rust
 use std::sync::Arc;
 use tokio::sync::Mutex;
 
-#[tokio::main]
-async fn main() {
-    let counter = Arc::new(Mutex::new(0));
-
-    let mut handles = vec![];
-    for _ in 0..10 {
-        let counter = Arc::clone(&counter);
-        let handle = tokio::spawn(async move {
-            let mut lock = counter.lock().await;
-            *lock += 1;
-        });
-        handles.push(handle);
+async fn bump(counter: Arc<Mutex<u64>>) {
+    {
+        let mut n = counter.lock().await;
+        *n += 1;
     }
-
-    for handle in handles {
-        handle.await.unwrap();
-    }
-
-    let final_count = *counter.lock().await;
-    println!("Final count: {}", final_count);
+    persist().await; // lock is already dropped
 }
 ```
 
-In this example, we use an asynchronous mutex to protect a shared counter. Each spawned task increments the counter, and we wait for all tasks to complete before printing the final count. This pattern ensures that the shared state is accessed safely and concurrently.
+CPU-bound work does not belong on the async worker threads. `tokio::task::spawn_blocking` moves it off the runtime. If that blocking work must be cancellable, it needs its own cooperative check; aborting the `JoinHandle` will not interrupt a `std` loop that never awaits.
 
-### Pattern 5: Leveraging Async Streams
+## A deadline over a fan-out
 
-Async streams are a powerful abstraction for working with sequences of asynchronous events. Tokio provides support for async streams through the `tokio-stream` crate.
-
-```rust
-use tokio_stream::{self as stream, StreamExt};
-
-#[tokio::main]
-async fn main() {
-    let mut interval = stream::interval(tokio::time::Duration::from_secs(1)).take(5);
-
-    while let Some(_) = interval.next().await {
-        println!("Tick");
-    }
-}
-```
-
-In this example, we create an async stream that produces events at regular intervals. We use `StreamExt::take` to limit the number of events to 5 and `StreamExt::next` to process each event asynchronously. Async streams are useful for modeling event-driven systems and handling continuous data flows.
-
-## Use Cases for Advanced Concurrency Patterns in Rust
-
-### 1. Web Servers and Microservices
-
-Web servers and microservices benefit greatly from asynchronous concurrency. By leveraging Tokio and Hyper, you can handle thousands of concurrent connections efficiently. For example, a web server might handle HTTP requests, database queries, and file I/O concurrently, providing a responsive user experience even under heavy load.
-
-### 2. Real-Time Data Processing
-
-Real-time applications, such as financial trading platforms or live analytics systems, require rapid processing of incoming data streams. Using async streams and Tokio, you can build systems that process and react to data in real-time, ensuring minimal latency and high throughput.
-
-### 3. Distributed Systems
-
-In distributed systems, multiple nodes communicate over the network to achieve a common goal. Asynchronous programming is crucial for managing network I/O, coordinating tasks, and handling failures gracefully. Tokio's async I/O and channel primitives are perfect for building robust and scalable distributed systems.
-
-### 4. Game Servers
-
-Game servers need to manage a large number of player connections and in-game events simultaneously. By utilizing async/await and Tokio, you can create a game server that efficiently handles player interactions, game state updates, and network communication, providing a smooth gaming experience.
-
-### 5. IoT Applications
-
-IoT applications often involve numerous devices communicating with a central server. Asynchronous programming helps manage device connections, data collection, and processing efficiently. Tokio's async I/O capabilities allow you to build scalable and responsive IoT applications.
-
-## Building a Scalable Web Server with Tokio
-
-To illustrate how these advanced patterns come together, let's build a simple but scalable web server using Tokio and Hyper, a high-performance HTTP library for Rust.
-
-First, add the necessary dependencies to your `Cargo.toml`:
+This is the pattern the rest of the post has been building: spawn a bounded set of I/O jobs, collect whatever finishes before a deadline, abort the rest, then continue. No HTTP stack. No leftover tasks.
 
 ```toml
 [dependencies]
-tokio = { version = "1", features = ["full"] }
-hyper = { version = "0.14", features = ["full"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time"] }
 ```
 
-Next, implement the web server:
-
 ```rust
-use hyper::service::{make_service_fn, service_fn
-
-};
-use hyper::{Body, Request, Response, Server};
-use std::convert::Infallible;
-use tokio::sync::oneshot;
-use tokio::time::{sleep, Duration};
-
-async fn handle_request(_req: Request<Body>) -> Result<Response<Body>, Infallible> {
-    Ok(Response::new(Body::from("Hello, World!")))
-}
+use std::time::Duration;
+use tokio::task::JoinSet;
+use tokio::time::sleep;
 
 #[tokio::main]
 async fn main() {
-    let make_svc = make_service_fn(|_conn| {
-        async { Ok::<_, Infallible>(service_fn(handle_request)) }
-    });
+    let jobs = [
+        ("users", 20_u64),
+        ("orders", 40),
+        ("inventory", 120),
+        ("recommendations", 200),
+    ];
 
-    let addr = ([127, 0, 0, 1], 8080).into();
-    let server = Server::bind(&addr).serve(make_svc);
-
-    // Run the server
-    if let Err(e) = server.await {
-        eprintln!("Server error: {}", e);
+    let mut set = JoinSet::new();
+    for (name, delay_ms) in jobs {
+        set.spawn(async move {
+            sleep(Duration::from_millis(delay_ms)).await;
+            name
+        });
     }
+
+    let deadline = sleep(Duration::from_millis(80));
+    tokio::pin!(deadline);
+
+    let mut completed = Vec::new();
+    loop {
+        tokio::select! {
+            _ = &mut deadline => {
+                set.shutdown().await;
+                break;
+            }
+            next = set.join_next() => {
+                match next {
+                    Some(Ok(name)) => completed.push(name),
+                    Some(Err(err)) => eprintln!("task failed: {err}"),
+                    None => break,
+                }
+            }
+        }
+    }
+
+    println!("completed before deadline: {completed:?}");
 }
 ```
 
-In this example, we create a simple HTTP server that responds with "Hello, World!" to every request. The `make_service_fn` and `service_fn` functions are used to create a service handler for each incoming connection. This setup leverages Tokio's concurrency features to handle multiple connections efficiently.
+With those delays, `users` and `orders` make the deadline. `inventory` and `recommendations` are aborted by `shutdown()`. If every job finishes early, `join_next` returns `None` and you never hit the deadline branch.
 
-## Further Reading
+That is structured concurrency in Tokio: the tasks are owned by `set`, the race is owned by `select!`, and leaving the loop does not leak work onto the runtime.
 
-- [Tokio Documentation](https://docs.rs/tokio/latest/tokio/)
-- [Hyper Documentation](https://docs.rs/hyper/latest/hyper/)
-- [Rust Async Book](https://rust-lang.github.io/async-book/)
+## Further reading
+
+- [JoinSet](https://docs.rs/tokio/latest/tokio/task/struct.JoinSet.html) — abort-on-drop, `join_next`, `shutdown`, `detach_all`
+- [Graceful shutdown](https://tokio.rs/tokio/topics/shutdown) — `CancellationToken` and waiting for workers
+- [The Rust Async Book](https://rust-lang.github.io/async-book/) — futures, cancellation, and why `.await` is the yield point
 
 ## Conclusion
 
-Mastering concurrency in Rust requires a deep understanding of async/await and the Tokio runtime. By using advanced patterns like structured concurrency, asynchronous channels, concurrent I/O operations, and async streams, you can build high-performance, scalable applications that take full advantage of Rust's unique strengths. Whether you're building web servers, real-time data processing systems, distributed systems, game servers, or IoT applications, Rust and Tokio provide the tools and patterns you need to succeed.
+Do not treat `tokio::spawn` as a scope. It detaches work. Await a `JoinHandle` when you have exactly one child and you will not return early. For a dynamic set, put the tasks in a `JoinSet` so drop or `shutdown()` aborts what you did not collect. Use `join!` / `try_join!` / `select!` for futures in the current task, and remember that racing `JoinHandle`s does not cancel the losers. When abort is too blunt, cancel cooperatively and wait.
+
+The runtime will run whatever you detach. Structured concurrency is the habit of not detaching anything you cannot afford to leak.
