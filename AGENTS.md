@@ -256,9 +256,10 @@ Match existing naming and structure. Prefer extending partials over duplicating 
 # Note URL helper
 python3 scripts/note-url.py
 
-# List posts missing shortlink, or create via YOURLS (g.omid.dev)
+# List posts missing shortlink, create via YOURLS, or dump SQL for yourls_url
 python3 scripts/shortlink.py                  # list missing
 python3 scripts/shortlink.py --apply --missing --limit 20
+python3 scripts/shortlink.py --dump           # INSERT missing keywords; UPDATE url if keyword exists
 
 # After a production deploy: notify IndexNow, WebSub, and Ping-o-Matic
 python3 scripts/notify-search.py              # dry-run (git diff HEAD~1 + homepages)
@@ -284,7 +285,7 @@ python3 scripts/resume-pdf.py --no-build            # reuse existing public/
 python3 scripts/resume-pdf.py --base-url http://127.0.0.1:1313
 ```
 
-`shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred; sent as a time-limited `sha256(timestamp + secret)` token), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`.
+`shortlink.py` auth (env): `YOURLS_SIGNATURE` (preferred; sent as a time-limited `sha256(timestamp + secret)` token), or `YOURLS_USERNAME` + `YOURLS_PASSWORD`. Optional: `YOURLS_API_URL`, `YOURLS_SITE_URL`. `--dump` writes `yourls-restore.sql`: missing keywords are inserted; existing keywords only replace `url` (clicks/timestamp/ip/title stay).
 
 `notify-search.py` reads the public IndexNow key from `params.indexNow.key` in `hugo.yaml` (override with `INDEXNOW_KEY`). The matching key file is `static/{key}.txt`. Do not use Google's deprecated sitemap ping.
 

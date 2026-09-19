@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Find blog posts missing a shortlink and create one via YOURLS (g.omid.dev)."""
+"""Find blog posts missing a shortlink, create one via YOURLS, or dump SQL for restore."""
 
 from __future__ import annotations
 
@@ -19,6 +19,11 @@ from pathlib import Path
 DEFAULT_POSTS_DIR = Path("content/posts")
 DEFAULT_SITE_URL = "https://omid.dev"
 DEFAULT_API_URL = "https://g.omid.dev/yourls-api.php"
+DEFAULT_YOURLS_TABLE = "yourls_url"
+DEFAULT_INSERT_IP = "127.0.0.1"
+DEFAULT_DUMP_PATH = Path("yourls-restore.sql")
+TABLE_NAME_RE = re.compile(r"^[A-Za-z_][A-Za-z0-9_]*$")
+DUMP_BATCH_SIZE = 100
 # Cloudflare Bot Fight Mode (error 1010) blocks Python-urllib's default UA.
 HTTP_HEADERS = {
     "User-Agent": (
@@ -31,6 +36,7 @@ HTTP_HEADERS = {
 LANG_SUFFIX_RE = re.compile(r"\.(en|fa|de)\.md$")
 FRONT_MATTER_RE = re.compile(r"\A---\n(.*?)\n---(?:\n|\Z)", re.DOTALL)
 SHORTLINK_LINE_RE = re.compile(r"^shortlink\s*:.*$", re.MULTILINE)
+SHORTLINK_VALUE_RE = re.compile(r"^shortlink\s*:\s*(.+)$", re.MULTILINE)
 URL_LINE_RE = re.compile(r"^url\s*:\s*(.+)$", re.MULTILINE)
 TITLE_LINE_RE = re.compile(r"^title\s*:\s*(.+)$", re.MULTILINE)
 DRAFT_LINE_RE = re.compile(r"^draft\s*:\s*true\s*$", re.MULTILINE | re.IGNORECASE)
@@ -43,6 +49,7 @@ class PostMeta:
     url: str
     title: str
     is_draft: bool
+    shortlink: str | None = None
 
     @property
     def long_url(self) -> str:
@@ -114,7 +121,24 @@ def parse_post(path: Path) -> PostMeta:
         url=unquote_yaml_scalar(url_match.group(1)),
         title=title,
         is_draft=bool(DRAFT_LINE_RE.search(front_matter)),
+        shortlink=parse_shortlink_value(front_matter),
     )
+
+
+def parse_shortlink_value(front_matter: str) -> str | None:
+    match = SHORTLINK_VALUE_RE.search(front_matter)
+    if not match:
+        return None
+    value = unquote_yaml_scalar(match.group(1))
+    return value or None
+
+
+def keyword_from_shortlink(shortlink: str) -> str:
+    parsed = urllib.parse.urlparse(shortlink.strip())
+    keyword = parsed.path.strip("/")
+    if not parsed.scheme or not parsed.netloc or not keyword or "/" in keyword:
+        raise ValueError(f"invalid shortlink (expected https://host/keyword): {shortlink}")
+    return keyword
 
 
 def has_shortlink(front_matter: str) -> bool:
@@ -159,25 +183,30 @@ def is_post_file(path: Path) -> bool:
     return LANG_SUFFIX_RE.search(path.name) is not None
 
 
-def find_posts_missing_shortlink(posts_dir: Path, *, include_drafts: bool) -> list[PostMeta]:
+def iter_posts(posts_dir: Path, *, include_drafts: bool) -> list[PostMeta]:
     if not posts_dir.is_dir():
         raise FileNotFoundError(f"posts directory not found: {posts_dir}")
 
-    missing: list[PostMeta] = []
+    posts: list[PostMeta] = []
     for path in sorted(posts_dir.rglob("*.md")):
         if not is_post_file(path):
             continue
         try:
             meta = parse_post(path)
-            content = path.read_text(encoding="utf-8")
-            front_matter, _ = split_front_matter(content)
         except ValueError:
             continue
         if meta.is_draft and not include_drafts:
             continue
-        if not has_shortlink(front_matter):
-            missing.append(meta)
-    return missing
+        posts.append(meta)
+    return posts
+
+
+def find_posts_missing_shortlink(posts_dir: Path, *, include_drafts: bool) -> list[PostMeta]:
+    return [meta for meta in iter_posts(posts_dir, include_drafts=include_drafts) if not meta.shortlink]
+
+
+def find_posts_with_shortlink(posts_dir: Path, *, include_drafts: bool) -> list[PostMeta]:
+    return [meta for meta in iter_posts(posts_dir, include_drafts=include_drafts) if meta.shortlink]
 
 
 def load_dotenv(path: Path) -> None:
@@ -252,6 +281,99 @@ def create_shorturl(config: YourlsConfig, long_url: str, title: str) -> str:
     raise RuntimeError(f"YOURLS create failed ({code or status}): {message}")
 
 
+def sql_quote(value: str) -> str:
+    return "'" + value.replace("\\", "\\\\").replace("'", "''").replace("\x00", "") + "'"
+
+
+def sql_ident(name: str) -> str:
+    if not TABLE_NAME_RE.fullmatch(name):
+        raise ValueError(f"invalid SQL table name: {name}")
+    return f"`{name}`"
+
+
+def collect_dump_rows(
+    posts: list[PostMeta],
+) -> tuple[list[tuple[str, str, str]], list[str]]:
+    """Unique (keyword, long_url, title) rows. Prefer English when variants share a keyword."""
+    chosen: dict[str, PostMeta] = {}
+    ignored: dict[str, list[Path]] = {}
+    warnings: list[str] = []
+    for meta in posts:
+        if not meta.shortlink:
+            warnings.append(f"skip: {meta.path} (no shortlink)")
+            continue
+        try:
+            keyword = keyword_from_shortlink(meta.shortlink)
+        except ValueError as error:
+            warnings.append(f"skip: {meta.path}: {error}")
+            continue
+        current = chosen.get(keyword)
+        if current is None:
+            chosen[keyword] = meta
+            continue
+        prefer_new = meta.lang == "en" and current.lang != "en"
+        if prefer_new:
+            ignored.setdefault(keyword, []).append(current.path)
+            chosen[keyword] = meta
+        else:
+            ignored.setdefault(keyword, []).append(meta.path)
+
+    for keyword, paths in ignored.items():
+        winner = chosen[keyword]
+        warnings.append(
+            f"duplicate keyword {keyword}: using {winner.lang} {winner.long_url} "
+            f"(ignored {len(paths)} variant(s))"
+        )
+
+    rows = [
+        (keyword, meta.long_url, " ".join(meta.title.split()))
+        for keyword, meta in chosen.items()
+    ]
+    return rows, warnings
+
+
+def render_yourls_dump(
+    rows: list[tuple[str, str, str]],
+    *,
+    table: str,
+    insert_ip: str,
+    batch_size: int = DUMP_BATCH_SIZE,
+) -> str:
+    quoted_table = sql_ident(table)
+    lines = [
+        "-- Generated by scripts/shortlink.py --dump",
+        "-- INSERT missing keywords. Existing keywords only update `url`",
+        "-- (clicks, timestamp, ip, and title are left unchanged).",
+        "SET NAMES utf8mb4;",
+        "START TRANSACTION;",
+        "",
+    ]
+    for start in range(0, len(rows), batch_size):
+        chunk = rows[start : start + batch_size]
+        lines.append(
+            f"INSERT INTO {quoted_table} "
+            "(`keyword`, `url`, `title`, `timestamp`, `ip`, `clicks`)"
+        )
+        lines.append("VALUES")
+        value_lines = []
+        for keyword, long_url, title in chunk:
+            value_lines.append(
+                "  ("
+                f"{sql_quote(keyword)}, "
+                f"{sql_quote(long_url)}, "
+                f"{sql_quote(title)}, "
+                "NOW(), "
+                f"{sql_quote(insert_ip)}, "
+                "0)"
+            )
+        lines.append(",\n".join(value_lines))
+        lines.append("ON DUPLICATE KEY UPDATE `url` = VALUES(`url`);")
+        lines.append("")
+    lines.append("COMMIT;")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def write_shortlink(path: Path, shortlink: str, *, force: bool, dry_run: bool) -> str:
     content = path.read_text(encoding="utf-8")
     front_matter, body = split_front_matter(content)
@@ -271,8 +393,8 @@ def resolve_path(path: Path, root: Path) -> Path:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
-            "List blog posts missing a shortlink, or create one via YOURLS "
-            "and write it into front matter."
+            "List blog posts missing a shortlink, create one via YOURLS, "
+            "or dump INSERT ... ON DUPLICATE KEY UPDATE SQL for yourls_url."
         ),
         epilog=(
             "Auth (env):\n"
@@ -287,6 +409,8 @@ def build_parser() -> argparse.ArgumentParser:
             "  shortlink.py --apply --missing --limit 10\n"
             "  shortlink.py --apply content/posts/techblog/2010/2010-12-15-….en.md\n"
             "  shortlink.py --apply --missing --dry-run\n"
+            "  shortlink.py --dump\n"
+            "  shortlink.py --dump -o yourls-restore.sql --table yourls_url\n"
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
@@ -300,6 +424,31 @@ def build_parser() -> argparse.ArgumentParser:
         "-m",
         action="store_true",
         help="select every post under --posts-dir that lacks shortlink",
+    )
+    parser.add_argument(
+        "--dump",
+        action="store_true",
+        help=(
+            "write SQL that inserts missing YOURLS keywords and replaces url "
+            "when the keyword already exists (does not call YOURLS or rewrite files)"
+        ),
+    )
+    parser.add_argument(
+        "--output",
+        "-o",
+        type=Path,
+        default=None,
+        help=f"SQL dump path for --dump (default: {DEFAULT_DUMP_PATH}; use - for stdout)",
+    )
+    parser.add_argument(
+        "--table",
+        default=DEFAULT_YOURLS_TABLE,
+        help=f"YOURLS url table name (default: {DEFAULT_YOURLS_TABLE})",
+    )
+    parser.add_argument(
+        "--insert-ip",
+        default=DEFAULT_INSERT_IP,
+        help=f"ip column for newly inserted rows (default: {DEFAULT_INSERT_IP})",
     )
     parser.add_argument(
         "--apply",
@@ -344,12 +493,79 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
+def dump_shortlinks(args: argparse.Namespace, root: Path, posts_dir: Path) -> int:
+    posts: list[PostMeta] = []
+    if args.files:
+        for file_arg in args.files:
+            path = resolve_path(Path(file_arg), root)
+            try:
+                meta = parse_post(path)
+            except ValueError as error:
+                print(f"skip: {path}: {error}", file=sys.stderr)
+                return 1
+            if meta.is_draft and not args.include_drafts:
+                print(f"skip: {path} (draft; pass --include-drafts)")
+                continue
+            posts.append(meta)
+    else:
+        try:
+            posts = find_posts_with_shortlink(
+                posts_dir,
+                include_drafts=args.include_drafts,
+            )
+        except FileNotFoundError as error:
+            print(error, file=sys.stderr)
+            return 1
+
+    if args.limit is not None:
+        posts = posts[: max(0, args.limit)]
+
+    rows, warnings = collect_dump_rows(posts)
+    for warning in warnings:
+        print(warning, file=sys.stderr)
+
+    if not rows:
+        print("No shortlinks to dump.", file=sys.stderr)
+        return 1
+
+    try:
+        sql = render_yourls_dump(
+            rows,
+            table=args.table,
+            insert_ip=args.insert_ip,
+        )
+    except ValueError as error:
+        print(error, file=sys.stderr)
+        return 1
+
+    output = args.output if args.output is not None else DEFAULT_DUMP_PATH
+    if args.dry_run:
+        print(f"would dump {len(rows)} keyword(s) to {output}")
+        return 0
+
+    if str(output) == "-":
+        sys.stdout.write(sql)
+    else:
+        path = output if output.is_absolute() else (root / output)
+        path.write_text(sql, encoding="utf-8")
+        print(f"Wrote {len(rows)} keyword(s) to {path}")
+    return 0
+
+
 def main() -> int:
     parser = build_parser()
     args = parser.parse_args()
+    if args.dump and args.apply:
+        parser.error("--dump and --apply cannot be combined")
+    if args.dump and args.missing:
+        parser.error("--dump and --missing cannot be combined")
+
     root = repo_root()
     load_dotenv(root / ".env")
     posts_dir = args.posts_dir or (root / DEFAULT_POSTS_DIR)
+
+    if args.dump:
+        return dump_shortlinks(args, root, posts_dir)
 
     targets: list[PostMeta] = []
 
@@ -376,9 +592,7 @@ def main() -> int:
         if meta.is_draft and not args.include_drafts:
             print(f"skip: {path} (draft; pass --include-drafts)")
             continue
-        content = path.read_text(encoding="utf-8")
-        front_matter, _ = split_front_matter(content)
-        if has_shortlink(front_matter) and not args.force:
+        if meta.shortlink and not args.force:
             if args.apply:
                 print(f"skip: {path} (shortlink already set; use --force to replace)")
             continue
