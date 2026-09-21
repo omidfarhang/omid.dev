@@ -26,6 +26,7 @@ tags:
 categories:
   - TechBlog
 seeAlso:
+  - /2026/09/22/obsidian-on-a-git-research-vault/
   - /2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/
   - /2026/06/30/local-ai-with-ollama-aider-and-cline-on-manjaro/
   - /2025/12/28/personal-knowledge-engine-jupyter-llm/

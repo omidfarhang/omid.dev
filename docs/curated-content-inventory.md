@@ -82,6 +82,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 ## AI & knowledge (standalone, AI & Data Tools path)
 
 - One AI Chat Is Not a Research Workspace (Git + Markdown research inbox; chat is a lens, not the archive)
+- Obsidian on a Git Research Vault (open that repo as an Obsidian vault; Git remains the archive)
 
 ## Cross-section
 
