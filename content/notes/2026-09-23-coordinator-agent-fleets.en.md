@@ -1,7 +1,6 @@
 ---
 date: 2026-09-23T00:10:00+03:30
 url: notes/179010951545836076/
-relatedPost: /2026/09/14/essential-skills-when-generation-is-cheap/
 ---
 In about a week, [Cursor Projects](https://cursor.com/blog/projects), the [OpenAI Agents API](https://openai.com/index/introducing-the-agents-api/), and [Claude Code Projects](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) all shipped the same shape: a coordinator, parallel workers, shared memory, durable cloud sessions. That is a category, not three coincidences.
 
