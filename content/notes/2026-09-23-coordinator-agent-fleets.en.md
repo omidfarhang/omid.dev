@@ -1,6 +1,7 @@
 ---
 date: 2026-09-23T00:10:00+03:30
 url: notes/179010951545836076/
+reddit_link: https://www.reddit.com/r/AI_Agents/s/6EbUWvgFxf
 ---
 In about a week, [Cursor Projects](https://cursor.com/blog/projects), the [OpenAI Agents API](https://openai.com/index/introducing-the-agents-api/), and [Claude Code Projects](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) all shipped the same shape: a coordinator, parallel workers, shared memory, durable cloud sessions. That is a category, not three coincidences.
 
