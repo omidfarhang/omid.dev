@@ -8,7 +8,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 
 | Series ID | Posts | Path(s) |
 |-----------|-------|---------|
-| modern-angular | 6 | Angular Platform |
+| modern-angular | 7 | Angular Platform |
 | frontend-testing | 3 | Frontend Quality |
 | bio-dynamics-lab | 5 (+ teaching) | AI & Data Tools |
 | jupyter-copilot | 4 EN / 3 DE | AI & Data Tools |
