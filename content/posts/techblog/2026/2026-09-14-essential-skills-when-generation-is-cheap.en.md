@@ -29,6 +29,7 @@ seeAlso:
   - /2024/05/24/essential-skills-for-a-frontend-team-leader/
   - /2026/09/09/i-interview-frontend-hires-for-other-companies/
   - /2026/06/29/how-to-stretch-cursor-pro-with-a-split-ai-workflow/
+  - /2026/09/23/after-generation-where-the-product-lives/
 ---
 
 The [senior frontend map](/2024/05/16/essential-skills-for-a-successful-senior-frontend-developer/) did not get a new section called "AI."

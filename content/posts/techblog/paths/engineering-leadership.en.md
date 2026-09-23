@@ -54,11 +54,12 @@ Follow the [Ecosystem Blind Spot](/2026/02/25/the-zoom-out-when-15-years-of-code
 
 17. **[The Cost of Consistency: Design System Bottlenecks](/2025/12/25/cost-of-consistency-design-systems/)** — Lessons from building a design system without the rigidity trap.
 18. **[The Engineer's Dilemma: Startup Execution](/2026/01/03/technical-founder-execution-playbook/)** — When you want to build products, not just write code.
-19. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
+19. **[After Generation: Where the Product Lives](/2026/09/23/after-generation-where-the-product-lives/)** — Cheap demos still need a home; choose what you refuse to own.
+20. **[The Frontend Is a Privileged System Now](/2026/08/15/the-frontend-is-a-privileged-system-now/)** — Frontend delivery accumulates production authority; architecture includes CI identities, not just the component tree.
 
 ## Modernization judgment
 
-20. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
+21. **[Legacy and Modernization](/2024/07/24/code-archaeology-exploring-and-modernizing-legacy-systems/)** — Code archaeology and the ethics of rewriting (2-post series).
 
 ## Related paths
 

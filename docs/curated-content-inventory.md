@@ -57,6 +57,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 
 - Cost of Consistency (design systems)
 - Startup Execution
+- After Generation: Where the Product Lives (placement after a cheap demo: host platform, batteries-included box, or rented runtime)
 - The Frontend Is a Privileged System Now
 - Building Resilient Teams
 - Mentorship in Tech
