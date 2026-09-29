@@ -76,33 +76,43 @@
 </div>
 </div>{{/* end page-content */}}
 
-<div id="searchIdle" class="search-idle posts-list-content">
-    {{- if $hintTags }}
-    <section class="search-hint-block" aria-labelledby="search-hint-tags-title">
-        <h2 id="search-hint-tags-title" class="search-hint-title">{{ i18n "search_hint_tags" | default "Popular topics" }}</h2>
-        <ul class="search-hint-tags">
-            {{- range $hintTags }}
-            {{- $tag := . -}}
-            {{- with site.GetPage (printf "tags/%s" ($tag | urlize)) }}
-            <li><button type="button" class="chip chip--tag search-hint-tag" data-query="{{ $tag }}">{{ $tag }}</button></li>
-            {{- else }}
-            <li><button type="button" class="chip chip--tag search-hint-tag" data-query="{{ $tag }}">{{ $tag }}</button></li>
-            {{- end }}
-            {{- end }}
-        </ul>
-    </section>
-    {{- end }}
-    {{- if $recentPosts }}
-    <section class="search-hint-block" aria-labelledby="search-hint-recent-title">
-        <h2 id="search-hint-recent-title" class="search-hint-title">{{ i18n "search_hint_recent" | default "Recent posts" }}</h2>
-        <ul class="search-hint-recent">
-            {{- range $recentPosts }}
-            <li>
-                <a href="{{ .RelPermalink }}">{{ .Title | plainify | htmlUnescape }}</a>
-            </li>
-            {{- end }}
-        </ul>
-    </section>
+<div id="searchIdle" class="search-idle">
+    {{- if or $hintTags $recentPosts }}
+    <div class="search-idle-panel panel panel--section">
+        {{- if $hintTags }}
+        <section class="search-hint-block" aria-labelledby="search-hint-tags-title">
+            <h2 id="search-hint-tags-title" class="search-hint-title">{{ i18n "search_hint_tags" | default "Popular topics" }}</h2>
+            <ul class="search-hint-tags">
+                {{- range $hintTags }}
+                {{- $tag := . -}}
+                <li><button type="button" class="chip chip--tag search-hint-tag" data-query="{{ $tag }}">{{ $tag }}</button></li>
+                {{- end }}
+            </ul>
+        </section>
+        {{- end }}
+        {{- if and $hintTags $recentPosts }}
+        <hr class="search-hint-rule" aria-hidden="true">
+        {{- end }}
+        {{- if $recentPosts }}
+        <section class="search-hint-block" aria-labelledby="search-hint-recent-title">
+            <h2 id="search-hint-recent-title" class="search-hint-title">{{ i18n "search_hint_recent" | default "Recent posts" }}</h2>
+            <ul class="search-hint-recent">
+                {{- range $recentPosts }}
+                <li>
+                    <a class="search-hint-recent-link" href="{{ .RelPermalink }}">
+                        <span class="search-hint-recent-title">{{ .Title | plainify | htmlUnescape }}</span>
+                        {{- with .Date }}
+                        <time class="search-hint-recent-date" datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+                            {{- partial "display_date.html" (dict "date" . "lang" $.Lang "style" "short" "tag" "none") -}}
+                        </time>
+                        {{- end }}
+                    </a>
+                </li>
+                {{- end }}
+            </ul>
+        </section>
+        {{- end }}
+    </div>
     {{- end }}
 </div>
 
