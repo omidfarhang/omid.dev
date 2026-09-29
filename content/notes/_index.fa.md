@@ -4,7 +4,6 @@ description: افکار کوتاه و یادداشت‌های سریع — نه 
 outputs:
   - HTML
   - RSS
-  - NotesIndex
 cascade:
   params:
     ShowBreadCrumbs: false

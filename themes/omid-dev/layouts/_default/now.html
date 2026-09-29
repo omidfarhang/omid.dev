@@ -1,7 +1,8 @@
 {{- define "main" }}
 {{- $now := index hugo.Data .Language.Lang "now" }}
 
-<article class="post-single now-page page-shell">
+{{ partial "pagefind_meta.html" . }}
+<article class="post-single now-page page-shell" data-pagefind-body>
   <header class="post-header now-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
     <div class="now-hero-inner layout-split layout-split--hero-wide page-hero-inner">

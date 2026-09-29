@@ -281,6 +281,9 @@
 - id: search_empty
   translation: "نتیجه‌ای یافت نشد."
 
+- id: search_unavailable
+  translation: "جستجو در دسترس نیست. ابتدا سایت را بسازید و ایندکس Pagefind را اجرا کنید."
+
 - id: page_not_found
   translation: "اوه! صفحه‌ای که به دنبال آن هستید وجود ندارد."
 

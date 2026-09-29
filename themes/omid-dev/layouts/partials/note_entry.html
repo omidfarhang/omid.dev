@@ -90,7 +90,7 @@
         </div>
       </div>
       {{- else }}
-      <div class="note-entry-body post-content">
+      <div class="note-entry-body post-content"{{ if $standalone }} data-pagefind-body{{ end }}>
         {{- if not ($page.Param "disableAnchoredHeadings") }}
         {{- partial "anchored_headings.html" $page.Content -}}
         {{- else }}{{ $page.Content }}{{ end }}

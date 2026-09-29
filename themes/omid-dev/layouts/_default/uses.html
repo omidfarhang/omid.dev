@@ -1,6 +1,7 @@
 {{- define "main" }}
 
-<article class="post-single uses-page page-shell">
+{{ partial "pagefind_meta.html" . }}
+<article class="post-single uses-page page-shell" data-pagefind-body>
   <header class="post-header uses-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
     <div class="uses-hero-inner layout-split layout-split--hero-narrow page-hero-inner">

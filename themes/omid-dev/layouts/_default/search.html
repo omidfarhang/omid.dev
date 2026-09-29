@@ -7,7 +7,7 @@
             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <circle cx="11" cy="11" r="8"></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-        </svg>
+    </svg>
     </h1>
     {{- if .Description }}
     <div class="post-description">
@@ -44,8 +44,6 @@
 <div id="searchResults" class="search-results posts-list-content" aria-live="polite" hidden></div>
 
 <script type="application/json" id="search-config">
-{{- $notesSection := site.Params.notesSection | default "notes" -}}
-{{- $notesIndexPage := site.GetPage $notesSection -}}
 {{- $searchLabels := dict
   "showing" (i18n "archive_showing" | default "Showing")
   "of" (i18n "archive_of" | default "of")
@@ -58,15 +56,14 @@
   "empty" (i18n "search_empty" | default "No results found.")
   "loading" (i18n "search_loading" | default "Loading search index…")
   "loadingNotes" (i18n "search_loading_notes" | default "Loading notes index…")
+  "unavailable" (i18n "search_unavailable" | default "Search is unavailable. Build the site and run Pagefind indexing first.")
   "notes" (i18n "notes" | default "Notes")
 -}}
 {{- $searchConfig := dict
   "locale" (.Language.Lang | default "en")
   "labels" $searchLabels
-  "indexes" (dict
-    "site" "../index.json"
-    "notes" (printf "%ssearch-index.json" ($notesIndexPage.RelPermalink | default "/notes/"))
-  )
+  "notesSection" (site.Params.notesSection | default "notes")
+  "pagefindBundle" "/pagefind/"
 -}}
 {{ $searchConfig | jsonify }}
 </script>

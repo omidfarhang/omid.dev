@@ -278,6 +278,9 @@
 - id: search_empty
   translation: "Keine Ergebnisse gefunden."
 
+- id: search_unavailable
+  translation: "Suche ist nicht verfügbar. Bauen Sie die Site und führen Sie die Pagefind-Indexierung aus."
+
 - id: page_not_found
   translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
 

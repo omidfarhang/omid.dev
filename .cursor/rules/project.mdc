@@ -7,9 +7,9 @@ alwaysApply: true
 
 Read `AGENTS.md` at the repository root for build commands, layout, and workflow.
 
-This is a Hugo static site (`hugo.yaml`, theme `themes/omid-dev`). No npm/Node build.
+This is a Hugo static site (`hugo.yaml`, theme `themes/omid-dev`). Search uses Pagefind (post-build via `npx`).
 
 - Keep changes minimal and focused.
-- Do not commit `public/`, `resources/`, or secrets.
+- Do not commit `public/`, `resources/`, `static/pagefind/`, or secrets.
 - Only create git commits when the user explicitly asks.
-- Run `hugo --minify` after template or config changes; fix build errors before finishing.
+- Run `hugo --minify` after template or config changes; fix build errors before finishing. For search changes, also run `./scripts/pagefind-index.sh`.

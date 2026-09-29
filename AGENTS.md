@@ -4,12 +4,12 @@ Instructions for AI coding agents working on [omid.dev](https://omid.dev/) — a
 
 ## Project overview
 
-- **Stack:** [Hugo](https://gohugo.io/) (extended, v0.163+), custom theme `themes/omid-dev`, Python 3 maintenance scripts
+- **Stack:** [Hugo](https://gohugo.io/) (extended, v0.163+), custom theme `themes/omid-dev`, Python 3 maintenance scripts, [Pagefind](https://pagefind.app/) for site search (post-build via `npx`)
 - **Languages:** English (`en`, default), Persian (`fa`, RTL), German (`de`)
 - **Content:** Long-form posts, short notes, static pages (about, resume, contact, etc.)
 - **Config:** `hugo.yaml` (production), `hugo.development.yaml` (auto-loaded by `hugo server`)
 
-There is no Node/npm build step. Hugo is the only required build tool.
+Hugo is the primary build tool. Pagefind runs after Hugo to generate the search index (`public/pagefind/`).
 
 ## Repository layout
 
@@ -17,13 +17,13 @@ There is no Node/npm build step. Hugo is the only required build tool.
 |------|---------|
 | `content/` | Markdown content (posts, notes, pages) |
 | `content/posts/{section}/{year}/` | Blog posts by section (`techblog`, `health`, `electronics`, `cozy-corner`) |
-| `content/notes/` | Short-form notes (separate RSS/search index) |
+| `content/notes/` | Short-form notes (separate RSS; Pagefind `scope:notes`) |
 | `themes/omid-dev/` | Custom Hugo theme (layouts, assets, i18n) |
 | `layouts/` | Root-level layout overrides (if any) |
-| `static/` | Static assets copied as-is |
+| `static/` | Static assets copied as-is (`static/pagefind/` is generated — do not commit) |
 | `assets/` | Hugo Pipes assets (processed at build) |
 | `data/` | Hugo data files |
-| `scripts/` | Python maintenance scripts |
+| `scripts/` | Python/shell maintenance scripts |
 | `docs/` | Editorial reference (curated content inventory, tag strategy) |
 | `archetypes/` | Hugo content templates |
 | `public/`, `resources/` | Build output — **do not commit** |
@@ -37,16 +37,20 @@ hugo server
 # Include drafts
 hugo server -D
 
-# Production build
+# Production build (Hugo + Pagefind search index)
 hugo --minify
+./scripts/pagefind-index.sh
+
+# Index only (after an existing public/ build); also mirrors to static/pagefind for hugo server
+./scripts/pagefind-index.sh
 
 # Clean build artifacts
-rm -rf public resources
+rm -rf public resources static/pagefind
 ```
 
 VS Code tasks in `.vscode/tasks.json` mirror these commands.
 
-After theme or layout changes, run `hugo --minify` and fix any template errors before finishing.
+After theme or layout changes, run `hugo --minify` and fix any template errors before finishing. For search to work locally, run `./scripts/pagefind-index.sh` after the Hugo build (or use the “hugo build + pagefind” task).
 
 ## Content conventions
 
@@ -314,7 +318,7 @@ Never commit or expose:
 
 - Only create commits when explicitly asked.
 - Do not push unless explicitly asked.
-- `public/`, `resources/`, `.aider*`, and `node_modules/` are gitignored.
+- `public/`, `resources/`, `.aider*`, `node_modules/`, and `static/pagefind/` are gitignored.
 
 ## What to verify
 
@@ -324,4 +328,5 @@ Never commit or expose:
 | Series / seeAlso | No `seeAlso path not found` warnings in build output |
 | Reading path edits | Path page renders with correct link order |
 | Theme / layouts | `hugo server` renders affected pages |
+| Search UI / indexing | `hugo --minify && ./scripts/pagefind-index.sh`; `/search/` returns results |
 | Multilingual edits | Spot-check `en`, `fa` (RTL), and `de` variants if applicable |

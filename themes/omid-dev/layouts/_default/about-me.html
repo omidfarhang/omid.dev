@@ -1,5 +1,6 @@
 {{- define "main" }}
 {{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
+{{ partial "pagefind_meta.html" . }}
 <article class="post-single about-page page-shell">
   <header class="post-header about-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
@@ -52,7 +53,7 @@
     </div>
   </header>
 
-  <div class="post-content about-page-content">
+  <div class="post-content about-page-content" data-pagefind-body>
     <div class="layout-split layout-split--sidebar-360 about-me-container">
       <article class="about-me-content panel panel--section panel--section-primary panel--section-gradient">
         {{ .Content }}

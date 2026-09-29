@@ -1,29 +1,29 @@
-import * as params from '@params';
-import Fuse from './fuse.basic.min.mjs';
 import { escapeHtml, prepareDisplayText } from './text-utils.js';
 
 const configEl = document.getElementById('search-config');
 const config = (() => {
-    if (!configEl) return { locale: 'en', labels: {}, indexes: { site: '../index.json' } };
+    if (!configEl) {
+        return { locale: 'en', labels: {}, pagefindBundle: '/pagefind/', notesSection: 'notes' };
+    }
     try {
         let parsed = JSON.parse(configEl.textContent.trim());
         if (typeof parsed === 'string') parsed = JSON.parse(parsed);
         return parsed;
     } catch (error) {
         console.error(error);
-        return { locale: 'en', labels: {}, indexes: { site: '../index.json' } };
+        return { locale: 'en', labels: {}, pagefindBundle: '/pagefind/', notesSection: 'notes' };
     }
 })();
+
 const labels = config.labels || {};
 const locale = config.locale || document.documentElement.lang || 'en';
-const indexUrls = config.indexes || { site: '../index.json' };
-const notesSection = 'notes';
+const notesSection = config.notesSection || 'notes';
+const pagefindBundle = config.pagefindBundle || '/pagefind/';
 
-let fuseByScope = { site: null, notes: null };
-let searchDataByScope = { site: [], notes: [] };
-let indexLoaded = { site: false, notes: false };
-let indexLoading = { site: false, notes: false };
-let currentScope = 'site';
+let pagefindApi = null;
+let pagefindReady = false;
+let pagefindLoading = null;
+let pagefindFailed = false;
 
 let resList = document.getElementById('searchResults');
 let sInput = document.getElementById('searchInput');
@@ -33,8 +33,10 @@ let scopeInputs = document.querySelectorAll('input[name="searchScope"]');
 let first, last, current_elem = null;
 let resultsAvailable = false;
 let searchTimeout = null;
+let searchGeneration = 0;
 let allResults = [];
 let currentPage = 1;
+let currentScope = 'site';
 const resultsPerPage = 10;
 
 const dateFormatter = new Intl.DateTimeFormat(locale, {
@@ -68,111 +70,40 @@ function hideLoading() {
     sLoading.classList.add('is-hidden');
 }
 
-function buildFuseOptions() {
-    const defaultKeys = [
-        { name: 'title', weight: 3 },
-        { name: 'tags', weight: 2 },
-        { name: 'summary', weight: 1 },
-    ];
-    const noteKeys = [
-        { name: 'summary', weight: 3 },
-        { name: 'title', weight: 1 },
-    ];
-
-    let options = {
-        distance: 100,
-        threshold: 0.2,
-        ignoreLocation: true,
-        includeScore: true,
-        keys: defaultKeys,
-    };
-
-    if (params.fuseOpts) {
-        options = {
-            isCaseSensitive: params.fuseOpts.iscasesensitive ?? false,
-            includeScore: true,
-            includeMatches: params.fuseOpts.includematches ?? false,
-            minMatchCharLength: params.fuseOpts.minmatchcharlength ?? 2,
-            shouldSort: params.fuseOpts.shouldsort ?? true,
-            findAllMatches: params.fuseOpts.findallmatches ?? false,
-            keys: params.fuseOpts.keys ?? defaultKeys,
-            location: params.fuseOpts.location ?? 0,
-            threshold: params.fuseOpts.threshold ?? 0.2,
-            distance: params.fuseOpts.distance ?? 100,
-            ignoreLocation: params.fuseOpts.ignorelocation ?? true,
-        };
-    }
-
-    return { site: options, notes: { ...options, keys: noteKeys } };
+function showMessage(message, { isError = false } = {}) {
+    const className = isError ? 'search-message search-message--error' : 'search-message';
+    showResults(`<p class="${className}">${escapeHtml(message)}</p>`);
 }
 
-const fuseOptions = buildFuseOptions();
+async function loadPagefind() {
+    if (pagefindReady) return pagefindApi;
+    if (pagefindFailed) throw new Error('Pagefind unavailable');
+    if (pagefindLoading) return pagefindLoading;
 
-function loadIndex(scope) {
-    return new Promise((resolve, reject) => {
-        if (indexLoaded[scope]) {
-            resolve(searchDataByScope[scope]);
-            return;
-        }
-        if (indexLoading[scope]) {
-            const wait = () => {
-                if (indexLoaded[scope]) resolve(searchDataByScope[scope]);
-                else if (!indexLoading[scope]) reject(new Error(`Failed to load ${scope} index`));
-                else setTimeout(wait, 50);
-            };
-            wait();
-            return;
-        }
-
-        const url = indexUrls[scope];
-        if (!url) {
-            reject(new Error(`Missing index URL for scope: ${scope}`));
-            return;
-        }
-
-        indexLoading[scope] = true;
-        const xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState !== 4) return;
-            indexLoading[scope] = false;
-            if (xhr.status === 200) {
-                try {
-                    const data = JSON.parse(xhr.responseText) || [];
-                    searchDataByScope[scope] = data;
-                    fuseByScope[scope] = new Fuse(data, fuseOptions[scope]);
-                    indexLoaded[scope] = true;
-                    resolve(data);
-                } catch (error) {
-                    reject(error);
-                }
-            } else {
-                reject(new Error(xhr.responseText || `HTTP ${xhr.status}`));
-            }
-        };
-        xhr.open('GET', url);
-        xhr.send();
+    pagefindLoading = (async () => {
+        showLoading(labels.loading || 'Loading search index…');
+        const bundle = pagefindBundle.endsWith('/') ? pagefindBundle : `${pagefindBundle}/`;
+        const moduleUrl = `${bundle}pagefind.js`;
+        // Variable URL so Hugo/esbuild does not try to bundle Pagefind at build time.
+        const api = await import(moduleUrl);
+        await api.options({ bundlePath: bundle });
+        await api.init();
+        pagefindApi = api;
+        pagefindReady = true;
+        hideLoading();
+        return api;
+    })().catch((error) => {
+        pagefindFailed = true;
+        pagefindLoading = null;
+        hideLoading();
+        throw error;
     });
-}
 
-function ensureScopeIndex(scope) {
-    const loadingMessage = scope === 'notes'
-        ? (labels.loadingNotes || labels.loading || 'Loading notes index…')
-        : (labels.loading || 'Loading search index…');
-    showLoading(loadingMessage);
-    return loadIndex(scope)
-        .then((data) => {
-            hideLoading();
-            return data;
-        })
-        .catch((error) => {
-            hideLoading();
-            console.error(error);
-            return [];
-        });
+    return pagefindLoading;
 }
 
 function setScope(scope, { updateUrl = true, rerun = true } = {}) {
-    if (!indexUrls[scope]) scope = 'site';
+    if (scope !== 'notes') scope = 'site';
     currentScope = scope;
 
     scopeInputs.forEach((input) => {
@@ -191,42 +122,89 @@ function setScope(scope, { updateUrl = true, rerun = true } = {}) {
     }
 }
 
-window.onload = function () {
-    const urlParams = new URLSearchParams(window.location.search);
-    const query = urlParams.get('q');
-    const scope = urlParams.get('scope') === 'notes' ? 'notes' : 'site';
+function updateURL(term) {
+    const url = new URL(window.location);
+    if (term) url.searchParams.set('q', term);
+    else url.searchParams.delete('q');
+    if (currentScope === 'notes') url.searchParams.set('scope', 'notes');
+    else url.searchParams.delete('scope');
+    window.history.replaceState({}, '', url);
+}
 
-    if (query) sInput.value = query;
-    if (scope === 'notes') setScope('notes', { updateUrl: false, rerun: false });
+function mapResult(data) {
+    const meta = data.meta || {};
+    const categories = meta.categories
+        ? String(meta.categories).split(',').map((part) => part.trim()).filter(Boolean)
+        : [];
+    const section = meta.section || '';
+    const summary = data.excerpt || data.plain_excerpt || '';
 
-    ensureScopeIndex('site').then(() => {
-        if (scope === 'notes') {
-            return ensureScopeIndex('notes');
-        }
-        return null;
-    }).then(() => {
-        const currentQuery = sInput.value || query;
-        if (currentQuery) executeSearch(currentQuery);
+    return {
+        title: meta.title || '',
+        permalink: data.url || '#',
+        summary,
+        categories,
+        date: meta.date || '',
+        section,
+        excerptHtml: Boolean(data.excerpt),
+    };
+}
+
+async function searchIndex(term) {
+    const api = await loadPagefind();
+    const search = await api.debouncedSearch(term, {
+        filters: { scope: currentScope },
     });
 
-    scopeInputs.forEach((input) => {
-        input.addEventListener('change', () => {
-            if (!input.checked) return;
-            setScope(input.value);
-        });
-    });
-};
+    if (search === null) return null;
 
-function activeToggle(ae) {
-    document.querySelectorAll('.focus').forEach(function (element) {
-        element.classList.remove('focus');
-    });
-    if (ae) {
-        ae.focus();
-        document.activeElement = current_elem = ae;
-        const card = ae.closest('.post-entry, .note-search-entry');
-        if (card) card.classList.add('focus');
+    const page = await Promise.all(search.results.map((result) => result.data()));
+    return page.map(mapResult);
+}
+
+function executeSearch(term) {
+    const query = term.trim();
+    if (!query) {
+        allResults = [];
+        resultsAvailable = false;
+        hideResults();
+        updateURL('');
+        return;
     }
+
+    const generation = ++searchGeneration;
+    const loadingMessage = currentScope === 'notes'
+        ? (labels.loadingNotes || labels.loading || 'Loading notes index…')
+        : (labels.loading || 'Loading search index…');
+
+    if (!pagefindReady && !pagefindFailed) showLoading(loadingMessage);
+
+    searchIndex(query)
+        .then((results) => {
+            if (generation !== searchGeneration || results === null) return;
+            hideLoading();
+            allResults = results || [];
+            currentPage = 1;
+            resultsAvailable = allResults.length !== 0;
+            if (!resultsAvailable) {
+                showMessage(labels.empty || 'No results found.');
+            } else {
+                renderResults();
+            }
+            updateURL(query);
+        })
+        .catch((error) => {
+            if (generation !== searchGeneration) return;
+            hideLoading();
+            console.error(error);
+            allResults = [];
+            resultsAvailable = false;
+            showMessage(
+                labels.unavailable || 'Search is unavailable. Build the site and run Pagefind indexing first.',
+                { isError: true },
+            );
+            updateURL(query);
+        });
 }
 
 function reset() {
@@ -239,118 +217,9 @@ function reset() {
     sInput.focus();
 }
 
-function getSearchableText(item) {
-    return [item.title, item.summary, ...(item.tags || [])]
-        .join(' ')
-        .toLowerCase();
-}
-
-function queryVariants(query) {
-    const variants = new Set([query]);
-    if (query.length < 3) return [...variants];
-
-    if (query.endsWith('ies') && query.length > 4) {
-        variants.add(`${query.slice(0, -3)}y`);
-    } else if (query.endsWith('es') && query.length > 4) {
-        variants.add(query.slice(0, -2));
-        variants.add(query.slice(0, -1));
-    } else if (query.endsWith('s') && !query.endsWith('ss') && query.length > 3) {
-        variants.add(query.slice(0, -1));
-    } else {
-        variants.add(`${query}s`);
-        if (query.endsWith('y') && query.length > 2) {
-            variants.add(`${query.slice(0, -1)}ies`);
-        } else if (/[sxz]$/.test(query) || /(?:ch|sh)$/.test(query)) {
-            variants.add(`${query}es`);
-        }
-    }
-
-    return [...variants];
-}
-
-function textIncludesVariant(text, variants) {
-    return variants.some((variant) => text.includes(variant));
-}
-
-function rankMatch(item, variants) {
-    const title = (item.title || '').toLowerCase();
-    const tags = (item.tags || []).join(' ').toLowerCase();
-    const summary = (item.summary || '').toLowerCase();
-    let best = 3;
-
-    for (const variant of variants) {
-        if (title.includes(variant)) best = Math.min(best, 0);
-        else if (tags.includes(variant)) best = Math.min(best, 1);
-        else if (summary.includes(variant)) best = Math.min(best, 2);
-    }
-
-    return best;
-}
-
-function searchIndex(term) {
-    const query = term.trim().toLowerCase();
-    if (!query) return [];
-
-    const data = searchDataByScope[currentScope] || [];
-    const fuse = fuseByScope[currentScope];
-    const variants = queryVariants(query);
-    const variantMatches = data.filter((item) => textIncludesVariant(getSearchableText(item), variants));
-
-    if (variantMatches.length > 0) {
-        return variantMatches
-            .map((item) => ({ item, score: rankMatch(item, variants) }))
-            .sort((a, b) => a.score - b.score || (a.item.title || '').localeCompare(b.item.title || ''));
-    }
-
-    if (!fuse) return [];
-
-    const fuzzyLimit = params.fuseOpts?.limit ?? 20;
-    const maxScore = params.fuseOpts?.maxscore ?? 0.35;
-    return fuse.search(term, { limit: fuzzyLimit }).filter((result) => result.score <= maxScore);
-}
-
-function executeSearch(term) {
-    if (term.trim() === '') {
-        allResults = [];
-        resultsAvailable = false;
-        hideResults();
-        updateURL('');
-        return;
-    }
-
-    ensureScopeIndex(currentScope).then((data) => {
-        if (!data.length && term.trim() !== '') {
-            allResults = [];
-            resultsAvailable = false;
-            hideResults();
-            updateURL(term);
-            return;
-        }
-
-        allResults = searchIndex(term);
-        currentPage = 1;
-        resultsAvailable = allResults.length !== 0;
-        renderResults();
-        updateURL(term);
-    });
-}
-
-function updateURL(term) {
-    const url = new URL(window.location);
-    if (term) {
-        url.searchParams.set('q', term);
-    } else {
-        url.searchParams.delete('q');
-    }
-    if (currentScope === 'notes') url.searchParams.set('scope', 'notes');
-    else url.searchParams.delete('scope');
-    window.history.replaceState({}, '', url);
-}
-
 function renderPostCard(result) {
     const title = prepareDisplayText(result.title || '');
     const permalink = result.permalink || '#';
-    const summaryText = prepareDisplayText(result.summary);
     const categories = Array.isArray(result.categories) ? result.categories : [];
     const date = result.date || '';
 
@@ -361,15 +230,17 @@ function renderPostCard(result) {
     let dateMeta = '';
     if (date) {
         const dateObj = new Date(date);
-        dateMeta = `<span class="meta-item meta-date">
-            <span class="screen-reader-text">${escapeHtml(labels.published || 'Published')}:</span>
-            <i class="far fa-calendar-alt" aria-hidden="true" role="img"></i>
-            <time datetime="${escapeHtml(date)}">${escapeHtml(dateFormatter.format(dateObj))}</time>
-        </span>`;
+        if (!Number.isNaN(dateObj.getTime())) {
+            dateMeta = `<span class="meta-item meta-date">
+                <span class="screen-reader-text">${escapeHtml(labels.published || 'Published')}:</span>
+                <i class="far fa-calendar-alt" aria-hidden="true" role="img"></i>
+                <time datetime="${escapeHtml(date)}">${escapeHtml(dateFormatter.format(dateObj))}</time>
+            </span>`;
+        }
     }
 
-    const summary = summaryText
-        ? `<div class="entry-content"><p>${escapeHtml(summaryText)}</p></div>`
+    const summary = result.summary
+        ? `<div class="entry-content"><p>${result.excerptHtml ? result.summary : escapeHtml(prepareDisplayText(result.summary))}</p></div>`
         : '';
 
     const metaBlock = (dateMeta || categoryMeta)
@@ -397,18 +268,19 @@ function renderPostCard(result) {
 
 function renderNoteCard(result) {
     const permalink = result.permalink || '#';
-    const summaryText = prepareDisplayText(result.summary || result.title || '');
     const date = result.date || '';
     const noteLabel = labels.notes || 'Notes';
 
     let dateMeta = '';
     if (date) {
         const dateObj = new Date(date);
-        dateMeta = `<time datetime="${escapeHtml(date)}" class="note-search-date">${escapeHtml(dateFormatter.format(dateObj))}</time>`;
+        if (!Number.isNaN(dateObj.getTime())) {
+            dateMeta = `<time datetime="${escapeHtml(date)}" class="note-search-date">${escapeHtml(dateFormatter.format(dateObj))}</time>`;
+        }
     }
 
-    const body = summaryText
-        ? `<div class="note-search-body"><p>${escapeHtml(summaryText)}</p></div>`
+    const body = result.summary
+        ? `<div class="note-search-body"><p>${result.excerptHtml ? result.summary : escapeHtml(prepareDisplayText(result.summary))}</p></div>`
         : '';
 
     return `
@@ -425,7 +297,7 @@ function renderNoteCard(result) {
 }
 
 function renderResultCard(result) {
-    if (result.section === notesSection) return renderNoteCard(result);
+    if (result.section === notesSection || currentScope === 'notes') return renderNoteCard(result);
     return renderPostCard(result);
 }
 
@@ -526,7 +398,7 @@ function renderResults() {
     const end = Math.min(start + resultsPerPage, totalResults);
     const pageResults = allResults.slice(start, end);
     const summaryLabel = `${labels.showing || 'Showing'} ${start + 1}–${end} ${labels.of || 'of'} ${totalResults}`;
-    const cards = pageResults.map((item) => renderResultCard(item.item)).join('');
+    const cards = pageResults.map((item) => renderResultCard(item)).join('');
     const gridClass = currentScope === 'notes' ? 'search-notes-grid' : 'posts-grid search-post-grid';
 
     showResults(`
@@ -549,13 +421,55 @@ function renderResults() {
     bindPagination(totalPages);
 }
 
-sInput.onkeyup = function () {
-    if (searchTimeout) {
-        clearTimeout(searchTimeout);
+function activeToggle(ae) {
+    document.querySelectorAll('.focus').forEach(function (element) {
+        element.classList.remove('focus');
+    });
+    if (ae) {
+        ae.focus();
+        document.activeElement = current_elem = ae;
+        const card = ae.closest('.post-entry, .note-search-entry');
+        if (card) card.classList.add('focus');
     }
+}
 
+window.onload = function () {
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get('q');
+    const scope = urlParams.get('scope') === 'notes' ? 'notes' : 'site';
+
+    if (query) sInput.value = query;
+    if (scope === 'notes') setScope('notes', { updateUrl: false, rerun: false });
+
+    loadPagefind()
+        .then(() => {
+            const currentQuery = sInput.value || query;
+            if (currentQuery) executeSearch(currentQuery);
+        })
+        .catch((error) => {
+            console.error(error);
+            if (query || sInput.value.trim()) {
+                showMessage(
+                    labels.unavailable || 'Search is unavailable. Build the site and run Pagefind indexing first.',
+                    { isError: true },
+                );
+            }
+        });
+
+    scopeInputs.forEach((input) => {
+        input.addEventListener('change', () => {
+            if (!input.checked) return;
+            setScope(input.value);
+        });
+    });
+};
+
+sInput.onkeyup = function () {
+    if (searchTimeout) clearTimeout(searchTimeout);
+    const value = this.value.trim();
+    if (pagefindReady && value) pagefindApi.preload(value, { filters: { scope: currentScope } });
     searchTimeout = setTimeout(() => {
-        executeSearch(this.value.trim());
+        executeSearch(value);
     }, 300);
 };
 
@@ -563,10 +477,13 @@ sInput.addEventListener('search', function () {
     if (!this.value) reset();
 });
 
+sInput.addEventListener('focus', () => {
+    loadPagefind().catch((error) => console.error(error));
+});
+
 document.onkeydown = function (e) {
     let key = e.key;
     let ae = document.activeElement;
-
     let inbox = document.getElementById('searchbox').contains(ae);
 
     if (ae === sInput) {

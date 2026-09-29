@@ -1,0 +1,34 @@
+{{- /*
+  Emits Pagefind filter/meta for indexable pages.
+  Pair with data-pagefind-body on the main content wrapper.
+  Notes use scope:notes; everything else uses scope:site.
+*/ -}}
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- $isNote := eq .Section $notesSection -}}
+{{- $skip := or
+  (eq .Layout "search")
+  (eq .Layout "archives")
+  (eq .Layout "resume-print")
+  (and .Params.searchHidden (not $isNote))
+-}}
+{{- if and .IsPage (not $skip) -}}
+{{- $scope := cond $isNote "notes" "site" -}}
+{{- $date := "" -}}
+{{- with .Date }}{{ $date = .Format "2006-01-02T15:04:05Z07:00" }}{{ end -}}
+{{- $categories := "" -}}
+{{- with .Params.categories }}{{ $categories = delimit . ", " }}{{ end -}}
+{{- $tags := "" -}}
+{{- with .Params.tags }}{{ $tags = delimit . ", " }}{{ end -}}
+{{- $title := .Title | plainify | htmlUnescape -}}
+{{- if $isNote -}}
+  {{- $title = partial "note_display_title.html" . | plainify | htmlUnescape -}}
+{{- end -}}
+<div hidden aria-hidden="true" data-pagefind-ignore="index">
+  <span data-pagefind-filter="scope:{{ $scope }}"></span>
+  {{- with $title }}<span data-pagefind-meta="title">{{ . }}</span>{{ end }}
+  {{- with $date }}<span data-pagefind-meta="date">{{ . }}</span>{{ end }}
+  {{- with $categories }}<span data-pagefind-meta="categories">{{ . }}</span>{{ end }}
+  {{- with $tags }}<span data-pagefind-meta="tags">{{ . }}</span>{{ end }}
+  <span data-pagefind-meta="section">{{ .Section }}</span>
+</div>
+{{- end -}}

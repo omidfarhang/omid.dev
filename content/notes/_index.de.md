@@ -4,7 +4,6 @@ description: Kurze Gedanken und schnelle Notizen — keine vollständigen Blogbe
 outputs:
   - HTML
   - RSS
-  - NotesIndex
 cascade:
   params:
     ShowBreadCrumbs: false

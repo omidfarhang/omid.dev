@@ -1,5 +1,6 @@
 {{- define "main" }}
 
+{{ partial "pagefind_meta.html" . }}
 <article class="post-single article-page page-shell">
   <header class="post-header article-hero page-hero">
     {{ partial "breadcrumbs.html" . }}
@@ -44,14 +45,16 @@
     {{- end }}
 
     {{- if .Content }}
-    <div class="post-content">
+    <div class="post-content" data-pagefind-body>
       {{- if .Params.series.id }}
       {{- $showIntro := true -}}
       {{- with .Params.seriesNav -}}
         {{- if isset . "intro" -}}{{- $showIntro = .intro -}}{{- end -}}
       {{- end -}}
       {{- if $showIntro -}}
+      <div data-pagefind-ignore>
       {{- partial "series_nav.html" (dict "Page" . "Placement" "intro") -}}
+      </div>
       {{- end -}}
       {{- end }}
       {{- if not (.Param "disableAnchoredHeadings") }}

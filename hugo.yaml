@@ -260,21 +260,6 @@ languages:
         - JSON
 
 params:
-  fuseOpts:
-    threshold: 0.2
-    distance: 100
-    ignorelocation: true
-    minmatchcharlength: 2
-    limit: 20
-    maxscore: 0.35
-    includescore: true
-    keys:
-      - name: title
-        weight: 3
-      - name: tags
-        weight: 2
-      - name: summary
-        weight: 1
   playground:
     baseURL: https://playground.omid.dev
     examplesPath: examples
@@ -391,7 +376,7 @@ params:
   mainSections:
     - posts
 
-  # Short-form notes — own search index, RSS, and sitemap; excluded from main search, main RSS, and related posts
+  # Short-form notes — own RSS and sitemap; Pagefind scope:notes; excluded from main RSS, archives JSON, and related posts
   notesSection: notes
   notesPerPage: 20
   notesIndexMaxChars: 420
@@ -484,11 +469,6 @@ outputFormats:
   Sitemap:
     mediaType: application/xml
     baseName: sitemap
-    isPlainText: true
-    notAlternative: true
-  NotesIndex:
-    mediaType: application/json
-    baseName: search-index
     isPlainText: true
     notAlternative: true
   SitemapPostsLang:

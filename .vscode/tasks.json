@@ -72,6 +72,27 @@
       "problemMatcher": []
     },
     {
+      "label": "hugo build + pagefind",
+      "type": "shell",
+      "command": "hugo --minify && ./scripts/pagefind-index.sh",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "pagefind index",
+      "type": "shell",
+      "command": "./scripts/pagefind-index.sh",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
       "label": "hugo build (with drafts)",
       "type": "shell",
       "command": "hugo -D --minify",
@@ -85,7 +106,7 @@
     {
       "label": "hugo clean",
       "type": "shell",
-      "command": "rm -rf public resources",
+      "command": "rm -rf public resources static/pagefind",
       "presentation": {
         "reveal": "always",
         "panel": "shared"

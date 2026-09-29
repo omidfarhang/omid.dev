@@ -284,6 +284,9 @@
 - id: search_empty
   translation: "No results found."
 
+- id: search_unavailable
+  translation: "Search is unavailable. Build the site and run Pagefind indexing first."
+
 - id: page_not_found
   translation: "Oops! The page you're looking for doesn't exist."
 
