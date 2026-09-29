@@ -24,7 +24,8 @@ Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ ye
 | Contact | https://omid.dev/contact-me/ | Contact form |
 | Now | https://omid.dev/now/ | Current focus |
 | Uses | https://omid.dev/uses/ | Tools and setup |
-| Search | https://omid.dev/search/ | Client-side search; posts use `index.json`, notes use `notes/search-index.json` (scope toggle on page) |
+| Search | https://omid.dev/search/ | Client-side Pagefind search (posts / notes / pages scopes) |
+| Archives | https://omid.dev/archives/ | Static year → month post browse |
 
 Persian (`/fa/`) and German (`/de/`) mirror key pages; most blog posts and all notes are English-only. Paired translations exist for select pages and ~90+ posts.
 
@@ -56,9 +57,9 @@ Many posts include a `shortlink` (g.omid.dev) in front matter; the canonical URL
 
 - Posts RSS: https://omid.dev/index.xml (20 most recent items per language home; notes excluded)
 - Notes RSS: https://omid.dev/notes/index.xml (20 most recent notes)
-- Posts search JSON: https://omid.dev/index.json — `{title, permalink, summary, tags, categories, date}`
-- Notes search JSON: https://omid.dev/notes/search-index.json — `{title, permalink, summary, date, section}`
-- Sitemap index: https://omid.dev/sitemap.xml — per-language sub-sitemaps for pages, posts, notes, categories, and tags (e.g. `/en/sitemap-notes.xml`)
+- Date archives: https://omid.dev/archives/ (year/month HTML pages; language variants under `/fa/archives/`, `/de/archives/`)
+- Search: https://omid.dev/search/ (Pagefind index generated post-build)
+- Sitemap index: https://omid.dev/sitemap.xml — per-language sub-sitemaps for pages, posts, notes, archives, categories, and tags (e.g. `/en/sitemap-archives.xml`)
 
 ## Structured data (production pages)
 

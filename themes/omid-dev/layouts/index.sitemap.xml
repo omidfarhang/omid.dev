@@ -1,6 +1,6 @@
 {{ partial "sitemap/xml-header.html" . }}
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{{- range slice "pages" "posts" "notes" "categories" "tags" -}}
+{{- range slice "pages" "posts" "notes" "archives" "categories" "tags" -}}
   {{- partial "sitemap/lang-index.html" . -}}
 {{- end -}}
 </sitemapindex>

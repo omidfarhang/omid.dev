@@ -51,7 +51,7 @@ Wenn Sie Hell/Dunkel/System wählen, kann die Einstellung im **localStorage** Ih
 
 ### 4. Suche auf der Website
 
-Die Suche lädt einen statischen JSON-Index von dieser Website und läuft **vollständig in Ihrem Browser**. Suchanfragen werden nicht an einen Drittanbieter gesendet.
+Die Suche nutzt einen mit der Website erzeugten statischen [Pagefind](https://pagefind.app/)-Index und läuft **vollständig in Ihrem Browser**. Suchanfragen werden nicht an einen Drittanbieter gesendet.
 
 ### 5. Diskussion und Webmentions
 

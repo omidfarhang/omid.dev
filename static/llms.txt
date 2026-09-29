@@ -36,10 +36,8 @@
 - RSS (Persian): https://omid.dev/fa/index.xml
 - RSS (German): https://omid.dev/de/index.xml
 - Notes RSS (English): https://omid.dev/notes/index.xml
-- Full-text search index (JSON): https://omid.dev/index.json
-- Notes search index (JSON): https://omid.dev/notes/search-index.json
-- Persian search index: https://omid.dev/fa/index.json
-- German search index: https://omid.dev/de/index.json
+- Date archives: https://omid.dev/archives/
+- On-site search (Pagefind): https://omid.dev/search/
 - AI usage policy: https://omid.dev/ai.txt
 
 ## Citation

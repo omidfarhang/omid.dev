@@ -2,9 +2,10 @@
 {{- if .Params.canonicalURL -}}
   {{- $canonical = trim .Params.canonicalURL " " -}}
 {{- else -}}
-  {{- with partial "category_section_hub.html" . -}}
-    {{- $canonical = .Permalink -}}
-  {{- else -}}
+  {{- $hub := partial "category_section_hub.html" . -}}
+  {{- if $hub -}}
+    {{- $canonical = $hub.Permalink -}}
+  {{- else if not (and (eq .Section "archives") (not .Params.archiveMonth)) -}}
     {{- with try .Paginator -}}
       {{- if and (eq .Err nil) (gt .Value.PageNumber 1) -}}
         {{- $canonical = .Value.First.URL | absURL -}}

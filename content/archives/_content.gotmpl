@@ -1,0 +1,69 @@
+{{/*
+  Generate year and month archive section pages for the current language.
+  Discover periods from dated post filenames (YYYY-MM-DD-*.{lang}.md) under
+  content/posts/{section}/{YYYY}/ — Site.Pages is unavailable in content adapters.
+*/}}
+{{ .EnableAllLanguages }}
+{{ $lang := .Site.Language.Lang }}
+{{ $suffix := printf ".%s.md" $lang }}
+{{ $seen := newScratch }}
+{{ $seen.Set "yearList" slice }}
+
+{{ range readDir "content/posts" }}
+  {{ if .IsDir }}
+    {{ $category := .Name }}
+    {{ range readDir (printf "content/posts/%s" $category) }}
+      {{ if and .IsDir (findRE `^\d{4}$` .Name) }}
+        {{ $yearDir := printf "content/posts/%s/%s" $category .Name }}
+        {{ range readDir $yearDir }}
+          {{ if and (not .IsDir) (strings.HasSuffix .Name $suffix) (findRE `^\d{4}-\d{2}-\d{2}-` .Name) }}
+            {{ $year := substr .Name 0 4 }}
+            {{ $month := substr .Name 5 2 }}
+            {{ $years := $seen.Get "yearList" }}
+            {{ if not (in $years $year) }}
+              {{ $seen.Set "yearList" ($years | append $year) }}
+            {{ end }}
+            {{ $seen.SetInMap "months" (printf "%s-%s" $year $month) true }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ range sort ($seen.Get "yearList") }}
+  {{ $year := . }}
+  {{ $.AddPage (dict
+    "kind" "section"
+    "path" $year
+    "title" $year
+    "layout" "archives-year"
+    "outputs" (slice "HTML")
+    "params" (dict
+      "archiveYear" $year
+      "searchHidden" true
+    )
+  ) }}
+
+  {{ range $key, $_ := $seen.Get "months" }}
+    {{ $parts := split $key "-" }}
+    {{ if eq (index $parts 0) $year }}
+      {{ $month := index $parts 1 }}
+      {{ $dateStr := printf "%s-%s-01T00:00:00Z" $year $month }}
+      {{ $monthDate := time.AsTime $dateStr }}
+      {{ $.AddPage (dict
+        "kind" "section"
+        "path" (printf "%s/%s" $year $month)
+        "title" (time.Format "January 2006" $monthDate)
+        "layout" "archives-month"
+        "outputs" (slice "HTML")
+        "dates" (dict "date" $monthDate)
+        "params" (dict
+          "archiveYear" $year
+          "archiveMonth" $month
+          "searchHidden" true
+        )
+      ) }}
+    {{ end }}
+  {{ end }}
+{{ end }}

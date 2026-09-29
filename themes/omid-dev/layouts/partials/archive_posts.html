@@ -1,0 +1,23 @@
+{{- /*
+  Return posts for an archive year (and optional month), newest first.
+  Context: dict "year" "2006" "month" "01"|nil (zero-padded month string preferred)
+*/ -}}
+{{- $year := printf "%s" .year -}}
+{{- $monthNorm := "" -}}
+{{- with .month -}}
+  {{- $raw := printf "%s" . -}}
+  {{- if findRE `^\d{2}$` $raw -}}
+    {{- $monthNorm = $raw -}}
+  {{- else -}}
+    {{- $monthNorm = printf "%02d" (int $raw) -}}
+  {{- end -}}
+{{- end -}}
+{{- $posts := slice -}}
+{{- range where site.RegularPages "Section" "posts" -}}
+  {{- if eq (.Date.Format "2006") $year -}}
+    {{- if or (not $monthNorm) (eq (.Date.Format "01") $monthNorm) -}}
+      {{- $posts = $posts | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $posts -}}

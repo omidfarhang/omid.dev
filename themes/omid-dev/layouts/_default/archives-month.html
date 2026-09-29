@@ -1,0 +1,40 @@
+{{- define "main" -}}
+
+{{- $year := printf "%s" .Params.archiveYear -}}
+{{- $month := printf "%s" .Params.archiveMonth -}}
+{{- if not (findRE `^\d{2}$` $month) -}}
+  {{- $month = printf "%02d" (int $month) -}}
+{{- end -}}
+{{- $monthDate := time.AsTime (printf "%s-%s-01T00:00:00Z" $year $month) -}}
+{{- $paginator := .Paginator -}}
+{{- $total := $paginator.TotalNumberOfElements -}}
+{{- $postLabel := cond (eq $total 1) (i18n "archive_post" | default "post") (i18n "archive_posts" | default "posts") -}}
+{{- $start := add (mul (sub $paginator.PageNumber 1) $paginator.PagerSize) 1 -}}
+{{- $end := add (sub $start 1) $paginator.NumberOfElements -}}
+
+<div class="page-content">
+  <header class="page-header">
+    <h1>{{ time.Format "January 2006" $monthDate }}</h1>
+  </header>
+
+  {{- partial "archive_breadcrumbs.html" . -}}
+</div>
+
+<div class="archive-results posts-list-content">
+  {{- if gt $total 0 -}}
+  <div class="archive-results-header">
+    <span class="chip chip--stat archive-results-count">
+      {{ i18n "archive_showing" | default "Showing" }}
+      {{ $start }}–{{ $end }}
+      {{ i18n "archive_of" | default "of" }}
+      {{ $total }} {{ $postLabel }}
+    </span>
+  </div>
+  {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "listTitle" "" "className" "archive-post-grid") -}}
+  {{- partial "posts_pagination.html" (dict "paginator" $paginator) -}}
+  {{- else -}}
+  <p class="archive-empty">{{ i18n "archive_empty" | default "No posts found for this period." }}</p>
+  {{- end -}}
+</div>
+
+{{- end -}}

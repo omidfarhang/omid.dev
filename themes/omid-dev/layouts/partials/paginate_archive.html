@@ -12,4 +12,7 @@
 {{- else if and (eq .Kind "section") (eq .Section $notesSection) -}}
   {{- $perPage := site.Params.notesPerPage | default 20 | int -}}
   {{- $_ := .Paginate (.RegularPages.ByDate.Reverse) $perPage -}}
+{{- else if and (eq .Section "archives") (.Params.archiveMonth) (.Params.archiveYear) -}}
+  {{- $posts := partial "archive_posts.html" (dict "year" .Params.archiveYear "month" .Params.archiveMonth) -}}
+  {{- $_ := .Paginate $posts 15 -}}
 {{- end -}}

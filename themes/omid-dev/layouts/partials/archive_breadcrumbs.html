@@ -1,0 +1,47 @@
+{{- /*
+  Archives → Year → Month breadcrumbs.
+  Context: current page (archives hub, year, or month).
+*/ -}}
+{{- $archives := site.GetPage "section" "archives" -}}
+{{- $year := .Params.archiveYear -}}
+{{- $month := .Params.archiveMonth -}}
+<nav class="breadcrumbs" aria-label="{{ i18n "archive_breadcrumb" | default "Archive navigation" }}">
+  <ol>
+    <li>
+      {{- if and (not $year) (not $month) -}}
+      <span aria-current="page">{{ i18n "archive_breadcrumb_home" | default "Archives" }}</span>
+      {{- else if $archives -}}
+      <a href="{{ $archives.RelPermalink }}">{{ i18n "archive_breadcrumb_home" | default "Archives" }}</a>
+      {{- else -}}
+      <span>{{ i18n "archive_breadcrumb_home" | default "Archives" }}</span>
+      {{- end -}}
+    </li>
+    {{- if $year -}}
+    <li>
+      {{- if $month -}}
+        {{- with $archives -}}
+          {{- with .GetPage (printf "%s" $year) -}}
+      <a href="{{ .RelPermalink }}">{{ $year }}</a>
+          {{- else -}}
+      <span>{{ $year }}</span>
+          {{- end -}}
+        {{- else -}}
+      <span>{{ $year }}</span>
+        {{- end -}}
+      {{- else -}}
+      <span aria-current="page">{{ $year }}</span>
+      {{- end -}}
+    </li>
+    {{- end -}}
+    {{- if and $year $month -}}
+    {{- $monthPad := printf "%s" $month -}}
+    {{- if not (findRE `^\d{2}$` $monthPad) -}}
+      {{- $monthPad = printf "%02d" (int $monthPad) -}}
+    {{- end -}}
+    {{- $monthDate := time.AsTime (printf "%s-%s-01T00:00:00Z" $year $monthPad) -}}
+    <li>
+      <span aria-current="page">{{ time.Format "January" $monthDate }}</span>
+    </li>
+    {{- end -}}
+  </ol>
+</nav>

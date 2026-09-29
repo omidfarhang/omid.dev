@@ -17,6 +17,22 @@
       {{- $pages = $pages | append . -}}
     {{- end -}}
   {{- end -}}
+{{- else if eq $kind "archives" -}}
+  {{- with $s.GetPage "section" "archives" -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+    {{- range .Sections -}}
+      {{- if not .Params.robotsNoIndex -}}
+        {{- $pages = $pages | append . -}}
+      {{- end -}}
+      {{- range .Sections -}}
+        {{- if not .Params.robotsNoIndex -}}
+          {{- $pages = $pages | append . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- else if eq $kind "notes" -}}
   {{- $notesSection := $s.Params.notesSection | default "notes" -}}
   {{- with $s.GetPage "section" $notesSection -}}

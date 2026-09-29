@@ -1,62 +1,54 @@
 {{- define "main" -}}
 
+{{- $posts := where site.RegularPages "Section" "posts" -}}
+{{- $counts := dict -}}
+{{- $years := slice -}}
+{{- range $posts -}}
+  {{- $y := printf "%d" .Date.Year -}}
+  {{- $prev := index $counts $y | default 0 -}}
+  {{- $counts = merge $counts (dict $y (add $prev 1)) -}}
+  {{- if not (in $years $y) -}}
+    {{- $years = $years | append $y -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $items := slice -}}
+{{- range $year := sort $years "value" "desc" -}}
+  {{- $count := index $counts $year -}}
+  {{- with site.GetPage (printf "archives/%s" $year) -}}
+    {{- $items = $items | append (dict "href" .RelPermalink "value" $year "count" $count) -}}
+  {{- end -}}
+{{- end -}}
+
 <div class="page-content">
   <header class="page-header">
-    <h1>
-      {{ .Title }}
-      {{- if (.Param "ShowRssButtonInSectionTermList") -}}
-      {{- $rss := (.OutputFormats.Get "rss") -}}
-      {{- with $rss -}}
-      <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-          stroke-linecap="round" stroke-linejoin="round" height="23">
-          <path d="M4 11a9 9 0 0 1 9 9" />
-          <path d="M4 4a16 16 0 0 1 16 16" />
-          <circle cx="5" cy="19" r="1" />
-        </svg>
-      </a>
-      {{- end -}}
-      {{- end -}}
-    </h1>
+    <h1>{{ .Title }}</h1>
     {{- if .Description -}}
     <div class="post-description">{{ .Description }}</div>
     {{- end -}}
   </header>
 
-  <nav id="archiveBreadcrumb" class="breadcrumbs" aria-label="{{ i18n "archive_breadcrumb" | default "Archive navigation" }}"></nav>
-
-  <div id="archiveLoading" class="loading loading--panel" role="status">
-    <div class="spinner spinner--lg" aria-hidden="true"></div>
-    <span>{{ i18n "archive_loading" | default "Loading posts…" }}</span>
-  </div>
-
-  <div id="archivePicker" class="archive-picker" hidden></div>
+  {{- partial "archive_breadcrumbs.html" . -}}
+  {{- partial "archive_picker.html" (dict "title" (i18n "archive_years" | default "Years") "items" $items) -}}
 </div>
 
-<div id="archiveResults" class="archive-results posts-list-content" aria-live="polite" hidden></div>
-
-<script type="application/json" id="archive-config">
-{{- $archiveLabels := dict
-  "years" (i18n "archive_years" | default "Years")
-  "months" (i18n "archive_months" | default "Months")
-  "days" (i18n "archive_days" | default "Days")
-  "posts" (i18n "archive_posts" | default "posts")
-  "post" (i18n "archive_post" | default "post")
-  "allDays" (i18n "archive_all_days" | default "All days")
-  "loading" (i18n "archive_loading" | default "Loading posts…")
-  "empty" (i18n "archive_empty" | default "No posts found for this period.")
-  "prev" (i18n "archive_prev" | default "Previous")
-  "next" (i18n "archive_next" | default "Next")
-  "pagination" (i18n "pagination" | default "Pagination")
-  "home" (i18n "archive_breadcrumb_home" | default "Archives")
-  "showing" (i18n "archive_showing" | default "Showing")
-  "of" (i18n "archive_of" | default "of")
-  "published" (i18n "published" | default "Published")
-  "categories" (i18n "categories" | default "Categories")
-  "continueReading" (i18n "continue_reading" | default "Continue Reading")
--}}
-{{- $archiveConfig := dict "locale" (.Language.Lang | default "en") "labels" $archiveLabels -}}
-{{ $archiveConfig | jsonify }}
+{{- /* Legacy ?year=&month= deep links → static paths */ -}}
+<script>
+(function () {
+  var params = new URLSearchParams(window.location.search);
+  var year = params.get('year');
+  if (!year) return;
+  var month = params.get('month');
+  var base = window.location.pathname.replace(/\/?$/, '/');
+  var dest = base + encodeURIComponent(year) + '/';
+  if (month) {
+    var n = parseInt(month, 10);
+    if (!Number.isNaN(n) && n >= 1 && n <= 12) {
+      dest += String(n).padStart(2, '0') + '/';
+    }
+  }
+  window.location.replace(dest);
+})();
 </script>
 
 {{- end -}}

@@ -1,0 +1,25 @@
+{{- /*
+  Year or month card grid.
+  Context: dict "title" string "items" slice of dict (href, value, count)
+*/ -}}
+{{- $title := .title -}}
+{{- $items := .items | default slice -}}
+<div class="archive-picker">
+  <div class="archive-picker-header">
+    <h2 class="archive-picker-title">{{ $title }}</h2>
+  </div>
+  {{- if $items -}}
+  <div class="archive-grid">
+    {{- range $items -}}
+    {{- $count := .count -}}
+    {{- $postLabel := cond (eq $count 1) (i18n "archive_post" | default "post") (i18n "archive_posts" | default "posts") -}}
+    <a class="card card--interactive archive-card" href="{{ .href }}">
+      <span class="archive-card-value">{{ .value }}</span>
+      <span class="archive-card-meta">{{ $count }} {{ $postLabel }}</span>
+    </a>
+    {{- end -}}
+  </div>
+  {{- else -}}
+  <p class="archive-empty">{{ i18n "archive_empty" | default "No posts found for this period." }}</p>
+  {{- end -}}
+</div>

@@ -1,6 +1,15 @@
 /.well-known/host-meta* https://fed.brid.gy/.well-known/host-meta:splat 302
 /.well-known/webfinger* https://fed.brid.gy/.well-known/webfinger:splat 302
 
+# Legacy archives query URLs → static year/month paths
+# Note: unpadded months (month=3) rely on the archives hub JS redirect to pad to /03/
+/archives year=:year month=:month /archives/:year/:month/ 301
+/archives year=:year /archives/:year/ 301
+/fa/archives year=:year month=:month /fa/archives/:year/:month/ 301
+/fa/archives year=:year /fa/archives/:year/ 301
+/de/archives year=:year month=:month /de/archives/:year/:month/ 301
+/de/archives year=:year /de/archives/:year/ 301
+
 # Resume PDF Redirects
 /resume/pdf /resume/OmidFarhang-Resume.pdf 301
 /resume/pdf/ /resume/OmidFarhang-Resume.pdf 301

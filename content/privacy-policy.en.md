@@ -51,7 +51,7 @@ If you change light/dark/system theme, that choice may be stored in **localStora
 
 ### 4. On-site search
 
-Search on omid.dev loads a static JSON index from this site and runs **entirely in your browser**. Your search queries are not sent to a third-party search provider.
+Search on omid.dev uses a static [Pagefind](https://pagefind.app/) index built with the site and runs **entirely in your browser**. Your search queries are not sent to a third-party search provider.
 
 ### 5. Blog discussion and webmentions
 

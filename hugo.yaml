@@ -134,7 +134,6 @@ languages:
       home:
         - HTML
         - RSS
-        - JSON
         - Sitemap
   # Persian
   fa:
@@ -196,7 +195,6 @@ languages:
       home:
         - HTML
         - RSS
-        - JSON
   # German
   de:
     title: Omid Farhang
@@ -257,7 +255,6 @@ languages:
       home:
         - HTML
         - RSS
-        - JSON
 
 params:
   playground:
@@ -376,7 +373,7 @@ params:
   mainSections:
     - posts
 
-  # Short-form notes — own RSS and sitemap; Pagefind scope:notes; excluded from main RSS, archives JSON, and related posts
+  # Short-form notes — own RSS and sitemap; Pagefind scope:notes; excluded from main RSS, date archives, and related posts
   notesSection: notes
   notesPerPage: 20
   notesIndexMaxChars: 420
@@ -494,6 +491,11 @@ outputFormats:
   SitemapNotesLang:
     mediaType: application/xml
     baseName: sitemap-notes
+    isPlainText: true
+    notAlternative: true
+  SitemapArchivesLang:
+    mediaType: application/xml
+    baseName: sitemap-archives
     isPlainText: true
     notAlternative: true
 

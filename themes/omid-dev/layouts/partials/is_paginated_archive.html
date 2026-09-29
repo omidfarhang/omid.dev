@@ -1,5 +1,13 @@
 {{- $result := false -}}
-{{- if or (eq .Kind "term") (eq .Kind "section") (eq .Section "posts") -}}
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- $check := or
+  (eq .Kind "term")
+  (and (eq .Kind "section") (eq .Section "posts"))
+  (eq .Section "posts")
+  (and (eq .Kind "section") (eq .Section $notesSection))
+  (and (eq .Section "archives") (.Params.archiveMonth))
+-}}
+{{- if $check -}}
   {{- with try .Paginator -}}
     {{- if eq .Err nil -}}
       {{- if gt .Value.PageNumber 1 -}}

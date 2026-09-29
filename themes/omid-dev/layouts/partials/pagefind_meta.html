@@ -9,6 +9,9 @@
 {{- $skip := or
   (eq .Layout "search")
   (eq .Layout "archives")
+  (eq .Layout "archives-year")
+  (eq .Layout "archives-month")
+  (eq .Section "archives")
   (eq .Layout "resume-print")
   (and .Params.searchHidden (not $isNote))
 -}}
