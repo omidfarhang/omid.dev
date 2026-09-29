@@ -266,11 +266,29 @@
 - id: search_scope_label
   translation: "جستجو در"
 
+- id: search_scope_all
+  translation: "همه"
+
 - id: search_scope_site
   translation: "سایت"
 
+- id: search_scope_posts
+  translation: "نوشته‌ها"
+
 - id: search_scope_notes
   translation: "یادداشت‌ها"
+
+- id: search_scope_pages
+  translation: "صفحه‌ها"
+
+- id: search_sort_label
+  translation: "مرتب‌سازی"
+
+- id: search_sort_relevance
+  translation: "مرتبط‌ترین"
+
+- id: search_sort_date
+  translation: "جدیدترین"
 
 - id: search_loading
   translation: "در حال بارگذاری ایندکس جستجو…"
@@ -280,6 +298,27 @@
 
 - id: search_empty
   translation: "نتیجه‌ای یافت نشد."
+
+- id: search_empty_in
+  translation: "در %s نتیجه‌ای یافت نشد."
+
+- id: search_try_scope
+  translation: "امتحان %s"
+
+- id: search_showing_for
+  translation: "نتایج برای"
+
+- id: search_clear
+  translation: "پاک کردن جستجو"
+
+- id: search_more_in
+  translation: "بیشتر در %s"
+
+- id: search_hint_tags
+  translation: "موضوعات محبوب"
+
+- id: search_hint_recent
+  translation: "نوشته‌های اخیر"
 
 - id: search_unavailable
   translation: "جستجو در دسترس نیست. ابتدا سایت را بسازید و ایندکس Pagefind را اجرا کنید."

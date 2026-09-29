@@ -263,11 +263,29 @@
 - id: search_scope_label
   translation: "Suchen in"
 
+- id: search_scope_all
+  translation: "Alles"
+
 - id: search_scope_site
   translation: "Website"
 
+- id: search_scope_posts
+  translation: "Beiträge"
+
 - id: search_scope_notes
   translation: "Notizen"
+
+- id: search_scope_pages
+  translation: "Seiten"
+
+- id: search_sort_label
+  translation: "Sortieren nach"
+
+- id: search_sort_relevance
+  translation: "Relevanz"
+
+- id: search_sort_date
+  translation: "Neueste"
 
 - id: search_loading
   translation: "Suchindex wird geladen…"
@@ -277,6 +295,27 @@
 
 - id: search_empty
   translation: "Keine Ergebnisse gefunden."
+
+- id: search_empty_in
+  translation: "Keine Ergebnisse in %s."
+
+- id: search_try_scope
+  translation: "%s versuchen"
+
+- id: search_showing_for
+  translation: "Ergebnisse für"
+
+- id: search_clear
+  translation: "Suche löschen"
+
+- id: search_more_in
+  translation: "Mehr in %s"
+
+- id: search_hint_tags
+  translation: "Beliebte Themen"
+
+- id: search_hint_recent
+  translation: "Neueste Beiträge"
 
 - id: search_unavailable
   translation: "Suche ist nicht verfügbar. Bauen Sie die Site und führen Sie die Pagefind-Indexierung aus."

@@ -1,10 +1,11 @@
 {{- /*
   Emits Pagefind filter/meta for indexable pages.
   Pair with data-pagefind-body on the main content wrapper.
-  Notes use scope:notes; everything else uses scope:site.
+  Scopes: notes | posts | pages
 */ -}}
 {{- $notesSection := site.Params.notesSection | default "notes" -}}
 {{- $isNote := eq .Section $notesSection -}}
+{{- $isPost := eq .Section "posts" -}}
 {{- $skip := or
   (eq .Layout "search")
   (eq .Layout "archives")
@@ -12,13 +13,23 @@
   (and .Params.searchHidden (not $isNote))
 -}}
 {{- if and .IsPage (not $skip) -}}
-{{- $scope := cond $isNote "notes" "site" -}}
+{{- $scope := "pages" -}}
+{{- if $isNote }}{{ $scope = "notes" }}{{ else if $isPost }}{{ $scope = "posts" }}{{ end -}}
 {{- $date := "" -}}
-{{- with .Date }}{{ $date = .Format "2006-01-02T15:04:05Z07:00" }}{{ end -}}
+{{- $dateSort := "" -}}
+{{- with .Date }}
+  {{- $date = .Format "2006-01-02T15:04:05Z07:00" -}}
+  {{- $dateSort = .Format "20060102150405" -}}
+{{- end -}}
 {{- $categories := "" -}}
 {{- with .Params.categories }}{{ $categories = delimit . ", " }}{{ end -}}
 {{- $tags := "" -}}
 {{- with .Params.tags }}{{ $tags = delimit . ", " }}{{ end -}}
+{{- $description := "" -}}
+{{- with .Description }}{{ $description = . | plainify | htmlUnescape }}{{ end -}}
+{{- if not $description -}}
+  {{- with .Summary }}{{ $description = . | plainify | htmlUnescape | truncate 240 }}{{ end -}}
+{{- end -}}
 {{- $title := .Title | plainify | htmlUnescape -}}
 {{- if $isNote -}}
   {{- $title = partial "note_display_title.html" . | plainify | htmlUnescape -}}
@@ -26,9 +37,12 @@
 <div hidden aria-hidden="true" data-pagefind-ignore="index">
   <span data-pagefind-filter="scope:{{ $scope }}"></span>
   {{- with $title }}<span data-pagefind-meta="title">{{ . }}</span>{{ end }}
+  {{- with $description }}<span data-pagefind-meta="description">{{ . }}</span>{{ end }}
   {{- with $date }}<span data-pagefind-meta="date">{{ . }}</span>{{ end }}
+  {{- with $dateSort }}<span data-pagefind-sort="date">{{ . }}</span>{{ end }}
   {{- with $categories }}<span data-pagefind-meta="categories">{{ . }}</span>{{ end }}
   {{- with $tags }}<span data-pagefind-meta="tags">{{ . }}</span>{{ end }}
   <span data-pagefind-meta="section">{{ .Section }}</span>
+  <span data-pagefind-meta="kind">{{ $scope }}</span>
 </div>
 {{- end -}}

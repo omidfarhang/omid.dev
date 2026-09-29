@@ -269,11 +269,29 @@
 - id: search_scope_label
   translation: "Search in"
 
+- id: search_scope_all
+  translation: "All"
+
 - id: search_scope_site
   translation: "Site"
 
+- id: search_scope_posts
+  translation: "Posts"
+
 - id: search_scope_notes
   translation: "Notes"
+
+- id: search_scope_pages
+  translation: "Pages"
+
+- id: search_sort_label
+  translation: "Sort by"
+
+- id: search_sort_relevance
+  translation: "Relevance"
+
+- id: search_sort_date
+  translation: "Newest"
 
 - id: search_loading
   translation: "Loading search index…"
@@ -283,6 +301,27 @@
 
 - id: search_empty
   translation: "No results found."
+
+- id: search_empty_in
+  translation: "No results in %s."
+
+- id: search_try_scope
+  translation: "Try %s"
+
+- id: search_showing_for
+  translation: "Showing results for"
+
+- id: search_clear
+  translation: "Clear search"
+
+- id: search_more_in
+  translation: "More in %s"
+
+- id: search_hint_tags
+  translation: "Popular topics"
+
+- id: search_hint_recent
+  translation: "Recent posts"
 
 - id: search_unavailable
   translation: "Search is unavailable. Build the site and run Pagefind indexing first."

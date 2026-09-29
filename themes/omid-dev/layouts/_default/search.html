@@ -1,5 +1,12 @@
 {{- define "main" }}
 
+{{- $notesSection := site.Params.notesSection | default "notes" -}}
+{{- $recentPosts := first 6 (where site.RegularPages "Section" "posts") -}}
+{{- $hintTags := slice -}}
+{{- range site.Params.homeTechTagsTechnical | default slice }}{{ $hintTags = $hintTags | append . }}{{ end -}}
+{{- range site.Params.homeTechTagsProfessional | default slice }}{{ $hintTags = $hintTags | append . }}{{ end -}}
+{{- $hintTags = first 8 $hintTags -}}
+
 <div class="page-content">
 <header class="page-header">
     <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
@@ -14,32 +21,90 @@
         {{ .Description }}
     </div>
     {{- end }}
-    {{- if not (.Param "hideMeta") }}
-    <!-- <div class="post-meta">
-        {{- partial "translation_list.html" . -}}
-    </div> -->
-    {{- end }}
 </header>
 
 <div id="searchbox" class="searchbox">
-    <div class="search-scope" role="radiogroup" aria-label="{{ i18n "search_scope_label" | default "Search in" }}">
-        <label class="search-scope-option">
-            <input type="radio" name="searchScope" value="site" checked>
-            <span>{{ i18n "search_scope_site" | default "Site" }}</span>
+    <div class="search-toolbar">
+        <div class="search-scope search-scope--radios" role="radiogroup" aria-label="{{ i18n "search_scope_label" | default "Search in" }}">
+            <label class="search-scope-option">
+                <input type="radio" name="searchScope" value="all">
+                <span>{{ i18n "search_scope_all" | default "All" }}</span>
+            </label>
+            <label class="search-scope-option">
+                <input type="radio" name="searchScope" value="posts" checked>
+                <span>{{ i18n "search_scope_posts" | default "Posts" }}</span>
+            </label>
+            <label class="search-scope-option">
+                <input type="radio" name="searchScope" value="notes">
+                <span>{{ i18n "search_scope_notes" | default "Notes" }}</span>
+            </label>
+            <label class="search-scope-option">
+                <input type="radio" name="searchScope" value="pages">
+                <span>{{ i18n "search_scope_pages" | default "Pages" }}</span>
+            </label>
+        </div>
+        <label class="search-scope-select-wrap">
+            <span class="screen-reader-text">{{ i18n "search_scope_label" | default "Search in" }}</span>
+            <select id="searchScopeSelect" class="search-scope-select" aria-label="{{ i18n "search_scope_label" | default "Search in" }}">
+                <option value="all">{{ i18n "search_scope_all" | default "All" }}</option>
+                <option value="posts" selected>{{ i18n "search_scope_posts" | default "Posts" }}</option>
+                <option value="notes">{{ i18n "search_scope_notes" | default "Notes" }}</option>
+                <option value="pages">{{ i18n "search_scope_pages" | default "Pages" }}</option>
+            </select>
         </label>
-        <label class="search-scope-option">
-            <input type="radio" name="searchScope" value="notes">
-            <span>{{ i18n "search_scope_notes" | default "Notes" }}</span>
+        <label class="search-sort-wrap">
+            <span class="screen-reader-text">{{ i18n "search_sort_label" | default "Sort by" }}</span>
+            <select id="searchSort" class="search-sort" aria-label="{{ i18n "search_sort_label" | default "Sort by" }}">
+                <option value="relevance" selected>{{ i18n "search_sort_relevance" | default "Relevance" }}</option>
+                <option value="date">{{ i18n "search_sort_date" | default "Newest" }}</option>
+            </select>
         </label>
     </div>
+
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
+
+    <div id="searchQueryChip" class="search-query-chip" hidden>
+        <span id="searchQueryChipText"></span>
+        <button type="button" id="searchQueryClear" class="search-query-clear" aria-label="{{ i18n "search_clear" | default "Clear search" }}">×</button>
+    </div>
+
     <div id="searchLoading" class="loading loading--panel" role="status" hidden>
         <div class="spinner spinner--lg" aria-hidden="true"></div>
         <span id="searchLoadingText">{{ i18n "search_loading" | default "Loading search index…" }}</span>
     </div>
 </div>
 </div>{{/* end page-content */}}
+
+<div id="searchIdle" class="search-idle posts-list-content">
+    {{- if $hintTags }}
+    <section class="search-hint-block" aria-labelledby="search-hint-tags-title">
+        <h2 id="search-hint-tags-title" class="search-hint-title">{{ i18n "search_hint_tags" | default "Popular topics" }}</h2>
+        <ul class="search-hint-tags">
+            {{- range $hintTags }}
+            {{- $tag := . -}}
+            {{- with site.GetPage (printf "tags/%s" ($tag | urlize)) }}
+            <li><button type="button" class="chip chip--tag search-hint-tag" data-query="{{ $tag }}">{{ $tag }}</button></li>
+            {{- else }}
+            <li><button type="button" class="chip chip--tag search-hint-tag" data-query="{{ $tag }}">{{ $tag }}</button></li>
+            {{- end }}
+            {{- end }}
+        </ul>
+    </section>
+    {{- end }}
+    {{- if $recentPosts }}
+    <section class="search-hint-block" aria-labelledby="search-hint-recent-title">
+        <h2 id="search-hint-recent-title" class="search-hint-title">{{ i18n "search_hint_recent" | default "Recent posts" }}</h2>
+        <ul class="search-hint-recent">
+            {{- range $recentPosts }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Title | plainify | htmlUnescape }}</a>
+            </li>
+            {{- end }}
+        </ul>
+    </section>
+    {{- end }}
+</div>
 
 <div id="searchResults" class="search-results posts-list-content" aria-live="polite" hidden></div>
 
@@ -54,16 +119,28 @@
   "next" (i18n "next_page" | default "Next")
   "pagination" (i18n "pagination" | default "Pagination")
   "empty" (i18n "search_empty" | default "No results found.")
+  "emptyIn" (i18n "search_empty_in" | default "No results in %s.")
+  "tryScope" (i18n "search_try_scope" | default "Try %s")
   "loading" (i18n "search_loading" | default "Loading search index…")
-  "loadingNotes" (i18n "search_loading_notes" | default "Loading notes index…")
   "unavailable" (i18n "search_unavailable" | default "Search is unavailable. Build the site and run Pagefind indexing first.")
   "notes" (i18n "notes" | default "Notes")
+  "posts" (i18n "search_scope_posts" | default "Posts")
+  "pages" (i18n "search_scope_pages" | default "Pages")
+  "all" (i18n "search_scope_all" | default "All")
+  "showingFor" (i18n "search_showing_for" | default "Showing results for")
+  "clear" (i18n "search_clear" | default "Clear search")
+  "moreIn" (i18n "search_more_in" | default "More in %s")
+  "groupPosts" (i18n "search_scope_posts" | default "Posts")
+  "groupNotes" (i18n "search_scope_notes" | default "Notes")
+  "groupPages" (i18n "search_scope_pages" | default "Pages")
 -}}
 {{- $searchConfig := dict
   "locale" (.Language.Lang | default "en")
   "labels" $searchLabels
-  "notesSection" (site.Params.notesSection | default "notes")
+  "notesSection" $notesSection
   "pagefindBundle" "/pagefind/"
+  "defaultScope" "posts"
+  "scopes" (slice "all" "posts" "notes" "pages")
 -}}
 {{ $searchConfig | jsonify }}
 </script>
