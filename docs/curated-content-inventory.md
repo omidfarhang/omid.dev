@@ -84,6 +84,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 
 - One AI Chat Is Not a Research Workspace (Git + Markdown research inbox; chat is a lens, not the archive)
 - Obsidian on a Git Research Vault (open that repo as an Obsidian vault; Git remains the archive)
+- Coding Agents Are Becoming CI Workers (sandbox, egress allowlist, propose/dispose CI, telemetry, kill switch; AI & Data Tools → Running agents safely)
 
 ## Cross-section
 

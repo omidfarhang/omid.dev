@@ -29,26 +29,32 @@ For day-to-day coding in the editor — splitting work across cloud assistants, 
 
 Pair with the Jupyter series above for the **thinking** side (notebooks, research) and item 4 for **notebook-local LLM** integration. Items 5–6 cover the **IDE execution** side — cloud split first, then hands-on local setup.
 
+## Running agents safely
+
+Once an agent can run commands in your repo, it needs the same boundaries as any other CI worker:
+
+7. **[Coding Agents Are Becoming CI Workers. Start Sandboxing Them Like It.](/2026/09/29/coding-agents-are-ci-workers-sandbox-them/)** — Sandbox, egress allowlist, short-lived credentials, propose/dispose CI jobs, telemetry, and a kill switch.
+
 ## Long-form research
 
 Coding chats and notebook sessions are still conversations. Multi-week research needs a durable workspace the model can read as files:
 
-7. **[One AI Chat Is Not a Research Workspace](/2026/08/29/one-ai-chat-is-not-a-research-workspace/)** — Keep messy, contradictory Markdown in Git; use the chat as a lens on that repo, not as the archive.
-8. **[Obsidian on a Git Research Vault](/2026/09/22/obsidian-on-a-git-research-vault/)** — Open that same repo as an Obsidian vault for links and a graph; Git stays the archive.
+8. **[One AI Chat Is Not a Research Workspace](/2026/08/29/one-ai-chat-is-not-a-research-workspace/)** — Keep messy, contradictory Markdown in Git; use the chat as a lens on that repo, not as the archive.
+9. **[Obsidian on a Git Research Vault](/2026/09/22/obsidian-on-a-git-research-vault/)** — Open that same repo as an Obsidian vault for links and a graph; Git stays the archive.
 
 ## Interactive projects
 
 Follow the [Bio-Dynamics Lab](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/) series in order:
 
-9. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
-10. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
-11. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
-12. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
-13. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
+10. **[Building Bio-Dynamics: Overview](/2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/)** — Why I built a browser-only 3D microbiome lab.
+11. **[Deterministic Microbiome Simulation](/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/)** — Simulation design without overclaiming science.
+12. **[Macro/Micro 3D: One Scene Graph](/2026/06/11/macro-micro-3d-one-scene-graph-seven-tissue-builders/)** — Scene graph architecture for tissue builders.
+13. **[Catalog-Driven Dashboard](/2026/06/12/catalog-driven-dashboard-strains-stressors-and-action-impact/)** — Strains, stressors, and action impact in the UI.
+14. **[i18n, a11y, and Shareable Lab State](/2026/06/13/i18n-a11y-and-shareable-lab-state-in-the-browser/)** — Accessibility and shareable state in the browser lab.
 
 ## Teaching companion
 
-14. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
+15. **[Teaching with Bio-Dynamics: 15-Minute Lab Sessions](/2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/)** — Classroom paths for running short workshops with the live lab (Health section).
 
 ## Health context
 
