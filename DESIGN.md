@@ -115,7 +115,7 @@ The only non-neutral colors in the UI chrome. Use them as small marks — dots, 
 |-------|-------|------|-----|
 | `--highlight` | `#ffe36e` | `rgba(255, 214, 10, 0.32)` | Marker band behind key phrases (hero tagline `em`) and link hover fill |
 | `--highlight-strong` | `#ffc400` | `#ffd60a` | Kicker rule (`.section-eyebrow::before`) |
-| `--link-mark` / `--link-mark-hover` | inset yellow underline / full marker fill | same, dimmer | `.post-content a` box-shadow |
+| `--link-mark` / `--link-mark-hover` | inset yellow underline / full marker fill | same, dimmer | `.post-content a:not([class])` box-shadow — plain text links only, never buttons/cards/chips |
 | `--cat-techblog` | `#2f5bff` | `#7b9bff` | Category marks |
 | `--cat-health` | `#00a86b` | `#34d399` | 〃 |
 | `--cat-electronics` | `#ffb000` | `#fbbf24` | 〃 |

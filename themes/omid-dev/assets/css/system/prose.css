@@ -67,14 +67,21 @@ body:lang(fa) .post-content h6 {
 
 .post-content a {
     color: var(--accent);
+    transition: var(--transition-base);
+}
+
+/* Highlighter only on plain text links; classed links (buttons, cards, chips) keep their own styling */
+.post-content a:not([class]) {
     box-shadow: var(--link-mark);
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
-    transition: var(--transition-base);
 }
 
 .post-content a:hover {
     color: var(--accent);
+}
+
+.post-content a:not([class]):hover {
     box-shadow: var(--link-mark-hover);
 }
 
