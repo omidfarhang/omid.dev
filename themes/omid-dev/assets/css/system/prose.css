@@ -160,8 +160,8 @@ body:lang(fa) .post-content h6 {
 .post-content code {
     margin: auto var(--space-1);
     padding: var(--space-1) var(--space-2);
-    font-size: 0.78em;
-    line-height: var(--leading-medium);
+    font-size: 0.875em; /* sm/base — scales with surrounding prose */
+    line-height: var(--leading-normal);
     background: var(--code-bg);
     border-radius: 2px;
 }

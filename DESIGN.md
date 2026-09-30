@@ -138,23 +138,47 @@ Source: `assets/css/core/typography.css` (tokens) + `system/typography.css` (uti
 
 `body:lang(fa)` switches to the `-fa` stacks. Self-hosted under `static/fonts/` / `vendor/fonts.css` with `font-display: swap`. Latin + latin-ext subsets only for LTR type.
 
-### Scale (selected)
+### Closed modular ladder
 
-Numeric scale assumes `1rem = 16px`.
+Numeric scale assumes `1rem = 16px`. **Do not invent new rem sizes** — map new UI to a ladder step or a semantic role that already aliases to one.
 
-| Token | Size |
-|-------|------|
-| `--text-2xs` … `--text-6xl` | 12px → 48px main steps |
-| `--text-ui` / `--text-ui-sm` | Recurring UI chrome |
-| `--text-lead` | Leads / intros |
-| `--text-prose-body` | Article body (~1.02rem) |
-| `--text-prose-h1` … `h6` | Markdown headings |
-| `--text-display-*` | Fluid hero/archive titles (`clamp`) |
-| `--text-display-home` | Homepage tagline |
+| Token | Size | px |
+|-------|------|-----|
+| `--text-2xs` | `0.75rem` | 12 — UI floor |
+| `--text-sm` | `0.875rem` | 14 |
+| `--text-base` | `1rem` | 16 |
+| `--text-lg` | `1.125rem` | 18 |
+| `--text-xl` | `1.25rem` | 20 |
+| `--text-3xl` | `1.5rem` | 24 |
+| `--text-4xl` | `1.75rem` | 28 |
+| `--text-5xl` | `2.25rem` | 36 |
+| `--text-6xl` | `3rem` | 48 |
+
+Ladder aliases (legacy names): `--text-xs` → `sm`, `--text-md` → `lg`, `--text-2xl` → `3xl`.
+
+### Role → step map
+
+| Role token(s) | Maps to |
+|---------------|---------|
+| `--text-ui-xs`, `--text-ui-sm`, `--text-caption-sm/xs`, `--text-kicker*`, `--text-badge`, `--text-compact`, `--text-micro`, `--text-3xs` | `--text-2xs` |
+| `--text-ui`, `--text-ui-md`, `--text-caption`, `--text-body-sm` | `--text-sm` |
+| `--text-ui-lg`, `--text-input`, `--text-body-md`, `--text-base-sm`, `--text-prose-body`, `--text-prose-h4` | `--text-base` |
+| `--text-lead`, `--text-subtitle*`, `--text-title-sm`, `--text-prose-h3` | `--text-lg` |
+| `--text-title-md`, `--text-section-md`, `--text-prose-h3-lg`, `--text-icon-lg`, `--text-nav-icon` | `--text-xl` |
+| `--text-prose-h1`, `--text-prose-h2`, `--text-headline-sm`, `--text-logo`, `--text-icon-xl` | `--text-3xl` |
+| `--text-headline-md` | `--text-4xl` |
+| `--text-headline-lg/xl/2xl`, `--text-logo-lg`, `--text-entry-featured` | `--text-5xl` |
+| `--text-prose-h5`, `--text-prose-h6` | `--text-sm` |
+
+Fluid display (`--text-display-*` with `clamp`) and specials (`--text-display-name`, `--text-display-404*`) sit outside the discrete ladder.
 
 Weights: `--font-normal` (400) … `--font-black` (900). Headings often use semibold–extrabold.
 
-Line height / tracking: prefer `--leading-*` and `--tracking-*` (display titles use tighter tracking, e.g. `--tracking-display` / `--tracking-heading`).
+### Line height
+
+Short set: `--leading-none`, `--leading-display` (oversized glyphs only), `--leading-tight`, `--leading-snug`, `--leading-normal`, `--leading-relaxed`, `--leading-body`, `--leading-loose`, `--leading-prose`. Legacy names (`--leading-medium`, `--leading-body-plus`, `--leading-snug-plus`, …) alias onto this set.
+
+Tracking: prefer `--tracking-*` (display titles use tighter tracking, e.g. `--tracking-display` / `--tracking-heading`).
 
 ### Prose
 

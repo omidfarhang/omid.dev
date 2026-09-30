@@ -394,7 +394,7 @@
 }
 
 .experience-stack__icon i {
-    font-size: 1.25rem;
+    font-size: var(--text-xl);
     line-height: 1;
     width: auto;
 }

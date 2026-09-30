@@ -99,7 +99,7 @@
 }
 
 .dropdown__chevron {
-    font-size: 10px;
+    font-size: var(--text-2xs);
     opacity: 0.7;
     transition: transform 0.2s ease;
 }
