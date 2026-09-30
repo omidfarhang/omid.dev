@@ -67,7 +67,9 @@ Documented in `layouts/partials/head.html`. Load order matters.
 - Full-bleed band (content constrained to `--main-width` via inline padding), one flat surface — no nested panels or column cards, no decorative top bar.
 - Light mode: inverted ink band (`#0c0c0c`). Implemented by re-scoping tokens on `body:not(.dark) .footer`, so every footer rule follows automatically — add new footer styles with tokens, not raw colors.
 - Dark mode: raised band on `--entry`, one step above `--page-bg`, with a hairline top border.
-- Inside: identity + actions row, then open link columns with small uppercase headings; rows split by hairlines. Status dot uses `--status-success`.
+- Inside: three bands — identity + actions (actions end-aligned), feed (recent posts | notes), links (categories, explore, more, contact) — then the bottom bar. Bands are separated by generous block padding (`--space-10`) and one hairline each; columns share a `--space-12` gutter so feed columns line up with link columns. Status dot uses `--status-success`.
+- Hierarchy through type, not lines: headings are small uppercase `--secondary`, links are plain `--content` (post/note titles `--primary`), counts are muted numbers. No per-item hairlines, pills, or boxed email — list items are separated by spacing only.
+- Responsive: ≤1024px feed stacks and links go 2-up; ≤480px links stack.
 
 **Breakpoints (primary)**
 
