@@ -83,7 +83,7 @@
             "rtl" (eq .Language.Direction "rtl")
             "external" true
         ) }}
-        <div class="home-playground-card panel panel--accent">
+        <div class="home-playground-card">
             <div class="icon-circle icon-circle--sm icon-circle--filled home-playground-icon" aria-hidden="true">
                 <i class="fa-solid fa-play"></i>
             </div>
@@ -165,7 +165,7 @@
         <div class="life-links-home">
             {{- range $postsSection.Sections }}
             {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
-            <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link-home">
+            <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link-home"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>
                 <span class="icon-circle icon-circle--sm life-link-home-icon">
                     {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
                     {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
@@ -223,7 +223,7 @@
         {{- partial "home_section_heading.html" (dict
             "title" (i18n "contact")
         ) }}
-        <div class="contact-card panel panel--accent">
+        <div class="contact-card">
             <p>{{ $home.contactCta }}</p>
             <a href="{{ "contact-me" | relLangURL }}" class="btn btn--primary">
                 <span class="btn-inner">{{ i18n "contact" }}</span>

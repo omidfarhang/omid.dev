@@ -12,8 +12,9 @@
 {{- if $compact }}{{ $class = printf "%s post-entry--compact" $class }}{{ end -}}
 {{- if $hasCover }}{{ $class = printf "%s post-entry--has-cover" $class }}{{ end -}}
 {{- with .extraClass }}{{ $class = printf "%s %s" $class . }}{{ end -}}
+{{- $category := partial "post_category.html" $page -}}
 
-<article class="{{ $class }}">
+<article class="{{ $class }}"{{ with $category }} data-category="{{ . }}"{{ end }}>
   {{- if not $compact }}
     {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
   {{- end }}

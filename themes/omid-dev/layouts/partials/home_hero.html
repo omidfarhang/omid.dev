@@ -41,7 +41,7 @@
         <div class="home-hero-statement">
             <p class="section-eyebrow">{{ i18n "home_hero_eyebrow" }}</p>
             {{- with $home.heroTagline }}
-            <h2 class="home-hero-tagline">{{ . }}</h2>
+            <h2 class="home-hero-tagline">{{ . | markdownify }}</h2>
             {{- end }}
             {{- with $home.heroLead }}
             <p class="home-hero-lead">{{ . }}</p>

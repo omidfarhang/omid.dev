@@ -11,8 +11,8 @@ Stack: Hugo (no npm/Node build). Styles via Hugo Pipes.
 
 1. **Token-first.** Colors, type, spacing, motion, and radii live as CSS custom properties. Prefer tokens over raw values.
 2. **Compose, don’t duplicate.** Build pages from `system/` primitives + `components/` blocks; put one-off polish in `pages/`.
-3. **Steel editorial.** Cool slate neutrals with a faint blue page wash (`--page-bg`), ink text (`--primary`), and a steel-blue accent (`--accent`: `#3574b8`) for links, hovers, eyebrows, and CTAs — clearly blue but calmer than bright SaaS `#2563eb`, not gray `#334e68` slate.
-4. **Soft depth.** Resting surfaces use hairline borders or tint — not stacked boxes with soft shadows. Shadows are for hover lift and elevated exceptions (hero cards, page shell). Tinted gradients and a single faint hero wash — no heavy glow stacks, corner orbs, or tri-color chrome.
+3. **Mono editorial, small bold marks.** Neutral (untinted) greys, black and white. The accent *is* ink — black in light mode, white in dark — so buttons, active states, and links read monochrome. Color appears only as small, deliberate marks: a yellow highlighter (`--highlight*`) and four category colors (`--cat-*`) used as dots and underlines. No blue-tinted neutrals, no second full accent family.
+4. **Flat surfaces, one level of boxes.** Surfaces are solid (`--theme` / `--entry`) — no tinted gradients, glows, or washes. Cards sit directly on the page; never put bordered cards inside a bordered panel. Sections are separated by spacing and hairlines, not wrappers. Shadows are for hover only.
 5. **Multilingual by default.** English/German LTR; Persian (`fa`) RTL with Vazirmatn. Prefer logical properties (`margin-inline-*`, `inset-inline-*`) and `[dir="rtl"]` overrides where needed.
 6. **Dark mode as a first-class theme.** Tokens flip under `.dark` on `body`; avoid hard-coded light-only colors.
 7. **Reduced motion.** Honor `prefers-reduced-motion` (see `core/zmedia.css`).
@@ -52,7 +52,7 @@ Documented in `layouts/partials/head.html`. Load order matters.
 
 **Page shell**
 
-- `body` uses `--page-bg` (cool blue-gray wash).
+- `body` uses `--page-bg` (neutral off-white `#f4f4f2` light / near-black `#0a0a0a` dark); white `--theme` surfaces sit on it.
 - `.main` is centered, max-width `main-width + 2×gap`, min-height fills viewport minus header/footer.
 - `.page-content` is the boxed content surface: `--theme` background, `--radius`, `--shadow-md`, light border, generous padding (`--space-11`; tighter on mobile).
 
@@ -64,8 +64,10 @@ Documented in `layouts/partials/head.html`. Load order matters.
 
 **Footer**
 
-- Contained, rounded top, accent gradient hairline, soft tinted surface.
-- Identity + CTA panel, link columns, social / theme toggle.
+- Full-bleed band (content constrained to `--main-width` via inline padding), one flat surface — no nested panels or column cards, no decorative top bar.
+- Light mode: inverted ink band (`#0c0c0c`). Implemented by re-scoping tokens on `body:not(.dark) .footer`, so every footer rule follows automatically — add new footer styles with tokens, not raw colors.
+- Dark mode: raised band on `--entry`, one step above `--page-bg`, with a hairline top border.
+- Inside: identity + actions row, then open link columns with small uppercase headings; rows split by hairlines. Status dot uses `--status-success`.
 
 **Breakpoints (primary)**
 
@@ -83,25 +85,43 @@ Defined in `assets/css/core/theme-vars.css`. Semantic roles, not raw palette nam
 
 | Role | Token | Hex / notes |
 |------|-------|-------------|
-| Page wash | `--page-bg` | `#eef3f9` |
+| Page | `--page-bg` | `#f4f4f2` |
 | Surface | `--theme` | `#ffffff` |
 | Raised / entry | `--entry` | `#ffffff` |
-| Text / headings | `--primary` | `#0f172a` (slate-900) |
-| Muted UI | `--secondary` | `#64748b` |
-| Borders / rules | `--tertiary` | `#cbd5e1` |
-| Soft fill | `--quaternary` | `#eff6ff` |
-| Body copy | `--content` | `#334155` |
-| Border | `--border` | `#dbe4f0` |
-| Accent | `--accent` | Steel blue `#3574b8` (light); `#6eb4f0` (dark) |
-| Accent hover | `--accent-hover` | `#2a6299` (light); `#8ac4f5` (dark) |
-| Accent soft | `--accent-light` | Subtle neutral fill (`color-mix` with `--quaternary`) |
-| Code | `--code-bg`, `--code-block-bg` | `#f1f5f9` / `#1e293b` |
+| Text / headings | `--primary` | `#0c0c0c` |
+| Muted UI | `--secondary` | `#6a6a6a` |
+| Borders / rules | `--tertiary` | `#d4d4d4` |
+| Soft fill | `--quaternary` | `#f5f5f4` |
+| Body copy | `--content` | `#3a3a3a` |
+| Border | `--border` | `#e2e1de` |
+| Accent | `--accent` | Ink `#0c0c0c` |
+| Accent hover | `--accent-hover` | `#3a3a3a` |
+| Accent soft | `--accent-light` | Near-neutral fill (`color-mix` with `--quaternary`) |
+| Code | `--code-bg`, `--code-block-bg` | `#f5f5f4` / `#1c1c1c` |
 
-Accent derivatives (`--accent-ring`, `--accent-border*`, `--hero-glow*`, `--surface-tint*`) are rgba mixes from `--accent-rgb`. Prefer these for focus rings, hovers, and light surface tints — not ambient backgrounds.
+Accent derivatives (`--accent-ring`, `--accent-border*`, `--surface-tint*`) are rgba mixes from `--accent-rgb` — use them for focus rings and hover fills only. `--hero-glow*` are `transparent`, and `--surface-gradient-*` / `--surface-panel` resolve to flat `--theme`; they remain as tokens so existing rules stay valid.
 
 ### Dark (`.dark`)
 
-Same token names; surfaces invert to slate (`--theme` `#0f172a`, `--entry` `#1e293b`, `--page-bg` `#020617`). Accent shifts lighter (`#60a5fa`) for contrast. Article shell/body may diverge (`--surface-article-shell` / `--surface-article-body`).
+Same token names, neutral near-black (no navy): `--page-bg` `#0a0a0a`, `--theme` `#121212`, `--entry` `#171717`, `--border` `#2a2a2a`, text `#f5f5f4` / `#d4d4d4` / `#a3a3a3`. Accent is white (`#fafafa`), so primary buttons and active states invert to white-on-black. Surfaces are flat, like light mode.
+
+### Marks: highlighter & categories
+
+The only non-neutral colors in the UI chrome. Use them as small marks — dots, underlines, short rules — never as fills for large surfaces or borders on cards.
+
+| Token | Light | Dark | Use |
+|-------|-------|------|-----|
+| `--highlight` | `#ffe36e` | `rgba(255, 214, 10, 0.32)` | Marker band behind key phrases (hero tagline `em`) and link hover fill |
+| `--highlight-strong` | `#ffc400` | `#ffd60a` | Kicker rule (`.section-eyebrow::before`) |
+| `--link-mark` / `--link-mark-hover` | inset yellow underline / full marker fill | same, dimmer | `.post-content a` box-shadow |
+| `--cat-techblog` | `#2f5bff` | `#7b9bff` | Category marks |
+| `--cat-health` | `#00a86b` | `#34d399` | 〃 |
+| `--cat-electronics` | `#ffb000` | `#fbbf24` | 〃 |
+| `--cat-cozy-corner` | `#ff3d7f` | `#fb7fa8` | 〃 |
+
+`[data-category="…"]` sets `--cat-color` (fallback `--accent`). Templates get the slug from `partials/post_category.html` (the `posts/<section>/` folder, so it is language-independent). Current uses: post-card label dot (`.entry-category`), hover title underline on post cards, section-nav chip dots, and tinted icon wells on category cards (`.card--life[data-category]`).
+
+The hero tagline highlight is authored in data: wrap the phrase in `*…*` in `data/{lang}/home.yaml` (`heroTagline` is rendered with `markdownify`).
 
 ### Status (alerts / feedback)
 
@@ -115,7 +135,7 @@ Same token names; surfaces invert to slate (`--theme` `#0f172a`, `--entry` `#1e2
 
 ### Third-party brands
 
-`assets/css/core/brand-colors.css` — `--brand-*` tokens + `[data-brand="…"]` → `--brand-color` for social/dev icons. Dark mode lightens black marks (GitHub, X, etc.).
+`assets/css/core/brand-colors.css` — `--brand-*` tokens + `[data-brand="…"]` → `--brand-color` for social/dev icons. Icons rest in `--secondary` and show the brand color on hover. Dark mode (and the inverted light-mode footer) lightens black marks (GitHub, X, etc.).
 
 ### Theme switching
 
@@ -203,14 +223,14 @@ Semantic aliases: `--gap`, `--content-gap`, `--space-page`, `--space-hero-y` / `
 | Token | Use |
 |-------|-----|
 | `--shadow-sm` / `md` / `lg` | Default depth ladder |
-| `--shadow-accent` | Accent-tinted lift (CTAs, featured) |
+| `--shadow-accent` | Soft neutral lift on featured cards (hover) |
 | `--lift-hover` | `-2px` — `.effect-lift` on hover/focus-within |
-| `--surface-gradient-tinted` | Soft tinted panels |
-| `--surface-gradient-hero` | Hero washes |
-| `--surface-panel` / `--surface-raised` | Mixed accent surfaces |
+| `--surface-gradient-tinted` | Flat `--theme` (legacy name for "tinted" panels/cards) |
+| `--surface-gradient-hero` | Flat `--theme` (legacy name for hero surfaces) |
+| `--surface-panel` / `--surface-raised` | `--theme` / `--entry` |
 | `--focus-ring` | `0 0 0 3px var(--accent-ring)` |
 
-Heroes (home, page-hero) use a single top-center wash (`--surface-gradient-hero`) over a theme → page-bg fade — atmosphere, not corner orbs or overlay badges.
+Heroes (home, page-hero) are flat surfaces. Hierarchy comes from type, the highlighter, and spacing — no washes, glows, or corner orbs.
 
 ---
 
@@ -238,7 +258,8 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 ### Buttons (`.btn`)
 
 - Shape: rounded rectangle (`--radius-lg`), min-height 42px (36px for `--sm`).
-- Variants: `--primary` (ink fill → accent on hover), `--secondary` (outlined → accent on hover), `--accent` (accent fill for prominent CTAs).
+- Variants: `--primary` (ink fill; white fill in dark mode and in the light-mode footer), `--secondary` (outlined), `--accent` (accent fill).
+- Pair one `--primary` with `--secondary` for the rest; don't render two filled buttons side by side. `profile_mode_buttons.html` makes the first profile button primary and the others secondary (`btn_primary.html` accepts a `variant`).
 - Modifiers: `--sm`, `--block`, groups via `.btn-group` / `--column`.
 - Focus: `--focus-ring`.
 
@@ -253,7 +274,7 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 Surfaces for sidebars and section boxes: `--tinted`, `--hero-gradient`, `--hero` (elevated; keeps `--shadow-md`), `--accent`, `--sidebar` (sticky), `--section`, `--xl`, `--flush`.
 
-Base panel: hairline border, no resting shadow. **Nesting:** do not wrap bordered cards in a bordered section panel — section wraps use tint/spacing only (see Home).
+Base panel: flat `--theme` fill, hairline border, no resting shadow. **Nesting:** never put a panel or bordered card inside another panel — one level of boxes. If a section needs grouping, use spacing and hairlines (see Home, Footer).
 
 ### Chips (`.chip`)
 
@@ -261,7 +282,7 @@ Tags, filters, stats: `--default`, `--pill`, `--stat`, `--tag` (hash prefix), et
 
 ### Icons (`.icon-circle`)
 
-Accent-tinted circular icon wells; sizes from `--icon-xs` … `--icon-lg` via modifiers (`--2xs`, `--compact`, `--sm`, …).
+Neutral circular icon wells (accent fill on interactive hover; `--cat-color` tint on category cards); sizes from `--icon-xs` … `--icon-lg` via modifiers (`--2xs`, `--compact`, `--sm`, …).
 
 ### Feedback
 
@@ -283,7 +304,7 @@ Notable blocks in `assets/css/components/`:
 |-----------|------|
 | **header** | Sticky nav, theme toggle, mobile menu |
 | **footer** | CTA, columns, social, theme control |
-| **page-hero** | Gradient hero shell; contained vs split layouts |
+| **page-hero** | Flat hero shell; contained vs split layouts |
 | **section-heading** | Eyebrows (omit / context / mark), underline accent bar, centered titles, kickers |
 | **post-entry** | List/featured cards, entry links |
 | **post-single** | Article chrome, TOC, meta, series nav polish |
@@ -303,17 +324,24 @@ Small labels above titles are **not** a default section rhythm. Three roles:
 | Role | When | Treatment |
 |------|------|-----------|
 | **Omit** | Label repeats the title or adds no context | No eyebrow — title (+ underline) carries the section |
-| **Context** | Label names a *category* the title doesn’t | `.section-eyebrow` / `.section-kicker`: accent, hairline, sentence case, calm tracking |
+| **Context** | Label names a *category* the title doesn’t | `.section-eyebrow` / `.section-kicker`: ink text, short `--highlight-strong` rule, sentence case, calm tracking |
 | **Mark** | Rare brand/category stamp (e.g. footer identity kicker) | `.section-eyebrow--caps` / `.section-kicker--caps` or `.footer-eyebrow`: uppercase OK |
 
 Do not put an uppercase tracked eyebrow on every section. Resume document uppercase stays a print convention, separate from this system.
 
 ### Home
 
-- Full-bleed-feel hero with a single faint top wash + gradient into `--page-bg`.
-- Grid: profile visual | statement (tagline `--text-display-home`, lead, CTAs).
-- Sections: unboxed tinted bands (no border/shadow on section `.panel` wrappers); interactive cards inside carry the chrome; even `--home-band-gap` between bands.
+- Flat hero band (`--theme`) with a hairline bottom border.
+- Grid: profile visual | statement (yellow kicker rule, tagline `--text-display-home` with highlighted phrase, lead, primary + secondary CTA).
+- Sections: open bands directly on `--page-bg` — the section `.panel` wrappers lose fill, border, and radius and get a hairline top rule + `--space-11` top padding. Cards inside (now, series, reading paths, posts) are the only boxes.
+- Tech topics: Core Stack stays as featured cards; the long professional/technical groups render as a borderless link list (icon · name · count, hairline rows), not a wall of boxes.
+- CTA sections (playground, contact) are content + button, no inner card.
 - Headings: shared `home_section_heading` — title-led `section-title--underline` on every band, no section eyebrows.
+
+### Post cards
+
+- Category label above the title: small uppercase `--secondary` text with a `--cat-color` dot (`.entry-category`, links to the section).
+- Hover: title gets a 2px `--cat-color` underline. No colored side borders.
 
 ### Content pages
 
@@ -355,15 +383,19 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 - Use existing tokens and system classes before inventing new ones.
 - Extend partials rather than copying markup.
 - Match light/dark token pairs when introducing a new color role.
-- Keep heroes atmospheric (gradients/glows) and typography hierarchy clear.
+- Keep heroes flat; carry hierarchy with type, the highlighter, and spacing.
+- Keep color to small marks (highlighter, category dots/underlines, status).
 
 **Don’t**
 
 - Hard-code hex/px that already have tokens.
-- Introduce a second accent family (e.g. purple system) or warm-cream editorial skin.
+- Introduce a second accent family (blue, purple, …), blue-tinted neutrals, or a warm-cream editorial skin.
+- Use tinted gradients, glows, or washes on surfaces.
+- Nest boxes: panels in panels, cards in panels, footer columns as cards.
+- Add decorative top bars or gradient hairlines on panels, cards, or the footer.
 - Put page-only one-offs into `system/` without a variant API and multi-template use.
 - Rely on physical `left`/`right` when logical properties work (breaks RTL).
-- Use thick accent left borders as generic callout chrome — companion cards lean on icon + tinted surface, series nav uses a short section underline, blockquotes use typographic quote marks.
+- Use colored side borders (`border-inline-start` / `border-left` accents) on cards or callouts, rounded or not — companion cards lean on icon + surface, series nav uses a short section underline, blockquotes use typographic quote marks, categories use dots.
 - Commit `public/` or `resources/`.
 
 ---

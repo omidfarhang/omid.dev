@@ -128,6 +128,14 @@
     font-weight: var(--font-black);
 }
 
+.posts-section-nav .chip[data-category]::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--cat-color);
+}
+
 /* Posts grid */
 .posts-list-section {
     margin-bottom: var(--space-5);

@@ -1,0 +1,9 @@
+{{- /* Returns the posts/<section> folder slug (e.g. "techblog") or "" */ -}}
+{{- $slug := "" -}}
+{{- with .File -}}
+  {{- $parts := split (strings.TrimSuffix "/" (replace .Dir "\\" "/")) "/" -}}
+  {{- if and (ge (len $parts) 2) (eq (index $parts 0) "posts") -}}
+    {{- $slug = index $parts 1 -}}
+  {{- end -}}
+{{- end -}}
+{{- return $slug -}}

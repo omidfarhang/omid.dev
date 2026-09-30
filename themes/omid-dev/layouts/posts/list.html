@@ -95,7 +95,7 @@
       <h3 class="topics-subtitle topics-subtitle--rule">{{ i18n "life_interests" }}</h3>
       {{- range $postsSection.Sections }}
       {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
-      <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link">
+      <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>
         <span class="icon-circle icon-circle--xs life-link-icon">
           {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
           {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
@@ -145,7 +145,7 @@
   <a href="{{ $postsSection.Permalink }}" class="chip chip--pill">{{ i18n "all" }}</a>
   {{- range $postsSection.Sections }}
   {{- if ne .Title $.Title }}
-  <a href="{{ .Permalink }}" class="chip chip--pill">{{ .Title }}</a>
+  <a href="{{ .Permalink }}" class="chip chip--pill"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>{{ .Title }}</a>
   {{- end }}
   {{- end }}
 </nav>

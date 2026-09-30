@@ -247,6 +247,12 @@
     color: var(--primary);
 }
 
+.card--life[data-category] .icon-circle:not(.icon-circle--filled):not(.icon-circle--gradient) {
+    color: var(--cat-color);
+    background: color-mix(in srgb, var(--cat-color) 10%, var(--theme) 90%);
+    border-color: color-mix(in srgb, var(--cat-color) 25%, var(--border) 75%);
+}
+
 .card--life strong {
     display: block;
     font-size: var(--text-md);

@@ -109,7 +109,7 @@
     content: "";
     width: 22px;
     height: 2px;
-    background: var(--accent);
+    background: var(--highlight-strong);
     border-radius: var(--radius-pill);
     flex-shrink: 0;
 }

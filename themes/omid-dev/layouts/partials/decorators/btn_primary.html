@@ -2,7 +2,7 @@
 {{- if (findRE "^/" $button_url) -}}
   {{- $button_url = $button_url | relLangURL -}}
 {{- end -}}
-<a class="btn btn--primary" href="{{ $button_url }}" rel="noopener" title="{{ .name }}">
+<a class="btn {{ .variant | default "btn--primary" }}" href="{{ $button_url }}" rel="noopener" title="{{ .name }}">
   <span class="btn-inner">
     {{ templates.Inner . }}
     {{- if (findRE "://" .url) }}&nbsp;

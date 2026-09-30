@@ -3,6 +3,13 @@
   {{- if .featured -}}
   <span class="chip chip--accent">{{ with .badge }}{{ . }}{{ else }}{{ i18n "latest_post" }}{{ end }}</span>
   {{- end -}}
+  {{- with partial "post_category.html" $page -}}
+    {{- with site.GetPage (printf "/posts/%s" .) -}}
+      {{- if ne .Kind "home" }}
+  <a class="entry-category" href="{{ .Permalink }}">{{ .Title }}</a>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
   <header class="entry-header">
     <a aria-label="post link to {{ $page.Title | plainify }}" href="{{ $page.Permalink }}">
       <h2 class="entry-hint-parent">

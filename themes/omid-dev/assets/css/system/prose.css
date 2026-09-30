@@ -67,7 +67,7 @@ body:lang(fa) .post-content h6 {
 
 .post-content a {
     color: var(--accent);
-    box-shadow: 0 1px 0;
+    box-shadow: var(--link-mark);
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
     transition: var(--transition-base);
@@ -75,7 +75,7 @@ body:lang(fa) .post-content h6 {
 
 .post-content a:hover {
     color: var(--accent);
-    box-shadow: 0 2px 0 var(--accent);
+    box-shadow: var(--link-mark-hover);
 }
 
 .post-content a code {

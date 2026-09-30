@@ -6,26 +6,46 @@
 
 .footer {
     position: relative;
-    max-width: var(--main-width);
-    margin: 0 auto;
-    padding: var(--space-6);
-    overflow: hidden;
+    margin: var(--space-12) 0 0;
+    padding: var(--space-12) max(var(--space-6), calc((100% - var(--main-width)) / 2 + var(--space-6))) var(--space-7);
     text-align: start;
-    background: linear-gradient(145deg, var(--theme) 0%, var(--surface-tint) 100%), var(--entry);
-    border: 1px solid var(--border);
-    border-bottom: 0;
-    border-radius: calc(var(--radius) * 2) calc(var(--radius) * 2) 0 0;
-    box-shadow: var(--shadow-sm);
+    background: var(--entry);
+    border-top: 1px solid var(--border);
 }
 
-.footer::before {
-    content: "";
-    position: absolute;
-    inset-inline: 24px;
-    top: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--accent), transparent);
-    border-radius: 0 0 999px 999px;
+/* Light mode: one inverted ink band; tokens are re-scoped so every footer rule follows */
+body:not(.dark) .footer {
+    --theme: #0c0c0c;
+    --theme-rgb: 12, 12, 12;
+    --entry: #0c0c0c;
+    --primary: #fafafa;
+    --primary-rgb: 250, 250, 250;
+    --secondary: #a3a3a3;
+    --tertiary: #404040;
+    --quaternary: #1a1a1a;
+    --content: #d4d4d4;
+    --border: #2a2a2a;
+    --accent: #ffffff;
+    --accent-rgb: 255, 255, 255;
+    --accent-hover: #d4d4d4;
+    --accent-light: #1f1f1f;
+    --accent-border: rgba(255, 255, 255, 0.3);
+    --accent-border-soft: #3a3a3a;
+    --accent-ring: rgba(255, 255, 255, 0.3);
+    --surface-tint: rgba(255, 255, 255, 0.06);
+    --shadow-sm: none;
+    --shadow-md: none;
+    --brand-x: #ffffff;
+    --brand-github: #ffffff;
+    --brand-threads: #ffffff;
+    --brand-tiktok: #ffffff;
+    --brand-medium: #ffffff;
+    --brand-dev: #ffffff;
+    --brand-rust: #ffffff;
+    --brand-apple: #ffffff;
+    color: var(--secondary);
+    background: var(--theme);
+    border-top: 0;
 }
 
 .footer a {
@@ -43,10 +63,8 @@
     grid-template-columns: minmax(0, 1.45fr) minmax(280px, 0.55fr);
     gap: var(--space-7);
     align-items: center;
-    padding: var(--space-7);
-    background: rgba(var(--theme-rgb), 0.72);
-    border: 1px solid var(--border);
-    border-radius: calc(var(--radius) * 1.5);
+    padding-bottom: var(--space-8);
+    border-bottom: 1px solid var(--border);
 }
 
 .footer-identity {
@@ -101,10 +119,6 @@
     flex-direction: column;
     align-items: flex-start;
     gap: var(--space-4);
-    padding: var(--space-5);
-    background: var(--surface-gradient-tinted), var(--theme);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
 }
 
 .footer-status {
@@ -123,8 +137,8 @@
     height: 9px;
     margin-top: 0.42em;
     border-radius: 50%;
-    background: var(--accent);
-    box-shadow: 0 0 0 5px var(--accent-ring);
+    background: var(--status-success);
+    box-shadow: 0 0 0 4px rgba(var(--status-success-rgb), 0.18);
 }
 
 .footer-actions .btn {
@@ -134,13 +148,13 @@
 .footer-grid {
     display: flex;
     flex-direction: column;
-    gap: var(--space-5);
-    margin-top: var(--space-5);
+    gap: var(--space-8);
+    margin-top: var(--space-8);
 }
 
 .footer-row {
     display: grid;
-    gap: var(--space-5);
+    gap: var(--space-7);
     align-items: start;
 }
 
@@ -193,17 +207,10 @@
 
 .footer-column {
     min-width: 0;
-    padding: var(--space-5);
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow-sm);
 }
 
 .footer-column h3 {
-    position: relative;
     margin: 0 0 var(--space-4);
-    padding-bottom: var(--space-3);
     color: var(--primary);
     font-size: var(--text-caption-sm);
     font-weight: var(--font-extrabold);
@@ -214,17 +221,6 @@
 
 [dir="rtl"] .footer-column h3 {
     letter-spacing: normal;
-}
-
-.footer-column h3::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    inset-inline-start: 0;
-    width: 36px;
-    height: 3px;
-    background: var(--accent);
-    border-radius: 999px;
 }
 
 .footer-column ul {
@@ -465,16 +461,7 @@
 @media (max-width: 768px) {
     .footer {
         margin-top: var(--space-11);
-        padding: var(--space-5);
-        border-radius: var(--radius) var(--radius) 0 0;
-    }
-
-    .footer::before {
-        inset-inline: 18px;
-    }
-
-    .footer-cta {
-        padding: var(--space-5);
+        padding: var(--space-10) var(--space-5) var(--space-5);
     }
 
     .footer-identity {
@@ -493,12 +480,7 @@
 
 @media (max-width: 480px) {
     .footer {
-        padding: var(--space-4);
-    }
-
-    .footer-cta,
-    .footer-column {
-        padding: var(--space-5);
+        padding: var(--space-9) var(--space-4) var(--space-4);
     }
 
     .footer-actions,

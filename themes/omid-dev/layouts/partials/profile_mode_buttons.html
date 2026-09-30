@@ -1,6 +1,6 @@
 {{- with partial "decorators/btn_group.html" (dict "class" (.class | default "") "buttons" .buttons) -}}
-  {{- range .buttons -}}
-    {{- with partial "decorators/btn_primary.html" . -}}
+  {{- range $i, $btn := .buttons -}}
+    {{- with partial "decorators/btn_primary.html" (merge $btn (dict "variant" (cond (eq $i 0) "btn--primary" "btn--secondary"))) -}}
       {{- .name -}}
     {{- end -}}
   {{- end -}}

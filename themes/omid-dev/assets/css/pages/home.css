@@ -67,6 +67,13 @@
     color: var(--primary);
 }
 
+.home-hero-tagline em {
+    font-style: normal;
+    background: linear-gradient(transparent 62%, var(--highlight) 62%);
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
 .home-hero-lead {
     margin: 0;
     font-size: var(--text-subtitle);
@@ -111,31 +118,23 @@
 .home-identity-panel {
     display: grid;
     grid-template-columns: minmax(0, 1.08fr) minmax(300px, 0.92fr);
-    gap: 42px;
+    gap: var(--space-12);
     align-items: start;
-    padding: 42px;
-    position: relative;
-    overflow: hidden;
 }
 
 .home-content .home-section.panel,
 .home-content .home-panel.panel {
+    padding: var(--space-11) 0 0;
+    background: none;
     border: 0;
+    border-top: 1px solid var(--border);
+    border-radius: 0;
     box-shadow: none;
 }
 
-.home-content .home-section.panel:not(.home-identity-panel),
-.home-content .home-panel.panel {
-    padding: var(--space-hero-y);
-}
-
-.home-identity-panel::before {
-    content: "";
-    position: absolute;
-    inset-inline: 42px;
-    top: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--accent), transparent);
+.home-content .home-identity-panel.panel {
+    padding-top: 0;
+    border-top: 0;
 }
 
 .identity-principles {
@@ -301,23 +300,46 @@
     grid-template-columns: repeat(auto-fit, minmax(148px, 1fr));
 }
 
+.tech-topics-section--bold .topics-grid--bold,
+.tech-topics-section--bold .topics-grid--professional-bold {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0 var(--space-8);
+}
+
 .tech-topics-section--bold .topics-grid--bold .card--topic {
-    padding: var(--space-5) var(--space-3);
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) 0;
+    text-align: start;
+    background: none;
+    border: 0;
+    border-bottom: 1px solid var(--border);
+    border-radius: 0;
+    box-shadow: none;
 }
 
 .tech-topics-section--bold .topics-grid--bold .icon-circle {
-    width: 44px;
-    height: 44px;
-    font-size: var(--text-base);
-    margin-bottom: var(--space-3);
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    font-size: var(--text-sm);
 }
 
 .tech-topics-section--bold .topics-grid--bold .card--topic h3 {
+    margin: 0;
     font-size: var(--text-ui-md);
 }
 
 .tech-topics-section--bold .topics-grid--bold .card--topic p {
+    margin-inline-start: auto;
     font-size: var(--text-badge);
+    white-space: nowrap;
+}
+
+.tech-topics-section--bold .topics-grid--bold .card--topic:hover h3 {
+    text-decoration: underline;
+    text-underline-offset: 3px;
 }
 
 /* Life & Interests */
@@ -351,10 +373,6 @@
     text-transform: none;
     color: var(--secondary);
     border-bottom: 1px solid var(--border);
-}
-
-.recent-posts .post-entry--list {
-    background: transparent;
 }
 
 .recent-posts .post-entry--featured {
@@ -417,7 +435,6 @@
     grid-template-columns: auto 1fr auto;
     gap: var(--space-5);
     align-items: center;
-    padding: var(--space-6);
 }
 
 .home-playground-lede {
@@ -432,9 +449,8 @@
     text-align: start;
 }
 
-.contact-card.panel--accent {
+.contact-card {
     color: var(--primary);
-    padding: var(--space-7);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -497,10 +513,13 @@
         grid-template-columns: 1fr;
     }
 
-    .home-identity-panel,
-    .home-content .home-section.panel:not(.home-identity-panel),
+    .home-content .home-section.panel,
     .home-content .home-panel.panel {
-        padding: var(--space-6);
+        padding-top: var(--space-8);
+    }
+
+    .home-content .home-identity-panel.panel {
+        padding-top: 0;
     }
 
     .home-playground-card {
