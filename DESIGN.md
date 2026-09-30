@@ -269,7 +269,7 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 - Base: theme fill, hairline border, `--radius-lg` — no resting shadow.
 - Interactive: `--shadow-md` on hover only.
-- Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`), `--fill`.
+- Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`; `.topics-grid--list` turns topic cards into hairline rows inside `.tech-topics-section--list`), `--fill`.
 - **Equal-height grids:** add `--fill` so the card stretches to the grid cell. Put content in `.card__body` (flex column); `.card__cta` pins to the bottom via `margin-top: auto`, so CTAs stay aligned across a row even when titles wrap.
 
 ### Panels (`.panel`)
@@ -336,7 +336,7 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 - Flat hero band (`--theme`) with a hairline bottom border.
 - Grid: profile visual | statement (yellow kicker rule, tagline `--text-display-home` with highlighted phrase, lead, primary + secondary CTA).
 - Sections: open bands directly on `--page-bg` — the section `.panel` wrappers lose fill, border, and radius and get a hairline top rule + `--space-11` top padding. Cards inside (now, series, reading paths, posts) are the only boxes.
-- Tech topics: Core Stack stays as featured cards; the long professional/technical groups render as a borderless link list (icon · name · count, hairline rows), not a wall of boxes.
+- Tech topics: Core Stack stays as featured cards; the long professional/technical groups render as a borderless link list (icon · name · count, hairline rows), not a wall of boxes. Same list variant on the TechBlog hub (`tech_topics_grid.html` with `"list" true`).
 - CTA sections (playground, contact) are content + button, no inner card.
 - Headings: shared `home_section_heading` — title-led `section-title--underline` on every band, no section eyebrows.
 

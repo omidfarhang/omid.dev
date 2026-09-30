@@ -180,6 +180,81 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+/* List variant: core stack as tiles, other tags as hairline rows */
+.tech-topics-section--list .topics-subtitle,
+.tech-topics-section--list .topics-subtitle--core {
+    text-align: start;
+    color: var(--secondary);
+    font-size: var(--text-ui);
+    font-weight: var(--font-bold);
+    letter-spacing: var(--tracking-wide);
+    text-transform: none;
+    margin: var(--space-8) 0 var(--space-4);
+}
+
+.tech-topics-section--list .topics-subtitle:first-of-type,
+.tech-topics-section--list .topics-subtitle--core {
+    margin-top: 0;
+}
+
+.tech-topics-section--list .topics-grid--core {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: var(--space-3);
+    margin-bottom: var(--space-2);
+}
+
+.tech-topics-section--list .card--topic.card--accent {
+    padding: var(--space-4) var(--space-3);
+}
+
+.tech-topics-section--list .card--topic.card--accent .icon-circle {
+    width: 44px;
+    height: 44px;
+    font-size: var(--text-subtitle-lg);
+    margin-bottom: var(--space-3);
+}
+
+.topics-grid--list {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0 var(--space-8);
+}
+
+.topics-grid--list .card--topic {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) 0;
+    text-align: start;
+    background: none;
+    border: 0;
+    border-bottom: 1px solid var(--border);
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.topics-grid--list .icon-circle {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    font-size: var(--text-sm);
+}
+
+.topics-grid--list .card--topic h3 {
+    margin: 0;
+    font-size: var(--text-ui-md);
+}
+
+.topics-grid--list .card--topic p {
+    margin-inline-start: auto;
+    font-size: var(--text-badge);
+    white-space: nowrap;
+}
+
+.topics-grid--list .card--topic:hover h3 {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
 .card--topic-compact {
     display: grid;
     grid-template-columns: 24px minmax(0, 1fr);

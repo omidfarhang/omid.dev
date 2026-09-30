@@ -19,10 +19,6 @@
     margin-top: var(--space-9);
 }
 
-.posts-list-content .tech-topics-section > .topics-grid--core {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-}
-
 .blog-index-layout {
     gap: var(--space-9);
 }
