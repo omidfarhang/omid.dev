@@ -10,6 +10,7 @@ Read `AGENTS.md` at the repository root for build commands, layout, and workflow
 This is a Hugo static site (`hugo.yaml`, theme `themes/omid-dev`). Search uses Pagefind (post-build via `npx`).
 
 - Keep changes minimal and focused.
-- Do not commit `public/`, `resources/`, `static/pagefind/`, or secrets.
+- Do not commit `public/`, `resources/`, `static/pagefind/`, `.tmp/`, or secrets.
 - Only create git commits when the user explicitly asks.
 - Run `hugo --minify` after template or config changes; fix build errors before finishing. For search changes, also run `./scripts/pagefind-index.sh`.
+- The owner serves locally with `./scripts/hugo-server-dev.sh` (`.tmp/hugo-server`, port 1314). Agents must not use that script; verify with default `hugo server` / `hugo --minify` (`public/`, port 1313) so sessions do not conflict. Do not delete `.tmp/` when cleaning.

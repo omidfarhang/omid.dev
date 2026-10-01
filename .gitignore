@@ -57,6 +57,7 @@ public
 dist
 resources
 static/pagefind
+.tmp/
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git

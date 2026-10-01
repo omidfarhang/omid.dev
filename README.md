@@ -13,7 +13,7 @@ Runnable companions for posts live in [example-projects](https://github.com/omid
 - Python 3 maintenance scripts
 - English (`en`, default), Persian (`fa`, RTL), German (`de`)
 
-Production config is `hugo.yaml`. `hugo server` also loads `hugo.development.yaml`.
+Site config is `hugo.yaml`.
 
 ## Requirements
 
@@ -29,7 +29,7 @@ hugo version   # should include "extended"
 ## Local development
 
 ```bash
-hugo server      # http://localhost:1313 — uses hugo.development.yaml
+hugo server      # http://localhost:1313
 hugo server -D   # include drafts
 ```
 

@@ -7,7 +7,7 @@ Instructions for AI coding agents working on [omid.dev](https://omid.dev/) — a
 - **Stack:** [Hugo](https://gohugo.io/) (extended, v0.163+), custom theme `themes/omid-dev`, Python 3 maintenance scripts, [Pagefind](https://pagefind.app/) for site search (post-build via `npx`)
 - **Languages:** English (`en`, default), Persian (`fa`, RTL), German (`de`)
 - **Content:** Long-form posts, short notes, static pages (about, resume, contact, etc.)
-- **Config:** `hugo.yaml` (production), `hugo.development.yaml` (auto-loaded by `hugo server`)
+- **Config:** `hugo.yaml`
 
 Hugo is the primary build tool. Pagefind runs after Hugo to generate the search index (`public/pagefind/`).
 
@@ -30,12 +30,16 @@ Hugo is the primary build tool. Pagefind runs after Hugo to generate the search 
 
 ## Build and dev commands
 
-```bash
-# Local dev server (uses hugo.development.yaml automatically)
-hugo server
+The site owner runs a personal live server via `./scripts/hugo-server-dev.sh` (writes to `.tmp/hugo-server`, listens on **:1314**). Agents must **not** use that script. When building or serving to verify work, use the defaults below (`public/`, **:1313**) so you do not collide with the owner's session.
 
-# Include drafts
+```bash
+# Agent / default local server
+hugo server
 hugo server -D
+
+# Owner-only: parallel serve that leaves public/ and :1313 alone — do not use in agent workflows
+# ./scripts/hugo-server-dev.sh
+# ./scripts/hugo-server-dev.sh -D
 
 # Production build (Hugo + Pagefind search index)
 hugo --minify
@@ -44,7 +48,7 @@ hugo --minify
 # Index only (after an existing public/ build); also mirrors to static/pagefind for hugo server
 ./scripts/pagefind-index.sh
 
-# Clean build artifacts
+# Clean build artifacts (do not remove .tmp/ — that is the owner's serve output)
 rm -rf public resources static/pagefind
 ```
 

@@ -4,6 +4,9 @@ theme: omid-dev
 copyright: '© 2026 Omid Farhang | All rights reserved.'
 defaultContentLanguage: en
 
+pagination:
+  pagerSize: 15
+
 # Permalinks
 permalinks:
   posts: /:year/:month/:day/:slug/
