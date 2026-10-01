@@ -123,46 +123,46 @@
   translation: "استک اصلی"
 
 - id: home_playground_link
-  translation: "باز کردن پلی‌گراند"
+  translation: "ورود به پلی‌گراند"
 
 - id: home_playground_cta
-  translation: "امتحان دموهای زنده"
+  translation: "دموهای زنده را امتحان کنید"
 
 - id: playground_sections
   translation: "بخش‌های پلی‌گراند"
 
 - id: playground_hero_note
-  translation: "سورس در"
+  translation: "کد منبع در مخزن"
 
 - id: playground_stats_label
-  translation: "شمارش کاتالوگ"
+  translation: "آمار مجموعه"
 
 - id: playground_labs
-  translation: "لاب‌ها"
+  translation: "آزمایشگاه‌ها"
 
 - id: playground_labs_lede
-  translation: "شبیه‌سازی‌های مستقل برای کاوش — عمیق‌تر از نمونه‌های همراه مقاله."
+  translation: "شبیه‌سازی‌های مستقلی برای آزمون و کاوش؛ مفصل‌تر از نمونه‌های همراه مقاله."
 
 - id: playground_companions
   translation: "نمونه‌های همراه مقاله"
 
 - id: playground_companions_short
-  translation: "نمونه‌ها"
+  translation: "نمونه‌های همراه"
 
 - id: playground_companions_lede
-  translation: "بیلدهای استاتیک روی playground.omid.dev — دمو را باز کنید، سپس مقاله را بخوانید."
+  translation: "نسخه‌های آماده روی playground.omid.dev؛ دمو را اجرا کنید و برای آشنایی بیشتر، مقاله را بخوانید."
 
 - id: playground_source_only
-  translation: "فقط کلون"
+  translation: "نمونه‌های نیازمند اجرای محلی"
 
 - id: playground_source_only_short
-  translation: "فقط کلون"
+  translation: "اجرای محلی"
 
 - id: playground_source_only_lede
-  translation: "Firebase، سرور API، ابزار لینوکس یا نوت‌بوک — هنوز به‌صورت دموی مرورگری در دسترس نیستند."
+  translation: "نمونه‌های مبتنی بر Firebase، سرور API، ابزارهای بومی لینوکس یا نوت‌بوک‌ها هنوز به‌صورت دموی ایستا در مرورگر اجرا نمی‌شوند."
 
 - id: playground_open_demo
-  translation: "باز کردن دمو"
+  translation: "اجرای دمو"
 
 - id: playground_read_article
   translation: "خواندن مقاله"
@@ -171,7 +171,7 @@
   translation: "مقالات"
 
 - id: playground_source
-  translation: "سورس"
+  translation: "کد منبع"
 
 - id: latest_post
   translation: "جدیدترین"

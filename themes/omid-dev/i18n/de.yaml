@@ -129,37 +129,37 @@
   translation: "Live-Demos testen"
 
 - id: playground_sections
-  translation: "Playground-Abschnitte"
+  translation: "Playground-Bereiche"
 
 - id: playground_hero_note
-  translation: "Quellcode in"
+  translation: "Quellcode im Repository"
 
 - id: playground_stats_label
-  translation: "Katalogzahlen"
+  translation: "Katalogübersicht"
 
 - id: playground_labs
-  translation: "Labs"
+  translation: "Experimente"
 
 - id: playground_labs_lede
-  translation: "Eigenständige Simulationen zum Ausprobieren — tiefer als Artikel-Begleiter."
+  translation: "Eigenständige Simulationen zum Ausprobieren und Erkunden – ausführlicher als die Beispiele zu den Artikeln."
 
 - id: playground_companions
-  translation: "Artikel-Begleiter"
+  translation: "Beispiele zu den Artikeln"
 
 - id: playground_companions_short
-  translation: "Begleiter"
+  translation: "Beispiele"
 
 - id: playground_companions_lede
-  translation: "Statische Builds auf playground.omid.dev — öffne die Demo, dann den Artikel."
+  translation: "Direkt ausführbare Versionen auf playground.omid.dev – probiere eine Demo aus und lies den zugehörigen Artikel für mehr Hintergrund."
 
 - id: playground_source_only
-  translation: "Nur zum Klonen"
+  translation: "Beispiele zur lokalen Ausführung"
 
 - id: playground_source_only_short
-  translation: "Nur klonen"
+  translation: "Lokal ausführen"
 
 - id: playground_source_only_lede
-  translation: "Firebase, API-Server, native Linux-Tools oder Notebooks — noch keine statischen Browser-Demos."
+  translation: "Beispiele mit Firebase, API-Servern, nativen Linux-Werkzeugen oder Notebooks – derzeit noch nicht als statische Browser-Demos verfügbar."
 
 - id: playground_open_demo
   translation: "Demo öffnen"
