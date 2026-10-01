@@ -78,9 +78,10 @@
                     {{- with .Site.Taxonomies.categories }}
                     {{ range first 5 .ByCount }}
                     {{- $section := site.GetPage (printf "posts/%s" (.Name | urlize)) }}
+                    {{- $label := or $section .Page -}}
                     <li>
-                        <a href="{{ (or $section .Page).Permalink }}">
-                            <span>{{ .Page.Title }}</span>
+                        <a href="{{ $label.Permalink }}">
+                            <span>{{ $label.Title }}</span>
                             <small>{{ .Count }}</small>
                         </a>
                     </li>
