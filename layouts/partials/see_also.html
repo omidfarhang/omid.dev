@@ -2,23 +2,22 @@
 {{- $entries := .Scratch.Get "seeAlsoEntries" -}}
 {{- if not $entries -}}{{- return -}}{{- end -}}
 
-<div class="see-also-posts">
-  <h3 class="see-also-title">{{ i18n "see_also_title" }}</h3>
-  <div class="see-also-grid related-grid">
+<section class="post-continue see-also-posts">
+  <h3 class="post-continue-title">{{ i18n "see_also_title" }}</h3>
+  <ul class="post-continue-list">
     {{- range $entries -}}
     {{- $target := .Page -}}
     {{- $title := .Label | default $target.Title -}}
-    <a class="see-also-card related-card card card--interactive card--related" href="{{ $target.Permalink }}">
-      <div class="related-card-content">
-        <h4 class="related-card-title">{{ $title }}</h4>
+    <li class="post-continue-item">
+      <a class="post-continue-row" href="{{ $target.Permalink }}">
+        <span class="post-continue-label">{{ $title }}</span>
         {{- if $target.Date -}}
-        <div class="related-card-meta">
-          <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        <span class="post-continue-meta">
           {{- partial "display_date.html" (dict "date" $target.Date "lang" $target.Lang "style" "short") -}}
-        </div>
+        </span>
         {{- end -}}
-      </div>
-    </a>
+      </a>
+    </li>
     {{- end -}}
-  </div>
-</div>
+  </ul>
+</section>

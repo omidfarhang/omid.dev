@@ -354,7 +354,7 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 
 - Prose in `.post-content`; code blocks with Chroma; copy button on hover.
 - Mermaid diagrams (```mermaid` fences or `mermaid` shortcode) render as `.mermaid-figure` panels; library loads only on pages that include one.
-- Series / seeAlso / reading paths are content features — style via post-single + reading-path page CSS.
+- **Post-end discovery** (series, see also, related) and **Join the Conversation** are open hairline bands — numbered/linked rows and platform chips, not bordered cards or nested panels. Order: series → see also → tags → related → discussion. Reading paths keep their own page CSS.
 - **Post meta:** flat typography row (author · date · reading time) under a hairline — not nested chips in a panel. Share/Translations triggers stay chips; open menus are a flat list inside one panel (no chips-inside-chips).
 
 ---

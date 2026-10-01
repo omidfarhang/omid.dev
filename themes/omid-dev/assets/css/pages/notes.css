@@ -167,10 +167,12 @@
 
 .note-webmentions-wrap {
     margin-top: var(--space-6);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--border);
 }
 
 .note-webmentions-wrap .webmentions-container {
-    padding: var(--space-5);
+    padding: var(--space-5) 0 0;
 }
 
 .note-webmentions-wrap .webmentions-header {
