@@ -1,6 +1,7 @@
 /* Menus — site-wide opt-in primitive (dropdown)
    Used by: post meta share/translations (`.dropdown`)
-   Layout/polish in: post-single.css (article-meta chip menus)
+   Flat list inside one panel — never nest chips/cards in the menu.
+   Layout/polish in: post-single.css (article-meta)
 */
 
 .dropdown {
@@ -18,7 +19,7 @@
     gap: var(--space-2);
     padding: var(--space-2) var(--space-3);
     border: 1px solid var(--border);
-    border-radius: 20px;
+    border-radius: var(--radius);
     background: var(--quaternary);
     color: var(--primary);
     font-size: var(--text-xs);
@@ -43,13 +44,13 @@
     z-index: 100;
     width: max-content;
     min-width: 200px;
-    max-width: min(330px, calc(100vw - var(--space-6)));
+    max-width: min(280px, calc(100vw - var(--space-6)));
     padding: var(--space-2) 0;
     overflow: hidden;
     border: 1px solid var(--border);
     border-radius: var(--radius);
     background-color: var(--theme);
-    box-shadow: var(--shadow-lg);
+    box-shadow: var(--shadow-md);
 }
 
 [dir="rtl"] .dropdown__menu {
@@ -59,43 +60,35 @@
 
 .dropdown.active .dropdown__menu {
     display: block;
-    animation: dropdown-slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    animation: dropdown-slide-up 0.2s ease-out;
 }
 
-.dropdown__item:not(.chip) {
+.dropdown__item {
     display: flex;
     align-items: center;
     gap: var(--space-3);
-    padding: var(--space-3) var(--space-4);
+    padding: var(--space-2) var(--space-4);
     color: var(--primary);
     font-size: var(--text-sm);
+    font-weight: var(--font-medium);
     text-decoration: none;
-    transition: var(--transition-base);
+    transition: background-color 0.15s ease, color 0.15s ease;
 }
 
-.dropdown__item:not(.chip):hover {
+.dropdown__item:hover {
     background-color: var(--quaternary);
     color: var(--accent);
 }
 
-/* Chip-based menu variant — grid/flex layout set by consumer context */
-.dropdown__menu--chips {
-    display: none;
-    gap: var(--space-2);
-    padding: var(--space-3);
-    overflow: visible;
+.dropdown__item i {
+    flex-shrink: 0;
+    width: 1.125rem;
+    text-align: center;
+    color: var(--secondary);
 }
 
-.dropdown.active .dropdown__menu--chips {
-    display: grid;
-    grid-template-columns: 1fr;
-    animation: dropdown-slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-}
-
-.dropdown__menu--chips .chip {
-    justify-content: flex-start;
-    width: 100%;
-    min-width: 0;
+.dropdown__item:hover i {
+    color: inherit;
 }
 
 .dropdown__chevron {
@@ -111,7 +104,7 @@
 @keyframes dropdown-slide-up {
     from {
         opacity: 0;
-        transform: translateY(10px);
+        transform: translateY(4px);
     }
 
     to {

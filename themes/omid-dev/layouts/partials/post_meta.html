@@ -61,9 +61,9 @@
         <span>{{- i18n "translations" | default "Translations" -}}</span>
         <i class="fas fa-chevron-down dropdown__chevron" aria-hidden="true"></i>
     </button>
-    <div class="dropdown__menu dropdown__menu--chips" role="menu">
+    <div class="dropdown__menu" role="menu">
         {{- range $context.Translations }}
-        <a href="{{ .Permalink }}" class="chip chip--pill dropdown__item" role="menuitem">
+        <a href="{{ .Permalink }}" class="dropdown__item" role="menuitem">
             <span class="lang-flag">
                 {{- if (and $context.Site.Params.displayFullLangName (.Language.Label)) }}
                 {{- .Language.Label | emojify -}}
@@ -85,7 +85,7 @@
         <span>{{- i18n "share" | default "Share" -}}</span>
         <i class="fas fa-chevron-down dropdown__chevron" aria-hidden="true"></i>
     </button>
-    <div class="dropdown__menu dropdown__menu--chips" role="menu">
+    <div class="dropdown__menu" role="menu">
         {{- $pageurl := $context.Permalink }}
         {{- $shortpageurl := ($context.Param "shortlink") | default $context.Permalink }}
         {{- $title := $context.Title }}
@@ -97,56 +97,56 @@
             {{- range . }}{{ $hashtags.Add "tags" (slice (replaceRE "(\\s)" "" . ))}}{{end}}
             {{- $tags = (delimit ($hashtags.Get "tags") ",") }}
         {{- end }}
-        
-        <a href="#" id="share-native" class="chip chip--pill dropdown__item" role="menuitem" data-native-share hidden onclick="navigator.share({title: '{{ $title | safeJS }}', text: '{{ $title | safeJS }}', url: '{{ $pageurl | safeJS }}'}).catch(e => console.log(e)); return false;">
+
+        <a href="#" id="share-native" class="dropdown__item" role="menuitem" data-native-share hidden onclick="navigator.share({title: '{{ $title | safeJS }}', text: '{{ $title | safeJS }}', url: '{{ $pageurl | safeJS }}'}).catch(e => console.log(e)); return false;">
             <i class="fas fa-share-nodes"></i>
             <span>{{ i18n "share_native" | default "System Share" }}</span>
         </a>
-        <a href="#" class="chip chip--pill dropdown__item" role="menuitem" onclick="copyContent('{{ $shortpageurl }}'); return false;">
+        <a href="#" class="dropdown__item" role="menuitem" onclick="copyContent('{{ $shortpageurl }}'); return false;">
             <i class="fas fa-link"></i>
             <span>{{ i18n "copy_link" | default "Copy Link" }}</span>
         </a>
-        <a href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="bluesky" target="_blank" rel="noopener noreferrer">
+        <a href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}" class="dropdown__item" role="menuitem" data-brand="bluesky" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-bluesky"></i>
             <span>{{ i18n "share_bluesky" | default "Bluesky" }}</span>
         </a>
-        <a href="https://www.threads.net/intent/post?text={{ $shareText | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="threads" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.threads.net/intent/post?text={{ $shareText | urlquery }}" class="dropdown__item" role="menuitem" data-brand="threads" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-threads"></i>
             <span>{{ i18n "share_threads" | default "Threads" }}</span>
         </a>
-        <a href="https://mastodon.social/share?text={{ $shareText | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="mastodon" target="_blank" rel="noopener noreferrer">
+        <a href="https://mastodon.social/share?text={{ $shareText | urlquery }}" class="dropdown__item" role="menuitem" data-brand="mastodon" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-mastodon"></i>
             <span>{{ i18n "share_mastodon" | default "Mastodon" }}</span>
         </a>
-        <a href="https://x.com/intent/post/?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}{{ with $tags }}&amp;hashtags={{ . | urlquery }}{{ end }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="x" target="_blank" rel="noopener noreferrer">
+        <a href="https://x.com/intent/post/?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}{{ with $tags }}&amp;hashtags={{ . | urlquery }}{{ end }}" class="dropdown__item" role="menuitem" data-brand="x" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-x-twitter"></i>
             <span>{{ i18n "share_x" | default "X" }}</span>
         </a>
-        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl | urlquery }}&amp;title={{ $title | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="linkedin" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $shortpageurl | urlquery }}&amp;title={{ $title | urlquery }}" class="dropdown__item" role="menuitem" data-brand="linkedin" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-linkedin"></i>
             <span>{{ i18n "share_linkedin" | default "LinkedIn" }}</span>
         </a>
-        <a href="https://reddit.com/submit?url={{ $shortpageurl | urlquery }}&title={{ $title | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="reddit" target="_blank" rel="noopener noreferrer">
+        <a href="https://reddit.com/submit?url={{ $shortpageurl | urlquery }}&title={{ $title | urlquery }}" class="dropdown__item" role="menuitem" data-brand="reddit" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-reddit-alien"></i>
             <span>{{ i18n "share_reddit" | default "Reddit" }}</span>
         </a>
-        <a href="https://telegram.me/share/url?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="telegram" target="_blank" rel="noopener noreferrer">
+        <a href="https://telegram.me/share/url?text={{ $title | urlquery }}&amp;url={{ $shortpageurl | urlquery }}" class="dropdown__item" role="menuitem" data-brand="telegram" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-telegram"></i>
             <span>{{ i18n "share_telegram" | default "Telegram" }}</span>
         </a>
-        <a href="https://api.whatsapp.com/send?text={{ $shareText | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="whatsapp" target="_blank" rel="noopener noreferrer">
+        <a href="https://api.whatsapp.com/send?text={{ $shareText | urlquery }}" class="dropdown__item" role="menuitem" data-brand="whatsapp" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-whatsapp"></i>
             <span>{{ i18n "share_whatsapp" | default "WhatsApp" }}</span>
         </a>
-        <a href="mailto:?subject={{ $title | urlquery }}&amp;body={{ $shareText | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem">
+        <a href="mailto:?subject={{ $title | urlquery }}&amp;body={{ $shareText | urlquery }}" class="dropdown__item" role="menuitem">
             <i class="fas fa-envelope"></i>
             <span>{{ i18n "email" | default "Email" }}</span>
         </a>
-        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="facebook" target="_blank" rel="noopener noreferrer">
+        <a href="https://facebook.com/sharer/sharer.php?u={{ $shortpageurl | urlquery }}" class="dropdown__item" role="menuitem" data-brand="facebook" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-facebook"></i>
             <span>{{ i18n "share_facebook" | default "Facebook" }}</span>
         </a>
-        <a href="https://news.ycombinator.com/submitlink?t={{ $title | urlquery }}&u={{ $pageurl | urlquery }}" class="chip chip--pill dropdown__item" role="menuitem" data-brand="hacker-news" target="_blank" rel="noopener noreferrer">
+        <a href="https://news.ycombinator.com/submitlink?t={{ $title | urlquery }}&u={{ $pageurl | urlquery }}" class="dropdown__item" role="menuitem" data-brand="hacker-news" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-y-combinator"></i>
             <span>{{ i18n "share_hacker_news" | default "Hacker News" }}</span>
         </a>
