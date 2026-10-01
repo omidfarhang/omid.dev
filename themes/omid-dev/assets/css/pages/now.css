@@ -63,11 +63,6 @@
     font-weight: var(--font-semibold);
 }
 
-[dir="rtl"] .now-status-panel {
-    border-inline-start: none;
-    border-inline-end: 4px solid var(--accent);
-}
-
 @media screen and (max-width: 900px) {
     .now-focus-list {
         grid-template-columns: 1fr;

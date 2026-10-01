@@ -11,10 +11,6 @@
     margin: 0;
 }
 
-[dir="rtl"] .page-metadata {
-    flex-direction: row-reverse;
-}
-
 .meta-item {
     display: inline-flex;
     align-items: center;

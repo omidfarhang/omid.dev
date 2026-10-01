@@ -87,23 +87,3 @@
 .timeline__item--dot-filled:hover::before {
     transform: scale(1.15);
 }
-
-[dir="rtl"] .timeline--track {
-    padding-inline-start: 0;
-    padding-inline-end: var(--space-6);
-}
-
-[dir="rtl"] .timeline--track::before {
-    inset-inline-start: auto;
-    inset-inline-end: 0;
-}
-
-[dir="rtl"] .timeline__item--dot::before {
-    inset-inline-start: auto;
-    inset-inline-end: -29px;
-}
-
-[dir="rtl"] .timeline__item--marker::before {
-    inset-inline-start: auto;
-    inset-inline-end: -30px;
-}
