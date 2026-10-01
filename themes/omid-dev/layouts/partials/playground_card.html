@@ -1,0 +1,123 @@
+{{- $item := .item -}}
+{{- $category := .category | default "examples" -}}
+{{- $live := .live | default false -}}
+{{- $featured := .featured | default false -}}
+{{- $list := .list | default false -}}
+{{- $pg := site.Params.playground -}}
+{{- $base := strings.TrimSuffix "/" ($pg.baseURL | default "https://playground.omid.dev") -}}
+{{- $repo := strings.TrimSuffix "/" ($pg.repoUrl | default "https://github.com/omidfarhang/example-projects") -}}
+{{- $branch := $pg.repoBranch | default "master" -}}
+{{- $examplesPath := $pg.examplesPath | default "examples" -}}
+{{- $labsPath := $pg.labsPath | default "labs" -}}
+{{- $pathSeg := cond (eq $category "labs") $labsPath $examplesPath -}}
+{{- $demoUrl := printf "%s/%s/%s/" $base $pathSeg $item.slug -}}
+{{- $sourcePath := $item.sourcePath | default (printf "%s/%s" $pathSeg $item.slug) -}}
+{{- $sourceUrl := printf "%s/tree/%s/%s" $repo $branch $sourcePath -}}
+{{- $typeLabel := $item.type | default $category -}}
+{{- if eq $item.kind "lab" -}}
+  {{- $typeLabel = "Lab" -}}
+{{- else if eq $typeLabel "angular" -}}
+  {{- $typeLabel = "Angular" -}}
+{{- else if eq $typeLabel "rust-wasm" -}}
+  {{- $typeLabel = "Rust / WASM" -}}
+{{- else if eq $typeLabel "qwik-mfe" -}}
+  {{- $typeLabel = "Micro Frontends" -}}
+{{- else if eq $typeLabel "stencil-angular" -}}
+  {{- $typeLabel = "Web Components" -}}
+{{- else if eq $typeLabel "angular-workspace" -}}
+  {{- $typeLabel = "Angular Workspace" -}}
+{{- else if eq $typeLabel "vite" -}}
+  {{- $typeLabel = "React / Vite" -}}
+{{- else if eq $typeLabel "static-html" -}}
+  {{- $typeLabel = "CSS" -}}
+{{- end -}}
+{{- $articles := slice -}}
+{{- with $item.articles -}}
+  {{- $articles = . -}}
+{{- else -}}
+  {{- with $item.articleUrl -}}
+    {{- $articles = slice (dict "url" . "title" ($item.articleTitle | default $item.title) "label" "Article") -}}
+  {{- else -}}
+    {{- with $item.techBlogUrl -}}
+      {{- $articles = slice (dict "url" . "title" ($item.articleTitle | default "") "label" "Article") -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $primaryArticle := index $articles 0 -}}
+
+{{- if $list }}
+<li class="playground-source-row">
+  <div class="playground-source-row__main">
+    <div class="playground-source-row__meta">
+      {{- with $item.reason }}
+      <span class="chip chip--default playground-card__badge">{{ . }}</span>
+      {{- end }}
+      <code class="playground-source-row__path">{{ $sourcePath }}</code>
+    </div>
+    <h3 class="playground-source-row__title">{{ $item.title }}</h3>
+    <p class="playground-source-row__description">{{ $item.description }}</p>
+  </div>
+  <div class="playground-source-row__actions btn-group">
+    {{- with $primaryArticle }}
+    <a class="btn btn--secondary btn--sm" href="{{ .url | safeURL }}">
+      {{ i18n "playground_read_article" | default "Read article" }}
+    </a>
+    {{- end }}
+    <a class="btn btn--ghost btn--sm" href="{{ $sourceUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-github" aria-hidden="true"></i>
+      {{ i18n "playground_source" | default "Source" }}
+    </a>
+  </div>
+</li>
+{{- else }}
+<article class="playground-card{{ if $featured }} playground-card--featured{{ end }}{{ if not $live }} playground-card--source{{ end }}">
+  <div class="playground-card__meta">
+    <span class="chip chip--pill playground-card__badge">{{ $typeLabel }}</span>
+    {{- with $item.reason }}
+    <span class="playground-card__reason">{{ . }}</span>
+    {{- end }}
+  </div>
+  <h3 class="playground-card__title">
+    {{- if $live -}}
+    <a href="{{ $demoUrl | safeURL }}" target="_blank" rel="noopener noreferrer">{{ $item.title }}</a>
+    {{- else -}}
+    {{ $item.title }}
+    {{- end -}}
+  </h3>
+  {{- with $primaryArticle }}
+    {{- if .title }}
+  <p class="playground-card__article">
+    <a href="{{ .url | safeURL }}">{{ .title }}</a>
+  </p>
+    {{- end }}
+  {{- end }}
+  <p class="playground-card__description">{{ $item.description }}</p>
+  <code class="playground-card__path">{{ $sourcePath }}</code>
+  <div class="playground-card__actions btn-group">
+    {{- if $live }}
+    <a class="btn btn--primary btn--sm" href="{{ $demoUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa-solid fa-play" aria-hidden="true"></i>
+      {{ i18n "playground_open_demo" | default "Open demo" }}
+    </a>
+    {{- end }}
+    {{- if gt (len $articles) 1 }}
+    <details class="playground-card__menu">
+      <summary class="btn btn--secondary btn--sm">{{ i18n "playground_articles" | default "Articles" }}</summary>
+      <div class="playground-card__menu-panel">
+        {{- range $articles }}
+        <a class="playground-card__menu-item" href="{{ .url | safeURL }}">{{ .label | default .title }}</a>
+        {{- end }}
+      </div>
+    </details>
+    {{- else if and (eq (len $articles) 1) $primaryArticle }}
+    <a class="btn btn--secondary btn--sm" href="{{ $primaryArticle.url | safeURL }}">
+      {{ i18n "playground_read_article" | default "Read article" }}
+    </a>
+    {{- end }}
+    <a class="btn btn--ghost btn--sm" href="{{ $sourceUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-github" aria-hidden="true"></i>
+      {{ i18n "playground_source" | default "Source" }}
+    </a>
+  </div>
+</article>
+{{- end -}}

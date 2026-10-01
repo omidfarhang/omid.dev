@@ -128,6 +128,51 @@
 - id: home_playground_cta
   translation: "Try live demos"
 
+- id: playground_sections
+  translation: "Playground sections"
+
+- id: playground_hero_note
+  translation: "Source lives in"
+
+- id: playground_stats_label
+  translation: "Catalog counts"
+
+- id: playground_labs
+  translation: "Labs"
+
+- id: playground_labs_lede
+  translation: "Standalone simulations you can poke at — deeper than article companions, built for exploration."
+
+- id: playground_companions
+  translation: "Article companions"
+
+- id: playground_companions_short
+  translation: "Companions"
+
+- id: playground_companions_lede
+  translation: "Static builds hosted on playground.omid.dev — open a demo, then read the post for context."
+
+- id: playground_source_only
+  translation: "Clone-only companions"
+
+- id: playground_source_only_short
+  translation: "Clone-only"
+
+- id: playground_source_only_lede
+  translation: "Firebase, API servers, native Linux tooling, or notebooks — not yet runnable as static browser demos."
+
+- id: playground_open_demo
+  translation: "Open demo"
+
+- id: playground_read_article
+  translation: "Read article"
+
+- id: playground_articles
+  translation: "Articles"
+
+- id: playground_source
+  translation: "Source"
+
 - id: latest_post
   translation: "Latest"
 

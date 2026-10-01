@@ -1,0 +1,118 @@
+{{- define "main" }}
+
+{{- $data := hugo.Data.playground -}}
+{{- $labs := $data.labs | default slice -}}
+{{- $examples := $data.examples | default slice -}}
+{{- $sourceOnly := $data.sourceOnly | default slice -}}
+{{- $labCount := len $labs -}}
+{{- $exampleCount := len $examples -}}
+{{- $sourceCount := len $sourceOnly -}}
+{{- $repo := site.Params.playground.repoUrl | default "https://github.com/omidfarhang/example-projects" -}}
+
+<div class="posts-list-content playground-index-page">
+  <header class="page-hero--contained panel--hero-gradient page-hero--section playground-hero">
+    <nav class="breadcrumbs" aria-label="breadcrumbs">
+      <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "" | absLangURL }}">
+            <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+          <span itemprop="name" aria-current="page">{{ .Title }}</span>
+          <meta itemprop="position" content="2" />
+        </li>
+      </ol>
+    </nav>
+    <div class="page-hero-inner playground-hero__inner">
+      <div class="playground-hero__copy">
+        <h1 class="post-title">{{ .Title }}</h1>
+        {{- with .Description }}
+        <p class="page-hero-lead">{{ . }}</p>
+        {{- end }}
+        <p class="playground-hero__note">
+          {{ i18n "playground_hero_note" | default "Source lives in" }}
+          <a href="{{ $repo | safeURL }}" target="_blank" rel="noopener noreferrer">example-projects</a>.
+        </p>
+      </div>
+      <dl class="playground-hero__stats" aria-label="{{ i18n "playground_stats_label" | default "Catalog counts" }}">
+        {{- if $labCount }}
+        <div class="playground-hero__stat">
+          <dt>{{ i18n "playground_labs" | default "Labs" }}</dt>
+          <dd>{{ $labCount }}</dd>
+        </div>
+        {{- end }}
+        {{- if $exampleCount }}
+        <div class="playground-hero__stat">
+          <dt>{{ i18n "playground_companions_short" | default "Companions" }}</dt>
+          <dd>{{ $exampleCount }}</dd>
+        </div>
+        {{- end }}
+        {{- if $sourceCount }}
+        <div class="playground-hero__stat">
+          <dt>{{ i18n "playground_source_only_short" | default "Clone-only" }}</dt>
+          <dd>{{ $sourceCount }}</dd>
+        </div>
+        {{- end }}
+      </dl>
+    </div>
+    <nav class="playground-jump chip-group" aria-label="{{ i18n "playground_sections" | default "Playground sections" }}">
+      {{- if $labs }}
+      <a class="chip chip--pill" href="#labs">{{ i18n "playground_labs" | default "Labs" }} <span class="playground-jump__count">{{ $labCount }}</span></a>
+      {{- end }}
+      {{- if $examples }}
+      <a class="chip chip--pill" href="#companions">{{ i18n "playground_companions" | default "Article companions" }} <span class="playground-jump__count">{{ $exampleCount }}</span></a>
+      {{- end }}
+      {{- if $sourceOnly }}
+      <a class="chip chip--pill" href="#clone-only">{{ i18n "playground_source_only_short" | default "Clone-only" }} <span class="playground-jump__count">{{ $sourceCount }}</span></a>
+      {{- end }}
+    </nav>
+  </header>
+
+  <div class="playground-catalog">
+    {{- if $labs }}
+    <section class="playground-section" id="labs" aria-labelledby="playground-labs-title">
+      <header class="playground-section__header">
+        <h2 id="playground-labs-title" class="section-title section-title--page">{{ i18n "playground_labs" | default "Labs" }}</h2>
+        <p class="playground-section__lede">{{ i18n "playground_labs_lede" | default "Standalone simulations you can poke at — deeper than article companions, built for exploration." }}</p>
+      </header>
+      <div class="playground-grid playground-grid--labs">
+        {{- range $labs }}
+        {{- partial "playground_card.html" (dict "item" . "category" "labs" "live" true "featured" true) }}
+        {{- end }}
+      </div>
+    </section>
+    {{- end }}
+
+    {{- if $examples }}
+    <section class="playground-section" id="companions" aria-labelledby="playground-companions-title">
+      <header class="playground-section__header">
+        <h2 id="playground-companions-title" class="section-title section-title--page">{{ i18n "playground_companions" | default "Article companions" }}</h2>
+        <p class="playground-section__lede">{{ i18n "playground_companions_lede" | default "Static builds hosted on playground.omid.dev — open a demo, then read the post for context." }}</p>
+      </header>
+      <div class="playground-grid">
+        {{- range $examples }}
+        {{- partial "playground_card.html" (dict "item" . "category" "examples" "live" true) }}
+        {{- end }}
+      </div>
+    </section>
+    {{- end }}
+
+    {{- if $sourceOnly }}
+    <section class="playground-section playground-section--source" id="clone-only" aria-labelledby="playground-source-title">
+      <header class="playground-section__header">
+        <h2 id="playground-source-title" class="section-title section-title--page">{{ i18n "playground_source_only" | default "Clone-only companions" }}</h2>
+        <p class="playground-section__lede">{{ i18n "playground_source_only_lede" | default "Firebase, API servers, native Linux tooling, or notebooks — not yet runnable as static browser demos." }}</p>
+      </header>
+      <ul class="playground-source-list">
+        {{- range $sourceOnly }}
+        {{- partial "playground_card.html" (dict "item" . "category" "examples" "live" false "list" true) }}
+        {{- end }}
+      </ul>
+    </section>
+    {{- end }}
+  </div>
+</div>
+
+{{- end }}

@@ -1,0 +1,176 @@
+# Mirrored from example-projects/playground/manifest.json — refresh with scripts/sync-playground-data.py
+labs:
+- slug: microbiome-sandbox
+  title: "Bio-Dynamics: Microbiome Sandbox"
+  description: Full-body 3D microbiome simulator—rotate the body, zoom into tissue, run blog-backed probiotic scenarios.
+  type: vite
+  kind: lab
+  sourcePath: labs/microbiome-sandbox
+  articleTitle: Deterministic Microbiome Simulation Without Overclaiming the Science
+  techBlogUrl: "https://omid.dev/2026/06/10/deterministic-microbiome-simulation-without-overclaiming-science/"
+examples:
+- slug: angular-web-audio-visualizer
+  title: Angular Web Audio Visualizer
+  description: Dynamic music visualizations with Angular and the Web Audio API.
+  type: angular
+  sourcePath: examples/angular-web-audio-visualizer
+  articleTitle: Creating Dynamic Music Visualizations with Angular and the Web Audio API
+  articleUrl: "https://omid.dev/2024/07/13/creating-dynamic-music-visualizations-with-angular-and-the-web-audio-api/"
+- slug: angular-web-workers-offscreencanvas
+  title: "Web Workers & OffscreenCanvas"
+  description: Offload canvas rendering from the Angular main thread.
+  type: angular
+  sourcePath: examples/angular-web-workers-offscreencanvas
+  articleTitle: Optimizing Angular Applications with Web Workers and OffscreenCanvas
+  articleUrl: "https://omid.dev/2024/06/23/optimizing-angular-applications-with-web-workers-and-offscreencanvas/"
+- slug: rust-wasm-performance-demo
+  title: Rust WASM Performance Demo
+  description: Compare JavaScript vs WebAssembly for CPU-heavy loops.
+  type: rust-wasm
+  sourcePath: examples/rust-wasm-performance-demo
+  articleTitle: Building High-Performance Web Applications Leveraging WebAssembly and Rust
+  articleUrl: "https://omid.dev/2024/06/13/building-high-performance-web-applications-leveraging-webassembly-and-rust/"
+- slug: qwik-angular-react-rust
+  title: Micro Frontends (Qwik + Angular + React)
+  description: Qwik shell hosting Angular and React micro frontends.
+  type: qwik-mfe
+  sourcePath: examples/qwik-angular-react-rust
+  articleTitle: "Micro Frontends: Working Example"
+  articleUrl: "https://omid.dev/2024/05/11/micro-frontends-working-example/"
+- slug: angular-stencil-web-components
+  title: Stencil Web Components in Angular
+  description: Custom element built with Stencil, consumed in Angular.
+  type: stencil-angular
+  sourcePath: examples/angular-stencil-web-components
+  articleTitle: Implementing Custom Web Components in Angular with Stencil.js
+  articleUrl: "https://omid.dev/2024/06/26/implementing-custom-web-components-in-angular-with-stenciljs/"
+- slug: angular-dynamic-form-debugging
+  title: Angular Dynamic Form Debugging
+  description: Reactive form debugging patterns in Angular.
+  type: angular
+  sourcePath: examples/angular-dynamic-form-debugging
+  articleTitle: "Debugging Angular: A Tale of Two Developers"
+  articleUrl: "https://omid.dev/2024/05/22/debugging-angular-a-tale-of-two-developers/"
+- slug: angular-patterns-and-di
+  title: "Angular Patterns & DI"
+  description: Design patterns, providers, and injection tokens.
+  type: angular
+  sourcePath: examples/angular-patterns-and-di
+  articleTitle: "Design Patterns in Angular: Enhancing Code Quality and Maintainability"
+  articleUrl: "https://omid.dev/2024/05/31/design-patterns-in-angular-enhancing-code-quality-and-maintainability/"
+- slug: angular-shared-library-workspace
+  title: Angular Shared Library Workspace
+  description: Reusable UI library consumed by a demo app.
+  type: angular-workspace
+  sourcePath: examples/angular-shared-library-workspace
+  articleTitle: Reusable Shared Module in Angular
+  articleUrl: "https://omid.dev/2024/05/12/reusable-shared-module-in-angular/"
+- slug: react-recoil-advanced-state
+  title: React Recoil Advanced State
+  description: Atoms, selectors, and async queries with Recoil.
+  type: vite
+  sourcePath: examples/react-recoil-advanced-state
+  articleTitle: Advanced State Management in React with Recoil
+  articleUrl: "https://omid.dev/2024/06/14/advanced-state-management-in-react-with-recoil/"
+- slug: bootstrap-to-tailwind-migration
+  title: Bootstrap to Tailwind Migration
+  description: Side-by-side before/after styling comparison.
+  type: static-html
+  sourcePath: examples/bootstrap-to-tailwind-migration
+  articleTitle: Migrate CSS Bootstrap to Tailwind
+  articleUrl: "https://omid.dev/2024/05/22/migrate-css-bootstrap-to-tailwind/"
+- slug: angular-graphql-apollo
+  title: "GraphQL with Angular & Apollo"
+  description: Angular CRUD via Apollo query and mutate — in-browser GraphQL mock for the live demo.
+  type: angular
+  sourcePath: examples/angular-graphql-apollo
+  articleTitle: "Integrating GraphQL with Angular: A Practical Guide"
+  articleUrl: "https://omid.dev/2024/06/01/integrating-graphql-with-angular-a-practical-guide/"
+- slug: realtime-frontend-patterns
+  title: Real-Time Frontend Patterns
+  description: WebSocket vs SSE side by side — simulated transports for the live demo.
+  type: static-html
+  sourcePath: examples/realtime-frontend-patterns
+  articleTitle: Real-Time Data in Frontend Applications
+  articleUrl: "https://omid.dev/2024/06/08/real-time-data-in-frontend-applications/"
+- slug: chaos-resilience-lab
+  title: Chaos Resilience Lab
+  description: Inject payment faults and compare fragile vs resilient checkout side by side.
+  type: static-html
+  sourcePath: examples/chaos-resilience-lab
+  articleTitle: "Chaos Engineering: Principles and Practice"
+  articleUrl: "https://omid.dev/2024/06/06/chaos-engineering/"
+  articles:
+  - label: Overview
+    title: "Chaos Engineering: Principles and Practice"
+    url: "https://omid.dev/2024/06/06/chaos-engineering/"
+  - label: Frontend chaos
+    title: Chaos Engineering for Frontend Applications
+    url: "https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/"
+  - label: Backend chaos
+    title: Chaos Engineering for Backend and Infrastructure
+    url: "https://omid.dev/2024/07/07/chaos-engineering-backend-and-infrastructure/"
+- slug: angular-router-resources
+  title: Angular Router Resources
+  description: "Trip Desk demo: waterfall resolvers vs parallel blocking Router Resources vs non-blocking Resource inputs."
+  type: angular
+  sourcePath: examples/angular-router-resources
+  articleTitle: "Angular Router Resources: Route Data as a Graph"
+  articleUrl: "https://omid.dev/2026/09/22/angular-router-resources-route-data-as-a-graph/"
+sourceOnly:
+- slug: angular-collaborative-editor-firebase-webrtc
+  title: Real-Time Collaborative Editor
+  description: Angular editor using Firebase, Firestore, and WebRTC signaling ideas.
+  sourcePath: examples/angular-collaborative-editor-firebase-webrtc
+  reason: Firebase
+  articleTitle: Building a Real-Time Collaborative Editor with Angular, Firebase, and WebRTC
+  articleUrl: "https://omid.dev/2024/06/24/realtime-collaborative-editor-with-angular-firebase-webrtc/"
+- slug: graphql-express-angular-migration
+  title: REST to GraphQL Migration
+  description: Express API showing REST and GraphQL side by side with an Angular client.
+  sourcePath: examples/graphql-express-angular-migration
+  reason: API server
+  articleTitle: "Migrating from REST to GraphQL: A Step-by-Step Guide for Express.js and Angular"
+  articleUrl: "https://omid.dev/2024/08/07/migrating-from-rest-to-graphql-a-step-by-step-guide-for-expressjs-and-angular/"
+- slug: angular-custom-schematics
+  title: Custom Angular Schematics
+  description: Angular schematics for repeatable code generation.
+  sourcePath: examples/angular-custom-schematics
+  reason: CLI tooling
+  articleTitle: "Building Custom Angular Schematics: Automating Code Generation"
+  articleUrl: "https://omid.dev/2024/06/03/building-custom-angular-schematics-automating-code-generation/"
+- slug: typescript-advanced-types
+  title: Advanced TypeScript Types
+  description: Mapped, conditional, recursive, and utility type examples.
+  sourcePath: examples/typescript-advanced-types
+  reason: Source snippets
+  articleTitle: Advanced TypeScript Types
+  articleUrl: "https://omid.dev/2024/06/14/advanced-typeScript-types/"
+- slug: jupyter-blog-starter
+  title: Jupyter Blog Starter
+  description: Python and Jupyter starter for notebook-driven technical analysis.
+  sourcePath: examples/jupyter-blog-starter
+  reason: Notebook
+  articleTitle: Jupyter Technical Setup Guide
+  articleUrl: "https://omid.dev/2025/12/23/jupyter-technical-setup-guide/"
+- slug: latency-lens
+  title: Latency Lens
+  description: Rust TUI that reads Linux PSI and explains desktop stutter from kernel pressure signals.
+  sourcePath: examples/latency-lens
+  reason: Native Linux
+  articleTitle: Building a Tiny Linux App to Explain Desktop Stutter
+  articleUrl: "https://omid.dev/2026/06/04/building-a-tiny-linux-app-to-explain-desktop-stutter/"
+- slug: angular-modern-auth
+  title: Modern Auth for Angular
+  description: BFF session cookies, CSRF, auth interceptor, and role guards — no JWTs in localStorage.
+  sourcePath: examples/angular-modern-auth
+  reason: local BFF
+  articleTitle: Modern Auth Patterns for Angular Frontends
+  articleUrl: "https://omid.dev/2026/07/31/modern-auth-patterns-for-angular-frontends/"
+- slug: angular-csp-scanner
+  title: Angular CSP Scanner
+  description: CLI scanner for Angular CSP footguns plus nginx/Apache/Cloudflare header samples.
+  sourcePath: examples/angular-csp-scanner
+  reason: CLI tooling
+  articleTitle: "CSP and Angular: Practical Patterns"
+  articleUrl: "https://omid.dev/2026/07/15/csp-and-angular-practical-patterns/"

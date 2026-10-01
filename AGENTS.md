@@ -22,7 +22,7 @@ Hugo is the primary build tool. Pagefind runs after Hugo to generate the search 
 | `layouts/` | Root-level layout overrides (if any) |
 | `static/` | Static assets copied as-is (`static/pagefind/` is generated — do not commit) |
 | `assets/` | Hugo Pipes assets (processed at build) |
-| `data/` | Hugo data files |
+| `data/` | Hugo data files (`playground.yaml` mirrors example-projects `manifest.json`) |
 | `scripts/` | Python/shell maintenance scripts |
 | `docs/` | Editorial reference (curated content inventory, tag strategy) |
 | `archetypes/` | Hugo content templates |
@@ -233,6 +233,7 @@ When publishing or updating an evergreen TechBlog post:
 - [ ] `seeAlso` links to anchor, siblings, or related standalone posts
 - [ ] Post added to relevant reading path file(s) in `content/posts/techblog/paths/`
 - [ ] `docs/curated-content-inventory.md` updated for new series or path membership
+- [ ] If the post has a playground demo: update example-projects `playground/manifest.json`, then `python3 scripts/sync-playground-data.py` (refreshes `data/playground.yaml`)
 - [ ] `hugo --minify` builds without `seeAlso path not found` warnings
 
 ### Shortcodes
@@ -285,6 +286,10 @@ python3 scripts/tag-manager.py dedupe               # duplicate tags within a po
 python3 scripts/tag-manager.py remove 'Exact Tag'
 python3 scripts/tag-manager.py replace 'Old Tag' 'New Tag'
 python3 scripts/tag-manager.py merge 'Tag A' 'Tag B' --into 'Tag C' --apply
+
+# Sync playground catalog data from sibling example-projects manifest
+python3 scripts/sync-playground-data.py
+# EXAMPLE_PROJECTS_ROOT=/path/to/example-projects python3 scripts/sync-playground-data.py
 
 # Resume PDFs from resume-print layout (headless Chromium → static/resume/)
 python3 scripts/resume-pdf.py                       # hugo --minify + all langs

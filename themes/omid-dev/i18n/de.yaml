@@ -128,6 +128,51 @@
 - id: home_playground_cta
   translation: "Live-Demos testen"
 
+- id: playground_sections
+  translation: "Playground-Abschnitte"
+
+- id: playground_hero_note
+  translation: "Quellcode in"
+
+- id: playground_stats_label
+  translation: "Katalogzahlen"
+
+- id: playground_labs
+  translation: "Labs"
+
+- id: playground_labs_lede
+  translation: "Eigenständige Simulationen zum Ausprobieren — tiefer als Artikel-Begleiter."
+
+- id: playground_companions
+  translation: "Artikel-Begleiter"
+
+- id: playground_companions_short
+  translation: "Begleiter"
+
+- id: playground_companions_lede
+  translation: "Statische Builds auf playground.omid.dev — öffne die Demo, dann den Artikel."
+
+- id: playground_source_only
+  translation: "Nur zum Klonen"
+
+- id: playground_source_only_short
+  translation: "Nur klonen"
+
+- id: playground_source_only_lede
+  translation: "Firebase, API-Server, native Linux-Tools oder Notebooks — noch keine statischen Browser-Demos."
+
+- id: playground_open_demo
+  translation: "Demo öffnen"
+
+- id: playground_read_article
+  translation: "Artikel lesen"
+
+- id: playground_articles
+  translation: "Artikel"
+
+- id: playground_source
+  translation: "Quellcode"
+
 - id: latest_post
   translation: "Neueste"
 

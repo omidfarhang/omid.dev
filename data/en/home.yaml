@@ -13,5 +13,5 @@ focusAreas:
     items: ["CI/CD optimization", "Performance", "Testing strategy", "Developer experience"]
 playground:
   title: "Try companion projects in your browser"
-  lede: "Selected technical posts now include live demos on playground.omid.dev — open the working example, then read the article for the full walkthrough."
+  lede: "Browse labs and article companions on the playground catalog — open a live demo, then read the post for the full walkthrough."
 contactCta: "Have a serious frontend architecture, Angular platform, migration, or engineering-systems problem worth discussing?"

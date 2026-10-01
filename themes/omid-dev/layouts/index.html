@@ -73,7 +73,7 @@
     {{- end }}
 
     {{- $playground := $home.playground }}
-    {{- $playgroundUrl := site.Params.playground.baseURL | default "https://playground.omid.dev" }}
+    {{- $playgroundUrl := site.Params.playground.catalogPath | default "/playground/" }}
     {{- if $playground }}
     <section class="home-section home-playground panel panel--tinted panel--xl">
         {{- partial "home_section_heading.html" (dict
@@ -81,22 +81,16 @@
             "href" $playgroundUrl
             "linkLabel" (i18n "home_playground_link")
             "rtl" (eq .Language.Direction "rtl")
-            "external" true
         ) }}
         <div class="home-playground-card">
             <div class="icon-circle icon-circle--sm icon-circle--filled home-playground-icon" aria-hidden="true">
                 <i class="fa-solid fa-play"></i>
             </div>
             <p class="home-playground-lede">{{ $playground.lede }}</p>
-            <a class="btn btn--primary" href="{{ $playgroundUrl | safeURL }}" target="_blank" rel="noopener noreferrer">
+            <a class="btn btn--primary" href="{{ $playgroundUrl | relURL }}">
                 <span class="btn-inner">
                     {{ i18n "home_playground_cta" }}
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
+                    <i class="fa-solid fa-arrow-{{ if eq .Language.Direction "rtl" }}left{{ else }}right{{ end }}" aria-hidden="true"></i>
                 </span>
             </a>
         </div>

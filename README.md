@@ -4,7 +4,7 @@ Personal site of [Omid Farhang](https://omid.dev/) — frontend architect and en
 
 **Live:** [omid.dev](https://omid.dev/) · [Persian](https://omid.dev/fa/) · [German](https://omid.dev/de/)
 
-Runnable companions for posts live in [example-projects](https://github.com/omidfarhang/example-projects); browser demos at [playground.omid.dev](https://playground.omid.dev/).
+Runnable companions for posts live in [example-projects](https://github.com/omidfarhang/example-projects). The catalog is at [omid.dev/playground/](https://omid.dev/playground/); live demo builds at [playground.omid.dev](https://playground.omid.dev/).
 
 ## Stack
 
@@ -139,6 +139,7 @@ python3 scripts/shortlink.py --apply --missing --limit 20
 python3 scripts/notify-search.py         # dry-run IndexNow / WebSub / Ping-o-Matic
 python3 scripts/notify-search.py --apply
 python3 scripts/tag-manager.py           # tag clusters, curated lists, merge/replace
+python3 scripts/sync-playground-data.py  # mirror example-projects manifest → data/playground.yaml
 python3 scripts/build-stack-icons.py     # resume stack-icon font from SVGs
 ```
 
@@ -153,7 +154,8 @@ Do not commit credentials, `.aws-credentials.json`, `.htpasswd`, or Turnstile se
 | | |
 |---|---|
 | Site | [omid.dev](https://omid.dev/) |
-| Playground | [playground.omid.dev](https://playground.omid.dev/) |
+| Playground catalog | [omid.dev/playground/](https://omid.dev/playground/) |
+| Live demos | [playground.omid.dev](https://playground.omid.dev/) |
 | Companion repos | [example-projects](https://github.com/omidfarhang/example-projects) |
 | Short links | [g.omid.dev](https://g.omid.dev/) |
 | Contact | [hi@omid.dev](mailto:hi@omid.dev) |

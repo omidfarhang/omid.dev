@@ -128,7 +128,7 @@ languages:
           url: /posts
           weight: 1
         - name: Playground
-          url: https://playground.omid.dev/
+          url: /playground/
           weight: 2
         - name: Resume
           url: /resume
@@ -189,7 +189,7 @@ languages:
           url: /posts
           weight: 1
         - name: پلی‌گراند
-          url: https://playground.omid.dev/
+          url: /playground/
           weight: 2
         - name: رزومه
           url: /resume
@@ -249,7 +249,7 @@ languages:
           url: /posts
           weight: 1
         - name: Playground
-          url: https://playground.omid.dev/
+          url: /playground/
           weight: 2
         - name: Lebenslauf
           url: /resume
@@ -263,7 +263,11 @@ params:
   playground:
     baseURL: https://playground.omid.dev
     examplesPath: examples
+    labsPath: labs
     sourceRoot: examples
+    repoUrl: https://github.com/omidfarhang/example-projects
+    repoBranch: master
+    catalogPath: /playground/
   # Loaded only on pages with a mermaid fence or shortcode (jsDelivr ESM).
   mermaid:
     version: "11.17.2"
