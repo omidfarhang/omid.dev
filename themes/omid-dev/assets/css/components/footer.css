@@ -1,5 +1,4 @@
-.footer,
-.top-link {
+.footer {
     color: var(--secondary);
     font-size: var(--text-ui-md);
 }
@@ -416,22 +415,20 @@ body:not(.dark) .footer {
     width: 42px;
     height: 42px;
     padding: var(--space-3);
-    background: var(--tertiary);
+    color: var(--theme);
+    background: var(--primary);
+    border: 1px solid var(--primary);
     border-radius: 50%;
     box-shadow: var(--shadow-md);
     transition: var(--transition-surface);
 }
 
 .top-link:hover {
-    color: var(--primary);
-    background: var(--accent);
+    color: var(--theme);
+    background: var(--accent-hover);
+    border-color: var(--accent-hover);
     transform: translateY(-4px) scale(1.1);
     box-shadow: var(--shadow-lg);
-}
-
-.top-link,
-.top-link svg {
-    filter: drop-shadow(0px 0px 0px var(--theme));
 }
 
 .top-link svg {
