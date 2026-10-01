@@ -1,6 +1,6 @@
 /* Timeline — shared component
-   Layout/polish in: resume.css (bespoke resume timeline variant)
-   Promote to system/ when: resume/uses converge on .timeline BEM + variant API
+   Used by uses page and similar tracks.
+   Promote to system/ when: uses converge on .timeline BEM + variant API
 */
 
 .timeline {

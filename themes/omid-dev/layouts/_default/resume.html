@@ -1,167 +1,167 @@
 {{- define "main" }}
 
-  {{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
-  {{- /* JSON-LD Structured Data for Resume */ -}}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "{{ $resume.name }}",
-    "jobTitle": "{{ $resume.title }}",
-    "url": "{{ $resume.contact.website }}",
-    "sameAs": [
-      "{{ $resume.contact.linkedin }}",
-      "{{ $resume.contact.github }}",
-      "{{ $resume.contact.xing }}"
-    ],
-    "email": "{{ $resume.contact.email }}",
-    "telephone": "{{ $resume.contact.phone }}",
-    "description": "{{ $resume.summary }}",
-    "knowsAbout": [
-      {{- range $index, $skill := $resume.skills -}}
-        {{- range $i, $item := $skill.items -}}
-          "{{ $item }}"{{ if or (lt $i (sub (len $skill.items) 1)) (lt $index (sub (len $resume.skills) 1)) }},{{ end }}
-        {{- end -}}
-      {{- end -}}
-    ],
-    "hasCredential": [
-      {{- range $index, $cert := $resume.certifications -}}
-      {
-        "@type": "EducationalOccupationalCredential",
-        "credentialCategory": "certification",
-        "name": "{{ $cert.title }}",
-        "recognizedBy": {
-          "@type": "Organization",
-          "name": "{{ $cert.provider }}"
-        }
-      }{{ if lt $index (sub (len $resume.certifications) 1) }},{{ end }}
-      {{- end -}}
-    ],
-    "hasOccupation": [
-      {{- range $index, $exp := $resume.experience -}}
-      {
-        "@type": "OrganizationRole",
-        "roleName": "{{ $exp.title }}",
-        "startDate": "{{ $exp.period }}",
-        "organization": {
-          "@type": "Organization",
-          "name": "{{ $exp.company }}"
-        }
-      }{{ if lt $index (sub (len $resume.experience) 1) }},{{ end }}
-      {{- end -}}
-    ]
-  }
-  </script>
+{{- $resume := (index hugo.Data .Site.Language.Lang).resume -}}
+{{- $pdfName := "OmidFarhang-Resume.pdf" -}}
+{{- if eq .Site.Language.Lang "de" -}}
+  {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
+{{- else if eq .Site.Language.Lang "fa" -}}
+  {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
+{{- end -}}
+{{- $siteHost := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" $resume.contact.website)) -}}
 
-  <div class="resume-utility-bar d-print-none">
-    <div class="utility-container">
-      <span class="utility-label"><i class="fa-solid fa-file-export"></i> {{ T "export_options" | default "Export Options" }}</span>
-      <div class="utility-actions btn-group">
-        {{- $pdfName := "OmidFarhang-Resume.pdf" -}}
-        {{- if eq .Site.Language.Lang "de" -}}
-          {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
-        {{- else if eq .Site.Language.Lang "fa" -}}
-          {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
-        {{- end -}}
-        <a href="{{ printf "resume/%s" $pdfName | relURL }}" class="btn btn--secondary btn--sm" target="_blank">
-          <i class="fa-solid fa-file-arrow-down"></i> {{ T "download_pdf" }}
-        </a>
-        <a href="{{ "resume/print" | relLangURL }}" class="btn btn--secondary btn--sm" target="_blank">
-          <i class="fa-solid fa-print"></i> {{ T "print_pdf" }}
-        </a>
-      </div>
-    </div>
-  </div>
+{{- /* JSON-LD Structured Data for Resume */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ $resume.name }}",
+  "jobTitle": "{{ $resume.title }}",
+  "url": "{{ $resume.contact.website }}",
+  "sameAs": [
+    "{{ $resume.contact.linkedin }}",
+    "{{ $resume.contact.github }}",
+    "{{ $resume.contact.xing }}"
+  ],
+  "email": "{{ $resume.contact.email }}",
+  "telephone": "{{ $resume.contact.phone }}",
+  "description": "{{ $resume.summary }}",
+  "knowsAbout": [
+    {{- range $index, $skill := $resume.skills -}}
+      {{- range $i, $item := $skill.items -}}
+        "{{ $item }}"{{ if or (lt $i (sub (len $skill.items) 1)) (lt $index (sub (len $resume.skills) 1)) }},{{ end }}
+      {{- end -}}
+    {{- end -}}
+  ],
+  "hasCredential": [
+    {{- range $index, $cert := $resume.certifications -}}
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "certification",
+      "name": "{{ $cert.title }}",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "{{ $cert.provider }}"
+      }
+    }{{ if lt $index (sub (len $resume.certifications) 1) }},{{ end }}
+    {{- end -}}
+  ],
+  "hasOccupation": [
+    {{- range $index, $exp := $resume.experience -}}
+    {
+      "@type": "OrganizationRole",
+      "roleName": "{{ $exp.title }}",
+      "startDate": "{{ $exp.period }}",
+      "organization": {
+        "@type": "Organization",
+        "name": "{{ $exp.company }}"
+      }
+    }{{ if lt $index (sub (len $resume.experience) 1) }},{{ end }}
+    {{- end -}}
+  ]
+}
+</script>
 
-  <div class="resume-container">
-
-    <div class="resume-header">
-      <div class="resume-header-main">
-        <div class="resume-header-info">
-          <h1>{{ $resume.name }}</h1>
-          <h2>{{ $resume.title }}</h2>
-        </div>
-      </div>
-      
-      <div class="resume-header-contact">
-        <ul>
-          <li><i class="fa-solid fa-phone"></i> <a href="tel:{{ $resume.contact.phone }}">{{ $resume.contact.phone }}</a></li>
-          <li><i class="fa-solid fa-envelope"></i> <a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></li>
-          <li><i class="fa-solid fa-globe"></i> <a href="{{ $resume.contact.website }}" target="_blank">{{ path.Base $resume.contact.website }}</a></li>
-          <li><i class="fa-brands fa-linkedin"></i> <a href="{{ $resume.contact.linkedin }}" target="_blank">LinkedIn</a></li>
-          <li><i class="fa-brands fa-github"></i> <a href="{{ $resume.contact.github }}" target="_blank">GitHub</a></li>
-          <li><i class="fa-brands fa-xing"></i> <a href="{{ $resume.contact.xing }}" target="_blank">Xing</a></li>
+{{ partial "pagefind_meta.html" . }}
+<article class="post-single resume-page page-shell" data-pagefind-body>
+  <header class="post-header resume-hero page-hero">
+    <nav class="breadcrumbs" aria-label="breadcrumbs">
+      <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "" | absLangURL }}">
+            <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+          <span itemprop="name" aria-current="page">{{ .Title }}</span>
+          <meta itemprop="position" content="2" />
+        </li>
+      </ol>
+    </nav>
+    <div class="page-hero-inner resume-hero__inner">
+      <div class="resume-hero__copy page-hero-copy">
+        <h1 class="post-title">{{ $resume.name }}</h1>
+        <p class="page-hero-lead">{{ $resume.title }}</p>
+        <ul class="resume-contact">
+          <li><a href="tel:{{ $resume.contact.phone }}">{{ $resume.contact.phone }}</a></li>
+          <li><a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></li>
+          <li><a href="{{ $resume.contact.website }}" target="_blank" rel="noopener noreferrer">{{ $siteHost }}</a></li>
+          <li><a href="{{ $resume.contact.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          <li><a href="{{ $resume.contact.github }}" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+          <li><a href="{{ $resume.contact.xing }}" target="_blank" rel="noopener noreferrer">Xing</a></li>
         </ul>
       </div>
-    </div>
-
-    <div class="resume-section summary">
-      <div class="resume-section-header">
-        <h2><i class="fa-solid fa-id-card"></i> {{ T "summary" }}</h2>
+      <div class="btn-group btn-group--column resume-hero__actions d-print-none">
+        <a href="{{ printf "resume/%s" $pdfName | relURL }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">
+          <i class="fa-solid fa-file-arrow-down" aria-hidden="true"></i> {{ T "download_pdf" }}
+        </a>
+        <a href="{{ "resume/print" | relLangURL }}" class="btn btn--secondary" target="_blank" rel="noopener noreferrer">
+          <i class="fa-solid fa-print" aria-hidden="true"></i> {{ T "print_pdf" }}
+        </a>
       </div>
-      <div class="resume-section-content">
-        <p class="summary-text">{{ $resume.summary }}</p>
-      </div>
     </div>
+  </header>
 
-    <div class="resume-layout">
-      <div class="resume-main">
-        <div class="resume-section experience">
-          <div class="resume-section-header">
-            <h2><i class="fa-solid fa-briefcase"></i> {{ T "experience" }}</h2>
-          </div>
-          <div class="resume-section-content">
-            {{ range $resume.experience }}
-            <div class="resume-experience-item">
-              <div class="experience-header">
-                <strong>{{ .title }}</strong>
-                <span class="period">{{ .period }}</span>
-              </div>
-              <div class="company">{{ .company }}</div>
-              {{ if .description }}
-              <p class="experience-description">{{ .description }}</p>
-              {{ end }}
-              <ul class="responsibilities">
-                {{ range .responsibilities }}
-                <li>{{ . }}</li>
-                {{ end }}
-              </ul>
-              {{ if .skills }}
-              {{ partial "resume_experience_skills.html" .skills }}
-              {{ end }}
-            </div>
+  <div class="resume-page-content">
+    <section class="resume-summary" aria-labelledby="resume-summary-title">
+      <h2 id="resume-summary-title" class="section-title section-title--underline">{{ T "summary" }}</h2>
+      <p class="resume-summary__text">{{ $resume.summary }}</p>
+    </section>
+
+    <div class="layout-split layout-split--sidebar-360 resume-body">
+      <section class="resume-experience" aria-labelledby="resume-experience-title">
+        <h2 id="resume-experience-title" class="section-title section-title--underline">{{ T "experience" }}</h2>
+        <div class="resume-jobs">
+          {{ range $resume.experience }}
+          <article class="resume-job">
+            <header class="resume-job__header">
+              <h3 class="resume-job__title">{{ .title }}</h3>
+              <span class="resume-job__period">{{ .period }}</span>
+            </header>
+            <p class="resume-job__company">{{ .company }}</p>
+            {{ if .description }}
+            <p class="resume-job__description">{{ .description }}</p>
             {{ end }}
-          </div>
-        </div>
-      </div>
-
-      <aside class="resume-sidebar">
-        <div class="sidebar-section skills">
-          <h3>{{ T "skills" }}</h3>
-          {{ range $resume.skills }}
-          <div class="sidebar-skill-group">
-            <h4>{{ .category }}</h4>
-            <div class="chip-group sidebar-skill-tags">
-              {{ range .items }}
-              <span class="chip chip--pill chip--sm">{{ . }}</span>
+            <ul class="resume-job__responsibilities">
+              {{ range .responsibilities }}
+              <li>{{ . }}</li>
               {{ end }}
-            </div>
-          </div>
+            </ul>
+            {{ if .skills }}
+            {{ partial "resume_experience_skills.html" .skills }}
+            {{ end }}
+          </article>
           {{ end }}
         </div>
+      </section>
 
-        <div class="sidebar-section certifications">
-          <h3>{{ T "certifications" }}</h3>
-          {{ range $resume.certifications }}
-          <div class="sidebar-cert-item">
-            <strong>{{ .title }}</strong>
-            <span>{{ .provider }} ({{ .year }})</span>
-          </div>
-          {{ end }}
-        </div>
+      <aside class="stack stack--md resume-aside">
+        <section class="resume-skills" aria-labelledby="resume-skills-title">
+          <h2 id="resume-skills-title" class="section-title section-title--underline">{{ T "skills" }}</h2>
+          <ul class="resume-skill-list">
+            {{ range $resume.skills }}
+            <li class="resume-skill-group">
+              <strong class="resume-skill-group__label">{{ .category }}</strong>
+              <span class="resume-skill-group__items">{{ delimit .items ", " }}</span>
+            </li>
+            {{ end }}
+          </ul>
+        </section>
+
+        <section class="resume-certs" aria-labelledby="resume-certs-title">
+          <h2 id="resume-certs-title" class="section-title section-title--underline">{{ T "certifications" }}</h2>
+          <ul class="resume-cert-list">
+            {{ range $resume.certifications }}
+            <li class="resume-cert">
+              <strong class="resume-cert__title">{{ .title }}</strong>
+              <span class="resume-cert__meta">{{ .provider }} · {{ .year }}</span>
+            </li>
+            {{ end }}
+          </ul>
+        </section>
       </aside>
     </div>
-
   </div>
+</article>
 
-  {{- end }}{{/* end main */}}
+{{- end }}
