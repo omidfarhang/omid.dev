@@ -151,17 +151,7 @@
             {{- end }}
         </div>
 
-        {{- $lang := .Lang}}
-        {{- with site.Home.AllTranslations }}
-        <nav class="footer-lang-switch" aria-label="{{ i18n "translations" }}">
-            {{- range . -}}
-            <a href="{{- .Permalink -}}" class="{{ if eq $lang .Lang }}active{{ end }}" 
-                title="{{ .Language.Params.languageAltTitle | default (.Language.Label | emojify) | default (.Lang | title) }}">
-                {{- .Language.Label | emojify | default (.Lang | title) -}}
-            </a>
-            {{- end }}
-        </nav>
-        {{- end }}
+        {{- partial "lang_switch.html" (dict "page" . "class" "footer-lang-switch" "codes" false) }}
     </div>
 </footer>
 {{- end }}

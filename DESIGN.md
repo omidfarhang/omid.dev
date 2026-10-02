@@ -42,7 +42,7 @@ Documented in `layouts/partials/head.html`. Load order matters.
 | Token | Value | Use |
 |-------|-------|-----|
 | `--nav-width` / `--main-width` | `1200px` | Header nav + content max width |
-| `--header-height` | `40px` | Layout math |
+| `--header-height` | `56px` | Sticky header / layout math |
 | `--footer-height` | `60px` | Layout math |
 | `--gap` | `--space-8` (desktop), `--space-4` (≤768px) | Main padding / rhythm |
 | `--radius` | `8px` | Default corners |
@@ -58,8 +58,12 @@ Documented in `layouts/partials/head.html`. Load order matters.
 
 **Header**
 
-- Sticky; transparent until `.scrolled` → frosted glass (`backdrop-filter`), soft shadow.
-- Grid: logo | menu | actions (`max-width: --nav-width`).
+- Sticky; transparent until `.scrolled` → frosted glass (`backdrop-filter`), soft shadow; scroll-progress hairline on the bottom edge.
+- Three zones inside `max-width: --nav-width`: brand (logo) · primary nav (Posts, Notes, About) · actions (`EN · FA · DE`, search, theme, Contact CTA).
+- Primary nav: medium weight; hover uses `--highlight` marker fill on the label; active gets weight bump + ink underline only (no hover-grow underline).
+- Contact lives in `menu.cta` as a compact `btn btn--primary btn--sm` on desktop — not a peer of the content links. Footer Contact column still owns outreach in the page foot.
+- Language switcher: compact uppercase codes in the header; footer keeps Label/emoji via the shared `lang_switch` partial. Links prefer the current page’s translation, falling back to that language’s home.
+- Mobile (≤900px): bar is logo | search | theme | menu. Sheet is a start-aligned editorial list (primary links, hairline, More from `quick_links` + Now/Uses, language row) — not a centered splash of display type.
 - Logo: extrabold, slight hover scale; mark rotates slightly on hover.
 
 **Footer**
@@ -304,7 +308,7 @@ Notable blocks in `assets/css/components/`:
 
 | Component | Role |
 |-----------|------|
-| **header** | Sticky nav, theme toggle, mobile menu |
+| **header** | Sticky split bar (brand · nav · lang/search/theme/CTA), structured mobile sheet |
 | **footer** | CTA, columns, social, theme control |
 | **page-hero** | Flat hero shell; contained vs split layouts |
 | **section-heading** | Eyebrows (omit / context / mark), underline accent bar, centered titles, kickers |

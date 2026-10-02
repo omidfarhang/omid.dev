@@ -117,12 +117,13 @@ languages:
         - name: Notes
           url: /notes
           weight: 2
-        - name: About me
+        - name: About
           url: /about-me
           weight: 4
-        - name: Contact me
+      cta:
+        - name: Contact
           url: /contact-me
-          weight: 5
+          weight: 1
       quick_links:
         - name: Posts
           url: /posts
@@ -181,9 +182,10 @@ languages:
         - name: درباره من
           url: /about-me
           weight: 4
-        - name: تماس با من
+      cta:
+        - name: تماس
           url: /contact-me
-          weight: 5
+          weight: 1
       quick_links:
         - name: بلاگ
           url: /posts
@@ -241,9 +243,10 @@ languages:
         - name: Über mich
           url: /about-me
           weight: 4
+      cta:
         - name: Kontakt
           url: /contact-me
-          weight: 5
+          weight: 1
       quick_links:
         - name: Beiträge
           url: /posts

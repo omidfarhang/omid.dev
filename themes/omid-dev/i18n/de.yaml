@@ -20,6 +20,15 @@
 - id: translations
   translation: "Übersetzungen"
 
+- id: menu
+  translation: "Menü"
+
+- id: close
+  translation: "Menü schließen"
+
+- id: theme_toggle
+  translation: "Design umschalten"
+
 - id: home
   translation: "Home"
 

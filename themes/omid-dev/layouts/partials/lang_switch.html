@@ -1,0 +1,33 @@
+{{- /*
+  Language switcher.
+  Params (optional):
+    class — extra class on the <nav> (e.g. "header-lang" / "footer-lang-switch")
+    codes — if true, show EN/FA/DE instead of language Label emoji
+    page — page context (defaults to .)
+*/ -}}
+{{- $class := .class | default "lang-switch" -}}
+{{- $codes := .codes | default false -}}
+{{- $page := .page | default . -}}
+{{- $lang := $page.Lang -}}
+{{- $byLang := dict -}}
+{{- range $page.AllTranslations -}}
+  {{- $byLang = merge $byLang (dict .Lang .) -}}
+{{- end -}}
+{{- with site.Home.AllTranslations }}
+<nav class="{{ $class }}" aria-label="{{ i18n "translations" }}">
+    {{- range . -}}
+    {{- $target := index $byLang .Lang | default . -}}
+    {{- $label := .Lang | upper -}}
+    {{- if not $codes -}}
+      {{- $label = .Language.Label | emojify | default (.Language.Params.languageAltTitle | default (.Lang | title)) -}}
+    {{- end -}}
+    <a href="{{ $target.Permalink }}" class="{{ if eq $lang .Lang }}active{{ end }}"
+        hreflang="{{ .Lang }}"
+        lang="{{ .Lang }}"
+        title="{{ .Language.Params.languageAltTitle | default (.Language.Label | emojify) | default (.Lang | title) }}"
+        {{ if eq $lang .Lang }}aria-current="true"{{ end }}>
+        {{- $label -}}
+    </a>
+    {{- end }}
+</nav>
+{{- end -}}
