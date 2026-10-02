@@ -22,7 +22,8 @@
     <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
-    {{ partialCached "footer.html" . .Layout .Kind .Lang (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+    {{/* RelPermalink in the cache key: footer embeds page-specific lang_switch links */}}
+    {{ partialCached "footer.html" . .Layout .Kind .Lang .RelPermalink (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
     {{- partialCached "search_palette.html" . .Lang -}}
     {{- if .Store.Get "hasMermaid" -}}
     {{- partial "mermaid.html" . -}}
