@@ -275,7 +275,8 @@ Opt-in BEM-style classes under `assets/css/system/`. Compose in templates.
 
 - Base: theme fill, hairline border, `--radius-lg` — no resting shadow.
 - Interactive: `--shadow-md` on hover only.
-- Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`; `.topics-grid--list` turns topic cards into hairline rows inside `.tech-topics-section--list`), `--fill`.
+- Variants: `--interactive`, `--accent`, `--featured`, `--tinted`, `--dashed`, `--horizontal`, `--topic` (+ `.topics-grid`; `.topics-grid--list` turns topic cards into hairline rows inside `.tech-topics-section--list`), `--fill`, `--companion`.
+- **`.card--companion`:** in-prose article companion. Soft `--accent-light` panel (not a tip alert, not a promo tile). Body leads with capability meta (`Live demo · Full source · stack`), catalog title + concrete description when the slug matches `data/playground.yaml`, then a primary demo CTA (+ secondary source). Quiet `icon-circle--sm` on theme fill. No yellow kicker eyebrow; no path chip.
 - **Equal-height grids:** add `--fill` so the card stretches to the grid cell. Put content in `.card__body` (flex column); `.card__cta` pins to the bottom via `margin-top: auto`, so CTAs stay aligned across a row even when titles wrap.
 
 ### Panels (`.panel`)
@@ -403,7 +404,7 @@ Do not put an uppercase tracked eyebrow on every section. Resume document upperc
 - Add decorative top bars or gradient hairlines on panels, cards, or the footer.
 - Put page-only one-offs into `system/` without a variant API and multi-template use.
 - Rely on physical `left`/`right` when logical properties work (breaks RTL).
-- Use colored side borders (`border-inline-start` / `border-left` accents) on cards or callouts, rounded or not — companion cards lean on icon + surface, series nav uses a short section underline, blockquotes use typographic quote marks, categories use dots.
+- Use colored side borders (`border-inline-start` / `border-left` accents) on cards or callouts, rounded or not — companion cards lean on a quiet icon + flat surface, series nav uses a short section underline, blockquotes use typographic quote marks, categories use dots.
 - Commit `public/` or `resources/`.
 
 ---

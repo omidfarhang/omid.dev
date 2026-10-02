@@ -831,16 +831,6 @@ img.in-text {
         min-width: 0;
         max-width: none;
     }
-
-    .article-body .post-content .card--companion {
-        grid-template-columns: auto minmax(0, 1fr);
-        align-items: flex-start;
-    }
-
-    .companion-card__actions {
-        grid-column: 2;
-        justify-content: flex-start;
-    }
 }
 
 

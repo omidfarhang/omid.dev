@@ -182,6 +182,33 @@
 - id: playground_open_demo
   translation: "اجرای دمو"
 
+- id: companion_aria
+  translation: "نمونهٔ همراه مقاله"
+
+- id: companion_offer_demo
+  translation: "دموی زنده"
+
+- id: companion_offer_source
+  translation: "سورس کامل"
+
+- id: companion_try_demo
+  translation: "امتحان دموی زنده"
+
+- id: companion_view_source
+  translation: "مشاهده سورس"
+
+- id: companion_type_lab
+  translation: "آزمایشگاه تعاملی"
+
+- id: companion_desc_both
+  translation: "یک نمونهٔ کاملاً کارآمد برای این مقاله — در مرورگر اجرا کنید یا سورس را بررسی کنید."
+
+- id: companion_desc_demo
+  translation: "یک نمونهٔ تعاملی کاملاً کارآمد برای این مقاله — بدون کلون کردن در مرورگر باز کنید."
+
+- id: companion_desc_source
+  translation: "یک نمونهٔ کامل و کارآمد برای این مقاله — سورس را در %s ببینید."
+
 - id: playground_read_article
   translation: "خواندن مقاله"
 

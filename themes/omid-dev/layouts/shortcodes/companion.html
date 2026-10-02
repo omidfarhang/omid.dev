@@ -68,58 +68,113 @@
   {{- $demoUrl = printf "%s/%s/%s/" (strings.TrimSuffix "/" $playgroundBase) $examplesPath $demoSlug -}}
 {{- end -}}
 
+{{- /* Resolve playground catalog entry for concrete title/description/stack */ -}}
+{{- $catalog := false -}}
+{{- $lookupSlug := $demoSlug -}}
+{{- if not $lookupSlug -}}
+  {{- with $path -}}{{- $lookupSlug = path.Base . -}}{{- end -}}
+{{- end -}}
+{{- if $lookupSlug -}}
+  {{- range hugo.Data.playground.examples -}}
+    {{- if eq .slug $lookupSlug -}}{{- $catalog = . -}}{{- end -}}
+  {{- end -}}
+  {{- if not $catalog -}}
+    {{- range hugo.Data.playground.labs -}}
+      {{- if eq .slug $lookupSlug -}}{{- $catalog = . -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 {{- if or $sourceUrl $demoUrl -}}
-  {{- $title := .Get "title" | default "Companion Project" -}}
+  {{- $title := .Get "title" -}}
+  {{- if not $title -}}
+    {{- if $catalog -}}
+      {{- $title = $catalog.title -}}
+    {{- else if $path -}}
+      {{- $title = path.Base $path | humanize | title -}}
+    {{- else -}}
+      {{- $title = "Companion Project" -}}
+    {{- end -}}
+  {{- end -}}
   {{- $description := .Get "description" -}}
   {{- if not $description -}}
-    {{- if and $sourceUrl $demoUrl -}}
-      {{- $description = "Try the working example in your browser or inspect the full source code behind this article." -}}
+    {{- if $catalog -}}
+      {{- $description = $catalog.description -}}
+    {{- else if and $sourceUrl $demoUrl -}}
+      {{- $description = i18n "companion_desc_both" | default "A fully working example for this article — run it in the browser, or dig into the source." -}}
     {{- else if $demoUrl -}}
-      {{- $description = "Try the companion project in your browser without cloning the repository." -}}
+      {{- $description = i18n "companion_desc_demo" | default "A fully working interactive example for this article — open it in the browser, no clone required." -}}
     {{- else -}}
-      {{- $description = printf "Explore the complete working example on %s." $providerName -}}
+      {{- $description = printf (i18n "companion_desc_source" | default "A complete working example for this article — explore the full source on %s.") $providerName -}}
     {{- end -}}
   {{- end -}}
-  {{- $eyebrow := .Get "eyebrow" | default "Companion resource" -}}
-  {{- $sourceLabel := .Get "sourceLabel" | default (.Get "label") | default (printf "View on %s" $providerName) -}}
-  {{- $demoLabel := .Get "demoLabel" | default "Open live demo" -}}
-  {{- $display := .Get "display" -}}
-  {{- if and (not $display) $sourceUrl -}}
-    {{- if and $host $repo $path -}}
-      {{- $display = printf "%s/%s/%s" $host $repo $sourcePath -}}
-    {{- else if and $repo $path -}}
-      {{- $display = printf "%s/%s" $repo $sourcePath -}}
+  {{- $sourceLabel := .Get "sourceLabel" | default (.Get "label") | default (i18n "companion_view_source" | default (printf "View source on %s" $providerName)) -}}
+  {{- $demoLabel := .Get "demoLabel" | default (i18n "companion_try_demo" | default "Try the live demo") -}}
+  {{- $icon := .Get "icon" -}}
+  {{- if not $icon -}}
+    {{- if $demoUrl -}}
+      {{- $icon = "fa-solid fa-flask" -}}
     {{- else -}}
-      {{- $display = replaceRE "^https?://(www\\.)?" "" $sourceUrl -}}
+      {{- $icon = "fa-solid fa-code" -}}
     {{- end -}}
   {{- end -}}
-  {{- $icon := .Get "icon" | default "fa-solid fa-cubes-stacked" -}}
 
-<aside class="card card--accent card--companion companion-card">
-  <span class="icon-circle icon-circle--lg icon-circle--gradient companion-card__icon" aria-hidden="true">
+  {{- $typeLabel := "" -}}
+  {{- with $catalog -}}
+    {{- $typeLabel = .type | default "" -}}
+    {{- if eq .kind "lab" -}}
+      {{- $typeLabel = i18n "companion_type_lab" | default "Interactive lab" -}}
+    {{- else if eq $typeLabel "angular" -}}
+      {{- $typeLabel = "Angular" -}}
+    {{- else if eq $typeLabel "rust-wasm" -}}
+      {{- $typeLabel = "Rust / WASM" -}}
+    {{- else if eq $typeLabel "qwik-mfe" -}}
+      {{- $typeLabel = "Micro Frontends" -}}
+    {{- else if eq $typeLabel "stencil-angular" -}}
+      {{- $typeLabel = "Web Components" -}}
+    {{- else if eq $typeLabel "angular-workspace" -}}
+      {{- $typeLabel = "Angular Workspace" -}}
+    {{- else if eq $typeLabel "vite" -}}
+      {{- $typeLabel = "Vite" -}}
+    {{- else if eq $typeLabel "static-html" -}}
+      {{- $typeLabel = "HTML / CSS" -}}
+    {{- else if $typeLabel -}}
+      {{- $typeLabel = $typeLabel | humanize | title -}}
+    {{- end -}}
+  {{- end -}}
+
+<aside class="card card--companion companion-card" role="complementary" aria-label="{{ i18n "companion_aria" | default "Article companion" }}">
+  <span class="icon-circle icon-circle--sm companion-card__icon" aria-hidden="true">
     <i class="{{ $icon }}"></i>
   </span>
-  <span class="companion-card__content">
-    <span class="section-kicker companion-card__eyebrow">{{ $eyebrow }}</span>
+  <span class="companion-card__body">
+    <span class="companion-card__offers">
+      {{- if $demoUrl -}}
+        <span class="companion-card__offer">{{ i18n "companion_offer_demo" | default "Live demo" }}</span>
+      {{- end -}}
+      {{- if $sourceUrl -}}
+        <span class="companion-card__offer">{{ i18n "companion_offer_source" | default "Full source" }}</span>
+      {{- end -}}
+      {{- with $typeLabel -}}
+        <span class="companion-card__offer companion-card__offer--stack">{{ . }}</span>
+      {{- end -}}
+    </span>
     <strong class="companion-card__title">{{ $title }}</strong>
     <span class="companion-card__description">{{ $description }}</span>
-    {{- with $display }}
-      <code class="companion-card__path">{{ . }}</code>
-    {{- end }}
-  </span>
-  <span class="companion-card__actions btn-group">
-    {{- with $demoUrl }}
-      <a class="btn btn--accent btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
-        <i class="fa-solid fa-play" aria-hidden="true"></i>
-        {{ $demoLabel }}
-      </a>
-    {{- end }}
-    {{- with $sourceUrl }}
-      <a class="btn{{ if $demoUrl }} btn--secondary{{ else }} btn--accent{{ end }} btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
-        <i class="{{ $sourceIcon }}" aria-hidden="true"></i>
-        {{ $sourceLabel }}
-      </a>
-    {{- end }}
+    <span class="companion-card__actions btn-group">
+      {{- with $demoUrl }}
+        <a class="btn btn--accent btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+          <i class="fa-solid fa-play" aria-hidden="true"></i>
+          {{ $demoLabel }}
+        </a>
+      {{- end }}
+      {{- with $sourceUrl }}
+        <a class="btn{{ if $demoUrl }} btn--secondary{{ else }} btn--accent{{ end }} btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+          <i class="{{ $sourceIcon }}" aria-hidden="true"></i>
+          {{ $sourceLabel }}
+        </a>
+      {{- end }}
+    </span>
   </span>
 </aside>
 {{- else -}}

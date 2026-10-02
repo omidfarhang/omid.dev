@@ -182,6 +182,33 @@
 - id: playground_open_demo
   translation: "Demo öffnen"
 
+- id: companion_aria
+  translation: "Begleitbeispiel zum Artikel"
+
+- id: companion_offer_demo
+  translation: "Live-Demo"
+
+- id: companion_offer_source
+  translation: "Vollständiger Quellcode"
+
+- id: companion_try_demo
+  translation: "Live-Demo ausprobieren"
+
+- id: companion_view_source
+  translation: "Quellcode ansehen"
+
+- id: companion_type_lab
+  translation: "Interaktives Labor"
+
+- id: companion_desc_both
+  translation: "Ein voll funktionsfähiges Beispiel zu diesem Artikel — im Browser ausführen oder den Quellcode lesen."
+
+- id: companion_desc_demo
+  translation: "Ein voll funktionsfähiges interaktives Beispiel zu diesem Artikel — im Browser öffnen, ohne zu klonen."
+
+- id: companion_desc_source
+  translation: "Ein vollständiges, funktionsfähiges Beispiel zu diesem Artikel — Quellcode auf %s erkunden."
+
 - id: playground_read_article
   translation: "Artikel lesen"
 
