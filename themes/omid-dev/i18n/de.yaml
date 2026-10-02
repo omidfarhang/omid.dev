@@ -437,11 +437,35 @@
 - id: page_not_found
   translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
 
+- id: 404_actions_label
+  translation: "Wege zurück"
+
+- id: 404_search_cta
+  translation: "Seite durchsuchen"
+
+- id: 404_destinations_title
+  translation: "Wohin als Nächstes"
+
 - id: 404_recent_posts_title
   translation: "Vielleicht haben Sie nach einem dieser Beiträge gesucht?"
 
-- id: 404_hacked
-  translation: "GEHACKT!"
+- id: surprise_me
+  translation: "Überrasch mich"
+
+- id: 404_quote_1
+  translation: "Nicht alle, die wandern, sind verloren."
+
+- id: 404_quote_2
+  translation: "Die Seite, die Sie suchen, ist im digitalen Nichts verschwunden."
+
+- id: 404_quote_3
+  translation: "Selbst die besten Entdecker verirren sich manchmal."
+
+- id: 404_quote_4
+  translation: "Dieser Weg führt ins Nirgendwo, aber es gibt viele andere zu entdecken."
+
+- id: 404_quote_5
+  translation: "404: Ein schöner Ort, um verloren zu sein, aber ein besserer Ort, um neu anzufangen."
 
 - id: follow_me
   translation: "Folge mir"
@@ -511,18 +535,6 @@
 
 - id: add_recommendation_desc
   translation: "Wenn wir zusammengearbeitet haben und Sie Ihre Erfahrungen teilen möchten, würde ich mich freuen, von Ihnen auf LinkedIn zu hören."
-
-- id: page_not_found
-  translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
-
-- id: 404_recent_posts_title
-  translation: "Vielleicht haben Sie nach einem dieser Beiträge gesucht?"
-
-- id: surprise_me
-  translation: "Überrasch mich"
-  
-- id: related_posts
-  translation: "Ähnliche Beiträge"
 
 - id: related_posts
   translation: "Ähnliche Beiträge"

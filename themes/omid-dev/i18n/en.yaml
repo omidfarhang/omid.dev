@@ -443,14 +443,35 @@
 - id: page_not_found
   translation: "Oops! The page you're looking for doesn't exist."
 
+- id: 404_actions_label
+  translation: "Recovery actions"
+
+- id: 404_search_cta
+  translation: "Search the site"
+
+- id: 404_destinations_title
+  translation: "Where to go"
+
 - id: 404_recent_posts_title
   translation: "Maybe you were looking for one of these?"
 
 - id: surprise_me
   translation: "Surprise Me"
 
-- id: 404_hacked
-  translation: "HACKED"
+- id: 404_quote_1
+  translation: "Not all those who wander are lost."
+
+- id: 404_quote_2
+  translation: "The page you are looking for has drifted into the digital void."
+
+- id: 404_quote_3
+  translation: "Even the best explorers get lost sometimes."
+
+- id: 404_quote_4
+  translation: "This path leads to nowhere, but there are plenty of others to explore."
+
+- id: 404_quote_5
+  translation: "404: A beautiful place to be lost, but a better place to start over."
 
 - id: follow_me
   translation: "Follow Me"

@@ -440,14 +440,35 @@
 - id: page_not_found
   translation: "اوه! صفحه‌ای که به دنبال آن هستید وجود ندارد."
 
+- id: 404_actions_label
+  translation: "راه‌های بازگشت"
+
+- id: 404_search_cta
+  translation: "جستجو در سایت"
+
+- id: 404_destinations_title
+  translation: "کجا برویم"
+
 - id: 404_recent_posts_title
   translation: "شاید به دنبال یکی از این‌ها بودید؟"
 
 - id: surprise_me
   translation: "سورپرایزم کن"
 
-- id: 404_hacked
-  translation: "هک شد!"
+- id: 404_quote_1
+  translation: "هر که سرگردان است، لزوماً گم‌گشته نیست."
+
+- id: 404_quote_2
+  translation: "صفحه‌ای که به دنبال آن بودید، در خلأ دیجیتال محو شده است."
+
+- id: 404_quote_3
+  translation: "حتی بهترین کاوشگران هم گاهی مسیر را گم می‌کنند."
+
+- id: 404_quote_4
+  translation: "این راه به جایی نمی‌رسد، اما راه‌های زیادی برای کشف کردن وجود دارد."
+
+- id: 404_quote_5
+  translation: "۴۰۴: مکانی زیبا برای گم شدن، اما مکانی بهتر برای شروعی دوباره."
 
 - id: follow_me
   translation: "من را دنبال کنید"
