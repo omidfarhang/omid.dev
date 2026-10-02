@@ -250,6 +250,10 @@
     border-radius: var(--radius-xl);
 }
 
+.reading-path-page .hub-page-body.post-single.page-shell {
+    box-shadow: none;
+}
+
 .hub-page-body > .article-body {
     padding-bottom: var(--space-8);
 }
