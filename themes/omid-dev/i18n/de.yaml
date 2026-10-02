@@ -27,7 +27,16 @@
   translation: "Menü schließen"
 
 - id: theme_toggle
-  translation: "Design umschalten"
+  translation: "Design"
+
+- id: theme_system
+  translation: "System"
+
+- id: theme_light
+  translation: "Hell"
+
+- id: theme_dark
+  translation: "Dunkel"
 
 - id: home
   translation: "Home"

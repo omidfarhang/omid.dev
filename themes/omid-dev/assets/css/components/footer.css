@@ -436,7 +436,7 @@ body:not(.dark) .footer {
 }
 
 .top-link:focus,
-#theme-toggle:focus {
+.theme-switch__option:focus {
     outline: 0;
 }
 

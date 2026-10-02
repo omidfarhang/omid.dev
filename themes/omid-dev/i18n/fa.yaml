@@ -27,7 +27,16 @@
   translation: "بستن منو"
 
 - id: theme_toggle
-  translation: "تغییر پوسته"
+  translation: "پوسته"
+
+- id: theme_system
+  translation: "سیستم"
+
+- id: theme_light
+  translation: "روشن"
+
+- id: theme_dark
+  translation: "تاریک"
 
 - id: home
   translation: "خانه"

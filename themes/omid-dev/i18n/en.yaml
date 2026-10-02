@@ -27,7 +27,16 @@
   translation: "Close menu"
 
 - id: theme_toggle
-  translation: "Toggle theme"
+  translation: "Theme"
+
+- id: theme_system
+  translation: "System"
+
+- id: theme_light
+  translation: "Light"
+
+- id: theme_dark
+  translation: "Dark"
 
 - id: home
   translation: "Home"
