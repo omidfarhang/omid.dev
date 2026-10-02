@@ -169,8 +169,9 @@
     object-fit: cover;
 }
 
-/* Rich pagination */
-.posts-list-content .pagination-rich {
+/* Rich pagination — shared by posts + notes list shells */
+.posts-list-content .pagination-rich,
+.notes-list-content .pagination-rich {
     margin-top: var(--space-2);
     margin-bottom: 0;
     padding: var(--space-2) var(--space-3);
@@ -180,7 +181,8 @@
     box-shadow: var(--shadow-sm);
 }
 
-.posts-list-content .pagination-nav {
+.posts-list-content .pagination-nav,
+.notes-list-content .pagination-nav {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -190,23 +192,29 @@
     padding: 0;
 }
 
-.posts-list-content .pagination-nav .btn--page {
+.posts-list-content .pagination-nav .btn--page,
+.notes-list-content .pagination-nav .btn--page {
     line-height: var(--leading-tight);
     white-space: nowrap;
 }
 
 .posts-list-content .pagination-nav .page-prev,
-.posts-list-content .pagination-nav .page-next {
+.posts-list-content .pagination-nav .page-next,
+.notes-list-content .pagination-nav .page-prev,
+.notes-list-content .pagination-nav .page-next {
     padding: 0 var(--space-4);
 }
 
 .posts-list-content .pagination-nav .page-first,
-.posts-list-content .pagination-nav .page-last {
+.posts-list-content .pagination-nav .page-last,
+.notes-list-content .pagination-nav .page-first,
+.notes-list-content .pagination-nav .page-last {
     font-size: var(--text-subtitle-lg);
     padding: 0 var(--space-3);
 }
 
-.posts-list-content .pagination-nav .page-ellipsis {
+.posts-list-content .pagination-nav .page-ellipsis,
+.notes-list-content .pagination-nav .page-ellipsis {
     min-width: 28px;
     text-align: center;
     color: var(--secondary);
@@ -296,7 +304,8 @@
         padding: var(--space-6) var(--space-5);
     }
 
-    .posts-list-content .pagination-nav .page-btn {
+    .posts-list-content .pagination-nav .page-btn,
+    .notes-list-content .pagination-nav .page-btn {
         min-width: 36px;
         height: 36px;
         font-size: var(--text-sm);

@@ -15,6 +15,7 @@
     display: flex;
     flex-direction: column;
     gap: var(--space-4);
+    margin-bottom: var(--space-2);
 }
 
 .note-entry {
@@ -22,12 +23,6 @@
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
     background: var(--theme);
-    box-shadow: var(--shadow-sm);
-    transition: border-color 0.15s ease, box-shadow 0.15s ease;
-}
-
-.note-entry:hover {
-    border-color: var(--accent-border-soft);
 }
 
 .note-entry-layout {
@@ -49,13 +44,6 @@
 
 .note-entry-main {
     min-width: 0;
-}
-
-.notes-feed {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-4);
-    margin-bottom: var(--space-2);
 }
 
 .note-entry-header {
@@ -346,51 +334,6 @@ a.note-entry-date:hover {
     font-size: var(--text-ui-md);
 }
 
-/* Notes pagination */
-.notes-list-content .pagination-rich {
-    margin-top: var(--space-6);
-    margin-bottom: var(--space-8);
-    padding: var(--space-3) var(--space-4);
-    background: var(--theme);
-    border-radius: var(--radius-lg);
-    border: 1px solid var(--border);
-    box-shadow: var(--shadow-sm);
-}
-
-.notes-list-content .pagination-nav {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    gap: var(--space-2);
-    margin: 0;
-    padding: 0;
-}
-
-.notes-list-content .pagination-nav .btn--page {
-    line-height: var(--leading-tight);
-    white-space: nowrap;
-}
-
-.notes-list-content .pagination-nav .page-prev,
-.notes-list-content .pagination-nav .page-next {
-    padding: 0 var(--space-4);
-}
-
-.notes-list-content .pagination-nav .page-first,
-.notes-list-content .pagination-nav .page-last {
-    font-size: var(--text-subtitle-lg);
-    padding: 0 var(--space-3);
-}
-
-.notes-list-content .pagination-nav .page-ellipsis {
-    min-width: 28px;
-    text-align: center;
-    color: var(--secondary);
-    font-weight: var(--font-bold);
-    user-select: none;
-}
-
 @media (max-width: 768px) {
     .note-entry {
         padding: var(--space-4);
@@ -407,11 +350,5 @@ a.note-entry-date:hover {
 
     .note-entry-body {
         font-size: var(--text-input);
-    }
-
-    .notes-list-content .pagination-nav .page-btn {
-        min-width: 36px;
-        height: 36px;
-        font-size: var(--text-sm);
     }
 }
