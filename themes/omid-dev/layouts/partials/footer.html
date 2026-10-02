@@ -215,10 +215,10 @@
 {{- if (not site.Params.disableThemeToggle) }}
 <script>
     (function () {
-        const switchEl = document.getElementById("theme-toggle");
-        if (!switchEl) return;
+        const switches = Array.from(document.querySelectorAll(".theme-switch"));
+        if (!switches.length) return;
 
-        const options = Array.from(switchEl.querySelectorAll("[data-theme]"));
+        const themes = ["system", "light", "dark"];
 
         function applyTheme(theme) {
             localStorage.setItem("pref-theme", theme);
@@ -236,55 +236,60 @@
                 else document.body.classList.remove("dark");
             }
 
-            syncSwitch(theme);
+            syncSwitches(theme);
         }
 
-        function syncSwitch(theme) {
-            options.forEach((btn) => {
-                const active = btn.dataset.theme === theme;
-                btn.setAttribute("aria-checked", active ? "true" : "false");
-                btn.tabIndex = active ? 0 : -1;
+        function syncSwitches(theme) {
+            switches.forEach((switchEl) => {
+                switchEl.querySelectorAll("[data-theme]").forEach((btn) => {
+                    const active = btn.dataset.theme === theme;
+                    btn.setAttribute("aria-checked", active ? "true" : "false");
+                    btn.tabIndex = active ? 0 : -1;
+                });
             });
         }
 
         const initial = localStorage.getItem("pref-theme") || "system";
-        syncSwitch(initial);
+        syncSwitches(initial);
 
-        switchEl.addEventListener("click", (event) => {
-            const btn = event.target.closest("[data-theme]");
-            if (!btn || !switchEl.contains(btn)) return;
-            applyTheme(btn.dataset.theme);
-        });
+        switches.forEach((switchEl) => {
+            switchEl.addEventListener("click", (event) => {
+                const btn = event.target.closest("[data-theme]");
+                if (!btn || !switchEl.contains(btn)) return;
+                applyTheme(btn.dataset.theme);
+            });
 
-        switchEl.addEventListener("keydown", (event) => {
-            const current = options.findIndex((btn) => btn.getAttribute("aria-checked") === "true");
-            if (current < 0) return;
+            switchEl.addEventListener("keydown", (event) => {
+                const options = Array.from(switchEl.querySelectorAll("[data-theme]"));
+                const current = options.findIndex((btn) => btn.getAttribute("aria-checked") === "true");
+                if (current < 0) return;
 
-            let next = current;
-            if (event.key === "ArrowRight" || event.key === "ArrowDown") {
-                next = (current + 1) % options.length;
-            } else if (event.key === "ArrowLeft" || event.key === "ArrowUp") {
-                next = (current - 1 + options.length) % options.length;
-            } else if (event.key === "Home") {
-                next = 0;
-            } else if (event.key === "End") {
-                next = options.length - 1;
-            } else {
-                return;
-            }
+                let next = current;
+                if (event.key === "ArrowRight" || event.key === "ArrowDown") {
+                    next = (current + 1) % options.length;
+                } else if (event.key === "ArrowLeft" || event.key === "ArrowUp") {
+                    next = (current - 1 + options.length) % options.length;
+                } else if (event.key === "Home") {
+                    next = 0;
+                } else if (event.key === "End") {
+                    next = options.length - 1;
+                } else {
+                    return;
+                }
 
-            event.preventDefault();
-            applyTheme(options[next].dataset.theme);
-            options[next].focus();
+                event.preventDefault();
+                applyTheme(options[next].dataset.theme);
+                options[next].focus();
+            });
         });
 
         document.addEventListener("keydown", (event) => {
             if (!(event.altKey && (event.key === "t" || event.key === "T"))) return;
             if (event.target && ["INPUT", "TEXTAREA", "SELECT"].includes(event.target.tagName)) return;
             event.preventDefault();
-            const current = options.findIndex((btn) => btn.getAttribute("aria-checked") === "true");
-            const next = options[(current + 1) % options.length];
-            applyTheme(next.dataset.theme);
+            const current = themes.indexOf(localStorage.getItem("pref-theme") || "system");
+            const next = themes[(current + 1) % themes.length];
+            applyTheme(next);
         });
     })();
 </script>
