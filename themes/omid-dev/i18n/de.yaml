@@ -374,6 +374,30 @@
 - id: search_unavailable
   translation: "Suche ist nicht verfügbar. Bauen Sie die Site und führen Sie die Pagefind-Indexierung aus."
 
+- id: search_palette_hint
+  translation: "Tippen, um Beiträge, Notizen und Seiten zu durchsuchen."
+
+- id: search_palette_searching
+  translation: "Suche läuft…"
+
+- id: search_palette_results
+  translation: "Suchergebnisse"
+
+- id: search_palette_more
+  translation: "Alle Ergebnisse"
+
+- id: search_palette_full
+  translation: "Vollständige Suche"
+
+- id: search_palette_navigate
+  translation: "navigieren"
+
+- id: search_palette_open
+  translation: "öffnen"
+
+- id: search_palette_dismiss
+  translation: "schließen"
+
 - id: page_not_found
   translation: "Hoppla! Die Seite, die Sie suchen, existiert nicht."
 

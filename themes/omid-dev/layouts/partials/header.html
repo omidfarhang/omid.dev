@@ -82,18 +82,8 @@
             });
         }
 
-        // Global search shortcut
+        // Mobile menu Escape only — search shortcuts live in search-palette.js
         document.addEventListener('keydown', function(e) {
-            if (e.key === '/' && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
-                e.preventDefault();
-                const searchInput = document.getElementById('searchInput');
-                if (searchInput) {
-                    searchInput.focus();
-                } else {
-                    window.location.href = '{{ "search/" | absLangURL }}';
-                }
-            }
-
             if (e.key === 'Escape') {
                 const nav = document.querySelector('.mobile-menu');
                 if (nav && nav.classList.contains('active')) {
@@ -192,11 +182,13 @@
         <div class="logo-switches">
             {{- partial "lang_switch.html" (dict "page" . "class" "header-lang" "codes" true) }}
 
-            <a class="search-button" href="{{ "search" | absLangURL }}" aria-label="{{ i18n "search" | default "Search" }}" title="{{ i18n "search" | default "Search" }} (Alt + /)">
-                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <a class="search-button" href="{{ "search" | absLangURL }}" data-search-open aria-label="{{ i18n "search" | default "Search" }}" title="{{ i18n "search" | default "Search" }} ( / )">
+                <svg class="search-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                     <circle cx="11" cy="11" r="8"></circle>
                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                 </svg>
+                <span class="search-button__label">{{ i18n "search" | default "Search" }}</span>
+                <kbd class="search-button__kbd" aria-hidden="true">/</kbd>
             </a>
             {{- if (not site.Params.disableThemeToggle) }}
             <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="{{ i18n "theme_toggle" | default "Toggle theme" }}">

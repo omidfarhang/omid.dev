@@ -380,6 +380,30 @@
 - id: search_unavailable
   translation: "Search is unavailable. Build the site and run Pagefind indexing first."
 
+- id: search_palette_hint
+  translation: "Type to search posts, notes, and pages."
+
+- id: search_palette_searching
+  translation: "Searching…"
+
+- id: search_palette_results
+  translation: "Search results"
+
+- id: search_palette_more
+  translation: "All results"
+
+- id: search_palette_full
+  translation: "Full search"
+
+- id: search_palette_navigate
+  translation: "navigate"
+
+- id: search_palette_open
+  translation: "open"
+
+- id: search_palette_dismiss
+  translation: "close"
+
 - id: page_not_found
   translation: "Oops! The page you're looking for doesn't exist."
 

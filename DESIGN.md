@@ -59,10 +59,11 @@ Documented in `layouts/partials/head.html`. Load order matters.
 **Header**
 
 - Sticky; transparent until `.scrolled` → frosted glass (`backdrop-filter`), soft shadow; scroll-progress hairline on the bottom edge.
-- Three zones inside `max-width: --nav-width`: brand (logo) · primary nav (Posts, Notes, About) · actions (`EN · FA · DE`, search, theme, Contact CTA).
+- Three zones inside `max-width: --nav-width`: brand (logo) · primary nav (Posts, Notes, About) · actions (`EN · FA · DE`, search chip, theme, Contact CTA).
 - Primary nav: medium weight; hover uses `--highlight` marker fill on the label; active gets weight bump + ink underline only (no hover-grow underline).
 - Contact lives in `menu.cta` as a compact `btn btn--primary btn--sm` on desktop — not a peer of the content links. Footer Contact column still owns outreach in the page foot.
 - Language switcher: compact uppercase codes in the header; footer keeps Label/emoji via the shared `lang_switch` partial. Links prefer the current page’s translation, falling back to that language’s home.
+- Search: desktop chip shows label + `/` hint; opens a Pagefind-backed command palette (`search_palette` dialog) instead of navigating away. `/` and `Ctrl/Cmd+K` open it site-wide; full `/search/` remains for scopes and richer UI. Mobile keeps an icon-only trigger.
 - Mobile (≤900px): bar is logo | search | theme | menu. Sheet is a start-aligned editorial list (primary links, hairline, More from `quick_links` + Now/Uses, language row) — not a centered splash of display type.
 - Logo: extrabold, slight hover scale; mark rotates slightly on hover.
 

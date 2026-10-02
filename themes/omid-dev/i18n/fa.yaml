@@ -377,6 +377,30 @@
 - id: search_unavailable
   translation: "جستجو در دسترس نیست. ابتدا سایت را بسازید و ایندکس Pagefind را اجرا کنید."
 
+- id: search_palette_hint
+  translation: "برای جستجو در مطالب، یادداشت‌ها و صفحات تایپ کنید."
+
+- id: search_palette_searching
+  translation: "در حال جستجو…"
+
+- id: search_palette_results
+  translation: "نتایج جستجو"
+
+- id: search_palette_more
+  translation: "همه نتایج"
+
+- id: search_palette_full
+  translation: "جستجوی کامل"
+
+- id: search_palette_navigate
+  translation: "پیمایش"
+
+- id: search_palette_open
+  translation: "باز کردن"
+
+- id: search_palette_dismiss
+  translation: "بستن"
+
 - id: page_not_found
   translation: "اوه! صفحه‌ای که به دنبال آن هستید وجود ندارد."
 

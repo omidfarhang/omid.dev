@@ -125,7 +125,7 @@
 {{- else }}
 <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end }}
-{{- /* Search */}}
+{{- /* Search — full page script on /search/; palette on every page */}}
 {{- if (eq .Layout `search`) -}}
 {{- $fastsearch := resources.Get "js/fastsearch.js" | js.Build | resources.Minify }}
 {{- $license_js := resources.Get "js/license.js" }}
@@ -137,6 +137,13 @@
 <script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
 {{- end }}
 {{- end -}}
+{{- $searchPalette := resources.Get "js/search-palette.js" | js.Build | resources.Minify }}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $searchPaletteFp := $searchPalette | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $searchPaletteFp.RelPermalink }}" integrity="{{ $searchPaletteFp.Data.Integrity }}"></script>
+{{- else }}
+<script defer crossorigin="anonymous" src="{{ $searchPalette.RelPermalink }}"></script>
+{{- end }}
 
 {{- /* Favicons */}}
 <link rel="icon" href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}">
