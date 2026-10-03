@@ -118,6 +118,47 @@
     color: var(--accent);
 }
 
+/* Blog root: year jump under the feed */
+.blog-index-years {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3);
+    margin: var(--space-8) 0 0;
+    padding-block: var(--space-4);
+    border-top: 1px solid var(--border);
+}
+
+.blog-index-years__label {
+    flex-shrink: 0;
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    color: var(--secondary);
+}
+
+.blog-index-years__chips {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+    min-width: 0;
+}
+
+.blog-index-years__all {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-1);
+    margin-inline-start: var(--space-1);
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.blog-index-years__all:hover {
+    text-decoration: underline;
+}
+
 /* Posts grid */
 .posts-list-section {
     margin-bottom: var(--space-5);

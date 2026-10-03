@@ -64,14 +64,15 @@
   <span class="posts-section-nav-label">{{ i18n "also_see" }}:</span>
   <a href="{{ $postsSection.Permalink }}" class="chip chip--pill">{{ i18n "all" }}</a>
   {{- range $postsSection.Sections }}
-  {{- if ne .Title $.Title }}
-  <a href="{{ .Permalink }}" class="chip chip--pill"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>{{ .Title }}</a>
-  {{- end }}
+  {{- $isCurrent := eq .RelPermalink $.RelPermalink }}
+  <a href="{{ .Permalink }}" class="chip chip--pill{{ if $isCurrent }} chip--active{{ end }}"{{ if $isCurrent }} aria-current="page"{{ end }}{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>{{ .Title }}</a>
   {{- end }}
 </nav>
 {{- end }}
 
 {{- if $isPostsRoot }}
+  {{- $isFirstPage := eq $paginator.PageNumber 1 }}
+  {{- if $isFirstPage }}
   <section class="blog-category-browse" aria-labelledby="blog-browse-title">
     <h2 id="blog-browse-title" class="section-title section-title--page">{{ i18n "browse_categories" }}</h2>
     <div class="blog-category-grid">
@@ -107,8 +108,48 @@
       {{- end }}
     </div>
   </section>
-  {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
+  {{- else }}
+  <nav class="posts-section-nav panel panel--tinted" aria-label="{{ i18n "browse_categories" }}">
+    <span class="posts-section-nav-label">{{ i18n "browse_categories" }}:</span>
+    {{- range $postsSection.Sections }}
+    <a href="{{ .Permalink }}" class="chip chip--pill"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>{{ .Title }}</a>
+    {{- end }}
+  </nav>
+  {{- end }}
+
+  {{- $feedClass := cond $isFirstPage "posts-list-section--featured-first" "" }}
+  {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" $feedClass) }}
   {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+
+  {{- $archivesPage := site.GetPage "section" "archives" }}
+  {{- $yearCounts := dict -}}
+  {{- $years := slice -}}
+  {{- range where site.RegularPages "Section" "posts" -}}
+    {{- $y := printf "%d" .Date.Year -}}
+    {{- $yearCounts = merge $yearCounts (dict $y (add (index $yearCounts $y | default 0) 1)) -}}
+    {{- if not (in $years $y) -}}
+      {{- $years = $years | append $y -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $yearItems := slice -}}
+  {{- range $year := sort $years "value" "desc" -}}
+    {{- with site.GetPage (printf "archives/%s" $year) -}}
+      {{- $yearItems = $yearItems | append (dict "href" .RelPermalink "year" $year "count" (index $yearCounts $year)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $yearItems }}
+  <nav class="blog-index-years" aria-label="{{ i18n "archive_years" }}">
+    <span class="blog-index-years__label">{{ i18n "archive_years" }}</span>
+    <div class="blog-index-years__chips archive-chip-row">
+      {{- range $yearItems }}
+      <a class="chip chip--pill" href="{{ .href }}" title="{{ .count }} {{ cond (eq .count 1) (i18n "archive_post") (i18n "archive_posts") }}">{{ .year }}</a>
+      {{- end }}
+      {{- with $archivesPage }}
+      <a class="blog-index-years__all" href="{{ .RelPermalink }}">{{ .Title }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      {{- end }}
+    </div>
+  </nav>
+  {{- end }}
 {{- else }}
   {{- $sectionSlug := partial "post_category.html" . }}
   {{- partial "get_all_series.html" (dict "Page" . "section" $sectionSlug) -}}

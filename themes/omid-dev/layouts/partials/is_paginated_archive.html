@@ -5,7 +5,7 @@
   (and (eq .Kind "section") (eq .Section "posts"))
   (eq .Section "posts")
   (and (eq .Kind "section") (eq .Section $notesSection))
-  (and (eq .Section "archives") (.Params.archiveMonth))
+  (and (eq .Section "archives") (.Params.archiveYear))
 -}}
 {{- if $check -}}
   {{- with try .Paginator -}}
