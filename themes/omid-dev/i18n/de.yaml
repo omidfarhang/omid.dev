@@ -233,6 +233,12 @@
 - id: browse_categories
   translation: "Nach Thema stöbern"
 
+- id: blog_tech_discovery
+  translation: "Themen, Lesepfade & Serien im TechBlog"
+
+- id: blog_category_explore
+  translation: "Bereich erkunden"
+
 - id: all_posts
   translation: "Alle Artikel"
 

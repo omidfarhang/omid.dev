@@ -7,17 +7,19 @@
   {{- $byId = merge $byId (dict .id .) -}}
 {{- end -}}
 {{- $assigned := dict -}}
-{{- $groups := site.Params.seriesPathGroups | default slice -}}
+{{- $pathGroups := site.Params.seriesPathGroups | default slice -}}
 
-{{- $titleFor := dict
+{{- $pathTitleFor := dict
   "angular-platform" "reading_path_angular_title"
   "engineering-leadership" "reading_path_leadership_title"
   "systems-and-linux" "reading_path_systems_title"
   "frontend-quality" "reading_path_quality_title"
   "ai-data-tools" "reading_path_ai_title"
   "frontend-architecture" "reading_path_architecture_title"
-  "other" "series_group_other"
 -}}
+
+{{- /* Preferred category order for non-path groups */ -}}
+{{- $catOrder := slice "techblog" "electronics" "health" "cozy-corner" -}}
 
 <div class="posts-list-content series-index-page discovery-index-page">
   <header class="page-hero--contained panel--hero-gradient page-hero--section">
@@ -44,7 +46,8 @@
   </header>
 
   <div class="discovery-index-body">
-    {{- range $groups }}
+    {{- /* TechBlog series curated by reading path */ -}}
+    {{- range $pathGroups }}
       {{- $groupSeries := slice -}}
       {{- range .series }}
         {{- with index $byId . }}
@@ -53,8 +56,8 @@
         {{- end }}
       {{- end }}
       {{- if gt (len $groupSeries) 0 }}
-      {{- $i18nKey := index $titleFor .id | default "series_group_other" -}}
-      {{- $groupTitle := i18n $i18nKey -}}
+      {{- $i18nKey := index $pathTitleFor .id | default "" -}}
+      {{- $groupTitle := cond (ne $i18nKey "") (i18n $i18nKey) .id -}}
       <section class="discovery-index-group" aria-labelledby="series-group-{{ .id }}">
         <div class="hub-section__header">
           <h2 id="series-group-{{ .id }}" class="section-title section-title--page">{{ $groupTitle }}</h2>
@@ -67,23 +70,57 @@
       {{- end }}
     {{- end }}
 
-    {{- /* Leftover listed series not in any group */ -}}
-    {{- $leftover := slice -}}
+    {{- /* Remaining listed series, grouped by post category */ -}}
+    {{- $byCat := dict -}}
     {{- range $allSeries }}
       {{- if not (index $assigned .id) }}
-        {{- $leftover = $leftover | append . -}}
+        {{- $cat := .category | default "other" -}}
+        {{- $bucket := index $byCat $cat | default slice -}}
+        {{- $byCat = merge $byCat (dict $cat ($bucket | append .)) -}}
       {{- end }}
     {{- end }}
-    {{- if gt (len $leftover) 0 }}
-    <section class="discovery-index-group" aria-labelledby="series-group-leftover">
-      <h2 id="series-group-leftover" class="section-title section-title--page">{{ i18n "series_group_other" }}</h2>
-      {{- partial "series_cards.html" (dict "series" $leftover "list" true) }}
-    </section>
+
+    {{- $seenCat := dict -}}
+    {{- range $catOrder }}
+      {{- $cat := . -}}
+      {{- $groupSeries := index $byCat $cat | default slice -}}
+      {{- if gt (len $groupSeries) 0 }}
+        {{- $seenCat = merge $seenCat (dict $cat true) -}}
+        {{- $sectionPage := site.GetPage (printf "posts/%s" $cat) -}}
+        {{- $catTitle := $cat -}}
+        {{- with $sectionPage }}{{ $catTitle = .Title }}{{ end -}}
+        <section class="discovery-index-group" aria-labelledby="series-cat-{{ $cat }}">
+          <div class="hub-section__header">
+            <h2 id="series-cat-{{ $cat }}" class="section-title section-title--page">{{ $catTitle }}</h2>
+            {{- with $sectionPage }}
+            <a href="{{ .RelPermalink }}" class="hub-section__link">{{ i18n "blog_category_explore" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
+            {{- end }}
+          </div>
+          {{- partial "series_cards.html" (dict "series" $groupSeries "list" true) }}
+        </section>
+      {{- end }}
+    {{- end }}
+
+    {{- range $cat, $groupSeries := $byCat }}
+      {{- if not (index $seenCat $cat) }}
+        {{- $sectionPage := site.GetPage (printf "posts/%s" $cat) -}}
+        {{- $catTitle := cond (eq $cat "other") (i18n "series_group_other") $cat -}}
+        {{- with $sectionPage }}{{ $catTitle = .Title }}{{ end -}}
+        <section class="discovery-index-group" aria-labelledby="series-cat-{{ $cat }}">
+          <div class="hub-section__header">
+            <h2 id="series-cat-{{ $cat }}" class="section-title section-title--page">{{ $catTitle }}</h2>
+            {{- with $sectionPage }}
+            <a href="{{ .RelPermalink }}" class="hub-section__link">{{ i18n "blog_category_explore" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
+            {{- end }}
+          </div>
+          {{- partial "series_cards.html" (dict "series" $groupSeries "list" true) }}
+        </section>
+      {{- end }}
     {{- end }}
 
     <footer class="discovery-index-footer">
       <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_reading_paths" }} <span class="chip__arrow" aria-hidden="true"></span></a>
-      <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
+      <a href="{{ "/posts/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_posts" }}</a>
     </footer>
   </div>
 </div>

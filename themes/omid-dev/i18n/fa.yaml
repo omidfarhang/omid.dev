@@ -233,6 +233,12 @@
 - id: browse_categories
   translation: "مرور بر اساس موضوع"
 
+- id: blog_tech_discovery
+  translation: "موضوعات، مسیرهای مطالعه و سری‌ها در تک‌بلاگ"
+
+- id: blog_category_explore
+  translation: "کاوش بخش"
+
 - id: all_posts
   translation: "همه مطالب"
 

@@ -236,6 +236,12 @@
 - id: browse_categories
   translation: "Browse by Topic"
 
+- id: blog_tech_discovery
+  translation: "Topics, reading paths & series on TechBlog"
+
+- id: blog_category_explore
+  translation: "Explore section"
+
 - id: all_posts
   translation: "All Articles"
 

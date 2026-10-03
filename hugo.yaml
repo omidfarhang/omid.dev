@@ -448,7 +448,8 @@ params:
     - frontend-testing
     - jupyter-copilot
 
-  # Series index groups by primary reading path (one group per series id)
+  # TechBlog series subgroups on /series/ by primary reading path (one group per series id).
+  # Non-TechBlog series are grouped automatically by post category.
   seriesPathGroups:
     - id: angular-platform
       path: /posts/techblog/paths/angular-platform/
@@ -482,9 +483,6 @@ params:
       path: /posts/techblog/paths/frontend-architecture/
       series:
         - micro-frontends
-    - id: other
-      series:
-        - hardware-debugging
 
   displayFullLangName: true
   comments: true

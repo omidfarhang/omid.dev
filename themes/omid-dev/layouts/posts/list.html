@@ -59,95 +59,7 @@
 </div>
 {{- end }}
 
-{{- if $isPostsRoot }}
-  <div class="layout-split layout-split--sidebar-340 blog-index-layout">
-    <div class="blog-index-main">
-      {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
-      {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
-    </div>
-    <aside class="panel panel--tinted panel--sidebar blog-index-sidebar topics-sidebar" aria-labelledby="blog-index-sidebar-title">
-      <h2 id="blog-index-sidebar-title" class="section-title section-title--sidebar">{{ i18n "browse_categories" }}</h2>
-    {{- if $techSection }}
-    <a href="{{ $techSection.Permalink }}" class="card card--interactive card--horizontal card--promo tech-focus-card">
-      <span class="icon-circle icon-circle--sm icon-circle--filled tech-focus-icon"><i class="fa-solid fa-laptop-code"></i></span>
-      <span class="card--promo-content tech-focus-content">
-        <span class="section-kicker section-kicker--subtle tech-focus-kicker">{{ i18n "tech_topics" }}</span>
-        <span class="tech-focus-title">{{ $techSection.Title }}</span>
-        {{- with $techSection.Description }}
-        <span class="tech-focus-desc">{{ . }}</span>
-        {{- else }}
-        <span class="tech-focus-desc">{{ $techSection.Content | plainify | truncate 120 }}</span>
-        {{- end }}
-        <span class="card__cta tech-focus-meta">{{ T "all" }} {{ len $techSection.RegularPagesRecursive }} {{ T "posts" }} →</span>
-      </span>
-    </a>
-    {{- end }}
-    {{- partial "tech_topics_grid.html" (dict
-      "showFeatured" false
-      "compact" true
-      "showCoreStack" true
-      "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
-      "professionalTags" site.Params.homeTechTagsProfessional
-      "technicalTags" site.Params.homeTechTagsTechnical
-    ) }}
-    {{- if $postsSection }}
-    <div class="life-links">
-      <h3 class="topics-subtitle topics-subtitle--rule">{{ i18n "life_interests" }}</h3>
-      {{- range $postsSection.Sections }}
-      {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
-      <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>
-        <span class="icon-circle icon-circle--xs life-link-icon">
-          {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
-          {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
-          {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
-          {{- else }}<i class="fa-solid fa-tag"></i>
-          {{- end }}
-        </span>
-        <span class="life-link-text">
-          <span>{{ .Title }}</span>
-          <small>{{ T "all" }} {{ len .RegularPagesRecursive }} {{ T "posts" }}</small>
-        </span>
-      </a>
-      {{- end }}
-      {{- end }}
-    </div>
-    {{- end }}
-    </aside>
-  </div>
-{{- else if $isTechSection }}
-  <section class="hub-section reading-paths-section" aria-labelledby="tech-reading-paths-title">
-    <div class="hub-section__header">
-      <h2 id="tech-reading-paths-title" class="section-title section-title--page">{{ i18n "reading_paths_title" }}</h2>
-      <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="hub-section__link">{{ i18n "view_all_reading_paths" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
-    </div>
-    {{- partial "reading_path_cards.html" . }}
-  </section>
-
-  {{- partial "get_all_series.html" (dict "Page" . "section" "techblog") -}}
-  {{- $allSeries := .Scratch.Get "allSeriesList" -}}
-  <section class="hub-section series-strip-section" aria-labelledby="tech-series-strip-title">
-    <div class="hub-section__header">
-      <h2 id="tech-series-strip-title" class="section-title section-title--page">{{ i18n "active_series_title" }}</h2>
-      <a href="{{ relLangURL "/series/" }}" class="hub-section__link">{{ i18n "view_all_series" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
-    </div>
-    {{- partial "series_cards.html" (dict
-      "series" $allSeries
-      "featuredIds" site.Params.homeFeaturedSeries
-      "list" true
-    ) }}
-  </section>
-
-  {{- partial "tech_topics_grid.html" (dict
-    "showFeatured" false
-    "list" true
-    "showCoreStack" true
-    "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
-    "professionalTags" site.Params.homeTechTagsProfessional
-    "technicalTags" site.Params.homeTechTagsTechnical
-  ) }}
-{{- end }}
-
-{{- if and $postsSection (not $isPostsRoot) (not $isTechSection) }}
+{{- if and $postsSection (not $isPostsRoot) }}
 <nav class="posts-section-nav panel panel--tinted" aria-label="{{ i18n "browse_categories" }}">
   <span class="posts-section-nav-label">{{ i18n "also_see" }}:</span>
   <a href="{{ $postsSection.Permalink }}" class="chip chip--pill">{{ i18n "all" }}</a>
@@ -159,13 +71,102 @@
 </nav>
 {{- end }}
 
-{{- if not $isPostsRoot }}
-{{- $listTitle := .Title }}
-{{- if $isTechSection }}
-  {{- $listTitle = i18n "recent_highlights" }}
-{{- end }}
-{{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" $listTitle) }}
-{{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+{{- if $isPostsRoot }}
+  <section class="blog-category-browse" aria-labelledby="blog-browse-title">
+    <h2 id="blog-browse-title" class="section-title section-title--page">{{ i18n "browse_categories" }}</h2>
+    <div class="blog-category-grid">
+      {{- range $postsSection.Sections }}
+      {{- $cat := partial "post_category.html" . }}
+      {{- $isTech := and $techSection (eq .RelPermalink $techSection.RelPermalink) }}
+      {{- $desc := .Description }}
+      {{- if not $desc }}
+        {{- $desc = .Content | plainify | truncate 140 }}
+      {{- end }}
+      <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life blog-category-card"{{ with $cat }} data-category="{{ . }}"{{ end }}>
+        <span class="icon-circle icon-circle--sm blog-category-card__icon">
+          {{- if eq $cat "techblog" }}<i class="fa-solid fa-laptop-code" aria-hidden="true"></i>
+          {{- else if eq $cat "electronics" }}<i class="fa-solid fa-microchip" aria-hidden="true"></i>
+          {{- else if eq $cat "health" }}<i class="fa-solid fa-heart-pulse" aria-hidden="true"></i>
+          {{- else if eq $cat "cozy-corner" }}<i class="fa-solid fa-mug-hot" aria-hidden="true"></i>
+          {{- else }}<i class="fa-solid fa-tag" aria-hidden="true"></i>
+          {{- end }}
+        </span>
+        <span class="blog-category-card__body">
+          <strong class="blog-category-card__title">{{ .Title }}</strong>
+          {{- if $desc }}
+          <span class="blog-category-card__desc">{{ $desc }}</span>
+          {{- end }}
+          <small class="blog-category-card__meta">{{ len .RegularPagesRecursive }} {{ T "posts" }}</small>
+          {{- if $isTech }}
+          <span class="blog-category-card__start">{{ i18n "blog_tech_discovery" }} <span class="chip__arrow" aria-hidden="true"></span></span>
+          {{- else }}
+          <span class="blog-category-card__start">{{ i18n "blog_category_explore" }} <span class="chip__arrow" aria-hidden="true"></span></span>
+          {{- end }}
+        </span>
+      </a>
+      {{- end }}
+    </div>
+  </section>
+  {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" (i18n "recent_posts") "className" "posts-list-section--featured-first") }}
+  {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+{{- else }}
+  {{- $sectionSlug := partial "post_category.html" . }}
+  {{- partial "get_all_series.html" (dict "Page" . "section" $sectionSlug) -}}
+  {{- $sectionSeries := .Scratch.Get "allSeriesList" | default slice -}}
+  {{- $hasSeries := gt (len $sectionSeries) 0 -}}
+  {{- $showSidebar := or $isTechSection $hasSeries -}}
+  {{- $listTitle := .Title -}}
+  {{- if $isTechSection -}}
+    {{- $listTitle = i18n "recent_highlights" -}}
+  {{- end -}}
+
+  {{- if $isTechSection }}
+  <section class="hub-section reading-paths-section" aria-labelledby="tech-reading-paths-title">
+    <div class="hub-section__header">
+      <h2 id="tech-reading-paths-title" class="section-title section-title--page">{{ i18n "reading_paths_title" }}</h2>
+      <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="hub-section__link">{{ i18n "view_all_reading_paths" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
+    </div>
+    {{- partial "reading_path_cards.html" . }}
+  </section>
+  {{- end }}
+
+  {{- if $showSidebar }}
+  <div class="layout-split layout-split--sidebar-340 section-hub-layout">
+    <div class="section-hub-main">
+      {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" $listTitle) }}
+      {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+    </div>
+    <aside class="panel panel--tinted panel--sidebar topics-sidebar section-hub-sidebar" aria-label="{{ i18n "active_series_title" }}">
+      {{- if $hasSeries }}
+      <div class="section-hub-sidebar__block section-hub-sidebar__series">
+        {{- $seriesArgs := dict "series" $sectionSeries "list" true -}}
+        {{- if $isTechSection -}}
+          {{- $seriesArgs = merge $seriesArgs (dict "featuredIds" site.Params.homeFeaturedSeries) -}}
+        {{- end -}}
+        {{- partial "series_cards.html" $seriesArgs }}
+        <a href="{{ relLangURL "/series/" }}" class="section-hub-sidebar__all-series">
+          {{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span>
+        </a>
+      </div>
+      {{- end }}
+      {{- if $isTechSection }}
+      <div class="section-hub-sidebar__block section-hub-sidebar__topics">
+        {{- partial "tech_topics_grid.html" (dict
+          "showFeatured" false
+          "compact" true
+          "showCoreStack" true
+          "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
+          "professionalTags" site.Params.homeTechTagsProfessional
+          "technicalTags" site.Params.homeTechTagsTechnical
+        ) }}
+      </div>
+      {{- end }}
+    </aside>
+  </div>
+  {{- else }}
+  {{- partial "posts_entries_grid.html" (dict "paginator" $paginator "term" .Data.Term "listTitle" $listTitle) }}
+  {{- partial "posts_pagination.html" (dict "paginator" $paginator) }}
+  {{- end }}
 {{- end }}
 
 </div>{{/* end posts-list-content */}}

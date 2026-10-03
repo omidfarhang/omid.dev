@@ -19,84 +19,7 @@
     margin-top: var(--space-9);
 }
 
-.blog-index-layout {
-    gap: var(--space-9);
-}
-
-.blog-index-main {
-    min-width: 0;
-}
-
-.tech-focus-card.card--promo {
-    margin: var(--space-5);
-    align-items: flex-start;
-}
-
-.tech-focus-content {
-    display: flex;
-    min-width: 0;
-    flex-direction: column;
-}
-
-.tech-focus-kicker {
-    margin-bottom: var(--space-1);
-}
-
-.tech-focus-title {
-    color: var(--primary);
-    font-size: var(--text-title-md);
-    font-weight: var(--font-extrabold);
-    line-height: var(--leading-heading);
-}
-
-.tech-focus-desc {
-    margin-top: var(--space-2);
-    color: var(--secondary);
-    font-size: var(--text-sm);
-    line-height: var(--leading-normal);
-}
-
-.tech-focus-meta {
-    margin-top: 0;
-}
-
-.life-links {
-    padding: var(--space-5);
-    border-top: 1px solid var(--border);
-    background: var(--quaternary);
-}
-
-.life-link.card--life {
-    padding: var(--space-3) 0;
-    border: none;
-    box-shadow: none;
-    background: transparent;
-    border-radius: 0;
-}
-
-.life-link + .life-link {
-    border-top: 1px solid var(--border);
-}
-
-.life-link-text {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-    color: var(--primary);
-    font-weight: var(--font-bold);
-}
-
-.life-link-text small {
-    color: var(--secondary);
-    font-size: var(--text-caption-sm);
-    font-weight: var(--font-medium);
-}
-
-.posts-list-content .life-topics-section {
-    margin-bottom: var(--space-8);
-}
-
-/* Subsection cross-links */
+/* Category cross-links (section hubs + blog index) */
 .posts-section-nav {
     display: flex;
     flex-wrap: wrap;
@@ -130,6 +53,69 @@
     height: 8px;
     border-radius: 50%;
     background: var(--cat-color);
+}
+
+/* Blog root: category starting points */
+.blog-category-browse {
+    margin-bottom: var(--space-10);
+}
+
+.blog-category-browse .section-title--page {
+    margin-bottom: var(--space-5);
+}
+
+.blog-category-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-4);
+}
+
+.blog-category-card {
+    align-items: flex-start;
+    gap: var(--space-4);
+    height: 100%;
+    padding: var(--space-5);
+}
+
+.blog-category-card__body {
+    display: flex;
+    min-width: 0;
+    flex: 1;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.blog-category-card.card--life .blog-category-card__title {
+    margin: 0;
+    font-size: var(--text-title-sm);
+    font-weight: var(--font-extrabold);
+    line-height: var(--leading-heading);
+    color: var(--primary);
+}
+
+.blog-category-card__desc {
+    color: var(--secondary);
+    font-size: var(--text-sm);
+    font-weight: var(--font-medium);
+    line-height: var(--leading-normal);
+}
+
+.blog-category-card.card--life .blog-category-card__meta {
+    margin-top: 0;
+    color: var(--secondary);
+    font-size: var(--text-caption-sm);
+    font-weight: var(--font-medium);
+}
+
+.blog-category-card__start {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-1);
+    margin-top: auto;
+    padding-top: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    color: var(--accent);
 }
 
 /* Posts grid */
@@ -357,7 +343,64 @@
     margin: 0;
 }
 
+/* Section hubs: posts + sticky sidebar (series / tech tags) */
+.section-hub-layout {
+    gap: var(--space-9);
+    margin-top: var(--space-2);
+    align-items: start;
+}
+
+.section-hub-main {
+    min-width: 0;
+}
+
+.section-hub-sidebar__series {
+    padding: var(--space-5) var(--space-5) var(--space-3);
+}
+
+.section-hub-sidebar__series .series-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.section-hub-sidebar__all-series {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    margin-top: var(--space-2);
+    padding: var(--space-3) var(--space-2);
+    margin-inline: calc(var(--space-2) * -1);
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    color: var(--accent);
+    text-decoration: none;
+    border-radius: var(--radius);
+}
+
+.section-hub-sidebar__all-series:hover {
+    background: var(--quaternary);
+    text-decoration: underline;
+}
+
+.section-hub-sidebar__series + .section-hub-sidebar__topics {
+    border-top: 1px solid var(--border);
+}
+
+.section-hub-sidebar__topics .tech-topics-block {
+    padding-top: var(--space-5);
+}
+
+.section-hub-sidebar .topics-grid--core {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 @media screen and (max-width: 768px) {
+    .blog-category-grid {
+        grid-template-columns: 1fr;
+    }
+
     .posts-list-content .posts-grid {
         grid-template-columns: 1fr;
     }
