@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-<div class="posts-list-content reading-paths-index-page">
+<div class="posts-list-content reading-paths-index-page discovery-index-page">
   <header class="page-hero--contained panel--hero-gradient page-hero--section">
     <nav class="breadcrumbs" aria-label="breadcrumbs">
       <ol itemscope itemtype="https://schema.org/BreadcrumbList">
@@ -24,38 +24,22 @@
     </nav>
     <div class="page-hero-inner">
       <h1 class="post-title">{{ .Title }}</h1>
-      {{- $lead := .Description }}
-      {{- if not $lead }}
-        {{- with .Content }}
-        {{- $lead = . | plainify }}
-        {{- end }}
-      {{- end }}
-      {{- if $lead }}
-      <p class="page-hero-lead">{{ $lead }}</p>
+      {{- with .Description }}
+      <p class="page-hero-lead">{{ . }}</p>
       {{- end }}
     </div>
   </header>
 
-  <article class="hub-page-body post-single page-shell">
-    <div class="reading-paths-index-content article-body">
-      {{- if .Content }}
-      <div class="post-content reading-paths-index-intro">
-        {{- if not (.Param "disableAnchoredHeadings") }}
-        {{- partial "anchored_headings.html" .Content -}}
-        {{- else }}{{ .Content }}{{ end }}
-      </div>
-      {{- end }}
+  <div class="discovery-index-body">
+    <section class="reading-paths-index-section" aria-label="{{ .Title }}">
+      {{- partial "reading_path_cards.html" . }}
+    </section>
 
-      <section class="reading-paths-index-section" aria-label="{{ .Title }}">
-        {{- partial "reading_path_cards.html" . }}
-      </section>
-
-      <footer class="reading-path-footer">
-        <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
-        <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
-      </footer>
-    </div>
-  </article>
+    <footer class="discovery-index-footer">
+      <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
+    </footer>
+  </div>
 </div>
 
 {{- end }}{{/* end main */}}

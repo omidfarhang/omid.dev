@@ -277,7 +277,35 @@
 .hub-page-body .reading-paths-index-intro + .reading-paths-index-section,
 .hub-page-body .series-index-intro + .series-index-section,
 .hub-page-body .post-content + .series-index-section {
+    margin-top: var(--space-5);
+}
+
+/* Discovery indexes (paths / series) — open band, not article shell */
+.discovery-index-page .page-hero--contained {
+    margin-bottom: 0;
+}
+
+.discovery-index-body {
     margin-top: var(--space-8);
+    padding-top: var(--space-8);
+    border-top: 1px solid var(--border);
+}
+
+.discovery-index-group {
+    margin-bottom: var(--space-10);
+}
+
+.discovery-index-group:last-of-type {
+    margin-bottom: var(--space-6);
+}
+
+.discovery-index-footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--border);
 }
 
 /* TechBlog hub — reading paths and series strip */

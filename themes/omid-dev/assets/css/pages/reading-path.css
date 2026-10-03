@@ -1,5 +1,67 @@
 /* Curated reading path pages — curriculum rail (hairline rows, mirrors series-nav / post-continue) */
 
+/* —— Chapter rail (sticky TOC) —— */
+
+.reading-path-chapters {
+    position: sticky;
+    top: calc(var(--header-height, 4rem) + var(--space-3));
+    z-index: 2;
+    margin: 0;
+    padding: var(--space-5) var(--space-10) var(--space-4);
+    background: var(--theme);
+    border-bottom: 1px solid var(--border);
+}
+
+.reading-path-chapters__label {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-ui-sm);
+    font-weight: var(--font-bold);
+    letter-spacing: var(--tracking-wide);
+    color: var(--secondary);
+}
+
+.reading-path-chapters__nav > nav,
+.reading-path-chapters__nav #TableOfContents {
+    margin: 0;
+}
+
+.reading-path-chapters__nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2) var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.reading-path-chapters__nav li {
+    margin: 0;
+}
+
+.reading-path-chapters__nav a {
+    color: var(--secondary);
+    font-size: var(--text-ui-sm);
+    font-weight: var(--font-semibold);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.reading-path-chapters__nav a:hover,
+.reading-path-chapters__nav a:focus-visible,
+.reading-path-chapters__nav a[aria-current="true"],
+.reading-path-chapters__nav .active > a {
+    color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+@media screen and (max-width: 768px) {
+    .reading-path-chapters {
+        position: static;
+        padding: var(--space-4) var(--space-6);
+    }
+}
+
 /* —— Shell / intro / chapter headings —— */
 
 .hub-page-body .reading-path-content {

@@ -650,6 +650,67 @@ body.dark .card--promo {
     margin-bottom: 0;
 }
 
+/* Series list rows — hairline rows matching topics-grid--list */
+.series-grid--list {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0 var(--space-8);
+    margin: 0;
+}
+
+.series-card--list {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) var(--space-2);
+    margin-inline: calc(var(--space-2) * -1);
+    text-align: start;
+    background: none;
+    border: 0;
+    border-bottom: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: none;
+}
+
+.series-card--list .icon-circle {
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.series-card--list h3 {
+    margin: 0;
+    font-size: var(--text-ui-md);
+    color: var(--primary);
+    line-height: var(--leading-snug);
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+.series-card--list p {
+    margin: 0;
+    margin-inline-start: auto;
+    font-size: var(--text-badge);
+    font-weight: 600;
+    color: var(--secondary);
+    white-space: nowrap;
+}
+
+.card--interactive:hover.series-card--list,
+.series-card--list:hover {
+    background: var(--quaternary);
+    box-shadow: none;
+}
+
+.card--interactive:hover.series-card--list h3,
+.series-card--list:hover h3 {
+    box-shadow: var(--link-mark);
+    text-decoration: none;
+}
+
+.card--interactive:hover.series-card--list p,
+.series-card--list:hover p {
+    color: var(--primary);
+}
+
 /* Reading path cards — richer horizontal tiles, distinct from compact series */
 .reading-paths-grid {
     display: grid;
@@ -688,6 +749,13 @@ body.dark .card--promo {
     color: var(--primary);
     line-height: var(--leading-snug);
     overflow-wrap: break-word;
+}
+
+.reading-path-card__meta {
+    margin: 0;
+    font-size: var(--text-caption-sm);
+    font-weight: 600;
+    color: var(--secondary);
 }
 
 .reading-path-card__desc {

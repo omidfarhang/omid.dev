@@ -677,6 +677,15 @@
 - id: view_all_reading_paths
   translation: "View all paths"
 
+- id: reading_path_step_count
+  translation: "{{ .Count }} steps"
+
+- id: reading_path_chapters
+  translation: "Chapters"
+
+- id: series_group_other
+  translation: "Other"
+
 - id: back_to_techblog
   translation: "Back to TechBlog"
 

@@ -19,9 +19,20 @@
 {{- if eq (len $seriesList) 0 }}{{ return }}{{ end -}}
 {{- $compact := .compact | default false -}}
 {{- $horizontal := .horizontal | default false -}}
+{{- $list := .list | default false -}}
+{{- $showDesc := and (not $list) (or (not $compact) $horizontal) -}}
 
-<div class="series-grid topics-grid{{ if $compact }} series-grid--compact{{ end }}{{ if $horizontal }} series-grid--horizontal{{ end }}{{ with .className }} {{ . }}{{ end }}">
+<div class="series-grid topics-grid{{ if $list }} topics-grid--list series-grid--list{{ else if $compact }} series-grid--compact{{ else if $horizontal }} series-grid--horizontal{{ end }}{{ with .className }} {{ . }}{{ end }}">
   {{- range $seriesList }}
+  {{- if $list }}
+  <a href="{{ .anchor.RelPermalink }}" class="card card--interactive card--topic series-card series-card--list">
+    <span class="icon-circle icon-circle--sm">
+      <i class="fa-solid fa-layer-group" aria-hidden="true"></i>
+    </span>
+    <h3>{{ .title }}</h3>
+    <p>{{ i18n "series_index_post_count" (dict "Count" .count) }}</p>
+  </a>
+  {{- else }}
   <a href="{{ .anchor.RelPermalink }}" class="card card--fill card--interactive card--topic card--accent series-card{{ if $horizontal }} series-card--horizontal card--horizontal{{ else if $compact }} series-card--compact card--horizontal{{ end }}">
     <span class="icon-circle icon-circle--{{ if $compact }}sm{{ else }}md{{ end }}">
       <i class="fa-solid fa-layer-group" aria-hidden="true"></i>
@@ -29,7 +40,7 @@
     <span class="card__body series-card__body">
       <h3>{{ .title }}</h3>
       <p class="series-card__count">{{ i18n "series_index_post_count" (dict "Count" .count) }}</p>
-      {{- if or (not $compact) $horizontal }}
+      {{- if $showDesc }}
       {{- with .description }}
       <p class="series-card__desc">{{ . | plainify | truncate 140 }}</p>
       {{- end }}
@@ -37,5 +48,6 @@
       <span class="card__cta">{{ i18n "series_index_start_reading" }} <span class="card__cta-arrow" aria-hidden="true"></span></span>
     </span>
   </a>
+  {{- end }}
   {{- end }}
 </div>

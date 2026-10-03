@@ -39,12 +39,19 @@
 
 <div class="reading-paths-grid topics-grid">
   {{- range $paths }}
+  {{- $steps := 0 -}}
+  {{- with site.GetPage .url -}}
+    {{- $steps = len (findRE `(?m)^\d+\.\s` .RawContent) -}}
+  {{- end -}}
   <a href="{{ .url | relLangURL }}" class="card card--fill card--interactive card--topic card--accent card--horizontal reading-path-card">
     <span class="icon-circle icon-circle--md">
       <i class="{{ .icon }}" aria-hidden="true"></i>
     </span>
     <span class="card__body reading-path-card__body">
       <h3>{{ .title }}</h3>
+      {{- if gt $steps 0 }}
+      <p class="reading-path-card__meta">{{ i18n "reading_path_step_count" (dict "Count" $steps) }}</p>
+      {{- end }}
       <p class="reading-path-card__desc">{{ .description }}</p>
       <span class="card__cta">{{ i18n "reading_path_view" }} <span class="card__cta-arrow" aria-hidden="true"></span></span>
     </span>

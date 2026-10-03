@@ -98,26 +98,6 @@
     {{- end }}
 
     <div class="home-section home-discovery-grid">
-    {{- partial "get_all_series.html" (dict "Page" .) -}}
-    {{- $allSeries := .Scratch.Get "allSeriesList" -}}
-    {{- if and $allSeries site.Params.homeFeaturedSeries }}
-    <section class="home-section home-active-series panel panel--tinted panel--xl home-panel" aria-labelledby="home-active-series-title">
-        {{- partial "home_section_heading.html" (dict
-            "id" "home-active-series-title"
-            "title" (i18n "active_series_title")
-            "href" (relLangURL "/series/")
-            "linkLabel" (i18n "view_all_series")
-            "rtl" (eq .Language.Direction "rtl")
-        ) }}
-        {{- partial "series_cards.html" (dict
-            "series" $allSeries
-            "featuredIds" site.Params.homeFeaturedSeries
-            "compact" true
-            "className" "series-cards--home"
-        ) }}
-    </section>
-    {{- end }}
-
     <section class="home-section home-reading-paths panel panel--tinted panel--xl home-panel" aria-labelledby="home-reading-paths-title">
         {{- partial "home_section_heading.html" (dict
             "id" "home-reading-paths-title"

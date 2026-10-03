@@ -1,6 +1,9 @@
 {{- define "main" }}
 
 {{ partial "pagefind_meta.html" . }}
+{{- $toc := .TableOfContents -}}
+{{- $hasToc := and $toc (ne $toc "") (ne $toc "<nav id=\"TableOfContents\"></nav>") -}}
+
 <div class="posts-list-content reading-path-page">
   <header class="page-hero--contained panel--hero-gradient page-hero--section">
     {{- partial "breadcrumbs.html" . }}
@@ -13,6 +16,15 @@
   </header>
 
   <article class="hub-page-body post-single page-shell">
+    {{- if $hasToc }}
+    <nav class="reading-path-chapters" aria-label="{{ i18n "reading_path_chapters" }}" data-toc>
+      <p class="reading-path-chapters__label">{{ i18n "reading_path_chapters" }}</p>
+      <div class="reading-path-chapters__nav">
+        {{ $toc | safeHTML }}
+      </div>
+    </nav>
+    {{- end }}
+
     {{- if .Content }}
     <div class="reading-path-content post-content article-body" data-pagefind-body>
       {{- if not (.Param "disableAnchoredHeadings") }}
@@ -23,12 +35,21 @@
 
     <footer class="reading-path-footer">
       <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_reading_paths" }} <span class="chip__arrow" aria-hidden="true"></span></a>
-      <a href="{{ relLangURL "/series/" }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
       {{- with site.GetPage "posts/techblog" }}
       <a href="{{ .Permalink }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
       {{- end }}
     </footer>
   </article>
 </div>
+
+{{- if $hasToc }}
+{{- $tocJs := resources.Get "js/toc-scrollspy.js" | js.Build | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting -}}
+{{- $tocJs = $tocJs | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $tocJs.RelPermalink }}" integrity="{{ $tocJs.Data.Integrity }}"></script>
+{{- else }}
+<script defer crossorigin="anonymous" src="{{ $tocJs.RelPermalink }}"></script>
+{{- end }}
+{{- end }}
 
 {{- end }}{{/* end main */}}

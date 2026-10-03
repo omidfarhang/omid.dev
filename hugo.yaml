@@ -448,6 +448,44 @@ params:
     - frontend-testing
     - jupyter-copilot
 
+  # Series index groups by primary reading path (one group per series id)
+  seriesPathGroups:
+    - id: angular-platform
+      path: /posts/techblog/paths/angular-platform/
+      series:
+        - modern-angular
+    - id: engineering-leadership
+      path: /posts/techblog/paths/engineering-leadership/
+      series:
+        - essential-skills
+        - team-communication
+        - shadow-ownership
+        - ecosystem-blind-spot
+        - legacy-and-modernization
+    - id: systems-and-linux
+      path: /posts/techblog/paths/systems-and-linux/
+      series:
+        - observability
+        - linux-networking
+    - id: frontend-quality
+      path: /posts/techblog/paths/frontend-quality/
+      series:
+        - frontend-testing
+        - chaos-engineering
+    - id: ai-data-tools
+      path: /posts/techblog/paths/ai-data-tools/
+      series:
+        - bio-dynamics-lab
+        - jupyter-copilot
+        - split-ai-workflow
+    - id: frontend-architecture
+      path: /posts/techblog/paths/frontend-architecture/
+      series:
+        - micro-frontends
+    - id: other
+      series:
+        - hardware-debugging
+
   displayFullLangName: true
   comments: true
   ShowReadingTime: true

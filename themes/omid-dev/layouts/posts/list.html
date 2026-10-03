@@ -133,7 +133,7 @@
     {{- partial "series_cards.html" (dict
       "series" $allSeries
       "featuredIds" site.Params.homeFeaturedSeries
-      "compact" true
+      "list" true
     ) }}
   </section>
 
@@ -147,7 +147,7 @@
   ) }}
 {{- end }}
 
-{{- if and $postsSection (not $isPostsRoot) }}
+{{- if and $postsSection (not $isPostsRoot) (not $isTechSection) }}
 <nav class="posts-section-nav panel panel--tinted" aria-label="{{ i18n "browse_categories" }}">
   <span class="posts-section-nav-label">{{ i18n "also_see" }}:</span>
   <a href="{{ $postsSection.Permalink }}" class="chip chip--pill">{{ i18n "all" }}</a>

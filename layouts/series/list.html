@@ -1,9 +1,25 @@
 {{- define "main" }}
 
 {{- partial "get_all_series.html" (dict "Page" .) -}}
-{{- $allSeries := .Scratch.Get "allSeriesList" -}}
+{{- $allSeries := .Scratch.Get "allSeriesList" | default slice -}}
+{{- $byId := dict -}}
+{{- range $allSeries -}}
+  {{- $byId = merge $byId (dict .id .) -}}
+{{- end -}}
+{{- $assigned := dict -}}
+{{- $groups := site.Params.seriesPathGroups | default slice -}}
 
-<div class="posts-list-content series-index-page">
+{{- $titleFor := dict
+  "angular-platform" "reading_path_angular_title"
+  "engineering-leadership" "reading_path_leadership_title"
+  "systems-and-linux" "reading_path_systems_title"
+  "frontend-quality" "reading_path_quality_title"
+  "ai-data-tools" "reading_path_ai_title"
+  "frontend-architecture" "reading_path_architecture_title"
+  "other" "series_group_other"
+-}}
+
+<div class="posts-list-content series-index-page discovery-index-page">
   <header class="page-hero--contained panel--hero-gradient page-hero--section">
     <nav class="breadcrumbs" aria-label="breadcrumbs">
       <ol itemscope itemtype="https://schema.org/BreadcrumbList">
@@ -21,38 +37,55 @@
     </nav>
     <div class="page-hero-inner">
       <h1 class="post-title">{{ .Title }}</h1>
-      {{- $lead := .Description }}
-      {{- if not $lead }}
-        {{- with .Content }}
-        {{- $lead = . | plainify }}
-        {{- end }}
-      {{- end }}
-      {{- if $lead }}
-      <p class="page-hero-lead">{{ $lead }}</p>
+      {{- with .Description }}
+      <p class="page-hero-lead">{{ . }}</p>
       {{- end }}
     </div>
   </header>
 
-  <article class="hub-page-body post-single page-shell">
-    <div class="series-index-content article-body">
-      {{- if .Content }}
-      <div class="post-content series-index-intro">
-        {{- if not (.Param "disableAnchoredHeadings") }}
-        {{- partial "anchored_headings.html" .Content -}}
-        {{- else }}{{ .Content }}{{ end }}
-      </div>
+  <div class="discovery-index-body">
+    {{- range $groups }}
+      {{- $groupSeries := slice -}}
+      {{- range .series }}
+        {{- with index $byId . }}
+          {{- $groupSeries = $groupSeries | append . -}}
+          {{- $assigned = merge $assigned (dict .id true) -}}
+        {{- end }}
       {{- end }}
-
-      <section class="series-index-section" aria-label="{{ i18n "series_index_heading" }}">
-        {{- partial "series_cards.html" (dict "series" $allSeries "horizontal" true) }}
+      {{- if gt (len $groupSeries) 0 }}
+      {{- $i18nKey := index $titleFor .id | default "series_group_other" -}}
+      {{- $groupTitle := i18n $i18nKey -}}
+      <section class="discovery-index-group" aria-labelledby="series-group-{{ .id }}">
+        <div class="hub-section__header">
+          <h2 id="series-group-{{ .id }}" class="section-title section-title--page">{{ $groupTitle }}</h2>
+          {{- with .path }}
+          <a href="{{ . | relLangURL }}" class="hub-section__link">{{ i18n "reading_path_view" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
+          {{- end }}
+        </div>
+        {{- partial "series_cards.html" (dict "series" $groupSeries "list" true) }}
       </section>
+      {{- end }}
+    {{- end }}
 
-      <footer class="reading-path-footer">
-        <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_reading_paths" }} <span class="chip__arrow" aria-hidden="true"></span></a>
-        <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
-      </footer>
-    </div>
-  </article>
+    {{- /* Leftover listed series not in any group */ -}}
+    {{- $leftover := slice -}}
+    {{- range $allSeries }}
+      {{- if not (index $assigned .id) }}
+        {{- $leftover = $leftover | append . -}}
+      {{- end }}
+    {{- end }}
+    {{- if gt (len $leftover) 0 }}
+    <section class="discovery-index-group" aria-labelledby="series-group-leftover">
+      <h2 id="series-group-leftover" class="section-title section-title--page">{{ i18n "series_group_other" }}</h2>
+      {{- partial "series_cards.html" (dict "series" $leftover "list" true) }}
+    </section>
+    {{- end }}
+
+    <footer class="discovery-index-footer">
+      <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_reading_paths" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
+    </footer>
+  </div>
 </div>
 
 {{- end }}{{/* end main */}}

@@ -674,6 +674,15 @@
 - id: view_all_reading_paths
   translation: "همه مسیرها"
 
+- id: reading_path_step_count
+  translation: "{{ .Count }} گام"
+
+- id: reading_path_chapters
+  translation: "فصل‌ها"
+
+- id: series_group_other
+  translation: "سایر"
+
 - id: back_to_techblog
   translation: "بازگشت به تک‌بلاگ"
 
