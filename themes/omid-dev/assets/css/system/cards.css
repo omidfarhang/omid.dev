@@ -223,12 +223,13 @@
     flex-direction: row;
     align-items: center;
     gap: var(--space-3);
-    padding: var(--space-3) 0;
+    padding: var(--space-3) var(--space-2);
+    margin-inline: calc(var(--space-2) * -1);
     text-align: start;
     background: none;
     border: 0;
     border-bottom: 1px solid var(--border);
-    border-radius: 0;
+    border-radius: var(--radius);
     box-shadow: none;
 }
 
@@ -236,23 +237,37 @@
     width: 30px;
     height: 30px;
     margin: 0;
+    flex-shrink: 0;
     font-size: var(--text-sm);
 }
 
 .topics-grid--list .card--topic h3 {
     margin: 0;
     font-size: var(--text-ui-md);
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
 
 .topics-grid--list .card--topic p {
     margin-inline-start: auto;
     font-size: var(--text-badge);
     white-space: nowrap;
+    transition: color var(--duration-fast) var(--ease-default);
+}
+
+.topics-grid--list .card--topic:hover,
+.topics-grid--list .card--topic.card--interactive:hover {
+    background: var(--quaternary);
+    box-shadow: none;
 }
 
 .topics-grid--list .card--topic:hover h3 {
-    text-decoration: underline;
-    text-underline-offset: 3px;
+    box-shadow: var(--link-mark);
+    text-decoration: none;
+}
+
+.topics-grid--list .card--topic:hover p {
+    color: var(--primary);
 }
 
 .card--topic-compact {
