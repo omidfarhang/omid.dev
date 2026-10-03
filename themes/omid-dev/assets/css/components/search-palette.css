@@ -56,6 +56,14 @@
     font-size: var(--text-base);
     font-weight: var(--font-semibold);
     outline: none;
+    /* Hide native clear control — conflicts with the dialog close button */
+    appearance: textfield;
+}
+
+.search-palette__field input::-webkit-search-cancel-button,
+.search-palette__field input::-webkit-search-decoration {
+    appearance: none;
+    display: none;
 }
 
 .search-palette__field input::placeholder {
