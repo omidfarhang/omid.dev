@@ -262,6 +262,20 @@
     margin: 0;
 }
 
+/* Hub intros are short lead copy above card grids — not a centered article column */
+.hub-page-body .reading-paths-index-intro.post-content,
+.hub-page-body .series-index-intro.post-content {
+    max-width: none;
+    margin: 0;
+}
+
+.hub-page-body .reading-paths-index-intro.post-content > :last-child,
+.hub-page-body .series-index-intro.post-content > :last-child {
+    margin-bottom: 0;
+}
+
+.hub-page-body .reading-paths-index-intro + .reading-paths-index-section,
+.hub-page-body .series-index-intro + .series-index-section,
 .hub-page-body .post-content + .series-index-section {
     margin-top: var(--space-8);
 }
@@ -293,6 +307,26 @@
 
 .hub-section__link:hover {
     text-decoration: underline;
+}
+
+.hub-section__arrow::before,
+.card__cta-arrow::before,
+.chip__arrow::before {
+    content: "→";
+}
+
+[dir="rtl"] .hub-section__arrow::before,
+[dir="rtl"] .card__cta-arrow::before,
+[dir="rtl"] .chip__arrow::before {
+    content: "←";
+}
+
+.reading-paths-section .reading-paths-grid {
+    margin: 0;
+}
+
+.series-strip-section .series-grid {
+    margin: 0;
 }
 
 @media screen and (max-width: 768px) {

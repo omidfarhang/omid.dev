@@ -4,4 +4,4 @@ description: Curated journeys through omid.dev — start with a path that matche
 hidemeta: true
 ---
 
-Pick a path below to follow a deliberate reading order. Each path mixes standalone posts and multi-part series — use in-post series navigation when a cluster continues across several articles.
+Pick a path below to follow a deliberate reading order. Each path mixes standalone posts and multi-part series — use in-post series navigation when a cluster continues across several articles. Browse ordered clusters on the [Series](/series/) index.

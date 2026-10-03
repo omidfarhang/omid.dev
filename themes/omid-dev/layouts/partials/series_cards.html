@@ -34,7 +34,7 @@
       <p class="series-card__desc">{{ . | plainify | truncate 140 }}</p>
       {{- end }}
       {{- end }}
-      <span class="card__cta">{{ i18n "series_index_start_reading" }} →</span>
+      <span class="card__cta">{{ i18n "series_index_start_reading" }} <span class="card__cta-arrow" aria-hidden="true"></span></span>
     </span>
   </a>
   {{- end }}

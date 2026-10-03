@@ -627,7 +627,7 @@
   translation: "از اینجا شروع کنید"
 
 - id: reading_paths_eyebrow
-  translation: "مسیر مطالعه"
+  translation: "مسیرهای مطالعه"
 
 - id: reading_path_view
   translation: "مشاهده مسیر"
@@ -670,6 +670,9 @@
 
 - id: view_all_series
   translation: "همه مجموعه‌ها"
+
+- id: view_all_reading_paths
+  translation: "همه مسیرها"
 
 - id: back_to_techblog
   translation: "بازگشت به تک‌بلاگ"

@@ -533,11 +533,15 @@ body.dark .card--promo {
     margin: var(--space-8) 0 var(--space-10);
 }
 
+.series-index-page .series-index-section {
+    margin-bottom: var(--space-6);
+}
+
 .series-card {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    text-align: left;
+    text-align: start;
     padding: var(--space-6);
 }
 
@@ -566,7 +570,7 @@ body.dark .card--promo {
     font-size: var(--text-lg);
     color: var(--primary);
     line-height: var(--leading-snug);
-    text-align: left;
+    text-align: start;
 }
 
 .series-card__count {
@@ -574,7 +578,7 @@ body.dark .card--promo {
     font-size: var(--text-caption-sm);
     font-weight: 600;
     color: var(--secondary);
-    text-align: left;
+    text-align: start;
 }
 
 .card--interactive:hover .series-card__count {
@@ -586,7 +590,7 @@ body.dark .card--promo {
     font-size: var(--text-caption-sm);
     color: var(--secondary);
     line-height: var(--leading-normal);
-    text-align: left;
+    text-align: start;
 }
 
 .series-card .card__cta {
@@ -644,6 +648,67 @@ body.dark .card--promo {
 
 .series-card--compact .series-card__count {
     margin-bottom: 0;
+}
+
+/* Reading path cards — richer horizontal tiles, distinct from compact series */
+.reading-paths-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: var(--space-4);
+    margin: 0;
+}
+
+.reading-path-card {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: var(--space-4);
+    padding: var(--space-5) var(--space-6);
+    text-align: start;
+}
+
+.reading-path-card .icon-circle {
+    flex-shrink: 0;
+    margin-bottom: 0;
+}
+
+.reading-path-card__body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+    width: 100%;
+    min-width: 0;
+    gap: var(--space-2);
+}
+
+.reading-path-card h3 {
+    margin: 0;
+    font-size: var(--text-lg);
+    color: var(--primary);
+    line-height: var(--leading-snug);
+    overflow-wrap: break-word;
+}
+
+.reading-path-card__desc {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--secondary);
+    line-height: var(--leading-normal);
+    overflow-wrap: break-word;
+}
+
+.reading-path-card .card__cta {
+    font-size: var(--text-caption-sm);
+    font-weight: 600;
+}
+
+.card__cta-arrow::before {
+    content: "→";
+}
+
+[dir="rtl"] .card__cta-arrow::before {
+    content: "←";
 }
 
 .series-nav--intro {

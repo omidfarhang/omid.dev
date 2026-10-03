@@ -1,4 +1,5 @@
-{{- $page := . -}}
+{{- $page := .Page -}}
+{{- $sectionFilter := .section | default "" -}}
 {{- $lang := $page.Lang -}}
 {{- $withPages := where site.RegularPages "Params.series.id" "!=" nil -}}
 {{- $pages := where $withPages "Lang" $lang -}}
@@ -20,6 +21,10 @@
     {{- end -}}
     {{- $listed := $anchor.Params.series.listed | default true -}}
     {{- if not $listed -}}{{- continue -}}{{- end -}}
+    {{- if $sectionFilter -}}
+      {{- $cat := partial "post_category.html" $anchor -}}
+      {{- if ne $cat $sectionFilter -}}{{- continue -}}{{- end -}}
+    {{- end -}}
     {{- $title := $anchor.Params.series.title | default $id -}}
     {{- $description := $anchor.Description | default "" -}}
     {{- if not $description -}}

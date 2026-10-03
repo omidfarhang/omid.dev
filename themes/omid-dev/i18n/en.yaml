@@ -630,7 +630,7 @@
   translation: "Start here"
 
 - id: reading_paths_eyebrow
-  translation: "Reading path"
+  translation: "Reading paths"
 
 - id: reading_path_view
   translation: "View path"
@@ -673,6 +673,9 @@
 
 - id: view_all_series
   translation: "View all series"
+
+- id: view_all_reading_paths
+  translation: "View all paths"
 
 - id: back_to_techblog
   translation: "Back to TechBlog"

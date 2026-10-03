@@ -47,14 +47,13 @@
       </div>
       {{- end }}
 
-      <section class="reading-paths-index-section" aria-labelledby="reading-paths-index-title">
-        <h2 id="reading-paths-index-title" class="section-title section-title--page">{{ i18n "reading_paths_title" }}</h2>
+      <section class="reading-paths-index-section" aria-label="{{ .Title }}">
         {{- partial "reading_path_cards.html" . }}
       </section>
 
       <footer class="reading-path-footer">
-        <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} →</a>
-        <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "techblog" | default "TechBlog" }} →</a>
+        <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+        <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
       </footer>
     </div>
   </article>

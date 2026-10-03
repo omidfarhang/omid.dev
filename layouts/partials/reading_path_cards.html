@@ -37,16 +37,16 @@
   )
 -}}
 
-<div class="series-grid series-grid--horizontal topics-grid reading-paths-grid">
+<div class="reading-paths-grid topics-grid">
   {{- range $paths }}
-  <a href="{{ .url | relLangURL }}" class="card card--fill card--interactive card--topic card--accent series-card series-card--horizontal card--horizontal reading-path-card">
+  <a href="{{ .url | relLangURL }}" class="card card--fill card--interactive card--topic card--accent card--horizontal reading-path-card">
     <span class="icon-circle icon-circle--md">
       <i class="{{ .icon }}" aria-hidden="true"></i>
     </span>
-    <span class="card__body series-card__body">
+    <span class="card__body reading-path-card__body">
       <h3>{{ .title }}</h3>
-      <p class="series-card__desc">{{ .description }}</p>
-      <span class="card__cta">{{ i18n "reading_path_view" }} →</span>
+      <p class="reading-path-card__desc">{{ .description }}</p>
+      <span class="card__cta">{{ i18n "reading_path_view" }} <span class="card__cta-arrow" aria-hidden="true"></span></span>
     </span>
   </a>
   {{- end }}

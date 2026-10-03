@@ -98,7 +98,7 @@
     {{- end }}
 
     <div class="home-section home-discovery-grid">
-    {{- partial "get_all_series.html" . -}}
+    {{- partial "get_all_series.html" (dict "Page" .) -}}
     {{- $allSeries := .Scratch.Get "allSeriesList" -}}
     {{- if and $allSeries site.Params.homeFeaturedSeries }}
     <section class="home-section home-active-series panel panel--tinted panel--xl home-panel" aria-labelledby="home-active-series-title">
@@ -119,15 +119,13 @@
     {{- end }}
 
     <section class="home-section home-reading-paths panel panel--tinted panel--xl home-panel" aria-labelledby="home-reading-paths-title">
-        {{- $pathsHeading := dict
+        {{- partial "home_section_heading.html" (dict
             "id" "home-reading-paths-title"
             "title" (i18n "reading_paths_title")
+            "href" ("/posts/techblog/paths/" | relLangURL)
+            "linkLabel" (i18n "view_all_reading_paths")
             "rtl" (eq .Language.Direction "rtl")
-        -}}
-        {{- with site.GetPage "posts/techblog" }}
-        {{- $pathsHeading = merge $pathsHeading (dict "href" .Permalink "linkLabel" .Title) -}}
-        {{- end }}
-        {{- partial "home_section_heading.html" $pathsHeading }}
+        ) }}
         {{- partial "reading_path_cards.html" . }}
     </section>
 

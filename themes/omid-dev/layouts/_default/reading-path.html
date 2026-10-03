@@ -5,6 +5,7 @@
   <header class="page-hero--contained panel--hero-gradient page-hero--section">
     {{- partial "breadcrumbs.html" . }}
     <div class="page-hero-inner">
+      <p class="section-eyebrow">{{ i18n "reading_paths_eyebrow" }}</p>
       <h1 class="post-title">{{ .Title }}</h1>
       {{- with .Description }}
       <p class="page-hero-lead">{{ . }}</p>
@@ -22,7 +23,8 @@
     {{- end }}
 
     <footer class="reading-path-footer">
-      <a href="{{ relLangURL "/series/" }}" class="chip chip--pill">{{ i18n "series_index_heading" }}</a>
+      <a href="{{ "/posts/techblog/paths/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_reading_paths" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      <a href="{{ relLangURL "/series/" }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
       {{- with site.GetPage "posts/techblog" }}
       <a href="{{ .Permalink }}" class="chip chip--pill">{{ i18n "back_to_techblog" }}</a>
       {{- end }}
