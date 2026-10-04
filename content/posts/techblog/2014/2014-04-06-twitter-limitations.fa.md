@@ -4,7 +4,9 @@ date: 2014-04-06T04:01:28+00:00
 lastmod: 2026-10-04T18:16:00+03:30
 layout: single
 author_profile: true
-url: '2014/04/06/محدودیت-های-توییتر/'
+url: 2014/04/06/twitter-limitations/
+aliases:
+  - '/2014/04/06/محدودیت-های-توییتر/'
 shortlink: https://g.omid.dev/21qKz62
 image: /images/2014/04/twitter-280.jpg
 tags:

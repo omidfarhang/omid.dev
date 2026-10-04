@@ -3,7 +3,9 @@ title: فیسبوک برای مکان یابی اینستاگرام سرویس �
 date: 2014-04-25T00:38:37+00:00
 layout: single
 author_profile: true
-url: '2014/04/25/فیسبوک-برای-مکان-یابی-اینستاگرام-سروی/'
+url: 2014/04/25/facebook-replaces-foursquare-for-instagram-maps/
+aliases:
+  - '/2014/04/25/فیسبوک-برای-مکان-یابی-اینستاگرام-سروی/'
 shortlink: https://g.omid.dev/1Ln2gw2
 tags:
   - Technology News

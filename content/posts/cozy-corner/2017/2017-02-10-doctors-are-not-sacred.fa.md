@@ -3,7 +3,9 @@ title: دکتر مقدس نیست
 date: 2017-02-10T20:59:03+00:00
 layout: single
 author_profile: true
-url: '2017/02/10/دکتر-مقدس-نیست'
+url: 2017/02/10/doctors-are-not-sacred/
+aliases:
+  - '/2017/02/10/دکتر-مقدس-نیست'
 shortlink: https://g.omid.dev/2kRnaZw
 
 categories: 

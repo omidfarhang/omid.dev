@@ -4,7 +4,9 @@ date: 2020-05-17T19:55:51+00:00
 lastmod: 2026-09-03T16:29:00+03:30
 layout: single
 author_profile: true
-url: '2020/05/17/چجوری-فارسی-و-انگلیسی-قاطی-تایپ-کنیم-که'
+url: 2020/05/17/mixed-persian-english-typing/
+aliases:
+  - '/2020/05/17/چجوری-فارسی-و-انگلیسی-قاطی-تایپ-کنیم-که'
 shortlink: https://g.omid.dev/aZjk5kX
 tags:
   - rtl

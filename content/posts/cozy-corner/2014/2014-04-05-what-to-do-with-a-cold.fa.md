@@ -3,7 +3,9 @@ title: با سرما خوردگی چیکار کنیم
 date: 2014-04-05T20:27:11+00:00
 layout: single
 author_profile: true
-url: '2014/04/05/با-سرما-خوردگی-چیکار-کنیم/'
+url: 2014/04/05/what-to-do-with-a-cold/
+aliases:
+  - '/2014/04/05/با-سرما-خوردگی-چیکار-کنیم/'
 shortlink: https://g.omid.dev/1KWiHQ7
 
 categories: 

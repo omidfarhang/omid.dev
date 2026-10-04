@@ -3,7 +3,9 @@ title: پیغام فارسی وایبر به کاربران ایرانی
 date: 2014-10-03T18:12:29+00:00
 layout: single
 author_profile: true
-url: '2014/10/03/پیغام-فارسی-وایبر-به-کاربران-ایرانی'
+url: 2014/10/03/viber-persian-message-to-iranian-users/
+aliases:
+  - '/2014/10/03/پیغام-فارسی-وایبر-به-کاربران-ایرانی'
 shortlink: https://g.omid.dev/1WRIwkT
 tags:
   - Technology News

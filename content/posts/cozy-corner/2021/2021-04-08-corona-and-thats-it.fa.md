@@ -3,7 +3,9 @@ title: کرونا و فقط
 date: 2021-04-08T19:55:51+00:00
 layout: single
 author_profile: true
-url: '2021/04/08/کرونا-و-فقط'
+url: 2021/04/08/corona-and-thats-it/
+aliases:
+  - '/2021/04/08/کرونا-و-فقط'
 shortlink: https://g.omid.dev/gDl9G
 
 categories: 

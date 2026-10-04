@@ -3,7 +3,9 @@ title: بلاگ AMD هک شد، اطلاعات کاربران در اینترن�
 date: 2012-08-20T12:51:00+00:00
 layout: single
 author_profile: true
-url: '2012/08/20/بلاگ-amd-هک-شد،-اطلاعات-کاربران-در-اینترن'
+url: 2012/08/20/amd-blog-hacked-database-leaked-on-internet/
+aliases:
+  - '/2012/08/20/بلاگ-amd-هک-شد،-اطلاعات-کاربران-در-اینترن'
 shortlink: https://g.omid.dev/1QocMQv
 tags:
   - Technology News

@@ -3,7 +3,9 @@ title: تست Gnome روی اوبونتو و زنده کردن دوباره سی
 date: 2017-02-09T02:42:21+00:00
 layout: single
 author_profile: true
-url: '2017/02/09/تست-gnome-روی-اوبونتو-و-زنده-کردن-دوباره-سیس'
+url: 2017/02/09/test-gnome-ubuntu-and-back-alive-lightdm-gdm/
+aliases:
+  - '/2017/02/09/تست-gnome-روی-اوبونتو-و-زنده-کردن-دوباره-سیس'
 shortlink: https://g.omid.dev/2lpxHKq
 tags:
   - Linux

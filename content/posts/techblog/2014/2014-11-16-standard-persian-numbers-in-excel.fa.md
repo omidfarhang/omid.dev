@@ -3,7 +3,9 @@ title: روش استاندارد تایپ اعداد فارسی در اکسل
 date: 2014-11-16T00:09:29+00:00
 layout: single
 author_profile: true
-url: '2014/11/16/روش-استاندارد-تایپ-اعداد-فارسی-در-اکسل'
+url: 2014/11/16/standard-persian-numbers-in-excel/
+aliases:
+  - '/2014/11/16/روش-استاندارد-تایپ-اعداد-فارسی-در-اکسل'
 shortlink: https://g.omid.dev/1n5BzAz
 tags:
   - Technology News

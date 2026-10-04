@@ -3,7 +3,9 @@ title: پسورد 4.93 میلیون کاربر جیمیل منتشر شد
 date: 2014-09-11T00:30:16+00:00
 layout: single
 author_profile: true
-url: '2014/09/11/پسورد-4-93-کاربر-جیمیل-منتشر-شد'
+url: 2014/09/11/gmail-passwords-of-4-93-million-users-leaked/
+aliases:
+  - '/2014/09/11/پسورد-4-93-کاربر-جیمیل-منتشر-شد'
 shortlink: https://g.omid.dev/1VLuUYi
 tags:
   - Technology News

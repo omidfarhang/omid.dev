@@ -3,7 +3,9 @@ title: ابزار ضد هک قلابی فعالان سوریه ای را هدف 
 date: 2012-08-19T09:47:00+00:00
 layout: single
 author_profile: true
-url: '2012/08/19/ابزار-ضد-هک-قلابی-فعالان-سوریه-ای-را-هدف'
+url: 2012/08/19/bogus-anti-hacking-tool-targets-syrian-activists/
+aliases:
+  - '/2012/08/19/ابزار-ضد-هک-قلابی-فعالان-سوریه-ای-را-هدف'
 shortlink: https://g.omid.dev/1oUikvw
 tags:
   - Technology News

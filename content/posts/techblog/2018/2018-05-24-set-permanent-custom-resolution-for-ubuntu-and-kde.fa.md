@@ -5,7 +5,9 @@ lastmod: 2026-07-14T22:15:00+03:30
 description: "چگونه با cvt و xrandr یک حالت تصویری شناسایی‌نشده را اضافه کنیم و آن را از طریق Xsetup برای راه‌اندازی مجدد و صفحهٔ ورود SDDM در کوبونتو/KDE دائمی کنیم؛ به‌همراه نکاتی برای Plasma و Wayland مدرن."
 layout: single
 author_profile: true
-url: '2018/05/24/تنظیم-دایمی-رزولوشن-دلخواه-در-اوبونتو'
+url: 2018/05/24/set-permanent-custom-resolution-for-ubuntu-and-kde/
+aliases:
+  - '/2018/05/24/تنظیم-دایمی-رزولوشن-دلخواه-در-اوبونتو'
 shortlink: https://g.omid.dev/2KQ3MaZ
 keywords:
   - xrandr custom resolution

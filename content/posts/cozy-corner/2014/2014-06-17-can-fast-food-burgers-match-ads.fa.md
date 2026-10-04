@@ -3,7 +3,9 @@ title: آیا رستوران های فست فود می تونن برگر های�
 date: 2014-06-17T18:14:41+00:00
 layout: single
 author_profile: true
-url: '2014/06/17/آیا-رستوران-های-فست-فود-می-تونن-برگر-های/'
+url: 2014/06/17/can-fast-food-burgers-match-ads/
+aliases:
+  - '/2014/06/17/آیا-رستوران-های-فست-فود-می-تونن-برگر-های/'
 shortlink: https://g.omid.dev/1Tkp5n8
 
 categories: 

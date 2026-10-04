@@ -3,7 +3,9 @@ title: ما در برابر دیگران
 date: 2012-11-01T11:24:00+00:00
 layout: single
 author_profile: true
-url: '2012/11/01/ما-در-برابر-دیگران'
+url: 2012/11/01/us-versus-others/
+aliases:
+  - '/2012/11/01/ما-در-برابر-دیگران'
 shortlink: https://g.omid.dev/1oUj6J8
 
 categories: 

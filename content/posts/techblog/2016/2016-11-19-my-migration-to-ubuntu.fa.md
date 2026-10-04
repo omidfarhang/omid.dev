@@ -3,7 +3,9 @@ title: مهاجرت من به اوبونتو
 date: 2016-11-19T23:47:17+00:00
 layout: single
 author_profile: true
-url: '2016/11/19/مهاجرت-من-به-اوبونتو'
+url: 2016/11/19/my-migration-to-ubuntu/
+aliases:
+  - '/2016/11/19/مهاجرت-من-به-اوبونتو'
 shortlink: https://g.omid.dev/2Fq7Hxs
 tags:
   - Linux

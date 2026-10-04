@@ -3,7 +3,9 @@ title: مشکل کجاست؟
 date: 2012-10-31T00:03:00+00:00
 layout: single
 author_profile: true
-url: '2012/10/31/مشکل-کجاست؟'
+url: 2012/10/31/whats-the-problem/
+aliases:
+  - '/2012/10/31/مشکل-کجاست؟'
 shortlink: https://g.omid.dev/1TbKNJv
 
 categories: 

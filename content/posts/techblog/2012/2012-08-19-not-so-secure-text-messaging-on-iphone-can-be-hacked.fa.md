@@ -3,7 +3,9 @@ title: "چندان هم امن نیست: پیام کوتاه های آیفون �
 date: 2012-08-19T15:03:00+00:00
 layout: single
 author_profile: true
-url: '2012/08/19/چندان-هم-امن-نیست-پیام-کوتاه-های-آیفون'
+url: 2012/08/19/not-so-secure-text-messaging-on-iphone-can-be-hacked/
+aliases:
+  - '/2012/08/19/چندان-هم-امن-نیست-پیام-کوتاه-های-آیفون'
 shortlink: https://g.omid.dev/1T3nkub
 tags:
   - Technology News

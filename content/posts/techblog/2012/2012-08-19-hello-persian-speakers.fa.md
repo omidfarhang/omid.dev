@@ -3,7 +3,9 @@ title: سلام، فارسی زبانان!
 date: 2012-08-19T09:17:00+00:00
 layout: single
 author_profile: true
-url: '2012/08/19/سلام،-فارسی-زبانان'
+url: 2012/08/19/hello-persian-speakers/
+aliases:
+  - '/2012/08/19/سلام،-فارسی-زبانان'
 shortlink: https://g.omid.dev/1OKonr6
 tags:
   - Technology News
