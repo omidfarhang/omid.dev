@@ -65,7 +65,7 @@
           <a href="{{ . | relLangURL }}" class="hub-section__link">{{ i18n "reading_path_view" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
           {{- end }}
         </div>
-        {{- partial "series_cards.html" (dict "series" $groupSeries "list" true) }}
+        {{- partial "series_cards.html" (dict "series" $groupSeries "horizontal" true "showParts" true) }}
       </section>
       {{- end }}
     {{- end }}
@@ -96,7 +96,7 @@
             <a href="{{ .RelPermalink }}" class="hub-section__link">{{ i18n "blog_category_explore" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
             {{- end }}
           </div>
-          {{- partial "series_cards.html" (dict "series" $groupSeries "list" true) }}
+          {{- partial "series_cards.html" (dict "series" $groupSeries "horizontal" true "showParts" true) }}
         </section>
       {{- end }}
     {{- end }}
@@ -113,7 +113,7 @@
             <a href="{{ .RelPermalink }}" class="hub-section__link">{{ i18n "blog_category_explore" }} <span class="hub-section__arrow" aria-hidden="true"></span></a>
             {{- end }}
           </div>
-          {{- partial "series_cards.html" (dict "series" $groupSeries "list" true) }}
+          {{- partial "series_cards.html" (dict "series" $groupSeries "horizontal" true "showParts" true) }}
         </section>
       {{- end }}
     {{- end }}

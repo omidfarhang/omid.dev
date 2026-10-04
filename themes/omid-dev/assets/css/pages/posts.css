@@ -326,6 +326,19 @@
     margin-bottom: var(--space-6);
 }
 
+/* Series index — richer tiles (match reading-path cards), keep groups */
+.series-index-page .discovery-index-group .series-grid--horizontal {
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr));
+}
+
+.series-index-page .discovery-index-group .series-grid--horizontal.series-grid--solo {
+    grid-template-columns: 1fr;
+}
+
+.series-index-page .discovery-index-group .hub-section__header {
+    margin-bottom: var(--space-4);
+}
+
 .discovery-index-footer {
     display: flex;
     flex-wrap: wrap;
