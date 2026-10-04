@@ -35,7 +35,7 @@
   {{- if .home }}
   {{- partial "home_section_heading.html" (dict "id" "tech-topics-title" "title" (i18n "tech_topics")) }}
   {{- else }}
-  <h2 id="tech-topics-title" class="section-title section-title--centered">{{ i18n "tech_topics" }}</h2>
+  <h2 id="tech-topics-title" class="section-title{{ if $list }} section-title--page{{ else }} section-title--centered{{ end }}">{{ i18n "tech_topics" }}</h2>
   {{- end }}
 {{- end }}
 

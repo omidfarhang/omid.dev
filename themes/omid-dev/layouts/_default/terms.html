@@ -1,94 +1,243 @@
 {{- define "main" }}
 
-<div class="page-content">
-{{- if .Title }}
-<header class="page-header">
-    <h1>{{ .Title }}</h1>
-    {{- if .Description }}
-    <div class="post-description">
-        {{ .Description }}
-    </div>
-    {{- end }}
-</header>
-{{- end }}
+{{- $isCategories := eq .Type "categories" -}}
+{{- $isTags := eq .Type "tags" -}}
+{{- $terms := .Data.Terms.Alphabetical -}}
+{{- $lead := .Description -}}
+{{- if not $lead -}}
+  {{- if $isCategories -}}
+    {{- $lead = i18n "terms_categories_lead" -}}
+  {{- else if $isTags -}}
+    {{- $lead = i18n "terms_tags_lead" -}}
+  {{- end -}}
+{{- end -}}
 
-{{- $type := .Type }}
-{{- $terms := .Data.Terms.Alphabetical }}
-
-{{- if $terms }}
-<div class="terms-controls">
-    <div class="terms-search-wrapper">
-        <input type="text" id="terms-search" class="input input--pill" placeholder="Filter {{ .Type }}..." aria-label="Filter {{ .Type }}">
+<div class="posts-list-content terms-index-page discovery-index-page">
+  <header class="page-hero--contained panel--hero-gradient page-hero--section">
+    <nav class="breadcrumbs" aria-label="breadcrumbs">
+      <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "" | absLangURL }}">
+            <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+          <span itemprop="name" aria-current="page">{{ .Title }}</span>
+          <meta itemprop="position" content="2" />
+        </li>
+      </ol>
+    </nav>
+    <div class="page-hero-inner">
+      <h1 class="post-title">
+        {{ .Title }}
+        {{- with .OutputFormats.Get "rss" }}
+        <a class="page-hero-rss" href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 11a9 9 0 0 1 9 9" />
+            <path d="M4 4a16 16 0 0 1 16 16" />
+            <circle cx="5" cy="19" r="1" />
+          </svg>
+        </a>
+        {{- end }}
+      </h1>
+      {{- with $lead }}
+      <p class="page-hero-lead">{{ . }}</p>
+      {{- end }}
     </div>
-    <div class="terms-sort-wrapper">
-        <button id="sort-alphabetical" class="active" title="Sort Alphabetically">A-Z</button>
-        <button id="sort-count" title="Sort by Popularity">Most Used</button>
-    </div>
-</div>
+  </header>
 
-<div id="view-alphabetical">
-    <nav class="terms-alphabet-nav">
+  <div class="discovery-index-body">
+    {{- if and $isCategories $terms }}
+      {{- $catOrder := slice "techblog" "electronics" "health" "cozy-corner" -}}
+      {{- $byKey := dict -}}
+      {{- range $terms -}}
+        {{- $key := .Name | urlize -}}
+        {{- $byKey = merge $byKey (dict $key .) -}}
+      {{- end -}}
+      {{- $ordered := slice -}}
+      {{- $seen := dict -}}
+      {{- range $catOrder -}}
+        {{- $key := . -}}
+        {{- with index $byKey $key -}}
+          {{- $ordered = $ordered | append . -}}
+          {{- $seen = merge $seen (dict $key true) -}}
+        {{- end -}}
+      {{- end -}}
+      {{- range $terms -}}
+        {{- $key := .Name | urlize -}}
+        {{- if not (index $seen $key) -}}
+          {{- $ordered = $ordered | append . -}}
+        {{- end -}}
+      {{- end -}}
+
+      <section class="blog-category-browse terms-categories" aria-labelledby="terms-categories-title">
+        <h2 id="terms-categories-title" class="section-title section-title--page">{{ i18n "browse_categories" }}</h2>
+        <div class="blog-category-grid">
+          {{- range $ordered -}}
+            {{- $count := .Count -}}
+            {{- $cat := .Name | urlize -}}
+            {{- $termPage := .Page -}}
+            {{- $hub := partial "category_section_hub.html" $termPage -}}
+            {{- $target := $termPage -}}
+            {{- if $hub -}}{{- $target = $hub -}}{{- end -}}
+            {{- with $target -}}
+              {{- $desc := .Description -}}
+              {{- if not $desc -}}
+                {{- $desc = .Content | plainify | truncate 140 -}}
+              {{- end -}}
+              {{- $isTech := eq $cat "techblog" -}}
+              <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life blog-category-card" data-category="{{ $cat }}">
+                <span class="icon-circle icon-circle--sm blog-category-card__icon">
+                  {{- if eq $cat "techblog" }}<i class="fa-solid fa-laptop-code" aria-hidden="true"></i>
+                  {{- else if eq $cat "electronics" }}<i class="fa-solid fa-microchip" aria-hidden="true"></i>
+                  {{- else if eq $cat "health" }}<i class="fa-solid fa-heart-pulse" aria-hidden="true"></i>
+                  {{- else if eq $cat "cozy-corner" }}<i class="fa-solid fa-mug-hot" aria-hidden="true"></i>
+                  {{- else }}<i class="fa-solid fa-folder" aria-hidden="true"></i>
+                  {{- end }}
+                </span>
+                <span class="blog-category-card__body">
+                  <strong class="blog-category-card__title">{{ .Title }}</strong>
+                  {{- if $desc }}
+                  <span class="blog-category-card__desc">{{ $desc }}</span>
+                  {{- end }}
+                  <small class="blog-category-card__meta">{{ $count }} {{ T "posts" }}</small>
+                  {{- if $isTech }}
+                  <span class="blog-category-card__start">{{ i18n "blog_tech_discovery" }} <span class="chip__arrow" aria-hidden="true"></span></span>
+                  {{- else }}
+                  <span class="blog-category-card__start">{{ i18n "blog_category_explore" }} <span class="chip__arrow" aria-hidden="true"></span></span>
+                  {{- end }}
+                </span>
+              </a>
+            {{- end -}}
+          {{- end -}}
+        </div>
+      </section>
+
+    {{- else if and $isTags $terms }}
+      {{- partial "tech_topics_grid.html" (dict
+        "showFeatured" false
+        "compact" false
+        "list" true
+        "showCoreStack" true
+        "coreStackTags" site.Params.homeFeaturedTechTagsTechnical
+        "professionalTags" site.Params.homeTechTagsProfessional
+        "technicalTags" site.Params.homeTechTagsTechnical
+      ) }}
+
+      <section class="terms-browse" aria-labelledby="terms-all-tags-title">
+        <div class="hub-section__header">
+          <h2 id="terms-all-tags-title" class="section-title section-title--page">{{ i18n "terms_all_tags" }}</h2>
+        </div>
+
+        <div class="terms-controls panel panel--tinted">
+          <div class="terms-search-wrapper">
+            <label class="screen-reader-text" for="terms-search">{{ i18n "terms_filter_label" }}</label>
+            <input type="search" id="terms-search" class="input input--pill" placeholder="{{ i18n "terms_filter_placeholder" }}" autocomplete="off">
+          </div>
+          <div class="terms-sort-wrapper" role="group" aria-label="{{ i18n "terms_sort_label" }}">
+            <button type="button" id="sort-alphabetical" class="active" aria-pressed="true" title="{{ i18n "terms_sort_alpha_title" }}">{{ i18n "terms_sort_alpha" }}</button>
+            <button type="button" id="sort-count" aria-pressed="false" title="{{ i18n "terms_sort_count_title" }}">{{ i18n "terms_sort_count" }}</button>
+          </div>
+        </div>
+
         {{- $letters := slice -}}
         {{- range $terms -}}
-            {{- $letter := substr .Name 0 1 | upper -}}
-            {{- if (findRE "[0-9]" $letter) -}}
-                {{- $letter = "#" -}}
-            {{- end -}}
-            {{- if not (in $letters $letter) -}}
-                {{- $letters = $letters | append $letter -}}
-            {{- end -}}
+          {{- $letter := substr .Page.Title 0 1 | upper -}}
+          {{- if not $letter -}}
+            {{- $letter = substr .Name 0 1 | upper -}}
+          {{- end -}}
+          {{- if (findRE "[0-9]" $letter) -}}
+            {{- $letter = "#" -}}
+          {{- end -}}
+          {{- if not (in $letters $letter) -}}
+            {{- $letters = $letters | append $letter -}}
+          {{- end -}}
         {{- end -}}
-        
-        {{- range $letters -}}
-            <a href="#{{ if eq . "#" }}numeric{{ else }}{{ . }}{{ end }}">{{ . }}</a>
-        {{- end -}}
-    </nav>
 
-    <div class="terms-groups">
-        {{- range $letters -}}
-        {{- $currentLetter := . -}}
-        <section class="terms-group" id="{{ if eq $currentLetter "#" }}numeric{{ else }}{{ $currentLetter }}{{ end }}">
-            <h2 class="terms-group-title">{{ $currentLetter }}</h2>
-            <ul class="terms-tags">
-                {{- range $terms -}}
-                    {{- $itemLetter := substr .Name 0 1 | upper -}}
+        <div id="view-alphabetical" class="terms-view">
+          <nav class="terms-alphabet-nav" aria-label="{{ i18n "terms_alphabet_nav" }}">
+            {{- range $letters -}}
+              <a href="#{{ if eq . "#" }}numeric{{ else }}{{ . }}{{ end }}">{{ . }}</a>
+            {{- end -}}
+          </nav>
+
+          <div class="terms-groups">
+            {{- range $letters -}}
+              {{- $currentLetter := . -}}
+              <section class="terms-group" id="{{ if eq $currentLetter "#" }}numeric{{ else }}{{ $currentLetter }}{{ end }}">
+                <h3 class="terms-group-title">{{ $currentLetter }}</h3>
+                <ul class="terms-tags">
+                  {{- range $terms -}}
+                    {{- $title := .Page.Title | default .Name -}}
+                    {{- $itemLetter := substr $title 0 1 | upper -}}
                     {{- if (findRE "[0-9]" $itemLetter) -}}{{- $itemLetter = "#" -}}{{- end -}}
                     {{- if eq $itemLetter $currentLetter -}}
-                        {{- $name := .Name -}}
-                        {{- $count := .Count -}}
-                        {{- with site.GetPage (printf "/%s/%s" $type $name) -}}
-                        <li>
-                            <a href="{{ .Permalink }}" class="chip chip--terms">
-                                {{ .Name }} <span class="chip__count">{{ $count }}</span>
-                            </a>
-                        </li>
-                        {{- end -}}
+                      {{- $count := .Count -}}
+                      {{- with .Page -}}
+                      <li>
+                        <a href="{{ .Permalink }}" class="chip chip--terms">
+                          {{ .LinkTitle }} <span class="chip__count">{{ $count }}</span>
+                        </a>
+                      </li>
+                      {{- end -}}
                     {{- end -}}
-                {{- end -}}
-            </ul>
-        </section>
-        {{- end -}}
-    </div>
-</div>
-
-<div id="view-count" style="display: none;">
-    <ul class="terms-tags">
-        {{- range .Data.Terms.ByCount -}}
-            {{- $name := .Name -}}
-            {{- $count := .Count -}}
-            {{- with site.GetPage (printf "/%s/%s" $type $name) -}}
-            <li>
-                <a href="{{ .Permalink }}" class="chip chip--terms">
-                    {{ .Name }} <span class="chip__count">{{ $count }}</span>
-                </a>
-            </li>
+                  {{- end -}}
+                </ul>
+              </section>
             {{- end -}}
-        {{- end -}}
-    </ul>
-</div>
-{{- end }}
-</div>{{/* end page-content */}}
+          </div>
+        </div>
 
+        <div id="view-count" class="terms-view" hidden>
+          <ul class="terms-tags">
+            {{- range .Data.Terms.ByCount -}}
+              {{- $count := .Count -}}
+              {{- with .Page -}}
+              <li>
+                <a href="{{ .Permalink }}" class="chip chip--terms">
+                  {{ .LinkTitle }} <span class="chip__count">{{ $count }}</span>
+                </a>
+              </li>
+              {{- end -}}
+            {{- end -}}
+          </ul>
+        </div>
+      </section>
+
+    {{- else if $terms }}
+      {{/* Fallback for any other taxonomy */}}
+      <ul class="terms-tags">
+        {{- range $terms -}}
+          {{- $count := .Count -}}
+          {{- with .Page -}}
+          <li>
+            <a href="{{ .Permalink }}" class="chip chip--terms">
+              {{ .LinkTitle }} <span class="chip__count">{{ $count }}</span>
+            </a>
+          </li>
+          {{- end -}}
+        {{- end -}}
+      </ul>
+    {{- end }}
+
+    <footer class="discovery-index-footer">
+      <a href="{{ "/posts/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_posts" }}</a>
+      {{- if $isTags }}
+      <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_tech_posts" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      {{- else if $isCategories }}
+      <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      {{- with site.GetPage "section" "archives" }}
+      <a href="{{ .RelPermalink }}" class="chip chip--pill">{{ .Title }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      {{- end }}
+      {{- end }}
+    </footer>
+  </div>
+</div>
+
+{{- if $isTags }}
 <script>
     document.addEventListener('DOMContentLoaded', () => {
         const searchInput = document.getElementById('terms-search');
@@ -96,34 +245,27 @@
         const btnCount = document.getElementById('sort-count');
         const viewAlpha = document.getElementById('view-alphabetical');
         const viewCount = document.getElementById('view-count');
-        
         const alphabetNav = document.querySelector('.terms-alphabet-nav');
         const groups = document.querySelectorAll('.terms-group');
         const allTags = document.querySelectorAll('.terms-tags li');
 
         function filter() {
-            const query = searchInput.value.toLowerCase().trim();
-            
+            const query = (searchInput?.value || '').toLowerCase().trim();
+            const countViewActive = viewCount && !viewCount.hidden;
+
             allTags.forEach(li => {
                 const text = li.textContent.toLowerCase();
-                li.style.display = text.includes(query) ? '' : 'none';
+                li.hidden = query.length > 0 && !text.includes(query);
             });
 
-            // Update alphabetical group visibility
             groups.forEach(group => {
-                const visibleTags = group.querySelectorAll('.terms-tags li:not([style*="display: none"])');
-                group.style.display = visibleTags.length > 0 ? '' : 'none';
+                const visibleTags = group.querySelectorAll('.terms-tags li:not([hidden])');
+                group.hidden = visibleTags.length === 0;
             });
 
-            // Handle Nav opacity
             if (alphabetNav) {
-                if (query.length > 0 || viewCount.style.display !== 'none') {
-                    alphabetNav.style.opacity = '0.3';
-                    alphabetNav.style.pointerEvents = 'none';
-                } else {
-                    alphabetNav.style.opacity = '1';
-                    alphabetNav.style.pointerEvents = 'auto';
-                }
+                const disableNav = query.length > 0 || countViewActive;
+                alphabetNav.classList.toggle('is-disabled', disableNav);
             }
         }
 
@@ -131,24 +273,29 @@
             searchInput.addEventListener('input', filter);
         }
 
-        if (btnAlpha && btnCount) {
+        if (btnAlpha && btnCount && viewAlpha && viewCount) {
             btnAlpha.addEventListener('click', () => {
                 btnAlpha.classList.add('active');
                 btnCount.classList.remove('active');
-                viewAlpha.style.display = '';
-                viewCount.style.display = 'none';
+                btnAlpha.setAttribute('aria-pressed', 'true');
+                btnCount.setAttribute('aria-pressed', 'false');
+                viewAlpha.hidden = false;
+                viewCount.hidden = true;
                 filter();
             });
 
             btnCount.addEventListener('click', () => {
                 btnCount.classList.add('active');
                 btnAlpha.classList.remove('active');
-                viewAlpha.style.display = 'none';
-                viewCount.style.display = '';
+                btnCount.setAttribute('aria-pressed', 'true');
+                btnAlpha.setAttribute('aria-pressed', 'false');
+                viewAlpha.hidden = true;
+                viewCount.hidden = false;
                 filter();
             });
         }
     });
 </script>
+{{- end }}
 
 {{- end }}{{/* end main */ -}}

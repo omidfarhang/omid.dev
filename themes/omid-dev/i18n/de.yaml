@@ -272,6 +272,48 @@
 - id: categories
   translation: "Kategorien"
 
+- id: tags
+  translation: "Tags"
+
+- id: terms_categories_lead
+  translation: "Vier Schreibbereiche — starte im Hub, der zu dem passt, was du lesen willst."
+
+- id: terms_tags_lead
+  translation: "Kuratierte Tech-Themen durchstöbern oder das gesamte Tag-Archiv filtern."
+
+- id: terms_all_tags
+  translation: "Alle Tags"
+
+- id: terms_filter_label
+  translation: "Tags filtern"
+
+- id: terms_filter_placeholder
+  translation: "Tags filtern…"
+
+- id: terms_sort_label
+  translation: "Tags sortieren"
+
+- id: terms_sort_alpha
+  translation: "A–Z"
+
+- id: terms_sort_count
+  translation: "Meistgenutzt"
+
+- id: terms_sort_alpha_title
+  translation: "Alphabetisch sortieren"
+
+- id: terms_sort_count_title
+  translation: "Nach Häufigkeit sortieren"
+
+- id: terms_alphabet_nav
+  translation: "Zum Buchstaben springen"
+
+- id: terms_category_hub_label
+  translation: "Bereichs-Hub"
+
+- id: terms_category_hub_notice
+  translation: "Diese Kategorie hat einen eigenen Hub mit Lesepfaden und Serien — weiter unter <a href=\"{{ .Permalink }}\">{{ .Title }}</a>."
+
 - id: tech_topics
   translation: "Worüber ich nachdenke"
 

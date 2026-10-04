@@ -53,6 +53,13 @@
 </div>
 {{- end }}
 
+{{- $categoryHub := partial "category_section_hub.html" . -}}
+{{- if and $categoryHub (eq $paginator.PageNumber 1) }}
+<aside class="panel panel--tinted terms-hub-notice" aria-label="{{ i18n "terms_category_hub_label" }}">
+  <p>{{ i18n "terms_category_hub_notice" (dict "Title" $categoryHub.Title "Permalink" $categoryHub.RelPermalink) | safeHTML }}</p>
+</aside>
+{{- end }}
+
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
 {{- end }}

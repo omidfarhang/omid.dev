@@ -326,6 +326,48 @@
 - id: categories
   translation: "دسته‌بندی‌ها"
 
+- id: tags
+  translation: "برچسب‌ها"
+
+- id: terms_categories_lead
+  translation: "چهار بخش نوشته — از هاب متناسب با چیزی که می‌خواهید بخوانید شروع کنید."
+
+- id: terms_tags_lead
+  translation: "موضوعات منتخب فنی را ببینید، یا کل آرشیو برچسب‌ها را فیلتر کنید."
+
+- id: terms_all_tags
+  translation: "همه برچسب‌ها"
+
+- id: terms_filter_label
+  translation: "فیلتر برچسب‌ها"
+
+- id: terms_filter_placeholder
+  translation: "فیلتر برچسب‌ها…"
+
+- id: terms_sort_label
+  translation: "مرتب‌سازی برچسب‌ها"
+
+- id: terms_sort_alpha
+  translation: "الف–ی"
+
+- id: terms_sort_count
+  translation: "پرکاربرد"
+
+- id: terms_sort_alpha_title
+  translation: "مرتب‌سازی الفبایی"
+
+- id: terms_sort_count_title
+  translation: "مرتب‌سازی بر اساس محبوبیت"
+
+- id: terms_alphabet_nav
+  translation: "پرش به حرف"
+
+- id: terms_category_hub_label
+  translation: "هاب بخش"
+
+- id: terms_category_hub_notice
+  translation: "این دسته هاب اختصاصی با مسیرهای مطالعه و سری‌ها دارد — ادامه در <a href=\"{{ .Permalink }}\">{{ .Title }}</a>."
+
 - id: tech_topics
   translation: "چیزهایی که به آن فکر می‌کنم"
 
