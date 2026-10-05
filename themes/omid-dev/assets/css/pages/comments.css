@@ -28,6 +28,10 @@
     display: block;
 }
 
+.comentario-root .comentario-footer {
+    display: none !important;
+}
+
 .social-discussion {
     padding: 0;
 }
