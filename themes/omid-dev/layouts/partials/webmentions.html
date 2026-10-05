@@ -2,12 +2,10 @@
   {{- partial "discussion_actions.html" . -}}
   {{- partial "comentario.html" . -}}
 
-  <section class="webmentions-container" data-webmentions="{{ .Permalink }}"
+  <section class="webmentions-container" data-webmentions="{{ .Permalink }}" hidden
     data-label-likes="{{ i18n "webmentions_likes" | default "likes" }}"
     data-label-reposts="{{ i18n "webmentions_reposts" | default "reposts" }}"
     data-label-mentions="{{ i18n "webmentions_mentions" | default "mentions" }}"
-    data-label-empty="{{ i18n "no_webmentions" | default "No replies yet." }}"
-    data-label-loading="{{ i18n "webmentions_loading" | default "Loading replies…" }}"
     {{- $xHandle := site.Params.social.twitter | default "omidfarhang" -}}
     {{- $xMention := printf "@%s" (strings.TrimPrefix "@" $xHandle) -}}
     {{- $mastodonHandle := site.Params.social.fediverse_creator | default "@omidfarhang@mastodon.social" -}}

@@ -7,8 +7,6 @@
     likes: container.dataset.labelLikes || "likes",
     reposts: container.dataset.labelReposts || "reposts",
     mentions: container.dataset.labelMentions || "mentions",
-    empty: container.dataset.labelEmpty || "No replies yet.",
-    loading: container.dataset.labelLoading || "Loading replies…",
   };
 
   const replyLabels = {
@@ -186,7 +184,7 @@
     });
 
     if (!conversational.length) {
-      listEl.innerHTML = `<p class="no-mentions">${escapeHtml(labels.empty)}</p>`;
+      listEl.innerHTML = "";
       return;
     }
 
@@ -214,7 +212,7 @@
       .join("");
   }
 
-  if (listEl) listEl.innerHTML = `<p class="no-mentions">${escapeHtml(labels.loading)}</p>`;
+  if (listEl) listEl.innerHTML = "";
 
   fetch(`https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(target)}`)
     .then((response) => {
@@ -225,6 +223,12 @@
       const children = payload.children || [];
       applySyndicationLinks(extractSyndicationUrls(children));
 
+      if (!children.length) {
+        container.hidden = true;
+        return;
+      }
+
+      container.hidden = false;
       const groups = { like: [], repost: [], reply: [], mention: [] };
       children.forEach((entry) => groups[mentionType(entry)].push(entry));
       renderStats(groups);
@@ -232,8 +236,9 @@
       renderList(children);
     })
     .catch(() => {
+      container.hidden = true;
       if (statsEl) statsEl.innerHTML = "";
       if (facepileEl) facepileEl.innerHTML = "";
-      if (listEl) listEl.innerHTML = `<p class="no-mentions">${escapeHtml(labels.empty)}</p>`;
+      if (listEl) listEl.innerHTML = "";
     });
 })();

@@ -3,7 +3,7 @@
     {{- partial "discussion_actions.html" . -}}
     {{- partial "comentario.html" . -}}
 
-    <div id="webmentions" class="webmentions-container" data-url="{{ .Permalink }}">
+    <div id="webmentions" class="webmentions-container" data-url="{{ .Permalink }}" hidden>
         <div class="webmentions-header">
             <div id="webmentions-stats" class="webmentions-stats"></div>
             <div id="webmentions-facepile" class="webmentions-facepile"></div>
@@ -25,8 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const labels = {
         likes: '{{ i18n "webmentions_likes" }}',
         reposts: '{{ i18n "webmentions_reposts" }}',
-        mentions: '{{ i18n "webmentions_mentions" }}',
-        none: '{{ i18n "no_webmentions" }}'
+        mentions: '{{ i18n "webmentions_mentions" }}'
     };
 
     {{- $xHandle := site.Params.social.twitter | default "omidfarhang" -}}
@@ -158,9 +157,11 @@ document.addEventListener('DOMContentLoaded', function() {
             applySyndicationLinks(extractSyndicationUrls(mentions));
 
             if (mentions.length === 0) {
-                statsContainer.innerHTML = `<p class="no-mentions">${labels.none}</p>`;
+                container.hidden = true;
                 return;
             }
+
+            container.hidden = false;
 
             const likes = mentions.filter(function(m) { return m['wm-property'] === 'like-of'; });
             const reposts = mentions.filter(function(m) {
@@ -215,6 +216,7 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(function(err) {
             console.error('Error fetching webmentions:', err);
+            container.hidden = true;
         });
 });
 </script>
