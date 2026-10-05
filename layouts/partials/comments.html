@@ -1,6 +1,7 @@
 {{- if .Site.Params.comments -}}
 <section class="comments-container" aria-labelledby="discussion-title">
     {{- partial "discussion_actions.html" . -}}
+    {{- partial "comentario.html" . -}}
 
     <div id="webmentions" class="webmentions-container" data-url="{{ .Permalink }}">
         <div class="webmentions-header">

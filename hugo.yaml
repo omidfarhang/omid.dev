@@ -486,6 +486,8 @@ params:
 
   displayFullLangName: true
   comments: true
+  comentario:
+    script: https://comments.omid.dev/comentario.js
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: false

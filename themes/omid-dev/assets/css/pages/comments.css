@@ -9,6 +9,25 @@
     box-shadow: none;
 }
 
+.comentario-wrap {
+    margin-top: var(--space-6);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--border);
+}
+
+.comentario-heading {
+    margin: 0 0 var(--space-4);
+    color: var(--primary);
+    font-size: var(--text-xl);
+    font-weight: var(--font-bold);
+    letter-spacing: var(--tracking-snug);
+    line-height: var(--leading-tight);
+}
+
+.comentario-wrap comentario-comments {
+    display: block;
+}
+
 .social-discussion {
     padding: 0;
 }

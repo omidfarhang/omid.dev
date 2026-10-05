@@ -12,7 +12,7 @@ cascade:
     ShowShareButtons: false
     ShowReadingTime: false
     ShowWordCount: false
-    comments: false
+    comments: true
     hideMeta: true
     minimalSEO: true
     searchHidden: true

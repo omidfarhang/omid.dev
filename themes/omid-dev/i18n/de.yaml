@@ -591,10 +591,13 @@
   translation: "Diskussion beitreten"
 
 - id: discussion_desc
-  translation: "Fanden Sie diesen Beitrag interessant? Ich würde mich freuen, Ihre Gedanken, Fragen oder Feedback auf diesen Plattformen zu hören:"
+  translation: "Fanden Sie diesen Beitrag interessant? Hinterlassen Sie unten einen Kommentar, oder setzen Sie die Unterhaltung auf diesen Plattformen fort:"
 
 - id: discussion_desc_note
-  translation: "Gedanken zu dieser Notiz? Ich würde mich freuen, sie auf diesen Plattformen zu hören:"
+  translation: "Gedanken zu dieser Notiz? Hinterlassen Sie unten einen Kommentar, oder setzen Sie auf diesen Plattformen fort:"
+
+- id: comments_title
+  translation: "Kommentare"
 
 - id: webmentions_likes
   translation: "Likes"

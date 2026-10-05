@@ -1,5 +1,6 @@
 <div class="comments-container note-webmentions-wrap" aria-labelledby="discussion-title">
   {{- partial "discussion_actions.html" . -}}
+  {{- partial "comentario.html" . -}}
 
   <section class="webmentions-container" data-webmentions="{{ .Permalink }}"
     data-label-likes="{{ i18n "webmentions_likes" | default "likes" }}"

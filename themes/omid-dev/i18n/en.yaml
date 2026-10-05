@@ -585,10 +585,13 @@
   translation: "Join the Conversation"
 
 - id: discussion_desc
-  translation: "Found this post interesting? I'd love to hear your thoughts, questions, or feedback on these platforms:"
+  translation: "Found this post interesting? Leave a comment below, or continue the conversation on these platforms:"
 
 - id: discussion_desc_note
-  translation: "Thoughts on this note? I'd love to hear them on these platforms:"
+  translation: "Thoughts on this note? Leave a comment below, or continue on these platforms:"
+
+- id: comments_title
+  translation: "Comments"
 
 - id: webmentions_likes
   translation: "Likes"
