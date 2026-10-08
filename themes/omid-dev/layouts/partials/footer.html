@@ -47,7 +47,7 @@
                     {{ end }}
                 </ul>
                 <p class="footer-column-more">
-                    <a href="{{ "posts" | absLangURL }}">{{ i18n "posts" | default "Posts" }} →</a>
+                    <a href="{{ "posts" | absLangURL }}">{{ if eq .Language.Direction "rtl" }}← {{ i18n "posts" | default "Posts" }}{{ else }}{{ i18n "posts" | default "Posts" }} →{{ end }}</a>
                 </p>
             </section>
 
@@ -65,7 +65,7 @@
                     {{ end }}
                 </ul>
                 <p class="footer-column-more">
-                    <a href="{{ "notes" | absLangURL }}">{{ i18n "notes" | default "Notes" }} →</a>
+                    <a href="{{ "notes" | absLangURL }}">{{ if eq .Language.Direction "rtl" }}← {{ i18n "notes" | default "Notes" }}{{ else }}{{ i18n "notes" | default "Notes" }} →{{ end }}</a>
                 </p>
             </section>
             {{- end }}
