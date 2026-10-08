@@ -182,7 +182,7 @@
         <div class="logo-switches">
             {{- partial "lang_switch.html" (dict "page" . "class" "header-lang" "codes" true) }}
 
-            <a class="search-button" href="{{ "search" | absLangURL }}" data-search-open aria-label="{{ i18n "search" | default "Search" }}" title="{{ i18n "search" | default "Search" }} ( / )">
+            <a class="search-button" href="{{ "search" | absLangURL }}" data-search-open aria-haspopup="dialog" aria-controls="search-palette" aria-label="{{ i18n "search" | default "Search" }}" title="{{ i18n "search" | default "Search" }} ( / )">
                 <svg class="search-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                     <circle cx="11" cy="11" r="8"></circle>
                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>

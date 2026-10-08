@@ -1,7 +1,9 @@
-{{- /* Theme switch radiogroup. Optional: class (extra classes on root). */ -}}
+{{- /* Theme switch radiogroup. Optional: class (extra classes on root).
+   Defaults match JS (pref-theme || "system") so the radiogroup is correct before sync. */ -}}
 {{- $class := .class | default "" -}}
 <div class="theme-switch{{ with $class }} {{ . }}{{ end }}" role="radiogroup" aria-label="{{ i18n "theme_toggle" | default "Theme" }}">
     <button type="button" class="theme-switch__option" role="radio" data-theme="system"
+        aria-checked="true" tabindex="0"
         aria-label="{{ i18n "theme_system" | default "System" }}"
         title="{{ i18n "theme_system" | default "System" }}">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -11,6 +13,7 @@
         </svg>
     </button>
     <button type="button" class="theme-switch__option" role="radio" data-theme="light"
+        aria-checked="false" tabindex="-1"
         aria-label="{{ i18n "theme_light" | default "Light" }}"
         title="{{ i18n "theme_light" | default "Light" }}">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -26,6 +29,7 @@
         </svg>
     </button>
     <button type="button" class="theme-switch__option" role="radio" data-theme="dark"
+        aria-checked="false" tabindex="-1"
         aria-label="{{ i18n "theme_dark" | default "Dark" }}"
         title="{{ i18n "theme_dark" | default "Dark" }}">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">

@@ -23,6 +23,9 @@
 - id: menu
   translation: "Menu"
 
+- id: skip_to_content
+  translation: "Skip to content"
+
 - id: close
   translation: "Close menu"
 

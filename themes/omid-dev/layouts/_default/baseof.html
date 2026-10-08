@@ -18,8 +18,9 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+    <a class="skip-link" href="#main-content">{{ i18n "skip_to_content" | default "Skip to content" }}</a>
     {{- partialCached "header.html" . .Page -}}
-    <main class="main">
+    <main class="main" id="main-content" tabindex="-1">
         {{- block "main" . }}{{ end }}
     </main>
     {{/* RelPermalink in the cache key: footer embeds page-specific lang_switch links */}}

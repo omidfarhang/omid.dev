@@ -10,6 +10,51 @@ body {
     padding: var(--gap);
 }
 
+.main:focus {
+    outline: none;
+}
+
+.skip-link {
+    position: absolute;
+    inset-inline-start: var(--space-4);
+    top: var(--space-4);
+    z-index: 10000;
+    padding: var(--space-2) var(--space-4);
+    border-radius: var(--radius);
+    background: var(--primary);
+    color: var(--theme);
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    text-decoration: none;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.skip-link:focus-visible {
+    clip: auto;
+    clip-path: none;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    outline: none;
+    box-shadow: var(--focus-ring);
+}
+
+/* Shared keyboard focus for chrome + prose links (matches buttons/search) */
+.logo a:focus-visible,
+#menu a:focus-visible,
+.mobile-menu a:focus-visible,
+.post-content a:focus-visible,
+.post-content a:not([class]):focus-visible {
+    outline: none;
+    border-radius: var(--radius);
+    box-shadow: var(--focus-ring);
+}
+
 /* Boxed content for all pages */
 .page-content {
     background: var(--theme);

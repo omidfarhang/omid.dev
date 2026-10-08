@@ -23,6 +23,9 @@
 - id: menu
   translation: "منو"
 
+- id: skip_to_content
+  translation: "پرش به محتوا"
+
 - id: close
   translation: "بستن منو"
 
