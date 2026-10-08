@@ -185,11 +185,22 @@
     transition: var(--transition-base);
 }
 
+/* One divider after body; sub-blocks (tags, nav, related, discussion) use gap only */
 .post-footer {
     margin-top: var(--space-12);
+    padding-top: var(--space-8);
+    border-top: 1px solid var(--border);
     display: flex;
     flex-direction: column;
-    gap: var(--space-6);
+    gap: var(--space-8);
+}
+
+.post-footer .series-nav--footer,
+.post-footer .comments-container,
+.post-footer .note-webmentions-wrap {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
 }
 
 .post-footer-top {
@@ -260,16 +271,16 @@ img.in-text {
     margin: auto;
 }
 
-.related-posts {
-    margin: 0;
-    padding: var(--space-8) 0 0;
-    border-top: 1px solid var(--border);
-}
-
+.related-posts,
 .see-also-posts {
     margin: 0;
-    padding: var(--space-8) 0 0;
-    border-top: 1px solid var(--border);
+    padding: 0;
+    border-top: 0;
+}
+
+/* Theme layout may place related after the footer; keep spacing-only continuity */
+.post-footer + .related-posts {
+    margin-top: var(--space-8);
 }
 
 .post-continue-title {
