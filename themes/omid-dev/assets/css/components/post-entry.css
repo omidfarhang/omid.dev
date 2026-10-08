@@ -4,46 +4,6 @@
    Promote to system/ when: used in 2+ templates with explicit classes + variant API
 */
 
-.first-entry {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 320px;
-    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
-    background: var(--entry);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sm);
-    padding: var(--gap);
-}
-
-.first-entry .entry-header {
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
-}
-
-.first-entry .entry-header h1 {
-    font-size: var(--text-entry-featured);
-    line-height: var(--leading-snug);
-}
-
-.first-entry .entry-content {
-    margin: var(--space-4) 0;
-    font-size: var(--text-base);
-    -webkit-line-clamp: 3;
-}
-
-.first-entry .entry-footer {
-    font-size: var(--text-sm);
-}
-
-.home-info .entry-content {
-    -webkit-line-clamp: unset;
-}
-
 /* Post entry cards — composes .card.card--interactive from templates */
 
 .post-entry {
