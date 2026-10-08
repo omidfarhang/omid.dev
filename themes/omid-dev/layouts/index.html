@@ -138,12 +138,13 @@
         <div class="life-links-home">
             {{- range $postsSection.Sections }}
             {{- if or (not $techSection) (ne .RelPermalink $techSection.RelPermalink) }}
-            <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link-home"{{ with partial "post_category.html" . }} data-category="{{ . }}"{{ end }}>
+            {{- $cat := partial "post_category.html" . }}
+            <a href="{{ .Permalink }}" class="card card--interactive card--horizontal card--life life-link-home"{{ with $cat }} data-category="{{ . }}"{{ end }}>
                 <span class="icon-circle icon-circle--sm life-link-home-icon">
-                    {{- if eq .Title "Electronics" }}<i class="fa-solid fa-microchip"></i>
-                    {{- else if eq .Title "Health" }}<i class="fa-solid fa-heart-pulse"></i>
-                    {{- else if eq .Title "Cozy Corner" }}<i class="fa-solid fa-mug-hot"></i>
-                    {{- else }}<i class="fa-solid fa-tag"></i>
+                    {{- if eq $cat "electronics" }}<i class="fa-solid fa-microchip" aria-hidden="true"></i>
+                    {{- else if eq $cat "health" }}<i class="fa-solid fa-heart-pulse" aria-hidden="true"></i>
+                    {{- else if eq $cat "cozy-corner" }}<i class="fa-solid fa-mug-hot" aria-hidden="true"></i>
+                    {{- else }}<i class="fa-solid fa-tag" aria-hidden="true"></i>
                     {{- end }}
                 </span>
                 <span>
