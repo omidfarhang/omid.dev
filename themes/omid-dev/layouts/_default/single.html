@@ -55,7 +55,7 @@
     <footer class="post-footer">
       {{- partial "post_note_link.html" . }}
       {{- if (.Param "comments") }}
-      {{- partial "comments.html" . }}
+      {{- partial "webmentions.html" . }}
       {{- end }}
       <div class="post-footer-top">
         {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}

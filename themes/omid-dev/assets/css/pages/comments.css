@@ -201,13 +201,6 @@
     margin: 0;
 }
 
-.no-mentions {
-    margin: 0;
-    text-align: start;
-    color: var(--secondary);
-    padding: 0;
-}
-
 [dir="rtl"] .webmention-author {
     flex-direction: row;
 }
