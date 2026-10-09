@@ -6,7 +6,7 @@ Instructions for AI coding agents working on [omid.dev](https://omid.dev/) — a
 
 - **Stack:** [Hugo](https://gohugo.io/) (extended, v0.163+), custom theme `themes/omid-dev`, Python 3 maintenance scripts, [Pagefind](https://pagefind.app/) for site search (post-build via `npx`)
 - **Languages:** English (`en`, default), Persian (`fa`, RTL), German (`de`)
-- **Content:** Long-form posts, short notes, static pages (about, resume, contact, etc.)
+- **Content:** Long-form posts, short notes, Tools catalog (installable scripts), static pages (about, resume, contact, etc.), Playground catalog
 - **Config:** `hugo.yaml`
 
 Hugo is the primary build tool. Pagefind runs after Hugo to generate the search index (`public/pagefind/`).
@@ -18,11 +18,13 @@ Hugo is the primary build tool. Pagefind runs after Hugo to generate the search 
 | `content/` | Markdown content (posts, notes, pages) |
 | `content/posts/{section}/{year}/` | Blog posts by section (`techblog`, `health`, `electronics`, `cozy-corner`) |
 | `content/notes/` | Short-form notes (separate RSS; Pagefind `scope:notes`) |
+| `content/tools/` | Installable-script docs (catalog + README pages); see [Tools](#tools-installable-scripts) |
 | `themes/omid-dev/` | Custom Hugo theme (layouts, assets, i18n) |
 | `layouts/` | Root-level layout overrides (if any) |
 | `static/` | Static assets copied as-is (`static/pagefind/` is generated — do not commit) |
+| `static/scripts/` | Published curl-install scripts → stable URLs `/scripts/*.sh` |
 | `assets/` | Hugo Pipes assets (processed at build) |
-| `data/` | Hugo data files (`playground.yaml` mirrors example-projects `manifest.json`) |
+| `data/` | Hugo data files (`playground.yaml` mirrors example-projects `manifest.json`; `tools.yaml` is an optional thin mirror of tool front matter) |
 | `scripts/` | Python/shell maintenance scripts |
 | `docs/` | Editorial reference (curated content inventory, tag strategy) |
 | `archetypes/` | Hugo content templates |
@@ -241,11 +243,71 @@ When publishing or updating an evergreen TechBlog post:
 Theme shortcodes live in `themes/omid-dev/layouts/shortcodes/`. Common ones:
 
 - `{{< youtube ID >}}`
-- `{{< companion repo="..." path="..." >}}`
+- `{{< companion repo="..." path="..." >}}` — playground companion / lab card in posts
+- `{{< tool id="update-nvm" >}}` — installable-tool card (docs + source + raw script); see [Tools](#tools-installable-scripts)
 - `{{< alert >}}`, `{{< figure >}}`, `{{< ltr >}}`, `{{< rtl >}}`
 - Mermaid diagrams: fenced `mermaid` code blocks (optional `{caption="…"}`) or `{{< mermaid caption="…" >}}`
 
 Use existing shortcodes rather than raw HTML when possible.
+
+## Tools (installable scripts)
+
+Playground-shaped catalog for curl-installable scripts the site publishes. **Not** a third content stream next to Posts/Notes: narrative stays in posts/notes; Tools pages are the canonical README for each script.
+
+| Piece | Location |
+|-------|----------|
+| Catalog index | `content/tools/_index.{en,fa,de}.md` → `/tools/` (`layout: tools`) |
+| Per-script docs | `content/tools/{id}.{en,fa,de}.md` → `/tools/{id}/` (`layout: tool`, `ShowToc: true`) |
+| Downloadable scripts | `static/scripts/{id}.sh` → **stable** `https://omid.dev/scripts/{id}.sh` (self-update URLs; do not rename lightly) |
+| Optional mirror | `data/tools.yaml` — thin `id` / `version` / `scriptPath` / `docUrl` list; pages are source of truth |
+| Nav | `quick_links` in `hugo.yaml` (beside Playground); not main nav |
+| Sitemap | Included in **pages** sitemaps (`SitemapPagesLang`): section index + `Section == "tools"` pages — see `themes/omid-dev/layouts/_default/single.sitemappageslang.xml` and `partials/sitemap/lang-pages.html` |
+
+### Tool page front matter
+
+```yaml
+---
+title: update-nvm
+description: "Short summary for cards and SEO"
+layout: tool
+hidemeta: true
+ShowToc: true
+url: /tools/update-nvm/
+tool:
+  id: update-nvm           # stable slug; matches filename and {{< tool id >}}
+  version: "1.2.1"         # keep in sync with SCRIPT_VERSION in static/scripts/{id}.sh
+  scriptPath: /scripts/update-nvm.sh
+  installName: update-nvm  # binary name under ~/.local/bin
+  sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
+  platform: Linux
+  tags:
+    - nvm
+    - Node.js
+---
+```
+
+Docs body should read like a README: Install, Quick start, What it does, Commands/options table, Environment, Self-update, Related. Ship `en` / `fa` / `de` variants (commands stay English).
+
+### Linking from posts and notes
+
+Prefer the companion-style card shortcode over bare markdown links:
+
+```markdown
+{{< tool id="update-nvm" >}}
+{{< tool id="update-cursor" >}}
+```
+
+Resolves the matching page under `content/tools/`, renders docs / source / raw-script actions. Optional overrides: `title`, `description`, `docsLabel`, `sourceLabel`, `sourceUrl`, `icon`.
+
+### Adding a new tool
+
+1. Add `static/scripts/{id}.sh` with `SCRIPT_VERSION` and a self-update URL pointing at `https://omid.dev/scripts/{id}.sh`.
+2. Add README pages `content/tools/{id}.{en,fa,de}.md` with `tool` front matter (`version` matches the script).
+3. Update `data/tools.yaml` mirror if you keep it in sync.
+4. Link from the announcing note/post with `{{< tool id="{id}" >}}`.
+5. `hugo --minify` — confirm `/tools/`, `/tools/{id}/`, and that new URLs appear in `/en/sitemap-pages.xml` (and fa/de).
+
+Do **not** break existing `/scripts/*.sh` URLs when editing scripts.
 
 ## Theme development
 
@@ -336,6 +398,7 @@ Never commit or expose:
 | Content / front matter | `hugo --minify` builds without errors |
 | Series / seeAlso | No `seeAlso path not found` warnings in build output |
 | Reading path edits | Path page renders with correct link order |
+| Tools (new/updated script) | `/tools/` and `/tools/{id}/` render; `SCRIPT_VERSION` matches front matter; `/scripts/{id}.sh` still serves; URLs in `sitemap-pages` |
 | Theme / layouts | `hugo server` renders affected pages |
 | Search UI / indexing | `hugo --minify && ./scripts/pagefind-index.sh`; `/search/` returns results |
 | Multilingual edits | Spot-check `en`, `fa` (RTL), and `de` variants if applicable |

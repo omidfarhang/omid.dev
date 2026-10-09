@@ -12,5 +12,6 @@ Follow `AGENTS.md` for project context. Design system: [`DESIGN.md`](../../DESIG
 - CSS: modular files under `assets/css/`; use tokens from `core/` and existing components.
 - i18n: string files in `i18n/*.yaml` for all three languages when adding UI text.
 - RTL: test `fa` layout when changing navigation, prose, or flex/grid styles.
-- Shortcodes: add or edit in `layouts/shortcodes/`.
+- Shortcodes: add or edit in `layouts/shortcodes/` (`companion` for playground demos; `tool` for installable scripts under `/tools/`).
+- Tools catalog: `layouts/_default/tools.html` (index), `tool.html` (README page), `partials/tools_card.html`; styles in `assets/css/pages/tools.css`. Keep Tools in the **pages** sitemap when changing sitemap partials (`single.sitemappageslang.xml`, `partials/sitemap/lang-pages.html`).
 - After changes, run `hugo --minify` and fix template errors before finishing.

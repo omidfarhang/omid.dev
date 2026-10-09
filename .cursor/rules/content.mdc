@@ -14,7 +14,14 @@ Follow `AGENTS.md` for full conventions. Key rules for `content/`:
 - Tags: subject facets per `docs/tag-strategy.md` (not noun indexes). Resolve keep/drop from `hugo.yaml` `homeTechTags*` plus archive cluster counts (≥ 3 unique posts for well-known tools/apps/libraries/IDEs/OSes with dedicated treatment). Do not hard-code tag names. Match curated spelling; same tags across language variants; 2–4 typical, max 5
 - Categories: `TechBlog`, `Health`, `Electronics`, or `Cozy Corner`.
 - Preserve existing `shortlink` values unless asked to change them.
-- Use theme shortcodes (`youtube`, `companion`, `alert`, `figure`) instead of raw HTML when possible.
+- Use theme shortcodes (`youtube`, `companion`, `tool`, `alert`, `figure`) instead of raw HTML when possible.
+- When linking an installable script from a post or note, prefer `{{< tool id="…" >}}` (companion-style card) over a bare `/tools/…` or `/scripts/…` link. Full Tools conventions: `AGENTS.md` § Tools.
+
+## Tools (`content/tools/`)
+
+- Catalog index: `_index.{en,fa,de}.md` (`layout: tools`). Per-script README: `{id}.{en,fa,de}.md` (`layout: tool`, `ShowToc: true`, `tool:` front matter).
+- Keep `tool.version` in sync with `SCRIPT_VERSION` in `static/scripts/{id}.sh`. Stable download URLs are `/scripts/{id}.sh` — do not break them.
+- Docs are the source of truth; `data/tools.yaml` is an optional thin mirror only.
 
 ## Series and reading paths
 
