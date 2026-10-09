@@ -15,4 +15,14 @@
     {{- partial "sitemap/url-entry.html" . -}}
   {{- end -}}
 {{- end -}}
+{{- with site.GetPage "section" "tools" -}}
+  {{- if not .Params.robotsNoIndex -}}
+    {{- partial "sitemap/url-entry.html" . -}}
+  {{- end -}}
+{{- end -}}
+{{- range where (where site.RegularPages "Section" "tools") "Lang" site.Language.Lang -}}
+  {{- if not .Params.robotsNoIndex -}}
+    {{- partial "sitemap/url-entry.html" . -}}
+  {{- end -}}
+{{- end -}}
 </urlset>

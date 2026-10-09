@@ -221,6 +221,39 @@
 - id: playground_source
   translation: "Source"
 
+- id: tools_hero_note
+  translation: "Scripts live in"
+
+- id: tools_stats_label
+  translation: "Catalog counts"
+
+- id: tools_scripts
+  translation: "Scripts"
+
+- id: tools_scripts_lede
+  translation: "Open a tool for install steps, commands, options, and usage notes."
+
+- id: tools_install
+  translation: "Install"
+
+- id: tools_view_docs
+  translation: "Documentation"
+
+- id: tools_download_script
+  translation: "Raw script"
+
+- id: tools_back_to_index
+  translation: "All tools"
+
+- id: tools_tags_label
+  translation: "Tags"
+
+- id: tool_aria
+  translation: "Installable tool"
+
+- id: tool_offer_script
+  translation: "Installable script"
+
 - id: latest_post
   translation: "Latest"
 

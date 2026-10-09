@@ -706,7 +706,8 @@ img.in-text {
     font-size: var(--text-5xl);
 }
 
-.article-body .post-content .card--companion {
+.article-body .post-content .card--companion,
+.note-entry-body.post-content .card--companion {
     margin: var(--space-8) 0 var(--space-9);
 }
 

@@ -273,7 +273,9 @@ done
 
 Zsh ist nun eingerichtet, Powerlevel10k als Theme gesetzt und eine passende Schriftart installiert. **VS Code** und **Cursor IDE** verwenden im integrierten Terminal möglicherweise weiterhin Bash. Stelle deshalb das **VS-Code-Terminal** beziehungsweise Cursor auf Zsh um. Starte den Editor nach der Schriftinstallation neu, damit er die Schriftart erkennt.
 
-Wenn du Cursor zuerst unter Manjaro einrichtest, lies [Cursor IDE auf Manjaro Linux installieren](/de/2026/05/29/how-to-install-cursor-ide-in-manjaro/). Mit dem Skript [update-cursor.sh](/scripts/update-cursor.sh) hältst du die AppImage anschließend aktuell.
+Wenn du Cursor zuerst unter Manjaro einrichtest, lies [Cursor IDE auf Manjaro Linux installieren](/de/2026/05/29/how-to-install-cursor-ide-in-manjaro/) und halte die AppImage aktuell mit:
+
+{{< tool id="update-cursor" >}}
 
 Das Oh-My-Zsh-Plugin `vscode` verbessert außerdem das integrierte Terminal im Editor. Aktiviere es wie im Konfigurationsabschnitt gezeigt in der Liste `plugins=(...)` deiner `~/.zshrc`.
 

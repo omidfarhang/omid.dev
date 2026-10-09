@@ -1,0 +1,121 @@
+{{- define "main" }}
+
+{{- $tool := .Params.tool | default dict -}}
+{{- $scriptPath := $tool.scriptPath | default "" -}}
+{{- $installName := $tool.installName | default .Title -}}
+{{- $scriptAbs := "" -}}
+{{- if $scriptPath -}}
+  {{- $scriptAbs = printf "%s%s" (strings.TrimSuffix "/" site.BaseURL) $scriptPath -}}
+{{- end -}}
+{{- $toolsIndex := .Parent -}}
+{{- if not $toolsIndex -}}
+  {{- $toolsIndex = site.GetPage "section" "tools" -}}
+{{- end -}}
+
+{{ partial "pagefind_meta.html" . }}
+<article class="post-single article-page page-shell tool-page">
+  <header class="post-header article-hero page-hero tool-hero">
+    <nav class="breadcrumbs" aria-label="breadcrumbs">
+      <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "" | absLangURL }}">
+            <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        {{- if $toolsIndex }}
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ $toolsIndex.RelPermalink }}">
+            <span itemprop="name">{{ $toolsIndex.Title }}</span>
+          </a>
+          <meta itemprop="position" content="2" />
+        </li>
+        {{- end }}
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+          <span itemprop="name" aria-current="page">{{ .Title }}</span>
+          <meta itemprop="position" content="{{ cond $toolsIndex 3 2 }}" />
+        </li>
+      </ol>
+    </nav>
+    <div class="article-hero-inner layout-split layout-split--hero page-hero-inner">
+      <div class="article-hero-copy page-hero-copy">
+        <h1 class="post-title entry-hint-parent"><code class="tool-hero__title-code">{{ .Title }}</code></h1>
+        {{- with .Description }}
+        <div class="post-description page-hero-lead">{{ . }}</div>
+        {{- end }}
+        <div class="tool-hero__meta chip-group">
+          {{- with $tool.platform }}
+          <span class="chip chip--pill">{{ . }}</span>
+          {{- end }}
+          {{- with $tool.version }}
+          <span class="chip chip--pill">v{{ . }}</span>
+          {{- end }}
+          {{- range $tool.tags }}
+          <span class="chip chip--default">{{ . }}</span>
+          {{- end }}
+        </div>
+        {{- if $scriptAbs }}
+        <div class="tool-hero__install panel panel--tinted">
+          <p class="tool-hero__install-label">{{ i18n "tools_install" | default "Install" }}</p>
+          <pre class="tool-hero__install-pre" tabindex="0"><code>mkdir -p ~/.local/bin
+curl -fsSL {{ $scriptAbs }} -o ~/.local/bin/{{ $installName }}
+chmod +x ~/.local/bin/{{ $installName }}</code></pre>
+          <div class="tool-hero__install-actions btn-group">
+            {{- with $tool.sourceUrl }}
+            <a class="btn btn--ghost btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+              <i class="fa-brands fa-github" aria-hidden="true"></i>
+              {{ i18n "playground_source" | default "Source" }}
+            </a>
+            {{- end }}
+            {{- with $scriptPath }}
+            <a class="btn btn--ghost btn--sm" href="{{ . | relURL }}">
+              <i class="fa-solid fa-download" aria-hidden="true"></i>
+              {{ i18n "tools_download_script" | default "Raw script" }}
+            </a>
+            {{- end }}
+          </div>
+        </div>
+        {{- end }}
+      </div>
+    </div>
+  </header>
+
+  <div class="article-body">
+    {{- $showToc := .Param "ShowToc" -}}
+    {{- if $showToc -}}
+    <div class="article-body-layout">
+      {{- partial "toc.html" . }}
+      <div class="article-body-main">
+    {{- end }}
+
+    {{- if .Content }}
+    <div class="post-content" data-pagefind-body>
+      {{- if not (.Param "disableAnchoredHeadings") }}
+      {{- partial "anchored_headings.html" .Content -}}
+      {{- else }}{{ .Content }}{{ end }}
+    </div>
+    {{- end }}
+
+    <footer class="post-footer tool-footer">
+      {{- if $toolsIndex }}
+      <p class="tool-footer__back">
+        <a href="{{ $toolsIndex.RelPermalink }}">← {{ i18n "tools_back_to_index" | default "All tools" }}</a>
+      </p>
+      {{- end }}
+    </footer>
+
+    {{- if $showToc -}}
+      </div>
+    </div>
+    {{- $tocJs := resources.Get "js/toc-scrollspy.js" | js.Build | resources.Minify -}}
+    {{- if not site.Params.assets.disableFingerprinting -}}
+    {{- $tocJs = $tocJs | fingerprint -}}
+    <script defer crossorigin="anonymous" src="{{ $tocJs.RelPermalink }}" integrity="{{ $tocJs.Data.Integrity }}"></script>
+    {{- else -}}
+    <script defer crossorigin="anonymous" src="{{ $tocJs.RelPermalink }}"></script>
+    {{- end -}}
+    {{- end }}
+  </div>
+</article>
+
+{{- end }}

@@ -221,6 +221,39 @@
 - id: playground_source
   translation: "Quellcode"
 
+- id: tools_hero_note
+  translation: "Skripte liegen in"
+
+- id: tools_stats_label
+  translation: "Katalogübersicht"
+
+- id: tools_scripts
+  translation: "Skripte"
+
+- id: tools_scripts_lede
+  translation: "Öffne ein Tool für Installation, Befehle, Optionen und Nutzungshinweise."
+
+- id: tools_install
+  translation: "Installation"
+
+- id: tools_view_docs
+  translation: "Dokumentation"
+
+- id: tools_download_script
+  translation: "Raw-Skript"
+
+- id: tools_back_to_index
+  translation: "Alle Tools"
+
+- id: tools_tags_label
+  translation: "Tags"
+
+- id: tool_aria
+  translation: "Installierbares Tool"
+
+- id: tool_offer_script
+  translation: "Installierbares Skript"
+
 - id: latest_post
   translation: "Neueste"
 

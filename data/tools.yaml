@@ -1,0 +1,11 @@
+# Optional mirror of content/tools/* front matter for tooling.
+# Pages under content/tools/ are the source of truth for docs and the /tools/ catalog.
+scripts:
+  - id: update-nvm
+    version: "1.2.1"
+    scriptPath: /scripts/update-nvm.sh
+    docUrl: /tools/update-nvm/
+  - id: update-cursor
+    version: "1.0.0"
+    scriptPath: /scripts/update-cursor.sh
+    docUrl: /tools/update-cursor/

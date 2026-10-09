@@ -277,7 +277,9 @@ done
 
 By now we have installed and configured Zsh, set Powerlevel10k as the theme, and installed a compatible font. **VS Code** and **Cursor IDE** may still use Bash as the integrated terminal, so we want to switch the **vscode terminal** (or Cursor terminal) to Zsh. After installing the font, restart VS Code or Cursor so it can detect it.
 
-If you are setting up Cursor on Manjaro first, follow [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/) and use the `update-cursor` script from [omid.dev/scripts/update-cursor.sh](/scripts/update-cursor.sh) to keep the AppImage current.
+If you are setting up Cursor on Manjaro first, follow [How to Install Cursor IDE on Manjaro Linux](/2026/05/29/how-to-install-cursor-ide-in-manjaro/) and keep the AppImage current with:
+
+{{< tool id="update-cursor" >}}
 
 The Oh My Zsh `vscode` plugin also improves the integrated terminal experience inside the editor. Enable it in your `plugins=(...)` list in `~/.zshrc` as shown in the configuration section above.
 

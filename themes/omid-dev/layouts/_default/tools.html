@@ -1,0 +1,62 @@
+{{- define "main" }}
+
+{{- $pages := .RegularPages -}}
+{{- $scriptCount := len $pages -}}
+{{- $repo := "https://github.com/omidfarhang/omid.dev" -}}
+
+<div class="posts-list-content tools-index-page">
+  <header class="page-hero--contained panel--hero-gradient page-hero--section tools-hero">
+    <nav class="breadcrumbs" aria-label="breadcrumbs">
+      <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{ "" | absLangURL }}">
+            <span itemprop="name"><i class="fa-solid fa-house" aria-hidden="true"></i> {{ i18n "home" }}</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item-current">
+          <span itemprop="name" aria-current="page">{{ .Title }}</span>
+          <meta itemprop="position" content="2" />
+        </li>
+      </ol>
+    </nav>
+    <div class="page-hero-inner tools-hero__inner">
+      <div class="tools-hero__copy">
+        <h1 class="post-title">{{ .Title }}</h1>
+        {{- with .Description }}
+        <p class="page-hero-lead">{{ . }}</p>
+        {{- end }}
+        <p class="tools-hero__note">
+          {{ i18n "tools_hero_note" | default "Scripts live in" }}
+          <a href="{{ $repo | safeURL }}/tree/master/static/scripts" target="_blank" rel="noopener noreferrer">static/scripts</a>.
+        </p>
+      </div>
+      <dl class="tools-hero__stats" aria-label="{{ i18n "tools_stats_label" | default "Catalog counts" }}">
+        {{- if $scriptCount }}
+        <div class="tools-hero__stat">
+          <dt>{{ i18n "tools_scripts" | default "Scripts" }}</dt>
+          <dd>{{ $scriptCount }}</dd>
+        </div>
+        {{- end }}
+      </dl>
+    </div>
+  </header>
+
+  <div class="tools-catalog">
+    {{- if $pages }}
+    <section class="tools-section" id="scripts" aria-labelledby="tools-scripts-title">
+      <header class="tools-section__header">
+        <h2 id="tools-scripts-title" class="section-title section-title--page">{{ i18n "tools_scripts" | default "Scripts" }}</h2>
+        <p class="tools-section__lede">{{ i18n "tools_scripts_lede" | default "Open a tool for install steps, commands, options, and usage notes." }}</p>
+      </header>
+      <div class="tools-grid">
+        {{- range $pages }}
+        {{- partial "tools_card.html" (dict "page" .) }}
+        {{- end }}
+      </div>
+    </section>
+    {{- end }}
+  </div>
+</div>
+
+{{- end }}

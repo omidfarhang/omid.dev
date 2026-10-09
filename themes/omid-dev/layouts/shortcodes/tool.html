@@ -1,0 +1,70 @@
+{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $page := false -}}
+{{- if $id -}}
+  {{- with site.GetPage (printf "/tools/%s" $id) -}}
+    {{- $page = . -}}
+  {{- end -}}
+  {{- if not $page -}}
+    {{- with site.GetPage "section" "tools" -}}
+      {{- range .RegularPages -}}
+        {{- $toolId := .Params.tool.id | default .File.ContentBaseName -}}
+        {{- if eq $toolId $id -}}
+          {{- $page = . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $page -}}
+  {{- $tool := $page.Params.tool | default dict -}}
+  {{- $title := .Get "title" | default $page.Title -}}
+  {{- $description := .Get "description" | default $page.Description -}}
+  {{- $docsUrl := $page.RelPermalink -}}
+  {{- $sourceUrl := .Get "sourceUrl" | default $tool.sourceUrl -}}
+  {{- $scriptPath := $tool.scriptPath | default "" -}}
+  {{- $platform := $tool.platform | default "" -}}
+  {{- $version := $tool.version | default "" -}}
+  {{- $docsLabel := .Get "docsLabel" | default (i18n "tools_view_docs" | default "Documentation") -}}
+  {{- $sourceLabel := .Get "sourceLabel" | default (i18n "companion_view_source" | default "View source") -}}
+  {{- $icon := .Get "icon" | default "fa-solid fa-terminal" -}}
+
+<aside class="card card--companion card--tool companion-card" role="complementary" aria-label="{{ i18n "tool_aria" | default "Installable tool" }}">
+  <span class="icon-circle icon-circle--sm companion-card__icon" aria-hidden="true">
+    <i class="{{ $icon }}"></i>
+  </span>
+  <span class="companion-card__body">
+    <span class="companion-card__offers">
+      <span class="companion-card__offer">{{ i18n "tool_offer_script" | default "Installable script" }}</span>
+      {{- with $platform -}}
+        <span class="companion-card__offer">{{ . }}</span>
+      {{- end -}}
+      {{- with $version -}}
+        <span class="companion-card__offer companion-card__offer--stack">v{{ . }}</span>
+      {{- end -}}
+    </span>
+    <strong class="companion-card__title"><code class="tool-card__title-code">{{ $title }}</code></strong>
+    <span class="companion-card__description">{{ $description }}</span>
+    <span class="companion-card__actions btn-group">
+      <a class="btn btn--accent btn--sm" href="{{ $docsUrl }}">
+        <i class="fa-solid fa-book" aria-hidden="true"></i>
+        {{ $docsLabel }}
+      </a>
+      {{- with $sourceUrl }}
+        <a class="btn btn--secondary btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-github" aria-hidden="true"></i>
+          {{ $sourceLabel }}
+        </a>
+      {{- end }}
+      {{- with $scriptPath }}
+        <a class="btn btn--ghost btn--sm" href="{{ . | relURL }}">
+          <i class="fa-solid fa-download" aria-hidden="true"></i>
+          {{ i18n "tools_download_script" | default "Raw script" }}
+        </a>
+      {{- end }}
+    </span>
+  </span>
+</aside>
+{{- else -}}
+  {{- warnf "tool shortcode: unknown id %q (expected a page under content/tools/): %s" $id .Position -}}
+{{- end -}}

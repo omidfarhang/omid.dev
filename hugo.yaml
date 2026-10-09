@@ -131,6 +131,9 @@ languages:
         - name: Playground
           url: /playground/
           weight: 2
+        - name: Tools
+          url: /tools/
+          weight: 3
         - name: Resume
           url: /resume
           weight: 4
@@ -193,6 +196,9 @@ languages:
         - name: پلی‌گراند
           url: /playground/
           weight: 2
+        - name: ابزارها
+          url: /tools/
+          weight: 3
         - name: رزومه
           url: /resume
           weight: 4
@@ -254,6 +260,9 @@ languages:
         - name: Playground
           url: /playground/
           weight: 2
+        - name: Tools
+          url: /tools/
+          weight: 3
         - name: Lebenslauf
           url: /resume
           weight: 4

@@ -221,6 +221,39 @@
 - id: playground_source
   translation: "کد منبع"
 
+- id: tools_hero_note
+  translation: "اسکریپت‌ها در"
+
+- id: tools_stats_label
+  translation: "آمار مجموعه"
+
+- id: tools_scripts
+  translation: "اسکریپت‌ها"
+
+- id: tools_scripts_lede
+  translation: "برای مراحل نصب، دستورها، گزینه‌ها و نکات استفاده، صفحهٔ هر ابزار را باز کنید."
+
+- id: tools_install
+  translation: "نصب"
+
+- id: tools_view_docs
+  translation: "مستندات"
+
+- id: tools_download_script
+  translation: "اسکریپت خام"
+
+- id: tools_back_to_index
+  translation: "همهٔ ابزارها"
+
+- id: tools_tags_label
+  translation: "برچسب‌ها"
+
+- id: tool_aria
+  translation: "ابزار قابل نصب"
+
+- id: tool_offer_script
+  translation: "اسکریپت قابل نصب"
+
 - id: latest_post
   translation: "جدیدترین"
 

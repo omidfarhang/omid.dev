@@ -17,6 +17,16 @@
       {{- $pages = $pages | append . -}}
     {{- end -}}
   {{- end -}}
+  {{- with $s.GetPage "section" "tools" -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range where $s.RegularPages "Section" "tools" -}}
+    {{- if not .Params.robotsNoIndex -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
 {{- else if eq $kind "archives" -}}
   {{- with $s.GetPage "section" "archives" -}}
     {{- if not .Params.robotsNoIndex -}}

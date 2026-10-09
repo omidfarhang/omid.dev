@@ -126,6 +126,8 @@ curl -fsSL https://omid.dev/scripts/update-cursor.sh -o ~/.local/bin/update-curs
 chmod +x ~/.local/bin/update-cursor
 ```
 
+{{< tool id="update-cursor" >}}
+
 Installation oder Update:
 
 ```shell

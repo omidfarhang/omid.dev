@@ -527,6 +527,14 @@ body.dark .card--promo {
     gap: var(--space-2);
 }
 
+.tool-card__title-code {
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    background: transparent;
+    padding: 0;
+}
+
 /* Post series navigation */
 /* Series cards (index, TechBlog strip, home featured) */
 .series-index-section {

@@ -6,6 +6,8 @@ You may run `pacman -Syu` every day, but when did you last refresh every Node ma
 
 I added [`update-nvm.sh`](/scripts/update-nvm.sh) for that. It updates each installed major to the latest patch, refreshes global npm packages, upgrades npm via `--latest-npm`, and runs `corepack enable`. If a major is already on the latest patch, Node is left alone but global packages are still refreshed. Pass `--force` to reinstall Node anyway, or `--npm-only` to skip Node installs entirely.
 
+{{< tool id="update-nvm" >}}
+
 **Install**
 
 ```bash

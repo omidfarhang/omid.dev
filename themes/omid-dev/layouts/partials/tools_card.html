@@ -1,0 +1,44 @@
+{{- $page := .page -}}
+{{- $tool := $page.Params.tool | default dict -}}
+{{- $scriptPath := $tool.scriptPath | default (printf "/scripts/%s.sh" ($tool.id | default $page.File.ContentBaseName)) -}}
+{{- $installName := $tool.installName | default ($tool.id | default $page.Title) -}}
+{{- $scriptAbs := printf "%s%s" (strings.TrimSuffix "/" site.BaseURL) $scriptPath -}}
+{{- $installCmd := printf "curl -fsSL %s -o ~/.local/bin/%s && chmod +x ~/.local/bin/%s" $scriptAbs $installName $installName -}}
+
+<article class="tools-card" id="{{ $tool.id | default $page.File.ContentBaseName }}">
+  <div class="tools-card__meta">
+    {{- with $tool.platform }}
+    <span class="chip chip--pill tools-card__badge">{{ . }}</span>
+    {{- end }}
+    {{- with $tool.version }}
+    <span class="tools-card__version">v{{ . }}</span>
+    {{- end }}
+  </div>
+  <h3 class="tools-card__title">
+    <a href="{{ $page.RelPermalink }}"><code>{{ $page.Title }}</code></a>
+  </h3>
+  <p class="tools-card__description">{{ $page.Description }}</p>
+  {{- with $tool.tags }}
+  <ul class="tools-card__tags chip-group" aria-label="{{ i18n "tools_tags_label" | default "Tags" }}">
+    {{- range . }}
+    <li class="chip chip--default">{{ . }}</li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  <div class="tools-card__install">
+    <p class="tools-card__install-label">{{ i18n "tools_install" | default "Install" }}</p>
+    <pre class="tools-card__install-pre" tabindex="0"><code>{{ $installCmd }}</code></pre>
+  </div>
+  <code class="tools-card__path">{{ $scriptPath }}</code>
+  <div class="tools-card__actions btn-group">
+    <a class="btn btn--primary btn--sm" href="{{ $page.RelPermalink }}">
+      {{ i18n "tools_view_docs" | default "Documentation" }}
+    </a>
+    {{- with $tool.sourceUrl }}
+    <a class="btn btn--ghost btn--sm" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-github" aria-hidden="true"></i>
+      {{ i18n "playground_source" | default "Source" }}
+    </a>
+    {{- end }}
+  </div>
+</article>

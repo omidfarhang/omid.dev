@@ -175,7 +175,7 @@ curl -fsSL https://omid.dev/scripts/update-cursor.sh -o ~/.local/bin/update-curs
 chmod +x ~/.local/bin/update-cursor
 ```
 
-If you prefer to inspect the source first, it lives in the repo at [`static/scripts/update-cursor.sh`](https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-cursor.sh).
+{{< tool id="update-cursor" >}}
 
 After that, installing or updating Cursor is just:
 
