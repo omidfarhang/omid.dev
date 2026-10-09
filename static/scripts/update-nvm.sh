@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.2.0"
+SCRIPT_VERSION="1.2.1"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
 
 VERSIONS=()
@@ -241,6 +241,11 @@ fi
 
 # shellcheck source=/dev/null
 . "$NVM_DIR/nvm.sh"
+
+# default may be unset or unusable (e.g. lts/* not installed); pick latest installed.
+if ! command -v npm >/dev/null 2>&1; then
+  nvm use node >/dev/null 2>&1 || true
+fi
 
 if ! command -v npm >/dev/null 2>&1; then
   echo "npm is required but not available after loading nvm." >&2
