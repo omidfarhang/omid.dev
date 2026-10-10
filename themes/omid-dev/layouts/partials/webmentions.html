@@ -1,3 +1,5 @@
+{{- /* Skip discussion / Comentario / webmentions when serving locally (hugo server). */ -}}
+{{- if not hugo.IsServer -}}
 <div class="comments-container note-webmentions-wrap" aria-labelledby="discussion-title">
   {{- partial "discussion_actions.html" . -}}
   {{- partial "comentario.html" . -}}
@@ -33,3 +35,4 @@
 {{- else }}
 <script defer crossorigin="anonymous" src="{{ $webmentions.RelPermalink }}"></script>
 {{- end }}
+{{- end -}}

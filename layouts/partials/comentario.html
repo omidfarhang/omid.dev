@@ -1,8 +1,8 @@
-{{- /* Comentario embed — posts and notes only. Requires params.comentario.script. */ -}}
+{{- /* Comentario embed — posts and notes only. Requires params.comentario.script. Skip on hugo server. */ -}}
 {{- $script := site.Params.comentario.script -}}
 {{- $isNote := partial "is_note.html" . -}}
 {{- $isPost := eq .Section "posts" -}}
-{{- if and $script (.Param "comments") (or $isNote $isPost) -}}
+{{- if and (not hugo.IsServer) $script (.Param "comments") (or $isNote $isPost) -}}
 {{- $lang := .Language.Lang | default "en" -}}
 <div class="comentario-wrap">
   <h3 class="comentario-heading">{{ i18n "comments_title" | default "Comments" }}</h3>
