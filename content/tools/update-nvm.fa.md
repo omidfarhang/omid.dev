@@ -8,7 +8,7 @@ ShowToc: true
 url: /fa/tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.2.1"
+  version: "1.3.0"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -76,6 +76,7 @@ update-nvm --dry-run
 | `--npm-only` | فقط npm و globals |
 | `--quiet`, `-q` | خروجی کم؛ بدون پرسش نصب |
 | `--dry-run`, `-n` | فقط نمایش؛ بدون تغییر |
+| `--plain`, `-p` | خروجی فقط-اسکرول (بدون alternate screen / بازنویسی فریم) |
 | `--self-update` | به‌روزرسانی خود اسکریپت از omid.dev |
 | `--version` | چاپ نسخهٔ اسکریپت |
 | `-h`, `--help` | راهنما |
@@ -102,7 +103,7 @@ update-nvm --dry-run
 update-nvm --self-update
 ```
 
-در اجرای عادی ممکن است هشدار نسخهٔ جدیدتر اسکریپت بدهد. با `UPDATE_NVM_SKIP_SELF_CHECK=1` آن را خاموش کنید.
+در اجرای تعاملی، اگر نسخهٔ جدیدتر روی omid.dev باشد، با پرسش `[Y/n]` (پیش‌فرض Yes) پیشنهاد خودبه‌روزرسانی می‌دهد. حالت quiet/cron و غیر-TTY پرسش را رد می‌کنند (غیر-TTY فقط یک خط راهنما چاپ می‌کند). با `UPDATE_NVM_SKIP_SELF_CHECK=1` کل بررسی را خاموش کنید.
 
 ## مرتبط
 

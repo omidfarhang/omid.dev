@@ -8,7 +8,7 @@ ShowToc: true
 url: /tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.2.1"
+  version: "1.3.0"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -76,6 +76,7 @@ When a major is **not** installed yet, the script asks whether to copy global pa
 | `--npm-only` | Skip Node installs; only refresh npm and globals |
 | `--quiet`, `-q` | Minimal output; skips install prompts |
 | `--dry-run`, `-n` | Print what would run without changing anything |
+| `--plain`, `-p` | Scroll-only output (no alternate screen / frame redraws) |
 | `--self-update` | Download and install the latest script from omid.dev (Node untouched) |
 | `--version` | Print script version and exit |
 | `-h`, `--help` | Show help |
@@ -106,7 +107,7 @@ The script can refresh itself without touching Node:
 update-nvm --self-update
 ```
 
-On normal runs it may warn when a newer script version is available on omid.dev. Set `UPDATE_NVM_SKIP_SELF_CHECK=1` to silence that check.
+On interactive runs, if a newer script is available on omid.dev, you are asked whether to update now (`[Y/n]`, default Yes). Quiet/cron and non-TTY runs skip the prompt (non-TTY still prints a one-line hint). Set `UPDATE_NVM_SKIP_SELF_CHECK=1` to silence the check entirely.
 
 ## Related
 

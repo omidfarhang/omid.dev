@@ -8,7 +8,7 @@ ShowToc: true
 url: /de/tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.2.1"
+  version: "1.3.0"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -76,6 +76,7 @@ Fehlt ein Major noch, fragt das Skript, ob Globals von einem anderen Major kopie
 | `--npm-only` | Nur npm und Globals |
 | `--quiet`, `-q` | Wenig Ausgabe; keine Installationsfragen |
 | `--dry-run`, `-n` | Nur anzeigen, nichts ändern |
+| `--plain`, `-p` | Nur scrollen (kein Alternate Screen / kein Frame-Redraw) |
 | `--self-update` | Skript von omid.dev aktualisieren |
 | `--version` | Skriptversion ausgeben |
 | `-h`, `--help` | Hilfe |
@@ -101,6 +102,8 @@ Fehlt ein Major noch, fragt das Skript, ob Globals von einem anderen Major kopie
 ```bash
 update-nvm --self-update
 ```
+
+Bei interaktiven Läufen wird bei einer neueren Version auf omid.dev gefragt, ob jetzt aktualisiert werden soll (`[Y/n]`, Standard: Yes). Quiet/Cron und Non-TTY überspringen die Frage (Non-TTY zeigt nur einen Hinweis). Mit `UPDATE_NVM_SKIP_SELF_CHECK=1` entfällt die Prüfung ganz.
 
 ## Verwandt
 

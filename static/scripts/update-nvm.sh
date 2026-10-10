@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.2.1"
+SCRIPT_VERSION="1.3.0"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
 
 VERSIONS=()
@@ -17,6 +17,7 @@ LATEST_NPM=1
 COREPACK=1
 QUIET=0
 DRY_RUN=0
+PLAIN=0
 SELF_UPDATE=0
 
 usage() {
@@ -36,6 +37,10 @@ installs entirely and only refresh npm.
 When installing a major that is not installed yet, the script asks whether to
 copy global npm packages from another installed major.
 
+On interactive runs, if a newer update-nvm is available on omid.dev, you are
+asked whether to self-update (default: Yes). Quiet/cron and non-TTY runs skip
+that prompt.
+
 Options:
   --lts             Update lts/* only (overrides auto-detected installed majors)
   --force, -f       Reinstall even when the latest patch is already installed
@@ -48,6 +53,7 @@ Options:
   --npm-only        Skip Node installs; only refresh npm and global packages
   --quiet, -q       Minimal output (errors still go to stderr; skips install prompts)
   --dry-run, -n     Show what would run without changing anything
+  --plain, -p       Scroll-only output: no alternate screen buffer or frame redraws
   --self-update     Download and install the latest update-nvm script from omid.dev
                     (does not update Node or npm)
   --version         Print this script's version and exit
@@ -60,6 +66,7 @@ Environment:
                           global npm packages from this major (e.g. 24)
   UPDATE_NVM_SCRIPT_URL   Override script URL for self-update (default: omid.dev)
   UPDATE_NVM_SKIP_SELF_CHECK  Set to 1 to skip the newer-script availability check
+  NO_COLOR                Set to disable ANSI colors
 HELP
 }
 
@@ -95,6 +102,9 @@ for arg in "$@"; do
     --dry-run|-n)
       DRY_RUN=1
       ;;
+    --plain|-p)
+      PLAIN=1
+      ;;
     --self-update)
       SELF_UPDATE=1
       ;;
@@ -114,7 +124,7 @@ for arg in "$@"; do
       ;;
     -*)
       echo "Unknown option: $arg" >&2
-      echo "Usage: update-nvm [--lts] [--force|-f] [--prune] [--npm-only] [--skip-npm] [--quiet|-q] [--dry-run|-n] [--self-update] [--version] [VERSION ...]" >&2
+      echo "Usage: update-nvm [--lts] [--force|-f] [--prune] [--npm-only] [--skip-npm] [--quiet|-q] [--dry-run|-n] [--plain|-p] [--self-update] [--version] [VERSION ...]" >&2
       exit 1
       ;;
     *)
@@ -252,18 +262,202 @@ if ! command -v npm >/dev/null 2>&1; then
   exit 1
 fi
 
+USE_COLOR=0
+if [[ "$QUIET" -eq 0 && -t 1 && -z "${NO_COLOR:-}" && "${TERM:-}" != "dumb" ]]; then
+  USE_COLOR=1
+fi
+
+C_RESET=""
+C_BOLD=""
+C_DIM=""
+C_CYAN=""
+C_GREEN=""
+C_YELLOW=""
+C_RED=""
+if [[ "$USE_COLOR" -eq 1 ]]; then
+  C_RESET=$'\033[0m'
+  C_BOLD=$'\033[1m'
+  C_DIM=$'\033[2m'
+  C_CYAN=$'\033[36m'
+  C_GREEN=$'\033[32m'
+  C_YELLOW=$'\033[33m'
+  C_RED=$'\033[31m'
+fi
+
+# Parallel to VERSIONS: todo | doing | done | failed | skipped
+STEP_STATE=()
+STEP_DETAIL=()
+ALT_SCREEN=0
+
+can_use_alt_screen() {
+  [[ "$PLAIN" -eq 0 && "$QUIET" -eq 0 && "$DRY_RUN" -eq 0 && -t 1 && "${TERM:-}" != "dumb" ]]
+}
+
+enter_alt_screen() {
+  if can_use_alt_screen && [[ "$ALT_SCREEN" -eq 0 ]]; then
+    # Dedicated buffer: redraws stay here; main scrollback is restored on leave.
+    printf '\033[?1049h\033[H\033[2J'
+    ALT_SCREEN=1
+    trap 'leave_alt_screen' EXIT INT TERM HUP
+  fi
+}
+
+leave_alt_screen() {
+  if [[ "$ALT_SCREEN" -eq 1 ]]; then
+    printf '\033[?1049l'
+    ALT_SCREEN=0
+    trap - EXIT INT TERM HUP
+  fi
+}
+
+print_banner() {
+  if [[ "$QUIET" -ne 0 ]]; then
+    return 0
+  fi
+
+  echo "${C_CYAN}${C_BOLD}"
+  cat <<'BANNER'
+ _   _ ____  ____    _  _____ _____      _   ___     ____  __
+| | | |  _ \|  _ \  / \|_   _| ____|    | \ | \ \   / /  \/  |
+| | | | |_) | | | |/ _ \ | | |  _| _____|  \| |\ \ / /| |\/| |
+| |_| |  __/| |_| / ___ \| | | |__|_____| |\  | \ V / | |  | |
+ \___/|_|   |____/_/   \_\_| |_____|    |_| \_|  \_/  |_|  |_|
+BANNER
+  echo "${C_RESET}${C_DIM}  keep Node majors current  ·  v${SCRIPT_VERSION}${C_RESET}"
+  echo
+}
+
+print_progress_board() {
+  local i state label icon color detail note
+
+  if [[ "$QUIET" -ne 0 ]]; then
+    return 0
+  fi
+
+  echo "${C_BOLD} Progress${C_RESET}"
+  for ((i = 0; i < TOTAL_STEPS; i++)); do
+    state="${STEP_STATE[i]:-todo}"
+    detail="${STEP_DETAIL[i]:-}"
+    label="Node.js ${VERSIONS[i]}"
+    if [[ "$NPM_ONLY" -eq 1 ]]; then
+      label+=" (npm)"
+    fi
+
+    case "$state" in
+      done)
+        icon="✓"
+        color="$C_GREEN"
+        note="done"
+        ;;
+      skipped)
+        icon="○"
+        color="$C_YELLOW"
+        note="skipped"
+        ;;
+      failed)
+        icon="✗"
+        color="$C_RED"
+        note="failed"
+        ;;
+      doing)
+        icon="→"
+        color="$C_CYAN"
+        note="doing"
+        ;;
+      *)
+        icon="·"
+        color="$C_DIM"
+        note="todo"
+        ;;
+    esac
+
+    if [[ -n "$detail" ]]; then
+      note+=" · ${detail}"
+    fi
+
+    printf '  %s%s%s  [%d/%d] %-22s %s\n' \
+      "$color" "$icon" "$C_RESET" \
+      "$((i + 1))" "$TOTAL_STEPS" \
+      "$label" \
+      "${color}${note}${C_RESET}"
+  done
+  echo "${C_DIM}────────────────────────────────────────────────────────${C_RESET}"
+}
+
+# Redraw banner + progress board inside the alt screen. --plain skips redraws
+# (scroll-only). Without alt screen (dry-run / non-TTY), print a compact board.
+render_frame() {
+  if [[ "$PLAIN" -eq 1 || "$QUIET" -eq 1 ]]; then
+    return 0
+  fi
+
+  if [[ "$ALT_SCREEN" -eq 1 ]]; then
+    printf '\033[H\033[2J'
+    print_banner
+    print_progress_board
+    echo
+  else
+    echo
+    print_progress_board
+    echo
+  fi
+}
+
+set_step_state() {
+  local idx="$1"
+  local state="$2"
+  local detail="${3:-}"
+
+  STEP_STATE[idx]="$state"
+  STEP_DETAIL[idx]="$detail"
+}
+
 log() {
   if [[ "$QUIET" -eq 0 ]]; then
     echo "$@"
   fi
 }
 
+log_step() {
+  if [[ "$QUIET" -eq 0 ]]; then
+    echo "${C_BOLD}${C_CYAN}$*${C_RESET}"
+  fi
+}
+
+log_info() {
+  if [[ "$QUIET" -eq 0 ]]; then
+    echo "  ${C_DIM}$*${C_RESET}"
+  fi
+}
+
+log_action() {
+  if [[ "$QUIET" -eq 0 ]]; then
+    echo "  ${C_CYAN}→${C_RESET} $*"
+  fi
+}
+
+log_ok() {
+  if [[ "$QUIET" -eq 0 ]]; then
+    echo "  ${C_GREEN}✓${C_RESET} $*"
+  fi
+}
+
+log_skip() {
+  if [[ "$QUIET" -eq 0 ]]; then
+    echo "  ${C_YELLOW}○${C_RESET} $*"
+  fi
+}
+
 log_warn() {
-  echo "$@" >&2
+  echo "  ${C_YELLOW}!${C_RESET} $*" >&2
+}
+
+log_fail() {
+  echo "  ${C_RED}✗${C_RESET} $*" >&2
 }
 
 notify_script_update() {
-  local remote cmp
+  local remote cmp answer
 
   if [[ "${UPDATE_NVM_SKIP_SELF_CHECK:-0}" == 1 || "$QUIET" -eq 1 || "$DRY_RUN" -eq 1 ]]; then
     return 0
@@ -274,7 +468,25 @@ notify_script_update() {
 
   cmp=2
   version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
-  if [[ "$cmp" -eq 2 ]]; then
+  if [[ "$cmp" -ne 2 ]]; then
+    return 0
+  fi
+
+  if [[ -t 0 && -t 1 ]]; then
+    echo
+    read -r -p "update-nvm ${remote} is available (installed: ${SCRIPT_VERSION}). Update now? [Y/n] " answer
+    case "$answer" in
+      ''|y|Y|yes|YES|Yes)
+        self_update_script
+        ;;
+      n|N|no|NO|No)
+        log_info "Skipped. Run: update-nvm --self-update"
+        ;;
+      *)
+        log_info "Skipped. Run: update-nvm --self-update"
+        ;;
+    esac
+  else
     log_warn "update-nvm $remote is available (installed: $SCRIPT_VERSION). Run: update-nvm --self-update"
   fi
 }
@@ -282,7 +494,7 @@ notify_script_update() {
 run() {
   if [[ "$DRY_RUN" -eq 1 ]]; then
     if [[ "$QUIET" -eq 0 ]]; then
-      printf '+'
+      printf '  +'
       printf ' %q' "$@"
       printf '\n'
     fi
@@ -347,7 +559,7 @@ update_global_packages() {
     return 0
   fi
 
-  log "==> Updating global npm packages ($label)..."
+  log_action "Updating global npm packages ($label)…"
   run npm update -g
 }
 
@@ -358,7 +570,7 @@ upgrade_npm() {
     return 0
   fi
 
-  log "==> Upgrading npm to the latest supported version ($label)..."
+  log_action "Upgrading npm ($label)…"
   run nvm install-latest-npm
 }
 
@@ -379,11 +591,11 @@ enable_corepack() {
   fi
 
   if [[ "$DRY_RUN" -eq 0 ]] && ! command -v corepack >/dev/null 2>&1; then
-    log "==> corepack not available for $version_label; skipping."
+    log_skip "corepack not available for $version_label"
     return 0
   fi
 
-  log "==> Enabling corepack for $version_label..."
+  log_action "Enabling corepack for $version_label…"
   run corepack enable
 }
 
@@ -402,7 +614,7 @@ prune_old_patches() {
     [[ "$ver" == "$keep" ]] && continue
     [[ "$(version_major "$ver")" != "$major" ]] && continue
 
-    log "==> Pruning old patch: $ver"
+    log_action "Pruning old patch $ver…"
     run nvm uninstall "$ver"
   done < <(list_installed_versions)
 }
@@ -415,17 +627,17 @@ prompt_reinstall_from() {
 
   if [[ -n "${NVM_REINSTALL_FROM:-}" ]]; then
     if source_version="$(installed_version "$NVM_REINSTALL_FROM")"; then
-      log "==> Reinstalling global packages from Node $NVM_REINSTALL_FROM ($source_version)"
+      log_action "Copying global packages from Node $NVM_REINSTALL_FROM ($source_version)"
       _NVM_REINSTALL_FROM="$NVM_REINSTALL_FROM"
       return 0
     fi
 
-    log_warn "==> NVM_REINSTALL_FROM=$NVM_REINSTALL_FROM is not installed; installing without package copy."
+    log_warn "NVM_REINSTALL_FROM=$NVM_REINSTALL_FROM is not installed; installing without package copy."
     return 1
   fi
 
   if [[ "$QUIET" -eq 1 || "$DRY_RUN" -eq 1 || ! -t 0 ]]; then
-    log "==> Installing $target_spec without copying global npm packages."
+    log_info "Installing $target_spec without copying global npm packages."
     return 1
   fi
 
@@ -437,7 +649,7 @@ prompt_reinstall_from() {
   done < <(list_installed_majors)
 
   if ((${#sources[@]} == 0)); then
-    log "==> No other installed majors to copy global npm packages from."
+    log_info "No other installed majors to copy global npm packages from."
     return 1
   fi
 
@@ -456,12 +668,12 @@ prompt_reinstall_from() {
 
     case "$choice" in
       n|N|'')
-        log "==> Installing $target_spec without copying global npm packages."
+        log_info "Installing $target_spec without copying global npm packages."
         return 1
         ;;
       *)
         if source_version="$(installed_version "$choice")"; then
-          log "==> Reinstalling global packages from Node $choice ($source_version)"
+          log_action "Copying global packages from Node $choice ($source_version)"
           _NVM_REINSTALL_FROM="$choice"
           return 0
         fi
@@ -493,7 +705,7 @@ restore_active_version() {
 
   if [[ "$ORIGINAL_NVM" == "none" || "$ORIGINAL_NVM" == "system" ]]; then
     if nvm alias default >/dev/null 2>&1; then
-      log "==> Restoring nvm default..."
+      log_action "Restoring nvm default…"
       run nvm use default >/dev/null
     fi
     return 0
@@ -501,83 +713,85 @@ restore_active_version() {
 
   major="$(version_major "$ORIGINAL_NVM")"
   if installed_version "$major"; then
-    log "==> Restoring Node.js $major..."
+    log_action "Restoring Node.js $major…"
     run nvm use "$major" >/dev/null
   elif nvm alias default >/dev/null 2>&1; then
-    log "==> Node.js $major not installed; using default"
+    log_info "Node.js $major not installed; using default"
     run nvm use default >/dev/null
   fi
 }
 
-ORIGINAL_NVM="$(nvm current)"
-UPDATED_VERSIONS=()
-SKIPPED_VERSIONS=()
-PACKAGES_REFRESHED=()
+# Result of the last process_one_version call: done | skipped | failed
+_STEP_OUTCOME=""
+_STEP_OUTCOME_DETAIL=""
 
-for version in "${VERSIONS[@]}"; do
-  log
-  log "========================================"
-  if [[ "$NPM_ONLY" -eq 1 ]]; then
-    log "==> Refreshing npm for Node.js $version"
-  else
-    log "==> Updating Node.js $version"
-  fi
-  log "========================================"
+# Process a single major. Sets _STEP_OUTCOME / _STEP_OUTCOME_DETAIL. Returns 0 unless failed.
+process_one_version() {
+  local version="$1"
+  local remote="" installed=""
 
-  remote=""
-  installed=""
+  _STEP_OUTCOME="done"
+  _STEP_OUTCOME_DETAIL=""
+
   if remote="$(remote_version "$version")"; then
     if installed="$(installed_version "$version")"; then
-      log "==> Installed: $installed"
-      log "==> Latest:    $remote"
+      log_info "Installed: $installed"
+      log_info "Latest:    $remote"
     else
-      log "==> Node.js $version is not installed yet."
-      log "==> Latest:    $remote"
+      log_info "Not installed yet"
+      log_info "Latest:    $remote"
     fi
   else
-    log_warn "==> Could not resolve latest version for $version; continuing anyway."
+    log_warn "Could not resolve latest version for $version; continuing anyway."
     installed="$(installed_version "$version" || true)"
   fi
 
   if [[ "$NPM_ONLY" -eq 1 ]]; then
     if [[ -z "$installed" ]]; then
-      log_warn "==> $version is not installed; skipping npm-only refresh."
-      continue
+      log_warn "$version is not installed; skipping npm-only refresh."
+      _STEP_OUTCOME="skipped"
+      _STEP_OUTCOME_DETAIL="not installed"
+      return 0
     fi
 
-    log "==> npm-only: leaving Node.js $installed in place."
+    log_skip "Leaving Node.js $installed in place"
     run nvm use "$version" >/dev/null
     refresh_npm_stack "$installed"
     PACKAGES_REFRESHED+=("$installed")
     if [[ "$PRUNE" -eq 1 ]]; then
       prune_old_patches "$version"
     fi
-    continue
+    log_ok "npm stack refreshed for $installed"
+    _STEP_OUTCOME="done"
+    _STEP_OUTCOME_DETAIL="$installed"
+    return 0
   fi
 
   if [[ -n "$remote" && -n "$installed" && "$installed" == "$remote" && "$FORCE" -eq 0 ]]; then
-    log "==> Node.js $installed is already current. Skipping install."
-    log "==> Use update-nvm --force to reinstall anyway."
+    log_skip "Already current ($installed)"
     SKIPPED_VERSIONS+=("$installed")
     run nvm use "$version" >/dev/null
     refresh_npm_stack "$installed"
     if [[ "$SKIP_NPM" -eq 0 ]]; then
       PACKAGES_REFRESHED+=("$installed")
+      log_ok "npm stack refreshed"
     fi
     if [[ "$PRUNE" -eq 1 ]]; then
       prune_old_patches "$version"
     fi
-    continue
+    _STEP_OUTCOME="skipped"
+    _STEP_OUTCOME_DETAIL="$installed"
+    return 0
   fi
 
   if [[ -n "$installed" ]]; then
     run nvm use "$version" >/dev/null
     update_global_packages "before Node update"
   else
-    log "==> Installing fresh."
+    log_info "Fresh install"
   fi
 
-  log "==> Installing latest Node.js $version..."
+  log_action "Installing latest Node.js $version…"
   build_nvm_install_args "$version"
   run nvm "${NVM_INSTALL_ARGS[@]}"
 
@@ -595,18 +809,74 @@ for version in "${VERSIONS[@]}"; do
   fi
 
   if [[ "$DRY_RUN" -eq 0 ]]; then
-    log "==> Node: $(node -v)"
-    log "==> npm:  $(npm -v)"
+    log_ok "Updated to $(node -v) (npm $(npm -v))"
     UPDATED_VERSIONS+=("$(node -v)")
+    _STEP_OUTCOME_DETAIL="$(node -v)"
   elif [[ -n "$remote" ]]; then
+    log_ok "Would update to $remote"
     UPDATED_VERSIONS+=("$remote")
+    _STEP_OUTCOME_DETAIL="$remote"
   else
+    log_ok "Would update $version"
     UPDATED_VERSIONS+=("$version")
+    _STEP_OUTCOME_DETAIL="$version"
   fi
+
+  _STEP_OUTCOME="done"
+  return 0
+}
+
+ORIGINAL_NVM="$(nvm current)"
+UPDATED_VERSIONS=()
+SKIPPED_VERSIONS=()
+PACKAGES_REFRESHED=()
+FAILED_VERSIONS=()
+TOTAL_STEPS=${#VERSIONS[@]}
+STEP_INDEX=0
+
+for ((i = 0; i < TOTAL_STEPS; i++)); do
+  STEP_STATE[i]=todo
+  STEP_DETAIL[i]=""
 done
 
-log
+enter_alt_screen
+render_frame
+if [[ "$PLAIN" -eq 1 ]]; then
+  log_step "update-nvm ${SCRIPT_VERSION}"
+fi
+log_step "Ready"
+log_info "Updating ${TOTAL_STEPS} version(s)"
+echo
+
+for version in "${VERSIONS[@]}"; do
+  set_step_state "$STEP_INDEX" "doing"
+  render_frame
+  if [[ "$PLAIN" -eq 1 ]]; then
+    log
+    log_step "[$((STEP_INDEX + 1))/${TOTAL_STEPS}] Node.js ${version}"
+  else
+    log_step "Logs · Node.js ${version}"
+  fi
+  echo
+
+  if process_one_version "$version"; then
+    set_step_state "$STEP_INDEX" "$_STEP_OUTCOME" "$_STEP_OUTCOME_DETAIL"
+  else
+    _STEP_OUTCOME="failed"
+    _STEP_OUTCOME_DETAIL="${_STEP_OUTCOME_DETAIL:-error}"
+    set_step_state "$STEP_INDEX" "failed" "$_STEP_OUTCOME_DETAIL"
+    FAILED_VERSIONS+=("$version")
+    log_fail "Step failed for Node.js $version"
+  fi
+
+  STEP_INDEX=$((STEP_INDEX + 1))
+done
+
+render_frame
 restore_active_version
+
+# Leave alt screen before the lasting summary so results stay in scrollback.
+leave_alt_screen
 
 if [[ "$QUIET" -eq 1 ]]; then
   summary=""
@@ -625,6 +895,12 @@ if [[ "$QUIET" -eq 1 ]]; then
     fi
     summary+="packages ${PACKAGES_REFRESHED[*]}"
   fi
+  if ((${#FAILED_VERSIONS[@]} > 0)); then
+    if [[ -n "$summary" ]]; then
+      summary+=", "
+    fi
+    summary+="failed ${FAILED_VERSIONS[*]}"
+  fi
   if [[ -z "$summary" ]]; then
     summary="no changes"
   fi
@@ -633,23 +909,41 @@ if [[ "$QUIET" -eq 1 ]]; then
   fi
   echo "update-nvm: $summary"
 else
-  log
+  if [[ "$PLAIN" -eq 0 ]]; then
+    print_banner
+  fi
+  print_progress_board
+  echo
+  log_step "Summary"
+  echo
   if ((${#UPDATED_VERSIONS[@]} > 0)); then
-    log "==> Updated: ${UPDATED_VERSIONS[*]}"
+    log_ok "Updated: ${UPDATED_VERSIONS[*]}"
   fi
   if ((${#SKIPPED_VERSIONS[@]} > 0)); then
-    log "==> Node already current: ${SKIPPED_VERSIONS[*]}"
+    log_skip "Already current: ${SKIPPED_VERSIONS[*]}"
   fi
   if ((${#PACKAGES_REFRESHED[@]} > 0)); then
-    log "==> Global packages refreshed: ${PACKAGES_REFRESHED[*]}"
+    log_ok "Globals refreshed: ${PACKAGES_REFRESHED[*]}"
+  fi
+  if ((${#FAILED_VERSIONS[@]} > 0)); then
+    log_fail "Failed: ${FAILED_VERSIONS[*]}"
   fi
   if [[ "$DRY_RUN" -eq 0 ]]; then
-    log "==> Active Node: $(node -v)"
-    log "==> Active npm:  $(npm -v)"
+    log_info "Active Node: $(node -v)"
+    log_info "Active npm:  $(npm -v)"
   else
-    log "==> Dry run complete; no changes were made."
+    log_info "Dry run complete; no changes were made."
   fi
-  log "==> Done."
+  if ((${#FAILED_VERSIONS[@]} > 0)); then
+    log_fail "Finished with errors."
+  else
+    log_ok "Done."
+  fi
 fi
 
 notify_script_update
+
+if ((${#FAILED_VERSIONS[@]} > 0)); then
+  exit 1
+fi
+
