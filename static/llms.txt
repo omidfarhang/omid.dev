@@ -1,7 +1,7 @@
 # omid.dev — LLM site guidance
 # https://omid.dev/llms.txt
 
-> Omid Farhang is a Frontend Architect and Engineering Lead. This site is his personal blog and portfolio: long-form posts and short notes on Angular, TypeScript, Nx, frontend platform engineering, DevOps, Linux, security, health, and career topics.
+> Omid Farhang is a Frontend Architect and Engineering Lead. This site is his personal home on the web — long-form posts, short notes, tools, and playground companions — not a portfolio or hiring funnel. Topics include Angular, TypeScript, Nx, frontend platform engineering, DevOps, Linux, security, health, and career, plus other genuine interests.
 
 ## Canonical site
 
@@ -15,6 +15,8 @@
 - Home: https://omid.dev/
 - Blog index: https://omid.dev/posts/
 - Notes: https://omid.dev/notes/
+- Tools: https://omid.dev/tools/
+- Playground catalog: https://omid.dev/playground/
 - About: https://omid.dev/about-me/
 - Resume: https://omid.dev/resume/
 - Contact: https://omid.dev/contact-me/

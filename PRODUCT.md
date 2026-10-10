@@ -93,22 +93,11 @@ Positive site references: not chosen yet — leave blank until Omid picks them.
 
 ## Design principles
 
-1. Token-first: colors, type, spacing, motion, and radii live as CSS custom properties.
-2. Compose, don’t duplicate: system primitives + components; page-only polish stays in pages.
-3. Mono editorial, small bold marks: neutral greys, black/white ink accent, deliberate highlighter and category color.
-4. Flat surfaces, one level of boxes: hierarchy from type, spacing, and hairlines — not nested chrome.
-5. Multilingual by default: `en` / `de` LTR, `fa` RTL with logical CSS properties.
-6. Dark mode as a first-class theme; honor `prefers-reduced-motion`.
-
-Details and tokens: [`DESIGN.md`](./DESIGN.md).
+Token-first composition, mono editorial marks, flat surfaces, multilingual (including RTL), and first-class dark mode — full principles and tokens: [`DESIGN.md`](./DESIGN.md) § Principles.
 
 ## Accessibility & inclusion
 
-- Visible focus rings on interactive controls.
-- Screen-reader utilities where chrome needs them.
-- RTL tested for nav, flex/grid, and prose chrome when layout changes.
-- New UI strings ship in `en`, `fa`, and `de`.
-- Code and syntax highlights force LTR inside RTL pages.
+Visible focus, screen-reader utilities, RTL-tested chrome, trilingual UI strings, and LTR code inside RTL pages — details: [`DESIGN.md`](./DESIGN.md) § Accessibility & i18n.
 
 ## Offer
 

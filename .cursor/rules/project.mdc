@@ -5,7 +5,7 @@ alwaysApply: true
 
 # omid.dev
 
-Read `AGENTS.md` at the repository root for build commands, layout, and workflow.
+Read `AGENTS.md` at the repository root for build commands, layout, and workflow. Read `PRODUCT.md` for purpose, audience, brand/tone, surfaces, and ship-bar intent.
 
 This is a Hugo static site (`hugo.yaml`, theme `themes/omid-dev`). Search uses Pagefind (post-build via `npx`).
 

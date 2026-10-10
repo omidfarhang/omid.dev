@@ -1,6 +1,6 @@
 # omid.dev
 
-Personal site of [Omid Farhang](https://omid.dev/) — frontend architect and engineering lead. Long-form writing on architecture, Angular, Linux, and the habits that make technical work last, plus short notes and a few other sections.
+Personal home on the web for [Omid Farhang](https://omid.dev/) — writing, notes, experiments, tools, and identity surfaces. Most content is software engineering (architecture, Angular, Linux, and related craft); health, electronics, and everyday life are in scope when they fit. Professional discovery matters, but this is not a portfolio funnel.
 
 **Live:** [omid.dev](https://omid.dev/) · [Persian](https://omid.dev/fa/) · [German](https://omid.dev/de/)
 
@@ -62,7 +62,8 @@ VS Code / Cursor tasks in `.vscode/tasks.json` wrap the same commands.
 | `scripts/` | Python maintenance helpers |
 | `docs/` | Editorial reference |
 | `archetypes/` | Content templates |
-| `design.md` | Design system (tokens, layers, primitives) |
+| `DESIGN.md` | Design system (tokens, layers, primitives) |
+| `PRODUCT.md` | Purpose, audience, brand/tone, surfaces |
 | `AGENTS.md` | Conventions for contributors and coding agents |
 
 ## Content
@@ -124,7 +125,8 @@ Theme shortcodes in `themes/omid-dev/layouts/shortcodes/`. Common ones: `youtube
 
 The site uses a custom theme at `themes/omid-dev/`: Go templates, modular CSS via Hugo Pipes, and i18n YAML.
 
-- Design tokens and do/don’t: [`design.md`](design.md)
+- Design tokens and do/don’t: [`DESIGN.md`](DESIGN.md)
+- Product intent: [`PRODUCT.md`](PRODUCT.md)
 - After template or CSS changes, run `hugo --minify` and fix errors before committing
 - Persian is RTL — check `fa` when changing layout or navigation
 

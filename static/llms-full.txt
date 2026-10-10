@@ -5,7 +5,7 @@ See also the concise guide: https://omid.dev/llms.txt
 
 ## About the author
 
-Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ years building and scaling web platforms. Primary stack: Angular, TypeScript, Nx monorepos, design systems, CI/CD, and platform governance. Background includes Linux, networking, and DevOps.
+Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ years building and scaling web platforms. Primary stack: Angular, TypeScript, Nx monorepos, design systems, CI/CD, and platform governance. Background includes Linux, networking, and DevOps. The site is a personal home for writing, notes, tools, and experiments — professional discovery is welcome, but it is not a portfolio or hiring funnel.
 
 ## Site structure
 
@@ -14,6 +14,8 @@ Omid Farhang (omid.dev) is a Frontend Architect and Engineering Lead with 10+ ye
 | Home | https://omid.dev/ | Profile, featured posts, topic tags |
 | Posts | https://omid.dev/posts/ | Tech blog archive (~1800+ posts, mostly English) |
 | Notes | https://omid.dev/notes/ | Short-form notes (English-only); separate RSS, search index, and sitemap |
+| Tools | https://omid.dev/tools/ | Catalog of curl-installable scripts with README pages |
+| Playground catalog | https://omid.dev/playground/ | Companion demos catalog (live builds at playground.omid.dev) |
 | TechBlog hub | https://omid.dev/posts/techblog/ | Reading paths, series highlights, chronological archive |
 | Series index | https://omid.dev/series/ | All ordered post series (overview + deep dives) |
 | Reading paths | https://omid.dev/posts/techblog/paths/ | Curated lists: Angular Platform, Engineering Leadership, Systems & Linux, Frontend Quality, AI & Data Tools, Frontend Architecture |

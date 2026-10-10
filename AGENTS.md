@@ -4,6 +4,8 @@ Instructions for AI coding agents working on [omid.dev](https://omid.dev/) — a
 
 ## Project overview
 
+Product intent (purpose, audience, brand/tone, surfaces, ship bar): [`PRODUCT.md`](./PRODUCT.md). Ops and build conventions live here; visual tokens in [`DESIGN.md`](./DESIGN.md). Precedence when they conflict: AGENTS → PRODUCT → DESIGN.
+
 - **Stack:** [Hugo](https://gohugo.io/) (extended, v0.163+), custom theme `themes/omid-dev`, Python 3 maintenance scripts, [Pagefind](https://pagefind.app/) for site search (post-build via `npx`)
 - **Languages:** English (`en`, default), Persian (`fa`, RTL), German (`de`)
 - **Content:** Long-form posts, short notes, Tools catalog (installable scripts), static pages (about, resume, contact, etc.), Playground catalog
@@ -116,6 +118,8 @@ Full rules: [`docs/tag-strategy.md`](./docs/tag-strategy.md). Do not hard-code t
 - Keep existing tags on legacy posts unless you are deliberately retagging.
 
 ## Reading paths and series
+
+Adding a post to an **existing** series or reading path is fine when publishing evergreen work. Inventing new paths, series IDs, prominent nav, or substantial reorganizations needs review first — agents may propose with rationale; see [`PRODUCT.md`](./PRODUCT.md) § Surfaces.
 
 Evergreen TechBlog posts are organized two ways:
 
@@ -371,6 +375,7 @@ Requires Python 3.
 ## Code style
 
 - **Scope:** Make the smallest correct change. Do not refactor unrelated code.
+- **Voice / truthfulness:** Brand personality, tone, author framing, languages, and agent truthfulness live in [`PRODUCT.md`](./PRODUCT.md). Do not invent biography, credentials, or personal claims.
 - **Markdown:** Preserve existing tone and formatting in migrated/legacy posts unless explicitly editing content.
 - **Templates:** Follow Hugo/Go template conventions already in the theme.
 - **CSS:** Use existing design tokens in `assets/css/core/` and component files; avoid inline styles in templates.

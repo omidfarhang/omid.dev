@@ -6,7 +6,7 @@ alwaysApply: false
 
 # Content
 
-Follow `AGENTS.md` for full conventions. Key rules for `content/`:
+Follow `AGENTS.md` for full conventions. Format choice, tone, author framing, and agent truthfulness: `PRODUCT.md`. Key rules for `content/`:
 
 - Posts: `content/posts/{section}/{year}/YYYY-MM-DD-slug.{en,fa,de}.md`
 - Language is in the filename suffix, not front matter.
