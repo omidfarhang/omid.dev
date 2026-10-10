@@ -665,7 +665,7 @@
 - id: last_updated
   translation: "Zuletzt aktualisiert"
 
-- id: series_eyebrow
+- id: series_label
   translation: "Serie"
 
 - id: series_nav_label
@@ -680,29 +680,17 @@
 - id: series_read_prev
   translation: "Zurück"
 
-- id: series_intro_anchor
-  translation: "Dieser Beitrag eröffnet die Serie {{ .Title }} ({{ .Total }} Beiträge insgesamt)."
+- id: series_position_overview
+  translation: "Übersicht · {{ .Total }} Beiträge"
 
-- id: series_intro_part
-  translation: "Dies ist Teil {{ .Part }} einer {{ .Count }}-teiligen Serie über {{ .Title }}."
-
-- id: series_intro_deep_dive
-  translation: "Dies ist Teil {{ .Part }} von {{ .Count }} in der Serie {{ .Title }} ({{ .Total }} Beiträge insgesamt)."
-
-- id: series_footer_summary
-  translation: "{{ .Total }} Beiträge · 1 Übersicht · {{ .Count }} Teile"
+- id: series_position_part
+  translation: "Teil {{ .Part }} von {{ .Count }}"
 
 - id: series_group_overview
   translation: "Übersicht"
 
 - id: series_group_deep_dives
   translation: "Teile ({{ .Count }})"
-
-- id: series_intro_start_anchor
-  translation: "Beginnen Sie mit der <a href=\"{{ .Link }}\">{{ .Label }}</a>."
-
-- id: series_intro_also
-  translation: "Weitere Teile dieser Serie:"
 
 - id: series_index_heading
   translation: "Alle Serien"

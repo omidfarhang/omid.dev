@@ -659,7 +659,7 @@
 - id: last_updated
   translation: "Last Updated"
 
-- id: series_eyebrow
+- id: series_label
   translation: "Series"
 
 - id: series_nav_label
@@ -674,29 +674,17 @@
 - id: series_read_prev
   translation: "Read previous"
 
-- id: series_intro_anchor
-  translation: "This post starts the {{ .Title }} series ({{ .Total }} posts in total)."
+- id: series_position_overview
+  translation: "Overview · {{ .Total }} posts"
 
-- id: series_intro_part
-  translation: "This is Part {{ .Part }} of a {{ .Count }}-part series on {{ .Title }}."
-
-- id: series_intro_deep_dive
-  translation: "This is part {{ .Part }} of {{ .Count }} in the {{ .Title }} series ({{ .Total }} posts in total)."
-
-- id: series_footer_summary
-  translation: "{{ .Total }} posts · 1 overview · {{ .Count }} parts"
+- id: series_position_part
+  translation: "Part {{ .Part }} of {{ .Count }}"
 
 - id: series_group_overview
   translation: "Overview"
 
 - id: series_group_deep_dives
   translation: "Parts ({{ .Count }})"
-
-- id: series_intro_start_anchor
-  translation: "Start with the <a href=\"{{ .Link }}\">{{ .Label }}</a>."
-
-- id: series_intro_also
-  translation: "Also in this series:"
 
 - id: series_index_heading
   translation: "All series"

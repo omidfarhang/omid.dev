@@ -656,7 +656,7 @@
 - id: last_updated
   translation: "آخرین به‌روزرسانی"
 
-- id: series_eyebrow
+- id: series_label
   translation: "مجموعه"
 
 - id: series_nav_label
@@ -671,29 +671,17 @@
 - id: series_read_prev
   translation: "قبلی"
 
-- id: series_intro_anchor
-  translation: "این نوشته شروع مجموعه {{ .Title }} است ({{ .Total }} نوشته در مجموع)."
+- id: series_position_overview
+  translation: "نمای کلی · {{ .Total }} نوشته"
 
-- id: series_intro_part
-  translation: "این بخش {{ .Part }} از مجموعه {{ .Count }}‌بخشی درباره {{ .Title }} است."
-
-- id: series_intro_deep_dive
-  translation: "این بخش {{ .Part }} از {{ .Count }} در مجموعه {{ .Title }} است ({{ .Total }} نوشته در مجموع)."
-
-- id: series_footer_summary
-  translation: "{{ .Total }} نوشته · ۱ نمای کلی · {{ .Count }} بخش"
+- id: series_position_part
+  translation: "بخش {{ .Part }} از {{ .Count }}"
 
 - id: series_group_overview
   translation: "نمای کلی"
 
 - id: series_group_deep_dives
   translation: "بخش‌ها ({{ .Count }})"
-
-- id: series_intro_start_anchor
-  translation: "با <a href=\"{{ .Link }}\">{{ .Label }}</a> شروع کنید."
-
-- id: series_intro_also
-  translation: "دیگر بخش‌های این مجموعه:"
 
 - id: series_index_heading
   translation: "همه مجموعه‌ها"

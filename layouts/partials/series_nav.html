@@ -8,6 +8,7 @@
 {{- $seriesMeta := $page.Params.series -}}
 {{- $seriesTitle := $seriesMeta.title | default $seriesMeta.id -}}
 {{- $role := $seriesMeta.role | default "part" -}}
+{{- $total := len $seriesPages -}}
 
 {{- $anchor := false -}}
 {{- $parts := slice -}}
@@ -28,37 +29,6 @@
   {{- end -}}
 {{- end -}}
 
-{{- if eq $placement "intro" -}}
-<p class="series-nav series-nav--intro">
-  <em>
-    {{- if eq $role "anchor" -}}
-      {{- i18n "series_intro_anchor" (dict "Title" $seriesTitle "Count" $partCount "Total" (len $seriesPages)) -}}
-    {{- else if gt $partCount 0 -}}
-      {{- if $anchor -}}
-        {{- i18n "series_intro_start_anchor" (dict "Link" $anchor.RelPermalink "Label" ($anchor.Params.series.label | default $anchor.Title)) | safeHTML -}}
-        {{ " " }}
-        {{- i18n "series_intro_deep_dive" (dict "Part" $partIndex "Count" $partCount "Title" $seriesTitle "Total" (len $seriesPages)) -}}
-      {{- else -}}
-        {{- i18n "series_intro_part" (dict "Part" $partIndex "Count" $partCount "Title" $seriesTitle) -}}
-      {{- end -}}
-      {{ " " }}
-      {{- i18n "series_intro_also" -}}
-      {{ " " }}
-      {{- $others := slice -}}
-      {{- range $seriesPages -}}
-        {{- if ne . $page -}}
-          {{- $others = $others | append . -}}
-        {{- end -}}
-      {{- end -}}
-      {{- range $i, $p := $others -}}
-        {{- if gt $i 0 -}}, {{ end -}}
-        <a href="{{ $p.RelPermalink }}">{{ $p.Params.series.label | default $p.Title }}</a>
-      {{- end -}}
-      .
-    {{- end -}}
-  </em>
-</p>
-{{- else if eq $placement "footer" -}}
 {{- $currentIndex := -1 -}}
 {{- range $i, $p := $seriesPages -}}
   {{- if eq $p $page -}}
@@ -71,17 +41,86 @@
   {{- if gt $currentIndex 0 -}}
     {{- $prevPage = index $seriesPages (sub $currentIndex 1) -}}
   {{- end -}}
-  {{- if lt $currentIndex (sub (len $seriesPages) 1) -}}
+  {{- if lt $currentIndex (sub $total 1) -}}
     {{- $nextPage = index $seriesPages (add $currentIndex 1) -}}
   {{- end -}}
 {{- end -}}
 
-<aside class="series-nav series-nav--footer" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
-  <div class="series-nav__header">
-    <strong class="series-nav__title">{{ $seriesTitle }}</strong>
-    {{- if $anchor -}}
-    <span class="series-nav__summary">{{ i18n "series_footer_summary" (dict "Total" (len $seriesPages) "Count" $partCount) }}</span>
+{{- $positionMeta := "" -}}
+{{- if eq $role "anchor" -}}
+  {{- $positionMeta = i18n "series_position_overview" (dict "Total" $total) -}}
+{{- else if gt $partCount 0 -}}
+  {{- $positionMeta = i18n "series_position_part" (dict "Part" $partIndex "Count" $partCount) -}}
+{{- else -}}
+  {{- $step := add $currentIndex 1 -}}
+  {{- $positionMeta = i18n "series_position_part" (dict "Part" $step "Count" $total) -}}
+{{- end -}}
+
+{{- if eq $placement "intro" -}}
+<aside class="series-nav series-nav--intro" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
+  <div class="series-nav__head">
+    <div class="series-nav__identity">
+      <p class="series-nav__label">{{ i18n "series_label" }}</p>
+      {{- if and $anchor (ne $anchor $page) -}}
+      <a class="series-nav__title" href="{{ $anchor.RelPermalink }}">{{ $seriesTitle }}</a>
+      {{- else -}}
+      <p class="series-nav__title">{{ $seriesTitle }}</p>
+      {{- end -}}
+    </div>
+    <ol class="series-nav__dots" aria-label="{{ $positionMeta }}">
+      {{- range $i, $p := $seriesPages -}}
+      <li class="series-nav__dot-item{{ if eq $p $page }} series-nav__dot-item--current{{ end }}">
+        {{- if eq $p $page -}}
+        <span class="series-nav__dot series-nav__dot--current" title="{{ $p.Title }}" aria-current="page" aria-label="{{ $p.Title }}"></span>
+        {{- else -}}
+        <a class="series-nav__dot" href="{{ $p.RelPermalink }}" title="{{ $p.Title }}" aria-label="{{ $p.Title }}"></a>
+        {{- end -}}
+      </li>
+      {{- end -}}
+    </ol>
+  </div>
+  <nav class="series-nav__toolbar">
+    {{- with $prevPage -}}
+    <a class="series-nav__pager series-nav__pager--prev" href="{{ .RelPermalink }}" title="{{ i18n "series_read_prev" }}: {{ .Params.series.label | default .Title }}">
+      <i class="fa-solid fa-chevron-left series-nav__pager-icon" aria-hidden="true"></i>
+      <span class="series-nav__pager-text">
+        <span class="series-nav__pager-dir">{{ i18n "series_read_prev" }}</span>
+        <span class="series-nav__pager-label">{{ .Params.series.label | default .Title }}</span>
+      </span>
+    </a>
+    {{- else -}}
+    <span class="series-nav__pager series-nav__pager--empty" aria-hidden="true"></span>
     {{- end -}}
+    {{- with $nextPage -}}
+    <a class="series-nav__pager series-nav__pager--next" href="{{ .RelPermalink }}" title="{{ i18n "series_read_next" }}: {{ .Params.series.label | default .Title }}">
+      <span class="series-nav__pager-text">
+        <span class="series-nav__pager-dir">{{ i18n "series_read_next" }}</span>
+        <span class="series-nav__pager-label">{{ .Params.series.label | default .Title }}</span>
+      </span>
+      <i class="fa-solid fa-chevron-right series-nav__pager-icon" aria-hidden="true"></i>
+    </a>
+    {{- else -}}
+    <span class="series-nav__pager series-nav__pager--empty" aria-hidden="true"></span>
+    {{- end -}}
+  </nav>
+</aside>
+{{- else if eq $placement "footer" -}}
+<aside class="series-nav series-nav--footer" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
+  <div class="series-nav__head">
+    <div class="series-nav__identity">
+      <strong class="series-nav__title">{{ $seriesTitle }}</strong>
+    </div>
+    <ol class="series-nav__dots" aria-label="{{ $positionMeta }}">
+      {{- range $i, $p := $seriesPages -}}
+      <li class="series-nav__dot-item{{ if eq $p $page }} series-nav__dot-item--current{{ end }}">
+        {{- if eq $p $page -}}
+        <span class="series-nav__dot series-nav__dot--current" title="{{ $p.Title }}" aria-current="page" aria-label="{{ $p.Title }}"></span>
+        {{- else -}}
+        <a class="series-nav__dot" href="{{ $p.RelPermalink }}" title="{{ $p.Title }}" aria-label="{{ $p.Title }}"></a>
+        {{- end -}}
+      </li>
+      {{- end -}}
+    </ol>
   </div>
 
   {{- if eq $mode "prev-next" -}}
