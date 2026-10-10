@@ -820,14 +820,8 @@ body.dark .card--promo {
 }
 
 .series-nav--intro {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-4);
     margin: 0 0 var(--space-6);
-    padding: 0 0 var(--space-5);
     border-bottom: 1px solid var(--border);
-    background: none;
-    box-shadow: none;
 }
 
 .series-nav__head {
@@ -853,6 +847,7 @@ body.dark .card--promo {
     font-weight: var(--font-bold);
     letter-spacing: var(--tracking-wide);
     line-height: var(--leading-snug);
+    text-decoration: none;
 }
 
 .series-nav__title {
@@ -868,10 +863,27 @@ body.dark .card--promo {
     font-size: var(--text-lg);
 }
 
-a.series-nav__title:hover,
-a.series-nav__title:focus-visible {
-    text-decoration: underline;
-    text-underline-offset: 3px;
+/* Keep intro identity looking like plain text even when it jumps to #series-nav
+   (beats .post-content a accent / link-mark styles) */
+.post-content .series-nav--intro a.series-nav__label,
+.post-content .series-nav--intro a.series-nav__label:hover {
+    color: var(--secondary);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.post-content .series-nav--intro a.series-nav__title,
+.post-content .series-nav--intro a.series-nav__title:hover {
+    color: var(--primary);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.post-content .series-nav--intro a.series-nav__label:focus-visible,
+.post-content .series-nav--intro a.series-nav__title:focus-visible {
+    outline: none;
+    border-radius: var(--radius);
+    box-shadow: var(--focus-ring);
 }
 
 .series-nav__dots {
@@ -918,97 +930,6 @@ a.series-nav__dot:focus-visible {
     cursor: default;
 }
 
-.series-nav__toolbar {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    align-items: start;
-    gap: var(--space-4);
-}
-
-.series-nav__pager {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-2);
-    min-width: 0;
-    color: var(--primary);
-    text-decoration: none !important;
-    transition: var(--transition-interactive);
-}
-
-.series-nav__pager--prev {
-    justify-self: start;
-}
-
-.series-nav__pager--next {
-    justify-self: end;
-    text-align: end;
-}
-
-.series-nav__pager--empty {
-    min-height: 1px;
-    pointer-events: none;
-}
-
-.series-nav__pager-icon {
-    flex-shrink: 0;
-    color: var(--secondary);
-    font-size: var(--text-ui-sm);
-    transition: var(--transition-interactive);
-}
-
-.series-nav__pager-text {
-    display: flex;
-    flex-direction: column;
-    gap: 0.1em;
-    min-width: 0;
-}
-
-.series-nav__pager-dir {
-    color: var(--secondary);
-    font-size: var(--text-2xs);
-    font-weight: var(--font-bold);
-    line-height: var(--leading-snug);
-}
-
-.series-nav__pager-label {
-    overflow: hidden;
-    color: var(--primary);
-    font-size: var(--text-ui-sm);
-    font-weight: var(--font-semibold);
-    line-height: var(--leading-snug);
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-a.series-nav__pager:hover .series-nav__pager-label,
-a.series-nav__pager:focus-visible .series-nav__pager-label {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-}
-
-a.series-nav__pager:hover .series-nav__pager-icon,
-a.series-nav__pager:focus-visible .series-nav__pager-icon,
-a.series-nav__pager:hover .series-nav__pager-dir,
-a.series-nav__pager:focus-visible .series-nav__pager-dir {
-    color: var(--accent);
-}
-
-a.series-nav__pager:focus-visible {
-    outline: none;
-    box-shadow: var(--focus-ring);
-    border-radius: var(--radius);
-}
-
-[dir="rtl"] .series-nav__pager-icon {
-    transform: scaleX(-1);
-}
-
-@media screen and (max-width: 768px) {
-    .series-nav__pager-label {
-        max-width: 10rem;
-    }
-}
-
 .series-nav--footer {
     display: flex;
     flex-direction: column;
@@ -1018,6 +939,7 @@ a.series-nav__pager:focus-visible {
     border-top: 1px solid var(--border);
     background: none;
     box-shadow: none;
+    scroll-margin-top: calc(var(--header-height, 4rem) + var(--space-4));
 }
 
 .series-nav__group {

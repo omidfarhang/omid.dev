@@ -56,15 +56,26 @@
   {{- $positionMeta = i18n "series_position_part" (dict "Part" $step "Count" $total) -}}
 {{- end -}}
 
+{{- $showFooter := true -}}
+{{- with $page.Params.seriesNav -}}
+  {{- if isset . "footer" -}}{{- $showFooter = .footer -}}{{- end -}}
+{{- end -}}
+{{- $footerAnchor := "#series-nav" -}}
+
 {{- if eq $placement "intro" -}}
 <aside class="series-nav series-nav--intro" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
   <div class="series-nav__head">
     <div class="series-nav__identity">
+      {{- if $showFooter -}}
+      <a class="series-nav__label" href="{{ $footerAnchor }}">{{ i18n "series_label" }}</a>
+      <a class="series-nav__title" href="{{ $footerAnchor }}">{{ $seriesTitle }}</a>
+      {{- else -}}
       <p class="series-nav__label">{{ i18n "series_label" }}</p>
       {{- if and $anchor (ne $anchor $page) -}}
       <a class="series-nav__title" href="{{ $anchor.RelPermalink }}">{{ $seriesTitle }}</a>
       {{- else -}}
       <p class="series-nav__title">{{ $seriesTitle }}</p>
+      {{- end -}}
       {{- end -}}
     </div>
     <ol class="series-nav__dots" aria-label="{{ $positionMeta }}">
@@ -79,33 +90,9 @@
       {{- end -}}
     </ol>
   </div>
-  <nav class="series-nav__toolbar">
-    {{- with $prevPage -}}
-    <a class="series-nav__pager series-nav__pager--prev" href="{{ .RelPermalink }}" title="{{ i18n "series_read_prev" }}: {{ .Params.series.label | default .Title }}">
-      <i class="fa-solid fa-chevron-left series-nav__pager-icon" aria-hidden="true"></i>
-      <span class="series-nav__pager-text">
-        <span class="series-nav__pager-dir">{{ i18n "series_read_prev" }}</span>
-        <span class="series-nav__pager-label">{{ .Params.series.label | default .Title }}</span>
-      </span>
-    </a>
-    {{- else -}}
-    <span class="series-nav__pager series-nav__pager--empty" aria-hidden="true"></span>
-    {{- end -}}
-    {{- with $nextPage -}}
-    <a class="series-nav__pager series-nav__pager--next" href="{{ .RelPermalink }}" title="{{ i18n "series_read_next" }}: {{ .Params.series.label | default .Title }}">
-      <span class="series-nav__pager-text">
-        <span class="series-nav__pager-dir">{{ i18n "series_read_next" }}</span>
-        <span class="series-nav__pager-label">{{ .Params.series.label | default .Title }}</span>
-      </span>
-      <i class="fa-solid fa-chevron-right series-nav__pager-icon" aria-hidden="true"></i>
-    </a>
-    {{- else -}}
-    <span class="series-nav__pager series-nav__pager--empty" aria-hidden="true"></span>
-    {{- end -}}
-  </nav>
 </aside>
 {{- else if eq $placement "footer" -}}
-<aside class="series-nav series-nav--footer" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
+<aside class="series-nav series-nav--footer" id="series-nav" aria-label="{{ i18n "series_nav_label" (dict "Title" $seriesTitle) }}">
   <div class="series-nav__head">
     <div class="series-nav__identity">
       <strong class="series-nav__title">{{ $seriesTitle }}</strong>
