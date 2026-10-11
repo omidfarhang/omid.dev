@@ -8,7 +8,7 @@ ShowToc: true
 url: /fa/tools/update-cursor/
 tool:
   id: update-cursor
-  version: "1.0.0"
+  version: "1.1.0"
   scriptPath: /scripts/update-cursor.sh
   installName: update-cursor
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-cursor.sh
@@ -93,6 +93,8 @@ cursor
 ```bash
 update-cursor --self-update
 ```
+
+در اجرای تعاملی، اگر نسخهٔ جدیدتر روی omid.dev باشد، **قبل از** کار روی Cursor با پرسش `[Y/n]` (پیش‌فرض Yes) پیشنهاد خودبه‌روزرسانی می‌دهد. Yes اسکریپت را عوض می‌کند و همان فرمان را با نسخهٔ جدید دوباره اجرا می‌کند؛ No با نسخهٔ نصب‌شده ادامه می‌دهد. غیر-TTY پرسش را رد می‌کند (فقط یک خط راهنما چاپ می‌کند). با `UPDATE_CURSOR_SKIP_SELF_CHECK=1` کل بررسی را خاموش کنید.
 
 ## حذف
 

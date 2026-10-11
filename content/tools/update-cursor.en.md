@@ -8,7 +8,7 @@ ShowToc: true
 url: /tools/update-cursor/
 tool:
   id: update-cursor
-  version: "1.0.0"
+  version: "1.1.0"
   scriptPath: /scripts/update-cursor.sh
   installName: update-cursor
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-cursor.sh
@@ -96,7 +96,7 @@ Refresh the script without touching the Cursor install:
 update-cursor --self-update
 ```
 
-On normal runs it may warn when a newer script version is available. Set `UPDATE_CURSOR_SKIP_SELF_CHECK=1` to silence that check.
+On interactive runs, if a newer script is available on omid.dev, you are asked **before** Cursor work starts (`[Y/n]`, default Yes). Yes replaces the script and re-runs the same command with the new version; No continues with the installed script. Non-TTY runs skip the prompt (still prints a one-line hint). Set `UPDATE_CURSOR_SKIP_SELF_CHECK=1` to silence the check entirely.
 
 ## Uninstall
 

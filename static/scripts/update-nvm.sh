@@ -2,8 +2,11 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.3.1"
+SCRIPT_VERSION="1.4.0"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
+
+# Preserve argv for re-exec after an accepted self-update.
+ORIGINAL_ARGS=("$@")
 
 VERSIONS=()
 EXPLICIT_VERSIONS=0
@@ -38,8 +41,9 @@ When installing a major that is not installed yet, the script asks whether to
 copy global npm packages from another installed major.
 
 On interactive runs, if a newer update-nvm is available on omid.dev, you are
-asked whether to self-update (default: Yes). Quiet/cron and non-TTY runs skip
-that prompt.
+asked whether to self-update before work starts (default: Yes). Accepting
+re-runs this command with the new script; declining continues with the
+installed version. Quiet/cron and non-TTY runs skip that prompt.
 
 Options:
   --lts             Update lts/* only (overrides auto-detected installed majors)
@@ -179,8 +183,15 @@ remote_script_version() {
     | sed -n 's/^SCRIPT_VERSION="\([^"]*\)".*/\1/p' | head -1
 }
 
+# Replace this script with the remote release. With --reexec, continue the
+# original command using the new file; otherwise exit after updating.
 self_update_script() {
+  local reexec=0
   local remote script_path tmp new_version cmp
+
+  if [[ "${1:-}" == "--reexec" ]]; then
+    reexec=1
+  fi
 
   if ! command -v curl >/dev/null 2>&1; then
     echo "curl is required for self-update." >&2
@@ -223,13 +234,60 @@ self_update_script() {
   trap - EXIT
 
   echo "update-nvm updated to ${new_version}."
+  if [[ "$reexec" -eq 1 ]]; then
+    export UPDATE_NVM_REEXEC=1
+    exec "$script_path" "${ORIGINAL_ARGS[@]}"
+  fi
   exit 0
+}
+
+# Prompt (interactive) or hint (non-TTY) before Node work so an accepted
+# update can re-exec and run jobs with the new script.
+maybe_self_update_before_run() {
+  local remote cmp answer
+
+  # Set by a prior accepted update so the re-exec does not prompt again.
+  if [[ "${UPDATE_NVM_REEXEC:-0}" == 1 ]]; then
+    unset UPDATE_NVM_REEXEC
+    return 0
+  fi
+
+  if [[ "${UPDATE_NVM_SKIP_SELF_CHECK:-0}" == 1 || "$QUIET" -eq 1 || "$DRY_RUN" -eq 1 ]]; then
+    return 0
+  fi
+
+  remote="$(remote_script_version)" || return 0
+  [[ -z "$remote" ]] && return 0
+
+  cmp=2
+  version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
+  if [[ "$cmp" -ne 2 ]]; then
+    return 0
+  fi
+
+  if [[ -t 0 && -t 1 ]]; then
+    echo
+    read -r -p "update-nvm ${remote} is available (installed: ${SCRIPT_VERSION}). Update now? [Y/n] " answer
+    case "$answer" in
+      ''|y|Y|yes|YES|Yes)
+        self_update_script --reexec
+        ;;
+      *)
+        echo "Skipped. Continuing with update-nvm ${SCRIPT_VERSION}."
+        echo "Run later: update-nvm --self-update"
+        ;;
+    esac
+  else
+    echo "update-nvm $remote is available (installed: $SCRIPT_VERSION). Run: update-nvm --self-update" >&2
+  fi
 }
 
 if [[ "$SELF_UPDATE" -eq 1 ]]; then
   self_update_script
   exit 0
 fi
+
+maybe_self_update_before_run
 
 if [[ "$LTS_MODE" -eq 1 && ${#VERSIONS[@]} -eq 0 ]]; then
   VERSIONS=(lts/*)
@@ -459,41 +517,6 @@ log_warn() {
 
 log_fail() {
   echo "  ${C_RED}✗${C_RESET} $*" >&2
-}
-
-notify_script_update() {
-  local remote cmp answer
-
-  if [[ "${UPDATE_NVM_SKIP_SELF_CHECK:-0}" == 1 || "$QUIET" -eq 1 || "$DRY_RUN" -eq 1 ]]; then
-    return 0
-  fi
-
-  remote="$(remote_script_version)" || return 0
-  [[ -z "$remote" ]] && return 0
-
-  cmp=2
-  version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
-  if [[ "$cmp" -ne 2 ]]; then
-    return 0
-  fi
-
-  if [[ -t 0 && -t 1 ]]; then
-    echo
-    read -r -p "update-nvm ${remote} is available (installed: ${SCRIPT_VERSION}). Update now? [Y/n] " answer
-    case "$answer" in
-      ''|y|Y|yes|YES|Yes)
-        self_update_script
-        ;;
-      n|N|no|NO|No)
-        log_info "Skipped. Run: update-nvm --self-update"
-        ;;
-      *)
-        log_info "Skipped. Run: update-nvm --self-update"
-        ;;
-    esac
-  else
-    log_warn "update-nvm $remote is available (installed: $SCRIPT_VERSION). Run: update-nvm --self-update"
-  fi
 }
 
 run() {
@@ -949,8 +972,6 @@ else
     log_ok "Done."
   fi
 fi
-
-notify_script_update
 
 if ((${#FAILED_VERSIONS[@]} > 0)); then
   exit 1

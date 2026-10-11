@@ -8,7 +8,7 @@ ShowToc: true
 url: /tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.3.1"
+  version: "1.4.0"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -107,7 +107,7 @@ The script can refresh itself without touching Node:
 update-nvm --self-update
 ```
 
-On interactive runs, if a newer script is available on omid.dev, you are asked whether to update now (`[Y/n]`, default Yes). Quiet/cron and non-TTY runs skip the prompt (non-TTY still prints a one-line hint). Set `UPDATE_NVM_SKIP_SELF_CHECK=1` to silence the check entirely.
+On interactive runs, if a newer script is available on omid.dev, you are asked **before** Node work starts (`[Y/n]`, default Yes). Yes replaces the script and re-runs the same command with the new version; No continues with the installed script. Quiet/cron and non-TTY runs skip the prompt (non-TTY still prints a one-line hint). Set `UPDATE_NVM_SKIP_SELF_CHECK=1` to silence the check entirely.
 
 ## Related
 

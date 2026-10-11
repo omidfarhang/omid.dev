@@ -8,7 +8,7 @@ ShowToc: true
 url: /de/tools/update-cursor/
 tool:
   id: update-cursor
-  version: "1.0.0"
+  version: "1.1.0"
   scriptPath: /scripts/update-cursor.sh
   installName: update-cursor
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-cursor.sh
@@ -93,6 +93,8 @@ Wenn Cursor während des Updates offen ist: schließen, `update-cursor` ausführ
 ```bash
 update-cursor --self-update
 ```
+
+Bei interaktiven Läufen wird bei einer neueren Version auf omid.dev **vor** der Cursor-Arbeit gefragt (`[Y/n]`, Standard: Yes). Yes ersetzt das Skript und führt denselben Befehl mit der neuen Version erneut aus; No setzt mit der installierten Version fort. Non-TTY überspringt die Frage (zeigt nur einen Hinweis). Mit `UPDATE_CURSOR_SKIP_SELF_CHECK=1` entfällt die Prüfung ganz.
 
 ## Deinstallation
 

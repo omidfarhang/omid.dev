@@ -2,8 +2,11 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.0.0"
+SCRIPT_VERSION="1.1.0"
 SCRIPT_URL="${UPDATE_CURSOR_SCRIPT_URL:-https://omid.dev/scripts/update-cursor.sh}"
+
+# Preserve argv for re-exec after an accepted self-update.
+ORIGINAL_ARGS=("$@")
 
 CURSOR_DIR="$HOME/.local/opt/cursor"
 CURSOR_APPIMAGE="$CURSOR_DIR/cursor.AppImage"
@@ -33,6 +36,11 @@ Usage: update-cursor [OPTIONS]
 
 Install or update Cursor from the official stable API.
 Skips download when the installed version is already the same or newer.
+
+On interactive runs, if a newer update-cursor is available on omid.dev, you are
+asked whether to self-update before work starts (default: Yes). Accepting
+re-runs this command with the new script; declining continues with the
+installed version. Non-TTY runs skip that prompt.
 
 Options:
   --force, -f       Reinstall even when no update is needed
@@ -107,8 +115,15 @@ remote_script_version() {
     | sed -n 's/^SCRIPT_VERSION="\([^"]*\)".*/\1/p' | head -1
 }
 
+# Replace this script with the remote release. With --reexec, continue the
+# original command using the new file; otherwise exit after updating.
 self_update_script() {
+  local reexec=0
   local remote script_path tmp new_version cmp
+
+  if [[ "${1:-}" == "--reexec" ]]; then
+    reexec=1
+  fi
 
   if ! command -v curl >/dev/null 2>&1; then
     echo "curl is required for self-update." >&2
@@ -151,10 +166,23 @@ self_update_script() {
   trap - EXIT
 
   echo "update-cursor updated to ${new_version}."
+  if [[ "$reexec" -eq 1 ]]; then
+    export UPDATE_CURSOR_REEXEC=1
+    exec "$script_path" "${ORIGINAL_ARGS[@]}"
+  fi
+  exit 0
 }
 
-notify_script_update() {
-  local remote cmp
+# Prompt (interactive) or hint (non-TTY) before Cursor work so an accepted
+# update can re-exec and run with the new script.
+maybe_self_update_before_run() {
+  local remote cmp answer
+
+  # Set by a prior accepted update so the re-exec does not prompt again.
+  if [[ "${UPDATE_CURSOR_REEXEC:-0}" == 1 ]]; then
+    unset UPDATE_CURSOR_REEXEC
+    return 0
+  fi
 
   if [[ "${UPDATE_CURSOR_SKIP_SELF_CHECK:-0}" == 1 ]]; then
     return 0
@@ -165,7 +193,23 @@ notify_script_update() {
 
   cmp=2
   version_compare "$SCRIPT_VERSION" "$remote" && cmp=0 || cmp=$?
-  if [[ "$cmp" -eq 2 ]]; then
+  if [[ "$cmp" -ne 2 ]]; then
+    return 0
+  fi
+
+  if [[ -t 0 && -t 1 ]]; then
+    echo
+    read -r -p "update-cursor ${remote} is available (installed: ${SCRIPT_VERSION}). Update now? [Y/n] " answer
+    case "$answer" in
+      ''|y|Y|yes|YES|Yes)
+        self_update_script --reexec
+        ;;
+      *)
+        echo "Skipped. Continuing with update-cursor ${SCRIPT_VERSION}."
+        echo "Run later: update-cursor --self-update"
+        ;;
+    esac
+  else
     echo "update-cursor $remote is available (installed: $SCRIPT_VERSION). Run: update-cursor --self-update" >&2
   fi
 }
@@ -277,9 +321,13 @@ DESKTOP
 
 if [[ "$SELF_UPDATE" -eq 1 ]]; then
   self_update_script
-elif [[ "$UNINSTALL" -eq 1 ]]; then
-  uninstall_cursor
-else
-  install_or_update_cursor
-  notify_script_update
+  exit 0
 fi
+
+if [[ "$UNINSTALL" -eq 1 ]]; then
+  uninstall_cursor
+  exit 0
+fi
+
+maybe_self_update_before_run
+install_or_update_cursor
