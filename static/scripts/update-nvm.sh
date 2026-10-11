@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.3.0"
+SCRIPT_VERSION="1.3.1"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
 
 VERSIONS=()
@@ -284,7 +284,7 @@ if [[ "$USE_COLOR" -eq 1 ]]; then
   C_RED=$'\033[31m'
 fi
 
-# Parallel to VERSIONS: todo | doing | done | failed | skipped
+# Parallel to VERSIONS: todo | doing | done | refreshed | failed | skipped
 STEP_STATE=()
 STEP_DETAIL=()
 ALT_SCREEN=0
@@ -347,7 +347,12 @@ print_progress_board() {
       done)
         icon="✓"
         color="$C_GREEN"
-        note="done"
+        note="updated"
+        ;;
+      refreshed)
+        icon="✓"
+        color="$C_GREEN"
+        note="current · npm refreshed"
         ;;
       skipped)
         icon="○"
@@ -375,7 +380,7 @@ print_progress_board() {
       note+=" · ${detail}"
     fi
 
-    printf '  %s%s%s  [%d/%d] %-22s %s\n' \
+    printf '  %s%s%s  [%d/%d] %-28s %s\n' \
       "$color" "$icon" "$C_RESET" \
       "$((i + 1))" "$TOTAL_STEPS" \
       "$label" \
@@ -721,7 +726,7 @@ restore_active_version() {
   fi
 }
 
-# Result of the last process_one_version call: done | skipped | failed
+# Result of the last process_one_version call: done | refreshed | skipped | failed
 _STEP_OUTCOME=""
 _STEP_OUTCOME_DETAIL=""
 
@@ -754,7 +759,7 @@ process_one_version() {
       return 0
     fi
 
-    log_skip "Leaving Node.js $installed in place"
+    log_info "Node $installed left in place; refreshing npm stack…"
     run nvm use "$version" >/dev/null
     refresh_npm_stack "$installed"
     PACKAGES_REFRESHED+=("$installed")
@@ -762,25 +767,29 @@ process_one_version() {
       prune_old_patches "$version"
     fi
     log_ok "npm stack refreshed for $installed"
-    _STEP_OUTCOME="done"
+    _STEP_OUTCOME="refreshed"
     _STEP_OUTCOME_DETAIL="$installed"
     return 0
   fi
 
   if [[ -n "$remote" && -n "$installed" && "$installed" == "$remote" && "$FORCE" -eq 0 ]]; then
-    log_skip "Already current ($installed)"
-    SKIPPED_VERSIONS+=("$installed")
+    CURRENT_VERSIONS+=("$installed")
     run nvm use "$version" >/dev/null
-    refresh_npm_stack "$installed"
-    if [[ "$SKIP_NPM" -eq 0 ]]; then
+    if [[ "$SKIP_NPM" -eq 1 ]]; then
+      log_skip "Node already current ($installed); npm refresh skipped (--skip-npm)"
+      _STEP_OUTCOME="skipped"
+      _STEP_OUTCOME_DETAIL="$installed"
+    else
+      log_info "Node already current ($installed); refreshing npm / globals…"
+      refresh_npm_stack "$installed"
       PACKAGES_REFRESHED+=("$installed")
-      log_ok "npm stack refreshed"
+      log_ok "npm stack refreshed (Node left at $installed)"
+      _STEP_OUTCOME="refreshed"
+      _STEP_OUTCOME_DETAIL="$installed"
     fi
     if [[ "$PRUNE" -eq 1 ]]; then
       prune_old_patches "$version"
     fi
-    _STEP_OUTCOME="skipped"
-    _STEP_OUTCOME_DETAIL="$installed"
     return 0
   fi
 
@@ -828,7 +837,7 @@ process_one_version() {
 
 ORIGINAL_NVM="$(nvm current)"
 UPDATED_VERSIONS=()
-SKIPPED_VERSIONS=()
+CURRENT_VERSIONS=()
 PACKAGES_REFRESHED=()
 FAILED_VERSIONS=()
 TOTAL_STEPS=${#VERSIONS[@]}
@@ -883,17 +892,17 @@ if [[ "$QUIET" -eq 1 ]]; then
   if ((${#UPDATED_VERSIONS[@]} > 0)); then
     summary="updated ${UPDATED_VERSIONS[*]}"
   fi
-  if ((${#SKIPPED_VERSIONS[@]} > 0)); then
-    if [[ -n "$summary" ]]; then
-      summary+=", "
-    fi
-    summary+="skipped ${SKIPPED_VERSIONS[*]}"
-  fi
   if ((${#PACKAGES_REFRESHED[@]} > 0)); then
     if [[ -n "$summary" ]]; then
       summary+=", "
     fi
-    summary+="packages ${PACKAGES_REFRESHED[*]}"
+    summary+="npm-refreshed ${PACKAGES_REFRESHED[*]}"
+  fi
+  if ((${#CURRENT_VERSIONS[@]} > 0)) && ((${#PACKAGES_REFRESHED[@]} == 0)); then
+    if [[ -n "$summary" ]]; then
+      summary+=", "
+    fi
+    summary+="current ${CURRENT_VERSIONS[*]}"
   fi
   if ((${#FAILED_VERSIONS[@]} > 0)); then
     if [[ -n "$summary" ]]; then
@@ -917,13 +926,13 @@ else
   log_step "Summary"
   echo
   if ((${#UPDATED_VERSIONS[@]} > 0)); then
-    log_ok "Updated: ${UPDATED_VERSIONS[*]}"
-  fi
-  if ((${#SKIPPED_VERSIONS[@]} > 0)); then
-    log_skip "Already current: ${SKIPPED_VERSIONS[*]}"
+    log_ok "Node updated: ${UPDATED_VERSIONS[*]}"
   fi
   if ((${#PACKAGES_REFRESHED[@]} > 0)); then
-    log_ok "Globals refreshed: ${PACKAGES_REFRESHED[*]}"
+    log_ok "Node current, npm refreshed: ${PACKAGES_REFRESHED[*]}"
+  fi
+  if ((${#CURRENT_VERSIONS[@]} > 0)) && [[ "$SKIP_NPM" -eq 1 ]]; then
+    log_skip "Node current (npm skipped): ${CURRENT_VERSIONS[*]}"
   fi
   if ((${#FAILED_VERSIONS[@]} > 0)); then
     log_fail "Failed: ${FAILED_VERSIONS[*]}"

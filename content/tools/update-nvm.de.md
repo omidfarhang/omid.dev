@@ -8,7 +8,7 @@ ShowToc: true
 url: /de/tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.3.0"
+  version: "1.3.1"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
