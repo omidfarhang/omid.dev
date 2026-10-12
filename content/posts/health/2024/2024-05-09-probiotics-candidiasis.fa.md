@@ -20,7 +20,6 @@ series:
   order: 2
   label: "کاندیدیازیس"
   role: part
-  listed: false
 seeAlso:
   - /2024/09/10/prebiotics-probiotics-postbiotics/
 ---

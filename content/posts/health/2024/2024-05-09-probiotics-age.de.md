@@ -18,7 +18,6 @@ series:
   order: 3
   label: "Im Wandel der Zeit"
   role: part
-  listed: false
 seeAlso:
   - /2024/09/10/praebiotika-probiotika-postbiotika/
 ---

@@ -20,7 +20,6 @@ series:
   order: 2
   label: "Candidiasis"
   role: part
-  listed: false
 seeAlso:
   - /2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
   - /2024/09/10/prebiotics-probiotics-postbiotics/

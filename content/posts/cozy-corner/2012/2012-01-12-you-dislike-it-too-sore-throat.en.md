@@ -16,7 +16,6 @@ series:
   order: 0
   label: "Part 1"
   role: anchor
-  listed: false
 seeAlso:
   - /2012/01/18/you-dislike-it-too-sore-throat-part-2/
 ---

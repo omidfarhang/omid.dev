@@ -18,7 +18,6 @@ series:
   order: 0
   label: "Complete Guide"
   role: anchor
-  listed: false
 seeAlso:
   - /2026/06/09/building-bio-dynamics-educational-3d-microbiome-lab-in-the-browser/
   - /2026/06/14/teaching-with-bio-dynamics-15-minute-lab-sessions/

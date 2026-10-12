@@ -19,7 +19,6 @@ series:
   order: 1
   label: "Allergien"
   role: part
-  listed: false
 seeAlso:
   - /2024/09/10/praebiotika-probiotika-postbiotika/
 ---
