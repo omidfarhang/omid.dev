@@ -18,7 +18,7 @@ series:
   role: part
 seeAlso:
   - /2012/01/12/you-dislike-it-too-sore-throat/
-  - /2026/10/12/treat-the-illness-not-the-habit/
+  - /2026/10/10/treat-the-illness-not-the-habit/
 ---
 As I told you in my other post, I'm dealing with a Sore Throat which is very annoying, I tried some simple stuff like gargle warm water and salt, drinking warm drinks, honey and lemon, lots of Vitamin C, Zinc and and and…. they did not work, my Sore Throat went one step ahead and reached a major infection level.
 
@@ -39,4 +39,4 @@ I went to meet my doctor, after a check-up he wrote a long prescription for me:
 
 Do not take this as medical advice, you should NEVER take any medicine without checking with your healthcare provider first, Information that you are reading here is only a personal experience of mine.
 
-I am keeping this post on purpose as personal history. What I would do differently now — matching care to the illness rather than habit — is in [Treat the Illness, Not the Habit](/2026/10/12/treat-the-illness-not-the-habit/).
+I am keeping this post on purpose as personal history. What I would do differently now — matching care to the illness rather than habit — is in [Treat the Illness, Not the Habit](/2026/10/10/treat-the-illness-not-the-habit/).

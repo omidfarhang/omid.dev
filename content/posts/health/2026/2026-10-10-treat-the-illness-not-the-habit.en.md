@@ -1,18 +1,25 @@
 ---
 title: "Treat the Illness, Not the Habit"
-date: 2026-10-12T14:00:00+03:30
+date: 2026-10-10T14:00:00+03:30
 description: "A practical framework for evaluating treatment decisions, based on what I got wrong about colds, antibiotics, probiotics, and familiar remedies."
 layout: single
 author_profile: true
-url: 2026/10/12/treat-the-illness-not-the-habit/
+url: 2026/10/10/treat-the-illness-not-the-habit/
 shortlink: https://g.omid.dev/9EZqydt
 tags:
   - Health
-  - Probiotics
 
 categories:
   - Health
+series:
+  id: better-health-decisions
+  title: "Making Better Health Decisions"
+  order: 0
+  label: "Treat the Illness"
+  role: anchor
 seeAlso:
+  - /2026/10/11/how-i-decide-what-to-do-when-im-sick/
+  - /2026/10/12/how-to-evaluate-a-supplement-or-medicine/
   - /2012/01/12/you-dislike-it-too-sore-throat/
   - /2012/01/18/you-dislike-it-too-sore-throat-part-2/
   - /2014/04/05/what-to-do-with-a-cold/
@@ -157,6 +164,11 @@ I would also keep uncertainty where it belongs. I cannot prove that antibiotics 
 I am leaving the old posts online because they show the difference between collecting remedies and evaluating decisions. The record is uncomfortable, but useful: it reminds me that confidence, familiarity, and the appearance of thorough treatment are poor substitutes for establishing what problem I am actually trying to solve.
 
 The next time I am ill, the useful first action is not to choose a product. It is to run the five questions: what I know, what outcome I want, what evidence supports the intervention, what acting or waiting could cost, and what would tell me to get help.
+
+## Continue the series
+
+- [How I Decide What to Do When I'm Sick](/2026/10/11/how-i-decide-what-to-do-when-im-sick/) applies the five questions to home monitoring, supportive care, medication, and medical help.
+- [How to Evaluate a Supplement or Medicine](/2026/10/12/how-to-evaluate-a-supplement-or-medicine/) examines evidence, labels, doses, quality, interactions, and duplicate ingredients.
 
 ## Sources and further guidance
 

@@ -23,6 +23,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | shadow-ownership | 3 | Engineering Leadership |
 | ecosystem-blind-spot | 2 | Engineering Leadership |
 | linux-networking | 4 | Systems & Linux |
+| better-health-decisions | 3 | Health series; no reading path |
 
 ## Reading paths (manual curation)
 
@@ -88,5 +89,5 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 
 ## Cross-section
 
-- Health: Teaching with Bio-Dynamics, probiotics cluster (4 posts)
+- Health: Teaching with Bio-Dynamics, probiotics cluster (4 posts), Making Better Health Decisions (3 posts)
 - Electronics: device debug, intermittent faults
