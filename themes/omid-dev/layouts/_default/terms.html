@@ -225,7 +225,7 @@
     <footer class="discovery-index-footer">
       <a href="{{ "/posts/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_posts" }}</a>
       {{- if $isTags }}
-      <a href="{{ "/posts/techblog/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_tech_posts" }} <span class="chip__arrow" aria-hidden="true"></span></a>
+      <a href="{{ "/categories/" | relLangURL }}" class="chip chip--pill">{{ i18n "browse_categories" }} <span class="chip__arrow" aria-hidden="true"></span></a>
       <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
       {{- else if $isCategories }}
       <a href="{{ "/series/" | relLangURL }}" class="chip chip--pill">{{ i18n "view_all_series" }} <span class="chip__arrow" aria-hidden="true"></span></a>
