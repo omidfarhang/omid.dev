@@ -11,6 +11,10 @@
             padding: 0;
             box-sizing: border-box;
         }
+
+        html {
+            min-height: 100%;
+        }
         
         body {
             font-family: "Source Serif 4", "Times New Roman", Times, serif;
@@ -18,14 +22,19 @@
             line-height: 1.35;
             color: #000;
             background: #fff;
-            padding: 15px 25px;
-            max-width: 210mm;
-            margin: 0 auto;
+            margin: 0;
         }
 
         body:lang(fa) {
             font-family: Vazirmatn, sans-serif;
             font-size: 10pt;
+        }
+
+        .resume-sheet {
+            padding: 15px 25px;
+            max-width: 210mm;
+            margin: 0 auto;
+            background: #fff;
         }
         
         h1 {
@@ -206,7 +215,13 @@
 
         @media print {
             body {
+                background: #fff;
+            }
+
+            .resume-sheet {
                 padding: 5mm 10mm;
+                max-width: none;
+                box-shadow: none;
             }
             
             .section {
@@ -216,44 +231,85 @@
             h1, h2, h3 {
                 page-break-after: avoid;
             }
+
+            .no-print {
+                display: none !important;
+            }
         }
         
         @media screen {
+            /* Soft desk stage: translucent washes + fine grain. Screen only. */
             body {
-                box-shadow: 0 0 10px rgba(0,0,0,0.1);
-                margin: 20px auto;
+                min-height: 100vh;
+                padding: 24px 16px 48px;
+                background-color: #e6e6e2;
+                background-image:
+                    radial-gradient(ellipse 90% 55% at 50% -10%, rgba(255, 255, 255, 0.72), transparent 55%),
+                    radial-gradient(ellipse 45% 35% at 0% 100%, rgba(0, 0, 0, 0.045), transparent 70%),
+                    radial-gradient(ellipse 40% 30% at 100% 85%, rgba(0, 0, 0, 0.04), transparent 70%),
+                    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent 40%),
+                    url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+                background-attachment: fixed;
             }
-            
+
+            .resume-stage {
+                max-width: 210mm;
+                margin: 0 auto;
+            }
+
             .no-print {
-                text-align: center;
-                padding: 15px;
-                background: #f8f9fa;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 8px;
+                padding: 12px 14px;
                 margin-bottom: 20px;
-                border-radius: 5px;
+                border-radius: 10px;
+                background: rgba(255, 255, 255, 0.45);
+                border: 1px solid rgba(255, 255, 255, 0.65);
+                box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+                backdrop-filter: blur(14px) saturate(1.2);
+                -webkit-backdrop-filter: blur(14px) saturate(1.2);
             }
             
             .print-btn {
                 font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-                background: #000;
+                background: #111;
                 color: #fff;
-                padding: 10px 20px;
+                padding: 10px 18px;
                 border: none;
-                border-radius: 4px;
+                border-radius: 6px;
                 cursor: pointer;
                 font-size: 11pt;
-                margin: 0 5px;
                 text-decoration: none;
-                display: inline-block;
+                display: inline-flex;
+                align-items: center;
+                gap: 0.4em;
             }
             
             .print-btn:hover {
                 background: #333;
             }
+
+            .resume-sheet {
+                margin: 0 auto;
+                border-radius: 2px;
+                box-shadow:
+                    0 1px 1px rgba(0, 0, 0, 0.04),
+                    0 12px 28px rgba(0, 0, 0, 0.08),
+                    0 40px 64px rgba(0, 0, 0, 0.06);
+            }
         }
-        
-        @media print {
+
+        @media screen and (prefers-reduced-motion: reduce) {
+            body {
+                background-attachment: scroll;
+            }
+
             .no-print {
-                display: none !important;
+                backdrop-filter: none;
+                -webkit-backdrop-filter: none;
+                background: rgba(255, 255, 255, 0.85);
             }
         }
     </style>
@@ -268,111 +324,114 @@
     {{- end }}
 </head>
 <body>
-    <div class="no-print">
-        <button class="print-btn" onclick="window.print()">
-            <i class="fa-solid fa-print"></i> {{ T "print_save_pdf" }}
-        </button>
-        {{- $pdfName := "OmidFarhang-Resume.pdf" -}}
-        {{- if eq .Site.Language.Lang "de" -}}
-          {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
-        {{- else if eq .Site.Language.Lang "fa" -}}
-          {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
-        {{- end -}}
-        <a class="print-btn" href="{{ printf "resume/%s" $pdfName | relURL }}" target="_blank">
-            <i class="fa-solid fa-download"></i> {{ T "download_pdf" }}
-        </a>
-        <a class="print-btn" href="{{ "resume" | relLangURL }}">
-            <i class="fa-solid {{ if eq .Language.Direction "rtl" }}fa-arrow-right{{ else }}fa-arrow-left{{ end }}"></i> {{ T "back_to_resume" }}
-        </a>
-    </div>
+    <div class="resume-stage">
+        <div class="no-print">
+            <button class="print-btn" onclick="window.print()">
+                <i class="fa-solid fa-print"></i> {{ T "print_save_pdf" }}
+            </button>
+            {{- $pdfName := "OmidFarhang-Resume.pdf" -}}
+            {{- if eq .Site.Language.Lang "de" -}}
+              {{- $pdfName = "OmidFarhang-Resume-De.pdf" -}}
+            {{- else if eq .Site.Language.Lang "fa" -}}
+              {{- $pdfName = "OmidFarhang-Resume-Fa.pdf" -}}
+            {{- end -}}
+            <a class="print-btn" href="{{ printf "resume/%s" $pdfName | relURL }}" target="_blank">
+                <i class="fa-solid fa-download"></i> {{ T "download_pdf" }}
+            </a>
+            <a class="print-btn" href="{{ "resume" | relLangURL }}">
+                <i class="fa-solid {{ if eq .Language.Direction "rtl" }}fa-arrow-right{{ else }}fa-arrow-left{{ end }}"></i> {{ T "back_to_resume" }}
+            </a>
+        </div>
 
-    <div class="resume-header">
-        <h1>{{ $resume.name }}</h1>
-        <h2>{{ $resume.title }}</h2>
-        
-        <div class="contact-info">
-            <div class="contact-line">
-                <span class="contact-item">{{ $resume.contact.phone }}</span>
-                <span class="contact-item"><a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></span>
-                {{- $site := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" $resume.contact.website)) }}
-                <span class="contact-item"><a href="{{ $resume.contact.website }}">{{ $site }}</a></span>
-            </div>
-            <div class="contact-line">
-                {{- range slice $resume.contact.linkedin $resume.contact.github $resume.contact.xing }}
-                {{- $display := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" .)) -}}
-                <span class="contact-item"><a href="{{ . }}">{{ $display }}</a></span>
-                {{- end }}
-            </div>
-        </div>
-    </div>
-
-    <div class="section">
-        <div class="section-header">
-            <h3>{{ T "summary" }}</h3>
-        </div>
-        <div class="section-content">
-            <p class="summary-text">{{ $resume.summary }}</p>
-        </div>
-    </div>
-
-    <div class="section">
-        <div class="section-header">
-            <h3>{{ T "skills" }}</h3>
-        </div>
-        <div class="section-content">
-            <ul class="skills-list">
-                {{ range $resume.skills }}
-                <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
-                {{ end }}
-            </ul>
-        </div>
-    </div>
-
-    <div class="section">
-        <div class="section-header">
-            <h3>{{ T "experience" }}</h3>
-        </div>
-        <div class="section-content">
-            {{ range $resume.experience }}
-            <div class="experience-item">
-                <div class="job-header">
-                    <span class="job-title">{{ .title }}</span>
-                    <span class="period">{{ .period }}</span>
+        <article class="resume-sheet">
+            <div class="resume-header">
+                <h1>{{ $resume.name }}</h1>
+                <h2>{{ $resume.title }}</h2>
+                
+                <div class="contact-info">
+                    <div class="contact-line">
+                        <span class="contact-item">{{ $resume.contact.phone }}</span>
+                        <span class="contact-item"><a href="mailto:{{ $resume.contact.email }}">{{ $resume.contact.email }}</a></span>
+                        {{- $site := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" $resume.contact.website)) }}
+                        <span class="contact-item"><a href="{{ $resume.contact.website }}">{{ $site }}</a></span>
+                    </div>
+                    <div class="contact-line">
+                        {{- range slice $resume.contact.linkedin $resume.contact.github $resume.contact.xing }}
+                        {{- $display := strings.TrimPrefix "www." (strings.TrimPrefix "https://" (strings.TrimPrefix "http://" .)) -}}
+                        <span class="contact-item"><a href="{{ . }}">{{ $display }}</a></span>
+                        {{- end }}
+                    </div>
                 </div>
-                <div class="company-info">{{ .company }}</div>
-                {{ if .description }}
-                <p class="job-description">{{ .description }}</p>
-                {{ end }}
-                {{ if .responsibilities }}
-                <ul class="responsibilities">
-                    {{ range .responsibilities }}
-                    <li>{{ . }}</li>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <h3>{{ T "summary" }}</h3>
+                </div>
+                <div class="section-content">
+                    <p class="summary-text">{{ $resume.summary }}</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <h3>{{ T "skills" }}</h3>
+                </div>
+                <div class="section-content">
+                    <ul class="skills-list">
+                        {{ range $resume.skills }}
+                        <li><strong>{{ .category }}:</strong> {{ delimit .items ", " }}</li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <h3>{{ T "experience" }}</h3>
+                </div>
+                <div class="section-content">
+                    {{ range $resume.experience }}
+                    <div class="experience-item">
+                        <div class="job-header">
+                            <span class="job-title">{{ .title }}</span>
+                            <span class="period">{{ .period }}</span>
+                        </div>
+                        <div class="company-info">{{ .company }}</div>
+                        {{ if .description }}
+                        <p class="job-description">{{ .description }}</p>
+                        {{ end }}
+                        {{ if .responsibilities }}
+                        <ul class="responsibilities">
+                            {{ range .responsibilities }}
+                            <li>{{ . }}</li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
+                        {{ if .skills }}
+                        <div class="job-skills">
+                            <strong>{{ T "skills" }}:</strong> {{ delimit .skills ", " }}
+                        </div>
+                        {{ end }}
+                    </div>
                     {{ end }}
-                </ul>
-                {{ end }}
-                {{ if .skills }}
-                <div class="job-skills">
-                    <strong>{{ T "skills" }}:</strong> {{ delimit .skills ", " }}
                 </div>
-                {{ end }}
             </div>
-            {{ end }}
-        </div>
-    </div>
 
-    <div class="section">
-        <div class="section-header">
-            <h3>{{ T "certifications" }}</h3>
-        </div>
-        <div class="section-content">
-            {{ range $resume.certifications }}
-            <div class="cert-item">
-                <div class="cert-title">{{ .title }} - {{ .provider }}</div>
-                <div class="cert-details">{{ .institution }} ({{ .year }})</div>
+            <div class="section">
+                <div class="section-header">
+                    <h3>{{ T "certifications" }}</h3>
+                </div>
+                <div class="section-content">
+                    {{ range $resume.certifications }}
+                    <div class="cert-item">
+                        <div class="cert-title">{{ .title }} - {{ .provider }}</div>
+                        <div class="cert-details">{{ .institution }} ({{ .year }})</div>
+                    </div>
+                    {{ end }}
+                </div>
             </div>
-            {{ end }}
-        </div>
+        </article>
     </div>
-
 </body>
 </html>
