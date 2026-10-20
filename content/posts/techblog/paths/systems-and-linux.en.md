@@ -47,17 +47,23 @@ Start the [Advanced Networking in Linux](/2024/06/21/advanced-networking-in-linu
 
 19. **[Advanced Shell Scripting Techniques](/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)** — Bash patterns for automating repetitive sysadmin and dev workflows.
 
+## Self-hosted services
+
+Start [Frameworkless PHP on One Host](/2026/10/14/background-jobs-without-a-queue-php-apache/) for a four-part case study in operating a small private service. Follow in-post series navigation through yt-dlp operations, WebAuthn/TOTP, and per-user cloud OAuth.
+
+20. **[Background Jobs Without a Queue](/2026/10/14/background-jobs-without-a-queue-php-apache/)** — Durable job rows and post-response PHP on Apache, including the point where this pattern should become a real worker.
+
 ## Observability
 
 Follow the [Observability](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/) series, then the hardware-debugging pair:
 
-20. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
-21. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
-22. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
+21. **[OpenTelemetry in Angular: Distributed Tracing](/2024/06/28/building-a-distributed-tracing-system-with-opentelemetry-in-angular-applications/)** — Step-by-step guide to instrumenting an Angular app for distributed tracing.
+22. **[Debugging Radio vs Microservices](/2025/12/26/debugging-radio-vs-microservices/)** — What vintage hardware debugging teaches about observability in distributed systems.
+23. **[Troubleshooting Intermittent Faults in Vintage Circuits](/2026/01/01/troubleshooting-intermittent-faults-electronics/)** — Hunting ghost bugs in hardware — same mindset as flaky distributed systems.
 
 ## Resilience
 
-23. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
+24. **[Chaos Engineering: Principles and Practice](/2024/06/06/chaos-engineering/)** — Start the Chaos Engineering series (3 posts) for frontend and backend resilience patterns.
 
 ## Related paths
 

@@ -23,6 +23,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 | shadow-ownership | 3 | Engineering Leadership |
 | ecosystem-blind-spot | 2 | Engineering Leadership |
 | linux-networking | 4 | Systems & Linux |
+| frameworkless-php-host | 4 | Systems & Linux |
 | better-health-decisions | 3 | Health series; no reading path |
 
 ## Reading paths (manual curation)
@@ -80,6 +81,7 @@ Tag rules for choosing and retagging facets: [`docs/tag-strategy.md`](./tag-stra
 - Maintainable Command-Line Workspace on Linux (terminal, shell, multiplexer, dotfiles, and SSH overview)
 - Cursor on Manjaro, oh-my-zsh, Docker, K8s, Beyond K8s, shell scripting
 - Advanced Networking in Linux series (4): VLANs/bonding/bridging, router/nftables, namespaces/veth, VXLAN/CNI
+- Frameworkless PHP on One Host series (4): post-response jobs, yt-dlp operations, WebAuthn/TOTP, and per-user cloud OAuth
 
 ## AI & knowledge (standalone, AI & Data Tools path)
 
