@@ -22,6 +22,6 @@ Due to Vista's performance issues on cheap netbooks, Microsoft had to extend the
 
 XP was first released to retail channels on October 25, 2001. In recent years, the OS has become a thorn in Microsoft's side as the company tries to push the operating system's successors. Despite its outdated security systems and other issues related to being a nine-year old OS, many users still cling to it due to familiarity. In fact, it's still the most popular operating system in terms of market share.
 
-In related news, Windows 7 turns one today. Despite XP's popularity, it has been growing the fastest of any operating system to date. In its first year it has already [sold 240 million licenses](http://boelectronic.blogspot.com/2010/10/windows-7-year-one-240-million-licenses.html). Microsoft hopes to push more users to it with releases that use hardware acceleration only available on Windows Vista and Windows 7. So far, these include Windows Live Essentials 2011 and Internet Explorer 9, neither of which can be installed on Windows XP.
+In related news, Windows 7 turns one today. Despite XP's popularity, it has been growing the fastest of any operating system to date. In its first year it has already [sold 240 million licenses](/2010/10/22/windows-7-year-one-240-million-licenses-sold/). Microsoft hopes to push more users to it with releases that use hardware acceleration only available on Windows Vista and Windows 7. So far, these include Windows Live Essentials 2011 and Internet Explorer 9, neither of which can be installed on Windows XP.
 
 _Taken from TechSpot_

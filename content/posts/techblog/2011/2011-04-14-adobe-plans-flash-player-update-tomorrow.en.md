@@ -16,7 +16,7 @@ categories:
 ---
 [![](/images/2011/04/adobe-logo-5e6de37e.jpg)](/images/2011/04/adobe-logo-3ee9f376.jpg)
 
-**Avira TechBlog:** This is good news – for the recently acknowledged [zero-day security vulnerability](http://boelectronic.blogspot.com/2011/04/zero-day-vulnerability-in-adobe-flash.htmlr-and-acrobat/en/) within Adobe Flash Player, Acrobat and Reader there will be a first update available tomorrow. Adobe updated their [security advisory](http://www.adobe.com/support/security/advisories/apsa11-02.html) on that matter to reflect the update schedule – the Flash player update fixing the vulnerability for Windows, Mac, Linux and Solaris will be available tomorrow, Friday, April 15.
+**Avira TechBlog:** This is good news – for the recently acknowledged [zero-day security vulnerability](/2011/04/12/zero-day-vulnerability-in-adobe-flash-player-reader-and-acrobat/) within Adobe Flash Player, Acrobat and Reader there will be a first update available tomorrow. Adobe updated their [security advisory](http://www.adobe.com/support/security/advisories/apsa11-02.html) on that matter to reflect the update schedule – the Flash player update fixing the vulnerability for Windows, Mac, Linux and Solaris will be available tomorrow, Friday, April 15.
 
 For the also vulnerable Adobe Reader and Acrobat, updates [are planned](http://blogs.adobe.com/psirt/2011/04/update-on-security-advisory-for-adobe-flash-player-adobe-reader-and-acrobat-apsa11-02.html) “no later than the week of April 25, 2011″. The only exception is Adobe Reader X for Windows which will be updated on the regular planned Patchday on June 14, as the integrated sandbox prevents successful exploitation there according to Adobe.
 

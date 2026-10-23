@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-A few days ago, I blogged saying that [Old websites don’t die they just get infected](http://boelectronic.blogspot.com/2010/02/trojiframe-dy-old-websites-dont-die.html) the other scenario is that they become part of a spammers SEO campaign.
+A few days ago, I blogged saying that [Old websites don’t die they just get infected](/2010/02/26/trojiframe-dy-old-websites-dont-die-they-just-get-infected/) the other scenario is that they become part of a spammers SEO campaign.
 
 Working today, I went to check to see if the local police authority had cleaned up their old web page. So I [wgetted](http://www.gnu.org/software/wget/) the file and scanned it. It was no longer infected (hooray!) but the file was quite big. Opening the file in lynx (a simple web  
 browser) I saw:

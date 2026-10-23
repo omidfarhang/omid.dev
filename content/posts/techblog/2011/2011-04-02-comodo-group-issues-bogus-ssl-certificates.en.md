@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-**from** [**Schneier on Security**](http://boelectronic.blogspot.com/www.schneier.com) **by Schneier:**
+**from** [**Schneier on Security**](https://www.schneier.com/) **by Schneier:**
 
 [![Comodo_ssl](http://lh6.ggpht.com/_vaUVXcmC3OI/TZbataFG2ZI/AAAAAAAADzg/n-Zbjz-v6rA/Comodo_ssl%5B5%5D.jpg?imgmax=800)This](http://www.wired.com/threatlevel/2011/03/comodo-compromise/) isn't good:
 

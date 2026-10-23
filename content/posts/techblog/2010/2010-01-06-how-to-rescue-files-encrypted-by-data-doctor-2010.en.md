@@ -29,4 +29,4 @@ All files in the encrypted_files folder will be processed and the new decrypted 
 
 CAUTION: be sure you put ONLY files that are to be decrypted into the target directory before you run dd2010_decrypter.exe
 
-My Dec. 19 blog post [Data Doctor 2010 will make you sick](http://boelectronic.blogspot.com/2009/12/data-doctor-2010-will-make-you-sick.html)
+My Dec. 19 blog post [Data Doctor 2010 will make you sick](/2009/12/19/data-doctor-2010-will-make-you-sick/)

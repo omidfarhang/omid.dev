@@ -21,4 +21,4 @@ Jerry Bryant, Microsoft’s senior security communications manager lead, writing
 
 Microsoft TechNet blog [here](http://blogs.technet.com/msrc/archive/2010/03/02/update-ms10-015-security-update-re-released-with-new-detection-logic.aspx).
 
-We described the problem on the Omid's Blog! Feb. 13 “[WinXP users: hold off on installing MS010–15 \[BSOD\]](http://boelectronic.blogspot.com/2010/02/winxp-users-hold-off-on-installing.html)”.
+We described the problem on the Omid's Blog! Feb. 13 “[WinXP users: hold off on installing MS010–15 \[BSOD\]](/2010/02/12/winxp-users-hold-off-on-installing-ms010-15-bsod/)”.

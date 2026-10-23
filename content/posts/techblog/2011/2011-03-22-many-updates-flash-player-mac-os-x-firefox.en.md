@@ -32,10 +32,10 @@ Apple also released new software: Mac OS 10.6.7, also known as [Security Update 
 
 ![logo-wordmark-version-vertical-4](http://lh6.ggpht.com/_vaUVXcmC3OI/TYhana4YYVI/AAAAAAAADxM/PUfyjf0LWvQ/s1600-h/logo-wordmark-version-vertical-4%5B9%5D.png)
 
-And then there are the Mozilla developers which just updated the last Release Candidate 2 of the Firefox 4 web browser before the weekend. It is meant to be released as [the final version](http://boelectronic.blogspot.com/2011/03/firefox-40-final-is-released.html) today, too. Next to more speed and a fresh, leaner and cleaner look (like a mix between Chrome and Safari), the software increases security quite a bit.
+And then there are the Mozilla developers which just updated the last Release Candidate 2 of the Firefox 4 web browser before the weekend. It is meant to be released as [the final version](/2011/03/21/firefox-4-0-final-is-released/) today, too. Next to more speed and a fresh, leaner and cleaner look (like a mix between Chrome and Safari), the software increases security quite a bit.
 
 One of the most important changes in Firefox 4 is that like with Google Chrome, updates get delivered and installed automatically in the background. Unlike Google, new major version like 4.5 or 5.0 are not planned to be installed automatically, the Mozilla developers [made clear though](http://groups.google.com/group/mozilla.dev.apps.firefox/browse_thread/thread/f5ecfc8461cf0756?pli=1). Also, the automatic updater is currently only planned for the Windows version.
 
 This is a great step forward to make computers more secure. Cyber criminals smuggle their malware like Trojans onto their victims PCs by abusing security vulnerabilities in outdated software most often. By installing the most recent version without security holes this gateway gets closed fast and automatically.
 
-Thus Firefox users should [download](http://boelectronic.blogspot.com/2011/03/firefox-40-final-is-released.html) and install the new 4.0 version if possible. The update should be available through the update mechanism already – thus clicking on the “Help” menu and selecting “Check for updates” will make the update process start fast.
+Thus Firefox users should [download](/2011/03/21/firefox-4-0-final-is-released/) and install the new 4.0 version if possible. The update should be available through the update mechanism already – thus clicking on the “Help” menu and selecting “Check for updates” will make the update process start fast.

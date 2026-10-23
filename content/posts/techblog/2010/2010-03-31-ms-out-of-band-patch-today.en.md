@@ -23,4 +23,4 @@ There’s something in it for IE8 as well.
 
 [![](/images/2010/03/MS_update_2.jpg)](/images/2010/03/MS_update_2-618d1a64.jpg)
 
-See our post yesterday: “[Microsoft out-of-band patch tomorrow](http://boelectronic.blogspot.com/2010/03/microsoft-out-of-band-patch-tomorrow.html)”
+See our post yesterday: “[Microsoft out-of-band patch tomorrow](/2010/03/30/microsoft-out-of-band-patch-tomorrow/)”

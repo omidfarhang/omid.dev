@@ -18,7 +18,7 @@ tags:
 categories:
   - TechBlog
 ---
-_In Additional to my last Post_: <http://boelectronic.blogspot.com/2010/03/free-fakeav-at-virus-total-thats-not.html>
+Follow up from: [Free FakeAV at Virus-Total (That’s not VirusTotal)](/2010/03/01/free-fakeav-at-virus-total-thats-not-virustotal/)
 
 [VirusTotal.com](http://www.virustotal.com/) [<http://en.wikipedia.org/wiki/VirusTotal.com>] is a brilliant site that helps both public and researchers alike determine if an executable file they have is potentially malicious or not.
 

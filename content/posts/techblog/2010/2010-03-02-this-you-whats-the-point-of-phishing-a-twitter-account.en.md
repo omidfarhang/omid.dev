@@ -17,7 +17,7 @@ tags:
 categories:
   - TechBlog
 ---
-In Additional to my last post: <http://boelectronic.blogspot.com/2010/03/twitter-phished-its-easy-mistake.html>
+Follow up from: [Twitter phished? It's an easy mistake](/2010/03/02/twitter-phished-its-an-easy-mistake/)
 
 We've received some questions regarding [recent phishing attacks](http://twitter.com/safety/status/9594038576) conducted against Twitter.com.
 

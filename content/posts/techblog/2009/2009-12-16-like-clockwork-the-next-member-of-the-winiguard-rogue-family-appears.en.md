@@ -24,4 +24,4 @@ Fraudulent operators behind the rogues seem to be doing two things to confuse In
 
 [![](/images/2009/12/TheDefend-FakeSmoke_GUI.jpg)](/images/2009/12/TheDefend-FakeSmoke_GUI-b1a5c250.jpg)
 
-See our earlier blog entry about the [WiniGuard family of rogues](http://boelectronic.blogspot.com/2009/12/biggest-rogue-family.html).
+See our earlier blog entry about the [WiniGuard family of rogues](/2009/12/15/the-biggest-rogue-family/).

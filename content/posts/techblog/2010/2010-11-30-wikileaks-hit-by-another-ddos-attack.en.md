@@ -18,9 +18,9 @@ categories:
 ---
 ![wikileaks-225](http://lh4.ggpht.com/_vaUVXcmC3OI/TPVveG5q6YI/AAAAAAAADTE/sjB6Cwbko9c/s1600-h/wikileaks-225%5B3%5D.jpg)
 
-Controversial whistleblower website WikiLeaks was hit by another massive distributed denial of service (DDoS) attack earlier this morning. On Sunday, the site was taken down for several hours via a sustained [DDoS attack](http://boelectronic.blogspot.com/2010/11/wikileaks-targeted-in-ddos-attack-as.html), just hours before the release of thousands of secret U.S. documents. 
+Controversial whistleblower website WikiLeaks was hit by another massive distributed denial of service (DDoS) attack earlier this morning. On Sunday, the site was taken down for several hours via a sustained [DDoS attack](/2010/11/28/wikileaks-targeted-in-ddos-attack-as-latest-leak-hits-the-web/), just hours before the release of thousands of secret U.S. documents. 
 
-Responsibility for Sunday’s attack was [claimed by a single hacker](http://boelectronic.blogspot.com/2010/12/hacker-takes-responsibility-for.html), the Jester, though many are skeptical that it was the work of just one person.
+Responsibility for Sunday’s attack was [claimed by a single hacker](/2010/11/30/hacker-takes-responsibility-for-wikileaks-takedown/), the Jester, though many are skeptical that it was the work of just one person.
 
 Today’s attack, which was initially focused on <http://cablegate.wikileaks.org/>, has been much more intense. At 9:00 a.m. ET, WikiLeaks [tweeted](http://twitter.com/#!/wikileaks/status/9609091915718656), “DDOS attack now exceeding 10 Gigabits a second.”
 

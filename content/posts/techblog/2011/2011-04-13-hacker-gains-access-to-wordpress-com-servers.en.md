@@ -27,4 +27,4 @@ While Automattic is down playing the leak, site source code includes API keys li
 
 Automattic says that the investigation “is ongoing.” I’ve contacted Automattic for more information and will update this post when I hear back.
 
-Updated: [Follow up: Hacker Gains Access To WordPress.com Servers, Site Source Code Exposed](http://boelectronic.blogspot.com/2011/04/follow-up-hacker-gains-access-to.html)
+Updated: [Follow up: Hacker Gains Access To WordPress.com Servers, Site Source Code Exposed](/2011/04/13/follow-up-hacker-gains-access-to-wordpress-com-servers-site-source-code-exposed/)

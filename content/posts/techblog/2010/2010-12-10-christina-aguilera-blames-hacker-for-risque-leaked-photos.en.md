@@ -30,7 +30,7 @@ What's most interesting to us, though, is that the photographs appear to have no
 
 Hey, it makes a change from blaming WikiLeaks I guess..
 
-There seem to have been a stream of celebrities who have had their computers (or those belonging to close associates) broken into of late. Earlier this month we spoke about how German authorities believe they have caught two hackers thought to have broken into the computers of [over 50 pop stars](http://boelectronic.blogspot.com/2010/12/hackers-use-malware-to-break-into.html), including Lady Gaga, Kelly Clarkson and Justin Timberlake.
+There seem to have been a stream of celebrities who have had their computers (or those belonging to close associates) broken into of late. Earlier this month we spoke about how German authorities believe they have caught two hackers thought to have broken into the computers of [over 50 pop stars](/2010/12/06/hackers-use-malware-to-break-into-computers-of-over-50-pop-stars/), including Lady Gaga, Kelly Clarkson and Justin Timberlake.
 
 Interestingly, it is now being [reported](http://www.guardian.co.uk/music/2010/dec/09/hacker-sorry-lady-gaga-justin-timberlake) that one of the hackers – named only as Deniz A or “DJ Stolen”, has written a letter to Lady GaGa apologising for his actions:
 

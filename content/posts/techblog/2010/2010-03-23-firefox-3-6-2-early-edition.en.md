@@ -20,7 +20,7 @@ categories:
 
 Mozilla Foundation has released version 3.6.2 of its Firefox browser a week early. The group had said the update would be available March 30.
 
-The update fixes a widely reported vulnerability (CVE-2010-1028) that prompted Germany’s CERT to advise Web users to switch to another browser until a fix was made. (My blog post “[Germany’s CERT warns against Firefox use](http://boelectronic.blogspot.com/2010/03/germanys-cert-warns-against-firefox-use.html)” )
+The update fixes a widely reported vulnerability (CVE-2010-1028) that prompted Germany’s CERT to advise Web users to switch to another browser until a fix was made. (My blog post “[Germany’s CERT warns against Firefox use](/2010/03/22/germanys-cert-warns-against-firefox-use/)” )
 
 Intevydis researcher Evgeny Legerov  had found that Wide Open Font Format decoder in Firefox had an integer overflow in its font decompression mechanism. The flaw involved a memory buffer that was too small to handle a downloadable font. Legerov had found that exploiting the vulnerability could crash a victim's browser making it possible to run arbitrary code on the system.
 

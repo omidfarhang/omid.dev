@@ -11,7 +11,7 @@ tags:
 categories:
   - TechBlog
 ---
-After the **[Spring](http://boelectronic.blogspot.com/2010/03/download-official-spring-theme-pack-for.html)** theme pack Microsoft has released a beautiful **Life theme**. It consists of five beautiful Discovery channel wallpapers based on wild life and nature.
+After the **[Spring](/2010/03/04/download-official-spring-theme-pack-for-windows-7/)** theme pack Microsoft has released a beautiful **Life theme**. It consists of five beautiful Discovery channel wallpapers based on wild life and nature.
 
 [![](/images/2010/03/life-themepack.png)](/images/2010/03/life-themepack-d65fff6d.png)
 

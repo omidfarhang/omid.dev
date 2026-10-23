@@ -16,7 +16,7 @@ tags:
 categories:
   - TechBlog
 ---
-Follow up from: [Hacker Gains Access To WordPress.com Servers](http://boelectronic.blogspot.com/2011/04/hacker-gains-access-to-wordpresscom.html)
+Follow up from: [Hacker Gains Access To WordPress.com Servers](/2011/04/13/hacker-gains-access-to-wordpress-com-servers/)
 
 [![](/images/2011/04/wordpress.png)](/images/2011/04/wordpress-7a24556e.png)
 

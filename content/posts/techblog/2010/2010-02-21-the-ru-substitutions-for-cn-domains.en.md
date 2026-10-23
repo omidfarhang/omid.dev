@@ -12,7 +12,7 @@ tags:
 categories:
   - TechBlog
 ---
-In the month of January, we [reported a drop in .cn spam](http://boelectronic.blogspot.com/2009/12/cnnic-changes-have-effect-on-spam.html). This was due to changes in the domain registration process introduced by CNNIC. In the first week of February, the .cn spam volume fell further and fluctuated between 0 and 4 percent of total URL spam.
+In the month of January, we [reported a drop in .cn spam](/2009/12/19/cnnic-changes-have-effect-on-spam-tactics/). This was due to changes in the domain registration process introduced by CNNIC. In the first week of February, the .cn spam volume fell further and fluctuated between 0 and 4 percent of total URL spam.
 
 Another interesting trend was observed during this period. On January 21 the volume of spam containing the .ru top-level domain (TLD) spiked up to 9 percent, and rose further up to close to 40 percent on February 8. Upon closer analysis, it was observed that the .cn domains used in the health spam attacks had been replaced with .ru domains.
 
