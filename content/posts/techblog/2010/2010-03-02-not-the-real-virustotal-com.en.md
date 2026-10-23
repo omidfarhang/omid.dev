@@ -38,7 +38,7 @@ Yes, we have some Rogue Antivirus advertising in the house, to the tune of “Yo
 
 [![](/images/2010/03/fakevt3.jpg)](/images/2010/03/fakevt3-b43fd9d2.jpg)
 
-Should you download and run the executable file offered up by the site, you’ll end up with the rogue [Security Tool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) on your system.
+Should you download and run the executable file offered up by the site, you’ll end up with the rogue [Security Tool](/2009/10/05/securitytool/) on your system.
 
 [![](/images/2010/03/fakevt4.jpg)](/images/2010/03/fakevt4-839b875b.jpg)
 

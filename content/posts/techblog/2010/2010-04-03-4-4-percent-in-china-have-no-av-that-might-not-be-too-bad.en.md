@@ -30,4 +30,4 @@ They scanned 107,435 machines and found that 28,607 had no up-to-date AV: that�
 
 Of course, SurfRight didn’t break out the group that has no AV installed at all as opposed to those who have it but haven’t updated it.
 
-In any case, they all should be installing an [antivirus](http://sites.google.com/site/boelectronic/computer/security/antivirus).
+In any case, they all should be installing an [antivirus](/2009/01/13/antivirus/).

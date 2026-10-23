@@ -19,7 +19,7 @@ I won't abuse it, I promise…. cross my heart… spit into the wind… etc.
 
 Hi folks,
 
-Yesterday, I received this [SPIM (Instant message spam)](http://sites.google.com/site/boelectronic/computer/safety-tips/instant-messaging) …
+Yesterday, I received this [SPIM (Instant message spam)](/2009/01/13/10-tips-for-safe-instant-messaging/) …
 
 [![](/images/2010/03/6a00e5539a104188340120a95a58b0970b-800wi.png)](/images/2010/03/6a00e5539a104188340120a95a58b0970b-800wi-ee412e18.png)
 

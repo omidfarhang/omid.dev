@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-[SafetyAntispyware](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware) is a new rogue anti-spyware application. However, the functionality follows the same pattern as other rogues.
+[SafetyAntispyware](/2009/12/09/safetyantispyware/) is a new rogue anti-spyware application. However, the functionality follows the same pattern as other rogues.
 
 [![](/images/2009/12/SafetyAntiSpyware_sm.jpg)](/images/2009/12/SafetyAntiSpyware_sm-d0193009.jpg)
 
@@ -21,4 +21,4 @@ First, it will detect some fake infections. Then it will ask the user to license
 
 [![](/images/2009/12/alert_0.jpg)](/images/2009/12/alert_0-23d92c6a.jpg)
 
-For more information [Click Here](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/safetyantispyware).
+For more information [Click Here](/2009/12/09/safetyantispyware/).

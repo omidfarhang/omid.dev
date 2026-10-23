@@ -44,4 +44,4 @@ Installs itself, then scares the user.
 
 Threats found? Don't believe it.
 
-to prevent such problems, keep your Antivirus updated, use a site [advisor such as WOT](http://sites.google.com/site/boelectronic/computer/security/site-advisor) to prevent visiting bad/unknown links, [Immunize your computer](http://sites.google.com/site/boelectronic/computer/security/hosts-file/protect-hostsfile) by blocking known malware domains.
+to prevent such problems, keep your Antivirus updated, use a site [advisor such as WOT](/2009/01/13/site-advisor/) to prevent visiting bad/unknown links, [Immunize your computer](/2009/01/13/protect-hosts-file/) by blocking known malware domains.

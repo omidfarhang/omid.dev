@@ -14,7 +14,7 @@ tags:
 categories:
   - TechBlog
 ---
-Internet Security 2010, It’s a rebranded clone of [Advanced Virus Remover](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/advanced-virus-remover), a rogue security product.
+Internet Security 2010, It’s a rebranded clone of [Advanced Virus Remover](/2009/12/10/advanced-virus-remover/), a rogue security product.
 
 ![](/images/2009/12/InternetSecurity2010_FakeResults.jpg)
 

@@ -38,6 +38,6 @@ Some of the sites were:
 
 The “hosts” file is in the Windows\system32\drivers\etc directory in Win XP, Win7 and Win08 Server – and probably all incarnations of Windows, since browsers are going to look there.
 
-Learn more about [Hosts Here](http://sites.google.com/site/boelectronic/computer/security/hosts-file).
+Learn more about [Hosts Here](/2009/01/13/hosts-file/).
 
 [![](/images/2010/03/hosts_20file.png)](/images/2010/03/hosts_20file-28608848.png)

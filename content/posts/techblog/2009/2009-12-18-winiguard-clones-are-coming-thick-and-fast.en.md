@@ -13,7 +13,7 @@ tags:
 categories:
   - TechBlog
 ---
-Another Clone of [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) family, SysDefence! went live about 3 hours ago. They're flying off the conveyor belt today.
+Another Clone of [WiniGuard](/2009/01/12/winiguard/) family, SysDefence! went live about 3 hours ago. They're flying off the conveyor belt today.
 
 [![](/images/2009/12/SysDefence_GUI.jpg)](/images/2009/12/SysDefence_GUI-244788d7.jpg)
 

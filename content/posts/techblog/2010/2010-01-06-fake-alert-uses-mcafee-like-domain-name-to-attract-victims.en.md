@@ -25,4 +25,4 @@ The infection begins by redirecting the victim to the domain hosting the Trojan 
 
 [![](/images/2010/01/Domain-screenshot.jpg)](/images/2010/01/Domain-screenshot-04223744.jpg)
 
-If the user clicks anything within the browser, the [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) Malware will download.
+If the user clicks anything within the browser, the [SecurityTool](/2009/10/05/securitytool/) Malware will download.

@@ -22,4 +22,4 @@ Symantec has been observing several spam and phishing attacks regarding the rece
 
 Upon entering login information, the page redirects the user to the website of the recent movie “Valentine’s Day” that was released on February 12th. The film includes several big-name celebrities, such as Jessica Alba, Jessica Biel, Bradley Cooper, Ashton Kutcher, Julia Roberts, and many more. It is unclear as to why the attacker has linked the phishing site with this movie. It may be to divert the attention of the user so that he or she may overlook the fact they might have been tricked. Whatever the reason, in the end, users who fall victim to this attack can lose their confidential information.
 
-Internet users are advised to follow best practices to avoid phishing attacks. To learn how to protect yourself from Phishing attacks read [How to reduce the risk of online fraud](http://sites.google.com/site/boelectronic/computer/security/phishing/reduce).
+Internet users are advised to follow best practices to avoid phishing attacks. To learn how to protect yourself from Phishing attacks read [How to reduce the risk of online fraud](/2009/01/13/reduce-online-fraud-risk/).

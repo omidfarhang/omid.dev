@@ -24,6 +24,6 @@ This leads to the familiar:
 
 [![](/images/2009/12/online-scan.jpg)](/images/2009/12/online-scan-05c05f56.jpg)
 
-Which when downloaded installs fake AV branded as “[Security Tool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool)”.
+Which when downloaded installs fake AV branded as “[Security Tool](/2009/10/05/securitytool/)”.
 
 [![](/images/2009/12/sec-tool.jpg)](/images/2009/12/sec-tool-55a538f5.jpg)

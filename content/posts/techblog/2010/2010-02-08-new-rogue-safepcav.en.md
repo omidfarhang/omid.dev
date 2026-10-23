@@ -15,7 +15,7 @@ tags:
 categories:
   - TechBlog
 ---
-The creators behind the rogue antispyware appliaction [WiniGuard](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/winiguard) have released yet another clone of their software. This one is called SafePcAV.
+The creators behind the rogue antispyware appliaction [WiniGuard](/2009/01/12/winiguard/) have released yet another clone of their software. This one is called SafePcAV.
 
 [![](/images/2010/02/safepcav.jpg)](/images/2010/02/safepcav-aa2d6827.jpg)
 

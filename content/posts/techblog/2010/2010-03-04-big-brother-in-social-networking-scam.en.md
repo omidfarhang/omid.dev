@@ -22,4 +22,4 @@ Symantec has observed phishing attacks—against social networking websites—cl
 
 [![](/images/2010/03/bigbrother.png)](/images/2010/03/bigbrother-7a62a5b4.png)
 
-Internet users are advised to follow best practices to avoid phishing attacks. For more information about Phishing and how to prevent it or what to do if you got in trouble with that please refer to [Phishing](http://sites.google.com/site/boelectronic/computer/security/phishing) section in my site.
+Internet users are advised to follow best practices to avoid phishing attacks. For more information about Phishing and how to prevent it or what to do if you got in trouble with that please refer to [Phishing](/2009/01/13/phishing/) section in my site.

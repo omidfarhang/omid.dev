@@ -27,6 +27,6 @@ Here’s what the malicious pages deliver:
 
 [![](/images/2010/02/SecurityTool_GUI.jpg)](/images/2010/02/SecurityTool_GUI-2dabf82d.jpg)
 
-It’s the [SecurityTool](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool) rogue that has been making the rounds since October (Read More [here](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/securitytool).)
+It’s the [SecurityTool](/2009/10/05/securitytool/) rogue that has been making the rounds since October (Read More [here](/2009/10/05/securitytool/).)
 
 Here's the link to the U.S. Department of Energy program that gives rebates for Energy Star appliances [http://www.energysavers.gov/financial/70020.html](http://www.energysavers.gov/financial/70020.html) .

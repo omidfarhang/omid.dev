@@ -15,7 +15,7 @@ categories:
 ---
 **The third generation of WiniGuard gets a new clone every 48 hours**
 
-A new rogue security product called [IGuardPC](http://sites.google.com/site/boelectronic/computer/malware/list-of-common-malwares/iguardpc), is the 50th clone of the WiniGuard family of rogue security products. That makes WiniGuard the largest rogue family ever.
+A new rogue security product called [IGuardPC](/2009/12/14/iguardpc/), is the 50th clone of the WiniGuard family of rogue security products. That makes WiniGuard the largest rogue family ever.
 
 The WiniGuard family began in September of 2008. Operators behind it have added variants that has sorted into three generations. The latest generation gets a new clone about every 48 hours to stay ahead of public awareness and anti-malware detections.
 

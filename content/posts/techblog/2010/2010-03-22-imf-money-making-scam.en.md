@@ -38,4 +38,4 @@ Some things to notice:
 
 Be very careful of such scams. They are on the rise and appear to be extremely enticing. Never ever divulge your personal details and simply delete such e-mails.
 
-Here is a good article to read: [How to handle suspicious e-mail](http://sites.google.com/site/boelectronic/computer/security/spam/how-to-handle-suspicious-e-mail)
+Here is a good article to read: [How to handle suspicious e-mail](/2009/01/13/handle-suspicious-email/)
