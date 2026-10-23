@@ -5,6 +5,7 @@ description: Recognize phishing and related scams, spot six common red flags, an
 layout: single
 author_profile: true
 url: 2009/01/13/reduce-online-fraud-risk/
+shortlink: https://g.omid.dev/26mgbFw
 tags:
   - Safety Tips
   - Guide

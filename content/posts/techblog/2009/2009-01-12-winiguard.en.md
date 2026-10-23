@@ -5,6 +5,7 @@ description: WiniGuard rogue antispyware dossier — scareware UI, $49.95 unlock
 layout: single
 author_profile: true
 url: 2009/01/12/winiguard/
+shortlink: https://g.omid.dev/CFhBm7q
 tags:
   - Malware
   - rogue software

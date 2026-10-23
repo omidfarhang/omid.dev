@@ -5,6 +5,7 @@ description: Lock the Windows hosts file so malware cannot hijack DNS mappings â
 layout: single
 author_profile: true
 url: 2009/01/13/protect-hosts-file/
+shortlink: https://g.omid.dev/zsTloHf
 tags:
   - Safety Tips
   - Guide

@@ -5,6 +5,7 @@ description: A 2009-era primer on antivirus — signature scanning, heuristics, 
 layout: single
 author_profile: true
 url: 2009/01/13/antivirus/
+shortlink: https://g.omid.dev/kHuyOXz
 tags:
   - Safety Tips
   - Guide

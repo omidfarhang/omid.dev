@@ -5,6 +5,7 @@ description: SafetyAntiSpyware rogue dossier — fake detections, license nags, 
 layout: single
 author_profile: true
 url: 2009/12/09/safetyantispyware/
+shortlink: https://g.omid.dev/7OPW3G6
 tags:
   - Malware
   - rogue software

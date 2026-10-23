@@ -5,6 +5,7 @@ description: SecurityTool scareware dossier — fake infection pop-ups, bogus st
 layout: single
 author_profile: true
 url: 2009/10/05/securitytool/
+shortlink: https://g.omid.dev/FU6FV0R
 tags:
   - Malware
   - rogue software

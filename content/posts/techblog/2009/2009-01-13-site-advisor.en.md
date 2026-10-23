@@ -5,6 +5,7 @@ description: What website reputation / site-advisor tools do — crowd-sourced g
 layout: single
 author_profile: true
 url: 2009/01/13/site-advisor/
+shortlink: https://g.omid.dev/XcdeG0D
 tags:
   - Safety Tips
   - Guide

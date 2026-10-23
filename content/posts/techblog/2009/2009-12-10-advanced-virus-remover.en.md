@@ -5,6 +5,7 @@ description: Advanced Virus Remover scareware — Trojan and ad-driven installs,
 layout: single
 author_profile: true
 url: 2009/12/10/advanced-virus-remover/
+shortlink: https://g.omid.dev/BifTdJM
 tags:
   - Malware
   - rogue software

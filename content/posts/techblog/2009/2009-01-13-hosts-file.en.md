@@ -5,6 +5,7 @@ description: How the local hosts file works as an address book for hostnames —
 layout: single
 author_profile: true
 url: 2009/01/13/hosts-file/
+shortlink: https://g.omid.dev/AkXRXMR
 tags:
   - Safety Tips
   - Guide
