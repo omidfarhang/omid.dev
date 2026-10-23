@@ -1,6 +1,7 @@
 ---
 title: The biggest rogue family
 date: 2009-12-15T21:36:00+00:00
+description: Genealogy of the WiniGuard rogue family — three generations and ~50 clones by mid-December 2009, with IGuardPC as the then-latest rebrand.
 layout: single
 author_profile: true
 url: 2009/12/15/the-biggest-rogue-family/
@@ -12,10 +13,17 @@ tags:
 
 categories:
   - TechBlog
----
-**The third generation of WiniGuard gets a new clone every 48 hours**
 
-A new rogue security product called [IGuardPC](/2009/12/14/iguardpc/), is the 50th clone of the WiniGuard family of rogue security products. That makes WiniGuard the largest rogue family ever.
+seeAlso:
+  - /2009/01/12/winiguard/
+  - /2009/12/14/iguardpc/
+  - /2009/12/16/like-clockwork-the-next-member-of-the-winiguard-rogue-family-appears/
+  - /2009/12/18/winiguard-clones-are-coming-thick-and-fast/
+  - /2011/01/02/malware-removal-guide-for-Windows/
+---
+**The third generation of [WiniGuard](/2009/01/12/winiguard/) gets a new clone every 48 hours**
+
+A new rogue security product called [IGuardPC](/2009/12/14/iguardpc/), is the 50th clone of the [WiniGuard](/2009/01/12/winiguard/) family of rogue security products. That makes WiniGuard the largest rogue family ever.
 
 The WiniGuard family began in September of 2008. Operators behind it have added variants that has sorted into three generations. The latest generation gets a new clone about every 48 hours to stay ahead of public awareness and anti-malware detections.
 
