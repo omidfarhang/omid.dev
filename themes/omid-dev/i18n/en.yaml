@@ -422,6 +422,9 @@
 - id: view_all_tech_posts
   translation: "Browse all tech posts"
 
+- id: view_all_tags
+  translation: "Browse all tags"
+
 - id: curated_tag_description
   translation: "Articles about {{ .tag }} on omid.dev — guides, topics, and notes from the field."
 

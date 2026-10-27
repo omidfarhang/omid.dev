@@ -365,6 +365,9 @@
 - id: view_all_tech_posts
   translation: "Alle Tech-Beiträge"
 
+- id: view_all_tags
+  translation: "Alle Tags"
+
 - id: curated_tag_description
   translation: "Artikel über {{ .tag }} auf omid.dev — Anleitungen, Themen und Notizen aus der Praxis."
 

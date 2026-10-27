@@ -117,13 +117,15 @@
     {{- end }}
     {{- end }}
     {{- end }}
-    {{- if and $isTechnicalGroup $techSection }}
-    <a href="{{ $techSection.Permalink }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }} card--dashed">
+    {{- $tagsIndex := site.GetPage "tags" }}
+    {{- $showAllTagsLink := $.showAllTagsLink | default true }}
+    {{- if and $isTechnicalGroup $showAllTagsLink $tagsIndex }}
+    <a href="{{ $tagsIndex.Permalink }}" class="card card--interactive card--topic{{ if $compact }} card--topic-compact{{ end }} card--dashed">
       <div class="icon-circle icon-circle--md icon-circle--ghost">
         <i class="fa-solid fa-table-cells"></i>
       </div>
       <h3>{{ i18n "all" }}</h3>
-      <p>{{ i18n "view_all_tech_posts" }}</p>
+      <p>{{ i18n "view_all_tags" }}</p>
     </a>
     {{- end }}
   </div>

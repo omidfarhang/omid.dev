@@ -419,6 +419,9 @@
 - id: view_all_tech_posts
   translation: "همه مطالب فنی"
 
+- id: view_all_tags
+  translation: "همه برچسب‌ها"
+
 - id: curated_tag_description
   translation: "مقالات درباره {{ .tag }} در omid.dev — راهنماها، موضوعات و یادداشت‌هایی از میدان کار."
 
