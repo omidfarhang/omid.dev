@@ -161,7 +161,7 @@
     {{- $listTitle = i18n "recent_highlights" -}}
   {{- end -}}
 
-  {{- if $isTechSection }}
+  {{- if and $isTechSection (eq $paginator.PageNumber 1) }}
   <section class="hub-section reading-paths-section" aria-labelledby="tech-reading-paths-title">
     <div class="hub-section__header">
       <h2 id="tech-reading-paths-title" class="section-title section-title--page">{{ i18n "reading_paths_title" }}</h2>
