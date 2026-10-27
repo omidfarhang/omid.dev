@@ -193,6 +193,7 @@
         const author = entry.author || {};
         const name = escapeHtml(author.name || author.url || "Guest");
         const href = escapeHtml(author.url || entry.url || "#");
+        const mentionUrl = entry.url ? escapeHtml(entry.url) : "";
         const photo = author.photo || author.avatar;
         const published = entry.published || entry["wm-received"];
         const dateLabel = published ? escapeHtml(new Date(published).toLocaleString()) : "";
@@ -200,11 +201,16 @@
         const avatar = photo
           ? `<img src="${escapeHtml(photo)}" alt="" width="28" height="28" loading="lazy">`
           : `<span class="webmention-avatar-fallback" aria-hidden="true">${name.charAt(0)}</span>`;
+        const dateMarkup = dateLabel
+          ? mentionUrl
+            ? `<a href="${mentionUrl}" rel="noopener noreferrer" target="_blank" class="webmention-permalink"><time datetime="${escapeHtml(published)}">${dateLabel}</time></a>`
+            : `<time datetime="${escapeHtml(published)}">${dateLabel}</time>`
+          : "";
 
         return `<article class="webmention-item">
           <header class="webmention-author">
             <a href="${href}" rel="noopener noreferrer" target="_blank">${avatar}<span>${name}</span></a>
-            ${dateLabel ? `<time datetime="${escapeHtml(published)}">${dateLabel}</time>` : ""}
+            ${dateMarkup}
           </header>
           ${text ? `<div class="webmention-content"><p>${text}</p></div>` : ""}
         </article>`;

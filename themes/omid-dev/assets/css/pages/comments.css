@@ -186,9 +186,15 @@
     border-radius: 50%;
 }
 
-.webmention-author time {
+.webmention-author time,
+.webmention-author .webmention-permalink {
     color: var(--secondary);
     font-size: var(--text-compact);
+    font-weight: inherit;
+}
+
+.webmention-author .webmention-permalink:hover {
+    color: var(--primary);
 }
 
 .webmention-content {
