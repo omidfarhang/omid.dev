@@ -41,7 +41,7 @@ Be on the lookout for these six things to help protect yourself from scammers.
 - Generic introductions such as "Dear Customer," which indicate that the sender does not know you and should not be trusted.
 - Alarming or urgent statements that require you to respond immediately.
 - Requests for personal or financial information, such as user names or passwords, credit card or bank account numbers, social security numbers, date of birth, or other information that can be used to steal your identity.
-- Misspellings and grammatical errors, including Web addresses. The Web address might look very similar to the address of a legitimate business, with a minor change. For example, instead of www.microsoft.com, the scammer might use www.micrsoft.com. For more information, see [How to recognize spoofed Web sites](/2009/01/13/how-to-recognize-phishing-e-mails-or-links/).
+- Misspellings and grammatical errors, including Web addresses. The Web address might look very similar to the address of a legitimate business, with a minor change. For example, instead of www.microsoft.com, the scammer might use www.micrsoft.com. For more information, see [How to recognize spoofed Web sites](/2009/01/13/phishing-emails/).
 - The text of the link in the e-mail message is different from the Web address that you are directed to when you click the link. You can determine the actual Web address for a link by hovering over the link without clicking it. The Web address appears in a text box above the link.
 - The "From" line in the original e-mail message to you shows a different Web address than the one that appears when you try to reply to the message.
 
