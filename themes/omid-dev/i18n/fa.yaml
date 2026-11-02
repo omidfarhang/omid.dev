@@ -845,6 +845,9 @@
 - id: post_related_note
   translation: "یادداشت مرتبط"
 
+- id: post_related_notes
+  translation: "یادداشت‌های مرتبط"
+
 - id: webmentions_title
   translation: "واکنش‌ها و پاسخ‌ها"
 

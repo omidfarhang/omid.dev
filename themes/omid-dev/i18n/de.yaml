@@ -854,6 +854,9 @@
 - id: post_related_note
   translation: "Verwandte Notiz"
 
+- id: post_related_notes
+  translation: "Verwandte Notizen"
+
 - id: webmentions_title
   translation: "Reaktionen & Antworten"
 

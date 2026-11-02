@@ -147,6 +147,12 @@
     color: var(--secondary);
 }
 
+.post-note-link-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+}
+
 .post-note-link .note-entry--embedded {
     margin: 0;
 }

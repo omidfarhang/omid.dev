@@ -10,7 +10,10 @@ x_link: https://x.com/OmidFarhang/status/2086759787711328410
 mastodon_link: https://mastodon.social/@omidfarhang/117070712573310769
 bluesky_link: https://bsky.app/profile/omid.dev/post/3mspuw5q3vk2u
 linkedin_link: https://www.linkedin.com/posts/omidfarhang_the-aur-is-frozen-inside-archs-third-supply-chain-share-7492525989839925248-szm3/
-relatedNote: notes/178622011772729005/
+relatedNote:
+  - notes/178622011772729005/
+  - notes/178732340829459207/
+  - notes/179364624898448408/
 keywords:
   - AUR freeze
   - Arch Linux supply chain attack

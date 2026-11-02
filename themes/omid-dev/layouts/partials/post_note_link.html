@@ -1,14 +1,33 @@
 {{- $relatedNote := .Param "relatedNote" -}}
 {{- if $relatedNote -}}
-{{- $resolved := partial "note_resolve_url.html" (dict "url" $relatedNote) -}}
-{{- $notePage := $resolved.page -}}
-{{- if $notePage -}}
-<section class="post-note-link" aria-label="{{ i18n "post_related_note" | default "Originated from note" }}">
+{{- $refs := slice -}}
+{{- if reflect.IsSlice $relatedNote -}}
+  {{- $refs = $relatedNote -}}
+{{- else -}}
+  {{- $refs = slice $relatedNote -}}
+{{- end -}}
+{{- $notes := slice -}}
+{{- range $refs -}}
+  {{- $resolved := partial "note_resolve_url.html" (dict "url" .) -}}
+  {{- with $resolved.page -}}
+    {{- $notes = $notes | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if $notes -}}
+{{- $label := i18n "post_related_note" | default "Related note" -}}
+{{- if gt (len $notes) 1 -}}
+  {{- $label = i18n "post_related_notes" | default "Related notes" -}}
+{{- end -}}
+<section class="post-note-link" aria-label="{{ $label }}">
   <p class="post-note-link-label">
     <i class="fa-solid fa-note-sticky" aria-hidden="true"></i>
-    {{ i18n "post_related_note" | default "Originated from note" }}
+    {{ $label }}
   </p>
-  {{ partial "note_entry.html" (dict "page" $notePage "embedded" true) }}
+  <div class="post-note-link-list">
+    {{- range $notes }}
+    {{ partial "note_entry.html" (dict "page" . "embedded" true) }}
+    {{- end }}
+  </div>
 </section>
 {{- end -}}
 {{- end -}}

@@ -848,6 +848,9 @@
 - id: post_related_note
   translation: "Related note"
 
+- id: post_related_notes
+  translation: "Related notes"
+
 - id: webmentions_title
   translation: "Reactions & replies"
 
