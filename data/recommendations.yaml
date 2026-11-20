@@ -1,19 +1,38 @@
+- name: "Hanieh Dehghan"
+  title: "Head of Product at Jibit"
+  avatar: "/images/recommendations/hanieh-dehghan.jpeg"
+  date: "2026-09-14"
+  source: "linkedin"
+  link: "https://www.linkedin.com/in/hanieh-dehghan/"
+  text: |-
+    Working alongside Omid at Jibit has been a highlight of my professional journey. As a Front-end Lead, he is not just a technical expert; he is a genuine mentor who has played a huge role in my growth by always sharing his knowledge and expertise.
+
+    Omid is the anchor of our team. He strikes the perfect balance: he grants us the freedom to own our tasks, yet we all know he is the go-to person when a challenge needs a brilliant solution. And if you ever get a notification from him at 3 AM, don’t panic—it just means Omid has decided to refactor the entire architecture because he found a slightly ‘cleaner’ way to do it! That kind of relentless passion for quality is both hilarious and deeply inspiring.
+
+    What I value most is his quiet, proactive reliability. You only need to mention a requirement once; without any follow-ups or reminders, it is handled with complete composure and precision. Having Omid on the team is a true source of professional security. I am genuinely grateful for the opportunity to work side-by-side with him.
 - name: "Abbas Faraji"
   title: "Lead Frontend Web Developer at Vency"
   avatar: "/images/recommendations/abbas-faraji.jpg"
   date: "2025-11-24"
   source: "linkedin"
   link: "https://www.linkedin.com/in/abbasfaraji"
-  text: "Omid is someone who has an ocean in his home. One of his most important characteristics is his strong analytical skills. He also studies various fields and always tries to stay up to date with IT and his professional activities. He always has interesting ideas and is an excellent choice for consultation. He is never idle, since whenever the project workload decreases, Omid transforms the project based on the latest developments in programming. Omid is someone I would like to work with again."
-
+  text: |-
+    Omid is someone who has an ocean in his home.
+    One of his most important characteristics is his strong analytical skills.
+    He also studies various fields and always tries to stay up to date with IT and his professional activities.
+    He always has interesting ideas and is an excellent choice for consultation.
+    He is never idle, since whenever the project workload decreases, Omid transforms the project based on the latest developments in programming.
+    Omid is someone I would like to work with again.
 - name: "Bob Gostischa"
   title: "Avast Be Free Spokesperson"
   avatar: "/images/recommendations/bob-gostischa.jpg"
   date: "2011-09-04"
   source: "linkedin"
   link: "https://www.linkedin.com/in/bob-gostischa"
-  text: "I've known Omid for several years via Internet since we are both members of the Avast Support Forum. Omid has always been willing and able to lend a hand in solving problems for those that visited the support forum. He's done an excellent job when doing beta testing and has spent countless hours doing this tedious job. He would be an asset at what ever job he finally decides to except."
+  text: |-
+    I've known Omid for several years via Internet since we are both members of the Avast Support Forum. Omid has always been willing and able to lend a hand in solving problems for those that visited the support forum.
 
+    He's done an excellent job when doing beta testing and has spent countless hours doing this tedious job. He would be an asset at what ever job he finally decides to except.
 - name: "Bob Gostischa"
   title: "Avast Be Free Spokesperson"
   avatar: "/images/recommendations/bob-gostischa.jpg"

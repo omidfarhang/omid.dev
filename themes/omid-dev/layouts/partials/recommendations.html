@@ -39,7 +39,10 @@
                     {{- end }}
                 </div>
                 <div class="recommendation-content">
-                    <p>{{ .text }}</p>
+                    {{- $html := .text | htmlEscape -}}
+                    {{- $html = replaceRE "\n\n+" "<br><br>" $html -}}
+                    {{- $html = replaceRE "\n" "<br>" $html -}}
+                    <p>{{ $html | safeHTML }}</p>
                 </div>
             </div>
             {{- end }}
