@@ -8,7 +8,7 @@ ShowToc: true
 url: /fa/tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.4.0"
+  version: "1.4.1"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -76,7 +76,7 @@ update-nvm --dry-run
 | `--npm-only` | فقط npm و globals |
 | `--quiet`, `-q` | خروجی کم؛ بدون پرسش نصب |
 | `--dry-run`, `-n` | فقط نمایش؛ بدون تغییر |
-| `--plain`, `-p` | خروجی فقط-اسکرول (بدون alternate screen / بازنویسی فریم) |
+| `--plain`, `-p` | فقط لاگ (بدون خط وضعیت زنده) |
 | `--self-update` | به‌روزرسانی خود اسکریپت از omid.dev |
 | `--version` | چاپ نسخهٔ اسکریپت |
 | `-h`, `--help` | راهنما |

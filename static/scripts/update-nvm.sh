@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Bump when publishing changes to this script (used for self-update checks).
-SCRIPT_VERSION="1.4.0"
+SCRIPT_VERSION="1.4.1"
 SCRIPT_URL="${UPDATE_NVM_SCRIPT_URL:-https://omid.dev/scripts/update-nvm.sh}"
 
 # Preserve argv for re-exec after an accepted self-update.
@@ -57,7 +57,7 @@ Options:
   --npm-only        Skip Node installs; only refresh npm and global packages
   --quiet, -q       Minimal output (errors still go to stderr; skips install prompts)
   --dry-run, -n     Show what would run without changing anything
-  --plain, -p       Scroll-only output: no alternate screen buffer or frame redraws
+  --plain, -p       No live progress status line (logs only)
   --self-update     Download and install the latest update-nvm script from omid.dev
                     (does not update Node or npm)
   --version         Print this script's version and exit
@@ -345,27 +345,108 @@ fi
 # Parallel to VERSIONS: todo | doing | done | refreshed | failed | skipped
 STEP_STATE=()
 STEP_DETAIL=()
-ALT_SCREEN=0
+TOTAL_STEPS=0
+STEP_INDEX=0
+# Live status line rewritten in place as the last output line (not viewport-pinned).
+STATUS_SHOWN=0
+STATUS_ENABLED=1
 
-can_use_alt_screen() {
-  [[ "$PLAIN" -eq 0 && "$QUIET" -eq 0 && "$DRY_RUN" -eq 0 && -t 1 && "${TERM:-}" != "dumb" ]]
+can_use_status_line() {
+  [[ "$STATUS_ENABLED" -eq 1 && "$PLAIN" -eq 0 && "$QUIET" -eq 0 && -t 1 && "${TERM:-}" != "dumb" ]]
 }
 
-enter_alt_screen() {
-  if can_use_alt_screen && [[ "$ALT_SCREEN" -eq 0 ]]; then
-    # Dedicated buffer: redraws stay here; main scrollback is restored on leave.
-    printf '\033[?1049h\033[H\033[2J'
-    ALT_SCREEN=1
-    trap 'leave_alt_screen' EXIT INT TERM HUP
+step_note() {
+  local state="$1"
+  local detail="$2"
+  local note
+
+  case "$state" in
+    done) note="updated" ;;
+    refreshed) note="current · npm refreshed" ;;
+    skipped) note="skipped" ;;
+    failed) note="failed" ;;
+    doing) note="doing" ;;
+    *) note="todo" ;;
+  esac
+  if [[ -n "$detail" ]]; then
+    note+=" · ${detail}"
+  fi
+  printf '%s\n' "$note"
+}
+
+# Compact one-liner: "→ [2/3] Node.js 24  doing · …  · ✓22 ·24 ·26"
+status_line_text() {
+  local i state detail icon color note label trail=""
+  local cur_idx=-1 completed=0
+
+  for ((i = 0; i < TOTAL_STEPS; i++)); do
+    state="${STEP_STATE[i]:-todo}"
+    if [[ "$state" == "doing" ]]; then
+      cur_idx=$i
+    fi
+    case "$state" in
+      done|refreshed) icon="✓"; color="$C_GREEN"; completed=$((completed + 1)) ;;
+      skipped) icon="○"; color="$C_YELLOW"; completed=$((completed + 1)) ;;
+      failed) icon="✗"; color="$C_RED"; completed=$((completed + 1)) ;;
+      doing) icon="→"; color="$C_CYAN" ;;
+      *) icon="·"; color="$C_DIM" ;;
+    esac
+    trail+=" ${color}${icon}${VERSIONS[i]}${C_RESET}"
+  done
+
+  if ((cur_idx >= 0)); then
+    state="${STEP_STATE[cur_idx]}"
+    detail="${STEP_DETAIL[cur_idx]:-}"
+    note="$(step_note "$state" "$detail")"
+    label="Node.js ${VERSIONS[cur_idx]}"
+    if [[ "$NPM_ONLY" -eq 1 ]]; then
+      label+=" (npm)"
+    fi
+    printf '%s→%s [%d/%d] %s  %s%s%s ·%s' \
+      "$C_CYAN" "$C_RESET" \
+      "$((cur_idx + 1))" "$TOTAL_STEPS" \
+      "$label" \
+      "$C_DIM" "$note" "$C_RESET" \
+      "$trail"
+  else
+    printf '%sProgress%s [%d/%d] ·%s' \
+      "$C_BOLD" "$C_RESET" "$completed" "$TOTAL_STEPS" "$trail"
   fi
 }
 
-leave_alt_screen() {
-  if [[ "$ALT_SCREEN" -eq 1 ]]; then
-    printf '\033[?1049l'
-    ALT_SCREEN=0
-    trap - EXIT INT TERM HUP
+# Status ANSI must hit the tty directly so `run cmd >/dev/null` cannot swallow it.
+status_printf() {
+  if [[ -w /dev/tty ]]; then
+    # shellcheck disable=SC2059
+    printf "$@" >/dev/tty
+  else
+    # shellcheck disable=SC2059
+    printf "$@"
   fi
+}
+
+hide_status_line() {
+  if [[ "$STATUS_SHOWN" -eq 1 ]]; then
+    status_printf '\r\033[K'
+    STATUS_SHOWN=0
+  fi
+}
+
+show_status_line() {
+  if ! can_use_status_line; then
+    return 0
+  fi
+  status_printf '\r\033[K%s' "$(status_line_text)"
+  STATUS_SHOWN=1
+}
+
+# Finish the status line with a newline so later output does not overwrite it.
+finish_status_line() {
+  if [[ "$STATUS_SHOWN" -eq 1 ]]; then
+    status_printf '\n'
+    STATUS_SHOWN=0
+  fi
+  STATUS_ENABLED=0
 }
 
 print_banner() {
@@ -447,23 +528,8 @@ print_progress_board() {
   echo "${C_DIM}────────────────────────────────────────────────────────${C_RESET}"
 }
 
-# Redraw banner + progress board inside the alt screen. --plain skips redraws
-# (scroll-only). Without alt screen (dry-run / non-TTY), print a compact board.
 render_frame() {
-  if [[ "$PLAIN" -eq 1 || "$QUIET" -eq 1 ]]; then
-    return 0
-  fi
-
-  if [[ "$ALT_SCREEN" -eq 1 ]]; then
-    printf '\033[H\033[2J'
-    print_banner
-    print_progress_board
-    echo
-  else
-    echo
-    print_progress_board
-    echo
-  fi
+  show_status_line
 }
 
 set_step_state() {
@@ -475,60 +541,86 @@ set_step_state() {
   STEP_DETAIL[idx]="$detail"
 }
 
+emit_line() {
+  if [[ "$QUIET" -ne 0 ]]; then
+    return 0
+  fi
+  hide_status_line
+  printf '%s\n' "$1"
+  show_status_line
+}
+
 log() {
   if [[ "$QUIET" -eq 0 ]]; then
-    echo "$@"
+    if [[ $# -eq 0 ]]; then
+      emit_line ""
+    else
+      emit_line "$*"
+    fi
   fi
 }
 
 log_step() {
-  if [[ "$QUIET" -eq 0 ]]; then
-    echo "${C_BOLD}${C_CYAN}$*${C_RESET}"
-  fi
+  emit_line "${C_BOLD}${C_CYAN}$*${C_RESET}"
 }
 
 log_info() {
-  if [[ "$QUIET" -eq 0 ]]; then
-    echo "  ${C_DIM}$*${C_RESET}"
-  fi
+  emit_line "  ${C_DIM}$*${C_RESET}"
 }
 
 log_action() {
-  if [[ "$QUIET" -eq 0 ]]; then
-    echo "  ${C_CYAN}→${C_RESET} $*"
-  fi
+  emit_line "  ${C_CYAN}→${C_RESET} $*"
 }
 
 log_ok() {
-  if [[ "$QUIET" -eq 0 ]]; then
-    echo "  ${C_GREEN}✓${C_RESET} $*"
-  fi
+  emit_line "  ${C_GREEN}✓${C_RESET} $*"
 }
 
 log_skip() {
-  if [[ "$QUIET" -eq 0 ]]; then
-    echo "  ${C_YELLOW}○${C_RESET} $*"
-  fi
+  emit_line "  ${C_YELLOW}○${C_RESET} $*"
 }
 
 log_warn() {
+  hide_status_line
   echo "  ${C_YELLOW}!${C_RESET} $*" >&2
+  show_status_line
 }
 
 log_fail() {
+  hide_status_line
   echo "  ${C_RED}✗${C_RESET} $*" >&2
+  show_status_line
 }
 
 run() {
   if [[ "$DRY_RUN" -eq 1 ]]; then
     if [[ "$QUIET" -eq 0 ]]; then
+      hide_status_line
       printf '  +'
       printf ' %q' "$@"
       printf '\n'
+      show_status_line
     fi
   else
-    "$@"
+    hide_status_line
+    local ec=0
+    "$@" || ec=$?
+    show_status_line
+    return "$ec"
   fi
+}
+
+# Like run, but silences the command only (status ANSI still reaches the tty).
+run_silent() {
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    run "$@"
+    return $?
+  fi
+  hide_status_line
+  local ec=0
+  "$@" >/dev/null || ec=$?
+  show_status_line
+  return "$ec"
 }
 
 installed_version() {
@@ -681,6 +773,7 @@ prompt_reinstall_from() {
     return 1
   fi
 
+  hide_status_line
   echo
   echo "Node.js $target_spec is not installed yet."
   echo "Reinstall global npm packages from another installed major?"
@@ -734,18 +827,19 @@ restore_active_version() {
   if [[ "$ORIGINAL_NVM" == "none" || "$ORIGINAL_NVM" == "system" ]]; then
     if nvm alias default >/dev/null 2>&1; then
       log_action "Restoring nvm default…"
-      run nvm use default >/dev/null
+      run_silent nvm use default
     fi
     return 0
   fi
 
   major="$(version_major "$ORIGINAL_NVM")"
-  if installed_version "$major"; then
+  # Redirect: installed_version prints the version on stdout when used as a test.
+  if installed_version "$major" >/dev/null; then
     log_action "Restoring Node.js $major…"
-    run nvm use "$major" >/dev/null
+    run_silent nvm use "$major"
   elif nvm alias default >/dev/null 2>&1; then
     log_info "Node.js $major not installed; using default"
-    run nvm use default >/dev/null
+    run_silent nvm use default
   fi
 }
 
@@ -783,7 +877,7 @@ process_one_version() {
     fi
 
     log_info "Node $installed left in place; refreshing npm stack…"
-    run nvm use "$version" >/dev/null
+    run_silent nvm use "$version"
     refresh_npm_stack "$installed"
     PACKAGES_REFRESHED+=("$installed")
     if [[ "$PRUNE" -eq 1 ]]; then
@@ -797,7 +891,7 @@ process_one_version() {
 
   if [[ -n "$remote" && -n "$installed" && "$installed" == "$remote" && "$FORCE" -eq 0 ]]; then
     CURRENT_VERSIONS+=("$installed")
-    run nvm use "$version" >/dev/null
+    run_silent nvm use "$version"
     if [[ "$SKIP_NPM" -eq 1 ]]; then
       log_skip "Node already current ($installed); npm refresh skipped (--skip-npm)"
       _STEP_OUTCOME="skipped"
@@ -817,7 +911,7 @@ process_one_version() {
   fi
 
   if [[ -n "$installed" ]]; then
-    run nvm use "$version" >/dev/null
+    run_silent nvm use "$version"
     update_global_packages "before Node update"
   else
     log_info "Fresh install"
@@ -871,25 +965,60 @@ for ((i = 0; i < TOTAL_STEPS; i++)); do
   STEP_DETAIL[i]=""
 done
 
-enter_alt_screen
-render_frame
-if [[ "$PLAIN" -eq 1 ]]; then
-  log_step "update-nvm ${SCRIPT_VERSION}"
-fi
-log_step "Ready"
-log_info "Updating ${TOTAL_STEPS} version(s)"
-echo
+trap 'finish_status_line' EXIT INT TERM HUP
+
+print_plan() {
+  local plan extras=()
+
+  if [[ "$NPM_ONLY" -eq 1 ]]; then
+    plan="Refresh npm / globals / corepack for ${TOTAL_STEPS} installed major(s): ${VERSIONS[*]}"
+  elif [[ "$LTS_MODE" -eq 1 ]]; then
+    plan="Update LTS (lts/*) to the latest patch"
+  else
+    plan="Update ${TOTAL_STEPS} Node major(s) to the latest patch: ${VERSIONS[*]}"
+  fi
+
+  if [[ "$NPM_ONLY" -eq 0 && "$SKIP_NPM" -eq 0 ]]; then
+    extras+=("refresh npm/globals/corepack when already current")
+  elif [[ "$NPM_ONLY" -eq 0 && "$SKIP_NPM" -eq 1 ]]; then
+    extras+=("Node only (--skip-npm)")
+  fi
+  if [[ "$FORCE" -eq 1 ]]; then
+    extras+=("force reinstall")
+  fi
+  if [[ "$PRUNE" -eq 1 ]]; then
+    extras+=("prune older patches")
+  fi
+  if [[ "$LATEST_NPM" -eq 0 ]]; then
+    extras+=("keep bundled npm")
+  fi
+  if [[ "$COREPACK" -eq 0 ]]; then
+    extras+=("skip corepack")
+  fi
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    extras+=("dry-run — no changes")
+  fi
+
+  log_step "Plan"
+  log_info "$plan"
+  if ((${#extras[@]} > 0)); then
+    local joined
+    joined="$(printf '%s, ' "${extras[@]}")"
+    log_info "${joined%, }"
+  fi
+}
+
+print_banner
+print_plan
+log
+show_status_line
 
 for version in "${VERSIONS[@]}"; do
   set_step_state "$STEP_INDEX" "doing"
   render_frame
-  if [[ "$PLAIN" -eq 1 ]]; then
-    log
-    log_step "[$((STEP_INDEX + 1))/${TOTAL_STEPS}] Node.js ${version}"
-  else
-    log_step "Logs · Node.js ${version}"
-  fi
-  echo
+  log
+  log_step "[$((STEP_INDEX + 1))/${TOTAL_STEPS}] Node.js ${version}"
+  log
 
   if process_one_version "$version"; then
     set_step_state "$STEP_INDEX" "$_STEP_OUTCOME" "$_STEP_OUTCOME_DETAIL"
@@ -900,15 +1029,14 @@ for version in "${VERSIONS[@]}"; do
     FAILED_VERSIONS+=("$version")
     log_fail "Step failed for Node.js $version"
   fi
+  render_frame
 
   STEP_INDEX=$((STEP_INDEX + 1))
 done
 
-render_frame
+finish_status_line
+trap - EXIT INT TERM HUP
 restore_active_version
-
-# Leave alt screen before the lasting summary so results stay in scrollback.
-leave_alt_screen
 
 if [[ "$QUIET" -eq 1 ]]; then
   summary=""
@@ -941,9 +1069,7 @@ if [[ "$QUIET" -eq 1 ]]; then
   fi
   echo "update-nvm: $summary"
 else
-  if [[ "$PLAIN" -eq 0 ]]; then
-    print_banner
-  fi
+  echo
   print_progress_board
   echo
   log_step "Summary"

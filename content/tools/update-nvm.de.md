@@ -8,7 +8,7 @@ ShowToc: true
 url: /de/tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.4.0"
+  version: "1.4.1"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -76,7 +76,7 @@ Fehlt ein Major noch, fragt das Skript, ob Globals von einem anderen Major kopie
 | `--npm-only` | Nur npm und Globals |
 | `--quiet`, `-q` | Wenig Ausgabe; keine Installationsfragen |
 | `--dry-run`, `-n` | Nur anzeigen, nichts ändern |
-| `--plain`, `-p` | Nur scrollen (kein Alternate Screen / kein Frame-Redraw) |
+| `--plain`, `-p` | Nur Logs (keine Live-Statuszeile) |
 | `--self-update` | Skript von omid.dev aktualisieren |
 | `--version` | Skriptversion ausgeben |
 | `-h`, `--help` | Hilfe |

@@ -8,7 +8,7 @@ ShowToc: true
 url: /tools/update-nvm/
 tool:
   id: update-nvm
-  version: "1.4.0"
+  version: "1.4.1"
   scriptPath: /scripts/update-nvm.sh
   installName: update-nvm
   sourceUrl: https://github.com/omidfarhang/omid.dev/blob/master/static/scripts/update-nvm.sh
@@ -76,7 +76,7 @@ When a major is **not** installed yet, the script asks whether to copy global pa
 | `--npm-only` | Skip Node installs; only refresh npm and globals |
 | `--quiet`, `-q` | Minimal output; skips install prompts |
 | `--dry-run`, `-n` | Print what would run without changing anything |
-| `--plain`, `-p` | Scroll-only output (no alternate screen / frame redraws) |
+| `--plain`, `-p` | Logs only (no live progress status line) |
 | `--self-update` | Download and install the latest script from omid.dev (Node untouched) |
 | `--version` | Print script version and exit |
 | `-h`, `--help` | Show help |
