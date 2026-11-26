@@ -172,25 +172,69 @@ function canEnable() {
 }
 
 function parseCssColor(color) {
-  const el = document.createElement("canvas").getContext("2d");
-  if (!el) return { r: 0, g: 0, b: 0, a: 1, css: color };
-  el.fillStyle = color;
-  const computed = el.fillStyle;
-  const m = String(computed).match(
+  const probe = document.createElement("canvas").getContext("2d");
+  if (!probe) return { r: 0, g: 0, b: 0, a: 1, css: color };
+  probe.fillStyle = "#000";
+  probe.fillStyle = color;
+  const computed = String(probe.fillStyle);
+  const rgba = computed.match(
     /^rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*([\d.]+))?\)$/i
   );
-  if (!m) return { r: 0, g: 0, b: 0, a: 1, css: color };
-  return {
-    r: Number(m[1]) / 255,
-    g: Number(m[2]) / 255,
-    b: Number(m[3]) / 255,
-    a: m[4] == null ? 1 : Number(m[4]),
-    css: computed,
-  };
+  if (rgba) {
+    return {
+      r: Number(rgba[1]) / 255,
+      g: Number(rgba[2]) / 255,
+      b: Number(rgba[3]) / 255,
+      a: rgba[4] == null ? 1 : Number(rgba[4]),
+      css: computed,
+    };
+  }
+  const hex = computed.match(/^#([0-9a-f]{3}|[0-9a-f]{6}|[0-9a-f]{8})$/i);
+  if (hex) {
+    let h = hex[1];
+    if (h.length === 3) {
+      h = h
+        .split("")
+        .map((c) => c + c)
+        .join("");
+    }
+    const hasAlpha = h.length === 8;
+    const r = parseInt(h.slice(0, 2), 16) / 255;
+    const g = parseInt(h.slice(2, 4), 16) / 255;
+    const b = parseInt(h.slice(4, 6), 16) / 255;
+    const a = hasAlpha ? parseInt(h.slice(6, 8), 16) / 255 : 1;
+    return { r, g, b, a, css: computed };
+  }
+  return { r: 0, g: 0, b: 0, a: 1, css: color };
 }
 
 function luminance({ r, g, b }) {
   return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+function toCssRgb({ r, g, b, a = 1 }) {
+  const R = Math.round(r * 255);
+  const G = Math.round(g * 255);
+  const B = Math.round(b * 255);
+  if (a < 0.995) return `rgba(${R}, ${G}, ${B}, ${a})`;
+  return `rgb(${R}, ${G}, ${B})`;
+}
+
+function cssVar(el, name, fallback = "") {
+  return getComputedStyle(el).getPropertyValue(name).trim() || fallback;
+}
+
+/** Resolve marker fill against the live theme (body.dark tokens inherit here). */
+function markerFill(el) {
+  const highlight = parseCssColor(cssVar(el, "--highlight", "#ffe36e"));
+  if (highlight.a >= 0.99) return toCssRgb(highlight);
+  const theme = parseCssColor(cssVar(el, "--theme", "#ffffff"));
+  return toCssRgb({
+    r: highlight.r * highlight.a + theme.r * (1 - highlight.a),
+    g: highlight.g * highlight.a + theme.g * (1 - highlight.a),
+    b: highlight.b * highlight.a + theme.b * (1 - highlight.a),
+    a: 1,
+  });
 }
 
 function wrapWords(root) {
@@ -235,10 +279,8 @@ function rasterize(target, width, height, pad, dpr) {
   const hostRect = target.getBoundingClientRect();
   const originX = hostRect.left - pad;
   const originY = hostRect.top - pad;
-  const highlight =
-    getComputedStyle(document.documentElement)
-      .getPropertyValue("--highlight")
-      .trim() || "rgb(250, 224, 90)";
+  // Read tokens from the target (inherits body.dark) — not :root/html.
+  const highlight = markerFill(target);
 
   for (const word of target.querySelectorAll("[data-warp-word]")) {
     const rect = word.getClientRects()[0];
@@ -505,8 +547,13 @@ function createWarp(host, target, options = {}) {
     if (visible) start = performance.now() - 450;
   };
 
+  let themeFrame = 0;
   const onTheme = () => {
-    uploadTexture();
+    // Wait a frame so body.dark tokens are applied before rebaking.
+    cancelAnimationFrame(themeFrame);
+    themeFrame = requestAnimationFrame(() => {
+      uploadTexture();
+    });
   };
 
   const resizeObserver = new ResizeObserver(() => {
@@ -541,6 +588,7 @@ function createWarp(host, target, options = {}) {
   return () => {
     destroyed = true;
     cancelAnimationFrame(raf);
+    cancelAnimationFrame(themeFrame);
     resizeObserver.disconnect();
     themeObserver.disconnect();
     overlay.removeEventListener("pointermove", onPointerMove);
