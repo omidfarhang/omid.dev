@@ -272,7 +272,6 @@ function rasterize(target, width, height, pad, dpr) {
   if (!ctx) return { canvas, ink: styles.color };
 
   ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-  ctx.textAlign = "left";
   ctx.textBaseline = "alphabetic";
   ctx.clearRect(0, 0, width, height);
 
@@ -281,6 +280,7 @@ function rasterize(target, width, height, pad, dpr) {
   const originY = hostRect.top - pad;
   // Read tokens from the target (inherits body.dark) — not :root/html.
   const highlight = markerFill(target);
+  const pageDirection = styles.direction === "rtl" ? "rtl" : "ltr";
 
   for (const word of target.querySelectorAll("[data-warp-word]")) {
     const rect = word.getClientRects()[0];
@@ -289,6 +289,11 @@ function rasterize(target, width, height, pad, dpr) {
     const wordStyles = getComputedStyle(word);
     const x = rect.left - originX;
     const y = rect.top - originY;
+    // Prefer the word's own direction so punctuation stays on the correct side in RTL.
+    const direction =
+      wordStyles.direction === "rtl" || wordStyles.direction === "ltr"
+        ? wordStyles.direction
+        : pageDirection;
 
     if (word.closest("em, mark, [data-warp-highlight]")) {
       ctx.fillStyle = highlight;
@@ -305,14 +310,23 @@ function rasterize(target, width, height, pad, dpr) {
     const family = wordStyles.fontFamily || styles.fontFamily;
     ctx.font = `${weight} ${sizePx}px ${family}`;
     ctx.fillStyle = wordStyles.color || styles.color;
+    ctx.direction = direction;
+    // Anchor to the visual start edge of the glyph box (right in RTL, left in LTR).
+    if (direction === "rtl") {
+      ctx.textAlign = "right";
+    } else {
+      ctx.textAlign = "left";
+    }
     const spacing = wordStyles.letterSpacing;
     if ("letterSpacing" in ctx) {
       ctx.letterSpacing = spacing === "normal" ? "0px" : spacing || "0px";
     }
 
-    const metrics = ctx.measureText(word.textContent || "");
+    const text = (word.textContent || "").trim();
+    const metrics = ctx.measureText(text);
     const ascent = metrics.fontBoundingBoxAscent || sizePx * 0.8;
-    ctx.fillText((word.textContent || "").trim(), x, y + ascent);
+    const anchorX = direction === "rtl" ? rect.right - originX : x;
+    ctx.fillText(text, anchorX, y + ascent);
   }
 
   return { canvas, ink: styles.color };
