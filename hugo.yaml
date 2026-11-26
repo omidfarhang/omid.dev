@@ -47,8 +47,13 @@ related:
 # Imaging
 imaging:
   anchor: Smart
-  quality: 75
   resampleFilter: Lanczos
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
+  avif:
+    quality: 75
 
 # Minify settings
 minify:
