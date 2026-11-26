@@ -40,7 +40,9 @@
         </div>
         <div class="home-hero-statement">
             {{- with $home.heroTagline }}
-            <h2 class="home-hero-tagline">{{ . | markdownify }}</h2>
+            <div class="home-hero-tagline-warp" data-text-warp>
+                <h2 class="home-hero-tagline" data-text-warp-target>{{ . | markdownify }}</h2>
+            </div>
             {{- end }}
             {{- with $home.heroLead }}
             <p class="home-hero-lead">{{ . }}</p>
@@ -49,4 +51,11 @@
         </div>
     </div>
 </section>
+{{- $warp := resources.Get "js/hero-text-warp.js" | js.Build | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting -}}
+{{- $warp = $warp | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $warp.RelPermalink }}" integrity="{{ $warp.Data.Integrity }}"></script>
+{{- else -}}
+<script defer crossorigin="anonymous" src="{{ $warp.RelPermalink }}"></script>
+{{- end -}}
 {{- end }}
