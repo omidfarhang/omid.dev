@@ -18,7 +18,9 @@
   data-quotes="{{ $quotes | jsonify }}"
 >
   <header class="not-found-hero">
-    <h1 class="not-found-title">404</h1>
+    <div class="not-found-title-warp" data-text-warp="easter">
+      <h1 class="not-found-title" data-text-warp-target>404</h1>
+    </div>
     <p class="not-found-text">{{ i18n "page_not_found" | default "Oops! The page you're looking for doesn't exist." }}</p>
     <p class="not-found-quote" id="not-found-quote" hidden></p>
   </header>
@@ -87,5 +89,12 @@
 <script defer crossorigin="anonymous" src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{- else -}}
 <script defer crossorigin="anonymous" src="{{ $js.RelPermalink }}"></script>
+{{- end -}}
+{{- $warp := resources.Get "js/hero-text-warp.js" | js.Build | resources.Minify -}}
+{{- if not site.Params.assets.disableFingerprinting -}}
+{{- $warp = $warp | fingerprint -}}
+<script defer crossorigin="anonymous" src="{{ $warp.RelPermalink }}" integrity="{{ $warp.Data.Integrity }}"></script>
+{{- else -}}
+<script defer crossorigin="anonymous" src="{{ $warp.RelPermalink }}"></script>
 {{- end -}}
 {{- end }}{{/* end main */ -}}

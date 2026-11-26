@@ -1,5 +1,5 @@
 /**
- * Interactive WebGL2 liquid/warp text for the homepage hero tagline.
+ * Interactive WebGL2 liquid/warp text (hero tagline, 404 easter egg, …).
  * Progressive enhancement: desktop + fine pointer + WebGL2 only.
  */
 
@@ -8,6 +8,25 @@ const ENABLE_MQ =
 const REDUCE_MQ = "(prefers-reduced-motion: reduce)";
 const PAD = 24;
 const LENS = { bulge: 0, pinch: 1, swirl: 2 };
+
+/** Named option packs via data-text-warp="<name>". */
+const PRESETS = {
+  easter: {
+    warpStrength: 0.04,
+    warpScale: 1.35,
+    speed: 0.3,
+    lens: "swirl",
+    pointerInfluence: 0.52,
+    pointerStrength: 0.9,
+    refraction: 0.032,
+    chromatic: 0.55,
+    ripple: true,
+    clickRipple: true,
+    idleMotion: false,
+    intro: false,
+    pad: 48,
+  },
+};
 
 const VERT = `#version 300 es
 in vec2 aPosition;
@@ -373,18 +392,23 @@ function createWarp(host, target, options = {}) {
     chromatic = 0.35,
     ripple = true,
     clickRipple = true,
+    idleMotion = true,
+    intro: playIntro = true,
+    pad = PAD,
+    overlayClass = "text-warp__gl",
+    canvasClass = "text-warp__canvas",
     onReady = null,
     onFail = null,
   } = options;
 
   const overlay = document.createElement("div");
-  overlay.className = "home-hero-tagline-warp__gl";
+  overlay.className = overlayClass;
   overlay.setAttribute("aria-hidden", "true");
-  overlay.style.inset = `-${PAD}px`;
+  overlay.style.inset = `-${pad}px`;
   host.appendChild(overlay);
 
   const canvas = document.createElement("canvas");
-  canvas.className = "home-hero-tagline-warp__canvas";
+  canvas.className = canvasClass;
   overlay.appendChild(canvas);
 
   const gl = canvas.getContext("webgl2", {
@@ -472,7 +496,7 @@ function createWarp(host, target, options = {}) {
     canvas.style.height = `${rect.height}px`;
     gl.viewport(0, 0, canvas.width, canvas.height);
 
-    const baked = rasterize(target, rect.width, rect.height, PAD, dpr);
+    const baked = rasterize(target, rect.width, rect.height, pad, dpr);
     backdrop = luminance(parseCssColor(baked.ink)) < 0.5 ? 1 : 0;
     gl.bindTexture(gl.TEXTURE_2D, texture);
     gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, baked.canvas);
@@ -485,8 +509,8 @@ function createWarp(host, target, options = {}) {
     if (!visible || !ready) return;
 
     const t = (now - start) / 1000;
-    const intro = Math.max(0, 1 - t / 1.1);
-    const reveal = Math.min(1, t / 0.45);
+    const intro = playIntro ? Math.max(0, 1 - t / 1.1) : 0;
+    const reveal = playIntro ? Math.min(1, t / 0.45) : 1;
 
     pointer.x += (pointer.tx - pointer.x) * 0.18;
     pointer.y += (pointer.ty - pointer.y) * 0.18;
@@ -496,6 +520,8 @@ function createWarp(host, target, options = {}) {
       if (click[3] > 0) click[2] += 0.016;
       if (click[2] > 1.7) click[3] = 0;
     }
+
+    const motion = idleMotion ? 1 : pointer.active;
 
     gl.clearColor(0, 0, 0, 0);
     gl.clear(gl.COLOR_BUFFER_BIT);
@@ -523,7 +549,7 @@ function createWarp(host, target, options = {}) {
     gl.uniform1f(uniforms.uRefraction, refraction);
     gl.uniform1f(uniforms.uChromatic, chromatic);
     gl.uniform1f(uniforms.uRipple, ripple ? 1 : 0);
-    gl.uniform1f(uniforms.uMotion, 1);
+    gl.uniform1f(uniforms.uMotion, motion);
     gl.uniform1f(uniforms.uLens, LENS[lens] ?? 0);
     gl.uniform1f(uniforms.uIntro, intro);
     gl.uniform1f(uniforms.uReveal, reveal);
@@ -618,6 +644,12 @@ function createWarp(host, target, options = {}) {
   };
 }
 
+function optionsForRoot(root) {
+  const presetName = (root.getAttribute("data-text-warp") || "").trim();
+  const preset = PRESETS[presetName] || {};
+  return { chromatic: 0.35, ...preset };
+}
+
 function mountRoot(root) {
   const target =
     root.querySelector("[data-text-warp-target]") ||
@@ -636,7 +668,7 @@ function mountRoot(root) {
   const start = () => {
     scheduled = false;
     if (destroy || !canEnable()) return;
-    destroy = createWarp(root, target, { chromatic: 0.35 });
+    destroy = createWarp(root, target, optionsForRoot(root));
   };
 
   const schedule = () => {
